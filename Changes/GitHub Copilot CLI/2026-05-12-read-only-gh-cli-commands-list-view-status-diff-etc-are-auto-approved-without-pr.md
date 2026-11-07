@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df57560d61eb47a073704520f04e3609a168d469a7148ab07ff6423b1587db68
+machine_hash: bc4b4792df232b88e94271565a01fdea7d636c0fb1dc079924c8d5ba7e122830
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,8 +46,8 @@ record:
     without…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-05-10-url-parser-ssrf-bypass-url-validation-now-rejects-backslash-tab-cr-and-lf-charac|\U0001F6E1️
-  URL parser SSRF bypass. URL validation now rejects backslash, tab, CR, and LF…]]"
+- '[[Changes/OpenCode/2026-05-10-core-added-a-built-in-customize-opencode-skill-so-opencode-config-edits-are-less|Core
+  Added a built-in customize-opencode skill so opencode config edits are less…]]'
 - '[[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode
   Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]]'
 - '[[Changes/Dify/2026-05-12-2-editor-experience-changes-in-1-14-1|2 Editor Experience

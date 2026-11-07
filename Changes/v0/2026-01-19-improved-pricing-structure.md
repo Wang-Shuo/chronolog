@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: a6542ab844ef0406d7b23d1c41b4e501000373cc89847dec03895bab4dd00e1f
+machine_hash: d7cfd0c43d1eb6df9fae276f1130072a7849a1d42b5bf2332e6fc3e8541489db
 product: v0
 product_name: v0
 record:
@@ -41,10 +41,10 @@ record:
   title: Improved pricing structure
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-01-16-you-ll-now-receive-reminders-when-rollover-credits-are-about-to-expire-helping-y|You’ll
-  now receive reminders when rollover credits are about to expire, helping…]]'
 - '[[Changes/Lovable/2026-01-16-build-credit-top-ups|Build credit top-ups]]'
 - '[[Changes/Lovable/2026-01-16-lovable-bonuses|Lovable bonuses]]'
+- '[[Changes/OpenCode/2026-01-19-core-use-single-global-event-subscription-and-route-by-session-id-in-acp|Core
+  Use single global event subscription and route by session ID in ACP]]'
 source_release: '[[Releases/v0/v0-2026-01-19-2026-01-19-0e264fd7|v0-2026-01-19-2026-01-19-0e264fd7]]'
 source_type: v0_changelog
 theme: pricing-model
@@ -73,8 +73,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-lovable-bonuses|Lovable bonuses]]
-- Later: 2026-01-27 · v0 · [[Changes/v0/2026-01-27-updated-token-pricing|Updated token pricing]]
+- Earlier: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-core-use-single-global-event-subscription-and-route-by-session-id-in-acp|Core Use single global event subscription and route by session ID in ACP]]
+- Later: 2026-01-27 · Suno · [[Changes/Suno/2026-01-27-to-try-it-for-yourself-go-to-create-choose-sounds-from-the-custom-dropdown-and-m|To try it for yourself, go to Create, choose Sounds from the Custom dropdown…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3a52a5c69fe3e24a105f9d6d8963be6353f8a916ab52d7c916546b4237f0ba1
+machine_hash: 4eda4af210817a4f1c732437afcbe8e4cb9a8b68c36a363238be51e293f48445
 product: cursor
 product_name: Cursor
 record:
@@ -95,7 +95,7 @@ Source: https://cursor.com/changelog/2-6
 ## Nearby in Context Window
 
 - Earlier: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-trigger-auto-compaction-on-openrouter-context-overflow-errors|Trigger auto-compaction on OpenRouter context overflow errors]]
-- Later: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-2-context-window-changes-in-v3-70-0|2 Context Window changes in v3.70.0]]
+- Later: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-core-recover-from-413-request-entity-too-large-errors-via-automatic-compaction|Core Recover from 413 Request Entity Too Large errors via automatic compaction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

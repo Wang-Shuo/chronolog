@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8ea6cf6858d543989538ed466772a142230e221ed653c954334a90e6eabe4cdd
+machine_hash: d3af38bb0880f2c7cb8c077c88962652609f9007e861dcea8a8e679dccdd1a48
 product: lovable
 product_name: Lovable
 record:
@@ -49,8 +49,8 @@ record:
   title: Connect your app to BambooHR
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3
-  Apps and Integrations changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-tui-plugins-require-opentui-0-8|TUI plugins require
+  OpenTUI 0.8]]'
 - '[[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7
   Apps and Integrations changes in v2.1.316]]'
 - '[[Changes/ElevenLabs/2026-11-02-channel-integrations-asynchronous-channels-such-as-slack-telegram-intercom-gmail|Channel
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-channel-integrations-asynchronous-channels-such-as-slack-telegram-intercom-gmail|Channel integrations: Asynchronous channels such as Slack, Telegram, Intercom…]]
-- Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-mcp-apps-in-chat-tools-from-mcp-servers-that-come-with-an-interactive-app-now-sh|🧩 MCP Apps in chat. Tools from MCP servers that come with an interactive app now…]]
+- Later: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-2-apps-and-integrations-changes-in-hub-v2-29-0-voice-mode-remote|2 Apps and Integrations changes in HUB v2.29.0 — Voice mode, remote…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

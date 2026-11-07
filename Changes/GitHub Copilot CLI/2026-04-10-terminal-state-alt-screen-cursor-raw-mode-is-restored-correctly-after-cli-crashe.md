@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 069de3a7682a691745ec8ecb1f2412364de18a9229e1736fbaaf0fb6cc31d31e
+machine_hash: 59cf912628660781365809b92d2694b7102c6fc9fbb4519fe29b61a3537106fc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     CLI…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-08-3-developer-workflow-changes-in-v0-37-0|3 Developer
-  Workflow changes in v0.37.0]]'
 - '[[Changes/Claude Code/2026-04-09-6-developer-workflow-changes-in-v2-1-98|6 Developer
   Workflow changes in v2.1.98]]'
+- '[[Changes/OpenCode/2026-04-09-4-developer-workflow-changes-in-v1-4-2-1|4 Developer
+  Workflow changes in v1.4.2 + 1]]'
 - '[[Changes/Codex CLI/2026-04-10-28-developer-workflow-changes-in-rust-v0-119-0|28
   Developer Workflow changes in rust-v0.119.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-10-v1-0-24-github-307762816-30170266|github-copilot-cli-2026-04-10-v1-0-24-github-307762816-30170266]]'

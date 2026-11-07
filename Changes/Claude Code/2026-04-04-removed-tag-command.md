@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d2a9c4f8df2df5f15c405d36a3a9775cd377ca483313a06ce715b6f65bf27853
+machine_hash: b53d2f5cc55bd264142b3f2e8e999980d2efc9659edd4fb9cd13bba2cfab5469
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-2-developer-workflow-changes-in-3-0|2 Developer Workflow changes in 3.0]]
-- Later: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-3-developer-workflow-changes-in-v2-1-97|3 Developer Workflow changes in v2.1.97]]
+- Later: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-restored-git-backed-review-modes|Restored git-backed review modes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

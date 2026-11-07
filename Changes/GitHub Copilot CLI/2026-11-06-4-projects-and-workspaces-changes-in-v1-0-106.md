@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7efff80e7bab622b159971b4f7c3efe1ca159e83abd7eb90909daac751b48810
+machine_hash: 40d8e2773a924bdc17448fc5b297dd586e08098e824d8eb5a9bedb97cfe599b6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 4 Projects and Workspaces changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-30-withdrawn-running-prompts-stay-removed-after-session-resume|Withdrawn
-  running prompts stay removed after session resume]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-05-remote-session-resume-now-uses-your-configured-github-auth-for-resume-and-connec|Remote
-  session resume now uses your configured GitHub auth for --resume and --connect]]'
+- '[[Changes/OpenClaw/2026-10-13-claude-cli-session-tools-later-turns-keep-their-authorized-session-history-and-a|Claude
+  CLI session tools]]'
+- '[[Changes/OpenCode/2026-10-27-3-projects-and-workspaces-changes-in-v2-2-0|3 Projects
+  and Workspaces changes in v2.2.0]]'
 - '[[Changes/Codex CLI/2026-10-29-57342-separate-tui-session-resume-preparation-from-activation-bc-openai|♯57342
   Separate TUI session resume preparation from activation @bc-openai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'

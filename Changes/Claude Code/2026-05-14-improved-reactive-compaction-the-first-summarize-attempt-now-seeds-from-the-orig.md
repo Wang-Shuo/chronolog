@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0986efb03f5170f42e75ed61b4d727bba9587a365cc3828cd5120e98a8645b65
+machine_hash: 1dfac8d60a09cfdabc6c1f022273aaddb210b4916dac6fac447c938b48a332b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,11 @@ record:
   title: Improved reactive compaction
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-12-refactor-web-migrate-workflow-panel-context-menu-primitive-by-lyzno1-in-https-gi|refactor(web):
-  migrate workflow panel context menu primitive]]'
 - '[[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind
   menu: added "Summarize up to here" to compress earlier context while keeping…]]'
 - '[[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]'
+- '[[Changes/OpenCode/2026-05-13-core-keep-recent-turns-after-compaction-instead-of-folding-them-into-the-summary|Core
+  Keep recent turns after compaction instead of folding them into the summary]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: context-window
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]
+- Earlier: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-keep-recent-turns-after-compaction-instead-of-folding-them-into-the-summary|Core Keep recent turns after compaction instead of folding them into the summary]]
 - Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context shows correct token limits for all models instead of always showing 128k]]
 <!-- chronolog:end -->
 

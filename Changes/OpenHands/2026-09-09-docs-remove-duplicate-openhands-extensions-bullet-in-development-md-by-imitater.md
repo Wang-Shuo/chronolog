@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c13d04fdac2ba037650260d9d27b4de449ca572c61c6516f1e3d88ad7af479e8
+machine_hash: e89598da5191157a4854928634bdc53390c1d2304b00002559b255335e9228c5
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 'docs: remove duplicate OpenHands/extensions bullet in DEVELOPMENT.md'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4
-  Apps and Integrations changes in v2.1.265]]'
 - '[[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude
   Tag Added a "Use a custom connector" link to the preset connection forms…]]'
 - '[[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19
   Apps and Integrations changes in rust-v0.154.0]]'
+- '[[Changes/OpenCode/2026-09-09-2-apps-and-integrations-changes-in-v1-18-30|2 Apps
+  and Integrations changes in v1.18.30]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-09-v1-17-0-github-385787922-b4569793|openhands-2026-09-09-v1-17-0-github-385787922-b4569793]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19 Apps and Integrations changes in rust-v0.154.0]]
+- Earlier: 2026-09-09 · OpenCode · [[Changes/OpenCode/2026-09-09-2-apps-and-integrations-changes-in-v1-18-30|2 Apps and Integrations changes in v1.18.30]]
 - Later: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|Data plugin in ChatGPT Work and Codex]]
 <!-- chronolog:end -->
 

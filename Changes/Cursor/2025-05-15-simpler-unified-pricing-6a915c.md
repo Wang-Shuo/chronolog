@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 5facfc790df2b908f9c6791f85f66bff7e085469be96a986e6c9e0184c4ed707
+machine_hash: d041818579f67467cec68a3c69c7818ecfaccc3dd3b32bcb090beb56750454a6
 product: cursor
 product_name: Cursor
 record:
@@ -56,8 +56,10 @@ record:
   title: Simpler, unified pricing
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-05-02-improvements|Improvements]]'
-- '[[Changes/ElevenLabs/2025-05-05-billing|Billing]]'
+- '[[Changes/Manus/2025-05-11-one-free-daily-task-for-all-users-300-credits|One free
+  daily task for all users (300 credits)]]'
+- '[[Changes/Manus/2025-05-11-a-one-time-bonus-of-1-000-credits-for-all-users|A one-time
+  bonus of 1,000 credits for all users]]'
 - '[[Changes/ElevenLabs/2025-05-12-billing|Billing]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d720cbe0e1e267543a819bb24e1eafc8237c39e7298f87165c0b1348f5513871
+machine_hash: 8735b14b766f9417e1b8c53e5dd1893c7971baec3021b5424481eb7c0784edcc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -78,8 +78,8 @@ record:
   title: 8 Interface Experience changes in v0.9.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-20065-feat-tui-redesign-session-picker-fcoury-oai|♯20065
-  feat(tui): redesign session picker @fcoury-oai]]'
+- '[[Changes/OpenCode/2026-05-07-desktop-added-a-macos-settings-menu-entry|Desktop
+  Added a macOS Settings menu entry]]'
 - '[[Changes/Codex CLI/2026-05-08-20665-make-environment-providers-own-default-selection-starr-openai|♯20665
   Make environment providers own default selection @starr-openai]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project
@@ -142,7 +142,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project info remains visible in slash command picker when no results match]]
-- Later: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-2-interface-experience-changes-in-v0-9-5|2 Interface Experience changes in v0.9.5]]
+- Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-3-interface-experience-changes-in-v1-14-44-2|3 Interface Experience changes in v1.14.44 + 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ca7017957f853d2a8c349cfdbc07258d2e4b921a449453b5571f89b391ebdf3
+machine_hash: c0e28a4dbcbd23cf6d8b404e221b125f6a56cd834411604410f03876ab6a0ae1
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Reliability and Performance changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-improved-startup-time-and-memory-use-by-building-only-the-parts-of-the-settings|Improved
-  startup time and memory use by building only the parts of the settings…]]'
 - '[[Changes/Codex CLI/2026-09-28-47984-add-multi-agent-spawn-latency-and-failure-metrics-owenlin0|♯47984
   Add multi-agent spawn latency and failure metrics @owenlin0]]'
 - '[[Changes/Claude Code/2026-09-29-fixed-the-powershell-tool-s-permission-check-skipping-deny-and-ask-rules-and-cac|Fixed
   the PowerShell tool''s permission check skipping deny and ask rules…]]'
+- '[[Changes/OpenClaw/2026-09-30-administrators-can-opt-into-heap-snapshots-to-investigate-memory-growth-a-snapsh|Administrators
+  can opt into heap snapshots to investigate memory growth]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: reliability-performance
@@ -101,8 +101,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-fixed-the-powershell-tool-s-permission-check-skipping-deny-and-ask-rules-and-cac|Fixed the PowerShell tool's permission check skipping deny and ask rules…]]
-- Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-2-reliability-and-performance-changes-in-v2-1-290|2 Reliability and Performance changes in v2.1.290]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-administrators-can-opt-into-heap-snapshots-to-investigate-memory-growth-a-snapsh|Administrators can opt into heap snapshots to investigate memory growth]]
+- Later: 2026-10-02 · Runway · [[Changes/Runway/2026-10-02-agent-can-now-generate-with-seedance-2-5-draft-mode-creating-fast-480p-drafts-wi|Seedance 2.5 Draft Mode in Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c90ea785b4c309b4cecbd5f20d613072ef6c1aff01a77fbdc34aa438b7a0417
+machine_hash: 53c936811a9b346d94d216d28f4347e8e1e436456bc2e6c515468384e4443026
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     at startup
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-25-sources-from-chats-save-useful-chatgpt-responses-into-your-project-so-great-outp|Sources
-  from chats]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-27-add-chronicle-command-with-standup-tips-and-improve-subcommands-powered-by-sessi|Add
   /chronicle command with standup, tips, and improve subcommands powered…]]'
 - '[[Changes/Claude Code/2026-03-06-improved-rename-to-work-while-claude-is-processing-instead-of-being-silently-que|Improved
   /rename to work while Claude is processing, instead of being silently queued]]'
+- '[[Changes/OpenCode/2026-03-13-2-projects-and-workspaces-changes-in-v1-2-26|2 Projects
+  and Workspaces changes in v1.2.26]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-improved-rename-to-work-while-claude-is-processing-instead-of-being-silently-que|Improved /rename to work while Claude is processing, instead of being silently queued]]
+- Earlier: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-2-projects-and-workspaces-changes-in-v1-2-26|2 Projects and Workspaces changes in v1.2.26]]
 - Later: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-session-resume-no-longer-fails-with-session-file-is-corrupted-for-sessions-creat|Session resume no longer fails with 'Session file is corrupted' for sessions created…]]
 <!-- chronolog:end -->
 

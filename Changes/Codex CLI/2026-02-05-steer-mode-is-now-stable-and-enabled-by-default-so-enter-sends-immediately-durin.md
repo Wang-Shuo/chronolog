@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9a2a4a9fd6f678c149442b5b61a8f7a6d94ec5f9187507f23d8c6a26f6ca9ec
+machine_hash: 749c043a7fa7faf44569ade5662ec28d3f1c153bebd7f4b06e80fde04fa4d1d6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
     during…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-03-2-editor-experience-changes-in-v0-0-401|2
-  Editor Experience changes in v0.0.401]]'
+- '[[Changes/OpenCode/2026-02-03-2-editor-experience-changes-in-v1-1-49|2 Editor Experience
+  changes in v1.1.49]]'
 - '[[Changes/Codex CLI/2026-02-04-added-thread-compact-to-the-v2-app-server-api-as-an-async-trigger-rpc-so-clients|Added
   thread/compact to the v2 app-server API as an async trigger RPC, so clients…]]'
 - '[[Changes/Gemini CLI/2026-02-04-4-editor-experience-changes-in-v0-27-0|4 Editor

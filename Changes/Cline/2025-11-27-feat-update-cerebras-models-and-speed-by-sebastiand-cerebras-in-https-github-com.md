@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3273b9aad9c9a233e8c1a052d65db7887c63ecf717c3c493fb58de783942fa4
+machine_hash: 089d19553a9bdbb3ded2cee985e3c357023ab430f91e494cf9ca7d694a6635aa
 product: cline
 product_name: Cline
 record:
@@ -51,12 +51,12 @@ record:
   title: 'feat: update Cerebras models and speed'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-11-25-various-improvements-were-implemented-across-the-frontend-and-backend-to-enhance|\U0001F504
-  Various improvements were implemented across the frontend and backend to enhance…]]"
 - "[[Changes/Open WebUI/2025-11-25-a-critical-postgresql-user-listing-performance-issue-was-resolved-by-removing-a|\U0001F5C4️
   A critical PostgreSQL user listing performance issue was resolved by removing…]]"
 - '[[Changes/Dify/2025-11-26-4-reliability-and-performance-changes-in-1-10-1|4 Reliability
   and Performance changes in 1.10.1]]'
+- '[[Changes/Google Antigravity/2025-11-26-stability-and-bug-fixes|Stability and Bug
+  Fixes]]'
 source_release: '[[Releases/Cline/cline-2025-11-27-v3-38-3-github-265611552-4d743450|cline-2025-11-27-v3-38-3-github-265611552-4d743450]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-4-reliability-and-performance-changes-in-1-10-1|4 Reliability and Performance changes in 1.10.1]]
+- Earlier: 2025-11-26 · Google Antigravity · [[Changes/Google Antigravity/2025-11-26-stability-and-bug-fixes|Stability and Bug Fixes]]
 - Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-4-reliability-and-performance-changes-in-v0-6-41|4 Reliability and Performance changes in v0.6.41]]
 <!-- chronolog:end -->
 

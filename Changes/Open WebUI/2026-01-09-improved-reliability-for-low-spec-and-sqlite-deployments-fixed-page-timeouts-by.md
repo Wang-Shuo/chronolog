@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d40506d88d1012bc57b58345fe6b06a6b119408a289ba4a2dc9c30363289bf41
+machine_hash: 6de60dc7a21844dbc6589cb7e395020e5eb49c72cceb4259254e19eb96f1abc8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,10 +57,10 @@ record:
     timeouts…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2
-  Reliability and Performance changes in New CLI Features and Improved CLI…]]'
 - '[[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex
   CLI subprocesses again inherit env vars like…]]'
+- '[[Changes/Midjourney/2026-01-09-niji-v7-features-improved-anime-coherence-prompt-understanding-text-rendering-an|Niji
+  V7 features improved anime coherence, prompt understanding, text rendering…]]'
 - '[[Changes/Open WebUI/2026-01-09-9-reliability-and-performance-changes-in-v0-7-0|9
   Reliability and Performance changes in v0.7.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-09-v0-7-1-github-275614473-596ee733|open-webui-2026-01-09-v0-7-1-github-275614473-596ee733]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-9-reliability-and-performance-changes-in-v0-7-0|9 Reliability and Performance changes in v0.7.0]]
-- Later: 2026-01-10 · Ollama · [[Changes/Ollama/2026-01-10-for-older-models-ollama-will-avoid-an-integer-underflow-on-low-vram-systems-duri|For older models, Ollama will avoid an integer underflow on low VRAM systems during…]]
+- Later: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-desktop-implement-chunked-message-loading-and-lazy-diff-loading-for-improved-per|Desktop Implement chunked message loading and lazy diff loading for improved performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

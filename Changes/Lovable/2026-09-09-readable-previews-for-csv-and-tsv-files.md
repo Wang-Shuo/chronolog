@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 528a07f7222ae250ce0c742e64902f6757a1d438e5642449afb70ac7eca2f857
+machine_hash: 86abc61b7d25046e2b648003b6eaab5f1233c27a1f93bdd60b1f374b13dd35f6
 product: lovable
 product_name: Lovable
 record:
@@ -48,8 +48,8 @@ record:
   title: Readable previews for CSV and TSV files
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added
-  /skill-doctor to show which loaded skills go unused and what they cost…]]'
+- '[[Changes/OpenClaw/2026-09-08-12-context-window-changes-in-v2026-9-3|12 Context
+  Window changes in v2026.9.3]]'
 - '[[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved
   prompt-cache stability]]'
 - '[[Changes/Codex CLI/2026-09-09-17-context-window-changes-in-rust-v0-154-0|17 Context

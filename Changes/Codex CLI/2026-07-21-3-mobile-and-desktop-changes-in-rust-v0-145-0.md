@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 75e605228d9e4ba68ec9c6ef2cbb6d17a8de85b3afe1bdf260b18e28869b7f5b
+machine_hash: 6ae632e16790d48fd376ecdce70d108b8425a895c9a20154deb5cc1fa39eafba
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Mobile and Desktop changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue
-  Work across devices]]'
 - '[[Changes/Windsurf/2026-07-17-devin-desktop|Devin Desktop]]'
 - '[[Changes/ElevenLabs/2026-07-20-android-sdk|Android SDK]]'
+- '[[Changes/OpenCode/2026-07-20-7-mobile-and-desktop-changes-in-v1-18-4|7 Mobile
+  and Desktop changes in v1.18.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-20 · ElevenLabs · [[Changes/ElevenLabs/2026-07-20-android-sdk|Android SDK]]
+- Earlier: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-7-mobile-and-desktop-changes-in-v1-18-4|7 Mobile and Desktop changes in v1.18.4]]
 - Later: 2026-07-24 · Lovable · [[Changes/Lovable/2026-07-24-open-projects-in-background-tabs-on-desktop|Open projects in background tabs on desktop]]
 <!-- chronolog:end -->
 

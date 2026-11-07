@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 640ecb4a97329e5824b0673fc4d980a1a753f194e65b680acdd2447bfdbf3487
+machine_hash: 37360e9cb9af8f7aa02dd12e02f41854b103c7bce8fe22057f2b78a2757b421f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,9 +42,9 @@ record:
   title: 2 Editor Experience changes in v1.0.69
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-01-2-editor-experience-changes-in-v0-10-2|2 Editor
-  Experience changes in v0.10.2]]'
 - '[[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]'
+- '[[Changes/OpenCode/2026-07-06-3-editor-experience-changes-in-v1-17-14|3 Editor
+  Experience changes in v1.17.14]]'
 - '[[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed
   left arrow to no longer close the background tasks, diff, and workflow…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357|github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357]]'
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.69
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed left arrow to no longer close the background tasks, diff, and workflow…]]
-- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-3-editor-experience-changes-in-rust-v0-143-0|3 Editor Experience changes in rust-v0.143.0]]
+- Later: 2026-07-07 · OpenCode · [[Changes/OpenCode/2026-07-07-desktop-keep-session-tab-titles-available-after-reloads-while-session-data-is-st|Desktop Keep session tab titles available after reloads while session data is still…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

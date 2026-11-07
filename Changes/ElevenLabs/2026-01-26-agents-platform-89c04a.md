@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2b021814c0dfa9ae18696aebfaeceec508a6af52cc0e1ab50e3c4f1ce9448ac3
+machine_hash: 65983240626747c364319218b9b98adce9fe82e33d995197a1e73d266bcee7af
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -116,7 +116,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-90-0|2 Agent Mode changes in rust-v0.90.0]]
+- Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-2-agent-mode-changes-in-v1-1-35|2 Agent Mode changes in v1.1.35]]
 - Later: 2026-01-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-26-load-local-shell-configuration-in-agent-sessions|Load local shell configuration in agent sessions]]
 <!-- chronolog:end -->
 

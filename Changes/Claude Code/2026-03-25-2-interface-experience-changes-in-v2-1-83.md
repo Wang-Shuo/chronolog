@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cbc5dc2e7a7b6deb77b1f080354d554a51a36a7428110e846b6bad81bfa3ef18
+machine_hash: 9bc2273252047a758ee73fa50fd8146827e5b945a93740578dfc773f6111504f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.83
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-20-improved-git-sync-workflow-with-simplified-pr-menu|Improved
-  git sync workflow with simplified PR menu]]'
-- '[[Changes/v0/2026-03-20-added-element-screenshot-attachment-for-design-mode-element-selection|Added
-  element screenshot attachment for design mode element selection]]'
+- '[[Changes/OpenCode/2026-03-22-3-interface-experience-changes-in-v1-3-0|3 Interface
+  Experience changes in v1.3.0]]'
 - '[[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli):
   add custom keybinding documentation]]'
+- '[[Changes/OpenCode/2026-03-24-restored-keyboard-project-switching-in-open-sidebar-with-proper-enter-key-activa|Restored
+  keyboard project switching in open sidebar with proper Enter key activation]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,8 +89,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli): add custom keybinding documentation]]
-- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-17-interface-experience-changes-in-v0-8-11|17 Interface Experience changes in v0.8.11]]
+- Earlier: 2026-03-24 · OpenCode · [[Changes/OpenCode/2026-03-24-restored-keyboard-project-switching-in-open-sidebar-with-proper-enter-key-activa|Restored keyboard project switching in open sidebar with proper Enter key activation]]
+- Later: 2026-03-25 · Gamma · [[Changes/Gamma/2026-03-25-gamma-has-supported-code-blocks-for-a-while-but-the-code-inside-them-was-just-pl|Syntax highlighting for code blocks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

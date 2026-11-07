@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1a163642dc744988a624c683baa0f7e0d47c361fbd7dc03f834e3ccb5ccc65ab
+machine_hash: 5a904c786d99bd455c8e0075d704e4ac67c5c71d99a41a3075cc3a96a8b4c0ad
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-02-09 · v0 · [[Changes/v0/2026-02-09-synced-project-and-chat-names-to-editor-explorer-header|Synced project and chat names to editor explorer header]]
-- Later: 2026-02-10 · v0 · [[Changes/v0/2026-02-10-improved-file-diff-view-to-show-lines-changed|Improved file diff view to show lines changed]]
+- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-4-editor-experience-changes-in-v1-1-54|4 Editor Experience changes in v1.1.54]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

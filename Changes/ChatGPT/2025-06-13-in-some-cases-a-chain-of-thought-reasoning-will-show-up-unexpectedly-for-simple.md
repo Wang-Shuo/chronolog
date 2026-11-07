@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52ebbca23080f5b2e7ec5f71fb5cd90bd24d99403ad4e3aa8556b8fea67db5d2
+machine_hash: 88fa08f3c267e18d10220275fd8ab8c82c9dd1793c7c28dcdcbd7a3549e35aca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-once-connected-try-it-in-any-channel-with-cursor-and-write-a-prompt-use-the-comm|Once connected, try it in any channel with @Cursor and write a prompt]]
-- Later: 2025-06-16 · ChatGPT · [[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded Model Support for Custom GPTs]]
+- Later: 2025-06-13 · Midjourney · [[Changes/Midjourney/2025-06-13-please-note|Please Note]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 84e5c731c0d4dfbc0c29bcdc22f3a9a3a4fe8f8feb0e568d19510086d6d00ca6
+machine_hash: 88a7065c88d799dcaf191cbb96ac95b1b052e9abbdf41d941f8996362ab72497
 product: replit
 product_name: Replit
 record:
@@ -52,10 +52,10 @@ record:
   title: External access tokens for Private Deployments
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-06-you-can-now-see-a-breakdown-of-your-agent-s-context-usage-e005b2|Context
-  Usage Breakdown]]'
 - '[[Changes/Codex CLI/2026-05-07-7-context-window-changes-in-rust-v0-129-0|7 Context
   Window changes in rust-v0.129.0]]'
+- '[[Changes/OpenCode/2026-05-07-2-context-window-changes-in-v1-14-40|2 Context Window
+  changes in v1.14.40]]'
 - '[[Changes/Codex CLI/2026-05-08-2-context-window-changes-in-rust-v0-130-0|2 Context
   Window changes in rust-v0.130.0]]'
 source_release: '[[Releases/Replit/replit-2026-05-08-2026-05-08-5ea341bc|replit-2026-05-08-2026-05-08-5ea341bc]]'

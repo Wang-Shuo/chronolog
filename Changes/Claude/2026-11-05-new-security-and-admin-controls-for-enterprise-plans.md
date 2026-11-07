@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fd73f1a3cc59fcdb48c361aab461271ece3cd3efe8df582a61d2e66da8d619d9
+machine_hash: bc4965af52dc01de8e56fba2790858496ceebb58f54d9c8b26186f3971c7d7fc
 product: claude
 product_name: Claude
 record:
@@ -59,10 +59,10 @@ record:
   title: New security and admin controls for Enterprise plans
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-30-members-an-enterprise-admin-has-listed-for-anthropic-s-cyber-verification-progra|Members
-  an enterprise admin has listed for Anthropic''s Cyber Verification Program…]]'
 - '[[Changes/Claude Code/2026-10-31-2-enterprise-and-administration-changes-in-v2-1-316|2
   Enterprise and Administration changes in v2.1.316]]'
+- '[[Changes/OpenClaw/2026-11-03-you-can-now-guide-the-same-running-conversation-from-the-control-ui-or-an-admini|Guide
+  the same running conversation from the Control UI or an administrator-linked…]]'
 - '[[Changes/Dify/2026-11-04-workspace-controls-enabling-or-disabling-provider-models-requires-an-owner-or-ad|Workspace
   controls: enabling or disabling provider models requires an owner…]]'
 source_release: '[[Releases/Claude/claude-2026-11-05-2026-11-05-035e623d|claude-2026-11-05-2026-11-05-035e623d]]'

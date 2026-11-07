@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e6900057a7c2229869953e98ea6c2fe7f41120d32233bc38dfe1338da2665df
+machine_hash: 45f7a40504c28071528218b799d2a10b582d551564bc650b87229b94381b91ee
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '#9543 fix: memory leak issue @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing
-  and UX]]'
-- '[[Changes/Ollama/2026-01-16-glm-4-7-flash-https-ollama-com-library-glm-4-7-flash-as-the-strongest-model-in-t|GLM-4.7-Flash((source
-  link) As the strongest model…]]'
+- '[[Changes/Midjourney/2026-01-20-improved-scroll-anchoring-and-grid-performance|Improved
+  scroll anchoring and grid performance]]'
+- '[[Changes/OpenCode/2026-01-20-terminal-fix-message-history-cleanup-to-prevent-memory-leaks-in-tui|Terminal
+  Fix message history cleanup to prevent memory leaks in TUI]]'
 - '[[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved
   UI rendering performance with React Compiler]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'

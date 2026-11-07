@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bc5af0a90bd9e17920c91920d950e26615902fb4617fe4afef531f3de8f20133
+machine_hash: 480cfa818c24a43b24b2e6fa1b0e879ffb112221ab387b817fc34a27e087aa16
 product: ollama
 product_name: Ollama
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-19 · Gemini · [[Changes/Gemini/2026-08-19-a-new-dedicated-student-hub-study-notebooks-on-mobile-one-year-of-google-ai-pro|A new dedicated student hub, study notebooks on mobile, one year of Google AI Pro…]]
-- Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep pinned chats in sync]]
+- Later: 2026-08-19 · Suno · [[Changes/Suno/2026-08-19-better-controls-for-you-playlist|Better controls for you playlist]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 422b773cbad3e5716e9e19afbc1d0960032b6e7593ec59130af1261f31787402
+machine_hash: 617fee5109c4b98dda305d7f54187c7da92eedbcceb3d06e7074bfe87e9ce1dd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 5 Model Support changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-3-model-support-changes-in-v1-0-55|3 Model
-  Support changes in v1.0.55]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-2-model-support-changes-in-v1-0-56|2 Model
   Support changes in v1.0.56]]'
 - '[[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto
   mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]'
+- '[[Changes/OpenCode/2026-05-30-core-gateway-anthropic-opus-4-7-adaptive-reasoning-now-keeps-summarized-thinking|Core
+  Gateway Anthropic Opus 4.7+ adaptive reasoning now keeps summarized thinking…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'
 source_type: github_releases
 theme: model-support
@@ -105,7 +105,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-30 · Claude Code · [[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]
+- Earlier: 2026-05-30 · OpenCode · [[Changes/OpenCode/2026-05-30-core-gateway-anthropic-opus-4-7-adaptive-reasoning-now-keeps-summarized-thinking|Core Gateway Anthropic Opus 4.7+ adaptive reasoning now keeps summarized thinking…]]
 - Later: 2026-06-01 · ElevenLabs · [[Changes/ElevenLabs/2026-06-01-workspaces|Workspaces]]
 <!-- chronolog:end -->
 

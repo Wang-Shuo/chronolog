@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 12a0a42a50e6dab0aa35d7ccd5573852df5cc452b0872c45d92d349ba948fc5b
+machine_hash: a2ddf7dd02336fe97daab566554bb4b9c9d5622a577d4064246ac4958906a7d1
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -100,10 +100,10 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-3-agent-mode-changes-in-v2-1-296|3 Agent Mode
-  changes in v2.1.296]]'
 - '[[Changes/Open WebUI/2026-10-10-7-agent-mode-changes-in-v0-12-0|7 Agent Mode changes
   in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-27-agent-mode-changes-in-v2026-10-1|27 Agent Mode
+  changes in v2026.10.1]]'
 - '[[Changes/ElevenLabs/2026-10-12-elevenagents|ElevenAgents]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-12-2026-10-12-16e5a6a0|elevenlabs-2026-10-12-2026-10-12-16e5a6a0]]'
 source_type: elevenlabs_changelog
@@ -180,8 +180,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-7-agent-mode-changes-in-v0-12-0|7 Agent Mode changes in v0.12.0]]
-- Later: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-4-agent-mode-changes-in-v1-27-0|4 Agent Mode changes in v1.27.0]]
+- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-27-agent-mode-changes-in-v2026-10-1|27 Agent Mode changes in v2026.10.1]]
+- Later: 2026-10-12 · Google Antigravity · [[Changes/Google Antigravity/2026-10-12-you-can-now-attach-zip-archives-to-a-prompt-and-the-agent-unpacks-them-with-its|Attach .zip archives to a prompt, and the agent unpacks them with its tools]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

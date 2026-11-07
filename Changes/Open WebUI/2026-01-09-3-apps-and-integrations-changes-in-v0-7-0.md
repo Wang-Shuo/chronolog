@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56d152a0921c279ee2c0563a191f3cc88057a4f1215f520ff99c5fde76bf9307
+machine_hash: 31598fa6377b3c886838274e0c379d1b1e43befaca2ac098d7d608055828627e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-2-apps-and-integrations-changes-in-rust-v0-80-0|2 Apps and Integrations changes in rust-v0.80.0]]
-- Later: 2026-01-09 · Replit · [[Changes/Replit/2026-01-09-private-apps-for-free-accounts|Private apps for free accounts]]
+- Later: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-2-apps-and-integrations-changes-in-v1-1-10|2 Apps and Integrations changes in v1.1.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

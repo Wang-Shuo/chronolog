@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a105d58299ce3189e4736b69119b971cd75c032207f456b3ee5c66ecfa4cb231
+machine_hash: 8667c527612acbd376953ccea7c363c83f50488047a65ae5798b5b7a44882f0a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -72,11 +72,11 @@ record:
   title: 4 Voice and Audio changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-16-voice-and-audio-changes-in-elevenlabs-updates-2026-11-02|16
-  Voice and Audio changes in ElevenLabs updates — 2026-11-02]]'
 - '[[Changes/ElevenLabs/2026-11-02-professional-voice-clones-on-eleven-v4|Professional
   Voice Clones on Eleven v4]]'
 - '[[Changes/ElevenLabs/2026-11-02-realtime-entity-redaction|Realtime entity redaction]]'
+- '[[Changes/Google Antigravity/2026-11-03-voice-mode-remote-agents-redesigned-automations-and-jupyter-notebook-viewer|Voice
+  mode, remote agents, redesigned Automations, and Jupyter notebook viewer]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'
 source_type: github_releases
 theme: voice
@@ -130,8 +130,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-realtime-entity-redaction|Realtime entity redaction]]
-- Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-voice-and-audio-changes-in-1-19-0|2 Voice and Audio changes in 1.19.0]]
+- Earlier: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-voice-mode-remote-agents-redesigned-automations-and-jupyter-notebook-viewer|Voice mode, remote agents, redesigned Automations, and Jupyter notebook viewer]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-6-voice-and-audio-changes-in-v2026-10-10|6 Voice and Audio changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

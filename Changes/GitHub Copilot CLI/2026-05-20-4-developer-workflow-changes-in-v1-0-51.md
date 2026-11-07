@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c68ebdd413a418d9f808e3aaf9b330af0816190d419751ecefbfe15141b3a41
+machine_hash: 9cea75518a8fca164879d2e6ab77401d6f748ba00f7a90b76822617d3a0efb10
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.51
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-3-developer-workflow-changes-in-rust-v0-132-0|3 Developer Workflow changes in rust-v0.132.0]]
-- Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-with-an-optional-effort-level-e-g-code-review-hi|Renamed /simplify to /code-review with an optional effort level…]]
+- Later: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-3-developer-workflow-changes-in-v1-15-6|3 Developer Workflow changes in v1.15.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

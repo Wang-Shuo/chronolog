@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 65c5c78ef4222170956c0be4500db3f7de9fe823c9d7bb9b1cd1d4a461cbf5a9
+machine_hash: 5e3a2d893b223c66d019191e951b455c152e0bb52bca20bf8a751ea4bbe9c989
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 'feat(enterprise): Agent Profiles on the cloud/SaaS backend (#15044)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-10-agent-mode-changes-in-rust-v0-143-0|10 Agent
-  Mode changes in rust-v0.143.0]]'
 - '[[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT
   Work is an agent for longer, more involved tasks]]'
 - '[[Changes/Codex CLI/2026-07-09-4-agent-mode-changes-in-rust-v0-144-0|4 Agent Mode
   changes in rust-v0.144.0]]'
+- '[[Changes/OpenCode/2026-07-09-desktop-updated-sub-agent-task-rows-to-match-the-v2-session-design-more-closely|Desktop
+  Updated sub-agent task rows to match the v2 session design more closely]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-09-1-11-0-github-351744742-75df1161|openhands-2026-07-09-1-11-0-github-351744742-75df1161]]'
 source_type: github_releases
 theme: agent-mode
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-4-agent-mode-changes-in-rust-v0-144-0|4 Agent Mode changes in rust-v0.144.0]]
+- Earlier: 2026-07-09 · OpenCode · [[Changes/OpenCode/2026-07-09-desktop-updated-sub-agent-task-rows-to-match-the-v2-session-design-more-closely|Desktop Updated sub-agent task rows to match the v2 session design more closely]]
 - Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-2-agent-mode-changes-in-v2-1-206|2 Agent Mode changes in v2.1.206]]
 <!-- chronolog:end -->
 

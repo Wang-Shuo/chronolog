@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff438975116b02fd9dc2bc24481812f4ed6feca672d4d65fe70c6d419a3e7c66
+machine_hash: 10708449f5dfc835cff561d5c7c5ff4ca15b04a4516c7d3e9959d5fd15fb182d
 product: dify
 product_name: Dify
 record:
@@ -52,10 +52,10 @@ record:
   title: 3 Context Window changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated
-  the /claude-api skill]]'
 - '[[Changes/Ollama/2026-10-22-ollama-launch-now-passes-cloud-models-context-lengths-and-capabilities-to-coding|ollama
   launch now passes cloud models'' context lengths and capabilities to coding…]]'
+- '[[Changes/OpenClaw/2026-10-22-4-context-window-changes-in-v2026-10-6|4 Context
+  Window changes in v2026.10.6]]'
 - '[[Changes/Codex CLI/2026-10-23-18-context-window-changes-in-rust-v0-164-0|18 Context
   Window changes in rust-v0.164.0]]'
 source_release: '[[Releases/Dify/dify-2026-10-23-1-18-0-github-421489030-879b0613|dify-2026-10-23-1-18-0-github-421489030-879b0613]]'

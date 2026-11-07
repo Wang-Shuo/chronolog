@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f7bccfd37f28033640df3e3a5b61d35276986d4599461da32dea9bdd4d6a8808
+machine_hash: 7e26f9e317a49b79c0ec57dd5ecf7073f42b5cd657e4d3d1e7255fd4de454ab5
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Account and Access changes in v2.1.273
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-6-account-and-access-changes-in-1-17-1|6 Account and
-  Access changes in 1.17.1]]'
-- '[[Changes/Lovable/2026-09-11-require-two-factor-authentication-for-your-workspace|Require
-  two-factor authentication for your workspace]]'
+- '[[Changes/OpenClaw/2026-09-11-14-account-and-access-changes-in-v2026-9-4|14 Account
+  and Access changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-changed-claude-apps-gateway-bedrock-vertex-ai-and-foundry-sessions-so-that-they|Changed
   Claude apps gateway, Bedrock, Vertex AI, and Foundry sessions so that they…]]'
+- '[[Changes/OpenCode/2026-09-14-terminal-show-remote-config-authentication-errors-during-startup-and-exit-with-a|Terminal
+  Show remote config authentication errors during startup and exit…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: account-access
@@ -103,7 +103,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-changed-claude-apps-gateway-bedrock-vertex-ai-and-foundry-sessions-so-that-they|Changed Claude apps gateway, Bedrock, Vertex AI, and Foundry sessions so that they…]]
+- Earlier: 2026-09-14 · OpenCode · [[Changes/OpenCode/2026-09-14-terminal-show-remote-config-authentication-errors-during-startup-and-exit-with-a|Terminal Show remote config authentication errors during startup and exit…]]
 - Later: 2026-09-15 · Ollama · [[Changes/Ollama/2026-09-15-added-first-run-setup-when-running-ollama-with-options-to-sign-in-or-continue-lo|Added first-run setup when running ollama, with options to sign in or continue locally]]
 <!-- chronolog:end -->
 

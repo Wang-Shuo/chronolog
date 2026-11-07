@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8649886943ce582ae528de7a79e7fc5af14a85f2c31bc2516f873178cd151547
+machine_hash: 803856b1e95a32ad6825eecd0c539fcbfcd10f2c850b64d7c419cef010b7d6ad
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Several performance improvements
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-11-20-improved-performance-issues-that-occurred-in-ollama-versions-0-4-0-0-4-2|Improved
-  performance issues that occurred in Ollama versions 0.4.0-0.4.2]]'
 - '[[Changes/Open WebUI/2024-11-22-faster-model-retrieval-implemented-caching-optimizations-for-faster-model-loadin|⚡
   Faster Model Retrieval]]'
 - '[[Changes/Open WebUI/2024-11-23-rag-query-generation-issue-addressed-a-significant-problem-where-rag-query-gener|⏳
   RAG Query Generation Issue]]'
+- '[[Changes/Runway/2024-11-23-you-can-now-use-act-one-in-gen-3-alpha-turbo-for-faster-more-affordable-generati|Act-One
+  in Gen-3 Alpha Turbo]]'
 source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-11-23 · Open WebUI · [[Changes/Open WebUI/2024-11-23-rag-query-generation-issue-addressed-a-significant-problem-where-rag-query-gener|⏳ RAG Query Generation Issue]]
+- Earlier: 2024-11-23 · Runway · [[Changes/Runway/2024-11-23-you-can-now-use-act-one-in-gen-3-alpha-turbo-for-faster-more-affordable-generati|Act-One in Gen-3 Alpha Turbo]]
 - Later: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-performance-optimization-the-weightrerankrunner-logic-has-been-optimized-to-achi|Performance Optimization: The WeightRerankRunner logic has been optimized…]]
 <!-- chronolog:end -->
 

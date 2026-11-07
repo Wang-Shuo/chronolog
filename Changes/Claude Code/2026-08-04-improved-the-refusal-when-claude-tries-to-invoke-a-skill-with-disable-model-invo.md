@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2a7da141a7575c2bc6f3006e66bb12742b39faab566867e42e968af035437378
+machine_hash: 4b13547ffd6c12a8321f64a12cc19247a54c1b1e9991f8942059cc76e0ffe9b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Improved the refusal when Claude tries to invoke a skill with `disable-model-invocation`
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-02-4-model-support-changes-in-v4-1-3|4 Model Support changes
-  in v4.1.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-the-allow-all-auto-safety-judge-model-is-no-longer-user-configurable-the-judge-m|The
   /allow-all auto safety-judge model is no longer user-configurable]]'
+- '[[Changes/Runway/2026-08-03-every-live-routed-request-is-now-recorded-so-you-can-see-which-model-your-model|Model
+  Router Routing History]]'
 - '[[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support
   changes in v2.1.221]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2|claude-code-2026-08-04-v2-1-222-github-365137491-9ea4d4a2]]'

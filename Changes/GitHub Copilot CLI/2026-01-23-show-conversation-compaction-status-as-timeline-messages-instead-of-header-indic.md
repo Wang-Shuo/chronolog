@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 36b08698d97dc72920b06768cea844c0ae168f9c29cfd4b1755337313bffc3d9
+machine_hash: 005720ff07f8cac549b6f43e50f3a6e117cf7e2ad3aa8276189dbd07df57de7e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     indicator
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-20-skill-tool-handles-large-directories-without-exceeding-context-limits|Skill
-  tool handles large directories without exceeding context limits]]'
 - '[[Changes/Cursor/2026-01-22-agents-can-now-read-pdfs-which-you-can-attach-in-chats-as-context|Agents
   can now read PDFs, which you can attach in chats as context]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-22-preserve-extended-thinking-after-compaction|Preserve
   extended thinking after compaction]]'
+- '[[Changes/OpenCode/2026-01-22-2-context-window-changes-in-v1-1-32|2 Context Window
+  changes in v1.1.32]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-23-v0-0-393-github-279409619-34c2559f|github-copilot-cli-2026-01-23-v0-0-393-github-279409619-34c2559f]]'
 source_type: github_releases
 theme: context-window
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-preserve-extended-thinking-after-compaction|Preserve extended thinking after compaction]]
+- Earlier: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-2-context-window-changes-in-v1-1-32|2 Context Window changes in v1.1.32]]
 - Later: 2026-01-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-24-3-context-window-changes-in-v0-0-394|3 Context Window changes in v0.0.394]]
 <!-- chronolog:end -->
 

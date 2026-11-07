@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2f7189d8725ea98fc39410a7ebdc3608ca481f83cb121a3f295af3323d39e94
+machine_hash: 741e6bdf4e7bd2f5634149afff0bc043e97c7267b2b2e54d259aaf281a29383d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Resume sessions even when transcript files contain recoverable corruption
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-42140-https-github-com-openai-codex-pull-42140-add-redo-support-to-vim-composer|♯42140((source
-  link) Add redo support to Vim…]]'
+- '[[Changes/OpenClaw/2026-09-03-an-update-or-doctor-repair-now-does-more-to-preserve-the-setup-you-already-autho|An
+  update or Doctor repair now does more to preserve the setup you already authored…]]'
 - '[[Changes/Codex CLI/2026-09-09-42306-stabilize-the-detached-exec-server-session-resume-test-copyberry|♯42306
   Stabilize the detached exec-server session resume test @copyberry]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-when-session-history-is-truncated-or-compacted-just-as-a-turn-finishes-the-worki|When
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-when-session-history-is-truncated-or-compacted-just-as-a-turn-finishes-the-worki|When session history is truncated or compacted just as a turn finishes…]]
-- Later: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-session-resume-preserves-pending-conversation-events-when-saving-fails-and-expla|Session resume preserves pending conversation events when saving fails and explains…]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-retained-conversation-history-continues-to-follow-current-sharing-permissions-af|Retained conversation history continues to follow current sharing permissions after…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

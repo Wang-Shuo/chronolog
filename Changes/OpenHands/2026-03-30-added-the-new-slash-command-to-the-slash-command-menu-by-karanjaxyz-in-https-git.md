@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1fc0ed48d8cb7f45e454094dd1a676f1023c94c1553b8c4073a388ff2ba48500
+machine_hash: 4b70adf81beaedfefbbff8c35de3b8f017ab278bc93e9eac905032cc0ae3cfa5
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,11 @@ record:
   title: Added the `/new` slash command to the slash command menu
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
-  /skills menu to sort alphabetically for easier scanning]]'
-- '[[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface
-  Experience changes in 1.13.3]]'
+- '[[Changes/OpenCode/2026-03-29-2-interface-experience-changes-in-v1-3-6-2|2 Interface
+  Experience changes in v1.3.6 + 2]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2
   Interface Experience changes in v1.0.13]]'
+- '[[Changes/Google Antigravity/2026-03-30-onboarding-fix|Onboarding Fix]]'
 source_release: '[[Releases/OpenHands/openhands-2026-03-30-1-6-0-github-303268521-e953c7dd|openhands-2026-03-30-1-6-0-github-303268521-e953c7dd]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2 Interface Experience changes in v1.0.13]]
+- Earlier: 2026-03-30 · Google Antigravity · [[Changes/Google Antigravity/2026-03-30-onboarding-fix|Onboarding Fix]]
 - Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-3-interface-experience-changes-in-rust-v0-118-0|3 Interface Experience changes in rust-v0.118.0]]
 <!-- chronolog:end -->
 

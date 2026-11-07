@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9681d7b0b0790758f04d216f6997f60c4ee388c094abff10267e7c8eb3a2808f
+machine_hash: ed0ad0d16226c8e54e8516003c67490708335931ab1c11adaac71f79a52c1300
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-10 · Windsurf · [[Changes/Windsurf/2026-09-10-devin-desktop|Devin Desktop]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved /mobile to show a single QR code for claude.ai/mobile, which opens…]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-16-mobile-and-desktop-changes-in-v2026-9-4|16 Mobile and Desktop changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

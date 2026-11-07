@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0fcf4f0a5ad7ace923ae469e9441d39601a83caa0056af9bea9f5388f490faa
+machine_hash: 31a664a47dd16fa428f574f2db17f04edcc682c9e046625e34f60cc3d994fe41
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Search and Browsing changes in v0.4.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-24-web-search-functionality-corrected-an-issue-where-the-web-search-option-was-not|\U0001F50D
-  Web Search Functionality]]"
 - '[[Changes/Dify/2024-09-30-add-zhipuai-web-search-by-aaee86-in-https-github-com-langgenius-dify-pull-8668|add
   zhipuai web search]]'
+- '[[Changes/Gamma/2024-10-23-browse-your-entire-workspace-s-images-while-editing-any-gamma|Browse
+  your entire workspace’s images while editing any gamma]]'
 - '[[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow
   CodeAct agent to perform web browsing by itself…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f|open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f]]'

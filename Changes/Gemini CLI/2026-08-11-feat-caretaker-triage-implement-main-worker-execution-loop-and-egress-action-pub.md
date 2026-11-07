@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce8ec0cfc76f4f21cee2b399f2c306024dface7adad60e838b92cc6f19608e24
+machine_hash: a36e242e190a10b63b29d56c5d5d6bea82e622ff22ca6348c7d7ea65dbccc5a4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
     action publisher'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-05-3-automation-and-scheduling-changes-in-v1-10-0|3
-  Automation and Scheduling changes in v1.10.0]]'
 - '[[Changes/Codex CLI/2026-08-07-36228-support-enterprise-automation-account-plans-copyberry|♯36228
   Support Enterprise automation account plans @copyberry]]'
+- '[[Changes/Google Antigravity/2026-08-07-conversations-started-by-background-automations-no-longer-disappear-from-the-sid|Conversations
+  started by background automations no longer disappear from the sidebar list]]'
 - '[[Changes/OpenHands/2026-08-07-2-automation-and-scheduling-changes-in-v1-11-0|2
   Automation and Scheduling changes in v1.11.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-08-11-v0-55-1-github-368860370-07bf49f0|gemini-cli-2026-08-11-v0-55-1-github-368860370-07bf49f0]]'

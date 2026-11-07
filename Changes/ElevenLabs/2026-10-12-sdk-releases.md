@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8ec1561f05450352e028364d5c7fea5028bbd2382ead584a54d398c5fe36bffb
+machine_hash: 06a589a3f336ae7efad1ebeb5d1cc69b4249585ebd39561d368d165d9afa38cb
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,10 +41,10 @@ record:
   title: SDK releases
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-09-generate-a-secret-that-another-app-also-needs|Generate
-  a secret that another app also needs]]'
 - '[[Changes/Open WebUI/2026-10-10-7-apps-and-integrations-changes-in-v0-12-0|7 Apps
   and Integrations changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-96-apps-and-integrations-changes-in-v2026-10-1|96
+  Apps and Integrations changes in v2026.10.1]]'
 - '[[Changes/Ollama/2026-10-11-ollama-launch-claude-no-longer-shows-a-warning-about-claude-connectors-by-hoyyev|ollama
   launch claude no longer shows a warning about Claude connectors]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-12-2026-10-12-16e5a6a0|elevenlabs-2026-10-12-2026-10-12-16e5a6a0]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-11 · Ollama · [[Changes/Ollama/2026-10-11-ollama-launch-claude-no-longer-shows-a-warning-about-claude-connectors-by-hoyyev|ollama launch claude no longer shows a warning about Claude connectors]]
-- Later: 2026-10-12 · Lovable · [[Changes/Lovable/2026-10-12-connect-your-app-to-loops|Connect your app to Loops]]
+- Later: 2026-10-12 · Google Antigravity · [[Changes/Google Antigravity/2026-10-12-3-apps-and-integrations-changes-in-hub-v2-23-0-permissions-picker|3 Apps and Integrations changes in HUB v2.23.0 — Permissions picker…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

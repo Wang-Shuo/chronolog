@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 98637adf8ad423d3901695f972f5a3d7ae3afb1cca3ee05790a5c53241cb231b
+machine_hash: ba2ff13b47106fceeb012abf8e73929872afda75961020f68563ad8665d1e080
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,11 @@ record:
   title: Run `aider --apply-clipboard-edits file-to-edit.js`
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS
-  Code 1.93.1: Cursor is now based on VS Code 1.93.1]]'
-- '[[Changes/Dify/2024-10-14-prompt-editor-optimization-clearer-and-more-efficient-prompt-editing-with-reset|Prompt
-  Editor Optimization: Clearer and more efficient prompt editing with reset…]]'
 - '[[Changes/Aider/2024-10-22-2-editor-experience-changes-in-v0-60-0|2 Editor Experience
   changes in v0.60.0]]'
+- '[[Changes/Midjourney/2024-10-23-today-we-re-testing-our-new-external-image-editor-image-retexturing-and-next-gen|today
+  we’re testing our new external image editor , image retexturing , and next-gen…]]'
+- '[[Changes/Midjourney/2024-10-23-the-image-editor|The image editor]]'
 source_release: '[[Releases/Aider/aider-2024-11-04-v0-62-0-github-183484302-e3085241|aider-2024-11-04-v0-62-0-github-183484302-e3085241]]'
 source_type: github_releases
 theme: editor-experience
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-10-22 · Aider · [[Changes/Aider/2024-10-22-2-editor-experience-changes-in-v0-60-0|2 Editor Experience changes in v0.60.0]]
+- Earlier: 2024-10-23 · Midjourney · [[Changes/Midjourney/2024-10-23-the-image-editor|The image editor]]
 - Later: 2024-11-05 · Dify · [[Changes/Dify/2024-11-05-chore-update-type-definition-to-resolve-lint-error-in-base-usage-at-text-editor|chore: update type definition to resolve lint error in Base usage at text-editor.tsx]]
 <!-- chronolog:end -->
 

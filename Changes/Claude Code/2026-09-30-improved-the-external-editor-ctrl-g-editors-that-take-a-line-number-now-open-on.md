@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d82dd6b03302d004991f988ce51c638f0426256a5f2181cafe957ff70b37022d
+machine_hash: 67bcd8f4568073029a15587c1ca67a009cf4bfcac7f6d8aade6fd6367b0dc905
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-3-editor-experience-changes-in-rust-v0-159-0|3 Editor Experience changes in rust-v0.159.0]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode Changed the Claude in Chrome "Enabled by default" switch to also connect…]]
+- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-9-editor-experience-changes-in-v2026-9-7|9 Editor Experience changes in v2026.9.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

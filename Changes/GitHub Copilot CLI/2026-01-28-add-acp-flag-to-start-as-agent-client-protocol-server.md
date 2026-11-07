@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e744e11b4b2ce631f3d146df0343b518d2e312f92dc1b8e17c566fcf91fb30dc
+machine_hash: 03676255442579f92c2ca9590fbe2f291564bf9d820ddc0bccce64a6e470a8ee
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-8-agent-mode-changes-in-v0-26-0|8 Agent Mode changes in v0.26.0]]
-- Later: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-2-agent-mode-changes-in-v0-0-399|2 Agent Mode changes in v0.0.399]]
+- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-prevent-agents-md-from-being-loaded-multiple-times-during-parallel-tool-executio|Prevent AGENTS.md from being loaded multiple times during parallel tool execution]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

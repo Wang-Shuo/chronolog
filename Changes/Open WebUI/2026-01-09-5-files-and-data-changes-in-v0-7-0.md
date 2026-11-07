@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7eb98c97208e21989461003f5c7ea29e6d6f90d414fe9896677711781e068f34
+machine_hash: 1df451a3dfae33e85ad60d3afecd1204b5b7b04fe9982ae4f2063f6f35744d4c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -128,7 +128,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 ## Nearby in Files and Data
 
 - Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-app-server-readme-now-documents-skills-support-and-usage-8853|App-server README now documents skills support and usage]]
-- Later: 2026-01-12 · ElevenLabs · [[Changes/ElevenLabs/2026-01-12-knowledge-base|Knowledge Base]]
+- Later: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-core-document-cargofmt-in-docs|Core Document cargofmt in docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

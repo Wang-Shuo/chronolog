@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: cc1647c223b01062335283d1b999ef64402096920ad8b3f7a5564d9a7d3dac60
+machine_hash: ffc6a9b4b6a2068a85d25c023ad96eb3339bc4059417f2c658c47950ac8bc022
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,12 @@ record:
     of the user
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-07-27-sub-agents-administrators-can-now-enable-sub-agents-which-let-a-model-hand-parts|\U0001F916
-  Sub-agents. Administrators can now enable sub-agents, which let a model hand…]]"
 - '[[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on
   cloud agents that build, test, and ship code while you keep working]]'
 - '[[Changes/Dify/2026-07-28-24-agent-mode-changes-in-1-16-1|24 Agent Mode changes
   in 1.16.1]]'
+- '[[Changes/Google Antigravity/2026-07-28-2-agent-mode-changes-in-hub-v2-4-3-preview-tabs-mcp|2
+  Agent Mode changes in HUB v2.4.3 — Preview tabs, MCP…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-28-v1-6-1-github-361253741-d1e640fd|openhands-2026-07-28-v1-6-1-github-361253741-d1e640fd]]'
 source_type: github_releases
 theme: agent-mode
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-24-agent-mode-changes-in-1-16-1|24 Agent Mode changes in 1.16.1]]
+- Earlier: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-2-agent-mode-changes-in-hub-v2-4-3-preview-tabs-mcp|2 Agent Mode changes in HUB v2.4.3 — Preview tabs, MCP…]]
 - Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-11-agent-mode-changes-in-rust-v0-146-0|11 Agent Mode changes in rust-v0.146.0]]
 <!-- chronolog:end -->
 

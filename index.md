@@ -1,7 +1,7 @@
 ---
 created: '2022-12-15'
 date: '2026-11-06'
-machine_hash: b81e9fedc3a252ee8206c6e606d7241a19a120ba2bfaf1e9e5cb84a7d05e5161
+machine_hash: 0a809752049c5e548443f647a9e4cf3d6d14d26bb4f8a74f746e339a03c578a4
 modified: '2026-11-06'
 publication: active
 tags:
@@ -12,11 +12,14 @@ title: ChronoLog
 <!-- chronolog:begin region="header" -->
 # ChronoLog
 
-Tracked changes in AI assistants and coding tools, from official release notes. 20 products · 13,248 tracked changes · 25 themes · archive to 2026-11-06 · [[About|About the data]]
+Tracked changes in AI products, from official release notes. 29 products · 15,809 tracked changes · 29 themes · archive to 2026-11-06 · [[About|About the data]]
 <!-- chronolog:end -->
 
 ## Latest changes
 <!-- chronolog:begin region="recent" -->
+- ⚠ Granola: Granola has no releases in the last 2 month windows.
+- ⚠ Manus: Manus has no releases in the last 2 month windows.
+
 ### Aider
 - No changes archived between 2026-10-08 and 2026-11-06.
 
@@ -73,6 +76,9 @@ Tracked changes in AI assistants and coding tools, from official release notes. 
 - 2026-10-19 · [[Releases/ElevenLabs/elevenlabs-2026-10-19-2026-10-19-dd219c14|ElevenLabs updates — 2026-10-19]] · 14 cards: Agent Mode, Voice and Audio, Multimodal Input, +2 more
 - 2026-10-12 · [[Releases/ElevenLabs/elevenlabs-2026-10-12-2026-10-12-16e5a6a0|ElevenLabs updates — 2026-10-12]] · 15 cards: Agent Mode, Voice and Audio, Apps and Integrations, +1 more
 
+### Gamma
+- 2026-10-26 · [[Releases/Gamma/gamma-2026-10-26-6adfa60dfb9f73d63d1f52fd-593d6949|What’s new in Gamma  /  September–October 2026]] · 4 cards: Apps and Integrations, Files and Data, Presentation Creation, +1 more
+
 ### Gemini
 - 2026-10-13 · [[Releases/Gemini/gemini-2026-10-13-2026-10-13-315d8911|Gemini updates — 2026-10-13]] · 3 cards: Apps and Integrations, Mobile and Desktop, Model Support
 
@@ -89,6 +95,18 @@ Tracked changes in AI assistants and coding tools, from official release notes. 
 - 2026-10-19 · Pricing Model: [[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete usage reporting no longer shows partial status or phantom unattributed…]] · +13 more in [[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|1.0.100]]
 - 5 more releases in this window → [[Products/GitHub Copilot CLI|GitHub Copilot CLI]]
 
+### Google Antigravity
+- 2026-11-03 · [[Releases/Google Antigravity/google-antigravity-2026-11-03-rel-hub-2-29-0-801b565e|HUB v2.29.0 — Voice mode, remote agents, redesigned Automations, and Jupyter notebook viewer]] · 9 cards: Interface Experience, Apps and Integrations, Automation and Scheduling, +6 more
+- 2026-10-29 · [[Releases/Google Antigravity/google-antigravity-2026-10-29-rel-hub-2-28-2-cea25f26|HUB v2.28.2 — Partner plugins in the Marketplace and plugin sign-in]] · 4 cards: Apps and Integrations, Account and Access, Interface Experience
+- 2026-10-28 · [[Releases/Google Antigravity/google-antigravity-2026-10-28-rel-hub-2-28-1-7097502c|HUB v2.28.1 — Conversation navigator and third party tools notice]] · 3 cards: Apps and Integrations, Safety and Privacy
+- 2026-10-27 · [[Releases/Google Antigravity/google-antigravity-2026-10-27-rel-hub-2-28-0-7ce90829|HUB v2.28.0 — Built-in browser and attachments of any file type]] · 10 cards: Agent Mode, Interface Experience, Editor Experience, +4 more
+- 2026-10-26 · [[Releases/Google Antigravity/google-antigravity-2026-10-26-rel-ide-2-6-0-18b8017a|IDE v2.6.0 — Gemini 4 Argon, Refreshed Agent Interface, and Inline Diff Shortcuts]] · 5 cards: Editor Experience, Model Support, Reliability and Performance, +1 more
+- 2026-10-26 · [[Releases/Google Antigravity/google-antigravity-2026-10-26-rel-hub-2-27-0-b7a7cc1e|HUB v2.27.0 — Markdown previews and overview sections in new side panel tabs]] · 2 cards: Editor Experience, Reliability and Performance
+- 6 more releases in this window → [[Products/Google Antigravity|Google Antigravity]]
+
+### Granola
+- No changes archived between 2026-10-08 and 2026-11-06.
+
 ### Lovable
 - 2026-11-04 · Memory and Personalization: [[Changes/Lovable/2026-11-04-dreaming-lovable-keeps-its-memory-up-to-date|Dreaming: Lovable keeps its memory up to date]]
 - 2026-11-03 · [[Releases/Lovable/lovable-2026-11-03-2026-11-03-b62c62d7|Lovable updates — 2026-11-03]] · 3 cards: Safety and Privacy, Agent Mode
@@ -97,6 +115,13 @@ Tracked changes in AI assistants and coding tools, from official release notes. 
 - 2026-10-30 · [[Releases/Lovable/lovable-2026-10-30-2026-10-30-8c94fa6c|Lovable updates — 2026-10-30]] · 2 cards: Memory and Personalization, Collaboration
 - 2026-10-29 · [[Releases/Lovable/lovable-2026-10-29-2026-10-29-850979f2|Lovable updates — 2026-10-29]] · 7 cards: Editor Experience, Enterprise and Administration, Account and Access, +2 more
 - 16 more releases in this window → [[Products/Lovable|Lovable]]
+
+### Manus
+- No changes archived between 2026-10-08 and 2026-11-06.
+
+### Midjourney
+- 2026-10-08 · [[Releases/Midjourney/midjourney-2026-10-08-https-updates-midjourney-com-testing-thinking-mode-b4049203|Testing Thinking Mode]] · 3 cards: Model Support, Reliability and Performance, Image Generation
+- 2026-10-08 · [[Releases/Midjourney/midjourney-2026-10-08-https-updates-midjourney-com-alpha-changelog-10-7-26-cf436888|Alpha Changelog - 10/7/26]] · 6 cards: Collaboration, Editor Experience, Memory and Personalization, +2 more
 
 ### Ollama
 - 2026-11-03 · [[Releases/Ollama/ollama-2026-11-03-v0-40-15-github-433274277-e84f26a0|v0.40.15]] · 4 cards: Model Support, Agent Mode, Context Window, +1 more
@@ -116,6 +141,24 @@ Tracked changes in AI assistants and coding tools, from official release notes. 
 - 2026-10-14 · [[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|v0.12.1]] · 15 cards: Voice and Audio, Model Support, Interface Experience, +12 more
 - 1 more release in this window → [[Products/Open WebUI|Open WebUI]]
 
+### OpenClaw
+- 2026-11-05 · Pricing Model: [[Changes/OpenClaw/2026-11-05-avoids-restoring-cold-archived-conversations-just-to-refresh-usage-and-cost-repo|Avoids restoring cold archived conversations just to refresh usage and cost reports…]] · +14 more in [[Releases/OpenClaw/openclaw-2026-11-05-v2026-11-1-7d3de823|v2026.11.1]]
+- 2026-11-03 · Enterprise and Administration: [[Changes/OpenClaw/2026-11-03-you-can-now-guide-the-same-running-conversation-from-the-control-ui-or-an-admini|Guide the same running conversation from the Control UI or an administrator-linked…]] · +21 more in [[Releases/OpenClaw/openclaw-2026-11-03-v2026-10-10-c26ff355|v2026.10.10]]
+- 2026-10-29 · [[Releases/OpenClaw/openclaw-2026-10-29-v2026-10-9-69976f84|v2026.10.9]] · 9 cards: Agent Mode, Apps and Integrations, Collaboration, +6 more
+- 2026-10-27 · [[Releases/OpenClaw/openclaw-2026-10-27-v2026-10-8-9d674f40|v2026.10.8]] · 14 cards: Apps and Integrations, Agent Mode, Model Support, +11 more
+- 2026-10-24 · [[Releases/OpenClaw/openclaw-2026-10-24-v2026-10-7-78f358d7|v2026.10.7]] · 9 cards: Agent Mode, Apps and Integrations, Context Window, +6 more
+- 2026-10-22 · [[Releases/OpenClaw/openclaw-2026-10-22-v2026-10-6-56379f53|v2026.10.6]] · 17 cards: Apps and Integrations, Developer Workflow, Automation and Scheduling, +14 more
+- 6 more releases in this window → [[Products/OpenClaw|OpenClaw]]
+
+### OpenCode
+- 2026-11-06 · Developer Workflow: [[Changes/OpenCode/2026-11-06-scripted-runs-in-worktrees|Scripted Runs in Worktrees]] · +11 more in [[Releases/OpenCode/opencode-2026-11-06-v2-2-6-b1ac172e|v2.2.6]]
+- 2026-10-30 · Developer Workflow: [[Changes/OpenCode/2026-10-30-worktree-and-shell-mode-shortcuts|Worktree and Shell Mode Shortcuts]] · +7 more in [[Releases/OpenCode/opencode-2026-10-30-v2-2-5-7ac090eb|v2.2.5]]
+- 2026-10-30 · Agent Mode: [[Changes/OpenCode/2026-10-30-guided-claude-agent-setup|Guided Claude Agent Setup]] · +9 more in [[Releases/OpenCode/opencode-2026-10-30-v2-2-4-aa4b8502|v2.2.4]]
+- 2026-10-30 · Reliability and Performance: [[Changes/OpenCode/2026-10-30-desktop-stability-fixes|Desktop Stability Fixes]] · +12 more in [[Releases/OpenCode/opencode-2026-10-30-v2-2-3-0c0c59eb|v2.2.3]]
+- 2026-10-29 · Image Generation: [[Changes/OpenCode/2026-10-29-image-generation-by-default|Image Generation by Default]] · +10 more in [[Releases/OpenCode/opencode-2026-10-29-v2-2-2-2b757877|v2.2.2]]
+- 2026-10-29 · Mobile and Desktop: [[Changes/OpenCode/2026-10-29-opencode-ai-provider-removals-and-renames|opencode/ai provider removals and renames]] · +16 more in [[Releases/OpenCode/opencode-2026-10-29-v2-2-1-8378da57|v2.2.1]]
+- 5 more releases in this window → [[Products/OpenCode|OpenCode]]
+
 ### OpenHands
 - 2026-11-05 · [[Releases/OpenHands/openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c|v1.36.0]] · 5 cards: Automation and Scheduling, Apps and Integrations, Agent Mode, +2 more
 - 2026-11-03 · [[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|v1.35.0]] · 9 cards: Interface Experience, Automation and Scheduling, Agent Mode, +6 more
@@ -130,6 +173,21 @@ Tracked changes in AI assistants and coding tools, from official release notes. 
 - 2026-10-23 · [[Releases/Replit/replit-2026-10-23-2026-10-23-22527b8b|Replit updates — 2026-10-23]] · 5 cards: Agent Mode, Collaboration, Apps and Integrations
 - 2026-10-16 · [[Releases/Replit/replit-2026-10-16-2026-10-16-3443a38d|Replit updates — 2026-10-16]] · 3 cards: Enterprise and Administration, Search and Browsing, Model Support
 - 2026-10-09 · [[Releases/Replit/replit-2026-10-09-2026-10-09-58884c93|Replit updates — 2026-10-09]] · 3 cards: Context Window, Automation and Scheduling, Mobile and Desktop
+
+### Runway
+- 2026-10-26 · Model Support: [[Changes/Runway/2026-10-26-describe-the-creative-app-you-need-in-plain-language-and-app-studio-builds-it-wi|App Studio]]
+- 2026-10-15 · Voice and Audio: [[Changes/Runway/2026-10-15-mirelo-sfx-2-0-is-now-available-in-runway-mcp-give-your-agent-a-clip-and-describ|Mirelo SFX 2.0]]
+- 2026-10-15 · Apps and Integrations: [[Changes/Runway/2026-10-15-remove-backgrounds-automatically-in-runway-mcp-with-birefnet-v2-it-detects-the-f|BiRefNet v2 Background Removal]]
+- 2026-10-14 · Voice and Audio: [[Changes/Runway/2026-10-14-fish-audio-drama-3-is-now-available-in-runway-mcp-turn-scripts-into-expressive-v|Fish Audio Drama 3]]
+- 2026-10-09 · Enterprise and Administration: [[Changes/Runway/2026-10-09-workspace-admins-can-now-set-a-credit-cap-on-any-project-giving-each-team-or-cli|Project Credit Caps]]
+
+### Suno
+- 2026-11-06 · Music Generation: [[Changes/Suno/2026-11-06-a-new-prompt-every-day-to-inspire-your-next-song|A new prompt every day, to inspire your next song]]
+- 2026-10-29 · [[Releases/Suno/suno-2026-10-29-e-more-studio-updates-oct26-37e23464|Suno Studio Updates, Shaped by your Feedback]] · 3 cards: Interface Experience, Voice and Audio
+- 2026-10-28 · [[Releases/Suno/suno-2026-10-28-e-suno-mcp-beta-860ffd96|Suno MCP (beta)]] · 4 cards: Music Generation, Apps and Integrations
+- 2026-10-23 · Music Generation: [[Changes/Suno/2026-10-23-iphone-duo-support-new-phone-same-suno-the-app-is-now-built-to-fit-the-iphone-du|Updates for Suno on iOS]]
+- 2026-10-15 · [[Releases/Suno/suno-2026-10-15-e-collaboration-on-suno-74fcaa8f|Collaboration on Suno]] · 2 cards: Model Support, Music Generation
+- 2026-10-08 · Voice and Audio: [[Changes/Suno/2026-10-08-clip-fade-curves|Clip fade curves]]
 
 ### Windsurf
 - 2026-10-30 · Enterprise and Administration: [[Changes/Windsurf/2026-10-30-members-an-enterprise-admin-has-listed-for-anthropic-s-cyber-verification-progra|Members an enterprise admin has listed for Anthropic's Cyber Verification Program…]]
@@ -170,35 +228,44 @@ All months: [[Archive/index|Archive]]
 - [[Products/DeepSeek API|DeepSeek API]] · 22 releases · 2024-05-17 → 2026-10-17 · 4 releases in the last 90 days · cadence: normal
 - [[Products/Dify|Dify]] · 154 releases · 2023-05-15 → 2026-11-04 · 4 releases in the last 90 days · cadence: quiet
 - [[Products/ElevenLabs|ElevenLabs]] · 103 releases · 2024-10-13 → 2026-11-02 · 16 releases in the last 90 days · cadence: normal
+- [[Products/Gamma|Gamma]] · 78 releases · 2024-02-14 → 2026-10-26 · 2 releases in the last 90 days · cadence: quiet
 - [[Products/Gemini|Gemini]] · 96 releases · 2023-04-10 → 2026-10-13 · 4 releases in the last 90 days · cadence: quiet
 - [[Products/Gemini CLI|Gemini CLI]] · 160 releases · 2025-06-28 → 2026-11-04 · 13 releases in the last 90 days · cadence: quiet
 - [[Products/GitHub Copilot CLI|GitHub Copilot CLI]] · 193 releases · 2025-09-26 → 2026-11-06 · 26 releases in the last 90 days · cadence: normal
+- [[Products/Google Antigravity|Google Antigravity]] · 70 releases · 2025-11-18 → 2026-11-03 · 31 releases in the last 90 days · cadence: normal
+- [[Products/Granola|Granola]] · 25 releases · 2024-05-22 → 2026-09-02 · 1 release in the last 90 days · cadence: silent
 - [[Products/Lovable|Lovable]] · 156 releases · 2024-12-03 → 2026-11-04 · 68 releases in the last 90 days · cadence: normal
+- [[Products/Manus|Manus]] · 35 releases · 2025-05-11 → 2026-09-29 · 2 releases in the last 90 days · cadence: silent
+- [[Products/Midjourney|Midjourney]] · 96 releases · 2024-03-07 → 2026-10-08 · 11 releases in the last 90 days · cadence: normal
 - [[Products/Ollama|Ollama]] · 266 releases · 2023-07-08 → 2026-11-03 · 35 releases in the last 90 days · cadence: normal
 - [[Products/Open WebUI|Open WebUI]] · 178 releases · 2024-02-23 → 2026-11-03 · 11 releases in the last 90 days · cadence: normal
+- [[Products/OpenClaw|OpenClaw]] · 24 releases · 2026-06-30 → 2026-11-05 · 22 releases in the last 90 days · cadence: normal
+- [[Products/OpenCode|OpenCode]] · 201 releases · 2025-12-19 → 2026-11-06 · 30 releases in the last 90 days · cadence: normal
 - [[Products/OpenHands|OpenHands]] · 137 releases · 2024-06-04 → 2026-11-05 · 27 releases in the last 90 days · cadence: normal
 - [[Products/Replit|Replit]] · 99 releases · 2024-12-13 → 2026-10-30 · 12 releases in the last 90 days · cadence: normal
+- [[Products/Runway|Runway]] · 161 releases · 2024-01-08 → 2026-10-27 · 37 releases in the last 90 days · cadence: normal
+- [[Products/Suno|Suno]] · 76 releases · 2023-12-23 → 2026-11-06 · 14 releases in the last 90 days · cadence: normal
 - [[Products/Windsurf|Windsurf]] · 121 releases · 2025-04-02 → 2026-10-30 · 17 releases in the last 90 days · cadence: normal
 - [[Products/v0|v0]] · 92 releases · 2025-10-01 → 2026-10-19 · 10 releases in the last 90 days · cadence: quiet
 <!-- chronolog:end -->
 
 ## Themes
 <!-- chronolog:begin region="themes" -->
-**Paradigm** · [[Themes/agent-mode|Agent Mode]] (998)
+**Paradigm** · [[Themes/agent-mode|Agent Mode]] (1135)
 
-**Capability** · [[Themes/model-support|Model Support]] (1472) · [[Themes/context-window|Context Window]] (582) · [[Themes/voice|Voice and Audio]] (481) · [[Themes/file-data|Files and Data]] (273) · [[Themes/memory|Memory and Personalization]] (257) · [[Themes/search-browsing|Search and Browsing]] (193) · [[Themes/image-generation|Image Generation]] (118) · [[Themes/multimodal|Multimodal Input]] (87) · [[Themes/learning-tools|Learning Tools]] (3) · [[Themes/artifact-creation|Artifact Creation]] (2)
+**Capability** · [[Themes/model-support|Model Support]] (1731) · [[Themes/context-window|Context Window]] (659) · [[Themes/voice|Voice and Audio]] (543) · [[Themes/memory|Memory and Personalization]] (317) · [[Themes/file-data|Files and Data]] (306) · [[Themes/search-browsing|Search and Browsing]] (220) · [[Themes/image-generation|Image Generation]] (142) · [[Themes/multimodal|Multimodal Input]] (133) · [[Themes/music-generation|Music Generation]] (90) · [[Themes/video-generation|Video Generation]] (33) · [[Themes/presentation-creation|Presentation Creation]] (25) · [[Themes/learning-tools|Learning Tools]] (3) · [[Themes/artifact-creation|Artifact Creation]] (2)
 
-**Workflow** · [[Themes/developer-workflow|Developer Workflow]] (854) · [[Themes/interface-experience|Interface Experience]] (760) · [[Themes/editor-experience|Editor Experience]] (707) · [[Themes/collaboration|Collaboration]] (300) · [[Themes/automation-scheduling|Automation and Scheduling]] (199) · [[Themes/projects-workspaces|Projects and Workspaces]] (61)
+**Workflow** · [[Themes/developer-workflow|Developer Workflow]] (1051) · [[Themes/interface-experience|Interface Experience]] (948) · [[Themes/editor-experience|Editor Experience]] (845) · [[Themes/collaboration|Collaboration]] (361) · [[Themes/automation-scheduling|Automation and Scheduling]] (242) · [[Themes/projects-workspaces|Projects and Workspaces]] (73) · [[Themes/meeting-notes|Meeting Notes]] (8)
 
-**Platform** · [[Themes/account-access|Account and Access]] (470) · [[Themes/mobile-desktop|Mobile and Desktop]] (441)
+**Platform** · [[Themes/mobile-desktop|Mobile and Desktop]] (663) · [[Themes/account-access|Account and Access]] (567)
 
-**Ecosystem** · [[Themes/apps-integrations|Apps and Integrations]] (1285)
+**Ecosystem** · [[Themes/apps-integrations|Apps and Integrations]] (1471)
 
-**Business** · [[Themes/enterprise-admin|Enterprise and Administration]] (307) · [[Themes/pricing-model|Pricing Model]] (305)
+**Business** · [[Themes/pricing-model|Pricing Model]] (359) · [[Themes/enterprise-admin|Enterprise and Administration]] (332)
 
-**Trust** · [[Themes/safety-privacy|Safety and Privacy]] (717)
+**Trust** · [[Themes/safety-privacy|Safety and Privacy]] (809)
 
-**Quality** · [[Themes/reliability-performance|Reliability and Performance]] (686) · [[Themes/accessibility-localization|Accessibility and Localization]] (125)
+**Quality** · [[Themes/reliability-performance|Reliability and Performance]] (804) · [[Themes/accessibility-localization|Accessibility and Localization]] (144)
 <!-- chronolog:end -->
 
 ## About the data
@@ -213,14 +280,23 @@ All months: [[Archive/index|Archive]]
 - DeepSeek API · 22 releases · 2024-05-17 → 2026-10-17 · [official source](https://api-docs.deepseek.com/updates/) · The official DeepSeek API change log, including model availability, API behavior and pricing. Web and mobile changes appear only when explicitly included in the API announcement; this is not a complete consumer-app history. Benchmark tables and code examples are excluded.
 - Dify · 154 releases · 2023-05-15 → 2026-11-04 · [official source](https://github.com/langgenius/dify/releases) · Stable versioned releases of Dify's open-source platform. Cloud-only changes, separately versioned plugins and prereleases have separate histories.
 - ElevenLabs · 103 releases · 2024-10-13 → 2026-11-02 · [official source](https://elevenlabs.io/docs/changelog) · Every dated entry listed in the official changelog index, including voice, audio, agent and API updates. The default Markdown page contains only a recent window, so collection traverses the complete index. Documentation widgets and code examples are excluded.
+- Gamma · 78 releases · 2024-02-14 → 2026-10-26 · [official source](https://ideas.gamma.app/changelog) · All published entries returned by the official public changelog, traversing every cumulative page. Drafts, deleted entries and private feedback are excluded.
 - Gemini · 96 releases · 2023-04-10 → 2026-10-13 · [official source](https://gemini.google/us/release-notes/?hl=en) · English US Gemini Apps release notes available from the official page, including its historical Bard entries. Regional availability can differ. Gemini CLI and the developer API have separate release histories.
 - Gemini CLI · 160 releases · 2025-06-28 → 2026-11-04 · [official source](https://github.com/google-gemini/gemini-cli/releases) · Stable versioned Gemini CLI releases only; nightly and preview builds are excluded. This is not the Gemini consumer app or the Gemini API changelog.
 - GitHub Copilot CLI · 193 releases · 2025-09-26 → 2026-11-06 · [official source](https://github.com/github/copilot-cli/releases) · Stable versioned GitHub Copilot CLI releases only; prereleases are excluded. Copilot's IDE, web and other product surfaces have separate release histories.
+- Google Antigravity · 70 releases · 2025-11-18 → 2026-11-03 · [official source](https://antigravity.google/docs/changelog) · Dated versions of the Antigravity App (hub) and original IDE on the official changelog. Separately versioned CLI, SDK, editor extensions and undated model-launch cards are outside this scope.
+- Granola · 25 releases · 2024-05-22 → 2026-09-02 · [official source](https://www.granola.ai/updates) · Dated announcement summaries on the official updates index, including launch and company announcements listed there. Full blog article text and unlisted maintenance changes are outside this source's scope.
 - Lovable · 156 releases · 2024-12-03 → 2026-11-04 · [official source](https://docs.lovable.dev/changelog) · Dated entries available in Lovable's official product changelog. Undated help articles, hosting widgets and code examples are excluded; endpoint coverage is not proof of lifetime coverage.
+- Manus · 35 releases · 2025-05-11 → 2026-09-29 · [official source](https://www.manus.im/updates) · All updates exposed by the official public Updates page's notification feed. Entries use the feed's publication timestamp; entries without a public blog permalink link to the Updates index. Private account notifications are outside coverage.
+- Midjourney · 96 releases · 2024-03-07 → 2026-10-08 · [official source](https://updates.midjourney.com/) · Posts listed in the official updates sitemap, including alpha tests and community announcements. Dates are article publication dates, not sitemap modification dates or dates mentioned in titles; older Discord-only announcements are outside coverage.
 - Ollama · 266 releases · 2023-07-08 → 2026-11-03 · [official source](https://github.com/ollama/ollama/releases) · Stable versioned releases of the Ollama application and runtime. Prereleases and model-library updates without a corresponding application release are excluded.
 - Open WebUI · 178 releases · 2024-02-23 → 2026-11-03 · [official source](https://github.com/open-webui/open-webui/releases) · Stable versioned Open WebUI releases from the official repository. Development builds, prereleases and external model-provider updates are excluded.
+- OpenClaw · 24 releases · 2026-06-30 → 2026-11-05 · [official source](https://docs.openclaw.ai/releases) · Curated release summaries linked from the official documentation release index, dated using published_at of the matching stable GitHub tag. Calendar-looking version numbers are not dates. Older technical changelog records and prereleases outside this index are excluded.
+- OpenCode · 201 releases · 2025-12-19 → 2026-11-06 · [official source](https://opencode.ai/changelog) · Every version currently listed in the paginated official product changelog, including CLI and app changes. GitHub tags not listed in this curated endpoint are outside coverage.
 - OpenHands · 137 releases · 2024-06-04 → 2026-11-05 · [official source](https://github.com/OpenHands/OpenHands/releases) · Stable versioned releases of the OpenHands application available from its current repository. SDK releases, preview builds and temporary PR evidence uploads are excluded; endpoint coverage does not establish the product's launch date.
 - Replit · 99 releases · 2024-12-13 → 2026-10-30 · [official source](https://docs.replit.com/updates) · Dated weekly Replit changelog pages listed in the official sitemap, covering Agent and related development-platform features. This includes non-AI platform changes announced alongside Agent. Unindexed historical announcements are outside this source's scope.
+- Runway · 161 releases · 2024-01-08 → 2026-10-27 · [official source](https://runway.com/changelog) · All dated descriptions currently available on the official changelog. Multiple announcements on one date remain separate; the source does not provide individual entry permalinks.
+- Suno · 76 releases · 2023-12-23 → 2026-11-06 · [official source](https://suno.com/release-notes) · All dated entries currently published on the official release-notes index, including mobile, Studio and model announcements. Earlier changes absent from this endpoint are outside coverage.
 - Windsurf · 121 releases · 2025-04-02 → 2026-10-30 · [official source](https://docs.devin.ai/desktop/changelog) · Windsurf's official changelog now continues as Devin Desktop. Only the stable desktop changelog is tracked, from the earliest entry still on the page; Next previews, Windsurf plugins and Devin Cloud have separate histories.
 - v0 · 92 releases · 2025-10-01 → 2026-10-19 · [official source](https://v0.app/changelog) · Dated v0 product announcements available on the official changelog. This does not include the wider Vercel platform's changelog or undated documentation updates.
 

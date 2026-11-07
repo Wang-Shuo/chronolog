@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49f21b23da16848575340ae939dd062c525359caed3b02ee3841caaf919c9ca6
+machine_hash: 3a7eaebda636e6a46701f9f0dd4e07fcf46607ba220285c5aeca9ff11367a3b9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,8 +49,8 @@ record:
   title: "\U0001F6E1️ **Security Advisory**: This release contains **security fixes**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting
-  your dot]]'
+- '[[Changes/Google Antigravity/2026-10-28-the-marketplace-tab-and-the-pages-of-plugins-from-third-party-developers-now-sho|The
+  Marketplace tab and the pages of plugins from third party developers now show…]]'
 - '[[Changes/Codex CLI/2026-10-29-10-safety-and-privacy-changes-in-rust-v0-166-0|10
   Safety and Privacy changes in rust-v0.166.0]]'
 - '[[Changes/Lovable/2026-10-29-run-a-deep-scan-from-the-project-chat|Run a Deep scan
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-29 · Lovable · [[Changes/Lovable/2026-10-29-run-a-deep-scan-from-the-project-chat|Run a Deep scan from the project chat]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety and Privacy changes in v2.1.314]]
+- Later: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-security-release-v2026-10-9-adds-remediations-for-vulnerable-dependencies-and-re|Security release: v2026.10.9 adds remediations for vulnerable dependencies…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

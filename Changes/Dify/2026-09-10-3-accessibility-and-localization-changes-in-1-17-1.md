@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 045acf578ea17908e877cb29e3d34e2164825cbb325f8294eede1e69a2333de8
+machine_hash: 6c9ffe0d09543df095dc66c35d8eb403e04df19da61fe1dfd4857db7cb290acf
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Accessibility and Localization changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-improved-ui-accessibility-a-closed-sidebar-is-no-longer-reachable-by-keyboard-or|♿
-  Improved UI accessibility. A closed sidebar is no longer reachable by keyboard…]]'
-- "[[Changes/Open WebUI/2026-08-31-high-contrast-mode-is-now-accessibility-mode-the-interface-setting-previously-ca|\U0001F3F7️
-  High Contrast Mode is now Accessibility Mode. The interface setting…]]"
+- '[[Changes/OpenClaw/2026-09-03-3-accessibility-and-localization-changes-in-v2026-9-1|3
+  Accessibility and Localization changes in v2026.9.1]]'
+- '[[Changes/OpenClaw/2026-09-08-slack-delivers-valid-structured-sections-intact-even-when-their-accessibility-te|Slack
+  delivers valid structured sections intact even when their accessibility text…]]'
 - '[[Changes/Claude Code/2026-09-10-vscode-added-a-claude-code-focus-last-message-command-that-moves-keyboard-focus|VSCode
   Added a "Claude Code]]'
 source_release: '[[Releases/Dify/dify-2026-09-10-1-17-1-github-386157159-e472b6fe|dify-2026-09-10-1-17-1-github-386157159-e472b6fe]]'

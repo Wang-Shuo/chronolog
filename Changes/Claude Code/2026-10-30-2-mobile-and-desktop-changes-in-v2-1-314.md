@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4d939c9c8a60f2feaf8344556e9a8b5062db724c0b9a1bae97227bcc0893fd7b
+machine_hash: c39a249cd2afc67bb8bcab82e864056ff5910e77c8e80b38f4c62087e2c12335
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You
-  can learn more about how ChatGPT uses connected apps here]]'
-- '[[Changes/OpenHands/2026-10-27-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The
-  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
-- '[[Changes/Codex CLI/2026-10-29-57503-fix-macos-standalone-release-pruning-etraut-openai|♯57503
-  Fix macOS standalone release pruning @etraut-openai]]'
+- '[[Changes/OpenCode/2026-10-29-9-mobile-and-desktop-changes-in-v2-2-1|9 Mobile and
+  Desktop changes in v2.2.1]]'
+- '[[Changes/OpenCode/2026-10-29-keep-working-toward-a-goal|Keep Working Toward a
+  Goal]]'
+- '[[Changes/OpenCode/2026-10-29-opencode-ai-provider-removals-and-renames|opencode/ai
+  provider removals and renames]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -93,8 +93,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57503-fix-macos-standalone-release-pruning-etraut-openai|♯57503 Fix macOS standalone release pruning @etraut-openai]]
-- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-android-sdk|Android SDK]]
+- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-opencode-ai-provider-removals-and-renames|opencode/ai provider removals and renames]]
+- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-4-mobile-and-desktop-changes-in-v2-2-4|4 Mobile and Desktop changes in v2.2.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

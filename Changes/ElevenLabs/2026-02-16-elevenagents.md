@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: fc3b7c0d88d48ec6e157ef9a0518e5d838b3caaa2517adf7468ce7f373d8fc22
+machine_hash: bd00578bfee8aed053ed3c4670fddef8dfe93e2967c1cbff4af1cb75aefe63e7
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -72,8 +72,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents
-  return complete responses]]'
+- '[[Changes/OpenCode/2026-02-12-support-claude-agent-sdk-style-structured-outputs-in-the-opencode-sdk|Support
+  Claude agent SDK-style structured outputs in the OpenCode SDK]]'
 - '[[Changes/Replit/2026-02-13-agent-production-sql-database-access|Agent production
   SQL database access]]'
 - '[[Changes/ElevenLabs/2026-02-16-widget-packages|Widget Packages]]'

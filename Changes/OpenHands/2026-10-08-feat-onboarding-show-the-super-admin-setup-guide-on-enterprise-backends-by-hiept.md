@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44172562a754db2083e1147f3a2481070b2603ff44aa1112ed5a9370c87b8239
+machine_hash: 1eb37c71bf8ec19e86c00d9f9c611e2ead1c41ce1c0306b3c499f439eb0f074b
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(onboarding): show the Super Admin setup guide on enterprise backends'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-07-add-enterprise-permissions-limitto-to-enforce-managed-domain-boundaries-for-netw|Add
-  enterprise permissions.limitTo to enforce managed domain boundaries for network…]]'
 - '[[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude
   Tag Changed Claude''s notice that a channel shared across Enterprise Grid…]]'
 - '[[Changes/Lovable/2026-10-08-publish-to-invited-people-only-on-free-and-pro-plans|Publish
   to invited people only on Free and Pro plans]]'
+- '[[Changes/OpenClaw/2026-10-08-2-enterprise-and-administration-changes-in-v2026-9-9|2
+  Enterprise and Administration changes in v2026.9.9]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-08-v1-26-0-github-407241649-7e646875|openhands-2026-10-08-v1-26-0-github-407241649-7e646875]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-08 · Lovable · [[Changes/Lovable/2026-10-08-publish-to-invited-people-only-on-free-and-pro-plans|Publish to invited people only on Free and Pro plans]]
+- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-2-enterprise-and-administration-changes-in-v2026-9-9|2 Enterprise and Administration changes in v2026.9.9]]
 - Later: 2026-10-09 · Lovable · [[Changes/Lovable/2026-10-09-enterprise-credit-balances-now-appear-as-numbers|Enterprise credit balances now appear as numbers]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb2e57a2f0db2213fafe57f3640756980cc1b33d40495b9703ede53299a82ff2
+machine_hash: c29b27a491d941b1ab3a4f4f79877ea350e7fdadaa544b40bc77c3c448978515
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,8 +67,8 @@ record:
   title: 13 Agent Mode changes in rust-v0.157.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-when-rollouts-detects-a-regression-it-names-the-change-it-suspects-and-notifies|When
-  Rollouts detects a regression, it names the change it suspects and notifies…]]'
+- '[[Changes/OpenClaw/2026-09-23-41-agent-mode-changes-in-v2026-9-6|41 Agent Mode
+  changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-24-2-agent-mode-changes-in-v2-1-282|2 Agent Mode
   changes in v2.1.282]]'
 - '[[Changes/Claude Code/2026-09-25-improved-startup-claude-p-and-claude-code-remote-no-longer-load-the-interactive|Improved

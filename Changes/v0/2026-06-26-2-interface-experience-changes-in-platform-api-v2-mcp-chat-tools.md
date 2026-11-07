@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e762be06339082a3a4fb1440af6825a390141602bdd6acad8b2c0d40cadaeae
+machine_hash: 920b05293f803984907d8eefdcad6c41570564e86d4bfd40213b87a5cf19e8da
 product: v0
 product_name: v0
 record:
@@ -44,8 +44,7 @@ record:
   title: 2 Interface Experience changes in Platform API v2, MCP chat tools…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-6-interface-experience-changes-in-1-15-0|6 Interface
-  Experience changes in 1.15.0]]'
+- '[[Changes/Midjourney/2026-06-25-heya-everyone|Random styles in draft mode]]'
 - '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added
   CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]'
 - '[[Changes/Lovable/2026-06-26-search-the-template-and-design-system-pickers|Search

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b69e6902a388501ed146c87c4be3eb9ab019b08cd9389fce9a84979f5eae03d1
+machine_hash: 2b18099335646077feadf61dc83ed9b8def11d913b1249fb0a1a0d16e126d3c4
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -72,11 +72,12 @@ record:
   title: New Schemas
   type: change
 related_changes:
-- '[[Changes/Replit/2026-02-13-claude-opus-4-5-support|Claude Opus 4.5 support]]'
-- '[[Changes/Ollama/2026-02-14-2-model-support-changes-in-v0-16-2|2 Model Support
-  changes in v0.16.2]]'
 - '[[Changes/Open WebUI/2026-02-14-6-model-support-changes-in-v0-8-1|6 Model Support
   changes in v0.8.1]]'
+- '[[Changes/OpenCode/2026-02-14-core-update-ai-sdk-packages-and-use-adaptive-reasoning-for-claude-opus-4-6-on-ve|Core
+  Update AI SDK packages and use adaptive reasoning for Claude Opus 4.6…]]'
+- '[[Changes/OpenCode/2026-02-15-2-model-support-changes-in-v1-2-5-1|2 Model Support
+  changes in v1.2.5 + 1]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-16-2026-02-16-06b87f89|elevenlabs-2026-02-16-2026-02-16-06b87f89]]'
 source_type: elevenlabs_changelog
 theme: model-support
@@ -137,8 +138,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-6-model-support-changes-in-v0-8-1|6 Model Support changes in v0.8.1]]
-- Later: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-4-model-support-changes-in-v0-8-2|4 Model Support changes in v0.8.2]]
+- Earlier: 2026-02-15 · OpenCode · [[Changes/OpenCode/2026-02-15-2-model-support-changes-in-v1-2-5-1|2 Model Support changes in v1.2.5 + 1]]
+- Later: 2026-02-16 · Midjourney · [[Changes/Midjourney/2026-02-16-your-ratings-are-already-helping-the-v8-model-and-we-really-appreciate-your-time|Your ratings are already helping the V8 model and we really appreciate your time…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

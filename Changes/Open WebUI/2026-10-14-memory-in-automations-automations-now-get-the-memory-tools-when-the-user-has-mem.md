@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14a5d23358213058ad9a5563b00273dc50d4fc4543a0b69b6b7f2ad48c14c6ad
+machine_hash: c30c01f3ec639011ccfbf8841376139968d66ae7120ed7659bb5fbb10fdfdb25
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,12 +59,12 @@ record:
     when the user has…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-49876-remove-personality-plumbing-from-the-tui-etraut-openai|♯49876
-  Remove personality plumbing from the TUI @etraut-openai]]'
-- '[[Changes/Codex CLI/2026-10-08-51223-remove-legacy-personality-template-metadata-rhan-oai|♯51223
-  Remove legacy personality template metadata @rhan-oai]]'
-- '[[Changes/Open WebUI/2026-10-10-2-memory-and-personalization-changes-in-v0-12-0|2
-  Memory and Personalization changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-13-memory-and-personalization-changes-in-v2026-10-1|13
+  Memory and Personalization changes in v2026.10.1]]'
+- '[[Changes/OpenClaw/2026-10-12-4-memory-and-personalization-changes-in-v2026-10-2|4
+  Memory and Personalization changes in v2026.10.2]]'
+- '[[Changes/OpenClaw/2026-10-13-5-memory-and-personalization-changes-in-v2026-10-3|5
+  Memory and Personalization changes in v2026.10.3]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'
 source_type: github_releases
 theme: memory
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-2-memory-and-personalization-changes-in-v0-12-0|2 Memory and Personalization changes in v0.12.0]]
+- Earlier: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-5-memory-and-personalization-changes-in-v2026-10-3|5 Memory and Personalization changes in v2026.10.3]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-memory-reindex-rate-limits-reindexing-memories-from-the-admin-reindex-knowledge|🧮 Memory reindex rate limits. Reindexing memories, from the admin Reindex…]]
 <!-- chronolog:end -->
 

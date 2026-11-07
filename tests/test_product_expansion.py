@@ -180,12 +180,13 @@ def test_github_attribution_does_not_classify_every_gemini_pr_as_a_model_change(
     assert "by @" not in cards[0]["title"]
 
 
-def test_theme_timeline_filters_all_twenty_products():
+def test_theme_timeline_filters_every_catalog_product():
+    count = len(collect.load_sources(ROOT / "_scripts/sources.yaml"))
     cards = [{"card_id": f"c{i}", "product_name": f"Product {i:02}", "date": "2026-11-01",
               "title": "New model", "kind": "expansion", "theme": "model-support"}
-             for i in range(1, 21)]
+             for i in range(1, count + 1)]
     result = theme_timeline(cards, {c["card_id"]: f"Changes/{c['card_id']}" for c in cards})
-    assert 'id="tl-only-20"' in result and 'class="tl-product tl-p20"' in result
+    assert f'id="tl-only-{count}"' in result and f'class="tl-product tl-p{count}"' in result
 
 
 def test_source_links_without_scheme_are_external_but_code_quotes_stay_verbatim():

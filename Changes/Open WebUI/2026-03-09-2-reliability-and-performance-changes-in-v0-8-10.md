@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1bfa23652f1885b825b7277a66c670bb45f8d6b720887dbc8cfb0671b3543f46
+machine_hash: 0c8e9a93d13c6e988268936a7fb8950dcad68ca43441b98c792750913ecc5b6e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,11 @@ record:
   title: 2 Reliability and Performance changes in v0.8.10
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-reduce-memory-usage-in-alt-screen-mode-for-long-sessions|Reduce
-  memory usage in alt-screen mode for long sessions]]'
-- '[[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3
-  Reliability and Performance changes in v2.1.70]]'
+- '[[Changes/OpenCode/2026-03-07-core-speed-up-share-loads|Core Speed up share loads]]'
 - '[[Changes/Open WebUI/2026-03-08-13-reliability-and-performance-changes-in-v0-8-9|13
   Reliability and Performance changes in v0.8.9]]'
+- '[[Changes/Google Antigravity/2026-03-09-stability-and-ui-improvements|Stability
+  and UI improvements]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-09-v0-8-10-github-294485945-5852a771|open-webui-2026-03-09-v0-8-10-github-294485945-5852a771]]'
 source_type: github_releases
 theme: reliability-performance
@@ -90,7 +89,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-13-reliability-and-performance-changes-in-v0-8-9|13 Reliability and Performance changes in v0.8.9]]
+- Earlier: 2026-03-09 · Google Antigravity · [[Changes/Google Antigravity/2026-03-09-stability-and-ui-improvements|Stability and UI improvements]]
 - Later: 2026-03-09 · Windsurf · [[Changes/Windsurf/2026-03-09-stability-performance|Stability & Performance]]
 <!-- chronolog:end -->
 

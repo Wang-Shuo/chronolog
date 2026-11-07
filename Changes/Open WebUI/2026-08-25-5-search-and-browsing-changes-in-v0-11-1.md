@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 46d6fc4325493f05624c44762dee9193015270c35ce203bbb8d19e646e2df3b5
+machine_hash: 0129a77e85268eea9bfbda53d940d9f3213908ba7e7c07a48bce0b17e34fde8c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -69,12 +69,12 @@ record:
   title: 5 Search and Browsing changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If
-  you have the Google Drive plugin connected, you can now see and browse…]]'
-- '[[Changes/Ollama/2026-08-14-the-openai-compatible-responses-api-now-supports-web-search|The
-  OpenAI-compatible Responses API now supports web search]]'
 - '[[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your
   code]]'
+- '[[Changes/OpenCode/2026-08-20-core-enabled-web-search-when-using-the-opencode-go-provider|Core
+  Enabled web search when using the OpenCode Go provider]]'
+- '[[Changes/OpenCode/2026-08-21-desktop-keep-file-search-results-visible-while-the-next-search-is-loading|Desktop
+  Keep file search results visible while the next search is loading]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'
 source_type: github_releases
 theme: search-browsing
@@ -134,7 +134,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your code]]
+- Earlier: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-desktop-keep-file-search-results-visible-while-the-next-search-is-loading|Desktop Keep file search results visible while the next search is loading]]
 - Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-see-how-each-app-page-appears-in-search-results-and-link-previews|See how each app page appears in search results and link previews]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 491b1d9cac127eb37035b8b49c85180d0d504cb1bab8b6ff2845b3275bfe19b7
+machine_hash: 6238bf7d7546214d085a54844caa05cae90ae3f552e8a38305d654cde32b4aa6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.41
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-bare-color-no-args-now-picks-a-random-session-color|Bare /color (no args) now picks a random session color]]
-- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-2-interface-experience-changes-in-v2-1-132|2 Interface Experience changes in v2.1.132]]
+- Later: 2026-05-05 · OpenCode · [[Changes/OpenCode/2026-05-05-core-preserve-diff-patch-boundaries-so-session-diffs-keep-rendering-correctly-wh|Core Preserve diff patch boundaries so session diffs keep rendering correctly…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

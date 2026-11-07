@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d98978dbb864c58fa30aefc908e505afa878de38d86a1c9343e2790ef2807809
+machine_hash: 78c29d4034b3918bd06777d1db6a37ba2f8a51548c600cf8c1d6ef0211394949
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 6 Context Window changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-2-context-window-changes-in-rust-v0-95-0|2 Context
-  Window changes in rust-v0.95.0]]'
 - '[[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context
   Window changes in v2.1.32]]'
 - '[[Changes/Codex CLI/2026-02-05-10692-fix-remote-compaction-estimator-payload-instruction-small-mismatch-charley|♯10692
   Fix remote compaction estimator/payload instruction small mismatch @charley-oai]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-fix-stale-context-in-prompt-input|Desktop
+  Fix stale context in prompt input]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
 source_type: github_releases
 theme: context-window
@@ -112,7 +112,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-10692-fix-remote-compaction-estimator-payload-instruction-small-mismatch-charley|♯10692 Fix remote compaction estimator/payload instruction small mismatch @charley-oai]]
+- Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-desktop-fix-stale-context-in-prompt-input|Desktop Fix stale context in prompt input]]
 - Later: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-expose-session-context-in-session-list-sdk-response|Expose session context in session.list SDK response]]
 <!-- chronolog:end -->
 

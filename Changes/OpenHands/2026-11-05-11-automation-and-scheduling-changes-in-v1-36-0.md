@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd48a78b9f60e28c9a368cc6c85a546d5ddafa3f83afbe09b0dd4608f369525f
+machine_hash: 963c3e757df3ffcf6567b94eb9e71257584aca61175635b1e41e66be7ca9fe31
 product: openhands
 product_name: OpenHands
 record:
@@ -71,12 +71,12 @@ record:
   title: 11 Automation and Scheduling changes in v1.36.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-11-03-2-automation-and-scheduling-changes-in-v0-13-0|2
-  Automation and Scheduling changes in v0.13.0]]'
 - '[[Changes/OpenHands/2026-11-03-6-automation-and-scheduling-changes-in-v1-35-0|6
   Automation and Scheduling changes in v1.35.0]]'
 - '[[Changes/Dify/2026-11-04-3-automation-and-scheduling-changes-in-1-19-0|3 Automation
   and Scheduling changes in 1.19.0]]'
+- '[[Changes/OpenClaw/2026-11-05-keeps-the-windows-scheduled-task-available-during-update-recovery-until-the-gate|Keeps
+  the Windows scheduled task available during update recovery until the Gateway…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c|openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -131,7 +131,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-3-automation-and-scheduling-changes-in-1-19-0|3 Automation and Scheduling changes in 1.19.0]]
+- Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-keeps-the-windows-scheduled-task-available-during-update-recovery-until-the-gate|Keeps the Windows scheduled task available during update recovery until the Gateway…]]
 - Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-in-the-every-schedule-manager-x-now-removes-the-highlighted-schedule-even-after|In the /every schedule manager, x now removes the highlighted schedule even after…]]
 <!-- chronolog:end -->
 

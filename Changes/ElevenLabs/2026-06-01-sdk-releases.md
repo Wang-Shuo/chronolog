@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4dab247102a73e61335ca8188877443f90c04078f643b335f5e1801cf8a6bdc7
+machine_hash: 11df212f7b87931e281a19db5236bd672a2d944282957205853bed492b9a5e76
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,9 +41,9 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2
-  Apps and Integrations changes in v1.0.56]]'
 - '[[Changes/Replit/2026-05-29-integrations|Integrations]]'
+- '[[Changes/OpenCode/2026-05-30-sessions-can-now-store-custom-metadata-through-the-api-and-sdk|Sessions
+  can now store custom metadata through the API and SDK]]'
 - '[[Changes/Codex CLI/2026-06-01-20-apps-and-integrations-changes-in-rust-v0-136-0|20
   Apps and Integrations changes in rust-v0.136.0]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-06-01-2026-06-01-63e7e167|elevenlabs-2026-06-01-2026-06-01-63e7e167]]'

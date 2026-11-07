@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3b06d19a24b7a520c1b3720e8309ea523e0b647e39bbfcf118728f0ca114b7c7
+machine_hash: 7b8a13af8fb2ca2007a10df718d919d752f2d7ea8daea87e13b9886b91028bd7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
   title: Simplified composer
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-12-8-interface-experience-changes-in-v0-8-0|8 Interface
-  Experience changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-12-core-windows-selection-behavior-and-manual-ctrl-c-handling|Core
+  Windows selection behavior and manual Ctrl+C handling]]'
 - '[[Changes/Windsurf/2026-02-12-improved-rtl-language-rendering-in-todo-lists|Improved
   RTL language rendering in todo lists]]'
 - '[[Changes/ChatGPT/2026-02-13-quick-tools-in-the-composer-a-new-quick-tools-menu-in-the-message-composer-makes|Quick

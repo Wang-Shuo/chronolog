@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3b2aa523451e6f5a31dbce4f8fe3705f7ed40c9debdddd270ea85a857554b21
+machine_hash: 5961369f8fd4e494ff70702cf9f8818e20d516a9c8acf8d26f2e3615171a2552
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 6 Developer Workflow changes in rust-v0.152.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-custom-interface-fonts-reach-more-of-the-app-the-font-chosen-in-interface-settin|\U0001F524
-  Custom interface fonts reach more of the app. The font chosen in interface…]]"
 - '[[Changes/Open WebUI/2026-08-31-9-developer-workflow-changes-in-v0-11-2|9 Developer
   Workflow changes in v0.11.2]]'
+- '[[Changes/OpenClaw/2026-08-31-each-area-below-has-its-own-page-keeping-the-user-facing-description-and-the-com|Each
+  area below has its own page, keeping the user-facing description…]]'
 - '[[Changes/Claude Code/2026-09-01-3-developer-workflow-changes-in-v2-1-257|3 Developer
   Workflow changes in v2.1.257]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544|codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544]]'

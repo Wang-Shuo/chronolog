@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8537190cc403862ce1fa9f336fee4d3b48e3d2f9925bb65a16dabf82a37ad47
+machine_hash: fe4a56a84a2dc7816804f633db82caa8f49957ff27d6d9dd75dbb9602fd21d08
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Reliability and Performance changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved
-  auto-retry: API connection drops mid-thinking now automatically retry…]]'
+- '[[Changes/OpenCode/2026-06-17-session-timelines-load-much-faster-and-avoid-flicker-or-scroll-jumps|Session
+  timelines load much faster and avoid flicker or scroll jumps]]'
 - '[[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier
   conversation sharing]]'
 - '[[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: bdb38436c1b05db85c1fc3cac9c31c4ab67e1785cde474d5390c10297297e85a
+machine_hash: 4bf278dc4397ab23e01423e71cf934624f18ca7cbb452988a6a3134882bed76b
 product: cursor
 product_name: Cursor
 record:
@@ -59,10 +59,10 @@ record:
   title: Autocomplete for Agent
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-24-8-editor-experience-changes-in-v0-6-0|8 Editor
-  Experience changes in v0.6.0]]'
 - '[[Changes/Open WebUI/2025-09-25-2-editor-experience-changes-in-v0-6-31|2 Editor
   Experience changes in v0.6.31]]'
+- '[[Changes/Suno/2025-09-25-edit-in-a-multitrack-timeline-arrange-layer-and-refine-with-precision-control-bp|Edit
+  in a multitrack timeline → Arrange, layer, and refine with precision]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-26-2-editor-experience-changes-in-v0-0-328|2
   Editor Experience changes in v0.0.328]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'

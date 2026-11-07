@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38f4a28ba0ec8cf7a6e1fed44ceeab141c289c73e6e7e2d4669840022d4e10f7
+machine_hash: cb551f1206abac24a393d81fca0a31f6a4c4a745463e22f99e40ddea9bb84680
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.310
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-2-apps-and-integrations-changes-in-v2-1-309|2
-  Apps and Integrations changes in v2.1.309]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-22-reuse-cached-local-mcp-tool-snapshots-across-registered-git-worktrees-in-one-rep|Reuse
-  cached local MCP tool snapshots across registered Git worktrees in one repository]]'
+- '[[Changes/Google Antigravity/2026-10-22-3-apps-and-integrations-changes-in-hub-v2-26-0-notifications-settings|3
+  Apps and Integrations changes in HUB v2.26.0 — Notifications settings…]]'
+- '[[Changes/OpenClaw/2026-10-22-10-apps-and-integrations-changes-in-v2026-10-6|10
+  Apps and Integrations changes in v2026.10.6]]'
 - '[[Changes/OpenHands/2026-10-22-chore-bump-openhands-extensions-to-0-33-0-by-neubig-in-https-github-com-openhand|chore:
   bump @openhands/extensions to 0.33.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'

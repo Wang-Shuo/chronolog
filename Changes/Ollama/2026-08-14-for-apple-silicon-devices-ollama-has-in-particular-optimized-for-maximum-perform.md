@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e493114cfbd506fe0d79120bac6b79ae650210a7efe0d0c2f5fa53436fb4db6b
+machine_hash: 72541579178c54db9df0c435307384a41e7ea81bb153310adc5bc53c7b6be37e
 product: ollama
 product_name: Ollama
 record:
@@ -53,9 +53,10 @@ record:
   title: For Apple Silicon devices, Ollama has in particular optimized for maximum…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
-  performance: fewer event-loop stalls on file-not-found suggestions…]]'
-- '[[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]'
+- '[[Changes/Google Antigravity/2026-08-13-windows-media-attachments-and-chat-responsiveness-improvements|Windows
+  Media Attachments and Chat Responsiveness Improvements]]'
+- '[[Changes/Google Antigravity/2026-08-13-improved-responsiveness-and-reduced-hanging-issues-when-sending-messages-to-the-ee025c|Improved
+  responsiveness and reduced hanging issues when sending messages to the agent]]'
 - '[[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added
   opt-in memory cgroup support for Bash tool commands on Linux…]]'
 source_release: '[[Releases/Ollama/ollama-2026-08-14-v0-32-12-github-370667638-941d53e4|ollama-2026-08-14-v0-32-12-github-370667638-941d53e4]]'

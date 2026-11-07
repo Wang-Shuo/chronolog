@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: ff5c220a796ea1fcb5619fdea66821ebd67873c336d7d543407d774f0f7b05af
+machine_hash: a712ae4730b81fe665c2f53df968e68e0a80699d8b5b796d620eb4cce78d9ac7
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: Fixed a bug where commands excluded from sandboxing…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-04-security-hooks-wrap-hook-injected-context-in-distinct-xml-tags-by-yunaseoul-in-h|security(hooks):
-  Wrap hook-injected context in distinct XML tags]]'
+- '[[Changes/OpenCode/2026-02-04-core-improve-skills-system-with-better-prompting-fix-permission-requests-after-s|Core
+  Improve skills system with better prompting, fix permission requests after…]]'
 - '[[Changes/Codex CLI/2026-02-05-2-safety-and-privacy-changes-in-rust-v0-97-0|2 Safety
   and Privacy changes in rust-v0.97.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-05-2-safety-and-privacy-changes-in-v0-0-403|2

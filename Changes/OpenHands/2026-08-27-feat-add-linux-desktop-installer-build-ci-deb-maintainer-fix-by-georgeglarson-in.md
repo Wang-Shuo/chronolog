@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72786644c6603c0ed09d5df0c984c7a9baceb225e148b29fb0cf70a8becac8a7
+machine_hash: fe5409a1898adc3b36e4d2a72b09f55b13b6b26a6b3214ef85d4d7648105e699
 product: openhands
 product_name: OpenHands
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed builds on Windows create their scratch caches on first run, so cargo, go…]]
-- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-the-native-mobile-app-gained-message-queuing-tappable-links-shared-chat-author-a|The native mobile app gained message queuing, tappable links, shared-chat author…]]
+- Later: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-gamma-is-now-on-ios-and-android|Gamma is now on iOS and Android]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

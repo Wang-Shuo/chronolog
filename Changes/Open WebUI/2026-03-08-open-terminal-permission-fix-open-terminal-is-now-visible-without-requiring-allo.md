@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3726aed684289bdaba00e2c7417c878640775ea54a1c63d2c9768a9e1f5f0e2b
+machine_hash: 1c35f34cc1a4cf67f00bbd1fd87084b7b149973bc9b5516bad9d277632c8e037
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,10 +58,10 @@ record:
     without requiring…"
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When
-  invoked, the agent spins up a cloud sandbox and follows your instructions using…]]'
 - '[[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed
   false-positive permission prompts for compound bash commands containing…]]'
+- '[[Changes/OpenCode/2026-03-07-core-enable-auto-accept-keybind-regardless-of-permission-config|Core
+  Enable auto-accept keybind regardless of permission config]]'
 - '[[Changes/Codex CLI/2026-03-08-6-safety-and-privacy-changes-in-rust-v0-112-0|6
   Safety and Privacy changes in rust-v0.112.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb|open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb]]'

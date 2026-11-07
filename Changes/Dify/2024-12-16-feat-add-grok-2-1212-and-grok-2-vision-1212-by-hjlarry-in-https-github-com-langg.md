@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8bd9a0f6389b306a2243518800830bf1f5ea40b9766918fd22b9dc43e4fb1e1c
+machine_hash: 6fcd062f2f1827402ec402cd87c9a0dbaf271ea48329d3b374843f5e849fc5b1
 product: dify
 product_name: Dify
 record:
@@ -41,10 +41,10 @@ record:
   title: 'feat: add grok-2-1212 and grok-2-vision-1212'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-25-support-video-proxy-and-ted-embedding-by-taowang1993-in-https-github-com-langgen|Support
-  Video Proxy and TED Embedding]]'
 - '[[Changes/Dify/2024-11-26-add-grok-vision-beta-to-xai-update-grok-beta-features-by-taowang1993-in-https-gi|Add
   grok-vision-beta to xAI + Update grok-beta Features]]'
+- '[[Changes/Midjourney/2024-12-11-to-learn-more-about-how-to-use-patchwork-read-through-the-user-guide-and-watch-t|To
+  learn more about how to use Patchwork, read through the user guide and watch…]]'
 - '[[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use
   the controls at the bottom of the screen, like the camera button below, to get started]]'
 source_release: '[[Releases/Dify/dify-2024-12-16-0-14-0-github-190879511-d35927cf|dify-2024-12-16-0-14-0-github-190879511-d35927cf]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2024-12-12 · ChatGPT · [[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use the controls at the bottom of the screen, like the camera button below, to get started]]
-- Later: 2025-03-28 · Replit · [[Changes/Replit/2025-03-28-deeplearningai-course-launch|DeepLearningAI course launch]]
+- Later: 2025-02-20 · Midjourney · [[Changes/Midjourney/2025-02-20-we-ve-added-a-new-folder-and-organization-system-to-the-website-check-out-the-vi|Midjourney adds a new folder and organization system to the website]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

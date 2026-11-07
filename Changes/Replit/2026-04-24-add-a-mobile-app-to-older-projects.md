@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: eb8c105c98fb0c515fc6a9f090ededcb4cfa151a47abc25af51ced2908e0ff8a
+machine_hash: b0f9943e584a830e79e424184f6dc1fda791c22f4bb6d82278447d43260267e0
 product: replit
 product_name: Replit
 record:
@@ -52,8 +52,8 @@ record:
   title: Add a mobile app to older projects
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-tool-availability-detection-works-correctly-on-windows|Tool
-  availability detection works correctly on Windows]]'
+- '[[Changes/OpenCode/2026-04-23-3-mobile-and-desktop-changes-in-v1-14-22-1|3 Mobile
+  and Desktop changes in v1.14.22 + 1]]'
 - '[[Changes/Codex CLI/2026-04-24-19167-ci-add-macos-keychain-entitlements-euroelessar|♯19167
   ci: add macOS keychain entitlements @euroelessar]]'
 - '[[Changes/Lovable/2026-04-24-lovable-desktop-app|Lovable desktop app]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-lovable-desktop-app|Lovable desktop app]]
-- Later: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]
+- Later: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-desktop-per-workspace-icon-overrides-now-stay-applied-for-subdirectories-in-the|Desktop Per-workspace icon overrides now stay applied for subdirectories in the same repo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

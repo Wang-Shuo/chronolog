@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ac4aab64c83af4e61071245fb289ddaf9c0ad1f8c4bb8edbbbe4a5951e1787b
+machine_hash: 5f1461440471da114078db7fac46c582763f0b1ba02c810a262f844aff23b21e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,11 @@ record:
   title: Advanced data analysis
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-03-2-files-and-data-changes-in-0-13-0|2 Files and Data changes
-  in 0.13.0]]'
 - '[[Changes/Dify/2024-12-09-document-extractor-handles-pptx-files-full-support-for-pptx-file-types-is-back-a|Document
   Extractor Handles PPTX Files]]'
 - '[[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]'
+- '[[Changes/Midjourney/2024-12-11-hi-all-today-we-re-launching-a-research-preview-of-a-new-worldbuilding-tool-patc|Hi
+  all! Today we’re launching a research preview of a new worldbuilding tool: Patchwork]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c|chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-12-10 · ChatGPT · [[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]
+- Earlier: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-hi-all-today-we-re-launching-a-research-preview-of-a-new-worldbuilding-tool-patc|Hi all! Today we’re launching a research preview of a new worldbuilding tool: Patchwork]]
 - Later: 2025-01-07 · Dify · [[Changes/Dify/2025-01-07-3-files-and-data-changes-in-0-15-0|3 Files and Data changes in 0.15.0]]
 <!-- chronolog:end -->
 

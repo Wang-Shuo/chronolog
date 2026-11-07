@@ -1,0 +1,1857 @@
+[
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://suno.com/release-notes",
+    "response_url": "https://suno.com/release-notes",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:01Z",
+    "sha256": "65375b4ba38dec323686db58dea0c3ef3265e2a410825055e7af243390fe25c7",
+    "file": "16b5abecf5c1d7caa8f5567769eb4f51a7f4dd1642e24ee7a1bb958f92474c81.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://runway.com/changelog",
+    "response_url": "https://runway.com/changelog",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:02Z",
+    "sha256": "a273867e50f92f3bf1df120c13267f46d156203302164e6a296d5e3f7ac9ef0a",
+    "file": "6bdcd3616956c5fac9a18e3044a814203299c135b835ff3d3f5a90ba6243e964.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/sitemap-posts.xml",
+    "response_url": "https://updates.midjourney.com/sitemap-posts.xml",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:03Z",
+    "sha256": "12d34c87f8690a1e427526cdb1f95645de13efd3233c7a465b01eefba04a1ebe",
+    "file": "1aadb7a6f618826256f3d1284fca43f23f63f978af5e21a318be9941827b748c.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/testing-thinking-mode/",
+    "response_url": "https://updates.midjourney.com/testing-thinking-mode/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:03Z",
+    "sha256": "48a28f154504e4e9334349724ed489eba631ea60caf551be51e389764d49d6dd",
+    "file": "69f77b3286bb350a3c6fdce4e5674f32c35081d796798c9f2deb9bb8135b8143.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/alpha-changelog-10-7-26/",
+    "response_url": "https://updates.midjourney.com/alpha-changelog-10-7-26/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:03Z",
+    "sha256": "07bac348b6817dd65595fc65bc0c4ea64c8dd9612b326bcc21890826dbe93cdc",
+    "file": "bc5a59ad63dc57f4467aca432ae77649c15595dd0b7360f582f7aadd1d1b96be.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/edit-updates-thumbnail-previews-and-more/",
+    "response_url": "https://updates.midjourney.com/edit-updates-thumbnail-previews-and-more/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:03Z",
+    "sha256": "16ce4b21adcd4e5787039be0d01c89b516d483f953ed4b7fee0bc2868536362c",
+    "file": "b1c6a9765e0fd7ab86ae5c81229aad23eb113d1950e41cef127c035d4ced04d2.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/alpha-changelog-10-1-26/",
+    "response_url": "https://updates.midjourney.com/alpha-changelog-10-1-26/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:04Z",
+    "sha256": "f46349a8435f76c842d0c5e6fed2c862d1f3b1173418408edbd44be85abde5b6",
+    "file": "5f81d96465d7571ebfe4ce49589af8544e862c49c022e875f00aa3473b5e423b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/alpha-changelog-9-23-26/",
+    "response_url": "https://updates.midjourney.com/alpha-changelog-9-23-26/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:04Z",
+    "sha256": "be1fd8c084218fdcbbdede754ddf7d63c39ef78f52b4227fae9244c302df3690",
+    "file": "0da35c6f61752d1ee08291d9fd133fcf6d904ff13c50bff20d7ed0214c4b4bae.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/alpha-changelog-9-16-26/",
+    "response_url": "https://updates.midjourney.com/alpha-changelog-9-16-26/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:04Z",
+    "sha256": "bebaaa13e806ccd0d19baab59e6ad1ebafc2facbaa1a6b10211a0939be4a0169",
+    "file": "589fd119c6ef827648c26a494d4132e270b8d88621b928db7d1d2796a65f4c5e.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/collecting-ideas-to-improve-midjourney/",
+    "response_url": "https://updates.midjourney.com/collecting-ideas-to-improve-midjourney/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:04Z",
+    "sha256": "eb1d2546138cf0d6c6a4d5c8c96b608edb54dda5313de5ecdafa335b2721048e",
+    "file": "16cf7e92d82cc400e9f88d51e6bfc10ff57e410da731d32a604aaa5114423b06.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/alpha-changelog-9-2-26/",
+    "response_url": "https://updates.midjourney.com/alpha-changelog-9-2-26/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:04Z",
+    "sha256": "b2cf9d0e4a4214d9dcbd488f9b5830c2806de1c3a016131048162a82d0683f15",
+    "file": "afc766816b1691d4353f2d0d9f0fab61789e23408c087950a101eaf32dac3483.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/edit-model-for-v8/",
+    "response_url": "https://updates.midjourney.com/edit-model-for-v8/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:05Z",
+    "sha256": "5ab973004f6b2bab204b0c26bf7821d7cb48591324294062cc66cb0120dd1964",
+    "file": "37c4d2dad7109ed8b43a661776b3143db23dc63fc0707766f0bfc126cd3772b4.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/edit-image-quality-update/",
+    "response_url": "https://updates.midjourney.com/edit-image-quality-update/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:05Z",
+    "sha256": "5e8dc787ad0879637d52397f4dd13b9f51fa0c72197d1522d63e7a1d7d614977",
+    "file": "383370f65b080483e472f420eb782367c76cad2547ba77c884114fd05ffe1c92.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/changelog-8-20-26/",
+    "response_url": "https://updates.midjourney.com/changelog-8-20-26/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:04Z",
+    "sha256": "419f00143781d1aacccc4087a6c1df78a977984d254527c7fda8a80d9ac0adf6",
+    "file": "e46cf8ebf2f4c7f868586cfaec22764b26db34c519e07a3e02b5ddaabb25eb4c.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/version-8-2/",
+    "response_url": "https://updates.midjourney.com/version-8-2/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:05Z",
+    "sha256": "a0bcee0e08c1912db431b3e93c8f13610d8a816c58335e436de468a8220ce937",
+    "file": "e0e847cc60f4804eb83f27299963a633c2d40723d1d996ef558d4b5ce37f715b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/midjourneys-first-acquisition/",
+    "response_url": "https://updates.midjourney.com/midjourneys-first-acquisition/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:05Z",
+    "sha256": "a90b9b4eb84e136f42d8ea8541daab102954e002e913bddb2ed0fdb0493c1a23",
+    "file": "5104d1b9e5b5b28a74f890e9ff3586500ef531a45d97037450954e88bc76a5f2.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/random-styles-in-draft-mode/",
+    "response_url": "https://updates.midjourney.com/random-styles-in-draft-mode/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:05Z",
+    "sha256": "4f0398fd2c2634f948169436aad555925d39d3272c7d09d7e379631d6083e627",
+    "file": "415166bc9bbb482e13e047f4ba262cbc3b494eb72ca06f9dbdc524a0f43c9c7c.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v8-1-is-now-the-default-model/",
+    "response_url": "https://updates.midjourney.com/v8-1-is-now-the-default-model/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:06Z",
+    "sha256": "286647157db40f4305a12115c7aeb2cedfd24ffe825f1637720268cf8b75254b",
+    "file": "3558d61154aeed005d8c3c253ca353780d9598e3c00b6aea165c159f75ace720.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/draft-mode-for-v8-1-and-new-feature-previews/",
+    "response_url": "https://updates.midjourney.com/draft-mode-for-v8-1-and-new-feature-previews/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:05Z",
+    "sha256": "fe69e9406ae18368ffd65a39de289c865e836c266ccb461c3d02f49d854b1d4a",
+    "file": "a405e23a7bb0ab9ace1a2fe6edd5f354161b74fa1d356051d7171e84db1655e2.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/hardware-announcement-livestream/",
+    "response_url": "https://updates.midjourney.com/hardware-announcement-livestream/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:05Z",
+    "sha256": "137df432219501d59077b4481f176ecb6c68ba65cee22b998d1e78018cbf039d",
+    "file": "77aa7517495ac5bfa875ab7d9d59bb2649598663de6d2dfcabcee40079bc916b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/web-updates-5/",
+    "response_url": "https://updates.midjourney.com/web-updates-5/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:06Z",
+    "sha256": "9d5cc24d131b598140716c20a49c6e275bc36391ee165bd1657800ae3ce4bf54",
+    "file": "62ff970908105f98824833ea80e4a0f853758a7961d144d620f06a4aab056f6f.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v8-1-alpha/",
+    "response_url": "https://updates.midjourney.com/v8-1-alpha/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:06Z",
+    "sha256": "6da9808deaf1d7d28336aed1cfa34f5a8fc3fb59a0cf4b9f2448d0d4b028e59f",
+    "file": "93723f2dda7cfe166eec1b93fa8523c17f59119702a7ae0a476331ce83b52d26.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/high-res-rating/",
+    "response_url": "https://updates.midjourney.com/high-res-rating/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:06Z",
+    "sha256": "d8f0aa351ed8d5fd749642bd36743be34cf322423c9b2e8db7e6c502635c617e",
+    "file": "d587dcdff615a1f62c312548e27fbf860680d1ae67dbbfcadef16d23fc8080cb.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v8-1-updates/",
+    "response_url": "https://updates.midjourney.com/v8-1-updates/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:06Z",
+    "sha256": "5acbe6d1ecf32dd8fd25460f6936868d6aecfa16f399c63dceb713519f0fbc6a",
+    "file": "1f3584a261f73e9de7f5ac06d50fb82dbb37130dae5a14ea1b171004e0b3b958.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v8-alpha/",
+    "response_url": "https://updates.midjourney.com/v8-alpha/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:06Z",
+    "sha256": "c073244648ad46df4f13d6f792ae17d23453298b1c923f2a3673e8da7b82082c",
+    "file": "48a8587fb0e40d6a0b2b2331decce3b483a6a2c31f11f9c3ab6399e5ec897684.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/relax-mode-for-v8-alpha/",
+    "response_url": "https://updates.midjourney.com/relax-mode-for-v8-alpha/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:06Z",
+    "sha256": "bf56be3f0f115fb8b4e760874f9187d8b7eb1be76cce11f694f193f6ad82fdf1",
+    "file": "42123641c119962e030f1b4c41867cfe10e5678b085f6e0c15ebeacead8f5d9d.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/personalization-and-web-updates/",
+    "response_url": "https://updates.midjourney.com/personalization-and-web-updates/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:07Z",
+    "sha256": "4a7caef759e32fbc3f9872733ff2d738923be077e07f5407ca02d42579b627ce",
+    "file": "c7a1bfaed6104c66dcec3e59991aa5d05c6571040a6812e3596d16aab4415421.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v8-rating-party-final-round/",
+    "response_url": "https://updates.midjourney.com/v8-rating-party-final-round/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:07Z",
+    "sha256": "e7d2ed602bbd3362fde48ac45203e29d6cc2917353a72bc5ba392584e2586003",
+    "file": "0dfa04f0480cbc4e92b41e530303eb9b518bdfad989adcb26e1424a66acebb79.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/an-update-on-rooms/",
+    "response_url": "https://updates.midjourney.com/an-update-on-rooms/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:07Z",
+    "sha256": "552df81ea60df539b8089e2e51856001a972edfdb2b5580aad75f8543c2467b9",
+    "file": "9020e7207c10d251ae08a26ff6e5843657e07c956e4fb3ae2cfca1cd5fcc633a.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v8-rating-party-round-3/",
+    "response_url": "https://updates.midjourney.com/v8-rating-party-round-3/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:07Z",
+    "sha256": "40a10954a2b01e9c395fc3aa191e03b220d945adaea0a5af4114fedd9004a76c",
+    "file": "e1b96de8fd9987c130056107ec3457c1b8dfaf969b277a586493fa56d102ccc2.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v8-rating-party-updates/",
+    "response_url": "https://updates.midjourney.com/v8-rating-party-updates/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:07Z",
+    "sha256": "a3400bc48ed51f1d2c7553558fa971ca2afcd3db6b0a32434b92a1576a2d6606",
+    "file": "564a54d082501a92589970892c0f8e8d41bc6e550bca14e7183f9cdc776cbd39.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v8-rating-party-round-2/",
+    "response_url": "https://updates.midjourney.com/v8-rating-party-round-2/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:07Z",
+    "sha256": "c4c539f1dc8bd32319ba0c4df91acd46471f20db2bfd853970ee030768457721",
+    "file": "5ac230964febf93cae8ad1d7fc5c247f0fef0a0ce2367ae88b9fefb73f598030.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v8-rating-party/",
+    "response_url": "https://updates.midjourney.com/v8-rating-party/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:07Z",
+    "sha256": "5ae74453d3537de8c22c9a44379d8c277a1d65e71de852e69de8196f7d008fdd",
+    "file": "f2ff68de6d1c7900032c74746071cceb1670b691f75795c224866ffe5fa4f7ee.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/web-updates-4/",
+    "response_url": "https://updates.midjourney.com/web-updates-4/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:08Z",
+    "sha256": "c5969d6844a0b1b8d5c92e9c84970a1af0f011a661727e0203500b1c64bdcced",
+    "file": "6fef8da2423b08001bfeb34fdfbd4172508345bf5df9107eb238ed71514eef06.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/web-updates-3/",
+    "response_url": "https://updates.midjourney.com/web-updates-3/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:08Z",
+    "sha256": "ddf235602ebd40f709167d5609f7b7474b661bd882e5ce1444dd95def0d0ee91",
+    "file": "dd99a72899f4be2787b11b2a35c38433ebcfb412a2b018d4658c993bd826e7c0.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/niji-v7/",
+    "response_url": "https://updates.midjourney.com/niji-v7/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:08Z",
+    "sha256": "dffc7f77b0c4f3247778c86cb7cd037da56d507840a9df822a50c850b462da98",
+    "file": "4fe0d3c41e4b9e00cdeb701900cfc38d52f49434bf7d3a00d19944a4f3f98c03.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/profiles-on-midjourney/",
+    "response_url": "https://updates.midjourney.com/profiles-on-midjourney/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:08Z",
+    "sha256": "9be10aead4da65fa7a1db771c58c82112480d8a4dad571251c537533d58b70c2",
+    "file": "7a7df16ee3ad98b9d2640c74f8e1894baaf27c61b3bae08de3d8cf71dca0225d.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/midjourney-sailboat-trips/",
+    "response_url": "https://updates.midjourney.com/midjourney-sailboat-trips/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:08Z",
+    "sha256": "70886768a8b7ba43c89b3de7f84b30bdc3a9ec764964e6038cecdd08caa1b295",
+    "file": "4382262135ccf1acf7658071fab594151acdc6f978b8b970114e1a9368612d0f.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/style-ranking-and-tv-update/",
+    "response_url": "https://updates.midjourney.com/style-ranking-and-tv-update/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:09Z",
+    "sha256": "41a3b5e0e3509dfa7517af48a6375cc587ed6924b81fcb17a208cc27bcd90ab2",
+    "file": "c39894bb9f16daebdb0b3855b402dfb0fdc9a2d403be639c74c2a9a4cab1d9db.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/style-ranking/",
+    "response_url": "https://updates.midjourney.com/style-ranking/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:09Z",
+    "sha256": "929d697c194916150f72c0fc01552f68a8b69dfa8c0c9c811526b29b4370f701",
+    "file": "c39c0bcef6fe02469cceda4911f75b36bac9820bd645f482838bc865f1401eda.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/10x-more-styles/",
+    "response_url": "https://updates.midjourney.com/10x-more-styles/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:09Z",
+    "sha256": "3d675dbac60936ff2df700fda72eb5dc6e63fc761a2e7879783d9429f5db1311",
+    "file": "808756e43333ad078f591a184720fd07c871bd2ecec2003860ef597e2a6002af.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/tutorial-videos/",
+    "response_url": "https://updates.midjourney.com/tutorial-videos/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:09Z",
+    "sha256": "0c2502c21fea38403b115bb43571897f2ef8a99efbddcff095aea4e6b108bb50",
+    "file": "c7391d3573507905d7324b2be723323ebc2cf8d5caac9f1ed5cb01767f819fe1.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/style-explorer-updates/",
+    "response_url": "https://updates.midjourney.com/style-explorer-updates/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:09Z",
+    "sha256": "3063d1a5fb6cfda819527673910d87095e86081f48c4ac843ce8009e2707927a",
+    "file": "fc0f29aa28d7296ade2c5104fcda3133f246a54899ef73ee515380dbd5632b73.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/style-explorer-v1/",
+    "response_url": "https://updates.midjourney.com/style-explorer-v1/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:09Z",
+    "sha256": "5ec2eba874adeaa3f87dd6d894fb51f926cb8dfdca11e86e6608f6d32c164aac",
+    "file": "7fa3a619353a9110cf8fe57580aab7e688e61f488408378e45f553f7f8c6cb45.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/new-video-options-and-a-home-for-moodboards/",
+    "response_url": "https://updates.midjourney.com/new-video-options-and-a-home-for-moodboards/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:09Z",
+    "sha256": "13fe502881f99551eb8d0302ee887f1bb49cdc5c76328629d3c21170bfe549e1",
+    "file": "70ea2dc8344db1c2a42a5da988e39b50400d25d7205b683d81ddaf3138f3004c.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/hd-mode-for-video/",
+    "response_url": "https://updates.midjourney.com/hd-mode-for-video/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:10Z",
+    "sha256": "5f40da136312f3fa14d38d86bc51346d732031abc26000d7faed939128bdd3c9",
+    "file": "72201f45bb1475f6918e4d23efc73032c812c8530c6265e9eb206d4dcb45f7c0.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/personalized-feeds-and-midjourney-tv/",
+    "response_url": "https://updates.midjourney.com/personalized-feeds-and-midjourney-tv/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:10Z",
+    "sha256": "76082cf682657afed4a35dcfc97ded0875b7f61a8e6b4168ca4df47b199b8f61",
+    "file": "0055e12d058d78334ffd146344304b7ce65715eb1725e8763708cdfe5e3017ef.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/looping-and-end-frame-for-video-video-in-the-discord-bot/",
+    "response_url": "https://updates.midjourney.com/looping-and-end-frame-for-video-video-in-the-discord-bot/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:10Z",
+    "sha256": "d7333776ed3f2dbf6fd6068bfb24b986c5df33ee0975228dcdf3f41dcd538412",
+    "file": "4a2a74564bc2922839afef27114d76ea41e8713d616318088c39b8630348bfe6.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/enterprise-api-survey/",
+    "response_url": "https://updates.midjourney.com/enterprise-api-survey/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:10Z",
+    "sha256": "cc66bbd4fa8952fb5bb0cec9bf7231c7c1858d023f1da0f2d88ebd21dac36267",
+    "file": "860961f264e291640d34c0f0f669bcf841f6cc0d6d0680ba1cb48afc29a08d1d.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/best-ways-to-create-more-videos/",
+    "response_url": "https://updates.midjourney.com/best-ways-to-create-more-videos/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:10Z",
+    "sha256": "a0acfe92c6cdcbe397a20d5969f6873b5d9d9aad538267b1336f3470af35765a",
+    "file": "4a4d3722537143155eccc195f6fda0da0acde3a1bbb042409ed126915b1512c7.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/save-for-social-media/",
+    "response_url": "https://updates.midjourney.com/save-for-social-media/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:10Z",
+    "sha256": "dfdfb585fb32b290d543ed01861534c4b7f76eadd28ecc5579cc570c54d1e1bf",
+    "file": "591147635ad42db7183134e310dd05aa6626523e75f1b967fbcf8483d2ee30d1.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/introducing-our-v1-video-model/",
+    "response_url": "https://updates.midjourney.com/introducing-our-v1-video-model/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:11Z",
+    "sha256": "b594702e9fa72066e42f52fb0c8be2620ed19810cba6d1f52fa17bfd50a79056",
+    "file": "97426157ad098739f32cf2f75dfe4bbf485c7116a98f2e0ef2d9d4181a3a4887.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/style-references-for-v7/",
+    "response_url": "https://updates.midjourney.com/style-references-for-v7/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:11Z",
+    "sha256": "e54d0925d63f483912f3be5157125a39e56a8f08a3053a6e9f53b38cf3f55d04",
+    "file": "f93677dc825f807276d8f6706a05ae4bd9bab134021f3365f9e1e5965dc5a29c.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v7-is-now-the-default-model/",
+    "response_url": "https://updates.midjourney.com/v7-is-now-the-default-model/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:11Z",
+    "sha256": "4d61d6d917d7a430e7996de8d695ae30d35496609c5991489d77874ad63a230f",
+    "file": "976533e381fd7cdc329a226ad2169c601c6f7c90ab1012c17bed8144d53f21f4.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/video-pricing-survey/",
+    "response_url": "https://updates.midjourney.com/video-pricing-survey/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:11Z",
+    "sha256": "36f6c6ce40cd7e4c89ddbd08be7f813a6aaad28906437617ed57a757ed02b98d",
+    "file": "8035b39f259c7878ee3d3e408d2413ef2cf4823c7de6513727d709881ef9e797.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/real-video-ranking/",
+    "response_url": "https://updates.midjourney.com/real-video-ranking/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:11Z",
+    "sha256": "0d457fd88287ebd89d39143e985d1afc9fd640ec529f480d16d69349e6edb705",
+    "file": "04662a00fdc37feb75fbc2391e7a8d634b755014b7c3cb6a5c19d9c0465ffeb8.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/video-rating-party-round-2/",
+    "response_url": "https://updates.midjourney.com/video-rating-party-round-2/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:12Z",
+    "sha256": "6e060d730c932c46a49a928a3bec5f6a924048eca3f18b569e3c009f2eea3872",
+    "file": "7e89ef6a4954803115224326e4fc1c3af0c185df3c45c27ca298bb126afe4098.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/video-rating-party-1/",
+    "response_url": "https://updates.midjourney.com/video-rating-party-1/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:12Z",
+    "sha256": "3b699071655c8f3cabe0ceae976bd35320511c91ce1c5c56d1bc4a9950efbe96",
+    "file": "e2aefe0d4440dc158a2bfbfb16b70bc5669e9089617422deb47b3d44f85d7682.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/faster-v7-ideas-ranking-party-and-better-moderation/",
+    "response_url": "https://updates.midjourney.com/faster-v7-ideas-ranking-party-and-better-moderation/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:12Z",
+    "sha256": "5de86e76b74a05185a6efeafeb71b8140cf7a5ab6c527299aea89c0943f34c0a",
+    "file": "a0c2f1d6cc51d4ebd3d6430e7e760a428201f803a89568666571944d80f13b16.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/rank-images-from-all-time/",
+    "response_url": "https://updates.midjourney.com/rank-images-from-all-time/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:12Z",
+    "sha256": "815fa501a05d99a82d8da33bb789a4a4ee98f8d73da1af4ad44a603616d23f17",
+    "file": "93ce95b6fdfcac16437f39ab82ab22febd7c862423d8f8b4dfa682af3c7d9f19.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/share-your-ideas/",
+    "response_url": "https://updates.midjourney.com/share-your-ideas/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:12Z",
+    "sha256": "44f2ed93c5f73f951af8c0154e005efa8b6df877340053d1b75dada260fc95aa",
+    "file": "4efab905c2c1c88f9328fe9f100a54a36125a2b9a996c7fe8fba00da97f917fe.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/fast-mode-for-v7/",
+    "response_url": "https://updates.midjourney.com/fast-mode-for-v7/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:12Z",
+    "sha256": "8060af61c87b562c9654c408e23f35346f8a108c0791be25c5f46bcee19f224f",
+    "file": "b1be785f73aafbd0f6f34a933ea1a50959d5208ce8588d4e2f94a254908ca9d3.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v7-update-editor-and-exp/",
+    "response_url": "https://updates.midjourney.com/v7-update-editor-and-exp/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:13Z",
+    "sha256": "60dd0033badd12a63e17d11c892542557b5f4ebf5b7c73a2f2d87b8d1a600f9b",
+    "file": "0fcc68b5422294dc88f9ad7b9154a5a4ffa7cf428b7e1f626098737261f567ed.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/omni-reference-oref/",
+    "response_url": "https://updates.midjourney.com/omni-reference-oref/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:12Z",
+    "sha256": "eb69d619c27f267efc750cfddcbee616e298b4d5b6c821071f5b7908a2afeb96",
+    "file": "a5409660ade78f7d788351d921c2e5c01c6adbdc0f906e107c5b5edb7c5a6e88.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/editor-improvements-a/",
+    "response_url": "https://updates.midjourney.com/editor-improvements-a/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:12Z",
+    "sha256": "c0d27656911a3cba37b2a33f273b6fc8cae7c9e0ee56d7bdd7fbd22461a9ee9a",
+    "file": "1db577cecd8e0e732c761a63e149983c5d690bd1d17c5565e5631c78d3be20e1.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v7-alpha/",
+    "response_url": "https://updates.midjourney.com/v7-alpha/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:13Z",
+    "sha256": "1d412e1129ec36d77eed0af0ac7e5be17ffde4e53219a15f505ca0ecbb1171c8",
+    "file": "db69a3542b9fabbb372b7aabb37e510ccd56fcc974f369b872dbedcf9c1e1c93.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v7-rating-party-round-3/",
+    "response_url": "https://updates.midjourney.com/v7-rating-party-round-3/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:13Z",
+    "sha256": "363b2173dfa1c432ab83c3156d2942f625d467427b26a931ca348f43279a3495",
+    "file": "8fcce18db6cdb1a45cce25642f82b024de614b581b1fe020eb51b3c842c0c50b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v7-rating-party-round-2/",
+    "response_url": "https://updates.midjourney.com/v7-rating-party-round-2/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:13Z",
+    "sha256": "ee965c05e3eb0ea111b840a858701365099d79de07ca18bb6440724241e409d3",
+    "file": "57329ae9a9d760a6dd515234d2de7859568fbe78a3e5175cdac40fc13088fe5b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/new-tools-for-organization/",
+    "response_url": "https://updates.midjourney.com/new-tools-for-organization/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:13Z",
+    "sha256": "2a59ab69151e1ef55aa03173c9a37ec55714dfda148e52c2fa8a74a7082600e1",
+    "file": "c442a1067b000e6c7d9e21d7ef193601737241781eb2fcb3c6a5e2ffb8448c5a.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/v7-rating-party/",
+    "response_url": "https://updates.midjourney.com/v7-rating-party/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:13Z",
+    "sha256": "1fe8e99a78e1098ee8258c180fa688c6aa02cc15d213f7dfd065e2e1837ac4be",
+    "file": "d6ec77ec0fff583cddf61ea378475054d9e11be1c59ac132c1c6cad5f3cfa383.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/describe-on-web-moodboard-blending/",
+    "response_url": "https://updates.midjourney.com/describe-on-web-moodboard-blending/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:14Z",
+    "sha256": "5b9087ac717d0ba38a5e44ce83fd6a41850593ce5a50535d6d10e2bd163b301c",
+    "file": "db3b4fa22e3b52b43cfc4b95c4d3c7f5feffe4ee3446b067873a7d55c6088d47.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/profiles-and-moodboards/",
+    "response_url": "https://updates.midjourney.com/profiles-and-moodboards/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:14Z",
+    "sha256": "4700a1fa27a13202bcb2b661288ae4bb0e291d4bd8f59bf689f5e1922331e2eb",
+    "file": "2f9db0cbd1d819e5a8b734e13aa02c0254e0cfed04b9004df023cfda4218bae1.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/patchwork-research-preview/",
+    "response_url": "https://updates.midjourney.com/patchwork-research-preview/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:14Z",
+    "sha256": "67bc94524ca90cd9bdc5b10d8071a250b5095b4554312a03da2402514ab91944",
+    "file": "99dbe2d40e262d417b6c8a7ebc62e5592afda627a16adb1c16be536a5e4836b0.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/editor-showcase/",
+    "response_url": "https://updates.midjourney.com/editor-showcase/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:14Z",
+    "sha256": "a331b1a698d8fee48771db3ae9e973215e526791ac97216f60e7c2c0564379b2",
+    "file": "a880f62f949be1181c333578b0aff18dd26993b424e37762afdba9ccec11da54.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/patchwork-user-guide/",
+    "response_url": "https://updates.midjourney.com/patchwork-user-guide/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:14Z",
+    "sha256": "7e010b2268f0c357582010daa522b705a5dcdb399ec610b09f1942a74f93430e",
+    "file": "a0d137a2b875376fe79c68c09b46a5377644ffd022fa6a0cc9ce838eb1d63ce2.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/midjourney-idea-collection-fall-2024/",
+    "response_url": "https://updates.midjourney.com/midjourney-idea-collection-fall-2024/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:14Z",
+    "sha256": "ff80c4ad31f6d25d607adfd2d5404685c9a8a362d8a4bd37eb97fdc386718a95",
+    "file": "ad0088b07a54b75704ffb547625060ae7a32481c4ad77eaefd65af1941040c3b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/personalization-for-niji/",
+    "response_url": "https://updates.midjourney.com/personalization-for-niji/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:14Z",
+    "sha256": "840a269f7ff16b49dd2c29f51b4761a05111730f7bb27dfe6c51399eafe9970c",
+    "file": "8d05aad072a13671103e83bc854b397cb09e614bb886d0ebb9fd1946c1c77cb4.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/external-image-editor/",
+    "response_url": "https://updates.midjourney.com/external-image-editor/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:15Z",
+    "sha256": "9d49a9a52e9b895efa54ed2b471f12b72006606ef29699caec7fa9c280a2e036",
+    "file": "ef6aa1988c081644943e8b3ba12bf2f207c25f7e4bfc22ca9206426267e27a59.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/the-web-is-open-to-all/",
+    "response_url": "https://updates.midjourney.com/the-web-is-open-to-all/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:15Z",
+    "sha256": "e1b448dc933d0e32db2537a4ade06e3b2806a6715ce2c03db79a02c17bcb5940",
+    "file": "280b49cab63d90f8a419841e7e077523b5a718723de0bab9684b428651408dac.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/image-editor/",
+    "response_url": "https://updates.midjourney.com/image-editor/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:15Z",
+    "sha256": "74a9ccc57180b855bf183b4e535e65caa2166346a2bba616eff7670f38911238",
+    "file": "b8747dd5082fe6858b1aa6f1fa18ef87536251a2e8a4425ba84effcb4e034717.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/aesthetic-research-surveys/",
+    "response_url": "https://updates.midjourney.com/aesthetic-research-surveys/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:15Z",
+    "sha256": "07a3ba1c2ea7c5531e65035409d650b9fe101a5a1e2ac14ce92d9ce2aa2f3447",
+    "file": "5566af1e378f0f9c35e3f1f4d5b6c7dcf3c81ff049b62a0f1eea67313a7021c0.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/version-6-1/",
+    "response_url": "https://updates.midjourney.com/version-6-1/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:15Z",
+    "sha256": "e202258ef69c1726986b8da40c05a6914d142678c9d64ab1a3f6a66c193f9c6e",
+    "file": "a0015deaff6ff17cda58809a4c46f685a6fd9a2f80098c2c80b8d3215cb1ab8f.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/web-updates-2/",
+    "response_url": "https://updates.midjourney.com/web-updates-2/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:15Z",
+    "sha256": "59a41e14ec669408b485e3266f995f41b2285fbd351a51d798a433ce5c728375",
+    "file": "89e4b272dc766d366c349309b3ba020ea143fe99509f6ddcb09c100a7fbe385a.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/temporarily-disabling-rerun-on-unstarted-jobs/",
+    "response_url": "https://updates.midjourney.com/temporarily-disabling-rerun-on-unstarted-jobs/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:16Z",
+    "sha256": "618e99437bbf7e78db338154f11a0c0fae710f1a75ca493ae4beaa8ba1f77dac",
+    "file": "2da8e1849ac4c68b2309b49c9bf4ef2f8233ce6a6d7ba75917e778c63e0dcf5d.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/year-one-book/",
+    "response_url": "https://updates.midjourney.com/year-one-book/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:15Z",
+    "sha256": "2204d7e8d4885db1af9f3dfbf49ed5ce334939ea880a8880108758c7e00289eb",
+    "file": "1307ddb8f29397971cd01b4a983911cc7a03dd6c1a422e8eb1498533a82ca90a.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/web-updates/",
+    "response_url": "https://updates.midjourney.com/web-updates/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:16Z",
+    "sha256": "19ad93353760bd33e731d1b188ab2863029d8e019b15c4c32292c83506088d19",
+    "file": "c51bf35725d543b72d061db8e0dbb52d94642e59d5d0f7b6afca5eaf3ed36332.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/personalization/",
+    "response_url": "https://updates.midjourney.com/personalization/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:16Z",
+    "sha256": "04c25b5cfb1ba9c23a189d26c6be2480d412afc5cb1870c53a53a267658aa65b",
+    "file": "4f52e60f2ce534aadb1912e2147de9999d9ccef33ecb6ff60fa777df3292a162.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/sref-random/",
+    "response_url": "https://updates.midjourney.com/sref-random/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:17Z",
+    "sha256": "ef438d683e9fa740f3f3bef97e7fd6eeb9e0a1a5c3b9a964f503539d711732a1",
+    "file": "e739a7129778f89c96bf76ed96a1e976584465e5fdd5d851a06d24c72c038d6a.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/rooms-are-open-to-the-1k-club/",
+    "response_url": "https://updates.midjourney.com/rooms-are-open-to-the-1k-club/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:16Z",
+    "sha256": "453a8b9329c752047e318904b898ca3c286a02f9fba8263bd8d62ea4bc850fcf",
+    "file": "de3a67d8f91e41256dc18d35faee1f373f4d2db12e7d2f0f221d7f08986b34ad.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/create-with-friends-in-private-rooms/",
+    "response_url": "https://updates.midjourney.com/create-with-friends-in-private-rooms/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:16Z",
+    "sha256": "c870b9ba788933afd0bcc57b3db4b858b8190dbb7635481b838061b1e17f7136",
+    "file": "77f0b1f629f1a02f605eddf901ffdaafe4e0830b810e30e0c3c53d750f42abc5.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/new-alpha-reporting-tool/",
+    "response_url": "https://updates.midjourney.com/new-alpha-reporting-tool/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:17Z",
+    "sha256": "0c7bcb5aa393d073842bdff496726e8897e5f753b7b854cf219c0bc3548756f7",
+    "file": "57c6f63acda0973c12d17bd6b742b9cca2c64de5ad57ee6ff6092e6f06278acc.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/new-style-refs-and/",
+    "response_url": "https://updates.midjourney.com/new-style-refs-and/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:17Z",
+    "sha256": "a2692f896ef11126fcb91a7c9267913489396c175ebab57ca3433f45df828c85",
+    "file": "270b4634b20a9b689283218a61e000a7197fd05214b18d05af6291abdc6e313c.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/fix-for-sv-no-submitting-in-web/",
+    "response_url": "https://updates.midjourney.com/fix-for-sv-no-submitting-in-web/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:17Z",
+    "sha256": "e60b55a5e2ec06d10e2d72b2b9c780545f8167f645011238bc656a08c73e4cb6",
+    "file": "847859bf869bd88b25786a7d9dd9d54dcb74bf9b9cbe3b246ddf06a1d80c0772.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/new-updates-page/",
+    "response_url": "https://updates.midjourney.com/new-updates-page/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:17Z",
+    "sha256": "8500d4c5aae0ea37d3db92168a76d494796ade30fca52cb0953d797d65c48de4",
+    "file": "d7c8e3667e5d518d7d53cd93d35803e45d2aae6a03ec891dbef4b96d4d56c176.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/rolling-back-niji-style-ref-update/",
+    "response_url": "https://updates.midjourney.com/rolling-back-niji-style-ref-update/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:17Z",
+    "sha256": "6576e9d057c5f7c825d3952f6cbf215b7192a861627e73d5c0b8ac609e5aea9d",
+    "file": "7650cf6290a227f814904e68c8602d84463247728d099caa6f55b01f166726fa.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/character-refs/",
+    "response_url": "https://updates.midjourney.com/character-refs/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:17Z",
+    "sha256": "61fe07800c7e25010a8614deddb53ec22826c3ded8c12ca9ee96a45259a5cc7a",
+    "file": "494ecad72e94d0ce582abed5401909922c2ecdc756b26f2d9082bffbcc614b7d.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/style-ref-v2/",
+    "response_url": "https://updates.midjourney.com/style-ref-v2/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:17Z",
+    "sha256": "2a9edb3cbdb9ee8cf6698f3019a36965b7ce806e745b611694f35b1ee81a0df9",
+    "file": "44eb7a54d89dc01d3412f3bfcab4d80ff7aa1972f605a485e15703d9e29e8e0d.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/launching-v6-turbo/",
+    "response_url": "https://updates.midjourney.com/launching-v6-turbo/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:18Z",
+    "sha256": "51fcb855cc062d54944d6b9d7c3c18b4f73a9f3a2e3abb19c7823f881b6e05ce",
+    "file": "a5b94b0836abd70c32093d6014173cd244e89c7d485a13dd1f70f00a4ce000f6.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://updates.midjourney.com/halting-free-gpu-rewards/",
+    "response_url": "https://updates.midjourney.com/halting-free-gpu-rewards/",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:18Z",
+    "sha256": "ecd2dbae6afbf3029111207bfee5d57d3b2a1b609e2c044bb37f1059c7a24b81",
+    "file": "5c36fe720693281b0d400d652e3f8cc672e3d89957ac88fb16c7a47b4d94090b.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 1,
+      "status": [
+        "published"
+      ]
+    },
+    "url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "response_url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:19Z",
+    "sha256": "960284e2007f706cdcc4ad0442016b99a2ae564f979fe0e8fb826f7112f8b521",
+    "file": "3f50542a53e1e32df4c6ab26d6c0d9c1000c6b8d73c9c46666911c3ff9000a91.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 2,
+      "status": [
+        "published"
+      ]
+    },
+    "url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "response_url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:21Z",
+    "sha256": "572a36f829c33b77c650c4fa41db29b37663b0df623f3f9f845f888b4aaf13e8",
+    "file": "7f8d6eb8706478bb2882cd4ec9f84f99f3f09a3fdaa9e0c735879b1d7a83efb2.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 3,
+      "status": [
+        "published"
+      ]
+    },
+    "url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "response_url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:22Z",
+    "sha256": "9e078d0f4597878640b6806ddd2d10c7ae89c929a0fcc0bad875bfb93d8de14e",
+    "file": "8865e22a1e07603dbf1896163ac02a56509775fbe25d93f2fd053bb376100b08.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 4,
+      "status": [
+        "published"
+      ]
+    },
+    "url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "response_url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:23Z",
+    "sha256": "85d90bcb624eee950232338adf0b2a0acc628e043f08bb742fcb4f4e99b177e1",
+    "file": "039ee601781ffd309d585b31a9da064ef228b53375f6490b1335e838fdc60450.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 5,
+      "status": [
+        "published"
+      ]
+    },
+    "url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "response_url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:25Z",
+    "sha256": "b13bafd4f2e19fd5d656819dccb1a23c424ab7cb12bc4e8f1d459b63fca69213",
+    "file": "03840a84c2f4c8174bc0bea667c873b6b9aeeb693809ddfa1d1ba5164b28a828.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 6,
+      "status": [
+        "published"
+      ]
+    },
+    "url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "response_url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:26Z",
+    "sha256": "69119f6e081bbcf31e2e44d503fb67ff1c9b5d74dd7d66cb41656feecf25eb77",
+    "file": "4611005f09abc59af4c4d28f00bce73e58cfb90b3ed46cbd03d4828e27da49c9.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 7,
+      "status": [
+        "published"
+      ]
+    },
+    "url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "response_url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:27Z",
+    "sha256": "cf9625ff4221cbc315437714a2a6e8f9803b9b89877c876b52357554848b96e2",
+    "file": "f5bdfad95c9744517cedefb1135293acdfa1fd01aadaaacd5939951d4a15a65e.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "pages": 8,
+      "status": [
+        "published"
+      ]
+    },
+    "url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "response_url": "https://ideas.gamma.app/api/changelog/getEntries",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:29Z",
+    "sha256": "0fe2bdf1924a740cbba137cb846995b91db54d37881e6fd706c23624d7655c37",
+    "file": "236ee9bed9cb03dba899094942cc70cce02377924186e67f2aab13ed795aef21.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://www.granola.ai/updates",
+    "response_url": "https://www.granola.ai/updates",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:29Z",
+    "sha256": "d563572237fc49a326a97f918a31f76787999a501395d0728c18a45b566f16a8",
+    "file": "d8f4157e783ad2b7a80d194ea1245b8d8ac4207f16294783d48fd67203983dca.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://antigravity.google/docs/changelog",
+    "response_url": "https://antigravity.google/docs/changelog",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:10:32Z",
+    "sha256": "6f876242d80954d43334966def985ff1e60d06f45cac60ab9259052a63a54701",
+    "file": "865d63b8e3729c24a96816c3f655c4678ffbc6dc5daafb4fbaa3a3b56bab51f1.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "limit": 20
+    },
+    "url": "https://api.manus.im/notifier.v1.NotificationPublicService/GetPublicUpdateNotifications",
+    "response_url": "https://api.manus.im/notifier.v1.NotificationPublicService/GetPublicUpdateNotifications",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:16Z",
+    "sha256": "7b70d7005b74df7c5dd89b79531492beaa37a86c158b0e00ff96247b86d8d986",
+    "file": "f5b4e08405029fe90a3ab9539f28a03bdad87ee54d2e1bc3333f5e94ed2ea121.gz"
+  },
+  {
+    "method": "POST",
+    "request_json": {
+      "limit": 20,
+      "latestUid": "KXChMuKKVyAeiWUGdRccdL"
+    },
+    "url": "https://api.manus.im/notifier.v1.NotificationPublicService/GetPublicUpdateNotifications",
+    "response_url": "https://api.manus.im/notifier.v1.NotificationPublicService/GetPublicUpdateNotifications",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:16Z",
+    "sha256": "ef32ba131bd84b233381e46f7a465ebeaceb84a4599ae38d27d9d7f332626634",
+    "file": "806ec093651a5e0f4898250787ada20a4a6a8876a610c077b449c6a15431065c.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases",
+    "response_url": "https://docs.openclaw.ai/releases",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:17Z",
+    "sha256": "351e85532cafee1908dc1c3e7cf0129b35ba37d66b18f90221d06ae9f6523354",
+    "file": "e5ba47443d07928871bd230961dc5dd639f32ba06be0fe43a8c472f2bd9292cb.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.10",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.10",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:18Z",
+    "sha256": "caac02681c5f35f6e8bf41412fcf25996d67926e7c6ec2b9e313188dc61db004",
+    "file": "8d4c45d5d74df573baca87b70a40dbceb0d7452b0798a0c8996b584dac4e29f3.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.9",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.9",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:18Z",
+    "sha256": "a0fdaf0debc3cdd664bb2b2552d9e38621ff7b9dc6fbf73aa9e51321321b97ad",
+    "file": "806943b9a539e4ec9216ec08b9f73ef2b7918e7223b305fb9e2844db59b792b0.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.11.1",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.11.1",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:18Z",
+    "sha256": "9359c767b8a9511c18d1a3b62822f2fdbc2c0a4b4fc9c0a62bd57ddabecd8b70",
+    "file": "f447b6e7a2d3afb1e0074948cc008b0629977d59b073d1c751708f4105a34540.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.8",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.8",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:18Z",
+    "sha256": "249aa3a0463ccae320ee0ebebe19defa5b9e6d8a19fb5c45a4a415e484b01ec7",
+    "file": "134b635660762c0379d1a5cc8d5f3a717b0d6966b5616e33aa0d65b3b1c3803e.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.10.9",
+    "response_url": "https://docs.openclaw.ai/releases/2026.10.9",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:18Z",
+    "sha256": "7182ce1590a487daf1fe383cdfc225d57b23cee531a35fdc42479dcf0ad1b1dc",
+    "file": "b50962088ddb2095e7cc9dc7af240a25946969148d078d84cf4d3a982fe6c8db.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.11.1",
+    "response_url": "https://docs.openclaw.ai/releases/2026.11.1",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:19Z",
+    "sha256": "4fcf8d1debd8c16c39212347d19a5ba3b2f87873df1dde1001422f0394b24073",
+    "file": "fd1bdda550740c63ef7df042f14b983912a638b508a44da7ae431c16314d67dc.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.10.8",
+    "response_url": "https://docs.openclaw.ai/releases/2026.10.8",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:18Z",
+    "sha256": "1a4160e6e0f06ba4f15ba10fc5779df9bd576f8c99f7c14aa545499e1faa1c33",
+    "file": "3d5103a019d4245dd0c0b2b9a5a506926017ff1c1b28f195563711dcf24c4bd9.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.10.10",
+    "response_url": "https://docs.openclaw.ai/releases/2026.10.10",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:19Z",
+    "sha256": "4cda3f487374d557885ee4075d68617818f9448d1f98532d020569ce9658fe62",
+    "file": "6fbfb73d29baf6c164bcb5d5bd5dcf6c56b45d1c701bec90905ec982deb04a0d.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.7",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.7",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:19Z",
+    "sha256": "bfda7001c1d386e60b2539d2d60ad60b89f20231896c01c12c6bd603fcbfa9b6",
+    "file": "9c9d97b4628853a0c07ec1fe717ae209ed812e33bb82f7a1f2438a036ddb0407.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.6",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.6",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:19Z",
+    "sha256": "f8cf0ad689d72a5a75d13daed745e6c1eabb423692febe2df900ee6fe86e008d",
+    "file": "6c7772e9baa1b380a8d49166e405fea21d9a2d4ef12b91a3403d3993e991e555.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.10.7",
+    "response_url": "https://docs.openclaw.ai/releases/2026.10.7",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:19Z",
+    "sha256": "5622559cdb1f2b92d143be385a3ba0d012577ba078dbead8082f6160392fea5e",
+    "file": "e9e3081aa1a93ce4089d536bbf06285f684673f4b0c28e64787ab033c1938921.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.5",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.5",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:20Z",
+    "sha256": "1e44a4ae70ec1a4c66f71f2f3591d48356889d715df4e79dffe8346ab5e1ad14",
+    "file": "f6a1d540837caf9c0eb3f5e5fcfadaccc3d571896368951a9e0c6852882f61f9.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.10.6",
+    "response_url": "https://docs.openclaw.ai/releases/2026.10.6",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:20Z",
+    "sha256": "14f4c5efa06918acd1247544bcb4cb0daa6c89a6d6e4839113b60b00653c16f3",
+    "file": "74dec8f20c26f3124d37bdd69d0b802e38b2de5f7f7614a86420f35ab699c35c.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.10.5",
+    "response_url": "https://docs.openclaw.ai/releases/2026.10.5",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:20Z",
+    "sha256": "04c4e1054668a104601cca0475dd2bbd648ca62c6a767e779895d57f3d95c6f2",
+    "file": "ad1a8807afa8103c28a9789bc4ac9e8cfcc4236aa7698de360e14c566d156d0d.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.4",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.4",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:20Z",
+    "sha256": "90bd678c4bf46049b5c127d6312687db82889c017c1bb093db8c3df2ba27ab25",
+    "file": "bb091b9f5270bb0433358a425b65fe2e1fef25d090f228719cd5879ee45949f3.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.10.4",
+    "response_url": "https://docs.openclaw.ai/releases/2026.10.4",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:20Z",
+    "sha256": "39ed35c0ba5824ef17c4d8e58d8b85e58c1004fc51642f75766f9ee8832ce70c",
+    "file": "ca65a6313dd080ec88bd8f9ca409a494bc0422f32e20e126ed2ad0a676fff56e.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.3",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.3",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:20Z",
+    "sha256": "9ae710d8338cb0105be51677d4fc8d9a81c13a809f822ec17cb66f3853a8e0ca",
+    "file": "130e32a4dec1051e04d71cee97a6e11dbe78d3da203bc6b8bd9e11b3f8f268e5.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.2",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.2",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:20Z",
+    "sha256": "fd06850a454dfc3ed35e643b1076930fd7a82e3603695526f980d8202cc362b0",
+    "file": "c5b67b7aac3744c0149d6f2276eabf27e2b15837939e8172eb6664b4437ef3b0.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.1",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.10.1",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:21Z",
+    "sha256": "60105d7c73a26d93f46d5ee1189cd41dac343a9ecb97ce276f5197018110d9cd",
+    "file": "3a32229ec6b7a919bad2fd2150e984c3e2b35f297e48922b5c92c510ab9d04f8.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.9",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.9",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:21Z",
+    "sha256": "2a65152fb9b92247427c861a6cb9cc41d302ee56fd92ab0bd1beca8a5109c544",
+    "file": "b4bacd2bd1554480b37e8898e2272e36213bec5155cab72c15ee3f29fec38252.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.10.3",
+    "response_url": "https://docs.openclaw.ai/releases/2026.10.3",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:21Z",
+    "sha256": "585c5d0f684c599824a0e810dd7ae4dfe15f380ab5c22719e853e855d2804349",
+    "file": "9cb7c3ef9029fe24bd4b62c010cf089d04aad103be4986a43e20f025d6b7837e.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.10.2",
+    "response_url": "https://docs.openclaw.ai/releases/2026.10.2",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:21Z",
+    "sha256": "5856a7535ff07fc00315d1b3d9247f01699fd09b7a8f0854cffc001f166f01ec",
+    "file": "cd7f0c8ba1ebfeb215352780dc8199bea3f4b1c59cf8b935a8ddf1cacea38c50.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.10.1",
+    "response_url": "https://docs.openclaw.ai/releases/2026.10.1",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:21Z",
+    "sha256": "20e9b3861b03b6abc95f282239e494828529b0a384d695650b54238a7935843d",
+    "file": "e984765e7c8cab3dd3ec395472f05aa8c517a0e75bc711eae4e14373c40b1676.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.9.9",
+    "response_url": "https://docs.openclaw.ai/releases/2026.9.9",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:22Z",
+    "sha256": "c9bf1513937b534f83d8f165038e1408888f0f860b6d3df75f1596737ef74942",
+    "file": "84bab5a8a59fa5331dd31c35c766f044819c370c3418f50fca44e79178425d50.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.8",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.8",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:21Z",
+    "sha256": "608fc3153da688de2908906c49e378efa1ffdc79d4390659ebad5649445a960a",
+    "file": "116a093060b28b6a4324bdaf082f58bf467c881da114fb288e0451da2166b94b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.6",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.6",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:22Z",
+    "sha256": "4f0c0bc5d8ff6068b80c510e560ff52bd2ef1a12d0b8c4f601a101df00768d1a",
+    "file": "ce9901d1de37541d791aaf5f7855bd279b5b83bb2924d983a8c9175487edc842.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.9.8",
+    "response_url": "https://docs.openclaw.ai/releases/2026.9.8",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:22Z",
+    "sha256": "3ae3d7279eb25ffe674e3d296a8b29a1c816a1553536a3753da5b2f3c777e591",
+    "file": "379d7d32f014f4ed81c5f823fbbb460b4a6ec0b6e051faf84eac71dab09dfe59.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.7",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.7",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:22Z",
+    "sha256": "4be596c6cd34c0641e1315c5ebe6f7e6cdce33d41420c9347bfad73b47234ce9",
+    "file": "ba0ca836780bde470059d1d68abb8ff440df07ffea66d7ccd4739ce4819f307a.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.9.6",
+    "response_url": "https://docs.openclaw.ai/releases/2026.9.6",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:23Z",
+    "sha256": "d843a0e22544b39584a53b2131ebf10c311edd3303a218cd4a3d3f5c68b733d6",
+    "file": "d4de39d5d075c2f90af1e0d648db9afc5132571b38849438415323f441e48f7b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.5",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.5",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:22Z",
+    "sha256": "3578862670425b5ca5ed15b337600f010d611e4e2b4a3e927e4ede4174cf0ebb",
+    "file": "a93671dd7135c6e5c020d58f7b5e318defe3aa432cac3c13c6f14faf511f5fb0.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.9.7",
+    "response_url": "https://docs.openclaw.ai/releases/2026.9.7",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:23Z",
+    "sha256": "9fdcc38e157cc1208dbb991b626bfca4bf36011587a6c530fdf52d501af34ad6",
+    "file": "55f00373bbd03f2bf0cd2ca18a16401201ad31fb0be2eb87af11db60bec8acdd.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.9.5",
+    "response_url": "https://docs.openclaw.ai/releases/2026.9.5",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:23Z",
+    "sha256": "dd24a2c1670334f9e263fd658972394582c0cb8699861a113d62f58ce87f6622",
+    "file": "c19bb442630e8e144a223dab0dafe2f2659533174492c0b9186064f1f361cbbc.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.4",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.4",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:23Z",
+    "sha256": "12253bf7c98a25cef3cd4af1a653d520eea446d6a7b67be81a044b113092135a",
+    "file": "f2bd4ae1e38cc97a4f465d7c9ee61727af100c763c827eb8bf9ccc4352668873.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.9.4",
+    "response_url": "https://docs.openclaw.ai/releases/2026.9.4",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:23Z",
+    "sha256": "ad4635ecba63f866d9312e95340245a2eb3fa9ebd017b0408b64054526b94683",
+    "file": "2d885c45ecfdd68f588221f282d6a2aeef1b43a6553ae925c9c9a440ed245f09.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.3",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.3",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:24Z",
+    "sha256": "17aedaf1844e8ad7b285314f4b0d04ff6a043149a8646082cb0e45821490b85f",
+    "file": "eb12848186130f7957fb70f1e60ad43267606195684c8b5719e46a7f445529cb.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.2",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.2",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:25Z",
+    "sha256": "6dc1c003ea6e6bd12ecfc9ef1a0c2c6e34d0b3f5c7df88f0d5974cf655ae4064",
+    "file": "5ac776059015cf172666426b3406ab74b10231bfab81a4d454706841e00b38da.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.9.2",
+    "response_url": "https://docs.openclaw.ai/releases/2026.9.2",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:25Z",
+    "sha256": "fb633a15856b4d622888f781b1a104fc43c7af09b1b93096861a09a83036bdd4",
+    "file": "08fe263a7d0050582815f61f61ddfdf47f73776d349ad15340bd923bbf147c02.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.9.3",
+    "response_url": "https://docs.openclaw.ai/releases/2026.9.3",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:25Z",
+    "sha256": "2f3806479701e89e8baba5f52cc48d7e1de9f0e51437053d0f7e4b90968dd639",
+    "file": "88dd72b006273a1a1dc7bec3eeec3075c4b8275536dcddb5d419e269af6577b4.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.1",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.9.1",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:25Z",
+    "sha256": "6958338c06bf4bac9cf020b906d84bcef9de514139ea4f1c62d31dcd5b952c34",
+    "file": "1b2d98c9b9c8356d9f5c0fb43062968b7b21bd4e5828e69fd4f2bb2906fdfc7a.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.9.1",
+    "response_url": "https://docs.openclaw.ai/releases/2026.9.1",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:26Z",
+    "sha256": "7111ece80302dfecdf95b059c92aaafc1e7acb8110a4dd0d2f4e282e048fe14d",
+    "file": "1b17b3769309429eac9e2678d9b962edd5f952413685db65165a2c18f7965765.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.8.2",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.8.2",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:25Z",
+    "sha256": "cae7d300e57da9a2e9cb1435daac085dd0480a93a4aeb12cda553790063e7f21",
+    "file": "b5bc2f44013d70cc161cc7e65d92f5b7766a3d98fe81b50fd18242091b455629.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.7.1",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.7.1",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:26Z",
+    "sha256": "92bb6c22d7d4c22715e4d2a87d0f67b76176043d2fa41ba57efafb6e921516e7",
+    "file": "56a05c34627a018d4d7e639c132eb9c0de2d051047fefb7bb40d412af0513bbc.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.8.1",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.8.1",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:26Z",
+    "sha256": "7f51c4ee7c1d307d9aba5dc87f33a9653a015fd849bfe69443c75c241205e69a",
+    "file": "ce7534debcd499a47a2a48b856436278f12dc7f13b75a2277da1b6a169f1b751.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.6.11",
+    "response_url": "https://api.github.com/repos/openclaw/openclaw/releases/tags/v2026.6.11",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:27Z",
+    "sha256": "eaf270e46dee11816b5c4315637d85ff50af10d425d9e2e62e48d79ffbad8515",
+    "file": "0f5f999621a2b2be605602fdc2341bcfd8dd08397f41cd8f84c80bc95389fa1c.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.8.2",
+    "response_url": "https://docs.openclaw.ai/releases/2026.8.2",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:25Z",
+    "sha256": "abd370c22c23751d141e380dcd79abcace7b068462c5ce20e27a642c23b5af2d",
+    "file": "6bbf30a6692e500ee65fbddea26dc49942106676b925ca59f9497d24b9e636a5.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.8.1",
+    "response_url": "https://docs.openclaw.ai/releases/2026.8.1",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:27Z",
+    "sha256": "72f651407ece89361cc22410386f3ae79a6ac87d4bfb228a7dda62859c18e4a4",
+    "file": "486ca10d98723c5b048c3aeee21500b257eaaf1dadd02b617dff2512b226d939.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.7.1",
+    "response_url": "https://docs.openclaw.ai/releases/2026.7.1",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:27Z",
+    "sha256": "97165126666ac83dda2199867e8bbd1318b5095ce285a9578912668b394a649d",
+    "file": "4cbb9cd031c12d6012166b1cf754c064ef462b66d5b9e8e5634f6c2cc8dbacd2.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://docs.openclaw.ai/releases/2026.6.11",
+    "response_url": "https://docs.openclaw.ai/releases/2026.6.11",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:27Z",
+    "sha256": "9babc291cc805f2cf493d08a3f41a274b72e33bcceab61da986387f7fa978b95",
+    "file": "d578c1f5269bf02b35ff58d43f5a8fcd56529b16fdf723263bac1f2c1104fef5.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog",
+    "response_url": "https://opencode.ai/changelog",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:30Z",
+    "sha256": "dcefe4e104814b5bafa6b8aef2b6b29a7a0656c95da268d5ad24d4a926b28ee0",
+    "file": "6452fb17f2d0dfcff43d4b921ece5d470ae1ccbea8afb877383eb73b06dbf34c.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=2",
+    "response_url": "https://opencode.ai/changelog?page=2",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:32Z",
+    "sha256": "5625da7330ff3366b3bb4166e4ae96776a0a91283ac6b4e23eeb50e6408502d0",
+    "file": "8ebde2f702194535eaf11e8416047b35da29991bb0ac5780a92f8175f1e7adcc.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=3",
+    "response_url": "https://opencode.ai/changelog?page=3",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:33Z",
+    "sha256": "c32c57bc079df5eda93d6afdbaf7df8752d5065850079909aa0fd23c35544419",
+    "file": "9905548280d6843752de46a8feda1369ac28d9a8f975f909d7f177e4165cd208.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=4",
+    "response_url": "https://opencode.ai/changelog?page=4",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:34Z",
+    "sha256": "653fc57404b18425d1a5278413a2dfb20a991308ec3146f452ac581940702a68",
+    "file": "addc6f4f98e1133fe892b43ac4337160af9b486e5a7f7967a155e6c2c692fb6e.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=5",
+    "response_url": "https://opencode.ai/changelog?page=5",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:35Z",
+    "sha256": "3c52d7df73487dee9378af20c5a6f5b42bd92648283b7500d779ac3841b608c8",
+    "file": "0b866a18db609c49402a8f419f78e62e7da90f6ed11ec3188b829944ae319ede.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=6",
+    "response_url": "https://opencode.ai/changelog?page=6",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:36Z",
+    "sha256": "97937573bf475cd11c608712b6d10f287c0b1424476a30b3ffef779b1fd31668",
+    "file": "03d3140cf98e2e49491c769a13995e4ba7f957655b0671016ad0aa7e69612c31.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=7",
+    "response_url": "https://opencode.ai/changelog?page=7",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:37Z",
+    "sha256": "4823aa7ce38ebafa8a20bfa83efb75eac486a373e860ceee493a235eaaccfaae",
+    "file": "dd6ff682d17cdcfb77d5aa08407bb4e5517d50d142b12aac56af274721fc51d9.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=8",
+    "response_url": "https://opencode.ai/changelog?page=8",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:37Z",
+    "sha256": "caf550128a9d87d2f8407a4a98fbe6251f9ab8a3635fedbfd2a53931db4f2543",
+    "file": "5d0bd7cbb6c3f80a817d4e9a43a5642a790377d35c9df386a906ae2e9516898b.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=9",
+    "response_url": "https://opencode.ai/changelog?page=9",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:39Z",
+    "sha256": "57a2ecc9d1230374b89cd8b0c72b2c31abe409a22c2b4df44bdff1011a7cb278",
+    "file": "9620d698851a5cef9bceb70463041036d8bd989604e9ec2795d1a73231983ee6.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=10",
+    "response_url": "https://opencode.ai/changelog?page=10",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:41Z",
+    "sha256": "cc1562b045392cd59a0685f278f02d4130d4a9a036ec9e25cddc2b16473e039b",
+    "file": "99f8f23040c4f773811b13b144e185c07f97fe7fb15bf42ddfae4236a828e590.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=11",
+    "response_url": "https://opencode.ai/changelog?page=11",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:42Z",
+    "sha256": "2ea96ebb8b0e7f5051b21ba0d46a83521cf350025f7bb24043810fd6dfd95fb4",
+    "file": "67b430ad8da830f873a7a4a8440329ce65bcf7b733fe699f7f5459b5431c8e59.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=12",
+    "response_url": "https://opencode.ai/changelog?page=12",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:42Z",
+    "sha256": "c1c48b9b4bd68b14ac322d6f4f5b08e0318f20562ffbcd7e1d8e62fe8220a9b8",
+    "file": "bd0a9203a5eb400f8ee41c0e560692957db3ad5414c2eab77e054d9fe989819a.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=13",
+    "response_url": "https://opencode.ai/changelog?page=13",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:43Z",
+    "sha256": "a3e04de540f8122038f1184557b6ed4526b1239b714cf8f53b21320f0abd9ce0",
+    "file": "0f40ff4fd5bf9235dbc7453f841bf84810a2b22049aa7be8c3a3dc18c1151733.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=14",
+    "response_url": "https://opencode.ai/changelog?page=14",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:45Z",
+    "sha256": "d022d85c7f0588c480c502318cafe0bdfc36d1860aebe7cdc5986e8f71b1c8e0",
+    "file": "8a31b0fe5b4debbfb71598095336c94332240552afd616c3cdf885195daf9431.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=15",
+    "response_url": "https://opencode.ai/changelog?page=15",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:46Z",
+    "sha256": "b26ee20ec308cb764c68151dd9a4cb05a91177eda7d3df18cba74a264d6ed6aa",
+    "file": "5548b893d0345af8f62a9287e8df311d1989b04e8586bdcb646863526d8e7aa1.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=16",
+    "response_url": "https://opencode.ai/changelog?page=16",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:47Z",
+    "sha256": "f10912167f894e48aefc1247aa491b07c333555590ba53804f391e338cb5394a",
+    "file": "bb10958efff7b5c22a16cd7a251c4f03d99c3032cd0b10a524974b22a26c7202.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=17",
+    "response_url": "https://opencode.ai/changelog?page=17",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:48Z",
+    "sha256": "ae8f64e6bd68b623b1b4413cf469261a725f93a960dcfb4881cd9bcb3cf2c57c",
+    "file": "fdf89beea2d1d016671436b7e40efcc5b76dd93d9d11c19ddc79882993590ea0.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=18",
+    "response_url": "https://opencode.ai/changelog?page=18",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:49Z",
+    "sha256": "ee15ff7beea0db71fc112c1e1042c218058554f2ad9d1b663c4e75b15e6b95da",
+    "file": "7d8cd27dd17be9602f2052d476dff407e5c53a5a720fe746979ade8c2b94178a.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=19",
+    "response_url": "https://opencode.ai/changelog?page=19",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:50Z",
+    "sha256": "358a5b442224f2aea0171fe15ab8032a946ecba82a46c7ae9c26a0687206edd1",
+    "file": "3f9206772d631d2022149b07da4a6b1edc3a23c99c06e92682d382e10bb9924f.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=20",
+    "response_url": "https://opencode.ai/changelog?page=20",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:50Z",
+    "sha256": "84ab42fa2c4d9d293fd8a6cb2a5d2fd4b87c3940eedc6a393fc09e377290b1ae",
+    "file": "02a55473c0c9e45eb788195f45bf80764e8c8876ef906170ed504015fd776d2d.gz"
+  },
+  {
+    "method": "GET",
+    "request_json": null,
+    "url": "https://opencode.ai/changelog?page=21",
+    "response_url": "https://opencode.ai/changelog?page=21",
+    "status": 200,
+    "acquired_at": "2026-11-07T02:13:51Z",
+    "sha256": "c8be32c5373d3b767db327ea33747899d36fce26fc24c42a8369ac3a24ff84b9",
+    "file": "8f6b4e8032f1ced64c6c4771846664180a1c77604ba52c6eac3115a8a5948da6.gz"
+  }
+]

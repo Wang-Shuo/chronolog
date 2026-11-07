@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 82445748593b4027ce1070677adeb2cd2ac595529f55226aced4207f17063ab9
+machine_hash: 991d993c95fbe62426a8167bfb0545327ccd40cc01411d977ac8c0975caba7cc
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: '**Multimodal Embedding:** Support richer content types beyond text'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-16-add-vision-capability-to-moonshot-v1-by-saoudrizwan-in-https-github-com-cline-cl|Add
-  vision capability to moonshot v1]]'
-- '[[Changes/Gemini CLI/2025-08-06-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core):
-  Parse Multimodal MCP Tool responses]]'
+- '[[Changes/Midjourney/2025-08-13-we-ve-improved-video-moderation-accuracy-and-you-should-now-see-fewer-blocked-jo|Midjourney
+  improves video moderation accuracy and you should now see fewer blocked jobs]]'
 - '[[Changes/Gemini CLI/2025-08-14-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core):
   Parse Multimodal MCP Tool responses]]'
+- '[[Changes/Midjourney/2025-09-04-we-re-launching-an-early-version-of-our-style-explorer-today-it-s-like-the-video|Midjourney
+  launches an early version of our style explorer today]]'
 source_release: '[[Releases/Dify/dify-2025-09-22-1-9-0-github-249001568-ef530801|dify-2025-09-22-1-9-0-github-249001568-ef530801]]'
 source_type: github_releases
 theme: multimodal
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core): Parse Multimodal MCP Tool responses]]
-- Later: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-2-multimodal-input-changes-in-v0-6-35|2 Multimodal Input changes in v0.6.35]]
+- Earlier: 2025-09-04 · Midjourney · [[Changes/Midjourney/2025-09-04-we-re-launching-an-early-version-of-our-style-explorer-today-it-s-like-the-video|Midjourney launches an early version of our style explorer today]]
+- Later: 2025-10-06 · Midjourney · [[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x more styles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

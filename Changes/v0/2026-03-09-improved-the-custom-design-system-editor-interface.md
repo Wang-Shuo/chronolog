@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0346bae4bf526a1e14d1b3e452c3a95d2738839eddf48ae869a084ac44bafc1e
+machine_hash: 8f83da46e77596e514c61713a52b64d8ce8264c1841bf715568d57459f875340
 product: v0
 product_name: v0
 record:
@@ -41,8 +41,8 @@ record:
   title: Improved the Custom Design System editor interface
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-06-to-commemorate-github-copilot-cli-reaching-general-availability-last-week-we-re|To
-  commemorate GitHub Copilot CLI reaching general availability last week, we''re…]]'
+- '[[Changes/OpenCode/2026-03-07-2-editor-experience-changes-in-v1-2-21|2 Editor Experience
+  changes in v1.2.21]]'
 - '[[Changes/Open WebUI/2026-03-08-open-terminal-html-editing-users-can-now-edit-html-source-files-in-open-terminal|✏️
   Open Terminal HTML editing. Users can now edit HTML source files in Open…]]'
 - '[[Changes/ElevenLabs/2026-03-09-elevencreative-studio-cd704d|ElevenCreative Studio]]'

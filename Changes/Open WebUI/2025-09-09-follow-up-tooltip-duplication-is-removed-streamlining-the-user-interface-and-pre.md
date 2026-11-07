@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb21e363caca38d45a3b5d84ced04206a76af6a20769cdcf6a063fa18377600e
+machine_hash: 1cd6127ed85b022652d05395686f47684ea347031aaf7c84f790e006c3d3580b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,10 @@ record:
     interface…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-29-major-readme-docs-refactor-and-navigation-2724|Major
-  README/docs refactor and navigation (♯2724)]]'
 - '[[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface
   Experience changes in v0.3.0]]'
+- '[[Changes/Midjourney/2025-09-04-you-can-hover-over-styles-and-press-try-style-to-render-whatever-is-in-your-prom|You
+  can hover over styles and press ''Try Style…]]'
 - '[[Changes/Codex CLI/2025-09-05-3135-tui-add-session-resume-picker-resume-and-quick-resume-continue|♯3135
   TUI: Add session resume picker (--resume) and quick resume (--continue)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-09-v0-6-27-github-245869039-35ab9819|open-webui-2025-09-09-v0-6-27-github-245869039-35ab9819]]'

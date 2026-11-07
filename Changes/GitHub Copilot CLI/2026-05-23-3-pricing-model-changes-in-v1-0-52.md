@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4bae2b365a73d12966c2050378d463b1849773f31317b7cdb737027951524e44
+machine_hash: 85440ab2c8023be0b59bb5dcec85d3423e1a088955064b696ca5b9411c9a5962
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.52
 ## Nearby in Pricing Model
 
 - Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-2-pricing-model-changes-in-v1-0-51|2 Pricing Model changes in v1.0.51]]
-- Later: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-3-pricing-model-changes-in-v1-0-55|3 Pricing Model changes in v1.0.55]]
+- Later: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-corrections-for-inaccuracies-in-the-account-settings-subscription-status-panel|Corrections for inaccuracies in the Account Settings subscription status panel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

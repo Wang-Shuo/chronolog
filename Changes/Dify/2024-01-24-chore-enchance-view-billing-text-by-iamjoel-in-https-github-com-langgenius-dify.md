@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 179e13a5cd0a7a38ee67ec7668bc6122034b72a42c0ad622b9e7d7c3c3f01523
+machine_hash: 13eba66e6b1eb880adfff970dce85d623bbd507c5c69286fbfed9ea37648a166
 product: dify
 product_name: Dify
 record:
@@ -40,10 +40,11 @@ record:
   title: 'chore: enchance view billing text'
   type: change
 related_changes:
-- '[[Changes/Dify/2023-12-08-3-pricing-model-changes-in-0-3-33|3 Pricing Model changes
-  in 0.3.33]]'
 - '[[Changes/Dify/2023-12-19-3-pricing-model-changes-in-0-3-34|3 Pricing Model changes
   in 0.3.34]]'
+- '[[Changes/Suno/2023-12-23-happy-holidays-all-we-are-grateful-for-the-community-s-support-as-we-round-out-t|Happy
+  holidays all - we are grateful for the community''s support as we round out the
+  year]]'
 - '[[Changes/Dify/2024-01-02-feat-add-billing-switch-by-garfielddai-in-https-github-com-langgenius-dify-pull|feat:
   add billing switch]]'
 source_release: '[[Releases/Dify/dify-2024-01-24-0-5-0-github-138266522-f37b973b|dify-2024-01-24-0-5-0-github-138266522-f37b973b]]'

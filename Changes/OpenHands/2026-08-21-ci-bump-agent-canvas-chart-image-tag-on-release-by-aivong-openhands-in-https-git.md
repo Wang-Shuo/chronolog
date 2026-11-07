@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 40f1f72ee30ab7b841c535e28dfba873641ea6be80116cb247617199e81cb641
+machine_hash: c453864961fcec96dfe64531bad821a7f4b474bf3d7e91c3b50b7c2cbae88907
 product: openhands
 product_name: OpenHands
 record:
@@ -54,8 +54,8 @@ record:
   title: 'ci: bump agent-canvas chart image tag on release'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-07-feat-settings-polish-agent-canvas-version-update-ui-by-fraterccclxiii-in-https-g|feat(settings):
-  polish Agent Canvas version update UI]]'
+- '[[Changes/OpenCode/2026-08-12-core-enabled-pdf-attachments-for-github-copilot-models-that-advertise-pdf-vision|Core
+  Enabled PDF attachments for GitHub Copilot models that advertise PDF vision support]]'
 - '[[Changes/OpenHands/2026-08-17-2-files-and-data-changes-in-v1-14-0|2 Files and
   Data changes in v1.14.0]]'
 - '[[Changes/Codex CLI/2026-08-20-39283-document-secure-devcontainer-dns-exfiltration-risk-copyberry|♯39283

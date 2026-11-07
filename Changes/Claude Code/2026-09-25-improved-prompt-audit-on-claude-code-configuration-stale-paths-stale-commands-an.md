@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19f7c6be70bb94b358c68df84b45ad8fb1d4fbf4a6e9ed7bd721fdc8d1a13f27
+machine_hash: f216c6f208781d9d2de443215aadf03b1255d6fe49b42387da0936d761b851b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Improved `prompt-audit` on Claude Code configuration
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-docs-codereview-clarify-agent-canvas-checkpoints-by-neubig-in-https-github-com-o|docs(codereview):
-  clarify Agent Canvas checkpoints]]'
 - '[[Changes/OpenHands/2026-09-22-docs-review-add-repository-and-product-scope-to-the-canvas-review-guide-by-all-h|docs(review):
   add repository and product scope to the Canvas review guide]]'
+- '[[Changes/OpenClaw/2026-09-23-6-files-and-data-changes-in-v2026-9-6|6 Files and
+  Data changes in v2026.9.6]]'
 - '[[Changes/OpenHands/2026-09-23-feat-tag-agent-canvas-telemetry-by-deployment-kind-oss-13530-by-malhotra5-in-htt|feat:
   tag Agent Canvas telemetry by deployment kind (OSS-13530)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: f1d71e7116d97534d08f005ef25680ee29227fe7a3cbb86520503a0e40314c73
+machine_hash: 6a7561180a80da11a57baf79bbfb1844dda367c5a6857371b740a95e5e41bdc4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,11 +69,11 @@ record:
   title: Changes to automatic switching to thinking in ChatGPT (Plus and Pro)
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-76-model-support-changes-in-1-17-1|76 Model Support changes
-  in 1.17.1]]'
 - '[[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added
   CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]'
 - '[[Changes/ElevenLabs/2026-09-11-scribe-v2-medical|Scribe v2 Medical]]'
+- '[[Changes/OpenClaw/2026-09-11-20-model-support-changes-in-v2026-9-4|20 Model Support
+  changes in v2026.9.4]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58|chatgpt-2026-09-14-changes-to-automatic-switching-to-thinking-in-chatgpt-plus-and-p-54d16c58]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-11 · ElevenLabs · [[Changes/ElevenLabs/2026-09-11-scribe-v2-medical|Scribe v2 Medical]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-20-model-support-changes-in-v2026-9-4|20 Model Support changes in v2026.9.4]]
 - Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-2-model-support-changes-in-v2-1-271|2 Model Support changes in v2.1.271]]
 <!-- chronolog:end -->
 

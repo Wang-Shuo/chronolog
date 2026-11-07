@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 21b5f18f982c0cf2d51dd52b554b4755dd65d3a1ec2d00e9daca63e9366eb559
+machine_hash: c0b985718523119377ff7e7a34185b447ced474b60d966ed213b362d85394d1d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,10 +55,11 @@ record:
   title: Healthcare Public Data in ChatGPT for Clinicians
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-31-sdk-releases|SDK releases]]'
 - '[[Changes/ElevenLabs/2026-08-31-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/Lovable/2026-08-31-create-a-connector-for-any-api|Create a connector
   for any API]]'
+- '[[Changes/OpenClaw/2026-08-31-2-apps-and-integrations-changes-in-v2026-8-1|2 Apps
+  and Integrations changes in v2026.8.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-01-healthcare-public-data-in-chatgpt-for-clinicians-d90a3c8e|chatgpt-2026-09-01-healthcare-public-data-in-chatgpt-for-clinicians-d90a3c8e]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-31 · Lovable · [[Changes/Lovable/2026-08-31-create-a-connector-for-any-api|Create a connector for any API]]
+- Earlier: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-2-apps-and-integrations-changes-in-v2026-8-1|2 Apps and Integrations changes in v2026.8.1]]
 - Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-apps-and-integrations-changes-in-v2-1-257|2 Apps and Integrations changes in v2.1.257]]
 <!-- chronolog:end -->
 

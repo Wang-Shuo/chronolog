@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 237689f7af708b5024e2d86162ad7db1f59d13054652c3c2bed2c00643e1da9c
+machine_hash: 95c06c16a40c7af532dade26ed6b0cdeb84d5f9c899802141db5d4007a9f8eb2
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
     models
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-28-2-model-support-changes-in-v3-55-0|2 Model Support changes
-  in v3.55.0]]'
-- '[[Changes/Gemini CLI/2026-01-28-4-model-support-changes-in-v0-26-0|4 Model Support
-  changes in v0.26.0]]'
 - '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|Retiring
   GPT-4o and other legacy models]]'
+- '[[Changes/OpenCode/2026-01-29-ensure-variants-for-copilot-models-work-with-maxtokens-being-set|Ensure
+  variants for Copilot models work with maxTokens being set]]'
+- '[[Changes/OpenCode/2026-01-29-core-fix-frontmatter-adding-newlines-causing-invalid-model-ids|Core
+  Fix frontmatter adding newlines causing invalid model IDs]]'
 source_release: '[[Releases/Cline/cline-2026-01-30-v3-56-2-github-281701833-bf79a861|cline-2026-01-30-v3-56-2-github-281701833-bf79a861]]'
 source_type: github_releases
 theme: model-support
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-29 · ChatGPT · [[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|Retiring GPT-4o and other legacy models]]
+- Earlier: 2026-01-29 · OpenCode · [[Changes/OpenCode/2026-01-29-core-fix-frontmatter-adding-newlines-causing-invalid-model-ids|Core Fix frontmatter adding newlines causing invalid model IDs]]
 - Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
 <!-- chronolog:end -->
 

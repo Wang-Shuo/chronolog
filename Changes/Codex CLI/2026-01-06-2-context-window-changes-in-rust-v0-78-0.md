@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4bbd7330db64f18d1f5c17955bf65d41b381c0ac2ef4424444498d5a5ad5057c
+machine_hash: d37354c99ce30d3e2d979ce550257d568a6ef56a740333d5ca5cada484bc6c43
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Context Window changes in rust-v0.78.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-24-multiple-fixes-to-the-model-context-protocol-implementation|Multiple
-  fixes to the Model Context Protocol implementation]]'
-- '[[Changes/Dify/2025-12-25-test-add-unit-tests-for-datasetconfig-component-with-comprehensive-coverage-of-r|test:
-  add unit tests for DatasetConfig component with comprehensive coverage…]]'
+- '[[Changes/OpenCode/2026-01-01-desktop-add-context-window-configuration-to-app|Desktop
+  Add context window configuration to app]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-02-add-auto-compaction-at-95-token-limit-and-compact-command|Add
   auto-compaction at 95% token limit and /compact command]]'
+- '[[Changes/OpenCode/2026-01-04-2-context-window-changes-in-v1-1-1|2 Context Window
+  changes in v1.1.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'
 source_type: github_releases
 theme: context-window
@@ -89,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.78.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-add-auto-compaction-at-95-token-limit-and-compact-command|Add auto-compaction at 95% token limit and /compact command]]
+- Earlier: 2026-01-04 · OpenCode · [[Changes/OpenCode/2026-01-04-2-context-window-changes-in-v1-1-1|2 Context Window changes in v1.1.1]]
 - Later: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add core tool that adds all context from the core package]]
 <!-- chronolog:end -->
 

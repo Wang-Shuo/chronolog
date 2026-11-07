@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b2be3a3ebb9a75e06805761c63fef7b5e3bddc7c795df135635ea859c9d844d
+machine_hash: 91b231c0c887d62938dcedc507fd2527bbf6b14fae41f307f9d09d06c97daa0a
 product: openhands
 product_name: OpenHands
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Automation and Scheduling changes in v1.28.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-14-automation-run-results-an-automation-run-is-now-recorded-as-successful-only-afte|⏰
-  Automation run results. An automation run is now recorded as successful only…]]'
-- "[[Changes/Open WebUI/2026-10-14-recurring-automations-run-once-automations-set-with-the-daily-weekly-or-monthly|\U0001F4C5
-  Recurring automations run once. Automations set with the Daily, Weekly…]]"
+- '[[Changes/Google Antigravity/2026-10-15-redesigned-side-panel-compact-and-model-choice-for-automations|Redesigned
+  side panel, /compact, and model choice for automations]]'
+- '[[Changes/OpenClaw/2026-10-16-standalone-plugin-hooks-configured-tool-rules-and-automations-from-enabled-stand|Standalone
+  plugin hooks]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-reasoning-only-max-token-responses-no-longer-loop-indefinitely-and-now-end-with|Reasoning-only
   max-token responses no longer loop indefinitely and now end…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-19-v1-28-0-github-417391290-d3015a14|openhands-2026-10-19-v1-28-0-github-417391290-d3015a14]]'

@@ -1,0 +1,125 @@
+{
+  "title": "ChronoLog",
+  "viewport": 1440,
+  "documentWidth": 1440,
+  "productCount": 29,
+  "products": [
+    [
+      "/chronolog/Products/Aider",
+      "Aider"
+    ],
+    [
+      "/chronolog/Products/ChatGPT",
+      "ChatGPT"
+    ],
+    [
+      "/chronolog/Products/Claude",
+      "Claude"
+    ],
+    [
+      "/chronolog/Products/Claude-Code",
+      "Claude Code"
+    ],
+    [
+      "/chronolog/Products/Cline",
+      "Cline"
+    ],
+    [
+      "/chronolog/Products/Codex-CLI",
+      "Codex CLI"
+    ],
+    [
+      "/chronolog/Products/Cursor",
+      "Cursor"
+    ],
+    [
+      "/chronolog/Products/DeepSeek-API",
+      "DeepSeek API"
+    ],
+    [
+      "/chronolog/Products/Dify",
+      "Dify"
+    ],
+    [
+      "/chronolog/Products/ElevenLabs",
+      "ElevenLabs"
+    ],
+    [
+      "/chronolog/Products/Gamma",
+      "Gamma"
+    ],
+    [
+      "/chronolog/Products/Gemini",
+      "Gemini"
+    ],
+    [
+      "/chronolog/Products/Gemini-CLI",
+      "Gemini CLI"
+    ],
+    [
+      "/chronolog/Products/GitHub-Copilot-CLI",
+      "GitHub Copilot CLI"
+    ],
+    [
+      "/chronolog/Products/Google-Antigravity",
+      "Google Antigravity"
+    ],
+    [
+      "/chronolog/Products/Granola",
+      "Granola"
+    ],
+    [
+      "/chronolog/Products/Lovable",
+      "Lovable"
+    ],
+    [
+      "/chronolog/Products/Manus",
+      "Manus"
+    ],
+    [
+      "/chronolog/Products/Midjourney",
+      "Midjourney"
+    ],
+    [
+      "/chronolog/Products/Ollama",
+      "Ollama"
+    ],
+    [
+      "/chronolog/Products/Open-WebUI",
+      "Open WebUI"
+    ],
+    [
+      "/chronolog/Products/OpenClaw",
+      "OpenClaw"
+    ],
+    [
+      "/chronolog/Products/OpenCode",
+      "OpenCode"
+    ],
+    [
+      "/chronolog/Products/OpenHands",
+      "OpenHands"
+    ],
+    [
+      "/chronolog/Products/Replit",
+      "Replit"
+    ],
+    [
+      "/chronolog/Products/Runway",
+      "Runway"
+    ],
+    [
+      "/chronolog/Products/Suno",
+      "Suno"
+    ],
+    [
+      "/chronolog/Products/v0",
+      "v0"
+    ],
+    [
+      "/chronolog/Products/Windsurf",
+      "Windsurf"
+    ]
+  ],
+  "stats": "ChronoLog\n\nTracked changes in AI products, from official release notes. 29 products · 15,809 tracked changes · 29 themes · archive to 2026-11-06 · About the data\n\nLatest changes\n⚠ Granola: Granola has no releases in the last 2 month windows.\n⚠ Manus: Manus has no releases in the last 2 month windows.\nAider\nNo changes archived between 2026-10-08 and 2026-11-06.\nChatGPT\n2026-10-30 · Memory and Personalization: Account "
+}

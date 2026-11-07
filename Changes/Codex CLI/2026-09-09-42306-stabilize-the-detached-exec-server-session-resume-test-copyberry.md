@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32e575acb9f9ba2661dbeb4bae42a40eaabcccc983f45569960db081a4085a28
+machine_hash: 0422cce99bb2287fca0d036f764b0225afd46bc723905801d510b12e16b56f29
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,11 +43,12 @@ record:
   title: '#42306 Stabilize the detached exec-server session resume test @copyberry'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-07-31-a-rebuilt-usage-page|A rebuilt usage page]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-a-failed-session-history-load-no-longer-leaves-the-timeline-permanently-empty-th|A
   failed session-history load no longer leaves the timeline permanently empty]]'
 - '[[Changes/Codex CLI/2026-09-03-42140-https-github-com-openai-codex-pull-42140-add-redo-support-to-vim-composer|♯42140((source
   link) Add redo support to Vim…]]'
+- '[[Changes/OpenClaw/2026-09-03-an-update-or-doctor-repair-now-does-more-to-preserve-the-setup-you-already-autho|An
+  update or Doctor repair now does more to preserve the setup you already authored…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-42140-https-github-com-openai-codex-pull-42140-add-redo-support-to-vim-composer|♯42140((source link) Add redo support to Vim…]]
+- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-an-update-or-doctor-repair-now-does-more-to-preserve-the-setup-you-already-autho|An update or Doctor repair now does more to preserve the setup you already authored…]]
 - Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-when-session-history-is-truncated-or-compacted-just-as-a-turn-finishes-the-worki|When session history is truncated or compacted just as a turn finishes…]]
 <!-- chronolog:end -->
 

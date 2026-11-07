@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e210dd0f95da878c58d0274aa82bfca27c4e66a7e393b520b934bed2407cad99
+machine_hash: abe1d7c075e902edbea8ada99c6d49d2c2402092b4c6ebaca9d6efa2c665c4d3
 product: aider
 product_name: Aider
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Editor Experience changes in v0.58.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE
-  (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]'
+- '[[Changes/Gamma/2024-09-17-we-ve-introduced-a-powerful-new-ai-feature-for-pro-subscribers-that-lets-you-edi|We''ve
+  introduced a powerful new AI feature for Pro subscribers that lets you edit…]]'
 - "[[Changes/Open WebUI/2024-09-19-enhanced-error-messaging-system-now-displays-helpful-error-messages-directly-to|\U0001F9E0
   Enhanced Error Messaging]]"
 - "[[Changes/Open WebUI/2024-09-26-chat-rename-tab-update-fixed-the-functionality-to-change-the-web-browser-s-tab-t|\U0001F3F7️

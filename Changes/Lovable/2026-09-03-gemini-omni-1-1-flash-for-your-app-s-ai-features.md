@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ee2bb70b1fc1ac7ec30a4f529bb42c7687161e72e09135904a7f13bda31ccc0d
+machine_hash: 07e3064cc3e71b10fe61eb50f94da5f5584f76c953ff715eda084af64ccd6237
 product: lovable
 product_name: Lovable
 record:
@@ -52,12 +52,12 @@ record:
   title: Gemini Omni 1.1 Flash for your app's AI features
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-0|2 Model
-  Support changes in rust-v0.153.0]]'
-- '[[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-1|2 Model
-  Support changes in rust-v0.153.1]]'
 - '[[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-2|2 Model
   Support changes in rust-v0.153.2]]'
+- '[[Changes/Google Antigravity/2026-09-03-enterprise-users-can-now-select-and-use-gemini-3-8-flash-using-adc-for-agentic-t|Enterprise
+  users can now select and use Gemini 3.8 Flash using ADC for agentic tasks]]'
+- '[[Changes/Google Antigravity/2026-09-03-gemini-3-8-flash-using-adc-in-agy-enterprise|Gemini
+  3.8 Flash using ADC in AGY Enterprise]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-03-2026-09-03-3162f27a|lovable-2026-09-03-2026-09-03-3162f27a]]'
 source_type: lovable_changelog
 theme: model-support
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-2|2 Model Support changes in rust-v0.153.2]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-improved-the-model-picker-and-the-vs-code-model-pill-to-show-a-model-s-name-inst|Improved the /model picker and the VS Code model pill to show a model's name…]]
+- Earlier: 2026-09-03 · Google Antigravity · [[Changes/Google Antigravity/2026-09-03-gemini-3-8-flash-using-adc-in-agy-enterprise|Gemini 3.8 Flash using ADC in AGY Enterprise]]
+- Later: 2026-09-03 · Midjourney · [[Changes/Midjourney/2026-09-03-thank-you-for-all-of-your-dedicated-testing-feedback-and-bug-reports-over-the-la|Thank you for all of your dedicated testing, feedback, and bug reports over the last…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

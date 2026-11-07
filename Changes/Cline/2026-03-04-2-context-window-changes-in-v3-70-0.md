@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 76edf4a48b35ed4d14dc3c8a097b33f2e77bdc75c6cff7de6ab87b32146cfafb
+machine_hash: a49f866acb594ecd0a2b835c21736a0925037e1007fc176a630870180d43f946
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Context Window changes in v3.70.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-12947-feat-add-local-date-timezone-to-turn-environment-context-celia-oai|♯12947
-  feat: add local date/timezone to turn environment context @celia-oai]]'
 - '[[Changes/Cline/2026-03-03-trigger-auto-compaction-on-openrouter-context-overflow-errors|Trigger
   auto-compaction on OpenRouter context overflow errors]]'
 - '[[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes
   in 2.6]]'
+- '[[Changes/OpenCode/2026-03-03-core-recover-from-413-request-entity-too-large-errors-via-automatic-compaction|Core
+  Recover from 413 Request Entity Too Large errors via automatic compaction]]'
 source_release: '[[Releases/Cline/cline-2026-03-04-v3-70-0-github-293184978-91bc11b0|cline-2026-03-04-v3-70-0-github-293184978-91bc11b0]]'
 source_type: github_releases
 theme: context-window
@@ -84,7 +84,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.70.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes in 2.6]]
+- Earlier: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-core-recover-from-413-request-entity-too-large-errors-via-automatic-compaction|Core Recover from 413 Request Entity Too Large errors via automatic compaction]]
 - Later: 2026-03-05 · ChatGPT · [[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT-5.4 Thinking in ChatGPT]]
 <!-- chronolog:end -->
 

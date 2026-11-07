@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 0636e0d92ab7c11970e4c44e9c0c9c811c751c9163c1b41360b99814386e889a
+machine_hash: 6797fa4f6ca5137135d922948b1f2c847015ff2bd34573d99c5c39f56957965c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
     Free users
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode:
-  Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]'
 - '[[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document
   node limitation for shift+tab]]'
+- '[[Changes/OpenCode/2026-03-12-desktop-skip-editor-reconcile-during-ime-composition|Desktop
+  Skip editor reconcile during IME composition]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-syntax-highlighting-in-diff-with-support-for-17-programming-languages|Syntax
   highlighting in /diff with support for 17 programming languages]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107|github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107]]'

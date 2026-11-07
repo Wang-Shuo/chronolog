@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 70ccee3eb76df809728861cd1ea5b03cf0d5e5b67ab50205e2d35b42e5fcacac
+machine_hash: bc1bf0fca34238ae0a17440a7267bd93f0798b4ae4c01915183a8057b80082b3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -45,8 +45,8 @@ record:
   title: Sound Effects
   type: change
 related_changes:
-- '[[Changes/Dify/2025-08-27-loop-exit-conditions-fixed-loop-exit-condition-to-accept-variables-from-nodes-in|Loop
-  Exit Conditions]]'
+- '[[Changes/Gamma/2025-08-29-ready-to-get-started-try-one-of-these-popular-automations|Ready
+  to get started?]]'
 - '[[Changes/ElevenLabs/2025-09-01-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2025-09-01-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-09-01-2025-09-01-b1665f28|elevenlabs-2025-09-01-2025-09-01-b1665f28]]'
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-loop-exit-conditions-fixed-loop-exit-condition-to-accept-variables-from-nodes-in|Loop Exit Conditions]]
-- Later: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-5-automation-and-scheduling-changes-in-1-9-0|5 Automation and Scheduling changes in 1.9.0]]
+- Earlier: 2025-08-29 · Gamma · [[Changes/Gamma/2025-08-29-ready-to-get-started-try-one-of-these-popular-automations|Ready to get started?]]
+- Later: 2025-09-16 · Gamma · [[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta|Gamma API: Automate your creative workflow (Beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

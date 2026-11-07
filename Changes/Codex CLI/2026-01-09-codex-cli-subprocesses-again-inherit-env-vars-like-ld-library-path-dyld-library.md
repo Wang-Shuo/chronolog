@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65524aee7b271ab95a9e3e14197f64eae899e2b7d2f48a096d31736978d1955f
+machine_hash: fb8b449766c298ba16827635a4d9301c7a123e95614921401de7a58135645d3f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: Codex CLI subprocesses again inherit env vars like…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-27-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
 - '[[Changes/Codex CLI/2026-01-06-performance-tuning-for-tuis-cap-redraw-scheduling-and-reduce-unnecessary-rerende|Performance
   tuning for TUIs]]'
+- '[[Changes/OpenCode/2026-01-06-3-reliability-and-performance-changes-in-v1-1-4|3
+  Reliability and Performance changes in v1.1.4]]'
 - '[[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2
   Reliability and Performance changes in New CLI Features and Improved CLI…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf|codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf]]'
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2 Reliability and Performance changes in New CLI Features and Improved CLI…]]
-- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-9-reliability-and-performance-changes-in-v0-7-0|9 Reliability and Performance changes in v0.7.0]]
+- Later: 2026-01-09 · Midjourney · [[Changes/Midjourney/2026-01-09-niji-v7-features-improved-anime-coherence-prompt-understanding-text-rendering-an|Niji V7 features improved anime coherence, prompt understanding, text rendering…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

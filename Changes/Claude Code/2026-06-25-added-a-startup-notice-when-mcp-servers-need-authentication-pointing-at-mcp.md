@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7e5ef3b3df39cbf415a759e9fe8c894cb4b3bc80889b526f5c909f4306c69cb
+machine_hash: faa9a9d6fee0d611d15669c5b25882f3b6da5904a2bfec904fe598022b058776
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
     `/mcp`
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-2-account-and-access-changes-in-v1-0-64|2
-  Account and Access changes in v1.0.64]]'
 - '[[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved
   MCP OAuth]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-silent-mcp-oauth-refresh-reuses-the-granted-scope-so-reconnects-stay-signed-in|Silent
   MCP OAuth refresh reuses the granted scope so reconnects stay signed in]]'
+- '[[Changes/OpenCode/2026-06-24-core-bound-mcp-oauth-callbacks-to-ipv4-loopback-for-better-local-auth-reliabilit|Core
+  Bound MCP OAuth callbacks to IPv4 loopback for better local auth reliability]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: account-access
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-silent-mcp-oauth-refresh-reuses-the-granted-scope-so-reconnects-stay-signed-in|Silent MCP OAuth refresh reuses the granted scope so reconnects stay signed in]]
+- Earlier: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-core-bound-mcp-oauth-callbacks-to-ipv4-loopback-for-better-local-auth-reliabilit|Core Bound MCP OAuth callbacks to IPv4 loopback for better local auth reliability]]
 - Later: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-macos-authentication-clients-can-honor-system-proxy-pac-and-wpad-settings-when-r|macOS authentication clients can honor system proxy, PAC, and WPAD settings…]]
 <!-- chronolog:end -->
 

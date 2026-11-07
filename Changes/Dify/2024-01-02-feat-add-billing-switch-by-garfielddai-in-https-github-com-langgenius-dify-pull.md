@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 5b59c8320a6d90a133bb879779ebe4d3fbe9f039d4c108078c1f6520d7f6b637
+machine_hash: 26fada2e0057e079a327f2006a3c805d2cc0c30dce97e7ecc1df4837c8043a12
 product: dify
 product_name: Dify
 record:
@@ -40,12 +40,13 @@ record:
   title: 'feat: add billing switch'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++
-  plan: if you hit your fast request limit and prefer to purchase more, you now can]]'
 - '[[Changes/Dify/2023-12-08-3-pricing-model-changes-in-0-3-33|3 Pricing Model changes
   in 0.3.33]]'
 - '[[Changes/Dify/2023-12-19-3-pricing-model-changes-in-0-3-34|3 Pricing Model changes
   in 0.3.34]]'
+- '[[Changes/Suno/2023-12-23-happy-holidays-all-we-are-grateful-for-the-community-s-support-as-we-round-out-t|Happy
+  holidays all - we are grateful for the community''s support as we round out the
+  year]]'
 source_release: '[[Releases/Dify/dify-2024-01-02-0-4-0-github-135559615-949bf14a|dify-2024-01-02-0-4-0-github-135559615-949bf14a]]'
 source_type: github_releases
 theme: pricing-model
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2023-12-19 · Dify · [[Changes/Dify/2023-12-19-3-pricing-model-changes-in-0-3-34|3 Pricing Model changes in 0.3.34]]
+- Earlier: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-happy-holidays-all-we-are-grateful-for-the-community-s-support-as-we-round-out-t|Happy holidays all - we are grateful for the community's support as we round out the year]]
 - Later: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-chore-enchance-view-billing-text-by-iamjoel-in-https-github-com-langgenius-dify|chore: enchance view billing text]]
 <!-- chronolog:end -->
 

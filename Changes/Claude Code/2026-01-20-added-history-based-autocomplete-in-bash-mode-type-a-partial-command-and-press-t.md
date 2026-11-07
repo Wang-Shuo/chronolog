@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a975deae6b34099c3a81a969bf26a56b6375ba192557b1004ca0901351d2f52e
+machine_hash: 8e3ca158de13be4adb955a6964d661533735c59f63b21cc8cd21d615ac6d5fc6
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Added history-based autocomplete in bash mode (`!`) - type a partial command…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor
-  brings many of the editor’s most-loved features to the Cursor CLI, along…]]'
 - '[[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Ask
   mode in CLI]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-16-2-editor-experience-changes-in-v0-0-384|2
   Editor Experience changes in v0.0.384]]'
+- '[[Changes/OpenCode/2026-01-19-2-editor-experience-changes-in-v1-1-26|2 Editor Experience
+  changes in v1.1.26]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: editor-experience
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-2-editor-experience-changes-in-v0-0-384|2 Editor Experience changes in v0.0.384]]
-- Later: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-4-editor-experience-changes-in-v0-25-0|4 Editor Experience changes in v0.25.0]]
+- Earlier: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-2-editor-experience-changes-in-v1-1-26|2 Editor Experience changes in v1.1.26]]
+- Later: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-2-editor-experience-changes-in-v1-1-28|2 Editor Experience changes in v1.1.28]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

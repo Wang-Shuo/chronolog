@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d4cdbf41b1c95c799dea566485fa9d1deff2ea372df681342f5b61692555575
+machine_hash: c5c91b0fc1068ac533848f26ba1cd62db24f6b5966ef6779474980415e948b03
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '[#3135] TUI: Add session resume picker (--resume) and quick resume (--continue)'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-08-28-2-interface-experience-changes-in-v0-6-26|2 Interface
-  Experience changes in v0.6.26]]'
 - '[[Changes/Codex CLI/2025-08-29-major-readme-docs-refactor-and-navigation-2724|Major
   README/docs refactor and navigation (♯2724)]]'
 - '[[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface
   Experience changes in v0.3.0]]'
+- '[[Changes/Midjourney/2025-09-04-you-can-hover-over-styles-and-press-try-style-to-render-whatever-is-in-your-prom|You
+  can hover over styles and press ''Try Style…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90|codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90]]'
 source_type: github_releases
 theme: interface-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface Experience changes in v0.3.0]]
+- Earlier: 2025-09-04 · Midjourney · [[Changes/Midjourney/2025-09-04-you-can-hover-over-styles-and-press-try-style-to-render-whatever-is-in-your-prom|You can hover over styles and press 'Try Style…]]
 - Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-follow-up-tooltip-duplication-is-removed-streamlining-the-user-interface-and-pre|💬 Follow-up tooltip duplication is removed, streamlining the user interface…]]
 <!-- chronolog:end -->
 

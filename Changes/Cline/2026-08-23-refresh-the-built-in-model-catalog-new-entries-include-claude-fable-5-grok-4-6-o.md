@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cdfed9593ceadde2e5a5428e2d2a4c5f7e3ddaba421d969c7ecbc0d6b510f15b
+machine_hash: d855ac9b43139b7285d22a85e008a882943f62de7b379c464451bfb835613868
 product: cline
 product_name: Cline
 record:
@@ -58,8 +58,8 @@ record:
   title: Refresh the built-in model catalog
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-21-3-model-support-changes-in-v4-1-11|3 Model Support changes
-  in v4.1.11]]'
+- '[[Changes/OpenCode/2026-08-21-core-route-vertex-ai-eu-and-us-multi-region-gemini-requests-through-rep-endpoint|Core
+  Route Vertex AI eu and us multi-region Gemini requests through REP endpoints]]'
 - '[[Changes/OpenHands/2026-08-21-perf-batch-streamingdeltaevents-so-the-ui-keeps-up-with-fast-models-by-vascosch9|perf:
   batch StreamingDeltaEvents so the UI keeps up with fast models]]'
 - '[[Changes/Cline/2026-08-22-restore-tool-calling-for-custom-openai-compatible-models-whose-capability-list-w|Restore
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-22 · Cline · [[Changes/Cline/2026-08-22-restore-tool-calling-for-custom-openai-compatible-models-whose-capability-list-w|Restore tool calling for custom OpenAI-Compatible models whose capability list…]]
-- Later: 2026-08-24 · Lovable · [[Changes/Lovable/2026-08-24-chat-latest-for-your-app-s-ai-features|Chat Latest for your app's AI features]]
+- Later: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-added-support-for-attaching-audio-files-mp3-wav-m4a-aac-ogg-flac-opus-up-to-20mb|Added support for attaching audio files (MP3, WAV, M4A, AAC, OGG, FLAC, OPUS) up…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

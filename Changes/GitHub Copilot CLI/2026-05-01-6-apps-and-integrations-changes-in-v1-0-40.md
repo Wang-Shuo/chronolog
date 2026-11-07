@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca3217598b7e873031d21eaadc2081bdb35829570666c8c6e40146b47ebcb284
+machine_hash: 5d5b9684d86d8f807a5b8a0a377471da4f09ac863dd2931d518712880549ecad
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -114,7 +114,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.40
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37 Apps and Integrations changes in rust-v0.128.0]]
-- Later: 2026-05-01 · OpenHands · [[Changes/OpenHands/2026-05-01-2-apps-and-integrations-changes-in-1-7-0|2 Apps and Integrations changes in 1.7.0]]
+- Later: 2026-05-01 · OpenCode · [[Changes/OpenCode/2026-05-01-core-invalid-remote-mcp-urls-now-fail-with-a-clear-error-instead-of-breaking-set|Core Invalid remote MCP URLs now fail with a clear error instead of breaking setup]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

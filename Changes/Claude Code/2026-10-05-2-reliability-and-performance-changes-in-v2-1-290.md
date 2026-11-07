@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 50963339b5835159ec52558bc715c892295c4a588b461c8e052d343d629951a7
+machine_hash: 02fc6eed1302786dc3b67f56a76e4938629f904eeb675008941d4fb7adaa170b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.290
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-47984-add-multi-agent-spawn-latency-and-failure-metrics-owenlin0|♯47984
-  Add multi-agent spawn latency and failure metrics @owenlin0]]'
-- '[[Changes/Claude Code/2026-09-29-fixed-the-powershell-tool-s-permission-check-skipping-deny-and-ask-rules-and-cac|Fixed
-  the PowerShell tool''s permission check skipping deny and ask rules…]]'
+- '[[Changes/OpenClaw/2026-09-30-administrators-can-opt-into-heap-snapshots-to-investigate-memory-growth-a-snapsh|Administrators
+  can opt into heap snapshots to investigate memory growth]]'
 - '[[Changes/Claude Code/2026-10-01-3-reliability-and-performance-changes-in-v2-1-287|3
   Reliability and Performance changes in v2.1.287]]'
+- '[[Changes/Runway/2026-10-02-agent-can-now-generate-with-seedance-2-5-draft-mode-creating-fast-480p-drafts-wi|Seedance
+  2.5 Draft Mode in Agent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
 theme: reliability-performance
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-3-reliability-and-performance-changes-in-v2-1-287|3 Reliability and Performance changes in v2.1.287]]
+- Earlier: 2026-10-02 · Runway · [[Changes/Runway/2026-10-02-agent-can-now-generate-with-seedance-2-5-draft-mode-creating-fast-480p-drafts-wi|Seedance 2.5 Draft Mode in Agent]]
 - Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved rendering speed of long bulleted or numbered replies]]
 <!-- chronolog:end -->
 

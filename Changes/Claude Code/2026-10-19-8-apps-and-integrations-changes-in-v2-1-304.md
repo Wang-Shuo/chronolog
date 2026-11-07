@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af7bf56e8b21f1022ed3f7b62e7c858f268e640d0f37fa15cf0e77f0acea58a9
+machine_hash: 316119248d67145dfac5b41964dacb4f6d7c77e869293cf428c524889452eb5d
 product: claude-code
 product_name: Claude Code
 record:
@@ -66,11 +66,12 @@ record:
   title: 8 Apps and Integrations changes in v2.1.304
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3
-  Apps and Integrations changes in v2.1.302]]'
-- '[[Changes/Lovable/2026-10-16-connect-your-app-to-pledge|Connect your app to Pledge]]'
+- '[[Changes/OpenClaw/2026-10-16-maintenance-warnings-completed-plugin-upgrades-stop-leaving-stale-unfinished-war|Maintenance
+  warnings]]'
 - '[[Changes/v0/2026-10-16-integration-icons-no-longer-fail-to-load-in-project-settings|Integration
   icons no longer fail to load in project settings]]'
+- '[[Changes/OpenClaw/2026-10-18-3-apps-and-integrations-changes-in-v2026-10-5|3 Apps
+  and Integrations changes in v2026.10.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
 source_type: github_releases
 theme: apps-integrations
@@ -124,7 +125,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-integration-icons-no-longer-fail-to-load-in-project-settings|Integration icons no longer fail to load in project settings]]
+- Earlier: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-3-apps-and-integrations-changes-in-v2026-10-5|3 Apps and Integrations changes in v2026.10.5]]
 - Later: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-sdk-releases|SDK releases]]
 <!-- chronolog:end -->
 

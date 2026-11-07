@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 57f34359bc27f8e8239c1244b82ca8845a1815ee16f456cf920ef214b9588435
+machine_hash: 4cb6253539fa3d6194ecd3f980e4ca1710ddbf3456ed9469886ec5efc841adeb
 product: dify
 product_name: Dify
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Account and Access changes in 1.9.2
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-16-feat-cli-fixes-cli-authentication-redirect-error-by-arafatkatze-in-https-github|feat(cli):
-  Fixes CLI authentication redirect error]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-16-enabled-non-interactive-ghe-logins-by-respecting-the-gh-host-environment-variabl|Enabled
   non-interactive GHE logins by respecting the GH_HOST environment variable…]]'
+- '[[Changes/Manus/2025-10-16-we-released-manus-1-5-https-manus-im-blog-manus-1-5-release-faster-higher-qualit|Introducing
+  Manus 1.5]]'
 - '[[Changes/Codex CLI/2025-10-17-prompt-mcp-login-when-adding-a-streamable-http-server-that-supports-oauth-5193|Prompt
   mcp login when adding a streamable HTTP server that supports oauth (♯5193)]]'
 source_release: '[[Releases/Dify/dify-2025-10-22-1-9-2-github-255984243-4bd350a7|dify-2025-10-22-1-9-2-github-255984243-4bd350a7]]'

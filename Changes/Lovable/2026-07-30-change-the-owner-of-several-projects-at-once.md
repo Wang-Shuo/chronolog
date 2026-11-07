@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 22a046be3db54b20f4ca3551cff51bf910c9b32fcb7f385d81ee0c748f7bb483
+machine_hash: a099db2eb2c5bd9237b5e013f84c9d127dcb40689888d36411ac584dc1b60071
 product: lovable
 product_name: Lovable
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-editor-experience-changes-in-v1-0-76|2 Editor Experience changes in v1.0.76]]
-- Later: 2026-08-01 · Windsurf · [[Changes/Windsurf/2026-08-01-the-edit-write-apply-patch-and-notebook-edit-tools-in-devin-local-now-refuse-to|The edit, write, apply_patch, and notebook_edit tools in Devin Local now…]]
+- Later: 2026-07-30 · OpenCode · [[Changes/OpenCode/2026-07-30-2-editor-experience-changes-in-v1-18-10|2 Editor Experience changes in v1.18.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

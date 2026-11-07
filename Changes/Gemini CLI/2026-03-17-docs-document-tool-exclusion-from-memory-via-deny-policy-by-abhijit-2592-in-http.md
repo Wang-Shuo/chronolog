@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7eda586236f80f7c7ba64651395de401c0b9f898ffb340cdb077bd41d5e0eec9
+machine_hash: 530d24250b308a7118f4a7f63b144eee0e492d1ad1d814567a497e896fe57c31
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-4-memory-and-personalization-changes-in-1-13-1|4 Memory and Personalization changes in 1.13.1]]
-- Later: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-4-memory-and-personalization-changes-in-rust-v0-116-0|4 Memory and Personalization changes in rust-v0.116.0]]
+- Later: 2026-03-17 · Midjourney · [[Changes/Midjourney/2026-03-17-other-tips-and-tricks|Other Tips and Tricks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

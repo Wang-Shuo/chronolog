@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bda9c5429d88d737c386dd481168937bbd90c00d4066789bc526599b2516f050
+machine_hash: 3f169fa4b3d17f6bf94858d0281daf4129aeda417a233b280c5ee7a31746d8c0
 product: dify
 product_name: Dify
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Multimodal Input changes in 0.6.2
   type: change
 related_changes:
-- '[[Changes/Ollama/2023-12-12-3-multimodal-input-changes-in-v0-1-15|3 Multimodal
-  Input changes in v0.1.15]]'
 - '[[Changes/Dify/2024-01-24-our-expansion-into-text-to-image-capabilities-marks-a-significant-step-in-our-mu|Our
   expansion into text-to-image capabilities marks a significant step in our…]]'
 - '[[Changes/Ollama/2024-02-02-3-multimodal-input-changes-in-v0-1-23|3 Multimodal
   Input changes in v0.1.23]]'
+- '[[Changes/Runway/2024-04-05-create-presets-to-easily-reuse-gen-2-prompt-text-camera-movements-motion-brushes|Custom
+  Gen-2 presets]]'
 source_release: '[[Releases/Dify/dify-2024-04-11-0-6-2-github-150787794-6e4c067b|dify-2024-04-11-0-6-2-github-150787794-6e4c067b]]'
 source_type: github_releases
 theme: multimodal
@@ -91,7 +91,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-02-02 · Ollama · [[Changes/Ollama/2024-02-02-3-multimodal-input-changes-in-v0-1-23|3 Multimodal Input changes in v0.1.23]]
+- Earlier: 2024-04-05 · Runway · [[Changes/Runway/2024-04-05-create-presets-to-easily-reuse-gen-2-prompt-text-camera-movements-motion-brushes|Custom Gen-2 presets]]
 - Later: 2024-04-21 · Aider · [[Changes/Aider/2024-04-21-4-turbo-vision|--4-turbo-vision]]
 <!-- chronolog:end -->
 

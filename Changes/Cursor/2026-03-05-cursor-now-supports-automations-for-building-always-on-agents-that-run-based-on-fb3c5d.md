@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a8062a68ad2eb298da83ec98bee01e567335095cfc83dace78a742dce6d139a
+machine_hash: 417d275b43541384b9fdd53b35b542f318396b3f69cee5ed532744746b0956bd
 product: cursor
 product_name: Cursor
 record:

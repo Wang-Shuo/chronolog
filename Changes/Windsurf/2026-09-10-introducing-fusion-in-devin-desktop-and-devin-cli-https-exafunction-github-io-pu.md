@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e0a4270cf3bef1d28be8c2b4d108c13a7ddef853f8f1d7a855231fbc67411f4
+machine_hash: 923e7afb6936d84239947868fbbeb07792fab9527896a6be06c754c328fd056b
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,9 +41,10 @@ record:
   title: '[![Introducing Fusion in Devin Desktop and Devin…'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-09-08-devin-desktop|Devin Desktop]]'
 - '[[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6
   Mobile and Desktop changes in rust-v0.154.0]]'
+- '[[Changes/Google Antigravity/2026-09-09-quote-or-add-selected-text-to-chat-using-cmd-l-or-cmd-i-on-macos-or-ctrl-l-and-c|Quote
+  or add selected text to chat using Cmd+L or Cmd+I on macOS, or Ctrl+L…]]'
 - '[[Changes/Dify/2026-09-10-skill-packages-built-on-windows-failed-with-a-misleading-error-a-skill-md-using|Skill
   packages built on Windows failed with a misleading error. A SKILL.md…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-09-10-v3-10-23-4196ed90|windsurf-2026-09-10-v3-10-23-4196ed90]]'

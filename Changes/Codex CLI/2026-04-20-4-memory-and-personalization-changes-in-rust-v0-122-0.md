@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 01391e286ad3e6c176ad67e1d56bcfa2a9ffe3e975f22a628c80604b04e3e6cf
+machine_hash: 0ed732778f70079042148cd19d081cb87e5bdad854c0fe5b310c5b1050747d30
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Memory and Personalization changes in rust-v0.122.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-14-2-memory-and-personalization-changes-in-v0-38-0|2
-  Memory and Personalization changes in v0.38.0]]'
 - '[[Changes/Codex CLI/2026-04-15-9-memory-and-personalization-changes-in-rust-v0-121-0|9
   Memory and Personalization changes in rust-v0.121.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-custom-instructions-and-skills-refresh-from-disk-after-clear-or-new|Custom
   instructions and skills refresh from disk after /clear or /new]]'
+- '[[Changes/OpenCode/2026-04-16-core-the-bash-tool-uses-less-memory-on-large-command-output|Core
+  The bash tool uses less memory on large command output]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'
 source_type: github_releases
 theme: memory
@@ -103,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-custom-instructions-and-skills-refresh-from-disk-after-clear-or-new|Custom instructions and skills refresh from disk after /clear or /new]]
+- Earlier: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-core-the-bash-tool-uses-less-memory-on-large-command-output|Core The bash tool uses less memory on large command output]]
 - Later: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-elevenagents-d2ebb2|ElevenAgents]]
 <!-- chronolog:end -->
 

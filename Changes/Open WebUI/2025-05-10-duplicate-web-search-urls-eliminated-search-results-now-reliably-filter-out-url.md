@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16f270962f1a6dd20642d8bb428070d54c1dbcbbab9030610d0e7554fcce8c04
+machine_hash: 5fb3ba42767819009fd85949f66ec1152692bf5df4e5b3dcd6f15780cafefb61
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: "\U0001F502 **Duplicate Web Search URLs Eliminated**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-04-13-sougou-web-search-integration-new-search-engine-option-added-enhancing-global-re|\U0001F9ED
-  Sougou Web Search Integration]]"
+- '[[Changes/Gamma/2025-04-16-layout-suggestions-powered-by-ai|Layout Suggestions
+  (Powered by AI)]]'
 - "[[Changes/Open WebUI/2025-05-05-optimized-faster-web-search-multi-threaded-queries-enjoy-dramatically-faster-web|\U0001F680
   Optimized Faster Web Search & Multi-Threaded Queries]]"
 - '[[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c64ceae1573fac358a20b9f73070a7a6b8102fd781954742a9ee3f5c95a7b92
+machine_hash: 0f6e7657b5bbf03986c98cc03560f7cdb3e790e037753b31e5659588eff20f34
 product: open-webui
 product_name: Open WebUI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.6
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-06-17 · Open WebUI · [[Changes/Open WebUI/2024-06-17-3-voice-and-audio-changes-in-v0-3-5|3 Voice and Audio changes in v0.3.5]]
-- Later: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS Streaming Config]]
+- Later: 2024-06-28 · Suno · [[Changes/Suno/2024-06-28-audio-input-is-now-available-to-everyone-including-those-with-free-accounts|Audio Input is now available to everyone, including those with free accounts!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

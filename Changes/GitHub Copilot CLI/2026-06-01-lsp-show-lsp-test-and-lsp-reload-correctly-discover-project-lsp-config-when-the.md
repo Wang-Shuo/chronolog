@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3871a6f1a79a6d07fa7bb7d6b026fb00f615b4bf23339566a2f429bd3c0a174e
+machine_hash: 22b169227c3c387f7a88b2caa00f39a2d3152bab357c0d326c0dc509004a164b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: /lsp show, /lsp test, and /lsp reload correctly discover project LSP config…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer
-  Workflow changes in v2.1.157]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-4-developer-workflow-changes-in-v1-0-56|4
   Developer Workflow changes in v1.0.56]]'
+- '[[Changes/OpenCode/2026-05-30-terminal-wrapped-inline-tool-rows-now-stay-aligned-and-failed-inline-tools-can-e|Terminal
+  Wrapped inline tool rows now stay aligned, and failed inline tools can…]]'
 - '[[Changes/Codex CLI/2026-06-01-11-developer-workflow-changes-in-rust-v0-136-0|11
   Developer Workflow changes in rust-v0.136.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d|github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bfabead4ff35fce9f99c3d75376a32a7bfda77db39fde4188d34ae28a226cd02
+machine_hash: b8c8417c9d40aa2a766410e3935cde071a6e381707eeb2d9f08efb1e2d55905e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,12 @@ record:
     only…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-10-automation-and-scheduling-changes-in-v0-12-0|10
-  Automation and Scheduling changes in v0.12.0]]'
 - '[[Changes/OpenHands/2026-10-12-4-automation-and-scheduling-changes-in-v1-27-0|4
   Automation and Scheduling changes in v1.27.0]]'
 - '[[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud|Supported
   PostgreSQL extensions on Lovable Cloud]]'
+- '[[Changes/OpenClaw/2026-10-13-windows-service-accounts-updates-recognize-different-task-scheduler-names-for-th|Windows
+  service accounts]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d|open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud|Supported PostgreSQL extensions on Lovable Cloud]]
+- Earlier: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-windows-service-accounts-updates-recognize-different-task-scheduler-names-for-th|Windows service accounts]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-recurring-automations-run-once-automations-set-with-the-daily-weekly-or-monthly|📅 Recurring automations run once. Automations set with the Daily, Weekly…]]
 <!-- chronolog:end -->
 

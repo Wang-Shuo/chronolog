@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b2625527344e78d8a132cf75d8acc4dae1cb643b08fac841d851a3df43ec901
+machine_hash: 1c4e9e20c856630224a1778fe3696efca57cf74ae659ad85093710e1e11a6939
 product: dify
 product_name: Dify
 record:
@@ -51,11 +51,11 @@ record:
   title: 3 Reliability and Performance changes in 1.13.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-03-feat-use-xdist-to-make-make-test-faster-by-yihong0618-in-https-github-com-langge|feat:
-  use xdist to make make test faster]]'
-- '[[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
 - '[[Changes/ElevenLabs/2026-02-09-text-to-speech|Text to Speech]]'
+- '[[Changes/OpenCode/2026-02-10-core-memory-leak-fixed-in-platform-fetch-for-events|Core
+  Memory leak fixed in platform fetch for events]]'
+- '[[Changes/OpenCode/2026-02-10-2-reliability-and-performance-changes-in-v1-1-54|2
+  Reliability and Performance changes in v1.1.54]]'
 source_release: '[[Releases/Dify/dify-2026-02-11-1-13-0-github-285073967-47691626|dify-2026-02-11-1-13-0-github-285073967-47691626]]'
 source_type: github_releases
 theme: reliability-performance
@@ -99,7 +99,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-text-to-speech|Text to Speech]]
+- Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-2-reliability-and-performance-changes-in-v1-1-54|2 Reliability and Performance changes in v1.1.54]]
 - Later: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-improved-websocket-session-stability-by-continuing-ping-handling-when-idle-and-s|Improved websocket session stability by continuing ping handling when idle…]]
 <!-- chronolog:end -->
 

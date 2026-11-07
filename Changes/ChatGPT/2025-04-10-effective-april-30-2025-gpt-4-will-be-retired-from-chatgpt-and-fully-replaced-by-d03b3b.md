@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 6659680a9cba179c5fea4af16e1d47957d03dd73ba23a3954a3766261f7beccb
+machine_hash: 2d59ed192a1d81b2b43f79537e81277eaa4791e2c364ca208bbd4917e44a1f06
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,10 +70,10 @@ record:
   title: Sunsetting GPT‑4 in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-04-06-2-model-support-changes-in-v0-6-5|2 Model Support changes
-  in v0.6.5]]'
 - "[[Changes/Open WebUI/2025-04-07-accurate-tool-descriptions-from-openapi-servers-external-tools-now-use-full-endp|\U0001F6E0️
   Accurate Tool Descriptions from OpenAPI Servers]]"
+- '[[Changes/Runway/2025-04-07-our-fastest-and-most-efficient-video-model-now-available-to-all-users|Gen-4
+  Turbo]]'
 - '[[Changes/Dify/2025-04-09-6-model-support-changes-in-1-2-0|6 Model Support changes
   in 1.2.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7|chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7]]'

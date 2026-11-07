@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c246096b324f631e0b7255957e6a81cf0224dc45ad6c7aaba64199283709d3e5
+machine_hash: b5ec7e8f3590578d68dd163c8f2b33f0353ecd716bd559001028df8b9b275cb3
 product: dify
 product_name: Dify
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-oauth-email-claim-customization-introduced-an-oauth-email-claim-variable-to-allo|🌀 OAuth Email Claim Customization]]
-- Later: 2024-08-27 · Open WebUI · [[Changes/Open WebUI/2024-08-27-disable-signups-conditionally-implemented-conditional-logic-to-disable-sign-ups|✋ Disable Signups Conditionally]]
+- Later: 2024-08-23 · Midjourney · [[Changes/Midjourney/2024-08-23-sign-in-with-your-discord-account-on-the-website-if-you-want-to-have-history-of|Sign in with your discord account on the website if you want to have history…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

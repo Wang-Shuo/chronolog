@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 284b4dc70236e1d877397c26e9da9635466d43f4af231095875cc9d6d9271252
+machine_hash: 112b31d4bab1e708d231ef748285ca16206896d692b732adb375ee6865f80d1b
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,10 @@ record:
     a paid plan'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated
-  /cost, the status line, --max-budget-usd and the SDK''s cost figures…]]'
 - '[[Changes/Lovable/2026-10-09-get-a-warning-before-your-credits-run-out|Get a warning
   before your credits run out]]'
+- '[[Changes/OpenClaw/2026-10-10-4-pricing-model-changes-in-v2026-10-1|4 Pricing Model
+  changes in v2026.10.1]]'
 - '[[Changes/Lovable/2026-10-12-see-how-much-usage-your-free-allowances-cover|See
   how much usage your free allowances cover]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-12-v0-40-4-github-410905890-5db61c07|ollama-2026-10-12-v0-40-4-github-410905890-5db61c07]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-12 · Lovable · [[Changes/Lovable/2026-10-12-see-how-much-usage-your-free-allowances-cover|See how much usage your free allowances cover]]
-- Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show billed AI Credits in /usage for token-billed sessions, including after resume]]
+- Later: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-2-pricing-model-changes-in-v2026-10-2|2 Pricing Model changes in v2026.10.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

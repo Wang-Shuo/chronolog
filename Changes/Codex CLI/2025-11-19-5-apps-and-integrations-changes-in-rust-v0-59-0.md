@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5047bd93b358041e9ec12bee028f256c6332e4c8592e37ae6cee29df3539d742
+machine_hash: 1fa22f6013763da806be236cc1723497627939f9c5ecc0a7e2efaccc0879ad91
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,11 +49,11 @@ record:
   title: 5 Apps and Integrations changes in rust-v0.59.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-14-3-apps-and-integrations-changes-in-v0-15-0|3 Apps
-  and Integrations changes in v0.15.0]]'
 - '[[Changes/Replit/2025-11-16-azure-marketplace-integration|Azure Marketplace integration]]'
 - '[[Changes/Cline/2025-11-18-feat-upgrade-sap-ai-sdk-js-packages-major-version-by-yuvalman-in-https-github-co|feat:
   upgrade sap ai-sdk-js packages major version]]'
+- '[[Changes/Manus/2025-11-18-manus-can-now-perform-tasks-directly-in-your-browser-autonomously-it-securely-wo|Introducing
+  Manus Browser Operator]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'
 source_type: github_releases
 theme: apps-integrations
@@ -104,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.59.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-18 · Cline · [[Changes/Cline/2025-11-18-feat-upgrade-sap-ai-sdk-js-packages-major-version-by-yuvalman-in-https-github-co|feat: upgrade sap ai-sdk-js packages major version]]
+- Earlier: 2025-11-18 · Manus · [[Changes/Manus/2025-11-18-manus-can-now-perform-tasks-directly-in-your-browser-autonomously-it-securely-wo|Introducing Manus Browser Operator]]
 - Later: 2025-11-20 · Codex CLI · [[Changes/Codex CLI/2025-11-20-3-apps-and-integrations-changes-in-rust-v0-61-0|3 Apps and Integrations changes in rust-v0.61.0]]
 <!-- chronolog:end -->
 

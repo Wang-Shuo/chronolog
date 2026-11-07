@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c9c82fcc16b991aac5f1fb23eccbfe719952183d79cc1b85cffdc32e9d024c5
+machine_hash: 92b74bb1d7f6ca30873afe91ca0fd058caf9fee0eb6e5e8064c4342a5319fe5f
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 3 Editor Experience changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-6-editor-experience-changes-in-1-17-1|6 Editor Experience
-  changes in 1.17.1]]'
 - '[[Changes/Lovable/2026-09-10-sync-your-project-with-bitbucket-cloud|Sync your project
   with Bitbucket Cloud]]'
 - '[[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor
   Experience changes in v2.1.269]]'
+- '[[Changes/OpenClaw/2026-09-11-5-editor-experience-changes-in-v2026-9-4|5 Editor
+  Experience changes in v2026.9.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: editor-experience
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor Experience changes in v2.1.269]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-5-editor-experience-changes-in-v2026-9-4|5 Editor Experience changes in v2026.9.4]]
 - Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-added-a-discard-unsaved-changes-confirmation-before-the-n|Claude Code on the web Added a "Discard unsaved changes?" confirmation before…]]
 <!-- chronolog:end -->
 

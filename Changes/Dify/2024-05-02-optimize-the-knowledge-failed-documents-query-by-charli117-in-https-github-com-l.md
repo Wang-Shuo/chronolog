@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 27ed027ec289a0b7f9a941999e5c114f1580f092526fd29f7ef3f1b1da201cf9
+machine_hash: a98db3848b77072cae60f1c6cfd8ea98f800e5d86d7e6db1409b0b205b03a1f4
 product: dify
 product_name: Dify
 record:
@@ -41,12 +41,12 @@ record:
   title: optimize the knowledge failed documents query
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-08-the-much-anticipated-workflow-feature-is-here-in-a-nutshell-workflow-provides-a|The
-  much-anticipated workflow feature is here]]'
 - '[[Changes/Dify/2024-04-22-feat-added-code-interpreter-tool-by-yeuoly-in-3557|feat:
   Added Code Interpreter Tool by @Yeuoly in ♯3557]]'
 - '[[Changes/Dify/2024-04-25-2-files-and-data-changes-in-0-6-5|2 Files and Data changes
   in 0.6.5]]'
+- '[[Changes/Gamma/2024-04-26-we-completely-revamped-our-diagrams-feature-come-play-in-a-new-freeform-canvas-a|Beautiful
+  Diagrams]]'
 source_release: '[[Releases/Dify/dify-2024-05-02-0-6-6-github-153776816-f9d55236|dify-2024-05-02-0-6-6-github-153776816-f9d55236]]'
 source_type: github_releases
 theme: file-data
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-2-files-and-data-changes-in-0-6-5|2 Files and Data changes in 0.6.5]]
+- Earlier: 2024-04-26 · Gamma · [[Changes/Gamma/2024-04-26-we-completely-revamped-our-diagrams-feature-come-play-in-a-new-freeform-canvas-a|Beautiful Diagrams]]
 - Later: 2024-05-14 · Gemini · [[Changes/Gemini/2024-05-14-exclusive-to-gemini-advanced-document-upload|Exclusive to Gemini Advanced: Document Upload]]
 <!-- chronolog:end -->
 

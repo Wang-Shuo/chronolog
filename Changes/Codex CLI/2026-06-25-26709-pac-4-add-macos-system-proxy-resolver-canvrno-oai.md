@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd8816c61ee85384260ae585a9f6f581a735a6a204be94b41f6ea7c86b50efac
+machine_hash: 7c1671fe0333ed822e9fc979e5003e89daa3bd3b0a38ca5669b284f2ec9f0dd2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,11 +41,11 @@ record:
   title: '#26709 PAC 4 - Add macOS system proxy resolver @canvrno-oai'
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On
-  mobile, an expired session while sending opens the re-authenticate flow instead…]]'
 - '[[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791
   bazel: refresh expired macOS SDK pin @anp-oai]]'
 - '[[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]'
+- '[[Changes/OpenCode/2026-06-24-15-mobile-and-desktop-changes-in-v1-17-10|15 Mobile
+  and Desktop changes in v1.17.10]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c|codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-23 · Windsurf · [[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]
+- Earlier: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-15-mobile-and-desktop-changes-in-v1-17-10|15 Mobile and Desktop changes in v1.17.10]]
 - Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-install-it-on-any-platform-macos-linux-windows-with-a-single-command-and-no-acce|Install it on any platform (macOS, Linux, Windows) with a single command and no…]]
 <!-- chronolog:end -->
 

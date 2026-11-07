@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45a6347ccfe6ded3d8d44ee90b4f3cb54b65657df86da4641898224f1c225154
+machine_hash: bb93c167fa7e9cfa0c798006cb5016668ee8645f356d6960ea0e3361175f6d99
 product: dify
 product_name: Dify
 record:
@@ -94,10 +94,10 @@ record:
   title: 16 Safety and Privacy changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety
-  and Privacy changes in v2.1.267]]'
 - '[[Changes/Codex CLI/2026-09-09-25-safety-and-privacy-changes-in-rust-v0-154-0|25
   Safety and Privacy changes in rust-v0.154.0]]'
+- '[[Changes/Google Antigravity/2026-09-09-3-safety-and-privacy-changes-in-hub-v2-13-0-introducing-new-documents|3
+  Safety and Privacy changes in HUB v2.13.0 — Introducing new Documents…]]'
 - '[[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety
   and Privacy changes in v2.1.268]]'
 source_release: '[[Releases/Dify/dify-2026-09-10-1-17-1-github-386157159-e472b6fe|dify-2026-09-10-1-17-1-github-386157159-e472b6fe]]'

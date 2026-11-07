@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d7c16a6b3f7840997ae5ec5192b6ad9790025578bbcde8b552f1591b9e36dbf
+machine_hash: d274107c63781f2d03ddb71179d4f5f896c9bfa32bdcd92aeab735ef57b64435
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,11 +45,12 @@ record:
     for images and files…"
   type: change
 related_changes:
-- '[[Changes/Replit/2025-08-29-app-themes|App themes]]'
-- '[[Changes/Gemini CLI/2025-09-04-2-collaboration-changes-in-v0-3-0|2 Collaboration
-  changes in v0.3.0]]'
-- '[[Changes/ElevenLabs/2025-09-08-backward-compatible-changes|Backward Compatible
-  Changes]]'
+- '[[Changes/Manus/2025-09-12-collaborate-with-your-team-in-real-time-stay-on-the-latest-version-and-keep-work|Introducing
+  Manus collaboration]]'
+- '[[Changes/Gamma/2025-09-16-gamma-for-teams-effortlessly-on-brand|Gamma for teams:
+  Effortlessly on-brand]]'
+- '[[Changes/Granola/2025-09-17-now-there-s-an-easier-way-to-stay-in-the-loop-with-your-team-s-conversations-whe|Shared
+  with me: a new way to keep up-to-date with important conversations]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-17-v0-6-29-github-248041750-6e2b0cd0|open-webui-2025-09-17-v0-6-29-github-248041750-6e2b0cd0]]'
 source_type: github_releases
 theme: collaboration
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-09-08 · ElevenLabs · [[Changes/ElevenLabs/2025-09-08-backward-compatible-changes|Backward Compatible Changes]]
+- Earlier: 2025-09-17 · Granola · [[Changes/Granola/2025-09-17-now-there-s-an-easier-way-to-stay-in-the-loop-with-your-team-s-conversations-whe|Shared with me: a new way to keep up-to-date with important conversations]]
 - Later: 2025-09-19 · Replit · [[Changes/Replit/2025-09-19-email-copying-from-members-page|Email copying from members page]]
 <!-- chronolog:end -->
 

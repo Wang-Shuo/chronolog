@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 115526607129bba9f0a05c07164780a4295294b803ef7179f74432a1326f99c1
+machine_hash: 216dbf3f618bc7f6c088136aa52cd9af58ba958cdcddffa0de7df4633598c6c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,8 @@ record:
   title: Sources from chats
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-feat-acp-add-session-resume-support-by-bdmorgan-in-https-github-com-google-gemin|feat(acp):
-  add session resume support]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-add-cmd-keybinds-for-session-history-navigation|Desktop
+  Add Cmd+/ keybinds for session history navigation]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-14-exit-from-alt-screen-no-longer-replays-full-session-history|Exit
   from alt-screen no longer replays full session history]]'
 - '[[Changes/Claude Code/2026-02-17-improved-startup-performance-by-removing-eager-loading-of-session-history-for-st|Improved

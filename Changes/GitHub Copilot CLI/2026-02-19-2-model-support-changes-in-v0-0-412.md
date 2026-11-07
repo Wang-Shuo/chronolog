@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d2bb62a1d327ac3616e4765511550aeda07200791743b8ec13e7d5e4779bd26
+machine_hash: b21182f8c1b42b812938e386b8ca4497af55350ae8d9cbdc5395393a961939de
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 ## Nearby in Model Support
 
 - Earlier: 2026-02-19 · Gemini · [[Changes/Gemini/2026-02-19-gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks|Gemini 3.1 Pro: A smarter model for your most complex tasks]]
-- Later: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-2-model-support-changes-in-v0-0-413|2 Model Support changes in v0.0.413]]
+- Later: 2026-02-19 · Google Antigravity · [[Changes/Google Antigravity/2026-02-19-2-model-support-changes-in-ide-v1-18-3-settings-artifacts|2 Model Support changes in IDE v1.18.3 — Settings, Artifacts…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b755ec4d92edf31a53030ff6e36bd7727357c7b865f1bb46635b6c464c992b2
+machine_hash: 6b08bab0b66c1934ccd6bea5955c5434bee2e4f0a881fda288ae537cf3178c7e
 product: v0
 product_name: v0
 record:
@@ -41,10 +41,10 @@ record:
   title: Added SSO page for team-specific authentication
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode:
-  Added support for remote sessions, allowing OAuth users to browse and resume…]]'
 - '[[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core):
   mock fetch in OAuth transport fallback tests]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-include-basic-authentication-in-app|Desktop
+  Include basic authentication in app]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-2-account-and-access-changes-in-v0-0-407|2
   Account and Access changes in v0.0.407]]'
 source_release: '[[Releases/v0/v0-2026-02-11-2026-02-11-e3ce8548|v0-2026-02-11-2026-02-11-e3ce8548]]'

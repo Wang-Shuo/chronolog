@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b06c29c5d4447e2bf0e65e58b9dd8ca4063a722df5d9800db68bacb1cad57ce8
+machine_hash: f172ef04c7767e9b86831b392c10c01dae57022c8ef7dbb2a3ec19612d341d19
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,12 @@ record:
   title: OpenClaw integration improvements for gateway checks
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-5-apps-and-integrations-changes-in-v0-35-0|5 Apps
-  and Integrations changes in v0.35.0]]'
 - '[[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google
   Drive app unification]]'
 - '[[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps
   and Integrations changes in v2.1.83]]'
+- '[[Changes/Google Antigravity/2026-03-25-linux-sandboxing-and-mcp-improvements|Linux
+  Sandboxing and MCP Improvements]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-25-v0-18-3-github-300946692-78775bca|ollama-2026-03-25-v0-18-3-github-300946692-78775bca]]'
 source_type: github_releases
 theme: apps-integrations
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps and Integrations changes in v2.1.83]]
+- Earlier: 2026-03-25 · Google Antigravity · [[Changes/Google Antigravity/2026-03-25-linux-sandboxing-and-mcp-improvements|Linux Sandboxing and MCP Improvements]]
 - Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-3-apps-and-integrations-changes-in-v0-8-11|3 Apps and Integrations changes in v0.8.11]]
 <!-- chronolog:end -->
 

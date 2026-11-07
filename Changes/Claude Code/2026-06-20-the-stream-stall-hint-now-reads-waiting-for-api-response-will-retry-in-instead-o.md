@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 011fadcab2e6245ecb193b8d25a759fc39c8b93e138460a6c5eb857547aacda6
+machine_hash: a2bf0256afed72dcf26b318b8dd53de16db742448f4712d3fff5710f69e0285a
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     …" instead…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|All tasks are
-  faster and more reliable]]'
 - '[[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved
   auto-retry: API connection drops mid-thinking now automatically retry…]]'
+- '[[Changes/OpenCode/2026-06-17-session-timelines-load-much-faster-and-avoid-flicker-or-scroll-jumps|Session
+  timelines load much faster and avoid flicker or scroll jumps]]'
 - '[[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier
   conversation sharing]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-20-v2-1-185-github-342367004-9ddb0cf9|claude-code-2026-06-20-v2-1-185-github-342367004-9ddb0cf9]]'

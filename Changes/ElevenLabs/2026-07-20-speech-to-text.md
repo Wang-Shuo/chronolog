@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4b22776986ce98484110a375fa0a8fa402bbaf9ecbfa9ccc09a0483615b6c0c3
+machine_hash: 4ae8cadd5d54d0b3a8f537eb0ffe149cd169dc95a47aba26f2c69e99f989a02e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -45,8 +45,8 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT
-  returns to WhatsApp in the EEA]]'
+- '[[Changes/OpenClaw/2026-07-13-83-voice-and-audio-changes-in-v2026-7-1|83 Voice
+  and Audio changes in v2026.7.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-add-voice-devices-to-choose-and-persist-the-microphone-for-voice-mode|Add
   /voice devices to choose and persist the microphone for voice mode]]'
 - '[[Changes/Dify/2026-07-17-3-voice-and-audio-changes-in-1-16-0|3 Voice and Audio

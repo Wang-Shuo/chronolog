@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b495a0d26b86a353c8e199224cad49c480d28e70e3b869e6b27ab30d2b60cab8
+machine_hash: 58dd27264065c0f9ec2eda52f616ffe70ee5ae359b53ee9f3a973167763355fc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Interface Experience changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added
-  wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-3-interface-experience-changes-in-v1-0-62|3
   Interface Experience changes in v1.0.62]]'
+- '[[Changes/OpenCode/2026-06-13-core-fixed-duplicate-renderable-ids-that-could-break-tui-rendering|Core
+  Fixed duplicate renderable IDs that could break TUI rendering]]'
 - '[[Changes/Codex CLI/2026-06-15-added-import-for-selectively-importing-setup-project-configuration-and-recent-ch|Added
   /import for selectively importing setup, project configuration, and recent…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-3-interface-experience-changes-in-v1-0-62|3 Interface Experience changes in v1.0.62]]
+- Earlier: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-core-fixed-duplicate-renderable-ids-that-could-break-tui-rendering|Core Fixed duplicate renderable IDs that could break TUI rendering]]
 - Later: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A new Scheduled page, discoverable in the sidebar, gives users one place to view…]]
 <!-- chronolog:end -->
 

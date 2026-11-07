@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be3e91efea4bd5a0e008d78aa25caa0d8e65fd2457469767285a1cb57a6d7a59
+machine_hash: b38c2de765353c2e8edb2d56a1fe9a4210c26b1b57e986b1bce2ead12a5a7d71
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -156,7 +156,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.147.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed the 200-subagent-per-session spawn cap]]
-- Later: 2026-08-07 · OpenHands · [[Changes/OpenHands/2026-08-07-feat-add-a-typed-agent-action-for-launching-local-or-cloud-child-conversations-b|feat: add a typed agent action for launching local or Cloud child conversations]]
+- Later: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-2-agent-mode-changes-in-hub-v2-6-0-faster-long-conversations|2 Agent Mode changes in HUB v2.6.0 — Faster long conversations…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

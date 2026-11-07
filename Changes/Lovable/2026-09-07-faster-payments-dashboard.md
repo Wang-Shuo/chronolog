@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a5ae11ae80e9c1e2855e7053aaddb55b763cd03b0a2ddc521c5c012a9654fd47
+machine_hash: 7de1b9b44796d2211ec7cdf65fbbe9750c5cea80fdaef86896b3e931521bb6b8
 product: lovable
 product_name: Lovable
 record:
@@ -44,12 +44,12 @@ record:
   title: Faster payments dashboard
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved
-  prompt input responsiveness by reducing per-keystroke rendering work]]'
 - '[[Changes/Claude Code/2026-09-04-improved-streaming-performance-already-rendered-blocks-are-no-longer-re-checked|Improved
   streaming performance]]'
 - '[[Changes/Ollama/2026-09-05-this-release-also-improves-structured-output-performance-on-apple-silicon-adds-s|This
   release also improves structured output performance on Apple Silicon, adds…]]'
+- '[[Changes/OpenClaw/2026-09-05-3-reliability-and-performance-changes-in-v2026-9-2|3
+  Reliability and Performance changes in v2026.9.2]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-07-2026-09-07-cf030a1d|lovable-2026-09-07-2026-09-07-cf030a1d]]'
 source_type: lovable_changelog
 theme: reliability-performance
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-05 · Ollama · [[Changes/Ollama/2026-09-05-this-release-also-improves-structured-output-performance-on-apple-silicon-adds-s|This release also improves structured output performance on Apple Silicon, adds…]]
-- Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved prompt input responsiveness]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-3-reliability-and-performance-changes-in-v2026-9-2|3 Reliability and Performance changes in v2026.9.2]]
+- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-4-reliability-and-performance-changes-in-v2026-9-3|4 Reliability and Performance changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

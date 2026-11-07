@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5577b8cb53b25c452d1e4a318cbb95e93db82658cf69948ca0b8624eb3c9cee8
+machine_hash: a99372ca8a8152bf439c55df3ad0796d299c15604f3d9161c4fb660144e9095c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,7 @@ record:
   title: 2 Interface Experience changes in v1.0.14
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2
-  Interface Experience changes in v1.0.13]]'
+- '[[Changes/Google Antigravity/2026-03-30-onboarding-fix|Onboarding Fix]]'
 - '[[Changes/OpenHands/2026-03-30-added-the-new-slash-command-to-the-slash-command-menu-by-karanjaxyz-in-https-git|Added
   the /new slash command to the slash command menu]]'
 - '[[Changes/Codex CLI/2026-03-31-3-interface-experience-changes-in-rust-v0-118-0|3

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 21ab9a77232496acf6d5a444748f75ddd1c58e7d2c4483c7d075010a4501a088
+machine_hash: a857b1dd70799e8f9c956d31d665914296a717dc0a4c487612d1396835981f9c
 product: lovable
 product_name: Lovable
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-23 · ElevenLabs · [[Changes/ElevenLabs/2026-09-23-image-video|Image & Video]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support changes in v2.1.282]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-22-model-support-changes-in-v2026-9-6|22 Model Support changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

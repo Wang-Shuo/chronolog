@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8feb860514d3edfc2e528ca8ecee4f00b62b58394b17a4330a06226dfbc8a33
+machine_hash: fa3dfd2310bc0983e983a8f33c0a3a7fd29f2b635c8b9655211deeab8cea794b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Developer Workflow changes in v0.8.10
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer
-  Workflow changes in v2.1.71]]'
-- '[[Changes/Open WebUI/2026-03-08-17-developer-workflow-changes-in-v0-8-9|17 Developer
-  Workflow changes in v0.8.9]]'
+- '[[Changes/OpenCode/2026-03-08-3-developer-workflow-changes-in-v1-2-22|3 Developer
+  Workflow changes in v1.2.22]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-09-5-developer-workflow-changes-in-v1-0-3|5
   Developer Workflow changes in v1.0.3]]'
+- '[[Changes/Google Antigravity/2026-03-09-removed-command-support|Removed Command
+  support]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-09-v0-8-10-github-294485945-5852a771|open-webui-2026-03-09-v0-8-10-github-294485945-5852a771]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,8 +91,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-5-developer-workflow-changes-in-v1-0-3|5 Developer Workflow changes in v1.0.3]]
-- Later: 2026-03-09 · Windsurf · [[Changes/Windsurf/2026-03-09-cascade|Cascade]]
+- Earlier: 2026-03-09 · Google Antigravity · [[Changes/Google Antigravity/2026-03-09-removed-command-support|Removed Command support]]
+- Later: 2026-03-09 · OpenCode · [[Changes/OpenCode/2026-03-09-terminal-pass-missing-auth-headers-in-run-attach|Terminal Pass missing auth headers in run --attach]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

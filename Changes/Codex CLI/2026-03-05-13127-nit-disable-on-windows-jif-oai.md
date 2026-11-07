@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d83cf04ad0ddd2bdb5cb71294147674486928a0bb5a81e0cbedcd53d6aed33db
+machine_hash: 68e33226f3064fc3fc1e504187eff77fa53b59d11a70b3daf74693df91a48440
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '#13127 nit: disable on windows @jif-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-27-copy-hint-shows-cmd-c-in-ghostty-on-macos-and-right-click-as-an-alternative-for|Copy
-  hint shows cmd+c in Ghostty on macOS and right-click as an alternative for all…]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-03-right-click-paste-no-longer-produces-garbled-text-on-windows|Right-click
-  paste no longer produces garbled text on Windows]]'
+- '[[Changes/OpenCode/2026-03-03-31-mobile-and-desktop-changes-in-v1-2-16|31 Mobile
+  and Desktop changes in v1.2.16]]'
+- '[[Changes/OpenCode/2026-03-04-3-mobile-and-desktop-changes-in-v1-2-17|3 Mobile
+  and Desktop changes in v1.2.17]]'
 - '[[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile
   and Desktop changes in v2.1.69]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-05-rust-v0-110-0-github-293239637-d5d06302|codex-cli-2026-03-05-rust-v0-110-0-github-293239637-d5d06302]]'

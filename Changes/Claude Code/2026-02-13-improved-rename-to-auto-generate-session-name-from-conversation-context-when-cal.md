@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 58373a86d3d0f9454b2ae9de2567d5b25eb4b2b1e2faa4fd391252041e3a3d8a
+machine_hash: 5d5e68adb85b669f3c159108e79c5f4665406b039aa6ebebe084e3ac711bcba6
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Improved `/rename` to auto-generate session name from conversation context…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-3-context-window-changes-in-rust-v0-100-0|3 Context
-  Window changes in rust-v0.100.0]]'
-- '[[Changes/Open WebUI/2026-02-12-5-context-window-changes-in-v0-8-0|5 Context Window
-  changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-12-desktop-more-defensive-session-context-metrics-handling-in-app|Desktop
+  More defensive session context metrics handling in app]]'
+- '[[Changes/OpenCode/2026-02-12-core-improve-compaction-check-logic|Core Improve
+  compaction check logic]]'
 - '[[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach
   up to 20 files in a single message]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3233457184b4d36322f9f37c3f97e009f3237938c501d5199818c2bcb65fb368
+machine_hash: f5d4aa4e616a4c3fb3accc990597167c4bfda77ea48ab56128a76625aa4184cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-14829-stack-3-4-add-current-thread-context-to-realtime-startup-aibrahim-oai|♯14829 stack 3/4 Add current thread context to realtime startup @aibrahim-oai]]
-- Later: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-2-context-window-changes-in-v0-35-0|2 Context Window changes in v0.35.0]]
+- Later: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-2-context-window-changes-in-v1-3-0|2 Context Window changes in v1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

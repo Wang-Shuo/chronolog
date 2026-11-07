@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8068e3601d3e3585d2182d48f424bc01f413198e84a4c91f80566944a15ae68d
+machine_hash: 43d35a32f4a3c460d369935899fb7138412a69d3ba805aa58aea731b1aa6301b
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,10 @@ record:
   title: Credentials embedded in git remote URLs are now redacted from the workspace…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-93-model-support-changes-in-1-17-0|93 Model Support changes
-  in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-56-model-support-changes-in-v0-11-1|56 Model Support
   changes in v0.11.1]]'
+- '[[Changes/OpenCode/2026-08-25-2-model-support-changes-in-v1-18-23|2 Model Support
+  changes in v1.18.23]]'
 - '[[Changes/Claude Code/2026-08-26-added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend|Added
   /claude-api cost-optimize to profile an existing project''s Claude API spend…]]'
 source_release: '[[Releases/Cline/cline-2026-08-26-v4-1-16-github-376988707-45a7fae8|cline-2026-08-26-v4-1-16-github-376988707-45a7fae8]]'

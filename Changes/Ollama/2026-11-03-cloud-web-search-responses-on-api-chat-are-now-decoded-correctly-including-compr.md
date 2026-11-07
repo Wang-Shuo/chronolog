@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 45a0507618e00b2b0d556c7c207bc4d97eefe84964b4ad3787a3162cf73041c2
+machine_hash: cbef70885222670424b52fa5097c05ce9ab2635066b58899d89c3b15efc3ff73
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,12 @@ record:
   title: Cloud web search responses on `/api/chat` are now decoded correctly, including…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-22-anthropic-compatible-web-search-now-uses-the-model-s-supported-thinking-setting|Anthropic-compatible
-  web search now uses the model''s supported thinking setting…]]'
-- "[[Changes/Open WebUI/2026-10-25-web-search-settings-save-admins-can-now-save-web-search-settings-such-as-the-web|\U0001F30D
-  Web Search settings save. Admins can now save Web Search settings such…]]"
 - '[[Changes/Codex CLI/2026-10-29-57542-add-model-gated-literature-search-to-standalone-web-search-rhan-oai|♯57542
   Add model-gated literature search to standalone web search @rhan-oai]]'
+- '[[Changes/OpenCode/2026-10-29-2-search-and-browsing-changes-in-v2-2-1|2 Search
+  and Browsing changes in v2.2.1]]'
+- '[[Changes/Google Antigravity/2026-11-03-typing-in-the-built-in-browser-s-address-bar-now-suggests-matching-pages-from-yo|Typing
+  in the built-in browser''s address bar now suggests matching pages…]]'
 source_release: '[[Releases/Ollama/ollama-2026-11-03-v0-40-14-github-432169781-b3886e93|ollama-2026-11-03-v0-40-14-github-432169781-b3886e93]]'
 source_type: github_releases
 theme: search-browsing
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57542-add-model-gated-literature-search-to-standalone-web-search-rhan-oai|♯57542 Add model-gated literature search to standalone web search @rhan-oai]]
+- Earlier: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-typing-in-the-built-in-browser-s-address-bar-now-suggests-matching-pages-from-yo|Typing in the built-in browser's address bar now suggests matching pages…]]
 - Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-2-search-and-browsing-changes-in-v0-13-0|2 Search and Browsing changes in v0.13.0]]
 <!-- chronolog:end -->
 

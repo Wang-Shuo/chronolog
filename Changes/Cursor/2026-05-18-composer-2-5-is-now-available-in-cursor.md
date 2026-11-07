@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 05df24419b9237bffcf28b8593bcdc665455c4bf41d3833aa52fdc8b6ed5f121
+machine_hash: e83a1fdcf86417eb7e2cbd91efa761bf9120cdb52694ca23adb9871267bf53d5
 product: cursor
 product_name: Cursor
 record:
@@ -41,9 +41,10 @@ record:
   title: Composer 2.5 is now available in Cursor
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-15-agent|Agent]]'
-- '[[Changes/v0/2026-05-15-2-agent-mode-changes-in-claude-opus-4-7-fast-agent-browser|2
-  Agent Mode changes in Claude Opus 4.7 Fast, agent browser…]]'
+- '[[Changes/OpenCode/2026-05-16-terminal-fixed-opencode-run-agent-resolving-project-local-agents|Terminal
+  Fixed opencode run --agent resolving project-local agents]]'
+- '[[Changes/OpenCode/2026-05-17-core-hid-background-subagent-task-instructions-unless-experimental-background-mo|Core
+  Hid background subagent task instructions unless experimental background mode…]]'
 - '[[Changes/Codex CLI/2026-05-18-9-agent-mode-changes-in-rust-v0-131-0|9 Agent Mode
   changes in rust-v0.131.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2169090ebef2e2312a9da3581fd8d9e235c279714abb0973f9a92c93a28c459a
+machine_hash: 3ea484fe380cb72a03b23ec8e9166895336aab8f65ca168b95e3c544a625063d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Developer Workflow changes in v0.40.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-24-2-developer-workflow-changes-in-v1-0-36|2
-  Developer Workflow changes in v1.0.36]]'
+- '[[Changes/OpenCode/2026-04-27-reduced-extra-terminal-noise-while-creating-tui-workspaces|Reduced
+  extra terminal noise while creating TUI workspaces]]'
 - '[[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry:
   added claude_code.at_mention log event for @-mention resolution]]'
 - '[[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer
@@ -93,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.40.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer Workflow changes in v2.1.121]]
-- Later: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added first-class run streaming with SSE events, reconnect support…]]
+- Later: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-4-developer-workflow-changes-in-v1-14-29|4 Developer Workflow changes in v1.14.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

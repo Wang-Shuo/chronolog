@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a5f3a02ccaba6537c5efa1973abd99a654bdb027535f2aa00c171b4fc72c06b0
+machine_hash: fc1e42837f8478ab3f0fa997d8ec396f6a51ec9311f51c0f5ae2cffaa9de511e
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,9 +53,11 @@ record:
   title: 4 Agent Mode changes in v2.1.208
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-13-python-sdk|Python SDK]]'
-- '[[Changes/ElevenLabs/2026-07-13-elevenagents|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-07-13-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Google Antigravity/2026-07-13-2-agent-mode-changes-in-hub-v2-3-0-queued-messages-plain|2
+  Agent Mode changes in HUB v2.3.0 — Queued messages, plain…]]'
+- '[[Changes/OpenClaw/2026-07-13-132-agent-mode-changes-in-v2026-7-1|132 Agent Mode
+  changes in v2026.7.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
 theme: agent-mode
@@ -99,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-13 · ElevenLabs · [[Changes/ElevenLabs/2026-07-13-javascript-sdk|JavaScript SDK]]
+- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-132-agent-mode-changes-in-v2026-7-1|132 Agent Mode changes in v2026.7.1]]
 - Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode changes in v2.1.210]]
 <!-- chronolog:end -->
 

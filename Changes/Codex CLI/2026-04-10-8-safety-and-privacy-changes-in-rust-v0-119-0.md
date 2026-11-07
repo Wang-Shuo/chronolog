@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e622507a4755f792b4544a11c0faabaa8a03a016234d4f3258367fe84b433553
+machine_hash: 0d03a4d60652fc6252bcc16e9a1101ea47c60cb392066e93864779c72a384324
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 8 Safety and Privacy changes in rust-v0.119.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-7-safety-and-privacy-changes-in-v2-1-98|7 Safety
-  and Privacy changes in v2.1.98]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-09-permission-checks-and-other-hooks-now-work-correctly-when-using-anthropic-models|Permission
   checks and other hooks now work correctly when using Anthropic models…]]'
+- '[[Changes/OpenCode/2026-04-09-core-add-permission-prompts-for-gitlab-duo-workflow-tool-calls-instead-of-auto-r|Core
+  Add permission prompts for GitLab Duo Workflow tool calls instead…]]'
 - '[[Changes/Claude Code/2026-04-10-fixed-a-command-injection-vulnerability-in-the-posix-which-fallback-used-by-lsp|Fixed
   a command injection vulnerability in the POSIX which fallback used by LSP…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1|codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1]]'

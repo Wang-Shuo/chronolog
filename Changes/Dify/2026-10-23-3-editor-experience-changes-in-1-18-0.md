@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 722a9f6a517ab5c1c0a41f18ae5e2e0f21d3d62c6c1ed1ef06e9aca15e04c028
+machine_hash: 32a3c2b72be9f89e482c48b83858a2b3fee153a1df9bec3a87fb5638d41970d7
 product: dify
 product_name: Dify
 record:
@@ -51,8 +51,8 @@ record:
   title: 3 Editor Experience changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor
-  Experience changes in v2.1.309]]'
+- '[[Changes/OpenClaw/2026-10-22-shell-completion-now-finds-global-flags-after-subcommands-regenerate-your-saved|Shell
+  completion now finds global flags after subcommands]]'
 - '[[Changes/OpenHands/2026-10-22-refactor-diff-express-the-markdown-preview-cap-in-css-by-enyst-in-https-github-c|refactor(diff):
   express the Markdown preview cap in CSS]]'
 - '[[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b58a430c897833e36457665d24823f6f6fc63377864c63a7331febf8f42b3d3d
+machine_hash: d687dc79b46016a70a2c68a8f235aad08fcb114e48b725914ffa9160a83bb144
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.159.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize your work in ChatGPT Space]]
-- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130 Move content-filter guidance into the shared Responses retry handler @won-openai]]
+- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-10-collaboration-changes-in-v2026-9-7|10 Collaboration changes in v2026.9.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

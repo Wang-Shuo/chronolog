@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d1108d91034c0ad0f78b61f0e3a501fe8b8bdbd191336471d83e1f71bc0d82f
+machine_hash: d49a79604df262894facc4098e5ce3f150fdcb07c44d43bef5470ba54a544e03
 product: dify
 product_name: Dify
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-28770-connectors-ignore-synthetic-links-for-app-accessibility-adaley-openai|♯28770 connectors Ignore synthetic links for app accessibility @adaley-openai]]
-- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-better-screen-reader-labels-on-toggles-integration-and-switch-toggles-now-expose|♿ Better screen-reader labels on toggles. Integration and switch toggles now…]]
+- Later: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-improved-accessibility-and-usability-of-the-artifact-review-dialog-including-con|Improved accessibility and usability of the artifact review dialog, including…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

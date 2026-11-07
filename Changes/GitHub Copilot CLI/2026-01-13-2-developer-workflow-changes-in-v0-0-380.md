@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 035cc83e588c2a29eab7e4fbb2bef1d027a0130d5044d9a418ceab31cfbbb432
+machine_hash: 36a913f1ce1d2361f4d58392519ffb9c842ab2265a61d1f50c7b3349a5cdb71c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: 2 Developer Workflow changes in v0.0.380
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added
-  CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]'
+- '[[Changes/OpenCode/2026-01-12-3-developer-workflow-changes-in-v1-1-14|3 Developer
+  Workflow changes in v1.1.14]]'
 - '[[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer
   Workflow changes in v2.1.6]]'
 - '[[Changes/Dify/2026-01-13-5-developer-workflow-changes-in-1-11-3|5 Developer Workflow

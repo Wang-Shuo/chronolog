@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67ae36232c577734899f9fe8f614d173ad7a224d6efaeae6eb1366e4ad8ff7cd
+machine_hash: 8862753272185908f28875d03714c6b47d3974aa9205b6d9274e1b6f67bf47c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Auto mode now shows "unavailable for your plan" when disabled by plan restrictions…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-2-agent-mode-changes-in-v2-1-84|2 Agent Mode changes
-  in v2.1.84]]'
 - '[[Changes/Codex CLI/2026-03-26-19-agent-mode-changes-in-rust-v0-117-0|19 Agent
   Mode changes in rust-v0.117.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-resume-session-restores-the-previously-selected-custom-agent|Resume
   session restores the previously selected custom agent]]'
+- '[[Changes/OpenCode/2026-03-26-desktop-fix-agent-normalization-in-desktop-app|Desktop
+  Fix agent normalization in desktop app]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: agent-mode
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-resume-session-restores-the-previously-selected-custom-agent|Resume session restores the previously selected custom agent]]
+- Earlier: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-desktop-fix-agent-normalization-in-desktop-app|Desktop Fix agent normalization in desktop app]]
 - Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in 1.13.3]]
 <!-- chronolog:end -->
 

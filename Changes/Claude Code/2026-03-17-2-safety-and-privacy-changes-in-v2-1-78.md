@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78c1a1923ee306af978b5509045fe947c740d2fbf13fa4350d1e43aa338ab18b
+machine_hash: a50e540647869be557f74f854b23e2fbf054c19bede7dfa5ba1497e8d0adb757
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.78
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-3-safety-and-privacy-changes-in-v2-1-76|3 Safety
-  and Privacy changes in v2.1.76]]'
 - '[[Changes/Codex CLI/2026-03-16-9-safety-and-privacy-changes-in-rust-v0-115-0|9
   Safety and Privacy changes in rust-v0.115.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-extension-tools-now-work-with-the-permissions-system-use-skippermission-per-tool|Extension
   tools now work with the permissions system, use skipPermission per-tool…]]'
+- '[[Changes/OpenCode/2026-03-16-core-delete-legacy-permission-module|Core Delete
+  legacy permission module]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
 theme: safety-privacy
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.78
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-extension-tools-now-work-with-the-permissions-system-use-skippermission-per-tool|Extension tools now work with the permissions system, use skipPermission per-tool…]]
+- Earlier: 2026-03-16 · OpenCode · [[Changes/OpenCode/2026-03-16-core-delete-legacy-permission-module|Core Delete legacy permission module]]
 - Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-3-safety-and-privacy-changes-in-v2-1-77|3 Safety and Privacy changes in v2.1.77]]
 <!-- chronolog:end -->
 

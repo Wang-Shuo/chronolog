@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d709a28c2d2f3bb0ed2672b8995be03c753d9d55790caf80b280e2c6e755323a
+machine_hash: c0ddfa3155ddd4d13fa5abea817e77ea3629d9736072119fd2dccf11fd7a37dc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-2-pricing-model-changes-in-1-16-1|2 Pricing Model changes in 1.16.1]]
-- Later: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-billing|Billing]]
+- Later: 2026-07-30 · Runway · [[Changes/Runway/2026-07-30-api-responses-now-include-the-credit-cost-of-each-task-both-while-running-as-an|Task Cost API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

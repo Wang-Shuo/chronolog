@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8bcb3f668998d19e9adaae354c1756e9ba502fcaee2e71549fbdc52994458e40
+machine_hash: a7feb0e8945b2597cdf94de860984bd85500e62a164c3cb98d984cb41f88ab6c
 product: replit
 product_name: Replit
 record:
@@ -44,12 +44,12 @@ record:
   title: Status Dot Design Update
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-3-interface-experience-changes-in-v2-0-73|3 Interface
-  Experience changes in v2.0.73]]'
 - '[[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface
   Experience changes in v2.0.74]]'
 - '[[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2
   Interface Experience changes in rust-v0.76.0]]'
+- '[[Changes/OpenCode/2025-12-19-terminal-implement-smooth-scrolling-for-autocomplete-dropdown-navigation|Terminal
+  Implement smooth scrolling for autocomplete dropdown navigation]]'
 source_release: '[[Releases/Replit/replit-2025-12-19-2025-12-19-cb186cb0|replit-2025-12-19-2025-12-19-cb186cb0]]'
 source_type: replit_changelog
 theme: interface-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-19 · Codex CLI · [[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2 Interface Experience changes in rust-v0.76.0]]
+- Earlier: 2025-12-19 · OpenCode · [[Changes/OpenCode/2025-12-19-terminal-implement-smooth-scrolling-for-autocomplete-dropdown-navigation|Terminal Implement smooth scrolling for autocomplete dropdown navigation]]
 - Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-8-interface-experience-changes-in-v0-6-42|8 Interface Experience changes in v0.6.42]]
 <!-- chronolog:end -->
 

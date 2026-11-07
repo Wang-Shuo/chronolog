@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8a68d8fcb7eeb840a8ed2e739292e6f316d05ae235c56895e4905fbb74e9d273
+machine_hash: ddf0045ea77895bdc03ab792c0f4227dc3a929c70ad860a2290c265ea0cad593
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -43,10 +43,10 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-slash-commands-unavailable-for-the-current-auth-setup-voice-mobile-chrome-upgrad|Slash
-  commands unavailable for the current auth setup…]]'
 - '[[Changes/Codex CLI/2026-03-26-15579-increase-voice-space-hold-timeout-to-1s-aibrahim-oai|♯15579
   Increase voice space hold timeout to 1s @aibrahim-oai]]'
+- '[[Changes/Suno/2026-03-26-voices-record-or-upload-your-own-audio-and-suno-will-let-you-sing-on-your-creati|Voices
+  Record or upload your own audio and Suno will let you sing on your creations]]'
 - '[[Changes/Codex CLI/2026-03-31-16114-remove-tui-voice-transcription-feature-etraut-openai|♯16114
   Remove TUI voice transcription feature @etraut-openai]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-01-2026-04-01-d4336c3f|elevenlabs-2026-04-01-2026-04-01-d4336c3f]]'

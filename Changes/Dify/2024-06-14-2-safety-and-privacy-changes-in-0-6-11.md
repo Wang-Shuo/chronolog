@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f46cf7f46de2b83a45da7d9e22744f636acddeab2d85bdc8e7fc2ebf2ed9c75
+machine_hash: a03d5a91988c8653bc97563a7e4a8886dc9a8a18551047e355f885f208675d01
 product: dify
 product_name: Dify
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.11
 ## Nearby in Safety and Privacy
 
 - Earlier: 2024-06-12 · Open WebUI · [[Changes/Open WebUI/2024-06-12-mixed-content-with-https-issue-resolved-a-problem-where-mixed-content-http-and-h|🔒 Mixed Content with HTTPS Issue]]
-- Later: 2024-06-27 · Open WebUI · [[Changes/Open WebUI/2024-06-27-2-safety-and-privacy-changes-in-v0-3-6|2 Safety and Privacy changes in v0.3.6]]
+- Later: 2024-06-14 · Runway · [[Changes/Runway/2024-06-14-creating-a-custom-voice-will-now-require-explicit-user-consent|Voice Verification]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

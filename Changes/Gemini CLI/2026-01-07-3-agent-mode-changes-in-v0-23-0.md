@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d47d21fdf2fc93e888300e9519aa9f7878d18d1a288d76699b9567d09f5dc9f
+machine_hash: bdc833bb11bcbbafdcdbcc3f7816167581001a4a71d80c3b4b68381f40293c2e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,10 @@ record:
   title: 3 Agent Mode changes in v0.23.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-05-agents-platform|Agents Platform]]'
-- '[[Changes/ElevenLabs/2026-01-05-agents-platform-bdcd71|Agents Platform]]'
+- '[[Changes/OpenCode/2026-01-05-core-transform-agent-improvements-and-optimizations|Core
+  Transform agent improvements and optimizations]]'
+- '[[Changes/OpenCode/2026-01-06-3-agent-mode-changes-in-v1-1-4|3 Agent Mode changes
+  in v1.1.4]]'
 - '[[Changes/Codex CLI/2026-01-07-4-agent-mode-changes-in-rust-v0-79-0|4 Agent Mode
   changes in rust-v0.79.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-07-v0-23-0-github-274690353-5e923999|gemini-cli-2026-01-07-v0-23-0-github-274690353-5e923999]]'
@@ -91,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.23.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-4-agent-mode-changes-in-rust-v0-79-0|4 Agent Mode changes in rust-v0.79.0]]
-- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New agent command is now the primary CLI entrypoint. cursor-agent remains…]]
+- Later: 2026-01-07 · OpenCode · [[Changes/OpenCode/2026-01-07-3-agent-mode-changes-in-v1-1-6|3 Agent Mode changes in v1.1.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

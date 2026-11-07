@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f7cb88b97548a258cc946459f7b4ecfd8898402af2229201257e6a82a64a9219
+machine_hash: 4aeb69eab65332400b83cce2c20519e742a77510512974e808c3def14415fd1e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Support comma-separated tools in custom agent frontmatter
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-04-15-agent-mode-changes-in-v0-27-0|15 Agent Mode
-  changes in v0.27.0]]'
+- '[[Changes/OpenCode/2026-02-04-2-agent-mode-changes-in-v1-1-50|2 Agent Mode changes
+  in v1.1.50]]'
 - '[[Changes/Claude Code/2026-02-05-updated-resume-to-re-use-agent-value-specified-in-previous-conversation-by-defau|Updated
   --resume to re-use --agent value specified in previous conversation by default]]'
 - '[[Changes/Codex CLI/2026-02-05-10649-fix-test-shell-command-interruption-flake-gt-oai|♯10649

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7eef911d79010b138087e3e67942188c6ededbf1093b5faaf0675220001f1499
+machine_hash: bb71ecf9ffcef81cdcfa124f28f7e9f448be41120291716a55a9a1fd15b9cd81
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-document-attachment-paths-are-included-in-context-so-the-agent-can-reference-pas|Document attachment paths are included in context so the agent can reference pasted…]]
-- Later: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-5-context-window-changes-in-rust-v0-133-0|5 Context Window changes in rust-v0.133.0]]
+- Later: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-core-zed-editor-context-now-only-activates-inside-zed-terminals|Core Zed editor context now only activates inside Zed terminals]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

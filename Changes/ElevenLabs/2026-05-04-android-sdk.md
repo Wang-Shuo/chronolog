@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3b7e30cc910dbd5727ee5e497ab8c75bda5ad450bac294b567f4e7a7af05be15
+machine_hash: 47e87d7d30360303327fa05c6617e1dcaf3f365e82d8c1d2a70755b5cb6e823b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-03 · Ollama · [[Changes/Ollama/2026-05-03-3-mobile-and-desktop-changes-in-v0-23-0|3 Mobile and Desktop changes in v0.23.0]]
-- Later: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-package-extraction-no-longer-crashes-on-windows-when-antivirus-or-filesystem-loc|Package extraction no longer crashes on Windows when antivirus or filesystem locks…]]
+- Later: 2026-05-04 · OpenCode · [[Changes/OpenCode/2026-05-04-2-mobile-and-desktop-changes-in-v1-14-34|2 Mobile and Desktop changes in v1.14.34]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

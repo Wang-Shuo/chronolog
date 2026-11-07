@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f5881b2ad2f6add41142eaa984b35d8dbc946554b095d4f282e96cdee506627
+machine_hash: c30b436b818b09ffff60187b0d2cf00e15406a01b8a8dfa66261b7f05c87e510
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: '#18398 refactor: use cloneable async channels for shared receivers @bolinfest'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-17256-app-server-use-shared-receivers-for-app-server-message-processors-euroeles|♯17256
-  app-server: Use shared receivers for app-server message processors @euroelessar]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-13-2-collaboration-changes-in-v1-0-25|2 Collaboration
   changes in v1.0.25]]'
 - '[[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717
   codex Refactor marketplace add into shared core flow @xli-oai]]'
+- '[[Changes/OpenCode/2026-04-18-core-stopped-share-sync-attempts-for-sessions-that-were-never-shared|Core
+  Stopped share sync attempts for sessions that were never shared]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'
 source_type: github_releases
 theme: collaboration
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717 codex Refactor marketplace add into shared core flow @xli-oai]]
+- Earlier: 2026-04-18 · OpenCode · [[Changes/OpenCode/2026-04-18-core-stopped-share-sync-attempts-for-sessions-that-were-never-shared|Core Stopped share sync attempts for sessions that were never shared]]
 - Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-shared-chat-access-controls-you-can-now-control-who-has-access-to-a-shared-chat|🔗 Shared chat access controls. You can now control who has access to a shared…]]
 <!-- chronolog:end -->
 

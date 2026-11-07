@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 876e4f84061e89482e76a49f29ecff5289e4b37eb9f87d22995d5f93dbd48431
+machine_hash: c08b4fec71795d3465a9f49bddf1422690a1e1ee0b4bdb41ec9754178ed1e312
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.389
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-custom-agents-with-mcp-servers-avoid-unnecessary-restarts|Custom agents with MCP servers avoid unnecessary restarts]]
-- Later: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-2-apps-and-integrations-changes-in-v2-1-19|2 Apps and Integrations changes in v2.1.19]]
+- Later: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-core-add-chat-headers-hook-and-update-codex-and-copilot-plugins-to-use-it-thanks|Core Add chat.headers hook and update codex and copilot plugins to use…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

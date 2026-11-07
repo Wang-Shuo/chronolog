@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: de043462db5039db04abfd3ea0b9352b470cc879f1b0f7a389856d0284939250
+machine_hash: a345249e1cd3a6eee36698f39aa05f21276170f62cf744a92de492ccbc139a1a
 product: replit
 product_name: Replit
 record:
@@ -60,10 +60,10 @@ record:
   title: Create and manage TikTok Ads
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5
-  Automation and Scheduling changes in v1.25.0]]'
 - '[[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed
   Ctrl+C at the idle prompt of an attached background session to leave…]]'
+- '[[Changes/OpenClaw/2026-10-08-2-automation-and-scheduling-changes-in-v2026-9-9|2
+  Automation and Scheduling changes in v2026.9.9]]'
 - '[[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2
   Automation and Scheduling changes in v1.26.0]]'
 source_release: '[[Releases/Replit/replit-2026-10-09-2026-10-09-58884c93|replit-2026-10-09-2026-10-09-58884c93]]'

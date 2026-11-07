@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a727e7e58103f20396be3ca6fd905dcdd85eb5fb7cc4bcf9988d37a0c1eea298
+machine_hash: 48f680fad68e782ce91563517355745586a122b29f27134940d609e7f8007e48
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 'feat(evals): add shell command safety evals'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-with-an-optional-effort-level-e-g-code-review-hi|Renamed
-  /simplify to /code-review with an optional effort level…]]'
 - '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo|Renamed
   /simplify to /code-review]]'
 - '[[Changes/Codex CLI/2026-05-21-3-developer-workflow-changes-in-rust-v0-133-0|3
   Developer Workflow changes in rust-v0.133.0]]'
+- '[[Changes/OpenCode/2026-05-21-3-developer-workflow-changes-in-v1-15-7|3 Developer
+  Workflow changes in v1.15.7]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a|gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-3-developer-workflow-changes-in-rust-v0-133-0|3 Developer Workflow changes in rust-v0.133.0]]
-- Later: 2026-05-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-24-bash-shell-sessions-no-longer-hang-when-ps0-or-prompt-command-is-set-in-the-envi|Bash shell sessions no longer hang when PS0 or PROMPT_COMMAND is set in the environment]]
+- Earlier: 2026-05-21 · OpenCode · [[Changes/OpenCode/2026-05-21-3-developer-workflow-changes-in-v1-15-7|3 Developer Workflow changes in v1.15.7]]
+- Later: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-3-developer-workflow-changes-in-v1-15-9|3 Developer Workflow changes in v1.15.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

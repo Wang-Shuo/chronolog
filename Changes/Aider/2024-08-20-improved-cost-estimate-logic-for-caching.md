@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: fca2354f687dc1ac7a333bbba97aac574b15df471b82365ad537cea7cc1f0a95
+machine_hash: aae7f5bc447e42b35e1fb5ca0ebb4cce5d6f378545061a7736229890182f8eef
 product: aider
 product_name: Aider
 record:
@@ -42,10 +42,10 @@ record:
   title: Improved cost estimate logic for caching
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace
-  Extensions now available in Beta for Gemini for Google Workspace add-on…]]'
 - '[[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced
   token usage and cost reporting]]'
+- '[[Changes/Suno/2024-08-12-effective-immediately-all-pro-premier-creators-will-receive-50-free-credits-per|Pro
+  / Premier creators now get 50 credits per day]]'
 - '[[Changes/Aider/2024-08-13-improved-token-and-cost-reporting-for-infinite-output|Improved
   token and cost reporting for infinite output]]'
 source_release: '[[Releases/Aider/aider-2024-08-20-v0-51-0-github-171109140-6ace7052|aider-2024-08-20-v0-51-0-github-171109140-6ace7052]]'

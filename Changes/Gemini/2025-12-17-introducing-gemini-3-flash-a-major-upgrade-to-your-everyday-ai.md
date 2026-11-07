@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ba2e7b79fdc6cc1702a8227de0d1520f5d186d31afae05f78429a44f1fae827a
+machine_hash: b35ba64a4ed3289af7c8999fcf3e240fad672a31cf3882115b8fd4c9752af5c3
 product: gemini
 product_name: Gemini
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-12-17 · Cline · [[Changes/Cline/2025-12-17-2-model-support-changes-in-v3-45-0|2 Model Support changes in v3.45.0]]
-- Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-6-model-support-changes-in-rust-v0-74-0|6 Model Support changes in rust-v0.74.0]]
+- Later: 2025-12-17 · Google Antigravity · [[Changes/Google Antigravity/2025-12-17-2-model-support-changes-in-ide-v1-12-4-gemini-3-flash|2 Model Support changes in IDE v1.12.4 — Gemini 3 Flash]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

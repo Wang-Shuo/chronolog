@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd201bf58a6b12974864c1c14a83cc4a9f893a896ce46e99b3841488e940ae50
+machine_hash: 063ebc510497b34229eff792b6cd3fd821053382d5a042ac9358e3e720adb53c
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Expand Remote Control to more users
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-24-added-cline-sdk-api-interface-for-programmatic-access-to-cline-features-and-tool|Added
-  Cline SDK API interface for programmatic access to Cline features and tools…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-24-block-third-party-mcp-servers-when-the-copilot-mcp-policy-does-not-allow-them|Block
   third-party MCP servers when the Copilot MCP policy does not allow them]]'
+- '[[Changes/OpenCode/2026-02-24-3-apps-and-integrations-changes-in-v1-2-11|3 Apps
+  and Integrations changes in v1.2.11]]'
 - '[[Changes/ChatGPT/2026-02-25-sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder|Sources
   from apps]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-25-v2-1-58-github-290546921-8d2a32fd|claude-code-2026-02-25-v2-1-58-github-290546921-8d2a32fd]]'

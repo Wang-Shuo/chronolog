@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d2d81b12a38e55d5f60da3d68922ce94f6f6e5385cb5ef629f54b7ff5087bc6a
+machine_hash: ae6e57d679d1e4ac5e619452eacd71a1b3caa35d2e983a62e7aaff3670bdbfaf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-01-03 · Replit · [[Changes/Replit/2025-01-03-the-team-took-some-time-to-recharge-but-updates-keep-coming|The team took some time to recharge, but updates keep coming]]
-- Later: 2025-02-18 · Open WebUI · [[Changes/Open WebUI/2025-02-18-download-button-for-svg-diagrams-svg-diagrams-generated-within-chat-can-now-be-d|📥 Download Button for SVG Diagrams]]
+- Later: 2025-01-23 · Gamma · [[Changes/Gamma/2025-01-23-gamma-now-offers-social-formats-in-addition-to-standard-presentations-and-docume|Introducing social content]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

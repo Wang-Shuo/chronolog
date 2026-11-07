@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dab34672ae54ac4b7840f8c074546b348a791a2e8aa506562dcf788c5f8705a7
+machine_hash: 59aee62e95a52dfdffef4851344d226e8163309cf32402c818c5964c347b9ba7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#12702 Improve macOS Seatbelt network and unix socket handling @viyatb-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-13127-nit-disable-on-windows-jif-oai|♯13127 nit:
-  disable on windows @jif-oai]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-05-opening-links-on-windows-correctly-handles-urls-with-query-parameters|Opening
-  links on Windows correctly handles URLs with & query parameters]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-06-diff-mode-displays-cleanly-on-windows-with-crlf-line-endings|Diff
   mode displays cleanly on Windows with CRLF line endings]]'
+- '[[Changes/OpenCode/2026-03-06-desktop-fix-stale-show-in-app|Desktop Fix stale show
+  in app]]'
+- '[[Changes/OpenCode/2026-03-07-17-mobile-and-desktop-changes-in-v1-2-21|17 Mobile
+  and Desktop changes in v1.2.21]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5|codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-diff-mode-displays-cleanly-on-windows-with-crlf-line-endings|Diff mode displays cleanly on Windows with CRLF line endings]]
-- Later: 2026-03-11 · Codex CLI · [[Changes/Codex CLI/2026-03-11-14003-stabilize-split-pty-output-on-windows-aibrahim-oai|♯14003 Stabilize split PTY output on Windows @aibrahim-oai]]
+- Earlier: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-17-mobile-and-desktop-changes-in-v1-2-21|17 Mobile and Desktop changes in v1.2.21]]
+- Later: 2026-03-08 · OpenCode · [[Changes/OpenCode/2026-03-08-10-mobile-and-desktop-changes-in-v1-2-22|10 Mobile and Desktop changes in v1.2.22]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

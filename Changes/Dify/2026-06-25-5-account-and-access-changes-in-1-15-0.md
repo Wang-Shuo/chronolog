@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc63b87f5230373b5b06fd9fb4ea66ee99c700932f16f308e63254e4b0dec009
+machine_hash: 70f36e83fc6363c7c84740e759917d897fc8952c384f9b125db6cea6620d6e5e
 product: dify
 product_name: Dify
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-added-opt-in-windows-system-proxy-support-for-authentication-including-pac-wpad|Added opt-in Windows system proxy support for authentication, including PAC, WPAD…]]
-- Later: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-3-account-and-access-changes-in-platform-api-v2-mcp-chat-tools|3 Account and Access changes in Platform API v2, MCP chat tools…]]
+- Later: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-enabled-automatic-saving-of-refreshed-oauth-tokens-to-the-os-keyring-to-reduce-a|Enabled automatic saving of refreshed OAuth tokens to the OS keyring to reduce…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

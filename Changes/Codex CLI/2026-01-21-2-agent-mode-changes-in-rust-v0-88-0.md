@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0de137a2963996a74a489d5c85c57b5618426e640c41e3760a0f4b3ef1f196b0
+machine_hash: 464a513a92efca56cae2962d6489117379c1ec77d8b23afea26940cda1fab6c2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,12 @@ record:
   title: 2 Agent Mode changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-19-new-endpoints|New Endpoints]]'
-- '[[Changes/ElevenLabs/2026-01-19-agents-platform-97d485|Agents Platform]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-mcp-server-management-when-swapping-between-custom-agents-with-agent|MCP
   server management when swapping between custom agents with /agent]]'
+- '[[Changes/OpenCode/2026-01-19-core-restore-persisted-model-and-agent-when-loading-acp-session|Core
+  Restore persisted model and agent when loading ACP session]]'
+- '[[Changes/OpenCode/2026-01-20-2-agent-mode-changes-in-v1-1-28|2 Agent Mode changes
+  in v1.1.28]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.88.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-mcp-server-management-when-swapping-between-custom-agents-with-agent|MCP server management when swapping between custom agents with /agent]]
+- Earlier: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-2-agent-mode-changes-in-v1-1-28|2 Agent Mode changes in v1.1.28]]
 - Later: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-13-agent-mode-changes-in-v0-25-0|13 Agent Mode changes in v0.25.0]]
 <!-- chronolog:end -->
 

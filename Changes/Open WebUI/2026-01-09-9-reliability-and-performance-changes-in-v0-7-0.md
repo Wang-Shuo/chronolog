@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab144e96c3d4293653df4354ac5bfa15b7c87da5326149bf7e03b2b47f129b87
+machine_hash: 63a5320a2044c1691d1fbb55249fad9f1d60f4c761f023443b571a01d5a417de
 product: open-webui
 product_name: Open WebUI
 record:
@@ -82,12 +82,12 @@ record:
   title: 9 Reliability and Performance changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-06-performance-tuning-for-tuis-cap-redraw-scheduling-and-reduce-unnecessary-rerende|Performance
-  tuning for TUIs]]'
 - '[[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2
   Reliability and Performance changes in New CLI Features and Improved CLI…]]'
 - '[[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex
   CLI subprocesses again inherit env vars like…]]'
+- '[[Changes/Midjourney/2026-01-09-niji-v7-features-improved-anime-coherence-prompt-understanding-text-rendering-an|Niji
+  V7 features improved anime coherence, prompt understanding, text rendering…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c|open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c]]'
 source_type: github_releases
 theme: reliability-performance
@@ -149,7 +149,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex CLI subprocesses again inherit env vars like…]]
+- Earlier: 2026-01-09 · Midjourney · [[Changes/Midjourney/2026-01-09-niji-v7-features-improved-anime-coherence-prompt-understanding-text-rendering-an|Niji V7 features improved anime coherence, prompt understanding, text rendering…]]
 - Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-improved-reliability-for-low-spec-and-sqlite-deployments-fixed-page-timeouts-by|⚡ Improved reliability for low-spec and SQLite deployments. Fixed page timeouts…]]
 <!-- chronolog:end -->
 

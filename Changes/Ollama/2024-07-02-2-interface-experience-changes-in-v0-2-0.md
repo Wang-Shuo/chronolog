@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cedbea342cb46f10ce248f43efd8a46628e55a73eeac6e9d18a80f120ce42d54
+machine_hash: 3e1e617a99fe6d23c75da0f770bc04eb38af473fdf6837c8da76979dfc7c9463
 product: ollama
 product_name: Ollama
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Interface Experience changes in v0.2.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-06-10-various-ui-styling-issues-fixed-numerous-user-interface-styling-problems-for-a-m|✨
-  Various UI Styling Issues]]'
+- '[[Changes/Midjourney/2024-06-12-the-sidebar-is-simpler-rank-images-and-rank-ideas-can-now-be-found-under-the-tas|The
+  sidebar is simpler]]'
 - '[[Changes/Dify/2024-06-14-update-tooltip-by-guchenhe-in-https-github-com-langgenius-dify-pull-5235|update
   tooltip]]'
 - '[[Changes/Open WebUI/2024-06-27-2-interface-experience-changes-in-v0-3-6|2 Interface

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fad3335e4592cddfdbd15598dd32de656283706adf39596b8f6ef3a700ab930f
+machine_hash: 899ca2297cc44cfdd8e799aff38e660e4c97cf067e935a3b0495774014010381
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -111,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]
-- Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-resources-removed-from-the-dashboard-sidebar|Resources removed from the dashboard sidebar]]
+- Later: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-2-interface-experience-changes-in-hub-v2-11-0-generative-ui-and-ui|2 Interface Experience changes in HUB v2.11.0 — Generative UI and UI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9ad102f9d8a68ef76dcb7b0a1d1e5a0bcbbd94cebd86995cc91ed86d6dca185
+machine_hash: 814a2a266e008b0ae330c1e79a5fe4ee89e718992c15f9652dfd88693832ce00
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 4 Safety and Privacy changes in rust-v0.93.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-29-fixed-per-user-temp-directory-isolation-to-prevent-permission-conflicts-on-share|Fixed
-  per-user temp directory isolation to prevent permission conflicts on shared systems]]'
+- '[[Changes/OpenCode/2026-01-29-core-allow-media-src-data-url-for-small-audio-files-in-content-security-policy|Core
+  Allow media-src data: URL for small audio files in Content Security Policy]]'
 - '[[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|Permissions
   now respect content-level ask over tool-level allow]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-acp-server-support-permission-flags-yolo-allow-all-etc-and-permissions-config|ACP

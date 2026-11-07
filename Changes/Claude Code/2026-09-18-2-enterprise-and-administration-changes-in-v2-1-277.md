@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c262bbedf8885ebaff2f601e63ece494e43d80428816e0552ea82fd5b9e078cb
+machine_hash: 3dad6d6cbaaa1a77e9c7b717615fe7ad195a9b47c47ff8c75f5bf2c87774d9b6
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Enterprise and Administration changes in v2.1.277
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-11-edit-an-sso-provider-s-connection-settings|Edit an
-  SSO provider''s connection settings]]'
 - '[[Changes/Replit/2026-09-11-retrieve-prompt-text-for-compliance-workflows|Retrieve
   prompt text for compliance workflows]]'
+- '[[Changes/Google Antigravity/2026-09-15-enterprise-and-business-accounts-can-now-use-the-integrated-terminal-and-git-ver|Enterprise
+  and Business accounts can now use the integrated terminal and Git version…]]'
 - '[[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude
   Tag Improved Claude''s notices in Enterprise Grid channels shared across…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude Tag Improved Claude's notices in Enterprise Grid channels shared across…]]
-- Later: 2026-09-21 · Lovable · [[Changes/Lovable/2026-09-21-set-a-default-design-system-for-each-group|Set a default design system for each group]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-2-enterprise-and-administration-changes-in-v2026-9-5|2 Enterprise and Administration changes in v2026.9.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

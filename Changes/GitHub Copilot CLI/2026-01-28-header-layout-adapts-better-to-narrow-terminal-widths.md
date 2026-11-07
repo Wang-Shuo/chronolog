@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eae126fdb4d720d8235038df8af6a68b7f0dbb950281054b726daea7a9cffb39
+machine_hash: 744258c38c62252d964e32d2ca6a74601ea84db08f5d953cc44f5c98f9bd5288
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-skills-from-parent-directories-are-now-invocable-and-work-in-non-git-directories|Skills from parent directories are now invocable and work in non-git directories]]
-- Later: 2026-01-28 · v0 · [[Changes/v0/2026-01-28-added-toast-notification-when-pull-requests-are-merged|Added toast notification when pull requests are merged]]
+- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-terminal-add-streaming-prop-to-markdown-element|Terminal Add streaming prop to markdown element]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cdc021c0d83332eb64bbf10080b604a03e312f7a096925a63f6e03c49950ff61
+machine_hash: efc6fca1d1315fbfd4a448742168e94afada006eb23efbc92925940b2296016c
 product: cline
 product_name: Cline
 record:
@@ -48,8 +48,8 @@ record:
     and remove…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-10-2-interface-experience-changes-in-v1-0-79|2
-  Interface Experience changes in v1.0.79]]'
+- '[[Changes/OpenCode/2026-08-10-desktop-fall-back-to-listing-and-matching-local-directories-when-the-project-pic|Desktop
+  Fall back to listing and matching local directories when the project picker…]]'
 - '[[Changes/Windsurf/2026-08-10-devin-local|Devin Local]]'
 - '[[Changes/Claude Code/2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term|Updated
   terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term|Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals]]
-- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode Added session groups in the sidebar]]
+- Later: 2026-08-11 · Google Antigravity · [[Changes/Google Antigravity/2026-08-11-6-interface-experience-changes-in-hub-v2-7-1-reliability-performance|6 Interface Experience changes in HUB v2.7.1 — Reliability, Performance…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

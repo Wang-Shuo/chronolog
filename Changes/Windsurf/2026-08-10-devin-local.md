@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7e5e22a11474dfc8cf9ef5489552b248061dfeb18c4342e3166f346139071bfa
+machine_hash: 77db6ab547d401b98449e59ba806ecedb865d613bee4f85cf85572521f42c9d7
 product: windsurf
 product_name: Windsurf
 record:
@@ -71,12 +71,12 @@ record:
   title: Devin Local
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|VSCode
-  Fixed Focus view folding away the latest to-do list, a pending question''s…]]'
-- '[[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|Improved
-  slash-command menu]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-2-interface-experience-changes-in-v1-0-79|2
   Interface Experience changes in v1.0.79]]'
+- '[[Changes/OpenCode/2026-08-10-open-the-project-menu-with-a-right-click-in-home|Open
+  the project menu with a right-click in Home]]'
+- '[[Changes/OpenCode/2026-08-10-desktop-fall-back-to-listing-and-matching-local-directories-when-the-project-pic|Desktop
+  Fall back to listing and matching local directories when the project picker…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-08-10-v3-7-16-bb404410|windsurf-2026-08-10-v3-7-16-bb404410]]'
 source_type: windsurf_changelog
 theme: interface-experience
@@ -120,7 +120,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-2-interface-experience-changes-in-v1-0-79|2 Interface Experience changes in v1.0.79]]
+- Earlier: 2026-08-10 · OpenCode · [[Changes/OpenCode/2026-08-10-desktop-fall-back-to-listing-and-matching-local-directories-when-the-project-pic|Desktop Fall back to listing and matching local directories when the project picker…]]
 - Later: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term|Updated terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals]]
 <!-- chronolog:end -->
 

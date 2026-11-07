@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba3ffda89c69e019a5a36c3ecb66f1a69f080ec35e9ed5f994e4123170c5a46b
+machine_hash: 2be775b113a024c5e7bd9be0767ab6c68b84cc9a58c6d82130bdf0eaf9908c6b
 product: ollama
 product_name: Ollama
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Reliability and Performance changes in v0.3.7
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-08-13-ollama-will-now-import-gguf-files-faster-by-minimizing-file-copies|Ollama
-  will now import GGUF files faster by minimizing file copies]]'
 - '[[Changes/Open WebUI/2024-08-14-2-reliability-and-performance-changes-in-v0-3-13|2
   Reliability and Performance changes in v0.3.13]]'
+- '[[Changes/Runway/2024-08-14-generate-7x-faster-for-half-the-price-of-the-original-gen-3-alpha-while-still-ma|Gen-3
+  Alpha Turbo]]'
 - '[[Changes/Aider/2024-08-20-improved-editing-performance-on-jupyter-notebook-ipynb-files|Improved
   editing performance on Jupyter Notebook .ipynb files]]'
 source_release: '[[Releases/Ollama/ollama-2024-08-20-v0-3-7-github-171105455-b6199aaa|ollama-2024-08-20-v0-3-7-github-171105455-b6199aaa]]'

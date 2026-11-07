@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8390a8521477175568690164093336e8f83145113207edeb1bf84542378a18b5
+machine_hash: 75fb9063945f1f5b875f7fa84a4bd579981e8c3f2656111009fa9cbe41dba60c
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -86,8 +86,7 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0|2 Agent Mode
-  changes in rust-v0.59.0]]'
+- '[[Changes/Google Antigravity/2025-11-20-nano-banana-pro|Nano Banana Pro]]'
 - '[[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]'
 - '[[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in
   2.1]]'

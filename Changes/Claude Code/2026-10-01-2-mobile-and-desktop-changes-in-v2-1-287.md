@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2250a809654373c7e0d1efad4a2e1f38b8b15165909b238c1928219a9d4ea44b
+machine_hash: 64a460591f2fea801f95d376bed4db2240cec35dc38aa92280c244bf20c9c043
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,12 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-4-mobile-and-desktop-changes-in-rust-v0-159-0|4
-  Mobile and Desktop changes in rust-v0.159.0]]'
-- '[[Changes/Codex CLI/2026-09-29-suppressed-console-windows-flashing-on-windows-when-codex-launches-background-pr|Suppressed
-  console windows flashing on Windows when Codex launches background…]]'
-- '[[Changes/Windsurf/2026-09-29-devin-desktop|Devin Desktop]]'
+- '[[Changes/Google Antigravity/2026-09-30-on-windows-and-linux-a-left-click-on-the-tray-icon-now-reopens-or-focuses-the-an|On
+  Windows and Linux, a left-click on the tray icon now reopens or focuses…]]'
+- '[[Changes/OpenClaw/2026-09-30-14-mobile-and-desktop-changes-in-v2026-9-7|14 Mobile
+  and Desktop changes in v2026.9.7]]'
+- '[[Changes/OpenCode/2026-09-30-2-mobile-and-desktop-changes-in-v1-18-34|2 Mobile
+  and Desktop changes in v1.18.34]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -95,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-29 · Windsurf · [[Changes/Windsurf/2026-09-29-devin-desktop|Devin Desktop]]
+- Earlier: 2026-09-30 · OpenCode · [[Changes/OpenCode/2026-09-30-2-mobile-and-desktop-changes-in-v1-18-34|2 Mobile and Desktop changes in v1.18.34]]
 - Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49093-simplify-startup-promotions-to-platform-specific-desktop-app-tips-etraut-o|♯49093 Simplify startup promotions to platform-specific desktop app tips @etraut-openai]]
 <!-- chronolog:end -->
 

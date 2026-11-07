@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6394bffc970193795121f0f446c7862dc52b91edce5035d17eff6a9c91d83ee6
+machine_hash: c786009197b439eda8a1f6f67d5b01b264acf25fbf7b1cec453b24dea06ba47a
 product: dify
 product_name: Dify
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-improved-housekeeping-command-now-preserves-avatar-images-and-app-icons-correctl|Improved Housekeeping Command]]
-- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-git-ownership-errors-in-containers-by-llamantino-in-https-github-com-all-hands-a|Git Ownership Errors in containers]]
+- Later: 2025-06-18 · Midjourney · [[Changes/Midjourney/2025-06-18-what-s-that-basically-imagine-an-ai-system-that-generates-imagery-in-real-time-y|What’s that? Basically; imagine an AI system that generates imagery in real-time]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

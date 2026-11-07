@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bdde4e1f813ff8acf1197bd64c7fd97e3bd817aa76748c0f337138077818ea5b
+machine_hash: 30d29c751ab29fe6bf20daf8c77e4a4d98a8dccb3e87d501cd6d10a9137eeee7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 4 Developer Workflow changes in v0.23.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-30-kill-command-filtering-now-allows-commands-when-kill-appears-as-an-argument|Kill
-  command filtering now allows commands when ''kill'' appears as an argument]]'
 - '[[Changes/Codex CLI/2026-01-06-6-developer-workflow-changes-in-rust-v0-78-0|6 Developer
   Workflow changes in rust-v0.78.0]]'
+- '[[Changes/OpenCode/2026-01-06-4-developer-workflow-changes-in-v1-1-4|4 Developer
+  Workflow changes in v1.1.4]]'
 - '[[Changes/Codex CLI/2026-01-07-render-paths-relative-to-the-current-working-directory-before-checking-git-roots|Render
   paths relative to the current working directory before checking git roots…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-07-v0-23-0-github-274690353-5e923999|gemini-cli-2026-01-07-v0-23-0-github-274690353-5e923999]]'
@@ -98,7 +98,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.23.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-render-paths-relative-to-the-current-working-directory-before-checking-git-roots|Render paths relative to the current working directory before checking git roots…]]
-- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3 Developer Workflow changes in New CLI Features and Improved CLI…]]
+- Later: 2026-01-07 · OpenCode · [[Changes/OpenCode/2026-01-07-7-developer-workflow-changes-in-v1-1-6|7 Developer Workflow changes in v1.1.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

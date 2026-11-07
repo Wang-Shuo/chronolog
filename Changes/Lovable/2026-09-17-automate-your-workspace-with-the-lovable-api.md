@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a43de69145c30049bc2106290977b04e9dd8c5bd7a38c4cc44ffa01a41538c57
+machine_hash: cbef27222e689c0df3b0769dbf70c5eeb7d811f9eaae15be9e25df699571e418
 product: lovable
 product_name: Lovable
 record:
@@ -51,8 +51,8 @@ record:
   title: Automate your workspace with the Lovable API
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation
-  and Scheduling changes in 1.17.1]]'
+- '[[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7
+  Automation and Scheduling changes in v2026.9.4]]'
 - '[[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3
   Automation and Scheduling changes in v1.18.0]]'
 - '[[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4

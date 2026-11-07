@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 27d870d59ecb1d24e39033a2b7507e769478d72ddf91b4c5933f5a1252419ba1
+machine_hash: b6a1482b5394164a4945e9b39c9c4a5ed572c936d2d16f4a476984488e71ece4
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Developer Workflow changes in v2.1.2
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-07-4-developer-workflow-changes-in-v0-23-0|4 Developer
-  Workflow changes in v0.23.0]]'
 - '[[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3
   Developer Workflow changes in New CLI Features and Improved CLI…]]'
+- '[[Changes/OpenCode/2026-01-08-9-developer-workflow-changes-in-v1-1-7|9 Developer
+  Workflow changes in v1.1.7]]'
 - '[[Changes/Claude Code/2026-01-09-improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to|Improved
   slash command suggestion readability by truncating long descriptions to 2 lines]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'

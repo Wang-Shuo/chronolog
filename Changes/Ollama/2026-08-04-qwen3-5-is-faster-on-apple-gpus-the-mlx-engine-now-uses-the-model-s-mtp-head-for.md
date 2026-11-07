@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3e94b7b40d01f4f0a013f47c239471492fc94454dd7ff9e410084d87d9aa9d7c
+machine_hash: 6233a21dfd888f0e5579d1e2b6e03b9c3cb0ee024a4736d6c11d600c42ad11d0
 product: ollama
 product_name: Ollama
 record:
@@ -54,9 +54,10 @@ record:
   title: Qwen3.5 is faster on Apple GPUs
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-29-devin-cloud|Devin Cloud]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-30-diff-scrolls-and-syntax-highlights-large-multi-file-diffs-faster|/diff
-  scrolls and syntax-highlights large multi-file diffs faster]]'
+- '[[Changes/Runway/2026-07-30-when-you-hit-your-concurrency-limit-on-a-model-model-router-can-now-automaticall|Capacity
+  Fallbacks in Model Router]]'
+- '[[Changes/Google Antigravity/2026-07-31-2-reliability-and-performance-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
+  Reliability and Performance changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-resuming-a-long-session-is-dramatically-faster-and-far-lighter-on-memory-because|Resuming
   a long session is dramatically faster and far lighter on memory, because…]]'
 source_release: '[[Releases/Ollama/ollama-2026-08-04-v0-32-6-github-365064807-43cc54ab|ollama-2026-08-04-v0-32-6-github-365064807-43cc54ab]]'
@@ -91,7 +92,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-resuming-a-long-session-is-dramatically-faster-and-far-lighter-on-memory-because|Resuming a long session is dramatically faster and far lighter on memory, because…]]
-- Later: 2026-08-10 · Claude Code · [[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved performance: fewer event-loop stalls on file-not-found suggestions…]]
+- Later: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-2-reliability-and-performance-changes-in-hub-v2-6-0-faster-long-conversations|2 Reliability and Performance changes in HUB v2.6.0 — Faster long conversations…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

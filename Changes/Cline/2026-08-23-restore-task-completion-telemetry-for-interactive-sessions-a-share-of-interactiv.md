@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 29e7d8bdbc345495325aedda9c7251d6a4667879fb0d8f6354e93caad7a415c7
+machine_hash: 4f3ece1ca0f0b3364262bffe03f3fc9c47b2bb18f1b724f11a65e217e7d97c68
 product: cline
 product_name: Cline
 record:
@@ -47,12 +47,11 @@ record:
   title: Restore task completion telemetry for interactive sessions
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor
-  Experience changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude
   in Chrome]]'
 - '[[Changes/Cline/2026-08-21-show-the-diff-edit-view-for-multi-line-edits-in-files-with-crlf-line-endings|Show
   the diff edit view for multi-line edits in files with CRLF line endings]]'
+- '[[Changes/Midjourney/2026-08-21-editor|Editor]]'
 source_release: '[[Releases/Cline/cline-2026-08-23-v4-1-14-github-375175985-b7635cc3|cline-2026-08-23-v4-1-14-github-375175985-b7635cc3]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-show-the-diff-edit-view-for-multi-line-edits-in-files-with-crlf-line-endings|Show the diff edit view for multi-line edits in files with CRLF line endings]]
+- Earlier: 2026-08-21 · Midjourney · [[Changes/Midjourney/2026-08-21-editor|Editor]]
 - Later: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-elevenlabs-cli|ElevenLabs CLI]]
 <!-- chronolog:end -->
 

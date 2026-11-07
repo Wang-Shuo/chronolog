@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 3baea93f6421bdbcb28980e5358964e1c47b7e364c874d4c70587f02774eb117
+machine_hash: 7c712b42a5a8631028c583bcf10a568e528a22d15f1935c8d9a83908e946b682
 product: claude
 product_name: Claude
 record:
@@ -44,9 +44,8 @@ record:
   title: Ability to change monthly Team plan billing to annual
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding
-  redirectUrl to credits purchasing experience]]'
-- '[[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]'
+- '[[Changes/Midjourney/2025-08-07-about-hd-video-mode|About HD Video Mode]]'
+- '[[Changes/Midjourney/2025-08-07-please-note|Please note]]'
 - '[[Changes/Lovable/2025-08-11-unified-credits-bar|Unified credits bar]]'
 source_release: '[[Releases/Claude/claude-2025-08-15-2025-08-15-be9b8837|claude-2025-08-15-2025-08-15-be9b8837]]'
 source_type: claude_changelog

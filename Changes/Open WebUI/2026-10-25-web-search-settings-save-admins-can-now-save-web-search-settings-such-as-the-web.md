@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ca89ed970511fee981aa593cb7d281ac3f578bb4cc2dbd52ffec36283bf7064
+machine_hash: 885f51c9d432c5958c63945b61dac9535e25ed4c00c54dd531a75473467fc491
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,12 +60,12 @@ record:
     settings such…"
   type: change
 related_changes:
-- '[[Changes/DeepSeek API/2026-10-17-opening-up-the-in-house-search-api|Opening up
-  the in-house search API]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-2-search-and-browsing-changes-in-v1-0-100|2
   Search and Browsing changes in v1.0.100]]'
 - '[[Changes/Ollama/2026-10-22-anthropic-compatible-web-search-now-uses-the-model-s-supported-thinking-setting|Anthropic-compatible
   web search now uses the model''s supported thinking setting…]]'
+- '[[Changes/OpenClaw/2026-10-22-web-search-timeout-errors-now-tell-you-the-request-s-actual-time-limit-see-web-t|Web
+  search timeout errors now tell you the request’s actual time limit]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'
 source_type: github_releases
 theme: search-browsing
@@ -108,8 +108,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-10-22 · Ollama · [[Changes/Ollama/2026-10-22-anthropic-compatible-web-search-now-uses-the-model-s-supported-thinking-setting|Anthropic-compatible web search now uses the model's supported thinking setting…]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57542-add-model-gated-literature-search-to-standalone-web-search-rhan-oai|♯57542 Add model-gated literature search to standalone web search @rhan-oai]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-web-search-timeout-errors-now-tell-you-the-request-s-actual-time-limit-see-web-t|Web search timeout errors now tell you the request’s actual time limit]]
+- Later: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-2-search-and-browsing-changes-in-v2-2-0|2 Search and Browsing changes in v2.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4753883ee9bc9603f73bf53f84eb3c6315ac4b31b6bb2b030648cc7be2fd010f
+machine_hash: 820f779770edbf3000b6a35a64eb6aa797e52da9cba78f63ce2692124e5fb662
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,9 +46,9 @@ record:
   title: 2 Reliability and Performance changes in v0.5.8
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-24-autoscale-deployment-optimizations|Autoscale deployment
-  optimizations]]'
 - '[[Changes/Replit/2025-01-24-better-zips|Better Zips]]'
+- '[[Changes/Gamma/2025-02-04-now-you-can-multi-select-from-the-filmstrip-and-take-action-cut-copy-duplicate-a|Updated
+  Filmstrip Experience]]'
 - "[[Changes/Open WebUI/2025-02-05-code-interpreter-stability-with-custom-functions-addressed-failures-when-using-t|\U0001F4BB
   Code Interpreter Stability with Custom Functions]]"
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-05-v0-5-8-github-198528853-726db0ce|open-webui-2025-02-05-v0-5-8-github-198528853-726db0ce]]'

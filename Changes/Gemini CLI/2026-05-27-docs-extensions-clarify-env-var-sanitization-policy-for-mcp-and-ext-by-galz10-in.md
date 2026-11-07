@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 887d32824acbd18ca3bf18500291bb0c65d03b7561537a89ce416dab7372346d
+machine_hash: da9b1cf48d0a82b23f0e5abb6faa46b441ebd366bb3875b0a699a75cd3265b2d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4 Apps and Integrations changes in v2.1.152]]
-- Later: 2026-05-28 · Claude · [[Changes/Claude/2026-05-28-enterprise-plans-can-manage-connector-access-with-custom-roles|Enterprise plans can manage connector access with custom roles]]
+- Later: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-3-apps-and-integrations-changes-in-v1-15-11|3 Apps and Integrations changes in v1.15.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

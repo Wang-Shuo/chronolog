@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd2e386780120bfee4484633f78b20364d5e17293506b5f145b3fce5ee9b6766
+machine_hash: 1245fd886d3dc955d8c941736305f82ca4c9e9292af752a2bfc9ad6a6da99a5f
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Search and Browsing changes in v2.1.212
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|\U0001F512
-  Web search domain filtering. Domain allow and block rules for web search…]]"
-- '[[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525
-  core: migrate standalone web search to extension-owned turn items @owenlin0]]'
+- '[[Changes/OpenClaw/2026-07-13-8-search-and-browsing-changes-in-v2026-7-1|8 Search
+  and Browsing changes in v2026.7.1]]'
+- '[[Changes/OpenCode/2026-07-13-desktop-updated-the-review-panel-with-persistent-file-browsing-better-file-tabs|Desktop
+  Updated the review panel with persistent file browsing, better file tabs…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-add-plugins-marketplace-browse-and-update-commands|Add
   plugins marketplace browse and update commands]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'

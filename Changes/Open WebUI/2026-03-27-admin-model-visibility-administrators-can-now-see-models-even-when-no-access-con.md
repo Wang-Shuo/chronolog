@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ceea3b1fcf5f343b39880ecb64692f29ab4e1adc8717cda86ced0f353525673d
+machine_hash: 21ce171e186f3d6837994ad3591eed60fd75ddd4579b9d3b7180107cc8370f9f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,8 @@ record:
     even when no access…"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-model-display-header-shows-the-active-reasoning-effort-level-e-g-high-next-to-th|Model
-  display header shows the active reasoning effort level (e.g. "(high)") next…]]'
+- '[[Changes/Suno/2026-03-26-today-we-launched-v5-5-our-best-and-most-personal-model-yet-it-powers-three-new|Today
+  we launched v5.5, our best and most personal model yet]]'
 - '[[Changes/Dify/2026-03-27-7-model-support-changes-in-1-13-3|7 Model Support changes
   in 1.13.3]]'
 - '[[Changes/Ollama/2026-03-27-ollama-s-app-will-now-no-longer-incorrectly-show-model-is-out-of-date|Ollama''s
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-27 · Ollama · [[Changes/Ollama/2026-03-27-ollama-s-app-will-now-no-longer-incorrectly-show-model-is-out-of-date|Ollama's app will now no longer incorrectly show "model is out of date"]]
-- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-model-support-changes-in-v1-0-13|2 Model Support changes in v1.0.13]]
+- Later: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-2-model-support-changes-in-v1-3-6-2|2 Model Support changes in v1.3.6 + 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e41ad99462d8cc9bae568318ca24304a6080ad233d6778015ccd3586381390a
+machine_hash: 70757f9abf751ddd7356aec8e7da34ca2db87c59bb888e005603055ec96cafb3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
     @viyatb-oai'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat:
-  track authenticated Canvas arrivals]]'
 - '[[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude
   Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]'
+- '[[Changes/OpenClaw/2026-09-19-7-files-and-data-changes-in-v2026-9-5|7 Files and
+  Data changes in v2026.9.5]]'
 - '[[Changes/Open WebUI/2026-09-21-10-files-and-data-changes-in-v0-11-4|10 Files and
   Data changes in v0.11.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-10-files-and-data-changes-in-v0-11-4|10 Files and Data changes in v0.11.4]]
-- Later: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-docs-codereview-clarify-agent-canvas-checkpoints-by-neubig-in-https-github-com-o|docs(codereview): clarify Agent Canvas checkpoints]]
+- Later: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-fewer-link-cards-you-did-not-ask-for-the-agent-surfaces-a-link-card-in-the-conve|Fewer link cards you did not ask for]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

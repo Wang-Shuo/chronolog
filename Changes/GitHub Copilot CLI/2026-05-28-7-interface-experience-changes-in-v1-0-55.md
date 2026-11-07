@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c9df417dc705daa5741d4aa1f4e61af4f3409c023e89cc93a39a1a56586ae67a
+machine_hash: 61e3ebbe5cd7b78efb65ce6fa3a8bd78fca9f29369d1e4f8d1cd2435899bf6f5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -59,8 +59,8 @@ record:
   title: 7 Interface Experience changes in v1.0.55
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-in-fullscreen-mode-the-thinking-for-ns-indicator-now-counts-up-live-while-the-mo|In
-  fullscreen mode, the "Thinking for Ns" indicator now counts up live…]]'
+- '[[Changes/Midjourney/2026-05-27-image-prompts-now-work-from-the-tray-and-sidebar|Image
+  Prompts now work from the tray and sidebar]]'
 - '[[Changes/Claude Code/2026-05-28-vscode-auto-mode-no-longer-requires-the-bypass-permissions-setting-to-appear-in|VSCode
   Auto mode no longer requires the bypass-permissions setting to appear…]]'
 - '[[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface
@@ -119,7 +119,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.55
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface Experience changes in v2.1.153]]
-- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude agents: slash-command autocomplete in the dispatch input now matches substrings]]
+- Later: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-terminal-kept-session-navigation-working-while-prompt-modes-are-open|Terminal Kept session navigation working while prompt modes are open]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

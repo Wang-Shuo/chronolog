@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac1854e654087264647c18a3468947a0abf437d624fa7034071e24106c0c037f
+machine_hash: 0ced0866d94a353220147758fa50884187bcf0437dfcc1ea4ecba6688e9c1d3b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -133,7 +133,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.128.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-refactor-memory-replace-memorymanageragent-with-prompt-driven-memory-editing-acr|refactor(memory): replace MemoryManagerAgent with prompt-driven memory editing…]]
-- Later: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory sources and more personalized responses in ChatGPT]]
+- Later: 2026-05-04 · OpenCode · [[Changes/OpenCode/2026-05-04-core-prevent-large-diffs-from-using-unbounded-memory|Core Prevent large diffs from using unbounded memory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

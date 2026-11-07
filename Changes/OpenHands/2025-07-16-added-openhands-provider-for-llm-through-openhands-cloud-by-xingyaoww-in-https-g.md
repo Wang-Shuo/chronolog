@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08fcd7745efd1902fb4b4670e7bd4be96e22f47422e9f1b40556dc6df116362a
+machine_hash: c5d5c586bc1f59d66a18e1a3905196331a9623cc142a90a75869bc9264f849a8
 product: openhands
 product_name: OpenHands
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-07-15 · Cline · [[Changes/Cline/2025-07-15-add-kimi-k2-as-trending-model-by-celestial-vault-in-https-github-com-cline-cline|Add kimi-k2 as trending model]]
-- Later: 2025-07-18 · Replit · [[Changes/Replit/2025-07-18-llm-routing-improvements|LLM routing improvements]]
+- Later: 2025-07-17 · Runway · [[Changes/Runway/2025-07-17-next-generation-motion-capture-model-with-major-improvements-in-generation-quali|Act-Two]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

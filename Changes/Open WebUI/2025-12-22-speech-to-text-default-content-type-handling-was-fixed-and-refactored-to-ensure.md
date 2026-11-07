@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e33256b22cc45d4d5f415569ce351d7a16d217b2c285e1b9a4f3723822e380e3
+machine_hash: c1c0cb8762a70a8b8d2c2a6b8c43b88e27a45b69079335a823e40e115ac42a4b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,8 +48,10 @@ record:
     refactored…"
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-15-packages|Packages]]'
-- '[[Changes/ElevenLabs/2025-12-15-python-sdk|Python SDK]]'
+- '[[Changes/Google Antigravity/2025-12-17-native-audio-support-for-the-agent|Native
+  audio support for the agent]]'
+- '[[Changes/Runway/2025-12-18-text-to-speech-is-now-available-via-the-audio-tab-in-tool-mode-alongside-new-aud|New
+  Audio Features]]'
 - '[[Changes/Open WebUI/2025-12-21-2-voice-and-audio-changes-in-v0-6-42|2 Voice and
   Audio changes in v0.6.42]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-22-v0-6-43-github-272105254-8107703e|open-webui-2025-12-22-v0-6-43-github-272105254-8107703e]]'

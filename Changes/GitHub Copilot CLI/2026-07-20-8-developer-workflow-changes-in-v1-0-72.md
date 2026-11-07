@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1659c1d8d40f6609ac2d2ed3a18f1fa2c10d2ee73e568b106aa9e52a42db9cdd
+machine_hash: d7ab7355754b0d0f03458784da86973eddd7158a14e4390c88e2aa3a68304496
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -127,7 +127,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.72
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer Workflow changes in v2.1.216]]
-- Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved footer PR badge links to be clickable hyperlinks even when terminal support…]]
+- Later: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-sync-the-embedded-terminal-theme-with-the-app-theme|Sync the embedded terminal theme with the app theme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

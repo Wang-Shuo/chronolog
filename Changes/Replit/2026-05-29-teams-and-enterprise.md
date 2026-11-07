@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 275e8662155b4b9d05996ca13a3c9357b012ebae209118b586a7de248f42dc68
+machine_hash: 54946c9090f64ed7ef3368aff9a1b5d1e626e8a5e4e0876d8a4477b73e80665b
 product: replit
 product_name: Replit
 record:
@@ -49,11 +49,10 @@ record:
   title: Teams and Enterprise
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-19-chore-enchance-copywriting-in-none-education-plan-warning-modal-by-iamjoel-in-ht|chore:
-  enchance copywriting in none education plan warning modal]]'
 - '[[Changes/Lovable/2026-05-21-branded-app-urls|Branded app URLs]]'
 - '[[Changes/Codex CLI/2026-05-26-23736-add-new-enterprise-requirement-gate-adams-oai|♯23736
   Add new enterprise requirement gate @adams-oai]]'
+- '[[Changes/Gamma/2026-05-29-api-delete-is-here|API delete is here]]'
 source_release: '[[Releases/Replit/replit-2026-05-29-2026-05-29-e3cfe151|replit-2026-05-29-2026-05-29-e3cfe151]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-23736-add-new-enterprise-requirement-gate-adams-oai|♯23736 Add new enterprise requirement gate @adams-oai]]
+- Earlier: 2026-05-29 · Gamma · [[Changes/Gamma/2026-05-29-api-delete-is-here|API delete is here]]
 - Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-2-enterprise-and-administration-changes-in-v0-9-6|2 Enterprise and Administration changes in v0.9.6]]
 <!-- chronolog:end -->
 

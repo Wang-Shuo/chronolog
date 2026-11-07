@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 47cd909c54705507eca67bd0269ea72b99d5e17693ded6f77c73b3faef3d88d8
+machine_hash: 09d322ba4db5385e22a12d813c6fce98a002a07f877b5590c5e8ad44b1e6b84e
 product: v0
 product_name: v0
 record:
@@ -45,12 +45,12 @@ record:
     recall
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-07-3-agent-mode-changes-in-v0-23-0|3 Agent Mode changes
-  in v0.23.0]]'
 - '[[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New
   agent command is now the primary CLI entrypoint. cursor-agent remains…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-08-task-tool-subagents-can-now-process-images|Task
   tool subagents can now process images]]'
+- '[[Changes/OpenCode/2026-01-08-core-simplify-task-tool-subagent-filtering|Core Simplify
+  task tool subagent filtering]]'
 source_release: '[[Releases/v0/v0-2026-01-08-2026-01-08-bug-fixes-965907a3|v0-2026-01-08-2026-01-08-bug-fixes-965907a3]]'
 source_type: v0_changelog
 theme: agent-mode
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-08-task-tool-subagents-can-now-process-images|Task tool subagents can now process images]]
+- Earlier: 2026-01-08 · OpenCode · [[Changes/OpenCode/2026-01-08-core-simplify-task-tool-subagent-filtering|Core Simplify task tool subagent filtering]]
 - Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added agent_type to SessionStart hook input, populated if --agent is specified]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 619ec3ae44f13e8fab22a1780a8a2d9068c97fe620b2e122f9e82a7311346e8a
+machine_hash: 9f27515ba896eae9e5bb2e69e8ca6301a27b3e1c69f0a1defb3d4ff85cf189db
 product: openhands
 product_name: OpenHands
 record:
@@ -73,7 +73,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-agent-mode-changes-in-v1-0-76|2 Agent Mode changes in v1.0.76]]
-- Later: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-agent|Agent]]
+- Later: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-reduced-typing-lag-while-the-agent-streams-responses|Reduced typing lag while the agent streams responses]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad4fcd02ada332eca0c299c16ef54d5891fdc1b155aee6be350ba0cb40e2d28d
+machine_hash: c3ff60bc64b8f6a5b8710bdd213a18ffc396070dd51cf8643c6a9e8e83d6dcb3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
-- Later: 2026-09-30 · Gemini · [[Changes/Gemini/2026-09-30-let-skills-in-gemini-tackle-your-most-repetitive-tasks|Let skills in Gemini tackle your most repetitive tasks]]
+- Later: 2026-09-29 · Runway · [[Changes/Runway/2026-09-29-elevenlabs-v4-is-now-supported-in-runway-letting-you-generate-audio-with-the-lat|ElevenLabs V4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

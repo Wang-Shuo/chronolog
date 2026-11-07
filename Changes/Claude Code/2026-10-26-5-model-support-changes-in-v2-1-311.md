@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78489f8299363b4332871e091ab9699d14409c9a3d65c5d5f9c35917aa9300f5
+machine_hash: b93eda7a6f72d1b62f8a3bc5158564042de6e76d110c5089a6ca4069879a902c
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,8 +55,8 @@ record:
   title: 5 Model Support changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-24-d3-https-ollama-com-library-d3-brings-vllm-semantic-router-s-decision-models-to|d3((source
-  link) brings vLLM Semantic Router''s decision models…]]'
+- '[[Changes/OpenClaw/2026-10-24-2-model-support-changes-in-v2026-10-7|2 Model Support
+  changes in v2026.10.7]]'
 - '[[Changes/Open WebUI/2026-10-25-16-model-support-changes-in-v0-12-4|16 Model Support
   changes in v0.12.4]]'
 - '[[Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta|GPT-6.1

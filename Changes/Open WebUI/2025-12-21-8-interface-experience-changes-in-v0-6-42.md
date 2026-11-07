@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 43e52be5d22a6c7e326b46b08eab98ef5bfe20fabb0aa4399056fce154e4ea91
+machine_hash: 8ef19da8744c0b3e36343fafa0d2e371682d8e563bfacd9ff0f972844706331a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -73,10 +73,10 @@ record:
   title: 8 Interface Experience changes in v0.6.42
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface
-  Experience changes in v2.0.74]]'
 - '[[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2
   Interface Experience changes in rust-v0.76.0]]'
+- '[[Changes/OpenCode/2025-12-19-terminal-implement-smooth-scrolling-for-autocomplete-dropdown-navigation|Terminal
+  Implement smooth scrolling for autocomplete dropdown navigation]]'
 - '[[Changes/Replit/2025-12-19-status-dot-design-update|Status Dot Design Update]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'
 source_type: github_releases

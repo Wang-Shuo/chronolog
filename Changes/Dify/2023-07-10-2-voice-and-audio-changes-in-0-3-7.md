@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4980d7004bde4342868e3a611830a7a7fd001e5eebf4c949c49d224e0d308b03
+machine_hash: f6bc30cbbdb180ccf743d1e4bf172c0764a96c7ff8eeb80305fc262e92b121fb
 product: dify
 product_name: Dify
 record:
@@ -79,7 +79,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.7
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 20 tracked products.
+- Earliest same-theme entry among the 29 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

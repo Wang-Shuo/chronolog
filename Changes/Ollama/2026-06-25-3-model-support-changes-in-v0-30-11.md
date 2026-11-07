@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d55af55c6441816144214683af04936b0753871e919edb146d6198cac74b573
+machine_hash: d9cfe5f6970cf504057823f86324ab19f28d78584932e2182eef4659f72f99dd
 product: ollama
 product_name: Ollama
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Model Support changes in v0.30.11
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added
-  claude_code.assistant_response OpenTelemetry log event containing…]]'
 - '[[Changes/Codex CLI/2026-06-25-4-model-support-changes-in-rust-v0-142-2|4 Model
   Support changes in rust-v0.142.2]]'
 - '[[Changes/Dify/2026-06-25-17-model-support-changes-in-1-15-0|17 Model Support changes
   in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-improved-the-model-selector-dropdown-to-dynamically-resize-and-prevent-truncatio|Improved
+  the model selector dropdown to dynamically resize and prevent truncation…]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-25-v0-30-11-github-344434965-aea66c2d|ollama-2026-06-25-v0-30-11-github-344434965-aea66c2d]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.30.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-17-model-support-changes-in-1-15-0|17 Model Support changes in 1.15.0]]
+- Earlier: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-improved-the-model-selector-dropdown-to-dynamically-resize-and-prevent-truncatio|Improved the model selector dropdown to dynamically resize and prevent truncation…]]
 - Later: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|Retiring GPT-4.5]]
 <!-- chronolog:end -->
 

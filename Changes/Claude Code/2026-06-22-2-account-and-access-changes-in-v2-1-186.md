@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 814463c5eeae9e15a5a7e2a0fb61afe3bb8bd180d4f5d786f899d43cbd7961ec
+machine_hash: 3d1369af47225228cc8181f736f61952d3e22b6bcf63efeb6bae7c503ef067bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Account and Access changes in v2.1.186
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-17-choose-your-interface-language|Choose your interface
-  language]]'
+- '[[Changes/OpenCode/2026-06-17-2-account-and-access-changes-in-v1-17-8|2 Account
+  and Access changes in v1.17.8]]'
 - '[[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257
   Support staging OAuth client ID overrides @apanasenko-oai]]'
 - '[[Changes/v0/2026-06-19-anonymous-users-opening-a-shared-or-public-chat-are-no-longer-redirected-to-sign|Anonymous

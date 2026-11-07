@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aaadc56055992791598f1512387b03ee816ea4267e2f9b540c0f261aec2ec640
+machine_hash: 59bcf35b48a1f823551f4c117cda0088cf881fe4ce2fb9c5bae1fd12f822c1f5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 4 Apps and Integrations changes in v1.0.5
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-11-added-one-click-marketplace-integration-installation-for-ios-app|Added
-  one-click marketplace integration installation for iOS app]]'
 - '[[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed
   --plugin-dir so local dev copies now override installed marketplace…]]'
 - '[[Changes/Cline/2026-03-12-hooks-reintroduced-feature-toggle|Hooks: reintroduced
   feature toggle]]'
+- '[[Changes/OpenCode/2026-03-12-2-apps-and-integrations-changes-in-v1-2-25|2 Apps
+  and Integrations changes in v1.2.25]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6|github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6]]'
 source_type: github_releases
 theme: apps-integrations
@@ -100,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-12 · Cline · [[Changes/Cline/2026-03-12-hooks-reintroduced-feature-toggle|Hooks: reintroduced feature toggle]]
+- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-2-apps-and-integrations-changes-in-v1-2-25|2 Apps and Integrations changes in v1.2.25]]
 - Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-4-apps-and-integrations-changes-in-v2-1-76|4 Apps and Integrations changes in v2.1.76]]
 <!-- chronolog:end -->
 

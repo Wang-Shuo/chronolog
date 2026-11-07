@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 50d6881063fb44991d604360e4c6114e0d98b48c7af3b7e36d9c5abde256ecac
+machine_hash: 06505e0289275f182f5804ed2e960c26427f27be23508ea8c7015e1f5c59d34b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,11 +52,12 @@ record:
   title: 6 Developer Workflow changes in rust-v0.78.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-24-wave-13-merry-shipmas|Wave 13: Merry Shipmas]]'
-- '[[Changes/Dify/2025-12-25-2-developer-workflow-changes-in-1-11-2|2 Developer Workflow
-  changes in 1.11.2]]'
-- '[[Changes/GitHub Copilot CLI/2025-12-30-kill-command-filtering-now-allows-commands-when-kill-appears-as-an-argument|Kill
-  command filtering now allows commands when ''kill'' appears as an argument]]'
+- '[[Changes/OpenCode/2026-01-04-19-developer-workflow-changes-in-v1-1-1|19 Developer
+  Workflow changes in v1.1.1]]'
+- '[[Changes/OpenCode/2026-01-05-4-developer-workflow-changes-in-v1-1-2|4 Developer
+  Workflow changes in v1.1.2]]'
+- '[[Changes/OpenCode/2026-01-05-6-developer-workflow-changes-in-v1-1-3|6 Developer
+  Workflow changes in v1.1.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -106,8 +107,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.78.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-30-kill-command-filtering-now-allows-commands-when-kill-appears-as-an-argument|Kill command filtering now allows commands when 'kill' appears as an argument]]
-- Later: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-render-paths-relative-to-the-current-working-directory-before-checking-git-roots|Render paths relative to the current working directory before checking git roots…]]
+- Earlier: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-6-developer-workflow-changes-in-v1-1-3|6 Developer Workflow changes in v1.1.3]]
+- Later: 2026-01-06 · OpenCode · [[Changes/OpenCode/2026-01-06-4-developer-workflow-changes-in-v1-1-4|4 Developer Workflow changes in v1.1.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

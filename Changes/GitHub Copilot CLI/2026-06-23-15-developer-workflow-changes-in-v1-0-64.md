@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67bcfa3066ae0bfabb1e0b2950c3f87c45532793c752a01c86715dc508115bc2
+machine_hash: 3f8a8d28a77a9ffdc77f84670e501785da63a35c5af76a84bcb9e2c545450fd5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -75,8 +75,8 @@ record:
   title: 15 Developer Workflow changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed
-  the startup "setup issues" line under the logo]]'
+- '[[Changes/OpenCode/2026-06-21-terminal-only-show-the-background-subagent-shortcut-when-the-server-supports-it|Terminal
+  Only show the background subagent shortcut when the server supports it]]'
 - '[[Changes/Claude Code/2026-06-22-changed-review-pr-to-use-the-same-review-engine-as-code-review-medium|Changed
   /review pr to use the same review engine as /code-review medium]]'
 - '[[Changes/Codex CLI/2026-06-22-4-developer-workflow-changes-in-rust-v0-142-0|4

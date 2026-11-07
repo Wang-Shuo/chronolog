@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4232246ea396392f3a288f5d960ea91fd90641970d3b76ac063fa9ebedbde736
+machine_hash: 85e24b515ea6993d3afc35c7b40a671f7b1faf29ff607f272d7749e4f9f37845
 product: lovable
 product_name: Lovable
 record:
@@ -50,12 +50,12 @@ record:
   title: Functions usage is now labeled Compute
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-28593-codex-suppress-low-usage-remaining-warnings-when-credits-are-available-bro|♯28593
-  codex suppress low usage remaining warnings when credits are available…]]'
 - '[[Changes/Cline/2026-07-09-add-a-clinepass-limit-reached-error-with-a-one-click-option-to-switch-to-cline-u|Add
   a ClinePass limit-reached error with a one-click option to switch to Cline…]]'
 - '[[Changes/Codex CLI/2026-07-09-usage-limit-reset-credits-now-show-their-type-and-expiration-and-let-you-choose|Usage-limit
   reset credits now show their type and expiration, and let you choose…]]'
+- '[[Changes/OpenCode/2026-07-09-core-prevent-crashes-and-bad-pricing-data-when-github-copilot-returns-models-wit|Core
+  Prevent crashes and bad pricing data when GitHub Copilot returns models…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-13-2026-07-13-a5dee32c|lovable-2026-07-13-2026-07-13-a5dee32c]]'
 source_type: lovable_changelog
 theme: pricing-model
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-usage-limit-reset-credits-now-show-their-type-and-expiration-and-let-you-choose|Usage-limit reset credits now show their type and expiration, and let you choose…]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing Model changes in v1.0.71]]
+- Earlier: 2026-07-09 · OpenCode · [[Changes/OpenCode/2026-07-09-core-prevent-crashes-and-bad-pricing-data-when-github-copilot-returns-models-wit|Core Prevent crashes and bad pricing data when GitHub Copilot returns models…]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-18-pricing-model-changes-in-v2026-7-1|18 Pricing Model changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

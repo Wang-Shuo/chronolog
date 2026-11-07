@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be5f031568aa9528ecb55285b1003427ae7485afab17d8c86e03a621964224b4
+machine_hash: 6fcb2bb4c4f2fa41027cac258982ea063d395d629e6bf7ef54dffc2e237b1916
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#49876 Remove personality plumbing from the TUI @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually
-  try on clothing and accessories]]'
 - '[[Changes/Claude Code/2026-10-01-improved-memory-the-left-and-right-arrow-keys-now-flip-its-on-off-settings-such|Improved
   /memory: the left and right arrow keys now flip its on/off settings, such…]]'
 - '[[Changes/Codex CLI/2026-10-01-49000-isolate-the-memory-startup-metadata-test-from-git-enrichment-jif-oai|♯49000
   Isolate the memory startup metadata test from Git enrichment @jif-oai]]'
+- '[[Changes/OpenClaw/2026-10-03-2-memory-and-personalization-changes-in-v2026-9-8|2
+  Memory and Personalization changes in v2026.9.8]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-07-rust-v0-161-0-github-405921402-d1f93f55|codex-cli-2026-10-07-rust-v0-161-0-github-405921402-d1f93f55]]'
 source_type: github_releases
 theme: memory
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49000-isolate-the-memory-startup-metadata-test-from-git-enrichment-jif-oai|♯49000 Isolate the memory startup metadata test from Git enrichment @jif-oai]]
+- Earlier: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-2-memory-and-personalization-changes-in-v2026-9-8|2 Memory and Personalization changes in v2026.9.8]]
 - Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-51223-remove-legacy-personality-template-metadata-rhan-oai|♯51223 Remove legacy personality template metadata @rhan-oai]]
 <!-- chronolog:end -->
 

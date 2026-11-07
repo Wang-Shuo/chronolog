@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 523892e6f9c9dcc62dc0f6dea46cf7093967f517cf0f748dc0460f85f880973d
+machine_hash: d6c189f4d8b4df0d2a4c4530a93a2e7dc9e7086ecce45e1cbe74417df08d7b7d
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-chat-connectors-hex-confidence-and-posthog|Chat connectors: Hex, Confidence, and PostHog]]
-- Later: 2026-04-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-06-2-apps-and-integrations-changes-in-v1-0-19|2 Apps and Integrations changes in v1.0.19]]
+- Later: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-3-apps-and-integrations-changes-in-v1-3-15-1|3 Apps and Integrations changes in v1.3.15 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6c95b5d34515068a4bfb874f219f4dec0cffa0f1d1b5676da91b23cd3031a4d5
+machine_hash: 4ca21d88dc9ee320d8dc90b1454efd1684212e5ac20855df0dc9bc272a0d18ee
 product: lovable
 product_name: Lovable
 record:
@@ -52,12 +52,12 @@ record:
   title: GPT-6.1 Sol for your app's AI features
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-14-9-model-support-changes-in-v0-12-1|9 Model Support
-  changes in v0.12.1]]'
 - '[[Changes/Open WebUI/2026-10-14-4-model-support-changes-in-v0-12-2|4 Model Support
   changes in v0.12.2]]'
 - '[[Changes/Codex CLI/2026-10-15-6-model-support-changes-in-rust-v0-163-0|6 Model
   Support changes in rust-v0.163.0]]'
+- '[[Changes/Google Antigravity/2026-10-15-if-you-use-antigravity-with-your-own-google-cloud-project-through-vertex-ai-the|If
+  you use Antigravity with your own Google Cloud project through Vertex AI…]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-15-2026-10-15-46556c18|lovable-2026-10-15-2026-10-15-46556c18]]'
 source_type: lovable_changelog
 theme: model-support
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-6-model-support-changes-in-rust-v0-163-0|6 Model Support changes in rust-v0.163.0]]
-- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in the chat tab now offers]]
+- Earlier: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-if-you-use-antigravity-with-your-own-google-cloud-project-through-vertex-ai-the|If you use Antigravity with your own Google Cloud project through Vertex AI…]]
+- Later: 2026-10-15 · Suno · [[Changes/Suno/2026-10-15-shareable-custom-models-to-share-with-your-collaborators-and-riff-on-new-ideas-n|Shareable custom models To share with your collaborators and riff on new ideas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

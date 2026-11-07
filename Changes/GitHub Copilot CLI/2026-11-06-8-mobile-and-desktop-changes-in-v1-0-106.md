@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38c2ee34d7f0dee36f737ec539acfd16566583f229554ede213665d211027fa9
+machine_hash: 83c7a2114dc2d902da36444f0dce55f3ef30fd11bb2fcb351b1f0b4d7fddd209
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -62,8 +62,8 @@ record:
   title: 8 Mobile and Desktop changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-2-mobile-and-desktop-changes-in-v1-35-0|2 Mobile
-  and Desktop changes in v1.35.0]]'
+- '[[Changes/OpenClaw/2026-11-05-keeps-accepted-talk-work-running-when-you-end-talk-on-an-android-phone-connected|Keeps
+  accepted Talk work running when you end Talk on an Android phone connected…]]'
 - '[[Changes/OpenHands/2026-11-05-2-mobile-and-desktop-changes-in-v1-36-0|2 Mobile
   and Desktop changes in v1.36.0]]'
 - '[[Changes/Codex CLI/2026-11-06-2-mobile-and-desktop-changes-in-rust-v0-167-0|2
@@ -132,6 +132,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-2-mobile-and-desktop-changes-in-rust-v0-167-0|2 Mobile and Desktop changes in rust-v0.167.0]]
+- Later: 2026-11-06 · OpenCode · [[Changes/OpenCode/2026-11-06-mobile-composer-dock|Mobile Composer Dock]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

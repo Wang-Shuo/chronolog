@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a17c29b8b4829a22314113b8d4237e5ba12e5a6777cc23fd2a4aeddc6dd810b5
+machine_hash: c73e3142acad1bad118783d6dd5d3beaae0a3aa67af0657e04264b7969656389
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: Run on your sandboxes
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-4-agent-mode-changes-in-rust-v0-152-0|4 Agent Mode
-  changes in rust-v0.152.0]]'
+- '[[Changes/OpenClaw/2026-09-01-11-agent-mode-changes-in-v2026-8-2|11 Agent Mode
+  changes in v2026.8.2]]'
 - '[[Changes/Claude Code/2026-09-02-2-agent-mode-changes-in-v2-1-259|2 Agent Mode
   changes in v2.1.259]]'
 - '[[Changes/Cline/2026-09-02-aborting-a-task-now-also-cancels-the-delegated-subagents-and-teammates-it-spawne|Aborting
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-aborting-a-task-now-also-cancels-the-delegated-subagents-and-teammates-it-spawne|Aborting a task now also cancels the delegated subagents and teammates it spawned…]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-2-agent-mode-changes-in-v2-1-260|2 Agent Mode changes in v2.1.260]]
+- Later: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-introduced-the-boost-slash-command-to-enhance-thinking-effort-by-using-a-multi-a|Introduced the /boost slash command to enhance thinking effort by using…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

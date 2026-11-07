@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c286ef445cff3dd46a91decbcd61889d181bf5dc2a203500579003063de55db5
+machine_hash: f2a9b99821dbf1fb1a29035cb715aa79908a617e03c591fb16b51b2816d757ea
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-6-developer-workflow-changes-in-v1-0-61|6 Developer Workflow changes in v1.0.61]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-6-developer-workflow-changes-in-v1-0-62|6 Developer Workflow changes in v1.0.62]]
+- Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-6-developer-workflow-changes-in-v1-17-0|6 Developer Workflow changes in v1.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

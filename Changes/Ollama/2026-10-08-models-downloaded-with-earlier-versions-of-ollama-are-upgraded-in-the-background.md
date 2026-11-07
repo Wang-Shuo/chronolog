@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d784c29f345d277ae0c02cdc79c6eae3c745431b90c66414a78ff043408a900d
+machine_hash: 4b562416fa66687e128840efd80f7f5b444c883eba11410c45a992315314557a
 product: ollama
 product_name: Ollama
 record:
@@ -55,11 +55,11 @@ record:
   title: Models downloaded with earlier versions of Ollama are upgraded in the background…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved
-  rendering speed of long bulleted or numbered replies]]'
 - '[[Changes/Lovable/2026-10-07-faster-inline-text-edits|Faster inline text edits]]'
 - '[[Changes/Codex CLI/2026-10-08-3-reliability-and-performance-changes-in-rust-v0-162-0|3
   Reliability and Performance changes in rust-v0.162.0]]'
+- '[[Changes/Midjourney/2026-10-08-we-re-trying-to-both-improve-performance-and-just-generally-investigate-this-dir|We''re
+  trying to both improve performance and just generally investigate…]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-08-v0-40-2-github-407063639-d2785d50|ollama-2026-10-08-v0-40-2-github-407063639-d2785d50]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-3-reliability-and-performance-changes-in-rust-v0-162-0|3 Reliability and Performance changes in rust-v0.162.0]]
+- Earlier: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-we-re-trying-to-both-improve-performance-and-just-generally-investigate-this-dir|We're trying to both improve performance and just generally investigate…]]
 - Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]
 <!-- chronolog:end -->
 

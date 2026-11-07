@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc88c927ee02256ecba0fbbeaff0803ed37029e0473aad5127602a72245624e1
+machine_hash: 5f26c19e7ed9a2901b58a5d00616bdd675863268ed99bb894027994726a9fdad
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
-- Later: 2026-01-30 · Windsurf · [[Changes/Windsurf/2026-01-30-arena-mode|Arena Mode]]
+- Later: 2026-01-30 · OpenCode · [[Changes/OpenCode/2026-01-30-desktop-free-model-layout-improvements-in-app|Desktop Free model layout improvements in app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bcb6dfcf0ff253cd5e4d1b22df1f07f433bee61ff5a7d20db58af4cfb8a6b405
+machine_hash: 5a8f1c38d05cbab9dfd0e971ec75fafc0fc5555e1d3dd4f39e9f0b2fa48b9427
 product: lovable
 product_name: Lovable
 record:
@@ -48,11 +48,11 @@ record:
   title: Two-factor authentication (2FA)
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-15-redirect-after-login-we-ve-sorted-out-the-login-redirects-to-bring-you-back-to-y|Redirect
-  After Login]]'
 - '[[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-16-2-account-and-access-changes-in-v0-0-384|2
   Account and Access changes in v0.0.384]]'
+- '[[Changes/Granola/2026-01-16-better-copy-paste-to-slack-friendlier-sign-in-errors-and-a-refreshed-calendar-pe|What''s
+  New: January 16, 2026]]'
 source_release: '[[Releases/Lovable/lovable-2026-01-16-2026-01-16-d287c407|lovable-2026-01-16-2026-01-16-d287c407]]'
 source_type: lovable_changelog
 theme: account-access
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-2-account-and-access-changes-in-v0-0-384|2 Account and Access changes in v0.0.384]]
-- Later: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-feat-admin-prompt-user-to-restart-the-cli-if-they-change-auth-to-oauth-mid-sessi|feat(admin): prompt user to restart the CLI if they change auth to oauth mid-session…]]
+- Earlier: 2026-01-16 · Granola · [[Changes/Granola/2026-01-16-better-copy-paste-to-slack-friendlier-sign-in-errors-and-a-refreshed-calendar-pe|What's New: January 16, 2026]]
+- Later: 2026-01-16 · OpenCode · [[Changes/OpenCode/2026-01-16-core-add-oauth-redirect-uri-configuration-for-mcp-servers|Core Add OAuth redirect URI configuration for MCP servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

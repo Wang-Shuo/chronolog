@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 37385bb0165643d9cda1f7ef86cf21191d6e3e8cdd67059d743c34faa4e14155
+machine_hash: d8d766f6d6b0a1551223828d16e6654afdcb5ede1cd9b92a07ffd58a56507441
 product: gemini
 product_name: Gemini
 record:
@@ -55,12 +55,12 @@ record:
   title: Image generation just got an upgrade
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-04-14-image-generation-in-temporary-chats-now-works-properly-fixed-a-bug-where-image-o|\U0001F5BC️
-  Image Generation in Temporary Chats Now Works Properly]]"
 - '[[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|ChatGPT
   Image Library]]'
 - "[[Changes/Open WebUI/2025-05-06-openai-image-generation-issues-resolved-resolved-broken-image-output-when-using|\U0001F58C️
   OpenAI Image Generation Issues Resolved]]"
+- '[[Changes/Manus/2025-05-16-manus-doesn-t-just-generate-images-it-understands-your-intent-plans-a-solution-a|Manus
+  image generation]]'
 source_release: '[[Releases/Gemini/gemini-2025-05-20-2025-05-20-3970ada9|gemini-2025-05-20-2025-05-20-3970ada9]]'
 source_type: gemini_changelog
 theme: image-generation
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-05-06 · Open WebUI · [[Changes/Open WebUI/2025-05-06-openai-image-generation-issues-resolved-resolved-broken-image-output-when-using|🖌️ OpenAI Image Generation Issues Resolved]]
+- Earlier: 2025-05-16 · Manus · [[Changes/Manus/2025-05-16-manus-doesn-t-just-generate-images-it-understands-your-intent-plans-a-solution-a|Manus image generation]]
 - Later: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-image-generation-with-allowed-file-extensions-now-works-reliably-ensure-seamless|🖼️ Image Generation with Allowed File Extensions Now Works Reliably]]
 <!-- chronolog:end -->
 

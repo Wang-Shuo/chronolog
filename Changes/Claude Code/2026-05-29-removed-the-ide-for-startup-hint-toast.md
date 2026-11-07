@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dab734d81e4a74cfb4ddeb2615c7b49110ab24b3ce1cb29c769ffc102eff4566
+machine_hash: c4d7fb6825233242bff2844a9a8468f67fd14f365c0b17f58bd58f037795e2d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,12 +40,12 @@ record:
   title: Removed the "/ide for …" startup hint toast
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-remote-control-autocomplete-now-shows-disconnect-remote-control-when-remote-cont|/remote-control
-  autocomplete now shows "Disconnect Remote Control" when Remote…]]'
 - '[[Changes/Codex CLI/2026-05-28-slash-command-completion-now-preserves-existing-draft-text-for-commands-that-acc|Slash-command
   completion now preserves existing draft text for commands that accept…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-2-editor-experience-changes-in-v1-0-55|2
   Editor Experience changes in v1.0.55]]'
+- '[[Changes/OpenCode/2026-05-28-2-editor-experience-changes-in-v1-15-12|2 Editor
+  Experience changes in v1.15.12]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-2-editor-experience-changes-in-v1-0-55|2 Editor Experience changes in v1.0.55]]
+- Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-2-editor-experience-changes-in-v1-15-12|2 Editor Experience changes in v1.15.12]]
 - Later: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-editor-experience-changes-in-v1-0-56|2 Editor Experience changes in v1.0.56]]
 <!-- chronolog:end -->
 

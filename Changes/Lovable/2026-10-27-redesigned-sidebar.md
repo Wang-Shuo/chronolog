@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3e60d73ec1562d9ea272bd211b3d95d884d5950ed2316f4df95cc9ee9e118c33
+machine_hash: 180dfe7595965b8f2d22f364adeb0ef85b12728321f97d60c24f35e1495359ea
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +48,12 @@ record:
   title: Redesigned sidebar
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-transcript-downloads-the-dubbing-project-menu-can-download-target-language-trans|Transcript
-  downloads: The dubbing project menu can download target language…]]'
-- '[[Changes/Claude Code/2026-10-27-2-interface-experience-changes-in-v2-1-312|2 Interface
-  Experience changes in v2.1.312]]'
 - '[[Changes/Codex CLI/2026-10-27-added-a-repository-filter-to-the-session-picker-and-directory-grouping-to-the-ag|Added
   a repository filter to the session picker and directory grouping to the agent…]]'
+- '[[Changes/Google Antigravity/2026-10-27-you-can-now-move-the-open-conversation-up-or-down-in-the-sidebar-with-alt-shift|Move
+  the open conversation up or down in the sidebar with Alt+Shift+Up…]]'
+- '[[Changes/Google Antigravity/2026-10-27-3-interface-experience-changes-in-hub-v2-28-0-built-in-browser|3
+  Interface Experience changes in HUB v2.28.0 — Built-in browser…]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-27-2026-10-27-6c2f097b|lovable-2026-10-27-2026-10-27-6c2f097b]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-added-a-repository-filter-to-the-session-picker-and-directory-grouping-to-the-ag|Added a repository filter to the session picker and directory grouping to the agent…]]
-- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-3-interface-experience-changes-in-v1-34-0|3 Interface Experience changes in v1.34.0]]
+- Earlier: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-3-interface-experience-changes-in-hub-v2-28-0-built-in-browser|3 Interface Experience changes in HUB v2.28.0 — Built-in browser…]]
+- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-on-linux-doctor-can-repair-a-managed-gateway-that-is-using-an-unsupported-node-v|On Linux, Doctor can repair a managed Gateway that is using an unsupported Node…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

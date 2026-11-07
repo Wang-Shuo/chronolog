@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0d5ce1773206a60699031567caecfecc843be95b10caadf07c0013126a0de624
+machine_hash: ebefb846da98c75530f4585ef26e6df651aa732aeea6689d269f1f50841816bf
 product: cline
 product_name: Cline
 record:
@@ -55,12 +55,12 @@ record:
   title: Add GPT-5.5 model support for OpenAI Codex subscription users
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-23-2-model-support-changes-in-v0-39-0|2 Model Support
-  changes in v0.39.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-2-model-support-changes-in-v1-0-35|2 Model
   Support changes in v1.0.35]]'
 - '[[Changes/Ollama/2026-04-23-recommended-models-in-ollama-launch-now-appear-in-a-fixed-canonical-order|Recommended
   models in ollama launch now appear in a fixed, canonical order]]'
+- '[[Changes/OpenCode/2026-04-23-2-model-support-changes-in-v1-14-22-1|2 Model Support
+  changes in v1.14.22 + 1]]'
 source_release: '[[Releases/Cline/cline-2026-04-24-v3-81-0-github-313292081-20889ce3|cline-2026-04-24-v3-81-0-github-313292081-20889ce3]]'
 source_type: github_releases
 theme: model-support
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-23 · Ollama · [[Changes/Ollama/2026-04-23-recommended-models-in-ollama-launch-now-appear-in-a-fixed-canonical-order|Recommended models in ollama launch now appear in a fixed, canonical order]]
+- Earlier: 2026-04-23 · OpenCode · [[Changes/OpenCode/2026-04-23-2-model-support-changes-in-v1-14-22-1|2 Model Support changes in v1.14.22 + 1]]
 - Later: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-5-model-support-changes-in-rust-v0-125-0|5 Model Support changes in rust-v0.125.0]]
 <!-- chronolog:end -->
 

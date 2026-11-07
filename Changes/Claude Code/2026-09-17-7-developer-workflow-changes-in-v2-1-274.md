@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9fba11c8a2a5fb254efb25ca45878acdcd6200da0759a84a9a612e7e49a13938
+machine_hash: 6e581c6d06e30654b47c349bbc98b5f86c79cc27df769969e5f2d326077f46d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,8 +62,8 @@ record:
   title: 7 Developer Workflow changes in v2.1.274
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer
-  Workflow changes in v2.1.273]]'
+- '[[Changes/Google Antigravity/2026-09-15-the-command-palette-now-opens-over-a-dimmed-backdrop-with-enter-and-exit-animati|The
+  command palette now opens over a dimmed backdrop with enter and exit animations…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-6-developer-workflow-changes-in-v1-0-85|6
   Developer Workflow changes in v1.0.85]]'
 - '[[Changes/OpenHands/2026-09-16-5-developer-workflow-changes-in-v1-19-0|5 Developer

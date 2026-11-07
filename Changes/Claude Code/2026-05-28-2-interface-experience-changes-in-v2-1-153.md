@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c102535b440d8a328ecfa6c5e88f6db589119345deda30e8749a674a314b7a3b
+machine_hash: 1de423998cb532c137fd08a80364a344fd031d9b728d767ab10542414ef29312
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Interface Experience changes in v2.1.153
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-26-project-view-pins-project-views-can-no-longer-be-customized-with-pins-the-toolba|Project
-  view pins. Project views can no longer be customized with pins]]'
-- '[[Changes/Claude Code/2026-05-27-in-fullscreen-mode-the-thinking-for-ns-indicator-now-counts-up-live-while-the-mo|In
-  fullscreen mode, the "Thinking for Ns" indicator now counts up live…]]'
+- '[[Changes/Midjourney/2026-05-27-a-new-rerun-as-hd-button-makes-it-easy-to-rerun-any-v8-1-image-generated-in-stan|A
+  new Rerun as HD button makes it easy to rerun any V8.1 image generated in Standard…]]'
+- '[[Changes/Midjourney/2026-05-27-image-prompts-now-work-from-the-tray-and-sidebar|Image
+  Prompts now work from the tray and sidebar]]'
 - '[[Changes/Claude Code/2026-05-28-vscode-auto-mode-no-longer-requires-the-bypass-permissions-setting-to-appear-in|VSCode
   Auto mode no longer requires the bypass-permissions setting to appear…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b9032f64f0bf2ec7ea072782059f0d4885389f19d6051c4daf69a37766942686
+machine_hash: 7492d97c00e2d1205b0edad423408368866233e884293ba3407f4eb7affaffc1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: The Amazon Bedrock setup wizard is now enabled by default, with API key entry…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-4-account-and-access-changes-in-v1-0-101|4
-  Account and Access changes in v1.0.101]]'
 - '[[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account
   and Access changes in v2.1.307]]'
+- '[[Changes/OpenClaw/2026-10-22-mcp-sign-in-errors-now-give-a-safe-reason-and-tell-you-how-to-sign-in-or-fix-you|MCP
+  sign-in errors now give a safe reason and tell you how to sign in or fix…]]'
 - '[[Changes/Codex CLI/2026-10-23-24-account-and-access-changes-in-rust-v0-164-0|24
   Account and Access changes in rust-v0.164.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account and Access changes in v2.1.307]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-mcp-sign-in-errors-now-give-a-safe-reason-and-tell-you-how-to-sign-in-or-fix-you|MCP sign-in errors now give a safe reason and tell you how to sign in or fix…]]
 - Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-6-account-and-access-changes-in-1-18-0|6 Account and Access changes in 1.18.0]]
 <!-- chronolog:end -->
 

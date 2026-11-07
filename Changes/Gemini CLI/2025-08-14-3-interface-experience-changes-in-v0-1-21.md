@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc6054ca8d8a3938d6848ad53ba5ff70db57b35c9da6b79c02c3bc71db7a7b4b
+machine_hash: 28950ded116378a31681f9a9ef32df143a971bedacd1fae2174fe56635771628
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,11 +45,11 @@ record:
   title: 3 Interface Experience changes in v0.1.21
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-12-5356-minor-fix-remove-duplicate-binding-and-add-complete-navigation-command-by-l|♯5356
-  Minor fix: Remove duplicate binding and add complete navigation command]]'
 - '[[Changes/Cline/2025-08-13-move-browser-settings-menu-to-tailwind-by-celestial-vault-in-https-github-com-cl|move
   browser settings menu to tailwind]]'
 - '[[Changes/Gemini/2025-08-13-introducing-temporary-chat|Introducing Temporary Chat]]'
+- '[[Changes/Midjourney/2025-08-13-we-ve-separated-out-moodboards-into-their-own-page-and-made-them-accessible-in-t|We''ve
+  separated out Moodboards into their own page and made them accessible…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa|gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa]]'
 source_type: github_releases
 theme: interface-experience
@@ -98,7 +98,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.21
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-08-13 · Gemini · [[Changes/Gemini/2025-08-13-introducing-temporary-chat|Introducing Temporary Chat]]
+- Earlier: 2025-08-13 · Midjourney · [[Changes/Midjourney/2025-08-13-we-ve-separated-out-moodboards-into-their-own-page-and-made-them-accessible-in-t|We've separated out Moodboards into their own page and made them accessible…]]
 - Later: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-2-interface-experience-changes-in-rust-v0-23-0|2 Interface Experience changes in rust-v0.23.0]]
 <!-- chronolog:end -->
 

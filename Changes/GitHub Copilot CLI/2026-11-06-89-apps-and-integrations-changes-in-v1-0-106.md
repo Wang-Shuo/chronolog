@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e88318d216a0e49d72606ecedb78f730cc92c956470dd2d88bc5bb68919fec08
+machine_hash: e0a3409399efc7bfb0eef46dfcac43defa4ca340fc2faf653fc791959772f2a8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -319,8 +319,8 @@ record:
   title: 89 Apps and Integrations changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and
-  Integrations changes in 1.19.0]]'
+- '[[Changes/OpenClaw/2026-11-05-5-apps-and-integrations-changes-in-v2026-11-1|5 Apps
+  and Integrations changes in v2026.11.1]]'
 - '[[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps
   and Integrations changes in v1.36.0]]'
 - '[[Changes/Codex CLI/2026-11-06-12-apps-and-integrations-changes-in-rust-v0-167-0|12
@@ -551,6 +551,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-12-apps-and-integrations-changes-in-rust-v0-167-0|12 Apps and Integrations changes in rust-v0.167.0]]
+- Later: 2026-11-06 · OpenCode · [[Changes/OpenCode/2026-11-06-shared-mcp-connections|Shared MCP Connections]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

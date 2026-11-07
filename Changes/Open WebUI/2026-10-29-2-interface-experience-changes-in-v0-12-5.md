@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bea3341e65b5e0e6a42126b0e10869993a899ab608c471c0085f9de1937fad60
+machine_hash: 3308d0ad5da2d0c609a53661443cb6f80475953c29bd74ec7de905f365e16fb2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,9 +52,10 @@ record:
   title: 2 Interface Experience changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]'
 - '[[Changes/Codex CLI/2026-10-29-12-interface-experience-changes-in-rust-v0-166-0|12
   Interface Experience changes in rust-v0.166.0]]'
+- '[[Changes/Google Antigravity/2026-10-29-there-s-no-longer-a-separate-conversation-history-page-search-your-conversations|There''s
+  no longer a separate Conversation History page]]'
 - '[[Changes/Lovable/2026-10-29-bring-your-app-or-website-to-lovable|Bring your app
   or website to Lovable]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
@@ -106,7 +107,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-29 · Lovable · [[Changes/Lovable/2026-10-29-bring-your-app-or-website-to-lovable|Bring your app or website to Lovable]]
-- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-2-interface-experience-changes-in-elevenlabs-updates-2026-11-02|2 Interface Experience changes in ElevenLabs updates — 2026-11-02]]
+- Later: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-terminal-keep-the-activity-spinner-visible-while-a-continued-subagent-runs|Terminal Keep the activity spinner visible while a continued subagent runs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

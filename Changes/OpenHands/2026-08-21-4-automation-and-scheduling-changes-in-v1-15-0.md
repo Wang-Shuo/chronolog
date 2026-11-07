@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: deff53c0bc8c620e2cdad7ce9f86e95eb4bfa7260bd54acb58ead8a82f408815
+machine_hash: 1bec59687c42613711714f5356337eb5b3aea8bf91114b7b39db32966f8000e3
 product: openhands
 product_name: OpenHands
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Automation and Scheduling changes in v1.15.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-13-chore-bump-sdk-deps-software-agent-sdk-1-42-1-automation-1-7-1-typescript-client|chore:
-  bump SDK deps…]]'
+- '[[Changes/Suno/2026-08-13-automation-change-your-effect-parameters-over-time-to-breathe-life-into-your-fin|Automation:
+  Change your effect parameters over time to breathe life into your final mix]]'
 - '[[Changes/Cline/2026-08-14-stop-two-cline-installations-on-different-builds-from-shutting-each-other-s-hub|Stop
   two Cline installations on different builds from shutting each other''s Hub…]]'
 - '[[Changes/OpenHands/2026-08-17-feat-automations-add-a-git-sync-page-by-vascosch92-in-https-github-com-openhands|feat(automations):

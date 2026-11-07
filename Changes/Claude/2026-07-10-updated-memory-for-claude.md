@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48145969e01ece2661915cba6c3ba325ff62df8079edbd3cf348ab820301dda0
+machine_hash: 0f154ed1acd856f5e1b0f0f9b10ba917b9605ab5e71ef4438371efb5e8104bff
 product: claude
 product_name: Claude
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-07-09 · Claude · [[Changes/Claude/2026-07-09-a-new-way-to-reflect-with-claude|A new way to reflect with Claude]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-memory-writes-that-leave-a-memory-md-index-over-its-read-limit-now-produce-an-ex|Memory writes that leave a MEMORY.md index over its read limit now produce…]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-136-memory-and-personalization-changes-in-v2026-7-1|136 Memory and Personalization changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

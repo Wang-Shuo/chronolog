@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b197eaf581030c047ca84ca317ecfdf1d1cb8519ef7d8117d40e689d54997860
+machine_hash: 15562a81334008d5e2a0a571fbc3abbe422c1b4ae761a547d248e11d80ce594d
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Model Support changes in 0.5.8
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-22-gemma-https-ollama-com-library-gemma-is-a-new-top-performing-family-of-lightweig|Gemma((source
-  link) is a new, top-performing family…]]'
+- '[[Changes/Suno/2024-02-22-v3-is-coming-soon-and-we-believe-it-has-the-potential-to-redefine-the-state-of-t|V3
+  is coming soon, and we believe it has the potential to redefine…]]'
 - '[[Changes/Dify/2024-02-28-3-model-support-changes-in-0-5-7|3 Model Support changes
   in 0.5.7]]'
 - '[[Changes/Ollama/2024-03-01-2-model-support-changes-in-v0-1-28|2 Model Support

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd0ef64825e299e5bfb42e40e999ef72fa10e77cafdad20003c4706d0befb24e
+machine_hash: 39da216b7636e7291b18e7496a15ae3e2cc3b4a869538b9b95d8b466a2fd9077
 product: cursor
 product_name: Cursor
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-09-12 · Dify · [[Changes/Dify/2024-09-12-editor-can-also-create-api-key-by-cuckootan-in-https-github-com-langgenius-dify|editor can also create api key]]
-- Later: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-enhanced-error-messaging-system-now-displays-helpful-error-messages-directly-to|🧠 Enhanced Error Messaging]]
+- Later: 2024-09-17 · Gamma · [[Changes/Gamma/2024-09-17-we-ve-introduced-a-powerful-new-ai-feature-for-pro-subscribers-that-lets-you-edi|We've introduced a powerful new AI feature for Pro subscribers that lets you edit…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

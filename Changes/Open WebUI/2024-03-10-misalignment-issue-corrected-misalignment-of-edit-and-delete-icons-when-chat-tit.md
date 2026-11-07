@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 726829b03ecbe29b6f56987ec5cbef13f383c70909fa3f089d51b28f8a04194f
+machine_hash: 0e9c632f1750c2cc7eeb67c09df5780d53bea6cf2e29e8902a41762eb47248df
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: "\U0001F527 **Misalignment Issue**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI
-  Previews: this is an experimental new code reading feature]]'
+- '[[Changes/Gamma/2024-02-14-contributor-block-edit-the-contributors-displayed-by-simply-toggling-on-off-indi|Contributor
+  Block]]'
 - '[[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS
   Code 1.86.2]]'
 - '[[Changes/Aider/2024-03-04-show-the-user-a-faq-link-if-edits-fail-to-apply|Show

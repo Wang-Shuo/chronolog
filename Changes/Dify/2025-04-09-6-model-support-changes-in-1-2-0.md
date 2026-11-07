@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 79686a6453a2f8f21e332cc4bc820335a4e240d3628f08b0620746c9564cb2c5
+machine_hash: b9af6cbbcd26c81edcaf23aa3f8555a3d2719af85644eb177f8f165dd5ccf863
 product: dify
 product_name: Dify
 record:
@@ -53,12 +53,12 @@ record:
   title: 6 Model Support changes in 1.2.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-06-add-recommended-models-for-cline-provider|Add recommended
-  models for Cline provider]]'
 - '[[Changes/Ollama/2025-04-06-2-model-support-changes-in-v0-6-5|2 Model Support changes
   in v0.6.5]]'
 - "[[Changes/Open WebUI/2025-04-07-accurate-tool-descriptions-from-openapi-servers-external-tools-now-use-full-endp|\U0001F6E0️
   Accurate Tool Descriptions from OpenAPI Servers]]"
+- '[[Changes/Runway/2025-04-07-our-fastest-and-most-efficient-video-model-now-available-to-all-users|Gen-4
+  Turbo]]'
 source_release: '[[Releases/Dify/dify-2025-04-09-1-2-0-github-211219994-e78c941d|dify-2025-04-09-1-2-0-github-211219994-e78c941d]]'
 source_type: github_releases
 theme: model-support
@@ -108,7 +108,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.2.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-07 · Open WebUI · [[Changes/Open WebUI/2025-04-07-accurate-tool-descriptions-from-openapi-servers-external-tools-now-use-full-endp|🛠️ Accurate Tool Descriptions from OpenAPI Servers]]
+- Earlier: 2025-04-07 · Runway · [[Changes/Runway/2025-04-07-our-fastest-and-most-efficient-video-model-now-available-to-all-users|Gen-4 Turbo]]
 - Later: 2025-04-10 · ChatGPT · [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting GPT‑4 in ChatGPT]]
 <!-- chronolog:end -->
 

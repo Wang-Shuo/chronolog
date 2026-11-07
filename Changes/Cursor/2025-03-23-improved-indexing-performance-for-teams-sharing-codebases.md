@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 85c3967f9b4d3935178fed557b4e9bb0f50c2842e249c88f2e995fd8e73206d7
+machine_hash: 499c05615d38d56e1d4972c08fa7eaa6fa993bd1932e29d0204ebd9bf5b47931
 product: cursor
 product_name: Cursor
 record:
@@ -50,8 +50,8 @@ record:
   title: Improved indexing performance for teams sharing codebases
   type: change
 related_changes:
-- '[[Changes/Dify/2025-02-28-we-are-glad-to-share-that-we-re-launching-dify-v1-0-0|We
-  are glad to share that we''re launching Dify v1.0.0]]'
+- "[[Changes/Gamma/2025-03-05-add-a-comment-for-feedback-or-collaboration|\U0001F4AC
+  Add a Comment for feedback or collaboration]]"
 - '[[Changes/Gemini/2025-03-13-gems-your-custom-ai-experts-are-now-available-to-more-gemini-users-at-no-cost|Gems,
   your custom AI experts, are now available to more Gemini users at no cost]]'
 - '[[Changes/Lovable/2025-03-21-we-heard-the-issues-you-ve-shared-with-us-and-we-re-working-hard-to-fix-them-all|We
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-03-21 · Lovable · [[Changes/Lovable/2025-03-21-we-heard-the-issues-you-ve-shared-with-us-and-we-re-working-hard-to-fix-them-all|We heard the issues you've shared with us and we're working hard to fix them all]]
-- Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-hello-community-we-re-excited-to-share-our-v1-2-0-update-with-you-it-s-packed-wi|Hello community!]]
+- Later: 2025-03-30 · Midjourney · [[Changes/Midjourney/2025-03-30-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v7-with-you-soon|Thank you so much for your help!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

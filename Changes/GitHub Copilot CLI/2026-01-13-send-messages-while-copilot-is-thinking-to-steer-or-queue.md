@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d1bf414eed53f9677e8c01a21f10be11abc591286d673fa870e54a8e3bd48202
+machine_hash: 3d08da9452ce5b077d05c49e1b5265328ea8d477ab591eb446df985ecae11fb4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-ghost-text-and-tab-completion-show-correct-alias-when-typing-slash-commands-like|Ghost text and tab completion show correct alias when typing slash commands like…]]
-- Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-editor-experience-changes-in-rust-v0-81-0|2 Editor Experience changes in rust-v0.81.0]]
+- Later: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-core-improved-edit-and-write-tool-feedback-to-prevent-confusion-about-whether-ch|Core Improved edit and write tool feedback to prevent confusion about whether…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

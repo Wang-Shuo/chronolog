@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c37bc36ebdcada06de889521129db95800106ce57158cca5a210d91bb04906be
+machine_hash: 31b1b7f2dc85622d561e52f1b7fd6b7f10c1cde59f7a60db37b2a2f97731fb1e
 product: ollama
 product_name: Ollama
 record:
@@ -43,11 +43,12 @@ record:
   title: 'openai: always provide reasoning'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]'
 - '[[Changes/Cline/2025-08-07-pashpashpash-gpt-5-release-by-pashpashpash-in-https-github-com-cline-cline-pull|Pashpashpash/gpt
   5 release]]'
 - '[[Changes/Codex CLI/2025-08-07-2-model-support-changes-in-rust-v0-15-0|2 Model
   Support changes in rust-v0.15.0]]'
+- '[[Changes/Midjourney/2025-08-07-heya-everyone-we-re-releasing-a-hd-mode-for-our-video-model-today|Heya
+  everyone, we''re releasing a HD mode for our video model today!]]'
 source_release: '[[Releases/Ollama/ollama-2025-08-07-v0-11-4-github-238178934-8cfa5478|ollama-2025-08-07-v0-11-4-github-238178934-8cfa5478]]'
 source_type: github_releases
 theme: model-support
@@ -76,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-07 · Codex CLI · [[Changes/Codex CLI/2025-08-07-2-model-support-changes-in-rust-v0-15-0|2 Model Support changes in rust-v0.15.0]]
+- Earlier: 2025-08-07 · Midjourney · [[Changes/Midjourney/2025-08-07-heya-everyone-we-re-releasing-a-hd-mode-for-our-video-model-today|Heya everyone, we're releasing a HD mode for our video model today!]]
 - Later: 2025-08-07 · Windsurf · [[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]
 <!-- chronolog:end -->
 

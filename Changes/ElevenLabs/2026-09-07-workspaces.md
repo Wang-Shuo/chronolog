@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: df2f09b53a12c2a311c0bf5061e666a3a25a7810d499031cae5fbc298c1d97d2
+machine_hash: febf0700830531fb8514211c6df6954298dcdd0c6fb768a63c04131e59810140
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -44,12 +44,12 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To
-  continue a Voice conversation outside ChatGPT, turn on Background conversations…]]'
-- '[[Changes/Ollama/2026-09-02-gemma4-now-supports-images-and-audio-on-mlx-engine|gemma4
-  now supports images and audio on MLX engine]]'
 - '[[Changes/Codex CLI/2026-09-03-5-voice-and-audio-changes-in-rust-v0-153-0|5 Voice
   and Audio changes in rust-v0.153.0]]'
+- '[[Changes/OpenClaw/2026-09-03-12-voice-and-audio-changes-in-v2026-9-1|12 Voice
+  and Audio changes in v2026.9.1]]'
+- '[[Changes/OpenClaw/2026-09-05-17-voice-and-audio-changes-in-v2026-9-2|17 Voice
+  and Audio changes in v2026.9.2]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-07-2026-09-07-cf030a1d|elevenlabs-2026-09-07-2026-09-07-cf030a1d]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-5-voice-and-audio-changes-in-rust-v0-153-0|5 Voice and Audio changes in rust-v0.153.0]]
-- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice and Audio changes in rust-v0.154.0]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-17-voice-and-audio-changes-in-v2026-9-2|17 Voice and Audio changes in v2026.9.2]]
+- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-8-voice-and-audio-changes-in-v2026-9-3|8 Voice and Audio changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

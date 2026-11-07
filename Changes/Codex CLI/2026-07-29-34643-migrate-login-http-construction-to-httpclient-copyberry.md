@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2fb107fe4f1ae51a26f8912cf18c9aee10bdf9ed9157b24922fb9f726f10673e
+machine_hash: 82f22ee2931b63e0a0ad3f24a38e84b9aae9ee2d7eaaff2ef2fee2c2a5b732b8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#34643 Migrate login HTTP construction to `HttpClient` @copyberry'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-24-report-abuse-and-submit-appeals-with-guided-forms|Report
-  abuse and submit appeals with guided forms]]'
-- '[[Changes/Open WebUI/2026-07-27-15-account-and-access-changes-in-v0-11-0|15 Account
-  and Access changes in v0.11.0]]'
-- '[[Changes/Dify/2026-07-28-6-account-and-access-changes-in-1-16-1|6 Account and
-  Access changes in 1.16.1]]'
+- '[[Changes/Google Antigravity/2026-07-28-improved-authentication-error-messages-to-show-the-specific-failure-reason|Improved
+  authentication error messages to show the specific failure reason]]'
+- '[[Changes/OpenCode/2026-07-28-improved-compatibility-with-newer-mcp-servers-and-oauth-flows|Improved
+  compatibility with newer MCP servers and OAuth flows]]'
+- '[[Changes/OpenCode/2026-07-28-core-honors-configured-mcp-oauth-callback-ports-in-mcp-debug|Core
+  Honors configured MCP OAuth callback ports in mcp debug]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: account-access
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-6-account-and-access-changes-in-1-16-1|6 Account and Access changes in 1.16.1]]
+- Earlier: 2026-07-28 · OpenCode · [[Changes/OpenCode/2026-07-28-core-honors-configured-mcp-oauth-callback-ports-in-mcp-debug|Core Honors configured MCP OAuth callback ports in mcp debug]]
 - Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-add-a-browser-based-web-oauth-login-flow-now-the-default-for-copilot-login-on-lo|Add a browser-based (web) OAuth login flow, now the default for copilot login…]]
 <!-- chronolog:end -->
 

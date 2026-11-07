@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98f56e67b804574e6e0b67a5c9c195e304e6b46e51856ef7919710ffc645c4e1
+machine_hash: 539e2e7d06a41a8592972e4a794fa2bca867c31527395983d5cfcf982421611f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Context Window changes in rust-v0.160.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-30-reasoning-tokens-are-no-longer-counted-twice-in-token-usage-cost-is-unchanged|Reasoning
-  tokens are no longer counted twice in token usage]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-compaction-now-returns-a-summary-even-when-instructions-ask-for-tool-use|Compaction
   now returns a summary even when instructions ask for tool use]]'
+- '[[Changes/OpenClaw/2026-09-30-4-context-window-changes-in-v2026-9-7|4 Context Window
+  changes in v2026.9.7]]'
 - '[[Changes/Claude Code/2026-10-01-changed-opus-4-7-and-fable-to-use-a-1m-context-window-by-default-on-bedrock-vert|Changed
   Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'

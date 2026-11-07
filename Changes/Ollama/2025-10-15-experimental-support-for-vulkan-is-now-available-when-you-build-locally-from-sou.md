@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5d9b32196afd806d921fe37ae3bf206dd4e15f7198243b33e4fe6c41bd99dade
+machine_hash: a1f2a94b9c003985603cf0ee925b8f9f1f64b7e817b84c91ac94698a335e1978
 product: ollama
 product_name: Ollama
 record:
@@ -56,9 +56,8 @@ record:
     source
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-13-3-apps-and-integrations-changes-in-v0-0-340|3
-  Apps and Integrations changes in v0.0.340]]'
 - '[[Changes/ElevenLabs/2025-10-14-sdk-releases|SDK Releases]]'
+- '[[Changes/Runway/2025-10-14-apps-are-an-ever-growing-collection-of-use-case-specific-workflows-that-make-it|Apps]]'
 - '[[Changes/Gemini CLI/2025-10-15-3-apps-and-integrations-changes-in-v0-9-0|3 Apps
   and Integrations changes in v0.9.0]]'
 source_release: '[[Releases/Ollama/ollama-2025-10-15-v0-12-6-github-254837655-c69558b6|ollama-2025-10-15-v0-12-6-github-254837655-c69558b6]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a50d818b1992163222c6fbe8b845b1ac6539c654625674c00cee6e3b0ed265cc
+machine_hash: b19a7dc1755b63692d68e40539a1867d38e32f3c42842eac1619de4b2f428e7b
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-02 · ChatGPT · [[Changes/ChatGPT/2026-06-02-log-out-of-individual-sessions-or-all-sessions-from-active-sessions|Log out of individual sessions or all sessions from Active sessions]]
-- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-mcp-oauth-re-authentication-no-longer-fails-with-an-address-in-use-error-when-a|MCP OAuth re-authentication no longer fails with an address-in-use error…]]
+- Later: 2026-06-02 · Google Antigravity · [[Changes/Google Antigravity/2026-06-02-enterprise-authentication-fix|Enterprise Authentication Fix]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

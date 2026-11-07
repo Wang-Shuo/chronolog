@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b9840cd42db4be48f0574ed84ca8659c3bbd99826443c3791a2cefc0c0d04fb9
+machine_hash: 3758ed0e921a664b7b334bd5da64a5528bf02dabf72495915c61665a9e460ad5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-19 · ElevenLabs · [[Changes/ElevenLabs/2026-01-19-agents-platform-97d485|Agents Platform]]
-- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-2-agent-mode-changes-in-rust-v0-88-0|2 Agent Mode changes in rust-v0.88.0]]
+- Later: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-core-restore-persisted-model-and-agent-when-loading-acp-session|Core Restore persisted model and agent when loading ACP session]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 928c29062c55ec235bfb9847c0ce12d6e9969a131b1efdc349b1ec6238cb120a
+machine_hash: ed1aa6f712df06e0ba99cfd3f6ed9c2070996efacb4e317f1f43f94dda4b7342
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,8 +51,8 @@ record:
     removing knowledge…"
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE
-  mode now offers Devin Cloud whenever your account has Cloud access, the same…]]'
+- '[[Changes/OpenCode/2026-10-27-core-honor-shared-parallel-tool-call-and-service-tier-settings-for-groq|Core
+  Honor shared parallel tool-call and service-tier settings for Groq]]'
 - '[[Changes/OpenHands/2026-10-27-feat-conversation-label-the-share-toggle-share-with-org-users-in-team-orgs-ohe-3|feat(conversation):
   label the share toggle "Share with Org users" in team orgs (OHE-3765)]]'
 - '[[Changes/Codex CLI/2026-10-29-57226-allow-nfs-database-migration-with-shared-file-permissions-dkovalenko-oai|♯57226
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57226-allow-nfs-database-migration-with-shared-file-permissions-dkovalenko-oai|♯57226 Allow NFS database migration with shared file permissions @dkovalenko-oai]]
-- Later: 2026-10-30 · Lovable · [[Changes/Lovable/2026-10-30-see-progress-and-next-steps-when-you-publish|See progress and next steps when you publish]]
+- Later: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-2-collaboration-changes-in-v2026-10-9|2 Collaboration changes in v2026.10.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

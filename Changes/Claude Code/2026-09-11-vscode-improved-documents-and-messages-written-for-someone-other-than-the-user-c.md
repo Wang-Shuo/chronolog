@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c809bf49b29846d80c5d937192fc8243b7334cc4142cb4704ec38b20cd8f05a7
+machine_hash: 62a6bc4cd36f4a5293fecabfb83dffdd996ba1ac5c5413d4c1b3ed262b8b82dd
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-09-10 · Gemini · [[Changes/Gemini/2026-09-10-bring-google-gemini-to-your-pc-with-the-new-windows-app|Bring Google Gemini to your PC with the new Windows app]]
-- Later: 2026-09-11 · OpenHands · [[Changes/OpenHands/2026-09-11-2-files-and-data-changes-in-v1-18-0|2 Files and Data changes in v1.18.0]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-images-you-send-stay-visible-while-the-conversation-updates-and-scrolling-back-t|Images you send stay visible while the conversation updates, and scrolling back…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

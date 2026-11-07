@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: fad67a5970c87ee8a318c7595f11ef1f07802fd8049804895af4e85052687339
+machine_hash: 447b2a589c0a63bcaca8719a817c4075f2b784652e8c9256433a39cc25d1615e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,12 +54,12 @@ record:
   title: Retiring GPT-5.2 models
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-06-10-transition-to-flash-ga-model-when-experiment-flag-is-present-by-davidapierce-in|Transition
-  to flash GA model when experiment flag is present]]'
-- '[[Changes/OpenHands/2026-06-10-added-llm-profiles-by-vascosch92-in-https-github-com-openhands-openhands-pull-14|Added
-  LLM profiles]]'
-- '[[Changes/Cline/2026-06-11-handle-the-deepseek-v4-reasoning-format|Handle the DeepSeek
-  V4 reasoning format]]'
+- '[[Changes/Google Antigravity/2026-06-11-support-for-pdf-attachments-to-messages-to-gemini-models-drag-and-drop-pdfs-from|Support
+  for PDF attachments to messages to Gemini models]]'
+- '[[Changes/Midjourney/2026-06-11-after-your-testing-and-feedback-we-ve-updated-the-default-model-from-v7-to-v8-1|After
+  your testing and feedback, we''ve updated the default model from V7 to V8.1!]]'
+- '[[Changes/Midjourney/2026-06-11-a-reminder-of-what-s-new-in-v8-1|A reminder of
+  what''s new in V8.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1|chatgpt-2026-06-12-retiring-gpt-5-2-models-8b6fe7f1]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-11 · Cline · [[Changes/Cline/2026-06-11-handle-the-deepseek-v4-reasoning-format|Handle the DeepSeek V4 reasoning format]]
+- Earlier: 2026-06-11 · Midjourney · [[Changes/Midjourney/2026-06-11-a-reminder-of-what-s-new-in-v8-1|A reminder of what's new in V8.1]]
 - Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added enforceAvailableModels managed setting]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 03e3c13b01b64e5471181c39e75d307f6116a1821564f3fbdfe2778a4c480af4
+machine_hash: da97dc11c52bf69577935344b0520f480a7f62c7036398cd52a06f841df9750a
 product: gemini
 product_name: Gemini
 record:
@@ -64,12 +64,12 @@ record:
   title: Chat to supercharge your ideas in the Gemini app
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-  (Beta) is now rolling out to Plus users on iOS and Android]]'
 - '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
   are beginning to roll out new voice and image capabilities in ChatGPT]]'
 - '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT
   with voice is available to all users]]'
+- '[[Changes/Runway/2024-01-08-create-a-custom-voice-for-text-to-speech-or-lip-sync-videos-using-a-short-audio|Custom
+  Voices]]'
 source_release: '[[Releases/Gemini/gemini-2024-02-08-2024-02-08-d9ed44d5|gemini-2024-02-08-2024-02-08-d9ed44d5]]'
 source_type: gemini_changelog
 theme: voice
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-11-21 · ChatGPT · [[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT with voice is available to all users]]
+- Earlier: 2024-01-08 · Runway · [[Changes/Runway/2024-01-08-create-a-custom-voice-for-text-to-speech-or-lip-sync-videos-using-a-short-audio|Custom Voices]]
 - Later: 2024-02-19 · Dify · [[Changes/Dify/2024-02-19-5-voice-and-audio-changes-in-0-5-6|5 Voice and Audio changes in 0.5.6]]
 <!-- chronolog:end -->
 

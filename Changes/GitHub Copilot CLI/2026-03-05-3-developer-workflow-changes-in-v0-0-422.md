@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5662945b848fe442e725974cc05d4b107c065422438277cfc7e74c6806e89a92
+machine_hash: 1a638b69b5f0b81ed1b36a3890ba442842b7114c5d21588417902a5c2989b011
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.422
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-13504-preserve-persisted-thread-git-info-in-resume-joeytrasatti-openai|♯13504 Preserve persisted thread git info in resume @joeytrasatti-openai]]
-- Later: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-2-developer-workflow-changes-in-v1-0-2|2 Developer Workflow changes in v1.0.2]]
+- Later: 2026-03-05 · OpenCode · [[Changes/OpenCode/2026-03-05-3-developer-workflow-changes-in-v1-2-18|3 Developer Workflow changes in v1.2.18]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

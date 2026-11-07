@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0973b0c9d228239219437752b3a93017db4381c1395e270353ca20b37ceaf5f
+machine_hash: 0093e5355d8311c5372585637e463fa5a3392aa38870d8e274a554e0a9c73043
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,10 +55,10 @@ record:
   title: Improved camera and photo uploads
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-16-the-3-2-series-brings-devin-local-enhancements-and-continued-devin-desktop-polis|The
-  3.2 series brings Devin Local enhancements and continued Devin Desktop polish]]'
 - '[[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile
   and Desktop changes in v2.1.181]]'
+- '[[Changes/OpenCode/2026-06-17-desktop-the-new-desktop-file-and-folder-picker-is-faster-and-easier-to-navigate|Desktop
+  The new desktop file and folder picker is faster and easier to navigate…]]'
 - '[[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated
   composer and tools menu]]'
 scope: iOS
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile and Desktop changes in v2.1.181]]
+- Earlier: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-desktop-the-new-desktop-file-and-folder-picker-is-faster-and-easier-to-navigate|Desktop The new desktop file and folder picker is faster and easier to navigate…]]
 - Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On mobile, an expired session while sending opens the re-authenticate flow instead…]]
 <!-- chronolog:end -->
 

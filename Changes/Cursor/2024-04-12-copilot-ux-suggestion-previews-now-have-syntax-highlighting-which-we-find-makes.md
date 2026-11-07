@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f31cb364088d6ef3357be5dc8e40f88055e3c30737cc3b458b7c19e8017fe3fc
+machine_hash: 7267f725a455dc52fef51bad25eb0b69cffc3981ca12187cce105678f5ba0682
 product: cursor
 product_name: Cursor
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-04-09 · Dify · [[Changes/Dify/2024-04-09-2-editor-experience-changes-in-0-6-1|2 Editor Experience changes in 0.6.1]]
-- Later: 2024-04-16 · Dify · [[Changes/Dify/2024-04-16-3-editor-experience-changes-in-0-6-3|3 Editor Experience changes in 0.6.3]]
+- Later: 2024-04-12 · Suno · [[Changes/Suno/2024-04-12-2-click-edit-profile|2️⃣ Click Edit Profile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

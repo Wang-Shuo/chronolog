@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 94e9e551eac806271742bcb68f3114524df6c6d8425f48df0a6ad7e6919d1a6e
+machine_hash: c293221bea75d16b4961faeea23baac190d5bcfd5906ee555bb648ca848c7cb0
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -52,10 +52,9 @@ record:
   title: Text to speech
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|Smarter
-  problem-solving in STEM and coding]]'
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced
   instruction-following and formatting accuracy]]'
+- '[[Changes/Midjourney/2025-03-30-please-note|Please Note]]'
 - '[[Changes/Aider/2025-03-31-3-model-support-changes-in-v0-80-0|3 Model Support changes
   in v0.80.0]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-03-31-2025-03-31-b6761e84|elevenlabs-2025-03-31-2025-03-31-b6761e84]]'
@@ -94,7 +93,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-3-model-support-changes-in-v0-80-0|3 Model Support changes in v0.80.0]]
-- Later: 2025-04-01 · Cline · [[Changes/Cline/2025-04-01-3-model-support-changes-in-v3-8-5|3 Model Support changes in v3.8.5]]
+- Later: 2025-03-31 · Midjourney · [[Changes/Midjourney/2025-03-31-please-note|Please Note]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b5912ec040b3145750a40baea7b1de685031b63ae51806d0be9e43d92355f7e
+machine_hash: 3669fb9491fb50dd03df97849ae1ff687d02fc706e48f0d25cfdc1b6a9d062ad
 product: dify
 product_name: Dify
 record:
@@ -71,9 +71,10 @@ record:
   title: 10 Apps and Integrations changes in 1.13.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-09-sdk-releases|SDK Releases]]'
 - '[[Changes/Gemini CLI/2026-02-10-7-apps-and-integrations-changes-in-v0-28-0|7 Apps
   and Integrations changes in v0.28.0]]'
+- '[[Changes/OpenCode/2026-02-10-core-add-directory-parameter-to-plugin-client-for-multi-project-support|Core
+  Add directory parameter to plugin client for multi-project support]]'
 - '[[Changes/Codex CLI/2026-02-11-13-apps-and-integrations-changes-in-rust-v0-99-0|13
   Apps and Integrations changes in rust-v0.99.0]]'
 source_release: '[[Releases/Dify/dify-2026-02-11-1-13-0-github-285073967-47691626|dify-2026-02-11-1-13-0-github-285073967-47691626]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c28610c0ae773f7db80334e1f0174d9d1b99d901d4b42c787ee73995c5429709
+machine_hash: d4eb7c753541a918568a1da1fdb8b503c705dca5eb02ad872a7ce4af5779384c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Compaction prompt now asks the model to preserve sensitive user instructions
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-08-3-model-support-changes-in-v1-0-44|3 Model
-  Support changes in v1.0.44]]'
-- '[[Changes/Open WebUI/2026-05-09-9-model-support-changes-in-v0-9-3|9 Model Support
-  changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-09-3-model-support-changes-in-v1-14-44-2|3 Model Support
+  changes in v1.14.44 + 2]]'
 - '[[Changes/Open WebUI/2026-05-10-3-model-support-changes-in-v0-9-5|3 Model Support
   changes in v0.9.5]]'
+- '[[Changes/OpenCode/2026-05-10-core-provider-configs-and-api-responses-now-accept-models-marked-as-active|Core
+  Provider configs and API responses now accept models marked as active]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-3-model-support-changes-in-v0-9-5|3 Model Support changes in v0.9.5]]
+- Earlier: 2026-05-10 · OpenCode · [[Changes/OpenCode/2026-05-10-core-provider-configs-and-api-responses-now-accept-models-marked-as-active|Core Provider configs and API responses now accept models marked as active]]
 - Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-high-bugbot-spends-more-time-reasoning-reviews-are-more-expensive-and-take-longe|High: Bugbot spends more time reasoning]]
 <!-- chronolog:end -->
 

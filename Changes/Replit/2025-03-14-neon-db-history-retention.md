@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6c2b87923406aa4d0f07c665230daf9b06ac116001e5309b415564cc60d6c232
+machine_hash: 27c1a65bf6984504655bf2fc63853bfedd2f6190d0460876d2d429fc65e33228
 product: replit
 product_name: Replit
 record:

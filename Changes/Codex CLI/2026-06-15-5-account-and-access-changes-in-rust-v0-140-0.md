@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f1203469be34bfebc5de39af0f092eca5f82a22dd9b5819e6a6d59abf1c5054
+machine_hash: 50eeaaee517f36ba190bfbf23dee1685cbb4e111ef7a16a3e7f73df7383eb5e0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: 5 Account and Access changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-08-2-account-and-access-changes-in-changelog-update|2 Account
-  and Access changes in Changelog update]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-09-mcp-oauth-re-authentication-correctly-uses-the-saved-oauth-client-id-for-remote|MCP
-  OAuth re-authentication correctly uses the saved OAuth client ID for remote servers]]'
+- '[[Changes/OpenCode/2026-06-12-core-added-connector-based-authentication-flows-and-support-for-stored-provider|Core
+  Added connector-based authentication flows and support for stored provider…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-remote-mcp-oauth-servers-start-only-once-per-matching-config-instead-of-restarti|Remote
   MCP OAuth servers start only once per matching config instead of restarting…]]'
+- '[[Changes/OpenCode/2026-06-13-added-external-browser-oauth-for-the-snowflake-cortex-provider|Added
+  external browser OAuth for the Snowflake Cortex provider]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'
 source_type: github_releases
 theme: account-access
@@ -114,7 +114,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-remote-mcp-oauth-servers-start-only-once-per-matching-config-instead-of-restarti|Remote MCP OAuth servers start only once per matching config instead of restarting…]]
+- Earlier: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-added-external-browser-oauth-for-the-snowflake-cortex-provider|Added external browser OAuth for the Snowflake Cortex provider]]
 - Later: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-2-account-and-access-changes-in-v1-0-63|2 Account and Access changes in v1.0.63]]
 <!-- chronolog:end -->
 

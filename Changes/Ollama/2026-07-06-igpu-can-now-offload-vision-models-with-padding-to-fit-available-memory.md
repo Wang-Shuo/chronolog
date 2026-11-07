@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64c606f044605b53d9d0d45ce711da56194ec4aeeca0a0ea0cfc3a064c86a074
+machine_hash: 1ab50cb6999a2c0d046c8de0210c0d0e63833ce99389d0b64d3d9bc91c911a64
 product: ollama
 product_name: Ollama
 record:
@@ -55,8 +55,8 @@ record:
   title: iGPU can now offload vision models with padding to fit available memory
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-07-01-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
-  General improvements. Various improvements were implemented across…]]"
+- '[[Changes/Runway/2026-07-01-nano-banana-2-lite-is-now-available-in-runway-create-images-at-warp-speed-withou|Nano
+  Banana 2 Lite]]'
 - '[[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2
   Reliability and Performance changes in v2.1.199]]'
 - '[[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved the install script to explain when installation is killed by the system…]]
-- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2 Reliability and Performance changes in v2.1.203]]
+- Later: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-desktop-improved-large-review-pane-performance|Desktop Improved large review pane performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

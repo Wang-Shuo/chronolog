@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29990534310ab9474ee2ed3187ad66d5b22fad5df516324be51d7004729b23a0
+machine_hash: 44857f5dcd3c31cb3252840e82cae31a29aa517b5278d44fbffea1da5b1f152c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -363,8 +363,8 @@ record:
   title: 56 Model Support changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-23-refresh-the-built-in-model-catalog-new-entries-include-claude-fable-5-grok-4-6-o|Refresh
-  the built-in model catalog]]'
+- '[[Changes/Google Antigravity/2026-08-24-added-support-for-attaching-audio-files-mp3-wav-m4a-aac-ogg-flac-opus-up-to-20mb|Added
+  support for attaching audio files (MP3, WAV, M4A, AAC, OGG, FLAC, OPUS) up…]]'
 - '[[Changes/Lovable/2026-08-24-chat-latest-for-your-app-s-ai-features|Chat Latest
   for your app''s AI features]]'
 - '[[Changes/Dify/2026-08-25-93-model-support-changes-in-1-17-0|93 Model Support changes
@@ -531,7 +531,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Model Support
 
 - Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-93-model-support-changes-in-1-17-0|93 Model Support changes in 1.17.0]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend|Added /claude-api cost-optimize to profile an existing project's Claude API spend…]]
+- Later: 2026-08-25 · OpenCode · [[Changes/OpenCode/2026-08-25-2-model-support-changes-in-v1-18-23|2 Model Support changes in v1.18.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

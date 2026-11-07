@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e9286d7997b953f95a0e284f1f3f7cf5c938522d52aea094485c3afa8615664
+machine_hash: 5f493443577d2d710f9749c3245387dd26f0c6af6f2ae66f84db7c51190ce0c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-30 · Windsurf · [[Changes/Windsurf/2026-10-30-members-an-enterprise-admin-has-listed-for-anthropic-s-cyber-verification-progra|Members an enterprise admin has listed for Anthropic's Cyber Verification Program…]]
-- Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-workspace-controls-enabling-or-disabling-provider-models-requires-an-owner-or-ad|Workspace controls: enabling or disabling provider models requires an owner…]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-you-can-now-guide-the-same-running-conversation-from-the-control-ui-or-an-admini|Guide the same running conversation from the Control UI or an administrator-linked…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

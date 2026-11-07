@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9dd473bd2635a6e667968e698e099e23b4221c32f6b68f07a1b69d02cbba7528
+machine_hash: dec3475c1c5f545158b3878317504b637d0eac7f35b88c28f0877c71c9a278f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
     for stats…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added
-  session resume hint on exit, showing how to continue your conversation later]]'
 - '[[Changes/Gemini CLI/2026-02-10-feat-acp-add-session-resume-support-by-bdmorgan-in-https-github-com-google-gemin|feat(acp):
   add session resume support]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-add-cmd-keybinds-for-session-history-navigation|Desktop
+  Add Cmd+/ keybinds for session history navigation]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-14-exit-from-alt-screen-no-longer-replays-full-session-history|Exit
   from alt-screen no longer replays full session history]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'

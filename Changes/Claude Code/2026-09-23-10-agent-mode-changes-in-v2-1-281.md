@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d83b880adb90bac05f6de4aa5c5eee77beac7aac827f4d0999fef0d5a19c675
+machine_hash: 31929d867b17f3c5a949f1409df5d1f189908ac910fc130aa4d17d2eb6ef9148
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,10 +75,9 @@ record:
   title: 10 Agent Mode changes in v2.1.281
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-34-agent-mode-changes-in-rust-v0-156-0|34 Agent
-  Mode changes in rust-v0.156.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-22-2-agent-mode-changes-in-v1-0-88|2 Agent
-  Mode changes in v1.0.88]]'
+- '[[Changes/Google Antigravity/2026-09-22-4-agent-mode-changes-in-hub-v2-17-0-plan-before-you-build|4
+  Agent Mode changes in HUB v2.17.0 — Plan before you build]]'
+- '[[Changes/Google Antigravity/2026-09-22-plan-before-you-build|Plan before you build]]'
 - '[[Changes/OpenHands/2026-09-22-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs:
   refresh AGENTS.md guidance]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'

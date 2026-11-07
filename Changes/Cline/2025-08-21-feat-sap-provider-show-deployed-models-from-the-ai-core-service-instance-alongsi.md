@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ecb2a8e2ca727eab568902251727e039662917efc822a753962136b0969fbb0b
+machine_hash: f103ec3d583caab3a1fd39bb1ccc9c081f89467f7e0d59d40f76f471482cfcb6
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: 'feat: sap provider - show deployed models from the ai core service instance…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-18-4-model-support-changes-in-v0-1-22|4 Model Support
-  changes in v0.1.22]]'
+- '[[Changes/Runway/2025-08-19-added-support-for-select-third-party-models-within-chat-mode-and-gen-4-image-tur|More
+  Ways to Create]]'
 - '[[Changes/Cline/2025-08-20-2-model-support-changes-in-v3-26-0|2 Model Support changes
   in v3.26.0]]'
 - '[[Changes/Codex CLI/2025-08-20-4-model-support-changes-in-rust-v0-23-0|4 Model

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd15adb71165a7f4924abead6474f5c77bab5f09a4e20ecee1660e28fcdb5f53
+machine_hash: e41c0f2da48bf915ae72d33be469238d7c2bbf80dd06d693aaa4110efd1deb2d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -97,8 +97,8 @@ record:
   title: 10 Automation and Scheduling changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed
-  Ctrl+C at the idle prompt of an attached background session to leave…]]'
+- '[[Changes/OpenClaw/2026-10-08-2-automation-and-scheduling-changes-in-v2026-9-9|2
+  Automation and Scheduling changes in v2026.9.9]]'
 - '[[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2
   Automation and Scheduling changes in v1.26.0]]'
 - '[[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads|Create and manage TikTok
@@ -170,7 +170,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-09 · Replit · [[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads|Create and manage TikTok Ads]]
-- Later: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-4-automation-and-scheduling-changes-in-v1-27-0|4 Automation and Scheduling changes in v1.27.0]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-10-automation-and-scheduling-changes-in-v2026-10-1|10 Automation and Scheduling changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

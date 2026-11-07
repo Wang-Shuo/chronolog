@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc01cf6266a8193bcb97e7ea254e5c39007dfaa63708d85067905d3ac9bfeb1e
+machine_hash: 1d93fcef6dbfc5bdd1aa800b8ba234786fc2db8db2fffd993ac50fa1a682f703
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-2-automation-and-scheduling-changes-in-v1-21-0|2 Automation and Scheduling changes in v1.21.0]]
-- Later: 2026-09-23 · OpenHands · [[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore: consume SDK 1.49.5 and Automation 1.15.0]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-9-automation-and-scheduling-changes-in-v2026-9-6|9 Automation and Scheduling changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

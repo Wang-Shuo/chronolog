@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5487f05847668422eeec7e378b76820a68cbe80ec5c4903a16fee3120ed07cf2
+machine_hash: 21bec1080e2a50b5aff8fb56e0dde2fa1345ca4ac75c268bd6750af62c0dbe27
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -51,10 +51,10 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-5-safety-and-privacy-changes-in-v0-29-0|5 Safety
-  and Privacy changes in v0.29.0]]'
 - '[[Changes/Claude Code/2026-02-19-3-safety-and-privacy-changes-in-v2-1-49|3 Safety
   and Privacy changes in v2.1.49]]'
+- '[[Changes/OpenCode/2026-02-19-4-safety-and-privacy-changes-in-v1-2-7|4 Safety and
+  Privacy changes in v1.2.7]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-21-show-permission-elevation-dialog-when-accepting-a-plan-with-autopilot-to-prevent|Show
   permission elevation dialog when accepting a plan with autopilot to prevent…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-23-2026-02-23-19067983|elevenlabs-2026-02-23-2026-02-23-19067983]]'

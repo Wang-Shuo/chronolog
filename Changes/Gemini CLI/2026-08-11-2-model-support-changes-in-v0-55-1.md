@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd3328e5f2253a33d90ed066ac1dfdb81509e2718157dd04dac84ec098c0203e
+machine_hash: d198d6fb21359eb82a04c791cb4db77ea28ff8ab248941691d8e31af2d3c72f0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.55.1
 ## Nearby in Model Support
 
 - Earlier: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-2-model-support-changes-in-v4-1-8|2 Model Support changes in v4.1.8]]
-- Later: 2026-08-13 · DeepSeek API · [[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]
+- Later: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-improved-the-model-selector-dropdown-to-choose-thinking-levels-per-model-low-med|Improved the model selector dropdown to choose thinking levels per-model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

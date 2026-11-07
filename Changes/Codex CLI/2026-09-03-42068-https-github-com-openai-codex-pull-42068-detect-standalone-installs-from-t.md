@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 610a6e6c78fde6f3b8728c15df324b6183736b5065025a4777f26d4f432b9bb9
+machine_hash: c7a71c0d52049c85997435a14a0cd3c389718fbbdfa32fcedaae4afcb236a4bb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: '[#42068](https://github.com/openai/codex/pull/42068) Detect standalone installs…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed
-  --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]'
+- '[[Changes/OpenClaw/2026-09-01-3-mobile-and-desktop-changes-in-v2026-8-2|3 Mobile
+  and Desktop changes in v2026.8.2]]'
 - '[[Changes/Lovable/2026-09-02-download-the-mobile-app-from-your-settings|Download
   the mobile app from your settings]]'
 - '[[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile and Desktop changes in v2.1.260]]
-- Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn a sketch into an image]]
+- Later: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-10-mobile-and-desktop-changes-in-v2026-9-1|10 Mobile and Desktop changes in v2026.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

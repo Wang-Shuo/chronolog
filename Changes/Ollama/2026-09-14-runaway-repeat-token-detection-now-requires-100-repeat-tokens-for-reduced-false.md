@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f33055bdee686c356e0115aeb71f1d0b3e97bdff8fdb58000c77362c0f3b265
+machine_hash: d0a4b5cacd0185f6785f45f8cd7389990e06f7a8736927e64a84aa99fdea1849
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
     false…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-10-see-what-is-inside-a-zip-before-lovable-uses-it|See
-  what is inside a ZIP before Lovable uses it]]'
 - '[[Changes/Lovable/2026-09-11-preview-pdf-attachments-in-chat|Preview PDF attachments
   in chat]]'
+- '[[Changes/OpenClaw/2026-09-11-2-context-window-changes-in-v2026-9-4|2 Context Window
+  changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved
   the spinner status during long thinking]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-14-v0-34-1-github-388717036-07219146|ollama-2026-09-14-v0-34-1-github-388717036-07219146]]'

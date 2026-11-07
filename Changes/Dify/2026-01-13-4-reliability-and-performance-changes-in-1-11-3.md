@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 46827308ac727f5f00c27f0c49953076e1325b7a7221f520d4b0e2d8ff1cbfa1
+machine_hash: 25a52bb3648334818dabbeec36516054d2835904a55256c5210e8c7683c19e90
 product: dify
 product_name: Dify
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Reliability and Performance changes in 1.11.3
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-improved-reliability-for-low-spec-and-sqlite-deployments-fixed-page-timeouts-by|⚡
-  Improved reliability for low-spec and SQLite deployments. Fixed page timeouts…]]'
 - '[[Changes/Ollama/2026-01-10-for-older-models-ollama-will-avoid-an-integer-underflow-on-low-vram-systems-duri|For
   older models, Ollama will avoid an integer underflow on low VRAM systems during…]]'
 - "[[Changes/Open WebUI/2026-01-10-the-evaluations-page-now-loads-faster-by-eliminating-duplicate-api-calls-to-the|\U0001F4CA
   The Evaluations page now loads faster by eliminating duplicate API calls…]]"
+- '[[Changes/OpenCode/2026-01-10-terminal-fix-instance-disposal-to-prevent-memory-leaks-and-dangling-references|Terminal
+  Fix instance disposal to prevent memory leaks and dangling references]]'
 source_release: '[[Releases/Dify/dify-2026-01-13-1-11-3-github-276298566-1fe35168|dify-2026-01-13-1-11-3-github-276298566-1fe35168]]'
 source_type: github_releases
 theme: reliability-performance
@@ -103,7 +103,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-10 · Open WebUI · [[Changes/Open WebUI/2026-01-10-the-evaluations-page-now-loads-faster-by-eliminating-duplicate-api-calls-to-the|📊 The Evaluations page now loads faster by eliminating duplicate API calls…]]
+- Earlier: 2026-01-10 · OpenCode · [[Changes/OpenCode/2026-01-10-terminal-fix-instance-disposal-to-prevent-memory-leaks-and-dangling-references|Terminal Fix instance disposal to prevent memory leaks and dangling references]]
 - Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-sessions-with-large-conversation-history-load-faster-on-startup|Sessions with large conversation history load faster on startup]]
 <!-- chronolog:end -->
 

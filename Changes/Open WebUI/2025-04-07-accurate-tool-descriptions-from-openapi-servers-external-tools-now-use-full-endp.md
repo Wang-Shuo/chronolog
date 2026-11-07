@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee0caf41b4730e34553eecab56d29a0cbb48f02a41aad4e143fc818184616d76
+machine_hash: 04c81de68f6d3a3fdb3cd21900addb0d8e6ee1e8fd4003fe8a81a57403c9712b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-04-06 · Ollama · [[Changes/Ollama/2025-04-06-2-model-support-changes-in-v0-6-5|2 Model Support changes in v0.6.5]]
-- Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-6-model-support-changes-in-1-2-0|6 Model Support changes in 1.2.0]]
+- Later: 2025-04-07 · Runway · [[Changes/Runway/2025-04-07-our-fastest-and-most-efficient-video-model-now-available-to-all-users|Gen-4 Turbo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

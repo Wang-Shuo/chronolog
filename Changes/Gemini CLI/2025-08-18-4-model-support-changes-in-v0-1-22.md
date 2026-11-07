@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a682a00fd2c12d1fde8fe1907b25553973296691ba3e70a6bd5c96604da1c95e
+machine_hash: 24afd4c79cd90977143efa51af34a9f90aaa9888035a2c8a184a4dd8d34a1d4a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.22
 ## Nearby in Model Support
 
 - Earlier: 2025-08-15 · Ollama · [[Changes/Ollama/2025-08-15-ollama-flash-attention-1-will-also-enable-flash-attention-for-pure-cpu-models|OLLAMA_FLASH_ATTENTION=1 will also enable flash attention for pure-CPU models]]
-- Later: 2025-08-20 · Cline · [[Changes/Cline/2025-08-20-2-model-support-changes-in-v3-26-0|2 Model Support changes in v3.26.0]]
+- Later: 2025-08-19 · Runway · [[Changes/Runway/2025-08-19-added-support-for-select-third-party-models-within-chat-mode-and-gen-4-image-tur|More Ways to Create]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

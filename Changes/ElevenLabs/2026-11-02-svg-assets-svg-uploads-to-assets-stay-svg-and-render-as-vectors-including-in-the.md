@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22fb33832f8eff67a263934f3931ab1255c9896a3f0231536762437c273baed1
+machine_hash: cf38b5fd9d2ccadbeecfdea145f86caf84c9d23b399881b0c6759edf106eeb3f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -56,10 +56,10 @@ record:
   title: '**SVG assets**: SVG uploads to Assets stay SVG and render as vectors, including…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-29-6-editor-experience-changes-in-v0-12-5|6 Editor
-  Experience changes in v0.12.5]]'
 - '[[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor
   Experience changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-core-when-edit-can-t-find-oldstring-the-error-shows-the-file-s-closest-lines-or|Core
+  When edit can''t find oldString , the error shows the file''s closest lines…]]'
 - '[[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor
   Experience changes in v2.1.316]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'

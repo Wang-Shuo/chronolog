@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: e73235156d995c2506ba6f61fffc795e2e2ca987a87a39f5e7e6c91b8db7f393
+machine_hash: bd757c017f3ab55f67285c17d99f1b9523ef9082ca129ffbe4d7e0f0ba1bcdc7
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved token and cost reporting for infinite output
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-14-feat-pricing-page-add-llm-load-balancing-info-by-iamjoel-in-https-github-com-lan|feat:
-  pricing page add llm load balancing info]]'
 - '[[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace
   Extensions now available in Beta for Gemini for Google Workspace add-on…]]'
 - '[[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced
   token usage and cost reporting]]'
+- '[[Changes/Suno/2024-08-12-effective-immediately-all-pro-premier-creators-will-receive-50-free-credits-per|Pro
+  / Premier creators now get 50 credits per day]]'
 source_release: '[[Releases/Aider/aider-2024-08-13-v0-50-0-github-170044522-4391dc3d|aider-2024-08-13-v0-50-0-github-170044522-4391dc3d]]'
 source_type: github_releases
 theme: pricing-model
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced token usage and cost reporting]]
+- Earlier: 2024-08-12 · Suno · [[Changes/Suno/2024-08-12-effective-immediately-all-pro-premier-creators-will-receive-50-free-credits-per|Pro / Premier creators now get 50 credits per day]]
 - Later: 2024-08-20 · Aider · [[Changes/Aider/2024-08-20-improved-cost-estimate-logic-for-caching|Improved cost estimate logic for caching]]
 <!-- chronolog:end -->
 

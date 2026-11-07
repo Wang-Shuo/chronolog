@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7d34add06032067df41ae738d7926ec2820322acf5d9f251273591d9c1761347
+machine_hash: 602c0e3dd43fd284e281bfbdacf2f495ca4e4b388c8a938c848b2f60d389fd22
 product: lovable
 product_name: Lovable
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added live file path autocomplete to bash mode (!)]]
+- Later: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-desktop-kept-draft-prompt-state-per-tab|Desktop Kept draft prompt state per tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

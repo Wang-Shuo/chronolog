@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 93c36f960aa43baacdad4794d28da8526b057c5924911a0f8a41badbb583c535
+machine_hash: 9e764b86695886a962349f4d8bd2f05b3f9c8668e0c041a39d2b0c8d94c02542
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: '**Deprecation Warnings** in CLI and during LLM API calls by @xingyaoww…'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-16-3-model-support-changes-in-1-4-3|3 Model Support changes
-  in 1.4.3]]'
-- '[[Changes/Open WebUI/2025-06-16-2-model-support-changes-in-v0-6-15|2 Model Support
-  changes in v0.6.15]]'
+- '[[Changes/Midjourney/2025-06-18-as-you-know-our-focus-for-the-past-few-years-has-been-images-what-you-might-not|As
+  you know, our focus for the past few years has been images]]'
+- '[[Changes/Midjourney/2025-06-19-heya-everyone-we-re-hearing-a-lot-of-people-are-running-out-of-fast-hours-with-o|Heya
+  everyone!]]'
 - '[[Changes/OpenHands/2025-06-20-fixed-cli-displaying-incorrect-default-model-for-anthropic-provider-by-neubig-in|Fixed
   CLI displaying incorrect default model for Anthropic provider by @neubig…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-45-0-github-226789367-b83ab16d|openhands-2025-06-20-0-45-0-github-226789367-b83ab16d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bdf6e36ce2eaae6841ff9a65ea2ea70a6a9b22b6a2d3872e379613339c7ce47b
+machine_hash: 7420d3cd20acc1b3f2f1b6ba186a683ddfb00d5acd1780262c0c6742e6199d93
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-3-memory-and-personalization-changes-in-v0-36-0|3 Memory and Personalization changes in v0.36.0]]
-- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-2-memory-and-personalization-changes-in-rust-v0-119-0|2 Memory and Personalization changes in rust-v0.119.0]]
+- Later: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-core-reduced-typescript-lsp-memory-use-by-using-the-native-project-config|Core Reduced TypeScript LSP memory use by using the native project config]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

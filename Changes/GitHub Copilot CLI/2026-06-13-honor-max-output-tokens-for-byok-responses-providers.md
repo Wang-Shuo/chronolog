@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 117e30014d39acb5ce3a83a0beae758638ee81d23e31bfdd47f31f77926da126
+machine_hash: 4b3ad34dc26eceb3eb25c4c602e415160145889990be2e91b1e56754fd9024b5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Honor max_output_tokens for BYOK Responses providers
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context
-  Window changes in rust-v0.139.0]]'
+- '[[Changes/Google Antigravity/2026-06-11-ask-side-questions-using-btw-while-in-a-conversation-type-btw-in-the-input-and-s|Ask
+  side questions using /btw]]'
 - '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode
   Added usage attribution to the Account & usage dialog (/usage) showing…]]'
 - '[[Changes/Ollama/2026-06-12-improved-prompt-caching-by-decoupling-it-from-context-shift-for-better-kv-cache|Improved

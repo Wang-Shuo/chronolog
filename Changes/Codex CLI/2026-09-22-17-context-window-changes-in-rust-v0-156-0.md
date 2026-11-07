@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa55498a2af70fd42beea2de5efd5e4e8d275cbdc67f1ccb01aab6bc5ed622ec
+machine_hash: 2567f830f7b6b06a281a07fe5e2794eb3ea8b00f6ce51647f5a2671b5d2d0908
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -77,8 +77,8 @@ record:
   title: 17 Context Window changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-18-type-or-to-add-context-and-skills-where-you-type|Type
-  @ or / to add context and skills where you type]]'
+- '[[Changes/OpenClaw/2026-09-19-20-context-window-changes-in-v2026-9-5|20 Context
+  Window changes in v2026.9.5]]'
 - '[[Changes/Open WebUI/2026-09-21-3-context-window-changes-in-v0-11-4|3 Context Window
   changes in v0.11.4]]'
 - '[[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window
@@ -164,7 +164,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.156.0
 ## Nearby in Context Window
 
 - Earlier: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window changes in v4.1.20]]
-- Later: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-long-replies-on-local-models-llama-cpp-ollama-lm-studio-that-hit-the-output-toke|Long replies on local models (llama.cpp, Ollama, LM Studio) that hit…]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-25-context-window-changes-in-v2026-9-6|25 Context Window changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

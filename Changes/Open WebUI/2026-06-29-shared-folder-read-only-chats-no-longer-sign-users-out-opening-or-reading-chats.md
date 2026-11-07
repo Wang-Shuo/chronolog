@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 766355192aeee668f27f57ccb733e1cd7f7ad134f1e9b7491f585339a9ff7c05
+machine_hash: dc868edccf047471c248465ac7b9df2414f6941cd1be7e64580eca7903155db2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,10 +48,10 @@ record:
     or reading…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-added-opt-in-windows-system-proxy-support-for-authentication-including-pac-wpad|Added
-  opt-in Windows system proxy support for authentication, including PAC, WPAD…]]'
-- '[[Changes/Dify/2026-06-25-5-account-and-access-changes-in-1-15-0|5 Account and
-  Access changes in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-enabled-automatic-saving-of-refreshed-oauth-tokens-to-the-os-keyring-to-reduce-a|Enabled
+  automatic saving of refreshed OAuth tokens to the OS keyring to reduce…]]'
+- '[[Changes/OpenCode/2026-06-25-core-always-print-the-mcp-oauth-url-so-manual-sign-in-still-works-when-opening-t|Core
+  Always print the MCP OAuth URL so manual sign-in still works when opening…]]'
 - '[[Changes/v0/2026-06-26-3-account-and-access-changes-in-platform-api-v2-mcp-chat-tools|3
   Account and Access changes in Platform API v2, MCP chat tools…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-1-github-346467913-0bcc38a8|open-webui-2026-06-29-v0-10-1-github-346467913-0bcc38a8]]'

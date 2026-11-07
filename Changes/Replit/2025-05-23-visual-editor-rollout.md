@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bca48ae4e762addf6c7361a794b0cb949a7304d8d5246f7b937be2538dff2299
+machine_hash: 99bb81cf9e5d9bb0a93f3eecb892770e80cbf1dededee7fe39243ab86204a11c
 product: replit
 product_name: Replit
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-05-19 · Open WebUI · [[Changes/Open WebUI/2025-05-19-2-editor-experience-changes-in-v0-6-10|2 Editor Experience changes in v0.6.10]]
-- Later: 2025-05-30 · Aider · [[Changes/Aider/2025-05-30-2-editor-experience-changes-in-v0-84-0|2 Editor Experience changes in v0.84.0]]
+- Later: 2025-05-29 · Midjourney · [[Changes/Midjourney/2025-05-29-we-ve-upgraded-the-ai-moderation-in-the-editor|We’ve upgraded the AI moderation in the editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

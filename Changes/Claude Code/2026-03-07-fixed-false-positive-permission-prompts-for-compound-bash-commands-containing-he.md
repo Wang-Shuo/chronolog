@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: b846d81b1093e4dad3f546dd3e197301613f4f482d1bc323542270166ef8d24f
+machine_hash: 0bbe87dd9240bcb0070fdd091237f1be90acb02c3e431e14667ad2a06b7b1457
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-03-05 · Cursor · [[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When invoked, the agent spins up a cloud sandbox and follows your instructions using…]]
-- Later: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-6-safety-and-privacy-changes-in-rust-v0-112-0|6 Safety and Privacy changes in rust-v0.112.0]]
+- Later: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-core-enable-auto-accept-keybind-regardless-of-permission-config|Core Enable auto-accept keybind regardless of permission config]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

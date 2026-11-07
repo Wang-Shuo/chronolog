@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ab3f5f42157a091fd8d0ec20c8426caa556ab1f0ad156689d10ced9e3608caa5
+machine_hash: a75f48484b8c35ad23e4f4fc96ec1c45c8489745a473f41aa4d7d8dd71f74abb
 product: claude
 product_name: Claude
 record:
@@ -51,7 +51,8 @@ record:
   title: Skills for organizations, partners, and the ecosystem
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-15-agents-platform-ef857c|Agents Platform]]'
+- '[[Changes/Manus/2025-12-15-we-ve-just-released-a-major-upgrade-with-a-new-flagship-agent-manus-1-6-max-plus|Welcome
+  Manus 1.6]]'
 - '[[Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands|New
   OpenHands 1.0.0 using the new…]]'
 - '[[Changes/Windsurf/2025-12-16-agents-tool-execution|Agents & Tool Execution]]'

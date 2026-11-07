@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d206e929274d2dea886fee7046af0ba63cbaef22459e55d8951c2e1b25a072fb
+machine_hash: 89b36b64862122a286cfaf488f36bfaf76425ca3e841e69b3b28495594a52fbe
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Renamed `/simplify` to `/code-review`
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-3-developer-workflow-changes-in-rust-v0-132-0|3
-  Developer Workflow changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-4-developer-workflow-changes-in-v1-0-51|4
   Developer Workflow changes in v1.0.51]]'
+- '[[Changes/OpenCode/2026-05-20-3-developer-workflow-changes-in-v1-15-6|3 Developer
+  Workflow changes in v1.15.6]]'
 - '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-with-an-optional-effort-level-e-g-code-review-hi|Renamed
   /simplify to /code-review with an optional effort level…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd|claude-code-2026-05-21-v2-1-147-github-327133263-73928fcd]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9388f21e229ad65b0c6be609b2b9ec1c0911fa70a2f3b79883a97f31bf870c77
+machine_hash: 1396f920af93b4f873325a3c0fe4d7648631bdcfe486f108c324136f4557b270
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
     roots…
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-25-2-developer-workflow-changes-in-1-11-2|2 Developer Workflow
-  changes in 1.11.2]]'
-- '[[Changes/GitHub Copilot CLI/2025-12-30-kill-command-filtering-now-allows-commands-when-kill-appears-as-an-argument|Kill
-  command filtering now allows commands when ''kill'' appears as an argument]]'
+- '[[Changes/OpenCode/2026-01-05-6-developer-workflow-changes-in-v1-1-3|6 Developer
+  Workflow changes in v1.1.3]]'
 - '[[Changes/Codex CLI/2026-01-06-6-developer-workflow-changes-in-rust-v0-78-0|6 Developer
   Workflow changes in rust-v0.78.0]]'
+- '[[Changes/OpenCode/2026-01-06-4-developer-workflow-changes-in-v1-1-4|4 Developer
+  Workflow changes in v1.1.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364|codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-6-developer-workflow-changes-in-rust-v0-78-0|6 Developer Workflow changes in rust-v0.78.0]]
+- Earlier: 2026-01-06 · OpenCode · [[Changes/OpenCode/2026-01-06-4-developer-workflow-changes-in-v1-1-4|4 Developer Workflow changes in v1.1.4]]
 - Later: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-4-developer-workflow-changes-in-v0-23-0|4 Developer Workflow changes in v0.23.0]]
 <!-- chronolog:end -->
 

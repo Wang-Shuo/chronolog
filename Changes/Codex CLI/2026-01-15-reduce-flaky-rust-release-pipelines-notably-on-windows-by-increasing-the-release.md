@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38bae050617f2907de247025f544ebeb9a70bc9e6dbb0003c9499cac9a151543
+machine_hash: f23a0e7e7557e9d118a256877cd451b4c50e73224554b5441cdc665fccea5fde
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
     release…
   type: change
 related_changes:
-- '[[Changes/Claude/2026-01-12-health-and-fitness-data-on-claude-mobile|Health and
-  fitness data on Claude Mobile]]'
-- '[[Changes/Claude/2026-01-12-cowork-research-preview-on-claude-desktop-macos-only-for-max-plans|Cowork
-  research preview on Claude Desktop (macOS only) for Max plans]]'
+- '[[Changes/OpenCode/2026-01-13-2-mobile-and-desktop-changes-in-v1-1-18|2 Mobile
+  and Desktop changes in v1.1.18]]'
 - '[[Changes/Codex CLI/2026-01-14-2-mobile-and-desktop-changes-in-rust-v0-81-0|2 Mobile
   and Desktop changes in rust-v0.81.0]]'
+- '[[Changes/OpenCode/2026-01-14-2-mobile-and-desktop-changes-in-v1-1-19|2 Mobile
+  and Desktop changes in v1.1.19]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-15-rust-v0-84-0-github-276912334-159ea2c9|codex-cli-2026-01-15-rust-v0-84-0-github-276912334-159ea2c9]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-mobile-and-desktop-changes-in-rust-v0-81-0|2 Mobile and Desktop changes in rust-v0.81.0]]
-- Later: 2026-01-16 · Claude · [[Changes/Claude/2026-01-16-cowork-research-preview-expanded-to-pro-plans|Cowork research preview expanded to Pro plans]]
+- Earlier: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-2-mobile-and-desktop-changes-in-v1-1-19|2 Mobile and Desktop changes in v1.1.19]]
+- Later: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-27-mobile-and-desktop-changes-in-v1-1-23|27 Mobile and Desktop changes in v1.1.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

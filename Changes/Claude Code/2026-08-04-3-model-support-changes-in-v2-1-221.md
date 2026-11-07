@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e69b95a913f072d2345e6717acf5e0a00e324278aeb76ad03ef425612756660
+machine_hash: 6634df74e0163435c2d92f9f1c10858fa3c08deb869600addcc95c972b5a854a
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Model Support changes in v2.1.221
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-31-3-model-support-changes-in-claude-opus-5-direct-figma-inspection|3
-  Model Support changes in Claude Opus 5, direct Figma inspection…]]'
 - '[[Changes/Cline/2026-08-02-4-model-support-changes-in-v4-1-3|4 Model Support changes
   in v4.1.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-the-allow-all-auto-safety-judge-model-is-no-longer-user-configurable-the-judge-m|The
   /allow-all auto safety-judge model is no longer user-configurable]]'
+- '[[Changes/Runway/2026-08-03-every-live-routed-request-is-now-recorded-so-you-can-see-which-model-your-model|Model
+  Router Routing History]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.221
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-the-allow-all-auto-safety-judge-model-is-no-longer-user-configurable-the-judge-m|The /allow-all auto safety-judge model is no longer user-configurable]]
+- Earlier: 2026-08-03 · Runway · [[Changes/Runway/2026-08-03-every-live-routed-request-is-now-recorded-so-you-can-see-which-model-your-model|Model Router Routing History]]
 - Later: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved the refusal when Claude tries to invoke a skill with disable-model-invocation]]
 <!-- chronolog:end -->
 

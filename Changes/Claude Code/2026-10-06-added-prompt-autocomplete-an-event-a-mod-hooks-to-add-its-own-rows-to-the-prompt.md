@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1560a857a182cabcc15e85a4b50f03faa256689f95e925c250636baad8cb09b7
+machine_hash: 343275203e81baa5b72b9ec30682c4f144b38017d0a6c0b77c068cfb5741c048
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
     the prompt…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49082-skip-remote-git-discovery-for-guardian-diff-paths-jif-oai|♯49082
-  Skip remote Git discovery for Guardian diff paths @jif-oai]]'
+- '[[Changes/OpenClaw/2026-10-03-browser-tabs-after-updates-if-you-leave-openclaw-s-bundled-web-interface-open-du|Browser
+  tabs after updates]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-2-editor-experience-changes-in-v1-0-92|2
   Editor Experience changes in v1.0.92]]'
 - '[[Changes/Lovable/2026-10-05-restore-lovable-work-after-a-push-to-your-git-repository-replaces-it|Restore

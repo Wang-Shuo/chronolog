@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20426c9838a6f72c61727c7009b7de31d1814aa5920835a0a077961f4538301a
+machine_hash: 915fd70cafbabb33f243973dd25f3174c246cd687d10d29945a8a01648535e20
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.307
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-4-account-and-access-changes-in-v1-0-101|4 Account and Access changes in v1.0.101]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-24-account-and-access-changes-in-rust-v0-164-0|24 Account and Access changes in rust-v0.164.0]]
+- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-mcp-sign-in-errors-now-give-a-safe-reason-and-tell-you-how-to-sign-in-or-fix-you|MCP sign-in errors now give a safe reason and tell you how to sign in or fix…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

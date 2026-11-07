@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8cf1dfca1a76f62ce2ad0c82a8f02c86c2eae2407c29e50b29d54d3af655c744
+machine_hash: 918d0df694b6f120948daa13cabffba788e2045538805da99dedfea1af5727cc
 product: lovable
 product_name: Lovable
 record:
@@ -67,12 +67,12 @@ record:
   title: Trust Center for your published app
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-06-3-safety-and-privacy-changes-in-v2-1-223|3 Safety
-  and Privacy changes in v2.1.223]]'
 - '[[Changes/Claude Code/2026-08-07-2-safety-and-privacy-changes-in-v2-1-224|2 Safety
   and Privacy changes in v2.1.224]]'
 - '[[Changes/Codex CLI/2026-08-07-9-safety-and-privacy-changes-in-rust-v0-147-0|9
   Safety and Privacy changes in rust-v0.147.0]]'
+- '[[Changes/Google Antigravity/2026-08-07-steps-waiting-on-your-input-now-show-the-icon-for-the-tool-involved-including-in|Steps
+  waiting on your input now show the icon for the tool involved, including…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-07-2026-08-07-d8d80b64|lovable-2026-08-07-2026-08-07-d8d80b64]]'
 source_type: lovable_changelog
 theme: safety-privacy
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-9-safety-and-privacy-changes-in-rust-v0-147-0|9 Safety and Privacy changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-steps-waiting-on-your-input-now-show-the-icon-for-the-tool-involved-including-in|Steps waiting on your input now show the icon for the tool involved, including…]]
 - Later: 2026-08-07 · Replit · [[Changes/Replit/2026-08-07-security-scan-while-you-build|Security scan while you build]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93e68e6052a04c0dc976bc6edc061c276ee2f266461687341293d780dcea6996
+machine_hash: 83f9db50c55ce47622acbef669c22a09c863f7efa61b658e9d031aeb9ab988c1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.53.0
 ## Nearby in Model Support
 
 - Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-6-model-support-changes-in-1-16-1|6 Model Support changes in 1.16.1]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-model-support-changes-in-rust-v0-146-0|3 Model Support changes in rust-v0.146.0]]
+- Later: 2026-07-28 · OpenCode · [[Changes/OpenCode/2026-07-28-core-stops-sending-deprecated-sampling-defaults-to-newer-gemini-models|Core Stops sending deprecated sampling defaults to newer Gemini models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

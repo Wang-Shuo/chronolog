@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3effe022abd397ac5f9552c4119214295e2335f27df1e208d19a64d747d13f9a
+machine_hash: 6689873bbcc08d99b7333b4e1176d4f8697bce7f4252b5a0bd01e7adc790d2f1
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added screen-reader announcements of deleted text for word and line deletions…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-03-improved-screen-reader-output-decorative-glyphs-are-now-hidden-transcript-symbol|Improved
-  screen-reader output]]'
 - '[[Changes/Claude Code/2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run|Added
   screen reader mode: opt-in plain-text rendering for screen reader users]]'
 - '[[Changes/Dify/2026-07-17-chore-improve-workflow-generator-accessibility-and-api-contracts-by-crazywoola-i|chore:
   Improve workflow generator accessibility and API contracts]]'
+- '[[Changes/OpenCode/2026-07-20-desktop-restore-model-variant-selection-accessibility|Desktop
+  Restore model variant selection accessibility]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-chore-improve-workflow-generator-accessibility-and-api-contracts-by-crazywoola-i|chore: Improve workflow generator accessibility and API contracts]]
+- Earlier: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-desktop-restore-model-variant-selection-accessibility|Desktop Restore model variant selection accessibility]]
 - Later: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-2-accessibility-and-localization-changes-in-1-16-1|2 Accessibility and Localization changes in 1.16.1]]
 <!-- chronolog:end -->
 

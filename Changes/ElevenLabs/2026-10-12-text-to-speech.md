@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5491c1d06b7968358437479a9b372c8cddfd8e890e1ab91f7e2eb5233a4bc446
+machine_hash: eacffc7118af1193da54881cedb384c8ebc16e97eb78a54d27030bab68479434
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -56,10 +56,10 @@ record:
   title: Text to Speech
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-2-voice-and-audio-changes-in-rust-v0-162-0|2 Voice
-  and Audio changes in rust-v0.162.0]]'
 - '[[Changes/Open WebUI/2026-10-10-12-voice-and-audio-changes-in-v0-12-0|12 Voice
   and Audio changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-8-voice-and-audio-changes-in-v2026-10-1|8 Voice and
+  Audio changes in v2026.10.1]]'
 - '[[Changes/ElevenLabs/2026-10-12-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-12-2026-10-12-16e5a6a0|elevenlabs-2026-10-12-2026-10-12-16e5a6a0]]'
 source_type: elevenlabs_changelog
@@ -102,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-12-voice-and-audio-changes-in-v0-12-0|12 Voice and Audio changes in v0.12.0]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude Tag Added support for Slack voice clips in Claude in Slack]]
+- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-8-voice-and-audio-changes-in-v2026-10-1|8 Voice and Audio changes in v2026.10.1]]
+- Later: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-dictation-holding-the-microphone-and-releasing-it-no-longer-stops-recording-prem|Dictation. Holding the microphone and releasing it no longer stops recording prematurely]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

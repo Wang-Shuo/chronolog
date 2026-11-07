@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e96ba526c9d7b07e484328e2695ee5fa8a3cc1974f3bfd7604045e61fe5064d
+machine_hash: 484c0e1d68601425f0b51b597a427b45f6e5a88d530b9f79fdc6ed9a90166917
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.117
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-6-developer-workflow-changes-in-rust-v0-122-0|6
-  Developer Workflow changes in rust-v0.122.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-20-2-developer-workflow-changes-in-v1-0-33|2
   Developer Workflow changes in v1.0.33]]'
+- '[[Changes/OpenCode/2026-04-20-desktop-added-a-separate-terminal-font-setting-and-bundled-jetbrainsmono-nerd-fo|Desktop
+  Added a separate terminal font setting and bundled JetBrainsMono Nerd Font Mono]]'
 - '[[Changes/Open WebUI/2026-04-21-46-developer-workflow-changes-in-v0-9-0|46 Developer
   Workflow changes in v0.9.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'

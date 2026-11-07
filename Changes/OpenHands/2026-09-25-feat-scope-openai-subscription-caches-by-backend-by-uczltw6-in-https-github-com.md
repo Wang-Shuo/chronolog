@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1e076ee958571aaa462c8d02511379cd05c4bc878c038d905cf1d3ce57e1b2d7
+machine_hash: 6c25ddd96b76e1a1eb2ad67d556dca2898451faf623a4d6ab0fd130a3b3f1e7e
 product: openhands
 product_name: OpenHands
 record:
@@ -41,10 +41,9 @@ record:
   title: 'feat: scope OpenAI subscription caches by backend'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-see-the-estimated-monthly-cloud-cost-of-each-database-size|See
-  the estimated monthly Cloud cost of each database size]]'
 - '[[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated
   the claude-api skill]]'
+- '[[Changes/Midjourney/2026-09-24-polish-bugs|POLISH & BUGS]]'
 - '[[Changes/Codex CLI/2026-09-25-47086-format-analytics-credit-usage-with-consistent-decimal-precision-fcoury-oai|♯47086
   Format analytics credit usage with consistent decimal precision @fcoury-oai]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-25-v1-24-0-github-396708686-384650c4|openhands-2026-09-25-v1-24-0-github-396708686-384650c4]]'

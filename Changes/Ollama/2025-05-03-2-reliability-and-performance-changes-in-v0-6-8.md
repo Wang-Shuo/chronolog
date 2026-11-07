@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0631291a482b2fd8118892537ed0c63d0a8a922c222dc03390e8810686388ff
+machine_hash: 84e3eceb25a584627e93726b44a997e7b906f24fc41559c6062a3ae34e90d7d6
 product: ollama
 product_name: Ollama
 record:
@@ -43,9 +43,9 @@ record:
   title: 2 Reliability and Performance changes in v0.6.8
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-23-chore-speed-up-git-checkout-by-removing-fetch-depth-0-to-avoid-pulling-all-tags|chore:
-  speed up git checkout by removing fetch-depth 0 to avoid pulling all tags…]]'
 - '[[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]'
+- '[[Changes/Suno/2025-05-01-faster-creation-speed-is-substantially-improved-for-your-creative-process|Faster
+  creation — Speed is substantially improved for your creative process]]'
 - '[[Changes/Replit/2025-05-02-app-type-selector-fully-launched|App type selector
   fully launched]]'
 source_release: '[[Releases/Ollama/ollama-2025-05-03-v0-6-8-github-216322644-5d0bffe5|ollama-2025-05-03-v0-6-8-github-216322644-5d0bffe5]]'

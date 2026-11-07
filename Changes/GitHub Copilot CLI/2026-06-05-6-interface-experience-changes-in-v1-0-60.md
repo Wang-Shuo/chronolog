@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f664d8ba0515bf4930354484a6be014be323a7a48a09ac473ac7f0f8e142bc23
+machine_hash: 4846bbfd46960d09b9c702dac6ea2dd3968b7f82272bdc2af2104810f7f62a83
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -114,7 +114,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-04 · Lovable · [[Changes/Lovable/2026-06-04-transfer-a-domain-out-to-another-registrar|Transfer a domain out to another registrar]]
-- Later: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-improvement-to-charts-table-of-contents-and-full-screen-writing-also-fixes-long|Improvement to charts, table of contents and full screen writing]]
+- Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-terminal-mo-now-prefers-the-models-command-in-slash-autocomplete|Terminal /mo now prefers the models command in slash autocomplete]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e067d44f4249fb1c712bbe2055d716b3f1b1e9c669241b2b38a7f25b53c9265f
+machine_hash: bebf03aaaa3923d1b4a34f7acce5ad0c4caa05252a272c4db22300b2742ab6be
 product: open-webui
 product_name: Open WebUI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.20
 ## Nearby in Interface Experience
 
 - Earlier: 2024-09-05 · Open WebUI · [[Changes/Open WebUI/2024-09-05-ui-styling-refined-the-user-interface-styling-for-enhanced-visual-coherence-and|🎨 UI Styling]]
-- Later: 2024-09-12 · Dify · [[Changes/Dify/2024-09-12-copy-shortcut-fixes|Copy Shortcut Fixes]]
+- Later: 2024-09-10 · Gamma · [[Changes/Gamma/2024-09-10-click-share-at-the-top-of-your-screen-or-in-the-menu-at-the-top-right-and-select|Click Share at the top of your screen or in the ... menu at the top right…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

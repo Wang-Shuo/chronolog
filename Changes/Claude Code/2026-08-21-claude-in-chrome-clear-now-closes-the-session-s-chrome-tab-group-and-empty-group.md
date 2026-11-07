@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd236bf3e062c753bd8adeedecfd7253ccce9ff468a0bba6fe1a62a8f5c319bb
+machine_hash: d91994101c4312904f3f192ac1c22889869bb70b6e1229cbb83bf84c50224f06
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,12 @@ record:
   title: Claude in Chrome
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-17-elevencreative|ElevenCreative]]'
-- '[[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828
-  Track running unified exec processes at turn completion @copyberry]]'
 - '[[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor
   Experience changes in rust-v0.149.0]]'
+- '[[Changes/Google Antigravity/2026-08-20-hovering-over-a-file-s-comment-count-pill-now-previews-all-comments-on-that-file|Hovering
+  over a file''s comment count pill now previews all comments on that file…]]'
+- '[[Changes/Runway/2026-08-20-agents-can-now-list-workflows-in-your-workspace-open-one-in-the-web-app-editor-t|Workflow
+  Support in Runway MCP]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: editor-experience
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor Experience changes in rust-v0.149.0]]
+- Earlier: 2026-08-20 · Runway · [[Changes/Runway/2026-08-20-agents-can-now-list-workflows-in-your-workspace-open-one-in-the-web-app-editor-t|Workflow Support in Runway MCP]]
 - Later: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-show-the-diff-edit-view-for-multi-line-edits-in-files-with-crlf-line-endings|Show the diff edit view for multi-line edits in files with CRLF line endings]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5a9769818b3851a81db2e44b9c795bff5996b6e945fa60e90e99114bf16689ec
+machine_hash: 9dead5f7c81daac133f979b196fa601f7d7f0c0c1f5c088eb6c59fa9b09d46ba
 product: lovable
 product_name: Lovable
 record:
@@ -48,9 +48,10 @@ record:
   title: 'Removed: workspace-level AI model training setting'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-python-sdk|Python SDK]]'
-- '[[Changes/Ollama/2026-09-14-2-model-support-changes-in-v0-34-1|2 Model Support
-  changes in v0.34.1]]'
+- '[[Changes/OpenCode/2026-09-14-request-summarized-adaptive-thinking-for-github-copilot-models|Request
+  summarized adaptive thinking for GitHub Copilot models]]'
+- '[[Changes/OpenCode/2026-09-14-core-restored-acp-session-model-effort-mode-and-reasoning-chunk-boundaries-when|Core
+  Restored ACP session model, effort, mode, and reasoning chunk boundaries…]]'
 - '[[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed
   /bug and /feedback reports to include only model-behavior params…]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-15-2026-09-15-6e6a8d9f|lovable-2026-09-15-2026-09-15-6e6a8d9f]]'

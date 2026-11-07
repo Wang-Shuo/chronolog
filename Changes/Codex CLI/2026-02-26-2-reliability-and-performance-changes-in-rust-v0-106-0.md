@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14b79aaae9269781ab6d733e2be26e72399ddc935d59fe6ca9b6643bd2a15ee3
+machine_hash: e138be23bdb1f8bbb0720e22daa89957db747a9542ca5637444a8b16e9c36539
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Reliability and Performance changes in rust-v0.106.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-25-3-reliability-and-performance-changes-in-rust-v0-105-0|3
-  Reliability and Performance changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-2-reliability-and-performance-changes-in-v0-30-0|2
   Reliability and Performance changes in v0.30.0]]'
+- '[[Changes/Google Antigravity/2026-02-25-stability-and-ui-improvements|Stability
+  and UI Improvements]]'
 - '[[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved
   memory usage in multi-agent sessions by releasing completed subagent task state]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-26-rust-v0-106-0-github-291146451-379358db|codex-cli-2026-02-26-rust-v0-106-0-github-291146451-379358db]]'
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.106.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved memory usage in multi-agent sessions by releasing completed subagent task state]]
-- Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]
+- Later: 2026-02-26 · Google Antigravity · [[Changes/Google Antigravity/2026-02-26-browser-fix|Browser Fix]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

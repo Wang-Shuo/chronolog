@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad7d221ecdec793b5696c299eb3add3e4b19616991373c690fbe74f673641061
+machine_hash: aaf8c045d91ffc76a17aafad3dcbad90361b3a7b7f14ddb6830d49f90f64d013
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,10 +54,9 @@ record:
   title: 2 Voice and Audio changes in v0.6.23
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-08-09-admin-first-whisper-language-priority-the-global-whisper-language-setting-now-ac|\U0001F5E3️
-  Admin-First Whisper Language Priority]]"
 - '[[Changes/ElevenLabs/2025-08-20-voice-management|Voice Management]]'
 - '[[Changes/ElevenLabs/2025-08-20-speech-to-text|Speech to Text]]'
+- '[[Changes/Runway/2025-08-20-change-the-voice-of-your-performances-directly-from-within-the-act-two-interface|Voices]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46|open-webui-2025-08-21-v0-6-23-github-241603918-5e4a7f46]]'
 source_type: github_releases
 theme: voice
@@ -104,7 +103,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.23
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-08-20 · ElevenLabs · [[Changes/ElevenLabs/2025-08-20-speech-to-text|Speech to Text]]
+- Earlier: 2025-08-20 · Runway · [[Changes/Runway/2025-08-20-change-the-voice-of-your-performances-directly-from-within-the-act-two-interface|Voices]]
 - Later: 2025-09-01 · ElevenLabs · [[Changes/ElevenLabs/2025-09-01-convai-packages|ConvAI packages]]
 <!-- chronolog:end -->
 

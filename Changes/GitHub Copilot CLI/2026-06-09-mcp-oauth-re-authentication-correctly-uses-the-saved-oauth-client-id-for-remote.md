@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8bca08a8727f93914ac449d2fce94ace9ed265453cd1351819e6f701c86b29d1
+machine_hash: 360b35c6c439100cbc713a6a8b0d73a24331fa168abef7805915cf23b13bf96b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-2-account-and-access-changes-in-changelog-update|2 Account and Access changes in Changelog update]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-remote-mcp-oauth-servers-start-only-once-per-matching-config-instead-of-restarti|Remote MCP OAuth servers start only once per matching config instead of restarting…]]
+- Later: 2026-06-12 · OpenCode · [[Changes/OpenCode/2026-06-12-core-added-connector-based-authentication-flows-and-support-for-stored-provider|Core Added connector-based authentication flows and support for stored provider…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

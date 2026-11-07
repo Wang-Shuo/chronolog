@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75c33c8111afe49f344bf69c0e840080956e18b7d5d6a6a002de3ad6406e1706
+machine_hash: 5e40d81a6d79817dfea3c7980d133256d30ab059dd2fe04c380348ddf05cbb16
 product: ollama
 product_name: Ollama
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated the /claude-api skill]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-18-context-window-changes-in-rust-v0-164-0|18 Context Window changes in rust-v0.164.0]]
+- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-4-context-window-changes-in-v2026-10-6|4 Context Window changes in v2026.10.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

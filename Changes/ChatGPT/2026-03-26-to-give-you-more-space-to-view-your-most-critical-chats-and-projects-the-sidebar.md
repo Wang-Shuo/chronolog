@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b9bbed9c28511eb4e1c91bfc246e14ea108f1dceac07d65cd7663ad4edae2fd
+machine_hash: 969ffb976f1b12aa451ea256e459458bac74ba4860477684fd3d8356e741b5ea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,10 +48,10 @@ record:
   title: A simplified sidebar on mobile
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli):
-  add custom keybinding documentation]]'
-- '[[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface
-  Experience changes in v2.1.83]]'
+- '[[Changes/Gamma/2026-03-25-gamma-has-supported-code-blocks-for-a-while-but-the-code-inside-them-was-just-pl|Syntax
+  highlighting for code blocks]]'
+- '[[Changes/Google Antigravity/2026-03-25-improved-sidebar-design|Improved sidebar
+  design]]'
 - '[[Changes/Open WebUI/2026-03-25-17-interface-experience-changes-in-v0-8-11|17 Interface
   Experience changes in v0.8.11]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11|chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11]]'

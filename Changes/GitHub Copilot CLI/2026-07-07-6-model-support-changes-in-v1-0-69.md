@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dbb5e4dfb7fe88774110c516e4909ccda85bf71ff3e7089c1df72317e5838207
+machine_hash: e09916b27b7f7a78d8c36d613c4c62fd12bf27fa666ad36e8c5bfefc349a2874
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,8 +51,9 @@ record:
   title: 6 Model Support changes in v1.0.69
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-06-elevencreative-studio-d7b18f|ElevenCreative Studio]]'
 - '[[Changes/Ollama/2026-07-06-hardened-gguf-model-creation|Hardened GGUF model creation]]'
+- '[[Changes/OpenCode/2026-07-06-3-model-support-changes-in-v1-17-14|3 Model Support
+  changes in v1.17.14]]'
 - '[[Changes/OpenHands/2026-07-06-4-model-support-changes-in-1-9-0|4 Model Support
   changes in 1.9.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357|github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357]]'

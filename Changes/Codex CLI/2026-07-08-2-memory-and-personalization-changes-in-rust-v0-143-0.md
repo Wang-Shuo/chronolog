@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4189ea51052a5105f42ee2f2a4c338f60b955f31b104f02faaf077105f63d7f
+machine_hash: 27412269342c1325909b5719a2669f175f6875ebca89834eb8fdfb7151557c42
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Memory and Personalization changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-5-memory-and-personalization-changes-in-v0-10-0|5
-  Memory and Personalization changes in v0.10.0]]'
+- '[[Changes/OpenClaw/2026-06-30-26-memory-and-personalization-changes-in-v2026-6-11|26
+  Memory and Personalization changes in v2026.6.11]]'
 - '[[Changes/Open WebUI/2026-07-01-2-memory-and-personalization-changes-in-v0-10-2|2
   Memory and Personalization changes in v0.10.2]]'
 - '[[Changes/v0/2026-07-07-team-members-with-v0-edit-access-can-manage-team-skills-and-memories-without-a-v|Team

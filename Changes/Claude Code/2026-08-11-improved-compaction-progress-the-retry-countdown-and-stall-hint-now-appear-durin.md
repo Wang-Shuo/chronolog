@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 54e5dcda4df067a499c12b5aefbe738e37bb441983b21a7bd17820e78bfba52a
+machine_hash: ff4320b2e06af2ce6226bea7d9dc68fe3c57c6831a74b1f9dd51660ce714b5f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Improved compaction progress
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-10-context-window-changes-in-rust-v0-147-0|10 Context
-  Window changes in rust-v0.147.0]]'
+- '[[Changes/OpenCode/2026-08-07-core-repeated-compaction-now-keeps-earlier-tool-call-history-in-summaries-instea|Core
+  Repeated compaction now keeps earlier tool-call history in summaries instead…]]'
 - '[[Changes/Cline/2026-08-09-2-context-window-changes-in-v4-1-7|2 Context Window
   changes in v4.1.7]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-compute-context-attribution-against-the-auto-resolved-model-so-token-totals-are|Compute

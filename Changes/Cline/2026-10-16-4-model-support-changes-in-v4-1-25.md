@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ede42ab248e8be60de776c237cfca873bab6916b1c9e797a4aa46e807dc4dd57
+machine_hash: e438a34a6214a5588f9a4969458aa2b7e72cd36fa3af534a9630b38c307f77b4
 product: cline
 product_name: Cline
 record:
@@ -60,8 +60,8 @@ record:
   title: 4 Model Support changes in v4.1.25
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-15-gpt-6-1-sol-for-your-app-s-ai-features|GPT-6.1 Sol
-  for your app''s AI features]]'
+- '[[Changes/Suno/2026-10-15-shareable-custom-models-to-share-with-your-collaborators-and-riff-on-new-ideas-n|Shareable
+  custom models To share with your collaborators and riff on new ideas]]'
 - '[[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in
   the chat tab now offers]]'
 - '[[Changes/Claude Code/2026-10-16-improved-the-message-when-a-background-session-reopened-from-another-folder-has|Improved

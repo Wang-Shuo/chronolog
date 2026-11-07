@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bab2ab36d16ff6553289452839fb3fafa6484c49a98e833aec8864c8e062334e
+machine_hash: dabbb4814eefc39d111278f6419174c05f78c04dbe82ed2bd123d1ee3f14b658
 product: ollama
 product_name: Ollama
 record:
@@ -54,10 +54,10 @@ record:
     models
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use
-  the controls at the bottom of the screen, like the camera button below, to get started]]'
 - '[[Changes/Dify/2024-12-16-feat-add-grok-2-1212-and-grok-2-vision-1212-by-hjlarry-in-https-github-com-langg|feat:
   add grok-2-1212 and grok-2-vision-1212]]'
+- '[[Changes/Midjourney/2025-02-20-we-ve-added-a-new-folder-and-organization-system-to-the-website-check-out-the-vi|Midjourney
+  adds a new folder and organization system to the website]]'
 - '[[Changes/Replit/2025-03-28-deeplearningai-course-launch|DeepLearningAI course
   launch]]'
 source_release: '[[Releases/Ollama/ollama-2025-04-26-v0-6-7-github-214934730-f82e5c91|ollama-2025-04-26-v0-6-7-github-214934730-f82e5c91]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 898e79bdec1bd529fbdda5aa2977aff6377bd1bc85dcc3f8a422ed989aead014
+machine_hash: c62650114347b496c6027417ec1d9bb1f3aad8cea3683f9219996f87d5c5f0ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,11 +42,12 @@ record:
   title: Improved context-low warning to show as a transient footer notification instead…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-02-image-tools|Image tools]]'
-- '[[Changes/Claude Code/2026-04-04-pro-users-now-see-a-footer-hint-when-returning-to-a-session-after-the-prompt-cac|Pro
-  users now see a footer hint when returning to a session after the prompt cache…]]'
+- '[[Changes/OpenCode/2026-04-04-core-kept-compaction-summaries-in-the-conversation-s-language|Core
+  Kept compaction summaries in the conversation''s language]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-06-slash-command-timeline-entries-now-include-the-command-name-e-g-review-plan-for|Slash
   command timeline entries now include the command name (e.g., "Review", "Plan")…]]'
+- '[[Changes/OpenCode/2026-04-06-core-fix-output-token-totals-when-reasoning-tokens-are-reported-separately|Core
+  Fix output token totals when reasoning tokens are reported separately]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
 theme: context-window
@@ -80,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-06-slash-command-timeline-entries-now-include-the-command-name-e-g-review-plan-for|Slash command timeline entries now include the command name (e.g., "Review", "Plan")…]]
+- Earlier: 2026-04-06 · OpenCode · [[Changes/OpenCode/2026-04-06-core-fix-output-token-totals-when-reasoning-tokens-are-reported-separately|Core Fix output token totals when reasoning tokens are reported separately]]
 - Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-5-context-window-changes-in-v0-37-0|5 Context Window changes in v0.37.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c97d8a8dcff013e2bdfc4bf19ad44dcd3f11d84ad6cb72d74e2a131d29667589
+machine_hash: ae065bab20cff9628ffca70b47c75f4e5754d3cc63dd74d1ec4a85a7faa9576a
 product: dify
 product_name: Dify
 record:
@@ -56,10 +56,10 @@ record:
   title: 6 Safety and Privacy changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-2-safety-and-privacy-changes-in-v2-1-85|2 Safety
-  and Privacy changes in v2.1.85]]'
 - '[[Changes/Codex CLI/2026-03-26-5-safety-and-privacy-changes-in-rust-v0-117-0|5
   Safety and Privacy changes in rust-v0.117.0]]'
+- '[[Changes/OpenCode/2026-03-26-core-respect-agent-permission-configuration-for-todowrite-tool|Core
+  Respect agent permission configuration for todowrite tool]]'
 - '[[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|Fixed
   official marketplace plugin scripts failing…]]'
 source_release: '[[Releases/Dify/dify-2026-03-27-1-13-3-github-302258183-3ff73e84|dify-2026-03-27-1-13-3-github-302258183-3ff73e84]]'

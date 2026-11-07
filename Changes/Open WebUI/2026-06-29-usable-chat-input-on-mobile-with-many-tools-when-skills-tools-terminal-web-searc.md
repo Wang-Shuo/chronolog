@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 69cf4189aa2c63dc4e8da66fa52e84e6af7051f9d3a66cb1755bfa0497d7ea12
+machine_hash: 2aff01ee91f2a2314b6b21f4e99ea75b8fa84d6f5295beeedf17d606f82b267f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -128,7 +128,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-06-22 · Lovable · [[Changes/Lovable/2026-06-22-better-standard-image-generation-while-building|Better standard image generation while building]]
-- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-3-image-generation-changes-in-rust-v0-143-0|3 Image Generation changes in rust-v0.143.0]]
+- Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-generated-images-from-a-remote-codex-app-server-now-arrive-as-attachments-instea|Generated images from a remote Codex app-server now arrive as attachments instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

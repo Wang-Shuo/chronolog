@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 88e35553e7284a00d63399e5f6eec1b07ed54dccc7b6c58e0508d4948a11cc8b
+machine_hash: c301bd627034cab9e2ce037e2198667af499ac81c4b5865799b9956bdd4549ca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
     global…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-11-connect-other-mcp-clients-to-the-lovable-mcp-server|Connect
-  other MCP clients to the Lovable MCP server]]'
+- '[[Changes/OpenClaw/2026-09-11-you-can-now-search-installed-and-available-plugins-together-browse-by-purpose-an|Search
+  installed and available plugins together, browse by purpose, and keep…]]'
 - '[[Changes/Replit/2026-09-11-use-managed-postgresql-in-databricks-apps|Use managed
   PostgreSQL in Databricks Apps]]'
 - '[[Changes/Replit/2026-09-11-use-replit-from-desktop-mcp-clients|Use Replit from

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a3672270cb93d6d5d6b200a638218bb50e9bcf138617981e44ec23c7b9b4e1a7
+machine_hash: 6bea5dce19827708f91217928faa867c1442e17e2da9ea1c9a740f3ab91063eb
 product: cline
 product_name: Cline
 record:

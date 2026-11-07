@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e508733132aac04fb81402cb6526e51e06a9385ebe1e9939f031b1b5a389b515
+machine_hash: e3f8ada46769991ef84b12efe84c1a8580fb00994f111e1ed7914bdfd75935c9
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Interface Experience changes in v2.1.116
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-2-interface-experience-changes-in-v1-0-28|2
-  Interface Experience changes in v1.0.28]]'
 - '[[Changes/Claude Code/2026-04-17-3-interface-experience-changes-in-v2-1-113|3 Interface
   Experience changes in v2.1.113]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-17-2-interface-experience-changes-in-v1-0-32|2
   Interface Experience changes in v1.0.32]]'
+- '[[Changes/OpenCode/2026-04-19-terminal-show-the-session-id-in-the-sidebar-on-non-production-channels|Terminal
+  Show the session ID in the sidebar on non-production channels]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-2-interface-experience-changes-in-v1-0-32|2 Interface Experience changes in v1.0.32]]
+- Earlier: 2026-04-19 · OpenCode · [[Changes/OpenCode/2026-04-19-terminal-show-the-session-id-in-the-sidebar-on-non-production-channels|Terminal Show the session ID in the sidebar on non-production channels]]
 - Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-2-interface-experience-changes-in-rust-v0-122-0|2 Interface Experience changes in rust-v0.122.0]]
 <!-- chronolog:end -->
 

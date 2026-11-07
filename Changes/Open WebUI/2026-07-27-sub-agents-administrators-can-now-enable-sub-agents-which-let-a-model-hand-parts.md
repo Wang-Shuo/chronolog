@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 50c55ea1407435437c873e3774842b25bd11f4b707b33264a88296cccae84c15
+machine_hash: 7e4076e965780370896197be35fb0bf0abd617fba6ef3e20498d8d9a124ad2ad
 product: open-webui
 product_name: Open WebUI
 record:
@@ -68,8 +68,8 @@ record:
     let a model hand…"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode
-  changes in v2.1.219]]'
+- '[[Changes/OpenCode/2026-07-24-desktop-keep-the-prompt-input-agent-toggle-in-sync|Desktop
+  Keep the prompt input agent toggle in sync]]'
 - '[[Changes/ElevenLabs/2026-07-27-elevenagents|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-07-27-elevenagents-9c1cea|ElevenAgents]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'

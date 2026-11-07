@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 05a3719dd83140a01f775be79f7c6092edaa471b5a320e7742c7fba8ce6ae683
+machine_hash: 71665256277ffff97bc46f79033a31120c44c57f48f5dbf7a6b8ea3cf2e579c3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: "**\U0001F5D1️ Deprecated Frontend Functions**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor
-  Tab (previously called Copilot++) defaults to chunked streaming]]'
+- '[[Changes/Gamma/2024-08-02-we-just-launched-a-new-step-by-step-theme-builder-it-s-easier-and-more-fun-to-us|We
+  just launched a new step-by-step theme builder!]]'
 - '[[Changes/Aider/2024-08-10-diff-now-shows-diffs-of-all-changes-resulting-from-your-request-including-lint-a|/diff
   now shows diffs of all changes resulting from your request, including lint…]]'
 - '[[Changes/Aider/2024-08-13-new-code-message-command-request-a-code-edit-while-in-ask-mode|New
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-new-code-message-command-request-a-code-edit-while-in-ask-mode|New /code message command request a code edit while in ask mode]]
-- Later: 2024-08-19 · Dify · [[Changes/Dify/2024-08-19-3-editor-experience-changes-in-0-7-1|3 Editor Experience changes in 0.7.1]]
+- Later: 2024-08-16 · Midjourney · [[Changes/Midjourney/2024-08-16-we-re-releasing-a-new-web-editor-today|We're releasing a new web editor today!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

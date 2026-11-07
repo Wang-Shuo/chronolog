@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2dd58cbf052ac49736bfaa27d995c47a640c41616d36619fc6543ca0961fb15
+machine_hash: c063399c08a1530b1ccaf9631376f8100575f7b54b30f3bb0a4c7d73913178ea
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 'feat(skills): improve async-pr-review workflow and logging'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-20-4-developer-workflow-changes-in-v2-1-81|4 Developer
-  Workflow changes in v2.1.81]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-developer-workflow-changes-in-v1-0-10|2
   Developer Workflow changes in v1.0.10]]'
+- '[[Changes/OpenCode/2026-03-22-2-developer-workflow-changes-in-v1-3-0|2 Developer
+  Workflow changes in v1.3.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-23-2-developer-workflow-changes-in-v1-0-11|2
   Developer Workflow changes in v1.0.11]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621|gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621]]'

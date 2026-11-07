@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f1ecc261356ed51f65c4817654bd53d315740dadac87dae52e44544ac1992e3
+machine_hash: 3d7326b6bbec1d3c01271b21882c1387d82a2f7ea34bdfd060b5c9968dd26110
 product: cline
 product_name: Cline
 record:

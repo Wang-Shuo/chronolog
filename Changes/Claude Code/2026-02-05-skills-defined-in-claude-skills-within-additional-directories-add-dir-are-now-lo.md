@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 613069dd751cbbb2e3cae68b8dc204d1c323c27d455fdf1567bc99051f9643dd
+machine_hash: 82fa6b47f9746a5ed3c0b08fd9e7e761bb9c97cd8c26347b90fca0c63ef77352
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Skills defined in `.claude/skills/` within additional directories (`--add-dir`)…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-03-4-apps-and-integrations-changes-in-v0-0-402|4
-  Apps and Integrations changes in v0.0.402]]'
 - '[[Changes/Codex CLI/2026-02-04-5-apps-and-integrations-changes-in-rust-v0-95-0|5
   Apps and Integrations changes in rust-v0.95.0]]'
 - '[[Changes/Gemini CLI/2026-02-04-14-apps-and-integrations-changes-in-v0-27-0|14
   Apps and Integrations changes in v0.27.0]]'
+- '[[Changes/OpenCode/2026-02-04-2-apps-and-integrations-changes-in-v1-1-50|2 Apps
+  and Integrations changes in v1.1.50]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-14-apps-and-integrations-changes-in-v0-27-0|14 Apps and Integrations changes in v0.27.0]]
+- Earlier: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-2-apps-and-integrations-changes-in-v1-1-50|2 Apps and Integrations changes in v1.1.50]]
 - Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-6-apps-and-integrations-changes-in-rust-v0-97-0|6 Apps and Integrations changes in rust-v0.97.0]]
 <!-- chronolog:end -->
 

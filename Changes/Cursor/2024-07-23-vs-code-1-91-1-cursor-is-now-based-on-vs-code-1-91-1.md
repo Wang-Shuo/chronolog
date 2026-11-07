@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c3c98a88c74d42e9617864fce2a7c143465f25366a8a2761964f28bcb39d7c6
+machine_hash: ab7d7702af2902f1dea7873e4ef9b86a187354e2712d9371bd46e2b676c7f19e
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,11 @@ record:
   title: 'VS Code 1.91.1: Cursor is now based on VS Code 1.91.1'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience
-  changes in 0.6.12]]'
-- '[[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience
-  changes in 0.7.0]]'
 - '[[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer
   (beta)]]'
+- '[[Changes/Gamma/2024-07-16-right-click-to-edit|Right-click to edit]]'
+- '[[Changes/Gamma/2024-07-16-we-ve-made-a-couple-changes-to-present-mode-that-make-spotlight-easier-to-use-an|Gamma
+  makes a couple changes to present mode that make spotlight easier to use…]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -79,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-07-13 · Cursor · [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer (beta)]]
-- Later: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-validate-to-replace-in-edit-file-by-replace-agentskill-by-li-boxuan-in-https-git|Validate to_replace in edit_file_by_replace AgentSkill]]
+- Earlier: 2024-07-16 · Gamma · [[Changes/Gamma/2024-07-16-we-ve-made-a-couple-changes-to-present-mode-that-make-spotlight-easier-to-use-an|Gamma makes a couple changes to present mode that make spotlight easier to use…]]
+- Later: 2024-07-23 · Gamma · [[Changes/Gamma/2024-07-23-we-ve-added-16-new-themes-to-gamma-with-a-focus-on-professional-designs-that-kee|Gamma adds 16 new themes to Gamma, with a focus on professional designs that keep…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

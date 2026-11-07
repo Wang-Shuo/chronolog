@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d64172b523851afe1d39563b12f5d6e5d535c06be9af2a9fda39449912f79ac9
+machine_hash: 361c72b67b876fcc44044cdaf695bed0d78b2d324f6247a54169f711b802c83c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,9 +50,11 @@ record:
   title: 2 Voice and Audio changes in v0.6.42
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-15-javascript-sdk|JavaScript SDK]]'
-- '[[Changes/ElevenLabs/2025-12-15-packages|Packages]]'
 - '[[Changes/ElevenLabs/2025-12-15-python-sdk|Python SDK]]'
+- '[[Changes/Google Antigravity/2025-12-17-native-audio-support-for-the-agent|Native
+  audio support for the agent]]'
+- '[[Changes/Runway/2025-12-18-text-to-speech-is-now-available-via-the-audio-tab-in-tool-mode-alongside-new-aud|New
+  Audio Features]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'
 source_type: github_releases
 theme: voice
@@ -101,7 +103,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.42
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-12-15 · ElevenLabs · [[Changes/ElevenLabs/2025-12-15-python-sdk|Python SDK]]
+- Earlier: 2025-12-18 · Runway · [[Changes/Runway/2025-12-18-text-to-speech-is-now-available-via-the-audio-tab-in-tool-mode-alongside-new-aud|New Audio Features]]
 - Later: 2025-12-22 · Open WebUI · [[Changes/Open WebUI/2025-12-22-speech-to-text-default-content-type-handling-was-fixed-and-refactored-to-ensure|🎙️ Speech-to-Text default content type handling was fixed and refactored…]]
 <!-- chronolog:end -->
 

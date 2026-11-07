@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 847efff707968238f55d817a323fc359ab0cb1d556338b61b8c2ff02222bc83c
+machine_hash: 1757df3834260e58fea2160bd715de81ebd8fb58f652d44798fe8d8f0176b1b5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Context Window changes in v0.0.394
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-agents-can-now-read-pdfs-which-you-can-attach-in-chats-as-context|Agents
-  can now read PDFs, which you can attach in chats as context]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-22-preserve-extended-thinking-after-compaction|Preserve
   extended thinking after compaction]]'
+- '[[Changes/OpenCode/2026-01-22-2-context-window-changes-in-v1-1-32|2 Context Window
+  changes in v1.1.32]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-23-show-conversation-compaction-status-as-timeline-messages-instead-of-header-indic|Show
   conversation compaction status as timeline messages instead of header indicator]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-24-v0-0-394-github-279572493-a58f0a39|github-copilot-cli-2026-01-24-v0-0-394-github-279572493-a58f0a39]]'
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.394
 ## Nearby in Context Window
 
 - Earlier: 2026-01-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-23-show-conversation-compaction-status-as-timeline-messages-instead-of-header-indic|Show conversation compaction status as timeline messages instead of header indicator]]
-- Later: 2026-01-27 · Cline · [[Changes/Cline/2026-01-27-strip-notebook-cell-outputs-when-extracting-text-content-from-jupyter-notebooks|Strip notebook cell outputs when extracting text content from Jupyter notebooks…]]
+- Later: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-3-context-window-changes-in-v1-1-35|3 Context Window changes in v1.1.35]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

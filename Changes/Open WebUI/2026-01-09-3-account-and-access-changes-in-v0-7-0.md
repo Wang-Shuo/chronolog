@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d3fd4292808b86aeca3501e79e28d68186719c308b3549417dc543b7306fd32
+machine_hash: 2094a75eaeebcd9eae134dde08c1ad4291d66d35a0f371836a600c41148ca84d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,12 +52,12 @@ record:
   title: 3 Account and Access changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-06-added-support-for-azure-based-identity-authentication-in-openai-compatible-provi|Added
-  support for Azure based identity authentication in OpenAI Compatible provider…]]'
 - '[[Changes/Codex CLI/2026-01-07-2-account-and-access-changes-in-rust-v0-79-0|2 Account
   and Access changes in rust-v0.79.0]]'
 - '[[Changes/Gemini CLI/2026-01-07-validate-oauth-resource-parameter-matches-mcp-server-url-by-galz10-in-https-gith|Validate
   OAuth resource parameter matches MCP server URL]]'
+- '[[Changes/OpenCode/2026-01-08-core-use-correct-authorization-server-url-for-oauth-discovery-in-mcp|Core
+  Use correct authorization server URL for OAuth discovery in MCP]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c|open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c]]'
 source_type: github_releases
 theme: account-access
@@ -107,8 +107,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-validate-oauth-resource-parameter-matches-mcp-server-url-by-galz10-in-https-gith|Validate OAuth resource parameter matches MCP server URL]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]
+- Earlier: 2026-01-08 · OpenCode · [[Changes/OpenCode/2026-01-08-core-use-correct-authorization-server-url-for-oauth-discovery-in-mcp|Core Use correct authorization server URL for OAuth discovery in MCP]]
+- Later: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-terminal-enable-api-key-prompt-for-bedrock-in-auth-login|Terminal Enable API key prompt for Bedrock in auth login]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

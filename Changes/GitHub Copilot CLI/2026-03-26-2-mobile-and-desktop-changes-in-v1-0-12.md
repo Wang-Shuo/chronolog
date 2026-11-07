@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a7667091785f3c392006cd95a31d9fecdc91f8006184c238d554d676c350f926
+machine_hash: bf9159e7a9e5d80620acfa2368ce6c51cec168a9058e0571db89dfa51342980f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.12
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-3-mobile-and-desktop-changes-in-rust-v0-117-0|3 Mobile and Desktop changes in rust-v0.117.0]]
-- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-7-mobile-and-desktop-changes-in-rust-v0-118-0|7 Mobile and Desktop changes in rust-v0.118.0]]
+- Later: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-3-mobile-and-desktop-changes-in-v1-3-3|3 Mobile and Desktop changes in v1.3.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

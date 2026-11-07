@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 11186e760162b4a6b77aae1c506b3b64d7ebae381098b7dbc25d026a18b670df
+machine_hash: 9a68e59162a3045db050b7342fafabda2605728a2cecdc81dbe4dc217098c2ed
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,11 +51,12 @@ record:
   title: 2 Apps and Integrations changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-27-connect-your-app-to-scrive|Connect your app to Scrive]]'
-- '[[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions):
-  name dialog viewport limits]]'
 - '[[Changes/Codex CLI/2026-10-29-22-apps-and-integrations-changes-in-rust-v0-166-0|22
   Apps and Integrations changes in rust-v0.166.0]]'
+- '[[Changes/Google Antigravity/2026-10-29-2-apps-and-integrations-changes-in-hub-v2-28-2-partner-plugins|2
+  Apps and Integrations changes in HUB v2.28.2 — Partner plugins…]]'
+- '[[Changes/Google Antigravity/2026-10-29-partner-plugins-in-the-marketplace-and-plugin-sign-in|Partner
+  plugins in the Marketplace and plugin sign-in]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -104,8 +105,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-22-apps-and-integrations-changes-in-rust-v0-166-0|22 Apps and Integrations changes in rust-v0.166.0]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3 Apps and Integrations changes in v2.1.314]]
+- Earlier: 2026-10-29 · Google Antigravity · [[Changes/Google Antigravity/2026-10-29-partner-plugins-in-the-marketplace-and-plugin-sign-in|Partner plugins in the Marketplace and plugin sign-in]]
+- Later: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-2-apps-and-integrations-changes-in-v2026-10-9|2 Apps and Integrations changes in v2026.10.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

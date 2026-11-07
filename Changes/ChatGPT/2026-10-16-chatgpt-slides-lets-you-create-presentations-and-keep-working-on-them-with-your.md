@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 15323cba98d934e260dee3f93528491e41545da6f2eefe35d04ed36f742dfdae
+machine_hash: 44110b459c9c60ded8b9bd8c6c86e891ee88a5c4a64a7fb85dd9e103a806d000
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,12 @@ record:
     your team…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed
-  local session transcripts to also record each API request''s system prompt…]]'
 - "[[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|\U0001F4BE
   Save hidden on others' messages. In a chat shared with Allow replies, editing…]]"
 - '[[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration
   changes in rust-v0.163.0]]'
+- '[[Changes/OpenCode/2026-10-15-session-sharing-has-been-discontinued|Session sharing
+  has been discontinued]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16|chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration changes in rust-v0.163.0]]
+- Earlier: 2026-10-15 · OpenCode · [[Changes/OpenCode/2026-10-15-session-sharing-has-been-discontinued|Session sharing has been discontinued]]
 - Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-collaboration-changes-in-v0-12-3|2 Collaboration changes in v0.12.3]]
 <!-- chronolog:end -->
 

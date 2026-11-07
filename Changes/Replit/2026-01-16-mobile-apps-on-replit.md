@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d4cd7f128ef047d9122f26c69493b22ae7488c8fec5a1feb419dce11d5fd8998
+machine_hash: 5895dacdf428f9ee190bc0ad93cd7cc4b35c830b7cea5784967283a61da8f6ce
 product: replit
 product_name: Replit
 record:
@@ -62,12 +62,12 @@ record:
   title: Mobile Apps on Replit
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-2-mobile-and-desktop-changes-in-rust-v0-81-0|2 Mobile
-  and Desktop changes in rust-v0.81.0]]'
-- '[[Changes/Codex CLI/2026-01-15-reduce-flaky-rust-release-pipelines-notably-on-windows-by-increasing-the-release|Reduce
-  flaky Rust release pipelines (notably on Windows) by increasing the release…]]'
 - '[[Changes/Claude/2026-01-16-cowork-research-preview-expanded-to-pro-plans|Cowork
   research preview expanded to Pro plans]]'
+- '[[Changes/OpenCode/2026-01-16-4-mobile-and-desktop-changes-in-v1-1-25|4 Mobile
+  and Desktop changes in v1.1.25]]'
+- '[[Changes/OpenCode/2026-01-16-17-mobile-and-desktop-changes-in-v1-1-24|17 Mobile
+  and Desktop changes in v1.1.24]]'
 source_release: '[[Releases/Replit/replit-2026-01-16-2026-01-16-d287c407|replit-2026-01-16-2026-01-16-d287c407]]'
 source_type: replit_changelog
 theme: mobile-desktop
@@ -103,8 +103,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-16 · Claude · [[Changes/Claude/2026-01-16-cowork-research-preview-expanded-to-pro-plans|Cowork research preview expanded to Pro plans]]
-- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-8590-fix-core-require-approval-for-force-delete-on-windows-hdcodedev|♯8590 fix(core): require approval for force delete on Windows @hdcodedev]]
+- Earlier: 2026-01-16 · OpenCode · [[Changes/OpenCode/2026-01-16-17-mobile-and-desktop-changes-in-v1-1-24|17 Mobile and Desktop changes in v1.1.24]]
+- Later: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-50-mobile-and-desktop-changes-in-v1-1-26|50 Mobile and Desktop changes in v1.1.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

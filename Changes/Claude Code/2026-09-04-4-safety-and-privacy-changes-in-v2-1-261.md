@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 372c89a91738cf6d5508b74496cb8381d709160e4e97ef4781b90e3de14e0fef
+machine_hash: e11a5402a35cea6e4231c59f0ce917aa5aadc7ce18bd0ca3301abbbfdff8234c
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: 4 Safety and Privacy changes in v2.1.261
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-02-4-safety-and-privacy-changes-in-v2-1-259|4 Safety
-  and Privacy changes in v2.1.259]]'
 - '[[Changes/Claude Code/2026-09-03-7-safety-and-privacy-changes-in-v2-1-260|7 Safety
   and Privacy changes in v2.1.260]]'
 - '[[Changes/Codex CLI/2026-09-03-6-safety-and-privacy-changes-in-rust-v0-153-0|6
   Safety and Privacy changes in rust-v0.153.0]]'
+- '[[Changes/OpenClaw/2026-09-03-10-safety-and-privacy-changes-in-v2026-9-1|10 Safety
+  and Privacy changes in v2026.9.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: safety-privacy
@@ -104,7 +104,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-6-safety-and-privacy-changes-in-rust-v0-153-0|6 Safety and Privacy changes in rust-v0.153.0]]
+- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-10-safety-and-privacy-changes-in-v2026-9-1|10 Safety and Privacy changes in v2026.9.1]]
 - Later: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-5-safety-and-privacy-changes-in-v1-0-83|5 Safety and Privacy changes in v1.0.83]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 452eea3e5820c2d6e33e0e370b2f87d7c1314dd135dba69807b6f7c631a5e677
+machine_hash: 0f8f0f9df2991cbd3c12499a15a8ef2641d05a8ef7665ee50af3d05f3ce7ef18
 product: dify
 product_name: Dify
 record:
@@ -55,12 +55,12 @@ record:
   title: 5 Reliability and Performance changes in 1.9.2
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-10-15-flash-attention-is-now-enabled-by-default-for-gemma-3-improving-performance-and|Flash
-  attention is now enabled by default for Gemma 3, improving performance…]]'
 - "[[Changes/Open WebUI/2025-10-16-various-improvements-were-implemented-across-the-frontend-and-backend-to-enhance|\U0001F504
   Various improvements were implemented across the frontend and backend to enhance…]]"
 - '[[Changes/Windsurf/2025-10-16-various-stability-improvements-and-minor-bug-fixes|Various
   stability improvements and minor bug fixes]]'
+- '[[Changes/Gamma/2025-10-21-need-to-create-similar-content-with-a-consistent-structure-and-formatting|Need
+  to create similar content with a consistent structure and formatting?]]'
 source_release: '[[Releases/Dify/dify-2025-10-22-1-9-2-github-255984243-4bd350a7|dify-2025-10-22-1-9-2-github-255984243-4bd350a7]]'
 source_type: github_releases
 theme: reliability-performance
@@ -110,7 +110,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.9.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-16 · Windsurf · [[Changes/Windsurf/2025-10-16-various-stability-improvements-and-minor-bug-fixes|Various stability improvements and minor bug fixes]]
+- Earlier: 2025-10-21 · Gamma · [[Changes/Gamma/2025-10-21-need-to-create-similar-content-with-a-consistent-structure-and-formatting|Need to create similar content with a consistent structure and formatting?]]
 - Later: 2025-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-22-made-improvements-to-the-memory-footprint-of-copilot-cli-especially-when-dealing|Made improvements to the memory footprint of Copilot CLI, especially when dealing…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 018b43b2c2bf15de7346e2aff01b9661938df81f7c164fdd0259a2e857076930
+machine_hash: c674ebabd0d7558b9fe7dbd5aba12bded94acf6f2c551cffbc1c160485487f0c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.158.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-24 · Windsurf · [[Changes/Windsurf/2026-09-24-devin-desktop|Devin Desktop]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site owners and editors on Plus and Pro can select Edit site from a published Site…]]
+- Later: 2026-09-28 · Google Antigravity · [[Changes/Google Antigravity/2026-09-28-press-option-command-p-on-macos-or-alt-shift-p-on-windows-and-linux-to-pin-or-un|Press Option+Command+P on macOS or Alt+Shift+P on Windows and Linux to pin or unpin…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

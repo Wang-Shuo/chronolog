@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 6c6f9ea51f9a82f3b4b59b723bdaf05ab98a9b1766a9a6b92c332ee9144ae5e5
+machine_hash: 16f347e901953d44134988aa6bf27348f60adea17539ad423e2482382cfaac75
 product: lovable
 product_name: Lovable
 record:
@@ -52,10 +52,10 @@ record:
   title: Lovable desktop app
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-23-use-macos-latest-large-runner-where-applicable-by-scidomino-in-https-github-com|use
-  macos-latest-large runner where applicable]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-tool-availability-detection-works-correctly-on-windows|Tool
   availability detection works correctly on Windows]]'
+- '[[Changes/OpenCode/2026-04-23-3-mobile-and-desktop-changes-in-v1-14-22-1|3 Mobile
+  and Desktop changes in v1.14.22 + 1]]'
 - '[[Changes/Codex CLI/2026-04-24-19167-ci-add-macos-keychain-entitlements-euroelessar|♯19167
   ci: add macOS keychain entitlements @euroelessar]]'
 source_release: '[[Releases/Lovable/lovable-2026-04-24-2026-04-24-4062672c|lovable-2026-04-24-2026-04-24-4062672c]]'

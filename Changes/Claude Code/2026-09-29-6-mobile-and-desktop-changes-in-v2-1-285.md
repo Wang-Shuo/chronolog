@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b431f8c96a88c8b2a59b4b487e7a321b5c523051a86450bccaac53b6e7c5dbae
+machine_hash: 4ffc96fbd1b06004dbc8c7ac08d7614e83d114a32b5a2f98371798728beb463f
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,9 +62,10 @@ record:
   title: 6 Mobile and Desktop changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-09-24-devin-desktop|Devin Desktop]]'
 - '[[Changes/Codex CLI/2026-09-28-3-mobile-and-desktop-changes-in-rust-v0-158-0|3
   Mobile and Desktop changes in rust-v0.158.0]]'
+- '[[Changes/Google Antigravity/2026-09-28-press-option-command-p-on-macos-or-alt-shift-p-on-windows-and-linux-to-pin-or-un|Press
+  Option+Command+P on macOS or Alt+Shift+P on Windows and Linux to pin or unpin…]]'
 - '[[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site
   owners and editors on Plus and Pro can select Edit site from a published Site…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'

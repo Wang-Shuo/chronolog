@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 097170f9f27f6ca60f5bf3695c8fb4daa2292a3a8fc1692a5bd7d165ce06f280
+machine_hash: 78ea4469f35b6bd6c3c01bc687f56f8662674e2a2b87ef94f22a428884a232c1
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Reliability and Performance changes in v1.13.8
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved
-  typing responsiveness by reducing memory allocation overhead in terminal…]]'
+- '[[Changes/OpenCode/2026-01-14-terminal-track-all-timeouts-in-footer-component-to-prevent-memory-leaks|Terminal
+  Track all timeouts in Footer component to prevent memory leaks]]'
 - '[[Changes/v0/2026-01-14-improved-chat-performance-and-responsiveness|Improved chat
   performance and responsiveness]]'
 - '[[Changes/v0/2026-01-14-improved-front-end-performance-across-the-application|Improved
@@ -81,7 +81,7 @@ Source: https://docs.devin.ai/desktop/changelog#v1-13-8
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved typing responsiveness by reducing memory allocation overhead in terminal…]]
+- Earlier: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-terminal-track-all-timeouts-in-footer-component-to-prevent-memory-leaks|Terminal Track all timeouts in Footer component to prevent memory leaks]]
 - Later: 2026-01-14 · v0 · [[Changes/v0/2026-01-14-improved-chat-performance-and-responsiveness|Improved chat performance and responsiveness]]
 <!-- chronolog:end -->
 

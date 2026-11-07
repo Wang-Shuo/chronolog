@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7772fa3434b3f0a66aae7f5593912559c3591ebb74bbcb2f350c33eecb021bb2
+machine_hash: a503791bdfeab487d89356d32164aa2a28a077fda20770b4cabdc1218e19c92c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-04-01 · Cursor · [[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]]
-- Later: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-cursor-help-pane-beta-you-can-also-ask-cursor-about-cursor-the-cursor-help-pane|Cursor Help Pane (Beta): You can also ask Cursor about Cursor!]]
+- Later: 2024-04-05 · Runway · [[Changes/Runway/2024-04-05-a-redesigned-gen-2-user-interface-that-makes-even-our-most-complex-tools-easier|Updated Gen-2 UI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

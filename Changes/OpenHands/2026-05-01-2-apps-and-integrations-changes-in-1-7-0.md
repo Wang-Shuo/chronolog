@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6474c66a3b299a087a674788604103d38318eddf73afac0b2e4fac6585f1e1d6
+machine_hash: 041719eb4df1d25c29aaba56c10204e9fac807d6a26279846ef82f2d9336b858
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Apps and Integrations changes in 1.7.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and
-  Integrations changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37
   Apps and Integrations changes in rust-v0.128.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6
   Apps and Integrations changes in v1.0.40]]'
+- '[[Changes/OpenCode/2026-05-01-core-invalid-remote-mcp-urls-now-fail-with-a-clear-error-instead-of-breaking-set|Core
+  Invalid remote MCP URLs now fail with a clear error instead of breaking setup]]'
 source_release: '[[Releases/OpenHands/openhands-2026-05-01-1-7-0-github-316415064-290087ee|openhands-2026-05-01-1-7-0-github-316415064-290087ee]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,7 +81,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6 Apps and Integrations changes in v1.0.40]]
+- Earlier: 2026-05-01 · OpenCode · [[Changes/OpenCode/2026-05-01-core-invalid-remote-mcp-urls-now-fail-with-a-clear-error-instead-of-breaking-set|Core Invalid remote MCP URLs now fail with a clear error instead of breaking setup]]
 - Later: 2026-05-01 · Replit · [[Changes/Replit/2026-05-01-replit-app-monitoring-keeps-an-eye-on-your-published-apps|Replit App Monitoring keeps an eye on your published apps]]
 <!-- chronolog:end -->
 

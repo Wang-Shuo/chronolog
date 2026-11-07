@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 27c4a5768ad0399a4f0079bd828cd01d18375119829315793070d58ec862d25a
+machine_hash: e9f9ac33a947d78f9f9986975a1c256309bbd73071fad4cce1c800f740377d4c
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
     appear…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-26-project-toolbar-navigation-improvements|Project toolbar
-  navigation improvements]]'
-- '[[Changes/Lovable/2026-05-26-project-view-pins-project-views-can-no-longer-be-customized-with-pins-the-toolba|Project
-  view pins. Project views can no longer be customized with pins]]'
 - '[[Changes/Claude Code/2026-05-27-in-fullscreen-mode-the-thinking-for-ns-indicator-now-counts-up-live-while-the-mo|In
   fullscreen mode, the "Thinking for Ns" indicator now counts up live…]]'
+- '[[Changes/Midjourney/2026-05-27-a-new-rerun-as-hd-button-makes-it-easy-to-rerun-any-v8-1-image-generated-in-stan|A
+  new Rerun as HD button makes it easy to rerun any V8.1 image generated in Standard…]]'
+- '[[Changes/Midjourney/2026-05-27-image-prompts-now-work-from-the-tray-and-sidebar|Image
+  Prompts now work from the tray and sidebar]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
 theme: interface-experience
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-in-fullscreen-mode-the-thinking-for-ns-indicator-now-counts-up-live-while-the-mo|In fullscreen mode, the "Thinking for Ns" indicator now counts up live…]]
+- Earlier: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-image-prompts-now-work-from-the-tray-and-sidebar|Image Prompts now work from the tray and sidebar]]
 - Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface Experience changes in v2.1.153]]
 <!-- chronolog:end -->
 

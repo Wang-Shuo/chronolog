@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d0392e3e820cebd54f6603560c1cde0181bcddb45d7194772948706309dc0f2
+machine_hash: b561f8c968195569462670d1ddf747b323be5de34a4b92db1a60b48315d8c9e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,11 @@ record:
   title: 2 Reliability and Performance changes in v2.1.176
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot-362593|The
-  average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]'
 - '[[Changes/Lovable/2026-06-10-preview-toolbar|Preview toolbar]]'
 - '[[Changes/Lovable/2026-06-10-find-and-fix-database-performance-problems|Find and
   fix database performance problems]]'
+- '[[Changes/OpenCode/2026-06-10-faster-file-search-across-large-projects-with-the-new-fff-backed-search-tools|Faster
+  file search across large projects with the new fff -backed search tools]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6|claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +84,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.176
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-10 · Lovable · [[Changes/Lovable/2026-06-10-find-and-fix-database-performance-problems|Find and fix database performance problems]]
+- Earlier: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-faster-file-search-across-large-projects-with-the-new-fff-backed-search-tools|Faster file search across large projects with the new fff -backed search tools]]
 - Later: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-faster-slide-import-and-export|Faster slide import and export]]
 <!-- chronolog:end -->
 

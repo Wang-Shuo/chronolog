@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 414363002d59ea4b710670342be7cecbeb878256424046a2de18173b18596b67
+machine_hash: 8bfeafd16de8e2eeed05393a7b0e73c33c4ceb09159d08c118dad6f7e2905389
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-4-pricing-model-changes-in-gpt-5-6-sol-sign-in-inside-previews|4 Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…]]
-- Later: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-cost-estimates-no-longer-appear-in-task-history-for-subscription-billed-tasks-cl|Cost estimates no longer appear in task history for subscription-billed tasks…]]
+- Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-usage-and-status-views-now-carry-cumulative-output-token-totals-through-tool-cal|Usage and status views now carry cumulative output-token totals through tool calls…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

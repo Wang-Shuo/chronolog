@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 656bb34264261ffd6dac8d83b6dc4141894c8f159804459050610b4828ed7111
+machine_hash: d87e411aa7af4e02af2a1ad97a188174aad7b72b93355dd329c829ca0ba3bd45
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: Edit messages with attachments
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit
-  no longer requires a separate Read after viewing a file with grep]]'
-- '[[Changes/Claude Code/2026-06-03-renamed-windsurf-to-devin-desktop-in-the-ide-menu-terminal-setup-and-scroll-spee|Renamed
-  Windsurf to Devin Desktop in the /ide menu, /terminal-setup…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-3-editor-experience-changes-in-v1-0-60|3
   Editor Experience changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-3-editor-experience-changes-in-v1-16-2|3 Editor Experience
+  changes in v1.16.2]]'
+- '[[Changes/OpenCode/2026-06-05-2-editor-experience-changes-in-v1-16-0|2 Editor Experience
+  changes in v1.16.0]]'
 scope: iOS
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-3-editor-experience-changes-in-v1-0-60|3 Editor Experience changes in v1.0.60]]
+- Earlier: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-2-editor-experience-changes-in-v1-16-0|2 Editor Experience changes in v1.16.0]]
 - Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-background-sessions-now-preserve-ide-chrome-bare-remote-control-and-other-flags|Background sessions now preserve --ide, --chrome, --bare, --remote-control…]]
 <!-- chronolog:end -->
 

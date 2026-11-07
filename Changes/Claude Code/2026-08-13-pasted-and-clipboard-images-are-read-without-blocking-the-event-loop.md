@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8905a9f949e7552a99f67edda856fc5df8e40bd5b4d8df4d18eac3e8175dffa0
+machine_hash: 152262e09c88794f953ea24880ed0daafa44514f9bea228904b6ef9d4c2b9f17
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Pasted and clipboard images are read without blocking the event loop
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-36228-support-enterprise-automation-account-plans-copyberry|♯36228
-  Support Enterprise automation account plans @copyberry]]'
+- '[[Changes/Google Antigravity/2026-08-07-conversations-started-by-background-automations-no-longer-disappear-from-the-sid|Conversations
+  started by background automations no longer disappear from the sidebar list]]'
 - '[[Changes/OpenHands/2026-08-07-2-automation-and-scheduling-changes-in-v1-11-0|2
   Automation and Scheduling changes in v1.11.0]]'
 - '[[Changes/Gemini CLI/2026-08-11-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage):

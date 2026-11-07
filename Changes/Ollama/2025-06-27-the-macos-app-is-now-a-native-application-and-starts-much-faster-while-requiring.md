@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd9c8c9abf79a23e6b40ad0a7ee6f0b5ab55be59b8e3b400273d03c46d89f032
+machine_hash: b1ac26f00dd6ced2ab08abe8c9bb1f024256d938626b339f7defe264accebd84
 product: ollama
 product_name: Ollama
 record:
@@ -42,10 +42,10 @@ record:
   title: The macOS app is now a native application and starts much faster while requiring…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled
-  users to provide feedback on agent performance even when the agent…]]'
 - '[[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized
   Cline to work with the Claude 4 family of models, resulting in improved…]]'
+- '[[Changes/Manus/2025-06-26-we-now-offer-two-specialized-modes-for-all-manus-paid-subscribers-choose-between|Introducing
+  Agent preference]]'
 - '[[Changes/Aider/2025-06-27-3-reliability-and-performance-changes-in-v0-85-0|3 Reliability
   and Performance changes in v0.85.0]]'
 source_release: '[[Releases/Ollama/ollama-2025-06-27-v0-9-4-github-228091794-9150f1fe|ollama-2025-06-27-v0-9-4-github-228091794-9150f1fe]]'

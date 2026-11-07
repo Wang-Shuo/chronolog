@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1bd376afde27a86321c332b4fb620fa87190966f25bed711b1335114f74d2fe2
+machine_hash: 3cadcb30e38f2e43fbc581f21c0255677d4478e149ec6c76e3da7d6adaed9a1b
 product: dify
 product_name: Dify
 record:
@@ -56,9 +56,9 @@ record:
   title: 8 Model Support changes in 1.11.3
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-10-users-no-longer-experience-database-connection-timeouts-under-high-concurrency-d|⚡
-  Users no longer experience database connection timeouts under high concurrency due…]]'
 - '[[Changes/ElevenLabs/2026-01-12-scribe-v2|Scribe v2]]'
+- '[[Changes/OpenCode/2026-01-12-core-fix-model-selection-in-title-generation-to-use-user-s-model-instead-of-assi|Core
+  Fix model selection in title generation to use user''s model instead of assistant''s]]'
 - '[[Changes/Cline/2026-01-13-phase-in-responses-api-usage-instead-of-defaulting-for-every-supported-model|Phase
   in Responses API usage instead of defaulting for every supported model]]'
 source_release: '[[Releases/Dify/dify-2026-01-13-1-11-3-github-276298566-1fe35168|dify-2026-01-13-1-11-3-github-276298566-1fe35168]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 460af4ea78ce574e37a03ebb508529ee75487930984c0dd9f9faba68f3d8fdc8
+machine_hash: 382d869bc6c138e60e35482a8ac8802ceaee15a928c277f3a87f7af2b2e929f2
 product: lovable
 product_name: Lovable
 record:
@@ -46,12 +46,12 @@ record:
   title: The last owner cannot leave a shared folder
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-30-marketplace-access-by-organization-group-a2cf9b|Marketplace
-  access by organization group]]'
 - '[[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor
   expands team marketplaces to support Team MCPs and organization groups]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration
   changes in v1.0.66]]'
+- '[[Changes/OpenClaw/2026-06-30-5-collaboration-changes-in-v2026-6-11|5 Collaboration
+  changes in v2026.6.11]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-07-2026-07-07-3495f67b|lovable-2026-07-07-2026-07-07-3495f67b]]'
 source_type: lovable_changelog
 theme: collaboration
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration changes in v1.0.66]]
+- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-5-collaboration-changes-in-v2026-6-11|5 Collaboration changes in v2026.6.11]]
 - Later: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-3-collaboration-changes-in-grouped-tool-approvals-richer-mcp|3 Collaboration changes in Grouped tool approvals, richer MCP…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: a58016e333809e1ebf30e7f4dfa43b02a42be0ee8d3e7c2170a2846ae4907c9c
+machine_hash: ca7848b6aaca5fbd7681d1708395cf6fc36f4182418921fad6f54f4b430b72d3
 product: openhands
 product_name: OpenHands
 record:

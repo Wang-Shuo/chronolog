@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0987dba4eadb1fe90ba475e2170b13704b591b6f7e012fc0727c2343358b882e
+machine_hash: 6265ab26ff775dbb5f57ae54d408a1a60151b16190f9b19bf4ae6f62ea78f201
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Safety and Privacy changes in rust-v0.90.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-21-3-safety-and-privacy-changes-in-rust-v0-88-0|3 Safety
-  and Privacy changes in rust-v0.88.0]]'
-- '[[Changes/Codex CLI/2026-01-22-2-safety-and-privacy-changes-in-rust-v0-89-0|2 Safety
-  and Privacy changes in rust-v0.89.0]]'
-- '[[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified
-  CLI permissions with the editor, including Run Everything, Auto-Run…]]'
+- '[[Changes/OpenCode/2026-01-22-core-ensure-cat-command-triggers-external-directory-permission-check-in-bash-too|Core
+  Ensure cat command triggers external directory permission check in Bash tool]]'
+- '[[Changes/Google Antigravity/2026-01-23-terminal-commands-can-now-be-executed-within-a-sandbox-for-macos-users|Terminal
+  commands can now be executed within a sandbox for MacOS users]]'
+- '[[Changes/OpenCode/2026-01-23-core-show-file-path-in-apply-patch-request-permission-screen|Core
+  Show file path in apply_patch request permission screen]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c|codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c]]'
 source_type: github_releases
 theme: safety-privacy
@@ -96,8 +96,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.90.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified CLI permissions with the editor, including Run Everything, Auto-Run…]]
-- Later: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-workspaces|Workspaces]]
+- Earlier: 2026-01-23 · OpenCode · [[Changes/OpenCode/2026-01-23-core-show-file-path-in-apply-patch-request-permission-screen|Core Show file path in apply_patch request permission screen]]
+- Later: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-2-safety-and-privacy-changes-in-v1-1-35|2 Safety and Privacy changes in v1.1.35]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

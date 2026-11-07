@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b55d99a207e062f5ae3e364b4392e527093dcd4b24bb4679a664351d54bb553
+machine_hash: 6306ffa5825fb76be01c17b46402de280e0aebec417705a6bdff70ede5ed3ccf
 product: cline
 product_name: Cline
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-09-13 · Dify · [[Changes/Dify/2024-09-13-2-model-support-changes-in-0-8-2|2 Model Support changes in 0.8.2]]
-- Later: 2024-09-17 · Ollama · [[Changes/Ollama/2024-09-17-6-model-support-changes-in-v0-3-11|6 Model Support changes in v0.3.11]]
+- Later: 2024-09-16 · Runway · [[Changes/Runway/2024-09-16-use-our-simple-to-integrate-api-to-access-our-latest-and-most-powerful-video-mod|Runway API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

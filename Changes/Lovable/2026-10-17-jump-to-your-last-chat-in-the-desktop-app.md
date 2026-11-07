@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d7a8d52fec24896c8778e648dd19c3cbf96a5df2959363b39a6c627700385673
+machine_hash: 49b52b4b20d64d9a0ec83fd65463fabc00cb7260aabade2ad0325bf4583c8a6d
 product: lovable
 product_name: Lovable
 record:
@@ -46,12 +46,12 @@ record:
   title: Jump to your last chat in the desktop app
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-3-mobile-and-desktop-changes-in-rust-v0-163-0|3
-  Mobile and Desktop changes in rust-v0.163.0]]'
 - '[[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present
   or export. Present directly from ChatGPT]]'
 - '[[Changes/Lovable/2026-10-16-removed-tabs-in-the-desktop-app|Removed: tabs in the
   desktop app]]'
+- '[[Changes/OpenClaw/2026-10-16-replies-on-macos-fixed-a-macos-reply-failure-that-restarted-the-channel-and-repe|Replies
+  on macOS]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-17-2026-10-17-2905e67c|lovable-2026-10-17-2026-10-17-2905e67c]]'
 source_type: lovable_changelog
 theme: mobile-desktop
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-removed-tabs-in-the-desktop-app|Removed: tabs in the desktop app]]
+- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-replies-on-macos-fixed-a-macos-reply-failure-that-restarted-the-channel-and-repe|Replies on macOS]]
 - Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows: Improved git command start-up with a standard Git for Windows install…]]
 <!-- chronolog:end -->
 

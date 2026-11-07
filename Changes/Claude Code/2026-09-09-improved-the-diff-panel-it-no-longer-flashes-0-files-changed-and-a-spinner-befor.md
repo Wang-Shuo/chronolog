@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7f704ec7cfc47cbf2bb90deff7d40a746cb32f8247102c992ae864e4d74636b
+machine_hash: f1ef8ea3320ecbeb880ac55465871a7c5a7af3d675f2b51fb78a02569abf4c8e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Improved the `/diff` panel
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-add-recent-created-name-and-classic-none-sorting-to-the-split-sessions-sidebar-w|Add
-  Recent, Created, Name, and classic None sorting to the split Sessions sidebar…]]'
-- '[[Changes/Lovable/2026-09-04-new-ways-to-open-project-settings|New ways to open
-  project settings]]'
+- '[[Changes/OpenClaw/2026-09-05-21-interface-experience-changes-in-v2026-9-2|21 Interface
+  Experience changes in v2026.9.2]]'
 - '[[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit
   and comment]]'
+- '[[Changes/OpenClaw/2026-09-08-11-interface-experience-changes-in-v2026-9-3|11 Interface
+  Experience changes in v2026.9.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-11-interface-experience-changes-in-v2026-9-3|11 Interface Experience changes in v2026.9.3]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4 Interface Experience changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

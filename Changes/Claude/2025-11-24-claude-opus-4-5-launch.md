@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3c4edf54fee9b57708f510ebee05f0b1b05c4f01f2bd63fceaf413d825e6c84b
+machine_hash: 390215c45da4bcf316efe54ca1f69cb31791081ea1113c4ea86644aa8c2ec2b8
 product: claude
 product_name: Claude
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-gpt-5-1-codex-and-codex-mini|GPT-5.1 Codex and Codex Mini]]
-- Later: 2025-11-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-24-opus-4-5-gpt-4-1-and-gpt-5-mini-are-now-available-in-github-copilot-cli|Opus 4.5, GPT-4.1 and GPT-5-Mini are now available in GitHub Copilot CLI]]
+- Later: 2025-11-24 · Gamma · [[Changes/Gamma/2025-11-24-nano-banana-pro-now-available-in-gamma-it-s-the-first-model-that-can-perfectly-h|New image model: Nano Banana Pro]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: faf699158f56e5075655ce9f2ccecc51cff2475713c82212dc037e2a5ee74fd7
+machine_hash: 44158b2d6fd0351082277af1a505fefb53fddce97bf6f51ed986b386d7d58e68
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
     the session
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-feat-evals-add-shell-command-safety-evals-by-akh64bit-in-https-github-com-google|feat(evals):
-  add shell command safety evals]]'
+- '[[Changes/OpenCode/2026-05-22-3-developer-workflow-changes-in-v1-15-9|3 Developer
+  Workflow changes in v1.15.9]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-24-bash-shell-sessions-no-longer-hang-when-ps0-or-prompt-command-is-set-in-the-envi|Bash
   shell sessions no longer hang when PS0 or PROMPT_COMMAND is set in the environment]]'
 - '[[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer

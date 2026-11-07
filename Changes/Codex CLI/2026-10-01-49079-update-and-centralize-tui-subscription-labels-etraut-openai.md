@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 82a237c1ce5761d22c72cb88bc8163dd051704a228f31a23041217ca63addd80
+machine_hash: fc6a83bbd009886e393e80b6851dc9bfafef2e84b49c328f702d5f8c6df2be62
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#49079 Update and centralize TUI subscription labels @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude
-  Tag Added direct messages with Claude for members on an Enterprise plan…]]'
 - '[[Changes/v0/2026-09-29-chatgpt-plus-and-pro-subscribers-can-now-use-their-chatgpt-subscription-to-build|ChatGPT
   Plus and Pro subscribers can now use their ChatGPT subscription to build in v0]]'
 - '[[Changes/v0/2026-09-29-what-happens-if-i-reach-my-chatgpt-usage-limit|What happens
   if I reach my ChatGPT usage limit?]]'
+- '[[Changes/OpenClaw/2026-09-30-3-pricing-model-changes-in-v2026-9-7|3 Pricing Model
+  changes in v2026.9.7]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'
 source_type: github_releases
 theme: pricing-model
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-29 · v0 · [[Changes/v0/2026-09-29-what-happens-if-i-reach-my-chatgpt-usage-limit|What happens if I reach my ChatGPT usage limit?]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-3-pricing-model-changes-in-v2026-9-7|3 Pricing Model changes in v2026.9.7]]
 - Later: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved the /usage-credits message shown to Team and Enterprise members whose…]]
 <!-- chronolog:end -->
 

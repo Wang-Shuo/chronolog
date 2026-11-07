@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7c1ecf118c495e4af859e20cd62ee8fea35967ebbfab60127d0e97c500ed77b0
+machine_hash: 8f13cb9fdca2d8ca0596f4a4882bad0bb2e8808592bd70d99f801940b02e3bab
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-5-model-support-changes-in-1-12-0|5 Model Support changes in 1.12.0]]
-- Later: 2026-02-04 · ChatGPT · [[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan 10, 2026: We lowered the Standard and Light thinking time as we observed users…]]
+- Later: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-5-model-support-changes-in-v1-1-49|5 Model Support changes in v1.1.49]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d0766cb8e386f7f5fac33f14077c5cf4964f76bc31cf56f274db587a0285843
+machine_hash: 904ac60b7849d154f7448690d0478bb8fa144cdaee6cbd21ce5cf75e03648295
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Opening links on Windows correctly handles URLs with & query parameters
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-03-right-click-paste-no-longer-produces-garbled-text-on-windows|Right-click
-  paste no longer produces garbled text on Windows]]'
+- '[[Changes/OpenCode/2026-03-04-3-mobile-and-desktop-changes-in-v1-2-17|3 Mobile
+  and Desktop changes in v1.2.17]]'
 - '[[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile
   and Desktop changes in v2.1.69]]'
 - '[[Changes/Codex CLI/2026-03-05-13127-nit-disable-on-windows-jif-oai|♯13127 nit:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-13127-nit-disable-on-windows-jif-oai|♯13127 nit: disable on windows @jif-oai]]
-- Later: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-diff-mode-displays-cleanly-on-windows-with-crlf-line-endings|Diff mode displays cleanly on Windows with CRLF line endings]]
+- Later: 2026-03-05 · OpenCode · [[Changes/OpenCode/2026-03-05-11-mobile-and-desktop-changes-in-v1-2-18|11 Mobile and Desktop changes in v1.2.18]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

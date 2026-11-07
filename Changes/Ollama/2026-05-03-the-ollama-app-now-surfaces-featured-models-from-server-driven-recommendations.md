@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9369a6d171bb4f3205595ae30d61c4424c6f8e4ca045157dd0b127cdfe0f5d92
+machine_hash: d8d461c5dcb2a781e8beb0e083a4346ad07494a3afddf53d93e186362a6c5f76
 product: ollama
 product_name: Ollama
 record:
@@ -41,12 +41,12 @@ record:
   title: The Ollama app now surfaces featured models from server-driven recommendations
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-01-2-model-support-changes-in-v3-82-0|2 Model Support changes
-  in v3.82.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-01-2-model-support-changes-in-v1-0-40|2 Model
-  Support changes in v1.0.40]]'
+- '[[Changes/OpenCode/2026-05-01-desktop-restoring-saved-messages-no-longer-crashes-the-app-when-a-model-is-missi|Desktop
+  Restoring saved messages no longer crashes the app when a model is missing]]'
 - '[[Changes/OpenHands/2026-05-01-added-llm-model-on-conversation-cards-and-header-by-sjathin-in-https-github-com|Added
   LLM model on conversation cards and header]]'
+- '[[Changes/OpenCode/2026-05-02-core-fixed-bedrock-sessions-that-include-reasoning-content-when-switching-models|Core
+  Fixed Bedrock sessions that include reasoning content when switching models]]'
 source_release: '[[Releases/Ollama/ollama-2026-05-03-v0-23-0-github-316795929-a73ed73c|ollama-2026-05-03-v0-23-0-github-316795929-a73ed73c]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-01 · OpenHands · [[Changes/OpenHands/2026-05-01-added-llm-model-on-conversation-cards-and-header-by-sjathin-in-https-github-com|Added LLM model on conversation cards and header]]
+- Earlier: 2026-05-02 · OpenCode · [[Changes/OpenCode/2026-05-02-core-fixed-bedrock-sessions-that-include-reasoning-content-when-switching-models|Core Fixed Bedrock sessions that include reasoning content when switching models]]
 - Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated /model picker]]
 <!-- chronolog:end -->
 

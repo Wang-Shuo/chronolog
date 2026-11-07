@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a958289ad66d1884583379097fc090d4d0d669d0d99b80ec9fe9ce8b853cf5f
+machine_hash: 9a8a5b715f9537178d99b1e0a91c8486a67bbfa3ea0b5656581b60d9e4aaf64a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps and Integrations changes in v2.1.49]]
-- Later: 2026-02-19 · Ollama · [[Changes/Ollama/2026-02-19-ollama-launch-integration-will-now-always-show-the-model-picker|ollama launch integration will now always show the model picker]]
+- Later: 2026-02-19 · Google Antigravity · [[Changes/Google Antigravity/2026-02-19-added-a-setting-to-enable-or-disable-terminal-integration|Added a setting to enable or disable terminal integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38a6ae4a0545e20f3e6ee76e396377ab48c37bd544076616f6772d195e3436bc
+machine_hash: d444b3aeaba5ce59026331deec6471e0431c5fef681bba5bfa479151465fc505
 product: ollama
 product_name: Ollama
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Model Support changes in v0.18.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting
-  claude-sonnet-4.6 as the default model is now preserved correctly]]'
+- '[[Changes/OpenCode/2026-03-13-desktop-model-selection-now-persists-by-session|Desktop
+  Model selection now persists by session]]'
 - '[[Changes/Claude Code/2026-03-14-added-effort-slash-command-to-set-model-effort-level|Added
   /effort slash command to set model effort level]]'
 - '[[Changes/Claude Code/2026-03-14-improved-model-fallback-notifications-now-always-visible-instead-of-hidden-behin|Improved

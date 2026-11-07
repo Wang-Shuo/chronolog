@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 93bda2f0383278933b703d7ec7f4bb2869ddbf4983b9987897b1e0dca71ff1ca
+machine_hash: 960841c7fe6892abf9c6537a942ea1bd85b04836e9e2def385fd8dd15b45d226
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +43,8 @@ record:
   title: More messages, larger file uploads, and expanded image generation
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-06-10-better-handling-storage-of-interpreter-generated-images-code-interpreter-generat|\U0001F3DE️
-  Better Handling & Storage of Interpreter-Generated Images]]"
+- '[[Changes/Gamma/2025-07-31-this-week-s-updates-are-all-about-giving-you-more-control-more-capabilities-and|This
+  week’s updates are all about giving you more control, more capabilities…]]'
 - '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image
   generation update to ChatGPT Free]]'
 - '[[Changes/Replit/2025-08-08-image-generation-full-rollout|Image generation full

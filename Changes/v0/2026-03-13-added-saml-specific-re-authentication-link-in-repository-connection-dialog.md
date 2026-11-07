@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf85c9d5910bf069b53c2579fc6813c28c542b0862acb17e324ba387f279ddfb
+machine_hash: 1c5ccbe891595b74488d37b03f6fe70d93ad6f06d04c300e2b0dbf0221a55585
 product: v0
 product_name: v0
 record:
@@ -41,12 +41,12 @@ record:
   title: Added SAML-specific re-authentication link in repository connection dialog
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-11-feat-core-implement-http-authentication-support-for-a2a-remote-agents-by-sandyta|feat(core):
-  implement HTTP authentication support for A2A remote agents]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-11-3-account-and-access-changes-in-v1-0-4|3
-  Account and Access changes in v1.0.4]]'
+- '[[Changes/OpenCode/2026-03-12-2-account-and-access-changes-in-v1-2-25|2 Account
+  and Access changes in v1.2.25]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-2-account-and-access-changes-in-v1-0-5|2
   Account and Access changes in v1.0.5]]'
+- '[[Changes/OpenCode/2026-03-13-terminal-reorder-provider-list-in-providers-login|Terminal
+  Reorder provider list in providers login]]'
 source_release: '[[Releases/v0/v0-2026-03-13-2026-03-13-934442d3|v0-2026-03-13-2026-03-13-934442d3]]'
 source_type: v0_changelog
 theme: account-access
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-2-account-and-access-changes-in-v1-0-5|2 Account and Access changes in v1.0.5]]
+- Earlier: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-terminal-reorder-provider-list-in-providers-login|Terminal Reorder provider list in providers login]]
 - Later: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-ollama-can-now-be-selected-as-an-authentication-and-model-provider-during-opencl|Ollama can now be selected as an authentication and model provider during OpenClaw…]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fd0c593f4c3d8ff1831f14390cc796737af2317bd18847b26ef838523892f026
+machine_hash: d6b8bc696ad933c3e94da91a132fcfd8050d6f7947b5f52aab06bc691bca5ed7
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -42,10 +42,10 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-2-model-support-changes-in-v1-0-56|2 Model
-  Support changes in v1.0.56]]'
 - '[[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto
   mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]'
+- '[[Changes/OpenCode/2026-05-30-core-gateway-anthropic-opus-4-7-adaptive-reasoning-now-keeps-summarized-thinking|Core
+  Gateway Anthropic Opus 4.7+ adaptive reasoning now keeps summarized thinking…]]'
 - '[[Changes/Codex CLI/2026-06-01-5-model-support-changes-in-rust-v0-136-0|5 Model
   Support changes in rust-v0.136.0]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-06-01-2026-06-01-63e7e167|elevenlabs-2026-06-01-2026-06-01-63e7e167]]'

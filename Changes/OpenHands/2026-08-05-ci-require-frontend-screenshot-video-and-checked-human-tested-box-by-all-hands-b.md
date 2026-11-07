@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 464b177b75bcadfc6b8d9e5d6691f5196c9e4693df0754c11479db3376642686
+machine_hash: 4047ea880d98439f5f01d67d6380e0f77869d3b74ddb981313dec5020966a30f
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 'ci: require frontend screenshot/video and checked human-tested box'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-03-gemma-4-12b-https-ollama-com-library-gemma4-12b-high-performance-multimodal-inte|Gemma
-  4 12B((source link)]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear
-  queued tool images when vision is disabled]]'
+- '[[Changes/Runway/2026-07-14-aleph-2-0-is-now-available-through-the-runway-mcp-ask-your-agent-to-edit-videos|Aleph
+  2.0 in MCP]]'
 - "[[Changes/Open WebUI/2026-07-27-media-types-an-extraction-engine-may-handle-administrators-can-now-list-which-im|\U0001F5BC️
   Media types an extraction engine may handle. Administrators can now list…]]"
+- '[[Changes/Runway/2026-07-28-pass-in-any-video-with-a-text-prompt-describing-an-entity-to-cut-it-out-as-a-tra|SAM3
+  Video Segmentation]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834|openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834]]'
 source_type: github_releases
 theme: multimodal
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-media-types-an-extraction-engine-may-handle-administrators-can-now-list-which-im|🖼️ Media types an extraction engine may handle. Administrators can now list…]]
+- Earlier: 2026-07-28 · Runway · [[Changes/Runway/2026-07-28-pass-in-any-video-with-a-text-prompt-describing-an-entity-to-cut-it-out-as-a-tra|SAM3 Video Segmentation]]
 - Later: 2026-08-10 · Ollama · [[Changes/Ollama/2026-08-10-ollama-s-mlx-engine-provides-state-of-the-art-performance-on-apple-silicon-for-t|Ollama's MLX engine provides state-of-the-art performance on Apple Silicon…]]
 <!-- chronolog:end -->
 

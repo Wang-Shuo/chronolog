@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dbc281e854f08f6bcf231eabdac635504b948016d47785f799bf2a1f00d60dea
+machine_hash: 96f532c7454c8a27f95392731be57cc27045bd6f52198f0b74e2892a1248cb5d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on Cursor Prediction with a new UI]]
-- Later: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience changes in 0.6.12]]
+- Later: 2024-06-18 · Gamma · [[Changes/Gamma/2024-06-18-want-your-ai-images-to-have-a-consistent-look-and-feel-you-can-now-add-and-edit|AI image style keywords are now editable in the theme editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

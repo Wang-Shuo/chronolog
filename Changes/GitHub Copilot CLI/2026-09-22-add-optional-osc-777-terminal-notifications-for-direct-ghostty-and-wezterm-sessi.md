@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 610dbc9a6de680d3ec49597171cc29493f14384772f02bd04eacc28e7200e712
+machine_hash: ae661b2f94aa29deeeb4b0ad412c9a2671eb728ce0090cbc5eb59f2184cb4cff
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-22-developer-workflow-changes-in-rust-v0-156-0|22 Developer Workflow changes in rust-v0.156.0]]
-- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-7-developer-workflow-changes-in-v2-1-281|7 Developer Workflow changes in v2.1.281]]
+- Later: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-added-a-windows-subsystem-for-linux-wsl-section-to-application-settings-on-windo|Added a Windows Subsystem for Linux (WSL) section to Application Settings…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 8c3924e0ba6157d29133ed033760892d66d7c59512665f291f941f789e7027d3
+machine_hash: a5e178a284aadb31699ab886224ba36c0752777a92040502d9835f600f73be55
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,9 +46,9 @@ record:
     rules
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-11-2-safety-and-privacy-changes-in-v2-1-207|2 Safety
-  and Privacy changes in v2.1.207]]'
 - '[[Changes/Lovable/2026-07-13-redesigned-settings|Redesigned settings]]'
+- '[[Changes/OpenClaw/2026-07-13-59-safety-and-privacy-changes-in-v2026-7-1|59 Safety
+  and Privacy changes in v2026.7.1]]'
 - '[[Changes/Claude Code/2026-07-14-3-safety-and-privacy-changes-in-v2-1-210|3 Safety
   and Privacy changes in v2.1.210]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-safety-and-privacy-changes-in-v2-1-210|3 Safety and Privacy changes in v2.1.210]]
-- Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-2-safety-and-privacy-changes-in-v2-1-211|2 Safety and Privacy changes in v2.1.211]]
+- Later: 2026-07-14 · OpenCode · [[Changes/OpenCode/2026-07-14-desktop-kept-permission-auto-accept-state-separate-for-each-server|Desktop Kept permission auto-accept state separate for each server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

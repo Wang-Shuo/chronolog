@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b58495c3f2476875b8a0e044efc81d7912685a8807e01f81b9c8e421dc1d46e8
+machine_hash: 41a8882d9e97342932ddb560636a890bd062782743d1fc46fb1e026bfd479e01
 product: replit
 product_name: Replit
 record:
@@ -55,8 +55,8 @@ record:
   title: Work across projects from a chat
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-08-ollama-launch-claude-uses-the-model-s-full-context-length-by-jberg5-in-https-git|ollama
-  launch claude uses the model''s full context length]]'
+- '[[Changes/OpenClaw/2026-10-08-model-retries-and-context-one-shot-model-requests-through-the-gateway-retain-the|Model
+  retries and context]]'
 - '[[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context
   Window changes in v2.1.296]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-09-context-now-applies-to-new-and-resumed-acp-sessions-instead-of-silently-using-th|--context

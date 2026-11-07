@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: be617c16e4c625cc2b6b39eb897ab10ddf5530bdeb5e7294a790b857fd6e32e8
+machine_hash: 1715d7137244920f9867a780e000c34038476535ef4dc4a44f33e147c4a21486
 product: v0
 product_name: v0
 record:
@@ -44,12 +44,12 @@ record:
   title: Added support for Nuxt and additional frameworks in Git imports
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-07-add-changelog-command-to-view-release-notes|Add
-  /changelog command to view release notes]]'
-- '[[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved
-  heredoc delimiter parsing to prevent command smuggling]]'
 - '[[Changes/Gemini CLI/2026-02-10-6-developer-workflow-changes-in-v0-28-0|6 Developer
   Workflow changes in v0.28.0]]'
+- '[[Changes/OpenCode/2026-02-10-13-developer-workflow-changes-in-v1-1-54|13 Developer
+  Workflow changes in v1.1.54]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-disable-terminal-transparency|Desktop Disable
+  terminal transparency]]'
 source_release: '[[Releases/v0/v0-2026-02-10-2026-02-10-f68cbb6a|v0-2026-02-10-2026-02-10-f68cbb6a]]'
 source_type: v0_changelog
 theme: developer-workflow
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-6-developer-workflow-changes-in-v0-28-0|6 Developer Workflow changes in v0.28.0]]
+- Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-desktop-disable-terminal-transparency|Desktop Disable terminal transparency]]
 - Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-9-developer-workflow-changes-in-rust-v0-99-0|9 Developer Workflow changes in rust-v0.99.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa90ca2acf4c5741950b4a3b70f72854a63e4c4f3cad552c348124180e5330be
+machine_hash: 5cf77c9e3a79c68954d0df73e92a768a02be1dc0460977cedc2a9a5d44057fd1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.389
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification questions from the agent]]
-- Later: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]]
+- Later: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-mark-subagent-sessions-as-agent-initiated-to-exclude-them-from-quota-limits|Mark subagent sessions as agent-initiated to exclude them from quota limits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

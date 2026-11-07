@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04a9985d14e65d569a7e3ccd9e36b331b1f2306c4c4c1f74bc384163cea0c8b4
+machine_hash: 4ea67c06e46ac85c5f46151de0be3d91449b6ca653444a6aa4f578c6cfe9080c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-interface-experience-changes-in-rust-v0-81-0|2 Interface Experience changes in rust-v0.81.0]]
-- Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2 Interface Experience changes in CLI Agent Modes and Cloud Handoff]]
+- Later: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-5-interface-experience-changes-in-v1-1-23|5 Interface Experience changes in v1.1.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

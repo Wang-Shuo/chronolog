@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f568bb1c0f0e4d00f140a5fb00849c169cc7bc2c9dcf382cfb79bc75bdd446cd
+machine_hash: 3a583f7174887ae0d70a5695f202aa48615df93122eb8c2dcbe83177249257cc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.80.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-07-allow-global-exec-flags-model-json-sandbox-toggles-etc-to-be-passed-after-codex|Allow
-  global exec flags (model/json/sandbox toggles, etc.) to be passed after…]]'
+- '[[Changes/OpenCode/2026-01-08-2-safety-and-privacy-changes-in-v1-1-7|2 Safety and
+  Privacy changes in v1.1.7]]'
 - '[[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-2|2 Safety
   and Privacy changes in v2.1.2]]'
 - '[[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-3|2 Safety

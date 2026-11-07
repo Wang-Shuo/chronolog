@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6eebac8dd50109b092dd21897e9c70363c68a54bc8701de8aadd222b1f908ac1
+machine_hash: 3aa33639606d2ede63dd1374619af857523e31d8ed6270d83a1cf1eb94595561
 product: cline
 product_name: Cline
 record:
@@ -46,11 +46,12 @@ record:
   title: Added experimental support for Background Edits…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-27-tab-fixes-and-improvements|Tab fixes and improvements]]'
-- '[[Changes/GitHub Copilot CLI/2025-12-30-tab-completion-for-path-arguments-in-slash-commands-like-cwd-and-add-dir|Tab
-  completion for path arguments in slash commands like /cwd and /add-dir]]'
 - '[[Changes/OpenHands/2025-12-30-added-refresh-button-to-the-changes-tab-by-hieptl-in-https-github-com-openhands|Added
   refresh button to the Changes tab]]'
+- '[[Changes/OpenCode/2026-01-04-2-editor-experience-changes-in-v1-1-1|2 Editor Experience
+  changes in v1.1.1]]'
+- '[[Changes/OpenCode/2026-01-05-terminal-expand-directory-on-tab-select-on-enter-in-tui-autocomplete|Terminal
+  Expand directory on Tab, select on Enter in TUI autocomplete]]'
 source_release: '[[Releases/Cline/cline-2026-01-06-v3-47-0-github-274645512-af25fb1a|cline-2026-01-06-v3-47-0-github-274645512-af25fb1a]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-30 · OpenHands · [[Changes/OpenHands/2025-12-30-added-refresh-button-to-the-changes-tab-by-hieptl-in-https-github-com-openhands|Added refresh button to the Changes tab]]
+- Earlier: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-terminal-expand-directory-on-tab-select-on-enter-in-tui-autocomplete|Terminal Expand directory on Tab, select on Enter in TUI autocomplete]]
 - Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-3-editor-experience-changes-in-rust-v0-78-0|3 Editor Experience changes in rust-v0.78.0]]
 <!-- chronolog:end -->
 

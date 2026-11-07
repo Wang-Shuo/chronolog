@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5562381b8a90df4dffcb170ed719440bf6f4a7b0e9038e35cb4c3d448852dd79
+machine_hash: 5960bce07621107afac76f45e144f7e9eebfcf06237043dad1ac51e59f84db1d
 product: v0
 product_name: v0
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved chat performance and responsiveness
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-sessions-with-large-conversation-history-load-faster-on-startup|Sessions
-  with large conversation history load faster on startup]]'
 - '[[Changes/Windsurf/2026-01-13-2-reliability-and-performance-changes-in-v1-13-6|2
   Reliability and Performance changes in v1.13.6]]'
 - '[[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved
   typing responsiveness by reducing memory allocation overhead in terminal…]]'
+- '[[Changes/OpenCode/2026-01-14-terminal-track-all-timeouts-in-footer-component-to-prevent-memory-leaks|Terminal
+  Track all timeouts in Footer component to prevent memory leaks]]'
 source_release: '[[Releases/v0/v0-2026-01-14-2026-01-14-cce49812|v0-2026-01-14-2026-01-14-cce49812]]'
 source_type: v0_changelog
 theme: reliability-performance

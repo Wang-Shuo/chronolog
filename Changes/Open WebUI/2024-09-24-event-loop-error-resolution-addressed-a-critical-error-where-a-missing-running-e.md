@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e84beb391a01d69565000b93f18c884e296475627015a8c7a3b98b40bbbe3236
+machine_hash: e595bbb11cf9440b5c39cbffb3bcd5d195b792178b9d1c4696eee721dd31aa45
 product: open-webui
 product_name: Open WebUI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-2-reliability-and-performance-changes-in-v0-3-24|2 Reliability and Performance changes in v0.3.24]]
-- Later: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-2-reliability-and-performance-changes-in-0-9-1|2 Reliability and Performance changes in 0.9.1]]
+- Later: 2024-09-27 · Runway · [[Changes/Runway/2024-09-27-edit-generations-by-trimming-reversing-and-adjusting-video-speed|Generative Video time editing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

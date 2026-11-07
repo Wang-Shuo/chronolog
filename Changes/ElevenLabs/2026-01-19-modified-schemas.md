@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fb82f99c7813f41c22faba6e63c4cd42c9c6365cc623b3821c6d5b9e383cc429
+machine_hash: 95def109aef028b35979d100027f100d70770a5a121b4a2f136bebeb278587b4
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,12 +50,12 @@ record:
   title: Modified Schemas
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-16-accepting-an-mcp-elicitation-now-sends-an-empty-json-payload-instead-of-null-to|Accepting
-  an MCP elicitation now sends an empty JSON payload instead of null…]]'
-- '[[Changes/Codex CLI/2026-01-16-3-apps-and-integrations-changes-in-rust-v0-87-0|3
-  Apps and Integrations changes in rust-v0.87.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-16-mcp-servers-now-start-correctly-for-custom-agents|MCP
   servers now start correctly for custom agents]]'
+- '[[Changes/OpenCode/2026-01-16-core-reinstall-plugins-when-cache-module-is-missing|Core
+  Reinstall plugins when cache module is missing]]'
+- '[[Changes/OpenCode/2026-01-16-3-apps-and-integrations-changes-in-v1-1-24|3 Apps
+  and Integrations changes in v1.1.24]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-01-19-2026-01-19-0e264fd7|elevenlabs-2026-01-19-2026-01-19-0e264fd7]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-mcp-servers-now-start-correctly-for-custom-agents|MCP servers now start correctly for custom agents]]
-- Later: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps and Integrations changes in v2.1.14]]
+- Earlier: 2026-01-16 · OpenCode · [[Changes/OpenCode/2026-01-16-3-apps-and-integrations-changes-in-v1-1-24|3 Apps and Integrations changes in v1.1.24]]
+- Later: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-extensions-add-use-github-token-to-example|Extensions Add use_github_token to example]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

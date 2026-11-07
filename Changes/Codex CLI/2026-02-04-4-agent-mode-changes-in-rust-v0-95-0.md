@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cc74c8c617aa502abd4e5b3b23c363a76eb20a73b0ff2383d915997526e7af57
+machine_hash: d68f91d72515d2a717c99bdb74debd291c75983ca0d922f3edb7a0aeed4b3af1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Agent Mode changes in rust-v0.95.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-03-4-agent-mode-changes-in-v0-0-402|4 Agent
-  Mode changes in v0.0.402]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-support-agents-skills-directory-for-auto-loading-skills|Support
   .agents/skills directory for auto-loading skills]]'
 - '[[Changes/Ollama/2026-02-03-ollama-launch-will-now-work-run-subagents-when-using-ollama-launch-claude|ollama
   launch will now work run subagents when using ollama launch claude]]'
+- '[[Changes/OpenCode/2026-02-03-4-agent-mode-changes-in-v1-1-49|4 Agent Mode changes
+  in v1.1.49]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b|codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b]]'
 source_type: github_releases
 theme: agent-mode
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.95.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-03 · Ollama · [[Changes/Ollama/2026-02-03-ollama-launch-will-now-work-run-subagents-when-using-ollama-launch-claude|ollama launch will now work run subagents when using ollama launch claude]]
+- Earlier: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-4-agent-mode-changes-in-v1-1-49|4 Agent Mode changes in v1.1.49]]
 - Later: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-15-agent-mode-changes-in-v0-27-0|15 Agent Mode changes in v0.27.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4882ca71f1fbdd923b8c122af748565ad37cf1bea9eae4a2cbf90acb5428722d
+machine_hash: 7a15c0ba48368182f372683c518ecc027069ef6bdf9e4e73575eb8a7ff6a6250
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
     tools…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-03-5-model-support-changes-in-1-12-0|5 Model Support changes
-  in 1.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-improve-handling-of-chat-history-when-switching-between-model-families|Improve
   handling of chat history when switching between model families]]'
+- '[[Changes/OpenCode/2026-02-03-5-model-support-changes-in-v1-1-49|5 Model Support
+  changes in v1.1.49]]'
 - '[[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan
   10, 2026: We lowered the Standard and Light thinking time as we observed users…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'

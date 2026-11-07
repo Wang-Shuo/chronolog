@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 60d9554f9532a611ddee1e191a6032d44ead945fe07636f63c2fd1f4bbe888e7
+machine_hash: aaa12c7d70c9d5a919cfea5891faf9932223b8f95056c1b90b62fd3d745ec10e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,12 +52,12 @@ record:
   title: 2 Mobile and Desktop changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-16-fixed-macos-cross-compiles-so-they-no-longer-trigger-generate-which-was-breaking|Fixed
-  macOS cross-compiles so they no longer trigger generate…]]'
-- '[[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage
-  now works from Remote Control (mobile/web) clients]]'
+- '[[Changes/OpenCode/2026-04-17-4-mobile-and-desktop-changes-in-v1-4-8|4 Mobile and
+  Desktop changes in v1.4.8]]'
 - '[[Changes/Codex CLI/2026-04-20-2-mobile-and-desktop-changes-in-rust-v0-122-0|2
   Mobile and Desktop changes in rust-v0.122.0]]'
+- '[[Changes/OpenCode/2026-04-20-2-mobile-and-desktop-changes-in-v1-14-19|2 Mobile
+  and Desktop changes in v1.14.19]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a|open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -107,8 +107,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-2-mobile-and-desktop-changes-in-rust-v0-122-0|2 Mobile and Desktop changes in rust-v0.122.0]]
-- Later: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-fixed-model-picker-showing-stale-model-after-switching-chats-in-the-macos-app|Fixed model picker showing stale model after switching chats in the macOS app]]
+- Earlier: 2026-04-20 · OpenCode · [[Changes/OpenCode/2026-04-20-2-mobile-and-desktop-changes-in-v1-14-19|2 Mobile and Desktop changes in v1.14.19]]
+- Later: 2026-04-21 · OpenCode · [[Changes/OpenCode/2026-04-21-3-mobile-and-desktop-changes-in-v1-14-20|3 Mobile and Desktop changes in v1.14.20]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

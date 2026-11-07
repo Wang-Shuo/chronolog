@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 8ac08d0dcd25264e5d0fed9de231c9d890cf7b9da2807aab33cd452b7d95cfce
+machine_hash: 8c96f077acb7e2942d2e8f9e20fa25e3bc5baac9fdedbbc1e13545b17bb4abef
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,12 +68,12 @@ record:
   title: Rolling out age prediction
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-16-translategemma-https-ollama-com-library-translategemma-a-new-collection-of-open|TranslateGemma((source
-  link) A new collection…]]'
 - '[[Changes/Windsurf/2026-01-16-improvements-to-gpt-5-2-codex-harness|Improvements
   to GPT-5.2-Codex harness]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-model-switching-from-codex-to-opus-preserves-conversation-history-correctly|Model
   switching from Codex to Opus preserves conversation history correctly]]'
+- '[[Changes/OpenCode/2026-01-19-4-model-support-changes-in-v1-1-26|4 Model Support
+  changes in v1.1.26]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-20-rolling-out-age-prediction-2382655a|chatgpt-2026-01-20-rolling-out-age-prediction-2382655a]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-model-switching-from-codex-to-opus-preserves-conversation-history-correctly|Model switching from Codex to Opus preserves conversation history correctly]]
+- Earlier: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-4-model-support-changes-in-v1-1-26|4 Model Support changes in v1.1.26]]
 - Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-5-model-support-changes-in-rust-v0-88-0|5 Model Support changes in rust-v0.88.0]]
 <!-- chronolog:end -->
 

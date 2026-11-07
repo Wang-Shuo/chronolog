@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e2a2683179e5b5363cc16dbf510ae20b53a1e5b8735f10a01de3a4f23f467a7
+machine_hash: 4eb7896e1bdca0bbde7ed7963d1ec5378b590a6980d286709d876dd61780a715
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Improve color contrast across CLI themes for better readability and accessibility
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-improve-quick-help-accessibility-screen-reader-friendly-tab-labels-reordered-lay|Improve
-  quick help accessibility]]'
-- '[[Changes/Open WebUI/2026-02-23-ui-accessibility-improvements-screen-reader-users-can-now-navigate-the-interface|♿
-  UI accessibility improvements. Screen reader users can now navigate…]]'
+- '[[Changes/OpenCode/2026-03-03-desktop-synchronize-internationalization-translations|Desktop
+  Synchronize internationalization translations]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-09-table-disables-borders-in-screen-reader-mode-to-prevent-announcing-decorative-ch|Table
   disables borders in screen reader mode to prevent announcing decorative characters]]'
+- '[[Changes/OpenCode/2026-03-13-desktop-synchronize-internationalization-translations|Desktop
+  Synchronize internationalization translations]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-17-v1-0-7-github-298086450-3846932e|github-copilot-cli-2026-03-17-v1-0-7-github-298086450-3846932e]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-table-disables-borders-in-screen-reader-mode-to-prevent-announcing-decorative-ch|Table disables borders in screen reader mode to prevent announcing decorative characters]]
+- Earlier: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-desktop-synchronize-internationalization-translations|Desktop Synchronize internationalization translations]]
 - Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-accessibility-and-localization-changes-in-1-14-0|2 Accessibility and Localization changes in 1.14.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44b78a968727e59734b66c74c7158e570c84d6e378c398c4052beb344dd5474c
+machine_hash: f2a645523499cdcc875960f42ee362b31f6b8793e88d4893478fa8df2bf9219b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,7 @@ record:
   title: 3 Agent Mode changes in v2.1.98
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-spinner-stays-active-until-background-agents-and-shell-commands-finish-and-user|Spinner
-  stays active until background agents and shell commands finish, and user…]]'
+- '[[Changes/Google Antigravity/2026-04-07-agent-permissions|Agent Permissions]]'
 - '[[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes
   in v2.1.97]]'
 - '[[Changes/Gemini CLI/2026-04-08-11-agent-mode-changes-in-v0-37-0|11 Agent Mode

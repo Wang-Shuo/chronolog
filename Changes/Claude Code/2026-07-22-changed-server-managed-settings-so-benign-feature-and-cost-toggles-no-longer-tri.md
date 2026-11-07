@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 493a6600ffbde00294cc21023a59ff4bad4f6bc38c5e0f266d3b6738c5fe73c1
+machine_hash: e5e42c0059a1d4f7545cd628c7fce07978ee87383f35e4202ff2deb15ba55a05
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     trigger…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing
-  Model changes in v1.0.71]]'
-- '[[Changes/Dify/2026-07-17-5-pricing-model-changes-in-1-16-0|5 Pricing Model changes
-  in 1.16.0]]'
+- '[[Changes/Runway/2026-07-21-configure-allow-deny-lists-cost-caps-and-optimization-preferences-for-cost-laten|Model
+  Routers]]'
+- '[[Changes/Runway/2026-07-21-nano-banana-2-lite-is-now-available-through-runway-mcp-it-s-the-fastest-and-most|Nano
+  Banana 2 Lite]]'
 - '[[Changes/v0/2026-07-21-canceled-plans-show-the-subscription-end-date-in-the-credit-balance-and-checkout|Canceled
   plans show the subscription end date in the credit balance, and checkout…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'

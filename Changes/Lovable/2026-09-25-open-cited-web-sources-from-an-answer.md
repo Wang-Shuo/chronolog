@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ef70e91d3e2dfe9a3fde0c85de5c913bc7580753ff49cb35fa55f5f8aee31c54
+machine_hash: 031c4f6b193803d7a854cc20a741e0c3b22346fd4352e903993161820b9fd603
 product: lovable
 product_name: Lovable
 record:
@@ -49,12 +49,11 @@ record:
   title: Open cited web sources from an answer
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode
-  Changed "Open in New Tab" to open Claude beside the editor group you…]]'
-- '[[Changes/Codex CLI/2026-09-22-6-editor-experience-changes-in-rust-v0-156-0|6 Editor
-  Experience changes in rust-v0.156.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In
-  the Sessions tab, rows you can dismiss now take x then x again to confirm]]'
+- '[[Changes/OpenClaw/2026-09-23-15-editor-experience-changes-in-v2026-9-6|15 Editor
+  Experience changes in v2026.9.6]]'
+- '[[Changes/Runway/2026-09-23-runway-is-now-available-directly-inside-davinci-resolve-bring-runway-s-tools-int|DaVinci
+  Resolve Plugin]]'
+- '[[Changes/Midjourney/2026-09-24-editing|EDITING]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-25-2026-09-25-5a45f4f9|lovable-2026-09-25-2026-09-25-5a45f4f9]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In the Sessions tab, rows you can dismiss now take x then x again to confirm]]
+- Earlier: 2026-09-24 · Midjourney · [[Changes/Midjourney/2026-09-24-editing|EDITING]]
 - Later: 2026-09-28 · ChatGPT · [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore your health data with personalized summaries]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc4714d8776c623e4b79d270492b710d78647024cf1cac4c786eefd4ad609477
+machine_hash: c0db3017f1bcba46b9b01b5a7f2631f45b58a7213163cb2aab57d50faf80481a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Reduce memory usage from encoding streaming chunks
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-12-16-reliability-and-performance-changes-in-v0-8-0|16
-  Reliability and Performance changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-12-desktop-add-diff-virtualization-to-improve-performance-for-large-diffs|Desktop
+  Add diff virtualization to improve performance for large diffs]]'
 - '[[Changes/Windsurf/2026-02-12-addressed-multiple-memory-leaks|Addressed multiple
   memory leaks]]'
 - '[[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance

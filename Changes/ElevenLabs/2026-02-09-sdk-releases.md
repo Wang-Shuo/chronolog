@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: dc521a8e0d1edeb7c4df9f425ca92d6ae84ae306ba199ad9d2e58b536ec0cbf8
+machine_hash: 7b6d303d360c01524ef5104a0674fd17ad7bd61ef28024eb504775ea9a719dcf
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,8 +41,8 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-02-05-custom-mcp-servers-on-all-paid-plans|Custom MCP servers
-  on all paid plans]]'
+- '[[Changes/OpenCode/2026-02-05-2-apps-and-integrations-changes-in-v1-1-53|2 Apps
+  and Integrations changes in v1.1.53]]'
 - '[[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added
   plugin name to skill descriptions and /skills menu for better discoverability]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-07-4-apps-and-integrations-changes-in-v0-0-406|4

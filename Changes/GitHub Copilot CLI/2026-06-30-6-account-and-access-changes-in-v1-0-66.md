@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f8539168dca1ecc3dbe53ded1896567f0acea2114bd94641ff99d5db80790433
+machine_hash: d85ec347d6a763b2216c10786e2b6286b1fcd0daa453c5f1ac641249cffaf57b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -120,7 +120,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.66
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-mcp-oauth-against-microsoft-entra-servers-behind-a-tenant-vanity-domain-e-g-copi|MCP OAuth against Microsoft Entra servers behind a tenant vanity domain…]]
-- Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login now opens the sign-in dialog from the claude agents view instead…]]
+- Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-2-account-and-access-changes-in-v2026-6-11|2 Account and Access changes in v2026.6.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

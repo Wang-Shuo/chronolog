@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e60c18c0890739f5589caaebb413a6e42b04e4e83f01328fcab91c0c4547bfb0
+machine_hash: c906b10c06f45944e0d7ced38714d51c7ea007eca3ce579dc1cfb33fd0de43b3
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,8 +62,8 @@ record:
     override…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-7-model-support-changes-in-v0-35-0|7 Model Support
-  changes in v0.35.0]]'
+- '[[Changes/Google Antigravity/2026-03-25-added-support-for-reading-rules-from-agents-md-in-addition-to-gemini-md|Added
+  support for reading rules from AGENTS.md in addition to GEMINI.md]]'
 - '[[Changes/Ollama/2026-03-25-if-you-have-ollama-installed-any-local-or-cloud-model-from-ollama-can-be-selecte|If
   you have Ollama installed, any local or cloud model from Ollama can be selected…]]'
 - '[[Changes/Open WebUI/2026-03-25-23-model-support-changes-in-v0-8-11|23 Model Support

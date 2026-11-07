@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 778341d02cabc42274676328924b1b07f8580c0ebe2a07fcfb003faf692e2d54
+machine_hash: b7c907c21e98fbf95c489dc00f60def90f8e30231131d8aa955f5fcf50d8909e
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Added `terminalSequence` field to hook JSON output so hooks can emit desktop…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-11-2-developer-workflow-changes-in-v1-0-45|2
-  Developer Workflow changes in v1.0.45]]'
+- '[[Changes/OpenCode/2026-05-11-terminal-file-and-directory-paths-now-render-relative-to-the-session-directory-w|Terminal
+  File and directory paths now render relative to the session directory…]]'
 - '[[Changes/Gemini CLI/2026-05-12-2-developer-workflow-changes-in-v0-42-0|2 Developer
   Workflow changes in v0.42.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-12-long-lines-in-diff-view-wrap-at-terminal-width-instead-of-being-truncated|Long

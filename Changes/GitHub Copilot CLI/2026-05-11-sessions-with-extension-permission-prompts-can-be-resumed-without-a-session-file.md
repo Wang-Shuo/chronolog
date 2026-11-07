@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 710957a4add135eafdb83febe68de110d4eab1be33be6ab466bcd3f7af680c0d
+machine_hash: 5adc0572f17dc0cc9a61db133ef70947a07998fad4d7ca2dd5eb76829e102996
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: Sessions with extension permission prompts can be resumed without…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-09-3-safety-and-privacy-changes-in-v0-9-3|3 Safety
-  and Privacy changes in v0.9.3]]'
 - '[[Changes/Open WebUI/2026-05-10-6-safety-and-privacy-changes-in-v0-9-5|6 Safety
   and Privacy changes in v0.9.5]]'
+- '[[Changes/OpenCode/2026-05-10-core-read-tool-permission-rules-now-match-worktree-relative-paths-so-read-allowl|Core
+  Read tool permission rules now match worktree-relative paths, so read…]]'
 - '[[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed
   Skill(name ) permission rules]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-11-v1-0-45-github-320681555-97d8cd0a|github-copilot-cli-2026-05-11-v1-0-45-github-320681555-97d8cd0a]]'

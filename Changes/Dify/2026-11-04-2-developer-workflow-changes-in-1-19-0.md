@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bdee4a4172a7f84702e4c49bd9ab7b66865b0ee51185ec32713380319d4b4297
+machine_hash: 3d7c227f06f736bc4acfa302b360e5e68242b082dc4ccc5974d399e069c17bc8
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Developer Workflow changes in 1.19.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-4-developer-workflow-changes-in-v2-1-314|4 Developer
-  Workflow changes in v2.1.314]]'
 - '[[Changes/Claude Code/2026-10-31-2-developer-workflow-changes-in-v2-1-316|2 Developer
   Workflow changes in v2.1.316]]'
 - '[[Changes/Open WebUI/2026-11-03-15-developer-workflow-changes-in-v0-13-0|15 Developer
   Workflow changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-18-developer-workflow-changes-in-v2026-10-10|18 Developer
+  Workflow changes in v2026.10.10]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'
 source_type: github_releases
 theme: developer-workflow
@@ -98,8 +98,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-15-developer-workflow-changes-in-v0-13-0|15 Developer Workflow changes in v0.13.0]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-6-developer-workflow-changes-in-rust-v0-167-0|6 Developer Workflow changes in rust-v0.167.0]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-18-developer-workflow-changes-in-v2026-10-10|18 Developer Workflow changes in v2026.10.10]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-3-developer-workflow-changes-in-v2026-11-1|3 Developer Workflow changes in v2026.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

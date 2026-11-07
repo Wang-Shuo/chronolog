@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 260515eb1ea42dde6a94560a0f9c437655562d871005e77b36ea7f723681089d
+machine_hash: 76ea16ec0ad52d79ef2110fe7763f74a461a7972f1dbe0546a82f765a9b8412a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Context Window changes in v0.35.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-19-respect-user-configured-context-window-in-litellm-getmodel|Respect
-  user-configured context window in LiteLLM getModel()]]'
 - '[[Changes/Codex CLI/2026-03-19-14829-stack-3-4-add-current-thread-context-to-realtime-startup-aibrahim-oai|♯14829
   stack 3/4 Add current thread context to realtime startup @aibrahim-oai]]'
 - '[[Changes/Claude Code/2026-03-20-changed-plan-mode-to-hide-the-clear-context-option-by-default-restore-with-showc|Changed
   plan mode to hide the "clear context" option by default…]]'
+- '[[Changes/OpenCode/2026-03-22-2-context-window-changes-in-v1-3-0|2 Context Window
+  changes in v1.3.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621|gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621]]'
 source_type: github_releases
 theme: context-window
@@ -94,7 +94,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-changed-plan-mode-to-hide-the-clear-context-option-by-default-restore-with-showc|Changed plan mode to hide the "clear context" option by default…]]
+- Earlier: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-2-context-window-changes-in-v1-3-0|2 Context Window changes in v1.3.0]]
 - Later: 2026-03-25 · ChatGPT · [[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Large pastes are now handled as attachments]]
 <!-- chronolog:end -->
 

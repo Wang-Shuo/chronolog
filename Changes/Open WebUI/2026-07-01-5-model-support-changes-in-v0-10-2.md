@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab8a9ad8d344582820841c2cc436a2446995b28a229bac32de84268a4a2be053
+machine_hash: d0f61b80a18ea5f6a3ab0841f510e564436aa46141d61dd5a4bb1096df503ea5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -119,7 +119,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.2
 ## Nearby in Model Support
 
 - Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add support for the kimi-k2.7-code model]]
-- Later: 2026-07-02 · Cline · [[Changes/Cline/2026-07-02-generalize-the-model-capability-warning-so-it-applies-more-broadly|Generalize the model capability warning so it applies more broadly]]
+- Later: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-core-force-reasoning-mode-for-openai-compatible-reasoning-models-so-reasoning-se|Core Force reasoning mode for OpenAI-compatible reasoning models so reasoning…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

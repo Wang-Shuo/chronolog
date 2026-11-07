@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d2001a4c8bdb1e82349d129f7f17bf9dd48504e09b6898251c9bb8e3d04f9554
+machine_hash: 4ffe6e1bd9148bf407253e4ce8522cbce9656970fdeb0dc38c42ecf6c395e46a
 product: gemini
 product_name: Gemini
 record:
@@ -53,7 +53,8 @@ record:
   title: 'Revisit your conversations: You can now search your Gemini chat history'
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-08-13-introducing-temporary-chat|Introducing Temporary Chat]]'
+- '[[Changes/Midjourney/2025-08-13-we-ve-separated-out-moodboards-into-their-own-page-and-made-them-accessible-in-t|We''ve
+  separated out Moodboards into their own page and made them accessible…]]'
 - '[[Changes/Gemini CLI/2025-08-14-3-interface-experience-changes-in-v0-1-21|3 Interface
   Experience changes in v0.1.21]]'
 - '[[Changes/Codex CLI/2025-08-20-2-interface-experience-changes-in-rust-v0-23-0|2

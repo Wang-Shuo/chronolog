@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 51d9ff7138bb158f30fdbc090c1c545bd5e0f1bc8f2afeb4ccf12c5a2778a657
+machine_hash: 343bf8a6b71e74e4f90ca2de687500250e4866bb5ea407011739e13e58c9ea2d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: MCP servers respect the `cwd` working directory property
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-11-3-apps-and-integrations-changes-in-v0-0-407|3
-  Apps and Integrations changes in v0.0.407]]'
+- '[[Changes/OpenCode/2026-02-11-sdk-encode-non-ascii-directory-paths-in-v1-sdk-http-headers|SDK
+  Encode non-ASCII directory paths in v1 SDK HTTP headers]]'
 - '[[Changes/Cline/2026-02-12-2-apps-and-integrations-changes-in-v3-58-0|2 Apps and
   Integrations changes in v3.58.0]]'
 - '[[Changes/Codex CLI/2026-02-12-5-apps-and-integrations-changes-in-rust-v0-100-0|5

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5ec95d97d48a813fb29100705cead7c178e8b8d36ed8ef8856f3e0defbd55f70
+machine_hash: 071130524b869d15308bd7ef308041effe25698f1fd8b923f3c179c24ee7cd6c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 'feat: Add markdown table rendering support'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-16-conversation-panel-optimization-we-ve-fine-tuned-the-width-adjustment-logic-for|Conversation
-  Panel Optimization]]'
+- '[[Changes/Midjourney/2025-06-19-when-saving-an-video-to-share-please-right-click-your-video-and-press-save-for-s|When
+  saving an video to share, please right click your video and press…]]'
 - '[[Changes/Dify/2025-06-25-4-interface-experience-changes-in-1-5-0|4 Interface Experience
   changes in 1.5.0]]'
 - '[[Changes/Aider/2025-06-27-2-interface-experience-changes-in-v0-85-0|2 Interface

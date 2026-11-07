@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 0d9eac1c8e2ef073f81a6e0969c0348d5e084198986bc91d69a47d76e811ecec
+machine_hash: 6836d770c4ac63ad52370c02533987980208e92d2ba6d56639142a934a2d72a2
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -51,12 +51,12 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-22-2-safety-and-privacy-changes-in-rust-v0-89-0|2 Safety
-  and Privacy changes in rust-v0.89.0]]'
-- '[[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified
-  CLI permissions with the editor, including Run Everything, Auto-Run…]]'
+- '[[Changes/OpenCode/2026-01-23-core-show-file-path-in-apply-patch-request-permission-screen|Core
+  Show file path in apply_patch request permission screen]]'
 - '[[Changes/Codex CLI/2026-01-25-4-safety-and-privacy-changes-in-rust-v0-90-0|4 Safety
   and Privacy changes in rust-v0.90.0]]'
+- '[[Changes/OpenCode/2026-01-25-2-safety-and-privacy-changes-in-v1-1-35|2 Safety
+  and Privacy changes in v1.1.35]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-01-26-2026-01-26-f7dcd336|elevenlabs-2026-01-26-2026-01-26-f7dcd336]]'
 source_type: elevenlabs_changelog
 theme: safety-privacy
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-4-safety-and-privacy-changes-in-rust-v0-90-0|4 Safety and Privacy changes in rust-v0.90.0]]
+- Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-2-safety-and-privacy-changes-in-v1-1-35|2 Safety and Privacy changes in v1.1.35]]
 - Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-safety-and-privacy-changes-in-v2-1-20|2 Safety and Privacy changes in v2.1.20]]
 <!-- chronolog:end -->
 

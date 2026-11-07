@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a88469bc5d0b2a3f6be6a1acbd140558059aa9bd9e21b78ad71cef0b8e964de5
+machine_hash: b520f1aad9e7c9d1f7fc8e966c40206af2e62c926578c431da6cc718d3072c78
 product: cursor
 product_name: Cursor
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-agents-can-now-declare-initialprompt-in-frontmatter-to-auto-submit-a-first-turn|Agents can now declare initialPrompt in frontmatter to auto-submit a first turn]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-2-agent-mode-changes-in-v2-1-84|2 Agent Mode changes in v2.1.84]]
+- Later: 2026-03-25 · Google Antigravity · [[Changes/Google Antigravity/2026-03-25-various-layout-and-ux-improvements-in-the-agent-manager|Various layout and UX improvements in the agent manager]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

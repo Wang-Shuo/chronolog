@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 184f03a1f4cd6e74ef46100a99cd27c9508ac9f59686d5dc1f50144b8e74293a
+machine_hash: 56423e066568a34541f45088a638fb2e4d2d8a15df0d591679136058d6cf46ff
 product: claude
 product_name: Claude
 record:
@@ -50,12 +50,12 @@ record:
   title: HIPAA configuration for your Claude organizations is now self-serve
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-in-enterprise-workspaces-public-publishing-is-off-by-default-and-must-be-enabled|In
-  Enterprise workspaces, public publishing is off by default and must be enabled…]]'
 - '[[Changes/Lovable/2026-07-09-enterprise-member-profiles-are-now-private-by-default|Enterprise
   member profiles are now private by default]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running
   sessions refresh enterprise managed settings hourly]]'
+- '[[Changes/OpenClaw/2026-07-13-4-enterprise-and-administration-changes-in-v2026-7-1|4
+  Enterprise and Administration changes in v2026.7.1]]'
 source_release: '[[Releases/Claude/claude-2026-07-14-2026-07-14-0c63f428|claude-2026-07-14-2026-07-14-0c63f428]]'
 source_type: claude_changelog
 theme: enterprise-admin
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running sessions refresh enterprise managed settings hourly]]
+- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-4-enterprise-and-administration-changes-in-v2026-7-1|4 Enterprise and Administration changes in v2026.7.1]]
 - Later: 2026-07-14 · Lovable · [[Changes/Lovable/2026-07-14-emails-and-confirmations-for-workspace-role-and-membership-changes|Emails and confirmations for workspace role and membership changes]]
 <!-- chronolog:end -->
 

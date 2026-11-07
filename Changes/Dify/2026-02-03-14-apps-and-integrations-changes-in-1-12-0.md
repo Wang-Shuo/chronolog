@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e3bfdde44a522c10fc69a25513368931709dac51e06603c02d53fd752222d00
+machine_hash: 62b5c64f95a0d5f5166ad34b88eaf9f71e991042e7fd7fa5b27e8024b28ea108
 product: dify
 product_name: Dify
 record:
@@ -77,10 +77,9 @@ record:
   title: 14 Apps and Integrations changes in 1.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-14-apps-and-integrations-changes-in-rust-v0-93-0|14
-  Apps and Integrations changes in rust-v0.93.0]]'
 - '[[Changes/Codex CLI/2026-01-31-added-apps-to-browse-connectors-in-tui-and-insertion-for-app-prompts-9728|Added
   /apps to browse connectors in TUI and $ insertion for app prompts]]'
+- '[[Changes/OpenCode/2026-01-31-core-bump-ai-sdk-packages|Core Bump AI SDK packages]]'
 - '[[Changes/ElevenLabs/2026-02-02-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Dify/dify-2026-02-03-1-12-0-github-282591953-290f70e4|dify-2026-02-03-1-12-0-github-282591953-290f70e4]]'
 source_type: github_releases

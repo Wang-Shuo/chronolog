@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 035f2fd16452e812209046355d59d63d5b0dbfba83ccdbbe62e3f808c6f402e7
+machine_hash: 89d05a8fc31aa6d76ab82558e01f2413650ae2e03e02afa84b0d21d2b557e321
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Accessibility and Localization changes in 1.16.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run|Added
-  screen reader mode: opt-in plain-text rendering for screen reader users]]'
 - '[[Changes/Dify/2026-07-17-chore-improve-workflow-generator-accessibility-and-api-contracts-by-crazywoola-i|chore:
   Improve workflow generator accessibility and API contracts]]'
+- '[[Changes/OpenCode/2026-07-20-desktop-restore-model-variant-selection-accessibility|Desktop
+  Restore model variant selection accessibility]]'
 - '[[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added
   screen-reader announcements of deleted text for word and line deletions…]]'
 source_release: '[[Releases/Dify/dify-2026-07-28-1-16-1-github-360820489-855a9365|dify-2026-07-28-1-16-1-github-360820489-855a9365]]'
@@ -99,7 +99,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.1
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added screen-reader announcements of deleted text for word and line deletions…]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved screen reader mode]]
+- Later: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-improved-accessibility-in-the-settings-modal-with-better-heading-hierarchy-and-k|Improved accessibility in the Settings modal with better heading hierarchy…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

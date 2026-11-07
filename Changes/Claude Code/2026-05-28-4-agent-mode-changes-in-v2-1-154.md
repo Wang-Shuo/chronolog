@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7730a972102baebd96aa6e7b05e746193ed0cc53dcd6e055aba3f8f916699029
+machine_hash: 52cf60ae82bf00bee7527ba86abe4ec786ff28b85260f6a96bbe572b0251a5a5
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,9 +51,9 @@ record:
   title: 4 Agent Mode changes in v2.1.154
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-27-4-agent-mode-changes-in-v0-44-0|4 Agent Mode changes
-  in v0.44.0]]'
 - '[[Changes/Lovable/2026-05-27-subagents|Subagents]]'
+- '[[Changes/OpenCode/2026-05-27-core-experimental-background-agents-now-push-updates-without-polling|Core
+  Experimental background agents now push updates without polling]]'
 - '[[Changes/Windsurf/2026-05-27-devin-local|Devin Local]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases

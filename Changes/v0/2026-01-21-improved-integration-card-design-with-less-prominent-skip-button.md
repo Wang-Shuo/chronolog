@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 281b531aad23e57f3328ae8375d3b2dd24670e9bb59f490e7ed99addd05c4a99
+machine_hash: 6f931df52013a71b02a6e9c70b5a649af857157ef106f9b08719ce0fab73a188
 product: v0
 product_name: v0
 record:
@@ -43,8 +43,8 @@ record:
   title: Improved integration card design with less prominent skip button
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-20-enable-all-github-mcp-tools-flag-now-enables-read-write-github-mcp-tools|--enable-all-github-mcp-tools
-  flag now enables read-write GitHub MCP tools]]'
+- '[[Changes/OpenCode/2026-01-20-preserve-tool-input-from-running-state-for-mcp-tool-results|Preserve
+  tool input from running state for MCP tool results]]'
 - '[[Changes/Codex CLI/2026-01-21-3-apps-and-integrations-changes-in-rust-v0-88-0|3
   Apps and Integrations changes in rust-v0.88.0]]'
 - '[[Changes/Gemini CLI/2026-01-21-10-apps-and-integrations-changes-in-v0-25-0|10

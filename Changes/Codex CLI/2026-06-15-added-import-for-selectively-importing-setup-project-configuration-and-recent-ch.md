@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94230097ae10e582882197435f8d29fe455cfbfed0a7d1b35a5a04dbea10dfe9
+machine_hash: e2e31087a04a537ed1fa1024e6d2fa6d8eb002b1bcb8e853ff52ef8daa1ab2da
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
     recent…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added
-  footerLinksRegexes setting for regex-matched link badges in the footer row…]]'
 - '[[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added
   wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-3-interface-experience-changes-in-v1-0-62|3
   Interface Experience changes in v1.0.62]]'
+- '[[Changes/OpenCode/2026-06-13-core-fixed-duplicate-renderable-ids-that-could-break-tui-rendering|Core
+  Fixed duplicate renderable IDs that could break TUI rendering]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'
 source_type: github_releases
 theme: interface-experience
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-3-interface-experience-changes-in-v1-0-62|3 Interface Experience changes in v1.0.62]]
+- Earlier: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-core-fixed-duplicate-renderable-ids-that-could-break-tui-rendering|Core Fixed duplicate renderable IDs that could break TUI rendering]]
 - Later: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A new Scheduled page, discoverable in the sidebar, gives users one place to view…]]
 <!-- chronolog:end -->
 

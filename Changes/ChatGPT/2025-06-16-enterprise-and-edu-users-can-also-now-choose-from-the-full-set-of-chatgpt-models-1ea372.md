@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79a3109113d53a374179434a1f24db8ac680acdc08f74c94ae7bc94c5791d4dd
+machine_hash: 96fd69318330259cc185e92872f27ca8f68455cbeb668d8a6ddca6f473a6a9ec
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,13 +52,12 @@ record:
   title: Expanded Model Support for Custom GPTs
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-12-4-model-support-changes-in-v3-17-13|4 Model Support
-  changes in v3.17.13]]'
-- '[[Changes/Cursor/2025-06-12-once-connected-try-it-in-any-channel-with-cursor-and-write-a-prompt-use-the-comm|Once
-  connected, try it in any channel with @Cursor and write a prompt]]'
 - '[[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In
   some cases, a “chain of thought” reasoning will show up unexpectedly for simple
   queries]]'
+- '[[Changes/Midjourney/2025-06-13-please-note|Please Note]]'
+- '[[Changes/Midjourney/2025-06-13-these-videos-are-even-more-wonky-and-messed-up-than-the-last-bunch-it-turns-out|These
+  videos are even more wonky and messed up than the last bunch]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-16-expanded-model-support-for-custom-gpts-55f4555f]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-13 · ChatGPT · [[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In some cases, a “chain of thought” reasoning will show up unexpectedly for simple queries]]
+- Earlier: 2025-06-13 · Midjourney · [[Changes/Midjourney/2025-06-13-these-videos-are-even-more-wonky-and-messed-up-than-the-last-bunch-it-turns-out|These videos are even more wonky and messed up than the last bunch]]
 - Later: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-3-model-support-changes-in-1-4-3|3 Model Support changes in 1.4.3]]
 <!-- chronolog:end -->
 

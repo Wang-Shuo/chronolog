@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7aa99233242d8301ca8818b5ea6d77372d50162e69d0820f7e97ca248b2b01ea
+machine_hash: 81cb957cca4972f15f7229b11737f0b263d0f3e884e60cd60583411790e16d17
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,8 +56,8 @@ record:
     clearing…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-09-table-disables-borders-in-screen-reader-mode-to-prevent-announcing-decorative-ch|Table
-  disables borders in screen reader mode to prevent announcing decorative characters]]'
+- '[[Changes/OpenCode/2026-03-13-desktop-synchronize-internationalization-translations|Desktop
+  Synchronize internationalization translations]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-17-improve-color-contrast-across-cli-themes-for-better-readability-and-accessibilit|Improve
   color contrast across CLI themes for better readability and accessibility]]'
 - '[[Changes/Dify/2026-04-29-2-accessibility-and-localization-changes-in-1-14-0|2

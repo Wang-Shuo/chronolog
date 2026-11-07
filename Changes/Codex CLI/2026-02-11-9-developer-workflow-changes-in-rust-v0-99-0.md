@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f24fae00ef13663817e4f05bfbb1c0ea93444cbdae96fc36daab7517bde0f4f8
+machine_hash: 1984a93fde76ca19042caa3977580bae50eac4f91041968fd05f9c1ae1ce8506
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,10 +58,10 @@ record:
   title: 9 Developer Workflow changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved
-  heredoc delimiter parsing to prevent command smuggling]]'
-- '[[Changes/Gemini CLI/2026-02-10-6-developer-workflow-changes-in-v0-28-0|6 Developer
-  Workflow changes in v0.28.0]]'
+- '[[Changes/OpenCode/2026-02-10-13-developer-workflow-changes-in-v1-1-54|13 Developer
+  Workflow changes in v1.1.54]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-disable-terminal-transparency|Desktop Disable
+  terminal transparency]]'
 - '[[Changes/v0/2026-02-10-added-support-for-nuxt-and-additional-frameworks-in-git-imports|Added
   support for Nuxt and additional frameworks in Git imports]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'

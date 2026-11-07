@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c454a3e14638124658539026a25f1f039080fecdd8fafe423282aa17a50e0e2
+machine_hash: fd773487491a3f77dcffa84645ddfc5500048082f94b84c6b04d30ca2dd2bcaf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.2
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-2-automation-and-scheduling-changes-in-v1-16-0|2 Automation and Scheduling changes in v1.16.0]]
-- Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-41457-source-proactive-multi-agent-instructions-from-the-model-catalog-copyberry|♯41457 Source proactive multi-agent instructions from the model catalog @copyberry]]
+- Later: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-automations-and-scheduling-scheduled-work-comes-together-under-one-name-across-t|Automations and Scheduling - Scheduled work comes together under one name across…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

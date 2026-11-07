@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1551b489af3753d77f12cca415a5552b31ef9fcc094aaace7e75fe7a5def961
+machine_hash: 730c6d47317175069130b4b83a5585e7b7b6e21a390fcdf74f2f235b065be1ac
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Editor Experience changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-23-show-tab-in-settings-footer-to-switch-scope-tabs|Show
-  Tab in /settings footer to switch scope tabs]]'
 - '[[Changes/Open WebUI/2026-07-27-7-editor-experience-changes-in-v0-11-0|7 Editor
   Experience changes in v0.11.0]]'
 - '[[Changes/Dify/2026-07-28-feat-web-locate-workflow-nodes-by-node-id-in-the-workflow-editor-by-ruanimal-in|feat(web):
   locate workflow nodes by node_id in the workflow editor]]'
+- '[[Changes/Google Antigravity/2026-07-28-added-preview-temporary-tabs-to-the-auxiliary-pane-allowing-files-to-open-in-a-t|Added
+  preview (temporary) tabs to the auxiliary pane, allowing files to open…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: editor-experience
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-feat-web-locate-workflow-nodes-by-node-id-in-the-workflow-editor-by-ruanimal-in|feat(web): locate workflow nodes by node_id in the workflow editor]]
+- Earlier: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-added-preview-temporary-tabs-to-the-auxiliary-pane-allowing-files-to-open-in-a-t|Added preview (temporary) tabs to the auxiliary pane, allowing files to open…]]
 - Later: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-feat-allow-overwriting-a-secret-value-from-the-edit-form-by-hieptl-in-https-gith|feat: allow overwriting a secret value from the edit form]]
 <!-- chronolog:end -->
 

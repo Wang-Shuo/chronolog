@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e4e96b4762c783efb4998e059da9fa1c695fc810a872e2e4c529dccb7471855
+machine_hash: 36c1a64a9db5adde08e34d5e7f59e0e8c7008c5a46da0e686d111d85a116267c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in v1.0.2
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-7-developer-workflow-changes-in-rust-v0-110-0|7
-  Developer Workflow changes in rust-v0.110.0]]'
 - '[[Changes/Codex CLI/2026-03-05-13504-preserve-persisted-thread-git-info-in-resume-joeytrasatti-openai|♯13504
   Preserve persisted thread git info in resume @joeytrasatti-openai]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-3-developer-workflow-changes-in-v0-0-422|3
   Developer Workflow changes in v0.0.422]]'
+- '[[Changes/OpenCode/2026-03-05-3-developer-workflow-changes-in-v1-2-18|3 Developer
+  Workflow changes in v1.2.18]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-06-v1-0-2-github-294107102-f1013c82|github-copilot-cli-2026-03-06-v1-0-2-github-294107102-f1013c82]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +81,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-3-developer-workflow-changes-in-v0-0-422|3 Developer Workflow changes in v0.0.422]]
+- Earlier: 2026-03-05 · OpenCode · [[Changes/OpenCode/2026-03-05-3-developer-workflow-changes-in-v1-2-18|3 Developer Workflow changes in v1.2.18]]
 - Later: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-users-are-prompted-for-shell-commands-with-potentially-dangerous-expansion-or-su|Users are prompted for shell commands with potentially dangerous expansion…]]
 <!-- chronolog:end -->
 

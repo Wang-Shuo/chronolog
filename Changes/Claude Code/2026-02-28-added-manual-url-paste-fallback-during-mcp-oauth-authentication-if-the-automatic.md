@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 522bdb05fa4409e64001ffaeef697300be4614104585a6ed472a83b2b18bc840
+machine_hash: b6e1b575a3dcf4840764636c28aede1de8b61faca6351c664c3bf930ca805b35
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,8 +54,8 @@ record:
   title: Added manual URL paste fallback during MCP OAuth authentication
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-25-3-account-and-access-changes-in-rust-v0-105-0|3
-  Account and Access changes in rust-v0.105.0]]'
+- '[[Changes/OpenCode/2026-02-25-terminal-consume-stdout-concurrently-with-process-exit-in-auth-login|Terminal
+  Consume stdout concurrently with process exit in auth login]]'
 - '[[Changes/Codex CLI/2026-02-26-2-account-and-access-changes-in-rust-v0-106-0|2
   Account and Access changes in rust-v0.106.0]]'
 - '[[Changes/Gemini CLI/2026-02-27-3-account-and-access-changes-in-v0-31-0|3 Account

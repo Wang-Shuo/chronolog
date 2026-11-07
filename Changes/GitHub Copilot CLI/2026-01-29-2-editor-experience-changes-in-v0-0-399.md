@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7e4c9d35372c867747e70eb1163d9f6eab50adc032a9cc9ec4d3c3460dde0c30
+machine_hash: 73409c9d44784dd632cbfb204010754a4815a42a2a16de2cb202da853fd848db
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Editor Experience changes in v0.0.399
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|Improved
-  Claude to prefer file operation tools (Read, Edit, Write) over bash…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-directories-now-appear-in-mention-autocomplete|Directories
   now appear in @mention autocomplete]]'
+- '[[Changes/OpenCode/2026-01-28-3-editor-experience-changes-in-v1-1-37|3 Editor Experience
+  changes in v1.1.37]]'
 - '[[Changes/v0/2026-01-28-you-can-now-import-any-github-repo-into-v0-and-work-on-your-actual-codebase|Import
   any GitHub repo into v0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6|github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6]]'
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.399
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-28 · v0 · [[Changes/v0/2026-01-28-you-can-now-import-any-github-repo-into-v0-and-work-on-your-actual-codebase|Import any GitHub repo into v0]]
-- Later: 2026-01-29 · v0 · [[Changes/v0/2026-01-29-improved-preview-tab-interaction-in-the-vm-panel|Improved preview tab interaction in the VM panel]]
+- Later: 2026-01-29 · OpenCode · [[Changes/OpenCode/2026-01-29-revert-to-anthropic-completions-endpoint-to-avoid-rate-limiting-issues-with-copi|Revert to Anthropic completions endpoint to avoid rate limiting issues with copilot]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

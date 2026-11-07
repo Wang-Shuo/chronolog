@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be85c77fb85f60c2e40b0345e8380459f6a5149449a6ee6ad74c82167e76c243
+machine_hash: a79f2e73773ca2568b7c7c5e701d7011116ff35062fd8f2927e7726408f31b64
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: 'chore: Improve workflow generator accessibility and API contracts'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-better-screen-reader-labels-on-toggles-integration-and-switch-toggles-now-expose|♿
-  Better screen-reader labels on toggles. Integration and switch toggles now…]]'
 - '[[Changes/Claude Code/2026-07-03-improved-screen-reader-output-decorative-glyphs-are-now-hidden-transcript-symbol|Improved
   screen-reader output]]'
+- '[[Changes/OpenClaw/2026-07-13-10-accessibility-and-localization-changes-in-v2026-7-1|10
+  Accessibility and Localization changes in v2026.7.1]]'
 - '[[Changes/Claude Code/2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run|Added
   screen reader mode: opt-in plain-text rendering for screen reader users]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run|Added screen reader mode: opt-in plain-text rendering for screen reader users]]
-- Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added screen-reader announcements of deleted text for word and line deletions…]]
+- Later: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-desktop-restore-model-variant-selection-accessibility|Desktop Restore model variant selection accessibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

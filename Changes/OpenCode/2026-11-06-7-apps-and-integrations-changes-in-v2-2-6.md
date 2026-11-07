@@ -1,0 +1,134 @@
+---
+card_id: opencode-2026-11-06-d3fdee
+date: '2026-11-06'
+description: 'OpenCode · 2026-11-06 · Apps and Integrations: 7 changes in v2.2.6 —
+  SDK Server embedders can provide a custom fetch implementation for OpenCode HTTP,
+  model…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1324
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 29
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 35fda50c5de653500421a18d2f632da2a143dfa3e3760b0162f7cb8db98a7eeb
+product: opencode
+product_name: OpenCode
+record:
+  card_id: opencode-2026-11-06-d3fdee
+  comparison: ''
+  date: '2026-11-06'
+  description: 'OpenCode — v2.2.6: 7 Apps and Integrations changes'
+  evidence:
+  - quote: SDK Server embedders can provide a custom fetch implementation for OpenCode
+      HTTP, model, web, and remote MCP traffic.
+    source_release: https://opencode.ai/changelog/v2.2.6
+  - quote: Core Wait up to 2 seconds for MCP servers that are still connecting before
+      a model call, so tools from servers that connect quickly reach the first prompt
+      and opencode run . Also expand ~ in local MCP working directories, handle legacy
+      stdio servers, and send logo_uri during dynamic registration.
+    source_release: https://opencode.ai/changelog/v2.2.6
+  - quote: Terminal Keep focus on an open dialog when a question arrives and contain
+      plugin dialogs that throw during rendering.
+    source_release: https://opencode.ai/changelog/v2.2.6
+  - quote: Terminal Return to the /mcp list after signing in to an MCP server, with
+      that server still selected. Thanks @Tarquinen.
+    source_release: https://opencode.ai/changelog/v2.2.6
+  - quote: Desktop Fixed provider connection, MCP sign-in, settings, and plugin loading
+      flows that could become stuck after failures.
+    source_release: https://opencode.ai/changelog/v2.2.6
+  - quote: Desktop Restart plugins after failed update handoffs and recover the renderer,
+      storage, event stream, and background-service connection from transient failures.
+    source_release: https://opencode.ai/changelog/v2.2.6
+  - quote: Extensions Isolated plugin dialogs, Markdown renderers, terminal views,
+      lazy chunks, and artifact viewers so failures do not take down their host surface.
+    source_release: https://opencode.ai/changelog/v2.2.6
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: opencode
+  product_name: OpenCode
+  slug: 7-apps-and-integrations-changes-in-v2-2-6
+  source_release: opencode-2026-11-06-v2-2-6-b1ac172e
+  source_type: opencode_changelog
+  theme: apps-integrations
+  title: 7 Apps and Integrations changes in v2.2.6
+  type: change
+related_changes:
+- '[[Changes/GitHub Copilot CLI/2026-11-06-89-apps-and-integrations-changes-in-v1-0-106|89
+  Apps and Integrations changes in v1.0.106]]'
+- '[[Changes/OpenCode/2026-11-06-shared-mcp-connections|Shared MCP Connections]]'
+- '[[Changes/OpenCode/2026-11-06-gui-plugin-themes-and-new-slots|GUI Plugin Themes
+  and New Slots]]'
+source_release: '[[Releases/OpenCode/opencode-2026-11-06-v2-2-6-b1ac172e|opencode-2026-11-06-v2-2-6-b1ac172e]]'
+source_type: opencode_changelog
+theme: apps-integrations
+title: 7 Apps and Integrations changes in v2.2.6
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 7 Apps and Integrations changes in v2.2.6
+
+**OpenCode** · 2026-11-06 · [[Themes/apps-integrations|Apps and Integrations]] · Digest · [Official source](https://opencode.ai/changelog/v2.2.6) · from [[Releases/OpenCode/opencode-2026-11-06-v2-2-6-b1ac172e|v2.2.6]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> SDK Server embedders can provide a custom fetch implementation for OpenCode HTTP, model, web, and remote MCP traffic.
+
+> Core Wait up to 2 seconds for MCP servers that are still connecting before a model call, so tools from servers that connect quickly reach the first prompt and opencode run . Also expand ~ in local MCP working directories, handle legacy stdio servers, and send logo_uri during dynamic registration.
+
+> Terminal Keep focus on an open dialog when a question arrives and contain plugin dialogs that throw during rendering.
+
+> Terminal Return to the /mcp list after signing in to an MCP server, with that server still selected. Thanks @Tarquinen.
+
+> Desktop Fixed provider connection, MCP sign-in, settings, and plugin loading flows that could become stuck after failures.
+
+> Desktop Restart plugins after failed update handoffs and recover the renderer, storage, event stream, and background-service connection from transient failures.
+
+> Extensions Isolated plugin dialogs, Markdown renderers, terminal views, lazy chunks, and artifact viewers so failures do not take down their host surface.
+
+Source: https://opencode.ai/changelog/v2.2.6
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/OpenCode/2026-11-06-scripted-runs-in-worktrees|Scripted Runs in Worktrees]] · Developer Workflow
+- [[Changes/OpenCode/2026-11-06-shared-mcp-connections|Shared MCP Connections]] · Apps and Integrations
+- [[Changes/OpenCode/2026-11-06-mobile-composer-dock|Mobile Composer Dock]] · Mobile and Desktop
+- [[Changes/OpenCode/2026-11-06-gui-plugin-themes-and-new-slots|GUI Plugin Themes and New Slots]] · Apps and Integrations
+- [[Changes/OpenCode/2026-11-06-12-developer-workflow-changes-in-v2-2-6|12 Developer Workflow changes in v2.2.6]] · Developer Workflow
+- [[Changes/OpenCode/2026-11-06-desktop-mcp-sign-in-now-accepts-a-pasted-redirect-url-when-automatic-redirection|Desktop MCP sign-in now accepts a pasted redirect URL when automatic redirection…]] · Account and Access
+- [[Changes/OpenCode/2026-11-06-3-safety-and-privacy-changes-in-v2-2-6|3 Safety and Privacy changes in v2.2.6]] · Safety and Privacy
+- [[Changes/OpenCode/2026-11-06-12-mobile-and-desktop-changes-in-v2-2-6|12 Mobile and Desktop changes in v2.2.6]] · Mobile and Desktop
+- [[Changes/OpenCode/2026-11-06-core-added-azure-messages-support-for-foundry-claude-models|Core Added Azure Messages support for Foundry Claude models]] · Model Support
+- [[Changes/OpenCode/2026-11-06-2-agent-mode-changes-in-v2-2-6|2 Agent Mode changes in v2.2.6]] · Agent Mode
+- [[Changes/OpenCode/2026-11-06-core-keep-legacy-custom-providers-whose-models-set-only-part-of-limit-such-as-on|Core Keep legacy custom providers whose models set only part of limit , such as only…]] · Context Window
+- [[Changes/OpenCode/2026-11-06-8-other-changes-in-v2-2-6|8 other changes in v2.2.6]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-89-apps-and-integrations-changes-in-v1-0-106|89 Apps and Integrations changes in v1.0.106]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20opencode-2026-11-06-d3fdee&body=Card%3A%20Changes%2FOpenCode%2F2026-11-06-7-apps-and-integrations-changes-in-v2-2-6.md%0ACard%20ID%3A%20opencode-2026-11-06-d3fdee%0ASource%3A%20https%3A%2F%2Fopencode.ai%2Fchangelog%2Fv2.2.6%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

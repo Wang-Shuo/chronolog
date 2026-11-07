@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3309d412406e3ec4a88903208d0ce1bee9b0fb677aa70a3c555feaf0109384b7
+machine_hash: e83e37236e47efab930ab76682b2cf9a1be2f7d8835c9ee218a7ab8cf93c28ee
 product: lovable
 product_name: Lovable
 record:
@@ -66,12 +66,12 @@ record:
   title: Redesigned settings
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-fixed-permission-prompt-tool-pointing-at-an-mcp-server-crashing-with-mcp-tool-no|Fixed
-  --permission-prompt-tool pointing at an MCP server crashing…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-5-safety-and-privacy-changes-in-v1-0-70|5
   Safety and Privacy changes in v1.0.70]]'
 - '[[Changes/Claude Code/2026-07-11-2-safety-and-privacy-changes-in-v2-1-207|2 Safety
   and Privacy changes in v2.1.207]]'
+- '[[Changes/Google Antigravity/2026-07-13-refined-command-permission-prompting-with-strict-literal-matching-relaxed-redire|Refined
+  command permission prompting with strict literal matching, relaxed…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-13-2026-07-13-a5dee32c|lovable-2026-07-13-2026-07-13-a5dee32c]]'
 source_type: lovable_changelog
 theme: safety-privacy
@@ -105,8 +105,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-2-safety-and-privacy-changes-in-v2-1-207|2 Safety and Privacy changes in v2.1.207]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-safety-and-privacy-changes-in-v2-1-210|3 Safety and Privacy changes in v2.1.210]]
+- Earlier: 2026-07-13 · Google Antigravity · [[Changes/Google Antigravity/2026-07-13-refined-command-permission-prompting-with-strict-literal-matching-relaxed-redire|Refined command permission prompting with strict literal matching, relaxed…]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-59-safety-and-privacy-changes-in-v2026-7-1|59 Safety and Privacy changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a21c92579c1d6bc480529ff54edc4ae02308ea0e96c3a215bcd0d80475d5a757
+machine_hash: 9e6ffae6c502377673378d688afa5dc75703fef5744f5caca58540d966435d50
 product: open-webui
 product_name: Open WebUI
 record:
@@ -147,7 +147,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-add-mcp-registry-installation-for-browsing-and-installing-mcp-servers|Add /mcp registry installation for browsing and installing MCP servers]]
-- Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-browse-resume-and-switch-between-sessions-from-the-agents-screen|Browse, resume, and switch between sessions from the agents screen]]
+- Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-more-official-channel-provider-and-web-search-plugins-can-now-be-installed-or-re|More official channel, provider, and web-search plugins can now be installed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

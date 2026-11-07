@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8c291152dcff2a29606aa2976cf24f3cc81ce7f8d30b365f7f7a9a423f931a1
+machine_hash: 00ebe02afb256669d662a6c6d3cb4af8a86911e534c1da43acafd61cc6b54824
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
     infrastructure'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration
-  changes in v1.0.10]]'
+- '[[Changes/OpenCode/2026-03-22-2-collaboration-changes-in-v1-3-0|2 Collaboration
+  changes in v1.3.0]]'
 - '[[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added
   managed-settings.d/ drop-in directory alongside managed-settings.json…]]'
 - "[[Changes/Open WebUI/2026-03-25-shared-chat-viewing-crash-shared-chats-can-now-be-viewed-by-unauthenticated-user|\U0001F41B

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02fc6b3736c504252a24933a27ccddf7f94d1f49df44e843fd82d176497c8e64
+machine_hash: 81648da427c8ded179b2d1afa09017d14d1fcd1ff68a18dacdeadc92a9f74654
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,10 +58,10 @@ record:
   title: 8 Apps and Integrations changes in v1.0.87
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-17-connect-your-app-to-the-lovable-api|Connect your app
-  to the Lovable API]]'
-- '[[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6
-  Apps and Integrations changes in v2.1.277]]'
+- '[[Changes/OpenClaw/2026-09-19-you-can-now-ask-btw-side-questions-about-photos-attached-to-the-current-message|Ask
+  /btw side questions about photos attached to the current message when using…]]'
+- '[[Changes/OpenClaw/2026-09-19-52-apps-and-integrations-changes-in-v2026-9-5|52
+  Apps and Integrations changes in v2026.9.5]]'
 - '[[Changes/ElevenLabs/2026-09-21-sdk-releases|SDK releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
 source_type: github_releases

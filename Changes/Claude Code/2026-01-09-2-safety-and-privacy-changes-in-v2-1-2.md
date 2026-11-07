@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c9cd24fad254d714010f8abb2d609e17e438bc507dc3151129a162488ffd8da
+machine_hash: acb000931954ffd510bdaee2e4c8e07c46fa6d72d632cc462acd9bd9339fc42d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.2
   type: change
 related_changes:
-- '[[Changes/Replit/2025-12-26-security-center-for-enterprise|Security Center for
-  Enterprise]]'
-- '[[Changes/Codex CLI/2026-01-06-3-safety-and-privacy-changes-in-rust-v0-78-0|3 Safety
-  and Privacy changes in rust-v0.78.0]]'
 - '[[Changes/Codex CLI/2026-01-07-allow-global-exec-flags-model-json-sandbox-toggles-etc-to-be-passed-after-codex|Allow
   global exec flags (model/json/sandbox toggles, etc.) to be passed after…]]'
+- '[[Changes/OpenCode/2026-01-07-desktop-permission-auto-accept-should-hide-when-not-needed|Desktop
+  Permission auto-accept should hide when not needed]]'
+- '[[Changes/OpenCode/2026-01-08-2-safety-and-privacy-changes-in-v1-1-7|2 Safety and
+  Privacy changes in v1.1.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
 theme: safety-privacy
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-allow-global-exec-flags-model-json-sandbox-toggles-etc-to-be-passed-after-codex|Allow global exec flags (model/json/sandbox toggles, etc.) to be passed after…]]
+- Earlier: 2026-01-08 · OpenCode · [[Changes/OpenCode/2026-01-08-2-safety-and-privacy-changes-in-v1-1-7|2 Safety and Privacy changes in v1.1.7]]
 - Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-3|2 Safety and Privacy changes in v2.1.3]]
 <!-- chronolog:end -->
 

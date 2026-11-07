@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d9e0d585c7455d433885957064c2f88458ea03c0715e6a87f03a584f3e6b20c
+machine_hash: 0f3e6cf096c917458fafdd74f60294bb65174fe42aff0ae7428af4075b71bc9e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.95.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-28-improved-git-workflow-ui-on-mobile-devices|Improved Git
-  workflow UI on mobile devices]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-29-skills-load-correctly-on-windows|Skills
-  load correctly on Windows]]'
 - '[[Changes/Codex CLI/2026-01-31-10011-really-fix-pwd-for-windows-codex-zip-iceweasel-oai|♯10011
   really fix pwd for windows codex zip @iceweasel-oai]]'
+- '[[Changes/OpenCode/2026-01-31-3-mobile-and-desktop-changes-in-v1-1-48|3 Mobile
+  and Desktop changes in v1.1.48]]'
+- '[[Changes/OpenCode/2026-02-03-18-mobile-and-desktop-changes-in-v1-1-49|18 Mobile
+  and Desktop changes in v1.1.49]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b|codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -92,8 +92,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.95.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-10011-really-fix-pwd-for-windows-codex-zip-iceweasel-oai|♯10011 really fix pwd for windows codex zip @iceweasel-oai]]
-- Later: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-detached-shell-processes-work-on-vanilla-macos-installations|Detached shell processes work on vanilla macOS installations]]
+- Earlier: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-18-mobile-and-desktop-changes-in-v1-1-49|18 Mobile and Desktop changes in v1.1.49]]
+- Later: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-desktop-tighten-up-session-padding-top-for-mobile|Desktop Tighten up session padding-top for mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

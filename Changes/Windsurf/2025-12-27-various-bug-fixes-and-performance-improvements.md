@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a228d9e00e4702518834536208955d5aa3d5d3db01b5bd65b966c13f743b3da
+machine_hash: ab1064fa9e5db088510c94e258e314c7395a75da7726f0bb370bab5f2590f406
 product: windsurf
 product_name: Windsurf
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-12-26 · Replit · [[Changes/Replit/2025-12-26-fast-build|Fast Build]]
-- Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-performance-tuning-for-tuis-cap-redraw-scheduling-and-reduce-unnecessary-rerende|Performance tuning for TUIs]]
+- Later: 2025-12-29 · OpenCode · [[Changes/OpenCode/2025-12-29-2-reliability-and-performance-changes-in-v1-0-208|2 Reliability and Performance changes in v1.0.208]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

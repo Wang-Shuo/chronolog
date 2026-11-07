@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e56bb1e168697f1969204e3492af613427e4c7bf9b5c8d7e91e0d072c51fc954
+machine_hash: 338e993cc7fca008d1257dc5b882520d11f5ae30ac262086eee08a34b9ce1c84
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-13-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal
   cursor positions correctly on the input field instead of on decorative…]]'
 - '[[Changes/Ollama/2026-05-14-ollama-0-24-includes-support-for-the-codex-app-openai-s-desktop-experience-for-w|Ollama
   0.24 includes support for the Codex App, OpenAI''s desktop experience…]]'
+- '[[Changes/OpenCode/2026-05-14-core-returned-proper-busy-errors-when-a-session-is-already-running-prompt-or-she|Core
+  Returned proper busy errors when a session is already running prompt or shell work]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -89,8 +90,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-ollama-0-24-includes-support-for-the-codex-app-openai-s-desktop-experience-for-w|Ollama 0.24 includes support for the Codex App, OpenAI's desktop experience…]]
-- Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-bash-terminal-output-no-longer-flashes-empty-rows-while-commands-are-running|Bash terminal output no longer flashes empty rows while commands are running]]
+- Earlier: 2026-05-14 · OpenCode · [[Changes/OpenCode/2026-05-14-core-returned-proper-busy-errors-when-a-session-is-already-running-prompt-or-she|Core Returned proper busy errors when a session is already running prompt or shell work]]
+- Later: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-3-developer-workflow-changes-in-v1-14-51|3 Developer Workflow changes in v1.14.51]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

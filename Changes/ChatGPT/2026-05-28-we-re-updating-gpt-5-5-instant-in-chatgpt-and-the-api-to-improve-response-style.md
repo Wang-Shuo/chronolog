@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6e534d926cc86eb2620a3da8cd436db28a91c90dcbdfcc53c65954bc313d1be9
+machine_hash: 9983c54e7bb0fb6d5a19ac537dcef0d4b270e3fb12ef7f3efaffde1bc00a786b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,10 +66,10 @@ record:
   title: GPT-5.5 Instant Update
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-27-refactor-decouple-auto-model-description-and-configuration-from-releasechannel-b|refactor:
-  decouple auto model description and configuration from releaseChannel]]'
 - '[[Changes/Lovable/2026-05-27-new-openai-image-models-for-ai-features-in-your-app|New
   OpenAI image models for AI features in your app]]'
+- '[[Changes/OpenCode/2026-05-27-3-model-support-changes-in-v1-15-11|3 Model Support
+  changes in v1.15.11]]'
 - '[[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|Retiring
   OpenAI o3 and GPT-4.5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-28-gpt-5-5-instant-update-6c17e30e|chatgpt-2026-05-28-gpt-5-5-instant-update-6c17e30e]]'

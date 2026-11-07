@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4028da691e3f96b9546c40b1be72f79f1f6ee922aa53781a638a46e2fe3e1433
+machine_hash: 497ba6facc67a7d26630dcc2646bb9ad2f7a69f24e913c5e2ae278b3fb117b0c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,11 +45,12 @@ record:
   title: 3 Apps and Integrations changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-19-sdk-releases|SDK Releases]]'
-- '[[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps
-  and Integrations changes in v2.1.14]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-20-enable-all-github-mcp-tools-flag-now-enables-read-write-github-mcp-tools|--enable-all-github-mcp-tools
   flag now enables read-write GitHub MCP tools]]'
+- '[[Changes/OpenCode/2026-01-20-core-ensure-truncation-handling-applies-to-mcp-servers|Core
+  Ensure truncation handling applies to MCP servers]]'
+- '[[Changes/OpenCode/2026-01-20-preserve-tool-input-from-running-state-for-mcp-tool-results|Preserve
+  tool input from running state for MCP tool results]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -93,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.88.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-20-enable-all-github-mcp-tools-flag-now-enables-read-write-github-mcp-tools|--enable-all-github-mcp-tools flag now enables read-write GitHub MCP tools]]
+- Earlier: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-preserve-tool-input-from-running-state-for-mcp-tool-results|Preserve tool input from running state for MCP tool results]]
 - Later: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-10-apps-and-integrations-changes-in-v0-25-0|10 Apps and Integrations changes in v0.25.0]]
 <!-- chronolog:end -->
 

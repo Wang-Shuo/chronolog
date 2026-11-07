@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a0816c01fd7a011ef12648a319ccb2a26720177048e8df22c800b686049621be
+machine_hash: af3396c6d732d568c827598bfa67adf34fa2c49378c5e384c2b03e174864c1c8
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Request validation and remove credit balance for cline team
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-06-16-global-image-compression-option-effortlessly-set-image-compression-globally-so-a|\U0001F5BC️
-  Global Image Compression Option]]"
+- '[[Changes/Midjourney/2025-06-19-heya-everybody-glad-you-re-enjoying-creating-and-sharing-videos-we-re-noticing-t|Heya
+  everybody! Glad you''re enjoying creating and sharing videos]]'
 - '[[Changes/Lovable/2025-06-26-spotlight|Spotlight]]'
 - '[[Changes/Replit/2025-07-04-teams-app-store-experience|Teams App Store experience]]'
 source_release: '[[Releases/Cline/cline-2025-07-11-v3-18-12-github-231654662-57423044|cline-2025-07-11-v3-18-12-github-231654662-57423044]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c79e14d004cc15bb6128fa7c5c26ce5162d60b3cce18bf28b2c396c9ec26fef7
+machine_hash: 2e60180a8f103e466c83983e6ac9572efde19638eb209e1aa109c92be0c8e6dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,10 +53,10 @@ record:
     during sign-in
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-19-account-and-access-changes-in-v0-12-0|19 Account
-  and Access changes in v0.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-2-account-and-access-changes-in-v1-0-96|2
   Account and Access changes in v1.0.96]]'
+- '[[Changes/Google Antigravity/2026-10-12-onboarding-now-shows-what-antigravity-can-do-between-signing-in-and-accepting-th|Onboarding
+  now shows what Antigravity can do between signing in and accepting…]]'
 - '[[Changes/Cline/2026-10-13-2-account-and-access-changes-in-v4-1-24|2 Account and
   Access changes in v4.1.24]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-2-account-and-access-changes-in-v4-1-24|2 Account and Access changes in v4.1.24]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved the error shown when a cloud session is refused because your claude.ai…]]
+- Later: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-2-account-and-access-changes-in-v2026-10-3|2 Account and Access changes in v2026.10.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

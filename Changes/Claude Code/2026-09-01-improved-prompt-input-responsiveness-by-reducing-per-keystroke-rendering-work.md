@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6b34514e98364367265b6e65759d05794719061c8989b088c738c955f9b58d6
+machine_hash: 198af5dabaa0e68e032c56a4f6534df0e51c3487b305b84203ae40d90f8b9359
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-improved-streaming-performance-already-rendered-blocks-are-no-longer-re-checked|Improved streaming performance]]
+- Later: 2026-09-02 · Suno · [[Changes/Suno/2026-09-02-overall-responsiveness|Overall responsiveness]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

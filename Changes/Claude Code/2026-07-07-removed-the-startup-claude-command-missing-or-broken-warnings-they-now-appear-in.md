@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0936718667c123eeb01c61b68ee0dc74e6cbc15796f3b93f48b95997e38fb47
+machine_hash: 03afcf841b84b3454ede2ce33fced53bff45ec60d4861c9042ed587fe2abfd34
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Removed the startup "claude command missing or broken" warnings
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude
-  agents session rows now show pull-request links as bare ♯N without…]]'
 - '[[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed
   /review pr back to a fast single-pass review]]'
+- '[[Changes/OpenCode/2026-07-06-3-developer-workflow-changes-in-v1-17-14|3 Developer
+  Workflow changes in v1.17.14]]'
 - '[[Changes/OpenHands/2026-07-06-feat-add-full-git-history-user-setting-by-malhotra5-in-https-github-com-openhand|feat:
   Add full Git history user setting]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'

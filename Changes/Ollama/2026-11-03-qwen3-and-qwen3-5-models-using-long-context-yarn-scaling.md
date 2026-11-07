@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cc7bb13251e6d5c0343e8ec3df432628d590edff241fd8daa2ac4501a97646c
+machine_hash: a90b6667fe833a99cf7bf918869d931ed45d8b3a46c0922029bd1059d0fed07f
 product: ollama
 product_name: Ollama
 record:
@@ -51,12 +51,12 @@ record:
   title: Qwen3 and Qwen3.5 models using long-context (YaRN) scaling
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-27-lfm3-https-ollama-com-library-lfm3-a-1-7b-text-model-with-a-256k-token-context-w|lfm3((source
-  link) a 1.7B text model with a 256K-token context…]]'
-- '[[Changes/Codex CLI/2026-10-29-13-context-window-changes-in-rust-v0-166-0|13 Context
-  Window changes in rust-v0.166.0]]'
-- "[[Changes/Open WebUI/2026-10-29-provider-details-for-models-administrators-editing-a-model-now-see-a-provider-de|\U0001F4C7
-  Provider details for models. Administrators editing a model now see a Provider…]]"
+- '[[Changes/OpenCode/2026-10-29-2-context-window-changes-in-v2-2-1|2 Context Window
+  changes in v2.2.1]]'
+- '[[Changes/OpenCode/2026-10-30-2-context-window-changes-in-v2-2-5|2 Context Window
+  changes in v2.2.5]]'
+- '[[Changes/OpenCode/2026-10-30-percentage-compaction-buffer|Percentage Compaction
+  Buffer]]'
 source_release: '[[Releases/Ollama/ollama-2026-11-03-v0-40-15-github-433274277-e84f26a0|ollama-2026-11-03-v0-40-15-github-433274277-e84f26a0]]'
 source_type: github_releases
 theme: context-window
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-provider-details-for-models-administrators-editing-a-model-now-see-a-provider-de|📇 Provider details for models. Administrators editing a model now see a Provider…]]
+- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-percentage-compaction-buffer|Percentage Compaction Buffer]]
 - Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-live-context-usage-estimates-the-context-indicator-now-accounts-for-output-arriv|📏 Live context usage estimates. The context indicator now accounts for output…]]
 <!-- chronolog:end -->
 

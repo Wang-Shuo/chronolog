@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 1e2c0c58f82d17a356091d9dc6ba4cba0b534d2312845b05ace88369b6907297
+machine_hash: 9b59aca5aa567683ad405e63076ec6fd775771807f40834ec8271460d23bb674
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#48190 Bound agent message board SSE frames before parsing @jif-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-28-queue-exit-commands-while-an-agent-response-is-still-running|Queue
-  exit commands while an agent response is still running]]'
+- '[[Changes/Google Antigravity/2026-09-28-2-agent-mode-changes-in-hub-v2-18-1-manage-install-plugins|2
+  Agent Mode changes in HUB v2.18.1 — Manage & Install plugins…]]'
 - '[[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5|ChatGPT
   introduces dots]]'
 - '[[Changes/Claude Code/2026-09-29-2-agent-mode-changes-in-v2-1-285|2 Agent Mode

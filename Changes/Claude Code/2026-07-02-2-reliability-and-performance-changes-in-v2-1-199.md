@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f1993710dda2d9d9c4d7c218c925a93025540b0b533a8d2a504f0f6e2116ab92
+machine_hash: 423726e847487fb257defa4665cb365370b86db33f7fac5316a3d8c70f33eb02
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.199
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-30-faster-ai-responses-in-your-app-with-openai-priority-processing|Faster
-  AI responses in your app with OpenAI priority processing]]'
-- '[[Changes/Ollama/2026-06-30-2-reliability-and-performance-changes-in-v0-31-1|2
-  Reliability and Performance changes in v0.31.1]]'
+- '[[Changes/OpenClaw/2026-06-30-4-reliability-and-performance-changes-in-v2026-6-11|4
+  Reliability and Performance changes in v2026.6.11]]'
 - "[[Changes/Open WebUI/2026-07-01-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
+- '[[Changes/Runway/2026-07-01-nano-banana-2-lite-is-now-available-in-runway-create-images-at-warp-speed-withou|Nano
+  Banana 2 Lite]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.199
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
+- Earlier: 2026-07-01 · Runway · [[Changes/Runway/2026-07-01-nano-banana-2-lite-is-now-available-in-runway-create-images-at-warp-speed-withou|Nano Banana 2 Lite]]
 - Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved the install script to explain when installation is killed by the system…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c9312664075b677374dfde33bfefafa2b975557373dc16a95a678c793332cbba
+machine_hash: cf902af369981971021b4517159f9e3347032780399e4c2e8fff76166ec3976f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -171,7 +171,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.155.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-elevenagents-dab1d0|ElevenAgents]]
-- Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-text-to-speech|Text to Speech]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-15-voice-and-audio-changes-in-v2026-9-5|15 Voice and Audio changes in v2026.9.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

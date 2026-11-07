@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 84c6efc8b818fca9375deec879e6487ee0d822ebe6796539248f0adc7ef71c4c
+machine_hash: 202f4ceaa385e5de25e72f3b99bce044821684dfe26a6f76aa16c2e82b361f5e
 product: lovable
 product_name: Lovable
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-refactor-decouple-auto-model-description-and-configuration-from-releasechannel-b|refactor: decouple auto model description and configuration from releaseChannel]]
-- Later: 2026-05-28 · ChatGPT · [[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|Retiring OpenAI o3 and GPT-4.5]]
+- Later: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-3-model-support-changes-in-v1-15-11|3 Model Support changes in v1.15.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

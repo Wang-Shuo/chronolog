@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6ce861fd41ddfdb50447acf8e45d98f79d21f93c2c4f4dfdc4a7e6bb48d452b
+machine_hash: 8e4ffc07665dec7b3dceaa2fa94c6dafe0a7eb9ba21a090a6b86f18d1b1d9570
 product: v0
 product_name: v0
 record:
@@ -42,10 +42,10 @@ record:
   title: Snowflake teams with multiple accounts can pick which account a chat connects…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
-  can now create a team marketplace without connecting a repository first]]'
 - '[[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration
   changes in rust-v0.129.0]]'
+- '[[Changes/OpenCode/2026-05-09-core-fixed-http-api-auth-responses-to-match-the-previous-wire-format-for-empty-a|Core
+  Fixed HTTP API auth responses to match the previous wire format for empty…]]'
 - '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
   now available in Microsoft Teams]]'
 source_release: '[[Releases/v0/v0-2026-05-15-2026-05-15-d142aa2e|v0-2026-05-15-2026-05-15-d142aa2e]]'

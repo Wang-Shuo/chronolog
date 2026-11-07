@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6badd7be797b59723341a6848d74f8ac9d86090e465034c14ef83d0e340165da
+machine_hash: 10062fc27227a410a7012f6fb2957d562c8ad11bd829c4b86ea0242cd2fc73fb
 product: open-webui
 product_name: Open WebUI
 record:
@@ -116,7 +116,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-sdk-releases|SDK Releases]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4 Apps and Integrations changes in v2.1.117]]
+- Later: 2026-04-21 · OpenCode · [[Changes/OpenCode/2026-04-21-2-apps-and-integrations-changes-in-v1-14-20|2 Apps and Integrations changes in v1.14.20]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

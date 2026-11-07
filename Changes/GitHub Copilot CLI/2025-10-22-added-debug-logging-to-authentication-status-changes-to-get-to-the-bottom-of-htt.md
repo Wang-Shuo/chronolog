@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a8499fd16f4b4e5ea1bf1586480cc6ec0fe6e26762621892e5c6bdf89eed72a
+machine_hash: d5218bf050a6946486a87ff9d76489c4cd7b3acd73409c540d4fde833377cb43
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Added debug logging to authentication status changes to get to the bottom…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-16-enabled-non-interactive-ghe-logins-by-respecting-the-gh-host-environment-variabl|Enabled
-  non-interactive GHE logins by respecting the GH_HOST environment variable…]]'
+- '[[Changes/Manus/2025-10-16-we-released-manus-1-5-https-manus-im-blog-manus-1-5-release-faster-higher-qualit|Introducing
+  Manus 1.5]]'
 - '[[Changes/Codex CLI/2025-10-17-prompt-mcp-login-when-adding-a-streamable-http-server-that-supports-oauth-5193|Prompt
   mcp login when adding a streamable HTTP server that supports oauth (♯5193)]]'
 - '[[Changes/Dify/2025-10-22-4-account-and-access-changes-in-1-9-2|4 Account and Access

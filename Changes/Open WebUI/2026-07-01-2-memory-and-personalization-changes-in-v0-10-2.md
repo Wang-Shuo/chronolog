@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 582d8cbaf3a2587674805447dcb0872373c35f39d842a5920c9106f51a4ea915
+machine_hash: 6bad64882ca84d8d864d44d2c8aaef98ef098be0d69f1f436ffe9a7f4de02f07
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,12 +48,12 @@ record:
   title: 2 Memory and Personalization changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-18-you-can-now-delete-memory-files-in-the-ui-or-prompt-your-automation-to-delete-ou|Delete
-  memory files in the UI, or prompt your automation to delete outdated memories…]]'
 - '[[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved
   memory: the agent is now reminded to compact its MEMORY.md index…]]'
 - '[[Changes/Open WebUI/2026-06-29-5-memory-and-personalization-changes-in-v0-10-0|5
   Memory and Personalization changes in v0.10.0]]'
+- '[[Changes/OpenClaw/2026-06-30-26-memory-and-personalization-changes-in-v2026-6-11|26
+  Memory and Personalization changes in v2026.6.11]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'
 source_type: github_releases
 theme: memory
@@ -96,7 +96,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-5-memory-and-personalization-changes-in-v0-10-0|5 Memory and Personalization changes in v0.10.0]]
+- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-26-memory-and-personalization-changes-in-v2026-6-11|26 Memory and Personalization changes in v2026.6.11]]
 - Later: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-team-members-with-v0-edit-access-can-manage-team-skills-and-memories-without-a-v|Team members with v0 edit access can manage team skills and memories without…]]
 <!-- chronolog:end -->
 

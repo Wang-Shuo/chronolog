@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ed5d97cafd2564f2272483a14d22928dad4a4c3b2b2a0a1a80cbbc6ee8d8e0e9
+machine_hash: 1d480747c4d1ae1d45dc3f5e5de37f7cf5160910a2ba84b8f9bfde3cb7b63042
 product: replit
 product_name: Replit
 record:
@@ -63,9 +63,10 @@ record:
   title: Choose Agent's primary model
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-31-legacy-bundle-legacy-extension-3fdc186f1-4-0-12-free-model-button-wording|Legacy
-  bundle: legacy-extension @ 3fdc186f1 (4.0.12 + free-model button wording)]]'
-- '[[Changes/DeepSeek API/2026-07-31-deepseek-v4-flash-update|DeepSeek-V4-Flash Update]]'
+- '[[Changes/Google Antigravity/2026-07-31-enterprise-sign-in-gemini-enterprise-accounts-and-workforce-identity-federation|Enterprise
+  sign-in: Gemini Enterprise accounts and Workforce Identity Federation]]'
+- '[[Changes/Google Antigravity/2026-07-31-3-model-support-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|3
+  Model Support changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 - '[[Changes/Lovable/2026-07-31-opt-out-of-ai-model-training|Opt out of AI model training]]'
 source_release: '[[Releases/Replit/replit-2026-07-31-2026-07-31-9665255c|replit-2026-07-31-2026-07-31-9665255c]]'
 source_type: replit_changelog

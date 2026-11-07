@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ad7d56710909c7a33457829eff590a76e5f966f8dd70186fab09c9b13016caf
+machine_hash: 38fdefab7ad02b16ea2ed75cdd3f180f9e91c8b6faaadf28c0626f9f2061f72c
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 'Windows: Improved git command start-up with a standard Git for Windows install…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present
-  or export. Present directly from ChatGPT]]'
 - '[[Changes/Lovable/2026-10-16-removed-tabs-in-the-desktop-app|Removed: tabs in the
   desktop app]]'
+- '[[Changes/OpenClaw/2026-10-16-replies-on-macos-fixed-a-macos-reply-failure-that-restarted-the-channel-and-repe|Replies
+  on macOS]]'
 - '[[Changes/Lovable/2026-10-17-jump-to-your-last-chat-in-the-desktop-app|Jump to
   your last chat in the desktop app]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'

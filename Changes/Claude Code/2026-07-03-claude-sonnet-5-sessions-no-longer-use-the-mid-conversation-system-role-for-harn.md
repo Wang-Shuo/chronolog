@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a482a68042e089fbdbf3f0120f4a6851ab480ad8c0fbbb02a5971513dfc03f9
+machine_hash: 549c0a4b5c58b1f80a6540bae3f5d16841c410253d3822447c905e482dc716c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     harness…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add
-  support for the kimi-k2.7-code model]]'
 - '[[Changes/Open WebUI/2026-07-01-5-model-support-changes-in-v0-10-2|5 Model Support
   changes in v0.10.2]]'
+- '[[Changes/OpenCode/2026-07-01-core-force-reasoning-mode-for-openai-compatible-reasoning-models-so-reasoning-se|Core
+  Force reasoning mode for OpenAI-compatible reasoning models so reasoning…]]'
 - '[[Changes/Cline/2026-07-02-generalize-the-model-capability-warning-so-it-applies-more-broadly|Generalize
   the model capability warning so it applies more broadly]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-201-github-348791299-ee865ada|claude-code-2026-07-03-v2-1-201-github-348791299-ee865ada]]'

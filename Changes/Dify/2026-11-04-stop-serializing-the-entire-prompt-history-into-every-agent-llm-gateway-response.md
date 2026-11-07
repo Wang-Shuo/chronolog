@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: fc832adcb1d2feb667078ac060f27f05a7d91ee3a46745223b9d15ad6e04cae9
+machine_hash: e20186d799524b1cb26bcb3317f8279b2a7939fe79e90bc3a263b2bc6414e2f1
 product: dify
 product_name: Dify
 record:
@@ -61,11 +61,12 @@ record:
     chunk
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-19-music|Music]]'
-- '[[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video
-  to music: Studio''s video to music workflow uses Music v2.5 by default]]'
+- '[[Changes/OpenClaw/2026-10-27-oversized-macos-camera-clips-and-screen-recordings-now-return-an-error-instead-o|Oversized
+  macOS camera clips and screen recordings now return an error instead…]]'
 - '[[Changes/ElevenLabs/2026-11-02-video-clip-background-removal-video-clips-have-a-remove-background-action-and-ri|Video
   clip background removal]]'
+- '[[Changes/OpenClaw/2026-11-03-generated-images-music-and-video-can-wait-behind-a-busy-chat-without-reporting-f|Generated
+  images, music and video can wait behind a busy chat without reporting…]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'
 source_type: github_releases
 theme: multimodal
@@ -111,7 +112,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-video-clip-background-removal-video-clips-have-a-remove-background-action-and-ri|Video clip background removal]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-generated-images-music-and-video-can-wait-behind-a-busy-chat-without-reporting-f|Generated images, music and video can wait behind a busy chat without reporting…]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-prevents-oversized-mac-camera-clips-and-screen-recordings-from-disconnecting-the|Prevents oversized Mac camera clips and screen recordings from disconnecting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

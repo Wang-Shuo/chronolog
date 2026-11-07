@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8e4459d0f640d8f6d0186376cb61bc7e91ab06df9e27f4293bb10e0d6e187d32
+machine_hash: 564620ea18dd917771a3cdf433416d08230c4da25f42477a9087b29317c7dbe0
 product: ollama
 product_name: Ollama
 record:
@@ -53,7 +53,7 @@ record:
   title: '`/api/show` will now include model capabilities such as `vision`'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-03-31-text-to-speech|Text to speech]]'
+- '[[Changes/Midjourney/2025-03-31-please-note|Please Note]]'
 - '[[Changes/Cline/2025-04-01-3-model-support-changes-in-v3-8-5|3 Model Support changes
   in v3.8.5]]'
 - '[[Changes/Open WebUI/2025-04-01-3-model-support-changes-in-v0-6-0|3 Model Support

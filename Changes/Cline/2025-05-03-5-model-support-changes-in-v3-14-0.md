@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d42a99362e169ea55b8264492767f26d1504a67701663b07ac2c2292c17a2d94
+machine_hash: 5d9501ab0c004d6f2f8eb29105b4a2196de5849cbab4cef1e3287ad3b5a1e9ed
 product: cline
 product_name: Cline
 record:
@@ -49,11 +49,11 @@ record:
   title: 5 Model Support changes in v3.14.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-27-misc|Misc]]'
-- '[[Changes/Dify/2025-04-28-chore-disabled-struct-output-not-show-model-not-support-warning-by-iamjoel-in-ht|chore:
-  disabled struct output not show model not support warning]]'
 - '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
   to GPT-4o]]'
+- '[[Changes/Midjourney/2025-04-30-new-v7-image-model-update|New V7 image model update]]'
+- '[[Changes/Midjourney/2025-05-02-we-re-launching-v7-model-speedups-today-this-includes-the-release-of-the-default|Midjourney
+  launches V7 model speedups today]]'
 source_release: '[[Releases/Cline/cline-2025-05-03-v3-14-0-github-216283929-7acb459c|cline-2025-05-03-v3-14-0-github-216283929-7acb459c]]'
 source_type: github_releases
 theme: model-support
@@ -95,7 +95,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-29 · ChatGPT · [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates to GPT-4o]]
+- Earlier: 2025-05-02 · Midjourney · [[Changes/Midjourney/2025-05-02-we-re-launching-v7-model-speedups-today-this-includes-the-release-of-the-default|Midjourney launches V7 model speedups today]]
 - Later: 2025-05-05 · Open WebUI · [[Changes/Open WebUI/2025-05-05-2-model-support-changes-in-v0-6-6|2 Model Support changes in v0.6.6]]
 <!-- chronolog:end -->
 

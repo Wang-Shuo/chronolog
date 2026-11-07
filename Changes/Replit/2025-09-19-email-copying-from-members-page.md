@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9a06dcaa0618f5cda62795a0cbb3574a35f584eb78ea27390ce1e5305fafac08
+machine_hash: caccc307ef8c10dd98bcb1774beca50493215245d04de6239c5d1e313702b62c
 product: replit
 product_name: Replit
 record:
@@ -43,10 +43,10 @@ record:
   title: Email copying from members page
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-2-collaboration-changes-in-v0-3-0|2 Collaboration
-  changes in v0.3.0]]'
-- '[[Changes/ElevenLabs/2025-09-08-backward-compatible-changes|Backward Compatible
-  Changes]]'
+- '[[Changes/Gamma/2025-09-16-gamma-for-teams-effortlessly-on-brand|Gamma for teams:
+  Effortlessly on-brand]]'
+- '[[Changes/Granola/2025-09-17-now-there-s-an-easier-way-to-stay-in-the-loop-with-your-team-s-conversations-whe|Shared
+  with me: a new way to keep up-to-date with important conversations]]'
 - "[[Changes/Open WebUI/2025-09-17-channel-message-input-now-supports-direct-paste-functionality-for-images-and-fil|\U0001F4CE
   Channel message input now supports direct paste functionality for images and files…]]"
 source_release: '[[Releases/Replit/replit-2025-09-19-2025-09-19-b0d6c042|replit-2025-09-19-2025-09-19-b0d6c042]]'

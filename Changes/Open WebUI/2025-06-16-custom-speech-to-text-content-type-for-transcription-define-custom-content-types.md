@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 324df6011b8f2742318b53a32dfa7a03e0ccad182da5785af37dde2fe7da3a1c
+machine_hash: 25c5b7cd804a5ff686fa6fe6999bf3018f17281ac51df7e41e6cc367b347add5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: "\U0001F3A4 **Custom Speech-to-Text Content-Type for Transcription**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|In
-  testing, we''ve observed that this update may occasionally cause minor decreases…]]'
+- '[[Changes/Manus/2025-06-09-manus-isn-t-just-where-you-generate-videos-it-s-where-you-craft-cinematic-experi|Manus
+  isn''t just where you generate videos — it''s where you craft cinematic experiences]]'
 - '[[Changes/Open WebUI/2025-06-10-2-voice-and-audio-changes-in-v0-6-14|2 Voice and
   Audio changes in v0.6.14]]'
 - '[[Changes/ChatGPT/2025-06-12-deep-research-and-voice-mode-support|Deep research

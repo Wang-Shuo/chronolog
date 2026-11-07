@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7bf4fea0cc81d20e67159631415657fd3e6f2e1c55e4ccedb405e810f10922e8
+machine_hash: a535d684e50fbe47ca58fb5a1cb7e0356d0308036d99d6dc7c14bc8c23c3cdf8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.79
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-10 · Claude Code · [[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|Improved slash-command menu]]
-- Later: 2026-08-10 · Windsurf · [[Changes/Windsurf/2026-08-10-devin-local|Devin Local]]
+- Later: 2026-08-10 · OpenCode · [[Changes/OpenCode/2026-08-10-open-the-project-menu-with-a-right-click-in-home|Open the project menu with a right-click in Home]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

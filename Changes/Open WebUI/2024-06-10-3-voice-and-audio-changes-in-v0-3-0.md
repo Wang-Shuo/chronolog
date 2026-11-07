@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 039275f31ef809569a5c102e1d972dc42b50a3337812633a435e556e3ae367b4
+machine_hash: eb6a6147e2798fb7c7714c270be1a85eee85eda6c6375ee3ea00058faf125b5a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Voice and Audio changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-05-09-2-voice-and-audio-changes-in-0-6-7|2 Voice and Audio
-  changes in 0.6.7]]'
+- '[[Changes/Suno/2024-05-24-v4-is-cooking-in-the-meantime-we-are-rolling-out-early-access-to-v3-5-which-is-n|v4
+  is cooking]]'
 - "[[Changes/Open WebUI/2024-06-03-local-tts-voice-selection-fixed-the-issue-where-the-selected-local-text-to-speec|\U0001F50A
   Local TTS Voice Selection]]"
 - '[[Changes/Aider/2024-06-04-detect-supported-audio-sample-rates-for-voice|Detect

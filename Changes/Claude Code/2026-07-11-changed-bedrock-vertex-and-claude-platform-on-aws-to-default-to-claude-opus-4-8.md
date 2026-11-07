@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 782a1ca3a36df5098e64e3074c18883419698578642d6b8845926fbc526cfbd4
+machine_hash: 90689604e516e1be1b238f2185302a5bbe326d848dcb24ce1aa22d10b0d25216
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     Opus 4.8
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-8-model-support-changes-in-rust-v0-144-0|8 Model
-  Support changes in rust-v0.144.0]]'
+- '[[Changes/OpenCode/2026-07-09-2-model-support-changes-in-v1-17-16|2 Model Support
+  changes in v1.17.16]]'
 - '[[Changes/Claude Code/2026-07-10-improved-code-review-findings-quality-on-claude-opus-4-8-across-all-effort-level|Improved
   /code-review findings quality on claude-opus-4-8 across all effort levels]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-4-model-support-changes-in-v1-0-70|4 Model

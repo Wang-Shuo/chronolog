@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc4889b4a07e3b557eb67611d8b12ebc9044d9bd6d056d9bab968e4d2fde8045
+machine_hash: 2a99dec5d40a45f3a50b95166d999e5c8eb3e676181363132cd703d53bb11b8a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Editor Experience changes in v2.1.98
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-timeline-no-longer-goes-blank-when-content-shrinks-e-g-after-cancelling-or-tool|Timeline
-  no longer goes blank when content shrinks…]]'
 - '[[Changes/Claude Code/2026-04-08-4-editor-experience-changes-in-v2-1-97|4 Editor
   Experience changes in v2.1.97]]'
 - '[[Changes/Gemini CLI/2026-04-08-feat-cli-support-tab-to-queue-for-messages-while-generating-by-gundermanc-in-htt|feat(cli):
   support ''tab to queue'' for messages while generating]]'
+- '[[Changes/OpenCode/2026-04-08-core-aligned-github-copilot-anthropic-reasoning-levels-and-removed-incorrect-qwe|Core
+  Aligned GitHub Copilot Anthropic reasoning levels and removed incorrect Qwen variants]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: editor-experience
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.98
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-feat-cli-support-tab-to-queue-for-messages-while-generating-by-gundermanc-in-htt|feat(cli): support 'tab to queue' for messages while generating]]
+- Earlier: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-core-aligned-github-copilot-anthropic-reasoning-levels-and-removed-incorrect-qwe|Core Aligned GitHub Copilot Anthropic reasoning levels and removed incorrect Qwen variants]]
 - Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-16202-fix-paste-driven-bottom-pane-completion-teardown-etraut-openai|♯16202 Fix paste-driven bottom pane completion teardown @etraut-openai]]
 <!-- chronolog:end -->
 

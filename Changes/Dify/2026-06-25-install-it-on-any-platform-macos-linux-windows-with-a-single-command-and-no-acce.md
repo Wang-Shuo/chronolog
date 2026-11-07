@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b307c0740a57a2aba92ec5f966f806067238aa1c2ea5c83189248fe473f2049f
+machine_hash: 24b780dbfb5d02fc18d320e592bd488114ef70a66ab107ba6060f0195bbf4f6d
 product: dify
 product_name: Dify
 record:
@@ -45,9 +45,9 @@ record:
     and no…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791
-  bazel: refresh expired macOS SDK pin @anp-oai]]'
 - '[[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]'
+- '[[Changes/OpenCode/2026-06-24-15-mobile-and-desktop-changes-in-v1-17-10|15 Mobile
+  and Desktop changes in v1.17.10]]'
 - '[[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709
   PAC 4 - Add macOS system proxy resolver @canvrno-oai]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709 PAC 4 - Add macOS system proxy resolver @canvrno-oai]]
-- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]]
+- Later: 2026-06-25 · OpenCode · [[Changes/OpenCode/2026-06-25-11-mobile-and-desktop-changes-in-v1-17-11|11 Mobile and Desktop changes in v1.17.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

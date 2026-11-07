@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d156250017894ff0119c9b9dcb10f2f49926ff980403cc63bdc5eb0eba1025a0
+machine_hash: a37b1d9551f94c228bf4e7131333a74d71136af4801028398360e35848f4a425
 product: openhands
 product_name: OpenHands
 record:
@@ -55,8 +55,8 @@ record:
     in the setup…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-20-feat-home-dismiss-recommended-automations-rail-from-home-and-application-setting|feat(home):
-  dismiss recommended automations rail from Home and Application settings]]'
+- '[[Changes/OpenClaw/2026-10-22-5-automation-and-scheduling-changes-in-v2026-10-6|5
+  Automation and Scheduling changes in v2026.10.6]]'
 - '[[Changes/OpenHands/2026-10-22-refactor-automations-express-the-activity-track-height-in-css-by-enyst-in-https|refactor(automations):
   express the activity track height in CSS]]'
 - '[[Changes/OpenHands/2026-10-22-feat-automations-hide-the-github-token-secret-field-on-self-hosted-instances-whe|feat(automations):

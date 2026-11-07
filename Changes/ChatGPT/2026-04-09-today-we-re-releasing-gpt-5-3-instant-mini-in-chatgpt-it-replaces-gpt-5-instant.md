@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ced0289826bbdc644b28849d7918999effb75bd5641d991c2004eb9046a467d8
+machine_hash: bffc9630c73882d1ca9f11edbe5de37a7f2ed5a9d508769faff393811a935015
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,9 +65,10 @@ record:
   title: GPT-5.3 Instant mini in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-04-07-adaptive-model-visibility|Adaptive Model Visibility]]'
 - '[[Changes/Gemini CLI/2026-04-08-5-model-support-changes-in-v0-37-0|5 Model Support
   changes in v0.37.0]]'
+- '[[Changes/OpenCode/2026-04-08-core-kept-model-variants-scoped-to-the-selected-model|Core
+  Kept model variants scoped to the selected model]]'
 - '[[Changes/Windsurf/2026-04-08-adaptive-fix|Adaptive Fix]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-gpt-5-3-instant-mini-in-chatgpt-bf5ed7ff|chatgpt-2026-04-09-gpt-5-3-instant-mini-in-chatgpt-bf5ed7ff]]'
 source_type: chatgpt_changelog
@@ -96,7 +97,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-08 · Windsurf · [[Changes/Windsurf/2026-04-08-adaptive-fix|Adaptive Fix]]
-- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-5-model-support-changes-in-rust-v0-119-0|5 Model Support changes in rust-v0.119.0]]
+- Later: 2026-04-09 · OpenCode · [[Changes/OpenCode/2026-04-09-core-hide-unsupported-variants-for-big-pickle-models|Core Hide unsupported variants for Big Pickle models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

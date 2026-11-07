@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 64ebeda988d0c7581ef5d14aa62ff8d88a064ba24449202efc6393c114a475e2
+machine_hash: 4127af9551f05d8735257a228a5a616a6760a7cdb00cbc5f3e0c9ff9ad5679c4
 product: lovable
 product_name: Lovable
 record:
@@ -46,10 +46,11 @@ record:
   title: Lovable follows AGENTS.md files in your project's subfolders
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-elevenagents|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-11-02-8-agent-mode-changes-in-elevenlabs-updates-2026-11-02|8
   Agent Mode changes in ElevenLabs updates — 2026-11-02]]'
 - '[[Changes/ElevenLabs/2026-11-02-workspaces|Workspaces]]'
+- '[[Changes/Google Antigravity/2026-11-03-remote-agents-are-starting-to-roll-out-to-google-ai-ultra-and-pro-subscribers-co|Remote
+  agents are starting to roll out to Google AI Ultra and Pro subscribers]]'
 source_release: '[[Releases/Lovable/lovable-2026-11-03-2026-11-03-b62c62d7|lovable-2026-11-03-2026-11-03-b62c62d7]]'
 source_type: lovable_changelog
 theme: agent-mode
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-workspaces|Workspaces]]
+- Earlier: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-remote-agents-are-starting-to-roll-out-to-google-ai-ultra-and-pro-subscribers-co|Remote agents are starting to roll out to Google AI Ultra and Pro subscribers]]
 - Later: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-xiaomi-mimo-s-mimo-v2-6-https-ollama-com-library-mimo-v2-6-a-9b-model-built-for|Xiaomi MiMo's mimo-v2.6((source link) a 9B model built…]]
 <!-- chronolog:end -->
 

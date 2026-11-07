@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7204355fcee6abd63df19dbcf21848311cd95e627626d03128805694941355c3
+machine_hash: 78b006eb01a0a83213af28a3b4075b0079317749d799c48f4ee32cccfe052581
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,12 +53,11 @@ record:
   title: Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-01-connect-a-tool-from-a-pasted-api-key|Connect a tool
-  from a pasted API key]]'
 - '[[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5
   Apps and Integrations changes in v2.1.259]]'
 - '[[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and
   Integrations changes in v4.1.17]]'
+- '[[Changes/Suno/2026-09-02-copy-and-duplicate-plugins|Copy and duplicate plugins]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff|chatgpt-2026-09-03-zendesk-onenote-plugins-in-chatgpt-and-codex-beta-d31462ff]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and Integrations changes in v4.1.17]]
+- Earlier: 2026-09-02 · Suno · [[Changes/Suno/2026-09-02-copy-and-duplicate-plugins|Copy and duplicate plugins]]
 - Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-4-apps-and-integrations-changes-in-v2-1-260|4 Apps and Integrations changes in v2.1.260]]
 <!-- chronolog:end -->
 

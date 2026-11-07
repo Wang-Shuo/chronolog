@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eeaf42de7aa02e5d361440bb7fedde867b5c7f0cf229a561d197889e2b40e5dc
+machine_hash: c03de77ac4c06f23590e3be764a089c3a2826398b8794a7903e76d8c41b99830
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#31596 Use the image generation extension by default @won-openai'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-06-29-usable-chat-input-on-mobile-with-many-tools-when-skills-tools-terminal-web-searc|\U0001F4F1
-  Usable chat input on mobile with many tools. When skills, tools, terminal, web…]]"
+- '[[Changes/OpenClaw/2026-06-30-generated-images-from-a-remote-codex-app-server-now-arrive-as-attachments-instea|Generated
+  images from a remote Codex app-server now arrive as attachments instead…]]'
 - '[[Changes/Codex CLI/2026-07-08-3-image-generation-changes-in-rust-v0-143-0|3 Image
   Generation changes in rust-v0.143.0]]'
 - '[[Changes/Lovable/2026-07-08-images-lovable-generates-are-labeled-as-ai-generated|Images
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-images-lovable-generates-are-labeled-as-ai-generated|Images Lovable generates are labeled as AI-generated]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-image-generation-changes-in-rust-v0-145-0|3 Image Generation changes in rust-v0.145.0]]
+- Later: 2026-07-10 · Runway · [[Changes/Runway/2026-07-10-nano-banana-2-lite-is-now-available-in-tool-mode-on-mobile-with-support-for-up-t|Nano Banana 2 Lite]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

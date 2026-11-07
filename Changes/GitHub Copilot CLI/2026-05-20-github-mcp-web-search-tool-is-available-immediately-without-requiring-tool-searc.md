@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e5433b1dfb816be152902e8b28cfee828bf13597f267b326fa02c36891ce75f4
+machine_hash: bf6bae28e49d56c24154de1cadad91d5e93d826ce46bb1c4a81665776eca23ed
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,10 +53,9 @@ record:
     search
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054
-  rollout: store web search and mcp tool calls @owenlin0]]'
-- '[[Changes/Open WebUI/2026-05-09-5-search-and-browsing-changes-in-v0-9-3|5 Search
-  and Browsing changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-09-core-limited-openai-deep-research-models-to-the-reasoning-level-they-actually-su|Core
+  Limited OpenAI deep research models to the reasoning level they actually support]]'
+- '[[Changes/Suno/2026-05-13-browse-your-library|Browse your library]]'
 - '[[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The
   /plugin browse and discover panes now show when a plugin was last updated]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1|github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1]]'

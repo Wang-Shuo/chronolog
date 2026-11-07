@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59201623e3e054aaac7649ecc03cec1b7aded9d5174225d76989ee31b26063c1
+machine_hash: 37e441243f9ee3fc32d8a76da2206d812c9ac3565cccb47ee33a6f081a34626b
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,11 +52,11 @@ record:
   title: The `/plugin` browse and discover panes now show when a plugin was last updated
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-03-web-search-coming-soon|Web Search (coming soon)]]'
-- '[[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054
-  rollout: store web search and mcp tool calls @owenlin0]]'
 - '[[Changes/Open WebUI/2026-05-09-5-search-and-browsing-changes-in-v0-9-3|5 Search
   and Browsing changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-09-core-limited-openai-deep-research-models-to-the-reasoning-level-they-actually-su|Core
+  Limited OpenAI deep research models to the reasoning level they actually support]]'
+- '[[Changes/Suno/2026-05-13-browse-your-library|Browse your library]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
 source_type: github_releases
 theme: search-browsing
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-5-search-and-browsing-changes-in-v0-9-3|5 Search and Browsing changes in v0.9.3]]
+- Earlier: 2026-05-13 · Suno · [[Changes/Suno/2026-05-13-browse-your-library|Browse your library]]
 - Later: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-github-mcp-web-search-tool-is-available-immediately-without-requiring-tool-searc|GitHub MCP web search tool is available immediately without requiring tool search]]
 <!-- chronolog:end -->
 

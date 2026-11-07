@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8fe3fc1b34fcc03d3f38e3c1edacf37f6e4cf3379bcf4e85cbb7503ffb945b20
+machine_hash: 5dda2706ba0780633025cc8623918577e9785ffc856fc9595cfbe0eeff29cc4d
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: Updated hooks docs
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team
-  marketplaces for plugins]]'
 - '[[Changes/Gemini CLI/2026-03-03-3-apps-and-integrations-changes-in-v0-32-0|3 Apps
   and Integrations changes in v0.32.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-7-apps-and-integrations-changes-in-v0-0-421|7
   Apps and Integrations changes in v0.0.421]]'
+- '[[Changes/OpenCode/2026-03-03-2-apps-and-integrations-changes-in-v1-2-16|2 Apps
+  and Integrations changes in v1.2.16]]'
 source_release: '[[Releases/Cline/cline-2026-03-04-v3-70-0-github-293184978-91bc11b0|cline-2026-03-04-v3-70-0-github-293184978-91bc11b0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-7-apps-and-integrations-changes-in-v0-0-421|7 Apps and Integrations changes in v0.0.421]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-added-reload-plugins-command-to-activate-pending-plugin-changes-without-restarti|Added /reload-plugins command to activate pending plugin changes without restarting]]
+- Earlier: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-2-apps-and-integrations-changes-in-v1-2-16|2 Apps and Integrations changes in v1.2.16]]
+- Later: 2026-03-04 · OpenCode · [[Changes/OpenCode/2026-03-04-rework-workspace-integration-and-adaptor-interface|Rework workspace integration and adaptor interface]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

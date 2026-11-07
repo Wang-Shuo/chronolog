@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 39b4e2daa8af50416642ac7394f244bb1605dc05a7c2208187ab28c83e365e9a
+machine_hash: 3f5b94d31f42d40597877b68b5135cb48d5b922976f358217a9ed0b2e39bb347
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,12 +41,12 @@ record:
   title: SDK releases
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-18-apps-and-integrations-changes-in-rust-v0-153-0|18
-  Apps and Integrations changes in rust-v0.153.0]]'
 - '[[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode
   Added an Add server form and a Remove action to the MCP servers dialog…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-7-apps-and-integrations-changes-in-v1-0-83|7
   Apps and Integrations changes in v1.0.83]]'
+- '[[Changes/OpenClaw/2026-09-05-35-apps-and-integrations-changes-in-v2026-9-2|35
+  Apps and Integrations changes in v2026.9.2]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-07-2026-09-07-cf030a1d|elevenlabs-2026-09-07-2026-09-07-cf030a1d]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-7-apps-and-integrations-changes-in-v1-0-83|7 Apps and Integrations changes in v1.0.83]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-35-apps-and-integrations-changes-in-v2026-9-2|35 Apps and Integrations changes in v2026.9.2]]
 - Later: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-connect-your-app-to-gong|Connect your app to Gong]]
 <!-- chronolog:end -->
 

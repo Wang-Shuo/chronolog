@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cf34b5d5ce88bd0018870f62bfffa116a509353717191822dc30eaba814b872e
+machine_hash: 7011247fac29153dea4af1e5082e78807ea905057208ac10b732a6b8ae88d376
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -57,10 +57,9 @@ record:
   title: 'refactor(core): align JIT memory placement with tiered context model'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-17-4-memory-and-personalization-changes-in-1-13-1|4 Memory
-  and Personalization changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-docs-document-tool-exclusion-from-memory-via-deny-policy-by-abhijit-2592-in-http|docs:
   document tool exclusion from memory via deny policy]]'
+- '[[Changes/Midjourney/2026-03-17-other-tips-and-tricks|Other Tips and Tricks]]'
 - '[[Changes/Codex CLI/2026-03-19-4-memory-and-personalization-changes-in-rust-v0-116-0|4
   Memory and Personalization changes in rust-v0.116.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621|gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621]]'

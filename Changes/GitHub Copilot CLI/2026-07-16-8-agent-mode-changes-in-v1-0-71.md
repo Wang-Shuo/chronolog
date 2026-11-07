@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c400d245e2e20fb2f229f6451a971d91fa462d54f198338bd150cfa8ab851331
+machine_hash: 3a8a92f1b8ebdae4a901554cd278239e7016466efbbb22dc03f3d7bf527decf8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -61,12 +61,12 @@ record:
   title: 8 Agent Mode changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-14-see-images-videos-and-files-the-agent-works-with-in-chat|See
-  images, videos, and files the agent works with in chat]]'
 - '[[Changes/Claude Code/2026-07-15-2-agent-mode-changes-in-v2-1-211|2 Agent Mode
   changes in v2.1.211]]'
 - '[[Changes/Lovable/2026-07-15-let-ai-assistants-use-your-published-app|Let AI assistants
   use your published app]]'
+- '[[Changes/OpenCode/2026-07-15-core-stopped-subagents-from-launching-nested-subagents-by-default-with-a-configu|Core
+  Stopped subagents from launching nested subagents by default…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
 source_type: github_releases
 theme: agent-mode
@@ -125,8 +125,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-15 · Lovable · [[Changes/Lovable/2026-07-15-let-ai-assistants-use-your-published-app|Let AI assistants use your published app]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-7-agent-mode-changes-in-v2-1-212|7 Agent Mode changes in v2.1.212]]
+- Earlier: 2026-07-15 · OpenCode · [[Changes/OpenCode/2026-07-15-core-stopped-subagents-from-launching-nested-subagents-by-default-with-a-configu|Core Stopped subagents from launching nested subagents by default…]]
+- Later: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-desktop-fixed-custom-agent-selector-visibility-when-custom-agents-are-available|Desktop Fixed custom agent selector visibility when custom agents are available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

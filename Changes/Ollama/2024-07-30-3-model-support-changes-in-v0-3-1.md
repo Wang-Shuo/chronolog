@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a06b7f6521487b6bef85bdca3fecbac43d18ea1d93b89a9a75c85662669f422e
+machine_hash: dfc4ba3ff491b6a516f7410c701999ca1cb5beeb4dc61d29804e71b8f4e5bd10
 product: ollama
 product_name: Ollama
 record:
@@ -46,12 +46,10 @@ record:
   title: 3 Model Support changes in v0.3.1
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-07-25-introducing-gemini-1-5-flash-to-gemini|Introducing
-  Gemini 1.5 Flash to Gemini]]'
-- '[[Changes/Ollama/2024-07-25-4-model-support-changes-in-v0-3-0|4 Model Support changes
-  in v0.3.0]]'
-- '[[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall
-  back to main model if weak model is unable to generate a commit message]]'
+- '[[Changes/Midjourney/2024-07-30-we-re-releasing-v6-1-of-our-midjourney-image-model-today|we’re
+  releasing V6.1 of our Midjourney Image Model today!]]'
+- '[[Changes/Midjourney/2024-07-30-future-plans|Future plans]]'
+- '[[Changes/Midjourney/2024-07-30-other-important-notes|Other important notes]]'
 source_release: '[[Releases/Ollama/ollama-2024-07-30-v0-3-1-github-167744592-27db223d|ollama-2024-07-30-v0-3-1-github-167744592-27db223d]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +86,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.3.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall back to main model if weak model is unable to generate a commit message]]
+- Earlier: 2024-07-30 · Midjourney · [[Changes/Midjourney/2024-07-30-other-important-notes|Other important notes]]
 - Later: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-added-strong-model-as-a-fallback-for-commit-messages-and-chat-summaries|Added strong model as a fallback for commit messages (and chat summaries)]]
 <!-- chronolog:end -->
 

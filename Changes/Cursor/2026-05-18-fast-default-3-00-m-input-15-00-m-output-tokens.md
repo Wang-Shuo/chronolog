@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d2fc4a5fb1653c194b49c607604dc385ef6152ca3657c8484ed7a61d02581f62
+machine_hash: 6a834560218e03390db0beafe7abc89ad8bc56c7320e948eddb3ac61bee3cf62
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: 'Fast (default): $3.00/M input, $15.00/M output tokens'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-14-model-picker-displays-actual-token-prices-instead-of-dot-indicators-for-token-ba|Model
-  picker displays actual token prices instead of dot indicators for token-based…]]'
 - '[[Changes/Ollama/2026-05-14-for-local-use-without-an-ollama-cloud-subscription|For
   local use without an Ollama Cloud subscription]]'
 - '[[Changes/Claude Code/2026-05-15-added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the|Added
   projected context cost (per-turn and per-invocation token estimates)…]]'
+- '[[Changes/OpenCode/2026-05-15-core-added-the-required-billing-origin-header-for-nvidia-endpoints|Core
+  Added the required billing origin header for NVIDIA endpoints]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the|Added projected context cost (per-turn and per-invocation token estimates)…]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr|Renamed "extra usage" to "usage credits" across CLI copy]]
+- Earlier: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-core-added-the-required-billing-origin-header-for-nvidia-endpoints|Core Added the required billing origin header for NVIDIA endpoints]]
+- Later: 2026-05-18 · OpenCode · [[Changes/OpenCode/2026-05-18-core-reduce-missed-event-updates-caused-by-a-subscription-race|Core Reduce missed /event updates caused by a subscription race]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

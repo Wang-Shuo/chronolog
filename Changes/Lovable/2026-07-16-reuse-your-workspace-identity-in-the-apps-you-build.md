@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 55a802b0554669a7ebed83cd20bad915f238b91b2dc5ae7717e59fd2d03f0d86
+machine_hash: 93f9bfe4587bf126df7cdfac1769dfc17c25344d95a52785729f8fe1d50db443
 product: lovable
 product_name: Lovable
 record:
@@ -57,10 +57,10 @@ record:
   title: Reuse your workspace identity in the apps you build
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3
-  Apps and Integrations changes in v2.1.208]]'
 - '[[Changes/Claude Code/2026-07-15-2-apps-and-integrations-changes-in-v2-1-211|2
   Apps and Integrations changes in v2.1.211]]'
+- '[[Changes/Suno/2026-07-15-tap-the-icon-and-find-suno-in-your-imessage-app-extensions|Tap
+  the + icon and find Suno in your iMessage app extensions]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16
   Apps and Integrations changes in v1.0.71]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-16-2026-07-16-04f2b906|lovable-2026-07-16-2026-07-16-04f2b906]]'

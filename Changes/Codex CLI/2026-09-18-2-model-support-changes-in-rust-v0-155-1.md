@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 689ccee6af4c20898df7526219e0477f47ad0c8edee250423b644bb2cfc7236c
+machine_hash: ef183d26493987b0a99f5dd450b3ab3ff2b283beb6ae20de3568d3672fa7b6f6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -81,7 +81,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.155.1
 ## Nearby in Model Support
 
 - Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed Fable to always appear in /model on the Anthropic API]]
-- Later: 2026-09-19 · Ollama · [[Changes/Ollama/2026-09-19-2-model-support-changes-in-v0-34-3|2 Model Support changes in v0.34.3]]
+- Later: 2026-09-18 · Google Antigravity · [[Changes/Google Antigravity/2026-09-18-a-malformed-tool-call-from-the-model-now-appears-as-a-short-invalid-tool-call-no|A malformed tool call from the model now appears as a short "Invalid tool call" note…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

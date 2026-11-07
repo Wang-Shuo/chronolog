@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 787b34fd1895607c11c5786e03f5d9c038adf884f89385822fa259e4be57b89f
+machine_hash: c7362e54ace8d36a2b915f4605585812cb2c8467e0f74515dd474eb6917c5ec0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -78,10 +78,11 @@ record:
   title: 18 Interface Experience changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-07-17-a-faster-task-sidebar|A faster task sidebar]]'
 - '[[Changes/Windsurf/2026-07-17-devin-local|Devin Local]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-the-sessions-sidebar-is-now-navigable-with-the-keyboard-and-mouse-arrows-open-an|The
   Sessions sidebar is now navigable with the keyboard and mouse…]]'
+- '[[Changes/OpenCode/2026-07-20-desktop-preserve-command-drafts-in-the-command-menu|Desktop
+  Preserve command drafts in the command menu]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
 source_type: github_releases
 theme: interface-experience
@@ -163,7 +164,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-the-sessions-sidebar-is-now-navigable-with-the-keyboard-and-mouse-arrows-open-an|The Sessions sidebar is now navigable with the keyboard and mouse…]]
+- Earlier: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-desktop-preserve-command-drafts-in-the-command-menu|Desktop Preserve command drafts in the command menu]]
 - Later: 2026-07-21 · Lovable · [[Changes/Lovable/2026-07-21-invite-people-outside-your-workspace-to-an-internally-published-app|Invite people outside your workspace to an internally published app]]
 <!-- chronolog:end -->
 

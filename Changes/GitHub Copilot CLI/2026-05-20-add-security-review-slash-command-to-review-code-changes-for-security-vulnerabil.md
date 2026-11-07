@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c1a3bebb66f0932e15c1d09bc2b10cf77fbb21e166c4efa51d1f777f3867706
+machine_hash: 6604063db0980030d2c75bc1046a0c675958a5c664f1c2856a1c6c10743134db
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-5-safety-and-privacy-changes-in-rust-v0-132-0|5 Safety and Privacy changes in rust-v0.132.0]]
-- Later: 2026-05-21 · Claude · [[Changes/Claude/2026-05-21-claude-now-works-with-more-security-and-compliance-tools|Claude now works with more security and compliance tools]]
+- Later: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-core-invalid-opencode-permission-json-no-longer-crashes-startup|Core Invalid OPENCODE_PERMISSION JSON no longer crashes startup]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

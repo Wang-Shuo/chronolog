@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fdf131747cdf64405a07380fe81a88eb2dff442e0aa24c0059f3aa228e0ab7e3
+machine_hash: 79bf87d092fcc9fb9b797a69d014f7bece4038379dbf2c7398049776605596d6
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -43,7 +43,8 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-25-introducing-speech-engine|Introducing Speech Engine]]'
+- '[[Changes/Midjourney/2026-05-27-conversational-mode-has-been-improved-across-text-and-voice-input|Conversational
+  mode has been improved across text and voice input]]'
 - '[[Changes/ElevenLabs/2026-06-01-dubbing|Dubbing]]'
 - '[[Changes/ElevenLabs/2026-06-01-speech-to-text|Speech to Text]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-06-01-2026-06-01-63e7e167|elevenlabs-2026-06-01-2026-06-01-63e7e167]]'
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-introducing-speech-engine|Introducing Speech Engine]]
+- Earlier: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-conversational-mode-has-been-improved-across-text-and-voice-input|Conversational mode has been improved across text and voice input]]
 - Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-voice-and-audio-changes-in-v0-9-6|4 Voice and Audio changes in v0.9.6]]
 <!-- chronolog:end -->
 

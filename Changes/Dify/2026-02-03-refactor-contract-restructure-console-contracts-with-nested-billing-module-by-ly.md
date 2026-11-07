@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4da9101743e3190bd75379c9fd7d149fd59806b96b698fd7a1d125d9890c8026
+machine_hash: 7238ff1b55561ab1004ec4764f3086827e757973f2feb968d30a49bf91c67dc0
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,9 @@ record:
   title: 'refactor(contract): restructure console contracts with nested billing module'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-01-16-lovable-bonuses|Lovable bonuses]]'
 - '[[Changes/v0/2026-01-19-improved-pricing-structure|Improved pricing structure]]'
+- '[[Changes/Suno/2026-01-27-to-try-it-for-yourself-go-to-create-choose-sounds-from-the-custom-dropdown-and-m|To
+  try it for yourself, go to Create, choose Sounds from the Custom dropdown…]]'
 - '[[Changes/v0/2026-01-27-updated-token-pricing|Updated token pricing]]'
 source_release: '[[Releases/Dify/dify-2026-02-03-1-12-0-github-282591953-290f70e4|dify-2026-02-03-1-12-0-github-282591953-290f70e4]]'
 source_type: github_releases

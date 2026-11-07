@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 25393bb483c1106c07fb8da72dac2ac39300a7c0bd4503e7e9f45e6e88a57899
+machine_hash: fa756ef61a5999d0d75e7f5027db3bc022d69b2971abda25560bc0b4cf9f3a91
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved the errors for a refused cloud session
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-07-2-account-and-access-changes-in-v1-0-93|2
-  Account and Access changes in v1.0.93]]'
 - '[[Changes/Claude Code/2026-10-08-added-support-for-forceloginmethod-gateway-and-forcelogingatewayurl-in-your-own|Added
   support for forceLoginMethod: "gateway" and forceLoginGatewayUrl…]]'
 - '[[Changes/Codex CLI/2026-10-08-2-account-and-access-changes-in-rust-v0-162-0|2
   Account and Access changes in rust-v0.162.0]]'
+- '[[Changes/OpenClaw/2026-10-08-2-account-and-access-changes-in-v2026-9-9|2 Account
+  and Access changes in v2026.9.9]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: account-access
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-2-account-and-access-changes-in-rust-v0-162-0|2 Account and Access changes in rust-v0.162.0]]
+- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-2-account-and-access-changes-in-v2026-9-9|2 Account and Access changes in v2026.9.9]]
 - Later: 2026-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-09-use-native-microsoft-entra-broker-authentication-on-macos-when-available-with-br|Use native Microsoft Entra broker authentication on macOS when available…]]
 <!-- chronolog:end -->
 

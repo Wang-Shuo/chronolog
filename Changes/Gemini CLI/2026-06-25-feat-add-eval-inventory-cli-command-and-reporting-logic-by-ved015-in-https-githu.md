@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a2e49c444be7a496d3790a7ddfaa1e70201d9ee0a0e505c2d7d7b6558dc8c0aa
+machine_hash: fd456c9c0629f6f4c8753989084748213ac39ccc4fde5cae365fe4e145bf26b8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,9 +43,10 @@ record:
   title: 'feat: add eval:inventory CLI command and reporting logic'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-23-cli-and-devin-local|CLI and Devin Local]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove
   syntax highlighting from shell commands in the timeline]]'
+- '[[Changes/OpenCode/2026-06-24-3-developer-workflow-changes-in-v1-17-10|3 Developer
+  Workflow changes in v1.17.10]]'
 - '[[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow
   changes in 1.15.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-06-25-v0-49-0-github-344957147-bf1cea5f|gemini-cli-2026-06-25-v0-49-0-github-344957147-bf1cea5f]]'
@@ -77,7 +78,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow changes in 1.15.0]]
-- Later: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow changes in v4.0.0]]
+- Later: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-updated-the-permissions-request-dialog-to-display-a-clear-description-of-the-act|Updated the permissions request dialog to display a clear description of the action…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

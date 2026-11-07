@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 96a8f0c6ca91cf270bf98fb554ec6eaf83eac97263b0a5eafc6182f2ca96d07a
+machine_hash: da9ede77471fe6b3a5f28a95fac2e3db4f765244b283415625bde3df40d50a8e
 product: lovable
 product_name: Lovable
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added /output-style name to list and switch output styles, including over Remote…]]
-- Later: 2026-09-11 · Replit · [[Changes/Replit/2026-09-11-use-managed-postgresql-in-databricks-apps|Use managed PostgreSQL in Databricks Apps]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-22-apps-and-integrations-changes-in-v2026-9-4|22 Apps and Integrations changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd355cc801fd93bd9ee46c4902f7fb898879b110bc9ad1a91060ee418da0a48f
+machine_hash: 9034d1d2c9ea56a28ec79d364b0ae4ae1ead8527cb07249207d9a0f0a16bd94d
 product: dify
 product_name: Dify
 record:
@@ -41,10 +41,10 @@ record:
   title: 'test: use SQLite sessions in core memory'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-11-memory-and-personalization-changes-in-rust-v0-145-0|11
-  Memory and Personalization changes in rust-v0.145.0]]'
-- '[[Changes/v0/2026-07-21-design-systems-personal-scope-imports-save-to-your-own-memory-the-selector-reset|Design
-  systems: personal-scope imports save to your own memory, the selector resets…]]'
+- '[[Changes/Midjourney/2026-07-24-creating-personalization-profiles-for-v8-2-now-has-a-much-larger-and-improved-po|Creating
+  personalization profiles for V8.2 now has a much larger and improved pool…]]'
+- '[[Changes/Midjourney/2026-07-24-we-are-launching-our-v8-2-image-model-today-this-update-focuses-on-aesthetics-an|Midjourney
+  launches our V8.2 image model today]]'
 - '[[Changes/Open WebUI/2026-07-27-7-memory-and-personalization-changes-in-v0-11-0|7
   Memory and Personalization changes in v0.11.0]]'
 source_release: '[[Releases/Dify/dify-2026-07-28-1-16-1-github-360820489-855a9365|dify-2026-07-28-1-16-1-github-360820489-855a9365]]'

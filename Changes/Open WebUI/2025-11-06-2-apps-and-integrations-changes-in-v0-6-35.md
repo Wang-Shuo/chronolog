@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 79b33966cc38c8048ede3e4eb9199eaadbf06782b14b310af76bb879d5fba845
+machine_hash: d3fc5202842af3af92a5ccf4c406982ac943471c8a104738a1da6ae47650a9d2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,7 +47,8 @@ record:
   title: 2 Apps and Integrations changes in v0.6.35
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-05-mcp-tool-configuration|MCP Tool Configuration]]'
+- '[[Changes/Gamma/2025-11-05-official-make-com-integration-https-www-make-com-en-integrations-gamma-app-for-n|Official
+  Make. com integration((source link)]]'
 - '[[Changes/Lovable/2025-11-05-lovable-shopify-integration|Lovable × Shopify Integration]]'
 - '[[Changes/Cline/2025-11-06-8-apps-and-integrations-changes-in-v3-36-0|8 Apps and
   Integrations changes in v3.36.0]]'

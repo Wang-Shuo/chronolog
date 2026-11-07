@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 456bb50e6753915450ce8485330a00ff20a404747be936ee9af50364c64f3f49
+machine_hash: 5508159a7bdc9b492afc76c7b34aa1269e148328cff173e5302c30102e65ebd2
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Reliability and Performance changes in v0.85.0
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-20-python-run-performance-improvements|Python run performance
-  improvements]]'
 - '[[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled
   users to provide feedback on agent performance even when the agent…]]'
 - '[[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized
   Cline to work with the Claude 4 family of models, resulting in improved…]]'
+- '[[Changes/Manus/2025-06-26-we-now-offer-two-specialized-modes-for-all-manus-paid-subscribers-choose-between|Introducing
+  Agent preference]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,7 +91,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.85.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-06-26 · Cline · [[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized Cline to work with the Claude 4 family of models, resulting in improved…]]
+- Earlier: 2025-06-26 · Manus · [[Changes/Manus/2025-06-26-we-now-offer-two-specialized-modes-for-all-manus-paid-subscribers-choose-between|Introducing Agent preference]]
 - Later: 2025-06-27 · Ollama · [[Changes/Ollama/2025-06-27-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The macOS app is now a native application and starts much faster while requiring…]]
 <!-- chronolog:end -->
 

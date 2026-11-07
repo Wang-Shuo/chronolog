@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48c6855784cf9e63cf65d2d579a0b6aa0413fd4fcc2ba072f4102d2bc9478308
+machine_hash: dc6bc0b04cb8b3b417f06251330d50ce73d4ced66ef544176864858ba781b420
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-05-12 · v0 · [[Changes/v0/2026-05-12-added-support-for-oauth-authorized-mcp-servers-in-the-platform-api-with-referenc|Added support for OAuth-authorized MCP servers in the platform API, with reference…]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-5-account-and-access-changes-in-rust-v0-131-0|5 Account and Access changes in rust-v0.131.0]]
+- Later: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-added-digitalocean-oauth-and-inference-router-support|Core Added DigitalOcean OAuth and Inference Router support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

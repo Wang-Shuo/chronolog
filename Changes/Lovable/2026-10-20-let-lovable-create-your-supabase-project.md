@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ebae1640e9e2d4a5539fa17347a2e463efed7ab414bfc14cff62213656719f53
+machine_hash: c0d44c24676af50920fb9d58afe4c922fc659b3abc59d17391ab1cc1aac385ac
 product: lovable
 product_name: Lovable
 record:
@@ -52,12 +52,12 @@ record:
   title: Let Lovable create your Supabase project
   type: change
 related_changes:
-- '[[Changes/v0/2026-10-19-connect-your-slack-workspace-to-v0-to-bring-team-conversations-into-your-work-wi|Connect
-  your Slack workspace to v0 to bring team conversations into your work]]'
-- '[[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4
-  Apps and Integrations changes in v2.1.305]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-4-apps-and-integrations-changes-in-v1-0-101|4
   Apps and Integrations changes in v1.0.101]]'
+- '[[Changes/Google Antigravity/2026-10-20-plugin-sidebar-badges-window-shortcuts-and-reliability-fixes|Plugin
+  sidebar badges, window shortcuts, and reliability fixes]]'
+- '[[Changes/Google Antigravity/2026-10-20-project-folders-managed-by-ui-plugins-now-display-a-dedicated-plugin-badge-in-th|Project
+  folders managed by UI plugins now display a dedicated plugin badge in the sidebar]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-20-2026-10-20-0d2d0ef5|lovable-2026-10-20-2026-10-20-0d2d0ef5]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-4-apps-and-integrations-changes-in-v1-0-101|4 Apps and Integrations changes in v1.0.101]]
+- Earlier: 2026-10-20 · Google Antigravity · [[Changes/Google Antigravity/2026-10-20-project-folders-managed-by-ui-plugins-now-display-a-dedicated-plugin-badge-in-th|Project folders managed by UI plugins now display a dedicated plugin badge in the sidebar]]
 - Later: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-2-apps-and-integrations-changes-in-v1-29-0|2 Apps and Integrations changes in v1.29.0]]
 <!-- chronolog:end -->
 

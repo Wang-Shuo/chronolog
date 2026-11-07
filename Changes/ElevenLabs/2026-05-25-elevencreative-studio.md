@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 45ddb0ec35d0d4dab050b9f3e6b78fb31025b9f4518e2df506089113a46202e6
+machine_hash: 65587cdba6c45868d1677e53aaa4988b4608dbd866c98a34c1da88de668de7b5
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-05-18 · ElevenLabs · [[Changes/ElevenLabs/2026-05-18-voice-isolator-f9327f|Voice Isolator]]
-- Later: 2026-06-01 · ElevenLabs · [[Changes/ElevenLabs/2026-06-01-dubbing|Dubbing]]
+- Later: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-conversational-mode-has-been-improved-across-text-and-voice-input|Conversational mode has been improved across text and voice input]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

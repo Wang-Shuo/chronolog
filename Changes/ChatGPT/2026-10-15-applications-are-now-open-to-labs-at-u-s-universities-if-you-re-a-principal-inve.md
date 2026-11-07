@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6e34ef1a102ee8443aa8c5b8896cbe582e4b6deb57acd8b7c506418074c30bc2
+machine_hash: 14269a84d35a5ee8f0905d1544c6174eab3a3d81dd99c8de7258d6a11bcfd8dd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,8 +52,8 @@ record:
   title: Applications are now open to labs at U.S. universities
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep
-  /allow-all available during startup while enterprise policy is still resolving]]'
+- '[[Changes/Google Antigravity/2026-10-12-when-antigravity-gets-a-specific-reason-for-an-error-such-as-a-model-your-admini|When
+  Antigravity gets a specific reason for an error, such as a model…]]'
 - "[[Changes/Open WebUI/2026-10-14-translated-model-prompt-suggestions-editing-the-prompt-suggestions-of-a-model-th|\U0001F4AC
   Translated model prompt suggestions. Editing the prompt suggestions of a model…]]"
 - "[[Changes/Open WebUI/2026-10-14-scim-cannot-delete-admins-an-identity-provider-can-no-longer-delete-administrato|\U0001F46E

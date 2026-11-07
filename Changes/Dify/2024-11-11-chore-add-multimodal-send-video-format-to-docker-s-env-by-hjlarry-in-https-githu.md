@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a493688f2ed8e9cd3d5933ac9664e352e797cc77ca148491237a825c5643eced
+machine_hash: 7810570fb64a4891ae3f262c5a03a94269979ed456d67b87027aece082a3426f
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: 'chore: add MULTIMODAL_SEND_VIDEO_FORMAT to docker''s env'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-21-if-you-have-a-basic-chatbot-or-text-generator-app-with-the-vision-feature-enable|
-  If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…]]'
 - '[[Changes/Ollama/2024-10-21-3-multimodal-input-changes-in-v0-4-0|3 Multimodal Input
   changes in v0.4.0]]'
+- '[[Changes/Runway/2024-10-25-introducing-act-one-a-new-way-to-generate-expressive-character-performances-insi|Act-One
+  in Gen-3 Alpha]]'
 - '[[Changes/Dify/2024-10-28-enhanced-prompt-handling-in-workflows-added-vision-support-in-prompts-for-more-d|Enhanced
   Prompt Handling in Workflows: Added vision support in prompts for more…]]'
 source_release: '[[Releases/Dify/dify-2024-11-11-0-11-1-github-184645691-184d9522|dify-2024-11-11-0-11-1-github-184645691-184d9522]]'

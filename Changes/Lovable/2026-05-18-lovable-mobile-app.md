@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: expansion
-machine_hash: 5a58506095541b97b8d25093fd3d21f76ded9f4b9b8a4c329ef3c30d5e699673
+machine_hash: 0a3a852b00084a99887901ac88e9fc161a3b7bfc393580f4d62f5416999c786f
 product: lovable
 product_name: Lovable
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-18 · ElevenLabs · [[Changes/ElevenLabs/2026-05-18-ios-sdk|iOS SDK]]
-- Later: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-the-next-chapter-of-gemini-live|The next chapter of Gemini Live]]
+- Later: 2026-05-18 · OpenCode · [[Changes/OpenCode/2026-05-18-6-mobile-and-desktop-changes-in-v1-15-5|6 Mobile and Desktop changes in v1.15.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f68aa25807236ec65f992de474366251f5eea9aa7fafcb10eca08a3062066760
+machine_hash: 0ba37cd2a32428422f210d60a9ba05bd03de9f6d5c01dbba5b7f71805deff733
 product: lovable
 product_name: Lovable
 record:
@@ -56,12 +56,12 @@ record:
   title: GPT Image 2.5 Flare and Sunburst for your app's AI features
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-40544-include-transparent-background-in-image-generation-analytics-copyberry|♯40544
-  Include transparent background in image generation analytics @copyberry]]'
 - '[[Changes/v0/2026-08-28-generated-images-referenced-by-relative-paths-render-in-responses-as-do-screensh|Generated
   images referenced by relative paths render in responses, as do screenshots…]]'
 - '[[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT
   Images 2.5 brings sharper details, more precise editing, and faster image…]]'
+- '[[Changes/OpenClaw/2026-09-11-2-image-generation-changes-in-v2026-9-4|2 Image Generation
+  changes in v2026.9.4]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-15-2026-09-15-6e6a8d9f|lovable-2026-09-15-2026-09-15-6e6a8d9f]]'
 source_type: lovable_changelog
 theme: image-generation
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image…]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-2-image-generation-changes-in-v2026-9-4|2 Image Generation changes in v2026.9.4]]
 - Later: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-43953-preserve-per-image-generation-ids-in-image-generation-analytics-copyberry|♯43953 Preserve per-image generation IDs in image generation analytics @copyberry]]
 <!-- chronolog:end -->
 

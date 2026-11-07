@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2310b92eb7e07d42602fbad0daa997ffcc1af57d44c53f064e12a23697105e41
+machine_hash: 554748ad6d7fb4c6f3fe2508e24b304a32987f5e523a80dbeb947ca1939a08fc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.103
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-8-safety-and-privacy-changes-in-v2-1-309|8 Safety and Privacy changes in v2.1.309]]
-- Later: 2026-10-22 · Lovable · [[Changes/Lovable/2026-10-22-clearer-privacy-security-settings|Clearer Privacy & security settings]]
+- Later: 2026-10-22 · Google Antigravity · [[Changes/Google Antigravity/2026-10-22-question-prompts-and-permission-requests-now-dock-above-the-message-box-instead|Question prompts and permission requests now dock above the message box instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

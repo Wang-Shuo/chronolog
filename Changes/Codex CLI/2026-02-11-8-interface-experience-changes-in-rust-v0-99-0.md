@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 013c796a96114ac449fa952804a6c5d45c41c91b30a71910cd835b2202633701
+machine_hash: 0c6a904024a25325712256db3ee79a1b311201cd12842aba27770ceb61f2d34e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,12 +61,12 @@ record:
   title: 8 Interface Experience changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|Updates
-  to deep research]]'
-- '[[Changes/Claude Code/2026-02-10-improved-terminal-rendering-performance|Improved
-  terminal rendering performance]]'
 - '[[Changes/Gemini CLI/2026-02-10-2-interface-experience-changes-in-v0-28-0|2 Interface
   Experience changes in v0.28.0]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-don-t-close-sidebar-on-session-change|Desktop
+  Don''t close sidebar on session change]]'
+- '[[Changes/OpenCode/2026-02-10-4-interface-experience-changes-in-v1-1-54|4 Interface
+  Experience changes in v1.1.54]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
 source_type: github_releases
 theme: interface-experience
@@ -125,7 +125,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-2-interface-experience-changes-in-v0-28-0|2 Interface Experience changes in v0.28.0]]
+- Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-4-interface-experience-changes-in-v1-1-54|4 Interface Experience changes in v1.1.54]]
 - Later: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-2-interface-experience-changes-in-v0-0-407|2 Interface Experience changes in v0.0.407]]
 <!-- chronolog:end -->
 

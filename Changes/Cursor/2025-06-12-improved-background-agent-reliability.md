@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: fba15974c9719b92e61cf5d28de5781c1f31520f6407b7ef2d90e80b5609803b
+machine_hash: 4df1ca17d870e11a525aa06e0115184081a2f09fe4e4a74d0bd649ed857a75c6
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,10 @@ record:
   title: Improved Background Agent reliability
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured
-  PRs opened by agent is properly tracked in conversation metadata]]'
 - '[[Changes/Dify/2025-06-11-4-agent-mode-changes-in-1-4-2|4 Agent Mode changes in
   1.4.2]]'
+- '[[Changes/Manus/2025-06-11-start-free-by-asking-any-question-and-get-instant-answers-need-more-power-one-cl|Introducing
+  Manus FREE Chat Mode!]]'
 - '[[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch
   Background Agents directly from Slack by mentioning @Cursor]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-4-agent-mode-changes-in-1-4-2|4 Agent Mode changes in 1.4.2]]
+- Earlier: 2025-06-11 · Manus · [[Changes/Manus/2025-06-11-start-free-by-asking-any-question-and-get-instant-answers-need-more-power-one-cl|Introducing Manus FREE Chat Mode!]]
 - Later: 2025-06-17 · ElevenLabs · [[Changes/ElevenLabs/2025-06-17-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 

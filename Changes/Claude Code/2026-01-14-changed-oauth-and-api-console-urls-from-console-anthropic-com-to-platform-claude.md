@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4187383d36be17c21bed03d1d8e78b2caac69ed1bcf2cef7ea440760adafab7b
+machine_hash: be1e18c9fd85a81841e4a6838ea931e2b39bc07ee5de921dfb53dbdf668ee5b1
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Changed OAuth and API Console URLs from console.anthropic.com to platform.claude.com
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-3-account-and-access-changes-in-v0-7-0|3 Account
-  and Access changes in v0.7.0]]'
 - '[[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated
   "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]'
 - '[[Changes/Dify/2026-01-13-4-account-and-access-changes-in-1-11-3|4 Account and
   Access changes in 1.11.3]]'
+- '[[Changes/OpenCode/2026-01-13-desktop-provide-pty-socket-authentication-if-available-from-desktop|Desktop
+  Provide PTY socket authentication if available from desktop]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
 source_type: github_releases
 theme: account-access
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-4-account-and-access-changes-in-1-11-3|4 Account and Access changes in 1.11.3]]
+- Earlier: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-desktop-provide-pty-socket-authentication-if-available-from-desktop|Desktop Provide PTY socket authentication if available from desktop]]
 - Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-account-and-access-changes-in-rust-v0-81-0|2 Account and Access changes in rust-v0.81.0]]
 <!-- chronolog:end -->
 

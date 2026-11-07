@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 06fa935385f69d10b81cb449e577af6e7f6db1dd8432e85c0ac496f8b1329508
+machine_hash: c26daa5378d4ecd2ed15ee436542f62adc93272326d4a08085f6cb0617c48463
 product: openhands
 product_name: OpenHands
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Automation and Scheduling changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-6-automation-and-scheduling-changes-in-v0-10-0|6
-  Automation and Scheduling changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-pr-auto-now-starts-a-self-paced-loop-that-fixes-one-thing-per-run-and-paces-itse|/pr
   auto now starts a self-paced loop that fixes one thing per run and paces itself…]]'
+- '[[Changes/OpenClaw/2026-06-30-15-automation-and-scheduling-changes-in-v2026-6-11|15
+  Automation and Scheduling changes in v2026.6.11]]'
 - "[[Changes/Open WebUI/2026-07-01-models-with-null-capabilities-chatting-with-a-model-whose-capabilities-are-unset|\U0001F916
   Models with null capabilities. Chatting with a model whose capabilities…]]"
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'

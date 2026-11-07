@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 493f81b5f506e6d16a3bb8fe18ad863478f0d2b9153270d1217d63fca01e91d6
+machine_hash: 6207a9772bd8dbbbc2243cca21f9d5a6782a00931f73be4a3bac2548d7140478
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Editor Experience changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-10-editor-experience-changes-in-v0-10-0|10 Editor
-  Experience changes in v0.10.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-2-editor-experience-changes-in-v1-0-66|2
-  Editor Experience changes in v1.0.66]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-ctrl-q-now-enqueues-the-highlighted-slash-command-argument-completion|Ctrl+Q
   now enqueues the highlighted slash-command argument completion]]'
+- '[[Changes/OpenClaw/2026-06-30-7-editor-experience-changes-in-v2026-6-11|7 Editor
+  Experience changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-desktop-autocomplete-configured-references-in-prompts|Desktop
+  Autocomplete configured references in prompts]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583|github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583]]'
 source_type: github_releases
 theme: editor-experience
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-ctrl-q-now-enqueues-the-highlighted-slash-command-argument-completion|Ctrl+Q now enqueues the highlighted slash-command argument completion]]
+- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-desktop-autocomplete-configured-references-in-prompts|Desktop Autocomplete configured references in prompts]]
 - Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-editor-experience-changes-in-v0-10-2|2 Editor Experience changes in v0.10.2]]
 <!-- chronolog:end -->
 

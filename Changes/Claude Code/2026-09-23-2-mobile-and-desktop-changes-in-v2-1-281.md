@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b816552678fd617426008b4c6e3ff5c2d2e01a311e5eaf72e5865768fe81b97d
+machine_hash: 3d925e74f6fc700be7a4e461e6c5301aa0a17d8a3ebe97be6148a7538499c947
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-11-mobile-and-desktop-changes-in-rust-v0-156-0|11 Mobile and Desktop changes in rust-v0.156.0]]
-- Later: 2026-09-23 · OpenHands · [[Changes/OpenHands/2026-09-23-feat-desktop-universal-macos-dmg-with-per-arch-bundled-runtimes-by-harsh-batheja|feat(desktop): universal macOS DMG with per-arch bundled runtimes]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-16-mobile-and-desktop-changes-in-v2026-9-6|16 Mobile and Desktop changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

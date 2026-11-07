@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00cf95a686bdd670bda9b36f750fccafb31ba1c55b5524022cd17328a767a058
+machine_hash: c053649e5a78549631a1d1a9b40964c5839321228d077cf1cdf3adefbec3d9a8
 product: ollama
 product_name: Ollama
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-3-mobile-and-desktop-changes-in-rust-v0-129-0|3 Mobile and Desktop changes in rust-v0.129.0]]
-- Later: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]
+- Later: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-4-mobile-and-desktop-changes-in-v1-14-40|4 Mobile and Desktop changes in v1.14.40]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

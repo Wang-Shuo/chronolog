@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 767778eb52ee46ba978f25f474bf90b3474fc6bc4fbc58f3f621a6e5e855e2b4
+machine_hash: 9797ad29573e1cc8e7229e54afe6a9334589b60075feeee01b847fe21a1b9c37
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
   title: Added external editor support (Ctrl+G) in AskUserQuestion "Other" input field
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-2-editor-experience-changes-in-rust-v0-81-0|2 Editor
-  Experience changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-4-editor-experience-changes-in-v0-24-0|4 Editor
   Experience changes in v0.24.0]]'
 - '[[Changes/Ollama/2026-01-14-qwen-image-edit-2511|Qwen-Image-Edit-2511]]'
+- '[[Changes/OpenCode/2026-01-15-add-error-message-to-prompt-users-to-reauthenticate-with-copilot|Add
+  error message to prompt users to reauthenticate with Copilot]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-14 · Ollama · [[Changes/Ollama/2026-01-14-qwen-image-edit-2511|Qwen-Image-Edit-2511]]
+- Earlier: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-add-error-message-to-prompt-users-to-reauthenticate-with-copilot|Add error message to prompt users to reauthenticate with Copilot]]
 - Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor brings many of the editor’s most-loved features to the Cursor CLI, along…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f4ed5b5d842ab5847510a2c42c5aa8027a1ea37e970e2a2e6e3501e79ca7999
+machine_hash: a216529b2b0303d92199fb02268c32fd55b9809d769b7e1590a58a3d944c368b
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,10 +52,11 @@ record:
   title: 4 Safety and Privacy changes in v2.1.282
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-security-review|Security Review]]'
 - '[[Changes/Cursor/2026-09-23-findings|Findings]]'
 - '[[Changes/Lovable/2026-09-23-redesigned-project-security-view|Redesigned project
   Security view]]'
+- '[[Changes/OpenClaw/2026-09-23-50-safety-and-privacy-changes-in-v2026-9-6|50 Safety
+  and Privacy changes in v2026.9.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
 theme: safety-privacy
@@ -99,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-redesigned-project-security-view|Redesigned project Security view]]
+- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-50-safety-and-privacy-changes-in-v2026-9-6|50 Safety and Privacy changes in v2026.9.6]]
 - Later: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-raised-the-minimum-js-yaml-version-to-4-3-2-to-pick-up-a-security-fix-in-the-par|Raised the minimum js-yaml version to 4.3.2 to pick up a security fix in the parser…]]
 <!-- chronolog:end -->
 

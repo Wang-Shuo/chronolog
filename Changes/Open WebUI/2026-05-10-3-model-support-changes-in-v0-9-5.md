@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02f67e30782dc6e8a2200024a01ffa89be37cd2997292f5d1a12fbf13eae7889
+machine_hash: 8c417ba6b981b16e3032e7506f3b219e295bffa00dcc03fddd8907211902043f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,12 +54,12 @@ record:
   title: 3 Model Support changes in v0.9.5
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-added-support-for-general-model-names-for-subagent-configuration-i-e-set-model-o|Added
-  support for general model names for subagent configuration (i.e., set model]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-3-model-support-changes-in-v1-0-44|3 Model
   Support changes in v1.0.44]]'
 - '[[Changes/Open WebUI/2026-05-09-9-model-support-changes-in-v0-9-3|9 Model Support
   changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-09-3-model-support-changes-in-v1-14-44-2|3 Model Support
+  changes in v1.14.44 + 2]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-10-v0-9-5-github-320167431-c515d0a2|open-webui-2026-05-10-v0-9-5-github-320167431-c515d0a2]]'
 source_type: github_releases
 theme: model-support
@@ -102,8 +102,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-9-model-support-changes-in-v0-9-3|9 Model Support changes in v0.9.3]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction prompt now asks the model to preserve sensitive user instructions]]
+- Earlier: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-3-model-support-changes-in-v1-14-44-2|3 Model Support changes in v1.14.44 + 2]]
+- Later: 2026-05-10 · OpenCode · [[Changes/OpenCode/2026-05-10-core-provider-configs-and-api-responses-now-accept-models-marked-as-active|Core Provider configs and API responses now accept models marked as active]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

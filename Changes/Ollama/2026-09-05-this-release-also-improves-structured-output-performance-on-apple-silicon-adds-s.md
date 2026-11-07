@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c21e199b38f47d447fac48bb68a3eeb2d8e224e2f393ab6163a103cec16437ed
+machine_hash: 6fe69ad99eefb231676a442d7ab2cc4cc9441cb26bb0f36ed4b02460c91602b4
 product: ollama
 product_name: Ollama
 record:
@@ -46,10 +46,9 @@ record:
     adds…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
-  General improvements. Various improvements were implemented across…]]"
-- '[[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved
-  prompt input responsiveness by reducing per-keystroke rendering work]]'
+- '[[Changes/Suno/2026-09-02-wavetable-fidelity|Wavetable fidelity]]'
+- '[[Changes/OpenClaw/2026-09-03-on-linux-managed-local-model-and-embedding-services-are-preferred-as-the-out-of|On
+  Linux, managed local model and embedding services are preferred…]]'
 - '[[Changes/Claude Code/2026-09-04-improved-streaming-performance-already-rendered-blocks-are-no-longer-re-checked|Improved
   streaming performance]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-05-v0-34-0-github-383028723-ab16dad6|ollama-2026-09-05-v0-34-0-github-383028723-ab16dad6]]'
@@ -83,7 +82,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-improved-streaming-performance-already-rendered-blocks-are-no-longer-re-checked|Improved streaming performance]]
-- Later: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-faster-payments-dashboard|Faster payments dashboard]]
+- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-3-reliability-and-performance-changes-in-v2026-9-2|3 Reliability and Performance changes in v2026.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

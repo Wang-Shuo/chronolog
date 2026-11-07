@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f2a6aa859c0cb97fca9d9134a2f432c0b6f8f521a28aa7fcd41cf27b3456259
+machine_hash: 4db5752d699b9b7b4457fd046a4910fb0cc8b3ac7449c850b3c3aad7979cf73a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,11 +55,12 @@ record:
   title: 3 Search and Browsing changes in v0.6.42
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-11-26-better-commit-messages|Better commit messages]]'
 - '[[Changes/Replit/2025-11-26-better-search-rankings-for-custom-domains|Better search
   rankings for Custom Domains]]'
 - "[[Changes/Open WebUI/2025-12-02-web-search-domain-filtering-was-corrected-to-properly-block-results-when-any-res|\U0001F6E1️
   Web search domain filtering was corrected to properly block results when any…]]"
+- '[[Changes/Gamma/2025-12-17-want-your-site-to-show-up-in-search-results-now-you-can-enable-indexing-to-help|Want
+  your site to show up in search results?]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'
 source_type: github_releases
 theme: search-browsing
@@ -110,7 +111,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.42
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-web-search-domain-filtering-was-corrected-to-properly-block-results-when-any-res|🛡️ Web search domain filtering was corrected to properly block results when any…]]
+- Earlier: 2025-12-17 · Gamma · [[Changes/Gamma/2025-12-17-want-your-site-to-show-up-in-search-results-now-you-can-enable-indexing-to-help|Want your site to show up in search results?]]
 - Later: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-4-search-and-browsing-changes-in-rust-v0-79-0|4 Search and Browsing changes in rust-v0.79.0]]
 <!-- chronolog:end -->
 

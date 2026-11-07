@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 72ef12041dff167b6e934356c0e17840c514e7481dc14a10cfa9a2eeb2e2b953
+machine_hash: 4bc3d08ef4893f94a1f3d5d2542126c49114caef845fb45e7353993d6e956184
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-13-3-apps-and-integrations-changes-in-v0-0-340|3 Apps and Integrations changes in v0.0.340]]
-- Later: 2025-10-15 · Gemini CLI · [[Changes/Gemini CLI/2025-10-15-3-apps-and-integrations-changes-in-v0-9-0|3 Apps and Integrations changes in v0.9.0]]
+- Later: 2025-10-14 · Runway · [[Changes/Runway/2025-10-14-apps-are-an-ever-growing-collection-of-use-case-specific-workflows-that-make-it|Apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

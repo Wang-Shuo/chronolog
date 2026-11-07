@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ef8c2e7138cddec6263900e2231d6857ba267cb1a5fe04e252f2c129bdd00171
+machine_hash: 26b6bd7ac386b43ad9dfb0f5a6b8b83d1bd3c08961d68291de585d5cbe72d6e5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,7 +52,8 @@ record:
     administrators…"
   type: change
 related_changes:
-- '[[Changes/Claude/2025-11-24-claude-opus-4-5-launch|Claude Opus 4.5 launch]]'
+- '[[Changes/Gamma/2025-11-24-nano-banana-pro-now-available-in-gamma-it-s-the-first-model-that-can-perfectly-h|New
+  image model: Nano Banana Pro]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-24-opus-4-5-gpt-4-1-and-gpt-5-mini-are-now-available-in-github-copilot-cli|Opus
   4.5, GPT-4.1 and GPT-5-Mini are now available in GitHub Copilot CLI]]'
 - "[[Changes/Open WebUI/2025-11-24-model-cloning-is-now-available-in-admin-settings-allowing-administrators-to-quic|\U0001F916

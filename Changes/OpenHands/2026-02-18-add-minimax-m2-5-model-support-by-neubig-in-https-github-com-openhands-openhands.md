@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 47fbbcfaba08cdfeffc23ef232fcf1fbebe4607a41082b176beb1625a5563de5
+machine_hash: d216c52c253f269f674b20009b39d169bd50e463a6972109c41a17796ebb1590
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,11 @@ record:
   title: Add MiniMax-M2.5 model support
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-18-2-model-support-changes-in-rust-v0-104-0|2 Model
-  Support changes in rust-v0.104.0]]'
 - '[[Changes/Cursor/2026-02-18-2-model-support-changes-in-cli-improvements-and-mermaid-ascii|2
   Model Support changes in CLI Improvements and Mermaid ASCII…]]'
 - '[[Changes/Gemini CLI/2026-02-18-11-model-support-changes-in-v0-29-0|11 Model Support
   changes in v0.29.0]]'
+- '[[Changes/Midjourney/2026-02-18-please-note|Please Note]]'
 source_release: '[[Releases/OpenHands/openhands-2026-02-18-1-4-0-github-287748059-9b5e1334|openhands-2026-02-18-1-4-0-github-287748059-9b5e1334]]'
 source_type: github_releases
 theme: model-support
@@ -75,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-11-model-support-changes-in-v0-29-0|11 Model Support changes in v0.29.0]]
+- Earlier: 2026-02-18 · Midjourney · [[Changes/Midjourney/2026-02-18-please-note|Please Note]]
 - Later: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support changes in v2.1.49]]
 <!-- chronolog:end -->
 

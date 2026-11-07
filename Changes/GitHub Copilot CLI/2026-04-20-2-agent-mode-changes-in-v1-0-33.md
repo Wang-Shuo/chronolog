@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 126ca460e2b66a22e5fafa6383d30c3d8ad56b098881887c85bd4a56e234fc5e
+machine_hash: b23cb8aa576b9bfa312dc0b91d436006833e1b881b61eb52fe9ea2ab33098931
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.33
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-elevenagents|ElevenAgents]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-agent-mode-changes-in-v2-1-117|2 Agent Mode changes in v2.1.117]]
+- Later: 2026-04-21 · OpenCode · [[Changes/OpenCode/2026-04-21-desktop-added-a-setting-to-hide-the-session-progress-bar-while-the-agent-is-work|Desktop Added a setting to hide the session progress bar while the agent is working]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 00d0734aa70c87b9e56e4bafbfc3a179c373be08d8b26589a54f8ed087c09ca8
+machine_hash: 2658a696d6a179fe1f1184bf2f865bb4f7a0e54da554a4e76c45dd27f5d03ba8
 product: lovable
 product_name: Lovable
 record:
@@ -54,12 +54,12 @@ record:
   title: Chat Latest for your app's AI features
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-21-perf-batch-streamingdeltaevents-so-the-ui-keeps-up-with-fast-models-by-vascosch9|perf:
-  batch StreamingDeltaEvents so the UI keeps up with fast models]]'
 - '[[Changes/Cline/2026-08-22-restore-tool-calling-for-custom-openai-compatible-models-whose-capability-list-w|Restore
   tool calling for custom OpenAI-Compatible models whose capability list…]]'
 - '[[Changes/Cline/2026-08-23-refresh-the-built-in-model-catalog-new-entries-include-claude-fable-5-grok-4-6-o|Refresh
   the built-in model catalog]]'
+- '[[Changes/Google Antigravity/2026-08-24-added-support-for-attaching-audio-files-mp3-wav-m4a-aac-ogg-flac-opus-up-to-20mb|Added
+  support for attaching audio files (MP3, WAV, M4A, AAC, OGG, FLAC, OPUS) up…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-24-2026-08-24-b7c01132|lovable-2026-08-24-2026-08-24-b7c01132]]'
 source_type: lovable_changelog
 theme: model-support
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-23 · Cline · [[Changes/Cline/2026-08-23-refresh-the-built-in-model-catalog-new-entries-include-claude-fable-5-grok-4-6-o|Refresh the built-in model catalog]]
+- Earlier: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-added-support-for-attaching-audio-files-mp3-wav-m4a-aac-ogg-flac-opus-up-to-20mb|Added support for attaching audio files (MP3, WAV, M4A, AAC, OGG, FLAC, OPUS) up…]]
 - Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-93-model-support-changes-in-1-17-0|93 Model Support changes in 1.17.0]]
 <!-- chronolog:end -->
 

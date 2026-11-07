@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30a8d3cd42070096c4f7544319ec0be8b6d1e285df1467b5b3629edbab6a933e
+machine_hash: b618f3d1d147b87c4a480001c92d045b1d611dd27ad0c88e281ab8aa9d47e834
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     left edge
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-feat-conversation-give-the-drawer-tab-strip-real-tab-semantics-by-errmakov-in-ht|feat(conversation):
-  give the drawer tab strip real tab semantics]]'
 - '[[Changes/Claude Code/2026-10-07-improved-the-bash-edit-diff-note-to-say-the-listed-files-changed-while-the-comma|Improved
   the Bash edit diff note to say the listed files changed while the command…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-read-user-settings-only-from-copilot-settings-json-user-setting-keys-in-copilot|Read
   user settings only from ~/.copilot/settings.json]]'
+- '[[Changes/Google Antigravity/2026-10-07-file-edits-terminal-commands-and-file-reads-between-agent-replies-now-group-into|File
+  edits, terminal commands, and file reads between agent replies now group…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-read-user-settings-only-from-copilot-settings-json-user-setting-keys-in-copilot|Read user settings only from ~/.copilot/settings.json]]
+- Earlier: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-file-edits-terminal-commands-and-file-reads-between-agent-replies-now-group-into|File edits, terminal commands, and file reads between agent replies now group…]]
 - Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-50216-use-the-shared-text-editor-for-command-center-task-renaming-bc-openai|♯50216 Use the shared text editor for command-center task renaming @bc-openai]]
 <!-- chronolog:end -->
 

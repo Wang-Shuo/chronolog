@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 891b68f3890d9ce61be9fc3c9c769d238613cca690a1ae3dbcc56488e2ac75bb
+machine_hash: 98fa316e951fe3f19201fa154144cf2ef3b9d48e618819d03c3838bb2fe22e1e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -164,12 +164,12 @@ record:
   title: 20 Developer Workflow changes in v0.12.3
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-14-6-developer-workflow-changes-in-v0-12-1|6 Developer
-  Workflow changes in v0.12.1]]'
 - '[[Changes/Claude Code/2026-10-15-2-developer-workflow-changes-in-v2-1-301|2 Developer
   Workflow changes in v2.1.301]]'
 - '[[Changes/Codex CLI/2026-10-15-15-developer-workflow-changes-in-rust-v0-163-0|15
   Developer Workflow changes in rust-v0.163.0]]'
+- '[[Changes/Google Antigravity/2026-10-15-mark-all-as-read-is-now-available-from-the-command-palette-whenever-you-have-unr|Mark
+  All as Read is now available from the command palette whenever you have unread…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -251,8 +251,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-15-developer-workflow-changes-in-rust-v0-163-0|15 Developer Workflow changes in rust-v0.163.0]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-3-developer-workflow-changes-in-v2-1-304|3 Developer Workflow changes in v2.1.304]]
+- Earlier: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-mark-all-as-read-is-now-available-from-the-command-palette-whenever-you-have-unr|Mark All as Read is now available from the command palette whenever you have unread…]]
+- Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-3-developer-workflow-changes-in-v2026-10-4|3 Developer Workflow changes in v2026.10.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

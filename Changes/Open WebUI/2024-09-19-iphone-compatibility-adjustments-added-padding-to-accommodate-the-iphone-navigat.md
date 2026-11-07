@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aceaabddc04de8aa434e6fce57ca28b7abdb44111e6b18fbb7f2f090156b2e58
+machine_hash: 340a8f21538da1fd0ba748264cb21cc7f3a0bd03d9247f08536c154e45a1e413
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,10 @@ record:
   title: "**\U0001F4F1 iPhone Compatibility Adjustments**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-05-ui-styling-refined-the-user-interface-styling-for-enhanced-visual-coherence-and|\U0001F3A8
-  UI Styling]]"
 - '[[Changes/Open WebUI/2024-09-07-2-interface-experience-changes-in-v0-3-20|2 Interface
   Experience changes in v0.3.20]]'
+- '[[Changes/Gamma/2024-09-10-click-share-at-the-top-of-your-screen-or-in-the-menu-at-the-top-right-and-select|Click
+  Share at the top of your screen or in the ... menu at the top right…]]'
 - '[[Changes/Dify/2024-09-12-copy-shortcut-fixes|Copy Shortcut Fixes]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-19-v0-3-22-github-175998009-91af8aae|open-webui-2024-09-19-v0-3-22-github-175998009-91af8aae]]'
 source_type: github_releases

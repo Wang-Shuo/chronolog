@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da0dd858367c0cd75fef23694f5bc97f4840d0477c1fb7ad536d416e0bff3c1e
+machine_hash: 7fe85753c87e6efab99eadbfca165dbb2481a3e0275f859da3dd65b3f867272c
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-2-account-and-access-changes-in-v1-0-40|2 Account and Access changes in v1.0.40]]
-- Later: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i|ChatGPT for Excel and Google Sheets]]
+- Later: 2026-05-04 · OpenCode · [[Changes/OpenCode/2026-05-04-2-account-and-access-changes-in-v1-14-34|2 Account and Access changes in v1.14.34]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

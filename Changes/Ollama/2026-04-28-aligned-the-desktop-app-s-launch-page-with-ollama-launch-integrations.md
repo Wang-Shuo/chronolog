@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd744126d235c16ed3c8f099222b3eb175aa59b531a50f2c67e086c866174f9d
+machine_hash: 0bd948dbfafccc7737a9f6915e04707245948f766ce804c164b085af8c1cfc17
 product: ollama
 product_name: Ollama
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-2-apps-and-integrations-changes-in-v0-40-0|2 Apps and Integrations changes in v0.40.0]]
-- Later: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|Cursor introduces the Cursor SDK so you can build agents with the same runtime…]]
+- Later: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-desktop-sync-state-loading-is-more-reliable-for-mcp-lsp-and-workspace-refreshes|Desktop Sync state loading is more reliable for MCP, LSP, and workspace refreshes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

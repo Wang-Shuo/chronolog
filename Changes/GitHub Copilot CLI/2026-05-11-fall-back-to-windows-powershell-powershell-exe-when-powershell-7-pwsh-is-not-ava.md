@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7483ba65c818aa59dcc7479ebf62ced2b3a9741ce6d2a3ef55d866b7b8957ee3
+machine_hash: 0497bf857600fb37e82abc032f6c6c4721ef55dfc5025de1cba9178c8168a48d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,11 +45,12 @@ record:
     is not…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-05-06-windows-updates|Windows updates]]'
-- '[[Changes/Codex CLI/2026-05-07-3-mobile-and-desktop-changes-in-rust-v0-129-0|3
-  Mobile and Desktop changes in rust-v0.129.0]]'
-- '[[Changes/Ollama/2026-05-07-use-ollama-launch-claude-desktop-restore-to-restore-claude-desktop-to-its-normal|Use
-  ollama launch claude-desktop --restore to restore Claude Desktop to its normal state]]'
+- '[[Changes/OpenCode/2026-05-09-desktop-switched-desktop-updates-to-silent-per-user-install-flow|Desktop
+  Switched desktop updates to silent per-user install flow]]'
+- '[[Changes/OpenCode/2026-05-10-core-fixed-old-sessions-with-negative-token-counts-causing-message-loads-and-des|Core
+  Fixed old sessions with negative token counts causing message loads and Desktop…]]'
+- '[[Changes/OpenCode/2026-05-10-2-mobile-and-desktop-changes-in-v1-14-45|2 Mobile
+  and Desktop changes in v1.14.45]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-11-v1-0-45-github-320681555-97d8cd0a|github-copilot-cli-2026-05-11-v1-0-45-github-320681555-97d8cd0a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-07 · Ollama · [[Changes/Ollama/2026-05-07-use-ollama-launch-claude-desktop-restore-to-restore-claude-desktop-to-its-normal|Use ollama launch claude-desktop --restore to restore Claude Desktop to its normal state]]
+- Earlier: 2026-05-10 · OpenCode · [[Changes/OpenCode/2026-05-10-2-mobile-and-desktop-changes-in-v1-14-45|2 Mobile and Desktop changes in v1.14.45]]
 - Later: 2026-05-12 · ChatGPT · [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More images in answers for Free users]]
 <!-- chronolog:end -->
 

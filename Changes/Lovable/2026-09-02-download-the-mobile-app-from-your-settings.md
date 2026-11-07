@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7367a4c7b2ad4a76e8a6279e5c16d2e72470a2e1c86945fda5cf1240ee2ec332
+machine_hash: a027af3b9dcf0f36ad10e3aa3cc920ed8b20bee55cc6ab63c7bfd05415a15974
 product: lovable
 product_name: Lovable
 record:
@@ -51,11 +51,12 @@ record:
   title: Download the mobile app from your settings
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-31-android-sdk|Android SDK]]'
-- "[[Changes/Open WebUI/2026-08-31-code-interpreter-starts-on-windows-the-built-in-code-interpreter-now-serves-its|\U0001F40D
-  Code interpreter starts on Windows. The built-in code interpreter now serves…]]"
+- '[[Changes/OpenClaw/2026-08-31-installation-and-onboarding-a-clearer-path-from-download-to-a-first-useful-conve|Installation
+  and Onboarding - A clearer path from download to a first useful…]]'
 - '[[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed
   --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]'
+- '[[Changes/OpenClaw/2026-09-01-3-mobile-and-desktop-changes-in-v2026-8-2|3 Mobile
+  and Desktop changes in v2026.8.2]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-02-2026-09-02-ff26ed0f|lovable-2026-09-02-2026-09-02-ff26ed0f]]'
 source_type: lovable_changelog
 theme: mobile-desktop
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]
+- Earlier: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-3-mobile-and-desktop-changes-in-v2026-8-2|3 Mobile and Desktop changes in v2026.8.2]]
 - Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile and Desktop changes in v2.1.260]]
 <!-- chronolog:end -->
 

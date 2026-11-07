@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9abd6107b8a7df1f832bf99a2fd3ab8e2986e1270a0815025e55782ab2f1a8d0
+machine_hash: f6cb8574f68bb4ac3dc1f13983b00f011aececa77cdfbe14aa38aee4b7cdef24
 product: ollama
 product_name: Ollama
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Reliability and Performance changes in v0.21.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume
-  on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]'
+- '[[Changes/Granola/2026-04-21-granola-chat-is-rebuilt-to-be-agentic-faster-across-your-notes-team-space-and-wh|Granola
+  Chat just got smarter]]'
 - '[[Changes/Open WebUI/2026-04-21-24-reliability-and-performance-changes-in-v0-9-0|24
   Reliability and Performance changes in v0.9.0]]'
 - '[[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2

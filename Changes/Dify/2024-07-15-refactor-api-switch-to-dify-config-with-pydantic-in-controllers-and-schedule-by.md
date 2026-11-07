@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac64a32a390568b6fafc976c3aa18cbfc509c953804f7e12dacf098d3179a282
+machine_hash: c56b4efb237a0830c25a63c44a852c3384ea1b1792e86c96483574a7a3282a1d
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 'refactor(api): switch to dify_config with Pydantic in controllers and schedule'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-19-as-per-the-planned-schedule-these-deprecated-envs-are-being-removed|As
-  per the planned schedule, these deprecated envs are being removed]]'
+- '[[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey
+  @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]'
 - '[[Changes/Dify/2024-04-08-targeting-automation-and-batch-processing-this-is-ideal-for-translation-data-ana|Targeting
   Automation and Batch Processing]]'
 - "[[Changes/Open WebUI/2024-06-02-pipelines-support-open-webui-now-includes-a-plugin-framework-for-enhanced-custom|\U0001F527

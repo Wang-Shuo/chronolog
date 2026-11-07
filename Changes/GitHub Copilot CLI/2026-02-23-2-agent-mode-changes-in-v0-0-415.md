@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 23ee0243225a8d9d1210dd081cba9ecc5e4a3026e9a9f14d37a1161f63ac8bfe
+machine_hash: 7e44c80e842f33a68ab7fb7ee56a6ed141fdd060275b8ba2177aaebc92b91f22
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Agent Mode changes in v0.0.415
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes
-  in v2.1.50]]'
+- '[[Changes/OpenCode/2026-02-20-core-remove-user-agent-header-assertion-from-llm-test-to-fix-failing-test|Core
+  Remove User-Agent header assertion from LLM test to fix failing test]]'
 - '[[Changes/Replit/2026-02-20-production-deployment-logs-access|Production deployment
   logs access]]'
 - '[[Changes/ElevenLabs/2026-02-23-elevenagents|ElevenAgents]]'

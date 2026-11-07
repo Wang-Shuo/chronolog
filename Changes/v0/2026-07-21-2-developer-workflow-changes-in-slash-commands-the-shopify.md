@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac41cc385e9931a0ad591f8be5e0f5d096ec883e09f4aa499beec8606fc82f3e
+machine_hash: 17165c1263d25e197173cf1223bb683948bcbebd358651fa892664452d5a3854
 product: v0
 product_name: v0
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Developer Workflow changes in Slash commands, the Shopify…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-8-developer-workflow-changes-in-v1-0-72|8
-  Developer Workflow changes in v1.0.72]]'
+- '[[Changes/OpenCode/2026-07-20-sync-the-embedded-terminal-theme-with-the-app-theme|Sync
+  the embedded terminal theme with the app theme]]'
 - '[[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved
   footer PR badge links to be clickable hyperlinks even when terminal support…]]'
 - '[[Changes/Codex CLI/2026-07-21-12-developer-workflow-changes-in-rust-v0-145-0|12

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 854cb459932815cf261967baebf1a67ce2c22f1a5a57fdfa356b770a013d0a14
+machine_hash: db7bb7dd7b1c3b22c995788001aedfb15a2c7de05e080c5d6234ecc0d168b2b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Fixed remote and scheduled sessions failing…
   type: change
 related_changes:
-- '[[Changes/v0/2026-08-28-2-safety-and-privacy-changes-in-gpt-5-6-sol-sign-in-inside-previews|2
-  Safety and Privacy changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - '[[Changes/Codex CLI/2026-08-29-5-safety-and-privacy-changes-in-rust-v0-151-0|5
   Safety and Privacy changes in rust-v0.151.0]]'
 - "[[Changes/Open WebUI/2026-08-31-security-advisory-this-release-includes-security-and-access-control-fixes-we-rec|\U0001F6E1️
   Security Advisory: This release includes security and access-control fixes]]"
+- '[[Changes/OpenClaw/2026-08-31-2-safety-and-privacy-changes-in-v2026-8-1|2 Safety
+  and Privacy changes in v2026.8.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-258-github-380858621-ccfab6d9|claude-code-2026-09-01-v2-1-258-github-380858621-ccfab6d9]]'
 source_type: github_releases
 theme: safety-privacy
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-security-advisory-this-release-includes-security-and-access-control-fixes-we-rec|🛡️ Security Advisory: This release includes security and access-control fixes]]
+- Earlier: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-2-safety-and-privacy-changes-in-v2026-8-1|2 Safety and Privacy changes in v2026.8.1]]
 - Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-10-safety-and-privacy-changes-in-v2-1-257|10 Safety and Privacy changes in v2.1.257]]
 <!-- chronolog:end -->
 

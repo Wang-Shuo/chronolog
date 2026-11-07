@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c2a3d36929c5df5568d5beb3a5a96d7c0b88c1fbd01be6cbd14de589cad1eac
+machine_hash: 34f503e21e9838dbc06de1c4c4d69bf2190f922497b2649872abf8e99db2608d
 product: v0
 product_name: v0
 record:
@@ -44,12 +44,12 @@ record:
   title: Open in v0 and Git deployment lookups prompt for SAML re-authentication instead…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-6-account-and-access-changes-in-1-16-1|6 Account and
-  Access changes in 1.16.1]]'
 - '[[Changes/Codex CLI/2026-07-29-34643-migrate-login-http-construction-to-httpclient-copyberry|♯34643
   Migrate login HTTP construction to HttpClient @copyberry]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-add-a-browser-based-web-oauth-login-flow-now-the-default-for-copilot-login-on-lo|Add
   a browser-based (web) OAuth login flow, now the default for copilot login…]]'
+- '[[Changes/Google Antigravity/2026-07-31-2-account-and-access-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
+  Account and Access changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 source_release: '[[Releases/v0/v0-2026-07-31-2026-07-31-9665255c|v0-2026-07-31-2026-07-31-9665255c]]'
 source_type: v0_changelog
 theme: account-access
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-add-a-browser-based-web-oauth-login-flow-now-the-default-for-copilot-login-on-lo|Add a browser-based (web) OAuth login flow, now the default for copilot login…]]
+- Earlier: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-2-account-and-access-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2 Account and Access changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
 - Later: 2026-08-01 · Windsurf · [[Changes/Windsurf/2026-08-01-devin-desktop-for-windows-loads-root-and-intermediate-certificates-from-the-wind|Devin Desktop for Windows loads root and intermediate certificates from the Windows…]]
 <!-- chronolog:end -->
 

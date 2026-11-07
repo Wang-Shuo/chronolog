@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ed2eb3ff0019477cf8bff28d4836d7302a7c857148b61a23a607b32ca7c4453
+machine_hash: 781419c9f71ad9a5cfb35bbcbd050fbb51e3a27041102f829c56bf7bb1c13b04
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.223
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-03-2-developer-workflow-changes-in-v1-0-78|2
-  Developer Workflow changes in v1.0.78]]'
-- '[[Changes/Claude Code/2026-08-04-3-developer-workflow-changes-in-v2-1-221|3 Developer
-  Workflow changes in v2.1.221]]'
+- '[[Changes/OpenCode/2026-08-04-terminal-github-pull-request-reviews-now-include-the-pull-request-number-and-url|Terminal
+  GitHub pull request reviews now include the pull request number and URL…]]'
 - '[[Changes/Cline/2026-08-05-2-developer-workflow-changes-in-v4-1-4|2 Developer Workflow
   changes in v4.1.4]]'
+- '[[Changes/OpenCode/2026-08-05-core-logged-remote-workspace-5xx-response-bodies-in-the-host-logs-to-make-proxy|Core
+  Logged remote workspace 5xx response bodies in the host logs to make proxy…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d|claude-code-2026-08-06-v2-1-223-github-365870283-03a5b13d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.223
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-2-developer-workflow-changes-in-v4-1-4|2 Developer Workflow changes in v4.1.4]]
+- Earlier: 2026-08-05 · OpenCode · [[Changes/OpenCode/2026-08-05-core-logged-remote-workspace-5xx-response-bodies-in-the-host-logs-to-make-proxy|Core Logged remote workspace 5xx response bodies in the host logs to make proxy…]]
 - Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-added-a-cancel-and-confirm-step-when-removing-an-unavailable-paste-changes-a-com|Added a cancel-and-confirm step when removing an unavailable paste changes…]]
 <!-- chronolog:end -->
 

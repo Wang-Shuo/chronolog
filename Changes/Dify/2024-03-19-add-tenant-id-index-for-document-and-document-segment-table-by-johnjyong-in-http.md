@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cabf0a5c141acf21f9af7d8be952f61b631960e2ff5473214158b36668765535
+machine_hash: 450fe5cc218578246dd3dc4148a95f852a56f7138d7cc16abce2173277ad1b90
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,10 @@ record:
   title: add tenant id index for document and document_segment table
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-19-delete-document-cache-embedding-by-johnjyong-in-https-github-com-langgenius-dify|delete
-  document cache embedding]]'
-- '[[Changes/Dify/2024-01-25-add-tts-document-fix-bug-by-charli117-in-https-github-com-langgenius-dify-pull-2|Add
-  tts document&fix bug]]'
+- '[[Changes/Gamma/2024-02-14-pdf-compression-we-made-pdf-exports-much-smaller-90-reduction-in-average-file-si|PDF
+  Compression]]'
+- '[[Changes/Gamma/2024-02-14-portrait-vertical-cards-go-to-page-setup-change-the-card-size-to-16-9-a4-or-lett|Portrait
+  (Vertical) Cards]]'
 - '[[Changes/Dify/2024-03-04-feat-add-documents-limitation-by-garfielddai-in-https-github-com-langgenius-dify|Feat:
   Add documents limitation]]'
 source_release: '[[Releases/Dify/dify-2024-03-19-0-5-10-github-147241291-79cab280|dify-2024-03-19-0-5-10-github-147241291-79cab280]]'

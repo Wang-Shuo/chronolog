@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: b25680b881290978336e2e797e5fd6b68a4ac8ac288b7ad6cda4d6fa0176fbb2
+machine_hash: 59545bc73d99b37041b929fa023d75b72d2f880a682dd04da9717d33afce1969
 product: replit
 product_name: Replit
 record:
@@ -47,12 +47,12 @@ record:
   title: Agent production SQL database access
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-2-agent-mode-changes-in-rust-v0-100-0|2 Agent Mode
-  changes in rust-v0.100.0]]'
 - '[[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c|Long-running
   Agents in Research Preview]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents
   return complete responses]]'
+- '[[Changes/OpenCode/2026-02-12-support-claude-agent-sdk-style-structured-outputs-in-the-opencode-sdk|Support
+  Claude agent SDK-style structured outputs in the OpenCode SDK]]'
 source_release: '[[Releases/Replit/replit-2026-02-13-2026-02-13-6a679506|replit-2026-02-13-2026-02-13-6a679506]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents return complete responses]]
+- Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-support-claude-agent-sdk-style-structured-outputs-in-the-opencode-sdk|Support Claude agent SDK-style structured outputs in the OpenCode SDK]]
 - Later: 2026-02-16 · ElevenLabs · [[Changes/ElevenLabs/2026-02-16-widget-packages|Widget Packages]]
 <!-- chronolog:end -->
 

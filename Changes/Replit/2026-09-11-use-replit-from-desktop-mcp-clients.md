@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 68edaa57d249f08354a9c4003c097ccb4cf1cbd3ee4a2d3b637f1c56f630c858
+machine_hash: d09544b97f2104eaec72bf184452f234577c26157b7d3be7f31c494c55081143
 product: replit
 product_name: Replit
 record:
@@ -47,10 +47,10 @@ record:
   title: Use Replit from desktop MCP clients
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-11-get-a-warning-when-another-lovable-project-already-uses-your-supabase-project|Get
-  a warning when another Lovable project already uses your Supabase project]]'
-- '[[Changes/Lovable/2026-09-11-connect-other-mcp-clients-to-the-lovable-mcp-server|Connect
-  other MCP clients to the Lovable MCP server]]'
+- '[[Changes/OpenClaw/2026-09-11-22-apps-and-integrations-changes-in-v2026-9-4|22
+  Apps and Integrations changes in v2026.9.4]]'
+- '[[Changes/OpenClaw/2026-09-11-you-can-now-search-installed-and-available-plugins-together-browse-by-purpose-an|Search
+  installed and available plugins together, browse by purpose, and keep…]]'
 - '[[Changes/Replit/2026-09-11-use-managed-postgresql-in-databricks-apps|Use managed
   PostgreSQL in Databricks Apps]]'
 source_release: '[[Releases/Replit/replit-2026-09-11-2026-09-11-fe1ab3d8|replit-2026-09-11-2026-09-11-fe1ab3d8]]'
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-connect-other-mcp-clients-to-the-lovable-mcp-server|Connect other MCP clients to the Lovable MCP server]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-you-can-now-search-installed-and-available-plugins-together-browse-by-purpose-an|Search installed and available plugins together, browse by purpose, and keep…]]
 - Later: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For new Health plugin connections, ChatGPT will now default to each user’s global…]]
 <!-- chronolog:end -->
 

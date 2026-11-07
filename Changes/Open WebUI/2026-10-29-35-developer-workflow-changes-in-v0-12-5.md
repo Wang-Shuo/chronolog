@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c57463da5a9e0b76533c2accb5746247f722ee0c0a9a0aea5bb94780c16a835
+machine_hash: ef8918242ecc1100b6773eef56ece18d0c079fe498b354411c42c5aaf245d3e1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -222,8 +222,8 @@ record:
   title: 35 Developer Workflow changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-3-developer-workflow-changes-in-rust-v0-165-0|3
-  Developer Workflow changes in rust-v0.165.0]]'
+- '[[Changes/OpenCode/2026-10-27-13-developer-workflow-changes-in-v2-2-0|13 Developer
+  Workflow changes in v2.2.0]]'
 - '[[Changes/OpenHands/2026-10-27-chore-bump-shell-quote-and-dompurify-dependencies-by-devinvinson-in-https-github|chore:
   bump shell-quote and DOMPurify dependencies]]'
 - '[[Changes/Codex CLI/2026-10-29-10-developer-workflow-changes-in-rust-v0-166-0|10
@@ -343,7 +343,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-10-developer-workflow-changes-in-rust-v0-166-0|10 Developer Workflow changes in rust-v0.166.0]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-4-developer-workflow-changes-in-v2-1-314|4 Developer Workflow changes in v2.1.314]]
+- Later: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-2-developer-workflow-changes-in-v2026-10-9|2 Developer Workflow changes in v2026.10.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

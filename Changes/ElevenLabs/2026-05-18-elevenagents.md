@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 0c5c2eff4a07d24413fe0e9fe7070819756271b2809c8c08f403b6e154b7cad9
+machine_hash: 98c8142537d93f9657b8eb819f40b0e57e30e11829c7cbe1fe23ec35f9248f5c
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,8 +49,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-15-2-agent-mode-changes-in-claude-opus-4-7-fast-agent-browser|2
-  Agent Mode changes in Claude Opus 4.7 Fast, agent browser…]]'
+- '[[Changes/OpenCode/2026-05-17-core-hid-background-subagent-task-instructions-unless-experimental-background-mo|Core
+  Hid background subagent task instructions unless experimental background mode…]]'
 - '[[Changes/Codex CLI/2026-05-18-9-agent-mode-changes-in-rust-v0-131-0|9 Agent Mode
   changes in rust-v0.131.0]]'
 - '[[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5

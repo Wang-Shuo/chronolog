@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 473ca8cecabf6055fe130992386f4043cc3eb6339a4212e6006f529a9abba697
+machine_hash: aad2550bfaecc6c0587f7c456213ffe166a8da7f896b6f8af887306546aaf300
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -59,8 +59,8 @@ record:
   title: Text-to-Dialogue
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-10118-codex-cli-show-model-capacity-guidance-on-429-ccy-oai|♯10118
-  CodexCLI Show model-capacity guidance on 429 @ccy-oai]]'
+- '[[Changes/OpenCode/2026-01-31-4-model-support-changes-in-v1-1-48|4 Model Support
+  changes in v1.1.48]]'
 - '[[Changes/Ollama/2026-02-01-improved-tool-calling-for-ministral-models|Improved
   tool calling for Ministral models]]'
 - '[[Changes/Codex CLI/2026-02-02-10373-chore-core-gpt-5-2-codex-personality-template-dylan-hurd-oai|♯10373

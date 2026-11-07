@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8f0f9a44ac83a913734bd522f4d92b4295797093bbd405cc15550393239e527
+machine_hash: f2b46541700986c2a3bbabc0426f79dae3aea8b7b0dc42cbe4e08a4af1fd4bfa
 product: dify
 product_name: Dify
 record:
@@ -119,12 +119,12 @@ record:
   title: 27 Model Support changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-2-model-support-changes-in-v0-40-0|2 Model Support
-  changes in v0.40.0]]'
 - '[[Changes/Ollama/2026-04-28-model-recommendations-are-now-updated-without-updating-ollama|Model
   recommendations are now updated without updating Ollama]]'
 - '[[Changes/Ollama/2026-04-28-poolside-s-first-open-weight-coding-model-laguna-xs-2-https-ollama-com-library-l|Poolside''s
   first open-weight coding model - Laguna…]]'
+- '[[Changes/OpenCode/2026-04-28-2-model-support-changes-in-v1-14-29|2 Model Support
+  changes in v1.14.29]]'
 source_release: '[[Releases/Dify/dify-2026-04-29-1-14-0-github-314986233-63073e86|dify-2026-04-29-1-14-0-github-314986233-63073e86]]'
 source_type: github_releases
 theme: model-support
@@ -222,8 +222,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-28 · Ollama · [[Changes/Ollama/2026-04-28-poolside-s-first-open-weight-coding-model-laguna-xs-2-https-ollama-com-library-l|Poolside's first open-weight coding model - Laguna…]]
-- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-10-model-support-changes-in-rust-v0-128-0|10 Model Support changes in rust-v0.128.0]]
+- Earlier: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-2-model-support-changes-in-v1-14-29|2 Model Support changes in v1.14.29]]
+- Later: 2026-04-29 · OpenCode · [[Changes/OpenCode/2026-04-29-4-model-support-changes-in-v1-14-30|4 Model Support changes in v1.14.30]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

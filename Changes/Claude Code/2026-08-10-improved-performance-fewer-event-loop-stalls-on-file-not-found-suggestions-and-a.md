@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05450e60fae3eed9c970dbbf994cba304d1ee72f6a9057c02aadd96f9081ce30
+machine_hash: e2565b03f88cc03405aa1f938ca6643c4e54dfc9a70e0655ca7e5f9f91bc5656
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: 'Improved performance: fewer event-loop stalls on file-not-found suggestions…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-diff-scrolls-and-syntax-highlights-large-multi-file-diffs-faster|/diff
-  scrolls and syntax-highlights large multi-file diffs faster]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-resuming-a-long-session-is-dramatically-faster-and-far-lighter-on-memory-because|Resuming
   a long session is dramatically faster and far lighter on memory, because…]]'
 - '[[Changes/Ollama/2026-08-04-qwen3-5-is-faster-on-apple-gpus-the-mlx-engine-now-uses-the-model-s-mtp-head-for|Qwen3.5
   is faster on Apple GPUs]]'
+- '[[Changes/Google Antigravity/2026-08-07-2-reliability-and-performance-changes-in-hub-v2-6-0-faster-long-conversations|2
+  Reliability and Performance changes in HUB v2.6.0 — Faster long conversations…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8|claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8]]'
 source_type: github_releases
 theme: reliability-performance
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-04 · Ollama · [[Changes/Ollama/2026-08-04-qwen3-5-is-faster-on-apple-gpus-the-mlx-engine-now-uses-the-model-s-mtp-head-for|Qwen3.5 is faster on Apple GPUs]]
-- Later: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]
+- Earlier: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-2-reliability-and-performance-changes-in-hub-v2-6-0-faster-long-conversations|2 Reliability and Performance changes in HUB v2.6.0 — Faster long conversations…]]
+- Later: 2026-08-11 · Google Antigravity · [[Changes/Google Antigravity/2026-08-11-reliability-performance-gains-and-user-experience-polish|Reliability, Performance Gains, and User Experience Polish]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

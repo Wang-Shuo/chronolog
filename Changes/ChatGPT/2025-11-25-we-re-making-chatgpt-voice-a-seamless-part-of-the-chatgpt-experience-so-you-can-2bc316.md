@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b98fb0d574e784a82c5c5a1a08dd3496ba97e17f4c765c8e66e325f3a252eac
+machine_hash: 30212594de1333eb3f6686b2862ac92a8062d6cadfdd593b71ec0c172e530379
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -85,9 +85,9 @@ record:
     you can use…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-21-4-voice-and-audio-changes-in-elevenlabs-updates-2025-11-21|4
-  Voice and Audio changes in ElevenLabs updates — 2025-11-21]]'
 - '[[Changes/ElevenLabs/2025-11-21-speech-to-text|Speech to Text]]'
+- '[[Changes/Runway/2025-11-21-audio-nodes-video-upscaling-nodes-and-three-new-featured-workflows-available-now|Workflows
+  Updates]]'
 - '[[Changes/Open WebUI/2025-11-24-2-voice-and-audio-changes-in-v0-6-37|2 Voice and
   Audio changes in v0.6.37]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37|chatgpt-2025-11-25-an-improved-voice-interface-the-audio-you-know-with-text-and-vis-29758d37]]'

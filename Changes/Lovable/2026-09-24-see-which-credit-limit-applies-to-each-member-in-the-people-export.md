@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 530d291ef2c7ed50ac3d4a18b8833de3268845639393f2f93ceb6d19f7cc8fb1
+machine_hash: a9c2be44f195ee1f49127b5dc744428dcc93b74e3bf85bbc2d2999f1a10ab127
 product: lovable
 product_name: Lovable
 record:
@@ -53,12 +53,12 @@ record:
   title: See which credit limit applies to each member in the People export
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-21-set-a-default-design-system-for-each-group|Set a default
-  design system for each group]]'
 - '[[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5
   Enterprise and Administration changes in v0.11.4]]'
 - '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
   open Git Sync to org admins on cloud backends]]'
+- '[[Changes/OpenClaw/2026-09-23-2-enterprise-and-administration-changes-in-v2026-9-6|2
+  Enterprise and Administration changes in v2026.9.6]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-24-2026-09-24-0b7a99b5|lovable-2026-09-24-2026-09-24-0b7a99b5]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat: open Git Sync to org admins on cloud backends]]
+- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-2-enterprise-and-administration-changes-in-v2026-9-6|2 Enterprise and Administration changes in v2026.9.6]]
 - Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude Tag Improved "Notify members now" in admin settings]]
 <!-- chronolog:end -->
 

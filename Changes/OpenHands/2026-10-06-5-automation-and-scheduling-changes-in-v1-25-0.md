@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a82f7629ba397ffc1db87d5321fd1bbbb3ffdfa92e1744a83761edeaf27cb9ac
+machine_hash: c57ff6c927ffa6cdf7a876a5c3831ed20c7613807076dfd02c0dab3e034783cb
 product: openhands
 product_name: OpenHands
 record:
@@ -52,10 +52,10 @@ record:
   title: 5 Automation and Scheduling changes in v1.25.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3
-  Automation and Scheduling changes in v1.24.0]]'
 - '[[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site
   owners can also create recurring cloud schedules from Automations]]'
+- '[[Changes/OpenClaw/2026-09-30-11-automation-and-scheduling-changes-in-v2026-9-7|11
+  Automation and Scheduling changes in v2026.9.7]]'
 - '[[Changes/Claude Code/2026-10-05-changed-background-sessions-whose-scheduled-task-is-gone-they-now-move-to-comple|Changed
   background sessions whose scheduled task is gone]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed|openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed]]'
@@ -105,7 +105,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.25.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-changed-background-sessions-whose-scheduled-task-is-gone-they-now-move-to-comple|Changed background sessions whose scheduled task is gone]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed Ctrl+C at the idle prompt of an attached background session to leave…]]
+- Later: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-advanced-search-automations-and-grouped-agent-actions|Advanced Search, Automations, and grouped agent actions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

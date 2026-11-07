@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 19fa92d33e25ce83d134246aeec3f4b1789b7df0ed15bb87e2d6baf176d51fb9
+machine_hash: 18c334e1fad714dc4056da478506879ea58d6570d499b11db0f23a5372840dba
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-07 · ElevenLabs · [[Changes/ElevenLabs/2026-09-07-python-sdk|Python SDK]]
-- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-agent-mode-changes-in-rust-v0-154-0|6 Agent Mode changes in rust-v0.154.0]]
+- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-16-agent-mode-changes-in-v2026-9-3|16 Agent Mode changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

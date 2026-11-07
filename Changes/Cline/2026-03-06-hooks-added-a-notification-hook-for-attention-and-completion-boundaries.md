@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 74219483e49559c155f2cafc836e4bdd6a7a53496fd5a5612558f918bbb8b662
+machine_hash: 1e72e0d087bdc8b255b7fefd10f6842df0a305b037163ac8def39b80018b2ddc
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: 'Hooks: Added a `Notification` hook for attention and completion boundaries'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-6-editor-experience-changes-in-v0-0-422|6
-  Editor Experience changes in v0.0.422]]'
+- '[[Changes/OpenCode/2026-03-05-desktop-open-search-with-mod-f-even-when-editor-is-not-focused|Desktop
+  Open search with Mod+F even when editor is not focused]]'
 - '[[Changes/v0/2026-03-05-added-summary-header-to-diff-tab-showing-file-changes|Added
   summary header to diff tab showing file changes]]'
 - '[[Changes/v0/2026-03-05-added-diff-code-tab-toggle-with-hover-expand-functionality|Added

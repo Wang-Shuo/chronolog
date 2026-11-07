@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c52879021a6a308d11f1c5bb7fa9471da6d25bfc7b64bcfe7d6552e8d2a77655
+machine_hash: 832bcd95627558e64292138cb10f3b0bd257a87cd0b69c8a3be28f912884445b
 product: openhands
 product_name: OpenHands
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-docs-add-notes-for-running-postgres-docker-on-windows-wsl2-ubuntu-by-hikariming|docs: Add notes for running Postgres Docker on Windows WSL2 Ubuntu …]]
-- Later: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-ensure-sh-are-lf-style-so-that-they-can-be-used-directly-by-docker-for-windows-b|Ensure .sh are LF-style, so that they can be used directly by Docker for Windows]]
+- Later: 2024-07-01 · Suno · [[Changes/Suno/2024-07-01-we-re-excited-to-present-suno-on-ios|We’re excited to present Suno on iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb8d84262f64195a3aeaa787066ac69813aa9377f65fb3d5e9058b76418b07be
+machine_hash: 144e2109806732501b9c72c2d120458f43c69b187f56a1f05b79e71be1d6a056
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: 2 Developer Workflow changes in v0.0.404
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-constrained-requirement-values-now-include-source-provenance-enabling-source-awa|Constrained
-  requirement values now include source provenance, enabling source-aware…]]'
-- '[[Changes/Gemini CLI/2026-02-04-11-developer-workflow-changes-in-v0-27-0|11 Developer
-  Workflow changes in v0.27.0]]'
+- '[[Changes/OpenCode/2026-02-04-6-developer-workflow-changes-in-v1-1-50|6 Developer
+  Workflow changes in v1.1.50]]'
+- '[[Changes/OpenCode/2026-02-04-terminal-restore-direct-osc52-support|Terminal Restore
+  direct OSC52 support]]'
 - '[[Changes/Codex CLI/2026-02-05-2-developer-workflow-changes-in-rust-v0-97-0|2 Developer
   Workflow changes in rust-v0.97.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-05-v0-0-404-github-283486386-655beb61|github-copilot-cli-2026-02-05-v0-0-404-github-283486386-655beb61]]'

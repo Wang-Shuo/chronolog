@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed962ce284368ebdde764f0d2110d1bc511b9978e1b87c9653098d27b73baa67
+machine_hash: 6ce5223e95f017509c244b2d6dfb3e302629b266a24b20d2b0be72ae30cf6c2e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Mobile and Desktop changes in ElevenLabs updates — 2026-10-26
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-6f8043|The
-  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
 - '[[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On
   Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]'
+- '[[Changes/OpenClaw/2026-10-24-2-mobile-and-desktop-changes-in-v2026-10-7|2 Mobile
+  and Desktop changes in v2026.10.7]]'
 - '[[Changes/ElevenLabs/2026-10-26-android-sdk|Android SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
 source_type: elevenlabs_changelog
@@ -104,7 +104,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/10/26
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]
+- Earlier: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-2-mobile-and-desktop-changes-in-v2026-10-7|2 Mobile and Desktop changes in v2026.10.7]]
 - Later: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co|On macOS, banners at the top of the window no longer interfere with the window controls]]
 <!-- chronolog:end -->
 

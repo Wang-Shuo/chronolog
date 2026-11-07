@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0b61f893561befe3e20278a4dfa206ad5d66ec1f1f18280e499919bad1a2d47
+machine_hash: 58ca3f96d5e6a873ef045dab872dad1302e5a4f4c7d72246278f114156840191
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: 5 Voice and Audio changes in rust-v0.153.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co|Follow
-  along outside the app]]'
-- '[[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To
-  continue a Voice conversation outside ChatGPT, turn on Background conversations…]]'
+- '[[Changes/Google Antigravity/2026-09-02-added-drag-and-drop-and-improved-support-for-attaching-audio-files-to-conversati|Added
+  drag-and-drop and improved support for attaching audio files to conversations…]]'
+- '[[Changes/Google Antigravity/2026-09-02-you-can-now-send-a-message-with-the-send-button-while-dictation-is-still-running|Send
+  a message with the send button while dictation is still running, instead…]]'
 - '[[Changes/Ollama/2026-09-02-gemma4-now-supports-images-and-audio-on-mlx-engine|gemma4
   now supports images and audio on MLX engine]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f|codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f]]'
@@ -110,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.153.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-02 · Ollama · [[Changes/Ollama/2026-09-02-gemma4-now-supports-images-and-audio-on-mlx-engine|gemma4 now supports images and audio on MLX engine]]
-- Later: 2026-09-07 · ElevenLabs · [[Changes/ElevenLabs/2026-09-07-workspaces|Workspaces]]
+- Later: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-12-voice-and-audio-changes-in-v2026-9-1|12 Voice and Audio changes in v2026.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

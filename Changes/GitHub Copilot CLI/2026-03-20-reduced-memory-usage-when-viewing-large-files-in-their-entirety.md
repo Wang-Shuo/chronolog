@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f959a5865421c13670707c138b0aad03b8757562bb073bbe09c28463698e515
+machine_hash: 7219f78612a65988cf6142feffa0262eca3da66d327fde3d62719566ec3fd1d8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-20 · Cline · [[Changes/Cline/2026-03-20-latency-improvements-for-remote-workspaces|Latency improvements for remote workspaces]]
-- Later: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0 Release Candidate]]
+- Later: 2026-03-21 · Midjourney · [[Changes/Midjourney/2026-03-21-two-versions-of-sref-moodboards-now-available|Two Versions of SREF / Moodboards now available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

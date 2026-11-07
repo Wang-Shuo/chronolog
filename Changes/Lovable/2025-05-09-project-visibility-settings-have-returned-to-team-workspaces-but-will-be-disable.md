@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a48991577f84f3f0d55666e566b56de4aa51aefb96c9b49b4f167c161dd32700
+machine_hash: 793ac745d0205615fbc32be34da5e02ddf8490202966cee888212d0932081f42
 product: lovable
 product_name: Lovable
 record:
@@ -42,9 +42,10 @@ record:
     disabled for now
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-06-teams-windsurf-reviews|Teams: Windsurf Reviews]]'
 - '[[Changes/Windsurf/2025-05-06-teams-features|Teams Features]]'
 - '[[Changes/Windsurf/2025-05-06-teams-conversation-sharing|Teams: Conversation Sharing]]'
+- '[[Changes/Midjourney/2025-05-07-we-re-preparing-to-do-a-new-community-idea-ranking-activity-later-this-week-befo|Share
+  your ideas!]]'
 source_release: '[[Releases/Lovable/lovable-2025-05-09-2025-05-09-48bfa2be|lovable-2025-05-09-2025-05-09-48bfa2be]]'
 source_type: lovable_changelog
 theme: collaboration
@@ -72,8 +73,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-05-06 · Windsurf · [[Changes/Windsurf/2025-05-06-teams-conversation-sharing|Teams: Conversation Sharing]]
-- Later: 2025-05-16 · Cline · [[Changes/Cline/2025-05-16-add-collapsible-recent-task-list-allowing-users-to-hide-their-task-history-when|Add collapsible recent task list, allowing users to hide their task history…]]
+- Earlier: 2025-05-07 · Midjourney · [[Changes/Midjourney/2025-05-07-we-re-preparing-to-do-a-new-community-idea-ranking-activity-later-this-week-befo|Share your ideas!]]
+- Later: 2025-05-14 · Granola · [[Changes/Granola/2025-05-14-introducing-the-next-chapter-for-granola-bringing-all-your-team-s-conversations|Granola 2.0: A second brain for your team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

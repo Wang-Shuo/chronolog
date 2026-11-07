@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c265c5abe37195bbda58a495326ca6af4f4e21cb0c95e34f77f0bd03847d1c3
+machine_hash: b8e3239655878e8ac7740c967eae7bbde7c5a11dea0c258d6e145f27c9ec3e0d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -114,7 +114,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 ## Nearby in Model Support
 
 - Earlier: 2026-10-16 · Cline · [[Changes/Cline/2026-10-16-4-model-support-changes-in-v4-1-25|4 Model Support changes in v4.1.25]]
-- Later: 2026-10-16 · Replit · [[Changes/Replit/2026-10-16-claude-haiku-5-5-in-the-model-selector|Claude Haiku 5.5 in the model selector]]
+- Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-openai-reasoning-with-tools-fixed-tool-call-failures-and-reasoning-being-switche|OpenAI reasoning with tools]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

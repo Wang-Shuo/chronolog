@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 16474d6651469b5542bc91a30eb14a6a7703f4d2d10abbc574594dc2c7452665
+machine_hash: fb6f8b9baa2e113444b3971a79d530b7c1fc0f8bde75da70f07b242a558fe56f
 product: lovable
 product_name: Lovable
 record:
@@ -55,8 +55,8 @@ record:
   title: Ask Lovable about your workspace’s credit usage
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-06-simplified-model-picker-pricing-view-for-select-enterprise-customers|Simplified
-  model picker pricing view for select enterprise customers]]'
+- '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
+  screen redesign]]'
 - '[[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143
   feat(app-server): expose rate-limit reset credits @jayp-oai]]'
 - '[[Changes/Lovable/2026-06-18-one-credit-balance-and-clearer-usage-insights|One

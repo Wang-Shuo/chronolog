@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 156885cd42d9a9f5908ca0f75decf0b4722e936d8b38874842dec3d0e9a341af
+machine_hash: 878c877671d11dfcacd66bea0975409515d43acd61a3219ec0b9613ae62397ce
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -68,8 +68,8 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-39045-add-managed-gates-for-in-app-chat-and-dictation-copyberry|♯39045
-  Add managed gates for in-app chat and dictation @copyberry]]'
+- '[[Changes/Google Antigravity/2026-08-20-large-binary-attachments-returned-by-connected-mcp-tools-images-pdfs-and-audio-a|Large
+  binary attachments returned by connected MCP tools]]'
 - '[[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl
   builds: native image paste, clipboard, and audio-capture add-ons now…]]'
 - '[[Changes/Cline/2026-08-21-stop-offering-image-voice-and-other-non-chat-models-in-chat-model-pickers|Stop
@@ -110,7 +110,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-stop-offering-image-voice-and-other-non-chat-models-in-chat-model-pickers|Stop offering image, voice, and other non-chat models in chat model pickers]]
-- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-audio-asr-now-accepts-audio-x-m4a-and-audio-mime-types-are-validated-more-accura|Audio ASR now accepts audio/x-m4a, and audio MIME types are validated more…]]
+- Later: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-embedded-terminals-git-version-control-and-audio-attachments|Embedded Terminals, Git Version Control, and Audio Attachments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

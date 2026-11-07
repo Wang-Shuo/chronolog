@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f2197b228f029e7df0003fb10e0140dbbfc6784b412a6aab4fadf28b2ab83b13
+machine_hash: 3c05a083441a843551ebb208dc77a7f0c1972d2d10f51e3a10c7805cdd92239f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Developer Workflow changes in rust-v0.160.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-5-developer-workflow-changes-in-rust-v0-159-0|5
-  Developer Workflow changes in rust-v0.159.0]]'
-- '[[Changes/Claude Code/2026-09-30-3-developer-workflow-changes-in-v2-1-286|3 Developer
-  Workflow changes in v2.1.286]]'
+- '[[Changes/Google Antigravity/2026-09-30-pressing-cmd-a-or-ctrl-a-now-selects-only-the-content-pane-or-terminal-you-are-f|Pressing
+  Cmd+A or Ctrl+A now selects only the content pane or terminal you…]]'
+- '[[Changes/OpenClaw/2026-09-30-13-developer-workflow-changes-in-v2026-9-7|13 Developer
+  Workflow changes in v2026.9.7]]'
 - '[[Changes/Claude Code/2026-10-01-3-developer-workflow-changes-in-v2-1-287|3 Developer
   Workflow changes in v2.1.287]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'

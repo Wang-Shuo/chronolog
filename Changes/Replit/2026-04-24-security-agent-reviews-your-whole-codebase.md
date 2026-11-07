@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e5e9ff3c73a06f208e16f18655e4e51a28f6bcdf1a85e64ae94ae89e032a7bee
+machine_hash: 6fe2485e6fd7abe27073685aade152d067795289b53eeed5a7a49ccea25ebb48
 product: replit
 product_name: Replit
 record:
@@ -74,11 +74,12 @@ record:
   title: Security Agent reviews your whole codebase
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-24-opus-4-7|Opus 4.7]]'
 - '[[Changes/Lovable/2026-04-24-knowledge-and-content-app-connectors-fireflies-gemini-enterprise-wordpress|Knowledge
   and content app connectors: Fireflies, Gemini Enterprise, WordPress]]'
 - '[[Changes/Open WebUI/2026-04-24-4-model-support-changes-in-v0-9-2|4 Model Support
   changes in v0.9.2]]'
+- '[[Changes/OpenCode/2026-04-24-2-model-support-changes-in-v1-14-24-1|2 Model Support
+  changes in v1.14.24 + 1]]'
 source_release: '[[Releases/Replit/replit-2026-04-24-2026-04-24-4062672c|replit-2026-04-24-2026-04-24-4062672c]]'
 source_type: replit_changelog
 theme: model-support
@@ -114,8 +115,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-24 · Open WebUI · [[Changes/Open WebUI/2026-04-24-4-model-support-changes-in-v0-9-2|4 Model Support changes in v0.9.2]]
-- Later: 2026-04-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-27-2-model-support-changes-in-v1-0-37|2 Model Support changes in v1.0.37]]
+- Earlier: 2026-04-24 · OpenCode · [[Changes/OpenCode/2026-04-24-2-model-support-changes-in-v1-14-24-1|2 Model Support changes in v1.14.24 + 1]]
+- Later: 2026-04-25 · OpenCode · [[Changes/OpenCode/2026-04-25-core-gpt-5-5-with-openai-oauth-now-uses-the-correct-context-limits-to-avoid-comp|Core GPT-5.5 with OpenAI OAuth now uses the correct context limits to avoid…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e69ecf0ecac3a92b18c3235fa1a7f515fed7f1ab94f8176d8da532158568cff
+machine_hash: b3f4d9650e78383b75ec08323aa928b3070fcfe5427c649323e63bf19e5ca6a4
 product: dify
 product_name: Dify
 record:
@@ -47,7 +47,8 @@ record:
   title: 3 Model Support changes in 1.4.1
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-22-byok-anthropic-key|BYOK (Anthropic Key)]]'
+- '[[Changes/Midjourney/2025-05-23-we-re-getting-ready-to-make-our-v7-model-the-default-model-but-a-lot-of-us-still|We''re
+  getting ready to make our V7 model the ''default'' model but a lot of us still…]]'
 - '[[Changes/Replit/2025-05-23-sonnet-4-in-agent|Sonnet 4 in Agent]]'
 - '[[Changes/Open WebUI/2025-05-26-3-model-support-changes-in-v0-6-11|3 Model Support
   changes in v0.6.11]]'

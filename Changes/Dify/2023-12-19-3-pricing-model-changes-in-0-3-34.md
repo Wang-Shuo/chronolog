@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cfd0f4122c04311f9f05dc2f557b1e7d93788809da025abeda4426c8067a2b44
+machine_hash: c458e85aaa5f1719bfaa9e3a6c60f5b451e1fc5a390904e100d8a4da817b1cd9
 product: dify
 product_name: Dify
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.3.34
 ## Nearby in Pricing Model
 
 - Earlier: 2023-12-08 · Dify · [[Changes/Dify/2023-12-08-3-pricing-model-changes-in-0-3-33|3 Pricing Model changes in 0.3.33]]
-- Later: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-feat-add-billing-switch-by-garfielddai-in-https-github-com-langgenius-dify-pull|feat: add billing switch]]
+- Later: 2023-12-23 · Suno · [[Changes/Suno/2023-12-23-happy-holidays-all-we-are-grateful-for-the-community-s-support-as-we-round-out-t|Happy holidays all - we are grateful for the community's support as we round out the year]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

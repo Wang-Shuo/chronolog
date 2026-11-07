@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a2446dd9af20c6c1bf538bcf8808be50bb8b0240fe6f3df383389521ec01f44d
+machine_hash: 4d9c805c4db36c49b4980929a5ece6064530c23fe82425f42a150eadd97fed9e
 product: cursor
 product_name: Cursor
 record:
@@ -57,8 +57,8 @@ record:
     mode…'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-26-llm-memory-processing-corrected-errors-in-llm-memory-handling-11103-and-11106|LLM
-  Memory Processing: Corrected errors in LLM memory handling]]'
+- '[[Changes/Midjourney/2024-12-16-we-re-releasing-an-early-version-of-our-new-model-personalization-infrastructure|we’re
+  releasing an early version of our new model personalization infrastructure today]]'
 - '[[Changes/Dify/2025-01-07-database-and-memory-optimizations-that-not-only-improve-performance-but-they-ll|Database
   and memory optimizations that not only improve performance but they''ll…]]'
 - '[[Changes/OpenHands/2025-01-07-developer-mode-now-defaults-to-storing-data-on-the-filesystem-instead-of-in-memo|Developer

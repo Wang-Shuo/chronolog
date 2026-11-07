@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8be50d44389e9ec20153d6c7d2f3b96db5b93ca281663cf2665b94d41afa6e41
+machine_hash: 70cc9f9c1c6a76ba11649ea1151e285abcc2b181fa610a646a85da7fa4b08561
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -86,12 +86,12 @@ record:
   title: 20 Apps and Integrations changes in rust-v0.133.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-9-apps-and-integrations-changes-in-v1-0-49|9
-  Apps and Integrations changes in v1.0.49]]'
 - '[[Changes/Codex CLI/2026-05-20-9-apps-and-integrations-changes-in-rust-v0-132-0|9
   Apps and Integrations changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-4-apps-and-integrations-changes-in-v1-0-51|4
   Apps and Integrations changes in v1.0.51]]'
+- '[[Changes/OpenCode/2026-05-20-3-apps-and-integrations-changes-in-v1-15-6|3 Apps
+  and Integrations changes in v1.15.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc|codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -167,8 +167,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.133.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-4-apps-and-integrations-changes-in-v1-0-51|4 Apps and Integrations changes in v1.0.51]]
-- Later: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-app-connectors-google-maps-platform-semrush-and-tiktok|App connectors: Google Maps Platform, Semrush, and TikTok]]
+- Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-3-apps-and-integrations-changes-in-v1-15-6|3 Apps and Integrations changes in v1.15.6]]
+- Later: 2026-05-21 · Google Antigravity · [[Changes/Google Antigravity/2026-05-21-added-a-migration-flow-that-allows-users-to-import-settings-extensions-and-keybi|Added a migration flow that allows users to import settings, extensions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

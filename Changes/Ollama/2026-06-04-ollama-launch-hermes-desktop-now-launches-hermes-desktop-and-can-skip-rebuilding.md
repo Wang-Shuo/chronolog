@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8ad2bbf1715941932085a4714df8faf6c718f3ed64856c29f159f42a6d8df83
+machine_hash: 7f1a500bdc79284979fe2327bc9c50981bf267805779810d977d420331c168ae
 product: ollama
 product_name: Ollama
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled ripgrep: Local shell runs use the bundled platform rg binary without…]]
-- Later: 2026-06-04 · Windsurf · [[Changes/Windsurf/2026-06-04-added-a-new-command-for-devin-desktop-to-rerun-the-migration-from-windsurf-this|Added a new command for Devin Desktop to rerun the migration from Windsurf]]
+- Later: 2026-06-04 · Suno · [[Changes/Suno/2026-06-04-two-new-ios-updates-for-more-streamlined-creation|Two new iOS updates for more streamlined creation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 87bb283374ed8249d713f94853505a485837e3eac1817562e91febe755bde2ff
+machine_hash: e64b2801e6b7a42702474b657dd88c791b9d115fd7885dd3dbe9b5412b950d37
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,11 @@ record:
   title: 2 Model Support changes in v2.1.233
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-11-2-model-support-changes-in-v0-55-1|2 Model Support
-  changes in v0.55.1]]'
 - '[[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]'
 - '[[Changes/Lovable/2026-08-13-image-editing-with-openai-models-for-your-app-s-ai-features|Image
   editing with OpenAI models for your app''s AI features]]'
+- '[[Changes/OpenCode/2026-08-13-core-fix-xhigh-reasoning-effort-for-xai-models|Core
+  Fix xhigh reasoning effort for xai models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: model-support
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.233
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-13 · Lovable · [[Changes/Lovable/2026-08-13-image-editing-with-openai-models-for-your-app-s-ai-features|Image editing with OpenAI models for your app's AI features]]
+- Earlier: 2026-08-13 · OpenCode · [[Changes/OpenCode/2026-08-13-core-fix-xhigh-reasoning-effort-for-xai-models|Core Fix xhigh reasoning effort for xai models]]
 - Later: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-2-model-support-changes-in-v4-1-10|2 Model Support changes in v4.1.10]]
 <!-- chronolog:end -->
 

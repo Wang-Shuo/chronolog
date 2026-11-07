@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2101973437d651a92ce03f4dd73aed0ff3931498f7d49d670062b79dc85e29f6
+machine_hash: 629c95addcc08b616cae907b945372cfb3670adc90620c31b04ae3f21fafdc88
 product: cline
 product_name: Cline
 record:
@@ -44,9 +44,9 @@ record:
     ensure…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-05-2-collaboration-changes-in-rust-v0-98-0|2 Collaboration
-  changes in rust-v0.98.0]]'
 - '[[Changes/Replit/2026-02-06-for-teams|For Teams]]'
+- '[[Changes/OpenCode/2026-02-10-core-correct-data-api-usage-and-data-format-for-importing-share-urls|Core
+  Correct /data API usage and data format for importing share URLs]]'
 - '[[Changes/Codex CLI/2026-02-11-11294-chore-put-crypto-provider-logic-in-a-shared-crate-bolinfest|♯11294
   chore: put crypto provider logic in a shared crate @bolinfest]]'
 source_release: '[[Releases/Cline/cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c|cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c]]'

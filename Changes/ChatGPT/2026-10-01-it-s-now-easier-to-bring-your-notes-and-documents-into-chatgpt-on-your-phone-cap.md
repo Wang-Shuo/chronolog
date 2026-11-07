@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca42e2c43403d7effb3d1d1c09099cd5ad1c08963ad5c478020370abeff7e705
+machine_hash: b350bff16d4ca12535144b6e84b9b14a2cece0d473ccb8e2f00bb23c4a812c3e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: Scan notes and documents more easily with ChatGPT camera
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-23-feat-tag-agent-canvas-telemetry-by-deployment-kind-oss-13530-by-malhotra5-in-htt|feat:
-  tag Agent Canvas telemetry by deployment kind (OSS-13530)]]'
 - '[[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved
   prompt-audit on Claude Code configuration]]'
 - '[[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added
   retries for transient file-upload failures and increased the upload timeout…]]'
+- '[[Changes/OpenClaw/2026-09-30-3-files-and-data-changes-in-v2026-9-7|3 Files and
+  Data changes in v2026.9.7]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79|chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added retries for transient file-upload failures and increased the upload timeout…]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-3-files-and-data-changes-in-v2026-9-7|3 Files and Data changes in v2026.9.7]]
 - Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-canvas-actions-can-now-return-images-to-the-model-in-invoke-canvas-action|Canvas actions can now return images to the model in invoke_canvas_action]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e52654996e7cffc1fe9d470adee19378f2438f49fa0711fe37f3bd8834c5057
+machine_hash: 0e002cf6e4c3c154330adf64545897ede545708ba141cd96a4f739bf38a33bdc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -229,7 +229,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.156.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-5-interface-experience-changes-in-v2-1-280|5 Interface Experience changes in v2.1.280]]
-- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface Experience changes in v2.1.281]]
+- Later: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-2-interface-experience-changes-in-hub-v2-16-0-windows-subsystem|2 Interface Experience changes in HUB v2.16.0 — Windows Subsystem…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

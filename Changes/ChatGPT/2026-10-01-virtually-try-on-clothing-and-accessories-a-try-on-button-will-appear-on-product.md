@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ac354db455a9774772ba2367a665ece77896740aa16390d27c64ad33518247b
+machine_hash: 24258a15d83df57a5deb844b3f7feb3db61777dc9fb16a30a56d2e025ce0e5e2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: Virtually try on clothing and accessories
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-pages-follow-space-s-availability-and-sharing-settings-sharing-a-page-does-not-g|Pages
-  follow Space’s availability and sharing settings]]'
 - '[[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|Sign
   in to other products with ChatGPT]]'
 - '[[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed
   /memory so that Auto-memory can no longer be turned on from a background…]]'
+- '[[Changes/OpenClaw/2026-09-30-15-memory-and-personalization-changes-in-v2026-9-7|15
+  Memory and Personalization changes in v2026.9.7]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85|chatgpt-2026-10-01-new-ways-to-shop-in-chatgpt-e89d4d85]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed /memory so that Auto-memory can no longer be turned on from a background…]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-15-memory-and-personalization-changes-in-v2026-9-7|15 Memory and Personalization changes in v2026.9.7]]
 - Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-improved-memory-the-left-and-right-arrow-keys-now-flip-its-on-off-settings-such|Improved /memory: the left and right arrow keys now flip its on/off settings, such…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 937104d15bf991f64dcaf3363a894b4bd7814f1469bd7d0e5d12c11eae2eb17e
+machine_hash: 4741769094e14402845c89ffc209d407af11060356fcd0d41240ed2e63ffe9f3
 product: ollama
 product_name: Ollama
 record:
@@ -42,9 +42,10 @@ record:
   title: Installing Ollama via the `curl` install script on macOS will now only prompt…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-09-new-endpoints|New Endpoints]]'
-- '[[Changes/Codex CLI/2026-02-11-4-mobile-and-desktop-changes-in-rust-v0-99-0|4 Mobile
-  and Desktop changes in rust-v0.99.0]]'
+- '[[Changes/OpenCode/2026-02-11-desktop-notifications-enabled-on-child-sessions|Desktop
+  Notifications enabled on child sessions]]'
+- '[[Changes/OpenCode/2026-02-11-5-mobile-and-desktop-changes-in-v1-1-57|5 Mobile
+  and Desktop changes in v1.1.57]]'
 - '[[Changes/Codex CLI/2026-02-12-4-mobile-and-desktop-changes-in-rust-v0-100-0|4
   Mobile and Desktop changes in rust-v0.100.0]]'
 source_release: '[[Releases/Ollama/ollama-2026-02-12-v0-16-1-github-285905972-92dc17fe|ollama-2026-02-12-v0-16-1-github-285905972-92dc17fe]]'

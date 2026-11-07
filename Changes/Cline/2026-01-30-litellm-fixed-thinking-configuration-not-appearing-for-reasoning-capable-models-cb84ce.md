@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb1c101640d23c3b3c852ace40eadb447164b358ee0f867fad97cf6934d0c182
+machine_hash: 307f9b7eec5f61cb2c8d88d2de2b7c420e0c02d4f39e8cb5f908470cec7825a7
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,8 @@ record:
     models
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|Retiring
-  GPT-4o and other legacy models]]'
+- '[[Changes/OpenCode/2026-01-29-core-fix-frontmatter-adding-newlines-causing-invalid-model-ids|Core
+  Fix frontmatter adding newlines causing invalid model IDs]]'
 - '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models|LiteLLM:
   Fixed thinking configuration not appearing for reasoning-capable models]]'
 - '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|LiteLLM:

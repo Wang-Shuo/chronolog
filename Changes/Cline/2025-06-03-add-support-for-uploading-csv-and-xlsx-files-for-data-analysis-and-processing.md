@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ef5fe3c07461e50aacac05852140842f094a6e5e23104663f7d5aab6fe946a68
+machine_hash: 7290872b99f6a94494df4307818aa32a86543d75d0da9b05aed8e3d002101e60
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Add support for uploading CSV and XLSX files for data analysis and processing
   type: change
 related_changes:
-- '[[Changes/Dify/2025-05-27-3-files-and-data-changes-in-1-4-1|3 Files and Data changes
-  in 1.4.1]]'
 - '[[Changes/Cline/2025-05-28-add-support-for-uploading-various-file-types-xml-json-txt-log-md-docx-ipynb-pdf|Add
   support for uploading various file types…]]'
 - "[[Changes/Open WebUI/2025-05-28-datalab-marker-api-content-extraction-support-seamlessly-extract-content-from-fi|\U0001FAA7
   Datalab Marker API Content Extraction Support]]"
+- '[[Changes/Runway/2025-05-29-start-from-a-blank-canvas-or-draw-on-top-of-an-existing-image-to-add-new-element|Layout
+  Sketch for Gen-4 References]]'
 source_release: '[[Releases/Cline/cline-2025-06-03-v3-17-9-github-222580795-63fc22f6|cline-2025-06-03-v3-17-9-github-222580795-63fc22f6]]'
 source_type: github_releases
 theme: file-data
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-05-28 · Open WebUI · [[Changes/Open WebUI/2025-05-28-datalab-marker-api-content-extraction-support-seamlessly-extract-content-from-fi|🪧 Datalab Marker API Content Extraction Support]]
+- Earlier: 2025-05-29 · Runway · [[Changes/Runway/2025-05-29-start-from-a-blank-canvas-or-draw-on-top-of-an-existing-image-to-add-new-element|Layout Sketch for Gen-4 References]]
 - Later: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-3-files-and-data-changes-in-v0-6-14|3 Files and Data changes in v0.6.14]]
 <!-- chronolog:end -->
 

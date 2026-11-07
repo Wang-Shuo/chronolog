@@ -1,0 +1,115 @@
+---
+card_id: opencode-2026-10-30-ea608c
+date: '2026-10-30'
+description: 'OpenCode · 2026-10-30 · Context Window: Set "compaction": { "buffer":
+  "20%" } in opencode.json to keep a share of each model''s context window free, so
+  one…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1275
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: context-window
+  tracked_products_count: 29
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: launch
+machine_hash: 2c8d3c80ae96279ce728dbe00f7e17f9e7cec6420bda4d2683f9e05252420f79
+product: opencode
+product_name: OpenCode
+record:
+  ai_generated: true
+  card_id: opencode-2026-10-30-ea608c
+  comparison: ''
+  confidence: low
+  date: '2026-10-30'
+  description: 'OpenCode — v2.2.5: Set "compaction": { "buffer": "20%" } in opencode.json
+    to keep a share of each model''s context window free, so one setting fits models
+    with small and large windows. Token counts still work.'
+  evidence:
+  - quote: 'Set "compaction": { "buffer": "20%" } in opencode.json to keep a share
+      of each model''s context window free, so one setting fits models with small
+      and large windows. Token counts still work.'
+    source_release: https://opencode.ai/changelog/v2.2.5
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
+  product: opencode
+  product_name: OpenCode
+  slug: percentage-compaction-buffer
+  source_release: opencode-2026-10-30-v2-2-5-7ac090eb
+  source_type: opencode_changelog
+  theme: context-window
+  theme_matches:
+  - matched_terms:
+    - context window
+    - context
+    score: 170
+    theme: context-window
+  - matched_terms:
+    - model
+    - models
+    score: 100
+    theme: model-support
+  theme_resolution: manual-semantic-rule-v2
+  title: Percentage Compaction Buffer
+  type: change
+related_changes:
+- "[[Changes/Open WebUI/2026-10-29-provider-details-for-models-administrators-editing-a-model-now-see-a-provider-de|\U0001F4C7
+  Provider details for models. Administrators editing a model now see a Provider…]]"
+- '[[Changes/OpenCode/2026-10-29-2-context-window-changes-in-v2-2-1|2 Context Window
+  changes in v2.2.1]]'
+- '[[Changes/OpenCode/2026-10-30-2-context-window-changes-in-v2-2-5|2 Context Window
+  changes in v2.2.5]]'
+source_release: '[[Releases/OpenCode/opencode-2026-10-30-v2-2-5-7ac090eb|opencode-2026-10-30-v2-2-5-7ac090eb]]'
+source_type: opencode_changelog
+theme: context-window
+title: Percentage Compaction Buffer
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Percentage Compaction Buffer
+
+**OpenCode** · 2026-10-30 · [[Themes/context-window|Context Window]] · Launch · [Official source](https://opencode.ai/changelog/v2.2.5) · from [[Releases/OpenCode/opencode-2026-10-30-v2-2-5-7ac090eb|v2.2.5]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Set "compaction": { "buffer": "20%" } in opencode.json to keep a share of each model's context window free, so one setting fits models with small and large windows. Token counts still work.
+>
+> Source: https://opencode.ai/changelog/v2.2.5
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/OpenCode/2026-10-30-4-apps-and-integrations-changes-in-v2-2-5|4 Apps and Integrations changes in v2.2.5]] · Apps and Integrations
+- [[Changes/OpenCode/2026-10-30-worktree-and-shell-mode-shortcuts|Worktree and Shell Mode Shortcuts]] · Developer Workflow
+- [[Changes/OpenCode/2026-10-30-desktop-added-flat-input-surfaces-and-a-compact-input-size|Desktop Added flat input surfaces and a compact input size]] · Mobile and Desktop
+- [[Changes/OpenCode/2026-10-30-desktop-added-the-missing-top-inset-to-the-search-field-in-the-recently-closed-m|Desktop Added the missing top inset to the search field in the recently closed menu]] · Interface Experience
+- [[Changes/OpenCode/2026-10-30-2-context-window-changes-in-v2-2-5|2 Context Window changes in v2.2.5]] · Context Window
+- [[Changes/OpenCode/2026-10-30-core-when-edit-can-t-find-oldstring-the-error-shows-the-file-s-closest-lines-or|Core When edit can't find oldString , the error shows the file's closest lines…]] · Editor Experience
+- [[Changes/OpenCode/2026-10-30-core-reasoning-is-no-longer-turned-into-plain-text-when-you-switch-models-or-res|Core Reasoning is no longer turned into plain text when you switch models or resume…]] · Model Support
+- [[Changes/OpenCode/2026-10-30-core-when-read-misses-because-a-folder-is-missing-the-error-names-that-folder-an|Core When read misses because a folder is missing, the error names that folder…]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-2-context-window-changes-in-v2-2-1|2 Context Window changes in v2.2.1]]
+- Later: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-qwen3-and-qwen3-5-models-using-long-context-yarn-scaling|Qwen3 and Qwen3.5 models using long-context (YaRN) scaling]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20opencode-2026-10-30-ea608c&body=Card%3A%20Changes%2FOpenCode%2F2026-10-30-percentage-compaction-buffer.md%0ACard%20ID%3A%20opencode-2026-10-30-ea608c%0ASource%3A%20https%3A%2F%2Fopencode.ai%2Fchangelog%2Fv2.2.5%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

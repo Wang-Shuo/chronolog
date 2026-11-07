@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29266ca5914213466552df2338869362a6388f746b229eedd168a84729601984
+machine_hash: 6e3f26b5bc9a5ec067221c46676bf3bd5ba08ce73dc6454c58478480869b91f3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Context Window changes in rust-v0.100.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-05-10692-fix-remote-compaction-estimator-payload-instruction-small-mismatch-charley|♯10692
-  Fix remote compaction estimator/payload instruction small mismatch @charley-oai]]'
-- '[[Changes/Codex CLI/2026-02-11-6-context-window-changes-in-rust-v0-99-0|6 Context
-  Window changes in rust-v0.99.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-11-expose-session-context-in-session-list-sdk-response|Expose
-  session context in session.list SDK response]]'
+- '[[Changes/OpenCode/2026-02-11-core-ensure-compaction-is-more-reliable-by-adding-reserve-token-buffer-to-provid|Core
+  Ensure compaction is more reliable by adding reserve token buffer to provide…]]'
+- '[[Changes/OpenCode/2026-02-11-add-additional-context-overflow-cases-and-remove-overcorrecting-ones|Add
+  additional context overflow cases and remove overcorrecting ones]]'
+- '[[Changes/OpenCode/2026-02-11-terminal-add-mode-specific-input-placeholders-to-improve-context-aware-prompts|Terminal
+  Add mode-specific input placeholders to improve context-aware prompts]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6|codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6]]'
 source_type: github_releases
 theme: context-window
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.100.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-expose-session-context-in-session-list-sdk-response|Expose session context in session.list SDK response]]
+- Earlier: 2026-02-11 · OpenCode · [[Changes/OpenCode/2026-02-11-terminal-add-mode-specific-input-placeholders-to-improve-context-aware-prompts|Terminal Add mode-specific input placeholders to improve context-aware prompts]]
 - Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-5-context-window-changes-in-v0-8-0|5 Context Window changes in v0.8.0]]
 <!-- chronolog:end -->
 

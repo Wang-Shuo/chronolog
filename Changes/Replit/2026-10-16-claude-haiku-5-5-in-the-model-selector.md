@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b8e3e13114411f2e8000e27a9687e1d778a2decbaacedbaa98a7957755b0cf20
+machine_hash: 0aa60bcf4f8b0eb501a563bcd2f55c2762263a15e5e37d8bce803e42fea84213
 product: replit
 product_name: Replit
 record:
@@ -44,12 +44,12 @@ record:
   title: Claude Haiku 5.5 in the model selector
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-improved-the-message-when-a-background-session-reopened-from-another-folder-has|Improved
-  the message when a background session reopened from another folder has no…]]'
-- '[[Changes/Cline/2026-10-16-4-model-support-changes-in-v4-1-25|4 Model Support changes
-  in v4.1.25]]'
 - '[[Changes/Open WebUI/2026-10-16-3-model-support-changes-in-v0-12-3|3 Model Support
   changes in v0.12.3]]'
+- '[[Changes/OpenClaw/2026-10-16-openai-reasoning-with-tools-fixed-tool-call-failures-and-reasoning-being-switche|OpenAI
+  reasoning with tools]]'
+- '[[Changes/OpenCode/2026-10-16-core-configure-model-reasoning-options-to-generate-reasoning-variants-replacing|Core
+  Configure model reasoning options to generate reasoning variants, replacing…]]'
 source_release: '[[Releases/Replit/replit-2026-10-16-2026-10-16-3443a38d|replit-2026-10-16-2026-10-16-3443a38d]]'
 source_type: replit_changelog
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-3-model-support-changes-in-v0-12-3|3 Model Support changes in v0.12.3]]
+- Earlier: 2026-10-16 · OpenCode · [[Changes/OpenCode/2026-10-16-core-configure-model-reasoning-options-to-generate-reasoning-variants-replacing|Core Configure model reasoning options to generate reasoning variants, replacing…]]
 - Later: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-gemini-4-requests-no-longer-fail-when-run-at-higher-effort-levels|Gemini 4 requests no longer fail when run at higher effort levels]]
 <!-- chronolog:end -->
 

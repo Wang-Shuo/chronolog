@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 097d87ab2c9ad685ee7961b88bca251c49dd1d32ad392b72edf766cb137867aa
+machine_hash: cdb4f1703b1e8832cc32d6e75a7b697f21fafa0075f6f4666801332f954f531d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,10 +85,10 @@ record:
   title: 19 Apps and Integrations changes in rust-v0.119.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-2-apps-and-integrations-changes-in-v2-1-98|2 Apps
-  and Integrations changes in v2.1.98]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-09-7-apps-and-integrations-changes-in-v1-0-22|7
   Apps and Integrations changes in v1.0.22]]'
+- '[[Changes/OpenCode/2026-04-09-sdk-fix-the-generated-sdk-and-openapi-types-for-providers-and-session-shell-resp|SDK
+  Fix the generated SDK and OpenAPI types for /providers and session shell responses]]'
 - '[[Changes/Claude Code/2026-04-10-4-apps-and-integrations-changes-in-v2-1-101|4
   Apps and Integrations changes in v2.1.101]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1|codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1]]'

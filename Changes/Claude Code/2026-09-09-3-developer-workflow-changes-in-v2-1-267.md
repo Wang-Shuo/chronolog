@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bda18b24f82c650de1e878ea28cb99df08ade2a0dcc39a7de6b42f7c945efbf8
+machine_hash: 474818de8cff31e1465b26196e96f49b22492c507f68c68dc82cd0450ca82f26
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,11 +48,11 @@ record:
   title: 3 Developer Workflow changes in v2.1.267
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-detect-the-herdr-terminal-multiplexer-instead-of-mistaking-it-for-tmux-so-the-ki|Detect
-  the herdr terminal multiplexer instead of mistaking it for tmux, so the Kitty…]]'
 - '[[Changes/ElevenLabs/2026-09-07-elevenlabs-cli|ElevenLabs CLI]]'
 - '[[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer
   Workflow changes in v2.1.265]]'
+- '[[Changes/OpenClaw/2026-09-08-22-developer-workflow-changes-in-v2026-9-3|22 Developer
+  Workflow changes in v2026.9.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.267
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer Workflow changes in v2.1.265]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-22-developer-workflow-changes-in-v2026-9-3|22 Developer Workflow changes in v2026.9.3]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-7-developer-workflow-changes-in-rust-v0-154-0|7 Developer Workflow changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

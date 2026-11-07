@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49283bb1c452372269e19a4a8e781f5e9554868c3b8b2aa3655a372439c99559
+machine_hash: 8e8e571e876c3cc9c859e2a29ea90533a63adb248a3618315111f3b676b21b33
 product: v0
 product_name: v0
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Collaboration changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-2-collaboration-changes-in-rust-v0-149-0|2 Collaboration
-  changes in rust-v0.149.0]]'
 - '[[Changes/Dify/2026-08-25-5-collaboration-changes-in-1-17-0|5 Collaboration changes
   in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-6-collaboration-changes-in-v0-11-1|6 Collaboration
   changes in v0.11.1]]'
+- '[[Changes/Gamma/2026-08-28-we-ve-shipped-a-lot-since-our-last-update-here-are-five-highlights-that-make-it|We’ve
+  shipped a lot since our last update]]'
 source_release: '[[Releases/v0/v0-2026-08-28-2026-08-28-1fac4f32|v0-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: v0_changelog
 theme: collaboration
@@ -104,7 +104,7 @@ Source: https://v0.app/changelog#2026-08-28
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-6-collaboration-changes-in-v0-11-1|6 Collaboration changes in v0.11.1]]
+- Earlier: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-we-ve-shipped-a-lot-since-our-last-update-here-are-five-highlights-that-make-it|We’ve shipped a lot since our last update]]
 - Later: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-2-collaboration-changes-in-v0-11-2|2 Collaboration changes in v0.11.2]]
 <!-- chronolog:end -->
 

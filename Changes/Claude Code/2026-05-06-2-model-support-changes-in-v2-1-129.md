@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3abcc6552e87bfa5e15c4dde3d00998039315977ff0fdda63d7a60124c76319
+machine_hash: 567592533acba540c930f173de6f9f1c935160c1f6fecaf3284e1b854113bb11
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,7 +44,8 @@ record:
   title: 2 Model Support changes in v2.1.129
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]]'
+- '[[Changes/OpenCode/2026-05-04-core-fix-azure-anthropic-model-resolution-when-using-the-anthropic-sdk|Core
+  Fix Azure Anthropic model resolution when using the Anthropic SDK]]'
 - '[[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|GPT-5.5
   Instant in ChatGPT]]'
 - '[[Changes/Gemini CLI/2026-05-05-3-model-support-changes-in-v0-41-0|3 Model Support

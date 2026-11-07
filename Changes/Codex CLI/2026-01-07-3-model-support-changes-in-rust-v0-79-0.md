@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 532b1856992702195a2b6741697d62397acb50553ff78b581a919281d2d61a31
+machine_hash: 9d2407c8e3ac5e81a46df2853144ce33cef592a9328a66c61d3bd895702e5109
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Model Support changes in rust-v0.79.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-02-model-picker-shows-clearer-message-with-settings-link-when-models-are-unavailabl|Model
-  picker shows clearer message with settings link when models are unavailable]]'
+- '[[Changes/OpenCode/2026-01-05-core-filter-out-empty-messages-and-reasoning-for-anthropic-api-compatibility|Core
+  Filter out empty messages and reasoning for Anthropic API compatibility]]'
 - '[[Changes/Cline/2026-01-06-3-model-support-changes-in-v3-47-0|3 Model Support changes
   in v3.47.0]]'
 - '[[Changes/Codex CLI/2026-01-06-5-model-support-changes-in-rust-v0-78-0|5 Model

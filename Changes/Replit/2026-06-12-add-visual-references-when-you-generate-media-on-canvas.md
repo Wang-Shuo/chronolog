@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: dcfccba39db2e9194b98d9bb024a0eb6c4d7d05c8b375f728afe33b603899109
+machine_hash: 09dca38b864d0839b0d321246974d5d01fb6501f0b1e01aff4c3eef9764ada1f
 product: replit
 product_name: Replit
 record:
@@ -52,12 +52,12 @@ record:
   title: Add visual references when you generate media on Canvas
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6
-  release and analytics]]'
 - '[[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive
   charts in answers]]'
 - '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen
   writing blocks for longer-form work]]'
+- '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-and-pdf-support|Quota
+  Screen Redesign and PDF Support]]'
 source_release: '[[Releases/Replit/replit-2026-06-12-2026-06-12-d92f034f|replit-2026-06-12-2026-06-12-d92f034f]]'
 source_type: replit_changelog
 theme: file-data
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen writing blocks for longer-form work]]
+- Earlier: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-and-pdf-support|Quota Screen Redesign and PDF Support]]
 - Later: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-recover-from-unreadable-native-document-attachments-by-falling-back-to-file-path|Recover from unreadable native document attachments by falling back to file-path uploads]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58393b6545dbeecf0012d98ac74f6d2f6f9934772d41da5d5461faf45520a518
+machine_hash: 2f70c089b447ca24f05aa8ad8a6229c92e3cb5989e1dded33ef76c6a257808d5
 product: openhands
 product_name: OpenHands
 record:
@@ -46,11 +46,11 @@ record:
   title: 3 Interface Experience changes in v1.34.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-27-2-interface-experience-changes-in-v2-1-312|2 Interface
-  Experience changes in v2.1.312]]'
-- '[[Changes/Codex CLI/2026-10-27-added-a-repository-filter-to-the-session-picker-and-directory-grouping-to-the-ag|Added
-  a repository filter to the session picker and directory grouping to the agent…]]'
 - '[[Changes/Lovable/2026-10-27-redesigned-sidebar|Redesigned sidebar]]'
+- '[[Changes/OpenClaw/2026-10-27-on-linux-doctor-can-repair-a-managed-gateway-that-is-using-an-unsupported-node-v|On
+  Linux, Doctor can repair a managed Gateway that is using an unsupported Node…]]'
+- '[[Changes/OpenCode/2026-10-27-10-interface-experience-changes-in-v2-2-0|10 Interface
+  Experience changes in v2.2.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892|openhands-2026-10-27-v1-34-0-github-425575573-3f638892]]'
 source_type: github_releases
 theme: interface-experience
@@ -94,7 +94,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.34.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-27 · Lovable · [[Changes/Lovable/2026-10-27-redesigned-sidebar|Redesigned sidebar]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-10-interface-experience-changes-in-v2-2-0|10 Interface Experience changes in v2.2.0]]
 - Later: 2026-10-28 · Lovable · [[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]
 <!-- chronolog:end -->
 

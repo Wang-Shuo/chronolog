@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8001e7e8abaddb6e9ed8038f001c3d3c07e370bfd138d6299e8e9cc8e538bc08
+machine_hash: aa4871460d4f4b36ce9f4d038a910ab960c6afdd370f0d7f8bd8abe7ba421ae1
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.45
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-16-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2026-02-16-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2026-02-16-sdk-releases|SDK Releases]]'
+- '[[Changes/OpenCode/2026-02-16-core-bump-gitlab-provider-and-auth-plugin-for-mid-session-token-refresh|Core
+  Bump GitLab provider and auth plugin for mid-session token refresh]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.45
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-16 · ElevenLabs · [[Changes/ElevenLabs/2026-02-16-sdk-releases|SDK Releases]]
+- Earlier: 2026-02-16 · OpenCode · [[Changes/OpenCode/2026-02-16-core-bump-gitlab-provider-and-auth-plugin-for-mid-session-token-refresh|Core Bump GitLab provider and auth plugin for mid-session token refresh]]
 - Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-15-apps-and-integrations-changes-in-rust-v0-102-0|15 Apps and Integrations changes in rust-v0.102.0]]
 <!-- chronolog:end -->
 

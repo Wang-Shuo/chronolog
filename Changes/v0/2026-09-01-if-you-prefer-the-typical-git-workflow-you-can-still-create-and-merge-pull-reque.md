@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ce41a4e0c1054fbb9bd056b17a98ea1f85bc751dc9850c4a446d49aaac51ec2
+machine_hash: 4d8b650ac55f4180f0fe39c32687c3746eaeeb84b8f3deb15c67967e7084b2c8
 product: v0
 product_name: v0
 record:
@@ -53,12 +53,12 @@ record:
     requests…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface
-  Experience changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-3-interface-experience-changes-in-rust-v0-152-0|3
   Interface Experience changes in rust-v0.152.0]]'
 - '[[Changes/Lovable/2026-09-01-empty-project-groups-no-longer-show-in-the-sidebar|Empty
   project groups no longer show in the sidebar]]'
+- '[[Changes/OpenClaw/2026-09-01-3-interface-experience-changes-in-v2026-8-2|3 Interface
+  Experience changes in v2026.8.2]]'
 source_release: '[[Releases/v0/v0-2026-09-01-2026-09-01-13cb07e2|v0-2026-09-01-2026-09-01-13cb07e2]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-01 · Lovable · [[Changes/Lovable/2026-09-01-empty-project-groups-no-longer-show-in-the-sidebar|Empty project groups no longer show in the sidebar]]
+- Earlier: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-3-interface-experience-changes-in-v2026-8-2|3 Interface Experience changes in v2026.8.2]]
 - Later: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode Added an Active quick filter and a status filter menu…]]
 <!-- chronolog:end -->
 

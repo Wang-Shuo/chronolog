@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0321490facdbdcf6651bf52b0b41c18726867ee136c53a28e982d02cc3b8caa
+machine_hash: 534b42cefae1a257baecd5e3922278eed58a3bfa20e2987f0bbc3f59d36ece22
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,12 +96,11 @@ record:
   title: 13 Reliability and Performance changes in v0.8.9
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-13446-tui-show-speed-in-session-header-pash-openai|♯13446
-  tui Show speed in session header @pash-openai]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-05-reduce-memory-usage-in-alt-screen-mode-for-long-sessions|Reduce
-  memory usage in alt-screen mode for long sessions]]'
 - '[[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3
   Reliability and Performance changes in v2.1.70]]'
+- '[[Changes/OpenCode/2026-03-06-core-stop-leaking-fsmonitor-daemons-that-caused-60gb-of-committed-memory-after-r|Core
+  Stop leaking fsmonitor daemons that caused 60GB+ of committed memory after…]]'
+- '[[Changes/OpenCode/2026-03-07-core-speed-up-share-loads|Core Speed up share loads]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb|open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb]]'
 source_type: github_releases
 theme: reliability-performance
@@ -169,8 +168,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.9
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3 Reliability and Performance changes in v2.1.70]]
-- Later: 2026-03-09 · Open WebUI · [[Changes/Open WebUI/2026-03-09-2-reliability-and-performance-changes-in-v0-8-10|2 Reliability and Performance changes in v0.8.10]]
+- Earlier: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-core-speed-up-share-loads|Core Speed up share loads]]
+- Later: 2026-03-09 · Google Antigravity · [[Changes/Google Antigravity/2026-03-09-stability-and-ui-improvements|Stability and UI improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

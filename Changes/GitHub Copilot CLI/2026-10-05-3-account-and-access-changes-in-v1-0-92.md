@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6dac200b7cde3e019d3ca94e5e766fde30341c662ae852d56554e1c18d4ad87f
+machine_hash: d899f53c0484b9e20e8ccc0a9230a3de23f279b18550453f654d29a9a6f988cd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Account and Access changes in v1.0.92
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-2-account-and-access-changes-in-rust-v0-160-0|2
-  Account and Access changes in rust-v0.160.0]]'
 - '[[Changes/Claude Code/2026-10-02-added-a-re-authenticate-prompt-when-an-mcp-server-asks-for-more-oauth-scope-duri|Added
   a re-authenticate prompt when an MCP server asks for more OAuth scope during…]]'
+- '[[Changes/OpenClaw/2026-10-03-2-account-and-access-changes-in-v2026-9-8|2 Account
+  and Access changes in v2026.9.8]]'
 - '[[Changes/Claude Code/2026-10-05-3-account-and-access-changes-in-v2-1-290|3 Account
   and Access changes in v2.1.290]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'

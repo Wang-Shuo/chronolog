@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90b4901d93957dfa2eefbb0b78ced861dd1463d9c4d44fdad1f0520b47bccec6
+machine_hash: 00854e042da353b42cca9c66d49bf4b2cb8596729b25e86d06b3de1fb5168666
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: Unified CLI permissions with the editor, including Run Everything, Auto-Run…
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-01-20-gemini-introduces-personal-intelligence|Gemini introduces
-  Personal Intelligence]]'
 - '[[Changes/Codex CLI/2026-01-21-3-safety-and-privacy-changes-in-rust-v0-88-0|3 Safety
   and Privacy changes in rust-v0.88.0]]'
+- '[[Changes/OpenCode/2026-01-21-core-implement-home-directory-expansion-for-permission-patterns-using-and-home-p|Core
+  Implement home directory expansion for permission patterns using ~ and $HOME prefixes]]'
 - '[[Changes/Codex CLI/2026-01-22-2-safety-and-privacy-changes-in-rust-v0-89-0|2 Safety
   and Privacy changes in rust-v0.89.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-2-safety-and-privacy-changes-in-rust-v0-89-0|2 Safety and Privacy changes in rust-v0.89.0]]
-- Later: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-4-safety-and-privacy-changes-in-rust-v0-90-0|4 Safety and Privacy changes in rust-v0.90.0]]
+- Later: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-core-ensure-cat-command-triggers-external-directory-permission-check-in-bash-too|Core Ensure cat command triggers external directory permission check in Bash tool]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

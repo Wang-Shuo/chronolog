@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c263fe42193797f186d22f743e489a1ec5718257df6d009bca5e6c00e1ae8176
+machine_hash: 8ae4bd35207309818976186a5c0ca2606e9d9c21593f555d143e107dd06620a4
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: Validate to_replace in edit_file_by_replace AgentSkill
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience
-  changes in 0.7.0]]'
-- '[[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer
-  (beta)]]'
+- '[[Changes/Gamma/2024-07-16-we-ve-made-a-couple-changes-to-present-mode-that-make-spotlight-easier-to-use-an|Gamma
+  makes a couple changes to present mode that make spotlight easier to use…]]'
 - '[[Changes/Cursor/2024-07-23-vs-code-1-91-1-cursor-is-now-based-on-vs-code-1-91-1|VS
   Code 1.91.1: Cursor is now based on VS Code 1.91.1]]'
+- '[[Changes/Gamma/2024-07-23-we-ve-added-16-new-themes-to-gamma-with-a-focus-on-professional-designs-that-kee|Gamma
+  adds 16 new themes to Gamma, with a focus on professional designs that keep…]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce|openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-vs-code-1-91-1-cursor-is-now-based-on-vs-code-1-91-1|VS Code 1.91.1: Cursor is now based on VS Code 1.91.1]]
+- Earlier: 2024-07-23 · Gamma · [[Changes/Gamma/2024-07-23-we-ve-added-16-new-themes-to-gamma-with-a-focus-on-professional-designs-that-kee|Gamma adds 16 new themes to Gamma, with a focus on professional designs that keep…]]
 - Later: 2024-07-28 · Cline · [[Changes/Cline/2024-07-28-updated-view-id-for-tab-panels-for-better-internal-caching|Updated view ID for tab panels for better internal caching]]
 <!-- chronolog:end -->
 

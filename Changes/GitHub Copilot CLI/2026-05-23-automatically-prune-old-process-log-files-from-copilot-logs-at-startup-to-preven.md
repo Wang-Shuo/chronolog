@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 590e99d0c921a03fd3bb79897625ab64166b850c6310774664b0736771acae0e
+machine_hash: 4ccd31b16503739e528dc06eaaa9802520c2fc0d07c6f5773823af9458ad189b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: Automatically prune old process log files from ~/.copilot/logs/ at startup…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff
-  detail view can now be scrolled with the keyboard…]]'
-- '[[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci:
-  implement codebase-aware effort level triage]]'
+- '[[Changes/OpenCode/2026-05-22-redesigned-the-diff-viewer-with-a-file-tree-and-refreshed-layout|Redesigned
+  the diff viewer with a file tree and refreshed layout]]'
+- '[[Changes/OpenCode/2026-05-22-2-editor-experience-changes-in-v1-15-9|2 Editor Experience
+  changes in v1.15.9]]'
 - '[[Changes/Replit/2026-05-22-layout-controls-in-the-visual-editor|Layout controls
   in the Visual Editor]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3bc5de2bb6d1b47cf67611ef7d79d847cc23985e6b67ddb202c561beec1ac31f
+machine_hash: 7554750d30e6d54f03aae6b4c28945e0461307650616b4ff24a946d56184e8ff
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,10 +54,10 @@ record:
   title: 5 Context Window changes in v0.37.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-pro-users-now-see-a-footer-hint-when-returning-to-a-session-after-the-prompt-cac|Pro
-  users now see a footer hint when returning to a session after the prompt cache…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-06-slash-command-timeline-entries-now-include-the-command-name-e-g-review-plan-for|Slash
   command timeline entries now include the command name (e.g., "Review", "Plan")…]]'
+- '[[Changes/OpenCode/2026-04-06-core-fix-output-token-totals-when-reasoning-tokens-are-reported-separately|Core
+  Fix output token totals when reasoning tokens are reported separately]]'
 - '[[Changes/Claude Code/2026-04-08-improved-context-low-warning-to-show-as-a-transient-footer-notification-instead|Improved
   context-low warning to show as a transient footer notification instead…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'

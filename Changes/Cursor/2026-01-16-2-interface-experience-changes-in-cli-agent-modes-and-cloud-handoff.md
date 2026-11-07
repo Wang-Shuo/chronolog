@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4cc43aa668cfce75029a1613e0a0e3da771f8ee1d6f35ec401a4f948dea46d93
+machine_hash: 829e89d5f71a1e9129972432e2ffb6ccd017e53ca06d7184b1bc86978f8e546d
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Interface Experience changes in CLI Agent Modes and Cloud Handoff
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added
-  showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]]'
 - '[[Changes/Codex CLI/2026-01-14-2-interface-experience-changes-in-rust-v0-81-0|2
   Interface Experience changes in rust-v0.81.0]]'
 - '[[Changes/Codex CLI/2026-01-15-extend-the-rust-protocol-types-to-include-additional-metadata-on-text-elements-e|Extend
   the Rust protocol/types to include additional metadata on text elements…]]'
+- '[[Changes/OpenCode/2026-01-15-5-interface-experience-changes-in-v1-1-23|5 Interface
+  Experience changes in v1.1.23]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -93,7 +93,7 @@ Source: https://cursor.com/changelog/cli-jan-16-2026
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-extend-the-rust-protocol-types-to-include-additional-metadata-on-text-elements-e|Extend the Rust protocol/types to include additional metadata on text elements…]]
+- Earlier: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-5-interface-experience-changes-in-v1-1-23|5 Interface Experience changes in v1.1.23]]
 - Later: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-better-dashboard-organization-and-navigation|Better dashboard organization and navigation]]
 <!-- chronolog:end -->
 

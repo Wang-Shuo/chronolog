@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 604f905ae976e9f47babd15401ebf160f687c335f2e522059cd4addf562a6029
+machine_hash: 8083de78af79c2aec48b2dfbf429b805e87f921e50bd3d8ea26d5a5ef59ba4b3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,12 @@ record:
   title: Show loading spinner in diff mode while fetching changes
   type: change
 related_changes:
-- '[[Changes/Replit/2026-03-06-ai-chat-message-truncation|AI Chat message truncation]]'
 - '[[Changes/Codex CLI/2026-03-08-added-a-new-model-selection-surface-update-so-the-latest-model-catalog-changes-a|Added
   a new model-selection surface update so the latest model catalog changes…]]'
 - '[[Changes/Open WebUI/2026-03-08-5-interface-experience-changes-in-v0-8-9|5 Interface
   Experience changes in v0.8.9]]'
+- '[[Changes/OpenCode/2026-03-08-2-interface-experience-changes-in-v1-2-22|2 Interface
+  Experience changes in v1.2.22]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137|github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137]]'
 source_type: github_releases
 theme: interface-experience
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-5-interface-experience-changes-in-v0-8-9|5 Interface Experience changes in v0.8.9]]
-- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing|Added w key in /copy to write the focused selection directly to a file…]]
+- Earlier: 2026-03-08 · OpenCode · [[Changes/OpenCode/2026-03-08-2-interface-experience-changes-in-v1-2-22|2 Interface Experience changes in v1.2.22]]
+- Later: 2026-03-09 · OpenCode · [[Changes/OpenCode/2026-03-09-desktop-fix-sidebar-workspace-container-sizing-to-prevent-content-overflow|Desktop Fix sidebar workspace container sizing to prevent content overflow]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

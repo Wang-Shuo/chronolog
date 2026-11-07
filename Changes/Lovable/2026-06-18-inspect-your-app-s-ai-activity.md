@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 728efd6377b979214bb8a10574f43dc2528534d57644eea9b54e6318bf7626bb
+machine_hash: e201faf0a878f54793b9a89ecada32886d86212b8c65c4a78491dd0d69bdd2bd
 product: lovable
 product_name: Lovable
 record:
@@ -56,9 +56,9 @@ record:
   title: Inspect your app's AI activity
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-17-build-in-lovable-from-claude|Build in Lovable from
-  Claude]]'
 - '[[Changes/Lovable/2026-06-17-app-connector-lightspeed|App connector: Lightspeed]]'
+- '[[Changes/OpenCode/2026-06-17-4-apps-and-integrations-changes-in-v1-17-8|4 Apps
+  and Integrations changes in v1.17.8]]'
 - '[[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17
   Apps and Integrations changes in rust-v0.141.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-18-2026-06-18-3e62b64d|lovable-2026-06-18-2026-06-18-3e62b64d]]'

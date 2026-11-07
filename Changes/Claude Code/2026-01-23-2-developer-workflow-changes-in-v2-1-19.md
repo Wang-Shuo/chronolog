@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99f89275f212c56364a4b0167faf2b2843263d81efb0d2d01d8b481d18505d92
+machine_hash: 9d032e211a53892ce8fa83ae40d3a784b388b3e8b211430198af717e1312c800
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.19
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-3-developer-workflow-changes-in-2-4|3 Developer Workflow
-  changes in 2.4]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-22-add-rename-command-as-alias-for-session-rename|Add
-  /rename command as alias for /session rename]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-22-improve-session-command-visual-hierarchy-and-colors|Improve
-  /session command visual hierarchy and colors]]'
+- '[[Changes/OpenCode/2026-01-22-revert-handling-of-special-characters-in-paths-and-git-snapshot-reading-logic|Revert
+  handling of special characters in paths and git snapshot reading logic]]'
+- '[[Changes/OpenCode/2026-01-22-terminal-add-gruvbox-theme-to-web-and-app|Terminal
+  Add Gruvbox theme to Web and App]]'
+- '[[Changes/OpenCode/2026-01-22-3-developer-workflow-changes-in-v1-1-32|3 Developer
+  Workflow changes in v1.1.32]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,8 +84,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-improve-session-command-visual-hierarchy-and-colors|Improve /session command visual hierarchy and colors]]
-- Later: 2026-01-23 · Windsurf · [[Changes/Windsurf/2026-01-23-added-post-setup-worktree-https-docs-windsurf-com-windsurf-cascade-worktrees-set|Added…]]
+- Earlier: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-3-developer-workflow-changes-in-v1-1-32|3 Developer Workflow changes in v1.1.32]]
+- Later: 2026-01-23 · Google Antigravity · [[Changes/Google Antigravity/2026-01-23-terminal-sandboxing|Terminal Sandboxing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

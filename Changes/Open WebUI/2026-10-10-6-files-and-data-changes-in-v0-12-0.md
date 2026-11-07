@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 940edd5bb74eca2ebcc85df50f75ace58c791ba8aa23563d5e316cd54fbeb79d
+machine_hash: fb9edbef24ef9708fc188dfe1fc411c24ed8f4d69bb7a16af943b9c99b37bff4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -132,7 +132,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 ## Nearby in Files and Data
 
 - Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-2-files-and-data-changes-in-v1-26-0|2 Files and Data changes in v1.26.0]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-files-and-data-changes-in-v2-1-299|2 Files and Data changes in v2.1.299]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-2-files-and-data-changes-in-v2026-10-1|2 Files and Data changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

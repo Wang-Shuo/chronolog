@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d8f6cbde84c3cb1cc97aabfe5134fc8da6818205f2734b5857854bdd45362d0d
+machine_hash: fea02aa8f1bde863e94a924b9fa22289472d750b7a592b252714e3958d5fc054
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,12 +48,11 @@ record:
   title: Android SDK
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The
-  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
-- '[[Changes/Codex CLI/2026-10-29-57503-fix-macos-standalone-release-pruning-etraut-openai|♯57503
-  Fix macOS standalone release pruning @etraut-openai]]'
-- '[[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile
-  and Desktop changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-desktop-added-flat-input-surfaces-and-a-compact-input-size|Desktop
+  Added flat input surfaces and a compact input size]]'
+- '[[Changes/OpenCode/2026-10-30-persistent-desktop-terminals|Persistent Desktop Terminals]]'
+- '[[Changes/OpenCode/2026-10-30-14-mobile-and-desktop-changes-in-v2-2-3|14 Mobile
+  and Desktop changes in v2.2.3]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'
 source_type: elevenlabs_changelog
 theme: mobile-desktop
@@ -108,7 +107,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile and Desktop changes in v2.1.314]]
+- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-14-mobile-and-desktop-changes-in-v2-2-3|14 Mobile and Desktop changes in v2.2.3]]
 - Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-image-drops-from-photo-apps-images-dropped-into-chats-and-channels-are-now-recog|🖼️ Image drops from photo apps. Images dropped into chats and channels are now…]]
 <!-- chronolog:end -->
 

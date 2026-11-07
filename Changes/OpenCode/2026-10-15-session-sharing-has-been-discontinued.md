@@ -1,0 +1,90 @@
+---
+card_id: opencode-2026-10-15-958448
+date: '2026-10-15'
+description: 'OpenCode · 2026-10-15 · Collaboration: Session sharing has been discontinued.
+  Existing share links and session-sharing commands are no longer available, and…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1240
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: collaboration
+  tracked_products_count: 29
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: 7d561ce5b0420e31c2bf797bd0b2e134177d0cf826fdd61a668b795b52509851
+product: opencode
+product_name: OpenCode
+record:
+  card_id: opencode-2026-10-15-958448
+  comparison: ''
+  date: '2026-10-15'
+  description: 'OpenCode — v1.19.1: Session sharing has been discontinued. Existing
+    share links and session-sharing commands are no longer available, and importing
+    sessions from share URLs is unsupported.'
+  evidence:
+  - quote: Session sharing has been discontinued. Existing share links and session-sharing
+      commands are no longer available, and importing sessions from share URLs is
+      unsupported.
+    source_release: https://opencode.ai/changelog/v1.19.1
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: opencode
+  product_name: OpenCode
+  slug: session-sharing-has-been-discontinued
+  source_release: opencode-2026-10-15-v1-19-1-b98be4fa
+  source_type: opencode_changelog
+  theme: collaboration
+  title: Session sharing has been discontinued
+  type: change
+related_changes:
+- '[[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed
+  local session transcripts to also record each API request''s system prompt…]]'
+- "[[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|\U0001F4BE
+  Save hidden on others' messages. In a chat shared with Allow replies, editing…]]"
+- '[[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration
+  changes in rust-v0.163.0]]'
+source_release: '[[Releases/OpenCode/opencode-2026-10-15-v1-19-1-b98be4fa|opencode-2026-10-15-v1-19-1-b98be4fa]]'
+source_type: opencode_changelog
+theme: collaboration
+title: Session sharing has been discontinued
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Session sharing has been discontinued
+
+**OpenCode** · 2026-10-15 · [[Themes/collaboration|Collaboration]] · Launch · [Official source](https://opencode.ai/changelog/v1.19.1) · from [[Releases/OpenCode/opencode-2026-10-15-v1-19-1-b98be4fa|v1.19.1]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Session sharing has been discontinued. Existing share links and session-sharing commands are no longer available, and importing sessions from share URLs is unsupported.
+>
+> Source: https://opencode.ai/changelog/v1.19.1
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Collaboration
+
+- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration changes in rust-v0.163.0]]
+- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT Slides lets you create presentations and keep working on them with your team…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20opencode-2026-10-15-958448&body=Card%3A%20Changes%2FOpenCode%2F2026-10-15-session-sharing-has-been-discontinued.md%0ACard%20ID%3A%20opencode-2026-10-15-958448%0ASource%3A%20https%3A%2F%2Fopencode.ai%2Fchangelog%2Fv1.19.1%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

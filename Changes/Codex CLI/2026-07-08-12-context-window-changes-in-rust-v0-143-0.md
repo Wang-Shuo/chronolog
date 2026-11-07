@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8fac47f612401f35e9e0f8aa2e59fb3fd3a27731e26eaa686ea5d091bc39b3f4
+machine_hash: 424795d3a86d46e21c7a0084cc427b1ada20b3f74e6a2ad6822b22172aee4965
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,10 +63,10 @@ record:
   title: 12 Context Window changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-test-pltf-1269-replace-test-should-naming-with-test-verb-noun-context-convention|test:
-  PLTF-1269 replace test_should naming with test_verb_noun_context convention]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-warn-when-static-context-uses-most-of-the-prompt-budget-and-block-requests-when|Warn
   when static context uses most of the prompt budget and block requests…]]'
+- '[[Changes/OpenCode/2026-07-07-core-better-classify-z-ai-context-window-overflow-errors-so-oversized-requests-s|Core
+  Better classify Z.ai context-window overflow errors so oversized requests…]]'
 - '[[Changes/Claude Code/2026-07-08-improved-auto-mode-to-ask-before-running-rm-rf-on-a-variable-it-can-t-resolve-fr|Improved
   auto mode to ask before running rm -rf on a variable it can''t resolve…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'

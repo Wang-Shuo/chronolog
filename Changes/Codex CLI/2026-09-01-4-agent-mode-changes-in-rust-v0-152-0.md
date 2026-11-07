@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d327f81be64d02217c2c9b9854987400425bb33fee30ee9a7dd19535626e66fd
+machine_hash: 18488c6a2470a568f8dfe7f0db541e164f2ce88ad9b57b836f2ab49a016ae52b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.152.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-5-agent-mode-changes-in-v2-1-257|5 Agent Mode changes in v2.1.257]]
-- Later: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-2-agent-mode-changes-in-v2-1-259|2 Agent Mode changes in v2.1.259]]
+- Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-11-agent-mode-changes-in-v2026-8-2|11 Agent Mode changes in v2026.8.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cecbef72fc6f5de7e4a054018499ff3fc74dad19bc2f4130cefb8926f572597f
+machine_hash: 1246b5b592eb8f2fd3a49840e3fd829bae11b348d0b742fcf3cb8ee206402525
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,12 +49,12 @@ record:
   title: ElevenCreative Studio
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-23-removed-grok-model-from-free-tier|Removed grok model
-  from free tier]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-24-directory-path-uses-consistent-muted-text-color-with-git-branch-and-model-displa|Directory
-  path uses consistent muted text color with git branch and model display]]'
-- '[[Changes/Codex CLI/2026-01-25-5-model-support-changes-in-rust-v0-90-0|5 Model
-  Support changes in rust-v0.90.0]]'
+- '[[Changes/OpenCode/2026-01-25-enable-thinking-for-google-vertex-anthropic-models|Enable
+  thinking for Google Vertex Anthropic models]]'
+- '[[Changes/OpenCode/2026-01-25-9-model-support-changes-in-v1-1-35|9 Model Support
+  changes in v1.1.35]]'
+- '[[Changes/OpenCode/2026-01-25-desktop-fixed-crash-when-no-default-model-is-set|Desktop
+  Fixed crash when no default model is set]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-01-26-2026-01-26-f7dcd336|elevenlabs-2026-01-26-2026-01-26-f7dcd336]]'
 source_type: elevenlabs_changelog
 theme: model-support
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-5-model-support-changes-in-rust-v0-90-0|5 Model Support changes in rust-v0.90.0]]
+- Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-desktop-fixed-crash-when-no-default-model-is-set|Desktop Fixed crash when no default model is set]]
 - Later: 2026-01-27 · Cline · [[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes in v3.54.0]]
 <!-- chronolog:end -->
 

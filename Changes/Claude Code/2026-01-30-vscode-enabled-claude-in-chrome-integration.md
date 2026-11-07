@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dcf041740ebbb3b8040d7939e4bf7a78b9e262dae21dde2d28eec4bf86e96811
+machine_hash: 67c749d152fd0b3a9c6f8e2823ddbc186c773083b72ad11548fa1110257e6e45
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,11 @@ record:
   title: 'VSCode: Enabled Claude in Chrome integration'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-28-add-mcp-prompts-support-prompts-from-connected-mcp-servers-now-appear-in-slash-c|Add
-  MCP prompts support - prompts from connected MCP servers now appear in slash…]]'
-- '[[Changes/Gemini CLI/2026-01-28-4-apps-and-integrations-changes-in-v0-26-0|4 Apps
-  and Integrations changes in v0.26.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-28-mcp-show-server-name-displays-server-details-and-available-tools|/mcp
-  show server-name displays server details and available tools]]'
+- '[[Changes/OpenCode/2026-01-28-core-bump-plugin-version|Core Bump plugin version]]'
+- '[[Changes/OpenCode/2026-01-28-core-add-worktree-to-plugin-tool-context|Core Add
+  worktree to plugin tool context]]'
+- '[[Changes/OpenCode/2026-01-29-core-include-provider-id-in-sdk-cache-key-to-prevent-cache-collisions|Core
+  Include provider ID in SDK cache key to prevent cache collisions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-mcp-show-server-name-displays-server-details-and-available-tools|/mcp show server-name displays server details and available tools]]
+- Earlier: 2026-01-29 · OpenCode · [[Changes/OpenCode/2026-01-29-core-include-provider-id-in-sdk-cache-key-to-prevent-cache-collisions|Core Include provider ID in SDK cache key to prevent cache collisions]]
 - Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys|Hooks: Hook scripts now run from the workspace repository root instead…]]
 <!-- chronolog:end -->
 

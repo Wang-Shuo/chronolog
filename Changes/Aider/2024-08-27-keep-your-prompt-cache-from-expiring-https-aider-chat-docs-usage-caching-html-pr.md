@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ccece6b8a30827d001bda5e4776900b3c2d576164bbeb1d5b4f9e2f641708f1
+machine_hash: 37fec96c804459feb8bed13bfbaebcd23abc8cb9ca055593aff81d473c4d9833
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
   title: '[Keep your prompt cache…'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-13-bug-fix-for-chat-history-size-in-tokens|Bug fix for
-  chat history size in /tokens]]'
-- '[[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We''ve
-  also trained a new Cursor Tab model that''s smarter and more context-aware]]'
+- '[[Changes/Gamma/2024-08-24-plus-token-limit-increased-from-5-000-to-10-000-tokens-per-generation|Plus:
+  Token limit increased from 5,000 to 10,000 tokens per generation]]'
+- '[[Changes/Gamma/2024-08-24-pro-token-limit-increased-from-10-000-to-25-000-tokens-per-generation|Pro:
+  Token limit increased from 10,000 to 25,000 tokens per generation]]'
 - '[[Changes/Cline/2024-08-26-implement-sliding-window-context-management-to-keep-tasks-going-past-200k-tokens|Implement
   sliding window context management to keep tasks going past 200k tokens]]'
 source_release: '[[Releases/Aider/aider-2024-08-27-v0-53-0-github-172157209-6d1857f0|aider-2024-08-27-v0-53-0-github-172157209-6d1857f0]]'

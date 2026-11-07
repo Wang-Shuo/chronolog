@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 81a64e7ccc896ea00909f6c2f4504560c198776dc70f0f7eee593d3a49373b5a
+machine_hash: d67bcf225f6a5ad8d6b3ac7fc6add5aa11919a043000faa0799159dd72fb1b38
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-06-05 · Cline · [[Changes/Cline/2025-06-05-add-support-for-gemini-2-5-pro-preview-06-05-model-to-vertex-ai-and-google-gemin|Add support for Gemini 2.5 Pro Preview 06-05 model to Vertex AI and Google Gemini…]]
-- Later: 2025-06-09 · Ollama · [[Changes/Ollama/2025-06-09-6-model-support-changes-in-v0-9-1|6 Model Support changes in v0.9.1]]
+- Later: 2025-06-09 · Manus · [[Changes/Manus/2025-06-09-veo3-allows-for-that-extra-visual-finesse-in-comparison-to-our-default-model-the|Veo3 allows for that extra visual finesse in comparison to our default model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

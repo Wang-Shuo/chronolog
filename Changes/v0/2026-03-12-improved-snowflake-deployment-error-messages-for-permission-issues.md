@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae0a96e14aae2c8badafa5407ae7f2c2fdc66956645a13c2728883e23b7cfe83
+machine_hash: c74db78222f9093f484b3a97dd1dc1551cd7d4974c7128d30b015249d778c79f
 product: v0
 product_name: v0
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved Snowflake deployment error messages for permission issues
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-2-safety-and-privacy-changes-in-v1-0-4|2
-  Safety and Privacy changes in v1.0.4]]'
 - '[[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|Fixed
   voice mode silently failing on the macOS native binary for users whose…]]'
 - '[[Changes/Cline/2026-03-12-markdown-image-loading-now-requires-user-consent|Markdown
   image loading now requires user consent]]'
+- '[[Changes/OpenCode/2026-03-12-2-safety-and-privacy-changes-in-v1-2-25|2 Safety
+  and Privacy changes in v1.2.25]]'
 source_release: '[[Releases/v0/v0-2026-03-12-2026-03-12-6e6ec641|v0-2026-03-12-2026-03-12-6e6ec641]]'
 source_type: v0_changelog
 theme: safety-privacy
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-12 · Cline · [[Changes/Cline/2026-03-12-markdown-image-loading-now-requires-user-consent|Markdown image loading now requires user consent]]
+- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-2-safety-and-privacy-changes-in-v1-2-25|2 Safety and Privacy changes in v1.2.25]]
 - Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-3-safety-and-privacy-changes-in-v2-1-76|3 Safety and Privacy changes in v2.1.76]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c50c11bdceae27a74b6887c3bb3f9a034ccb516f62bf2b46716c65013fc5f53
+machine_hash: 5684312b2b7e43880d849b262a35dc102608f8be11e6360a85109a7ca2b26e68
 product: v0
 product_name: v0
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Interface Experience changes in Claude Opus 5, direct Figma inspection…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-10-interface-experience-changes-in-1-16-1|10 Interface
-  Experience changes in 1.16.1]]'
 - '[[Changes/Codex CLI/2026-07-29-8-interface-experience-changes-in-rust-v0-146-0|8
   Interface Experience changes in rust-v0.146.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4
   Interface Experience changes in v1.0.76]]'
+- '[[Changes/Google Antigravity/2026-07-31-2-interface-experience-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
+  Interface Experience changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 source_release: '[[Releases/v0/v0-2026-07-31-2026-07-31-9665255c|v0-2026-07-31-2026-07-31-9665255c]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -92,8 +92,8 @@ Source: https://v0.app/changelog#2026-07-31
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4 Interface Experience changes in v1.0.76]]
-- Later: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-2-interface-experience-changes-in-v1-0-78|2 Interface Experience changes in v1.0.78]]
+- Earlier: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-2-interface-experience-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2 Interface Experience changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
+- Later: 2026-08-01 · OpenCode · [[Changes/OpenCode/2026-08-01-desktop-open-the-legacy-directory-picker-at-your-home-folder-when-no-home-path-i|Desktop Open the legacy directory picker at your home folder when no home path…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

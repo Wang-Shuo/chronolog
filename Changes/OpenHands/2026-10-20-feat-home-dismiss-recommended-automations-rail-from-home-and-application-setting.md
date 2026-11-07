@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0a828fc101034e91cb17db617c1cadb7713335950684acb819f5215f4c0b70b
+machine_hash: c764a1331cafe8048baba2eff7f3d3f54a506c5890ed268cfb68a676d08cb82d
 product: openhands
 product_name: OpenHands
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-20 · Cursor · [[Changes/Cursor/2026-10-20-channels|Channels]]
-- Later: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-refactor-automations-express-the-activity-track-height-in-css-by-enyst-in-https|refactor(automations): express the activity track height in CSS]]
+- Later: 2026-10-22 · Google Antigravity · [[Changes/Google Antigravity/2026-10-22-the-conversations-palette-cmd-p-on-macos-ctrl-p-on-windows-and-linux-now-include|The Conversations palette (Cmd+P on macOS, Ctrl+P on Windows and Linux) now includes…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

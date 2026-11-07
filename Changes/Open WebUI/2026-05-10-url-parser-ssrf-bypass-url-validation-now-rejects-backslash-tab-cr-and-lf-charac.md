@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81f54e92ca751f1113bb3d471da08951f051f2b5713facfbd2a4c63012964f60
+machine_hash: 8d54c6a4aab5a00a3ab4e54de648dc4cfc74df60fccc2cd6a31c236ae2ea472f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-5-editor-experience-changes-in-v0-9-3|5 Editor Experience changes in v0.9.3]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]]
+- Later: 2026-05-10 · OpenCode · [[Changes/OpenCode/2026-05-10-core-added-a-built-in-customize-opencode-skill-so-opencode-config-edits-are-less|Core Added a built-in customize-opencode skill so opencode config edits are less…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

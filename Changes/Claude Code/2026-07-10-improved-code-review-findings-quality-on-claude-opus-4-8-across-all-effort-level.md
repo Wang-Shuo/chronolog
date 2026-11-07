@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7aae8f15011e741dedaf7039d2d3db12ff2026a05980be4b18184c8e46a06065
+machine_hash: 82e566a7e6d245deaa7224b6e304fa8429cd419611e5104b4a2ec55cae3d708d
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
     levels
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-14-model-support-changes-in-rust-v0-143-0|14 Model
-  Support changes in rust-v0.143.0]]'
-- '[[Changes/Cline/2026-07-09-allow-selecting-cline-free-models-on-the-clinepass-provider-organized-into-subsc|Allow
-  selecting Cline free models on the ClinePass provider, organized…]]'
 - '[[Changes/Codex CLI/2026-07-09-8-model-support-changes-in-rust-v0-144-0|8 Model
   Support changes in rust-v0.144.0]]'
+- '[[Changes/OpenCode/2026-07-09-3-model-support-changes-in-v1-17-18-1|3 Model Support
+  changes in v1.17.18 + 1]]'
+- '[[Changes/OpenCode/2026-07-09-2-model-support-changes-in-v1-17-16|2 Model Support
+  changes in v1.17.16]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|claude-code-2026-07-10-v2-1-206-github-351694341-0226036e]]'
 source_type: github_releases
 theme: model-support
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-8-model-support-changes-in-rust-v0-144-0|8 Model Support changes in rust-v0.144.0]]
+- Earlier: 2026-07-09 · OpenCode · [[Changes/OpenCode/2026-07-09-2-model-support-changes-in-v1-17-16|2 Model Support changes in v1.17.16]]
 - Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-4-model-support-changes-in-v1-0-70|4 Model Support changes in v1.0.70]]
 <!-- chronolog:end -->
 

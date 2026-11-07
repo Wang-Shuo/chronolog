@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 267dc665c72cde6bbedfd5e3e34487189bfe826e47720da8f44f520eb3fddcca
+machine_hash: f2f3d86c2e4de95003c2f3f29e6b5b5919553e6320607bd6eb6c7aeffeba2622
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,8 +55,8 @@ record:
   title: 4 Account and Access changes in v2.1.284
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-2-account-and-access-changes-in-v2-1-281|2 Account
-  and Access changes in v2.1.281]]'
+- '[[Changes/OpenClaw/2026-09-23-17-account-and-access-changes-in-v2026-9-6|17 Account
+  and Access changes in v2026.9.6]]'
 - '[[Changes/Codex CLI/2026-09-25-5-account-and-access-changes-in-rust-v0-157-0|5
   Account and Access changes in rust-v0.157.0]]'
 - '[[Changes/Claude Code/2026-09-28-added-mcp-reconnect-all-in-the-interactive-terminal-to-retry-every-mcp-server-th|Added

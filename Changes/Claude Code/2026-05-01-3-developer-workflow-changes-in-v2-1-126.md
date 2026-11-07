@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 788fb2e2aa134cc9f63479881a23b6af60bb171da6d668a4415594dd9db31195
+machine_hash: 84f6e4ef34f24110a462b77e71f959d7f4dbb068111e38c3acaec3927fb0d19d
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Developer Workflow changes in v2.1.126
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-2-developer-workflow-changes-in-1-14-0|2 Developer Workflow
-  changes in 1.14.0]]'
+- '[[Changes/OpenCode/2026-04-29-2-developer-workflow-changes-in-v1-14-30|2 Developer
+  Workflow changes in v1.14.30]]'
 - '[[Changes/Windsurf/2026-04-29-devin-for-terminal|Devin for Terminal]]'
 - '[[Changes/Codex CLI/2026-04-30-14-developer-workflow-changes-in-rust-v0-128-0|14
   Developer Workflow changes in rust-v0.128.0]]'

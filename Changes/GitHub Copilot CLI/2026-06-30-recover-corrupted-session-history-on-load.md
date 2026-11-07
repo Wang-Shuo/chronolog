@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12f3356ad67e0f6f5485e011713c0bad254bc13b23da967e2a63bbc52ab9deec
+machine_hash: b05dfdfa42d81eb9e0089ab98e44870cb7e89494640544af910c08da52dbecd3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-readable-default-names-for-sessions-at-start-making-them-easier-to-identif|Added readable default names for sessions at start, making them easier to identify…]]
-- Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-keep-session-resume-working-when-token-timing-includes-fractional-milliseconds|Keep session resume working when token timing includes fractional milliseconds]]
+- Later: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-sdk-add-paged-durable-session-history|SDK Add paged durable session history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

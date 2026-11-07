@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f86108e8ad3cb1bed64aeb616093976f690e6b9eda97c9a1fb357ac081a73d6
+machine_hash: b9cd3e007ca0a55ff8369d87b04033dd7075a6f3cddc71fc9cabcdc978983a4b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,9 +43,10 @@ record:
     analytics…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-pr-review|PR review]]'
-- '[[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|Cursor
-  introduces a new PR review experience, faster execution on plans through…]]'
+- '[[Changes/OpenCode/2026-05-07-terminal-restored-custom-provider-setup-in-connect|Terminal
+  Restored custom provider setup in /connect]]'
+- '[[Changes/OpenCode/2026-05-07-2-developer-workflow-changes-in-v1-14-40|2 Developer
+  Workflow changes in v1.14.40]]'
 - '[[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer
   Workflow changes in v2.1.136]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-08-rust-v0-130-0-github-319777370-eab676f9|codex-cli-2026-05-08-rust-v0-130-0-github-319777370-eab676f9]]'

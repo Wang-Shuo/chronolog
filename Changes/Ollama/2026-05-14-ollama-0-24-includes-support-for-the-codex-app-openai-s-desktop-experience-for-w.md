@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fb9d5984432c2902fa38b8eede4771f62e491e6b4544e1d6fc6dae2f2c54ac59
+machine_hash: 5e6632225b51c806fa7a5472a6052f78c8556f7d79c173d52dba34d6dcd5fa7d
 product: ollama
 product_name: Ollama
 record:
@@ -46,9 +46,9 @@ record:
   title: Ollama 0.24 includes support for the Codex App, OpenAI's desktop experience…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed
-  noisy in-app terminal notifications and improved shortcut behavior]]'
 - '[[Changes/ElevenLabs/2026-05-13-elevenagents|ElevenAgents]]'
+- '[[Changes/OpenCode/2026-05-13-7-developer-workflow-changes-in-v1-14-49|7 Developer
+  Workflow changes in v1.14.49]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal
   cursor positions correctly on the input field instead of on decorative…]]'
 source_release: '[[Releases/Ollama/ollama-2026-05-14-v0-24-0-github-322272827-9537ae42|ollama-2026-05-14-v0-24-0-github-322272827-9537ae42]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal cursor positions correctly on the input field instead of on decorative…]]
-- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer Workflow changes in v2.1.143]]
+- Later: 2026-05-14 · OpenCode · [[Changes/OpenCode/2026-05-14-core-returned-proper-busy-errors-when-a-session-is-already-running-prompt-or-she|Core Returned proper busy errors when a session is already running prompt or shell work]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

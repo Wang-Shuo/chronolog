@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2eef71ec9891a4056d6c792a25a809f2517029554435e49e8b06523e52de0659
+machine_hash: 60a77b0a1f59a99092ac61b54d2f8a091bd1dc38a4ecb600f3de41ad6f1c60c8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,7 +96,8 @@ record:
   title: 10 Voice and Audio changes in v0.12.1
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-12-speech-to-text-f7d11e|Speech to Text]]'
+- '[[Changes/OpenClaw/2026-10-12-dictation-holding-the-microphone-and-releasing-it-no-longer-stops-recording-prem|Dictation.
+  Holding the microphone and releasing it no longer stops recording prematurely]]'
 - '[[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude
   Tag Added support for Slack voice clips in Claude in Slack]]'
 - "[[Changes/Open WebUI/2026-10-14-voice-on-android-chrome-voice-calls-and-dictation-on-android-chrome-no-longer-go|\U0001F4F1
@@ -164,7 +165,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.1
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-voice-on-android-chrome-voice-calls-and-dictation-on-android-chrome-no-longer-go|📱 Voice on Android Chrome. Voice calls and dictation on Android Chrome no longer…]]
-- Later: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-for-more-information-see-chatgpt-voice|For more information, see: ChatGPT Voice]]
+- Later: 2026-10-14 · Runway · [[Changes/Runway/2026-10-14-fish-audio-drama-3-is-now-available-in-runway-mcp-turn-scripts-into-expressive-v|Fish Audio Drama 3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

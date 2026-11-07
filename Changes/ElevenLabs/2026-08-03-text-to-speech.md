@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 357f75833c88953c4c1c4656c4e04a324a39eb4e082f2f1445c18c7d6d39c001
+machine_hash: 1de68f6e186f3e0b35975440cbb9829c5fa3cceaabcabf03de5c08788da49459
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice mode pauses playing media before recording and resumes it afterward, where…]]
+- Earlier: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-increased-voice-recording-limits|Increased voice recording limits]]
 - Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-start-voice-conversations-faster-improved-connection-times-make-it-quicker-to-be|Start Voice conversations faster]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39b8f253e30efa181469fcda9a84174d8858d6c5ab2ed3a47fbf909d007ee981
+machine_hash: 8329bd9ea13f937066b7de09f7ed2d7aa80ce18616c15db64d81167ecf50edf5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Exit from alt-screen no longer replays full session history
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added
-  --from-pr flag to resume sessions linked to a specific GitHub PR number or URL]]'
 - '[[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added
   session resume hint on exit, showing how to continue your conversation later]]'
 - '[[Changes/Gemini CLI/2026-02-10-feat-acp-add-session-resume-support-by-bdmorgan-in-https-github-com-google-gemin|feat(acp):
   add session resume support]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-add-cmd-keybinds-for-session-history-navigation|Desktop
+  Add Cmd+/ keybinds for session history navigation]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096|github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-feat-acp-add-session-resume-support-by-bdmorgan-in-https-github-com-google-gemin|feat(acp): add session resume support]]
+- Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-desktop-add-cmd-keybinds-for-session-history-navigation|Desktop Add Cmd+/ keybinds for session history navigation]]
 - Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-improved-startup-performance-by-removing-eager-loading-of-session-history-for-st|Improved startup performance by removing eager loading of session history for stats…]]
 <!-- chronolog:end -->
 

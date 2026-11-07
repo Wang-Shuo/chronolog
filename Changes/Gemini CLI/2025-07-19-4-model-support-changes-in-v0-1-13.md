@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b703e72ba67a58ae224f529a4c28cbee7e8a3c2ab428b369bd580b426c449296
+machine_hash: ea14b504704fbf795c6028b7e3685bf9340503ad90c87842a4a0d09e6ad1b2be
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,8 +48,7 @@ record:
   title: 4 Model Support changes in v0.1.13
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-16-added-openhands-provider-for-llm-through-openhands-cloud-by-xingyaoww-in-https-g|Added
-  OpenHands provider for LLM through OpenHands Cloud]]'
+- '[[Changes/Runway/2025-07-17-next-generation-motion-capture-model-with-major-improvements-in-generation-quali|Act-Two]]'
 - '[[Changes/Replit/2025-07-18-llm-routing-improvements|LLM routing improvements]]'
 - '[[Changes/Codex CLI/2025-07-19-as-of-https-github-com-openai-codex-pull-1594-we-now-stream-the-response-from-th|As
   of (source link) we now stream the response…]]'

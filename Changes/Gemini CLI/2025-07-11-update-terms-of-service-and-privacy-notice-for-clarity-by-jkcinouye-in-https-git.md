@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6b0660b190b523666bdd2ba0db7040c8f02022b23d80705dc3621b6b2bc8e4d
+machine_hash: ead921a7cf864d72c7a4aa7a0735c8636972173c4316d994afb9e292e2757a0c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: Update Terms of Service and Privacy Notice for clarity
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-01-esc-to-exit-privacy-screen-in-error-state-by-scidomino-in-https-github-com-googl|Esc
-  to exit privacy screen in error state]]'
 - '[[Changes/Dify/2025-07-02-chore-upgrade-package-versions-for-security-reason-by-iamjoel-in-https-github-co|chore:
   upgrade package versions for security reason]]'
+- '[[Changes/Granola/2025-07-07-we-ve-shown-independent-auditors-that-our-security-practices-meet-soc2-type-2-st|Granola
+  is SOC2 compliant]]'
 - '[[Changes/Codex CLI/2025-07-08-adds-support-for-a-sandbox-flag-and-makes-some-breaking-changes-to-config-toml-a|Adds
   support for a --sandbox flag and makes some breaking changes to config.toml…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb|gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5369e4099153377271ddceb2c1456a5327c4d2349395adc5eb61698a0e0bad05
+machine_hash: e9a3c3147c36cc45d44b3fe99e0b74d488e6296f277182f8548925d74121369d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,8 +50,8 @@ record:
   title: 3 Context Window changes in v0.9.2
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-2-context-window-changes-in-v1-0-35|2 Context
-  Window changes in v1.0.35]]'
+- '[[Changes/OpenCode/2026-04-23-core-improve-session-compaction-so-long-threads-keep-more-useful-context-when-ol|Core
+  Improve session compaction so long threads keep more useful context when older…]]'
 - '[[Changes/Codex CLI/2026-04-24-2-context-window-changes-in-rust-v0-125-0|2 Context
   Window changes in rust-v0.125.0]]'
 - '[[Changes/Lovable/2026-04-24-chat-history-search|Chat history search]]'
@@ -98,7 +98,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.2
 ## Nearby in Context Window
 
 - Earlier: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-chat-history-search|Chat history search]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode /context now opens a native token usage dialog]]
+- Later: 2026-04-26 · OpenCode · [[Changes/OpenCode/2026-04-26-terminal-added-zed-editor-selection-support-for-editor-context|Terminal Added Zed editor selection support for editor context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

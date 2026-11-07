@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb6d5164b82d35dd9b0a42d9ef2bdb24b40fbf3c138d629aa420a77d1f188530
+machine_hash: 0b008aedd022155c5580aad42e48a1bebc5ed33ad09371745bea887e411c4489
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-3-safety-and-privacy-changes-in-rust-v0-165-0|3 Safety and Privacy changes in rust-v0.165.0]]
-- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-sidebar-start-a-new-conversation-in-the-row-s-sandbox-ohe-3689-by-hieptl-in|feat(sidebar): start a new conversation in the row's sandbox (OHE-3689)]]
+- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-2-safety-and-privacy-changes-in-v2026-10-8|2 Safety and Privacy changes in v2026.10.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e743fce5bd41cd15846380a6c51418398b30cb6ede65ba7f729e2d8a9336b958
+machine_hash: 2131b43c30eeda1b0c16747f5deff2d6988ba0262c6b24ae6ad0aa8ad12b370f
 product: lovable
 product_name: Lovable
 record:
@@ -56,10 +56,10 @@ record:
   title: Revise a plan by highlighting the part you want changed
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4
-  Interface Experience changes in v1.0.76]]'
 - '[[Changes/v0/2026-07-31-3-interface-experience-changes-in-claude-opus-5-direct-figma-inspection|3
   Interface Experience changes in Claude Opus 5, direct Figma inspection…]]'
+- '[[Changes/OpenCode/2026-08-01-desktop-open-the-legacy-directory-picker-at-your-home-folder-when-no-home-path-i|Desktop
+  Open the legacy directory picker at your home folder when no home path…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-2-interface-experience-changes-in-v1-0-78|2
   Interface Experience changes in v1.0.78]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-03-2026-08-03-8b25a66a|lovable-2026-08-03-2026-08-03-8b25a66a]]'

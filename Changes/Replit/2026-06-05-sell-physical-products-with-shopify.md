@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 4bcc0a6564df058d9c0eaf33f01983618ea745e39d9a587ce98694373436b195
+machine_hash: 368eb9f35fedbd2914d8e537732d9ddfc2a21ef8f2148bd769684ecc9a74b22e
 product: replit
 product_name: Replit
 record:
@@ -52,8 +52,8 @@ record:
   title: Sell physical products with Shopify
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent
-  Mode changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-core-running-subagents-can-now-be-sent-to-the-background-so-you-can-keep-working|Core
+  Running subagents can now be sent to the background so you can keep working]]'
 - '[[Changes/Replit/2026-06-05-agent|Agent]]'
 - '[[Changes/Replit/2026-06-05-improve-your-search-ranking-with-seo-agent|Improve
   your search ranking with SEO Agent]]'
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent Mode changes in v1.0.60]]
+- Earlier: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-core-running-subagents-can-now-be-sent-to-the-background-so-you-can-keep-working|Core Running subagents can now be sent to the background so you can keep working]]
 - Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-claude-agents-typing-a-url-into-the-list-now-filters-to-the-session-whose-first|claude agents: typing a URL into the list now filters to the session whose first…]]
 <!-- chronolog:end -->
 

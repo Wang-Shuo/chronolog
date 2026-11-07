@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 517332a038903804a9923f6a7dd314e3e239baee50e6a539508b44cc7fddb866
+machine_hash: 2046d18db8d02acf340cf23660d40d008f7e861099c5bfd3b99e3ab0b3d664d3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-9-apps-and-integrations-changes-in-rust-v0-121-0|9 Apps and Integrations changes in rust-v0.121.0]]
-- Later: 2026-04-15 · Windsurf · [[Changes/Windsurf/2026-04-15-additional-changes|Additional Changes]]
+- Later: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-export-ai-sdk-telemetry-spans-to-otlp-trace-backends|Export AI SDK telemetry spans to OTLP trace backends]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

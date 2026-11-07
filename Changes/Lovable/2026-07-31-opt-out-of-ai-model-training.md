@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7756a1ad8eb91053e0f08208b6e920e0e6055bbdba11509523076638c0d8e082
+machine_hash: c38e5ccd91b2dcf701bddadd736781b29dca33893aa21bc96e15f415817be52c
 product: lovable
 product_name: Lovable
 record:
@@ -60,10 +60,11 @@ record:
   title: Opt out of AI model training
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-30-opus-5|Opus 5]]'
-- '[[Changes/Cline/2026-07-31-legacy-bundle-legacy-extension-3fdc186f1-4-0-12-free-model-button-wording|Legacy
-  bundle: legacy-extension @ 3fdc186f1 (4.0.12 + free-model button wording)]]'
 - '[[Changes/DeepSeek API/2026-07-31-deepseek-v4-flash-update|DeepSeek-V4-Flash Update]]'
+- '[[Changes/Google Antigravity/2026-07-31-enterprise-sign-in-gemini-enterprise-accounts-and-workforce-identity-federation|Enterprise
+  sign-in: Gemini Enterprise accounts and Workforce Identity Federation]]'
+- '[[Changes/Google Antigravity/2026-07-31-3-model-support-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|3
+  Model Support changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-31-2026-07-31-9665255c|lovable-2026-07-31-2026-07-31-9665255c]]'
 source_type: lovable_changelog
 theme: model-support
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-31 · DeepSeek API · [[Changes/DeepSeek API/2026-07-31-deepseek-v4-flash-update|DeepSeek-V4-Flash Update]]
+- Earlier: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-3-model-support-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|3 Model Support changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
 - Later: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-choose-agent-s-primary-model|Choose Agent's primary model]]
 <!-- chronolog:end -->
 

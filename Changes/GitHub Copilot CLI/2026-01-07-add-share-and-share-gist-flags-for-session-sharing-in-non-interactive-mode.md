@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c105aaa11873a47593166fc2f8a967dd408a7cbd3a92a0ed86f644f58ca0cb7
+machine_hash: 3da1884cb7403c32edf549a0ba2221519bc75c7056571d2dc01e47ca7d7cbb25
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
     mode
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-12-21-user-uploaded-images-are-now-automatically-converted-from-base64-to-actual-file|\U0001F5BC️
-  User-uploaded images are now automatically converted from base64 to actual file…]]"
 - '[[Changes/Dify/2025-12-25-refactor-create-shared-react-i18next-mock-to-reduce-duplication-by-lyzno1-in-htt|refactor:
   create shared react-i18next mock to reduce duplication]]'
 - '[[Changes/Replit/2026-01-02-the-replit-team-is-spending-time-with-friends-and-family-to-celebrate-the-holida|Replit
   updates — 2026-01-02]]'
+- '[[Changes/OpenCode/2026-01-04-core-handle-notfounderror-for-non-shared-sessions-in-sync|Core
+  Handle NotFoundError for non-shared sessions in sync]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-07-v0-0-375-github-274877631-649eff91|github-copilot-cli-2026-01-07-v0-0-375-github-274877631-649eff91]]'
 source_type: github_releases
 theme: collaboration
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-01-02 · Replit · [[Changes/Replit/2026-01-02-the-replit-team-is-spending-time-with-friends-and-family-to-celebrate-the-holida|Replit updates — 2026-01-02]]
-- Later: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-2-collaboration-changes-in-rust-v0-85-0|2 Collaboration changes in rust-v0.85.0]]
+- Earlier: 2026-01-04 · OpenCode · [[Changes/OpenCode/2026-01-04-core-handle-notfounderror-for-non-shared-sessions-in-sync|Core Handle NotFoundError for non-shared sessions in sync]]
+- Later: 2026-01-11 · OpenCode · [[Changes/OpenCode/2026-01-11-core-extract-external-directory-validation-to-shared-utility-to-reduce-code-dupl|Core Extract external directory validation to shared utility to reduce code…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

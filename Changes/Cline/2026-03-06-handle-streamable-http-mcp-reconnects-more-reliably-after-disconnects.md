@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: baf1428900e55049de670f657ab59a082128eec283bb23ce8a84605e92d3f60e
+machine_hash: f84437f96b95952fa45be289a0ce797b748f4c886d07c7e9e274e6bd0aa87f1b
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,9 @@ record:
   title: Handle streamable HTTP MCP reconnects more reliably after disconnects
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-5-apps-and-integrations-changes-in-rust-v0-111-0|5
-  Apps and Integrations changes in rust-v0.111.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-11-apps-and-integrations-changes-in-v0-0-422|11
   Apps and Integrations changes in v0.0.422]]'
+- '[[Changes/OpenCode/2026-03-05-sdk-update-sdk-package-json|SDK Update SDK package.json]]'
 - '[[Changes/Claude Code/2026-03-06-reduced-remote-control-poll-rate-to-once-per-10-minutes-while-connected-was-1-2s|Reduced
   Remote Control /poll rate to once per 10 minutes while connected…]]'
 source_release: '[[Releases/Cline/cline-2026-03-06-v3-71-0-github-294051339-3a3148c3|cline-2026-03-06-v3-71-0-github-294051339-3a3148c3]]'

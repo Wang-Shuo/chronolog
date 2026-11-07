@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72a5024e095af8ad5afe12ba88da4e081dcff2df57775c3e596cc41de84c3393
+machine_hash: 019b97dc48e095e04a0b8d1118f91fcf0074fa9338630da10b35725f82c05108
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,10 +50,10 @@ record:
   title: 2 Files and Data changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-25-3-files-and-data-changes-in-v0-12-4|3 Files and
-  Data changes in v0.12.4]]'
-- '[[Changes/Claude Code/2026-10-26-improved-the-artifact-tool-s-choice-between-a-page-and-a-document-explainers-and|Improved
-  the Artifact tool''s choice between a page and a document]]'
+- '[[Changes/Google Antigravity/2026-10-27-built-in-browser-and-attachments-of-any-file-type|Built-in
+  browser and attachments of any file type]]'
+- '[[Changes/Google Antigravity/2026-10-27-pdf-files-now-open-in-a-built-in-pdf-viewer-both-in-the-file-viewer-and-when-an|PDF
+  files now open in a built-in PDF viewer, both in the file viewer and…]]'
 - '[[Changes/OpenHands/2026-10-27-feat-canvas-per-conversation-docker-runtime-and-settings-runtime-page-by-vascosc|feat(canvas):
   per-conversation Docker runtime and Settings → Runtime page]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
@@ -105,7 +105,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 ## Nearby in Files and Data
 
 - Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-canvas-per-conversation-docker-runtime-and-settings-runtime-page-by-vascosc|feat(canvas): per-conversation Docker runtime and Settings → Runtime page]]
-- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-2-files-and-data-changes-in-elevenlabs-updates-2026-11-02|2 Files and Data changes in ElevenLabs updates — 2026-11-02]]
+- Later: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-canvas-a2ui-and-discord-activity-now-avoid-unnecessary-processing-by-rejecting-o|Canvas/A2UI and Discord Activity now avoid unnecessary processing by rejecting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

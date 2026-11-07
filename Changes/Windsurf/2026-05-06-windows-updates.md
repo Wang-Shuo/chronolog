@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 060b6e69dfd761a72b8ce545d7d40ebc22b6f0219a79e8750a5385cd36240115
+machine_hash: 533039bcbc7eb68fad125e0f884daf685ae5116c49833c98b60dec8ad734a083
 product: windsurf
 product_name: Windsurf
 record:
@@ -51,9 +51,10 @@ record:
   title: Windows updates
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-04-android-sdk|Android SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-package-extraction-no-longer-crashes-on-windows-when-antivirus-or-filesystem-loc|Package
   extraction no longer crashes on Windows when antivirus or filesystem locks…]]'
+- '[[Changes/OpenCode/2026-05-05-5-mobile-and-desktop-changes-in-v1-14-39-3|5 Mobile
+  and Desktop changes in v1.14.39 + 3]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-06-cli-updates-on-windows-no-longer-fail-with-enoent-when-a-transient-eperm-occurs|CLI
   updates on Windows no longer fail with ENOENT when a transient EPERM occurs…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-05-06-v2-2-17-cdf424d7|windsurf-2026-05-06-v2-2-17-cdf424d7]]'

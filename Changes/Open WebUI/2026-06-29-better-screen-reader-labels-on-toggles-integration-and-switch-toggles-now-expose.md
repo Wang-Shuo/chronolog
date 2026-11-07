@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bd511ecfcf1f39fc1224136de1351121acf6d69a83fb270fe4cb95b5ad3b9858
+machine_hash: b3475706fe92928eae40ba8bc9d87f27fbea97c14ca135a6688ef0a325611aa1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,12 +58,12 @@ record:
     now…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-improve-color-contrast-in-github-themes-to-meet-wcag-aa-accessibility-standards|Improve
-  color contrast in GitHub themes to meet WCAG AA accessibility standards]]'
 - '[[Changes/Codex CLI/2026-06-22-28770-connectors-ignore-synthetic-links-for-app-accessibility-adaley-openai|♯28770
   connectors Ignore synthetic links for app accessibility @adaley-openai]]'
 - '[[Changes/Dify/2026-06-25-numerous-web-ui-and-accessibility-focus-ring-polish-fixes|Numerous
   web UI and accessibility/focus-ring polish fixes]]'
+- '[[Changes/Google Antigravity/2026-06-25-improved-accessibility-and-usability-of-the-artifact-review-dialog-including-con|Improved
+  accessibility and usability of the artifact review dialog, including…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -112,7 +112,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-numerous-web-ui-and-accessibility-focus-ring-polish-fixes|Numerous web UI and accessibility/focus-ring polish fixes]]
+- Earlier: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-improved-accessibility-and-usability-of-the-artifact-review-dialog-including-con|Improved accessibility and usability of the artifact review dialog, including…]]
 - Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-improved-screen-reader-output-decorative-glyphs-are-now-hidden-transcript-symbol|Improved screen-reader output]]
 <!-- chronolog:end -->
 

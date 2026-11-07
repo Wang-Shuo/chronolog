@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 319d3e450ab8983fbdc703d787c5230894569b8e83096486506e9ec9f1ef7fec
+machine_hash: e244c2470a16163b3eea46deef992336995deb0b24146fb4acbd4600621744c5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,9 +43,10 @@ record:
     @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-suppressed-console-windows-flashing-on-windows-when-codex-launches-background-pr|Suppressed
-  console windows flashing on Windows when Codex launches background…]]'
-- '[[Changes/Windsurf/2026-09-29-devin-desktop|Devin Desktop]]'
+- '[[Changes/OpenClaw/2026-09-30-14-mobile-and-desktop-changes-in-v2026-9-7|14 Mobile
+  and Desktop changes in v2026.9.7]]'
+- '[[Changes/OpenCode/2026-09-30-2-mobile-and-desktop-changes-in-v1-18-34|2 Mobile
+  and Desktop changes in v1.18.34]]'
 - '[[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile
   and Desktop changes in v2.1.287]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'

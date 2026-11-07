@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3c66a7e2398d90cbaa2917d17275b0e96264f442f1363263a1a392d997e98a9c
+machine_hash: 45f508d0c92c74eee01aa77f721dcb62a8bafbb08e648feef429c44dd851262e
 product: gemini
 product_name: Gemini
 record:
@@ -75,11 +75,12 @@ record:
   title: Let skills in Gemini tackle your most repetitive tasks
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-28-speech-to-text-d0afb0|Speech to Text]]'
 - '[[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio
   is deleted once your notes are ready and can’t be accessed or replayed]]'
 - '[[Changes/Codex CLI/2026-09-29-48824-keep-voice-rtp-timestamps-aligned-to-20-ms-packets-bc-openai|♯48824
   Keep voice RTP timestamps aligned to 20 ms packets @bc-openai]]'
+- '[[Changes/Runway/2026-09-29-elevenlabs-v4-is-now-supported-in-runway-letting-you-generate-audio-with-the-lat|ElevenLabs
+  V4]]'
 source_release: '[[Releases/Gemini/gemini-2026-09-30-2026-09-30-863545c9|gemini-2026-09-30-2026-09-30-863545c9]]'
 source_type: gemini_changelog
 theme: voice
@@ -110,7 +111,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-48824-keep-voice-rtp-timestamps-aligned-to-20-ms-packets-bc-openai|♯48824 Keep voice RTP timestamps aligned to 20 ms packets @bc-openai]]
+- Earlier: 2026-09-29 · Runway · [[Changes/Runway/2026-09-29-elevenlabs-v4-is-now-supported-in-runway-letting-you-generate-audio-with-the-lat|ElevenLabs V4]]
 - Later: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding Space and Ctrl+X V explain when voice mode is off or still getting ready]]
 <!-- chronolog:end -->
 

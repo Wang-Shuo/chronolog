@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ee9abcb4fffd3ebcf39aee184a554b4b28fe0029efacc3bd17f34f71c02981b9
+machine_hash: 8ddd280035949085401b382e4c92bd6c7bdc3025c19127167eec9587c4eb130b
 product: lovable
 product_name: Lovable
 record:
@@ -44,12 +44,12 @@ record:
   title: Send app emails from TanStack Start projects without Cloud
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-42128-https-github-com-openai-codex-pull-42128-prepare-mcp-connections-for-coord|♯42128((source
-  link) Prepare MCP connections…]]'
-- '[[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account
-  and Access changes in v2.1.261]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-3-account-and-access-changes-in-v1-0-83|3
   Account and Access changes in v1.0.83]]'
+- '[[Changes/OpenCode/2026-09-04-desktop-use-the-desktop-client-id-during-opencode-account-device-authentication|Desktop
+  Use the desktop client ID during OpenCode account device authentication]]'
+- '[[Changes/OpenClaw/2026-09-05-20-account-and-access-changes-in-v2026-9-2|20 Account
+  and Access changes in v2026.9.2]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-07-2026-09-07-cf030a1d|lovable-2026-09-07-2026-09-07-cf030a1d]]'
 source_type: lovable_changelog
 theme: account-access
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-3-account-and-access-changes-in-v1-0-83|3 Account and Access changes in v1.0.83]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-20-account-and-access-changes-in-v2026-9-2|20 Account and Access changes in v2026.9.2]]
 - Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account and Access changes in v2.1.265]]
 <!-- chronolog:end -->
 

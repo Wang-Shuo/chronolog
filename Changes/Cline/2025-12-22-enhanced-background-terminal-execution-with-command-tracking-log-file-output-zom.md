@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ef694ec59dfb646c99100857be847ba8035f3454256afe9b7fd8767cdae7617
+machine_hash: 69de41378e34d1f747007ee7799301fab2b99bdd96264c76ce78cabd7e3fe3f0
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Enhanced background terminal execution with command tracking, log file output…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-2-developer-workflow-changes-in-v2-0-74|2 Developer
-  Workflow changes in v2.0.74]]'
 - '[[Changes/Codex CLI/2025-12-19-6-developer-workflow-changes-in-rust-v0-76-0|6 Developer
   Workflow changes in rust-v0.76.0]]'
+- '[[Changes/OpenCode/2025-12-19-2-developer-workflow-changes-in-v1-0-170|2 Developer
+  Workflow changes in v1.0.170]]'
 - '[[Changes/Open WebUI/2025-12-21-11-developer-workflow-changes-in-v0-6-42|11 Developer
   Workflow changes in v0.6.42]]'
 source_release: '[[Releases/Cline/cline-2025-12-22-v3-46-0-github-272325612-60808136|cline-2025-12-22-v3-46-0-github-272325612-60808136]]'

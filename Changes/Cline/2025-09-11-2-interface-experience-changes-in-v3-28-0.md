@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 878e74fef4884a26f4ae73400e02cf486dad1d37063f2cbf9d150d5d226c6668
+machine_hash: dd1d86318a0d251e4a0522071e595f6bfb5e2304897317daf74ee2a7ccbb0049
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Interface Experience changes in v3.28.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface
-  Experience changes in v0.3.0]]'
+- '[[Changes/Midjourney/2025-09-04-you-can-hover-over-styles-and-press-try-style-to-render-whatever-is-in-your-prom|You
+  can hover over styles and press ''Try Style…]]'
 - '[[Changes/Codex CLI/2025-09-05-3135-tui-add-session-resume-picker-resume-and-quick-resume-continue|♯3135
   TUI: Add session resume picker (--resume) and quick resume (--continue)]]'
 - "[[Changes/Open WebUI/2025-09-09-follow-up-tooltip-duplication-is-removed-streamlining-the-user-interface-and-pre|\U0001F4AC

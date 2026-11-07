@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2ab1b1ae4b0679d0d3374d77c74ef9343f3698a133b436238d572265da22cdf
+machine_hash: a0d38b1043acf227c1d613d086ee7e4770a1696679047b19dec78a21e461daaa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Model Support changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-06-18-vertex-ai-model-mapping-fix-by-davidapierce-in-https-github-com-google-gemini-ge|Vertex
-  ai model mapping fix]]'
 - '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
   a warning when the requested model is deprecated or automatically updated…]]'
 - '[[Changes/v0/2026-06-19-removed-the-enhance-prompt-button-from-the-composer-since-the-models-ask-clarify|Removed
   the Enhance Prompt button from the composer, since the models ask clarifying…]]'
+- '[[Changes/OpenCode/2026-06-21-2-model-support-changes-in-v1-17-9|2 Model Support
+  changes in v1.17.9]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'
 source_type: github_releases
 theme: model-support
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-removed-the-enhance-prompt-button-from-the-composer-since-the-models-ask-clarify|Removed the Enhance Prompt button from the composer, since the models ask clarifying…]]
+- Earlier: 2026-06-21 · OpenCode · [[Changes/OpenCode/2026-06-21-2-model-support-changes-in-v1-17-9|2 Model Support changes in v1.17.9]]
 - Later: 2026-06-22 · ElevenLabs · [[Changes/ElevenLabs/2026-06-22-workspaces|Workspaces]]
 <!-- chronolog:end -->
 

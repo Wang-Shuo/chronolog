@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8771d7b809f164937c1abb329cc434e7e95c970255e2859abfc68d73a0f77752
+machine_hash: 8209a0d0075e28311645f29c256687e8cf6dd59d7b020ead35bccea471e66b73
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Clarified contributor guidance around keeping crate APIs narrow and supporting…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-4-mobile-and-desktop-changes-in-rust-v0-138-0|4
-  Mobile and Desktop changes in rust-v0.138.0]]'
-- '[[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable
-  mouse tracking on Windows consoles that don''t fully support it]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-git-commands-no-longer-flash-a-console-window-on-windows|Git
   commands no longer flash a console window on Windows]]'
+- '[[Changes/OpenCode/2026-06-13-3-mobile-and-desktop-changes-in-v1-17-6-1|3 Mobile
+  and Desktop changes in v1.17.6 + 1]]'
+- '[[Changes/OpenCode/2026-06-14-desktop-the-new-session-route-now-stays-scoped-to-its-own-draft-server-so-prompt|Desktop
+  The new session route now stays scoped to its own draft server, so prompts…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-git-commands-no-longer-flash-a-console-window-on-windows|Git commands no longer flash a console window on Windows]]
+- Earlier: 2026-06-14 · OpenCode · [[Changes/OpenCode/2026-06-14-desktop-the-new-session-route-now-stays-scoped-to-its-own-draft-server-so-prompt|Desktop The new session route now stays scoped to its own draft server, so prompts…]]
 - Later: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]
 <!-- chronolog:end -->
 

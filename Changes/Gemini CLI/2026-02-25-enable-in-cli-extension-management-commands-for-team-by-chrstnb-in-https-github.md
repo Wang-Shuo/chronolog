@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4677759dfed80e00fe0dd7009f4d0b11bd305ee483ce4ed4a0f062defa5ccfc
+machine_hash: 714cedbe5faef0adba28ebca95f2c98a9549b6381f5a9c9e518c5f6e74ae19fc
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -40,9 +40,10 @@ record:
   title: Enable in-CLI extension management commands for team
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-23-music|Music]]'
 - '[[Changes/Lovable/2026-02-23-external-collaborator-visibility|External collaborator
   visibility]]'
+- '[[Changes/OpenCode/2026-02-24-core-acp-both-live-and-load-share-synthetic-pending-status-preceding-actual-data|Core
+  ACP both live and load share synthetic pending status preceding actual data]]'
 - '[[Changes/Codex CLI/2026-02-25-12028-remove-feature-flag-collaboration-modes-aibrahim-oai|♯12028
   remove feature flag collaboration modes @aibrahim-oai]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'

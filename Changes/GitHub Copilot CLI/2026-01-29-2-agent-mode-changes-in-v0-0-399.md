@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d29af4417903177c342bc1a8b254be4c9c797be9c57d6c67feb31e0ae481b738
+machine_hash: aadbaa8bb47d9e230da595d206ec4473a1466e5686433e337418158859137c44
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Agent Mode changes in v0.0.399
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-27-3-agent-mode-changes-in-v0-0-396|3 Agent
-  Mode changes in v0.0.396]]'
-- '[[Changes/Gemini CLI/2026-01-28-8-agent-mode-changes-in-v0-26-0|8 Agent Mode changes
-  in v0.26.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-add-acp-flag-to-start-as-agent-client-protocol-server|Add
   --acp flag to start as Agent Client Protocol server]]'
+- '[[Changes/OpenCode/2026-01-28-prevent-agents-md-from-being-loaded-multiple-times-during-parallel-tool-executio|Prevent
+  AGENTS.md from being loaded multiple times during parallel tool execution]]'
+- '[[Changes/OpenCode/2026-01-28-3-agent-mode-changes-in-v1-1-37|3 Agent Mode changes
+  in v1.1.37]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6|github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6]]'
 source_type: github_releases
 theme: agent-mode
@@ -86,7 +86,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.399
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-add-acp-flag-to-start-as-agent-client-protocol-server|Add --acp flag to start as Agent Client Protocol server]]
+- Earlier: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-3-agent-mode-changes-in-v1-1-37|3 Agent Mode changes in v1.1.37]]
 - Later: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-2-agent-mode-changes-in-rust-v0-94-0|2 Agent Mode changes in rust-v0.94.0]]
 <!-- chronolog:end -->
 

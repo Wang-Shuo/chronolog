@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ddba84f0055a3f097c8dbe98d1edcccac8a22cecdfb17160abf0a74f2838920b
+machine_hash: 07826f3eebf4d1560a236cdc920a2e54db6a799522c49c2927170f23c10a9232
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: '#9207 Propagate MCP disabled reason @gt-oai'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and
-  Integrations changes in 1.11.3]]'
-- '[[Changes/Codex CLI/2026-01-14-10-apps-and-integrations-changes-in-rust-v0-81-0|10
-  Apps and Integrations changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-9-apps-and-integrations-changes-in-v0-24-0|9 Apps
   and Integrations changes in v0.24.0]]'
+- '[[Changes/OpenCode/2026-01-14-3-apps-and-integrations-changes-in-v1-1-19|3 Apps
+  and Integrations changes in v1.1.19]]'
+- '[[Changes/OpenCode/2026-01-14-sdk-add-missing-metadata-and-ask-definitions-to-toolcontext-type|SDK
+  Add missing metadata() and ask() definitions to ToolContext type]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73|codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73]]'
 source_type: github_releases
 theme: apps-integrations
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-9-apps-and-integrations-changes-in-v0-24-0|9 Apps and Integrations changes in v0.24.0]]
+- Earlier: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-sdk-add-missing-metadata-and-ask-definitions-to-toolcontext-type|SDK Add missing metadata() and ask() definitions to ToolContext type]]
 - Later: 2026-01-15 · Dify · [[Changes/Dify/2026-01-15-4-apps-and-integrations-changes-in-1-11-4|4 Apps and Integrations changes in 1.11.4]]
 <!-- chronolog:end -->
 

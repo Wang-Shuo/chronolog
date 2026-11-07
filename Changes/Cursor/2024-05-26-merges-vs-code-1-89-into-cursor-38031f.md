@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 80a9cd1ede5b23e7392641a4d55a84b1be13d0ade6adbb311684f394b323b7fb
+machine_hash: 0358743353e5fd5bbf53c97266d42cf7cf3a7dfdeeb55464671c7797b6656bc3
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,11 @@ record:
   title: Merges VS Code 1.89 into Cursor
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-07-support-for-deepseek-v2-via-more-a-flexible-config-of-system-messages-in-the-dif|Support
-  for Deepseek-V2, via more a flexible config of system messages in the diff…]]'
 - '[[Changes/Aider/2024-05-10-refactored-prompting-to-unify-some-phrasing-across-edit-formats|Refactored
   prompting to unify some phrasing across edit formats]]'
 - '[[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved
   reflection feedback to LLMs using the diff edit format]]'
+- '[[Changes/Midjourney/2024-05-24-how-does-it-work|How does it work?]]'
 source_release: '[[Releases/Cursor/cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc|cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-05-13 · Aider · [[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved reflection feedback to LLMs using the diff edit format]]
+- Earlier: 2024-05-24 · Midjourney · [[Changes/Midjourney/2024-05-24-how-does-it-work|How does it work?]]
 - Later: 2024-06-03 · Open WebUI · [[Changes/Open WebUI/2024-06-03-edit-titles-with-double-click-double-click-on-titles-to-rename-them-quickly-and|✏️ Edit Titles with Double Click]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed632a914464932f26370b286a345494cf933ecd48b44ad56758402384660582
+machine_hash: 3a3f2d4e9fa16b166b9846033791a1a480f0b6a3aae850e28eaa30f0a20b1880
 product: dify
 product_name: Dify
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-11-25 · Open WebUI · [[Changes/Open WebUI/2025-11-25-breaking-docling-configuration-has-been-consolidated-from-individual-environment|🔧 BREAKING: Docling configuration has been consolidated from individual environment…]]
-- Later: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-temporary-education-logins|Temporary education logins]]
+- Later: 2025-11-26 · Google Antigravity · [[Changes/Google Antigravity/2025-11-26-added-better-error-states-for-onboarding-users-during-authentication-flow|Added better error states for onboarding users during authentication flow]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

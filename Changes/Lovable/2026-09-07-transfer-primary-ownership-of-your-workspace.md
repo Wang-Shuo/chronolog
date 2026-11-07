@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 77fdf4b6fd13d692476cd38f3d8a8a1083715d3496559f00d8d96de424ba7576
+machine_hash: 6f23e9b9d05c7572298ad772f595c62e83c909ec3887b5877c7f7ba9ee964033
 product: lovable
 product_name: Lovable
 record:
@@ -51,12 +51,12 @@ record:
   title: Transfer primary ownership of your workspace
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit
-  banners offer actions for checking usage, managing credits, resetting…]]'
 - '[[Changes/Cline/2026-09-02-cost-estimates-no-longer-appear-in-task-history-for-subscription-billed-tasks-cl|Cost
   estimates no longer appear in task history for subscription-billed tasks…]]'
 - '[[Changes/Codex CLI/2026-09-03-41944-https-github-com-openai-codex-pull-41944-emit-turn-cost-telemetry-for-chat|♯41944((source
   link) Emit turn cost telemetry…]]'
+- '[[Changes/OpenClaw/2026-09-05-3-pricing-model-changes-in-v2026-9-2|3 Pricing Model
+  changes in v2026.9.2]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-07-2026-09-07-cf030a1d|lovable-2026-09-07-2026-09-07-cf030a1d]]'
 source_type: lovable_changelog
 theme: pricing-model
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-41944-https-github-com-openai-codex-pull-41944-emit-turn-cost-telemetry-for-chat|♯41944((source link) Emit turn cost telemetry…]]
-- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month): Unlimited GPT-Live-1 usage]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-3-pricing-model-changes-in-v2026-9-2|3 Pricing Model changes in v2026.9.2]]
+- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-4-pricing-model-changes-in-v2026-9-3|4 Pricing Model changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

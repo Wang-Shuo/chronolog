@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 938518ef75c579218f8e172a3daf53c42c906ed4810d37754585c78760737eb8
+machine_hash: 4d1a47d1de16e1ff9a88d38e4e6707016e2f39d1290f132009316ed5052a54ed
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -119,7 +119,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-09 · Lovable · [[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]
-- Later: 2026-06-10 · Windsurf · [[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]
+- Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-desktop-restore-the-device-attachment-picker|Desktop Restore the device attachment picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

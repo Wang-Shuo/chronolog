@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 393895916df14f8e38ea9eee71fa11d1708f440e1d56c2c7320290292b1308d0
+machine_hash: d513b09df73347957b9fe8452a082d448c7f207c7c3f61cce37ebbabecc1bcef
 product: ollama
 product_name: Ollama
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.40.12
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-javascript-sdk|JavaScript SDK]]
-- Later: 2026-10-28 · Ollama · [[Changes/Ollama/2026-10-28-liquid-ai-s-lfm3-https-ollama-com-library-lfm3-models-including-text-to-speech-i|Liquid AI's LFM3((source link) models, including text-to-speech…]]
+- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-6-voice-and-audio-changes-in-v2026-10-8|6 Voice and Audio changes in v2026.10.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

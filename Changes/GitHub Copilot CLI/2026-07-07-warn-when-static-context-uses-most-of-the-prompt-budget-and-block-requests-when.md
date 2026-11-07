@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e130fd8d5351b639763fd456e3e9c55015beac811b85f100cf878c4fcc6347b
+machine_hash: d08ff8c6e29923ee498ccb830820b3f8b37ba7102d76735e1e9acb69f8425fdf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-test-pltf-1269-replace-test-should-naming-with-test-verb-noun-context-convention|test: PLTF-1269 replace test_should naming with test_verb_noun_context convention]]
-- Later: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-improved-auto-mode-to-ask-before-running-rm-rf-on-a-variable-it-can-t-resolve-fr|Improved auto mode to ask before running rm -rf on a variable it can't resolve…]]
+- Later: 2026-07-07 · OpenCode · [[Changes/OpenCode/2026-07-07-core-better-classify-z-ai-context-window-overflow-errors-so-oversized-requests-s|Core Better classify Z.ai context-window overflow errors so oversized requests…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

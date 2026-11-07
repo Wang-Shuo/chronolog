@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 724e8733907151d7f665562d23f7fa61c4efcc5b458f1c8378145a8366a29195
+machine_hash: 76dcc432cc1920080403a1501ab62bea5bdcafd78cfe2a3fb19420155de66226
 product: elevenlabs
 product_name: ElevenLabs
 record:

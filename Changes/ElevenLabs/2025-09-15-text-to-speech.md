@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6df9a066769af74dccb826190ef93abdb8d4e528c04e7503becdc9e06769d415
+machine_hash: e55bc1a5c5cc73e0220f4f8bbad5c44118f056e52fd76ac46243c9cc13d9be0f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-09-09 · ChatGPT · [[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|ChatGPT Voice Update]]
-- Later: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-3-voice-and-audio-changes-in-v3-31-0|3 Voice and Audio changes in v3.31.0]]
+- Later: 2025-09-23 · Suno · [[Changes/Suno/2025-09-23-clearer-more-immersive-audio|Clearer, more immersive audio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

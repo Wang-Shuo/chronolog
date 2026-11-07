@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a8b481e4d4b4c3065a9b11d48b56175b728d46789595d4b9dcc29f949eeb618
+machine_hash: 3bdd74d3e93d028eda518f61d7f8f1b662143c45a0a7613c376e27bcf7c33343
 product: open-webui
 product_name: Open WebUI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-formatted-markdown-previews-in-the-files-tab|Formatted Markdown previews in the Files tab]]
-- Later: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-large-files-that-cannot-be-previewed-can-be-downloaded-from-the-code-tab-which-s|Large files that cannot be previewed can be downloaded from the Code tab…]]
+- Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-chat-refresh-after-updates-chats-stuck-on-server-updated-can-refresh-back-to-the|Chat refresh after updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

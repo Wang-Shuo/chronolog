@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e920ef7e55a24e35447abb6d9afb99d1203cec30cbce317c049bb2a8a1311177
+machine_hash: 03eea65c2b1402e0e9230ecdad0e773e6ac1ce890af6f6c53f27ecc99c0c313a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 6 Developer Workflow changes in rust-v0.144.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-removed-the-startup-claude-command-missing-or-broken-warnings-they-now-appear-in|Removed
-  the startup "claude command missing or broken" warnings]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-7-developer-workflow-changes-in-v1-0-69|7
   Developer Workflow changes in v1.0.69]]'
+- '[[Changes/OpenCode/2026-07-07-desktop-make-terminal-shortcuts-take-priority-when-the-terminal-is-focused|Desktop
+  Make terminal shortcuts take priority when the terminal is focused]]'
 - '[[Changes/Codex CLI/2026-07-08-7-developer-workflow-changes-in-rust-v0-143-0|7
   Developer Workflow changes in rust-v0.143.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96|codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96]]'

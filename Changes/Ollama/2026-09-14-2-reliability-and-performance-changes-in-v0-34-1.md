@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3807fb2c168d1df4cb3e5d1eb1fa061031b1df69ce8ff7bcaeae547f31e05b7
+machine_hash: f0dc04c61e8f3f2dc8bf367ceabacd99a6b4acc52abd4aa06762837c6d926c87
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Reliability and Performance changes in v0.34.1
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-a-plugin-could-exhaust-worker-memory-with-one-declared-number-the-blob-chunk-mer|A
-  plugin could exhaust worker memory with one declared number. The blob chunk…]]'
 - '[[Changes/Claude Code/2026-09-11-improved-responsiveness-in-long-sessions-transcript-updates-no-longer-re-process|Improved
   responsiveness in long sessions]]'
+- '[[Changes/OpenClaw/2026-09-11-2-reliability-and-performance-changes-in-v2026-9-4|2
+  Reliability and Performance changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-improved-terminal-rendering-performance-large-diffs-and-long-transcripts-render|Improved
   terminal rendering performance]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-14-v0-34-1-github-388717036-07219146|ollama-2026-09-14-v0-34-1-github-388717036-07219146]]'

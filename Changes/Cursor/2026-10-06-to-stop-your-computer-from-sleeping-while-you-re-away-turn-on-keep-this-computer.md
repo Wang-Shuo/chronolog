@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2527edb082a95f3c739b13dd449f26221f9c60b491d86f08b05c8d6842e23353
+machine_hash: a725bfcd7457a6fcf87c9e43c1f9c746231e88c452167e701ba96fdf231c5783
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: Keep your computer awake
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-01-sandboxed-commands-run-on-windows-versions-without-filesystem-enumeration-suppor|Sandboxed
-  commands run on Windows versions without filesystem enumeration support…]]'
 - '[[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances
   expands to Free and Go users]]'
+- '[[Changes/OpenClaw/2026-10-03-2-mobile-and-desktop-changes-in-v2026-9-8|2 Mobile
+  and Desktop changes in v2026.9.8]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-sandboxed-commands-on-windows-write-temporary-files-to-the-granted-temp-director|Sandboxed
   commands on Windows write temporary files to the granted temp directory…]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd|cursor-2026-10-06-remote-control-for-local-agents-https-cursor-com-changelog-remot-bb6325fd]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-sandboxed-commands-on-windows-write-temporary-files-to-the-granted-temp-director|Sandboxed commands on Windows write temporary files to the granted temp directory…]]
-- Later: 2026-10-07 · Ollama · [[Changes/Ollama/2026-10-07-manifest-avoid-symlinks-on-windows-by-dhiltgen-in-https-github-com-ollama-ollama|manifest: avoid symlinks on Windows]]
+- Later: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-on-windows-and-linux-selecting-the-antigravity-icon-in-the-top-left-corner-of-th|On Windows and Linux, selecting the Antigravity icon in the top-left corner…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

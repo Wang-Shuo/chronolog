@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e4be372ef0fecb95bd7fedf901bfa478bc3de879582384009e811c404075bf5
+machine_hash: 3ef89d0fca8fccf33f957deac28b940fbb6c35dc668d4fddd83114237b22a501
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.35
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-3-developer-workflow-changes-in-v0-39-0|3 Developer Workflow changes in v0.39.0]]
-- Later: 2026-04-24 · Cline · [[Changes/Cline/2026-04-24-log-discovered-heap-snapshots-on-abnormal-exits-for-easier-oom-debugging|log discovered heap snapshots on abnormal exits for easier OOM debugging]]
+- Later: 2026-04-23 · OpenCode · [[Changes/OpenCode/2026-04-23-support-pull-diagnostics-from-lsp-servers-that-use-them|Support pull diagnostics from LSP servers that use them]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

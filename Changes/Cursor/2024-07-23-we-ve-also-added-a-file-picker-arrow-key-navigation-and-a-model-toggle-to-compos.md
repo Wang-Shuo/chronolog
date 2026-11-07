@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6a29bc68b2f171373f9879c4eca221f7eb8626985e6be7d7c658fa4ecab8299a
+machine_hash: a83f35a4c91c101ce3957f3e218b2e87b28f8812f94ec59bace64ecfd69acf9e
 product: cursor
 product_name: Cursor
 record:
@@ -56,10 +56,10 @@ record:
   title: Cursor adds a file picker, arrow key navigation, and a model toggle to Composer
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-08-2-interface-experience-changes-in-0-6-13|2 Interface
-  Experience changes in 0.6.13]]'
 - '[[Changes/Open WebUI/2024-07-09-sideways-scrolling-in-settings-settings-tabs-container-now-supports-horizontal-s|↔️
   Sideways Scrolling in Settings]]'
+- '[[Changes/Runway/2024-07-09-a-newly-designed-navigation-sidebar-makes-it-easier-to-access-commonly-used-tool|Redesigned
+  Sidebar]]'
 - "[[Changes/Open WebUI/2024-07-17-styling-refactor-various-styling-updates-for-a-cleaner-and-more-cohesive-user-in|\U0001F3A8
   Styling Refactor]]"
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-07-17 · Open WebUI · [[Changes/Open WebUI/2024-07-17-styling-refactor-various-styling-updates-for-a-cleaner-and-more-cohesive-user-in|🎨 Styling Refactor]]
-- Later: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching to code and ask mode no longer summarizes the chat history]]
+- Later: 2024-07-23 · Gamma · [[Changes/Gamma/2024-07-23-we-ve-also-improved-our-gradient-picker|Gamma improves our gradient picker 👍]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

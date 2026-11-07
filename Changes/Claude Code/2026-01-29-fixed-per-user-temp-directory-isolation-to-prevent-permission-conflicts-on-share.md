@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 0a446ab29c0a8d7e6c22020d460acf9a66abb3e39bb9238008cb4b2ebd8a4fec
+machine_hash: 929da20a81d245371b6ba9a4e13b9a646cfd39dd2d878c1a3d376e6323f8162a
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-3-safety-and-privacy-changes-in-v0-26-0|3 Safety and Privacy changes in v0.26.0]]
-- Later: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|Permissions now respect content-level ask over tool-level allow]]
+- Later: 2026-01-29 · OpenCode · [[Changes/OpenCode/2026-01-29-core-allow-media-src-data-url-for-small-audio-files-in-content-security-policy|Core Allow media-src data: URL for small audio files in Content Security Policy]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

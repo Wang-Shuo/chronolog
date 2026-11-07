@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99b96182c867df304d5967c6764f87cbdc1e73be832609f926fda8ba093708c9
+machine_hash: 5853abd8911f7d6056b8055dad6158fb490a6e73a1697a6fb6c2f4025532d278
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface
-  Experience changes in 0.46.x]]'
-- '[[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface
-  Experience changes in 0.25.0]]'
+- '[[Changes/Midjourney/2025-02-20-a-new-folders-menu-is-available-on-both-the-create-and-organize-pages|A
+  new Folders menu is available on both the Create and Organize pages]]'
 - "[[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|\U0001F30D
   Translation Updates]]"
+- '[[Changes/Gamma/2025-03-05-making-edits-just-got-easier-you-can-now-right-click-on-any-inline-or-accent-ima|Making
+  edits just got easier!]]'
 source_release: '[[Releases/Aider/aider-2025-03-10-v0-76-0-github-204781393-e828f532|aider-2025-03-10-v0-76-0-github-204781393-e828f532]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-02-20 · Open WebUI · [[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|🌍 Translation Updates]]
+- Earlier: 2025-03-05 · Gamma · [[Changes/Gamma/2025-03-05-making-edits-just-got-easier-you-can-now-right-click-on-any-inline-or-accent-ima|Making edits just got easier!]]
 - Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-keyboard-shortcuts-all-keyboard-shortcuts-are-now-available-in-the-keyboard-shor|Keyboard Shortcuts: All keyboard shortcuts are now available in the Keyboard…]]
 <!-- chronolog:end -->
 

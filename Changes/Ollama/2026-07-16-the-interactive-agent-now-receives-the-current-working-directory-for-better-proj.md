@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e441d0172b34d67f88d010c5df20cd5585a4415bb7fd7dc79f11171ef7240b59
+machine_hash: e0f74fe869eb541799480f4fe16f283f08f21e50b1e2a263f1e8930e70ad43e1
 product: ollama
 product_name: Ollama
 record:
@@ -59,8 +59,8 @@ record:
     project…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-keep-session-resume-working-when-token-timing-includes-fractional-milliseconds|Keep
-  session resume working when token timing includes fractional milliseconds]]'
+- '[[Changes/OpenClaw/2026-07-13-5-projects-and-workspaces-changes-in-v2026-7-1|5
+  Projects and Workspaces changes in v2026.7.1]]'
 - '[[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|Unified
   Recents: Chat and Work conversations now appear together in Recents, where…]]'
 - '[[Changes/ChatGPT/2026-07-16-projects-in-the-desktop-app-your-existing-chatgpt-projects-now-appear-in-the-app|Projects

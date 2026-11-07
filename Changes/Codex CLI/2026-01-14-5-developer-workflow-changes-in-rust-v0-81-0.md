@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5dea6a58964a5299c011f7f88542bbe49535f19ca71478ec1fe26b78cbff94fb
+machine_hash: 5110d4a71fd6ebc66f500dae0728a9537eafe403d4d7d5aba81125cea6d063c6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 5 Developer Workflow changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-2-developer-workflow-changes-in-v0-0-380|2
-  Developer Workflow changes in v0.0.380]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-13-add-new-as-an-alias-for-clear-command|Add
-  /new as an alias for /clear command]]'
+- '[[Changes/OpenCode/2026-01-13-4-developer-workflow-changes-in-v1-1-16|4 Developer
+  Workflow changes in v1.1.16]]'
+- '[[Changes/OpenCode/2026-01-13-terminal-prevent-question-tool-keybindings-when-dialog-is-open|Terminal
+  Prevent question tool keybindings when dialog is open]]'
 - '[[Changes/Cline/2026-01-14-add-create-pull-request-skill|Add create-pull-request
   skill]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40|codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40]]'

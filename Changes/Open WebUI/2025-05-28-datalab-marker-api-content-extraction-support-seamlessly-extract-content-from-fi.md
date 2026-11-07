@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: aa66495f038f4c35abc06c813273987f7addc2bb09eb2174de0ddb6b60e3dc85
+machine_hash: 49e7cf561ccc232ace4dcd68a52e02bec21d28733b264e50eac78b55a464a0f1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2025-05-28 · Cline · [[Changes/Cline/2025-05-28-add-support-for-uploading-various-file-types-xml-json-txt-log-md-docx-ipynb-pdf|Add support for uploading various file types…]]
-- Later: 2025-06-03 · Cline · [[Changes/Cline/2025-06-03-add-support-for-uploading-csv-and-xlsx-files-for-data-analysis-and-processing|Add support for uploading CSV and XLSX files for data analysis and processing]]
+- Later: 2025-05-29 · Runway · [[Changes/Runway/2025-05-29-start-from-a-blank-canvas-or-draw-on-top-of-an-existing-image-to-add-new-element|Layout Sketch for Gen-4 References]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

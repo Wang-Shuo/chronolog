@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6d9a57331bdc621fbbf750f0f59cccdc603460280cc0b4403dbc009da2905347
+machine_hash: c79d0ce42f3d023638580c326927b1e8c7f647cfefbaaf6a935451bf6a314e7a
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,10 @@ record:
   title: Connect your app to Gong
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode
-  Added an Add server form and a Remove action to the MCP servers dialog…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-7-apps-and-integrations-changes-in-v1-0-83|7
   Apps and Integrations changes in v1.0.83]]'
+- '[[Changes/OpenClaw/2026-09-05-35-apps-and-integrations-changes-in-v2026-9-2|35
+  Apps and Integrations changes in v2026.9.2]]'
 - '[[Changes/ElevenLabs/2026-09-07-sdk-releases|SDK releases]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-07-2026-09-07-cf030a1d|lovable-2026-09-07-2026-09-07-cf030a1d]]'
 source_type: lovable_changelog

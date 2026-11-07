@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e2c144d5b98ca6133cf3929ad95ced19473ad70fcbe9fae9bee82dc3160bc8a
+machine_hash: 009b8503c5ff1da468bcb2d5b846ed324b6b3959b67ccc77035a14ddc2b1453b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,8 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn
-  off memory, so ChatGPT won’t save and use memories when responding]]'
+- '[[Changes/Midjourney/2025-10-02-ps-the-bottom-of-every-style-has-an-sref-code-and-a-button-the-top-1000-raters-g|PS:
+  The bottom of every style has an --sref code and a ❤️ button]]'
 - '[[Changes/v0/2025-10-06-custom-instructions-are-now-available-in-v0-use-preset-instructions-like-be-conc|Custom
   Instructions]]'
 - '[[Changes/ChatGPT/2025-10-08-longer-memory-for-more-personalized-responses-8c6877|Longer

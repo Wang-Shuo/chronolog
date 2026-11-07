@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 2fc9f2fcd2711abe347ff6884d30b668937f292de937ae1acb828ef7a7bbaf4e
+machine_hash: 7845317acac6eee8a0d90b09a525eda917472331846581fb9d3c29640c013376
 product: cline
 product_name: Cline
 record:
@@ -61,8 +61,8 @@ record:
     budget
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|Changed
-  auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…]]'
+- '[[Changes/OpenClaw/2026-09-19-6-pricing-model-changes-in-v2026-9-5|6 Pricing Model
+  changes in v2026.9.5]]'
 - '[[Changes/ElevenLabs/2026-09-21-user|User]]'
 - '[[Changes/Claude Code/2026-09-22-improved-cost-cache-miss-causes-to-name-thinking-mode-and-thinking-display-chang|Improved
   /cost cache-miss causes to name thinking mode and thinking display changes]]'

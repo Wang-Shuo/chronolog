@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec4ee2155ee320cfe8240492dd99ed288688495becf43805f9ad4013f90dfc52
+machine_hash: b9079c2923b13872249d02dd0d761ce0eefdb25094be905db089f43d96a43216
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Memory and Personalization changes in rust-v0.158.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-22-resuming-large-local-sessions-keeps-transcript-memory-bounded-for-smoother-cli-p|Resuming
-  large local sessions keeps transcript memory bounded for smoother CLI performance]]'
+- '[[Changes/OpenClaw/2026-09-23-23-memory-and-personalization-changes-in-v2026-9-6|23
+  Memory and Personalization changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-25-improved-lists-in-help-hooks-copy-chrome-memory-ide-release-notes-rewind-diff-re|Improved
   lists in /help, /hooks, /copy, /chrome, /memory, /ide…]]'
 - '[[Changes/Claude Code/2026-09-28-improved-auto-memory-loading-invisible-characters-and-tags-that-imitate-claude-c|Improved

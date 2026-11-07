@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 664d217b9bdf962c5013130be7c4b0259e37e62cea45087d0f44dbe838d09eb0
+machine_hash: adb735ba6107284772ddeb47b568e41420134f4d1e92efb6ef7efb7240e43835
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     ranges…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|New
-  model: Added Kimi-K2.5 model to Moonshot provider…]]'
 - '[[Changes/Codex CLI/2026-01-31-6-context-window-changes-in-rust-v0-93-0|6 Context
   Window changes in rust-v0.93.0]]'
+- '[[Changes/OpenCode/2026-01-31-core-add-copilot-specific-provider-to-properly-handle-reasoning-tokens|Core
+  Add Copilot-specific provider to properly handle reasoning tokens]]'
 - '[[Changes/Codex CLI/2026-02-02-2-context-window-changes-in-rust-v0-94-0|2 Context
   Window changes in rust-v0.94.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'

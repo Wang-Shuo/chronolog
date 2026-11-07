@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c503c50bff0760e6447e2dcfc10b044441a3762164e75332525277f0beef4921
+machine_hash: 55e62c79b16e5b7872cb6db04685d733767bbcb52addcff7ed21fc9fba2d071d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|Introducing
-  ChatGPT Pulse for Pro users]]'
-- '[[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn
-  off memory, so ChatGPT won’t save and use memories when responding]]'
+- '[[Changes/Midjourney/2025-10-02-heya-everyone-we-re-doing-a-ranking-party-for-styles|Heya
+  everyone, we''re doing a ranking party for styles !]]'
+- '[[Changes/Midjourney/2025-10-02-ps-the-bottom-of-every-style-has-an-sref-code-and-a-button-the-top-1000-raters-g|PS:
+  The bottom of every style has an --sref code and a ❤️ button]]'
 - '[[Changes/v0/2025-10-06-custom-instructions-are-now-available-in-v0-use-preset-instructions-like-be-conc|Custom
   Instructions]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f]]'

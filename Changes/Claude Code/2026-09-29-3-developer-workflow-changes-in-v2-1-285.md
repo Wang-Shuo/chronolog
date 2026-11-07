@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 57b8e99c35c5a5424f90fa8e341bdece0f93088a7b9e437f0aa7d8c2db8620e8
+machine_hash: 70924a917a7c60e8097e9fdcdf3b3a565d0e7d44d14e30fc08d79a9289752f1e
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,11 +49,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-14-developer-workflow-changes-in-rust-v0-158-0|14
-  Developer Workflow changes in rust-v0.158.0]]'
-- '[[Changes/ElevenLabs/2026-09-28-flows-ffc074|Flows]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-3-developer-workflow-changes-in-v1-0-89|3
   Developer Workflow changes in v1.0.89]]'
+- '[[Changes/Google Antigravity/2026-09-28-terminal-command-steps-in-the-conversation-now-stay-collapsed-by-default-while-r|Terminal
+  command steps in the conversation now stay collapsed by default…]]'
+- '[[Changes/OpenCode/2026-09-28-core-debug-configuration-output-now-redacts-credentials-and-sensitive-headers|Core
+  Debug configuration output now redacts credentials and sensitive headers]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
 theme: developer-workflow
@@ -100,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.285
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-3-developer-workflow-changes-in-v1-0-89|3 Developer Workflow changes in v1.0.89]]
+- Earlier: 2026-09-28 · OpenCode · [[Changes/OpenCode/2026-09-28-core-debug-configuration-output-now-redacts-credentials-and-sensitive-headers|Core Debug configuration output now redacts credentials and sensitive headers]]
 - Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-5-developer-workflow-changes-in-rust-v0-159-0|5 Developer Workflow changes in rust-v0.159.0]]
 <!-- chronolog:end -->
 

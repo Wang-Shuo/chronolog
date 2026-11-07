@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61ee4e0744cb4317dcc8eba7a57d8220bffd1e713f5d9735f286f6267582c01d
+machine_hash: 93b8291dc18e51405a8843ec5d245eb165fd3fe4df525a613446aebed51b62ab
 product: ollama
 product_name: Ollama
 record:
@@ -44,11 +44,12 @@ record:
   title: '[EXAONE 3.5](https://ollama.com/library/exaone3.5): a collection…'
   type: change
 related_changes:
-- '[[Changes/DeepSeek API/2024-12-10-deepseek-chat|deepseek-chat]]'
 - '[[Changes/Gemini/2024-12-11-priority-access-with-gemini-advanced-your-personal-research-assistant-saves-you|Priority
   access with Gemini Advanced]]'
 - '[[Changes/Gemini/2024-12-11-introducing-gemini-2-0-flash-as-an-experimental-model-in-gemini|Introducing
   Gemini 2.0 Flash as an experimental model in Gemini]]'
+- '[[Changes/Midjourney/2024-12-11-in-the-future-we-plan-for-the-characters-worlds-and-other-materials-you-create-i|In
+  the future, we plan for the characters, worlds, and other materials you create…]]'
 source_release: '[[Releases/Ollama/ollama-2024-12-11-v0-5-2-github-190265280-c1a9b970|ollama-2024-12-11-v0-5-2-github-190265280-c1a9b970]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-12-11 · Gemini · [[Changes/Gemini/2024-12-11-introducing-gemini-2-0-flash-as-an-experimental-model-in-gemini|Introducing Gemini 2.0 Flash as an experimental model in Gemini]]
+- Earlier: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-in-the-future-we-plan-for-the-characters-worlds-and-other-materials-you-create-i|In the future, we plan for the characters, worlds, and other materials you create…]]
 - Later: 2024-12-13 · Aider · [[Changes/Aider/2024-12-13-2-model-support-changes-in-v0-69-0|2 Model Support changes in v0.69.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47310116a94a88faa18cd8d84bd363dd818961477173095e84ddea24b01d5ce5
+machine_hash: 98994830e796ae74c0277802f23872bc3c562fbc5c8f43165ca7d6ac1f35ba43
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -148,8 +148,8 @@ record:
   title: 34 Agent Mode changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-14-agent-mode-changes-in-1-19-0|14 Agent Mode changes
-  in 1.19.0]]'
+- '[[Changes/OpenClaw/2026-11-05-4-agent-mode-changes-in-v2026-11-1|4 Agent Mode changes
+  in v2026.11.1]]'
 - '[[Changes/OpenHands/2026-11-05-2-agent-mode-changes-in-v1-36-0|2 Agent Mode changes
   in v1.36.0]]'
 - '[[Changes/Codex CLI/2026-11-06-6-agent-mode-changes-in-rust-v0-167-0|6 Agent Mode
@@ -270,6 +270,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 ## Nearby in Agent Mode
 
 - Earlier: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-6-agent-mode-changes-in-rust-v0-167-0|6 Agent Mode changes in rust-v0.167.0]]
+- Later: 2026-11-06 · OpenCode · [[Changes/OpenCode/2026-11-06-2-agent-mode-changes-in-v2-2-6|2 Agent Mode changes in v2.2.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

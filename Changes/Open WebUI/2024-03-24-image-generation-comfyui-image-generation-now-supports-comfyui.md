@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5206d46929c08a0cb1010102a38cdd9018ceb5dc9a2ff78ec17b876130f62f6
+machine_hash: 33552e8807acb5bd00480f1a8155773c9b6f190174ee3bb52690bafead458590
 product: open-webui
 product_name: Open WebUI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2024-03-19 · Dify · [[Changes/Dify/2024-03-19-2-image-generation-changes-in-0-5-10|2 Image Generation changes in 0.5.10]]
-- Later: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-image-generation-compatibility-issue-rectified-image-generation-compatibility-is|🌐 Image Generation Compatibility Issue]]
+- Later: 2024-04-25 · Gamma · [[Changes/Gamma/2024-04-25-this-month-s-release-is-packed-with-ai-improvements-across-the-board-faster-imag|AI Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

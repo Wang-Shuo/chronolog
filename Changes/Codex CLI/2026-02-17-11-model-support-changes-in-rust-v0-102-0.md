@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 164879abbf848441281fb285e90fb5ceb2d6876e89cc20576f4cf8b8f1116f99
+machine_hash: 0b2dfc4302d28e40f9ec12e896f6206e8fe5d0c14e45e536ac0200df8c06e037
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,8 +63,8 @@ record:
   title: 11 Model Support changes in rust-v0.102.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-16-4-model-support-changes-in-v0-8-2|4 Model Support
-  changes in v0.8.2]]'
+- '[[Changes/OpenCode/2026-02-16-core-remove-unnecessary-per-message-title-llm-calls|Core
+  Remove unnecessary per-message title LLM calls]]'
 - '[[Changes/Claude/2026-02-17-claude-sonnet-4-6-launch|Claude Sonnet 4.6 launch]]'
 - '[[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|Added support
   for Claude Sonnet 4.6]]'

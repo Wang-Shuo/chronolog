@@ -1484,7 +1484,7 @@ def window_start(end: str, days: int) -> str:
 
 def site_lead(product_names: list[str]) -> str:
     if len(product_names) > 3:
-        return "Tracked changes in AI assistants and coding tools, from official release notes."
+        return "Tracked changes in AI products, from official release notes."
     scope = f" in {natural_join(product_names)}" if product_names else ""
     return f"Tracked changes{scope}, from official release notes."
 

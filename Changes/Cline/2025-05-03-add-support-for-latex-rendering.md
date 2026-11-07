@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 90abde124cddeac26f429357566f954ee196a8f40dbf1afa64fa8ab290bf1049
+machine_hash: 331491b39c005844feb32c95c5491fb9b6017220b1e0ae8de8e0efa2f742a14a
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,11 @@ record:
   title: Add support for LaTeX rendering
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add
-  new slash command menu letting you type…]]'
 - '[[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience
   changes in 1.3.0]]'
 - '[[Changes/Cline/2025-04-25-add-tooltips-to-bottom-row-menu|Add tooltips to bottom
   row menu]]'
+- '[[Changes/Midjourney/2025-05-01-how-to-use-omni-reference|How to Use Omni-Reference]]'
 source_release: '[[Releases/Cline/cline-2025-05-03-v3-14-0-github-216283929-7acb459c|cline-2025-05-03-v3-14-0-github-216283929-7acb459c]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-04-25 · Cline · [[Changes/Cline/2025-04-25-add-tooltips-to-bottom-row-menu|Add tooltips to bottom row menu]]
+- Earlier: 2025-05-01 · Midjourney · [[Changes/Midjourney/2025-05-01-how-to-use-omni-reference|How to Use Omni-Reference]]
 - Later: 2025-05-06 · ChatGPT · [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile UI (iOS/Android) changing on Free/Plus/Pro plans]]
 <!-- chronolog:end -->
 

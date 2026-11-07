@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f7026f1a28850faa68ec3916200bad0a75fdde16bb5dd5ca8006769e44e5442
+machine_hash: 676ec903956a0b83a6b5a5d8e14d6a6cc32782608ed838d18c2b9ef5ae0fa411
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-2-image-generation-changes-in-v0-11-4|2 Image Generation changes in v0.11.4]]
-- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-47327-preserve-image-generation-request-ids-on-failure-chrisdong-oai|♯47327 Preserve image generation request IDs on failure @chrisdong-oai]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-2-image-generation-changes-in-v2026-9-6|2 Image Generation changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

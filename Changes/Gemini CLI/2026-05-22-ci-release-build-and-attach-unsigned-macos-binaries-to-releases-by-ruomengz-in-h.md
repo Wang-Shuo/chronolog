@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 181b8b92ed35822f2c63d9d94bc441b63bf2027af949146e9aaddea20ed425f6
+machine_hash: 4e44f2a84b3a6f6fb9f71445f90eb209c978b8aa491722d118f58f4e9a576710
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: 'ci(release): build and attach unsigned macOS binaries to releases'
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-05-19-the-next-chapter-of-gemini-live|The next chapter of
-  Gemini Live]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-19-2-mobile-and-desktop-changes-in-v1-0-49|2
-  Mobile and Desktop changes in v1.0.49]]'
+- '[[Changes/OpenCode/2026-05-20-3-mobile-and-desktop-changes-in-v1-15-6|3 Mobile
+  and Desktop changes in v1.15.6]]'
 - '[[Changes/Lovable/2026-05-21-improvements-and-bug-fixes|Improvements and bug fixes]]'
+- '[[Changes/OpenCode/2026-05-21-4-mobile-and-desktop-changes-in-v1-15-7|4 Mobile
+  and Desktop changes in v1.15.7]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a|gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-improvements-and-bug-fixes|Improvements and bug fixes]]
-- Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-2-mobile-and-desktop-changes-in-v1-0-52|2 Mobile and Desktop changes in v1.0.52]]
+- Earlier: 2026-05-21 · OpenCode · [[Changes/OpenCode/2026-05-21-4-mobile-and-desktop-changes-in-v1-15-7|4 Mobile and Desktop changes in v1.15.7]]
+- Later: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-4-mobile-and-desktop-changes-in-v1-15-9|4 Mobile and Desktop changes in v1.15.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

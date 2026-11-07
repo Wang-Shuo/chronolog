@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7062677558a4a150935a2913d900a10568b3ad572f54496978cf91991fd4848c
+machine_hash: 6e8563959baf1d488d4ac57d42013f388ee8822b3ab24cd8d27de137cf4a63ec
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,8 +54,8 @@ record:
   title: More visual responses
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove
-  missing sidebar item]]'
+- '[[Changes/OpenCode/2026-01-28-7-interface-experience-changes-in-v1-1-37|7 Interface
+  Experience changes in v1.1.37]]'
 - '[[Changes/v0/2026-01-28-added-modals-for-library-and-projects-navigation|Added
   modals for Library and Projects navigation]]'
 - '[[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface

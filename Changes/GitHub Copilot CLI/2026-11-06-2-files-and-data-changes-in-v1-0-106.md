@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: abf3518108fc47a47ecb4abcd527413ef7a0eaf68c44a20b698efd6fc6a57755
+machine_hash: 7fc549cbfdd7697c07e64d7de90cfe1528f4dacc4822c30ffb1c8dc0325f1ab3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Files and Data changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-2-files-and-data-changes-in-elevenlabs-updates-2026-11-02|2
-  Files and Data changes in ElevenLabs updates — 2026-11-02]]'
+- '[[Changes/OpenClaw/2026-11-03-2-files-and-data-changes-in-v2026-10-10|2 Files and
+  Data changes in v2026.10.10]]'
 - '[[Changes/OpenHands/2026-11-03-feat-canvas-attribute-local-cloud-signup-entries-all-5962-by-malhotra5-in-https|feat(canvas):
   attribute local Cloud signup entries (ALL-5962)]]'
 - '[[Changes/Dify/2026-11-04-6-files-and-data-changes-in-1-19-0|6 Files and Data changes

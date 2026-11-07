@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e02066facca258ffb5e9ad043d768ecc6b219961b5fc59f45b72f572e0262548
+machine_hash: c1cc254ddada150ad1689fd04af17c4d9776db55c8bede5b00feeb08f47596a6
 product: dify
 product_name: Dify
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Reliability and Performance changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-2-reliability-and-performance-changes-in-v2-1-84|2
-  Reliability and Performance changes in v2.1.84]]'
-- '[[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved
-  scroll performance with large transcripts by replacing WASM yoga-layout…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-cli-no-longer-crashes-with-out-of-memory-errors-when-running-shell-commands-that|CLI
   no longer crashes with out-of-memory errors when running shell commands…]]'
+- '[[Changes/OpenCode/2026-03-26-core-skip-snapshotting-files-larger-than-2mb-to-improve-performance|Core
+  Skip snapshotting files larger than 2MB to improve performance]]'
+- '[[Changes/OpenCode/2026-03-26-bypass-local-sse-event-streaming-in-worker-for-improved-performance|Bypass
+  local SSE event streaming in worker for improved performance]]'
 source_release: '[[Releases/Dify/dify-2026-03-27-1-13-3-github-302258183-3ff73e84|dify-2026-03-27-1-13-3-github-302258183-3ff73e84]]'
 source_type: github_releases
 theme: reliability-performance
@@ -97,7 +97,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-cli-no-longer-crashes-with-out-of-memory-errors-when-running-shell-commands-that|CLI no longer crashes with out-of-memory errors when running shell commands…]]
+- Earlier: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-bypass-local-sse-event-streaming-in-worker-for-improved-performance|Bypass local SSE event streaming in worker for improved performance]]
 - Later: 2026-03-27 · Ollama · [[Changes/Ollama/2026-03-27-ollama-on-apple-silicon-is-now-built-https-ollama-com-blog-mlx-on-top-of-apple-s|Ollama on Apple silicon is now built((source link) on top…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12de7189312e6ea196cd79b8dd4da81a98a4d38d524d5aea85d2fb455455b7c4
+machine_hash: 29b52e9b6cc5f210117d5fe7e106e4d289e6e03c430b21ebab42cdfbdb7e449d
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: 'Changed skills with `context: fork` to run in the background by default'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-20-context-now-shows-an-explicit-warning-when-the-conversation-exceeds-the-context|/context
-  now shows an explicit warning when the conversation exceeds the context…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-2-context-window-changes-in-v1-0-72|2 Context
   Window changes in v1.0.72]]'
+- '[[Changes/OpenCode/2026-07-20-desktop-rewrite-the-v2-prompt-input-for-more-reliable-command-context-shell-atta|Desktop
+  Rewrite the v2 prompt input for more reliable command, context, shell…]]'
 - '[[Changes/Codex CLI/2026-07-21-12-context-window-changes-in-rust-v0-145-0|12 Context
   Window changes in rust-v0.145.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'

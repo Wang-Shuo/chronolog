@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 738f992b46c9ab209890382168d45296cf09c657ac4d9ade30266c451615af72
+machine_hash: 22665e595152420dec2c92e6e823d6262f7f600b8639eb8963bf7ee05f466120
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Developer Workflow changes in v2.1.206
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-7-developer-workflow-changes-in-v1-0-69|7
-  Developer Workflow changes in v1.0.69]]'
+- '[[Changes/OpenCode/2026-07-07-desktop-make-terminal-shortcuts-take-priority-when-the-terminal-is-focused|Desktop
+  Make terminal shortcuts take priority when the terminal is focused]]'
 - '[[Changes/Codex CLI/2026-07-08-7-developer-workflow-changes-in-rust-v0-143-0|7
   Developer Workflow changes in rust-v0.143.0]]'
 - '[[Changes/Codex CLI/2026-07-09-6-developer-workflow-changes-in-rust-v0-144-0|6

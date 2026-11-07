@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f0c6836c1c0a0b8cd4fecfce4b81bf059f0775d7c3b2ea226104f5bf2953236c
+machine_hash: 74ef7805f87c4284d55eac204c409e6b4e882ee0d70499c3a43018c63355054f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 7 Developer Workflow changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-feat-add-full-git-history-user-setting-by-malhotra5-in-https-github-com-openhand|feat:
-  Add full Git history user setting]]'
 - '[[Changes/Claude Code/2026-07-07-removed-the-startup-claude-command-missing-or-broken-warnings-they-now-appear-in|Removed
   the startup "claude command missing or broken" warnings]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-7-developer-workflow-changes-in-v1-0-69|7
   Developer Workflow changes in v1.0.69]]'
+- '[[Changes/OpenCode/2026-07-07-desktop-make-terminal-shortcuts-take-priority-when-the-terminal-is-focused|Desktop
+  Make terminal shortcuts take priority when the terminal is focused]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -115,7 +115,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-7-developer-workflow-changes-in-v1-0-69|7 Developer Workflow changes in v1.0.69]]
+- Earlier: 2026-07-07 · OpenCode · [[Changes/OpenCode/2026-07-07-desktop-make-terminal-shortcuts-take-priority-when-the-terminal-is-focused|Desktop Make terminal shortcuts take priority when the terminal is focused]]
 - Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-6-developer-workflow-changes-in-rust-v0-144-0|6 Developer Workflow changes in rust-v0.144.0]]
 <!-- chronolog:end -->
 

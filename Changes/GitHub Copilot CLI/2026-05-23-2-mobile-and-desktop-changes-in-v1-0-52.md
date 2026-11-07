@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4a113219c72309cbe4de7c7f92469fddffba9dc1ecc2aecb71d7194d3251d92
+machine_hash: c39d90fe1938629fcaff303e0a30631ef6e373b435a2c9c880dd7d4107c0ba5d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,11 +44,12 @@ record:
   title: 2 Mobile and Desktop changes in v1.0.52
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-2-mobile-and-desktop-changes-in-v1-0-49|2
-  Mobile and Desktop changes in v1.0.49]]'
-- '[[Changes/Lovable/2026-05-21-improvements-and-bug-fixes|Improvements and bug fixes]]'
+- '[[Changes/OpenCode/2026-05-21-4-mobile-and-desktop-changes-in-v1-15-7|4 Mobile
+  and Desktop changes in v1.15.7]]'
 - '[[Changes/Gemini CLI/2026-05-22-ci-release-build-and-attach-unsigned-macos-binaries-to-releases-by-ruomengz-in-h|ci(release):
   build and attach unsigned macOS binaries to releases]]'
+- '[[Changes/OpenCode/2026-05-22-4-mobile-and-desktop-changes-in-v1-15-9|4 Mobile
+  and Desktop changes in v1.15.9]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -90,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.52
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-ci-release-build-and-attach-unsigned-macos-binaries-to-releases-by-ruomengz-in-h|ci(release): build and attach unsigned macOS binaries to releases]]
+- Earlier: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-4-mobile-and-desktop-changes-in-v1-15-9|4 Mobile and Desktop changes in v1.15.9]]
 - Later: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-2-mobile-and-desktop-changes-in-rust-v0-134-0|2 Mobile and Desktop changes in rust-v0.134.0]]
 <!-- chronolog:end -->
 

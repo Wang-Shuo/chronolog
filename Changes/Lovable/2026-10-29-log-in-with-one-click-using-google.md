@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 231fbb5f5a3fc5e2966554f7914ee26506ff4d449f15c50d3b95b64711894fbc
+machine_hash: 1c5d77ffc598b2a4e4b22d5aae017b6ed3551600436627e9ec80e4c1cfb533ae
 product: lovable
 product_name: Lovable
 record:
@@ -47,12 +47,12 @@ record:
   title: Log in with one click using Google
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-3-account-and-access-changes-in-rust-v0-165-0|3
-  Account and Access changes in rust-v0.165.0]]'
 - '[[Changes/Lovable/2026-10-28-set-up-two-factor-authentication-from-the-dashboard-banner|Set
   up two-factor authentication from the dashboard banner]]'
 - '[[Changes/Codex CLI/2026-10-29-8-account-and-access-changes-in-rust-v0-166-0|8
   Account and Access changes in rust-v0.166.0]]'
+- '[[Changes/Google Antigravity/2026-10-29-plugins-that-connect-to-an-account-now-have-an-accounts-tab-on-their-page-where|Plugins
+  that connect to an account now have an Accounts tab on their page, where you…]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-29-2026-10-29-850979f2|lovable-2026-10-29-2026-10-29-850979f2]]'
 source_type: lovable_changelog
 theme: account-access
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-8-account-and-access-changes-in-rust-v0-166-0|8 Account and Access changes in rust-v0.166.0]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved the cloud session error shown while a request refused for your claude.ai…]]
+- Earlier: 2026-10-29 · Google Antigravity · [[Changes/Google Antigravity/2026-10-29-plugins-that-connect-to-an-account-now-have-an-accounts-tab-on-their-page-where|Plugins that connect to an account now have an Accounts tab on their page, where you…]]
+- Later: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-google-sign-in-client-secrets-are-now-masked-in-console-and-log-tail-output-raw|Google sign-in client secrets are now masked in console and log-tail output]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

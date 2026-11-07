@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 123f97ec36fc0f2b8813dac691a846e867adab9030c67e8c406a9fdb8c04fc7f
+machine_hash: 876d1440ac245396af39b41cdb92e05a32a950d4977497daf3f95dd5a8b72f60
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,12 @@ record:
   title: Added Forgejo integration
   type: change
 related_changes:
-- '[[Changes/Replit/2025-12-26-replit-rewind-2025|Replit Rewind 2025]]'
-- '[[Changes/Replit/2025-12-26-replit-chatgpt-app|Replit ChatGPT App]]'
+- '[[Changes/OpenCode/2025-12-29-core-install-local-plugin-dependencies-from-package-json|Core
+  Install local plugin dependencies from package.json]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-30-enable-copilot-spaces-tools-in-github-mcp-server|Enable
   Copilot Spaces tools in GitHub MCP Server]]'
+- '[[Changes/OpenCode/2025-12-30-core-expose-server-url-to-plugins|Core Expose server
+  URL to plugins]]'
 source_release: '[[Releases/OpenHands/openhands-2025-12-30-1-1-0-github-273438720-22c53f63|openhands-2025-12-30-1-1-0-github-273438720-22c53f63]]'
 source_type: github_releases
 theme: apps-integrations
@@ -77,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-30-enable-copilot-spaces-tools-in-github-mcp-server|Enable Copilot Spaces tools in GitHub MCP Server]]
-- Later: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-mcp-server-type-help-text-displays-correct-options|MCP server type help text displays correct options]]
+- Earlier: 2025-12-30 · OpenCode · [[Changes/OpenCode/2025-12-30-core-expose-server-url-to-plugins|Core Expose server URL to plugins]]
+- Later: 2025-12-31 · OpenCode · [[Changes/OpenCode/2025-12-31-3-apps-and-integrations-changes-in-v1-0-219|3 Apps and Integrations changes in v1.0.219]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

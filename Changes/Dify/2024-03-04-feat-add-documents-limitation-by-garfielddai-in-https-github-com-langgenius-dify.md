@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b0e7424c959472ed56f0e3221afc49481cdbd15b5d5522f2188fed0ddf0e5a4
+machine_hash: 3c745f6922ee2456c32c55a7e785ace6a25cfbee7d82aa959a51cb8b27e5a606
 product: dify
 product_name: Dify
 record:
@@ -40,12 +40,12 @@ record:
   title: 'Feat: Add documents limitation'
   type: change
 related_changes:
-- '[[Changes/Dify/2023-12-19-unstructured-document-https-unstructured-io-github-io-unstructured-introduction|Unstructured
-  Document((source link)]]'
-- '[[Changes/Dify/2024-01-19-delete-document-cache-embedding-by-johnjyong-in-https-github-com-langgenius-dify|delete
-  document cache embedding]]'
 - '[[Changes/Dify/2024-01-25-add-tts-document-fix-bug-by-charli117-in-https-github-com-langgenius-dify-pull-2|Add
   tts document&fix bug]]'
+- '[[Changes/Gamma/2024-02-14-pdf-compression-we-made-pdf-exports-much-smaller-90-reduction-in-average-file-si|PDF
+  Compression]]'
+- '[[Changes/Gamma/2024-02-14-portrait-vertical-cards-go-to-page-setup-change-the-card-size-to-16-9-a4-or-lett|Portrait
+  (Vertical) Cards]]'
 source_release: '[[Releases/Dify/dify-2024-03-04-0-5-8-github-144692977-2035da78|dify-2024-03-04-0-5-8-github-144692977-2035da78]]'
 source_type: github_releases
 theme: file-data
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-01-25 · Dify · [[Changes/Dify/2024-01-25-add-tts-document-fix-bug-by-charli117-in-https-github-com-langgenius-dify-pull-2|Add tts document&fix bug]]
+- Earlier: 2024-02-14 · Gamma · [[Changes/Gamma/2024-02-14-portrait-vertical-cards-go-to-page-setup-change-the-card-size-to-16-9-a4-or-lett|Portrait (Vertical) Cards]]
 - Later: 2024-03-19 · Dify · [[Changes/Dify/2024-03-19-add-tenant-id-index-for-document-and-document-segment-table-by-johnjyong-in-http|add tenant id index for document and document_segment table]]
 <!-- chronolog:end -->
 

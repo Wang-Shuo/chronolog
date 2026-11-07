@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55d2bdb94926a2faba3769db910721fcfe5943cc7716849f4276b94c41001b54
+machine_hash: e4b30ffac01b9ca2018cad500b127387b3435c2ed9cee272667cc9926f0c8f8c
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat: reorder Customize navigation'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-05-3-interface-experience-changes-in-v4-1-4|3 Interface
-  Experience changes in v4.1.4]]'
-- '[[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved
-  fullscreen mode to keep the full pre-compaction history in scrollback…]]'
-- '[[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6
-  Interface Experience changes in rust-v0.147.0]]'
+- '[[Changes/Google Antigravity/2026-08-07-you-can-now-copy-an-image-to-your-clipboard-from-an-artifact-or-the-file-viewer|Copy
+  an image to your clipboard from an artifact or the file viewer, using the menu…]]'
+- '[[Changes/Google Antigravity/2026-08-07-2-interface-experience-changes-in-hub-v2-6-0-faster-long-conversations|2
+  Interface Experience changes in HUB v2.6.0 — Faster long conversations…]]'
+- '[[Changes/OpenCode/2026-08-07-desktop-language-names-now-stay-native-in-the-locale-picker|Desktop
+  Language names now stay native in the locale picker]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-07-v1-11-0-github-366925866-b56d8fd7|openhands-2026-08-07-v1-11-0-github-366925866-b56d8fd7]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6 Interface Experience changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · OpenCode · [[Changes/OpenCode/2026-08-07-desktop-language-names-now-stay-native-in-the-locale-picker|Desktop Language names now stay native in the locale picker]]
 - Later: 2026-08-08 · Claude Code · [[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|VSCode Fixed Focus view folding away the latest to-do list, a pending question's…]]
 <!-- chronolog:end -->
 

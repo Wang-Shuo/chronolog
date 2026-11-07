@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: baa55e9da416dc5e1803cf86a993849229ce2c822c9e4b7bb4ebc82fdc587770
+machine_hash: ee02c13d5f86d8363f92ffd7df684c54e05dce747ca312a5818049dc52bd1c46
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.101
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4 Apps and Integrations changes in v2.1.305]]
-- Later: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-let-lovable-create-your-supabase-project|Let Lovable create your Supabase project]]
+- Later: 2026-10-20 · Google Antigravity · [[Changes/Google Antigravity/2026-10-20-plugin-sidebar-badges-window-shortcuts-and-reliability-fixes|Plugin sidebar badges, window shortcuts, and reliability fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

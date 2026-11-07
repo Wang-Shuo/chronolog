@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8de77c5c737294af930b47714fedf838961d03e011b710989a6bb3ab6221733f
+machine_hash: 6a51e1e944c89de7896a4097886e8b5ea6737ffcab10dad007fb7e58f4523162
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -70,12 +70,12 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-4-agent-mode-changes-in-v2-1-277|4 Agent Mode
-  changes in v2.1.277]]'
-- '[[Changes/Replit/2026-09-18-connect-custom-apis-to-agent|Connect custom APIs to
-  Agent]]'
 - '[[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added
   an Auto mode server row to /status showing whether this session''s auto…]]'
+- '[[Changes/OpenClaw/2026-09-19-72-agent-mode-changes-in-v2026-9-5|72 Agent Mode
+  changes in v2026.9.5]]'
+- '[[Changes/OpenClaw/2026-09-19-you-can-now-set-the-approval-reviewer-s-reasoning-and-optional-fast-mode-indepen|Set
+  the approval reviewer''s reasoning and optional Fast mode independently…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-21-2026-09-21-6d2d4d80|elevenlabs-2026-09-21-2026-09-21-6d2d4d80]]'
 source_type: elevenlabs_changelog
 theme: agent-mode
@@ -128,7 +128,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-19 · Claude Code · [[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added an Auto mode server row to /status showing whether this session's auto…]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-you-can-now-set-the-approval-reviewer-s-reasoning-and-optional-fast-mode-indepen|Set the approval reviewer's reasoning and optional Fast mode independently…]]
 - Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-show-live-elapsed-time-for-execution-subagents-in-timeline-entries|Show live elapsed time for execution subagents in timeline entries]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a71aabddc83845746e57adc59bd34939be7548e66ceca31bb90a37a391bd29d
+machine_hash: 6dc0b598502abe8e1775e905396c23c3890cd8c10dd9dc81e038de5d6370daca
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: Auto-updates now run in the background for faster time-to-interactive
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-17-2-reliability-and-performance-changes-in-v0-0-411|2
-  Reliability and Performance changes in v0.0.411]]'
+- '[[Changes/Midjourney/2026-02-17-this-rating-party-is-focused-on-prompts-that-ask-to-generate-text|This
+  rating party is focused on prompts that ask to generate text]]'
 - "[[Changes/Open WebUI/2026-02-17-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Claude Code/2026-02-18-5-reliability-and-performance-changes-in-v2-1-47|5

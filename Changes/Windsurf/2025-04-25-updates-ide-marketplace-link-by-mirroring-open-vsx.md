@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee28a7ff8475f88180e27bbc71cd9bd107b4b6c51c75c87fa81427bef1ce4e0f
+machine_hash: 9dd266c9e9d4e7eff8232f27e6d31da7623deecc8977e6d9854c2b1fe05692a3
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,10 +41,9 @@ record:
   title: Updates IDE marketplace link by mirroring Open VSX
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-19-add-ability-to-edit-past-messages-with-options-to-restore-your-workspace-back-to|Add
-  ability to edit past messages, with options to restore your workspace back…]]'
 - '[[Changes/Dify/2025-04-23-2-editor-experience-changes-in-1-3-0|2 Editor Experience
   changes in 1.3.0]]'
+- '[[Changes/Midjourney/2025-04-23-lots-of-editor-improvements|Lots of editor improvements]]'
 - '[[Changes/OpenHands/2025-04-23-introduced-a-new-changes-tab-to-show-modifications-made-by-openhands-by-amanape|Introduced
   a new Changes tab to show modifications made by OpenHands]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-25-v1-7-1-2c0ffc53|windsurf-2025-04-25-v1-7-1-2c0ffc53]]'

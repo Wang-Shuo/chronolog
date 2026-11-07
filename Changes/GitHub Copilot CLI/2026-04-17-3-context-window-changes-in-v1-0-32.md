@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3583afcc4a1a6ece3df961c77b533d82b07e478940afe1b0ef128d600c43a8bf
+machine_hash: acabe1fb3e7b8adb6b25389cd6c8126b4a10b5a55b7edae6522f199d0b3165d2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Context Window changes in v1.0.32
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e|Added
-  option to show Claude''s last response as commented context in the Ctrl+G…]]'
-- '[[Changes/Codex CLI/2026-04-15-4-context-window-changes-in-rust-v0-121-0|4 Context
-  Window changes in rust-v0.121.0]]'
+- '[[Changes/OpenCode/2026-04-15-2-context-window-changes-in-v1-4-4|2 Context Window
+  changes in v1.4.4]]'
+- '[[Changes/OpenCode/2026-04-15-kept-github-copilot-compaction-requests-valid|Kept
+  GitHub Copilot compaction requests valid]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-add-statusline-command-with-footer-alias-to-customize-which-items-appear-in-the|Add
   /statusline command (with /footer alias) to customize which items appear…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-17-v1-0-32-github-310570906-80c72acc|github-copilot-cli-2026-04-17-v1-0-32-github-310570906-80c72acc]]'

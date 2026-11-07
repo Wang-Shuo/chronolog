@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab95e2d77b2f0f801f5465e7f06061b8e62e92075ce43855cb1b9ee87fc22e54
+machine_hash: df250305b294dcc4e03bd8c5314baf653b573cb713f55f0c391360d6d54612ab
 product: dify
 product_name: Dify
 record:
@@ -41,10 +41,10 @@ record:
   title: add glm-3-turbo max_tokens parameter setting
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long
-  Context Chat (Beta)]]'
 - '[[Changes/Cursor/2024-04-12-cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr|.cursorrules:
   You can write down repo-level rules for the AI by creating…]]'
+- '[[Changes/Midjourney/2024-04-27-some-high-level-plans-right-now-around-rooms-as-context|Some
+  high level plans right now around rooms as context]]'
 - '[[Changes/Ollama/2024-04-28-llama-3-gradient-1048k-https-ollama-com-library-llama3-gradient-a-llama-3-fine-t|Llama
   3 Gradient 1048K((source link)]]'
 source_release: '[[Releases/Dify/dify-2024-05-02-0-6-6-github-153776816-f9d55236|dify-2024-05-02-0-6-6-github-153776816-f9d55236]]'

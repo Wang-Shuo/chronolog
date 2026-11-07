@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: bd8e96902ec08220019325b21e4b49f17d98f0c39126c48045c0703de31da275
+machine_hash: 7be659a5abb0c942644e71ffec13bc40799c6fda4a9b1cb3991662d3fe2a0993
 product: cursor
 product_name: Cursor
 record:
@@ -49,12 +49,11 @@ record:
   title: Instant Grep (Beta)
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-13-these-trigger-features-are-only-available-for-workflows-chatflow-agent-and-basic|These
-  trigger features are only available for Workflows]]'
-- '[[Changes/Gemini/2025-11-18-gemini-agent-is-now-available-on-the-web-to-google-ai-ultra-subscribers-18-in-th|Gemini
-  Agent is now available on the web, to Google AI Ultra subscribers 18+ in the US]]'
 - '[[Changes/Codex CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0|2 Agent Mode
   changes in rust-v0.59.0]]'
+- '[[Changes/Google Antigravity/2025-11-20-agent-can-now-create-scratch-directories-if-no-workspaces-are-open|Agent
+  can now create scratch directories if no workspaces are open]]'
+- '[[Changes/Google Antigravity/2025-11-20-nano-banana-pro|Nano Banana Pro]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0|2 Agent Mode changes in rust-v0.59.0]]
+- Earlier: 2025-11-20 · Google Antigravity · [[Changes/Google Antigravity/2025-11-20-nano-banana-pro|Nano Banana Pro]]
 - Later: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 

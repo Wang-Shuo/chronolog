@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07a4f4d7a88cb51aa6515c0c0931c4e97ef9869fcfcc3383982da99fe4d26bcb
+machine_hash: bdb04edd556b006bd86ccf2d5c078a042021aa1cdac7480d41e9e68409003b18
 product: ollama
 product_name: Ollama
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Reliability and Performance changes in v0.1.32
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-22-performance-improvements-up-to-2x-when-running-gemma-https-ollama-com-library-ge|Performance
-  improvements (up to 2x) when running…]]'
-- '[[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster
-  Copilot++: We''ve made Copilot++ ~2x faster!]]'
+- '[[Changes/Midjourney/2024-03-21-sv-3-a-new-version-of-sv1-with-better-performance-and-more-vibey-than-sv2|--sv
+  3 A new version of sv1 with better performance and more ''vibey'' than sv2]]'
+- '[[Changes/Midjourney/2024-03-21-sv-4-a-new-version-of-sv2-that-with-improved-performance-this-is-default|--sv
+  4 A new version of sv2 that with improved performance (this is default)]]'
 - '[[Changes/Dify/2024-04-09-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This
   update primarily focuses on enhancing system stability and improving user experience]]'
 source_release: '[[Releases/Ollama/ollama-2024-04-10-v0-1-32-github-150612671-ee04ba9f|ollama-2024-04-10-v0-1-32-github-150612671-ee04ba9f]]'

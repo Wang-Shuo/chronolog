@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6391504451ae17d0dbd570f57766d6d6b4948de7dc5f2919f85bdf2cb3461b4
+machine_hash: 07c63d1995a64d974223cf4ba8bed94e27ea3ee7ce025712fd3ca6772f0d58cc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,8 +58,8 @@ record:
   title: 4 Enterprise and Administration changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-24-contact-enterprise-support-from-your-project|Contact
-  Enterprise support from your project]]'
+- '[[Changes/Runway/2026-08-24-org-admins-can-now-set-a-default-sso-configuration-that-automatically-applies-to|Default
+  SSO for New Workspaces]]'
 - '[[Changes/Dify/2026-08-25-2-enterprise-and-administration-changes-in-1-17-0|2 Enterprise
   and Administration changes in 1.17.0]]'
 - '[[Changes/Lovable/2026-08-25-only-free-and-pro-projects-are-eligible-for-linkedin-skills|Only

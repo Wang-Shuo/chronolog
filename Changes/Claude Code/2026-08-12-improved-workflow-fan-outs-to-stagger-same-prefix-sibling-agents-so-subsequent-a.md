@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95e2597eca9623ead856d41d9e0fff5e25a1df2640bf26553fef14fb273c25c6
+machine_hash: be95d93fdb6edde0d20fd3b487a82af078781b628486bef7ff0c109816e12403
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed
-  the outdated note about auto mode sessions costing slightly more…]]'
-- '[[Changes/Gemini CLI/2026-08-11-2-agent-mode-changes-in-v0-55-1|2 Agent Mode changes
-  in v0.55.1]]'
+- '[[Changes/Google Antigravity/2026-08-11-ensured-that-local-web-servers-started-by-the-agent-are-reachable-from-your-host|Ensured
+  that local web servers started by the agent are reachable from your host machine]]'
 - '[[Changes/Ollama/2026-08-11-nvidia-nemotron-3-5-lightning-https-ollama-com-library-nemotron-3-5-lightning-is|NVIDIA
   Nemotron 3.5 Lightning((source link)]]'
+- '[[Changes/Runway/2026-08-11-agent-sessions-now-live-inside-projects-so-you-can-start-a-session-directly-from|Projects
+  + Brand Kits in Agent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-11 · Ollama · [[Changes/Ollama/2026-08-11-nvidia-nemotron-3-5-lightning-https-ollama-com-library-nemotron-3-5-lightning-is|NVIDIA Nemotron 3.5 Lightning((source link)]]
-- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-4-agent-mode-changes-in-v2-1-232|4 Agent Mode changes in v2.1.232]]
+- Earlier: 2026-08-11 · Runway · [[Changes/Runway/2026-08-11-agent-sessions-now-live-inside-projects-so-you-can-start-a-session-directly-from|Projects + Brand Kits in Agent]]
+- Later: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-reduced-typing-lag-while-the-agent-streams-responses|Reduced typing lag while the agent streams responses]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

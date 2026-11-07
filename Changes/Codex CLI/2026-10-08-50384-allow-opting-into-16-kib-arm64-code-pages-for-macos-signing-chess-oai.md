@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c90bb19309ddb8aa11fd619a2b561d009fc63b99e1943348a4a261ce76ed1eb
+machine_hash: 94def8a4ce1a5ab7d21aeea35c553c878e0adc39e49ec46b6acc027346384d12
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#50384 Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep
-  your computer awake]]'
+- '[[Changes/Google Antigravity/2026-10-07-on-windows-and-linux-selecting-the-antigravity-icon-in-the-top-left-corner-of-th|On
+  Windows and Linux, selecting the Antigravity icon in the top-left corner…]]'
 - '[[Changes/Ollama/2026-10-07-manifest-avoid-symlinks-on-windows-by-dhiltgen-in-https-github-com-ollama-ollama|manifest:
   avoid symlinks on Windows]]'
 - '[[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed the Claude apps gateway to start with a warning and serve a desktop policy…]]
-- Later: 2026-10-09 · Replit · [[Changes/Replit/2026-10-09-replit-desktop-windows-preview-with-microsoft-and-nvidia|Replit Desktop Windows preview with Microsoft and NVIDIA]]
+- Later: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-3-mobile-and-desktop-changes-in-v2026-9-9|3 Mobile and Desktop changes in v2026.9.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4271378d6d7cf4db6490c8f3a84268785fdf202956d0912049df46b3f226798
+machine_hash: 426b12076b8a1bf1084badd5c81024b4efd4de42acb3f86802499238ebee87e5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
     for MCP…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-9eb2c6|Hooks:
-  Hook scripts now run from the workspace repository root instead…]]'
 - '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-f43db5|Hooks:
   Hook scripts now run from the workspace repository root instead…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-3-apps-and-integrations-changes-in-v0-0-400|3
   Apps and Integrations changes in v0.0.400]]'
+- '[[Changes/OpenCode/2026-01-30-2-apps-and-integrations-changes-in-v1-1-47-2|2 Apps
+  and Integrations changes in v1.1.47 + 2]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8|codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8]]'
 source_type: github_releases
 theme: apps-integrations
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-3-apps-and-integrations-changes-in-v0-0-400|3 Apps and Integrations changes in v0.0.400]]
-- Later: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-sdk-releases|SDK Releases]]
+- Earlier: 2026-01-30 · OpenCode · [[Changes/OpenCode/2026-01-30-2-apps-and-integrations-changes-in-v1-1-47-2|2 Apps and Integrations changes in v1.1.47 + 2]]
+- Later: 2026-01-31 · OpenCode · [[Changes/OpenCode/2026-01-31-core-bump-ai-sdk-packages|Core Bump AI SDK packages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

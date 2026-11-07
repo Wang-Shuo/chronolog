@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2526c59fe0b5e60c4b972e7345fcbbad56b3701647f3b1c7fb4a18eadba288d0
+machine_hash: 284ca85fe259c8ae69b603ace7eaf59a83813bf39460fb65e33a888db31fe2c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-21-model-support-changes-in-rust-v0-154-0|21 Model
-  Support changes in rust-v0.154.0]]'
-- '[[Changes/Codex CLI/2026-09-09-gpt-6-astra-is-now-available-in-the-model-picker-and-amazon-bedrock-catalogs-428|GPT-6-Astra
-  is now available in the model picker and Amazon Bedrock catalogs]]'
 - '[[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat:
   enable LLM provider connections on cloud]]'
+- '[[Changes/Suno/2026-09-09-the-v6-family-of-models-enables-new-possibilities|The
+  v6 family of models enables new possibilities]]'
+- '[[Changes/Suno/2026-09-09-introducing-the-v6-family-of-music-models|Introducing
+  the v6 family of music models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat: enable LLM provider connections on cloud]]
+- Earlier: 2026-09-09 · Suno · [[Changes/Suno/2026-09-09-introducing-the-v6-family-of-music-models|Introducing the v6 family of music models]]
 - Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-76-model-support-changes-in-1-17-1|76 Model Support changes in 1.17.1]]
 <!-- chronolog:end -->
 

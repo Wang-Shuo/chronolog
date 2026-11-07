@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 617d6f692712acb439f615e56d81007580ede2620809e66b77073c9ea4e1f1aa
+machine_hash: 9f58755e525a615081a4305497203aae6cdaca03f8471767a681febcb1128160
 product: replit
 product_name: Replit
 record:
@@ -53,8 +53,8 @@ record:
   title: Steer Agent while working
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode
-  changes in v2.1.239]]'
+- '[[Changes/OpenCode/2026-08-21-core-surface-resumable-subagent-failures-instead-of-returning-an-empty-result|Core
+  Surface resumable subagent failures instead of returning an empty result]]'
 - '[[Changes/OpenHands/2026-08-21-feat-add-llm-provider-connections-ui-local-agent-server-by-juanmichelini-in-http|feat:
   add LLM provider-connections UI (local agent-server)]]'
 - '[[Changes/Replit/2026-08-21-agent|Agent]]'

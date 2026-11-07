@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: eda7417ee0cb917b5659624d7ed32f4c0b733f44fa55cd73f2357eb4c96867c6
+machine_hash: 5328c858373df0a22c9ec3b35a4bc3f927ccf110b771159cc1ff967f3b55163c
 product: v0
 product_name: v0
 record:
@@ -44,12 +44,12 @@ record:
   title: Added Git support for version control in projects
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor
-  introduces interactive UIs in agent chats, a way for teams to share private…]]'
 - '[[Changes/Gemini CLI/2026-03-03-2-developer-workflow-changes-in-v0-32-0|2 Developer
   Workflow changes in v0.32.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-4-developer-workflow-changes-in-v0-0-421|4
   Developer Workflow changes in v0.0.421]]'
+- '[[Changes/OpenCode/2026-03-03-6-developer-workflow-changes-in-v1-2-16|6 Developer
+  Workflow changes in v1.2.16]]'
 source_release: '[[Releases/v0/v0-2026-03-03-2026-03-03-489f9d67|v0-2026-03-03-2026-03-03-489f9d67]]'
 source_type: v0_changelog
 theme: developer-workflow
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-4-developer-workflow-changes-in-v0-0-421|4 Developer Workflow changes in v0.0.421]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-6-developer-workflow-changes-in-v2-1-69|6 Developer Workflow changes in v2.1.69]]
+- Earlier: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-6-developer-workflow-changes-in-v1-2-16|6 Developer Workflow changes in v1.2.16]]
+- Later: 2026-03-04 · OpenCode · [[Changes/OpenCode/2026-03-04-5-developer-workflow-changes-in-v1-2-17|5 Developer Workflow changes in v1.2.17]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2058bdd9975f860a4fec27a11416e17cacb9c17bc56715249db4c039ec6e500f
+machine_hash: a755529830f9a106cd969a7633a0e2fc5012505ae8bfa56843e4d00482038c69
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Model Support changes in v0.3.22
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-13-2-model-support-changes-in-0-8-2|2 Model Support changes
-  in 0.8.2]]'
 - '[[Changes/Cline/2024-09-14-update-this-feature-is-now-opt-in-in-v1-8-0-use-problems-in-the-textarea-automat|Update:
   This feature is now opt-in in v1.8.0 (use @problems in the textarea)]]'
+- '[[Changes/Runway/2024-09-16-use-our-simple-to-integrate-api-to-access-our-latest-and-most-powerful-video-mod|Runway
+  API]]'
 - '[[Changes/Ollama/2024-09-17-6-model-support-changes-in-v0-3-11|6 Model Support
   changes in v0.3.11]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-19-v0-3-22-github-175998009-91af8aae|open-webui-2024-09-19-v0-3-22-github-175998009-91af8aae]]'

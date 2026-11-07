@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7e54b26d6c3500a5431a3e3762fcc3ec52ae89c7b2149aa0dc3db03ada005250
+machine_hash: a47383a7aaef3a3961ca6ec4dbfb9ec988ffc42ce871b237e3c44b560809da6f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.65
 ## Nearby in Model Support
 
 - Earlier: 2026-06-24 · ChatGPT · [[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5 Instant Update]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added claude_code.assistant_response OpenTelemetry log event containing…]]
+- Later: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-core-hid-gpt-5-5-pro-when-using-codex-oauth|Core Hid gpt-5.5-pro when using Codex OAuth]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

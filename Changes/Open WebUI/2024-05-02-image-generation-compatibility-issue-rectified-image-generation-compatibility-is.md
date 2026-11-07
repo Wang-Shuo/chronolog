@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72b89b4249719eb25e303f1618ae4ead908cde05bb52792a1b658d167f71df96
+machine_hash: 5d26d4cd05e09b8d0c7b0b388b9e22b73c0162f2ea71de64340f319bdfe7a457
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,12 +43,12 @@ record:
   title: "**\U0001F310 Image Generation Compatibility Issue**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-03-15-resolved-chat-malfunction-after-image-generation|\U0001F5E8️
-  Resolved chat malfunction after image generation]]"
 - '[[Changes/Dify/2024-03-19-2-image-generation-changes-in-0-5-10|2 Image Generation
   changes in 0.5.10]]'
 - "[[Changes/Open WebUI/2024-03-24-image-generation-comfyui-image-generation-now-supports-comfyui|\U0001F3A8
   Image Generation ComfyUI: Image generation now supports ComfyUI]]"
+- '[[Changes/Gamma/2024-04-25-this-month-s-release-is-packed-with-ai-improvements-across-the-board-faster-imag|AI
+  Updates]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-05-02-v0-1-123-github-153893406-3c2396c5|open-webui-2024-05-02-v0-1-123-github-153893406-3c2396c5]]'
 source_type: github_releases
 theme: image-generation
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2024-03-24 · Open WebUI · [[Changes/Open WebUI/2024-03-24-image-generation-comfyui-image-generation-now-supports-comfyui|🎨 Image Generation ComfyUI: Image generation now supports ComfyUI]]
-- Later: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-2-image-generation-changes-in-0-6-12|2 Image Generation changes in 0.6.12]]
+- Earlier: 2024-04-25 · Gamma · [[Changes/Gamma/2024-04-25-this-month-s-release-is-packed-with-ai-improvements-across-the-board-faster-imag|AI Updates]]
+- Later: 2024-05-22 · Suno · [[Changes/Suno/2024-05-22-pro-and-premier-members-now-have-the-ability-to-upload-profile-cover-and-playlis|🖼️ Customize Images (Pro and Premier)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

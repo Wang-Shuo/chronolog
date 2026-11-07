@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c109d161fd5a18c7ad8e464ac0c509b9bdfb6e8a1bb9dce9b08f636d79f16d7d
+machine_hash: 500b5e0e1c0fd3883198f8540eafd8785c06dd30fec96050d9e33c8d5a263934
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
     login`…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-27-15-account-and-access-changes-in-v0-11-0|15 Account
-  and Access changes in v0.11.0]]'
-- '[[Changes/Dify/2026-07-28-6-account-and-access-changes-in-1-16-1|6 Account and
-  Access changes in 1.16.1]]'
+- '[[Changes/OpenCode/2026-07-28-improved-compatibility-with-newer-mcp-servers-and-oauth-flows|Improved
+  compatibility with newer MCP servers and OAuth flows]]'
+- '[[Changes/OpenCode/2026-07-28-core-honors-configured-mcp-oauth-callback-ports-in-mcp-debug|Core
+  Honors configured MCP OAuth callback ports in mcp debug]]'
 - '[[Changes/Codex CLI/2026-07-29-34643-migrate-login-http-construction-to-httpclient-copyberry|♯34643
   Migrate login HTTP construction to HttpClient @copyberry]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-77-github-362775700-9504fbee|github-copilot-cli-2026-07-30-v1-0-77-github-362775700-9504fbee]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-34643-migrate-login-http-construction-to-httpclient-copyberry|♯34643 Migrate login HTTP construction to HttpClient @copyberry]]
-- Later: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-open-in-v0-and-git-deployment-lookups-prompt-for-saml-re-authentication-instead|Open in v0 and Git deployment lookups prompt for SAML re-authentication instead…]]
+- Later: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-2-account-and-access-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2 Account and Access changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

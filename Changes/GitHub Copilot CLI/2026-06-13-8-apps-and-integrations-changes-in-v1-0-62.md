@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3435c23978b46cfda857c2839fd27f4d8cf4bf752d78c5077932e2b7d11ed5b7
+machine_hash: 5bbb03de8344704a4a75695294281abda74ccf208be9d0cda4e54b7d58633538
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,12 +58,12 @@ record:
   title: 8 Apps and Integrations changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-11-2-apps-and-integrations-changes-in-v3-89-2|2 Apps and
-  Integrations changes in v3.89.2]]'
-- '[[Changes/Cline/2026-06-11-restore-the-anthropic-provider-on-vs-code-1-123-and-later-where-the-updated-node|Restore
-  the Anthropic provider on VS Code 1.123 and later, where the updated Node 24…]]'
 - '[[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts
   in place]]'
+- '[[Changes/OpenCode/2026-06-12-added-cwd-support-for-local-mcp-servers-so-they-can-start-from-a-workspace-relat|Added
+  cwd support for local MCP servers so they can start from a workspace-relative…]]'
+- '[[Changes/OpenCode/2026-06-12-4-apps-and-integrations-changes-in-v1-17-4|4 Apps
+  and Integrations changes in v1.17.4]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -122,8 +122,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.62
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-12 · Claude · [[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts in place]]
-- Later: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-2-apps-and-integrations-changes-in-v2-1-178|2 Apps and Integrations changes in v2.1.178]]
+- Earlier: 2026-06-12 · OpenCode · [[Changes/OpenCode/2026-06-12-4-apps-and-integrations-changes-in-v1-17-4|4 Apps and Integrations changes in v1.17.4]]
+- Later: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-4-apps-and-integrations-changes-in-v1-17-6-1|4 Apps and Integrations changes in v1.17.6 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

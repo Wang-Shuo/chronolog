@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fdb09216c3dfc070508e140c33cf1000b7601363d79079fb555e3e05b0e5dd5d
+machine_hash: fc5419f776bcd5e5980c06ca1a55e200729664feae1136059de9d65adcaae6fe
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Safety and Privacy changes in v2.1.76
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|Fixed
-  voice mode silently failing on the macOS native binary for users whose…]]'
 - '[[Changes/Cline/2026-03-12-markdown-image-loading-now-requires-user-consent|Markdown
   image loading now requires user consent]]'
+- '[[Changes/OpenCode/2026-03-12-2-safety-and-privacy-changes-in-v1-2-25|2 Safety
+  and Privacy changes in v1.2.25]]'
 - '[[Changes/v0/2026-03-12-improved-snowflake-deployment-error-messages-for-permission-issues|Improved
   Snowflake deployment error messages for permission issues]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'

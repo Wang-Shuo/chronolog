@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39480085ffd3a206c12dd0a613ce7a9091429cc166984b20ffa7d2024b5b4226
+machine_hash: e3e4b03cdbd7a30e191cb21643b1ebc5e9f969a0fc9284d61643528fe9920417
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode: Added support for remote sessions, allowing OAuth users to browse and resume…]]
-- Later: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-2-account-and-access-changes-in-v0-0-407|2 Account and Access changes in v0.0.407]]
+- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-desktop-include-basic-authentication-in-app|Desktop Include basic authentication in app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

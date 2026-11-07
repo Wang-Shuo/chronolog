@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: efe5b8e9f0d4b53f08c69cdfe464c5858171d423e88e084a1455a5edac501224
+machine_hash: 3a6b1bcb38271587ff2ff43fde76f1ad32a77f4412f396fae80d154004460ad1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-6-model-support-changes-in-rust-v0-152-0|6 Model Support changes in rust-v0.152.0]]
-- Later: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-3-model-support-changes-in-v4-1-17|3 Model Support changes in v4.1.17]]
+- Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-4-model-support-changes-in-v2026-8-2|4 Model Support changes in v2026.8.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

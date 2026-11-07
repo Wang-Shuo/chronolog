@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 37bd6a87330e9a9cdfffaf1d2f7ee0a7f243c838bbf8f2eb37abd0062aba07cd
+machine_hash: fa0fc557dccf1e2efd8bfd0f6cd46f07b79e3571d2d0934444b5e1a5a7984c43
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,9 +41,10 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Replit/2026-01-09-made-with-replit-badge|Made with Replit badge]]'
 - '[[Changes/Cline/2026-01-10-2-apps-and-integrations-changes-in-v3-49-0|2 Apps and
   Integrations changes in v3.49.0]]'
+- '[[Changes/OpenCode/2026-01-11-ensure-codex-built-in-plugin-is-always-available|Ensure
+  Codex built-in plugin is always available]]'
 - '[[Changes/ElevenLabs/2026-01-12-mcp-server|MCP Server]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-01-12-2026-01-12-102f5bca|elevenlabs-2026-01-12-2026-01-12-102f5bca]]'
 source_type: elevenlabs_changelog
@@ -81,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-10 · Cline · [[Changes/Cline/2026-01-10-2-apps-and-integrations-changes-in-v3-49-0|2 Apps and Integrations changes in v3.49.0]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps and Integrations changes in v2.1.6]]
+- Earlier: 2026-01-11 · OpenCode · [[Changes/OpenCode/2026-01-11-ensure-codex-built-in-plugin-is-always-available|Ensure Codex built-in plugin is always available]]
+- Later: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-core-bump-copilot-plugin-version|Core Bump Copilot plugin version]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

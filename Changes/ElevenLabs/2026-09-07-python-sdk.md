@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 0f4db2a91a51a91a7ce9f8470184fe9caf759815385ec43b64a19cbe6398c65a
+machine_hash: b6ad6dc2ebc1f1689f6b7502ca371b49f9bb5b804c034f40842c0d96614ee449
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -52,8 +52,8 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Replit/2026-09-04-understand-app-usage-with-project-analytics|Understand
-  app usage with Project Analytics]]'
+- '[[Changes/OpenClaw/2026-09-05-34-agent-mode-changes-in-v2026-9-2|34 Agent Mode
+  changes in v2026.9.2]]'
 - '[[Changes/ElevenLabs/2026-09-07-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2026-09-07-elevenagents|ElevenAgents]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-07-2026-09-07-cf030a1d|elevenlabs-2026-09-07-2026-09-07-cf030a1d]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-04 · Replit · [[Changes/Replit/2026-09-04-understand-app-usage-with-project-analytics|Understand app usage with Project Analytics]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-34-agent-mode-changes-in-v2026-9-2|34 Agent Mode changes in v2026.9.2]]
 - Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved /workflows agent detail]]
 <!-- chronolog:end -->
 

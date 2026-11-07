@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: e1c74c15c3cd1bf11582d66ae063078e44dcc87f7d0e93c7e1549ef959d7680f
+machine_hash: 191a2ba6e42e016f45fcf2b79c26c40bacfee2ac1563baae9d65ef0122ec0f2f
 product: aider
 product_name: Aider
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2024-02-01 · Dify · [[Changes/Dify/2024-02-01-3-pricing-model-changes-in-0-5-3|3 Pricing Model changes in 0.5.3]]
-- Later: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-add-segment-function-billing-check-for-saas-env-by-johnjyong-in-https-github-com|add segment function billing check for SAAS env]]
+- Later: 2024-02-26 · Runway · [[Changes/Runway/2024-02-26-you-can-now-see-a-detailed-breakdown-of-credit-spend-across-all-generation-tools|Credit spend history table in user settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

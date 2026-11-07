@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3d5f70b7bc3e4a33ab9f8951d1c6e30e695183be893d5af400042bff31dd860
+machine_hash: fc876f844ef8807493a4d9335e1f9ae7b8ee168cf85521cdc453e56224a12ee8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 5 Model Support changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-16-improvements-to-gpt-5-2-codex-harness|Improvements
-  to GPT-5.2-Codex harness]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-model-switching-from-codex-to-opus-preserves-conversation-history-correctly|Model
   switching from Codex to Opus preserves conversation history correctly]]'
+- '[[Changes/OpenCode/2026-01-19-4-model-support-changes-in-v1-1-26|4 Model Support
+  changes in v1.1.26]]'
 - '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling
   out age prediction]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'

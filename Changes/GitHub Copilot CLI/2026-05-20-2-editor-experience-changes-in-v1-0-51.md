@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0851d645af138f6c9d0b87a8377e9147d47c84230f54452d73d7fbad14ce772d
+machine_hash: 0cf513cc4c4afe68538b96becd5dbc86e43ca715eb179ffe1575276ad2e9eff3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,9 @@ record:
   title: 2 Editor Experience changes in v1.0.51
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-19-feat-messagelogmodal-refactor-modal-structure-and-improve-tab-handling-by-coding|feat(MessageLogModal):
-  refactor modal structure and improve tab handling]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-19-file-diffs-are-correctly-reported-to-acp-clients-for-all-edit-tool-types|File
-  diffs are correctly reported to ACP clients for all edit tool types]]'
+- '[[Changes/Google Antigravity/2026-05-19-first-release|First Release]]'
+- '[[Changes/Google Antigravity/2026-05-19-first-release-of-the-antigravity-ide|First
+  release of the Antigravity IDE]]'
 - '[[Changes/Codex CLI/2026-05-20-3-editor-experience-changes-in-rust-v0-132-0|3 Editor
   Experience changes in rust-v0.132.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1|github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1]]'
@@ -93,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.51
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-3-editor-experience-changes-in-rust-v0-132-0|3 Editor Experience changes in rust-v0.132.0]]
-- Later: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff detail view can now be scrolled with the keyboard…]]
+- Later: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-core-collapsed-single-child-directories-in-the-diff-viewer-file-tree|Core Collapsed single-child directories in the diff viewer file tree]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

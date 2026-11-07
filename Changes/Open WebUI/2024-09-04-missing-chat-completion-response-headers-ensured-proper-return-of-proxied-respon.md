@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7470b95988c7f726168d4de78862cd5e6a7460db8aa68c2180901e71d692d17f
+machine_hash: 6fc0ab32d7a45fb51745147447278affc806d6976e4524710ce472fb762fb093
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,8 @@ record:
   title: "**\U0001F504 Missing Chat Completion Response Headers**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-08-14-deprecated-frontend-functions-removed-frontend-functions-that-were-migrated-to-b|\U0001F5D1️
-  Deprecated Frontend Functions]]"
+- '[[Changes/Midjourney/2024-08-16-we-re-releasing-a-new-web-editor-today|We''re releasing
+  a new web editor today!]]'
 - '[[Changes/Dify/2024-08-19-3-editor-experience-changes-in-0-7-1|3 Editor Experience
   changes in 0.7.1]]'
 - '[[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You

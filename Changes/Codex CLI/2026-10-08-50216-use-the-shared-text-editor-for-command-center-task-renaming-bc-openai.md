@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0d0ec89f6c6aec6864fb2d93a48115ac4522d4b19796ec61a38007b62b243d7d
+machine_hash: 7b6c6c001355fca6654d38c0a7bce99ef87ac0a39fff0008f9105d11390eb023
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#50216 Use the shared text editor for command-center task renaming @bc-openai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-07-improved-the-bash-edit-diff-note-to-say-the-listed-files-changed-while-the-comma|Improved
-  the Bash edit diff note to say the listed files changed while the command…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-read-user-settings-only-from-copilot-settings-json-user-setting-keys-in-copilot|Read
   user settings only from ~/.copilot/settings.json]]'
+- '[[Changes/Google Antigravity/2026-10-07-file-edits-terminal-commands-and-file-reads-between-agent-replies-now-group-into|File
+  edits, terminal commands, and file reads between agent replies now group…]]'
 - '[[Changes/Claude Code/2026-10-08-changed-tab-stops-to-count-from-where-a-text-starts-instead-of-from-the-screen-s|Changed
   tab stops to count from where a text starts instead of from the screen''s left edge]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db|codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-tab-stops-to-count-from-where-a-text-starts-instead-of-from-the-screen-s|Changed tab stops to count from where a text starts instead of from the screen's left edge]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor Experience changes in v2.1.296]]
+- Later: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-thinking-mode|THINKING MODE]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

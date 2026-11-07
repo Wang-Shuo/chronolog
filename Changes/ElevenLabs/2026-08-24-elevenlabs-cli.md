@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3d07430db3ae84b5fbfd6c2165e6f9e114b686fa9cde00926a37463f5e81460d
+machine_hash: bde7b40cd17f20fb053300a2cecfe2c95b9007c55dc6f357e0d099cf2369ea35
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,10 +50,9 @@ record:
   title: ElevenLabs CLI
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude
-  in Chrome]]'
 - '[[Changes/Cline/2026-08-21-show-the-diff-edit-view-for-multi-line-edits-in-files-with-crlf-line-endings|Show
   the diff edit view for multi-line edits in files with CRLF line endings]]'
+- '[[Changes/Midjourney/2026-08-21-editor|Editor]]'
 - '[[Changes/Cline/2026-08-23-restore-task-completion-telemetry-for-interactive-sessions-a-share-of-interactiv|Restore
   task completion telemetry for interactive sessions]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-08-24-2026-08-24-b7c01132|elevenlabs-2026-08-24-2026-08-24-b7c01132]]'

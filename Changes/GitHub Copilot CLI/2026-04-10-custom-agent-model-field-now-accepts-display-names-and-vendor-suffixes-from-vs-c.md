@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 50d0810992f796b34a34e72be934a09773e1dde5292abd8242878805d58f648b
+machine_hash: 3dc6fadde294654dca4c913e8aa8c76c49344f3035e279f72b4d7152786e648b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -60,9 +60,10 @@ record:
     VS Code…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-04-08-adaptive-fix|Adaptive Fix]]'
 - '[[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|GPT-5.3
   Instant mini in ChatGPT]]'
+- '[[Changes/OpenCode/2026-04-09-core-hide-unsupported-variants-for-big-pickle-models|Core
+  Hide unsupported variants for Big Pickle models]]'
 - '[[Changes/Codex CLI/2026-04-10-5-model-support-changes-in-rust-v0-119-0|5 Model
   Support changes in rust-v0.119.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-10-v1-0-24-github-307762816-30170266|github-copilot-cli-2026-04-10-v1-0-24-github-307762816-30170266]]'

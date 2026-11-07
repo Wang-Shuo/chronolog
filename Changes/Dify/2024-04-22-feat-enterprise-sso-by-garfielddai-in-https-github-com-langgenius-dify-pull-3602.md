@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c3990d0ec994777350b7baccafe7c88a8aa3fdf5b26067e5930098c37c119f8
+machine_hash: 48bc9c4d00dbe302028ec40e3f09ea17725138cf2b1e5d28eaf878ce06f796d3
 product: dify
 product_name: Dify
 record:
@@ -40,12 +40,12 @@ record:
   title: Feat/enterprise sso
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google
-  Workspace accounts]]'
-- '[[Changes/Gemini/2024-02-21-enterprise-grade-data-protections-for-workspace-customers-is-now-available-in-ge|Enterprise-grade
-  data protections for Workspace customers is now available in Gemini]]'
-- '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-  improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+- '[[Changes/Runway/2024-03-20-enterprise-admins-can-now-create-an-invite-link-that-allows-anyone-on-their-team|Invite
+  via link]]'
+- '[[Changes/Runway/2024-03-22-we-released-a-metrics-dashboard-providing-enterprise-admins-metrics-to-help-eval|Workspace
+  analytics]]'
+- '[[Changes/Runway/2024-04-05-admins-can-now-configure-sso-for-new-users-to-request-access-instead-of-auto-add|Request
+  SSO access instead of auto-adding users]]'
 source_release: '[[Releases/Dify/dify-2024-04-22-0-6-4-github-152123987-3926aab5|dify-2024-04-22-0-6-4-github-152123987-3926aab5]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earlier: 2024-04-05 · Runway · [[Changes/Runway/2024-04-05-admins-can-now-configure-sso-for-new-users-to-request-access-instead-of-auto-add|Request SSO access instead of auto-adding users]]
 - Later: 2024-04-28 · Open WebUI · [[Changes/Open WebUI/2024-04-28-improved-admin-panel-admins-can-now-conveniently-check-users-chat-lists-and-last|👨💼 Improved Admin Panel]]
 <!-- chronolog:end -->
 

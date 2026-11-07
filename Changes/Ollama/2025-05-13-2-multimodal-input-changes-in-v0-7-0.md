@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 79a439c59828bc15d31f701b0bf83df40138ed05bd81fe329cc4fd2a38999b10
+machine_hash: 97ff4f176b1171c0e96ca780a111d62d10b94f311b8df19a447e47097d18879d
 product: ollama
 product_name: Ollama
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Multimodal Input changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-16-feat-add-grok-2-1212-and-grok-2-vision-1212-by-hjlarry-in-https-github-com-langg|feat:
-  add grok-2-1212 and grok-2-vision-1212]]'
+- '[[Changes/Midjourney/2025-02-20-we-ve-added-a-new-folder-and-organization-system-to-the-website-check-out-the-vi|Midjourney
+  adds a new folder and organization system to the website]]'
 - '[[Changes/Replit/2025-03-28-deeplearningai-course-launch|DeepLearningAI course
   launch]]'
 - '[[Changes/Ollama/2025-04-26-add-support-for-meta-s-llama-4-https-ollama-com-library-llama4-multimodal-models|Add

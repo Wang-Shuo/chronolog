@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32e4aa387a6ff7d79e9b9fb33013eaaa8333b7e6b83ffb51a7c20ac8ce9d5ce8
+machine_hash: 9a15677597502f62ce6d54fcc844473097c98b9600b4dce4cba16e82b4713a9a
 product: aider
 product_name: Aider
 record:
@@ -45,13 +45,12 @@ record:
     lint…'
   type: change
 related_changes:
-- '[[Changes/Cline/2024-07-31-new-or-edited-files-open-up-in-the-editor-to-more-easily-see-the-changes-claude|New
-  or edited files open up in the editor to more easily see the changes Claude Dev
-  makes]]'
 - '[[Changes/Cline/2024-08-01-shows-diff-view-of-new-or-edited-files-right-in-the-editor|Shows
   diff view of new or edited files right in the editor]]'
 - '[[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor
   Tab (previously called Copilot++) defaults to chunked streaming]]'
+- '[[Changes/Gamma/2024-08-02-we-just-launched-a-new-step-by-step-theme-builder-it-s-easier-and-more-fun-to-us|We
+  just launched a new step-by-step theme builder!]]'
 source_release: '[[Releases/Aider/aider-2024-08-10-v0-49-0-github-169642017-dab576d9|aider-2024-08-10-v0-49-0-github-169642017-dab576d9]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-08-02 · Cursor · [[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor Tab (previously called Copilot++) defaults to chunked streaming]]
+- Earlier: 2024-08-02 · Gamma · [[Changes/Gamma/2024-08-02-we-just-launched-a-new-step-by-step-theme-builder-it-s-easier-and-more-fun-to-us|We just launched a new step-by-step theme builder!]]
 - Later: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-new-code-message-command-request-a-code-edit-while-in-ask-mode|New /code message command request a code edit while in ask mode]]
 <!-- chronolog:end -->
 

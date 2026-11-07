@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a48efb555e4f8bfb0178ae7ea08d249b93facf005e7874ae7ba63889cf21ab7e
+machine_hash: 8e9cd302b2f66d57eeea3db22b94ec7fef364b508f11fcd2d8f74df4cfb7b7b5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Account and Access changes in v0.31.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-23-3-account-and-access-changes-in-v0-8-4|3 Account
-  and Access changes in v0.8.4]]'
 - '[[Changes/Codex CLI/2026-02-25-3-account-and-access-changes-in-rust-v0-105-0|3
   Account and Access changes in rust-v0.105.0]]'
+- '[[Changes/OpenCode/2026-02-25-terminal-consume-stdout-concurrently-with-process-exit-in-auth-login|Terminal
+  Consume stdout concurrently with process exit in auth login]]'
 - '[[Changes/Codex CLI/2026-02-26-2-account-and-access-changes-in-rust-v0-106-0|2
   Account and Access changes in rust-v0.106.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-27-v0-31-0-github-291545882-debd3ec1|gemini-cli-2026-02-27-v0-31-0-github-291545882-debd3ec1]]'

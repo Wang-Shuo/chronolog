@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f5b77c87b2d938fae7e73cbcfd36d0603c5e3ff45e583bf0fd639bf8b91c078
+machine_hash: caa8d72f4c39d5c168628a9d06b1b15fea87c4eb37ab334674a7688d93582dbb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.167.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-11-03-image-drops-from-photo-apps-images-dropped-into-chats-and-channels-are-now-recog|\U0001F5BC️
-  Image drops from photo apps. Images dropped into chats and channels are now…]]"
 - '[[Changes/OpenHands/2026-11-03-2-mobile-and-desktop-changes-in-v1-35-0|2 Mobile
   and Desktop changes in v1.35.0]]'
+- '[[Changes/OpenClaw/2026-11-05-keeps-accepted-talk-work-running-when-you-end-talk-on-an-android-phone-connected|Keeps
+  accepted Talk work running when you end Talk on an Android phone connected…]]'
 - '[[Changes/OpenHands/2026-11-05-2-mobile-and-desktop-changes-in-v1-36-0|2 Mobile
   and Desktop changes in v1.36.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 43766136254f4e7e1930807b59af6c6fc293f5295ab8ea9655f6d58f3d3c3f2e
+machine_hash: 1c2254dee17f42af2e69ebd72222b9240d0a7f36a2bf151b0e1fd0ebb1f059b6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-03-26 · Cline · [[Changes/Cline/2025-03-26-4-model-support-changes-in-v3-8-3|4 Model Support changes in v3.8.3]]
-- Later: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-3-model-support-changes-in-v0-80-0|3 Model Support changes in v0.80.0]]
+- Later: 2025-03-30 · Midjourney · [[Changes/Midjourney/2025-03-30-please-note|Please Note]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

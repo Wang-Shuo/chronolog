@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46cd60418765cc54b197d64782020dbb309ecc5efb4893a196c965d97403cb1b
+machine_hash: 2f5dac719e551d2c8407d58d17ce6860a322b5f1a26a30b2d50841843c4344fe
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,12 +43,12 @@ record:
   title: "**\U0001F9E0 Enhanced Error Messaging**"
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude''s
-  changes now appear in your file''s Timeline, allowing you to easily view…]]'
 - '[[Changes/Dify/2024-09-12-editor-can-also-create-api-key-by-cuckootan-in-https-github-com-langgenius-dify|editor
   can also create api key]]'
 - '[[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE
   (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]'
+- '[[Changes/Gamma/2024-09-17-we-ve-introduced-a-powerful-new-ai-feature-for-pro-subscribers-that-lets-you-edi|We''ve
+  introduced a powerful new AI feature for Pro subscribers that lets you edit…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-19-v0-3-22-github-175998009-91af8aae|open-webui-2024-09-19-v0-3-22-github-175998009-91af8aae]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]
+- Earlier: 2024-09-17 · Gamma · [[Changes/Gamma/2024-09-17-we-ve-introduced-a-powerful-new-ai-feature-for-pro-subscribers-that-lets-you-edi|We've introduced a powerful new AI feature for Pro subscribers that lets you edit…]]
 - Later: 2024-09-26 · Open WebUI · [[Changes/Open WebUI/2024-09-26-chat-rename-tab-update-fixed-the-functionality-to-change-the-web-browser-s-tab-t|🏷️ Chat Rename Tab Update]]
 <!-- chronolog:end -->
 

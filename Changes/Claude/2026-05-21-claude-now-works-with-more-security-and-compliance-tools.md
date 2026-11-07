@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 25fad3b219cd4f9b7153cc2d93f57b9caf96a6bba5d3b52ea6c017ce67411eae
+machine_hash: 20587c4cb4b9d383df469ccf4bdb766750c6968d48d2cdec352f9d53055b84ab
 product: claude
 product_name: Claude
 record:
@@ -48,12 +48,12 @@ record:
   title: Claude now works with more security and compliance tools
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-memory-permission-prompts-now-name-who-can-see-a-stored-memory-user-scope-or-the|Memory
-  permission prompts now name who can see a stored memory]]'
 - '[[Changes/Codex CLI/2026-05-20-5-safety-and-privacy-changes-in-rust-v0-132-0|5
   Safety and Privacy changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-add-security-review-slash-command-to-review-code-changes-for-security-vulnerabil|Add
   /security-review slash command to review code changes for security…]]'
+- '[[Changes/OpenCode/2026-05-20-core-invalid-opencode-permission-json-no-longer-crashes-startup|Core
+  Invalid OPENCODE_PERMISSION JSON no longer crashes startup]]'
 source_release: '[[Releases/Claude/claude-2026-05-21-2026-05-21-42edfd96|claude-2026-05-21-2026-05-21-42edfd96]]'
 source_type: claude_changelog
 theme: safety-privacy
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-add-security-review-slash-command-to-review-code-changes-for-security-vulnerabil|Add /security-review slash command to review code changes for security…]]
+- Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-core-invalid-opencode-permission-json-no-longer-crashes-startup|Core Invalid OPENCODE_PERMISSION JSON no longer crashes startup]]
 - Later: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-17-safety-and-privacy-changes-in-rust-v0-133-0|17 Safety and Privacy changes in rust-v0.133.0]]
 <!-- chronolog:end -->
 

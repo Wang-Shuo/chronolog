@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5ca2a79dd326234024e111adb7528ddc1a0f343944e69cd790fa376cd5c0513
+machine_hash: ac98e4861e731f9fad5b80b58de2925c7ccc739a1458aea11c22d86bdd744306
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 6 Agent Mode changes in rust-v0.160.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-6-agent-mode-changes-in-v2-1-286|6 Agent Mode
-  changes in v2.1.286]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-30-auto-approval-now-takes-into-account-messages-you-type-while-the-agent-is-workin|Auto-approval
-  now takes into account messages you type while the agent is working…]]'
+- '[[Changes/Google Antigravity/2026-09-30-you-can-now-send-a-message-directly-to-a-subagent-from-the-message-box-without-g|Send
+  a message directly to a subagent from the message box, without going through…]]'
+- '[[Changes/OpenClaw/2026-09-30-33-agent-mode-changes-in-v2026-9-7|33 Agent Mode
+  changes in v2026.9.7]]'
 - '[[Changes/Claude Code/2026-10-01-4-agent-mode-changes-in-v2-1-287|4 Agent Mode
   changes in v2.1.287]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'

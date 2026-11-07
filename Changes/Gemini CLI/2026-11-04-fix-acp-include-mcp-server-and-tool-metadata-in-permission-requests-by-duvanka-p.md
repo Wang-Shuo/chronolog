@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df5ca7c9f888a84ccf3df4de13a0f12f28b75f9ef65832fd77412ce03b9b9143
+machine_hash: 1fe41dbf0943b88cd2d6e7b44f929126814ac0e7eac97af6e052a761e43c69c7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 'fix(acp): include MCP server and tool metadata in permission requests'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-11-03-protect-a-project-from-abandonment-cleanup|Protect
-  a project from abandonment cleanup]]'
 - '[[Changes/Open WebUI/2026-11-03-2-safety-and-privacy-changes-in-v0-13-0|2 Safety
   and Privacy changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-7-safety-and-privacy-changes-in-v2026-10-10|7 Safety
+  and Privacy changes in v2026.10.10]]'
 - '[[Changes/Dify/2026-11-04-4-safety-and-privacy-changes-in-1-19-0|4 Safety and Privacy
   changes in 1.19.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-11-04-v0-67-0-github-434415349-61471746|gemini-cli-2026-11-04-v0-67-0-github-434415349-61471746]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-4-safety-and-privacy-changes-in-1-19-0|4 Safety and Privacy changes in 1.19.0]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-57985-skip-read-only-volume-root-expansion-in-the-mxc-sandbox-iceweasel-oai|♯57985 Skip read-only volume-root expansion in the MXC sandbox @iceweasel-oai]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-2-safety-and-privacy-changes-in-v2026-11-1|2 Safety and Privacy changes in v2026.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bd4452eed7461e0933b865a92188d70946d57d9cf2be6f87d842923d0c669f7f
+machine_hash: 63a3a2267915144d796917828bd5d9f13095c36a435c21cf9da9ec22d579e554
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-09-12 · Replit · [[Changes/Replit/2025-09-12-agent-3-launch|Agent 3 Launch]]
-- Later: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-feat-core-only-summarize-long-tool-output-for-shell-command-by-sandytao520-in-ht|feat(core): Only summarize long tool output for shell command]]
+- Later: 2025-09-16 · Gamma · [[Changes/Gamma/2025-09-16-gamma-agent-your-ai-design-partner-that-does-it-all|Gamma Agent: Your AI design partner that does it all]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

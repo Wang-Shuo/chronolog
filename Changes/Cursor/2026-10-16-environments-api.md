@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c1f681a0fe64e0cbaff66f0d41e3b72b335956154b676391785127128c036093
+machine_hash: 4d07d128ef3c83fd61512c484b78e692d5b90aa11d5df05209398027da89487d
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: Environments API
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-14-agent-mode-changes-in-rust-v0-163-0|14 Agent
-  Mode changes in rust-v0.163.0]]'
+- '[[Changes/Google Antigravity/2026-10-15-you-can-now-type-compact-to-summarize-a-long-conversation-so-far-and-free-up-roo|Type
+  /compact to summarize a long conversation so far and free up room for the agent…]]'
 - '[[Changes/ChatGPT/2026-10-16-multiple-agents-that-can-work-on-different-parts-of-a-task-in-parallel-you-can-f|Multiple
   agents that can work on different parts of a task in parallel]]'
 - '[[Changes/Claude Code/2026-10-16-6-agent-mode-changes-in-v2-1-302|6 Agent Mode
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-6-agent-mode-changes-in-v2-1-302|6 Agent Mode changes in v2.1.302]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode changes in v2.1.304]]
+- Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-2-agent-mode-changes-in-v2026-10-4|2 Agent Mode changes in v2026.10.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

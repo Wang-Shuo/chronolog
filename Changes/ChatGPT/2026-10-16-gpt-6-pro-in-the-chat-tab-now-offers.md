@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2134e6b3a6bbfb41160f1e02cd08a4723d5288d2cf2b4307072fb8a9ec193683
+machine_hash: 9dd70318b485fcbe44242a0de9437a91b7d075f7504b94668e7ad135545f8df4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: GPT-6 Pro in the chat tab now offers
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-14-4-model-support-changes-in-v0-12-2|4 Model Support
-  changes in v0.12.2]]'
-- '[[Changes/Codex CLI/2026-10-15-6-model-support-changes-in-rust-v0-163-0|6 Model
-  Support changes in rust-v0.163.0]]'
+- '[[Changes/Google Antigravity/2026-10-15-if-you-use-antigravity-with-your-own-google-cloud-project-through-vertex-ai-the|If
+  you use Antigravity with your own Google Cloud project through Vertex AI…]]'
 - '[[Changes/Lovable/2026-10-15-gpt-6-1-sol-for-your-app-s-ai-features|GPT-6.1 Sol
   for your app''s AI features]]'
+- '[[Changes/Suno/2026-10-15-shareable-custom-models-to-share-with-your-collaborators-and-riff-on-new-ideas-n|Shareable
+  custom models To share with your collaborators and riff on new ideas]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a|chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-15 · Lovable · [[Changes/Lovable/2026-10-15-gpt-6-1-sol-for-your-app-s-ai-features|GPT-6.1 Sol for your app's AI features]]
+- Earlier: 2026-10-15 · Suno · [[Changes/Suno/2026-10-15-shareable-custom-models-to-share-with-your-collaborators-and-riff-on-new-ideas-n|Shareable custom models To share with your collaborators and riff on new ideas]]
 - Later: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-improved-the-message-when-a-background-session-reopened-from-another-folder-has|Improved the message when a background session reopened from another folder has no…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c83c212a0fcff95ca8617b6b3204688e3b9f9348c817d3ba4e1a180ba202635
+machine_hash: 42781238d599da4908f869892d66cfa4660baad851458226a8ec22e124711ae1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Safety and Privacy changes in v0.0.403
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-6-safety-and-privacy-changes-in-rust-v0-95-0|6 Safety
-  and Privacy changes in rust-v0.95.0]]'
 - '[[Changes/Gemini CLI/2026-02-04-security-hooks-wrap-hook-injected-context-in-distinct-xml-tags-by-yunaseoul-in-h|security(hooks):
   Wrap hook-injected context in distinct XML tags]]'
+- '[[Changes/OpenCode/2026-02-04-core-improve-skills-system-with-better-prompting-fix-permission-requests-after-s|Core
+  Improve skills system with better prompting, fix permission requests after…]]'
 - '[[Changes/Codex CLI/2026-02-05-2-safety-and-privacy-changes-in-rust-v0-97-0|2 Safety
   and Privacy changes in rust-v0.97.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-05-v0-0-403-github-283262197-e3e99740|github-copilot-cli-2026-02-05-v0-0-403-github-283262197-e3e99740]]'

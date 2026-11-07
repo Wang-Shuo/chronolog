@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b57763a463b8fc43aa662cfafe14966750d0bcd1370aa938801b53c9625766c
+machine_hash: 47a9c1460abbaed7019c652e7c7e6e756b06cd70aa13876f721b8030cf474e8a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.115.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-08-12702-improve-macos-seatbelt-network-and-unix-socket-handling-viyatb-oai|♯12702
-  Improve macOS Seatbelt network and unix socket handling @viyatb-oai]]'
-- '[[Changes/Codex CLI/2026-03-11-14003-stabilize-split-pty-output-on-windows-aibrahim-oai|♯14003
-  Stabilize split PTY output on Windows @aibrahim-oai]]'
+- '[[Changes/OpenCode/2026-03-12-10-mobile-and-desktop-changes-in-v1-2-25|10 Mobile
+  and Desktop changes in v1.2.25]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-2-mobile-and-desktop-changes-in-v1-0-5|2
   Mobile and Desktop changes in v1.0.5]]'
+- '[[Changes/OpenCode/2026-03-13-9-mobile-and-desktop-changes-in-v1-2-26|9 Mobile
+  and Desktop changes in v1.2.26]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db|codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.115.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-2-mobile-and-desktop-changes-in-v1-0-5|2 Mobile and Desktop changes in v1.0.5]]
+- Earlier: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-9-mobile-and-desktop-changes-in-v1-2-26|9 Mobile and Desktop changes in v1.2.26]]
 - Later: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-ios-sdk|iOS SDK]]
 <!-- chronolog:end -->
 

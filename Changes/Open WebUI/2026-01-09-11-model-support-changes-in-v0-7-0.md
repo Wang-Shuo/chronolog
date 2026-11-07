@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5803841b3df05890e8b3aebee630f628f3062fb11dd2b61e3c07a7134537ef72
+machine_hash: 3e84c385d11d912ac52ed8b56a6885dfdf14f729ccfc9116b0f329231688033f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -91,12 +91,12 @@ record:
   title: 11 Model Support changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged
-  slash commands and skills, simplifying the mental model with no change in behavior]]'
 - '[[Changes/Cline/2026-01-09-2-model-support-changes-in-v3-48-0|2 Model Support changes
   in v3.48.0]]'
 - '[[Changes/Codex CLI/2026-01-09-4-model-support-changes-in-rust-v0-80-0|4 Model
   Support changes in rust-v0.80.0]]'
+- '[[Changes/Midjourney/2026-01-09-niji-v7-is-now-live-for-those-who-don-t-know-this-is-our-version-of-our-image-mo|Niji
+  V7 is now live!]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c|open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c]]'
 source_type: github_releases
 theme: model-support
@@ -162,8 +162,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-4-model-support-changes-in-rust-v0-80-0|4 Model Support changes in rust-v0.80.0]]
-- Later: 2026-01-10 · Cline · [[Changes/Cline/2026-01-10-removing-minimax-2-1-from-free-model-list-as-the-free-trial-has-ended|Removing Minimax-2.1 from free model list as the free trial has ended]]
+- Earlier: 2026-01-09 · Midjourney · [[Changes/Midjourney/2026-01-09-niji-v7-is-now-live-for-those-who-don-t-know-this-is-our-version-of-our-image-mo|Niji V7 is now live!]]
+- Later: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-core-fix-model-dialog-search-issues-in-favorites-recents-list-and-prevent-deprec|Core Fix model dialog search issues in favorites/recents list and prevent deprecated…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

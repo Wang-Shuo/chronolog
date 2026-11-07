@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4dd0da49eba58d77283e64394fce6844cf1fd87728b546a8e9e228fc3b05a0bc
+machine_hash: a1bd8ded1d6524215434bd10e5b90820ad2e336d42cc2ad66b234d8f4707b254
 product: lovable
 product_name: Lovable
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-04-20 · Windsurf · [[Changes/Windsurf/2025-04-20-existing-plans|Existing Plans]]
-- Later: 2025-05-05 · ElevenLabs · [[Changes/ElevenLabs/2025-05-05-billing|Billing]]
+- Later: 2025-05-02 · Midjourney · [[Changes/Midjourney/2025-05-02-please-note-oref-jobs-are-still-2x-the-cost-of-a-normal-fast-mode-job-and-draft|Please Note: --oref jobs are still 2x the cost of a normal --fast mode job and draft…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

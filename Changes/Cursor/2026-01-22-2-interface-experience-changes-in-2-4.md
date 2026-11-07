@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25ab59fc746e5bf0cfa9d3e3b1e90f09e723fc4bda627c0ede7e45210924d0a4
+machine_hash: e2c0903d327725be3c204e0d4127ee61c987aa80570254551a219f25c0e35aa3
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Interface Experience changes in 2.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3
-  Interface Experience changes in rust-v0.88.0]]'
-- '[[Changes/Gemini CLI/2026-01-21-3-interface-experience-changes-in-v0-25-0|3 Interface
-  Experience changes in v0.25.0]]'
+- '[[Changes/OpenCode/2026-01-21-2-interface-experience-changes-in-v1-1-29|2 Interface
+  Experience changes in v1.1.29]]'
+- '[[Changes/OpenCode/2026-01-21-desktop-fixed-navigation-issues-when-working-with-large-sessions-in-desktop-app|Desktop
+  Fixed navigation issues when working with large sessions in desktop app]]'
 - '[[Changes/Codex CLI/2026-01-22-improved-slash-command-selection-by-prioritizing-exact-and-prefix-matches-over-f|Improved
   slash-command selection by prioritizing exact and prefix matches over fuzzy…]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
@@ -102,7 +102,7 @@ Source: https://cursor.com/changelog/2-4
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-improved-slash-command-selection-by-prioritizing-exact-and-prefix-matches-over-f|Improved slash-command selection by prioritizing exact and prefix matches over fuzzy…]]
-- Later: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-9512-fix-resume-picker-when-user-event-appears-after-head-jdsalasca|♯9512 Fix resume picker when user event appears after head @jdsalasca]]
+- Later: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-2-interface-experience-changes-in-v1-1-32|2 Interface Experience changes in v1.1.32]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

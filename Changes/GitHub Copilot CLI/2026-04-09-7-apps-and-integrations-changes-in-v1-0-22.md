@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca5bc963a81398b7893be30908c1193e41e1cd8ea1cca247bceb8a4acf9149e1
+machine_hash: 756b62c9a076ca2326bfedb83c4d8522f8315554b3c57fcf2e74503e60d9e15e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.22
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-2-apps-and-integrations-changes-in-v2-1-98|2 Apps and Integrations changes in v2.1.98]]
-- Later: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-4-apps-and-integrations-changes-in-v2-1-101|4 Apps and Integrations changes in v2.1.101]]
+- Later: 2026-04-09 · OpenCode · [[Changes/OpenCode/2026-04-09-sdk-fix-the-generated-sdk-and-openapi-types-for-providers-and-session-shell-resp|SDK Fix the generated SDK and OpenAPI types for /providers and session shell responses]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14b1b4b5b457fbb4fdd02463615e799f0a97ec71ab4ab4233947942860566cf4
+machine_hash: 0e095eb0521de915277eacb9ca858ff403bf6456493926cb76978445906dcf8f
 product: ollama
 product_name: Ollama
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.35.0
 ## Nearby in Model Support
 
 - Earlier: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-5-model-support-changes-in-v1-0-89|5 Model Support changes in v1.0.89]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1 Sol in ChatGPT Work and Codex]]
+- Later: 2026-09-28 · OpenCode · [[Changes/OpenCode/2026-09-28-core-gemini-thinking-defaults-and-effort-options-now-match-the-supported-control|Core Gemini thinking defaults and effort options now match the supported controls…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

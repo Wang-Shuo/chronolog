@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 207afef8a9fe218d84a36adcce2bbf71ecff7297ab8efeae4a498f865c09a2fe
+machine_hash: 9af30ad8fbe21076713c3d2d0e3e0955507e1dba8e81751673074d12e7d15de8
 product: lovable
 product_name: Lovable
 record:
@@ -62,10 +62,10 @@ record:
   title: '**GitHub button in editor top…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support
-  j/k keys for up/down navigation in the /diff view]]'
 - '[[Changes/v0/2026-05-15-2-interface-experience-changes-in-claude-opus-4-7-fast-agent-browser|2
   Interface Experience changes in Claude Opus 4.7 Fast, agent browser…]]'
+- '[[Changes/OpenCode/2026-05-16-terminal-added-pinned-sessions-with-quick-switch-slots-in-the-session-picker|Terminal
+  Added pinned sessions with quick-switch slots in the session picker]]'
 - '[[Changes/Codex CLI/2026-05-18-5-interface-experience-changes-in-rust-v0-131-0|5
   Interface Experience changes in rust-v0.131.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-18-2026-05-18-640aaf83|lovable-2026-05-18-2026-05-18-640aaf83]]'

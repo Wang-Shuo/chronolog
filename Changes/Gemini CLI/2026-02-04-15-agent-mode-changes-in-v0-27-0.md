@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 760ca08704db7a41d2e421a2c3cb8871c20954c9480888f11222924a7b112d38
+machine_hash: f851997e17500d16cd551eaee5b6734711e926fe07eabc69d7dcbf797d56c5c4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -79,10 +79,10 @@ record:
   title: 15 Agent Mode changes in v0.27.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-03-support-agents-skills-directory-for-auto-loading-skills|Support
-  .agents/skills directory for auto-loading skills]]'
 - '[[Changes/Ollama/2026-02-03-ollama-launch-will-now-work-run-subagents-when-using-ollama-launch-claude|ollama
   launch will now work run subagents when using ollama launch claude]]'
+- '[[Changes/OpenCode/2026-02-03-4-agent-mode-changes-in-v1-1-49|4 Agent Mode changes
+  in v1.1.49]]'
 - '[[Changes/Codex CLI/2026-02-04-4-agent-mode-changes-in-rust-v0-95-0|4 Agent Mode
   changes in rust-v0.95.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835|gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835]]'
@@ -151,7 +151,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.27.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-4-agent-mode-changes-in-rust-v0-95-0|4 Agent Mode changes in rust-v0.95.0]]
-- Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-updated-resume-to-re-use-agent-value-specified-in-previous-conversation-by-defau|Updated --resume to re-use --agent value specified in previous conversation by default]]
+- Later: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-core-prioritize-opencode-config-dir-for-agents-md|Core Prioritize OPENCODE_CONFIG_DIR for AGENTS.md]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e5c48fd7a7f18c59eef134770b1c4da4391929ec5916793ce07717e06166fb07
+machine_hash: f88bb664461426b16be425d3c4a42c06f0118ac5ac8476006ffe686a9d7a8d47
 product: openhands
 product_name: OpenHands
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Automation and Scheduling changes in v1.27.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2
-  Automation and Scheduling changes in v1.26.0]]'
-- '[[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads|Create and manage TikTok
-  Ads]]'
 - '[[Changes/Open WebUI/2026-10-10-10-automation-and-scheduling-changes-in-v0-12-0|10
   Automation and Scheduling changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-10-automation-and-scheduling-changes-in-v2026-10-1|10
+  Automation and Scheduling changes in v2026.10.1]]'
+- '[[Changes/OpenClaw/2026-10-12-manually-started-jobs-an-accepted-automation-can-keep-using-its-allowed-tools-af|Manually
+  started jobs]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e|openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -93,7 +93,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.27.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-10-automation-and-scheduling-changes-in-v0-12-0|10 Automation and Scheduling changes in v0.12.0]]
+- Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-manually-started-jobs-an-accepted-automation-can-keep-using-its-allowed-tools-af|Manually started jobs]]
 - Later: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud|Supported PostgreSQL extensions on Lovable Cloud]]
 <!-- chronolog:end -->
 

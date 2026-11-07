@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0694395ddd95b1766fbee0f1311f26265e1c9e84d6428fd0bd51b59dd8733a3e
+machine_hash: 9d4e4aa6905fbc1e94a89a37eeeecce463d4f2bd4883ef79e5f08282c19c2ffd
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added /reload-skills command to re-scan skill directories without restarting the session]]
-- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-simplify-now-runs-a-cleanup-only-review-reuse-simplification-efficiency-altitude|/simplify now runs a cleanup-only review…]]
+- Later: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-3-developer-workflow-changes-in-v1-15-11|3 Developer Workflow changes in v1.15.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

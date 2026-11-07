@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e0869e3f79669cebc2e111953d7a4817e7298b72fc074a47b445f2ac400220e
+machine_hash: 6a300ee49ae470c5283db0a9e1739a8e8d1be5c0af796b879f815432facfb50a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,10 +58,9 @@ record:
     channels are now…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-57503-fix-macos-standalone-release-pruning-etraut-openai|♯57503
-  Fix macOS standalone release pruning @etraut-openai]]'
-- '[[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile
-  and Desktop changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-persistent-desktop-terminals|Persistent Desktop Terminals]]'
+- '[[Changes/OpenCode/2026-10-30-14-mobile-and-desktop-changes-in-v2-2-3|14 Mobile
+  and Desktop changes in v2.2.3]]'
 - '[[Changes/ElevenLabs/2026-11-02-android-sdk|Android SDK]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'
 source_type: github_releases
@@ -110,7 +109,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-android-sdk|Android SDK]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-2-mobile-and-desktop-changes-in-v1-35-0|2 Mobile and Desktop changes in v1.35.0]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-4-mobile-and-desktop-changes-in-v2026-10-10|4 Mobile and Desktop changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

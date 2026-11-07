@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 099816b2bd2e5a1277a2adfdc1628fe8be316d604e22e0616ccd0523316ce7f5
+machine_hash: c655cd03ee4115fb421ad078176e4d6d46f14bf511eadd3c7cf1287bb369e28f
 product: gemini
 product_name: Gemini
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
-- Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Later: 2024-02-26 · Runway · [[Changes/Runway/2024-02-26-editors-within-an-enterprise-workspace-can-now-create-new-teamspaces-for-collabo|Editors can create teamspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

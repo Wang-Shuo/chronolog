@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7f7c8962e94d6435a397ba518cbecf605190831c7a13989ec9334f01d3b15f5
+machine_hash: 2184807d726ab7e288e0e76efb77f7f223e00dfd210c96b9d328e03fd645cddb
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-4-developer-workflow-changes-in-1-17-1|4 Developer Workflow changes in 1.17.1]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer Workflow changes in v2.1.273]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-18-developer-workflow-changes-in-v2026-9-4|18 Developer Workflow changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

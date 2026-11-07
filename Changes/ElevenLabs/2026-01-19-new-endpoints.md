@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 80d59a016d22aafd6a597d8f58ccda8360beae4e830c66a06022c19133552ea1
+machine_hash: ffd6df67a31541b1fee97f429b1e32250d075cb6dad3507c4bd28dc18bc5895f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,8 +48,8 @@ record:
   title: New Endpoints
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-01-16-vitest-is-now-included-in-the-react-template-enabling-the-agent-to-write-and-run|Vitest
-  is now included in the React template, enabling the agent to write…]]'
+- '[[Changes/OpenCode/2026-01-16-3-agent-mode-changes-in-v1-1-24|3 Agent Mode changes
+  in v1.1.24]]'
 - '[[Changes/Replit/2026-01-16-redesigned-tool-calls-ui-in-agent-chat|Redesigned tool
   calls UI in Agent chat]]'
 - '[[Changes/ElevenLabs/2026-01-19-agents-platform|Agents Platform]]'

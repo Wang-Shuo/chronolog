@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fac6f489a37214beade561c5f5421c3ed31b4593c6bb445caa9ecefcbdd4a6ff
+machine_hash: 96583a5093b719b65e6bcc084cf2222477516df941f878d4f0910c5db20077c8
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,8 +63,8 @@ record:
   title: 7 Apps and Integrations changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19
-  Apps and Integrations changes in rust-v0.154.0]]'
+- '[[Changes/OpenCode/2026-09-09-2-apps-and-integrations-changes-in-v1-18-30|2 Apps
+  and Integrations changes in v1.18.30]]'
 - '[[Changes/OpenHands/2026-09-09-docs-remove-duplicate-openhands-extensions-bullet-in-development-md-by-imitater|docs:
   remove duplicate OpenHands/extensions bullet in DEVELOPMENT.md]]'
 - '[[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|Data

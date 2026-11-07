@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fc3f24bd490f1d6887676ef9382717d0aeab58db83549378368536b35e521ee
+machine_hash: e412ec4125a2198bc22f6f8a0c11b795ac1f9b486833487866ddbca18a882b96
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,10 +40,10 @@ record:
   title: Increase LSP request timeout from 30s to 90s to reduce timeout failures
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|Review code in split-screen
-  views]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-5-developer-workflow-changes-in-v0-0-412|5
   Developer Workflow changes in v0.0.412]]'
+- '[[Changes/OpenCode/2026-02-19-20-developer-workflow-changes-in-v1-2-7|20 Developer
+  Workflow changes in v1.2.7]]'
 - '[[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer
   Workflow changes in v2.1.50]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1|github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer Workflow changes in v2.1.50]]
-- Later: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-12-developer-workflow-changes-in-v0-8-4|12 Developer Workflow changes in v0.8.4]]
+- Later: 2026-02-20 · OpenCode · [[Changes/OpenCode/2026-02-20-terminal-use-structuredclone-instead-of-remeda-s-clone-for-better-performance-an|Terminal Use structuredClone instead of remeda's clone for better performance…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

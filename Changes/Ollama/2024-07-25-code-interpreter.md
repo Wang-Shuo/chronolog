@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 804ce715171d541fc2b235abbefdf713b464e9d00bdbb1a1f7f2e797be28179e
+machine_hash: b347ea8a9181b7f68bd4e651fe3456d44568fe74c85e62e14ed4bdc7cc6f181e
 product: ollama
 product_name: Ollama
 record:
@@ -41,12 +41,12 @@ record:
   title: Code interpreter
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-07-17-2-files-and-data-changes-in-v0-3-9|2 Files and
-  Data changes in v0.3.9]]'
 - '[[Changes/Open WebUI/2024-07-17-2-files-and-data-changes-in-v0-3-10|2 Files and
   Data changes in v0.3.10]]'
 - '[[Changes/Dify/2024-07-23-update-empty-document-caused-delete-exist-collection-by-johnjyong-in-https-githu|update
   empty document caused delete exist collection]]'
+- '[[Changes/Gamma/2024-07-23-import-pdf-to-convert-existing-documents|Import PDF
+  to convert existing documents]]'
 source_release: '[[Releases/Ollama/ollama-2024-07-25-v0-3-0-github-167034492-97511760|ollama-2024-07-25-v0-3-0-github-167034492-97511760]]'
 source_type: github_releases
 theme: file-data
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-update-empty-document-caused-delete-exist-collection-by-johnjyong-in-https-githu|update empty document caused delete exist collection]]
+- Earlier: 2024-07-23 · Gamma · [[Changes/Gamma/2024-07-23-import-pdf-to-convert-existing-documents|Import PDF to convert existing documents]]
 - Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-2-files-and-data-changes-in-v0-3-11|2 Files and Data changes in v0.3.11]]
 <!-- chronolog:end -->
 

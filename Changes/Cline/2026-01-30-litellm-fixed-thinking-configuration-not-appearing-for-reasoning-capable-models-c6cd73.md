@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 88b91cc2436717fea3897bdf709738ccfee16bfeef5aa59b29a7823083bd5cf0
+machine_hash: 678e2f75e3c2a2eb883589ca22b6f7e97fb85cfd5344bbd883545842ddbd0809
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
     models
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-4-model-support-changes-in-v0-26-0|4 Model Support
-  changes in v0.26.0]]'
-- '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|Retiring
-  GPT-4o and other legacy models]]'
+- '[[Changes/OpenCode/2026-01-29-ensure-variants-for-copilot-models-work-with-maxtokens-being-set|Ensure
+  variants for Copilot models work with maxTokens being set]]'
+- '[[Changes/OpenCode/2026-01-29-core-fix-frontmatter-adding-newlines-causing-invalid-model-ids|Core
+  Fix frontmatter adding newlines causing invalid model IDs]]'
 - '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models|LiteLLM:
   Fixed thinking configuration not appearing for reasoning-capable models]]'
 source_release: '[[Releases/Cline/cline-2026-01-30-v3-56-0-github-281356951-bdf900e3|cline-2026-01-30-v3-56-0-github-281356951-bdf900e3]]'

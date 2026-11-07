@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ff0f8bcb9552753db73640b1098a9392daed75a40fa9155bee35c9e1a55d016
+machine_hash: f65971eaffb89ad6f4617292b2cde9618c54923a195644465bf4078a78ae8b01
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-10 · Claude Code · [[Changes/Claude Code/2026-02-10-improved-terminal-rendering-performance|Improved terminal rendering performance]]
-- Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-8-interface-experience-changes-in-rust-v0-99-0|8 Interface Experience changes in rust-v0.99.0]]
+- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-desktop-don-t-close-sidebar-on-session-change|Desktop Don't close sidebar on session change]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

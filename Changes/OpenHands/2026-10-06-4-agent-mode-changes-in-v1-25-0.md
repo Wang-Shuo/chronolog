@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7cdb7e66a67ad2a71b4895b7f121756882ff1bbc1943d72ca3e00cda93498f49
+machine_hash: 298b61a297a61145ce1607556b678e56eee8ef3a0702a9055fd8fed607a01cc2
 product: openhands
 product_name: OpenHands
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Agent Mode changes in v1.25.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-3-agent-mode-changes-in-v2-1-292|3 Agent Mode
-  changes in v2.1.292]]'
 - '[[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|See
   and reply to the local agents running on your computer from the Cursor iOS app]]'
 - '[[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Agents
   keep running on your computer]]'
+- '[[Changes/OpenCode/2026-10-06-added-canonical-redirects-and-json-and-markdown-data-formats-for-agent-readable|Added
+  canonical redirects and JSON and Markdown data formats for agent-readable stats]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed|openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed]]'
 source_type: github_releases
 theme: agent-mode
@@ -100,7 +100,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.25.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Agents keep running on your computer]]
+- Earlier: 2026-10-06 · OpenCode · [[Changes/OpenCode/2026-10-06-added-canonical-redirects-and-json-and-markdown-data-formats-for-agent-readable|Added canonical redirects and JSON and Markdown data formats for agent-readable stats]]
 - Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-2-agent-mode-changes-in-v2-1-293|2 Agent Mode changes in v2.1.293]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4390e36fd7b9b1ff5475e23f5292dae22c62d1f2d243a69067528d360213dff0
+machine_hash: 6333bc33119bdd49ca9423b111255cdead698d877ffb5aed571dc5948d7e155f
 product: v0
 product_name: v0
 record:
@@ -44,8 +44,8 @@ record:
   title: Added docs for the project sandbox , terminal commands , and permission modes
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment
-  governance and security controls]]'
+- '[[Changes/OpenCode/2026-05-13-core-preserve-layered-permission-rule-order-in-config-merges|Core
+  Preserve layered permission rule order in config merges]]'
 - '[[Changes/Claude Code/2026-05-14-added-new-claude-agents-flags-add-dir-settings-mcp-config-plugin-dir-permission|Added
   new claude agents flags]]'
 - '[[Changes/Claude Code/2026-05-15-3-safety-and-privacy-changes-in-v2-1-143|3 Safety

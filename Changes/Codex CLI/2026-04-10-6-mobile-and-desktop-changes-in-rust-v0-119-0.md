@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 893cef119a22f7494c1c62edbba3d02568ade265d393d81f0be746dee01c9157
+machine_hash: 291ae7ad93bd1ab6aeb2c8495b457949ffd1d1f63710f9fb2a588077098f4c86
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: 6 Mobile and Desktop changes in rust-v0.119.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT
-  in Apple CarPlay]]'
 - '[[Changes/Claude/2026-04-09-claude-cowork-generally-available|Claude Cowork generally
   available]]'
 - '[[Changes/Ollama/2026-04-09-openclaw-channel-setup-connect-whatsapp-telegram-discord-and-other-messaging-cha|OpenClaw
   channel setup]]'
+- '[[Changes/OpenCode/2026-04-09-2-mobile-and-desktop-changes-in-v1-4-2-1|2 Mobile
+  and Desktop changes in v1.4.2 + 1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1|codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -111,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-09 · Ollama · [[Changes/Ollama/2026-04-09-openclaw-channel-setup-connect-whatsapp-telegram-discord-and-other-messaging-cha|OpenClaw channel setup]]
+- Earlier: 2026-04-09 · OpenCode · [[Changes/OpenCode/2026-04-09-2-mobile-and-desktop-changes-in-v1-4-2-1|2 Mobile and Desktop changes in v1.4.2 + 1]]
 - Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-on-macos-text-is-now-rendered-with-anti-aliasing-producing-sharper-character-edg|On macOS, text is now rendered with anti-aliasing, producing sharper character edges]]
 <!-- chronolog:end -->
 

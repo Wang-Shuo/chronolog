@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01f11d614d2653b952378e5b7c64754074aa1e372af9f91be4fac60441470a92
+machine_hash: 1f4919f8c3ff222aa65d9bba76efb5aa5a37b0d671314cce2057006788168d2d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,9 +44,10 @@ record:
   title: Improved voice mode on Linux
   type: change
 related_changes:
-- '[[Changes/Replit/2026-06-19-voice-mode|Voice Mode]]'
-- '[[Changes/Dify/2026-06-25-refactor-inject-session-into-audio-tts-by-myshkin451-in-https-github-com-langgen|refactor:
-  inject session into audio TTS]]'
+- '[[Changes/Google Antigravity/2026-06-25-added-support-for-rendering-and-playing-audio-files-mp3-wav-ogg-m4a-within-the-s|Added
+  support for rendering and playing audio files (.mp3, .wav, .ogg, .m4a) within…]]'
+- '[[Changes/Google Antigravity/2026-06-25-antigravity-guide-audio-support-search-improvements-and-performance-fixes|Antigravity
+  Guide, audio support, search improvements, and performance fixes]]'
 - '[[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|Improved
   dictation in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'

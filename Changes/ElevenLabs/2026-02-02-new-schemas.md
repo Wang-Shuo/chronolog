@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5370a01b4247e987950236cea2e2b97e1a736efff59481b3cbf00d1c43767287
+machine_hash: 9e9d55e4971fc1cbd70b5ea246f2aacba06357f8e2b5f381624e17d96743f176
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,8 +49,8 @@ record:
   title: New Schemas
   type: change
 related_changes:
-- '[[Changes/Replit/2026-01-23-audio-support-in-ai-integrations|Audio support in AI
-  integrations]]'
+- '[[Changes/OpenCode/2026-01-25-desktop-add-state-to-pause-existing-audio-for-demo-menus-and-add-support-for-aud|Desktop
+  Add state to pause existing audio for demo menus and add support for audio…]]'
 - '[[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|Improvements
   to search response quality in Voice]]'
 - '[[Changes/ElevenLabs/2026-01-26-music|Music]]'

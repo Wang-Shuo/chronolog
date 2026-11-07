@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16aa9cb519caaec6e33f73e241087a93b3f8d1e8b846a92f3e4f2e35790e90f6
+machine_hash: 9826353ccc87117d129672b9d1860f6ed14994242ab8a850b60831991c88d789
 product: dify
 product_name: Dify
 record:
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 20 tracked products.
+- Earliest same-theme entry among the 29 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

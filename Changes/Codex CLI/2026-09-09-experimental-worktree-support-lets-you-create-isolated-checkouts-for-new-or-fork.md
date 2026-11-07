@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c2412bdde3803ac87dc040a68431df1fce0a6b688bfbc976e75406888f112f84
+machine_hash: b7342fc64088693eef9808560c25765a08aba592f99150bf1d2def2f2a0d805d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,12 +58,12 @@ record:
     or forked…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search
-  and Browsing changes in v0.11.1]]'
-- '[[Changes/Lovable/2026-08-26-see-how-each-app-page-appears-in-search-results-and-link-previews|See
-  how each app page appears in search results and link previews]]'
-- '[[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed
-  /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]]'
+- '[[Changes/OpenClaw/2026-09-03-2-search-and-browsing-changes-in-v2026-9-1|2 Search
+  and Browsing changes in v2026.9.1]]'
+- '[[Changes/OpenClaw/2026-09-05-4-search-and-browsing-changes-in-v2026-9-2|4 Search
+  and Browsing changes in v2026.9.2]]'
+- '[[Changes/OpenClaw/2026-09-08-3-search-and-browsing-changes-in-v2026-9-3|3 Search
+  and Browsing changes in v2026.9.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
 source_type: github_releases
 theme: search-browsing
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-3-search-and-browsing-changes-in-v2026-9-3|3 Search and Browsing changes in v2026.9.3]]
 - Later: 2026-09-09 · Lovable · [[Changes/Lovable/2026-09-09-compare-and-restore-earlier-versions-of-a-plan|Compare and restore earlier versions of a plan]]
 <!-- chronolog:end -->
 

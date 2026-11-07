@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00f4a52f1c9deddf2c8a22bb75039797ac7336c5f6793305dea393bf2f1fce3e
+machine_hash: 1076d718a92780b5f569ff3e5616703740d6abc6b28226e7f2b132d56f085cc4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +45,12 @@ record:
   title: "**\U0001F512 Auth Disable Option**: Introducing the ability to disable authentication"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-03-29-authentication-is-only-applied-when-both-the-username-and-password-have-values-b|Authentication
-  is only applied when both the username and password have values]]'
-- '[[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start
-  using ChatGPT instantly]]'
 - "[[Changes/Open WebUI/2024-04-04-trusted-email-authentication-authenticate-using-a-trusted-email-header|\U0001F4E7
   Trusted Email Authentication: Authenticate using a trusted email header]]"
+- '[[Changes/Runway/2024-04-05-sso-users-can-seamlessly-transition-from-their-idp-s-login-page-to-runway-withou|Support
+  SSO login initiated from IdP]]'
+- '[[Changes/Suno/2024-04-12-1-sign-in-and-click-your-avatar-in-the-bottom-left-on-desktop-or-the-menu-icon-i|1️⃣
+  Sign in, and click your avatar in the bottom left on desktop or the menu icon…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-05-08-v0-1-124-github-154822655-636930cc|open-webui-2024-05-08-v0-1-124-github-154822655-636930cc]]'
 source_type: github_releases
 theme: account-access
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2024-04-04 · Open WebUI · [[Changes/Open WebUI/2024-04-04-trusted-email-authentication-authenticate-using-a-trusted-email-header|📧 Trusted Email Authentication: Authenticate using a trusted email header]]
+- Earlier: 2024-04-12 · Suno · [[Changes/Suno/2024-04-12-1-sign-in-and-click-your-avatar-in-the-bottom-left-on-desktop-or-the-menu-icon-i|1️⃣ Sign in, and click your avatar in the bottom left on desktop or the menu icon…]]
 - Later: 2024-05-09 · Dify · [[Changes/Dify/2024-05-09-support-for-aliyun-oss-authentication-v4-by-s96ea-in-3886|Support for Aliyun OSS authentication V4 by @S96EA in ♯3886]]
 <!-- chronolog:end -->
 

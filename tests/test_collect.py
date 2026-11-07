@@ -37,6 +37,8 @@ def test_load_sources_returns_enabled_products():
         "openhands",
         "claude", "gemini", "deepseek-api", "elevenlabs", "lovable",
         "v0", "replit", "ollama", "dify", "open-webui",
+        "suno", "runway", "midjourney", "gamma", "granola", "google-antigravity",
+        "manus", "openclaw", "opencode",
     }
     assert {product["feed_type"] for product in products} == {
         "chatgpt_changelog",
@@ -45,6 +47,9 @@ def test_load_sources_returns_enabled_products():
         "windsurf_changelog",
         "claude_changelog", "gemini_changelog", "deepseek_changelog", "v0_changelog",
         "lovable_changelog", "elevenlabs_changelog", "replit_changelog",
+        "suno_changelog", "runway_changelog", "midjourney_changelog", "gamma_changelog",
+        "granola_changelog", "antigravity_changelog", "manus_changelog",
+        "openclaw_changelog", "opencode_changelog",
     }
 
 

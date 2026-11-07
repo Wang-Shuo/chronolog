@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a42959a515015b14a5297be59bb7400d2b880190a1f625ac3bb710c467966d44
+machine_hash: ec9f86433bbf54ce9b9344bf095d4807ee1dba813cafa5891de00982f3a2806d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,10 +66,9 @@ record:
   title: Creators can now choose from the full set of ChatGPT models…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-10-prevented-llm-settings-reset-when-page-loses-focus-during-initial-setup-by-llama|Prevented
-  LLM settings reset when page loses focus during initial setup]]'
-- '[[Changes/Dify/2025-06-11-4-model-support-changes-in-1-4-2|4 Model Support changes
-  in 1.4.2]]'
+- '[[Changes/Midjourney/2025-06-11-please-note|Please Note]]'
+- '[[Changes/Midjourney/2025-06-11-thank-you-so-much-for-your-help-we-can-t-wait-to-share-the-v1-video-model-with-y|Thank
+  you so much for your help!]]'
 - '[[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload
   files and access model selector on mobile]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f]]'

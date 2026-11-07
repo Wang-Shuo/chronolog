@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7b994fca6d6ea9686ccfb68fe098a0c9ae5dc02cacc7d7edec305b07d873045
+machine_hash: eec06bc5e1d9a2fc68938b6a18232ed02337ae9966eb30bae8e55fc44e0f42c3
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
     Windows
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-06-18-the-gemini-mobile-app-launching-in-more-countries|The
-  Gemini mobile app launching in more countries]]'
 - '[[Changes/Dify/2024-06-28-docs-add-notes-for-running-postgres-docker-on-windows-wsl2-ubuntu-by-hikariming|docs:
   Add notes for running Postgres Docker on Windows WSL2 Ubuntu …]]'
 - '[[Changes/OpenHands/2024-06-29-2-mobile-and-desktop-changes-in-0-7-0|2 Mobile and
   Desktop changes in 0.7.0]]'
+- '[[Changes/Suno/2024-07-01-we-re-excited-to-present-suno-on-ios|We’re excited to
+  present Suno on iOS]]'
 source_release: '[[Releases/Dify/dify-2024-07-08-0-6-13-github-164437936-9fca9505|dify-2024-07-08-0-6-13-github-164437936-9fca9505]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-2-mobile-and-desktop-changes-in-0-7-0|2 Mobile and Desktop changes in 0.7.0]]
+- Earlier: 2024-07-01 · Suno · [[Changes/Suno/2024-07-01-we-re-excited-to-present-suno-on-ios|We’re excited to present Suno on iOS]]
 - Later: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-font-change-for-windows-replaced-arimo-with-inter-font-for-windows-users-improvi|🔄 Font Change for Windows]]
 <!-- chronolog:end -->
 

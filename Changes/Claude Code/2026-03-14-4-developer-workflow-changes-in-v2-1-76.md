@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5665a99338732c03fbb000bce22b914d5b5a969bd23da4235c0b2f913e05ac9f
+machine_hash: 7ae0d166f6a4de67208760ce489551ff3a6ab2236b88afb8125be6ba6bae2685
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: 4 Developer Workflow changes in v2.1.76
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-03-11-2-developer-workflow-changes-in-1-5-0|2 Developer
-  Workflow changes in 1.5.0]]'
-- '[[Changes/Claude Code/2026-03-12-vscode-improved-scroll-wheel-responsiveness-in-the-integrated-terminal-with-term|VSCode
-  Improved scroll wheel responsiveness in the integrated terminal…]]'
+- '[[Changes/OpenCode/2026-03-12-11-developer-workflow-changes-in-v1-2-25|11 Developer
+  Workflow changes in v1.2.25]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-3-developer-workflow-changes-in-v1-0-5|3
   Developer Workflow changes in v1.0.5]]'
+- '[[Changes/OpenCode/2026-03-13-4-developer-workflow-changes-in-v1-2-26|4 Developer
+  Workflow changes in v1.2.26]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: developer-workflow
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.76
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-3-developer-workflow-changes-in-v1-0-5|3 Developer Workflow changes in v1.0.5]]
+- Earlier: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-4-developer-workflow-changes-in-v1-2-26|4 Developer Workflow changes in v1.2.26]]
 - Later: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-2-developer-workflow-changes-in-rust-v0-115-0|2 Developer Workflow changes in rust-v0.115.0]]
 <!-- chronolog:end -->
 

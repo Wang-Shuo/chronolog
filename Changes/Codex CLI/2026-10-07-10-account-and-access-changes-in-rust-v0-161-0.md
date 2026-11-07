@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9853806f9ec483523c78d9e4d9ab2e746671624f706ce81807b88bf5f7a7c9b
+machine_hash: bb0476d1cb1d5c2bf89e83e3e32dfc6e56a63f2242f0d9c80ea7e42f57bdb8de
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -70,8 +70,8 @@ record:
   title: 10 Account and Access changes in rust-v0.161.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-added-a-re-authenticate-prompt-when-an-mcp-server-asks-for-more-oauth-scope-duri|Added
-  a re-authenticate prompt when an MCP server asks for more OAuth scope during…]]'
+- '[[Changes/OpenClaw/2026-10-03-2-account-and-access-changes-in-v2026-9-8|2 Account
+  and Access changes in v2026.9.8]]'
 - '[[Changes/Claude Code/2026-10-05-3-account-and-access-changes-in-v2-1-290|3 Account
   and Access changes in v2.1.290]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-3-account-and-access-changes-in-v1-0-92|3

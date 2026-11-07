@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b6922094fda3258e449da40153f85e961b143d9ee10e79f2fd6436d927b44d5a
+machine_hash: 4a6e14fc71bca594247cc34445a7549217ac2bb9dc6c09589aa1aa82a2623f55
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -118,7 +118,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface Experience changes in v2.1.301]]
-- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-4-interface-experience-changes-in-v0-12-3|4 Interface Experience changes in v0.12.3]]
+- Later: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-in-the-full-screen-viewer-the-comma-and-period-keys-now-step-a-video-back-or-for|In the full-screen viewer, the comma and period keys now step a video back…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

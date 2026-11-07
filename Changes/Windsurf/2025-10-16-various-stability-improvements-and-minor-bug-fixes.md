@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b0eaf1393da6c769150a487c6e6854ca79b99dc01b9770d3f315269cfd4436e8
+machine_hash: cbad8d48f8c6790b3e71a59d5e48cc1d5c77b462f295925d801d6dd0846fdcc8
 product: windsurf
 product_name: Windsurf
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-10-16 · Open WebUI · [[Changes/Open WebUI/2025-10-16-various-improvements-were-implemented-across-the-frontend-and-backend-to-enhance|🔄 Various improvements were implemented across the frontend and backend to enhance…]]
-- Later: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-5-reliability-and-performance-changes-in-1-9-2|5 Reliability and Performance changes in 1.9.2]]
+- Later: 2025-10-21 · Gamma · [[Changes/Gamma/2025-10-21-need-to-create-similar-content-with-a-consistent-structure-and-formatting|Need to create similar content with a consistent structure and formatting?]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

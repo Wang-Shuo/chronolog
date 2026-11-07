@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5026ddd7446e5491599a3e1848843953f85ea8ded75945d67d21c691d8e23eff
+machine_hash: 7e396e1a7f3e0d7db16d2e1b26b1d824242143ccb1a9298bc9a749ed3f3d849f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -108,7 +108,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-speaker-notes-and-presenter-view-in-slide-decks|Speaker notes and Presenter view in Slide Decks]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-goal-command-set-a-completion-condition-and-claude-keeps-working-across-tu|Added /goal command]]
+- Later: 2026-05-10 · OpenCode · [[Changes/OpenCode/2026-05-10-tui-plugins-using-the-deprecated-api-command-api-keep-working-while-you-migrate|TUI plugins using the deprecated api.command API keep working while you migrate…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

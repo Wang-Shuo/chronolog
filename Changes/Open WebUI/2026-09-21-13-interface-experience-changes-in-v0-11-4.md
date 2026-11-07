@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f5b9db280a25206a0d1cb0df7bb5fdfada79cda5348243434b3971b901793b7
+machine_hash: 476e543ed2d066737d16d20eb42d526e68db246a2c1f9afdad7cdcce8f8d5c59
 product: open-webui
 product_name: Open WebUI
 record:
@@ -113,9 +113,9 @@ record:
   title: 13 Interface Experience changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode
-  Added a Sign out row to the panel menu, with /logout in the typed command menu]]'
 - '[[Changes/Lovable/2026-09-18-redesigned-project-cards|Redesigned project cards]]'
+- '[[Changes/OpenClaw/2026-09-19-32-interface-experience-changes-in-v2026-9-5|32 Interface
+  Experience changes in v2026.9.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-number-key-selection-in-the-question-dialog-works-for-choices-10-and-beyond|Number-key
   selection in the question dialog works for choices 10 and beyond]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'

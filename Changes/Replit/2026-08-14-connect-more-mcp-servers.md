@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 3d0aa26d76282c0c739474bef99e40e655ea650567e13768d73fa209a880707e
+machine_hash: d2aab5f3af76221dde8e9128b0d2ec552d3b832dafc101de0de99b74c38c7626
 product: replit
 product_name: Replit
 record:
@@ -45,8 +45,8 @@ record:
   title: Connect more MCP servers
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-13-build-dashboards-from-your-snowflake-semantic-views|Build
-  dashboards from your Snowflake semantic views]]'
+- '[[Changes/Suno/2026-08-13-chat-bar-generate-instruments-and-vocals-create-new-and-totally-unique-plugins-a|Chat
+  bar: Generate instruments and vocals, create new and totally unique plugins…]]'
 - '[[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2
   Apps and Integrations changes in v2.1.233]]'
 - '[[Changes/Cline/2026-08-14-everything-in-this-release-lands-through-the-sdk-bundle-so-it-applies-to-windows|Everything

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0249fc80d5c712fe81428574516bc73797a22702b767161d57e22987005f16b5
+machine_hash: 10bc18947f15f578cfd45202764a718c736c2503ddfd6cdc78131b88058c93d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     they…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6
-  Developer Workflow changes in rust-v0.137.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-05-11-developer-workflow-changes-in-v1-0-60|11
-  Developer Workflow changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-core-terminal-themes-now-refresh-after-live-terminal-reloads-without-stale-color|Core
+  Terminal themes now refresh after live terminal reloads without stale colors…]]'
+- '[[Changes/OpenCode/2026-06-05-4-developer-workflow-changes-in-v1-16-0|4 Developer
+  Workflow changes in v1.16.0]]'
 - '[[Changes/Cline/2026-06-07-add-a-debug-section-in-settings-for-cline-testers|Add
   a debug section in settings for Cline testers]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'

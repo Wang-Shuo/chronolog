@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8311ddbe780c5d38f8db4d99db4cd892f5ff977ad2133abcb572817f8b51ab45
+machine_hash: 2d236e90119ab0f65a51067f41a7625252e76f3e233d3b86d2f71558328e8f14
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -66,8 +66,8 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/Replit/2026-10-02-new-models-from-openai-and-anthropic|New models from
-  OpenAI and Anthropic]]'
+- '[[Changes/OpenClaw/2026-10-03-2-model-support-changes-in-v2026-9-8|2 Model Support
+  changes in v2026.9.8]]'
 - '[[Changes/Claude Code/2026-10-05-2-model-support-changes-in-v2-1-290|2 Model Support
   changes in v2.1.290]]'
 - '[[Changes/ElevenLabs/2026-10-05-python-sdk|Python SDK]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 373d5e7c92380767108e2ddec220dea7d6f93cd40881d1c6696e867b5338a29c
+machine_hash: 50b801da27526822e8dfe4266dee03e3b74fc36b922cc64e8ed6bf28d2b2e933
 product: dify
 product_name: Dify
 record:
@@ -317,7 +317,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.1
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-10 · Cursor · [[Changes/Cursor/2026-09-10-subscriptions|Subscriptions]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode changes in v2.1.269]]
+- Later: 2026-09-10 · Runway · [[Changes/Runway/2026-09-10-agent-can-now-create-and-edit-brand-kits-for-you-right-in-the-conversation-group|Agent Brand Kits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

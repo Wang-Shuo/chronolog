@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4dd2311e20e889fdd0907c0aeba6e0db087b41942da9772e0e1b51f207b3bd59
+machine_hash: f40f1f8d94e3516c96f614dd2c89f985d63fefe982d718fc6191a00f883f3927
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,8 +57,8 @@ record:
   title: 3 Context Window changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-02-add-auto-compaction-at-95-token-limit-and-compact-command|Add
-  auto-compaction at 95% token limit and /compact command]]'
+- '[[Changes/OpenCode/2026-01-04-2-context-window-changes-in-v1-1-1|2 Context Window
+  changes in v1.1.1]]'
 - '[[Changes/Codex CLI/2026-01-06-2-context-window-changes-in-rust-v0-78-0|2 Context
   Window changes in rust-v0.78.0]]'
 - '[[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add
@@ -113,7 +113,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 ## Nearby in Context Window
 
 - Earlier: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add core tool that adds all context from the core package]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added context_window.used_percentage and context_window.remaining_percentage…]]
+- Later: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-desktop-cache-session-scoped-stores-and-add-optional-context-gating|Desktop Cache session-scoped stores and add optional context gating]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

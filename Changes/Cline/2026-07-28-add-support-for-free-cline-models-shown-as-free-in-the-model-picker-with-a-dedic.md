@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 53e2a8ec0b23b18eaaf3b17401f623278721b02a19d433e6c7e26ad11980ee1b
+machine_hash: 5bf24b50f9d49b1dcb4d1aedcce8376908c3d3a063bede18f4d3c8448f141d31
 product: cline
 product_name: Cline
 record:
@@ -57,8 +57,8 @@ record:
   title: Add support for free Cline models, shown as "(free)" in the model picker…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-24-add-support-for-claude-opus-5|Add support
-  for Claude Opus 5]]'
+- '[[Changes/OpenCode/2026-07-24-core-preserve-mistral-reasoning-history-across-turns|Core
+  Preserve Mistral reasoning history across turns]]'
 - '[[Changes/Ollama/2026-07-25-quantize-draft-model-output-heads-at-the-requested-type-when-creating-speculativ|Quantize
   draft-model output heads at the requested type when creating…]]'
 - '[[Changes/Open WebUI/2026-07-27-39-model-support-changes-in-v0-11-0|39 Model Support

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: da7404da77bb76af8d607c2b392c80524bca0726f65f8fb20108cad2474d384f
+machine_hash: 5e2d992e73c0a2634a6b9cdf5ca29af6aab16499080a4e5575353055da6c2e86
 product: lovable
 product_name: Lovable
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-cancel-resume-session-picker-to-start-a-new-session|Cancel --resume session picker to start a new session]]
-- Later: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface Experience changes in v2.1.33]]
+- Later: 2026-02-05 · OpenCode · [[Changes/OpenCode/2026-02-05-desktop-safety-triangle-for-sidebar-hover-to-prevent-menu-from-closing|Desktop Safety triangle for sidebar hover to prevent menu from closing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

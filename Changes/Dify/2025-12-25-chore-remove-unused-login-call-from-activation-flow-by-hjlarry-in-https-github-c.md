@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf65394baab4ef27f92d77cab08d65c93ae07cfd91edab487f664292a6f03b54
+machine_hash: 4b413fd3e322f41d824a0754fc18a8cbe73c02a23e57197d3363ae3f77123a09
 product: dify
 product_name: Dify
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access changes in 2.3]]
-- Later: 2025-12-30 · OpenHands · [[Changes/OpenHands/2025-12-30-added-oauth-2-0-device-flow-for-cli-authentication-by-malhotra5-in-https-github|Added OAuth 2.0 Device Flow for CLI authentication]]
+- Later: 2025-12-29 · OpenCode · [[Changes/OpenCode/2025-12-29-terminal-make-authentication-urls-clickable-regardless-of-line-wrapping-in-termi|Terminal Make authentication URLs clickable regardless of line wrapping in terminal…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

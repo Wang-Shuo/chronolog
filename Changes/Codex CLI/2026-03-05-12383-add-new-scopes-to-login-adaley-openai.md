@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d5a7ae862d401186a028c34a590b7ab57e4a01a690698f1056df4f96475fd7ce
+machine_hash: 917bae49b8462310585ff5579ab2fb3d4f231afefcfc1ce120708a9b6014ea04
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: '#12383 add new scopes to login @adaley-openai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-3-account-and-access-changes-in-rust-v0-107-0|3
-  Account and Access changes in rust-v0.107.0]]'
+- '[[Changes/OpenCode/2026-03-03-normalize-trailing-slashes-in-auth-login-urls|Normalize
+  trailing slashes in auth login URLs]]'
 - '[[Changes/v0/2026-03-04-added-sign-in-dialog-on-public-chats-for-logged-out-users|Added
   sign-in dialog on public chats for logged-out users]]'
 - '[[Changes/Claude Code/2026-03-05-2-account-and-access-changes-in-v2-1-69|2 Account

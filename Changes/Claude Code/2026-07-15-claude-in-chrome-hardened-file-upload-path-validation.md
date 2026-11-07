@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 105981f63e2bbf1b9f78375ff325704629d5f9a898d43e41e0565fb74408c2b4
+machine_hash: f180bb38681c5440c61ffa1ffce8ef809202d187b7829a8498f88031529ed6ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: 'Claude in Chrome: hardened file-upload path validation'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-match-the-terminal-text-color-to-the-github-theme-canvas|Match
-  the terminal text color to the GitHub theme canvas]]'
 - '[[Changes/OpenHands/2026-07-06-docs-bring-readme-md-over-from-agent-canvas-by-rbren-in-https-github-com-openhan|docs:
   Bring README.md over from Agent Canvas]]'
 - '[[Changes/Codex CLI/2026-07-08-27714-app-server-document-thread-and-turn-ids-are-uuid7-owenlin0|♯27714
   app-server: document thread and turn IDs are UUID7 @owenlin0]]'
+- '[[Changes/OpenClaw/2026-07-13-13-files-and-data-changes-in-v2026-7-1|13 Files and
+  Data changes in v2026.7.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
 theme: file-data
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-27714-app-server-document-thread-and-turn-ids-are-uuid7-owenlin0|♯27714 app-server: document thread and turn IDs are UUID7 @owenlin0]]
+- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-13-files-and-data-changes-in-v2026-7-1|13 Files and Data changes in v2026.7.1]]
 - Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add canvas support in the CLI for extension-driven interactions]]
 <!-- chronolog:end -->
 

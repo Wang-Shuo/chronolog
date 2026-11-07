@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d753e596246ba9f6fa6a7f94a86e0fc65efef441f5a757635f5dc666ca7bc8fd
+machine_hash: 1bf966ad6cd7391313cc807c8d3c2482f1e7538ba643afedfed7e2b93ea6b2fc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
     user…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-2-safety-and-privacy-changes-in-v2-1-7|2 Safety
-  and Privacy changes in v2.1.7]]'
 - '[[Changes/Codex CLI/2026-01-14-5-safety-and-privacy-changes-in-rust-v0-81-0|5 Safety
   and Privacy changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-7-safety-and-privacy-changes-in-v0-24-0|7 Safety
   and Privacy changes in v0.24.0]]'
+- '[[Changes/OpenCode/2026-01-14-terminal-tweak-external-directory-permission-rendering-in-tui|Terminal
+  Tweak external directory permission rendering in TUI]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73|codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73]]'
 source_type: github_releases
 theme: safety-privacy
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-7-safety-and-privacy-changes-in-v0-24-0|7 Safety and Privacy changes in v0.24.0]]
+- Earlier: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-terminal-tweak-external-directory-permission-rendering-in-tui|Terminal Tweak external directory permission rendering in TUI]]
 - Later: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-dependency-vulnerability-scanning-is-now-available-with-issues-in-project-depend|Dependency vulnerability scanning is now available, with issues in project…]]
 <!-- chronolog:end -->
 

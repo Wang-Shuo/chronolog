@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 22f3cd8ebe7f99a17a62f82ec17a387198bbfd663a28b65b4bed07f7b71c9083
+machine_hash: 3094934aac16ad12eb82e655e59d11788c4c16403e4896d66b36cf75a6df4b20
 product: lovable
 product_name: Lovable
 record:
@@ -52,10 +52,9 @@ record:
   title: Get a warning before your credits run out
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan
-  usage reflects the current billing period after quota resets]]'
-- '[[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set
-  credit usage limits and alerts for your workspace]]'
+- '[[Changes/Midjourney/2026-10-08-polish-bugs|POLISH & BUGS]]'
+- '[[Changes/OpenClaw/2026-10-08-claude-haiku-5-5-you-can-select-haiku-5-5-through-the-anthropic-api-and-claude-c|Claude
+  Haiku 5.5. You can select Haiku 5.5 through the Anthropic API and Claude CLI]]'
 - '[[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated
   /cost, the status line, --max-budget-usd and the SDK''s cost figures…]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-09-2026-10-09-58884c93|lovable-2026-10-09-2026-10-09-58884c93]]'
@@ -89,7 +88,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]]
-- Later: 2026-10-12 · Lovable · [[Changes/Lovable/2026-10-12-see-how-much-usage-your-free-allowances-cover|See how much usage your free allowances cover]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-4-pricing-model-changes-in-v2026-10-1|4 Pricing Model changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 79ca37052240fdfb74653651143e41d7b428512aaa4da5895068f9ea3c93e21e
+machine_hash: 69e0a75d31d6a5369617db018510ca02b99683891bb3ae1959acba4618f44f61
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -43,10 +43,10 @@ record:
   title: User Interface
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-cancel-resume-session-picker-to-start-a-new-session|Cancel
-  --resume session picker to start a new session]]'
 - '[[Changes/Lovable/2026-02-05-reorder-folders-in-the-dashboard-sidebar-via-drag-and-drop-with-support-for-nest|Reorder
   folders in the dashboard sidebar via drag and drop, with support for nesting…]]'
+- '[[Changes/OpenCode/2026-02-05-desktop-safety-triangle-for-sidebar-hover-to-prevent-menu-from-closing|Desktop
+  Safety triangle for sidebar hover to prevent menu from closing]]'
 - '[[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface
   Experience changes in v2.1.33]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-09-2026-02-09-4b81b7a2|elevenlabs-2026-02-09-2026-02-09-4b81b7a2]]'

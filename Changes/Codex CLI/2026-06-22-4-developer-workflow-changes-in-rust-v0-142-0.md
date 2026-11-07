@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 911dfee196673ba53564b1574e545d33584f0c891041b4ac637a2203eeb9dc73
+machine_hash: 8a4d255426868f2f93a737391061d27ba747b276ec5f5e39432d25c02c54011e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 4 Developer Workflow changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-7-developer-workflow-changes-in-rust-v0-141-0|7
-  Developer Workflow changes in rust-v0.141.0]]'
 - '[[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed
   the startup "setup issues" line under the logo]]'
+- '[[Changes/OpenCode/2026-06-21-terminal-only-show-the-background-subagent-shortcut-when-the-server-supports-it|Terminal
+  Only show the background subagent shortcut when the server supports it]]'
 - '[[Changes/Claude Code/2026-06-22-changed-review-pr-to-use-the-same-review-engine-as-code-review-medium|Changed
   /review pr to use the same review engine as /code-review medium]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'

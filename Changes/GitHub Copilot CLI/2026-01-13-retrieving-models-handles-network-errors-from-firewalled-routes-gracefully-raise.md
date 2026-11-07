@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5de86d60fee27ffa3eea0a2391adea7fb4847aa32ec37e6bf0d14dc37f74ebaf
+machine_hash: 5272ab498fecb77f45d22cd3776186cd1b692cefa1cce3188b59e3159a8e77ac
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,7 +43,8 @@ record:
     raises…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-12-scribe-v2|Scribe v2]]'
+- '[[Changes/OpenCode/2026-01-12-core-fix-model-selection-in-title-generation-to-use-user-s-model-instead-of-assi|Core
+  Fix model selection in title generation to use user''s model instead of assistant''s]]'
 - '[[Changes/Cline/2026-01-13-phase-in-responses-api-usage-instead-of-defaulting-for-every-supported-model|Phase
   in Responses API usage instead of defaulting for every supported model]]'
 - '[[Changes/Dify/2026-01-13-8-model-support-changes-in-1-11-3|8 Model Support changes
@@ -84,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-8-model-support-changes-in-1-11-3|8 Model Support changes in 1.11.3]]
-- Later: 2026-01-14 · Cline · [[Changes/Cline/2026-01-14-add-gpt-5-2-codex-openai-model-support|Add gpt-5.2-codex OpenAI model support]]
+- Later: 2026-01-13 · Google Antigravity · [[Changes/Google Antigravity/2026-01-13-updated-tab-model-architecture|Updated tab model architecture]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

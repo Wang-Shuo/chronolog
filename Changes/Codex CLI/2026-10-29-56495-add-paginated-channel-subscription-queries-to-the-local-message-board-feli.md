@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: fa36808f88373a80518a2de9fb8a4bd2d2b394f813c5ef4833e8c4e7ed2f4ee0
+machine_hash: 03a09fea2e1da6ef4db359f865c66b46f880071658e29802845f43133aeb71e3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
     @felixxia-oai'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2
-  Pricing Model changes in ElevenLabs updates — 2026-10-26]]'
+- '[[Changes/OpenCode/2026-10-27-core-preserve-literal-0-and-arguments-text-in-custom-command-input|Core
+  Preserve literal $0 and $ARGUMENTS text in custom command input]]'
 - '[[Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi|API
   credits for eligible ChatGPT Pro and Business plans]]'
 - '[[Changes/Lovable/2026-10-28-get-an-email-before-your-credits-run-out|Get an email

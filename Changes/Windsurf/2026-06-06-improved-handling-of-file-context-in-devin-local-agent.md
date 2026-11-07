@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5086536924c7dc441cd9b5a21ef78e9325d8bc9291e1b77e0f41d1e868dfb62e
+machine_hash: f8c3ad52c1b472cb1faf894f6c53ea2f596b2f533d03385874be2b4491f0f61f
 product: windsurf
 product_name: Windsurf
 record:
@@ -53,12 +53,12 @@ record:
   title: Improved handling of file context in Devin Local agent
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor
-  introduces Design Mode for faster canvas editing, new ways to understand…]]'
 - '[[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage
   report in canvas]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-context-window-changes-in-v1-0-60|2 Context
   Window changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-core-sessions-now-persist-system-context-updates-during-long-running-conversatio|Core
+  Sessions now persist system context updates during long-running conversations]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-06-v3-0-28-9d5b371b|windsurf-2026-06-06-v3-0-28-9d5b371b]]'
 source_type: windsurf_changelog
 theme: context-window
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-context-window-changes-in-v1-0-60|2 Context Window changes in v1.0.60]]
+- Earlier: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-core-sessions-now-persist-system-context-updates-during-long-running-conversatio|Core Sessions now persist system context updates during long-running conversations]]
 - Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-the-claude-md-is-too-long-warning-threshold-now-scales-with-the-model-s-context|The "CLAUDE.md is too long" warning threshold now scales with the model's context window]]
 <!-- chronolog:end -->
 

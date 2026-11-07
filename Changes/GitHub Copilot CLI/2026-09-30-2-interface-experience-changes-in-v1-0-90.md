@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 382156349381812bd459372a437cdb9f0e47617807fd819956699a04230018b7
+machine_hash: 49067ac0da143c7b7f1b14c7946e03de9546674358d3cb15d37426e6853daa82
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.90
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-4-interface-experience-changes-in-v2-1-286|4 Interface Experience changes in v2.1.286]]
-- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-2-interface-experience-changes-in-rust-v0-160-0|2 Interface Experience changes in rust-v0.160.0]]
+- Later: 2026-09-30 · Google Antigravity · [[Changes/Google Antigravity/2026-09-30-rendered-markdown-in-artifacts-and-in-files-opened-in-the-side-pane-can-now-be-e|Rendered Markdown in artifacts and in files opened in the side pane can now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

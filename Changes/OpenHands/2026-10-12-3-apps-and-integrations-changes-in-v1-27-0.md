@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c632947b45f826737731950d3d279c411faa9eeb188ee24fcb5cf83485fee084
+machine_hash: 4d5d3b816aedaef5a1e6e4f5b9e4ce20f5d28a83dea3c3c3604bac5760ef06c4
 product: openhands
 product_name: OpenHands
 record:
@@ -46,10 +46,11 @@ record:
   title: 3 Apps and Integrations changes in v1.27.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-11-ollama-launch-claude-no-longer-shows-a-warning-about-claude-connectors-by-hoyyev|ollama
-  launch claude no longer shows a warning about Claude connectors]]'
-- '[[Changes/ElevenLabs/2026-10-12-sdk-releases|SDK releases]]'
+- '[[Changes/Google Antigravity/2026-10-12-3-apps-and-integrations-changes-in-hub-v2-23-0-permissions-picker|3
+  Apps and Integrations changes in HUB v2.23.0 — Permissions picker…]]'
 - '[[Changes/Lovable/2026-10-12-connect-your-app-to-loops|Connect your app to Loops]]'
+- '[[Changes/OpenClaw/2026-10-12-5-apps-and-integrations-changes-in-v2026-10-2|5 Apps
+  and Integrations changes in v2026.10.2]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e|openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +90,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.27.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-12 · Lovable · [[Changes/Lovable/2026-10-12-connect-your-app-to-loops|Connect your app to Loops]]
+- Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-5-apps-and-integrations-changes-in-v2026-10-2|5 Apps and Integrations changes in v2026.10.2]]
 - Later: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-an-mcp-server-or-hook-that-exits-before-reading-all-of-its-input-no-longer-crash|An MCP server or hook that exits before reading all of its input no longer crashes…]]
 <!-- chronolog:end -->
 

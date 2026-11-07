@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 533e3c3ff45697c2bc26f78c6710cae2adbcf29fd78c0a17957faa3517aa7f07
+machine_hash: e6644b36f8ff7d7da53b096700ad2b1717bf281219ce37fd28074c62c2b1f6bd
 product: cursor
 product_name: Cursor
 record:
@@ -44,11 +44,12 @@ record:
   title: 2 Reliability and Performance changes in New CLI Features and Improved CLI…
   type: change
 related_changes:
-- '[[Changes/Replit/2025-12-26-fast-build|Fast Build]]'
-- '[[Changes/Windsurf/2025-12-27-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
+- '[[Changes/OpenCode/2026-01-05-desktop-performance-improvements-through-event-batching-in-app|Desktop
+  Performance improvements through event batching in app]]'
 - '[[Changes/Codex CLI/2026-01-06-performance-tuning-for-tuis-cap-redraw-scheduling-and-reduce-unnecessary-rerende|Performance
   tuning for TUIs]]'
+- '[[Changes/OpenCode/2026-01-06-3-reliability-and-performance-changes-in-v1-1-4|3
+  Reliability and Performance changes in v1.1.4]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542|cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -92,7 +93,7 @@ Source: https://cursor.com/changelog/cli-jan-08-2026
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-performance-tuning-for-tuis-cap-redraw-scheduling-and-reduce-unnecessary-rerende|Performance tuning for TUIs]]
+- Earlier: 2026-01-06 · OpenCode · [[Changes/OpenCode/2026-01-06-3-reliability-and-performance-changes-in-v1-1-4|3 Reliability and Performance changes in v1.1.4]]
 - Later: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex CLI subprocesses again inherit env vars like…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7f576671d0c7d7f4870bc8d337cb73c3b4d1671e27a8727b3ec302e8690a936
+machine_hash: 863c348b233e5a2b6eb71507476b61767be5b499509cbb764aac187915e44147
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: 'feat: open Git Sync to org admins on cloud backends'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2
-  Enterprise and Administration changes in v2.1.277]]'
+- '[[Changes/OpenClaw/2026-09-19-you-can-now-install-the-cli-on-freebsd-with-install-cli-sh-using-system-node-and|Install
+  the CLI on FreeBSD with install-cli.sh using system Node and npm]]'
 - '[[Changes/Lovable/2026-09-21-set-a-default-design-system-for-each-group|Set a default
   design system for each group]]'
 - '[[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5 Enterprise and Administration changes in v0.11.4]]
-- Later: 2026-09-24 · Lovable · [[Changes/Lovable/2026-09-24-see-which-credit-limit-applies-to-each-member-in-the-people-export|See which credit limit applies to each member in the People export]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-2-enterprise-and-administration-changes-in-v2026-9-6|2 Enterprise and Administration changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

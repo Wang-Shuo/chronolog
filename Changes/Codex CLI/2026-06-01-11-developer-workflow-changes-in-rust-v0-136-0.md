@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f2f07401c88def0d4da356ced70d0dbe09068cdd7c5f981d16343eaec36862a
+machine_hash: 6a2fd66653c498514dfcfe944f8f90d7f301f62754bd0aa2606a9d9ee6286b53
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -64,12 +64,12 @@ record:
   title: 11 Developer Workflow changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-3-developer-workflow-changes-in-v1-0-55|3
-  Developer Workflow changes in v1.0.55]]'
 - '[[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer
   Workflow changes in v2.1.157]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-4-developer-workflow-changes-in-v1-0-56|4
   Developer Workflow changes in v1.0.56]]'
+- '[[Changes/OpenCode/2026-05-30-terminal-wrapped-inline-tool-rows-now-stay-aligned-and-failed-inline-tools-can-e|Terminal
+  Wrapped inline tool rows now stay aligned, and failed inline tools can…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -131,7 +131,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-4-developer-workflow-changes-in-v1-0-56|4 Developer Workflow changes in v1.0.56]]
+- Earlier: 2026-05-30 · OpenCode · [[Changes/OpenCode/2026-05-30-terminal-wrapped-inline-tool-rows-now-stay-aligned-and-failed-inline-tools-can-e|Terminal Wrapped inline tool rows now stay aligned, and failed inline tools can…]]
 - Later: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-lsp-show-lsp-test-and-lsp-reload-correctly-discover-project-lsp-config-when-the|/lsp show, /lsp test, and /lsp reload correctly discover project LSP config…]]
 <!-- chronolog:end -->
 

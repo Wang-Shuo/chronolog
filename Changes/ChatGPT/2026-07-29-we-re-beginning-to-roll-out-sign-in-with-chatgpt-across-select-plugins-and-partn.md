@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20aeed9e2f2072d4e5676bed4da5f80d69d0fec2740852c880ebaeee0c884a09
+machine_hash: 79c0e1b06526c44c15886cce9bfac0e913dca26410525593e6b069b7eb473fdc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,12 +69,12 @@ record:
   title: Sign in with ChatGPT
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-28-upgrade-an-older-project-to-tanstack-start|Upgrade
-  an older project to TanStack Start]]'
-- '[[Changes/Lovable/2026-07-28-app-chat-connectors-google-analytics-and-xero|App
-  + chat connectors: Google Analytics and Xero]]'
 - '[[Changes/Lovable/2026-07-28-connect-pipedrive-in-one-click|Connect Pipedrive in
   one click]]'
+- '[[Changes/OpenCode/2026-07-28-2-apps-and-integrations-changes-in-v1-18-8|2 Apps
+  and Integrations changes in v1.18.8]]'
+- '[[Changes/OpenCode/2026-07-28-core-restored-compatibility-with-legacy-mcp-sdk-clients|Core
+  Restored compatibility with legacy MCP SDK clients]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-29-sign-in-with-chatgpt-d166182a|chatgpt-2026-07-29-sign-in-with-chatgpt-d166182a]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-28 · Lovable · [[Changes/Lovable/2026-07-28-connect-pipedrive-in-one-click|Connect Pipedrive in one click]]
+- Earlier: 2026-07-28 · OpenCode · [[Changes/OpenCode/2026-07-28-core-restored-compatibility-with-legacy-mcp-sdk-clients|Core Restored compatibility with legacy MCP SDK clients]]
 - Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47 Apps and Integrations changes in rust-v0.146.0]]
 <!-- chronolog:end -->
 

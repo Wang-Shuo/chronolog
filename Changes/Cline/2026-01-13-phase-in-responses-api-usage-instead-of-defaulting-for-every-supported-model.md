@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f42c4fe46f42b5e70179585a413f413a470de1c4a35abc8ab0b87c2536a05bc4
+machine_hash: e930def6b15269d7e6db9f0b9f2b40c603944fa09dcfab3b72fa8d49ef4a0c03
 product: cline
 product_name: Cline
 record:
@@ -44,11 +44,11 @@ record:
   title: Phase in Responses API usage instead of defaulting for every supported model
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-10-a-new-requires-command-for-the-modelfile-allows-declaring-which-version-of-ollam|A
-  new REQUIRES command for the Modelfile allows declaring which version…]]'
-- '[[Changes/Open WebUI/2026-01-10-users-no-longer-experience-database-connection-timeouts-under-high-concurrency-d|⚡
-  Users no longer experience database connection timeouts under high concurrency due…]]'
+- '[[Changes/OpenCode/2026-01-11-core-exclude-none-variant-for-gpt-5-2-codex|Core
+  Exclude ''none'' variant for gpt-5.2-codex]]'
 - '[[Changes/ElevenLabs/2026-01-12-scribe-v2|Scribe v2]]'
+- '[[Changes/OpenCode/2026-01-12-core-fix-model-selection-in-title-generation-to-use-user-s-model-instead-of-assi|Core
+  Fix model selection in title generation to use user''s model instead of assistant''s]]'
 source_release: '[[Releases/Cline/cline-2026-01-13-v3-49-1-github-276551231-dff83073|cline-2026-01-13-v3-49-1-github-276551231-dff83073]]'
 source_type: github_releases
 theme: model-support
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-12 · ElevenLabs · [[Changes/ElevenLabs/2026-01-12-scribe-v2|Scribe v2]]
+- Earlier: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-core-fix-model-selection-in-title-generation-to-use-user-s-model-instead-of-assi|Core Fix model selection in title generation to use user's model instead of assistant's]]
 - Later: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-8-model-support-changes-in-1-11-3|8 Model Support changes in 1.11.3]]
 <!-- chronolog:end -->
 

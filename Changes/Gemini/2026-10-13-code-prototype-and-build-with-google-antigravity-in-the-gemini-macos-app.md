@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 4659234c2e8dd8d48f56cc4f31c5e63babcdfe794e6cbd867fd963869c614b25
+machine_hash: 7d77d17015738e0829d6a9b4b6d3065fc30da6343ef11276b4c2fcbd452f2670
 product: gemini
 product_name: Gemini
 record:
@@ -64,10 +64,10 @@ record:
   title: Code, prototype, and build with Google Antigravity in the Gemini macOS app
   type: change
 related_changes:
-- '[[Changes/Replit/2026-10-09-replit-desktop-windows-preview-with-microsoft-and-nvidia|Replit
-  Desktop Windows preview with Microsoft and NVIDIA]]'
-- '[[Changes/Open WebUI/2026-10-10-3-mobile-and-desktop-changes-in-v0-12-0|3 Mobile
-  and Desktop changes in v0.12.0]]'
+- '[[Changes/Google Antigravity/2026-10-12-2-mobile-and-desktop-changes-in-hub-v2-23-0-permissions-picker|2
+  Mobile and Desktop changes in HUB v2.23.0 — Permissions picker…]]'
+- '[[Changes/OpenClaw/2026-10-12-2-mobile-and-desktop-changes-in-v2026-10-2|2 Mobile
+  and Desktop changes in v2026.10.2]]'
 - '[[Changes/Windsurf/2026-10-12-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/Gemini/gemini-2026-10-13-2026-10-13-315d8911|gemini-2026-10-13-2026-10-13-315d8911]]'
 source_type: gemini_changelog

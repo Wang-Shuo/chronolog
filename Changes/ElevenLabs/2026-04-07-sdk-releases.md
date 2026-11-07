@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 989b3ed3a6588d4d897a9209d46b89177a1ede26d1e0818e5b8e43edee666a62
+machine_hash: f5c2537215d8dc8bbe6cc7f1e17ae2ab6fc358ca7f7b536f9d9320667ae49f8e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,8 +41,8 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-06-2-apps-and-integrations-changes-in-v1-0-19|2
-  Apps and Integrations changes in v1.0.19]]'
+- '[[Changes/OpenCode/2026-04-06-extensions-fix-plugin-installs-from-npm-aliases-and-git-urls-including-windows-c|Extensions
+  Fix plugin installs from npm aliases and git URLs, including Windows…]]'
 - '[[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps
   and Integrations changes in v2.1.94]]'
 - '[[Changes/ElevenLabs/2026-04-07-python-sdk|Python SDK]]'

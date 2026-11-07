@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cdf7e4093c4f18b4f6c3034452749ab73c3bc9991bf42f547c78bbf780d892c3
+machine_hash: 3ab550ddedecfaf7ff8b4e5aa557a2e50cfd074953a029184f7b5778cda3f319
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-01-17 · Replit · [[Changes/Replit/2025-01-17-web-view-mobile-support|Web view mobile support]]
-- Later: 2025-02-05 · Ollama · [[Changes/Ollama/2025-02-05-new-ollama-darwin-tgz-package-for-macos-that-replaces-the-previous-ollama-darwin|New ollama-darwin.tgz package for macOS that replaces the previous ollama-darwin…]]
+- Later: 2025-01-25 · Midjourney · [[Changes/Midjourney/2025-01-25-you-can-now-describe-images-on-the-web|"describe" images on the web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

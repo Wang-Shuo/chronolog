@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86d08c2bb943f51886065e96935bacc68ce6e7b6f001af1d10c65070a72a4a7c
+machine_hash: c6bf5136afdd4d7c6230969370bbc8076858b5fcb7e33474e12344a25a11ca3d
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,12 +64,12 @@ record:
   title: 7 Developer Workflow changes in v2.1.281
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-22-output-from-background-commands-now-streams-into-the-command-row-while-the-comma|Output
-  from background commands now streams into the command row while the command…]]'
 - '[[Changes/Codex CLI/2026-09-22-22-developer-workflow-changes-in-rust-v0-156-0|22
   Developer Workflow changes in rust-v0.156.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-22-add-optional-osc-777-terminal-notifications-for-direct-ghostty-and-wezterm-sessi|Add
   optional OSC 777 terminal notifications for direct Ghostty and WezTerm sessions]]'
+- '[[Changes/Google Antigravity/2026-09-22-added-a-windows-subsystem-for-linux-wsl-section-to-application-settings-on-windo|Added
+  a Windows Subsystem for Linux (WSL) section to Application Settings…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
 theme: developer-workflow
@@ -122,7 +122,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-add-optional-osc-777-terminal-notifications-for-direct-ghostty-and-wezterm-sessi|Add optional OSC 777 terminal notifications for direct Ghostty and WezTerm sessions]]
+- Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-added-a-windows-subsystem-for-linux-wsl-section-to-application-settings-on-windo|Added a Windows Subsystem for Linux (WSL) section to Application Settings…]]
 - Later: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-rollouts|Rollouts]]
 <!-- chronolog:end -->
 

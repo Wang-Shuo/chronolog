@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0d43d668759c094876837663a5c4b896ec361f529214b648f16b78f7a7b5473
+machine_hash: 8485963ecc710b3ef0d73556bff97946c3ffd548888b41b1d48bd9c990d092da
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     identity…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-16-account-and-access-changes-in-rust-v0-148-0|16
-  Account and Access changes in rust-v0.148.0]]'
 - '[[Changes/Codex CLI/2026-08-20-8-account-and-access-changes-in-rust-v0-149-0|8
   Account and Access changes in rust-v0.149.0]]'
+- '[[Changes/OpenCode/2026-08-24-core-fixed-opencode-device-login-links-when-servers-return-relative-verification|Core
+  Fixed OpenCode device login links when servers return relative verification…]]'
 - '[[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som-99be54|ChatGPT
   Work can now complete tasks on signed-in websites]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'

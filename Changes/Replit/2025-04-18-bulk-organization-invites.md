@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: eff15f17f64db90d366acbd7db37b2ac71bfed43625be2d0a769aeced2dc6e20
+machine_hash: c4d17fc6f457499e4074bdfc69ebcac3d73407b770f3ce75516421432222a203
 product: replit
 product_name: Replit
 record:
@@ -42,8 +42,8 @@ record:
   title: Bulk organization invites
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
-  indexing performance for teams sharing codebases]]'
+- '[[Changes/Midjourney/2025-03-30-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v7-with-you-soon|Thank
+  you so much for your help!]]'
 - '[[Changes/Dify/2025-04-09-hello-community-we-re-excited-to-share-our-v1-2-0-update-with-you-it-s-packed-wi|Hello
   community!]]'
 - '[[Changes/Open WebUI/2025-04-13-2-collaboration-changes-in-v0-6-3|2 Collaboration

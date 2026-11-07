@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 46cf9265a377a0c96cd8e88b74b25021ef889d8532ce1da34d38b366f66d6056
+machine_hash: 5488b0bfa5af1392f497786f7a359bb5391b7843c4174bc6cd9ba742d079418a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v2.1.304
   type: change
 related_changes:
-- '[[Changes/v0/2026-10-16-gemini-4-requests-no-longer-fail-when-run-at-higher-effort-levels|Gemini
-  4 requests no longer fail when run at higher effort levels]]'
 - '[[Changes/DeepSeek API/2026-10-17-deepseek-v4-1-flash-1017-update|DeepSeek-V4.1-Flash-1017
   Update]]'
 - '[[Changes/Ollama/2026-10-18-6-model-support-changes-in-v0-40-7|6 Model Support
   changes in v0.40.7]]'
+- '[[Changes/OpenClaw/2026-10-18-4-model-support-changes-in-v2026-10-5|4 Model Support
+  changes in v2026.10.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
 source_type: github_releases
 theme: model-support
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-18 · Ollama · [[Changes/Ollama/2026-10-18-6-model-support-changes-in-v0-40-7|6 Model Support changes in v0.40.7]]
+- Earlier: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-4-model-support-changes-in-v2026-10-5|4 Model Support changes in v2026.10.5]]
 - Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-3-model-support-changes-in-v1-0-100|3 Model Support changes in v1.0.100]]
 <!-- chronolog:end -->
 

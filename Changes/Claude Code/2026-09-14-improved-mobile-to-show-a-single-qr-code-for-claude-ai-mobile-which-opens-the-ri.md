@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 373944ba85e9a78670430694201b8235c5b0b3a3a0cbb973a5d03f245bc2f1f5
+machine_hash: 5ee33ab7e53af854b91c9c7e31e9b9b7d7d91f9480d02d999d66acba753f2674
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,12 @@ record:
   title: Improved `/mobile` to show a single QR code for claude.ai/mobile, which opens…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-09-10-introducing-fusion-in-devin-desktop-and-devin-cli-https-exafunction-github-io-pu|!Introducing
-  Fusion in Devin Desktop and Devin…]]'
-- '[[Changes/Windsurf/2026-09-10-devin-desktop|Devin Desktop]]'
-- '[[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed
-  skills synced from claude.ai in cloud sessions to be named…]]'
+- '[[Changes/OpenClaw/2026-09-11-16-mobile-and-desktop-changes-in-v2026-9-4|16 Mobile
+  and Desktop changes in v2026.9.4]]'
+- '[[Changes/OpenClaw/2026-09-11-you-can-now-reach-the-official-app-store-listing-straight-from-the-iphone-setup|Reach
+  the official App Store listing straight from the iPhone setup guide]]'
+- '[[Changes/OpenClaw/2026-09-11-you-can-now-enable-desktop-access-for-azure-cloud-workers-whether-openclaw-manag|Enable
+  desktop access for Azure cloud workers , whether OpenClaw manages them…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed skills synced from claude.ai in cloud sessions to be named…]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-you-can-now-enable-desktop-access-for-azure-cloud-workers-whether-openclaw-manag|Enable desktop access for Azure cloud workers , whether OpenClaw manages them…]]
 - Later: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-ios-sdk|iOS SDK]]
 <!-- chronolog:end -->
 

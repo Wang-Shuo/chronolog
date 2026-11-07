@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8cb9e47571b08a050d5e1d7b051420a7295a0e2583646a4af6431257dc0c639e
+machine_hash: fbd93b86e0976cd045178e36fff48dc837c46e57f13faf9a07b16bd75f784055
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,8 +61,8 @@ record:
     with
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat:
-  add compact section navigation on tablets]]'
+- '[[Changes/Google Antigravity/2026-10-13-this-release-fixes-the-license-picker-shown-during-onboarding-which-could-grow-t|This
+  release fixes the license picker shown during onboarding, which could grow…]]'
 - '[[Changes/Lovable/2026-10-13-search-for-individual-settings|Search for individual
   settings]]'
 - '[[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e33d407d9609ca48fc9bc607c38e248c467784f1af46d1cbd59c2eeec5b9376f
+machine_hash: d3302ce5a8e2195d27ea4d1a6e178c6fcfeb912fce05e5c204e329c7fe8cc245
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
     often…
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-10-13-introducing-gemini-4-argon-our-frontier-model-for-complex-tasks|Introducing
-  Gemini 4 Argon: our frontier model for complex tasks]]'
 - '[[Changes/Lovable/2026-10-13-gemini-4-argon-for-your-app-s-ai-features|Gemini 4
   Argon for your app''s AI features]]'
+- '[[Changes/OpenClaw/2026-10-13-3-model-support-changes-in-v2026-10-3|3 Model Support
+  changes in v2026.10.3]]'
 - '[[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support
   changes in v2.1.299]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'

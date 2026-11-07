@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb378f208cbf0b6ce51a4b0f71d6e54a746a6e405f006c200d84ea0332430086
+machine_hash: bc900d84da6743c9b97c31cbe03e526894f31102baed9706a0c71fc7cd0a36ef
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -115,7 +115,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.93.0
 ## Nearby in Context Window
 
 - Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|New model: Added Kimi-K2.5 model to Moonshot provider…]]
-- Later: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-2-context-window-changes-in-rust-v0-94-0|2 Context Window changes in rust-v0.94.0]]
+- Later: 2026-01-31 · OpenCode · [[Changes/OpenCode/2026-01-31-core-add-copilot-specific-provider-to-properly-handle-reasoning-tokens|Core Add Copilot-specific provider to properly handle reasoning tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

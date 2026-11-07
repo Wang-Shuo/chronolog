@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 9a847184cfd6b63419e890487a1ab2c63396962d1dc428cff1f076ccc5f03f14
+machine_hash: fe6a01c16fd429da23153d38beeb9927a403d3d25c56df0fac16702f4339c848
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Renamed "extra usage" to "usage credits" across CLI copy
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the|Added
-  projected context cost (per-turn and per-invocation token estimates)…]]'
 - '[[Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens|Fast
   (default): $3.00/M input, $15.00/M output tokens]]'
 - '[[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|Standard:
   $0.50/M input, $2.50/M output tokens]]'
+- '[[Changes/OpenCode/2026-05-18-core-reduce-missed-event-updates-caused-by-a-subscription-race|Core
+  Reduce missed /event updates caused by a subscription race]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
 source_type: github_releases
 theme: pricing-model
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|Standard: $0.50/M input, $2.50/M output tokens]]
+- Earlier: 2026-05-18 · OpenCode · [[Changes/OpenCode/2026-05-18-core-reduce-missed-event-updates-caused-by-a-subscription-race|Core Reduce missed /event updates caused by a subscription race]]
 - Later: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-introducing-a-new-100-google-ai-ultra-plan|Introducing a new $100 Google AI Ultra plan]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aaafc540c4bdb0e93b8369b9dc8ee7994a46eed6d129b10afc259f17e27d7a61
+machine_hash: 1695268208e75dbeca7a09d94bc20d82413adc1cf90f8991f972e42d469b76dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in v1.0.48
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-13-enable-openrouter-prompt-cache-control-for-qwen-models|Enable
-  OpenRouter prompt cache control for Qwen models]]'
-- '[[Changes/Ollama/2026-05-13-nomic-embed-text-now-converts-inputs-to-lowercase-per-the-model-card-where-prior|nomic-embed-text
-  now converts inputs to lowercase per the model card where prior…]]'
+- '[[Changes/OpenCode/2026-05-13-added-the-v2-model-and-provider-listing-api|Added
+  the v2 model and provider listing API]]'
+- '[[Changes/OpenCode/2026-05-13-2-model-support-changes-in-v1-14-49|2 Model Support
+  changes in v1.14.49]]'
 - '[[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support
   changes in v2.1.142]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52|github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52]]'
@@ -86,7 +86,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.48
 ## Nearby in Model Support
 
 - Earlier: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support changes in v2.1.142]]
-- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support changes in v2.1.143]]
+- Later: 2026-05-14 · OpenCode · [[Changes/OpenCode/2026-05-14-3-model-support-changes-in-v1-14-50|3 Model Support changes in v1.14.50]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

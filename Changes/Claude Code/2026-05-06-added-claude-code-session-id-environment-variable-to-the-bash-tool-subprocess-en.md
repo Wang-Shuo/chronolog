@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4432319b28b5cf2912251b2f3e82d414778b06e2d4701f39bcecbab01dcfe5fc
+machine_hash: db451ef590e59b3a36368c9e42a29df16798c3c66187a224fc5b236b9e0ef09c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,9 @@ record:
   title: Added `CLAUDE_CODE_SESSION_ID` environment variable to the Bash tool subprocess…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-04-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2026-05-04-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/OpenCode/2026-05-04-core-show-real-server-error-messages-in-the-cli-and-sdk-instead-of-bare|Core
+  Show real server error messages in the CLI and SDK instead of bare {}]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-2-apps-and-integrations-changes-in-v1-0-41|2
   Apps and Integrations changes in v1.0.41]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'

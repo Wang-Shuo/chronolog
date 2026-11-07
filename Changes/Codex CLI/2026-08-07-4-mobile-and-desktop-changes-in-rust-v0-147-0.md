@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 149f38464b8a8ef7878f646029a885afb6e81aaeeab87127b8e53fb60f07684c
+machine_hash: d64fbbdf5770886340cf2e5a9b4cf1b48af74c597a672667f23aee1bd0649e39
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +47,10 @@ record:
   title: 4 Mobile and Desktop changes in rust-v0.147.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]'
-- '[[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]'
+- '[[Changes/OpenCode/2026-08-04-localized-more-desktop-ui-copy|Localized more desktop
+  UI copy]]'
+- '[[Changes/OpenCode/2026-08-04-7-mobile-and-desktop-changes-in-v1-18-13|7 Mobile
+  and Desktop changes in v1.18.13]]'
 - '[[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile
   and Desktop changes in v2.1.224]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2|codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2]]'
@@ -102,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.147.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile and Desktop changes in v2.1.224]]
-- Later: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-fall-back-to-the-session-cwd-or-desktop-for-mention-file-search-in-empty-windows|Fall back to the session cwd or Desktop for @-mention file search in empty windows]]
+- Later: 2026-08-07 · OpenCode · [[Changes/OpenCode/2026-08-07-5-mobile-and-desktop-changes-in-v1-18-15|5 Mobile and Desktop changes in v1.18.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

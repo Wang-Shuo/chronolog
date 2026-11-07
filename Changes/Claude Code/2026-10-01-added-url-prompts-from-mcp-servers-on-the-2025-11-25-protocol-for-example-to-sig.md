@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8dcafbadb1b823dd8b1e1bab4bbd7bb55cd58edbdddd38808df880b74e793f0e
+machine_hash: 3ad66f09118d4404ddebaeb57c3930e166aa14b305991cd63be3eed319211dd7
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,11 +55,12 @@ record:
     to sign in
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-09-29-sign-in-with-chatgpt-cf599d|Sign in with ChatGPT]]'
 - '[[Changes/Cline/2026-09-30-if-a-new-task-fails-cline-sign-in-signing-in-and-submitting-a-revised-prompt-now|If
   a new task fails Cline sign-in, signing in and submitting a revised prompt now…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-mcp-oauth-sign-in-to-servers-such-as-datadog-reuses-a-still-valid-cached-token|MCP
   OAuth sign-in to servers such as Datadog reuses a still-valid cached token]]'
+- '[[Changes/OpenClaw/2026-09-30-13-account-and-access-changes-in-v2026-9-7|13 Account
+  and Access changes in v2026.9.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: account-access
@@ -101,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-mcp-oauth-sign-in-to-servers-such-as-datadog-reuses-a-still-valid-cached-token|MCP OAuth sign-in to servers such as Datadog reuses a still-valid cached token]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-13-account-and-access-changes-in-v2026-9-7|13 Account and Access changes in v2026.9.7]]
 - Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-2-account-and-access-changes-in-rust-v0-160-0|2 Account and Access changes in rust-v0.160.0]]
 <!-- chronolog:end -->
 

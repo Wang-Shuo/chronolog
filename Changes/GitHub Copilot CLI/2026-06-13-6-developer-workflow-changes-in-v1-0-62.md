@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3ee0fd604bc40a79b322cb001e3702ab3047b9bec9959c927646a3ae24dc3c6
+machine_hash: 7692847defe1f8e02256b6b7b078860e7a385c4d7d124f56fd024d9cd185db9c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: 6 Developer Workflow changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-09-release-builds-once-again-publish-separate-symbol-archives-with-line-tables-impr|Release
-  builds once again publish separate symbol archives with line tables…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-09-6-developer-workflow-changes-in-v1-0-61|6
-  Developer Workflow changes in v1.0.61]]'
 - '[[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer
   Workflow changes in v2.1.172]]'
+- '[[Changes/OpenCode/2026-06-10-6-developer-workflow-changes-in-v1-17-0|6 Developer
+  Workflow changes in v1.17.0]]'
+- '[[Changes/OpenCode/2026-06-12-core-snapshot-creation-now-reuses-source-git-objects-to-avoid-long-re-hashing-de|Core
+  Snapshot creation now reuses source Git objects to avoid long re-hashing delays…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -113,8 +113,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.62
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer Workflow changes in v2.1.172]]
-- Later: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved /doctor with consistent flat tree layout across all sections, clearer…]]
+- Earlier: 2026-06-12 · OpenCode · [[Changes/OpenCode/2026-06-12-core-snapshot-creation-now-reuses-source-git-objects-to-avoid-long-re-hashing-de|Core Snapshot creation now reuses source Git objects to avoid long re-hashing delays…]]
+- Later: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-2-developer-workflow-changes-in-v1-17-6-1|2 Developer Workflow changes in v1.17.6 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

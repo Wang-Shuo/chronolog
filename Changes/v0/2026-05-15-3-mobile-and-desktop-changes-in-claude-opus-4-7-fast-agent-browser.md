@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b25554438d7e41443e1b8d9219f2d25f6ed9df1510416674cf44c0642dc5f7f
+machine_hash: 5ec2449934377fd26ebe751684f1bfecac2ac661ac806e6887ff774fdcc0e3a4
 product: v0
 product_name: v0
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Mobile and Desktop changes in Claude Opus 4.7 Fast, agent browser…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-13-laguna-xs-2-is-not-yet-supported-on-windows-linux|laguna-xs.2
-  is not yet supported on Windows/Linux]]'
-- '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated
-  images will continue to appear in the Images tab]]'
 - '[[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and|The
   PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]]'
+- '[[Changes/OpenCode/2026-05-15-desktop-fixed-archived-sessions-being-reprocessed-when-their-archive-state-did-n|Desktop
+  Fixed archived sessions being reprocessed when their archive state did not change]]'
+- '[[Changes/OpenCode/2026-05-15-desktop-fixed-windows-app-detection-by-reading-where-output-correctly|Desktop
+  Fixed Windows app detection by reading where output correctly]]'
 source_release: '[[Releases/v0/v0-2026-05-15-2026-05-15-d142aa2e|v0-2026-05-15-2026-05-15-d142aa2e]]'
 source_type: v0_changelog
 theme: mobile-desktop
@@ -93,7 +93,7 @@ Source: https://v0.app/changelog#2026-05-15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and|The PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]]
+- Earlier: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-desktop-fixed-windows-app-detection-by-reading-where-output-correctly|Desktop Fixed Windows app detection by reading where output correctly]]
 - Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-10-mobile-and-desktop-changes-in-rust-v0-131-0|10 Mobile and Desktop changes in rust-v0.131.0]]
 <!-- chronolog:end -->
 

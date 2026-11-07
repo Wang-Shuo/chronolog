@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 729a09e0653cdd4a8aab7799fab9737653cd09823f2445c99d812016965f1dbe
+machine_hash: 7a0d6ec1df5ebeba26bcc03872356f3a052421f2c3d3b966cf1b3c7a6214b742
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
   title: Claude no longer runs the `/verify` and `/code-review` skills on its own
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8
-  Developer Workflow changes in v1.0.71]]'
+- '[[Changes/OpenCode/2026-07-16-desktop-fixed-startup-readiness-so-wsl-server-loading-is-included-before-the-des|Desktop
+  Fixed startup readiness so WSL server loading is included before the desktop…]]'
 - '[[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed
   Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]'
 - '[[Changes/Dify/2026-07-17-3-developer-workflow-changes-in-1-16-0|3 Developer Workflow

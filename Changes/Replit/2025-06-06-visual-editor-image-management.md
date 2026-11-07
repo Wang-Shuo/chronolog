@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ab7ba490f64b800e40125ed38d3e2d5ddc8521335ca59f48d802c94a8469397a
+machine_hash: cf5bb4917ed2335ffe5b8a1611951de6491c42710b1d1f718c2d73c9ec428ccc
 product: replit
 product_name: Replit
 record:
@@ -51,7 +51,8 @@ record:
   title: Visual Editor image management
   type: change
 related_changes:
-- '[[Changes/Replit/2025-05-23-visual-editor-rollout|Visual Editor rollout]]'
+- '[[Changes/Midjourney/2025-05-29-we-ve-upgraded-the-ai-moderation-in-the-editor|We’ve
+  upgraded the AI moderation in the editor]]'
 - '[[Changes/Aider/2025-05-30-2-editor-experience-changes-in-v0-84-0|2 Editor Experience
   changes in v0.84.0]]'
 - '[[Changes/Replit/2025-05-30-unified-github-tab-refresh|Unified GitHub tab refresh]]'

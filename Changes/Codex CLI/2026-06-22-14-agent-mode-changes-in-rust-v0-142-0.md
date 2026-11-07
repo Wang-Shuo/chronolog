@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c9fc4beabd38794fe5b7f05f2fa8e56f48cd4a4fc2b778e886b26f4ac6892d8e
+machine_hash: 87e91b2640c83035dec0b39af6be3881636b83115de87d6a9a27ab501ae7c331
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -70,9 +70,10 @@ record:
   title: 14 Agent Mode changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-06-19-agent|Agent]]'
 - '[[Changes/v0/2026-06-19-annotations-mode-lets-you-click-elements-in-the-preview-to-drop-numbered-comment|Annotations
   mode lets you click elements in the preview to drop numbered comments…]]'
+- '[[Changes/OpenCode/2026-06-21-core-honor-configured-agent-step-limits-by-forcing-a-final-text-response-instead|Core
+  Honor configured agent step limits by forcing a final text response instead…]]'
 - '[[Changes/Claude Code/2026-06-22-2-agent-mode-changes-in-v2-1-186|2 Agent Mode
   changes in v2.1.186]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'

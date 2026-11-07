@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef9258f1b1000a02d7e6070afe2a0b78ea5a7c40bcd8fc8c3d3f3a0a095a6507
+machine_hash: ed31f1608ddfeee8ea2593174243c6377565b399cfbf985d93ab260742cb3b64
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved overall code quality and performance by removing redundant styles…
   type: change
 related_changes:
-- '[[Changes/Lovable/2024-12-03-2-reliability-and-performance-changes-in-lovable-updates-2024-12-03|2
-  Reliability and Performance changes in Lovable updates — 2024-12-03]]'
 - '[[Changes/Ollama/2024-12-04-2-reliability-and-performance-changes-in-v0-5-0|2 Reliability
   and Performance changes in v0.5.0]]'
 - "[[Changes/Open WebUI/2024-12-07-rich-text-reliability-improved-the-reliability-and-stability-of-rich-text-input|\U0001F4CB
   Rich Text Reliability]]"
+- '[[Changes/Runway/2024-12-07-control-handheld-shake-and-speed-in-your-generations-using-the-edit-video-featur|Handheld
+  camera shake in Gen-3 Alpha and Gen-3 Alpha Turbo]]'
 source_release: '[[Releases/Dify/dify-2024-12-09-0-13-2-github-189680293-b531c555|dify-2024-12-09-0-13-2-github-189680293-b531c555]]'
 source_type: github_releases
 theme: reliability-performance
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-12-07 · Open WebUI · [[Changes/Open WebUI/2024-12-07-rich-text-reliability-improved-the-reliability-and-stability-of-rich-text-input|📋 Rich Text Reliability]]
+- Earlier: 2024-12-07 · Runway · [[Changes/Runway/2024-12-07-control-handheld-shake-and-speed-in-your-generations-using-the-edit-video-featur|Handheld camera shake in Gen-3 Alpha and Gen-3 Alpha Turbo]]
 - Later: 2024-12-11 · Ollama · [[Changes/Ollama/2024-12-11-improved-memory-estimation-when-scheduling-models|Improved memory estimation when scheduling models]]
 <!-- chronolog:end -->
 

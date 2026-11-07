@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 356b05c3ccc2e1c8abea302e55468e0ffca35a6de559191c5c4d458f4cefe0db
+machine_hash: 09fe3ea49910a940dae630516d14b364f062b4228cab7bc15a07bd8005773076
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: Add a debug section in settings for Cline testers
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills:
-  added \$ escape syntax to include a literal $ before a digit in command bodies]]'
-- '[[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6
-  Developer Workflow changes in rust-v0.137.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-11-developer-workflow-changes-in-v1-0-60|11
   Developer Workflow changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-core-terminal-themes-now-refresh-after-live-terminal-reloads-without-stale-color|Core
+  Terminal themes now refresh after live terminal reloads without stale colors…]]'
+- '[[Changes/OpenCode/2026-06-05-4-developer-workflow-changes-in-v1-16-0|4 Developer
+  Workflow changes in v1.16.0]]'
 source_release: '[[Releases/Cline/cline-2026-06-07-v3-88-1-github-335511997-0d14ace5|cline-2026-06-07-v3-88-1-github-335511997-0d14ace5]]'
 source_type: github_releases
 theme: developer-workflow
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-11-developer-workflow-changes-in-v1-0-60|11 Developer Workflow changes in v1.0.60]]
+- Earlier: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-4-developer-workflow-changes-in-v1-16-0|4 Developer Workflow changes in v1.16.0]]
 - Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-background-sessions-are-now-told-that-shared-checkout-edits-are-blocked-until-th|Background sessions are now told that shared-checkout edits are blocked until they…]]
 <!-- chronolog:end -->
 

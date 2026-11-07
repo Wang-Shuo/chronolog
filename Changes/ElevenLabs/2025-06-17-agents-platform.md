@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b824fbca094531e90f6e687aa6ed1425f42c9496038e6b9659a316e4c6a8838c
+machine_hash: e7a19f85735c4e551adcca44bc47b5023ad22d43a37f898b7491679f618e036b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -56,8 +56,8 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-11-4-agent-mode-changes-in-1-4-2|4 Agent Mode changes in
-  1.4.2]]'
+- '[[Changes/Manus/2025-06-11-start-free-by-asking-any-question-and-get-instant-answers-need-more-power-one-cl|Introducing
+  Manus FREE Chat Mode!]]'
 - '[[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch
   Background Agents directly from Slack by mentioning @Cursor]]'
 - '[[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background

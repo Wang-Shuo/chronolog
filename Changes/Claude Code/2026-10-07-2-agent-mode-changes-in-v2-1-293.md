@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4b8e45886a87e9856645572bba4d9c20e67f2f18c43c5286096b5d2f4abfd6e6
+machine_hash: 0c489a2208796e54d65e92610c780e995d69753bbdb9e7db2054b589eaf8fcfe
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Agent Mode changes in v2.1.293
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the|See
-  and reply to the local agents running on your computer from the Cursor iOS app]]'
 - '[[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Agents
   keep running on your computer]]'
+- '[[Changes/OpenCode/2026-10-06-added-canonical-redirects-and-json-and-markdown-data-formats-for-agent-readable|Added
+  canonical redirects and JSON and Markdown data formats for agent-readable stats]]'
 - '[[Changes/OpenHands/2026-10-06-4-agent-mode-changes-in-v1-25-0|4 Agent Mode changes
   in v1.25.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'

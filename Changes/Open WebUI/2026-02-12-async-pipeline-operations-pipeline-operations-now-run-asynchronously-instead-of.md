@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c73dd590f13cec7baa7ca43dfce4be7bb1adb09bc8c382aa0ceeb64bce587c4f
+machine_hash: 087871b8652d284ffa5cfaef13cf897aba0b438fa38300811f5aac360e951d35
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,12 +49,12 @@ record:
     instead…"
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-12-automation-and-scheduling-changes-in-v0-26-0|12
-  Automation and Scheduling changes in v0.26.0]]'
 - '[[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3
   Automation and Scheduling changes in v0.27.0]]'
 - '[[Changes/Gemini CLI/2026-02-10-feat-core-add-setting-to-disable-loop-detection-by-sandytao520-in-https-github-c|feat(core):
   add setting to disable loop detection]]'
+- '[[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core
+  SessionPrompt.shell() now triggers loop if messages are queued]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-12-v0-8-0-github-285910626-490914ba|open-webui-2026-02-12-v0-8-0-github-285910626-490914ba]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-feat-core-add-setting-to-disable-loop-detection-by-sandytao520-in-https-github-c|feat(core): add setting to disable loop detection]]
+- Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core SessionPrompt.shell() now triggers loop if messages are queued]]
 - Later: 2026-02-25 · Claude · [[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork|Scheduled tasks in Cowork]]
 <!-- chronolog:end -->
 

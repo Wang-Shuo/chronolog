@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7a5d2425c7a058e85983f8ea086d23967aad56f9587cd4f537c9b041abfa2b9
+machine_hash: b8f437e8b7872af0ed2522f220b0e7745dd458d7f2dd2c552eb78e289c759f78
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 'refactor: use for...of loop instead of traditional for loop'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-05-15-refactor-workflow-revamp-logging-module-for-loop-iteration-nodes-by-auxpd-in-htt|refactor(workflow):
-  revamp logging module for loop & iteration nodes]]'
+- '[[Changes/Manus/2025-06-13-let-manus-handle-routine-and-repetitive-work-reclaim-your-time-and-elevate-your|Introducing
+  Manus Scheduled Task]]'
 - '[[Changes/Open WebUI/2025-06-16-direct-tool-server-input-accepts-empty-strings-you-can-now-submit-direct-tool-se|⚙️
   Direct Tool Server Input Accepts Empty Strings]]'
 - '[[Changes/Gemini/2025-06-19-plan-ahead-with-scheduled-actions|Plan ahead with scheduled

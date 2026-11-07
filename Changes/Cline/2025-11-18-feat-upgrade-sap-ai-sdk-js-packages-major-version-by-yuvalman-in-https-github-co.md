@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: db0fa10d045311dd8247c24414bdeceb8fbb52b98800d70d07ca39ee7e249842
+machine_hash: f2ad4f37fe9edf2020c395d7d2ae8ea87465f27a3c1f04dd1669654552a9f393
 product: cline
 product_name: Cline
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-11-16 · Replit · [[Changes/Replit/2025-11-16-azure-marketplace-integration|Azure Marketplace integration]]
-- Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-5-apps-and-integrations-changes-in-rust-v0-59-0|5 Apps and Integrations changes in rust-v0.59.0]]
+- Later: 2025-11-18 · Manus · [[Changes/Manus/2025-11-18-manus-can-now-perform-tasks-directly-in-your-browser-autonomously-it-securely-wo|Introducing Manus Browser Operator]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

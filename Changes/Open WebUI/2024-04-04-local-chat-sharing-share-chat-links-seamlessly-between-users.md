@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a654a5df6dbe67d07e03fffc14515e7ff25f4daa70278c56117c2476e09bf53c
+machine_hash: 0ddcf65665988bb79d390946cabe25604a4b0d7529e95bd1b9145c7dd82a1b24
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,9 +42,10 @@ record:
     users"
   type: change
 related_changes:
-- "[[Changes/Dify/2024-01-02-the-dify-team|The Dify Team \U0001F6E0️]]"
-- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
-  ChatGPT alongside your team]]'
+- '[[Changes/Suno/2024-03-05-you-can-share-playlists-using-their-link-only-people-with-access-to-the-link-can|You
+  can share playlists using their link]]'
+- '[[Changes/Gamma/2024-03-14-we-ve-gotten-a-lot-of-requests-for-speakers-notes-and-today-they-re-here-access|Card
+  notes and Presenter View]]'
 - "[[Changes/Open WebUI/2024-03-31-webhook-support-now-compatible-with-google-chat-and-microsoft-teams|\U0001F4AC
   Webhook Support: Now compatible with Google Chat and Microsoft Teams]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-04-04-v0-1-117-github-149699471-c32be5ac|open-webui-2024-04-04-v0-1-117-github-149699471-c32be5ac]]'
@@ -80,7 +81,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-03-31 · Open WebUI · [[Changes/Open WebUI/2024-03-31-webhook-support-now-compatible-with-google-chat-and-microsoft-teams|💬 Webhook Support: Now compatible with Google Chat and Microsoft Teams]]
-- Later: 2024-04-21 · Open WebUI · [[Changes/Open WebUI/2024-04-21-share-link-copy-button-fixed-bug-where-the-copy-button-wasn-t-copying-links-in-s|🔗 Share Link Copy Button]]
+- Later: 2024-04-11 · Gamma · [[Changes/Gamma/2024-04-11-we-now-support-the-ability-to-set-default-permissions-on-all-gammas-you-create-s|Workspace default permissions and default themes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

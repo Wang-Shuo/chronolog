@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42a851bea2770f8c9952d70483dc20efd9f1c0e59a84980c1754beaa54afebe1
+machine_hash: e40595fb842e670db44cec8da8990b311fdeb7bab50fca894d0ecb492427b4ac
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Interface Experience changes in v2.1.20
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-22-improved-slash-command-selection-by-prioritizing-exact-and-prefix-matches-over-f|Improved
-  slash-command selection by prioritizing exact and prefix matches over fuzzy…]]'
 - '[[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience
   changes in 2.4]]'
+- '[[Changes/OpenCode/2026-01-22-2-interface-experience-changes-in-v1-1-32|2 Interface
+  Experience changes in v1.1.32]]'
 - '[[Changes/Codex CLI/2026-01-25-9512-fix-resume-picker-when-user-event-appears-after-head-jdsalasca|♯9512
   Fix resume picker when user event appears after head @jdsalasca]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'

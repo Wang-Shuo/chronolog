@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 507365f041f8ffb74347855bb322f73fa9dba59d810501961ff8cc857576d91e
+machine_hash: 960d05051176264257677635a02f7602072d530ca8ed91888e7dd92e6b4e5bd6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,12 +56,12 @@ record:
   title: Health appears as a new space in the ChatGPT sidebar
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience
-  changes in 2.3]]'
 - '[[Changes/Cline/2026-01-06-show-notification-instead-of-opening-sidebar-on-update|Show
   notification instead of opening sidebar on update]]'
 - '[[Changes/Codex CLI/2026-01-06-9-interface-experience-changes-in-rust-v0-78-0|9
   Interface Experience changes in rust-v0.78.0]]'
+- '[[Changes/OpenCode/2026-01-06-5-interface-experience-changes-in-v1-1-4|5 Interface
+  Experience changes in v1.1.4]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6|chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-9-interface-experience-changes-in-rust-v0-78-0|9 Interface Experience changes in rust-v0.78.0]]
-- Later: 2026-01-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-08-loading-remote-sessions-using-graphql-id-or-session-picker|Loading remote sessions using GraphQL ID or session picker]]
+- Earlier: 2026-01-06 · OpenCode · [[Changes/OpenCode/2026-01-06-5-interface-experience-changes-in-v1-1-4|5 Interface Experience changes in v1.1.4]]
+- Later: 2026-01-07 · OpenCode · [[Changes/OpenCode/2026-01-07-desktop-fix-session-navigation-with-keyboard-shortcuts|Desktop Fix session navigation with keyboard shortcuts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

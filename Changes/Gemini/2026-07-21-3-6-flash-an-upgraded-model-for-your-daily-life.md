@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3e4a2c3e8d51973dadbb8b6031ba6b332aab12bacf79db04ca2bf7eaf782ab7b
+machine_hash: 1858fb44fde16edee04b173c03d79240201121d72c58306564285f59a8e94f22
 product: gemini
 product_name: Gemini
 record:
@@ -56,10 +56,10 @@ record:
   title: '3.6 Flash: An upgraded model for your daily life'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model
-  Support changes in rust-v0.144.6]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve
   pasted prompt content when changing models through Ctrl+X /model]]'
+- '[[Changes/OpenCode/2026-07-20-3-model-support-changes-in-v1-18-4|3 Model Support
+  changes in v1.18.4]]'
 - '[[Changes/Codex CLI/2026-07-21-22-model-support-changes-in-rust-v0-145-0|22 Model
   Support changes in rust-v0.145.0]]'
 source_release: '[[Releases/Gemini/gemini-2026-07-21-2026-07-21-009a4b0a|gemini-2026-07-21-2026-07-21-009a4b0a]]'

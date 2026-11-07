@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 76fe7be14d23991589453496d2e5bf604356549b76a85898708fa4af6dfa5593
+machine_hash: b0001464c22c5084d87bc899253c8986b6780beb463e7967d4061f9901dbd793
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Improved the settings error for rules such as `Edit(C:\dir\(name)\**)`, where…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-chat-branches-stay-connected-after-reloads-a-reply-saved-under-an-earlier-messag|\U0001F4A5
-  Chat branches stay connected after reloads. A reply saved under an earlier…]]"
-- '[[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor
-  Experience changes in v2.1.257]]'
+- '[[Changes/OpenClaw/2026-09-01-5-editor-experience-changes-in-v2026-8-2|5 Editor
+  Experience changes in v2026.8.2]]'
+- '[[Changes/OpenCode/2026-09-01-desktop-session-renames-now-save-reliably-from-the-title-editor-and-tab-context|Desktop
+  Session renames now save reliably from the title editor and tab context menu]]'
 - '[[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the
   code diff against the base branch]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-01 · v0 · [[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the code diff against the base branch]]
-- Later: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-2-editor-experience-changes-in-v1-0-83|2 Editor Experience changes in v1.0.83]]
+- Later: 2026-09-03 · Midjourney · [[Changes/Midjourney/2026-09-03-edit-lightbox|EDIT-LIGHTBOX]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

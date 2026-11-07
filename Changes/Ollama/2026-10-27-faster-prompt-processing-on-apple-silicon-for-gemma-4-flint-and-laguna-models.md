@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f81bb46ffd627b12236b9e13342f174dc61891d2b799c6d2f9c1b2db7a6841d
+machine_hash: 889cf9dc50ac4cc3f5590300e918d3e8e5aca957eb2eca773ad530dd484e4e68
 product: ollama
 product_name: Ollama
 record:
@@ -52,12 +52,12 @@ record:
   title: Faster prompt processing on Apple silicon for Gemma 4, Flint and Laguna models
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-2-reliability-and-performance-changes-in-rust-v0-164-0|2
-  Reliability and Performance changes in rust-v0.164.0]]'
-- '[[Changes/Dify/2026-10-23-2-reliability-and-performance-changes-in-1-18-0|2 Reliability
-  and Performance changes in 1.18.0]]'
-- '[[Changes/Open WebUI/2026-10-25-3-reliability-and-performance-changes-in-v0-12-4|3
-  Reliability and Performance changes in v0.12.4]]'
+- '[[Changes/Google Antigravity/2026-10-26-2-reliability-and-performance-changes-in-ide-v2-6-0-gemini-4-argon-refreshed|2
+  Reliability and Performance changes in IDE v2.6.0 — Gemini 4 Argon, Refreshed…]]'
+- '[[Changes/Google Antigravity/2026-10-26-improved-performance-when-opening-and-working-in-long-conversations|Improved
+  performance when opening and working in long conversations]]'
+- '[[Changes/Google Antigravity/2026-10-27-improved-performance-while-responses-stream-in-and-when-switching-between-conver|Improved
+  performance while responses stream in and when switching between conversations]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-27-v0-40-12-github-424898500-14e64d40|ollama-2026-10-27-v0-40-12-github-424898500-14e64d40]]'
 source_type: github_releases
 theme: reliability-performance
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-3-reliability-and-performance-changes-in-v0-12-4|3 Reliability and Performance changes in v0.12.4]]
-- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-reliability-and-performance-changes-in-v0-12-5|2 Reliability and Performance changes in v0.12.5]]
+- Earlier: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-improved-performance-while-responses-stream-in-and-when-switching-between-conver|Improved performance while responses stream in and when switching between conversations]]
+- Later: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-6-reliability-and-performance-changes-in-v2-2-0|6 Reliability and Performance changes in v2.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

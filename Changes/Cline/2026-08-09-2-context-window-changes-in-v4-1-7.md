@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5c2e033ca128908f65f535f091addb8cdf30f69276353ba6a1aa09df5b0a126b
+machine_hash: f431e91216e50d55cefeda5128f9f677af6178ea56ce49886f58cd5fe1f682b1
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Context Window changes in v4.1.7
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-05-recover-from-running-out-of-context-instead-of-failing-with-a-raw-provider-error|Recover
-  from running out of context instead of failing with a raw provider error]]'
 - '[[Changes/Claude Code/2026-08-06-2-context-window-changes-in-v2-1-223|2 Context
   Window changes in v2.1.223]]'
 - '[[Changes/Codex CLI/2026-08-07-10-context-window-changes-in-rust-v0-147-0|10 Context
   Window changes in rust-v0.147.0]]'
+- '[[Changes/OpenCode/2026-08-07-core-repeated-compaction-now-keeps-earlier-tool-call-history-in-summaries-instea|Core
+  Repeated compaction now keeps earlier tool-call history in summaries instead…]]'
 source_release: '[[Releases/Cline/cline-2026-08-09-v4-1-7-github-367373350-886ff444|cline-2026-08-09-v4-1-7-github-367373350-886ff444]]'
 source_type: github_releases
 theme: context-window
@@ -89,7 +89,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-10-context-window-changes-in-rust-v0-147-0|10 Context Window changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · OpenCode · [[Changes/OpenCode/2026-08-07-core-repeated-compaction-now-keeps-earlier-tool-call-history-in-summaries-instea|Core Repeated compaction now keeps earlier tool-call history in summaries instead…]]
 - Later: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-compute-context-attribution-against-the-auto-resolved-model-so-token-totals-are|Compute /context attribution against the Auto-resolved model so token totals…]]
 <!-- chronolog:end -->
 

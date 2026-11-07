@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e671a66c4c46659a95dc97a5f3dd674a6c3108e8da2b2c7dcdfdf57c915b0e42
+machine_hash: a359b04d5c96b2216e0414982ea195eabf59238a2c4cc8a7827642d395ddf163
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,10 +45,10 @@ record:
   title: GPT-5 Available
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-07-pashpashpash-gpt-5-release-by-pashpashpash-in-https-github-com-cline-cline-pull|Pashpashpash/gpt
-  5 release]]'
 - '[[Changes/Codex CLI/2025-08-07-2-model-support-changes-in-rust-v0-15-0|2 Model
   Support changes in rust-v0.15.0]]'
+- '[[Changes/Midjourney/2025-08-07-heya-everyone-we-re-releasing-a-hd-mode-for-our-video-model-today|Heya
+  everyone, we''re releasing a HD mode for our video model today!]]'
 - '[[Changes/Ollama/2025-08-07-openai-always-provide-reasoning-by-drifkin-in-https-github-com-ollama-ollama-pul|openai:
   always provide reasoning]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-08-07-v1-11-5-f6e202a2|windsurf-2025-08-07-v1-11-5-f6e202a2]]'

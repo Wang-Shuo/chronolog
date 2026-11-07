@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e81275fecfa1898c5c665e696de4905785b2c34eff7a7d515d8854bb270d646
+machine_hash: e26f44267bc0a097e7c19d3057a967724bff37e0e9030cdbc8254ebb7f9bc8d3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.403
 ## Nearby in Model Support
 
 - Earlier: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-add-support-for-claude-opus-4-6-model|Add support for claude-opus-4.6 model]]
-- Later: 2026-02-05 · Windsurf · [[Changes/Windsurf/2026-02-05-claude-opus-4-6|Claude Opus 4.6]]
+- Later: 2026-02-05 · OpenCode · [[Changes/OpenCode/2026-02-05-enable-claude-3-5-sonnet-new-model-support|Enable Claude 3.5 Sonnet (new) model support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

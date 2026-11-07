@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3bc9709bcff551dfed4662060b3a79117a6091cbd3efaf94f5e7b3987f4af8b5
+machine_hash: 4551faa64de4affc0bc11fc6c1d07531d02e1708be38b650863642fea545b718
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -69,10 +69,9 @@ record:
   title: 11 Agent Mode changes in v0.37.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-spinner-no-longer-appears-stuck-when-a-long-running-async-shell-command-is-activ|Spinner
-  no longer appears stuck when a long-running async shell command is active]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-07-spinner-stays-active-until-background-agents-and-shell-commands-finish-and-user|Spinner
-  stays active until background agents and shell commands finish, and user…]]'
+- '[[Changes/Google Antigravity/2026-04-07-new-agent-permissions-system-accessible-in-settings|New
+  agent permissions system accessible in settings]]'
+- '[[Changes/Google Antigravity/2026-04-07-agent-permissions|Agent Permissions]]'
 - '[[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes
   in v2.1.97]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d|gemini-cli-2026-04-08-v0-37-0-github-306699346-f88de07d]]'

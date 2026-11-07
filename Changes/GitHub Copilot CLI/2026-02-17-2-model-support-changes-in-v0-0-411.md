@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28161f733cc432cab47c0076880ec48ad59a26235b924cd618b0f2f8e14d0cbb
+machine_hash: 11fade6b1aa83e42307731ed51c6e6ec668f60a7860d68a616fa4dd3451709b5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.411
 ## Nearby in Model Support
 
 - Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-11699-chore-rm-remote-models-fflag-sayan-oai|♯11699 chore: rm remote models fflag @sayan-oai]]
-- Later: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-4-model-support-changes-in-v0-8-3|4 Model Support changes in v0.8.3]]
+- Later: 2026-02-17 · Midjourney · [[Changes/Midjourney/2026-02-17-please-note|Please Note]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

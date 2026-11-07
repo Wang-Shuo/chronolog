@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e8d09642901bec3ae42f48c8aee25c4400e358be9dbf8f504185146257a3c1f2
+machine_hash: 0a3bb2296cf9d79fcc50cccb5595a8e3ad436536e4925e393c1ee5083a9e7d6f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     model
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-15-2-model-support-changes-in-rust-v0-85-0|2 Model
-  Support changes in rust-v0.85.0]]'
+- '[[Changes/OpenCode/2026-01-15-core-add-check-in-case-provider-doesn-t-exist-in-models-list|Core
+  Add check in case provider doesn''t exist in models list]]'
 - '[[Changes/v0/2026-01-15-improved-model-selection-to-persist-per-user-per-team|Improved
   model selection to persist per user per team]]'
 - '[[Changes/Claude/2026-01-16-opus-4-and-4-1-deprecated-from-claude-and-claude-code|Opus

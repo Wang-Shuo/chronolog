@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e578fb4884bee9b7142574b251e4fe82ddfef56cf5186995ec869f81a861efba
+machine_hash: c64f7a2d8b5a2311e5a655a628cea97a55f4f159f8f63a7ab272cceb85355e06
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Improved fullscreen mode
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-8-interface-experience-changes-in-rust-v0-162-0|8
-  Interface Experience changes in rust-v0.162.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-08-clicking-a-sessions-sidebar-row-now-reliably-switches-sessions-during-split-view|Clicking
-  a Sessions sidebar row now reliably switches sessions during split-view…]]'
+- '[[Changes/Google Antigravity/2026-10-08-you-can-now-drag-and-drop-conversations-between-sections-in-the-sidebar-to-organ|Drag
+  and drop conversations between sections in the sidebar to organize your projects]]'
+- '[[Changes/OpenClaw/2026-10-08-4-interface-experience-changes-in-v2026-9-9|4 Interface
+  Experience changes in v2026.9.9]]'
 - '[[Changes/OpenHands/2026-10-08-test-e2e-open-commits-from-the-tabs-pane-s-own-menu-by-enyst-in-https-github-com|test(e2e):
   open Commits from the tabs pane''s own menu]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'

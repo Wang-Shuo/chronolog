@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 60ffb3cd563a79983430c390b9690d168a2a8ce23c8913165c857a8139bcf57f
+machine_hash: 2d6acbaa12bacafc5582be4a1f494b2a7b872a6509663472186b0a5c08a3a799
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -133,7 +133,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.422
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-5-apps-and-integrations-changes-in-rust-v0-111-0|5 Apps and Integrations changes in rust-v0.111.0]]
-- Later: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-reduced-remote-control-poll-rate-to-once-per-10-minutes-while-connected-was-1-2s|Reduced Remote Control /poll rate to once per 10 minutes while connected…]]
+- Later: 2026-03-05 · OpenCode · [[Changes/OpenCode/2026-03-05-sdk-update-sdk-package-json|SDK Update SDK package.json]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

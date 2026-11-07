@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e0887e344a9d5c3b7135bfc545077979b9278239f10c54c7f6239b2203ddff9
+machine_hash: 8185de3a93f19f58c55a20aa6930d25d034a9f60c7ce7dbc90347e1229bd301a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-add-oidc-sign-in-to-your-app|Add OIDC sign-in to your app]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-3-account-and-access-changes-in-v1-0-100|3 Account and Access changes in v1.0.100]]
+- Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-5-account-and-access-changes-in-v2026-10-4|5 Account and Access changes in v2026.10.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

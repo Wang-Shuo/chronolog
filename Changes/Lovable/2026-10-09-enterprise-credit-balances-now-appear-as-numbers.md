@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b163db769efcfc3647ec7dabcda6932e24f59cff87c6eabefa054fc3cd05fc3a
+machine_hash: 7c6385b91b3e6010dad59accacc6faf854391e09958ed337b1139918867c9f16
 product: lovable
 product_name: Lovable
 record:
@@ -51,10 +51,10 @@ record:
   title: Enterprise credit balances now appear as numbers
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude
-  Tag Changed Claude''s notice that a channel shared across Enterprise Grid…]]'
 - '[[Changes/Lovable/2026-10-08-publish-to-invited-people-only-on-free-and-pro-plans|Publish
   to invited people only on Free and Pro plans]]'
+- '[[Changes/OpenClaw/2026-10-08-2-enterprise-and-administration-changes-in-v2026-9-9|2
+  Enterprise and Administration changes in v2026.9.9]]'
 - '[[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding):
   show the Super Admin setup guide on enterprise backends]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-09-2026-10-09-58884c93|lovable-2026-10-09-2026-10-09-58884c93]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding): show the Super Admin setup guide on enterprise backends]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-5-enterprise-and-administration-changes-in-v0-12-0|5 Enterprise and Administration changes in v0.12.0]]
+- Later: 2026-10-09 · Runway · [[Changes/Runway/2026-10-09-workspace-admins-can-now-set-a-credit-cap-on-any-project-giving-each-team-or-cli|Project Credit Caps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

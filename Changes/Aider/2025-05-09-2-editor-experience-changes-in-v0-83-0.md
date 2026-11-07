@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ebfcb834a41b35764f01f3b7f29d8b793ba10a20a947eb1c0a131bb3b87bfeff
+machine_hash: dd1970e16ae676e5818e1c62c4811b3b429b7a0594400dd1b6a18ff3a0d8b610
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Editor Experience changes in v0.83.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-29-replaced-the-workspace-tab-with-a-vs-code-tab-by-rbren-in-https-github-com-all-h|Replaced
-  the workspace tab with a VS Code tab]]'
+- '[[Changes/Midjourney/2025-04-30-improved-lightbox-editor-interface|Improved lightbox
+  editor interface]]'
 - '[[Changes/OpenHands/2025-05-05-improved-the-display-of-the-settings-tab-by-xingyaoww-in-https-github-com-all-ha|Improved
   the display of the settings tab]]'
 - '[[Changes/OpenHands/2025-05-07-added-helpful-tips-to-changes-tab-zero-state-by-rbren-in-https-github-com-all-ha|Added

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f89b7c457c315fcc0ff96871fa19f060b4cb0165b1001cb0005acf4440d77cdf
+machine_hash: f3c08acd61d9ef148838b96e9eac614e14f9e17c8a48a8c5ee5b7530e3e24913
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Apps and Integrations changes in v1.0.41
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-04-sdk-releases|SDK Releases]]'
 - '[[Changes/ElevenLabs/2026-05-04-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2026-05-04-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/OpenCode/2026-05-04-core-show-real-server-error-messages-in-the-cli-and-sdk-instead-of-bare|Core
+  Show real server error messages in the CLI and SDK instead of bare {}]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863|github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.41
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-04 · ElevenLabs · [[Changes/ElevenLabs/2026-05-04-javascript-sdk|JavaScript SDK]]
+- Earlier: 2026-05-04 · OpenCode · [[Changes/OpenCode/2026-05-04-core-show-real-server-error-messages-in-the-cli-and-sdk-instead-of-bare|Core Show real server error messages in the CLI and SDK instead of bare {}]]
 - Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…]]
 <!-- chronolog:end -->
 

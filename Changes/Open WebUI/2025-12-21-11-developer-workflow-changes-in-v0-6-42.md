@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07bdc8599c056584e09ec5553984350ccdff2e8c8097e6d4dfe452ba6fa9ffaa
+machine_hash: 894c97a57c949382fddf2d0c69e6bbcfc21cb5680bb355f11fd85cee1fb218e1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,12 +84,12 @@ record:
   title: 11 Developer Workflow changes in v0.6.42
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added
-  /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]]'
 - '[[Changes/Claude Code/2025-12-19-2-developer-workflow-changes-in-v2-0-74|2 Developer
   Workflow changes in v2.0.74]]'
 - '[[Changes/Codex CLI/2025-12-19-6-developer-workflow-changes-in-rust-v0-76-0|6 Developer
   Workflow changes in rust-v0.76.0]]'
+- '[[Changes/OpenCode/2025-12-19-2-developer-workflow-changes-in-v1-0-170|2 Developer
+  Workflow changes in v1.0.170]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9|open-webui-2025-12-21-v0-6-42-github-272053915-b8e46ad9]]'
 source_type: github_releases
 theme: developer-workflow
@@ -156,7 +156,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.42
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-19 · Codex CLI · [[Changes/Codex CLI/2025-12-19-6-developer-workflow-changes-in-rust-v0-76-0|6 Developer Workflow changes in rust-v0.76.0]]
+- Earlier: 2025-12-19 · OpenCode · [[Changes/OpenCode/2025-12-19-2-developer-workflow-changes-in-v1-0-170|2 Developer Workflow changes in v1.0.170]]
 - Later: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-enhanced-background-terminal-execution-with-command-tracking-log-file-output-zom|Enhanced background terminal execution with command tracking, log file output…]]
 <!-- chronolog:end -->
 

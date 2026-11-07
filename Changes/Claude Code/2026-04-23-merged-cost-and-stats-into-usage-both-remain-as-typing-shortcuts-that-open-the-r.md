@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eed13bef003841f1f20bcbf6518e24c55bd4ff4bb9d88e85360ba8aad5c806b7
+machine_hash: 19087d536b4ed7a9f4531610c9357f1d787fa8c6378c4b7bb34cb47cc174c7af
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
   title: Merged `/cost` and `/stats` into `/usage`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor
-  Experience changes in v2.1.116]]'
+- '[[Changes/OpenCode/2026-04-20-core-preserved-concurrent-edits-to-the-same-file-instead-of-letting-parallel-edi|Core
+  Preserved concurrent edits to the same file instead of letting parallel edits…]]'
 - '[[Changes/Open WebUI/2026-04-21-5-editor-experience-changes-in-v0-9-0|5 Editor
   Experience changes in v0.9.0]]'
 - '[[Changes/Claude Code/2026-04-23-config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso|/config

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b333648f931af2d7957cf9eef86325d5847ec5d229dc6589a4ccf3ea3881c3d
+machine_hash: 240549407fe4dd771aaca0401ff763b432f0e7cb1e32289fe4162234d9dac6a4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,8 @@ record:
   title: 2 Reliability and Performance changes in v0.6.1
   type: change
 related_changes:
-- '[[Changes/Dify/2025-03-24-2-reliability-and-performance-changes-in-1-1-3|2 Reliability
-  and Performance changes in 1.1.3]]'
-- '[[Changes/Open WebUI/2025-04-01-3-reliability-and-performance-changes-in-v0-6-0|3
-  Reliability and Performance changes in v0.6.0]]'
+- '[[Changes/Midjourney/2025-04-04-v7-launches-in-two-modes|V7 launches in two modes]]'
+- '[[Changes/Midjourney/2025-04-04-other-features|Other features]]'
 - '[[Changes/Replit/2025-04-04-assistant-performance-improvements|Assistant performance
   improvements]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-05-v0-6-1-github-210564056-66ebd388|open-webui-2025-04-05-v0-6-1-github-210564056-66ebd388]]'

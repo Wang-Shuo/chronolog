@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e170f70d38e152c4487d2387e902b51f0dd116ac053c38de6236696704eac227
+machine_hash: ad1cd8f4bdead0fd46b5b69e6ada20622cca8de2238bbfa92a13d1481936ac77
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 5 Reliability and Performance changes in v1.0.69
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved
-  the install script to explain when installation is killed by the system…]]'
 - '[[Changes/Ollama/2026-07-06-igpu-can-now-offload-vision-models-with-padding-to-fit-available-memory|iGPU
   can now offload vision models with padding to fit available memory]]'
+- '[[Changes/OpenCode/2026-07-06-desktop-improved-large-review-pane-performance|Desktop
+  Improved large review pane performance]]'
 - '[[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2
   Reliability and Performance changes in v2.1.203]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357|github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357]]'

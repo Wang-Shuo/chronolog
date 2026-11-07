@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a9149809d8d2e10fb3e22a3f62655d2bb6c20cb72015bab70dbcd3213903e58
+machine_hash: b42c093beffe8c804c281812b9f0e1cd8f7d3a91bd405f0c961a14b088e2802a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 'docs(core): add authentication guide for remote subagents'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-20-updated-mcp-oauth-to-support-client-id-metadata-document-cimd-sep-991-for-server|Updated
-  MCP OAuth to support Client ID Metadata Document (CIMD / SEP-991)…]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-20-login-device-flow-works-correctly-in-codespaces-and-remote-terminal-environments|/login
-  device flow works correctly in Codespaces and remote terminal environments]]'
+- '[[Changes/OpenCode/2026-03-22-4-account-and-access-changes-in-v1-3-0|4 Account
+  and Access changes in v1.3.0]]'
+- '[[Changes/OpenCode/2026-03-22-removed-anthropic-oauth-plugin-see|Removed anthropic
+  oauth plugin, see]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-23-mcp-oauth-authentication-works-with-mcp-servers-like-the-atlassian-rovo-mcp-serv|MCP
   OAuth authentication works with MCP servers like the Atlassian Rovo MCP Server…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621|gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621]]'
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-mcp-oauth-authentication-works-with-mcp-servers-like-the-atlassian-rovo-mcp-serv|MCP OAuth authentication works with MCP servers like the Atlassian Rovo MCP Server…]]
-- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-11-account-and-access-changes-in-v0-8-11|11 Account and Access changes in v0.8.11]]
+- Later: 2026-03-24 · OpenCode · [[Changes/OpenCode/2026-03-24-added-poe-as-a-built-in-authentication-provider-with-oauth-and-api-key-support|Added Poe as a built-in authentication provider with OAuth and API key support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

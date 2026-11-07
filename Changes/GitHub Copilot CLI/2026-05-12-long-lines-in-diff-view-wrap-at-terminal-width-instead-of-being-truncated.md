@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0af79542223b752fb46f3709ea59f917d70cda5355c8bf091ce2160daa380044
+machine_hash: 328d53d6a525badaffbd7b3283c3e03194e3acfffc9b4006b0af0e36649febe7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,10 +40,10 @@ record:
   title: Long lines in diff view wrap at terminal width instead of being truncated
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added
-  hook args: string field (exec form) that spawns the command directly…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-11-2-developer-workflow-changes-in-v1-0-45|2
   Developer Workflow changes in v1.0.45]]'
+- '[[Changes/OpenCode/2026-05-11-terminal-file-and-directory-paths-now-render-relative-to-the-session-directory-w|Terminal
+  File and directory paths now render relative to the session directory…]]'
 - '[[Changes/Gemini CLI/2026-05-12-2-developer-workflow-changes-in-v0-42-0|2 Developer
   Workflow changes in v0.42.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-12-v1-0-46-github-321427031-1da5ecd0|github-copilot-cli-2026-05-12-v1-0-46-github-321427031-1da5ecd0]]'

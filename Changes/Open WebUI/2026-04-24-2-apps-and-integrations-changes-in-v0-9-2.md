@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5efa2814c7e6211165af3ed35520a2fe28597918d1143f530af5fd886d5d69e
+machine_hash: 748ec52a2136ba69652b880c98808e04314fe56ead29469f8af93f87f8b0239b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.2
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-chat-connectors-sentry-mcp|Chat connectors: Sentry MCP]]
-- Later: 2026-04-24 · Replit · [[Changes/Replit/2026-04-24-integrations|Integrations]]
+- Later: 2026-04-24 · OpenCode · [[Changes/OpenCode/2026-04-24-added-an-experimental-http-api-endpoint-for-mcp-server-status|Added an experimental HTTP API endpoint for MCP server status]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

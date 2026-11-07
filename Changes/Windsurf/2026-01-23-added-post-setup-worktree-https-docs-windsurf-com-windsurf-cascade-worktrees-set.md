@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b18f7e1f9075de1752b683a948e6768d5668c05a943657a116b6f816c1650dd
+machine_hash: 49247ddee233108e25356e418b1d8c7164782acccdea210b45459dbca144f4dd
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,12 +41,11 @@ record:
   title: Added…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-22-add-rename-command-as-alias-for-session-rename|Add
-  /rename command as alias for /session rename]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-22-improve-session-command-visual-hierarchy-and-colors|Improve
-  /session command visual hierarchy and colors]]'
 - '[[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer
   Workflow changes in v2.1.19]]'
+- '[[Changes/Google Antigravity/2026-01-23-terminal-sandboxing|Terminal Sandboxing]]'
+- '[[Changes/OpenCode/2026-01-23-terminal-add-weight-to-fuzzy-search-to-maintain-title-priority-in-tui|Terminal
+  Add weight to fuzzy search to maintain title priority in TUI]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-23-v1-13-12-3d003c56|windsurf-2026-01-23-v1-13-12-3d003c56]]'
 source_type: windsurf_changelog
 theme: developer-workflow
@@ -76,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer Workflow changes in v2.1.19]]
+- Earlier: 2026-01-23 · OpenCode · [[Changes/OpenCode/2026-01-23-terminal-add-weight-to-fuzzy-search-to-maintain-title-priority-in-tui|Terminal Add weight to fuzzy search to maintain title priority in TUI]]
 - Later: 2026-01-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-24-2-developer-workflow-changes-in-v0-0-394|2 Developer Workflow changes in v0.0.394]]
 <!-- chronolog:end -->
 

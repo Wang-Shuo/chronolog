@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3bc61e06468ba6cca107378831e1384b3f5db60b36c4962f381832c41fa1049
+machine_hash: 3194ae20a03e51fe7c65c4664875936f48d99521932fb2e481532728bdc1536f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: '#7931 chore: persist comments in edit'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-11-3-editor-experience-changes-in-1-11-0|3 Editor Experience
-  changes in 1.11.0]]'
 - '[[Changes/Gemini CLI/2025-12-16-3-editor-experience-changes-in-v0-21-0|3 Editor
   Experience changes in v0.21.0]]'
 - '[[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit
   and review tasks in Pulse anytime after you create them]]'
+- '[[Changes/Google Antigravity/2025-12-17-performance-improvements-for-agent-manager-and-for-long-conversations-in-editor|Performance
+  improvements for Agent Manager and for long conversations in editor windows]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a|codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit and review tasks in Pulse anytime after you create them]]
+- Earlier: 2025-12-17 · Google Antigravity · [[Changes/Google Antigravity/2025-12-17-performance-improvements-for-agent-manager-and-for-long-conversations-in-editor|Performance improvements for Agent Manager and for long conversations in editor windows]]
 - Later: 2025-12-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-18-diff-display-uses-your-configured-git-pager-delta-diff-so-fancy|Diff display uses your configured git pager (delta, diff-so-fancy)]]
 <!-- chronolog:end -->
 

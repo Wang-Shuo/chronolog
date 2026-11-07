@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cab1a084230b35ebd32a5ce901f1da8468c2839ec681c1566d63d68c89c05549
+machine_hash: 0fac02910f6dd1a2c9bff3bfcafc2769a5c02c19863a11e9bc3405353bf7a889
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -155,10 +155,10 @@ record:
   title: 34 Safety and Privacy changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-4-safety-and-privacy-changes-in-1-19-0|4 Safety and Privacy
-  changes in 1.19.0]]'
 - '[[Changes/Gemini CLI/2026-11-04-fix-acp-include-mcp-server-and-tool-metadata-in-permission-requests-by-duvanka-p|fix(acp):
   include MCP server and tool metadata in permission requests]]'
+- '[[Changes/OpenClaw/2026-11-05-2-safety-and-privacy-changes-in-v2026-11-1|2 Safety
+  and Privacy changes in v2026.11.1]]'
 - '[[Changes/Codex CLI/2026-11-06-57985-skip-read-only-volume-root-expansion-in-the-mxc-sandbox-iceweasel-oai|♯57985
   Skip read-only volume-root expansion in the MXC sandbox @iceweasel-oai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
@@ -277,6 +277,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-57985-skip-read-only-volume-root-expansion-in-the-mxc-sandbox-iceweasel-oai|♯57985 Skip read-only volume-root expansion in the MXC sandbox @iceweasel-oai]]
+- Later: 2026-11-06 · OpenCode · [[Changes/OpenCode/2026-11-06-3-safety-and-privacy-changes-in-v2-2-6|3 Safety and Privacy changes in v2.2.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5cf52626dadfdfdb968f69f3e48c9fb09ae2c14f03d8f884359ef0f345a52280
+machine_hash: 690057215379c6fc09319843bd47369aa3a5a57d0a7d490c6b957dce7dc8b497
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: '#13504 Preserve persisted thread git info in resume @joeytrasatti-openai'
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-03-added-git-support-for-version-control-in-projects|Added
-  Git support for version control in projects]]'
+- '[[Changes/OpenCode/2026-03-04-5-developer-workflow-changes-in-v1-2-17|5 Developer
+  Workflow changes in v1.2.17]]'
 - '[[Changes/Claude Code/2026-03-05-6-developer-workflow-changes-in-v2-1-69|6 Developer
   Workflow changes in v2.1.69]]'
 - '[[Changes/Codex CLI/2026-03-05-7-developer-workflow-changes-in-rust-v0-110-0|7

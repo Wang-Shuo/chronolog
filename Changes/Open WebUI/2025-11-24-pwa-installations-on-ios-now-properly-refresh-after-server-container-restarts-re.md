@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d379ea2126f6d00171dee645f659483cc98023b214a6279e2faf90e3cb9d1305
+machine_hash: e33833ecfc03fa39c81b5d9d8b27147792ab3991c8f5940c296f4eee8fb83ee2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,12 @@ record:
     restarts…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-13-6387-for-npm-upgrade-on-windows-go-through-cmd-exe-to-get-path-traversal-working|♯6387
-  — For npm upgrade on Windows, go through cmd.exe to get path traversal working…]]'
 - '[[Changes/Codex CLI/2025-11-19-3-mobile-and-desktop-changes-in-rust-v0-59-0|3 Mobile
   and Desktop changes in rust-v0.59.0]]'
 - '[[Changes/Gemini/2025-11-20-drive-with-gemini-in-android-auto|Drive with Gemini
   in Android Auto]]'
+- '[[Changes/Midjourney/2025-11-20-along-with-the-profiles-launch-today-we-ve-updated-the-names-of-a-few-features-t|Along
+  with the Profiles launch today, we’ve updated the names of a few features…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-11-24-v0-6-37-github-264669867-8b715894|open-webui-2025-11-24-v0-6-37-github-264669867-8b715894]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-11-20 · Gemini · [[Changes/Gemini/2025-11-20-drive-with-gemini-in-android-auto|Drive with Gemini in Android Auto]]
+- Earlier: 2025-11-20 · Midjourney · [[Changes/Midjourney/2025-11-20-along-with-the-profiles-launch-today-we-ve-updated-the-names-of-a-few-features-t|Along with the Profiles launch today, we’ve updated the names of a few features…]]
 - Later: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-improve-pty-resize-error-handling-for-windows-by-galz10-in-https-github-com-goog|Improve pty resize error handling for Windows]]
 <!-- chronolog:end -->
 

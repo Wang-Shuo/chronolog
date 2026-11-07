@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e39aa9aade94a596a4ef84ef9d996ca5b82531ded6c9d1ecb2b4acae5b916746
+machine_hash: fe8059760ddad0f6812b16606b45d1cfd266be50ff7f5e3e84d41e25d3cd418f
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Remote Control clients can now query `@`-file autocomplete suggestions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript
-  view footer now shows  (dump to scrollback) and v (open in editor)…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A
   clear error message is displayed when the configured editor cannot be launched]]'
 - '[[Changes/Ollama/2026-04-16-hermes-and-github-copilot-cli-in-ollama-launch-added-both-integrations-which-can|Hermes
   and GitHub Copilot CLI in ollama launch. Added both integrations…]]'
+- '[[Changes/OpenCode/2026-04-16-core-fixed-github-copilot-overbilling-issue|Core
+  Fixed Github Copilot overbilling issue]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-16 · Ollama · [[Changes/Ollama/2026-04-16-hermes-and-github-copilot-cli-in-ollama-launch-added-both-integrations-which-can|Hermes and GitHub Copilot CLI in ollama launch. Added both integrations…]]
-- Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor Experience changes in v2.1.116]]
+- Earlier: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-core-fixed-github-copilot-overbilling-issue|Core Fixed Github Copilot overbilling issue]]
+- Later: 2026-04-19 · OpenCode · [[Changes/OpenCode/2026-04-19-core-fix-github-copilot-anthropic-haiku-requests-by-disabling-unsupported-tool-s|Core Fix GitHub Copilot Anthropic Haiku requests by disabling unsupported tool streaming]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

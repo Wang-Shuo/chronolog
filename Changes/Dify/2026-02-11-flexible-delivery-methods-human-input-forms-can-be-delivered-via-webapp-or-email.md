@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f51e2f6b3e4b973e4ae164c0e69d9e273009a74ef80d364fb2f577c111a1eb2
+machine_hash: 068026c59c93268ca9568756b9b70e63099cc5fd987ef373fd204b1bb36cade8
 product: dify
 product_name: Dify
 record:
@@ -48,9 +48,10 @@ record:
   title: '**Flexible Delivery Methods:** Human input forms can be delivered…'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-09-agents-platform-7f0c0d|Agents Platform]]'
 - '[[Changes/Gemini CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0|4 Agent Mode changes
   in v0.28.0]]'
+- '[[Changes/OpenCode/2026-02-10-4-agent-mode-changes-in-v1-1-54|4 Agent Mode changes
+  in v1.1.54]]'
 - '[[Changes/Codex CLI/2026-02-11-10-agent-mode-changes-in-rust-v0-99-0|10 Agent Mode
   changes in rust-v0.99.0]]'
 source_release: '[[Releases/Dify/dify-2026-02-11-1-13-0-github-285073967-47691626|dify-2026-02-11-1-13-0-github-285073967-47691626]]'

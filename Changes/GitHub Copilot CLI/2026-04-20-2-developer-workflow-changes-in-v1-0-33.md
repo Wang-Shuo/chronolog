@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38006b1f5391ba3bb591918f2c778b0969f567613fbd2d2e691d200e035636a8
+machine_hash: c6c10e80870519b5b02e9c6796490bbdb888fd39282606030a3f130f98c093de
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: 2 Developer Workflow changes in v1.0.33
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-3-developer-workflow-changes-in-v2-1-113|3 Developer
-  Workflow changes in v2.1.113]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-17-3-developer-workflow-changes-in-v1-0-32|3
-  Developer Workflow changes in v1.0.32]]'
+- '[[Changes/OpenCode/2026-04-17-3-developer-workflow-changes-in-v1-4-8|3 Developer
+  Workflow changes in v1.4.8]]'
+- '[[Changes/OpenCode/2026-04-19-terminal-add-a-full-session-option-when-forking-from-the-session-dialog|Terminal
+  Add a full-session option when forking from the session dialog]]'
 - '[[Changes/Codex CLI/2026-04-20-6-developer-workflow-changes-in-rust-v0-122-0|6
   Developer Workflow changes in rust-v0.122.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-20-v1-0-33-github-311308778-029d953b|github-copilot-cli-2026-04-20-v1-0-33-github-311308778-029d953b]]'
@@ -83,7 +83,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.33
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-6-developer-workflow-changes-in-rust-v0-122-0|6 Developer Workflow changes in rust-v0.122.0]]
-- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-46-developer-workflow-changes-in-v0-9-0|46 Developer Workflow changes in v0.9.0]]
+- Later: 2026-04-20 · OpenCode · [[Changes/OpenCode/2026-04-20-desktop-added-a-separate-terminal-font-setting-and-bundled-jetbrainsmono-nerd-fo|Desktop Added a separate terminal font setting and bundled JetBrainsMono Nerd Font Mono]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

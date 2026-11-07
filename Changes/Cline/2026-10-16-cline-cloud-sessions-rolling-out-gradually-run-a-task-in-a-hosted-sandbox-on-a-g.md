@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62b75c72b788cdb76567d21c1fde38e5064233a3f10754bbadd285cd441805f8
+machine_hash: 5f9b35e591e2bee242c5c85ceb81e746d6e203c8866c1b53c054150c7e48c35c
 product: cline
 product_name: Cline
 record:
@@ -49,10 +49,10 @@ record:
   title: Cline Cloud sessions, rolling out gradually
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-15-5-safety-and-privacy-changes-in-v2-1-301|5 Safety
-  and Privacy changes in v2.1.301]]'
 - '[[Changes/Codex CLI/2026-10-15-18-safety-and-privacy-changes-in-rust-v0-163-0|18
   Safety and Privacy changes in rust-v0.163.0]]'
+- '[[Changes/Google Antigravity/2026-10-15-the-review-permissions-dialog-now-wraps-long-commands-and-paths-so-you-can-read|The
+  Review permissions dialog now wraps long commands and paths, so you can read…]]'
 - '[[Changes/Claude Code/2026-10-16-2-safety-and-privacy-changes-in-v2-1-302|2 Safety
   and Privacy changes in v2.1.302]]'
 source_release: '[[Releases/Cline/cline-2026-10-16-v4-1-25-github-414630227-91f6e52e|cline-2026-10-16-v4-1-25-github-414630227-91f6e52e]]'

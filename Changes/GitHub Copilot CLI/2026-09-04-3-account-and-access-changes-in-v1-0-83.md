@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0fdfb4a035767650ee1be9bbf9feb00910dd763bd949dbe8bd584354947d25bd
+machine_hash: 82e4a6c3a5fc28233163d489da20a3bbdf1344f62a096718ae5acf87e0b95267
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Account and Access changes in v1.0.83
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-02-2-account-and-access-changes-in-v4-1-17|2 Account and
-  Access changes in v4.1.17]]'
 - '[[Changes/Codex CLI/2026-09-03-42128-https-github-com-openai-codex-pull-42128-prepare-mcp-connections-for-coord|♯42128((source
   link) Prepare MCP connections…]]'
+- '[[Changes/OpenClaw/2026-09-03-12-account-and-access-changes-in-v2026-9-1|12 Account
+  and Access changes in v2026.9.1]]'
 - '[[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account
   and Access changes in v2.1.261]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
@@ -97,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.83
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account and Access changes in v2.1.261]]
-- Later: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-send-app-emails-from-tanstack-start-projects-without-cloud|Send app emails from TanStack Start projects without Cloud]]
+- Later: 2026-09-04 · OpenCode · [[Changes/OpenCode/2026-09-04-desktop-use-the-desktop-client-id-during-opencode-account-device-authentication|Desktop Use the desktop client ID during OpenCode account device authentication]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

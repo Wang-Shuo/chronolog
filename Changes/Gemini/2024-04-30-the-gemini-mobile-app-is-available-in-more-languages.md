@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cd58a5ebdee58a0368992e56ca58bb6f769661b7731e46b985ac0550e02b12e9
+machine_hash: 8e180f321a72b43b90cd776b0200009f9b3cf5b6875ae3bc8678d7d2bc662dda
 product: gemini
 product_name: Gemini
 record:
@@ -50,8 +50,8 @@ record:
   title: The Gemini mobile app is available in more languages
   type: change
 related_changes:
-- '[[Changes/Dify/2024-03-12-2-mobile-and-desktop-changes-in-0-5-9|2 Mobile and Desktop
-  changes in 0.5.9]]'
+- '[[Changes/Midjourney/2024-03-21-ranking-goes-fastest-if-you-use-the-1-2-hotkeys-on-pc-or-use-it-on-mobile|Ranking
+  goes fastest if you use the 1/2 hotkeys on PC or use it on mobile]]'
 - '[[Changes/Ollama/2024-03-26-pasting-multi-line-strings-will-now-work-on-windows|Pasting
   multi-line strings will now work on Windows]]'
 - '[[Changes/Open WebUI/2024-04-28-prompt-input-behavior-on-mobile-enter-key-prompt-submission-disabled-on-mobile-d|⌨️

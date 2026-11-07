@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 872a8666e5f4dfd9a79d2b6d07534afe0e4964b37e199cfa9a1ae8c19bea17c6
+machine_hash: e6a3f662542f293b6c7ec823460e0aba82c0e7d24cca408d76291af94f2bfbb2
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: Typing `/resume` in the agent view now opens a picker of past sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface
-  Experience changes in v2.1.210]]'
 - '[[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|Improved
   terminal layout and rendering performance]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5
   Interface Experience changes in v1.0.71]]'
+- '[[Changes/OpenCode/2026-07-16-added-an-up-arrow-shortcut-to-close-the-subagent-picker-when-the-first-item-is-s|Added
+  an Up Arrow shortcut to close the subagent picker when the first item is selected]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: interface-experience
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5 Interface Experience changes in v1.0.71]]
+- Earlier: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-added-an-up-arrow-shortcut-to-close-the-subagent-picker-when-the-first-item-is-s|Added an Up Arrow shortcut to close the subagent picker when the first item is selected]]
 - Later: 2026-07-17 · Cursor · [[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]
 <!-- chronolog:end -->
 

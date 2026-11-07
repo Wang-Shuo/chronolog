@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1c7054baaf5ff07d95d6fd4b74b36e9e72e9d38ad607ead53114bdf153b4e688
+machine_hash: 49e9c2e05aa5de508d39def68909f490ad1539a1d163014dbee30ce298d490f0
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -47,8 +47,8 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-refactor-inject-session-into-audio-tts-by-myshkin451-in-https-github-com-langgen|refactor:
-  inject session into audio TTS]]'
+- '[[Changes/Google Antigravity/2026-06-25-antigravity-guide-audio-support-search-improvements-and-performance-fixes|Antigravity
+  Guide, audio support, search improvements, and performance fixes]]'
 - '[[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|Improved
   dictation in ChatGPT]]'
 - '[[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved

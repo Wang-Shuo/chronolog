@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c800c5485d2e3455fd4272c045c8cb68aaa2d70da3888ce63e9a2687ddd8207c
+machine_hash: fefa3e180055ac780d05fdf940c898f851d10a6d01551f151684406d21e41b66
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: 'feat: allow overwriting a secret value from the edit form'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-27-7-editor-experience-changes-in-v0-11-0|7 Editor
-  Experience changes in v0.11.0]]'
 - '[[Changes/Dify/2026-07-28-feat-web-locate-workflow-nodes-by-node-id-in-the-workflow-editor-by-ruanimal-in|feat(web):
   locate workflow nodes by node_id in the workflow editor]]'
+- '[[Changes/Google Antigravity/2026-07-28-added-preview-temporary-tabs-to-the-auxiliary-pane-allowing-files-to-open-in-a-t|Added
+  preview (temporary) tabs to the auxiliary pane, allowing files to open…]]'
 - '[[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor
   Experience changes in rust-v0.146.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c|openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c]]'

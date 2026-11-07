@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86472063a887896c210594af9205c0d76dd1987fe05981e3bff7554001890ee3
+machine_hash: 935722891ab8a0e3c128ef7f2816531097ec52358ffc7dd231316fb9bbc58b12
 product: openhands
 product_name: OpenHands
 record:
@@ -54,10 +54,9 @@ record:
     in-memory…
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-23-custom-icon-restoration-we-ve-reintroduced-the-flexibility-and-personalization-o|Custom
-  Icon Restoration]]'
-- '[[Changes/Dify/2024-11-26-llm-memory-processing-corrected-errors-in-llm-memory-handling-11103-and-11106|LLM
-  Memory Processing: Corrected errors in LLM memory handling]]'
+- '[[Changes/Midjourney/2024-12-16-more-features-information|More Features / Information]]'
+- '[[Changes/Midjourney/2024-12-16-we-re-releasing-an-early-version-of-our-new-model-personalization-infrastructure|we’re
+  releasing an early version of our new model personalization infrastructure today]]'
 - '[[Changes/Dify/2025-01-07-database-and-memory-optimizations-that-not-only-improve-performance-but-they-ll|Database
   and memory optimizations that not only improve performance but they''ll…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-07-0-19-0-github-193581612-a242e2a9|openhands-2025-01-07-0-19-0-github-193581612-a242e2a9]]'

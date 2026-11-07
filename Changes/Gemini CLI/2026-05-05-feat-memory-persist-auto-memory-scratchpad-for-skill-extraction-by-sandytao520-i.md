@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 084c1ae1eda8cd42edf60fd3959d3876196b055619f848ec7e85fe55f16207b1
+machine_hash: d22a40d6fa85958b7f76159784d8d1d247bc888ccc93c30bd660ff5b2dead0c3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat(memory): persist auto-memory scratchpad for skill extraction'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-refactor-memory-replace-memorymanageragent-with-prompt-driven-memory-editing-acr|refactor(memory):
-  replace MemoryManagerAgent with prompt-driven memory editing…]]'
 - '[[Changes/Codex CLI/2026-04-30-12-memory-and-personalization-changes-in-rust-v0-128-0|12
   Memory and Personalization changes in rust-v0.128.0]]'
+- '[[Changes/OpenCode/2026-05-04-core-prevent-large-diffs-from-using-unbounded-memory|Core
+  Prevent large diffs from using unbounded memory]]'
 - '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory
   sources and more personalized responses in ChatGPT]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6|gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6]]'

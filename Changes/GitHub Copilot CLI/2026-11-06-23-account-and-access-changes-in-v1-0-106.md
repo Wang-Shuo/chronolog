@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3df80467a28477f7a0b8ec2f2233d6d26f1c171c8a267cdf778683ebff58b801
+machine_hash: adeee822e197463f6a98799cdde8e3fc280e2a8fc5392322f6642c5f58e4f499
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -110,10 +110,10 @@ record:
   title: 23 Account and Access changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-ci-deps-bump-docker-login-action-from-4-6-0-to-4-7-0-in-the-actions-group-across|ci(deps):
-  bump docker/login-action from 4.6.0 to 4.7.0 in the actions group across 1…]]'
 - '[[Changes/Dify/2026-11-04-2-account-and-access-changes-in-1-19-0|2 Account and
   Access changes in 1.19.0]]'
+- '[[Changes/OpenClaw/2026-11-05-4-account-and-access-changes-in-v2026-11-1|4 Account
+  and Access changes in v2026.11.1]]'
 - '[[Changes/Codex CLI/2026-11-06-5-account-and-access-changes-in-rust-v0-167-0|5
   Account and Access changes in rust-v0.167.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
@@ -210,6 +210,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 ## Nearby in Account and Access
 
 - Earlier: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-5-account-and-access-changes-in-rust-v0-167-0|5 Account and Access changes in rust-v0.167.0]]
+- Later: 2026-11-06 · OpenCode · [[Changes/OpenCode/2026-11-06-desktop-mcp-sign-in-now-accepts-a-pasted-redirect-url-when-automatic-redirection|Desktop MCP sign-in now accepts a pasted redirect URL when automatic redirection…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

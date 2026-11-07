@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 279c008c834a68128b728da06b46c0545dd38374abda1ce919a8f77f84f81eae
+machine_hash: 55411e8475920b0fbcf1237e649dd5a125074f2d8b1bc678160eebc2460d74f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     API spend…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-24-chat-latest-for-your-app-s-ai-features|Chat Latest
-  for your app''s AI features]]'
 - '[[Changes/Dify/2026-08-25-93-model-support-changes-in-1-17-0|93 Model Support changes
   in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-56-model-support-changes-in-v0-11-1|56 Model Support
   changes in v0.11.1]]'
+- '[[Changes/OpenCode/2026-08-25-2-model-support-changes-in-v1-18-23|2 Model Support
+  changes in v1.18.23]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-56-model-support-changes-in-v0-11-1|56 Model Support changes in v0.11.1]]
+- Earlier: 2026-08-25 · OpenCode · [[Changes/OpenCode/2026-08-25-2-model-support-changes-in-v1-18-23|2 Model Support changes in v1.18.23]]
 - Later: 2026-08-26 · Cline · [[Changes/Cline/2026-08-26-credentials-embedded-in-git-remote-urls-are-now-redacted-from-the-workspace-info|Credentials embedded in git remote URLs are now redacted from the workspace…]]
 <!-- chronolog:end -->
 

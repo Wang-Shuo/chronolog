@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a34fe3f925bba6d8dc51520a6915053c954bbc48e39ac206d18cb0393498e8ff
+machine_hash: 288b20ed77e858335c85831c2e4f9f77881e544571ea0cc63328e8d068f7b256
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,12 +57,12 @@ record:
   title: Introducing GPT-6 Astra
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-guardian-approval-review-now-honors-node-repl-policies-provided-through-model-me|Guardian
-  approval review now honors Node REPL policies provided through model metadata]]'
-- '[[Changes/Cline/2026-09-02-3-model-support-changes-in-v4-1-17|3 Model Support changes
-  in v4.1.17]]'
 - '[[Changes/Ollama/2026-09-02-honor-gguf-model-defined-default-parameters|Honor GGUF
   model defined default parameters]]'
+- '[[Changes/OpenCode/2026-09-02-core-limit-anthropic-thinking-block-binding-to-claude-5-1-models-so-older-deploy|Core
+  Limit Anthropic thinking block binding to Claude 5.1+ models so older…]]'
+- '[[Changes/OpenCode/2026-09-02-default-provider-header-timeouts-to-five-minutes-so-slow-model-startups-fail-les|Default
+  provider header timeouts to five minutes so slow model startups fail less often]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02|chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-02 · Ollama · [[Changes/Ollama/2026-09-02-honor-gguf-model-defined-default-parameters|Honor GGUF model defined default parameters]]
+- Earlier: 2026-09-02 · OpenCode · [[Changes/OpenCode/2026-09-02-default-provider-header-timeouts-to-five-minutes-so-slow-model-startups-fail-les|Default provider header timeouts to five minutes so slow model startups fail less often]]
 - Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-2-model-support-changes-in-v2-1-260|2 Model Support changes in v2.1.260]]
 <!-- chronolog:end -->
 

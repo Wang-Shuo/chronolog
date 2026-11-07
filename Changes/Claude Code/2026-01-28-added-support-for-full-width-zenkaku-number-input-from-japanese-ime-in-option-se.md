@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0f1805b1bebab30552ddb02986324b14a64360291d0e3aa4bb9e50261c6aa2ed
+machine_hash: 894d98d40ac4aa69e577f54cd3bd1927e6c519a82663b401133679a480bb049e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     option…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-18-ensure-animated-or-non-animated-banner-is-displayed-based-on-banner-and-screen-r|Ensure
-  animated or non-animated banner is displayed based on banner and screen…]]'
-- '[[Changes/Dify/2025-12-25-chore-add-apptypeselector-tests-and-improve-clear-button-accessibility-by-lyzno1|chore:
-  add AppTypeSelector tests and improve clear button accessibility]]'
 - '[[Changes/Dify/2026-01-13-2-accessibility-and-localization-changes-in-1-11-3|2
   Accessibility and Localization changes in 1.11.3]]'
+- '[[Changes/OpenCode/2026-01-21-5-accessibility-and-localization-changes-in-v1-1-29|5
+  Accessibility and Localization changes in v1.1.29]]'
+- '[[Changes/OpenCode/2026-01-22-2-accessibility-and-localization-changes-in-v1-1-32|2
+  Accessibility and Localization changes in v1.1.32]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-2-accessibility-and-localization-changes-in-1-11-3|2 Accessibility and Localization changes in 1.11.3]]
-- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-chore-improve-accessibility-for-learn-more-link-by-khmandarrin-in-https-github-c|chore: improve accessibility for learn more link]]
+- Earlier: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-2-accessibility-and-localization-changes-in-v1-1-32|2 Accessibility and Localization changes in v1.1.32]]
+- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-2-accessibility-and-localization-changes-in-v1-1-37|2 Accessibility and Localization changes in v1.1.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

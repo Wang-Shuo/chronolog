@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49c1e2d9eb83c48e38adf2222164b309f802eff23e1191e388ef08efc5834986
+machine_hash: 4552cae6268caa909e22dcfb43196a205093f75f26ac4c633845602f02a13fe3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 10 Mobile and Desktop changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated
-  images will continue to appear in the Images tab]]'
-- '[[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and|The
-  PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]]'
+- '[[Changes/OpenCode/2026-05-15-desktop-fixed-archived-sessions-being-reprocessed-when-their-archive-state-did-n|Desktop
+  Fixed archived sessions being reprocessed when their archive state did not change]]'
+- '[[Changes/OpenCode/2026-05-15-desktop-fixed-windows-app-detection-by-reading-where-output-correctly|Desktop
+  Fixed Windows app detection by reading where output correctly]]'
 - '[[Changes/v0/2026-05-15-3-mobile-and-desktop-changes-in-claude-opus-4-7-fast-agent-browser|3
   Mobile and Desktop changes in Claude Opus 4.7 Fast, agent browser…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'

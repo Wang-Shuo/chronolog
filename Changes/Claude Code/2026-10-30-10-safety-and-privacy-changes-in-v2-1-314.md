@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7288c212bce17c55205b8f509dace69751a24945c83da4696ea702e1800c1984
+machine_hash: 6bc7191905e72b75c10c1dac926fd13db7c0396d9fc8942cddc7997dade2642d
 product: claude-code
 product_name: Claude Code
 record:
@@ -74,12 +74,12 @@ record:
   title: 10 Safety and Privacy changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-10-safety-and-privacy-changes-in-rust-v0-166-0|10
-  Safety and Privacy changes in rust-v0.166.0]]'
 - '[[Changes/Lovable/2026-10-29-run-a-deep-scan-from-the-project-chat|Run a Deep scan
   from the project chat]]'
 - "[[Changes/Open WebUI/2026-10-29-security-advisory-this-release-contains-security-fixes-we-strongly-recommend-upd|\U0001F6E1️
   Security Advisory: This release contains security fixes]]"
+- '[[Changes/OpenClaw/2026-10-29-security-release-v2026-10-9-adds-remediations-for-vulnerable-dependencies-and-re|Security
+  release: v2026.10.9 adds remediations for vulnerable dependencies…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: safety-privacy
@@ -137,8 +137,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-security-advisory-this-release-contains-security-fixes-we-strongly-recommend-upd|🛡️ Security Advisory: This release contains security fixes]]
-- Later: 2026-11-01 · Lovable · [[Changes/Lovable/2026-11-01-download-an-sbom-for-your-project|Download an SBOM for your project]]
+- Earlier: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-security-release-v2026-10-9-adds-remediations-for-vulnerable-dependencies-and-re|Security release: v2026.10.9 adds remediations for vulnerable dependencies…]]
+- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-core-preserved-permission-reasons-and-feedback-in-mcp-failures-and-made-code-mod|Core Preserved permission reasons and feedback in MCP failures, and made Code Mode…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

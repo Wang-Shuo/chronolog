@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c9863a15f5bf0237ef0de16ed7778a42a98b5ced6ba0d26c3edb63e5113d4db
+machine_hash: aa800cdabdf3880dbd19f6de3c599a9724632eec799db25e258ae8597273eb87
 product: dify
 product_name: Dify
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.13.2
 ## Nearby in Interface Experience
 
 - Earlier: 2024-12-06 · Aider · [[Changes/Aider/2024-12-06-2-interface-experience-changes-in-v0-67-0|2 Interface Experience changes in v0.67.0]]
-- Later: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-quick-screen-capture-button-effortlessly-capture-your-screen-with-a-single-click|📸 Quick Screen Capture Button]]
+- Later: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-action-bar|Action Bar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

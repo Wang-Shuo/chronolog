@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e979cb5a3d36668a71cc5c9a5b0cec52f584153a1178934f278d728aee36744
+machine_hash: 97ec2af815a44c8f145cb73d63d5af93353f934e120396991491c6318cf2272c
 product: cline
 product_name: Cline
 record:
@@ -38,12 +38,12 @@ record:
   title: Add create-pull-request skill
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-13-5-developer-workflow-changes-in-1-11-3|5 Developer Workflow
-  changes in 1.11.3]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-13-2-developer-workflow-changes-in-v0-0-380|2
-  Developer Workflow changes in v0.0.380]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-add-new-as-an-alias-for-clear-command|Add
   /new as an alias for /clear command]]'
+- '[[Changes/OpenCode/2026-01-13-4-developer-workflow-changes-in-v1-1-16|4 Developer
+  Workflow changes in v1.1.16]]'
+- '[[Changes/OpenCode/2026-01-13-terminal-prevent-question-tool-keybindings-when-dialog-is-open|Terminal
+  Prevent question tool keybindings when dialog is open]]'
 source_release: '[[Releases/Cline/cline-2026-01-14-v3-50-0-github-276897691-eb68a5d7|cline-2026-01-14-v3-50-0-github-276897691-eb68a5d7]]'
 source_type: github_releases
 theme: developer-workflow
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-add-new-as-an-alias-for-clear-command|Add /new as an alias for /clear command]]
+- Earlier: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-terminal-prevent-question-tool-keybindings-when-dialog-is-open|Terminal Prevent question tool keybindings when dialog is open]]
 - Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-5-developer-workflow-changes-in-rust-v0-81-0|5 Developer Workflow changes in rust-v0.81.0]]
 <!-- chronolog:end -->
 

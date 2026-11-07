@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 891ed4afff72f859d9c9f469c14a8f0cc12f803586feaada72ffd5231da2f553
+machine_hash: 20298f50aae3178a6b8ce0fee94afc811ed6358e7c462ed99f3cd39b762b7cb3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-02-27 · Open WebUI · [[Changes/Open WebUI/2025-02-27-instant-document-upload-with-bypass-embedding-retrieval-admins-can-now-enable-by|🚀 Instant Document Upload with Bypass Embedding & Retrieval]]
-- Later: 2025-03-07 · OpenHands · [[Changes/OpenHands/2025-03-07-2-context-window-changes-in-0-28-0|2 Context Window changes in 0.28.0]]
+- Later: 2025-03-05 · Gamma · [[Changes/Gamma/2025-03-05-good-news-gamma-s-ai-just-leveled-up-paid-users-now-get-more-detailed-outlines-i|AI outlines for Plus and Pro users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

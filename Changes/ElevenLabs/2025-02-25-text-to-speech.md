@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7a316a6f7ccd91765205da34c46f26ebacabbbd654c557c5af3d67e2321f609b
+machine_hash: 954685259829f53147251563aef199e1935d79f6ec7fca6a423a00562e9d099d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text selection improvements: you can now select text across horizontal rulers]]
-- Later: 2025-02-27 · Open WebUI · [[Changes/Open WebUI/2025-02-27-general-stability-enhancements-backend-and-frontend-refactoring-improves-perform|⚙️ General Stability Enhancements]]
+- Later: 2025-02-26 · Gamma · [[Changes/Gamma/2025-02-26-we-ve-added-a-new-way-to-share-your-work-faster-and-more-efficiently-you-can-now|Export to Google Slides]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

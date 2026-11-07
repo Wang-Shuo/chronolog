@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a29a39fd3bef08ebd568dacab82536ce7f97366ace48c98e40ea300bcdb8fba4
+machine_hash: b79c6eab7ffced08c6cb2e79f250c4e93d7fa3927a97916b1a890478a6484a3e
 product: replit
 product_name: Replit
 record:
@@ -48,10 +48,10 @@ record:
   title: Teams App Store experience
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-13-organization-app-sharing-improvement|Organization app
-  sharing improvement]]'
 - "[[Changes/Open WebUI/2025-06-16-global-image-compression-option-effortlessly-set-image-compression-globally-so-a|\U0001F5BC️
   Global Image Compression Option]]"
+- '[[Changes/Midjourney/2025-06-19-heya-everybody-glad-you-re-enjoying-creating-and-sharing-videos-we-re-noticing-t|Heya
+  everybody! Glad you''re enjoying creating and sharing videos]]'
 - '[[Changes/Lovable/2025-06-26-spotlight|Spotlight]]'
 source_release: '[[Releases/Replit/replit-2025-07-04-2025-07-04-cb49ecc5|replit-2025-07-04-2025-07-04-cb49ecc5]]'
 source_type: replit_changelog

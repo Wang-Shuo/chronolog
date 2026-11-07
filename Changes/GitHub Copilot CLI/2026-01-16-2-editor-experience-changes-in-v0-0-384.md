@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 312200a19f69291e76a9021a7f769eabe1a1dfabb2a31ddff68896549ec64b57
+machine_hash: 999f95fc38f27fbc19c8aee14cc9778e21dd1d95a188341450ace4d2d8880474
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.384
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Ask mode in CLI]]
-- Later: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-added-history-based-autocomplete-in-bash-mode-type-a-partial-command-and-press-t|Added history-based autocomplete in bash mode (!) - type a partial command…]]
+- Later: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-2-editor-experience-changes-in-v1-1-26|2 Editor Experience changes in v1.1.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

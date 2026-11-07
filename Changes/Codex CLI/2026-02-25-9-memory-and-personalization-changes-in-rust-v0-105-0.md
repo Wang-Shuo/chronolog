@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 113c4dbe345bfd52119eadb405925920a3da9c1daf21f156b190bd06b80685c0
+machine_hash: d72ee1eda8b0f28add7a056bf12e1a9e02a6625a1d267301a1fbde467607f82c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -60,8 +60,8 @@ record:
   title: 9 Memory and Personalization changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-2-memory-and-personalization-changes-in-v0-0-412|2
-  Memory and Personalization changes in v0.0.412]]'
+- '[[Changes/Midjourney/2026-02-20-we-re-now-in-the-final-round-of-the-v8-image-rating-party|We''re
+  now in the FINAL ROUND of the V8 image rating party]]'
 - '[[Changes/Replit/2026-02-20-background-memory-compression|Background memory compression]]'
 - '[[Changes/Open WebUI/2026-02-23-2-memory-and-personalization-changes-in-v0-8-4|2
   Memory and Personalization changes in v0.8.4]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 7a03ee17f33507c8a1bf621e8e310da2a105856990ae7bb7f031a19e1540215e
+machine_hash: eb76b6d5c5642d448cf90e14df6627dbcdb71f930ce70f56c4cd43a8819866cf
 product: lovable
 product_name: Lovable
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-22-3-model-support-changes-in-v1-0-103|3 Model Support changes in v1.0.103]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model Support changes in rust-v0.164.0]]
+- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-4-model-support-changes-in-v2026-10-6|4 Model Support changes in v2026.10.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

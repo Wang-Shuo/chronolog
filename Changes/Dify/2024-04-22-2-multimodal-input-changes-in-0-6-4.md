@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f309bb88f3b07f4c9c94a6a2728789296274e533be3aa96c10f274e01bf5ad39
+machine_hash: 182a9b3eaa0c4747e8845db1f8a8069e38b728f4463cf25fb442a2d633f654ea
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Multimodal Input changes in 0.6.4
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-02-3-multimodal-input-changes-in-v0-1-23|3 Multimodal
-  Input changes in v0.1.23]]'
+- '[[Changes/Runway/2024-04-05-create-presets-to-easily-reuse-gen-2-prompt-text-camera-movements-motion-brushes|Custom
+  Gen-2 presets]]'
 - '[[Changes/Dify/2024-04-11-3-multimodal-input-changes-in-0-6-2|3 Multimodal Input
   changes in 0.6.2]]'
 - '[[Changes/Aider/2024-04-21-4-turbo-vision|--4-turbo-vision]]'

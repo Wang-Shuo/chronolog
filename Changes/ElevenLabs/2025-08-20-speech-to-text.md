@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: dabcc29ac9db9ec26c3d39b23f1c80f7f4aeda494844ea16b2bc4604bf992942
+machine_hash: dbc93befbd59ecca52a9ab1fa57d1e88fffc5d92cee3a5406e97bd609c98c382
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-admin-first-whisper-language-priority-the-global-whisper-language-setting-now-ac|🗣️ Admin-First Whisper Language Priority]]
-- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-2-voice-and-audio-changes-in-v0-6-23|2 Voice and Audio changes in v0.6.23]]
+- Later: 2025-08-20 · Runway · [[Changes/Runway/2025-08-20-change-the-voice-of-your-performances-directly-from-within-the-act-two-interface|Voices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

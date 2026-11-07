@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1fa0713ee5d0103fb3cf6ba8e612c05838851008936c9c9866c5d28dbdcdf6d0
+machine_hash: c1e64c92f7184d62f747fcbccc980dcdc8ca6a30419b75b39a6dbb3af4309d08
 product: open-webui
 product_name: Open WebUI
 record:
@@ -119,12 +119,12 @@ record:
   title: 17 Developer Workflow changes in v0.8.9
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-06-2-developer-workflow-changes-in-v1-0-2|2
-  Developer Workflow changes in v1.0.2]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-06-users-are-prompted-for-shell-commands-with-potentially-dangerous-expansion-or-su|Users
-  are prompted for shell commands with potentially dangerous expansion…]]'
+- '[[Changes/OpenCode/2026-03-06-3-developer-workflow-changes-in-v1-2-20-1|3 Developer
+  Workflow changes in v1.2.20 + 1]]'
 - '[[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer
   Workflow changes in v2.1.71]]'
+- '[[Changes/OpenCode/2026-03-07-2-developer-workflow-changes-in-v1-2-21|2 Developer
+  Workflow changes in v1.2.21]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb|open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb]]'
 source_type: github_releases
 theme: developer-workflow
@@ -200,8 +200,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.9
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer Workflow changes in v2.1.71]]
-- Later: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-5-developer-workflow-changes-in-v1-0-3|5 Developer Workflow changes in v1.0.3]]
+- Earlier: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-2-developer-workflow-changes-in-v1-2-21|2 Developer Workflow changes in v1.2.21]]
+- Later: 2026-03-08 · OpenCode · [[Changes/OpenCode/2026-03-08-3-developer-workflow-changes-in-v1-2-22|3 Developer Workflow changes in v1.2.22]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

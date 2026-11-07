@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3e649a6fb7d3f7a3e2b2f4a794f6aca9da08b6652c6bdd5ff8b0f091513b29c
+machine_hash: 884b6a8d954aecf0f31708a9cd13c48f136356c886982568c6fc0ecdaa8c2a85
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,8 +56,8 @@ record:
   title: 9 Collaboration changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-15-2-collaboration-changes-in-rust-v0-85-0|2 Collaboration
-  changes in rust-v0.85.0]]'
+- '[[Changes/Granola/2026-01-15-granola-now-works-seamlessly-for-the-tens-of-millions-of-people-who-work-on-team|Sign
+  in with Microsoft is here]]'
 - '[[Changes/Claude/2026-01-16-claude-code-access-added-to-team-plan-standard-seats|Claude
   Code access added to Team plan Standard seats]]'
 - '[[Changes/Codex CLI/2026-01-16-collaboration-wait-calls-can-block-on-multiple-ids-in-one-request-simplifying-mu|Collaboration

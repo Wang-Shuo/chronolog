@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 793431d3d4188a10d5ff06d8e2853953b3864c42149893ee8939bf0537db6eb3
+machine_hash: d235293c1f42fd5b59e681d4aca2c1acd4b054c93b55e27cef2ad1bc369024d5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,11 +40,11 @@ record:
   title: '#12028 remove feature flag collaboration modes @aibrahim-oai'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-02-16-skills-sharing-permissions-administrators-can-now-control-skills-sharing-and-pub|\U0001F510
-  Skills sharing permissions. Administrators can now control skills sharing…]]"
 - '[[Changes/ElevenLabs/2026-02-23-music|Music]]'
 - '[[Changes/Lovable/2026-02-23-external-collaborator-visibility|External collaborator
   visibility]]'
+- '[[Changes/OpenCode/2026-02-24-core-acp-both-live-and-load-share-synthetic-pending-status-preceding-actual-data|Core
+  ACP both live and load share synthetic pending status preceding actual data]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: collaboration
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-23 · Lovable · [[Changes/Lovable/2026-02-23-external-collaborator-visibility|External collaborator visibility]]
+- Earlier: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-core-acp-both-live-and-load-share-synthetic-pending-status-preceding-actual-data|Core ACP both live and load share synthetic pending status preceding actual data]]
 - Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-enable-in-cli-extension-management-commands-for-team-by-chrstnb-in-https-github|Enable in-CLI extension management commands for team]]
 <!-- chronolog:end -->
 

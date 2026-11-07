@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ad09ba543e9e7c8e5034adeb507c0e0bdc864afbb99425b01802beb7135a5c72
+machine_hash: b444d9a661d6405bbdbc21e218a147aa5dfd055a64f9558d1c900e91c6d5f2cc
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,7 +43,8 @@ record:
   title: Vertex ai model mapping fix
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-15-introducing-music-v2|Introducing Music v2]]'
+- '[[Changes/Midjourney/2026-06-16-use-preview-to-test-new-features|Use --preview
+  to test new features]]'
 - '[[Changes/Ollama/2026-06-17-command-a-and-north-family-models-now-run-on-apple-silicon-with-the-mlx-engine|Command
   A and North family models now run on Apple Silicon with the MLX engine]]'
 - '[[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press

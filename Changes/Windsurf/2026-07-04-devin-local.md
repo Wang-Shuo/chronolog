@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 05de650c09c67803ba1ef28e3a1dfe2796d7580786bf1da2a0c52eb32736b60b
+machine_hash: 3dd9290602ae0a36b7f8610b5bf1b50f69691ec3393f559d96e4d649ef35842e
 product: windsurf
 product_name: Windsurf
 record:
@@ -55,12 +55,12 @@ record:
   title: Devin Local
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-ctrl-q-now-enqueues-the-highlighted-slash-command-argument-completion|Ctrl+Q
-  now enqueues the highlighted slash-command argument completion]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2
   Editor Experience changes in v1.0.68]]'
 - '[[Changes/Open WebUI/2026-07-01-2-editor-experience-changes-in-v0-10-2|2 Editor
   Experience changes in v0.10.2]]'
+- '[[Changes/OpenCode/2026-07-01-3-editor-experience-changes-in-v1-17-13|3 Editor
+  Experience changes in v1.17.13]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-04-v3-4-22-cbfcfc79|windsurf-2026-07-04-v3-4-22-cbfcfc79]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-editor-experience-changes-in-v0-10-2|2 Editor Experience changes in v0.10.2]]
-- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed left arrow to no longer close the background tasks, diff, and workflow…]]
+- Earlier: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-3-editor-experience-changes-in-v1-17-13|3 Editor Experience changes in v1.17.13]]
+- Later: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-3-editor-experience-changes-in-v1-17-14|3 Editor Experience changes in v1.17.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

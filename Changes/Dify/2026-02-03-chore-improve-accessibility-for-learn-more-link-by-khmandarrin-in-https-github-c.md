@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4624b0972477db5a544dfb4b399ba517621f416bbce7feb246309fcbbe92ded0
+machine_hash: 5d03de9ad18935e0a741bc0dcfef50b4d6266bf6efe36e33fdc64d814a5e6c5c
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: 'chore: improve accessibility for learn more link'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-25-chore-add-apptypeselector-tests-and-improve-clear-button-accessibility-by-lyzno1|chore:
-  add AppTypeSelector tests and improve clear button accessibility]]'
-- '[[Changes/Dify/2026-01-13-2-accessibility-and-localization-changes-in-1-11-3|2
-  Accessibility and Localization changes in 1.11.3]]'
+- '[[Changes/OpenCode/2026-01-22-2-accessibility-and-localization-changes-in-v1-1-32|2
+  Accessibility and Localization changes in v1.1.32]]'
 - '[[Changes/Claude Code/2026-01-28-added-support-for-full-width-zenkaku-number-input-from-japanese-ime-in-option-se|Added
   support for full-width (zenkaku) number input from Japanese IME in option…]]'
+- '[[Changes/OpenCode/2026-01-28-2-accessibility-and-localization-changes-in-v1-1-37|2
+  Accessibility and Localization changes in v1.1.37]]'
 source_release: '[[Releases/Dify/dify-2026-02-03-1-12-0-github-282591953-290f70e4|dify-2026-02-03-1-12-0-github-282591953-290f70e4]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-added-support-for-full-width-zenkaku-number-input-from-japanese-ime-in-option-se|Added support for full-width (zenkaku) number input from Japanese IME in option…]]
-- Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added support for full-width (zenkaku) space input from Japanese IME in checkbox selection]]
+- Earlier: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-2-accessibility-and-localization-changes-in-v1-1-37|2 Accessibility and Localization changes in v1.1.37]]
+- Later: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-desktop-use-static-language-names-in-thai-localization|Desktop Use static language names in Thai localization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 813744d7353ca79295c7df9b526637ca7336f5ed2cf62b5bb1c039006aa2a644
+machine_hash: 89525d3ceb7dee0c873331bfc260151c78f7c557bac9e5753daa47795998126f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.157
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-27-sensitive-data-scanning|Sensitive data scanning]]'
 - '[[Changes/Claude Code/2026-05-28-2-safety-and-privacy-changes-in-v2-1-153|2 Safety
   and Privacy changes in v2.1.153]]'
 - '[[Changes/Codex CLI/2026-05-28-7-safety-and-privacy-changes-in-rust-v0-135-0|7
   Safety and Privacy changes in rust-v0.135.0]]'
+- '[[Changes/OpenCode/2026-05-28-core-handled-acp-next-permission-prompts-correctly|Core
+  Handled acp-next permission prompts correctly]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
 theme: safety-privacy
@@ -88,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-7-safety-and-privacy-changes-in-rust-v0-135-0|7 Safety and Privacy changes in rust-v0.135.0]]
+- Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-core-handled-acp-next-permission-prompts-correctly|Core Handled acp-next permission prompts correctly]]
 - Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-11-safety-and-privacy-changes-in-rust-v0-136-0|11 Safety and Privacy changes in rust-v0.136.0]]
 <!-- chronolog:end -->
 

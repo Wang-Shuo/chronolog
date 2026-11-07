@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0367dd9e054365e1ee0074e6c5edf9818572a4264f86b700c9fa5341ae730e77
+machine_hash: 22a6f8d61a59a796443c36a76aced177f815519319b1c4e7ed8bbba418d5ef14
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Changed `/btw` history browsing from `←`/`→` to `Shift+←`/`Shift+→` (or `[`/`]`)…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your
-  code]]'
+- '[[Changes/OpenCode/2026-08-21-desktop-keep-file-search-results-visible-while-the-next-search-is-loading|Desktop
+  Keep file search results visible while the next search is loading]]'
 - '[[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search
   and Browsing changes in v0.11.1]]'
 - '[[Changes/Lovable/2026-08-26-see-how-each-app-page-appears-in-search-results-and-link-previews|See
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-see-how-each-app-page-appears-in-search-results-and-link-previews|See how each app page appears in search results and link previews]]
-- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-experimental-worktree-support-lets-you-create-isolated-checkouts-for-new-or-fork|Experimental worktree support lets you create isolated checkouts for new or forked…]]
+- Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-importing-or-returning-to-a-large-retained-history-also-requires-less-local-work|Importing or returning to a large retained history also requires less local work…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

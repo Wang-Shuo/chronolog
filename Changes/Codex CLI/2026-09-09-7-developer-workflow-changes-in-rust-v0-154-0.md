@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5dad59b727e93cf2bd1cd45c3074005700bf1bdfd6ae5a49e0ba9d267d685fa8
+machine_hash: bf38e802a7efa386aa9a32b5a9b3bddd5aa8f3ac0f3585cf79094ce8bd85e64f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,9 +53,10 @@ record:
   title: 7 Developer Workflow changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-07-elevenlabs-cli|ElevenLabs CLI]]'
 - '[[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer
   Workflow changes in v2.1.265]]'
+- '[[Changes/OpenClaw/2026-09-08-22-developer-workflow-changes-in-v2026-9-3|22 Developer
+  Workflow changes in v2026.9.3]]'
 - '[[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer
   Workflow changes in v2.1.267]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
@@ -116,7 +117,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer Workflow changes in v2.1.267]]
-- Later: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-2-developer-workflow-changes-in-v1-17-0|2 Developer Workflow changes in v1.17.0]]
+- Later: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-2-developer-workflow-changes-in-hub-v2-13-0-introducing-new-documents|2 Developer Workflow changes in HUB v2.13.0 — Introducing new Documents…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

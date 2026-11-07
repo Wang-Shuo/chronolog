@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9b165a7334e2ac962e06a5cba2dca0d8a5bcbd2959e79738bfe90e23b69471a
+machine_hash: 379dc9af9ce1af180b2c8b0d6a98c96fc6171dff2876b1663649c3668a05cf64
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,12 +41,11 @@ record:
   title: 1.12.43 GPT-5.2 changelog banner
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-11-introducing-gpt-5-2-our-latest-frontier-model-with-improvements-across-knowledge|Introducing
-  gpt-5.2 our latest frontier model with improvements across knowledge…]]'
 - '[[Changes/Dify/2025-12-11-9-model-support-changes-in-1-11-0|9 Model Support changes
   in 1.11.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-11-add-support-for-gpt-5-2|Add support for
   GPT-5.2]]'
+- '[[Changes/Runway/2025-12-11-introducing-gen-4-5-the-world-s-best-video-model-now-available-for-all-paid-plan|Gen-4.5]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-11-v1-12-43-cfbc6ff7|windsurf-2025-12-11-v1-12-43-cfbc6ff7]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -76,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-11-add-support-for-gpt-5-2|Add support for GPT-5.2]]
+- Earlier: 2025-12-11 · Runway · [[Changes/Runway/2025-12-11-introducing-gen-4-5-the-world-s-best-video-model-now-available-for-all-paid-plan|Gen-4.5]]
 - Later: 2025-12-12 · v0 · [[Changes/v0/2025-12-12-you-can-now-select-from-three-different-models-in-v0|Select from three different models in v0]]
 <!-- chronolog:end -->
 

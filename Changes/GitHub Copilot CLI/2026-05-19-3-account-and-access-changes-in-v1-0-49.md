@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a71a1af217654c07cc9dbdd622dafbc43cf62db9a63abb7d2538adc2cebdbb2
+machine_hash: 557fa47700130847fd0f8c5fe147774ddc305e61166227171b49e66db6ec9723
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Account and Access changes in v1.0.49
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-12-added-support-for-oauth-authorized-mcp-servers-in-the-platform-api-with-referenc|Added
-  support for OAuth-authorized MCP servers in the platform API, with reference…]]'
-- '[[Changes/Claude Code/2026-05-13-bedrock-awscredentialexport-now-always-runs-when-configured-instead-of-being-ski|Bedrock:
-  awsCredentialExport now always runs when configured instead of being…]]'
+- '[[Changes/OpenCode/2026-05-13-core-added-digitalocean-oauth-and-inference-router-support|Core
+  Added DigitalOcean OAuth and Inference Router support]]'
+- '[[Changes/OpenCode/2026-05-15-2-account-and-access-changes-in-v1-14-51|2 Account
+  and Access changes in v1.14.51]]'
 - '[[Changes/Codex CLI/2026-05-18-5-account-and-access-changes-in-rust-v0-131-0|5
   Account and Access changes in rust-v0.131.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8|github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8]]'

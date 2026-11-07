@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c4d39d32f27e0972b49e0cedf12ee2ee4ce3074cadc86d5982a087cd44ede4c
+machine_hash: fb52295857245da8744c2710bdd1c0304904c9391ff0c9d363c857a9d13eb259
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,8 @@ record:
   title: "\U0001F6AB **Conditional Export Button Visibility**"
   type: change
 related_changes:
-- '[[Changes/Aider/2025-04-04-4-model-support-changes-in-v0-81-0|4 Model Support changes
-  in v0.81.0]]'
-- '[[Changes/Cline/2025-04-04-add-gemini-2-5-pro-preview-03-25-to-google-provider|Add
-  Gemini 2.5 Pro Preview 03-25 to Google Provider]]'
+- '[[Changes/Midjourney/2025-04-04-v7-is-an-amazing-model|V7 is an amazing model]]'
+- '[[Changes/Midjourney/2025-04-04-please-note|Please Note]]'
 - '[[Changes/Replit/2025-04-04-3d-model-generation-milestone|3D model generation milestone]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-05-v0-6-1-github-210564056-66ebd388|open-webui-2025-04-05-v0-6-1-github-210564056-66ebd388]]'
 source_type: github_releases

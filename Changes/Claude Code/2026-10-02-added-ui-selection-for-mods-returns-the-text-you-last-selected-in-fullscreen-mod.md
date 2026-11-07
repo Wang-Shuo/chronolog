@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3fac4f8b845f58ba8959e5f1ac1003f27a0087483f938435144f2f3a3b20da26
+machine_hash: 1c87da6b7aa1bc13a7a9c621315769adcbaf83711952ea43ccb6ff844f63197d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Added `$.ui.selection()` for mods
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-30-2-interface-experience-changes-in-v1-0-90|2
-  Interface Experience changes in v1.0.90]]'
+- '[[Changes/OpenClaw/2026-09-30-17-interface-experience-changes-in-v2026-9-7|17 Interface
+  Experience changes in v2026.9.7]]'
 - '[[Changes/Codex CLI/2026-10-01-2-interface-experience-changes-in-rust-v0-160-0|2
   Interface Experience changes in rust-v0.160.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-01-footer-text-selection-stays-on-the-same-visible-line-when-the-footer-grows-or-sh|Footer
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-01-footer-text-selection-stays-on-the-same-visible-line-when-the-footer-grows-or-sh|Footer text selection stays on the same visible line when the footer grows or shrinks]]
-- Later: 2026-10-02 · Replit · [[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]
+- Later: 2026-10-02 · Midjourney · [[Changes/Midjourney/2026-10-02-icymi-last-week-we-launched-a-few-features-on-alpha-midjourney-com-that-we-re-re|ICYMI – last week, we launched a few features on alpha.midjourney.com that we're…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

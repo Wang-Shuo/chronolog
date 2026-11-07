@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 024dcc6516c4f511b3895ae8b873c72c2a9c2b49f7e928814d56dd636970710e
+machine_hash: b114201b04647a6fe4151c6b3b166e2984c8dfeb10c1dc9fc5b4cdee468cb2e8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,9 +58,10 @@ record:
   title: Add experimental MCP Tasks support
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-01-agent|Agent]]'
 - '[[Changes/Claude Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a|Auto
   mode: when the classifier can''t evaluate an action, the error now includes…]]'
+- '[[Changes/OpenCode/2026-05-04-core-improve-shell-command-handling-for-bash-powershell-and-cmd-sessions|Core
+  Improve shell command handling for Bash, PowerShell, and cmd sessions]]'
 - '[[Changes/Gemini CLI/2026-05-05-feat-core-enhance-shell-command-validation-and-add-core-tools-allowlist-by-galz1|feat(core):
   enhance shell command validation and add core tools allowlist]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863|github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863]]'

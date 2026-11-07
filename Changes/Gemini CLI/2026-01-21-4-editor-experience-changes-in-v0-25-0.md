@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 842aae87a32f801bd63f51b0ea05baa9008ed16fefdb3b9c78e6fe712733ab90
+machine_hash: 4810d276c79556a625d4a2ee4d453f836c21d36ff4d0e672c69c5a373f200484
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Editor Experience changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Ask
-  mode in CLI]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-16-2-editor-experience-changes-in-v0-0-384|2
-  Editor Experience changes in v0.0.384]]'
 - '[[Changes/Claude Code/2026-01-20-added-history-based-autocomplete-in-bash-mode-type-a-partial-command-and-press-t|Added
   history-based autocomplete in bash mode (!) - type a partial command…]]'
+- '[[Changes/OpenCode/2026-01-20-2-editor-experience-changes-in-v1-1-28|2 Editor Experience
+  changes in v1.1.28]]'
+- '[[Changes/Suno/2026-01-20-to-access-the-new-features-right-click-on-any-sound-in-suno-then-choose-mashup-o|To
+  access the new features, right-click on any sound in Suno, then choose Mashup…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397|gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397]]'
 source_type: github_releases
 theme: editor-experience
@@ -100,8 +100,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.25.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-added-history-based-autocomplete-in-bash-mode-type-a-partial-command-and-press-t|Added history-based autocomplete in bash mode (!) - type a partial command…]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-2-editor-experience-changes-in-2-4|2 Editor Experience changes in 2.4]]
+- Earlier: 2026-01-20 · Suno · [[Changes/Suno/2026-01-20-to-access-the-new-features-right-click-on-any-sound-in-suno-then-choose-mashup-o|To access the new features, right-click on any sound in Suno, then choose Mashup…]]
+- Later: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-desktop-tab-should-select-suggestion-in-the-app|Desktop Tab should select suggestion in the app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

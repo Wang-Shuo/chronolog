@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: f2bfc9af3793ba3b42b93d58979ac35949e82835bfc8b6171819bab8ff3042a8
+machine_hash: 94ca5f2c6b217f89d2f8498ac302e2883a681bffc03da363e1f7067e5c711176
 product: open-webui
 product_name: Open WebUI
 record:
@@ -67,10 +67,10 @@ record:
     admin Reindex…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-51223-remove-legacy-personality-template-metadata-rhan-oai|♯51223
-  Remove legacy personality template metadata @rhan-oai]]'
-- '[[Changes/Open WebUI/2026-10-10-2-memory-and-personalization-changes-in-v0-12-0|2
-  Memory and Personalization changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-12-4-memory-and-personalization-changes-in-v2026-10-2|4
+  Memory and Personalization changes in v2026.10.2]]'
+- '[[Changes/OpenClaw/2026-10-13-5-memory-and-personalization-changes-in-v2026-10-3|5
+  Memory and Personalization changes in v2026.10.3]]'
 - "[[Changes/Open WebUI/2026-10-14-memory-in-automations-automations-now-get-the-memory-tools-when-the-user-has-mem|\U0001F9E0
   Memory in automations. Automations now get the memory tools when the user has…]]"
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d|open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d]]'

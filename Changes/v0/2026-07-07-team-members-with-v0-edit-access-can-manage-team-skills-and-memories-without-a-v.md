@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc55a07d37e4acfd0cf19305f8b3e5065f73f837e9b31159d42da34653c149d4
+machine_hash: 676257b19f7c932a425a9403c6c717d5a41087f1b654cab465275196289ce6bf
 product: v0
 product_name: v0
 record:
@@ -45,10 +45,10 @@ record:
   title: Team members with v0 edit access can manage team skills and memories without…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved
-  memory: the agent is now reminded to compact its MEMORY.md index…]]'
 - '[[Changes/Open WebUI/2026-06-29-5-memory-and-personalization-changes-in-v0-10-0|5
   Memory and Personalization changes in v0.10.0]]'
+- '[[Changes/OpenClaw/2026-06-30-26-memory-and-personalization-changes-in-v2026-6-11|26
+  Memory and Personalization changes in v2026.6.11]]'
 - '[[Changes/Open WebUI/2026-07-01-2-memory-and-personalization-changes-in-v0-10-2|2
   Memory and Personalization changes in v0.10.2]]'
 source_release: '[[Releases/v0/v0-2026-07-07-2026-07-07-3495f67b|v0-2026-07-07-2026-07-07-3495f67b]]'

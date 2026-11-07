@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff7c8d8bc8393478b980ed4e9b4464edb6b8c7f0267c716af9993815d967f179
+machine_hash: 76d5f91ce05683138b6d22630cca5dcaf9cae773568cc2fb75346eed7118d1ba
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2024-12-26 · Open WebUI · [[Changes/Open WebUI/2024-12-26-image-generation-error-fixed-the-issue-causing-get-automatic1111-api-auth-errors|🖼️ Image Generation Error]]
-- Later: 2025-01-22 · Open WebUI · [[Changes/Open WebUI/2025-01-22-web-search-image-generation-permissions-easily-disable-web-search-and-image-gene|🔍 Web Search & Image Generation Permissions]]
+- Later: 2025-01-17 · Runway · [[Changes/Runway/2025-01-17-our-most-advanced-base-model-for-image-generation-offering-unprecedented-stylist|Frames]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

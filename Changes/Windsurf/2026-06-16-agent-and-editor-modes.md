@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 57497c4b6f6acaf78004e982d1b11b5e33f0aba2fd9b799cf87e52c010601d2b
+machine_hash: 21ff643e6f852aedb1a16f7182649250d10d048a0238bea4fd8cb320138d1003
 product: windsurf
 product_name: Windsurf
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-16 · Lovable · [[Changes/Lovable/2026-06-16-see-when-you-have-unpublished-changes|See when you have unpublished changes]]
-- Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-require-the-workspace-editor-role-to-edit-projects|Require the workspace editor role to edit projects]]
+- Later: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-desktop-added-a-home-tab-toggle-so-you-can-quickly-switch-between-home-and-your|Desktop Added a Home tab toggle so you can quickly switch between Home and your last tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

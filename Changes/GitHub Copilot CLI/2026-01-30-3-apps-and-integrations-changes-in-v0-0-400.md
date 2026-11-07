@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d8504e366accca798358c8809e325cc8b2239c75bb92ed02169d0f7734fffa4
+machine_hash: c3dcc943ee3ba3b21f2a1c3b0b6f88d601c360ca35ac8ef50192a35e1e63eb10
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.400
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-f43db5|Hooks: Hook scripts now run from the workspace repository root instead…]]
-- Later: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-smart-approvals-are-now-enabled-by-default-with-explicit-approval-prompts-for-mc|Smart approvals are now enabled by default, with explicit approval prompts for MCP…]]
+- Later: 2026-01-30 · OpenCode · [[Changes/OpenCode/2026-01-30-2-apps-and-integrations-changes-in-v1-1-47-2|2 Apps and Integrations changes in v1.1.47 + 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

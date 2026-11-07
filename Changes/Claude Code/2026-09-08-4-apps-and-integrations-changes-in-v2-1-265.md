@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 34d263d091b2d375774595e8cef2307f31840e80d93b68f5f2f045506faf8907
+machine_hash: 993201db4446988ac24431ec7bfea17e0d74a0cf25841e194bee615897884c96
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.265
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-connector-forms-are-split-into-collapsible-sections|Connector forms are split into collapsible sections]]
-- Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude Tag Added a "Use a custom connector" link to the preset connection forms…]]
+- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-23-apps-and-integrations-changes-in-v2026-9-3|23 Apps and Integrations changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

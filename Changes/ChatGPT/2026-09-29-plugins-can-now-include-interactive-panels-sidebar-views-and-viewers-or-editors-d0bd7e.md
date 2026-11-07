@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a6c79a879cf65d49155cfe43c7e686cd9a06fa856f1097e8680c7699e14c0272
+machine_hash: 6bd3843692cafc93552fb4e6c8915f850e74653c43702c32e2de0e0d8ec09ae9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,9 +60,10 @@ record:
   title: Work with interactive plugin extensions
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-28-sdk-releases|SDK releases]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-28-4-apps-and-integrations-changes-in-v1-0-89|4
-  Apps and Integrations changes in v1.0.89]]'
+- '[[Changes/Google Antigravity/2026-09-28-slash-commands-provided-by-plugins-now-show-their-plugin-name-in-the-menu-can-be|Slash
+  commands provided by plugins now show their plugin name in the / menu, can…]]'
+- '[[Changes/OpenCode/2026-09-28-core-mcp-browser-launch-failures-are-now-reported-when-the-launcher-exits-immedi|Core
+  MCP browser launch failures are now reported when the launcher exits immediately]]'
 - '[[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This
   is a limited preview with participating integrations]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183|chatgpt-2026-09-29-work-with-interactive-plugin-extensions-8f979183]]'

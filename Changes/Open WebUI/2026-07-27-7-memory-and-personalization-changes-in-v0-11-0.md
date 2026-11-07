@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95a6194e7cda445e0b5e62bc7fd333b40cd58b0ae0d4021bfa4a5da0039505ff
+machine_hash: 302a91f9c9fec2e7666a21e0a6dd147b794e8bed2251125e4abb4b96d7b7bd87
 product: open-webui
 product_name: Open WebUI
 record:
@@ -75,12 +75,12 @@ record:
   title: 7 Memory and Personalization changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-18-added-an-iso-modified-timestamp-to-memory-file-frontmatter|Added
-  an ISO modified timestamp to memory file frontmatter]]'
-- '[[Changes/Codex CLI/2026-07-21-11-memory-and-personalization-changes-in-rust-v0-145-0|11
-  Memory and Personalization changes in rust-v0.145.0]]'
-- '[[Changes/v0/2026-07-21-design-systems-personal-scope-imports-save-to-your-own-memory-the-selector-reset|Design
-  systems: personal-scope imports save to your own memory, the selector resets…]]'
+- '[[Changes/Midjourney/2026-07-24-personalization-will-understand-your-personal-taste-much-better-especially-if-yo|Personalization
+  will "understand" your personal taste much better]]'
+- '[[Changes/Midjourney/2026-07-24-creating-personalization-profiles-for-v8-2-now-has-a-much-larger-and-improved-po|Creating
+  personalization profiles for V8.2 now has a much larger and improved pool…]]'
+- '[[Changes/Midjourney/2026-07-24-we-are-launching-our-v8-2-image-model-today-this-update-focuses-on-aesthetics-an|Midjourney
+  launches our V8.2 image model today]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases
 theme: memory
@@ -143,7 +143,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-design-systems-personal-scope-imports-save-to-your-own-memory-the-selector-reset|Design systems: personal-scope imports save to your own memory, the selector resets…]]
+- Earlier: 2026-07-24 · Midjourney · [[Changes/Midjourney/2026-07-24-we-are-launching-our-v8-2-image-model-today-this-update-focuses-on-aesthetics-an|Midjourney launches our V8.2 image model today]]
 - Later: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-test-use-sqlite-sessions-in-core-memory-by-asukaminato0721-in-https-github-com-l|test: use SQLite sessions in core memory]]
 <!-- chronolog:end -->
 

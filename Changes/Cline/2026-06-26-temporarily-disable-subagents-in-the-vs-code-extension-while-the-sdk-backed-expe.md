@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 844a8621e7cefb82fdc1f18ea160ab183705e24aa2a585703d5a8cc9082cf32e
+machine_hash: 08beb5c536e90ac803024305792f10331c75642c659d112a86d5b84b2a0ef353
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Temporarily disable subagents in the VS Code extension while the SDK-backed…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-25-3-agent-mode-changes-in-v2-1-193|3 Agent Mode
-  changes in v2.1.193]]'
 - '[[Changes/Dify/2026-06-25-38-agent-mode-changes-in-1-15-0|38 Agent Mode changes
   in 1.15.0]]'
+- '[[Changes/Runway/2026-06-25-make-marketing-that-drives-revenue-runway-agent-creates-entire-campaigns-analyze|Agent
+  2.0]]'
 - '[[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved
   claude agents completed list to fill available vertical space]]'
 source_release: '[[Releases/Cline/cline-2026-06-26-v4-0-0-github-345514931-9953949f|cline-2026-06-26-v4-0-0-github-345514931-9953949f]]'

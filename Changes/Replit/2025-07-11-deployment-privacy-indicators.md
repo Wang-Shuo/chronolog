@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 501f556b7d95eb1cd69d807fd1b5d02075ac75364ebce9c69f2c17044f424e74
+machine_hash: 05a497884974ee2e525a4ed9831aac5b95e67c4128b032909e0f59130f364a0d
 product: replit
 product_name: Replit
 record:
@@ -50,8 +50,8 @@ record:
   title: Deployment privacy indicators
   type: change
 related_changes:
-- '[[Changes/Dify/2025-07-02-chore-upgrade-package-versions-for-security-reason-by-iamjoel-in-https-github-co|chore:
-  upgrade package versions for security reason]]'
+- '[[Changes/Granola/2025-07-07-we-ve-shown-independent-auditors-that-our-security-practices-meet-soc2-type-2-st|Granola
+  is SOC2 compliant]]'
 - '[[Changes/Codex CLI/2025-07-08-adds-support-for-a-sandbox-flag-and-makes-some-breaking-changes-to-config-toml-a|Adds
   support for a --sandbox flag and makes some breaking changes to config.toml…]]'
 - '[[Changes/Gemini CLI/2025-07-11-update-terms-of-service-and-privacy-notice-for-clarity-by-jkcinouye-in-https-git|Update

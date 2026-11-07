@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d504f11ccd438de5ea3ff5351f387bae00355c95da3215722b0f953b72f17cf6
+machine_hash: 18d126f911c900ed415bfc0c2d3b01a3d42c6d6c050d5e74d11942c3c7147d3f
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Automation and Scheduling changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-2-automation-and-scheduling-changes-in-1-9-0|2 Automation
-  and Scheduling changes in 1.9.0]]'
-- '[[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508
-  Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]]'
 - '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work
   can also keep projects moving through Scheduled Tasks that run once, repeat…]]'
+- '[[Changes/OpenClaw/2026-07-13-79-automation-and-scheduling-changes-in-v2026-7-1|79
+  Automation and Scheduling changes in v2026.7.1]]'
+- '[[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with|Channel
+  setup warnings are now available as structured Doctor lint findings…]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -101,7 +101,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work can also keep projects moving through Scheduled Tasks that run once, repeat…]]
+- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with|Channel setup warnings are now available as structured Doctor lint findings…]]
 - Later: 2026-07-22 · Gemini CLI · [[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage): implement main worker execution loop and egress action publisher]]
 <!-- chronolog:end -->
 

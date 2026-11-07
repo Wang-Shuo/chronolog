@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 13c75418caa4b4224f56aff7fdb0e05d8d4d425f31485d826e7e0cd42d92408d
+machine_hash: 63e4277a74cb05f51993655e604a769e9fc2304e7647dc4607e363d138c39655
 product: cline
 product_name: Cline
 record:
@@ -62,7 +62,7 @@ record:
   title: 9 Apps and Integrations changes in v3.33.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-10-14-sdk-releases|SDK Releases]]'
+- '[[Changes/Runway/2025-10-14-apps-are-an-ever-growing-collection-of-use-case-specific-workflows-that-make-it|Apps]]'
 - '[[Changes/Gemini CLI/2025-10-15-3-apps-and-integrations-changes-in-v0-9-0|3 Apps
   and Integrations changes in v0.9.0]]'
 - '[[Changes/Ollama/2025-10-15-experimental-support-for-vulkan-is-now-available-when-you-build-locally-from-sou|Experimental

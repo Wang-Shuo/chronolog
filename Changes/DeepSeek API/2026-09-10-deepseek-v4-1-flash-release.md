@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 61b250d6f9f2aeecddffc79818dcfd7a462d986320bd1a5f71a87b544a3aefe5
+machine_hash: 0c29c2b5e1c5ecd08af7ca7883e51fc42799027e8cd8c3ab5c547c9be38a0193
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -120,10 +120,11 @@ record:
   title: DeepSeek-V4.1-Flash Release
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-2-multimodal-input-changes-in-v0-11-1|2 Multimodal
-  Input changes in v0.11.1]]'
-- '[[Changes/ElevenLabs/2026-08-31-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2026-08-31-elevenagents-ca07b9|ElevenAgents]]'
+- '[[Changes/OpenClaw/2026-09-03-several-less-visible-repairs-keep-the-apps-from-failing-around-dependencies-and|Several
+  less visible repairs keep the apps from failing around dependencies…]]'
+- '[[Changes/OpenClaw/2026-09-08-provider-adapters-preserve-initial-anthropic-text-and-thinking-keep-images-with|Provider
+  adapters preserve initial Anthropic text and thinking, keep images…]]'
 source_release: '[[Releases/DeepSeek API/deepseek-api-2026-09-10-2026-09-10-3c3f563a|deepseek-api-2026-09-10-2026-09-10-3c3f563a]]'
 source_type: deepseek_changelog
 theme: multimodal
@@ -198,7 +199,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-08-31 · ElevenLabs · [[Changes/ElevenLabs/2026-08-31-elevenagents-ca07b9|ElevenAgents]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-provider-adapters-preserve-initial-anthropic-text-and-thinking-keep-images-with|Provider adapters preserve initial Anthropic text and thinking, keep images…]]
 - Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-3-multimodal-input-changes-in-1-17-1|3 Multimodal Input changes in 1.17.1]]
 <!-- chronolog:end -->
 

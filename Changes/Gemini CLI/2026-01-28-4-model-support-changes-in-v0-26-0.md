@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 170163f282adde3a6e5cabfac42247ac1ba465c9204a97b5c100f0e1326c2194
+machine_hash: 517bdb0243bf2497e59f51862de27db462e774d3df98281f709bb5b903e1eb7f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.26.0
 ## Nearby in Model Support
 
 - Earlier: 2026-01-28 · Cline · [[Changes/Cline/2026-01-28-2-model-support-changes-in-v3-55-0|2 Model Support changes in v3.55.0]]
-- Later: 2026-01-29 · ChatGPT · [[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|Retiring GPT-4o and other legacy models]]
+- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-8-model-support-changes-in-v1-1-37|8 Model Support changes in v1.1.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

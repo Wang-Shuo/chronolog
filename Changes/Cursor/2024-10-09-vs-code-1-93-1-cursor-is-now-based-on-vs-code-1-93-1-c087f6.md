@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 360e6de113f288906ab4c01a7e024cac8d1a22a66f8268f25daaaaedf25c9f3a
+machine_hash: 862dce662cdf92cfaae86b226fc70ebf1a9ca142380fc635c8f1702739e21be9
 product: cursor
 product_name: Cursor
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No more staring at loading spinners: Responses are now streamed into the editor…]]
-- Later: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-prompt-editor-optimization-clearer-and-more-efficient-prompt-editing-with-reset|Prompt Editor Optimization: Clearer and more efficient prompt editing with reset…]]
+- Later: 2024-10-10 · Suno · [[Changes/Suno/2024-10-10-2-navigate-to-replace-section-go-to-edit-replace-section|2 - Navigate to Replace Section: Go to Edit  Replace Section]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

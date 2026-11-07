@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49ff7e695ff8e4f6eb717e23a11afc6029153446e01a5ab875eed20d3585778c
+machine_hash: 03113118ff42356682062174ca9a1f9ccc4af5127e32931aaf0b2ae5e17b93cb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 5 Apps and Integrations changes in rust-v0.95.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-03-14-apps-and-integrations-changes-in-1-12-0|14 Apps and
-  Integrations changes in 1.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-3-apps-and-integrations-changes-in-v0-0-401|3
   Apps and Integrations changes in v0.0.401]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-4-apps-and-integrations-changes-in-v0-0-402|4
   Apps and Integrations changes in v0.0.402]]'
+- '[[Changes/OpenCode/2026-02-03-2-apps-and-integrations-changes-in-v1-1-49|2 Apps
+  and Integrations changes in v1.1.49]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b|codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -104,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.95.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-4-apps-and-integrations-changes-in-v0-0-402|4 Apps and Integrations changes in v0.0.402]]
+- Earlier: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-2-apps-and-integrations-changes-in-v1-1-49|2 Apps and Integrations changes in v1.1.49]]
 - Later: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-14-apps-and-integrations-changes-in-v0-27-0|14 Apps and Integrations changes in v0.27.0]]
 <!-- chronolog:end -->
 

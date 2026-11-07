@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 6a10a942e5b1b1915a3234d7110a33adf13d7d1e2b801222c6f755f090848e5c
+machine_hash: b13890d33294e17b8c33cb50bd473d8fd8172e49d38ac00a4895dfb3065746de
 product: lovable
 product_name: Lovable
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-4-pricing-model-changes-in-1-17-1|4 Pricing Model changes in 1.17.1]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added support for a multiplier above 1, up to 10, in the modelPricing managed…]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-3-pricing-model-changes-in-v2026-9-4|3 Pricing Model changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

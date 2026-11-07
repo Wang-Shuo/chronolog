@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 94343c24cc82bc65c6c8d98950f2900f38ef5661fbb9aea8d4e47761a65e6cd1
+machine_hash: e2070b9242649fb4b5a943198821cbf25228a01ee1fdca57cf97555bd346dac6
 product: lovable
 product_name: Lovable
 record:
@@ -57,12 +57,12 @@ record:
   title: Upgrade an older project to TanStack Start
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-27-6-apps-and-integrations-changes-in-v0-11-0|6 Apps
-  and Integrations changes in v0.11.0]]'
-- '[[Changes/Cursor/2026-07-28-plugins-mcp-servers-hooks-and-skills-to-extend-cursor-across-your-workflows|Plugins,
-  MCP servers, hooks, and skills to extend Cursor across your workflows]]'
 - '[[Changes/Dify/2026-07-28-10-apps-and-integrations-changes-in-1-16-1|10 Apps and
   Integrations changes in 1.16.1]]'
+- '[[Changes/Google Antigravity/2026-07-28-added-a-timeout-for-mcp-server-connections-and-tool-calls-to-prevent-the-agent-f|Added
+  a timeout for MCP server connections and tool calls to prevent the agent…]]'
+- '[[Changes/Google Antigravity/2026-07-28-preview-tabs-mcp-timeouts-file-attachments-and-performance-fixes|Preview
+  tabs, MCP timeouts, file attachments, and performance fixes]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-28-2026-07-28-7feb441b|lovable-2026-07-28-2026-07-28-7feb441b]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-10-apps-and-integrations-changes-in-1-16-1|10 Apps and Integrations changes in 1.16.1]]
-- Later: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign in with ChatGPT]]
+- Earlier: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-preview-tabs-mcp-timeouts-file-attachments-and-performance-fixes|Preview tabs, MCP timeouts, file attachments, and performance fixes]]
+- Later: 2026-07-28 · OpenCode · [[Changes/OpenCode/2026-07-28-2-apps-and-integrations-changes-in-v1-18-8|2 Apps and Integrations changes in v1.18.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

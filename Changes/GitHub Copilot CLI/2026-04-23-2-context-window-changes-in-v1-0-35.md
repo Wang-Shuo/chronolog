@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b409d8f21d765e3b0cbcc5554274e99ada39f24ad5b2bec1d3cefe66d137c793
+machine_hash: 00cb1bf4453b4e856bed0f1d640c841f95b173ed62084ed1e7a3735a9c761449
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.35
 ## Nearby in Context Window
 
 - Earlier: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-2-context-window-changes-in-rust-v0-124-0|2 Context Window changes in rust-v0.124.0]]
-- Later: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-2-context-window-changes-in-rust-v0-125-0|2 Context Window changes in rust-v0.125.0]]
+- Later: 2026-04-23 · OpenCode · [[Changes/OpenCode/2026-04-23-core-improve-session-compaction-so-long-threads-keep-more-useful-context-when-ol|Core Improve session compaction so long threads keep more useful context when older…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

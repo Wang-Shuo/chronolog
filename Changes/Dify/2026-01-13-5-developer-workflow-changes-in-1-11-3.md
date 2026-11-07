@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 499a41e12ad8a3ced7d55adfa79b7397b3b34b1b801d7646a3fe5cb6dc9cf654
+machine_hash: de6fa5cd438e5d5176408ba1f8eac2c6d36ae5a9c9c6b5f4935fdea8bebc7b0f
 product: dify
 product_name: Dify
 record:
@@ -49,10 +49,10 @@ record:
   title: 5 Developer Workflow changes in 1.11.3
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-24-developer-workflow-changes-in-v0-7-0|24 Developer
-  Workflow changes in v0.7.0]]'
-- '[[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added
-  CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]'
+- '[[Changes/OpenCode/2026-01-12-6-developer-workflow-changes-in-v1-1-15|6 Developer
+  Workflow changes in v1.1.15]]'
+- '[[Changes/OpenCode/2026-01-12-3-developer-workflow-changes-in-v1-1-14|3 Developer
+  Workflow changes in v1.1.14]]'
 - '[[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer
   Workflow changes in v2.1.6]]'
 source_release: '[[Releases/Dify/dify-2026-01-13-1-11-3-github-276298566-1fe35168|dify-2026-01-13-1-11-3-github-276298566-1fe35168]]'

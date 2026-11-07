@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: bbd24af6ed624ebb9c00ae073ca33e9d2472f4baa555b15ff1bbe349c18857b0
+machine_hash: a114e71fac06eef51f52097c38a686f393afd112677615b98cccb669b1e6edf5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: Add rubber-duck agent for GPT sessions, powered by Claude (available in /experimental)
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a|Auto
-  mode: when the classifier can''t evaluate an action, the error now includes…]]'
+- '[[Changes/OpenCode/2026-05-04-core-improve-shell-command-handling-for-bash-powershell-and-cmd-sessions|Core
+  Improve shell command handling for Bash, PowerShell, and cmd sessions]]'
 - '[[Changes/Gemini CLI/2026-05-05-feat-core-enhance-shell-command-validation-and-add-core-tools-allowlist-by-galz1|feat(core):
   enhance shell command validation and add core tools allowlist]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-add-experimental-mcp-tasks-support-mcp-tools-with-tasksupport-required-run-as-no|Add

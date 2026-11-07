@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 742112ab832f5471f9f067fd42a486462b8b5f1e2b82ee70416f5f1166da004b
+machine_hash: 0018068eee611cdbfda10f669a269ba38f39190e94d35edb77452957ec55ac96
 product: cline
 product_name: Cline
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-11 · OpenHands · [[Changes/OpenHands/2026-03-11-2-agent-mode-changes-in-1-5-0|2 Agent Mode changes in 1.5.0]]
-- Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-send-follow-up-messages-to-background-agents-with-the-write-agent-tool-for-multi|Send follow-up messages to background agents with the write_agent tool…]]
+- Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-core-improve-skill-presentation-to-agent-to-increase-likelihood-of-skill-invocat|Core Improve skill presentation to agent to increase likelihood of skill invocations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

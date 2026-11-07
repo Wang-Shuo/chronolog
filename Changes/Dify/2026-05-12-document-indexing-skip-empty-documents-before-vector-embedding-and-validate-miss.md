@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab3c10d13e74090c18ec54a194faff5a7add9d96e1ada1617b279cce7137f66b
+machine_hash: ded49d4bb4f0c31d286dbf9f2454be334f94bc15858a6e0cefd44d893ef5d9da
 product: dify
 product_name: Dify
 record:
@@ -47,12 +47,12 @@ record:
     validate…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-05-add-attachment-flag-in-non-interactive-p-prompt-mode-to-attach-files-images-or-n|Add
-  --attachment flag in non-interactive (-p/--prompt) mode to attach files…]]'
 - '[[Changes/Codex CLI/2026-05-07-21379-document-codex-git-commit-attribution-config-henzelmann-oai|♯21379
   Document Codex git commit attribution config @henzelmann-oai]]'
 - "[[Changes/Open WebUI/2026-05-09-sanitized-spreadsheet-html-previews-spreadsheet-previews-now-sanitize-generated|\U0001F6E1️
   Sanitized spreadsheet HTML previews. Spreadsheet previews now sanitize…]]"
+- '[[Changes/OpenCode/2026-05-09-core-fixed-the-http-api-openapi-document-route|Core
+  Fixed the HTTP API OpenAPI document route]]'
 source_release: '[[Releases/Dify/dify-2026-05-12-1-14-1-github-321018473-9e9e1d9e|dify-2026-05-12-1-14-1-github-321018473-9e9e1d9e]]'
 source_type: github_releases
 theme: file-data
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-sanitized-spreadsheet-html-previews-spreadsheet-previews-now-sanitize-generated|🛡️ Sanitized spreadsheet HTML previews. Spreadsheet previews now sanitize…]]
+- Earlier: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-fixed-the-http-api-openapi-document-route|Core Fixed the HTTP API OpenAPI document route]]
 - Later: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-elevenagents-6f8d80|ElevenAgents]]
 <!-- chronolog:end -->
 

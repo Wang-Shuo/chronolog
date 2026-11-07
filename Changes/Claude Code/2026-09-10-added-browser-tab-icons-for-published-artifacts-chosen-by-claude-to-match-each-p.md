@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e208a94662d038020c59992a521a07f0201cfc3149ebb275a102a6b5430c901
+machine_hash: b403d8d4f394c94c5536ed1549d56e2a06b2df5e45f7fc3fbf728f17adcc9ab6
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
     each page
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-08-project-files-no-longer-copy-automatically-during-a-remix|Project
-  files no longer copy automatically during a remix]]'
 - '[[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746
   Handle pending network reviews after process completion @copyberry]]'
+- '[[Changes/Google Antigravity/2026-09-09-2-editor-experience-changes-in-hub-v2-13-0-introducing-new-documents|2
+  Editor Experience changes in HUB v2.13.0 — Introducing new Documents…]]'
 - '[[Changes/Lovable/2026-09-09-explore-changes-with-drafts|Explore changes with drafts]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e1fc71df43205cf0937641a8d8e6f2eb7763ead5f5398372a4976b876868128c
+machine_hash: f5a23dbb4eea1543637c3681c99a771d7d917f880cbebc9b671f9b657b958d90
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,12 +50,12 @@ record:
   title: Android SDK
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The
-  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
 - '[[Changes/OpenHands/2026-10-23-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-6f8043|The
   app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
 - '[[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On
   Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]'
+- '[[Changes/OpenClaw/2026-10-24-2-mobile-and-desktop-changes-in-v2026-10-7|2 Mobile
+  and Desktop changes in v2026.10.7]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
 source_type: elevenlabs_changelog
 theme: mobile-desktop
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]
+- Earlier: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-2-mobile-and-desktop-changes-in-v2026-10-7|2 Mobile and Desktop changes in v2026.10.7]]
 - Later: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co|On macOS, banners at the top of the window no longer interfere with the window controls]]
 <!-- chronolog:end -->
 

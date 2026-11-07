@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30231e6c86b44e2920585f78587ee4d76aea794872c92a98331dccb712336bca
+machine_hash: 4c438ceb7926864f9c5630c8f509c73464b80ef5b4009da6581fad0fe1c0a472
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: 'feat: permission and security fixes'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-12-mixed-content-with-https-issue-resolved-a-problem-where-mixed-content-http-and-h|\U0001F512
-  Mixed Content with HTTPS Issue]]"
 - '[[Changes/Dify/2024-06-14-2-safety-and-privacy-changes-in-0-6-11|2 Safety and Privacy
   changes in 0.6.11]]'
+- '[[Changes/Runway/2024-06-14-creating-a-custom-voice-will-now-require-explicit-user-consent|Voice
+  Verification]]'
 - '[[Changes/Open WebUI/2024-06-27-2-safety-and-privacy-changes-in-v0-3-6|2 Safety
   and Privacy changes in v0.3.6]]'
 source_release: '[[Releases/Dify/dify-2024-06-28-0-6-12-github-163007249-ac67daf7|dify-2024-06-28-0-6-12-github-163007249-ac67daf7]]'

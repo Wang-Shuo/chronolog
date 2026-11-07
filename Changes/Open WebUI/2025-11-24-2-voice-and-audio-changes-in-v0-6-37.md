@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4eca8bfb7d68877879bb844f49b5eddd7962e5f9aa74d05bc439778aa0debbdd
+machine_hash: 35309446efbe8cb6eb8210d06a7896112938872cda12183e9d43df5376760e6d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,10 +49,11 @@ record:
   title: 2 Voice and Audio changes in v0.6.37
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-21-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/ElevenLabs/2025-11-21-4-voice-and-audio-changes-in-elevenlabs-updates-2025-11-21|4
   Voice and Audio changes in ElevenLabs updates — 2025-11-21]]'
 - '[[Changes/ElevenLabs/2025-11-21-speech-to-text|Speech to Text]]'
+- '[[Changes/Runway/2025-11-21-audio-nodes-video-upscaling-nodes-and-three-new-featured-workflows-available-now|Workflows
+  Updates]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-11-24-v0-6-37-github-264669867-8b715894|open-webui-2025-11-24-v0-6-37-github-264669867-8b715894]]'
 source_type: github_releases
 theme: voice
@@ -107,7 +108,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.37
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-speech-to-text|Speech to Text]]
+- Earlier: 2025-11-21 · Runway · [[Changes/Runway/2025-11-21-audio-nodes-video-upscaling-nodes-and-three-new-featured-workflows-available-now|Workflows Updates]]
 - Later: 2025-11-25 · ChatGPT · [[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-2bc316|We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]]
 <!-- chronolog:end -->
 

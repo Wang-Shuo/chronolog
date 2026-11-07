@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c0698a009628a49d3bfdc2445a7e751c773cdc55eabc14c829f3bf6550fcd3a3
+machine_hash: 40215e4ed4dc50ea69efb1680c1b605db7b6d15b115812030db45c123c34f170
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-26 · Lovable · [[Changes/Lovable/2026-05-26-project-view-pins-project-views-can-no-longer-be-customized-with-pins-the-toolba|Project view pins. Project views can no longer be customized with pins]]
-- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-vscode-auto-mode-no-longer-requires-the-bypass-permissions-setting-to-appear-in|VSCode Auto mode no longer requires the bypass-permissions setting to appear…]]
+- Later: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-a-new-rerun-as-hd-button-makes-it-easy-to-rerun-any-v8-1-image-generated-in-stan|A new Rerun as HD button makes it easy to rerun any V8.1 image generated in Standard…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

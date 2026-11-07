@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3abbdc08d832ef433f6b7183e62cad2fbc793ec17cfb6eca119a5b3bb824f51e
+machine_hash: 43f7581593c1cb840318583d8e1ce6079ebd2483cb01d3a5275d5ba0f3e0f793
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat: add compact section navigation on tablets'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-test-e2e-open-commits-from-the-tabs-pane-s-own-menu-by-enyst-in-https-github-com|test(e2e):
-  open Commits from the tabs pane''s own menu]]'
-- '[[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved
-  fullscreen mode]]'
-- '[[Changes/Open WebUI/2026-10-10-18-interface-experience-changes-in-v0-12-0|18 Interface
-  Experience changes in v0.12.0]]'
+- '[[Changes/Google Antigravity/2026-10-12-permissions-picker-full-screen-media-viewer-and-zip-attachments|Permissions
+  picker, full-screen media viewer, and .zip attachments]]'
+- '[[Changes/Google Antigravity/2026-10-12-you-can-now-choose-the-agent-s-permissions-preset-from-a-picker-in-the-message-b|Choose
+  the agent''s permissions preset from a picker in the message box]]'
+- '[[Changes/OpenClaw/2026-10-12-summaries-before-completion-replies-when-a-long-conversation-needs-a-summary-ope|Summaries
+  before completion replies]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e|openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-18-interface-experience-changes-in-v0-12-0|18 Interface Experience changes in v0.12.0]]
-- Later: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-search-for-individual-settings|Search for individual settings]]
+- Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-summaries-before-completion-replies-when-a-long-conversation-needs-a-summary-ope|Summaries before completion replies]]
+- Later: 2026-10-13 · Google Antigravity · [[Changes/Google Antigravity/2026-10-13-this-release-fixes-the-license-picker-shown-during-onboarding-which-could-grow-t|This release fixes the license picker shown during onboarding, which could grow…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

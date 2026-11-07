@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3f2a31697300145baa4534ac6f823d1fee0428fa909602103bd0c3461f0fcb6b
+machine_hash: 85ea3951cc86a4c252f6c582e205340444bbfb4bae989806e3d7f87758ef3af5
 product: openhands
 product_name: OpenHands
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-36043-document-the-responses-api-proxy-reqwest-exception-copyberry|♯36043 Document the Responses API proxy reqwest exception @copyberry]]
-- Later: 2026-08-17 · OpenHands · [[Changes/OpenHands/2026-08-17-2-files-and-data-changes-in-v1-14-0|2 Files and Data changes in v1.14.0]]
+- Later: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-added-support-for-attaching-and-rendering-plain-text-txt-pdf-pdf-and-markdown-md|Added support for attaching and rendering plain text (.txt), pdf (.pdf) and markdown…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

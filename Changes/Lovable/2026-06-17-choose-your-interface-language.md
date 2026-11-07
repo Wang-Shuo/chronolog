@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5ad7764e2b3e6d2ec423de28ef8a1a465d86ca11514fc82621aed5dfb31df3bd
+machine_hash: 6bb74cfc0e1bd627c1f8e356dd5c5271a37dcbd84ff9c4340c0547c1c24916b5
 product: lovable
 product_name: Lovable
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved the MCP OAuth browser page to match Claude Code's visual style…]]
-- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257 Support staging OAuth client ID overrides @apanasenko-oai]]
+- Later: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-2-account-and-access-changes-in-v1-17-8|2 Account and Access changes in v1.17.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

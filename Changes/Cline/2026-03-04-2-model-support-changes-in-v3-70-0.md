@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6bc4316d4ee8b0c154c4f59f2377c51bf3212cd5ac9cbb8ab1403a8dd333998
+machine_hash: 8ae052965d0c569273904b2fcbe3afbba5adcfa9dd2ff3d29a90e46ab8e80a94
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in v3.70.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-03-2-model-support-changes-in-v0-0-421|2 Model
-  Support changes in v0.0.421]]'
+- '[[Changes/OpenCode/2026-03-03-core-avoid-gemini-combiner-schema-sibling-injection|Core
+  Avoid Gemini combiner schema sibling injection]]'
 - '[[Changes/v0/2026-03-03-added-model-selection-when-retrying-messages|Added model
   selection when retrying messages]]'
 - '[[Changes/Claude Code/2026-03-04-3-model-support-changes-in-v2-1-68|3 Model Support

@@ -1,0 +1,138 @@
+---
+card_id: openclaw-2026-10-10-923956
+date: '2026-10-10'
+description: 'OpenClaw · 2026-10-10 · Image Generation: Image generation with OAuth
+  can retry using a supported OpenAI chat model in agents.defaults.model if the account…'
+diffusion:
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 944
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: image-generation
+  tracked_products_count: 29
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: change
+machine_hash: d04ad5885af4b445730fabd16543e6fd0ecfe90faa5bd74c013e3a5a7c55c144
+product: openclaw
+product_name: OpenClaw
+record:
+  ai_generated: true
+  card_id: openclaw-2026-10-10-923956
+  comparison: ''
+  confidence: low
+  date: '2026-10-10'
+  description: 'OpenClaw — v2026.10.1: Image generation with OAuth can retry using
+    a supported OpenAI chat model in agents.defaults.model if the account rejects
+    the default. Runway and Together video requests also honor longer timeouts. For
+    ElevenLabs speech, manually replace the old model setting with modelId to select
+    the intended model; see the speech configuration guide and field reference .'
+  evidence:
+  - quote: Image generation with OAuth can retry using a supported OpenAI chat model
+      in agents.defaults.model if the account rejects the default. Runway and Together
+      video requests also honor longer timeouts. For ElevenLabs speech, manually replace
+      the old model setting with modelId to select the intended model; see the speech
+      configuration guide and field reference .
+    source_release: https://docs.openclaw.ai/releases/2026.10.1
+  extractor_version: fallback-v5
+  impact: significant
+  kind: change
+  product: openclaw
+  product_name: OpenClaw
+  slug: image-generation-with-oauth-can-retry-using-a-supported-openai-chat-model-in-age
+  source_release: openclaw-2026-10-10-v2026-10-1-d64e4e93
+  source_type: openclaw_changelog
+  theme: image-generation
+  theme_matches:
+  - matched_terms:
+    - image generation
+    score: 120
+    theme: image-generation
+  - matched_terms:
+    - oauth
+    score: 50
+    theme: account-access
+  - matched_terms:
+    - agents
+    score: 50
+    theme: agent-mode
+  - matched_terms:
+    - model
+    score: 50
+    theme: model-support
+  title: Image generation with OAuth can retry using a supported OpenAI chat model…
+  type: change
+related_changes:
+- '[[Changes/Runway/2026-10-02-ideogram-4-5-is-now-supported-in-runway-mcp-bringing-its-image-generation-capabi|Ideogram
+  4.5]]'
+- '[[Changes/Midjourney/2026-10-08-we-re-testing-a-new-thinking-mode-for-image-generation-on-our-alpha-website-alph|We''re
+  testing a new "Thinking Mode" for image generation on our Alpha website…]]'
+- '[[Changes/Open WebUI/2026-10-10-5-image-generation-changes-in-v0-12-0|5 Image Generation
+  changes in v0.12.0]]'
+source_release: '[[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|openclaw-2026-10-10-v2026-10-1-d64e4e93]]'
+source_type: openclaw_changelog
+theme: image-generation
+title: Image generation with OAuth can retry using a supported OpenAI chat model…
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Image generation with OAuth can retry using a supported OpenAI chat model…
+
+**OpenClaw** · 2026-10-10 · [[Themes/image-generation|Image Generation]] · [Official source](https://docs.openclaw.ai/releases/2026.10.1) · from [[Releases/OpenClaw/openclaw-2026-10-10-v2026-10-1-d64e4e93|v2026.10.1]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Image generation with OAuth can retry using a supported OpenAI chat model in agents.defaults.model if the account rejects the default. Runway and Together video requests also honor longer timeouts. For ElevenLabs speech, manually replace the old model setting with modelId to select the intended model; see the speech configuration guide and field reference .
+>
+> Source: https://docs.openclaw.ai/releases/2026.10.1
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/OpenClaw/2026-10-10-2-reliability-and-performance-changes-in-v2026-10-1|2 Reliability and Performance changes in v2026.10.1]] · Reliability and Performance
+- [[Changes/OpenClaw/2026-10-10-13-memory-and-personalization-changes-in-v2026-10-1|13 Memory and Personalization changes in v2026.10.1]] · Memory and Personalization
+- [[Changes/OpenClaw/2026-10-10-96-apps-and-integrations-changes-in-v2026-10-1|96 Apps and Integrations changes in v2026.10.1]] · Apps and Integrations
+- [[Changes/OpenClaw/2026-10-10-15-mobile-and-desktop-changes-in-v2026-10-1|15 Mobile and Desktop changes in v2026.10.1]] · Mobile and Desktop
+- [[Changes/OpenClaw/2026-10-10-12-context-window-changes-in-v2026-10-1|12 Context Window changes in v2026.10.1]] · Context Window
+- [[Changes/OpenClaw/2026-10-10-4-pricing-model-changes-in-v2026-10-1|4 Pricing Model changes in v2026.10.1]] · Pricing Model
+- [[Changes/OpenClaw/2026-10-10-18-account-and-access-changes-in-v2026-10-1|18 Account and Access changes in v2026.10.1]] · Account and Access
+- [[Changes/OpenClaw/2026-10-10-18-model-support-changes-in-v2026-10-1|18 Model Support changes in v2026.10.1]] · Model Support
+- [[Changes/OpenClaw/2026-10-10-20-safety-and-privacy-changes-in-v2026-10-1|20 Safety and Privacy changes in v2026.10.1]] · Safety and Privacy
+- [[Changes/OpenClaw/2026-10-10-3-search-and-browsing-changes-in-v2026-10-1|3 Search and Browsing changes in v2026.10.1]] · Search and Browsing
+- [[Changes/OpenClaw/2026-10-10-plugin-authors-can-await-session-history-extension-changes-and-replay-metadata-t|Plugin authors can await session history, extension changes and replay metadata]] · Projects and Workspaces
+- [[Changes/OpenClaw/2026-10-10-2-accessibility-and-localization-changes-in-v2026-10-1|2 Accessibility and Localization changes in v2026.10.1]] · Accessibility and Localization
+- [[Changes/OpenClaw/2026-10-10-10-editor-experience-changes-in-v2026-10-1|10 Editor Experience changes in v2026.10.1]] · Editor Experience
+- [[Changes/OpenClaw/2026-10-10-2-files-and-data-changes-in-v2026-10-1|2 Files and Data changes in v2026.10.1]] · Files and Data
+- [[Changes/OpenClaw/2026-10-10-8-voice-and-audio-changes-in-v2026-10-1|8 Voice and Audio changes in v2026.10.1]] · Voice and Audio
+- [[Changes/OpenClaw/2026-10-10-27-agent-mode-changes-in-v2026-10-1|27 Agent Mode changes in v2026.10.1]] · Agent Mode
+- [[Changes/OpenClaw/2026-10-10-12-collaboration-changes-in-v2026-10-1|12 Collaboration changes in v2026.10.1]] · Collaboration
+- [[Changes/OpenClaw/2026-10-10-video-previews-new-video-previews-can-download-media-before-play|Video previews: New video previews can download media before Play]] · Multimodal Input
+- [[Changes/OpenClaw/2026-10-10-11-developer-workflow-changes-in-v2026-10-1|11 Developer Workflow changes in v2026.10.1]] · Developer Workflow
+- [[Changes/OpenClaw/2026-10-10-5-enterprise-and-administration-changes-in-v2026-10-1|5 Enterprise and Administration changes in v2026.10.1]] · Enterprise and Administration
+- [[Changes/OpenClaw/2026-10-10-20-interface-experience-changes-in-v2026-10-1|20 Interface Experience changes in v2026.10.1]] · Interface Experience
+- [[Changes/OpenClaw/2026-10-10-10-automation-and-scheduling-changes-in-v2026-10-1|10 Automation and Scheduling changes in v2026.10.1]] · Automation and Scheduling
+- [[Changes/OpenClaw/2026-10-10-112-other-changes-in-v2026-10-1|112 other changes in v2026.10.1]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Image Generation
+
+- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-5-image-generation-changes-in-v0-12-0|5 Image Generation changes in v0.12.0]]
+- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-clear-input-selections-shortcut-clearing-the-model-override-selected-tools-and-f|🧹 Clear Input Selections shortcut. Clearing the model override, selected tools…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20openclaw-2026-10-10-923956&body=Card%3A%20Changes%2FOpenClaw%2F2026-10-10-image-generation-with-oauth-can-retry-using-a-supported-openai-chat-model-in-age.md%0ACard%20ID%3A%20openclaw-2026-10-10-923956%0ASource%3A%20https%3A%2F%2Fdocs.openclaw.ai%2Freleases%2F2026.10.1%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

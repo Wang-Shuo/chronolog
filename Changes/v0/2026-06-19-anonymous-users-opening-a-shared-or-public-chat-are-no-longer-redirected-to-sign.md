@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5f4bd88f8edffb078d127b82992c35d1e42f52addf40f5ed66e55cf7be6da00
+machine_hash: b40856f7bcb706502fb5ba773b7d6ad885a136de9fd45dba939e52b1f7b81891
 product: v0
 product_name: v0
 record:
@@ -44,10 +44,10 @@ record:
     to sign…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved
-  the MCP OAuth browser page to match Claude Code''s visual style…]]'
 - '[[Changes/Lovable/2026-06-17-choose-your-interface-language|Choose your interface
   language]]'
+- '[[Changes/OpenCode/2026-06-17-2-account-and-access-changes-in-v1-17-8|2 Account
+  and Access changes in v1.17.8]]'
 - '[[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257
   Support staging OAuth client ID overrides @apanasenko-oai]]'
 source_release: '[[Releases/v0/v0-2026-06-19-2026-06-19-ff036602|v0-2026-06-19-2026-06-19-ff036602]]'

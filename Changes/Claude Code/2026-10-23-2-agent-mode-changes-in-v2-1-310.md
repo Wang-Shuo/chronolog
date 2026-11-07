@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78425eb03fe97b536a347e1bfc8603981d3873c368d9bb157ffdab5096b1b21a
+machine_hash: 30b7a36c941156f8863977baf1fe73c426fc7ec42a33094734bc7b00faef8819
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Agent Mode changes in v2.1.310
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved
-  fork subagents launched together]]'
 - '[[Changes/Claude Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen|Changed
   the /claude-api skill to build Managed Agents subagent teams…]]'
+- '[[Changes/OpenClaw/2026-10-22-3-agent-mode-changes-in-v2026-10-6|3 Agent Mode changes
+  in v2026.10.6]]'
 - '[[Changes/OpenHands/2026-10-22-chore-bump-agent-server-to-1-57-0-by-all-hands-bot-in-https-github-com-openhands|chore:
   bump agent-server to 1.57.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'

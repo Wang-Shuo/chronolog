@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3d85498b4dcea229fe3b7146544b563977708e7d6d0ef81bba3b9705d7c323c
+machine_hash: 6b4ae03e36a98b354c2f5770c541505fa88a4e49b316afe035be221955355098
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,11 +46,12 @@ record:
   title: "**\U0001F4E5 Download Button for SVG Diagrams**"
   type: change
 related_changes:
-- '[[Changes/Replit/2024-12-27-replit-teams-updates|Replit Teams updates]]'
 - '[[Changes/Replit/2025-01-03-the-team-took-some-time-to-recharge-but-updates-keep-coming|The
   team took some time to recharge, but updates keep coming]]'
 - "[[Changes/Open WebUI/2025-01-05-clone-shared-chats-effortlessly-clone-shared-chats-to-save-time-and-streamline-c|\U0001F504
   Clone Shared Chats]]"
+- '[[Changes/Gamma/2025-01-23-gamma-now-offers-social-formats-in-addition-to-standard-presentations-and-docume|Introducing
+  social content]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-18-v0-5-13-github-200829556-33b45e61|open-webui-2025-02-18-v0-5-13-github-200829556-33b45e61]]'
 source_type: github_releases
 theme: collaboration
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-clone-shared-chats-effortlessly-clone-shared-chats-to-save-time-and-streamline-c|🔄 Clone Shared Chats]]
+- Earlier: 2025-01-23 · Gamma · [[Changes/Gamma/2025-01-23-gamma-now-offers-social-formats-in-addition-to-standard-presentations-and-docume|Introducing social content]]
 - Later: 2025-02-28 · Dify · [[Changes/Dify/2025-02-28-we-are-glad-to-share-that-we-re-launching-dify-v1-0-0|We are glad to share that we're launching Dify v1.0.0]]
 <!-- chronolog:end -->
 

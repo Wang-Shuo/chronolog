@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 695559c69b2dcf7dfdbb5952a7c73cbe5c9f2c6818f2b1ccbf23107355231a86
+machine_hash: fe544a172266c102c27939cc70695d73950a92aeece3e19655e1316d44c0c311
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     in behavior
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-07-2-model-support-changes-in-v0-0-375|2 Model
-  Support changes in v0.0.375]]'
 - '[[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model
   list and selection]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-08-large-tool-outputs-are-written-to-disk-and-models-are-encouraged-to-use-efficien|Large
   tool outputs are written to disk and models are encouraged to use efficient…]]'
+- '[[Changes/OpenCode/2026-01-08-2-model-support-changes-in-v1-1-7|2 Model Support
+  changes in v1.1.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-08-large-tool-outputs-are-written-to-disk-and-models-are-encouraged-to-use-efficien|Large tool outputs are written to disk and models are encouraged to use efficient…]]
+- Earlier: 2026-01-08 · OpenCode · [[Changes/OpenCode/2026-01-08-2-model-support-changes-in-v1-1-7|2 Model Support changes in v1.1.7]]
 - Later: 2026-01-09 · Cline · [[Changes/Cline/2026-01-09-2-model-support-changes-in-v3-48-0|2 Model Support changes in v3.48.0]]
 <!-- chronolog:end -->
 

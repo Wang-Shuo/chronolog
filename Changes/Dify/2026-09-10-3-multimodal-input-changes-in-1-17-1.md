@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39e06e2c5e3caee12dffaf9c56c92f20a605ca912f39a66ef772d3d87a48631b
+machine_hash: a7d3eacffb5fb88e2509826e966d458079e2a56479452219cfe554ea6dc337fb
 product: dify
 product_name: Dify
 record:
@@ -57,8 +57,10 @@ record:
   title: 3 Multimodal Input changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-31-python-sdk|Python SDK]]'
-- '[[Changes/ElevenLabs/2026-08-31-elevenagents-ca07b9|ElevenAgents]]'
+- '[[Changes/OpenClaw/2026-09-03-several-less-visible-repairs-keep-the-apps-from-failing-around-dependencies-and|Several
+  less visible repairs keep the apps from failing around dependencies…]]'
+- '[[Changes/OpenClaw/2026-09-08-provider-adapters-preserve-initial-anthropic-text-and-thinking-keep-images-with|Provider
+  adapters preserve initial Anthropic text and thinking, keep images…]]'
 - '[[Changes/DeepSeek API/2026-09-10-deepseek-v4-1-flash-release|DeepSeek-V4.1-Flash
   Release]]'
 source_release: '[[Releases/Dify/dify-2026-09-10-1-17-1-github-386157159-e472b6fe|dify-2026-09-10-1-17-1-github-386157159-e472b6fe]]'
@@ -113,7 +115,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.1
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-09-10 · DeepSeek API · [[Changes/DeepSeek API/2026-09-10-deepseek-v4-1-flash-release|DeepSeek-V4.1-Flash Release]]
-- Later: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-music|Music]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-the-bundled-video-frames-skill-and-its-helper-script-have-been-removed-if-you-us|The bundled video-frames skill and its helper script have been removed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

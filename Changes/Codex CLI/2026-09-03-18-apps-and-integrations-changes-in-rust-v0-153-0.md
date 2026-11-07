@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 511d2f4e134f616a68649b9958356466d0c9e28fc8b1a5fa114cf63db936d3f8
+machine_hash: 2a56ae83567f87c89ebc7da6d7529f927019a2f879b0d6c58491741c0dedd41d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -176,7 +176,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.153.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-added-reload-plugins-to-headless-sessions-so-it-appears-in-the-claude-code-deskt|Added /reload-plugins to headless sessions, so it appears in the Claude Code…]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode Added an Add server form and a Remove action to the MCP servers dialog…]]
+- Later: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-26-apps-and-integrations-changes-in-v2026-9-1|26 Apps and Integrations changes in v2026.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

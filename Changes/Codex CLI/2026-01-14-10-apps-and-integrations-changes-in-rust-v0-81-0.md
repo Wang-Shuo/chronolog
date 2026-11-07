@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84854c4154eac80e9187bd972f8a2eb97d493c7845ca28c85f2c73239deb3330
+machine_hash: 18c4fae6ce4a3d7e78a5a9ffabaab9807339f1ef200800af4bc7006695064043
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,11 +63,12 @@ record:
   title: 10 Apps and Integrations changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-12-sdk-releases|SDK Releases]]'
 - '[[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps
   and Integrations changes in v2.1.6]]'
 - '[[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and
   Integrations changes in 1.11.3]]'
+- '[[Changes/OpenCode/2026-01-13-terminal-actually-modify-opencode-config-when-adding-mcp-servers-with-mcp-add-co|Terminal
+  Actually modify OpenCode config when adding MCP servers with mcp add command]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40|codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40]]'
 source_type: github_releases
 theme: apps-integrations
@@ -125,7 +126,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.81.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and Integrations changes in 1.11.3]]
+- Earlier: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-terminal-actually-modify-opencode-config-when-adding-mcp-servers-with-mcp-add-co|Terminal Actually modify OpenCode config when adding MCP servers with mcp add command]]
 - Later: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-9-apps-and-integrations-changes-in-v0-24-0|9 Apps and Integrations changes in v0.24.0]]
 <!-- chronolog:end -->
 

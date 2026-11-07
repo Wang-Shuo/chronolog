@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 070b1d6348931d8bf3c005964be4329d4acadc6669f20a78c129b8b927f7f1b2
+machine_hash: de8a4401d76b7cd8008f287a08c2fbc1d1f7cacc43afc249a2e06fcc2496735d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Persistent retry mode (`CLAUDE_CODE_RETRY_WATCHDOG`) now fails immediately…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-18-running-out-of-credits-mid-message-now-pauses-your-work|Running
-  out of credits mid-message now pauses your work]]'
 - '[[Changes/Claude Code/2026-08-19-usage-now-shows-the-usage-credits-spend-row-for-team-and-enterprise-members-and|/usage
   now shows the usage-credits spend row for Team and Enterprise members…]]'
 - '[[Changes/Codex CLI/2026-08-20-39006-emit-api-key-turn-cost-telemetry-from-app-server-copyberry|♯39006
   Emit API-key turn cost telemetry from app-server @copyberry]]'
+- '[[Changes/OpenCode/2026-08-20-2-pricing-model-changes-in-v1-18-19|2 Pricing Model
+  changes in v1.18.19]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: pricing-model
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-39006-emit-api-key-turn-cost-telemetry-from-app-server-copyberry|♯39006 Emit API-key turn cost telemetry from app-server @copyberry]]
+- Earlier: 2026-08-20 · OpenCode · [[Changes/OpenCode/2026-08-20-2-pricing-model-changes-in-v1-18-19|2 Pricing Model changes in v1.18.19]]
 - Later: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-show-the-billed-cost-for-cline-gateway-usage|Show the billed cost for Cline gateway usage]]
 <!-- chronolog:end -->
 

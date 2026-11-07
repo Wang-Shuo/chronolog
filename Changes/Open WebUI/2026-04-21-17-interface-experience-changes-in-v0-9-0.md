@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c0e5ea7a98785fbdde27c283eb5cdfb8154bb733250821e4e225eccca27044e
+machine_hash: f9eb93929e03cc90f219b16381a7ad0058a0b892ac7590bd0344931115e141a0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -202,7 +202,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-20-4-interface-experience-changes-in-v1-0-33|4 Interface Experience changes in v1.0.33]]
-- Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface Experience changes in v2.1.119]]
+- Later: 2026-04-21 · OpenCode · [[Changes/OpenCode/2026-04-21-desktop-fixed-sidebar-project-avatars-to-fall-back-to-icon-url-when-no-override|Desktop Fixed sidebar project avatars to fall back to icon.url when no override is set]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

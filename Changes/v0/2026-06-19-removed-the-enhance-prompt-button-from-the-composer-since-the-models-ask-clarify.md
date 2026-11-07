@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5fa71daeef902f4547d2f93b884fcd26d50ad044a6727c5a5290f8703d918158
+machine_hash: 187dd1d95b493f9cad8a1e96e1811869e6952726b0ef2975d97bfbff29a203a7
 product: v0
 product_name: v0
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added a warning when the requested model is deprecated or automatically updated…]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-3-model-support-changes-in-rust-v0-142-0|3 Model Support changes in rust-v0.142.0]]
+- Later: 2026-06-21 · OpenCode · [[Changes/OpenCode/2026-06-21-2-model-support-changes-in-v1-17-9|2 Model Support changes in v1.17.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c09d90ab4011a6b7a006bf7eb94f1226768e9df0819e120e06ec43a9c269409
+machine_hash: c74244a91f80a2e415d7df233a225c4487afd0032c21aba038495a10f7f16b44
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Model Support changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-enable-extended-retention-models-in-your-enterprise-workspace|Enable
-  extended-retention models in your Enterprise workspace]]'
+- '[[Changes/OpenClaw/2026-09-23-22-model-support-changes-in-v2026-9-6|22 Model Support
+  changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support
   changes in v2.1.282]]'
 - '[[Changes/Cline/2026-09-24-3-model-support-changes-in-v4-1-21|3 Model Support changes

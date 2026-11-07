@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9f6901363592433fab21e29c9b34bac0b487a00e2d6a026a6243a28fc5a81089
+machine_hash: d56d2a435425b5479f53e97b2786a41b4a23f824523677add1e42368501f9839
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-9-memory-and-personalization-changes-in-rust-v0-121-0|9 Memory and Personalization changes in rust-v0.121.0]]
-- Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-4-memory-and-personalization-changes-in-rust-v0-122-0|4 Memory and Personalization changes in rust-v0.122.0]]
+- Later: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-core-the-bash-tool-uses-less-memory-on-large-command-output|Core The bash tool uses less memory on large command output]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

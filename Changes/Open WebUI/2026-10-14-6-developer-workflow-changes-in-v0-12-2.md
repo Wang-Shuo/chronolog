@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0bc927ac0d11e7add2778ce366639fbebf9293b245f13b9a7edb5dac4b087020
+machine_hash: ce9baa3ee70cf8892b557cd50fb359647c163edb56a25a5cbccf73799dd9452b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -77,8 +77,8 @@ record:
   title: 6 Developer Workflow changes in v0.12.2
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-13-background-shell-wait-status-no-longer-animates-when-no-foreground-work-is-runni|Background-shell
-  wait status no longer animates when no foreground work is running]]'
+- '[[Changes/OpenClaw/2026-10-13-5-developer-workflow-changes-in-v2026-10-3|5 Developer
+  Workflow changes in v2026.10.3]]'
 - '[[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added
   a dir prop on a mod''s Text for right-to-left text]]'
 - '[[Changes/Claude Code/2026-10-14-10-developer-workflow-changes-in-v2-1-299|10 Developer

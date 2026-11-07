@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 808c4bec5c1d21b026bfec7ed5f5f8180294928072d04171a0f8f579fd6a1361
+machine_hash: ff43ad83113de461a2445780b0974a38ed9a8a78664b0ae977e377a29a0f2a61
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved fullscreen streaming
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-11-updated-terminal-title-busy-spinner-glyphs-to-reduce-tab-bar-jitter-on-some-term|Updated
-  terminal title busy-spinner glyphs to reduce tab-bar jitter on some terminals]]'
-- '[[Changes/Cline/2026-08-11-make-the-auto-approve-menu-the-single-source-of-truth-for-unattended-runs-and-re|Make
-  the auto-approve menu the single source of truth for unattended runs and remove…]]'
-- '[[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode
-  Added session groups in the sidebar]]'
+- '[[Changes/Google Antigravity/2026-08-12-the-sidebar-now-remembers-which-folders-you-have-collapsed-or-expanded-including|The
+  sidebar now remembers which folders you have collapsed or expanded, including…]]'
+- '[[Changes/Google Antigravity/2026-08-12-2-interface-experience-changes-in-ide-v2-5-2-queued-messages-file|2
+  Interface Experience changes in IDE v2.5.2 — Queued Messages, File…]]'
+- '[[Changes/Google Antigravity/2026-08-12-persistent-sidebar-folders-crash-fixes-and-ui-enhancements|Persistent
+  Sidebar Folders, Crash Fixes, and UI Enhancements]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode Added session groups in the sidebar]]
+- Earlier: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-persistent-sidebar-folders-crash-fixes-and-ui-enhancements|Persistent Sidebar Folders, Crash Fixes, and UI Enhancements]]
 - Later: 2026-08-14 · Replit · [[Changes/Replit/2026-08-14-choose-a-workspace-region|Choose a workspace region]]
 <!-- chronolog:end -->
 

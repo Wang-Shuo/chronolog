@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 150be1d942801d37b62c5ce845dd1a932f766f4d6926f717647ff8a89557a10c
+machine_hash: 461db0062bbedcd46deb9da8808ad9528a0796dbb185741b66b551bbd0da9a2e
 product: windsurf
 product_name: Windsurf
 record:
@@ -59,12 +59,12 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-50384-allow-opting-into-16-kib-arm64-code-pages-for-macos-signing-chess-oai|♯50384
-  Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai]]'
-- '[[Changes/Replit/2026-10-09-replit-desktop-windows-preview-with-microsoft-and-nvidia|Replit
-  Desktop Windows preview with Microsoft and NVIDIA]]'
-- '[[Changes/Open WebUI/2026-10-10-3-mobile-and-desktop-changes-in-v0-12-0|3 Mobile
-  and Desktop changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-15-mobile-and-desktop-changes-in-v2026-10-1|15 Mobile
+  and Desktop changes in v2026.10.1]]'
+- '[[Changes/Google Antigravity/2026-10-12-2-mobile-and-desktop-changes-in-hub-v2-23-0-permissions-picker|2
+  Mobile and Desktop changes in HUB v2.23.0 — Permissions picker…]]'
+- '[[Changes/OpenClaw/2026-10-12-2-mobile-and-desktop-changes-in-v2026-10-2|2 Mobile
+  and Desktop changes in v2026.10.2]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-12-v3-10-67-8e3705b7|windsurf-2026-10-12-v3-10-67-8e3705b7]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-3-mobile-and-desktop-changes-in-v0-12-0|3 Mobile and Desktop changes in v0.12.0]]
+- Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-2-mobile-and-desktop-changes-in-v2026-10-2|2 Mobile and Desktop changes in v2026.10.2]]
 - Later: 2026-10-13 · Gemini · [[Changes/Gemini/2026-10-13-code-prototype-and-build-with-google-antigravity-in-the-gemini-macos-app|Code, prototype, and build with Google Antigravity in the Gemini macOS app]]
 <!-- chronolog:end -->
 

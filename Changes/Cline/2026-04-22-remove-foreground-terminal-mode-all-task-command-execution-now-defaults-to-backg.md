@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a1949b2f29ede06c9c34fdcf398336450980daf604e4f0df960bd3a9100a7199
+machine_hash: 9a0953f693d74fb5fb267549a88829713e49743249770393339ed491b802fa97
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: Remove foreground terminal mode
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-20-2-developer-workflow-changes-in-v1-0-33|2
-  Developer Workflow changes in v1.0.33]]'
+- '[[Changes/OpenCode/2026-04-20-desktop-added-a-separate-terminal-font-setting-and-bundled-jetbrainsmono-nerd-fo|Desktop
+  Added a separate terminal font setting and bundled JetBrainsMono Nerd Font Mono]]'
 - '[[Changes/Open WebUI/2026-04-21-46-developer-workflow-changes-in-v0-9-0|46 Developer
   Workflow changes in v0.9.0]]'
 - '[[Changes/Claude Code/2026-04-22-2-developer-workflow-changes-in-v2-1-117|2 Developer

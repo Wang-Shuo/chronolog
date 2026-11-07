@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1863d679b8dfd80d0d9acc3b094656fbc45adf3ea83459fcbff53c56d48792b3
+machine_hash: adca7ee1081da71aa2799758431dbaf125db6a7dee9989e94a066036b353c18f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,11 +44,12 @@ record:
   title: 3 Voice and Audio changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-19-faster-dictation|Faster dictation]]'
 - '[[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice
   and Audio changes in v2.1.307]]'
 - '[[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode
   Added a log warning that says what to do when dictation or the extension''s…]]'
+- '[[Changes/OpenClaw/2026-10-22-3-voice-and-audio-changes-in-v2026-10-6|3 Voice and
+  Audio changes in v2026.10.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
 source_type: github_releases
 theme: voice
@@ -97,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode Added a log warning that says what to do when dictation or the extension's…]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-3-voice-and-audio-changes-in-v2026-10-6|3 Voice and Audio changes in v2026.10.6]]
 - Later: 2026-10-24 · Ollama · [[Changes/Ollama/2026-10-24-ollama-can-now-generate-speech-https-docs-ollama-com-capabilities-speech-on-maco|Ollama can now generate speech((source link) on macOS]]
 <!-- chronolog:end -->
 

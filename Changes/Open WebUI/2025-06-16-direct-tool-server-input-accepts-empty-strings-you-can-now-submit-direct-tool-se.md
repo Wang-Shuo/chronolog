@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8549b6c9ad42b5b5b0fafa178c139adec818c64394360119118d034889718133
+machine_hash: ad39df0aae089030555cfca18533940f28629d9b294582bfcc812ba7ebd97274
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,12 +56,12 @@ record:
   title: ⚙️ **Direct Tool Server Input Accepts Empty Strings**
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-05-05-more-robust-action-module-execution-multiple-actions-in-a-module-now-trigger-as|\U0001F6E0️
-  More Robust Action Module Execution]]"
 - '[[Changes/OpenHands/2025-05-07-made-proactive-conversation-starters-for-cloud-resolver-configurable-on-a-per-us|Made
   proactive conversation starters for Cloud Resolver configurable on a per-user basis]]'
 - '[[Changes/Dify/2025-05-15-refactor-workflow-revamp-logging-module-for-loop-iteration-nodes-by-auxpd-in-htt|refactor(workflow):
   revamp logging module for loop & iteration nodes]]'
+- '[[Changes/Manus/2025-06-13-let-manus-handle-routine-and-repetitive-work-reclaim-your-time-and-elevate-your|Introducing
+  Manus Scheduled Task]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-06-16-v0-6-15-github-225589258-f1066959|open-webui-2025-06-16-v0-6-15-github-225589258-f1066959]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-refactor-workflow-revamp-logging-module-for-loop-iteration-nodes-by-auxpd-in-htt|refactor(workflow): revamp logging module for loop & iteration nodes]]
+- Earlier: 2025-06-13 · Manus · [[Changes/Manus/2025-06-13-let-manus-handle-routine-and-repetitive-work-reclaim-your-time-and-elevate-your|Introducing Manus Scheduled Task]]
 - Later: 2025-06-19 · Gemini · [[Changes/Gemini/2025-06-19-plan-ahead-with-scheduled-actions|Plan ahead with scheduled actions]]
 <!-- chronolog:end -->
 

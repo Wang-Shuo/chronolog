@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8f859a498d88303f5967037d7f40e707f2a039f35321ebb4782ff25dfe33dc74
+machine_hash: abcb72b54afa3f80693addaf62939f021695f1157f8853cc342a1150170d4832
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: Composer 2.5 includes double usage for the first week
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support
-  changes in v2.1.143]]'
+- '[[Changes/OpenCode/2026-05-15-2-model-support-changes-in-v1-14-51|2 Model Support
+  changes in v1.14.51]]'
 - '[[Changes/v0/2026-05-15-claude-opus-4-7-fast-is-available-as-a-new-model-option-under-more-models-with-2|Claude
   Opus 4.7 Fast is available as a new model option under…]]'
 - '[[Changes/Codex CLI/2026-05-18-4-model-support-changes-in-rust-v0-131-0|4 Model

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 366c933c58cfa7dcf8d5d60e34f9d5872c6214b5e88f803a84db31ed6f0b05f4
+machine_hash: f27d33c66b1a7f37bfc564299c97a188209f04d4f418f81ddb3963faa9142424
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,8 @@ record:
   title: Cleaned up logged-out mobile web experience
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-6-interface-experience-changes-in-v1-0-60|6
-  Interface Experience changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-diff-viewer-now-supports-next-and-previous-hunk-navigation|Diff
+  viewer now supports next and previous hunk navigation]]'
 - '[[Changes/ChatGPT/2026-06-08-improvement-to-charts-table-of-contents-and-full-screen-writing-also-fixes-long|Improvement
   to charts, table of contents and full screen writing]]'
 - '[[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|Table
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-6-interface-experience-changes-in-v1-0-60|6 Interface Experience changes in v1.0.60]]
+- Earlier: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-diff-viewer-now-supports-next-and-previous-hunk-navigation|Diff viewer now supports next and previous hunk navigation]]
 - Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface Experience changes in v2.1.169]]
 <!-- chronolog:end -->
 

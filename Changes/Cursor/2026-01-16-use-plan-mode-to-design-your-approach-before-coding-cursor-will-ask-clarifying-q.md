@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 79d5e3d6e1a094f7d5579ec16be35cf451a8165540f04a8c3b0a71472a3b1590
+machine_hash: ae47b859ece56475016a07d9613b3c2bb1847a47d76a31fc0171125b70098e88
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: Plan mode in CLI
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-15-9275-feat-add-agent-roles-to-collab-tools-jif-oai|♯9275
-  feat: add agent roles to collab tools @jif-oai]]'
+- '[[Changes/OpenCode/2026-01-15-core-ensure-frontmatter-can-process-same-content-as-other-agents|Core
+  Ensure frontmatter can process same content as other agents]]'
 - '[[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|Added
   plansDirectory setting to customize where plan files are stored]]'
 - '[[Changes/Cursor/2026-01-16-push-your-local-conversation-to-a-cloud-agent-and-let-it-keep-running-while-you|Handoff

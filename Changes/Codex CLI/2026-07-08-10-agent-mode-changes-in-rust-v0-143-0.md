@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 323ebdc03bfd19e901a6ccf94cfbd3772a1ece69c0bef0f3be44dde2e57292d3
+machine_hash: 2bacc273b88f7422f8620c592fd101957b49e7f349a83924abb99e250b6fd906
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -128,7 +128,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode changes in v2.1.205]]
-- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT Work is an agent for longer, more involved tasks]]
+- Later: 2026-07-08 · Runway · [[Changes/Runway/2026-07-08-agent-can-now-build-custom-skills-for-you-ask-it-to-create-one-from-scratch-or-t|Custom Agent Skills]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

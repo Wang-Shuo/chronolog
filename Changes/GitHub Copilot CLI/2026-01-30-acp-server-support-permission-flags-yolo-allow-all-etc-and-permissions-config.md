@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 80162a54d45980cfc2405d3857e66101024c3c34146602ffed078fe3baa3d9b6
+machine_hash: d56e08d2f29b9a2d309b70c6513e88463e768d095569508cc153888b790d835b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
     config'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-3-safety-and-privacy-changes-in-v0-26-0|3 Safety
-  and Privacy changes in v0.26.0]]'
 - '[[Changes/Claude Code/2026-01-29-fixed-per-user-temp-directory-isolation-to-prevent-permission-conflicts-on-share|Fixed
   per-user temp directory isolation to prevent permission conflicts on shared systems]]'
+- '[[Changes/OpenCode/2026-01-29-core-allow-media-src-data-url-for-small-audio-files-in-content-security-policy|Core
+  Allow media-src data: URL for small audio files in Content Security Policy]]'
 - '[[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|Permissions
   now respect content-level ask over tool-level allow]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24|github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24]]'

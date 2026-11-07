@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8dda27b64c1c02b8035193439ce74bf2550aac750c376b7e438d6cc9da4b6fb4
+machine_hash: 62eb7ad2fa2f7efad63e78ff33a5af5e521d10ebb27eadaf21ce9d63616ad1cf
 product: dify
 product_name: Dify
 record:
@@ -60,11 +60,11 @@ record:
   title: 9 Interface Experience changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-21-project-details-when-you-hover-the-sidebar|Project
-  details when you hover the sidebar]]'
 - '[[Changes/OpenHands/2026-08-21-2-interface-experience-changes-in-v1-15-0|2 Interface
   Experience changes in v1.15.0]]'
 - '[[Changes/Windsurf/2026-08-21-devin-cloud|Devin Cloud]]'
+- '[[Changes/Google Antigravity/2026-08-24-4-interface-experience-changes-in-hub-v2-10-0-embedded-terminals-git|4
+  Interface Experience changes in HUB v2.10.0 — Embedded Terminals, Git…]]'
 source_release: '[[Releases/Dify/dify-2026-08-25-1-17-0-github-376348099-66c16161|dify-2026-08-25-1-17-0-github-376348099-66c16161]]'
 source_type: github_releases
 theme: interface-experience
@@ -128,7 +128,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-21 · Windsurf · [[Changes/Windsurf/2026-08-21-devin-cloud|Devin Cloud]]
+- Earlier: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-4-interface-experience-changes-in-hub-v2-10-0-embedded-terminals-git|4 Interface Experience changes in HUB v2.10.0 — Embedded Terminals, Git…]]
 - Later: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-23954-add-trailing-space-to-autocomplete-suggestions-by-jone|SSR Agent Issue Fix (23954): Add trailing space to autocomplete suggestions]]
 <!-- chronolog:end -->
 

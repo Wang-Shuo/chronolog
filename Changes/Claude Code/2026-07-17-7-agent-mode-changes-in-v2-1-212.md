@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a858793e1596cbc3629e119a0d154b8e9ca6df5da118e5b2e5332677fabb3a96
+machine_hash: 7d864549903dd4418e0855035a841d7475f7127d53fa598b323828147f70a41b
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,12 +61,12 @@ record:
   title: 7 Agent Mode changes in v2.1.212
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-2-agent-mode-changes-in-v2-1-211|2 Agent Mode
-  changes in v2.1.211]]'
-- '[[Changes/Lovable/2026-07-15-let-ai-assistants-use-your-published-app|Let AI assistants
-  use your published app]]'
+- '[[Changes/OpenCode/2026-07-15-core-stopped-subagents-from-launching-nested-subagents-by-default-with-a-configu|Core
+  Stopped subagents from launching nested subagents by default…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent
   Mode changes in v1.0.71]]'
+- '[[Changes/OpenCode/2026-07-16-desktop-fixed-custom-agent-selector-visibility-when-custom-agents-are-available|Desktop
+  Fixed custom agent selector visibility when custom agents are available]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: agent-mode
@@ -116,7 +116,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.212
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent Mode changes in v1.0.71]]
+- Earlier: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-desktop-fixed-custom-agent-selector-visibility-when-custom-agents-are-available|Desktop Fixed custom agent selector visibility when custom agents are available]]
 - Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-64-agent-mode-changes-in-1-16-0|64 Agent Mode changes in 1.16.0]]
 <!-- chronolog:end -->
 

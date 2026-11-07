@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b8b0060c9b8ef49e58ab19d0436fb26aa4a2a4b8bff20a769f363a791dc6e24
+machine_hash: 2ccba42c38778bd28ba7032f9d9eb9e6d6e063a6f5eb7675d94d1f0e3b53ce92
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,12 +46,12 @@ record:
     now…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-2-editor-experience-changes-in-elevenlabs-updates-2026-10-26|2
-  Editor Experience changes in ElevenLabs updates — 2026-10-26]]'
-- '[[Changes/Lovable/2026-10-26-scroll-through-all-files-in-the-files-tab|Scroll through
-  all files in the Files tab]]'
-- '[[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud
-  sessions Added a Bash editor with colors, line numbers and a Copy button…]]'
+- '[[Changes/Google Antigravity/2026-10-27-2-editor-experience-changes-in-hub-v2-28-0-built-in-browser|2
+  Editor Experience changes in HUB v2.28.0 — Built-in browser…]]'
+- '[[Changes/OpenClaw/2026-10-27-the-control-ui-now-reconnects-when-a-visible-tab-has-lost-contact-but-still-show|The
+  Control UI now reconnects when a visible tab has lost contact but still shows…]]'
+- '[[Changes/OpenCode/2026-10-27-5-editor-experience-changes-in-v2-2-0|5 Editor Experience
+  changes in v2.2.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-28-v3-11-231-6962ae84|windsurf-2026-10-28-v3-11-231-6962ae84]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud sessions Added a Bash editor with colors, line numbers and a Copy button…]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-5-editor-experience-changes-in-v2-2-0|5 Editor Experience changes in v2.2.0]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-3-editor-experience-changes-in-rust-v0-166-0|3 Editor Experience changes in rust-v0.166.0]]
 <!-- chronolog:end -->
 

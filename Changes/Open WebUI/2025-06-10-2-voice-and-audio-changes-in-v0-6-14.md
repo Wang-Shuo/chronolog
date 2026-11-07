@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e72b69195768654e3fa44dc2a1577016a3682a7d222b5d933ee8b4d4a2cc637f
+machine_hash: 5030099d31aeef380fe18ba3ca6cc7ba3ce2d11f4e2e7c29dae2b9c52413f3ef
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,11 +46,12 @@ record:
   title: 2 Voice and Audio changes in v0.6.14
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-01-speech-to-text|Speech to Text]]'
 - '[[Changes/ChatGPT/2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e|We''re
   upgrading Advanced Voice in ChatGPT for paid users with significant…]]'
 - '[[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|In
   testing, we''ve observed that this update may occasionally cause minor decreases…]]'
+- '[[Changes/Manus/2025-06-09-manus-isn-t-just-where-you-generate-videos-it-s-where-you-craft-cinematic-experi|Manus
+  isn''t just where you generate videos — it''s where you craft cinematic experiences]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5|open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5]]'
 source_type: github_releases
 theme: voice
@@ -94,7 +95,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.14
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-06-07 · ChatGPT · [[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|In testing, we've observed that this update may occasionally cause minor decreases…]]
+- Earlier: 2025-06-09 · Manus · [[Changes/Manus/2025-06-09-manus-isn-t-just-where-you-generate-videos-it-s-where-you-craft-cinematic-experi|Manus isn't just where you generate videos — it's where you craft cinematic experiences]]
 - Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-deep-research-and-voice-mode-support|Deep research and voice mode support]]
 <!-- chronolog:end -->
 

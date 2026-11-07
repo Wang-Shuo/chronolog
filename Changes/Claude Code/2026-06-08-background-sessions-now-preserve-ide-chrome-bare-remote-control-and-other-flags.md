@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 3a0b680d494da913f5ee23695e2812fcd50548ac9a3a373259d01a534d91a3e7
+machine_hash: f1e25149232a9e446a691f8431491afd9326f280ab0e3b536944389039fc094e
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Background sessions now preserve `--ide`, `--chrome`, `--bare`, `--remote-control`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-renamed-windsurf-to-devin-desktop-in-the-ide-menu-terminal-setup-and-scroll-spee|Renamed
-  Windsurf to Devin Desktop in the /ide menu, /terminal-setup…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-05-3-editor-experience-changes-in-v1-0-60|3
-  Editor Experience changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-3-editor-experience-changes-in-v1-16-2|3 Editor Experience
+  changes in v1.16.2]]'
+- '[[Changes/OpenCode/2026-06-05-2-editor-experience-changes-in-v1-16-0|2 Editor Experience
+  changes in v1.16.0]]'
 - '[[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit
   messages with attachments]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'

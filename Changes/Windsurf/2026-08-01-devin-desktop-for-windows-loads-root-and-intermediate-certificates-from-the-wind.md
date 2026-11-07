@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7046659e128b504be6c8ebf826253f771d08b75af6c18682aae76a7c52bdefcd
+machine_hash: 4aa4a135d7981b577cf785bdc1181620104780f4505da550f1151eabcb99f229
 product: windsurf
 product_name: Windsurf
 record:
@@ -48,10 +48,10 @@ record:
     Windows…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-34643-migrate-login-http-construction-to-httpclient-copyberry|♯34643
-  Migrate login HTTP construction to HttpClient @copyberry]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-add-a-browser-based-web-oauth-login-flow-now-the-default-for-copilot-login-on-lo|Add
   a browser-based (web) OAuth login flow, now the default for copilot login…]]'
+- '[[Changes/Google Antigravity/2026-07-31-2-account-and-access-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
+  Account and Access changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 - '[[Changes/v0/2026-07-31-open-in-v0-and-git-deployment-lookups-prompt-for-saml-re-authentication-instead|Open
   in v0 and Git deployment lookups prompt for SAML re-authentication instead…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-08-01-v3-6-27-9624899b|windsurf-2026-08-01-v3-6-27-9624899b]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 61414fd9c3f2894ee731b024b0fd8b73bbe06381760d67278ded42b061fc075a
+machine_hash: ae1df48194134d4264e259acafdad437740dfb05a378f4368dcd4ad5e05d9c7e
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Add gpt-5.2-codex OpenAI model support
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-13-phase-in-responses-api-usage-instead-of-defaulting-for-every-supported-model|Phase
-  in Responses API usage instead of defaulting for every supported model]]'
-- '[[Changes/Dify/2026-01-13-8-model-support-changes-in-1-11-3|8 Model Support changes
-  in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-retrieving-models-handles-network-errors-from-firewalled-routes-gracefully-raise|Retrieving
   models handles network errors from firewalled routes gracefully, raises…]]'
+- '[[Changes/Google Antigravity/2026-01-13-updated-tab-model-architecture|Updated
+  tab model architecture]]'
+- '[[Changes/OpenCode/2026-01-13-3-model-support-changes-in-v1-1-16|3 Model Support
+  changes in v1.1.16]]'
 source_release: '[[Releases/Cline/cline-2026-01-14-v3-50-0-github-276897691-eb68a5d7|cline-2026-01-14-v3-50-0-github-276897691-eb68a5d7]]'
 source_type: github_releases
 theme: model-support
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-retrieving-models-handles-network-errors-from-firewalled-routes-gracefully-raise|Retrieving models handles network errors from firewalled routes gracefully, raises…]]
+- Earlier: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-3-model-support-changes-in-v1-1-16|3 Model Support changes in v1.1.16]]
 - Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-8-model-support-changes-in-rust-v0-81-0|8 Model Support changes in rust-v0.81.0]]
 <!-- chronolog:end -->
 

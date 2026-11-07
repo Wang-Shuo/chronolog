@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44ba5ac2f669232448693cbc0d707ed368c4e80d6f12a48122b504775dd4abfd
+machine_hash: dccb58ca5406e1f04f5b2bca5fbe15e0443c74c286a2c6a6ca011cf5492b47ef
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Slash command picker appears above the text input for a more stable layout
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-slash-command-picker-no-longer-flickers-or-shifts-the-input-while-filtering|Slash
-  command picker no longer flickers or shifts the input while filtering]]'
 - '[[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface
   Experience changes in v2.1.97]]'
 - '[[Changes/Gemini CLI/2026-04-08-refine-onboarding-metrics-to-log-the-duration-explicitly-and-use-the-tier-name-b|Refine
   onboarding metrics to log the duration explicitly and use the tier name]]'
+- '[[Changes/OpenCode/2026-04-08-terminal-added-a-keybinding-option-for-switch-model-variant|Terminal
+  Added a keybinding option for "Switch model variant"]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d|github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-refine-onboarding-metrics-to-log-the-duration-explicitly-and-use-the-tier-name-b|Refine onboarding metrics to log the duration explicitly and use the tier name]]
+- Earlier: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-terminal-added-a-keybinding-option-for-switch-model-variant|Terminal Added a keybinding option for "Switch model variant"]]
 - Later: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno|Improved focus mode]]
 <!-- chronolog:end -->
 

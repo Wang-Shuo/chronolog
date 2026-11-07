@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e4be3cd5a309efc34c640291f26b0960eb7e65d41b94b26e90d883544997344f
+machine_hash: ce51bf38ed9fd667ca4030f8fca9b23239756fbed25afa9cf4a5a87ffcb9a094
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,12 @@ record:
   title: 3 Mobile and Desktop changes in v2.1.224
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor
-  for iPad is now available on all paid plans]]'
-- '[[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]'
-- '[[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]'
+- '[[Changes/OpenCode/2026-08-04-4-mobile-and-desktop-changes-in-v1-18-12|4 Mobile
+  and Desktop changes in v1.18.12]]'
+- '[[Changes/OpenCode/2026-08-04-localized-more-desktop-ui-copy|Localized more desktop
+  UI copy]]'
+- '[[Changes/OpenCode/2026-08-04-7-mobile-and-desktop-changes-in-v1-18-13|7 Mobile
+  and Desktop changes in v1.18.13]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -96,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.224
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-29 · Windsurf · [[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]
+- Earlier: 2026-08-04 · OpenCode · [[Changes/OpenCode/2026-08-04-7-mobile-and-desktop-changes-in-v1-18-13|7 Mobile and Desktop changes in v1.18.13]]
 - Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-4-mobile-and-desktop-changes-in-rust-v0-147-0|4 Mobile and Desktop changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 

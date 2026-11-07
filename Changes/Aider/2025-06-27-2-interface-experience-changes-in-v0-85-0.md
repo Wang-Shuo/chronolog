@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f8bb4afb01baa1d9930b62dbeb7b694421a0247a6f7b38a70eab1744f4c1f080
+machine_hash: 8de2fea4d357e08d776189d28c80769de8bb4f80bc3caf701e164522e7f2c5c5
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Interface Experience changes in v0.85.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-11-markdown-rendering-fixes-ensured-abbreviations-display-properly-in-react-markdow|Markdown
-  Rendering Fixes]]'
-- '[[Changes/Dify/2025-06-16-conversation-panel-optimization-we-ve-fine-tuned-the-width-adjustment-logic-for|Conversation
-  Panel Optimization]]'
+- '[[Changes/Midjourney/2025-06-18-we-are-also-letting-you-animate-images-uploaded-from-outside-of-midjourney|We
+  are also letting you animate images uploaded from outside of Midjourney]]'
+- '[[Changes/Midjourney/2025-06-19-when-saving-an-video-to-share-please-right-click-your-video-and-press-save-for-s|When
+  saving an video to share, please right click your video and press…]]'
 - '[[Changes/Dify/2025-06-25-4-interface-experience-changes-in-1-5-0|4 Interface Experience
   changes in 1.5.0]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'

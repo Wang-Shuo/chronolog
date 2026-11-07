@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99c4ee49ef320c59671f1c51493d6980ec4ce0f9d0ce379abce4242751ebd169
+machine_hash: 300d96c28bcc3797d67fa030d19f6c6ce8a86efc89398b821a67d3ba9739637e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,12 +55,12 @@ record:
   title: 5 Developer Workflow changes in v1.0.87
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-15-developer-workflow-changes-in-rust-v0-155-0|15
-  Developer Workflow changes in rust-v0.155.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-17-the-status-row-now-says-it-is-waiting-for-background-shells-instead-of-working-w|The
-  status row now says it is waiting for background shells, instead…]]'
 - '[[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved
   /ultrareview when there''s nothing to review]]'
+- '[[Changes/Google Antigravity/2026-09-18-a-command-that-is-killed-when-the-app-restarts-is-now-reported-as-canceled-inste|A
+  command that is killed when the app restarts is now reported as canceled instead…]]'
+- '[[Changes/OpenClaw/2026-09-19-29-developer-workflow-changes-in-v2026-9-5|29 Developer
+  Workflow changes in v2026.9.5]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
 source_type: github_releases
 theme: developer-workflow
@@ -107,7 +107,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.87
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved /ultrareview when there's nothing to review]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-29-developer-workflow-changes-in-v2026-9-5|29 Developer Workflow changes in v2026.9.5]]
 - Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-39-developer-workflow-changes-in-v0-11-4|39 Developer Workflow changes in v0.11.4]]
 <!-- chronolog:end -->
 

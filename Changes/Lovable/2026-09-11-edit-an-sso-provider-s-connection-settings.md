@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 234279b2739a74be60be65779d132906957b6ed5031c68fb80bbf9f361a6c73a
+machine_hash: 96db5dd9d44e1f947ab12f753efb68b7c02cfa75874ed7f32fd3c4a5deb84288
 product: lovable
 product_name: Lovable
 record:
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-10 · Claude · [[Changes/Claude/2026-09-10-smart-reports-beta|Smart reports (beta)]]
-- Later: 2026-09-11 · Replit · [[Changes/Replit/2026-09-11-retrieve-prompt-text-for-compliance-workflows|Retrieve prompt text for compliance workflows]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-messages-arriving-while-openclaw-is-paused-now-wait-until-it-is-ready-again-and|Messages arriving while OpenClaw is paused now wait until it is ready again…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

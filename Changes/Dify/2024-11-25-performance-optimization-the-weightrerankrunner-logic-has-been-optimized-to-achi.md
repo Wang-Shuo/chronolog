@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05013cf02e8d19cf0d758429046032901915031b17eeca08fa95218b4f1ac75d
+machine_hash: e687a0f363550cfa6616c1b2fd3d53bca6fb4186f53de112759ec7b1d30b981e
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: '**Performance Optimization:** The `WeightRerankRunner` logic has been optimized…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-11-22-faster-model-retrieval-implemented-caching-optimizations-for-faster-model-loadin|⚡
-  Faster Model Retrieval]]'
 - '[[Changes/Open WebUI/2024-11-23-rag-query-generation-issue-addressed-a-significant-problem-where-rag-query-gener|⏳
   RAG Query Generation Issue]]'
+- '[[Changes/Runway/2024-11-23-you-can-now-use-act-one-in-gen-3-alpha-turbo-for-faster-more-affordable-generati|Act-One
+  in Gen-3 Alpha Turbo]]'
 - '[[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance
   improvements]]'
 source_release: '[[Releases/Dify/dify-2024-11-25-0-12-0-github-187239779-b9caba2f|dify-2024-11-25-0-12-0-github-187239779-b9caba2f]]'

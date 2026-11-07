@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 225654d65dbc195a8145ef76510f705080b64a03196d1fb85d1a8b173a0c95a3
+machine_hash: 37bf3b131dad1df242ea46f3067d86123a39e0dd787d4d1392449d17be8dfb17
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -80,10 +80,10 @@ record:
   title: 19 Apps and Integrations changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-07-connector-forms-are-split-into-collapsible-sections|Connector
-  forms are split into collapsible sections]]'
 - '[[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4
   Apps and Integrations changes in v2.1.265]]'
+- '[[Changes/OpenClaw/2026-09-08-23-apps-and-integrations-changes-in-v2026-9-3|23
+  Apps and Integrations changes in v2026.9.3]]'
 - '[[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude
   Tag Added a "Use a custom connector" link to the preset connection forms…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
@@ -168,7 +168,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude Tag Added a "Use a custom connector" link to the preset connection forms…]]
-- Later: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-docs-remove-duplicate-openhands-extensions-bullet-in-development-md-by-imitater|docs: remove duplicate OpenHands/extensions bullet in DEVELOPMENT.md]]
+- Later: 2026-09-09 · OpenCode · [[Changes/OpenCode/2026-09-09-2-apps-and-integrations-changes-in-v1-18-30|2 Apps and Integrations changes in v1.18.30]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

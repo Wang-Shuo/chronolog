@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae31586833a367edbaa4f31f97c868577f68d33430f3199c91de180b54167c80
+machine_hash: 9a8b603d7af38c5b2216b93181050e295f6d20cbd182e6198c234ee99ad17875
 product: v0
 product_name: v0
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved code-server loading speed for fresh VMs
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2
-  Reliability and Performance changes in v2.1.73]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-11-faster-shell-commands-on-windows-by-skipping-powershell-profile-loading|Faster
   shell commands on Windows by skipping PowerShell profile loading]]'
 - '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
   actionable suggestions to /context command]]'
+- '[[Changes/OpenCode/2026-03-12-desktop-trim-session-render-work-in-app-for-improved-performance|Desktop
+  Trim session render work in app for improved performance]]'
 source_release: '[[Releases/v0/v0-2026-03-12-2026-03-12-6e6ec641|v0-2026-03-12-2026-03-12-6e6ec641]]'
 source_type: v0_changelog
 theme: reliability-performance
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added actionable suggestions to /context command]]
+- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-desktop-trim-session-render-work-in-app-for-improved-performance|Desktop Trim session render work in app for improved performance]]
 - Later: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-4-reliability-and-performance-changes-in-v0-18-0|4 Reliability and Performance changes in v0.18.0]]
 <!-- chronolog:end -->
 

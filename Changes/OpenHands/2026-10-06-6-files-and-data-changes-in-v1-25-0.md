@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca23fcd602be5e3fffa795dad9cd18c65db8ade6725831518bebfd88ac50ca47
+machine_hash: fba741b6b0e6534b323ad0a2a0413762e329d7760db4c4e7ba4ab7395608836b
 product: openhands
 product_name: OpenHands
 record:
@@ -56,8 +56,8 @@ record:
   title: 6 Files and Data changes in v1.25.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added
-  retries for transient file-upload failures and increased the upload timeout…]]'
+- '[[Changes/OpenClaw/2026-09-30-3-files-and-data-changes-in-v2026-9-7|3 Files and
+  Data changes in v2026.9.7]]'
 - '[[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan
   notes and documents more easily with ChatGPT camera]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-canvas-actions-can-now-return-images-to-the-model-in-invoke-canvas-action|Canvas

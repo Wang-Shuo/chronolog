@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 812e1d78327cddab1d325bd3de3b87c36d700ba6666e7ff227393385bdd0ecff
+machine_hash: f18586489bf4e0eae046822f4a892d0056a33f9eaa21c81f735f8646fadf1d54
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508 Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]]
-- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation and Scheduling changes in 1.16.0]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-79-automation-and-scheduling-changes-in-v2026-7-1|79 Automation and Scheduling changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

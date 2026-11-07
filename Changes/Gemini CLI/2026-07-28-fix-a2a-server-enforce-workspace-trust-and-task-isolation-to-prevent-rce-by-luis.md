@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0bac701a3d1281e431d7eddc0e3f8cd878c6d7ac731b27c9d2d6da4ec81b8eb3
+machine_hash: 0ae2a3eee525d5eb54af0940d706e63e5cd4fa81756462ea94cc56b63ca38322
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-11-safety-and-privacy-changes-in-1-16-1|11 Safety and Privacy changes in 1.16.1]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-6-safety-and-privacy-changes-in-rust-v0-146-0|6 Safety and Privacy changes in rust-v0.146.0]]
+- Later: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-3-safety-and-privacy-changes-in-hub-v2-4-3-preview-tabs-mcp|3 Safety and Privacy changes in HUB v2.4.3 — Preview tabs, MCP…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9df8803b91e2e4556598b62151186a385fc0f539a78c310e64998028b4dfe343
+machine_hash: 5563016cf5452ca24f1729cdd28903d31cd9cfaca057edb1a83144f1208240f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,8 +54,8 @@ record:
   title: '[VSCode] Improved screen reader navigation of the conversation'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-high-contrast-mode-is-now-accessibility-mode-the-interface-setting-previously-ca|\U0001F3F7️
-  High Contrast Mode is now Accessibility Mode. The interface setting…]]"
+- '[[Changes/OpenClaw/2026-09-08-slack-delivers-valid-structured-sections-intact-even-when-their-accessibility-te|Slack
+  delivers valid structured sections intact even when their accessibility text…]]'
 - '[[Changes/Claude Code/2026-09-10-vscode-added-a-claude-code-focus-last-message-command-that-moves-keyboard-focus|VSCode
   Added a "Claude Code]]'
 - '[[Changes/Dify/2026-09-10-3-accessibility-and-localization-changes-in-1-17-1|3
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-3-accessibility-and-localization-changes-in-1-17-1|3 Accessibility and Localization changes in 1.17.1]]
-- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-46040-default-tui-animations-off-when-a-screen-reader-is-detected-etraut-openai|♯46040 Default TUI animations off when a screen reader is detected @etraut-openai]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-browser-pages-appear-directly-in-the-chat-panel-header-leaving-more-room-for-the|Browser pages appear directly in the Chat panel header, leaving more room for the page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

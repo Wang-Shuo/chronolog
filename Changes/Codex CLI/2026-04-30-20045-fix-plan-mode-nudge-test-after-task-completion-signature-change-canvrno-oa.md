@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f96e5688a3682f46467c6ac39588618c4437da456941f9afd368057cd2cbbd9
+machine_hash: 19f643fa897ff1420b7efac31ba1ffba9d2abb9311fd489dbfa65a0c174186f5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: '#20045 Fix plan mode nudge test after task completion signature change @canvrno-oai'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-24-2-editor-experience-changes-in-v0-9-2|2 Editor
-  Experience changes in v0.9.2]]'
+- '[[Changes/OpenCode/2026-04-26-terminal-fixed-editor-lock-detection-to-ignore-locks-from-unrelated-workspaces|Terminal
+  Fixed editor lock detection to ignore locks from unrelated workspaces]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add
   copilot completion bash / zsh / fish subcommand to generate static shell…]]'
 - '[[Changes/Dify/2026-04-29-6-editor-experience-changes-in-1-14-0|6 Editor Experience

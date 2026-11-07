@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dda3d411115e821514975783256d65cc88b336637cc2b9be4b2fcfb8040d07d3
+machine_hash: 36c3512e0268c229af2b2b8e738f2c3b942bc9d38592d97b8ee5c2461cdbffdd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Project info remains visible in slash command picker when no results match
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode
-  behavior]]'
 - '[[Changes/Codex CLI/2026-05-07-20065-feat-tui-redesign-session-picker-fcoury-oai|♯20065
   feat(tui): redesign session picker @fcoury-oai]]'
+- '[[Changes/OpenCode/2026-05-07-desktop-added-a-macos-settings-menu-entry|Desktop
+  Added a macOS Settings menu entry]]'
 - '[[Changes/Codex CLI/2026-05-08-20665-make-environment-providers-own-default-selection-starr-openai|♯20665
   Make environment providers own default selection @starr-openai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8|github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8]]'

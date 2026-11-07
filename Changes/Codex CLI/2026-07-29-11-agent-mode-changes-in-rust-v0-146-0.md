@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8fbabb185bcecf21d2dc41fb2cd524b894d7742720620721a5287af34eb0b1b4
+machine_hash: e17484912e3a6908e65954469cf8a708c6b5d4ba07f40f95a9a0bd7ec881fb33
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 11 Agent Mode changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on
-  cloud agents that build, test, and ship code while you keep working]]'
 - '[[Changes/Dify/2026-07-28-24-agent-mode-changes-in-1-16-1|24 Agent Mode changes
   in 1.16.1]]'
+- '[[Changes/Google Antigravity/2026-07-28-2-agent-mode-changes-in-hub-v2-4-3-preview-tabs-mcp|2
+  Agent Mode changes in HUB v2.4.3 — Preview tabs, MCP…]]'
 - '[[Changes/OpenHands/2026-07-28-this-release-migration-was-performed-by-an-ai-agent-openhands-on-behalf-of-the-u|This
   release migration was performed by an AI agent (OpenHands) on behalf of the user]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'

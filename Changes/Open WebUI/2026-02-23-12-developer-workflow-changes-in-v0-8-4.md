@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 34b9aaf97cedb77c02a52e35d0208c9b09dfa1682c2f54d50fd073ed806c0c7e
+machine_hash: 6752104c1f6ed4025eed0f9478b50a96a091024eb5e0b62f47826ec3611523b8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -93,12 +93,12 @@ record:
   title: 12 Developer Workflow changes in v0.8.4
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-5-developer-workflow-changes-in-v0-0-412|5
-  Developer Workflow changes in v0.0.412]]'
 - '[[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer
   Workflow changes in v2.1.50]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-increase-lsp-request-timeout-from-30s-to-90s-to-reduce-timeout-failures|Increase
   LSP request timeout from 30s to 90s to reduce timeout failures]]'
+- '[[Changes/OpenCode/2026-02-20-terminal-use-structuredclone-instead-of-remeda-s-clone-for-better-performance-an|Terminal
+  Use structuredClone instead of remeda''s clone for better performance…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-23-v0-8-4-github-289302856-177fc54c|open-webui-2026-02-23-v0-8-4-github-289302856-177fc54c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -164,7 +164,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-increase-lsp-request-timeout-from-30s-to-90s-to-reduce-timeout-failures|Increase LSP request timeout from 30s to 90s to reduce timeout failures]]
+- Earlier: 2026-02-20 · OpenCode · [[Changes/OpenCode/2026-02-20-terminal-use-structuredclone-instead-of-remeda-s-clone-for-better-performance-an|Terminal Use structuredClone instead of remeda's clone for better performance…]]
 - Later: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa|BashTool now skips login shell (-l flag) by default when a shell snapshot…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6701193cc3b5d11d3ba2f574a7b8ee0b241705e40f48ac3bb84f3852b8dd7ac3
+machine_hash: b22aa845f0f4f632a84ffcd84e4e289b26891c4fa44700de2e29fba33b3f27f0
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.144
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-15-bash-terminal-output-no-longer-flashes-empty-rows-while-commands-are-running|Bash
-  terminal output no longer flashes empty rows while commands are running]]'
-- '[[Changes/Windsurf/2026-05-16-2-developer-workflow-changes-in-v2-3-9|2 Developer
-  Workflow changes in v2.3.9]]'
+- '[[Changes/OpenCode/2026-05-17-core-fixed-custom-lsp-servers-not-sending-refresh-events-after-they-initialize|Core
+  Fixed custom LSP servers not sending refresh events after they initialize]]'
 - '[[Changes/Codex CLI/2026-05-18-12-developer-workflow-changes-in-rust-v0-131-0|12
   Developer Workflow changes in rust-v0.131.0]]'
+- '[[Changes/OpenCode/2026-05-18-5-developer-workflow-changes-in-v1-15-5|5 Developer
+  Workflow changes in v1.15.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.144
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-12-developer-workflow-changes-in-rust-v0-131-0|12 Developer Workflow changes in rust-v0.131.0]]
+- Earlier: 2026-05-18 · OpenCode · [[Changes/OpenCode/2026-05-18-5-developer-workflow-changes-in-v1-15-5|5 Developer Workflow changes in v1.15.5]]
 - Later: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-2-developer-workflow-changes-in-v1-0-49|2 Developer Workflow changes in v1.0.49]]
 <!-- chronolog:end -->
 

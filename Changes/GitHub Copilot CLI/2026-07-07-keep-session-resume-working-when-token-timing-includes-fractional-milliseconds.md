@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7125af31f203e56df9412b48dbd049182a1ff32e74bbb0f159d48745f1bb414
+machine_hash: 231d16879de7a7e5d46409f72b6151806529ce3904147f224c154bfa253dba8f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Keep session resume working when token timing includes fractional milliseconds
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-26-improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe|Improved
-  Remote session startup with a provisioning checklist while the container starts]]'
 - '[[Changes/Claude Code/2026-06-29-added-readable-default-names-for-sessions-at-start-making-them-easier-to-identif|Added
   readable default names for sessions at start, making them easier to identify…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-recover-corrupted-session-history-on-load|Recover
   corrupted session history on load]]'
+- '[[Changes/OpenCode/2026-06-30-sdk-add-paged-durable-session-history|SDK Add paged
+  durable session history]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357|github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-recover-corrupted-session-history-on-load|Recover corrupted session history on load]]
-- Later: 2026-07-16 · ChatGPT · [[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|Unified Recents: Chat and Work conversations now appear together in Recents, where…]]
+- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-sdk-add-paged-durable-session-history|SDK Add paged durable session history]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-5-projects-and-workspaces-changes-in-v2026-7-1|5 Projects and Workspaces changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

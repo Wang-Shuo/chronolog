@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 10f1f6b0204ea76919b935e784bb098e82b5987e8aa520815a4985656b54a12d
+machine_hash: 77b998b7d71e6e121bac6b7d36e7895a6cd6662ed9deca4d55d33cf373383d25
 product: replit
 product_name: Replit
 record:
@@ -48,12 +48,12 @@ record:
   title: Claude Opus 4.5 support
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-12-19-model-support-changes-in-v0-8-0|19 Model Support
-  changes in v0.8.0]]'
 - '[[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring
   GPT-4o and other legacy models]]'
 - '[[Changes/Cline/2026-02-13-ui-ux-fixes-with-minimax-model-family|UI/UX fixes with
   minimax model family]]'
+- '[[Changes/OpenCode/2026-02-13-desktop-toggle-all-provider-models-in-settings|Desktop
+  Toggle all provider models in settings]]'
 source_release: '[[Releases/Replit/replit-2026-02-13-2026-02-13-6a679506|replit-2026-02-13-2026-02-13-6a679506]]'
 source_type: replit_changelog
 theme: model-support
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-13 · Cline · [[Changes/Cline/2026-02-13-ui-ux-fixes-with-minimax-model-family|UI/UX fixes with minimax model family]]
-- Later: 2026-02-14 · Ollama · [[Changes/Ollama/2026-02-14-2-model-support-changes-in-v0-16-2|2 Model Support changes in v0.16.2]]
+- Earlier: 2026-02-13 · OpenCode · [[Changes/OpenCode/2026-02-13-desktop-toggle-all-provider-models-in-settings|Desktop Toggle all provider models in settings]]
+- Later: 2026-02-14 · Midjourney · [[Changes/Midjourney/2026-02-14-please-note|Please Note]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

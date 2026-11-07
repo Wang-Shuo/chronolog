@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2815c41c616aefe30915815f41df4f3b456e5b7699647255b7fdb9799d64490
+machine_hash: 3b6fbc90da0f9f5738fe42f8db58adbcf431bef51daa7b711541fd50fb67b673
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 4 Voice and Audio changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-14-10-voice-and-audio-changes-in-v0-12-1|10 Voice
-  and Audio changes in v0.12.1]]'
+- '[[Changes/Runway/2026-10-14-fish-audio-drama-3-is-now-available-in-runway-mcp-turn-scripts-into-expressive-v|Fish
+  Audio Drama 3]]'
 - '[[Changes/ChatGPT/2026-10-15-for-more-information-see-chatgpt-voice|For more information,
   see: ChatGPT Voice]]'
 - '[[Changes/ChatGPT/2026-10-15-we-re-rolling-out-gpt-live-1-1-and-gpt-live-1-1-quip-a-mini-version-of-the-model|ChatGPT
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-we-re-rolling-out-gpt-live-1-1-and-gpt-live-1-1-quip-a-mini-version-of-the-model|ChatGPT rolls out GPT-Live-1.1 and GPT-Live-1.1 Quip, a mini version of the model…]]
-- Later: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-gpt-transcribe-for-your-app-s-speech-to-text-features|GPT Transcribe for your app's speech-to-text features]]
+- Later: 2026-10-15 · Runway · [[Changes/Runway/2026-10-15-mirelo-sfx-2-0-is-now-available-in-runway-mcp-give-your-agent-a-clip-and-describ|Mirelo SFX 2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df3bcb3fda3737f631a211243fbec10377065bbdcba9f3dfacfc5c95ec89f167
+machine_hash: af5877b5823dfca4b91738d1612007847cb4962856cb71a1e291dfea32e7d7ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,12 +64,12 @@ record:
   title: 5.2 Personality System Prompt Update
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-21-5-model-support-changes-in-rust-v0-88-0|5 Model
-  Support changes in rust-v0.88.0]]'
-- '[[Changes/Gemini CLI/2026-01-21-6-model-support-changes-in-v0-25-0|6 Model Support
-  changes in v0.25.0]]'
 - '[[Changes/Ollama/2026-01-21-a-new-ollama-launch-command-to-use-ollama-s-models-with-claude-code-codex-openco|A
   new ollama launch command to use Ollama''s models with Claude Code, Codex…]]'
+- '[[Changes/OpenCode/2026-01-21-3-model-support-changes-in-v1-1-29|3 Model Support
+  changes in v1.1.29]]'
+- '[[Changes/OpenCode/2026-01-21-4-model-support-changes-in-v1-1-30|4 Model Support
+  changes in v1.1.30]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b|chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-21 · Ollama · [[Changes/Ollama/2026-01-21-a-new-ollama-launch-command-to-use-ollama-s-models-with-claude-code-codex-openco|A new ollama launch command to use Ollama's models with Claude Code, Codex…]]
+- Earlier: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-4-model-support-changes-in-v1-1-30|4 Model Support changes in v1.1.30]]
 - Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-9597-feat-core-modelinfo-model-instructions-template-dylan-hurd-oai|♯9597 feat(core) ModelInfo.model_instructions_template @dylan-hurd-oai]]
 <!-- chronolog:end -->
 

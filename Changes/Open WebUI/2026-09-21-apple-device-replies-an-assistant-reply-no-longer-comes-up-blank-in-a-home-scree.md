@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3e1eb39987930c87225599fb55e0bfd7add39e4eefd6043ece28b23b0a8d79c
+machine_hash: 3ea1b033fadbaaf726837ba02f1058aa24aa589755bb16e5b1438b31e19e7cca
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,10 +50,10 @@ record:
     up blank in a home…"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude
-  Code on the web Changed the admin Claude Code setting labeled…]]'
 - '[[Changes/Ollama/2026-09-19-ollama-s-macos-app-will-now-no-longer-reopen-windows-you-ve-closed-when-activati|Ollama''s
   macOS app will now no longer reopen windows you''ve closed when activating it]]'
+- '[[Changes/OpenClaw/2026-09-19-23-mobile-and-desktop-changes-in-v2026-9-5|23 Mobile
+  and Desktop changes in v2026.9.5]]'
 - '[[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit
   scores in Finances]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'

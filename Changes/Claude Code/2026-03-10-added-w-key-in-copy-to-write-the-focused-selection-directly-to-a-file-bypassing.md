@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1852db49f8c888240c3e7bceb5ab63ecdf0019f723426838f0a12605e104f43a
+machine_hash: d19251c8a2c802fe1336ff30617905629c6632169201050ab944d6d4e4f95eaf
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added `w` key in `/copy` to write the focused selection directly to a file…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-08-added-a-new-model-selection-surface-update-so-the-latest-model-catalog-changes-a|Added
-  a new model-selection surface update so the latest model catalog changes…]]'
-- '[[Changes/Open WebUI/2026-03-08-5-interface-experience-changes-in-v0-8-9|5 Interface
-  Experience changes in v0.8.9]]'
+- '[[Changes/OpenCode/2026-03-08-2-interface-experience-changes-in-v1-2-22|2 Interface
+  Experience changes in v1.2.22]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-09-show-loading-spinner-in-diff-mode-while-fetching-changes|Show
   loading spinner in diff mode while fetching changes]]'
+- '[[Changes/OpenCode/2026-03-09-desktop-fix-sidebar-workspace-container-sizing-to-prevent-content-overflow|Desktop
+  Fix sidebar workspace container sizing to prevent content overflow]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-show-loading-spinner-in-diff-mode-while-fetching-changes|Show loading spinner in diff mode while fetching changes]]
+- Earlier: 2026-03-09 · OpenCode · [[Changes/OpenCode/2026-03-09-desktop-fix-sidebar-workspace-container-sizing-to-prevent-content-overflow|Desktop Fix sidebar workspace container sizing to prevent content overflow]]
 - Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-4-interface-experience-changes-in-rust-v0-113-0|4 Interface Experience changes in rust-v0.113.0]]
 <!-- chronolog:end -->
 

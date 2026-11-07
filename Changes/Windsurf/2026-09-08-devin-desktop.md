@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: eecccb38ce5d18a9c747d66b660bef03faa9938f28e5bb5c23eb5965023a8a18
+machine_hash: 1a3edf823e2e6013a8c9f9da7951f95c51635a0a018316d41e3a21fead2d405c
 product: windsurf
 product_name: Windsurf
 record:
@@ -75,12 +75,12 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile
-  and Desktop changes in v2.1.260]]'
-- '[[Changes/Codex CLI/2026-09-03-42068-https-github-com-openai-codex-pull-42068-detect-standalone-installs-from-t|♯42068((source
-  link) Detect standalone installs…]]'
+- '[[Changes/OpenClaw/2026-09-05-10-mobile-and-desktop-changes-in-v2026-9-2|10 Mobile
+  and Desktop changes in v2026.9.2]]'
 - '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn
   a sketch into an image]]'
+- '[[Changes/OpenClaw/2026-09-08-10-mobile-and-desktop-changes-in-v2026-9-3|10 Mobile
+  and Desktop changes in v2026.9.3]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-09-08-v3-9-19-976db35b|windsurf-2026-09-08-v3-9-19-976db35b]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -125,7 +125,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn a sketch into an image]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-10-mobile-and-desktop-changes-in-v2026-9-3|10 Mobile and Desktop changes in v2026.9.3]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6 Mobile and Desktop changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

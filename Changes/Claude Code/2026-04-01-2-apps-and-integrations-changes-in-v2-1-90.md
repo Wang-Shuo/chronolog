@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d13dc4f4fefc5d726a3de22aa27c571a6c401a9513e2c861cf4f0eac9e25aa88
+machine_hash: 4846bbcf24398421472a01fdab22e91a05b1829787f13395d15b79463a9e007c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.90
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-12-apps-and-integrations-changes-in-rust-v0-118-0|12
-  Apps and Integrations changes in rust-v0.118.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-5-apps-and-integrations-changes-in-v1-0-14|5
   Apps and Integrations changes in v1.0.14]]'
+- '[[Changes/OpenCode/2026-03-31-4-apps-and-integrations-changes-in-v1-3-12-2|4 Apps
+  and Integrations changes in v1.3.12 + 2]]'
 - '[[Changes/Claude Code/2026-04-01-3-apps-and-integrations-changes-in-v2-1-89|3 Apps
   and Integrations changes in v2.1.89]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b|claude-code-2026-04-01-v2-1-90-github-304453197-996aad1b]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e5646713f9b6792833c9eed3a526dfb10dab84655b72a42a078ec6df7d40470d
+machine_hash: 7b803558ce0f0134ee03f4675fdca76de20a512e4c9fe45a7d80f4e4b6b32d18
 product: lovable
 product_name: Lovable
 record:
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-10 · Cursor · [[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot-362593|The average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]
-- Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2 Reliability and Performance changes in v2.1.176]]
+- Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-faster-file-search-across-large-projects-with-the-new-fff-backed-search-tools|Faster file search across large projects with the new fff -backed search tools]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7dc17dd785584757c89ab7135063eb0ccdfb5f533af6cb67d4306ad7cb373860
+machine_hash: 70b7fc6099974d97c083ee0a9ad2a069dab2ecbb7199608df2aa4c68d7042f87
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.132.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-3-interface-experience-changes-in-v1-0-49|3 Interface Experience changes in v1.0.49]]
-- Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt history no longer records consecutive duplicate entries]]
+- Later: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-2-interface-experience-changes-in-v1-15-6|2 Interface Experience changes in v1.15.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0fbf76e2d493c8d6d5677ca6a78f4afae22a65e2b4ccc914ffaaa2aa08e73aa1
+machine_hash: a01568e1351e6affcc20a200aa12d3c88ddf7648ca5720e4924e771ff82c0479
 product: ollama
 product_name: Ollama
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-search-and-browsing-changes-in-v1-0-100|2 Search and Browsing changes in v1.0.100]]
-- Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-web-search-settings-save-admins-can-now-save-web-search-settings-such-as-the-web|🌍 Web Search settings save. Admins can now save Web Search settings such…]]
+- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-web-search-timeout-errors-now-tell-you-the-request-s-actual-time-limit-see-web-t|Web search timeout errors now tell you the request’s actual time limit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

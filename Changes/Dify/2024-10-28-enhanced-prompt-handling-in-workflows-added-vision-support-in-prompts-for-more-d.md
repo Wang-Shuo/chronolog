@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c60f675aa90cc0d4c385ed29f0d88ded838b8d56be63618f8a14bc800dec7719
+machine_hash: 026d782beb1519e5052c56b741dcaaf3b1d6f19edd514384cfac07c83dbbdc25
 product: dify
 product_name: Dify
 record:
@@ -47,12 +47,12 @@ record:
     for more…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision
-  and prompt caching fixes]]'
 - '[[Changes/Dify/2024-10-21-if-you-have-a-basic-chatbot-or-text-generator-app-with-the-vision-feature-enable|
   If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…]]'
 - '[[Changes/Ollama/2024-10-21-3-multimodal-input-changes-in-v0-4-0|3 Multimodal Input
   changes in v0.4.0]]'
+- '[[Changes/Runway/2024-10-25-introducing-act-one-a-new-way-to-generate-expressive-character-performances-insi|Act-One
+  in Gen-3 Alpha]]'
 source_release: '[[Releases/Dify/dify-2024-10-28-0-10-2-github-182221061-a0360387|dify-2024-10-28-0-10-2-github-182221061-a0360387]]'
 source_type: github_releases
 theme: multimodal
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-10-21 · Ollama · [[Changes/Ollama/2024-10-21-3-multimodal-input-changes-in-v0-4-0|3 Multimodal Input changes in v0.4.0]]
+- Earlier: 2024-10-25 · Runway · [[Changes/Runway/2024-10-25-introducing-act-one-a-new-way-to-generate-expressive-character-performances-insi|Act-One in Gen-3 Alpha]]
 - Later: 2024-11-11 · Dify · [[Changes/Dify/2024-11-11-chore-add-multimodal-send-video-format-to-docker-s-env-by-hjlarry-in-https-githu|chore: add MULTIMODAL_SEND_VIDEO_FORMAT to docker's env]]
 <!-- chronolog:end -->
 

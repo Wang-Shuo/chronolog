@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1bf312d11ea82b6e3bf1899e3a5bde201c78b3058c9329b0fdad4f6d808c946d
+machine_hash: c1703a890409e701ffcfbf591a76359a716e7f5bf886f7368fe44d68f2bffc8f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,8 +41,8 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-65-apps-and-integrations-changes-in-rust-v0-147-0|65
-  Apps and Integrations changes in rust-v0.147.0]]'
+- '[[Changes/Google Antigravity/2026-08-07-faster-long-conversations-more-reliable-hooks-and-subagents|Faster
+  long conversations, more reliable hooks and subagents]]'
 - '[[Changes/Claude Code/2026-08-08-3-apps-and-integrations-changes-in-v2-1-225|3
   Apps and Integrations changes in v2.1.225]]'
 - '[[Changes/Cline/2026-08-09-2-apps-and-integrations-changes-in-v4-1-7|2 Apps and

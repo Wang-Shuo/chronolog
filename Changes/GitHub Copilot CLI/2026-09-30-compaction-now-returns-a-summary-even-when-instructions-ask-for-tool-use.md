@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ad0408226c39a11fea847ff65c897d4bc9e430f3ed3752e327a8ef169dc54de
+machine_hash: 7ac6d58f894f2003c5f5d93cc2a43103857afa4c9efaf695a563e26a9d7a9d1c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-09-30 · Cline · [[Changes/Cline/2026-09-30-reasoning-tokens-are-no-longer-counted-twice-in-token-usage-cost-is-unchanged|Reasoning tokens are no longer counted twice in token usage]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-changed-opus-4-7-and-fable-to-use-a-1m-context-window-by-default-on-bedrock-vert|Changed Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…]]
+- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-4-context-window-changes-in-v2026-9-7|4 Context Window changes in v2026.9.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

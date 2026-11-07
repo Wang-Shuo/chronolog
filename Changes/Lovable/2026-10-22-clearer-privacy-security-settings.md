@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 56c9e1575483ff790bb4650141b425fad314b7312c60f0514f4ac87a35a8f374
+machine_hash: bccc00f185ac2fa585a15070f806adf53cf2da519bed3de182828c6200f481a3
 product: lovable
 product_name: Lovable
 record:
@@ -58,12 +58,12 @@ record:
   title: Clearer Privacy & security settings
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-21-subagents-honor-custom-and-mcp-tool-approvals-avoiding-duplicate-permission-prom|Subagents
-  honor custom and MCP tool approvals, avoiding duplicate permission prompts…]]'
-- '[[Changes/Claude Code/2026-10-22-8-safety-and-privacy-changes-in-v2-1-309|8 Safety
-  and Privacy changes in v2.1.309]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-22-3-safety-and-privacy-changes-in-v1-0-103|3
   Safety and Privacy changes in v1.0.103]]'
+- '[[Changes/Google Antigravity/2026-10-22-question-prompts-and-permission-requests-now-dock-above-the-message-box-instead|Question
+  prompts and permission requests now dock above the message box instead…]]'
+- '[[Changes/Google Antigravity/2026-10-22-notifications-settings-docked-question-prompts-and-conversation-palette-filters|Notifications
+  settings, docked question prompts, and conversation palette filters]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-22-2026-10-22-f21f7743|lovable-2026-10-22-2026-10-22-f21f7743]]'
 source_type: lovable_changelog
 theme: safety-privacy
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-22-3-safety-and-privacy-changes-in-v1-0-103|3 Safety and Privacy changes in v1.0.103]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety and Privacy changes in v2.1.310]]
+- Earlier: 2026-10-22 · Google Antigravity · [[Changes/Google Antigravity/2026-10-22-notifications-settings-docked-question-prompts-and-conversation-palette-filters|Notifications settings, docked question prompts, and conversation palette filters]]
+- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-security-release-v2026-10-6-adds-remediations-for-the-emudhra-certificate-compro|Security release: v2026.10.6 adds remediations for the eMudhra certificate compromise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

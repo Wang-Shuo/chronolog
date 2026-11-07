@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 39060bb71a3c321867db5f3ad7de48df67985d3a8d693b0e51eb668215560ec0
+machine_hash: bf6c8e6cb6b0cecd603a50dbf0402049f8e5e59d3061474d46a70fccc4396d43
 product: windsurf
 product_name: Windsurf
 record:
@@ -61,10 +61,10 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-06-30-hand-off-the-heavy-lifting-to-gemini-spark-now-available-in-the-macos-app|Hand
-  off the heavy lifting to Gemini Spark, now available in the macOS app]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-2-mobile-and-desktop-changes-in-v1-0-66|2
-  Mobile and Desktop changes in v1.0.66]]'
+- '[[Changes/Granola/2026-07-01-now-android-users-can-take-notes-anywhere-leave-the-laptop-behind-and-take-notes|Granola
+  for Android is here!]]'
+- '[[Changes/OpenCode/2026-07-01-5-mobile-and-desktop-changes-in-v1-17-13|5 Mobile
+  and Desktop changes in v1.17.13]]'
 - '[[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit
   Desktop App]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-04-v3-4-22-cbfcfc79|windsurf-2026-07-04-v3-4-22-cbfcfc79]]'

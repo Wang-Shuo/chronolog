@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 20cf7986cdfcd6bbd2fbda5f78f0c7b11cfe813ef4ed1eb20edc3c23ac8fb75e
+machine_hash: b1c6aa1b9125a46a5bca6f425ff6409165ef68693c575db701a3e93f586f06c4
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Removing Minimax-2.1 from free model list as the free trial has ended
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-09-2-model-support-changes-in-v3-48-0|2 Model Support changes
-  in v3.48.0]]'
-- '[[Changes/Codex CLI/2026-01-09-4-model-support-changes-in-rust-v0-80-0|4 Model
-  Support changes in rust-v0.80.0]]'
+- '[[Changes/Midjourney/2026-01-09-niji-v7-is-now-live-for-those-who-don-t-know-this-is-our-version-of-our-image-mo|Niji
+  V7 is now live!]]'
 - '[[Changes/Open WebUI/2026-01-09-11-model-support-changes-in-v0-7-0|11 Model Support
   changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-09-core-fix-model-dialog-search-issues-in-favorites-recents-list-and-prevent-deprec|Core
+  Fix model dialog search issues in favorites/recents list and prevent deprecated…]]'
 source_release: '[[Releases/Cline/cline-2026-01-10-v3-49-0-github-275682302-74ce1c3e|cline-2026-01-10-v3-49-0-github-275682302-74ce1c3e]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-11-model-support-changes-in-v0-7-0|11 Model Support changes in v0.7.0]]
+- Earlier: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-core-fix-model-dialog-search-issues-in-favorites-recents-list-and-prevent-deprec|Core Fix model dialog search issues in favorites/recents list and prevent deprecated…]]
 - Later: 2026-01-10 · Ollama · [[Changes/Ollama/2026-01-10-a-new-requires-command-for-the-modelfile-allows-declaring-which-version-of-ollam|A new REQUIRES command for the Modelfile allows declaring which version…]]
 <!-- chronolog:end -->
 

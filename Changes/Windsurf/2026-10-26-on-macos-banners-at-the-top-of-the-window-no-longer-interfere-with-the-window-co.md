@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b470429b0f72864259fbc64d5aa7dc2592bd1eefbdd571e8cc4cece240879023
+machine_hash: 3ea17aad4d8af29da0a30dd095cf7337409a2c0905536573e52807c58b0b75f5
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,8 +43,8 @@ record:
     controls
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On
-  Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]'
+- '[[Changes/OpenClaw/2026-10-24-2-mobile-and-desktop-changes-in-v2026-10-7|2 Mobile
+  and Desktop changes in v2026.10.7]]'
 - '[[Changes/ElevenLabs/2026-10-26-android-sdk|Android SDK]]'
 - '[[Changes/ElevenLabs/2026-10-26-2-mobile-and-desktop-changes-in-elevenlabs-updates-2026-10-26|2
   Mobile and Desktop changes in ElevenLabs updates — 2026-10-26]]'

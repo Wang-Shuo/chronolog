@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4e2447604b4c06c20efc6014cfffead4c1db918026ab4f7bc28f33d107f3b0ca
+machine_hash: 589bc843fea7f901caf46858597951f5c34700ca1089aa121e192caafd790e05
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,10 +62,10 @@ record:
   title: 6 Agent Mode changes in v2.1.302
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-14-a-compact-sibling-nemotron-3-5-bolt-https-ollama-com-library-nemotron-3-5-bolt-d|A
-  compact sibling, Nemotron 3.5…]]'
 - '[[Changes/Codex CLI/2026-10-15-14-agent-mode-changes-in-rust-v0-163-0|14 Agent
   Mode changes in rust-v0.163.0]]'
+- '[[Changes/Google Antigravity/2026-10-15-you-can-now-type-compact-to-summarize-a-long-conversation-so-far-and-free-up-roo|Type
+  /compact to summarize a long conversation so far and free up room for the agent…]]'
 - '[[Changes/ChatGPT/2026-10-16-multiple-agents-that-can-work-on-different-parts-of-a-task-in-parallel-you-can-f|Multiple
   agents that can work on different parts of a task in parallel]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-16-v2-1-302-github-415177347-763faf43|claude-code-2026-10-16-v2-1-302-github-415177347-763faf43]]'

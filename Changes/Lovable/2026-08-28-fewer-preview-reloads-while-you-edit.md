@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d4ae0c4f63f226a2584670748e3652b35c41b47dc5350678e2c74889351bd76c
+machine_hash: a3b4ca3c3036a69850ef141b5d8ad491bea82b84575a125cb9763d8d999c392d
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +48,12 @@ record:
   title: Fewer preview reloads while you edit
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-12-editor-experience-changes-in-v0-11-1|12 Editor
-  Experience changes in v0.11.1]]'
-- '[[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn
-  it into a real repo, whenever you want]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add
-  copilot app to open the GitHub Copilot app in the current directory]]'
+- '[[Changes/Midjourney/2026-08-27-type-edit-url-on-discord|Type --edit url... on
+  Discord]]'
+- '[[Changes/Midjourney/2026-08-27-click-the-edit-tab-on-the-left-and-upload-an-image|Click
+  the ‘edit’ tab on the left and upload an image]]'
+- '[[Changes/Gamma/2026-08-28-keep-charts-synced-with-google-sheets|Keep charts synced
+  with Google Sheets]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-28-2026-08-28-1fac4f32|lovable-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add copilot app to open the GitHub Copilot app in the current directory]]
+- Earlier: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-keep-charts-synced-with-google-sheets|Keep charts synced with Google Sheets]]
 - Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-2-editor-experience-changes-in-gpt-5-6-sol-sign-in-inside-previews|2 Editor Experience changes in GPT-5.6 Sol, sign-in inside previews…]]
 <!-- chronolog:end -->
 

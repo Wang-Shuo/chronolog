@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: adbfaba186064acd29cc598c21d73b86bd46b946387eb2225977ce5536452377
+machine_hash: ff9bffd94ba4a94e38a61f49e56cab5ba11297163135ca0d674ef3ea803e006d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 4 Model Support changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model
-  Support changes in v1.0.48]]'
 - '[[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support
   changes in v2.1.143]]'
+- '[[Changes/OpenCode/2026-05-15-2-model-support-changes-in-v1-14-51|2 Model Support
+  changes in v1.14.51]]'
 - '[[Changes/v0/2026-05-15-claude-opus-4-7-fast-is-available-as-a-new-model-option-under-more-models-with-2|Claude
   Opus 4.7 Fast is available as a new model option under…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'

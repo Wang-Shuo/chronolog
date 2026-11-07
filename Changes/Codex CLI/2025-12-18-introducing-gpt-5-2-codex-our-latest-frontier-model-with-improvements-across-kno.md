@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6216e9913d2d424613e2f867e04d63de152cc7cd7332e32208c027e6a5694995
+machine_hash: 372b2e26e6c9545b6ad96005c247c0027cf8791656f7941fc1993c12571e54b0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,9 @@ record:
   title: Introducing gpt-5.2-codex our latest frontier model with improvements across…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-17-2-model-support-changes-in-v3-45-0|2 Model Support changes
-  in v3.45.0]]'
-- '[[Changes/Gemini/2025-12-17-introducing-gemini-3-flash-a-major-upgrade-to-your-everyday-ai|Introducing
-  Gemini 3 Flash, a major upgrade to your everyday AI]]'
+- '[[Changes/Google Antigravity/2025-12-17-2-model-support-changes-in-ide-v1-12-4-gemini-3-flash|2
+  Model Support changes in IDE v1.12.4 — Gemini 3 Flash]]'
+- '[[Changes/Google Antigravity/2025-12-17-gemini-3-flash|Gemini 3 Flash]]'
 - '[[Changes/Codex CLI/2025-12-18-6-model-support-changes-in-rust-v0-74-0|6 Model
   Support changes in rust-v0.74.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a|codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a]]'
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-17 · Gemini · [[Changes/Gemini/2025-12-17-introducing-gemini-3-flash-a-major-upgrade-to-your-everyday-ai|Introducing Gemini 3 Flash, a major upgrade to your everyday AI]]
+- Earlier: 2025-12-17 · Google Antigravity · [[Changes/Google Antigravity/2025-12-17-gemini-3-flash|Gemini 3 Flash]]
 - Later: 2025-12-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-18-2-model-support-changes-in-v0-0-370|2 Model Support changes in v0.0.370]]
 <!-- chronolog:end -->
 

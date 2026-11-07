@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d6389e4f8f2967e05b8de54e3c002438022d4d124404f075be6cf536955ea1e5
+machine_hash: b2ae17b98af4233822bbfd2ccdb8118fc3e486c7f12ccf3e33459d01377d9688
 product: v0
 product_name: v0
 record:
@@ -47,11 +47,12 @@ record:
     message…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved
-  PR tabs by adding clearer review states, better reviewer/thread visibility…]]'
-- '[[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]'
+- '[[Changes/OpenCode/2026-05-13-core-autocomplete-configured-mentions-in-prompts|Core
+  Autocomplete configured @mentions in prompts]]'
 - '[[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg
   and ←-detach now preserve --allow-dangerously-skip-permissions…]]'
+- '[[Changes/Gamma/2026-05-15-dark-mode-now-extends-to-the-theme-panel|Dark mode now
+  extends to the theme panel]]'
 source_release: '[[Releases/v0/v0-2026-05-15-2026-05-15-d142aa2e|v0-2026-05-15-2026-05-15-d142aa2e]]'
 source_type: v0_changelog
 theme: editor-experience
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg and ←-detach now preserve --allow-dangerously-skip-permissions…]]
+- Earlier: 2026-05-15 · Gamma · [[Changes/Gamma/2026-05-15-dark-mode-now-extends-to-the-theme-panel|Dark mode now extends to the theme panel]]
 - Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-21954-fix-goal-update-and-add-goal-edit-command-in-tui-etraut-openai|♯21954 Fix goal update and add /goal edit command in TUI @etraut-openai]]
 <!-- chronolog:end -->
 

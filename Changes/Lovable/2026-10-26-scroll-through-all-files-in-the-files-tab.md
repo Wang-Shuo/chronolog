@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bab898e0cce97c1975e8a558619c39d8125d510f3789303540cbd1a77847a822
+machine_hash: f9c1a4c5a85fdbe9b843ae622eece588720f5b4851900ef1dc18a6448f623244
 product: lovable
 product_name: Lovable
 record:
@@ -43,12 +43,12 @@ record:
   title: Scroll through all files in the Files tab
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-25-4-editor-experience-changes-in-v0-12-4|4 Editor
-  Experience changes in v0.12.4]]'
-- '[[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode
-  Changed the session list side bar to load Web sessions when the Web tab…]]'
 - '[[Changes/ElevenLabs/2026-10-26-2-editor-experience-changes-in-elevenlabs-updates-2026-10-26|2
   Editor Experience changes in ElevenLabs updates — 2026-10-26]]'
+- '[[Changes/Google Antigravity/2026-10-26-markdown-previews-and-overview-sections-in-new-side-panel-tabs|Markdown
+  previews and overview sections in new side panel tabs]]'
+- '[[Changes/Google Antigravity/2026-10-26-2-editor-experience-changes-in-ide-v2-6-0-gemini-4-argon-refreshed|2
+  Editor Experience changes in IDE v2.6.0 — Gemini 4 Argon, Refreshed…]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-26-2026-10-26-ca7c552d|lovable-2026-10-26-2026-10-26-ca7c552d]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-2-editor-experience-changes-in-elevenlabs-updates-2026-10-26|2 Editor Experience changes in ElevenLabs updates — 2026-10-26]]
+- Earlier: 2026-10-26 · Google Antigravity · [[Changes/Google Antigravity/2026-10-26-2-editor-experience-changes-in-ide-v2-6-0-gemini-4-argon-refreshed|2 Editor Experience changes in IDE v2.6.0 — Gemini 4 Argon, Refreshed…]]
 - Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud sessions Added a Bash editor with colors, line numbers and a Copy button…]]
 <!-- chronolog:end -->
 

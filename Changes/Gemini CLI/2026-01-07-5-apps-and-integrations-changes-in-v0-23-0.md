@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e62a36f417fc316eb250b1da5b67d7bd6b7f287e2b3a3a7f2fef8df458a769b9
+machine_hash: 4596fc1e8137cb62530275fbfd80b92135b49a5823675e67287b8f8060ec4bfa
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,11 +53,12 @@ record:
   title: 5 Apps and Integrations changes in v0.23.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-05-sdk-releases|SDK Releases]]'
 - '[[Changes/Cline/2026-01-06-exclude-binary-files-without-extensions-from-diffs|Exclude
   binary files without extensions from diffs]]'
 - '[[Changes/Codex CLI/2026-01-06-8694-mcp-sanitize-mcp-tool-names-to-ensure-they-are-compatible-with-the-response|♯8694
   MCP Sanitize MCP tool names to ensure they are compatible with the Responses…]]'
+- '[[Changes/OpenCode/2026-01-06-desktop-add-single-instance-plugin-to-prevent-multiple-desktop-windows|Desktop
+  Add single-instance plugin to prevent multiple desktop windows]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-07-v0-23-0-github-274690353-5e923999|gemini-cli-2026-01-07-v0-23-0-github-274690353-5e923999]]'
 source_type: github_releases
 theme: apps-integrations
@@ -103,7 +104,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.23.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-8694-mcp-sanitize-mcp-tool-names-to-ensure-they-are-compatible-with-the-response|♯8694 MCP Sanitize MCP tool names to ensure they are compatible with the Responses…]]
+- Earlier: 2026-01-06 · OpenCode · [[Changes/OpenCode/2026-01-06-desktop-add-single-instance-plugin-to-prevent-multiple-desktop-windows|Desktop Add single-instance plugin to prevent multiple desktop windows]]
 - Later: 2026-01-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-07-shutdown-mcp-servers-after-subagent-execution-completes|Shutdown MCP servers after subagent execution completes]]
 <!-- chronolog:end -->
 

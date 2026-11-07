@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb991600b8237f71c0b0516ad9c8fa3e265f0c153b3cb93ee130bb47f5e8ed04
+machine_hash: de2962926e33593ff750208f9a2fa442304074d43c6930a056f5c94740711c24
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Developer Workflow changes in v0.0.400
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-29-add-lsp-language-server-protocol-tool-for-code-intelligence-requires-staff-flag|Add
-  LSP (Language Server Protocol) tool for code intelligence (requires staff flag)]]'
+- '[[Changes/OpenCode/2026-01-29-3-developer-workflow-changes-in-v1-1-42|3 Developer
+  Workflow changes in v1.1.42]]'
 - '[[Changes/v0/2026-01-29-added-server-logs-for-better-debugging|Added server logs
   for better debugging]]'
 - '[[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.400
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer Workflow changes in v2.1.27]]
-- Later: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-6-developer-workflow-changes-in-rust-v0-93-0|6 Developer Workflow changes in rust-v0.93.0]]
+- Later: 2026-01-30 · OpenCode · [[Changes/OpenCode/2026-01-30-core-i-need-to-see-the-actual-commit-message-to-summarize-it-could-you-please-pr|Core I need to see the actual commit message to summarize it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

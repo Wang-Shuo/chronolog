@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8785b63c3f9d470199b5295652a7e0c7d79bf439f10633214a479a241e4aeead
+machine_hash: 16b894d99aa9d092f034aab3bfdb532a68ec3781502138286c4faca14c69044f
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,11 +48,11 @@ record:
   title: 3 Apps and Integrations changes in v2.1.208
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-13-connect-klipy-in-one-click-no-api-key|Connect KLIPY
-  in one click, no API key]]'
 - '[[Changes/Lovable/2026-07-13-mapbox-connector|Mapbox connector]]'
 - '[[Changes/Lovable/2026-07-13-let-your-app-s-users-connect-their-own-accounts|Let
   your app''s users connect their own accounts]]'
+- '[[Changes/OpenClaw/2026-07-13-213-apps-and-integrations-changes-in-v2026-7-1|213
+  Apps and Integrations changes in v2026.7.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
 theme: apps-integrations
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-13 · Lovable · [[Changes/Lovable/2026-07-13-let-your-app-s-users-connect-their-own-accounts|Let your app's users connect their own accounts]]
+- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-213-apps-and-integrations-changes-in-v2026-7-1|213 Apps and Integrations changes in v2026.7.1]]
 - Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-2-apps-and-integrations-changes-in-v2-1-211|2 Apps and Integrations changes in v2.1.211]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 45354d12a7874a857e2d75bdb33a8e0156b8fea848a98ab839d54328f5cb5135
+machine_hash: 27f1d1babef6088272523e6244283d98093a2d4aa4c85579876ae5365a3f2648
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,12 @@ record:
   title: Added support for hooks
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced
-  startup event-loop stalls when many claude.ai MCP connectors are configured…]]'
-- '[[Changes/Dify/2026-03-27-6-apps-and-integrations-changes-in-1-13-3|6 Apps and
-  Integrations changes in 1.13.3]]'
+- '[[Changes/OpenCode/2026-03-29-8-apps-and-integrations-changes-in-v1-3-6-2|8 Apps
+  and Integrations changes in v1.3.6 + 2]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-5-apps-and-integrations-changes-in-v1-0-13|5
   Apps and Integrations changes in v1.0.13]]'
+- '[[Changes/OpenCode/2026-03-30-2-apps-and-integrations-changes-in-v1-3-9-1|2 Apps
+  and Integrations changes in v1.3.9 + 1]]'
 source_release: '[[Releases/OpenHands/openhands-2026-03-30-1-6-0-github-303268521-e953c7dd|openhands-2026-03-30-1-6-0-github-303268521-e953c7dd]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-5-apps-and-integrations-changes-in-v1-0-13|5 Apps and Integrations changes in v1.0.13]]
+- Earlier: 2026-03-30 · OpenCode · [[Changes/OpenCode/2026-03-30-2-apps-and-integrations-changes-in-v1-3-9-1|2 Apps and Integrations changes in v1.3.9 + 1]]
 - Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-12-apps-and-integrations-changes-in-rust-v0-118-0|12 Apps and Integrations changes in rust-v0.118.0]]
 <!-- chronolog:end -->
 

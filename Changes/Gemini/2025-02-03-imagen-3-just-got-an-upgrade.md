@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fc56cd37b39dbf3d02af5d9402c717c4a164e3ca0c82c982faefef0ee83f6f11
+machine_hash: bdf5eae665773124e0b7ceff0279e856c85b3a406ee2efea19252cc64a723e81
 product: gemini
 product_name: Gemini
 record:
@@ -67,10 +67,9 @@ record:
   title: Imagen 3 just got an upgrade
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-12-26-image-generation-error-fixed-the-issue-causing-get-automatic1111-api-auth-errors|\U0001F5BC️
-  Image Generation Error]]"
 - "[[Changes/Open WebUI/2024-12-27-image-generation-error-resolved-a-persistent-issue-causing-errors-with-get-autom|\U0001F3A8
   Image Generation Error]]"
+- '[[Changes/Runway/2025-01-17-our-most-advanced-base-model-for-image-generation-offering-unprecedented-stylist|Frames]]'
 - "[[Changes/Open WebUI/2025-01-22-web-search-image-generation-permissions-easily-disable-web-search-and-image-gene|\U0001F50D
   Web Search & Image Generation Permissions]]"
 source_release: '[[Releases/Gemini/gemini-2025-02-03-2025-02-03-1e78251c|gemini-2025-02-03-2025-02-03-1e78251c]]'

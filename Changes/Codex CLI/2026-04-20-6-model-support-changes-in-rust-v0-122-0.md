@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3dad788e39a244cf9b7869579385850f4a6a5b275895627b08b201f79165aa43
+machine_hash: fe5bd06248e4ad7a51365505e21548dbac0d2aeb1228c33415dd4afd50905a34
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 6 Model Support changes in rust-v0.122.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-16-gemma-4-on-mlx-added-support-for-running-gemma-4-via-mlx-on-apple-silicon-includ|Gemma
-  4 on MLX. Added support for running Gemma 4 via MLX on Apple Silicon…]]'
-- '[[Changes/Claude/2026-04-17-claude-design-by-anthropic-labs|Claude Design by Anthropic
-  Labs]]'
+- '[[Changes/OpenCode/2026-04-17-core-normalized-provider-metadata-defaults-so-models-still-load-when-catalog-dat|Core
+  Normalized provider metadata defaults so models still load when catalog data…]]'
 - '[[Changes/Replit/2026-04-17-claude-opus-4-7-powers-power-mode|Claude Opus 4.7 powers
   Power mode]]'
+- '[[Changes/OpenCode/2026-04-19-core-use-display-summarized-by-default-for-anthropic-bedrock-opus-4-7-requests|Core
+  Use display: summarized by default for Anthropic Bedrock Opus 4.7 requests]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'
 source_type: github_releases
 theme: model-support
@@ -110,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-17 · Replit · [[Changes/Replit/2026-04-17-claude-opus-4-7-powers-power-mode|Claude Opus 4.7 powers Power mode]]
+- Earlier: 2026-04-19 · OpenCode · [[Changes/OpenCode/2026-04-19-core-use-display-summarized-by-default-for-anthropic-bedrock-opus-4-7-requests|Core Use display: summarized by default for Anthropic Bedrock Opus 4.7 requests]]
 - Later: 2026-04-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-20-ctrl-t-to-toggle-reasoning-display-is-now-listed-in-the-help-and-overlay|ctrl+t to toggle reasoning display is now listed in the /help and ? overlay]]
 <!-- chronolog:end -->
 

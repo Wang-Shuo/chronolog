@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87d7055795da561dc043656180ffccb7449ab2c98b279a0801915b640105818c
+machine_hash: 4d38a96ace2a125b60ce87016756bc95cf596a71036ee4ce57da834cefed33ac
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Sessions with large conversation history load faster on startup
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-10-for-older-models-ollama-will-avoid-an-integer-underflow-on-low-vram-systems-duri|For
-  older models, Ollama will avoid an integer underflow on low VRAM systems during…]]'
 - "[[Changes/Open WebUI/2026-01-10-the-evaluations-page-now-loads-faster-by-eliminating-duplicate-api-calls-to-the|\U0001F4CA
   The Evaluations page now loads faster by eliminating duplicate API calls…]]"
+- '[[Changes/OpenCode/2026-01-10-terminal-fix-instance-disposal-to-prevent-memory-leaks-and-dangling-references|Terminal
+  Fix instance disposal to prevent memory leaks and dangling references]]'
 - '[[Changes/Dify/2026-01-13-4-reliability-and-performance-changes-in-1-11-3|4 Reliability
   and Performance changes in 1.11.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a|github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a]]'

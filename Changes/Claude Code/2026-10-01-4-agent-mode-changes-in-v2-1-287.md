@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d6adcf10efc4912ab58a962e0ec7496cccc7b3e907fedb8cd3cfc2e27fcca69
+machine_hash: 4f685a72c555ccc3242d73c7f602fabc6016854a321703edd29bd5494b892043
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Agent Mode changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-48190-bound-agent-message-board-sse-frames-before-parsing-jif-oai|♯48190
-  Bound agent message board SSE frames before parsing @jif-oai]]'
-- '[[Changes/Claude Code/2026-09-30-6-agent-mode-changes-in-v2-1-286|6 Agent Mode
-  changes in v2.1.286]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-30-auto-approval-now-takes-into-account-messages-you-type-while-the-agent-is-workin|Auto-approval
-  now takes into account messages you type while the agent is working…]]'
+- '[[Changes/Google Antigravity/2026-09-30-message-subagents-directly-export-markdown-as-pdf-and-conversation-only-undo|Message
+  subagents directly, export Markdown as PDF, and conversation-only undo]]'
+- '[[Changes/Google Antigravity/2026-09-30-you-can-now-send-a-message-directly-to-a-subagent-from-the-message-box-without-g|Send
+  a message directly to a subagent from the message box, without going through…]]'
+- '[[Changes/OpenClaw/2026-09-30-33-agent-mode-changes-in-v2026-9-7|33 Agent Mode
+  changes in v2026.9.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: agent-mode
@@ -106,7 +106,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-auto-approval-now-takes-into-account-messages-you-type-while-the-agent-is-workin|Auto-approval now takes into account messages you type while the agent is working…]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-33-agent-mode-changes-in-v2026-9-7|33 Agent Mode changes in v2026.9.7]]
 - Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-6-agent-mode-changes-in-rust-v0-160-0|6 Agent Mode changes in rust-v0.160.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec31a10fd9eed66ac045477954d42cebf44b23c5d2c5783d2419b97ca6a1ffe8
+machine_hash: 044ffa5df25e67bc546ef54872864f28b1a1b251c92252c350b1907864b8857a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Files and Data changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-6-files-and-data-changes-in-v1-25-0|6 Files and
-  Data changes in v1.25.0]]'
 - '[[Changes/OpenHands/2026-10-08-2-files-and-data-changes-in-v1-26-0|2 Files and
   Data changes in v1.26.0]]'
 - '[[Changes/Open WebUI/2026-10-10-6-files-and-data-changes-in-v0-12-0|6 Files and
   Data changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-2-files-and-data-changes-in-v2026-10-1|2 Files and
+  Data changes in v2026.10.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: file-data
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-6-files-and-data-changes-in-v0-12-0|6 Files and Data changes in v0.12.0]]
+- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-2-files-and-data-changes-in-v2026-10-1|2 Files and Data changes in v2026.10.1]]
 - Later: 2026-10-15 · Lovable · [[Changes/Lovable/2026-10-15-documents-in-the-project-chat-show-their-name-and-type|Documents in the project chat show their name and type]]
 <!-- chronolog:end -->
 

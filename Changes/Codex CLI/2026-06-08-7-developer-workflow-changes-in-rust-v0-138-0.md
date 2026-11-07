@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b63d8113487c873aca40758d92d93efdb79a55d7b4dc8d8c43c176158ed9d7bd
+machine_hash: 7f5e1b6c6f1b623d6cdbb052adac36a24d12384876526d88d67089538453154b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: 7 Developer Workflow changes in rust-v0.138.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-11-developer-workflow-changes-in-v1-0-60|11
-  Developer Workflow changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-4-developer-workflow-changes-in-v1-16-0|4 Developer
+  Workflow changes in v1.16.0]]'
 - '[[Changes/Cline/2026-06-07-add-a-debug-section-in-settings-for-cline-testers|Add
   a debug section in settings for Cline testers]]'
 - '[[Changes/Claude Code/2026-06-08-background-sessions-are-now-told-that-shared-checkout-edits-are-blocked-until-th|Background

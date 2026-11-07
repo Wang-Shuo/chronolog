@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 048a623b920b7a29feeb32d7f978a1ae3c7a80d55784e95ad2579ce22e1bc671
+machine_hash: 5439bc2cb6cc5e5c6e0986bd49a8ea2032385d5a715d381d12088afc4491d4d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
     unpushed…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer
-  Workflow changes in v2.1.206]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-10-3-developer-workflow-changes-in-v1-0-70|3
-  Developer Workflow changes in v1.0.70]]'
 - '[[Changes/Codex CLI/2026-07-13-published-a-version-only-release-with-no-merged-pull-request-changes-since-rust|Published
   a version-only release with no merged pull request changes since rust-v0.144.2]]'
+- '[[Changes/OpenClaw/2026-07-13-99-developer-workflow-changes-in-v2026-7-1|99 Developer
+  Workflow changes in v2026.7.1]]'
+- '[[Changes/OpenCode/2026-07-13-2-developer-workflow-changes-in-v1-17-20-1|2 Developer
+  Workflow changes in v1.17.20 + 1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
 theme: developer-workflow
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-13 · Codex CLI · [[Changes/Codex CLI/2026-07-13-published-a-version-only-release-with-no-merged-pull-request-changes-since-rust|Published a version-only release with no merged pull request changes since rust-v0.144.2]]
-- Later: 2026-07-16 · Codex CLI · [[Changes/Codex CLI/2026-07-16-2-developer-workflow-changes-in-rust-v0-144-5|2 Developer Workflow changes in rust-v0.144.5]]
+- Earlier: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-2-developer-workflow-changes-in-v1-17-20-1|2 Developer Workflow changes in v1.17.20 + 1]]
+- Later: 2026-07-14 · OpenCode · [[Changes/OpenCode/2026-07-14-desktop-fixed-terminal-tabs-stealing-focus-when-they-mount|Desktop Fixed terminal tabs stealing focus when they mount]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

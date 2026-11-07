@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e301531e2b21b340a0a98bfa16c6d8b23e4f0c8fe3f7c8ebe68b417bf6ecfda3
+machine_hash: c9baf0ff2338c398e4c5e0a9c10a7e809235ae084cfe347bda0f9f2d47cee787
 product: cursor
 product_name: Cursor
 record:
@@ -45,9 +45,9 @@ record:
     along…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-14-4-editor-experience-changes-in-v0-24-0|4 Editor
-  Experience changes in v0.24.0]]'
 - '[[Changes/Ollama/2026-01-14-qwen-image-edit-2511|Qwen-Image-Edit-2511]]'
+- '[[Changes/OpenCode/2026-01-15-add-error-message-to-prompt-users-to-reauthenticate-with-copilot|Add
+  error message to prompt users to reauthenticate with Copilot]]'
 - '[[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|Added
   external editor support (Ctrl+G) in AskUserQuestion "Other" input field]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b717ed5fbb3d74f6a2f744494b42ffbea1f34be5a3afca9ab4d96ab52d54cc1f
+machine_hash: 0a06d00f67e98a1426a9599c8b9940bb96bc56b0634e30aceafe749e37d1a64f
 product: ollama
 product_name: Ollama
 record:
@@ -46,12 +46,12 @@ record:
   title: '[Llama 3 Gradient 1048K](https://ollama.com/library/llama3-gradient)'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-03-26-command-r-https-ollama-com-library-command-r-a-large-language-model-optimized-fo|Command
-  R((source link) a Large Language Model optimized…]]'
 - '[[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long
   Context Chat (Beta)]]'
 - '[[Changes/Cursor/2024-04-12-cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr|.cursorrules:
   You can write down repo-level rules for the AI by creating…]]'
+- '[[Changes/Midjourney/2024-04-27-some-high-level-plans-right-now-around-rooms-as-context|Some
+  high level plans right now around rooms as context]]'
 source_release: '[[Releases/Ollama/ollama-2024-04-28-v0-1-33-github-153066497-45406eb5|ollama-2024-04-28-v0-1-33-github-153066497-45406eb5]]'
 source_type: github_releases
 theme: context-window
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr|.cursorrules: You can write down repo-level rules for the AI by creating…]]
+- Earlier: 2024-04-27 · Midjourney · [[Changes/Midjourney/2024-04-27-some-high-level-plans-right-now-around-rooms-as-context|Some high level plans right now around rooms as context]]
 - Later: 2024-05-02 · Dify · [[Changes/Dify/2024-05-02-add-glm-3-turbo-max-tokens-parameter-setting-by-orangeclk-in-https-github-com-la|add glm-3-turbo max_tokens parameter setting]]
 <!-- chronolog:end -->
 

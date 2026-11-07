@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: afeaa67a86a44af3516c1d997530712e753a210c0845a607955499388349f7b0
+machine_hash: f160f071f5b7e4b7168c5727e938c8c67ea56eb3087366e0fddaf559baabbeaa
 product: open-webui
 product_name: Open WebUI
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-31 · ElevenLabs · [[Changes/ElevenLabs/2026-08-31-android-sdk|Android SDK]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]
+- Later: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-installation-and-onboarding-a-clearer-path-from-download-to-a-first-useful-conve|Installation and Onboarding - A clearer path from download to a first useful…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

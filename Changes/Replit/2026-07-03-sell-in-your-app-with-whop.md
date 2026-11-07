@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2b8c2ccdbc70d2fbbbdc750dc8d4d6dbb8dab205cbc40e7c7cb399fd3ce48277
+machine_hash: ac7aff27a25254f1e7628c2f0a90ec0801df13d0243410f424c20ccd8e4ec300
 product: replit
 product_name: Replit
 record:
@@ -50,12 +50,12 @@ record:
   title: Sell in your app with Whop
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-8-agent-mode-changes-in-v1-0-66|8 Agent
-  Mode changes in v1.0.66]]'
 - '[[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode
   changes in v2.1.198]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-3-agent-mode-changes-in-v1-0-68|3 Agent
   Mode changes in v1.0.68]]'
+- '[[Changes/Runway/2026-07-02-introducing-agent-skills-build-an-ad-campaign-create-a-commercial-localize-your|Runway
+  Agent Skills]]'
 source_release: '[[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|replit-2026-07-03-2026-07-03-1318c060]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-3-agent-mode-changes-in-v1-0-68|3 Agent Mode changes in v1.0.68]]
+- Earlier: 2026-07-02 · Runway · [[Changes/Runway/2026-07-02-introducing-agent-skills-build-an-ad-campaign-create-a-commercial-localize-your|Runway Agent Skills]]
 - Later: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode changes in v2.1.202]]
 <!-- chronolog:end -->
 

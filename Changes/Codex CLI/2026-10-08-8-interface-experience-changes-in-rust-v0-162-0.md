@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 12819a7a1f4455d0cea7c9dab5b5c6c44afc870db82a405263cfbb81f6412d6b
+machine_hash: 52e28ed318d668c267a379f8db95f99bb89800c02a33ab77a6cd0563be323772
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,8 +56,8 @@ record:
   title: 8 Interface Experience changes in rust-v0.162.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-49856-support-daybreak-selection-in-codex-exec-etraut-openai|♯49856
-  Support Daybreak selection in codex exec @etraut-openai]]'
+- '[[Changes/Google Antigravity/2026-10-07-archived-conversations-in-the-sidebar-now-keep-their-status-and-last-updated-tim|Archived
+  conversations in the sidebar now keep their status and last-updated time…]]'
 - '[[Changes/Ollama/2026-10-07-cmd-remove-account-step-from-cli-onboarding-by-hoyyeva-in-https-github-com-ollam|cmd:
   remove account step from CLI onboarding]]'
 - '[[Changes/Claude Code/2026-10-08-2-interface-experience-changes-in-v2-1-295|2 Interface

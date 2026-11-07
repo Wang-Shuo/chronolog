@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e728e2ccaac7f56bd42b6a742dbeaf29a2e0d29ffb7f02d1e014c07c30b384e0
+machine_hash: 29e84a1de89b4d9bc15b9e301d08f7fba6deb4456e8b7ff30a8e141010c39fd4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,11 @@ record:
   title: Opus 4.5, GPT-4.1 and GPT-5-Mini are now available in GitHub Copilot CLI
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-21-ai-models|AI Models]]'
 - '[[Changes/Windsurf/2025-11-21-gpt-5-1-codex-and-codex-mini|GPT-5.1 Codex and Codex
   Mini]]'
 - '[[Changes/Claude/2025-11-24-claude-opus-4-5-launch|Claude Opus 4.5 launch]]'
+- '[[Changes/Gamma/2025-11-24-nano-banana-pro-now-available-in-gamma-it-s-the-first-model-that-can-perfectly-h|New
+  image model: Nano Banana Pro]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb|github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-24 · Claude · [[Changes/Claude/2025-11-24-claude-opus-4-5-launch|Claude Opus 4.5 launch]]
+- Earlier: 2025-11-24 · Gamma · [[Changes/Gamma/2025-11-24-nano-banana-pro-now-available-in-gamma-it-s-the-first-model-that-can-perfectly-h|New image model: Nano Banana Pro]]
 - Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-model-cloning-is-now-available-in-admin-settings-allowing-administrators-to-quic|🤖 Model cloning is now available in admin settings, allowing administrators…]]
 <!-- chronolog:end -->
 

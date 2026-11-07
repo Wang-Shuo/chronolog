@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c523333c7f197543d7f4c3d53dcdcbdb5165f30b20b24f98525e0b6e255c2f51
+machine_hash: da02f27c7342e726466310d2bbd2ad8827a2301962cc59f51a39819c47b3c36b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Account and Access changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs:
-  migrate installation and authentication to mdx with tabbed layouts]]'
+- '[[Changes/OpenCode/2026-04-28-2-account-and-access-changes-in-v1-14-29|2 Account
+  and Access changes in v1.14.29]]'
 - '[[Changes/Dify/2026-04-29-8-account-and-access-changes-in-1-14-0|8 Account and
   Access changes in 1.14.0]]'
 - '[[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced

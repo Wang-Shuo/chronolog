@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4dddeb0db948ea21022d79edcf6aec07912257162d709f9b6754984721baf82e
+machine_hash: fea7452653754129e916cdeb85004bdb6f70cedb5becf22e1b10c8b124b695b7
 product: lovable
 product_name: Lovable
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-10 · v0 · [[Changes/v0/2026-09-10-new-chats-created-in-a-team-workspace-are-now-visible-to-the-team-by-default-mak|Team chats are easier to discover and collaborate on]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md now writes the exported session to your home directory instead…]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-3-collaboration-changes-in-v2026-9-4|3 Collaboration changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

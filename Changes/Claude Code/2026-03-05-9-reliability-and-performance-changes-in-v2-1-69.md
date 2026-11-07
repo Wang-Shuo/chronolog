@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a8a84260042ec650f9d4985c6a17dc23ecaebb0bd569fe1a250c278be9724c3
+machine_hash: adf1aa178af8b8bf92cd79236088a2f96164c8872ba1b4d27b73635f20154044
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,11 +63,11 @@ record:
   title: 9 Reliability and Performance changes in v2.1.69
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-03-02-chatcontrols-memory-leak-the-chatcontrols-panel-no-longer-leaks-event-listeners|\U0001F9E0
-  ChatControls memory leak. The ChatControls panel no longer leaks event…]]"
 - "[[Changes/Open WebUI/2026-03-02-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Cursor/2026-03-03-modals-load-faster|Modals load faster]]'
+- '[[Changes/OpenCode/2026-03-03-2-reliability-and-performance-changes-in-v1-2-16|2
+  Reliability and Performance changes in v1.2.16]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: reliability-performance
@@ -126,7 +126,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-modals-load-faster|Modals load faster]]
+- Earlier: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-2-reliability-and-performance-changes-in-v1-2-16|2 Reliability and Performance changes in v1.2.16]]
 - Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-12935-speed-up-subagent-startup-daveaitel-openai|♯12935 Speed up subagent startup @daveaitel-openai]]
 <!-- chronolog:end -->
 

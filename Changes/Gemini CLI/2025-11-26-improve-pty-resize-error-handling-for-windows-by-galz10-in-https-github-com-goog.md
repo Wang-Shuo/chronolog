@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a7050716c4e36c54d27b78c8bc559e14e0cbe4607dee6d58c4467d3f5294315a
+machine_hash: 3782f9c35baf1924e7a43a64cf2fa1b96b5d55244a067ba47d132f722cb527c4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Improve pty resize error handling for Windows
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-3-mobile-and-desktop-changes-in-rust-v0-59-0|3 Mobile
-  and Desktop changes in rust-v0.59.0]]'
 - '[[Changes/Gemini/2025-11-20-drive-with-gemini-in-android-auto|Drive with Gemini
   in Android Auto]]'
+- '[[Changes/Midjourney/2025-11-20-along-with-the-profiles-launch-today-we-ve-updated-the-names-of-a-few-features-t|Along
+  with the Profiles launch today, we’ve updated the names of a few features…]]'
 - "[[Changes/Open WebUI/2025-11-24-pwa-installations-on-ios-now-properly-refresh-after-server-container-restarts-re|\U0001F4F1
   PWA installations on iOS now properly refresh after server container restarts…]]"
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891|gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891]]'

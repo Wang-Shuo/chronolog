@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb3fffab0d602eb3d7a51d3bad73378b47ee52465f26e6e08264883772a77948
+machine_hash: 331e290e802c9ca99746eb3b16a9ccf55aacbf9b278b1c1a91b6e16a570da63c
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Improved heredoc delimiter parsing to prevent command smuggling
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-2-developer-workflow-changes-in-v0-0-404|2
-  Developer Workflow changes in v0.0.404]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-05-plugins-can-bundle-lsp-server-configurations|Plugins
-  can bundle LSP server configurations]]'
+- '[[Changes/OpenCode/2026-02-05-terminal-allow-mouse-escape-via-esc-labels-in-dialogs|Terminal
+  Allow mouse escape via "esc" labels in dialogs]]'
+- '[[Changes/OpenCode/2026-02-05-9-developer-workflow-changes-in-v1-1-52|9 Developer
+  Workflow changes in v1.1.52]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-07-add-changelog-command-to-view-release-notes|Add
   /changelog command to view release notes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-10-v2-1-38-github-284624259-26f7a748|claude-code-2026-02-10-v2-1-38-github-284624259-26f7a748]]'

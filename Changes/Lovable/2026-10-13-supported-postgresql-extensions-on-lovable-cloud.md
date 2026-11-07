@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: daffed68f9a46b19153a3b44ada50279145569165d614c07316446971429b22b
+machine_hash: 418f1cd5d4d3632db0aa75d1eae954f792d80b0071cacb8de845e2a9bcc387e8
 product: lovable
 product_name: Lovable
 record:
@@ -61,10 +61,10 @@ record:
   title: Supported PostgreSQL extensions on Lovable Cloud
   type: change
 related_changes:
-- '[[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads|Create and manage TikTok
-  Ads]]'
-- '[[Changes/Open WebUI/2026-10-10-10-automation-and-scheduling-changes-in-v0-12-0|10
-  Automation and Scheduling changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-10-automation-and-scheduling-changes-in-v2026-10-1|10
+  Automation and Scheduling changes in v2026.10.1]]'
+- '[[Changes/OpenClaw/2026-10-12-manually-started-jobs-an-accepted-automation-can-keep-using-its-allowed-tools-af|Manually
+  started jobs]]'
 - '[[Changes/OpenHands/2026-10-12-4-automation-and-scheduling-changes-in-v1-27-0|4
   Automation and Scheduling changes in v1.27.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-13-2026-10-13-315d8911|lovable-2026-10-13-2026-10-13-315d8911]]'
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-4-automation-and-scheduling-changes-in-v1-27-0|4 Automation and Scheduling changes in v1.27.0]]
-- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-automation-run-results-an-automation-run-is-now-recorded-as-successful-only-afte|⏰ Automation run results. An automation run is now recorded as successful only…]]
+- Later: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-windows-service-accounts-updates-recognize-different-task-scheduler-names-for-th|Windows service accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

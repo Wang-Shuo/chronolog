@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 49e3a335fa8c3af50f253d0edc86c0e8875f8e373e7942798723526c7dc0600f
+machine_hash: 030452377aa67399ed485c217ca07175bc6fc075c73992f20b49885ad6e7f23e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -106,10 +106,10 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-42-agent-mode-changes-in-1-17-1|42 Agent Mode changes
-  in 1.17.1]]'
 - '[[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode
   changes in v2.1.269]]'
+- '[[Changes/OpenClaw/2026-09-11-25-agent-mode-changes-in-v2026-9-4|25 Agent Mode
+  changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-7-agent-mode-changes-in-v2-1-271|7 Agent Mode
   changes in v2.1.271]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-14-2026-09-14-583c2a71|elevenlabs-2026-09-14-2026-09-14-583c2a71]]'

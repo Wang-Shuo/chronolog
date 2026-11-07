@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d9429d91b876c613275e0ebf03a8d2bd8d114d36a288d1e7a08c1d94ae90968
+machine_hash: 1480d3e1581587ef0722ad58345cce091c8fdc34e51ec939c9595ed0ee60e931
 product: dify
 product_name: Dify
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2025-05-07 · OpenHands · [[Changes/OpenHands/2025-05-07-made-proactive-conversation-starters-for-cloud-resolver-configurable-on-a-per-us|Made proactive conversation starters for Cloud Resolver configurable on a per-user basis]]
-- Later: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-direct-tool-server-input-accepts-empty-strings-you-can-now-submit-direct-tool-se|⚙️ Direct Tool Server Input Accepts Empty Strings]]
+- Later: 2025-06-13 · Manus · [[Changes/Manus/2025-06-13-let-manus-handle-routine-and-repetitive-work-reclaim-your-time-and-elevate-your|Introducing Manus Scheduled Task]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

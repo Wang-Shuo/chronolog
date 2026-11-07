@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 142887fbe6ce3a7717450b4bda2b888e993e45bd46b5d9cb3daf00659d04bd9d
+machine_hash: 80a062565d4f24088d40462a4ba8f7f6e2a74d5e448d08c1248b0af286764a7e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v2.1.118
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-20-4-interface-experience-changes-in-v1-0-33|4
-  Interface Experience changes in v1.0.33]]'
 - '[[Changes/Open WebUI/2026-04-21-17-interface-experience-changes-in-v0-9-0|17 Interface
   Experience changes in v0.9.0]]'
+- '[[Changes/OpenCode/2026-04-21-desktop-fixed-sidebar-project-avatars-to-fall-back-to-icon-url-when-no-override|Desktop
+  Fixed sidebar project avatars to fall back to icon.url when no override is set]]'
 - '[[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface
   Experience changes in v2.1.119]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88eed1ae38abefe92502cd4ff1c349f6e2f8ab7845f113cba0e0d934048b541b
+machine_hash: 57d739dbe4894caa440880b83d2cba193a731643ecac3066e2a180b3c324f78a
 product: dify
 product_name: Dify
 record:
@@ -58,12 +58,12 @@ record:
   title: 4 Safety and Privacy changes in 1.19.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-11-03-redesigned-privacy-security-settings|Redesigned Privacy
-  & security settings]]'
 - '[[Changes/Lovable/2026-11-03-protect-a-project-from-abandonment-cleanup|Protect
   a project from abandonment cleanup]]'
 - '[[Changes/Open WebUI/2026-11-03-2-safety-and-privacy-changes-in-v0-13-0|2 Safety
   and Privacy changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-7-safety-and-privacy-changes-in-v2026-10-10|7 Safety
+  and Privacy changes in v2026.10.10]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'
 source_type: github_releases
 theme: safety-privacy
@@ -116,7 +116,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-2-safety-and-privacy-changes-in-v0-13-0|2 Safety and Privacy changes in v0.13.0]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-7-safety-and-privacy-changes-in-v2026-10-10|7 Safety and Privacy changes in v2026.10.10]]
 - Later: 2026-11-04 · Gemini CLI · [[Changes/Gemini CLI/2026-11-04-fix-acp-include-mcp-server-and-tool-metadata-in-permission-requests-by-duvanka-p|fix(acp): include MCP server and tool metadata in permission requests]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 97cb8ada2772bcb2d5577d5e9fa4dcd6897513ed03add7a1c7e5e6d837873c40
+machine_hash: 2c891159bc36642e43b1bd0e3a2f8dda6800c2b74186f16f16d39eefbffac026
 product: aider
 product_name: Aider
 record:
@@ -40,10 +40,10 @@ record:
   title: Detect supported audio sample rates for `/voice`
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio
-  changes in 0.6.5]]'
 - '[[Changes/Dify/2024-05-09-2-voice-and-audio-changes-in-0-6-7|2 Voice and Audio
   changes in 0.6.7]]'
+- '[[Changes/Suno/2024-05-24-v4-is-cooking-in-the-meantime-we-are-rolling-out-early-access-to-v3-5-which-is-n|v4
+  is cooking]]'
 - "[[Changes/Open WebUI/2024-06-03-local-tts-voice-selection-fixed-the-issue-where-the-selected-local-text-to-speec|\U0001F50A
   Local TTS Voice Selection]]"
 source_release: '[[Releases/Aider/aider-2024-06-04-v0-37-0-github-158850149-b4830675|aider-2024-06-04-v0-37-0-github-158850149-b4830675]]'

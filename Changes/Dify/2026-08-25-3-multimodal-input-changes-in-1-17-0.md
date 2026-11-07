@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa7fae60965cc56fa6bbf902c7209c0200bbbc04bed57579796570e6f64faf6d
+machine_hash: c5959e39d6b8501113edf5d5abe1852869fdeb6c23e973c0c31110d9ff36d91b
 product: dify
 product_name: Dify
 record:
@@ -48,8 +48,9 @@ record:
   title: 3 Multimodal Input changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-17-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2026-08-17-elevencreative-fd6a14|ElevenCreative]]'
+- '[[Changes/Runway/2026-08-18-compose-and-blend-images-and-video-together-with-new-compositing-workflow-nodes|Compositing
+  Nodes]]'
 - '[[Changes/DeepSeek API/2026-08-21-deepseek-v4-flash-vision-exp-release|DeepSeek-V4-Flash-Vision-Exp
   Release]]'
 source_release: '[[Releases/Dify/dify-2026-08-25-1-17-0-github-376348099-66c16161|dify-2026-08-25-1-17-0-github-376348099-66c16161]]'

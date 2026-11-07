@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4ef6ba503d134fb0f24547f7d3134cf4b203bf5817cc7719b9de02a782fdcfe3
+machine_hash: 29b692e0c1cf057bd134b22fe7885a95c22e1851a2f95f283da61d8ec5512666
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,10 +49,9 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-04-added-subpages-and-content-to-hooks-by-jl-codes-in-https-github-com-cline-cline|added
-  subpages and content to hooks]]'
-- '[[Changes/Codex CLI/2025-12-04-2-apps-and-integrations-changes-in-rust-v0-65-0|2
-  Apps and Integrations changes in rust-v0.65.0]]'
+- '[[Changes/Google Antigravity/2025-12-04-google-one-integration|Google One integration]]'
+- '[[Changes/Runway/2025-12-04-turn-your-workflows-into-apps-you-can-share-with-your-workspace|Publish
+  Workflows as Apps]]'
 - '[[Changes/ElevenLabs/2025-12-08-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-12-08-2025-12-08-7be8ac95|elevenlabs-2025-12-08-2025-12-08-7be8ac95]]'
 source_type: elevenlabs_changelog
@@ -98,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-2-apps-and-integrations-changes-in-rust-v0-65-0|2 Apps and Integrations changes in rust-v0.65.0]]
+- Earlier: 2025-12-04 · Runway · [[Changes/Runway/2025-12-04-turn-your-workflows-into-apps-you-can-share-with-your-workspace|Publish Workflows as Apps]]
 - Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-3-apps-and-integrations-changes-in-rust-v0-66-0|3 Apps and Integrations changes in rust-v0.66.0]]
 <!-- chronolog:end -->
 

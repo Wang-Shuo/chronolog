@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d71a5a4491f5e98b88edab027b48cc9c0718621307bef931be5f0876b6ceadab
+machine_hash: 3e877204460357239183c9183f61c30f35db70e39d8ece7f574d97c2c1dd4d91
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Multimodal Input changes in 0.11.2
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-10-21-3-multimodal-input-changes-in-v0-4-0|3 Multimodal Input
-  changes in v0.4.0]]'
+- '[[Changes/Runway/2024-10-25-introducing-act-one-a-new-way-to-generate-expressive-character-performances-insi|Act-One
+  in Gen-3 Alpha]]'
 - '[[Changes/Dify/2024-10-28-enhanced-prompt-handling-in-workflows-added-vision-support-in-prompts-for-more-d|Enhanced
   Prompt Handling in Workflows: Added vision support in prompts for more…]]'
 - '[[Changes/Dify/2024-11-11-chore-add-multimodal-send-video-format-to-docker-s-env-by-hjlarry-in-https-githu|chore:

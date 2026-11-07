@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e8728aa58537b5a343f700668fa87e2fdbb72404c8a482227ee0c83858f2ac7
+machine_hash: 83a01388220294a5bfacef395ad67f62863e420b9787094775abb90a907a13cd
 product: open-webui
 product_name: Open WebUI
 record:
@@ -245,10 +245,10 @@ record:
   title: 39 Model Support changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-24-2-model-support-changes-in-v4-0-11|2 Model Support changes
-  in v4.0.11]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-24-add-support-for-claude-opus-5|Add support
   for Claude Opus 5]]'
+- '[[Changes/OpenCode/2026-07-24-core-preserve-mistral-reasoning-history-across-turns|Core
+  Preserve Mistral reasoning history across turns]]'
 - '[[Changes/Ollama/2026-07-25-quantize-draft-model-output-heads-at-the-requested-type-when-creating-speculativ|Quantize
   draft-model output heads at the requested type when creating…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'

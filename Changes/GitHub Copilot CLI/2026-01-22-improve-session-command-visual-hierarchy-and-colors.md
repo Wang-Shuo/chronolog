@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de439e244e4b24a0471c5fe9d8f8f9413f2c9af8a7570e31019acaa3a90a3433
+machine_hash: 20f78382728286f6ab5ed601dd8d12a0169d90533d10b3fb10a06172ccf209cd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-add-rename-command-as-alias-for-session-rename|Add /rename command as alias for /session rename]]
-- Later: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer Workflow changes in v2.1.19]]
+- Later: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-revert-handling-of-special-characters-in-paths-and-git-snapshot-reading-logic|Revert handling of special characters in paths and git snapshot reading logic]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

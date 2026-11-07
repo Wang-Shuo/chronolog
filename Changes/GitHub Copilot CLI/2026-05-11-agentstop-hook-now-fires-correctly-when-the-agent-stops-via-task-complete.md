@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0ee1621b02714b70438f308075bd69ff41f4d777c18bf6c80e52e80a478b1f02
+machine_hash: adfcb32722f1dbc7ec0dff37a2fffcbf7718b73d9a65b4153d4e2f811c80cc85
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,7 +43,8 @@ record:
   title: agentStop hook now fires correctly when the agent stops via task_complete
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-08-agent-accepts-svg-uploads|Agent accepts SVG uploads]]'
+- '[[Changes/OpenCode/2026-05-10-core-fixed-a-plan-mode-security-bypass-where-subagents-could-ignore-parent-agent|Core
+  Fixed a Plan Mode security bypass where subagents could ignore parent-agent…]]'
 - '[[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode
   changes in v2.1.139]]'
 - '[[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull-d30c31|Mention

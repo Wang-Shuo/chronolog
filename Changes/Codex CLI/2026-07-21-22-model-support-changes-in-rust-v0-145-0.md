@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 212a2c8e8fa9c229dfbdf1a3ceff4992d0c9f89fd09ccae4849e6930ad3c341e
+machine_hash: 1cbadd173cd1c37bc43beebe6525ebba977686a07b68448e13efa95e411b7e4a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,12 +87,12 @@ record:
   title: 22 Model Support changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes
-  in 1.16.0]]'
 - '[[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model
   Support changes in rust-v0.144.6]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve
   pasted prompt content when changing models through Ctrl+X /model]]'
+- '[[Changes/OpenCode/2026-07-20-3-model-support-changes-in-v1-18-4|3 Model Support
+  changes in v1.18.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
 source_type: github_releases
 theme: model-support
@@ -182,7 +182,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve pasted prompt content when changing models through Ctrl+X /model]]
+- Earlier: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-3-model-support-changes-in-v1-18-4|3 Model Support changes in v1.18.4]]
 - Later: 2026-07-21 · Gemini · [[Changes/Gemini/2026-07-21-3-6-flash-an-upgraded-model-for-your-daily-life|3.6 Flash: An upgraded model for your daily life]]
 <!-- chronolog:end -->
 

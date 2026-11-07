@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ac76a79faace9cc9e48d9691135baecc752305c0958931da39dcc1ff19dbc6f
+machine_hash: 58c941e67cbc303638b2cc3a11a37fefaf7f9ba197d8031598fa5c4cc7f0cf82
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: '#10011 really fix pwd for windows codex zip @iceweasel-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-homebrew-tools-work-correctly-on-macos-with-zsh-as-default-shell|Homebrew
-  tools work correctly on macOS with zsh as default shell]]'
-- '[[Changes/v0/2026-01-28-improved-git-workflow-ui-on-mobile-devices|Improved Git
-  workflow UI on mobile devices]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-29-skills-load-correctly-on-windows|Skills
   load correctly on Windows]]'
+- '[[Changes/OpenCode/2026-01-29-7-mobile-and-desktop-changes-in-v1-1-41|7 Mobile
+  and Desktop changes in v1.1.41]]'
+- '[[Changes/OpenCode/2026-01-30-2-mobile-and-desktop-changes-in-v1-1-47-2|2 Mobile
+  and Desktop changes in v1.1.47 + 2]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8|codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-skills-load-correctly-on-windows|Skills load correctly on Windows]]
-- Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-2-mobile-and-desktop-changes-in-rust-v0-95-0|2 Mobile and Desktop changes in rust-v0.95.0]]
+- Earlier: 2026-01-30 · OpenCode · [[Changes/OpenCode/2026-01-30-2-mobile-and-desktop-changes-in-v1-1-47-2|2 Mobile and Desktop changes in v1.1.47 + 2]]
+- Later: 2026-01-31 · OpenCode · [[Changes/OpenCode/2026-01-31-3-mobile-and-desktop-changes-in-v1-1-48|3 Mobile and Desktop changes in v1.1.48]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

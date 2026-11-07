@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16f3c5b788193edd036799a4f5b998437f66d8b3aa030200f0c54fa7fcb661f9
+machine_hash: 9372a60160e7c38191f650b8e2d116ff8f6e1061d307fbcfdb3d6d611a9ee52b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,12 +48,12 @@ record:
     individual…"
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-25-enable-in-cli-extension-management-commands-for-team-by-chrstnb-in-https-github|Enable
-  in-CLI extension management commands for team]]'
 - '[[Changes/v0/2026-02-25-added-team-setting-to-allow-v0-to-open-prs-on-behalf-of-members-without-github-a|Added
   team setting to allow v0 to open PRs on behalf of members without GitHub accounts]]'
 - '[[Changes/Codex CLI/2026-02-26-2-collaboration-changes-in-rust-v0-106-0|2 Collaboration
   changes in rust-v0.106.0]]'
+- '[[Changes/Midjourney/2026-02-26-today-we-are-removing-the-rooms-feature-from-the-website|An
+  update on Rooms]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-01-v0-8-6-github-291846033-263bca05|open-webui-2026-03-01-v0-8-6-github-291846033-263bca05]]'
 source_type: github_releases
 theme: collaboration
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-2-collaboration-changes-in-rust-v0-106-0|2 Collaboration changes in rust-v0.106.0]]
+- Earlier: 2026-02-26 · Midjourney · [[Changes/Midjourney/2026-02-26-today-we-are-removing-the-rooms-feature-from-the-website|An update on Rooms]]
 - Later: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-block-share-gist-for-emu-and-ghe-cloud-users-with-clear-error-messaging|Block /share gist for EMU and GHE Cloud users with clear error messaging]]
 <!-- chronolog:end -->
 

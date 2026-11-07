@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6de46b8836b5e7dd072a707f9f9744c811b3fedcfdf624559f76dd1d720ad7e7
+machine_hash: c91e0094e9eba231432792b7c1ad2bc4c2f109de8ea6636a6ef589aefdfd2c6c
 product: cline
 product_name: Cline
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.72.0
 ## Nearby in Model Support
 
 - Earlier: 2026-03-11 · OpenHands · [[Changes/OpenHands/2026-03-11-added-support-for-the-following-models-claude-opus-4-6-glm-4-7-claude-sonnet-4-6|Added support for the following models]]
-- Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting claude-sonnet-4.6 as the default model is now preserved correctly]]
+- Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-support-non-openai-azure-models-that-use-completions-endpoints|Support non-OpenAI Azure models that use completions endpoints]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d5a1fed241d25794c9302d2dbdb425fc0c3cf751bb0dbdeae4549d24bc17d0bd
+machine_hash: c3fcae8c775825eb08e59dfa263648c268f6a2072ec42a7f48c753c420b95371
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,10 +56,10 @@ record:
     the app'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-recover-corrupted-session-history-on-load|Recover
-  corrupted session history on load]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-keep-session-resume-working-when-token-timing-includes-fractional-milliseconds|Keep
   session resume working when token timing includes fractional milliseconds]]'
+- '[[Changes/OpenClaw/2026-07-13-5-projects-and-workspaces-changes-in-v2026-7-1|5
+  Projects and Workspaces changes in v2026.7.1]]'
 - '[[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|Unified
   Recents: Chat and Work conversations now appear together in Recents, where…]]'
 scope: macOS and Windows
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-keep-session-resume-working-when-token-timing-includes-fractional-milliseconds|Keep session resume working when token timing includes fractional milliseconds]]
+- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-5-projects-and-workspaces-changes-in-v2026-7-1|5 Projects and Workspaces changes in v2026.7.1]]
 - Later: 2026-07-16 · Ollama · [[Changes/Ollama/2026-07-16-the-interactive-agent-now-receives-the-current-working-directory-for-better-proj|The interactive agent now receives the current working directory for better project…]]
 <!-- chronolog:end -->
 

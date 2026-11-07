@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7fa415f270aa618d62d9e96fd77e61492c4231d28e1e57c43a2532b05e5f34a
+machine_hash: 6d53ca6956250e75d8b8ce5b3ba41c713fbd83e430d12fa54265704044025feb
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Reliability and Performance changes in v2.1.50
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-feat-plan-add-positive-test-case-and-update-eval-stability-policy-by-jerop-in-ht|feat(plan):
-  add positive test case and update eval stability policy]]'
-- '[[Changes/Claude Code/2026-02-19-2-reliability-and-performance-changes-in-v2-1-49|2
-  Reliability and Performance changes in v2.1.49]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-2-reliability-and-performance-changes-in-v0-0-412|2
   Reliability and Performance changes in v0.0.412]]'
+- '[[Changes/Google Antigravity/2026-02-19-improved-ui-responsiveness-for-chat-interactions-including-creating-conversation|Improved
+  UI responsiveness for chat interactions, including creating conversations…]]'
+- '[[Changes/Google Antigravity/2026-02-19-settings-artifacts-and-stability|Settings,
+  Artifacts, and Stability]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.50
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-2-reliability-and-performance-changes-in-v0-0-412|2 Reliability and Performance changes in v0.0.412]]
+- Earlier: 2026-02-19 · Google Antigravity · [[Changes/Google Antigravity/2026-02-19-settings-artifacts-and-stability|Settings, Artifacts, and Stability]]
 - Later: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-improve-code-search-speed-in-large-repos|Improve code search speed in large repos]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 79fd3ac7c5841959cab959976db0c8da1a42f54a52e9179e428585583858e07e
+machine_hash: e33af97a78b871fcea4ad1bcd656cb0990e844564e4c1a877ae87f8c7dee855d
 product: cursor
 product_name: Cursor
 record:
@@ -50,8 +50,7 @@ record:
   title: Redesigned project and repo pickers
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-3-interface-experience-changes-in-rust-v0-144-0|3
-  Interface Experience changes in rust-v0.144.0]]'
+- '[[Changes/Suno/2026-07-09-real-writing-environment|Real writing environment]]'
 - '[[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]'
 - '[[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7
   Interface Experience changes in Side Chats and Conversation Search]]'
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-3-interface-experience-changes-in-rust-v0-144-0|3 Interface Experience changes in rust-v0.144.0]]
+- Earlier: 2026-07-09 · Suno · [[Changes/Suno/2026-07-09-real-writing-environment|Real writing environment]]
 - Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4 Interface Experience changes in v1.0.70]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 59219c180251f3f872d726c3807ffffffd7873387036ad01f9f687c4bcb7bade
+machine_hash: 9807b012c05e4b6aaa53c1f17a6f0cf88694d3a11ffeca15bacd7534abc455de
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,9 +46,9 @@ record:
   title: 2 Model Support changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added
-  CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]'
 - '[[Changes/ElevenLabs/2026-09-11-scribe-v2-medical|Scribe v2 Medical]]'
+- '[[Changes/OpenClaw/2026-09-11-20-model-support-changes-in-v2026-9-4|20 Model Support
+  changes in v2026.9.4]]'
 - '[[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|Changes
   to automatic switching to thinking in ChatGPT (Plus and Pro)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'

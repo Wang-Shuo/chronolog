@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 7d87f80fea64954e407bacec80cf6eb181d43019af6d9f2f81bd70350f30716f
+machine_hash: 5c1247e6bdff882107ecf53cfdbe7abc2e68577711b826f6be48817d5c7e67d3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,9 +43,9 @@ record:
   title: 'Docs: Add a page detailing quota and cost information'
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-05-20-get-more-from-the-gemini-app-with-the-google-ai-pro-subscription|Get
-  more from the Gemini app with the Google AI Pro subscription]]'
 - '[[Changes/ElevenLabs/2025-06-17-subscription-management|Subscription Management]]'
+- '[[Changes/Midjourney/2025-06-19-so-we-want-to-give-you-some-quick-tips-on-how-to-get-the-best-possible-value-wit|So
+  we want to give you some quick tips on how to get the best possible value…]]'
 - '[[Changes/Replit/2025-06-27-organization-suspension-from-ubb-services|Organization
   suspension from UBB services]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec|gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4cc79061fa74ecc0ba2d5dac1e9c882539e1ea4ce37a3af5d192f63cd3d9c1e7
+machine_hash: 709077ba8f063ae17aa294e7e6df5ed222b1b61e5098e0e740c66b998f966f78
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Use your connected tools from Lovable in Telegram
   type: change
 related_changes:
-- '[[Changes/Replit/2026-09-18-investigate-with-expanded-audit-logs|Investigate with
-  expanded audit logs]]'
+- '[[Changes/OpenClaw/2026-09-19-39-safety-and-privacy-changes-in-v2026-9-5|39 Safety
+  and Privacy changes in v2026.9.5]]'
 - '[[Changes/ChatGPT/2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it-0d2f36|Privacy
   Center in ChatGPT]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-2-safety-and-privacy-changes-in-v1-0-87|2

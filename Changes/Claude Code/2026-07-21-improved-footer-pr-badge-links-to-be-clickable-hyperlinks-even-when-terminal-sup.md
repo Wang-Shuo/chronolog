@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f0377dfed48d495ab11c90eafbd8c65c9a312e9919112b150baf0973f8039712
+machine_hash: a32c6ef96bc956deeaec4959f12ab544b5b4f42d212cc0bc9a159769c53ab6cb
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     support…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude
-  no longer runs the /verify and /code-review skills on its own]]'
 - '[[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer
   Workflow changes in v2.1.216]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-8-developer-workflow-changes-in-v1-0-72|8
   Developer Workflow changes in v1.0.72]]'
+- '[[Changes/OpenCode/2026-07-20-sync-the-embedded-terminal-theme-with-the-app-theme|Sync
+  the embedded terminal theme with the app theme]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-8-developer-workflow-changes-in-v1-0-72|8 Developer Workflow changes in v1.0.72]]
+- Earlier: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-sync-the-embedded-terminal-theme-with-the-app-theme|Sync the embedded terminal theme with the app theme]]
 - Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-12-developer-workflow-changes-in-rust-v0-145-0|12 Developer Workflow changes in rust-v0.145.0]]
 <!-- chronolog:end -->
 

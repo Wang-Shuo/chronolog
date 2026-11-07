@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3081fabfd529466a4315d948f9238bf4a10caee7f60c14d07506e2178d4f8116
+machine_hash: 8f28ae375973f5630a331b947fe9d0ad3242fa0d47f4ca6ddfd1103221c3e46e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated the bundled claude-api skill for the Managed Agents Aug 19 release]]
-- Later: 2026-08-25 · Claude · [[Changes/Claude/2026-08-25-memory-in-claude-cowork-editable-topics-and-a-sensitive-topics-setting|Memory in Claude Cowork, editable topics, and a sensitive topics setting]]
+- Later: 2026-08-21 · Midjourney · [[Changes/Midjourney/2026-08-21-settings|Settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32472005bd3c6689f9a357ca20e884d3dd41a11fe1e994c13214e5587a8d345c
+machine_hash: 2c53676324a795bca5f6725fcbdfb7f3d8c2459c4bc3d03bb62c394373aed9db
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,11 @@ record:
   title: 4 Memory and Personalization changes in rust-v0.116.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting
-  the “Nerdy” base style]]'
 - '[[Changes/Dify/2026-03-17-4-memory-and-personalization-changes-in-1-13-1|4 Memory
   and Personalization changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-docs-document-tool-exclusion-from-memory-via-deny-policy-by-abhijit-2592-in-http|docs:
   document tool exclusion from memory via deny policy]]'
+- '[[Changes/Midjourney/2026-03-17-other-tips-and-tricks|Other Tips and Tricks]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd|codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd]]'
 source_type: github_releases
 theme: memory
@@ -98,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.116.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-docs-document-tool-exclusion-from-memory-via-deny-policy-by-abhijit-2592-in-http|docs: document tool exclusion from memory via deny policy]]
+- Earlier: 2026-03-17 · Midjourney · [[Changes/Midjourney/2026-03-17-other-tips-and-tricks|Other Tips and Tricks]]
 - Later: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-refactor-core-align-jit-memory-placement-with-tiered-context-model-by-sandytao52|refactor(core): align JIT memory placement with tiered context model]]
 <!-- chronolog:end -->
 

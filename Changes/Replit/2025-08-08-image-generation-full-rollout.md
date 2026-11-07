@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 33a27281cfb913f542fae57867a85cd92662d455d5254a5177cb736fdf980da6
+machine_hash: 1edfe21205e39ba7c03b7f707976287e2ca6fbfd8dd5c2ae3556c147d3951335
 product: replit
 product_name: Replit
 record:
@@ -46,10 +46,10 @@ record:
   title: Image generation full rollout
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-05-26-image-generation-with-allowed-file-extensions-now-works-reliably-ensure-seamless|\U0001F5BC️
-  Image Generation with Allowed File Extensions Now Works Reliably]]"
 - "[[Changes/Open WebUI/2025-06-10-better-handling-storage-of-interpreter-generated-images-code-interpreter-generat|\U0001F3DE️
   Better Handling & Storage of Interpreter-Generated Images]]"
+- '[[Changes/Gamma/2025-07-31-this-week-s-updates-are-all-about-giving-you-more-control-more-capabilities-and|This
+  week’s updates are all about giving you more control, more capabilities…]]'
 - '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image
   generation update to ChatGPT Free]]'
 source_release: '[[Releases/Replit/replit-2025-08-08-2025-08-08-cb053c3d|replit-2025-08-08-2025-08-08-cb053c3d]]'

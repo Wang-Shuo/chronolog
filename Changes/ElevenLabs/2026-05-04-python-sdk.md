@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 9eba00669cebf13613182cc5ff5bd8f03a0fb67f9922225a8e4a4321d7296ccf
+machine_hash: bd3f86fd7a950c95cbace031b66b97ef9a23f36fde8e0f25ae6d3c93e40ef8cf
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6 Apps and Integrations changes in v2.1.128]]
-- Later: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-2-apps-and-integrations-changes-in-v1-0-41|2 Apps and Integrations changes in v1.0.41]]
+- Later: 2026-05-04 · OpenCode · [[Changes/OpenCode/2026-05-04-core-show-real-server-error-messages-in-the-cli-and-sdk-instead-of-bare|Core Show real server error messages in the CLI and SDK instead of bare {}]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

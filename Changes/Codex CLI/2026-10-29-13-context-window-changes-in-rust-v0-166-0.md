@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 344f36d331862346f158c457e36ea95e2beb8d586eb781d67fc05a16f10f5555
+machine_hash: f84494e573c6f3eb16fecfca3b9d11b7bdbabae93ef5b7ab07762533b1fb4e6d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -68,12 +68,12 @@ record:
   title: 13 Context Window changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-27-changed-a-subagent-s-autocompactwindow-to-lower-the-window-set-by-claude-code-au|Changed
-  a subagent''s autoCompactWindow to lower the window set…]]'
 - '[[Changes/Codex CLI/2026-10-27-2-context-window-changes-in-rust-v0-165-0|2 Context
   Window changes in rust-v0.165.0]]'
 - '[[Changes/Ollama/2026-10-27-lfm3-https-ollama-com-library-lfm3-a-1-7b-text-model-with-a-256k-token-context-w|lfm3((source
   link) a 1.7B text model with a 256K-token context…]]'
+- '[[Changes/OpenCode/2026-10-27-3-context-window-changes-in-v2-2-0|3 Context Window
+  changes in v2.2.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: context-window
@@ -143,7 +143,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-lfm3-https-ollama-com-library-lfm3-a-1-7b-text-model-with-a-256k-token-context-w|lfm3((source link) a 1.7B text model with a 256K-token context…]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-3-context-window-changes-in-v2-2-0|3 Context Window changes in v2.2.0]]
 - Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-provider-details-for-models-administrators-editing-a-model-now-see-a-provider-de|📇 Provider details for models. Administrators editing a model now see a Provider…]]
 <!-- chronolog:end -->
 

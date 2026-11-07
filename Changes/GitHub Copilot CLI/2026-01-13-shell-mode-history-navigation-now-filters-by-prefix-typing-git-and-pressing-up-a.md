@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b7d0bc8461bca37ec5a881a79930d0ed196f9225eb5742192c7f8e5a44387336
+machine_hash: 2c4ac18d09649eea5d7564b5a15bbaa8859ca679df767205a03ec78f32d1807f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
     up…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-3-interface-experience-changes-in-rust-v0-80-0|3
-  Interface Experience changes in rust-v0.80.0]]'
-- '[[Changes/Open WebUI/2026-01-09-5-interface-experience-changes-in-v0-7-0|5 Interface
-  Experience changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-12-3-interface-experience-changes-in-v1-1-14|3 Interface
+  Experience changes in v1.1.14]]'
+- '[[Changes/OpenCode/2026-01-12-terminal-fix-autocomplete-reopening-after-backspace-deletes-space-in-terminal-ui|Terminal
+  Fix autocomplete reopening after backspace deletes space in terminal UI]]'
 - '[[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added
   Updates section to /doctor showing auto-update channel and available npm…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-381-github-276485455-00f2509f|github-copilot-cli-2026-01-13-v0-0-381-github-276485455-00f2509f]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added Updates section to /doctor showing auto-update channel and available npm…]]
-- Later: 2026-01-13 · v0 · [[Changes/v0/2026-01-13-added-credits-display-in-the-user-menu|Added credits display in the user menu]]
+- Later: 2026-01-13 · Google Antigravity · [[Changes/Google Antigravity/2026-01-13-new-settings-to-allow-disabling-conversation-history-and-knowledge|New Settings to allow disabling conversation history and knowledge]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

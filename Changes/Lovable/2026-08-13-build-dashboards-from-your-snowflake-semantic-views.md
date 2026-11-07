@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8cbea10eece8e43fbea85659565a6e393a473a2181b3cbbf1a0b18a26c1bc50e
+machine_hash: 45c6b762536b3749017bb6a1425af10583c880dd5fbcf44f39f89a9c72f3522c
 product: lovable
 product_name: Lovable
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-13 · Cline · [[Changes/Cline/2026-08-13-these-land-through-sdk-v0-0-74-and-therefore-apply-to-windows-running-the-sdk-bu|These land through SDK v0.0.74 and therefore apply to windows running the SDK…]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2 Apps and Integrations changes in v2.1.233]]
+- Later: 2026-08-13 · Runway · [[Changes/Runway/2026-08-13-ideogram-s-latest-image-model-is-now-available-in-runway-mcp-as-ideogram-4-for-t|Ideogram 4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

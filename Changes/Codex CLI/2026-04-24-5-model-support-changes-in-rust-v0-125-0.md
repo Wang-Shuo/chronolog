@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 384ef4da221a99be9ae8dc4f458ac424081a41afb11190e0e065fa442b25a44a
+machine_hash: 7ea6b6594e89d7f52fec386ce9d0833a11041e704b1dbba6164594a3bffbb37b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 5 Model Support changes in rust-v0.125.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-2-model-support-changes-in-v1-0-35|2 Model
-  Support changes in v1.0.35]]'
 - '[[Changes/Ollama/2026-04-23-recommended-models-in-ollama-launch-now-appear-in-a-fixed-canonical-order|Recommended
   models in ollama launch now appear in a fixed, canonical order]]'
+- '[[Changes/OpenCode/2026-04-23-2-model-support-changes-in-v1-14-22-1|2 Model Support
+  changes in v1.14.22 + 1]]'
 - '[[Changes/Cline/2026-04-24-add-gpt-5-5-model-support-for-openai-codex-subscription-users|Add
   GPT-5.5 model support for OpenAI Codex subscription users]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c|codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c]]'

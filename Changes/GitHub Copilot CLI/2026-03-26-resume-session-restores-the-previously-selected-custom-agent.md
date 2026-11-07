@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 51f356228bf12a6cd1efa5356a34981a15b7140b7bb26562ce0129b0c9e37068
+machine_hash: 7c9a84b437730a81e6e5d62f35d9059408d52a84f11e80ea460f604a16536852
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Resume session restores the previously selected custom agent
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-25-cursor-now-supports-self-hosted-cloud-agents-that-keep-your-code-and-tool-execut-e411f3|Self-hosted
-  Cloud Agents]]'
+- '[[Changes/Google Antigravity/2026-03-25-various-layout-and-ux-improvements-in-the-agent-manager|Various
+  layout and UX improvements in the agent manager]]'
 - '[[Changes/Claude Code/2026-03-26-2-agent-mode-changes-in-v2-1-84|2 Agent Mode changes
   in v2.1.84]]'
 - '[[Changes/Codex CLI/2026-03-26-19-agent-mode-changes-in-rust-v0-117-0|19 Agent
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-19-agent-mode-changes-in-rust-v0-117-0|19 Agent Mode changes in rust-v0.117.0]]
-- Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto mode now shows "unavailable for your plan" when disabled by plan restrictions…]]
+- Later: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-desktop-fix-agent-normalization-in-desktop-app|Desktop Fix agent normalization in desktop app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c601787290fae5a48f93e596e63d4da95918b7d2a147435bfcfb01fda67ec83e
+machine_hash: 95fa3d49ea248231ae3a0f4beda5bc37fa580a7a1947fb4c744ff2e579e5d46c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,10 +57,10 @@ record:
   title: 5 Developer Workflow changes in v0.8.12
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-19-developer-workflow-changes-in-rust-v0-117-0|19
-  Developer Workflow changes in rust-v0.117.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-2-developer-workflow-changes-in-v1-0-12|2
   Developer Workflow changes in v1.0.12]]'
+- '[[Changes/OpenCode/2026-03-26-2-developer-workflow-changes-in-v1-3-3|2 Developer
+  Workflow changes in v1.3.3]]'
 - '[[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added
   X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-27-v0-8-12-github-302148651-2732d580|open-webui-2026-03-27-v0-8-12-github-302148651-2732d580]]'
@@ -104,7 +104,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.12
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]
-- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-developer-workflow-changes-in-v1-0-13|2 Developer Workflow changes in v1.0.13]]
+- Later: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-10-developer-workflow-changes-in-v1-3-6-2|10 Developer Workflow changes in v1.3.6 + 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

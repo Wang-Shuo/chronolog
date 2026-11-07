@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: fix
-machine_hash: 106f8ec2be085508eb508a7a26f55b7c7f3e8a8a9176ab8d04f97247a694eb4f
+machine_hash: e7a090c1244ddfe825ff46177dd2e877da3649ed51d3b63358716c89579ac3ea
 product: v0
 product_name: v0
 record:
@@ -45,12 +45,12 @@ record:
   title: Fixed integration permission checks for team roles
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-03-02-connection-access-control-privacy-tool-server-and-terminal-connections-without-e|\U0001F512
-  Connection access control privacy. Tool server and terminal connections…]]"
 - '[[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed
   team permission and access control inconsistencies across organization setups]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-autopilot-permission-dialog-appears-on-first-prompt-submission-instead-of-on-mod|Autopilot
   permission dialog appears on first prompt submission instead of on mode switch]]'
+- '[[Changes/OpenCode/2026-03-03-2-safety-and-privacy-changes-in-v1-2-16|2 Safety
+  and Privacy changes in v1.2.16]]'
 source_release: '[[Releases/v0/v0-2026-03-03-2026-03-03-489f9d67|v0-2026-03-03-2026-03-03-489f9d67]]'
 source_type: v0_changelog
 theme: safety-privacy
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-autopilot-permission-dialog-appears-on-first-prompt-submission-instead-of-on-mod|Autopilot permission dialog appears on first prompt submission instead of on mode switch]]
+- Earlier: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-2-safety-and-privacy-changes-in-v1-2-16|2 Safety and Privacy changes in v1.2.16]]
 - Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-5-safety-and-privacy-changes-in-v2-1-69|5 Safety and Privacy changes in v2.1.69]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 999627ede053df81f8c17c5f44155639295c63fcde406031227528e3ff4d2891
+machine_hash: 4867c8caa940aad8c38506ad20e93c00a3c92c69f4d31eb683cb441577b560d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,8 +70,8 @@ record:
   title: GPT-5.5 Instant Mini in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-01-5-model-support-changes-in-v0-10-2|5 Model Support
-  changes in v0.10.2]]'
+- '[[Changes/OpenCode/2026-07-01-core-force-reasoning-mode-for-openai-compatible-reasoning-models-so-reasoning-se|Core
+  Force reasoning mode for OpenAI-compatible reasoning models so reasoning…]]'
 - '[[Changes/Cline/2026-07-02-generalize-the-model-capability-warning-so-it-applies-more-broadly|Generalize
   the model capability warning so it applies more broadly]]'
 - '[[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec25de666a6793233faa173997ea091ecc865d4c226e7e86cfd8898b961b1d2f
+machine_hash: 31ce22c2e96dca880c62ae1a914e960a97b105f88c311017574a7ba1fe33b0c5
 product: dify
 product_name: Dify
 record:
@@ -203,7 +203,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.1
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on cloud agents that build, test, and ship code while you keep working]]
-- Later: 2026-07-28 · OpenHands · [[Changes/OpenHands/2026-07-28-this-release-migration-was-performed-by-an-ai-agent-openhands-on-behalf-of-the-u|This release migration was performed by an AI agent (OpenHands) on behalf of the user]]
+- Later: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-2-agent-mode-changes-in-hub-v2-4-3-preview-tabs-mcp|2 Agent Mode changes in HUB v2.4.3 — Preview tabs, MCP…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

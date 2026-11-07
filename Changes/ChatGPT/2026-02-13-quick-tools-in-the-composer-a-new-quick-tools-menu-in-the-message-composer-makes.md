@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a2301dc0fe8571835bf7cec7668796a25b65d6412220ed55c99afff1387dc801
+machine_hash: 5ab4f24da7d24213a836b629045b7e3d3ea03628cf2fecfa517e55a6c6017d48
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
   title: Quick tools in the composer
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-add-mouse-text-selection-in-alt-screen-mode|Add
-  mouse text selection in --alt-screen mode]]'
 - '[[Changes/Open WebUI/2026-02-12-8-interface-experience-changes-in-v0-8-0|8 Interface
   Experience changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-12-core-windows-selection-behavior-and-manual-ctrl-c-handling|Core
+  Windows selection behavior and manual Ctrl+C handling]]'
 - '[[Changes/Windsurf/2026-02-12-improved-rtl-language-rendering-in-todo-lists|Improved
   RTL language rendering in todo lists]]'
 scope: Android

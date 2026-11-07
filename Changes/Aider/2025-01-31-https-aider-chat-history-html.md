@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95b440a6040b72a086c4e2f5aeb5c86b308d4b2bfc8716d13f2bc6bf487fb768
+machine_hash: 10c7cc9318eeff6cf0a0ebed68304fac43a322ed71eb1db905c903408cb3d442
 product: aider
 product_name: Aider
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-01-22 · Open WebUI · [[Changes/Open WebUI/2025-01-22-general-ui-ux-refinements-numerous-tweaks-across-the-webui-make-navigation-and-u|✨ General UI/UX Refinements]]
-- Later: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-redesigned-chat-input-ui-enjoy-a-sleeker-and-more-intuitive-message-input-with-i|💬 Redesigned Chat Input UI]]
+- Later: 2025-02-05 · Gamma · [[Changes/Gamma/2025-02-05-exciting-news-for-smart-layouts-gamma-just-got-even-smarter-we-ve-added-more-cir|Circle Smart Layouts Have Arrived]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

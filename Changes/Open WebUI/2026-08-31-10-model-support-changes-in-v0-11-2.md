@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b19b39d98496077277df6ea17f87091a8e587dfa006ce66530661cf25857af3a
+machine_hash: 592177c387f8206afad489a0d33b2f01e0eaade9066b18ae6049d95d619528a5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -89,8 +89,8 @@ record:
   title: 10 Model Support changes in v0.11.2
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-29-3-model-support-changes-in-rust-v0-151-0|3 Model
-  Support changes in rust-v0.151.0]]'
+- '[[Changes/Midjourney/2026-08-29-we-ve-updated-our-v8-2-edit-model-for-better-image-quality-if-you-ve-had-any-iss|Edit
+  Image Quality Update]]'
 - '[[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site
   tools use WebMCP and require a supported account, model, and webpage]]'
 - '[[Changes/Lovable/2026-08-31-priority-processing-now-works-with-gemini-chat-models|Priority
@@ -153,7 +153,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.2
 ## Nearby in Model Support
 
 - Earlier: 2026-08-31 · Lovable · [[Changes/Lovable/2026-08-31-priority-processing-now-works-with-gemini-chat-models|Priority processing now works with Gemini chat models]]
-- Later: 2026-09-01 · Claude · [[Changes/Claude/2026-09-01-claude-fable-5-1-and-claude-mythos-5-1-launch|Claude Fable 5.1 and Claude Mythos 5.1 launch]]
+- Later: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-models-and-providers-chat-and-the-models-page-open-from-the-catalog-openclaw-alr|Models and Providers - Chat and the Models page open from the catalog OpenClaw…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

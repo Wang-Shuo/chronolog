@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 976c08734e7401627b68f3c3aa764b1da7fe407b2ac0893ad94968d3b2e3db4c
+machine_hash: d9601538cbddaeb71b32d2121e2c52d85d30ecf1925c08180eb380db0e78f5b4
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in 1.3.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-04-13-translation-updates-across-multiple-languages-refined-catalan-russian-chinese-si|\U0001F30D
-  Translation Updates Across Multiple Languages]]"
-- '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
-  accessible history]]'
+- '[[Changes/Gamma/2025-04-16-card-numbers-for-easier-navigation-in-pdfs-or-decks|Card
+  numbers for easier navigation in PDFs or decks]]'
 - '[[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add
   new slash command menu letting you type…]]'
+- '[[Changes/Gamma/2025-04-22-just-right-click-from-the-filmstrip-or-tap-the-menu-on-a-card-and-choose-copy-to|Just
+  right-click from the filmstrip or tap the ... menu on a card and choose…]]'
 source_release: '[[Releases/Dify/dify-2025-04-23-1-3-0-github-214141766-8d4f18a3|dify-2025-04-23-1-3-0-github-214141766-8d4f18a3]]'
 source_type: github_releases
 theme: interface-experience
@@ -93,7 +93,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add new slash command menu letting you type…]]
+- Earlier: 2025-04-22 · Gamma · [[Changes/Gamma/2025-04-22-just-right-click-from-the-filmstrip-or-tap-the-menu-on-a-card-and-choose-copy-to|Just right-click from the filmstrip or tap the ... menu on a card and choose…]]
 - Later: 2025-04-25 · Cline · [[Changes/Cline/2025-04-25-add-tooltips-to-bottom-row-menu|Add tooltips to bottom row menu]]
 <!-- chronolog:end -->
 

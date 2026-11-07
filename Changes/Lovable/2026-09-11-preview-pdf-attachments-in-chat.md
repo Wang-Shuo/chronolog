@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f8b0d4d8930353ab8d0493e00e6503d385fe3493d80917fc21a7941e1fac452c
+machine_hash: 74cb4f8fbe42719f563ab69eddbb8bc58a8071df8e24f7afa4a28f5cdb763f20
 product: lovable
 product_name: Lovable
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-09-10 · Lovable · [[Changes/Lovable/2026-09-10-see-what-is-inside-a-zip-before-lovable-uses-it|See what is inside a ZIP before Lovable uses it]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved the spinner status during long thinking]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-2-context-window-changes-in-v2026-9-4|2 Context Window changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

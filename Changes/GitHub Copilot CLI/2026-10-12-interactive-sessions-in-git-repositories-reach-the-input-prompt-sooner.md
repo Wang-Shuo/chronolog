@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b16f2e0cf57de3ef1dd666aae36728d97a294c829220ca56a16816b0bdbc972
+machine_hash: 8e33122290ae5ac3f9c333b0013a6ecfef8d16b28654218c51c4e96d0593969d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Interactive sessions in git repositories reach the input prompt sooner
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-12-developer-workflow-changes-in-rust-v0-162-0|12
-  Developer Workflow changes in rust-v0.162.0]]'
-- '[[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer
-  Workflow changes in v2.1.296]]'
 - '[[Changes/Open WebUI/2026-10-10-27-developer-workflow-changes-in-v0-12-0|27 Developer
   Workflow changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-11-developer-workflow-changes-in-v2026-10-1|11 Developer
+  Workflow changes in v2026.10.1]]'
+- '[[Changes/OpenCode/2026-10-11-terminal-use-update-to-install-opencode-updates-or-upgrade-to-opencode-2-updates|Terminal
+  Use /update to install OpenCode updates or upgrade to OpenCode 2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14|github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-27-developer-workflow-changes-in-v0-12-0|27 Developer Workflow changes in v0.12.0]]
+- Earlier: 2026-10-11 · OpenCode · [[Changes/OpenCode/2026-10-11-terminal-use-update-to-install-opencode-updates-or-upgrade-to-opencode-2-updates|Terminal Use /update to install OpenCode updates or upgrade to OpenCode 2]]
 - Later: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-decision-models-can-now-be-used-directly-from-the-terminal-with-ollama-run-ask-y|Decision models can now be used directly from the terminal with ollama run]]
 <!-- chronolog:end -->
 

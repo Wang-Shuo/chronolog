@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9dd590fb0d59da5ad0859a2516212feea62102f8c6f14d156304c9f08d0a77c4
+machine_hash: 37616fd0edf49f12dafcee33818dfea86ccb0c98455075dfa9c13e385519262a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,9 @@ record:
     specify…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-08-mcp-server|MCP Server]]'
 - '[[Changes/ElevenLabs/2025-09-08-sdk-releases|SDK Releases]]'
+- '[[Changes/Granola/2025-09-08-with-new-people-and-companies-views-plus-attio-and-zapier-integrations|Three
+  new features to help you build better customer relationships]]'
 - '[[Changes/Gemini CLI/2025-09-09-5-apps-and-integrations-changes-in-v0-4-0|5 Apps
   and Integrations changes in v0.4.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-09-09-v0-6-27-github-245869039-35ab9819|open-webui-2025-09-09-v0-6-27-github-245869039-35ab9819]]'

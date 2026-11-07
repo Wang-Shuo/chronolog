@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e8fa709371ccdba263699bf4320b537d4dfae74babcdca9843324a810af03ff
+machine_hash: 1eec6a45b1133b9a2864d60c081116b850caa1890629fc070d1c8de0b7241b3b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,10 +57,10 @@ record:
   title: 8 Developer Workflow changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-13-published-a-version-only-release-with-no-merged-pull-request-changes-since-rust|Published
-  a version-only release with no merged pull request changes since rust-v0.144.2]]'
 - '[[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent
   view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]'
+- '[[Changes/OpenCode/2026-07-14-desktop-fixed-terminal-tabs-stealing-focus-when-they-mount|Desktop
+  Fixed terminal tabs stealing focus when they mount]]'
 - '[[Changes/Codex CLI/2026-07-16-2-developer-workflow-changes-in-rust-v0-144-5|2
   Developer Workflow changes in rust-v0.144.5]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
@@ -122,7 +122,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-16 · Codex CLI · [[Changes/Codex CLI/2026-07-16-2-developer-workflow-changes-in-rust-v0-144-5|2 Developer Workflow changes in rust-v0.144.5]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]
+- Later: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-desktop-fixed-startup-readiness-so-wsl-server-loading-is-included-before-the-des|Desktop Fixed startup readiness so WSL server loading is included before the desktop…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

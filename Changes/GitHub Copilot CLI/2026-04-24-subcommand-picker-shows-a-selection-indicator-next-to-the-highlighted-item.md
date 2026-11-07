@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71eb81777665f4808a1d16881f835770575c9f7757c3c51a5be0702e8da3678f
+machine_hash: 6dd699efdad65ea09456d15dc564310fb3dde5a4e3fc9f2247215065f2219424
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     item
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-23-stop-showing-scrollbar-unless-we-are-in-terminalbuffer-mode-by-jacob314-in-https|Stop
-  showing scrollbar unless we are in terminalBuffer mode]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-4-interface-experience-changes-in-v1-0-35|4
   Interface Experience changes in v1.0.35]]'
 - '[[Changes/Ollama/2026-04-23-improved-reliability-of-the-openclaw-onboarding-flow-in-ollama-launch|Improved
   reliability of the OpenClaw onboarding flow in ollama launch]]'
+- '[[Changes/OpenCode/2026-04-23-desktop-keep-project-avatar-previews-consistent-between-the-sidebar-and-edit-dia|Desktop
+  Keep project avatar previews consistent between the sidebar and edit dialog]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-24-v1-0-36-github-313365985-f271ddd3|github-copilot-cli-2026-04-24-v1-0-36-github-313365985-f271ddd3]]'
 source_type: github_releases
 theme: interface-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-23 · Ollama · [[Changes/Ollama/2026-04-23-improved-reliability-of-the-openclaw-onboarding-flow-in-ollama-launch|Improved reliability of the OpenClaw onboarding flow in ollama launch]]
+- Earlier: 2026-04-23 · OpenCode · [[Changes/OpenCode/2026-04-23-desktop-keep-project-avatar-previews-consistent-between-the-sidebar-and-edit-dia|Desktop Keep project avatar previews consistent between the sidebar and edit dialog]]
 - Later: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-dashboard-organization-and-navigation|Dashboard organization and navigation]]
 <!-- chronolog:end -->
 

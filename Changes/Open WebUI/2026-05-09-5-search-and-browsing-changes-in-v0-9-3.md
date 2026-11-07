@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8f740a91b9f615d21b622a3fd0e70c5c9f4ad60a63992d1ae4c6b55f1fe5d06
+machine_hash: f378b1ce7ca8bf8329432f2298143748420c4924a16e8e58761df6d49eff8a89
 product: open-webui
 product_name: Open WebUI
 record:
@@ -122,7 +122,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054 rollout: store web search and mcp tool calls @owenlin0]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The /plugin browse and discover panes now show when a plugin was last updated]]
+- Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-limited-openai-deep-research-models-to-the-reasoning-level-they-actually-su|Core Limited OpenAI deep research models to the reasoning level they actually support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

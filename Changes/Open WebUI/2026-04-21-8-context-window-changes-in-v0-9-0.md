@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c8e0710c437456f743880242d8dda0abd98fe63c2400651cc443c3882dbc1c4
+machine_hash: f9bfebab1fd9373498b76bac8d60b7aa7c6a38b53eadc72c22a345f963468689
 product: open-webui
 product_name: Open WebUI
 record:
@@ -79,12 +79,12 @@ record:
   title: 8 Context Window changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-add-statusline-command-with-footer-alias-to-customize-which-items-appear-in-the|Add
-  /statusline command (with /footer alias) to customize which items appear…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-17-3-context-window-changes-in-v1-0-32|3 Context
   Window changes in v1.0.32]]'
 - '[[Changes/Codex CLI/2026-04-20-10-context-window-changes-in-rust-v0-122-0|10 Context
   Window changes in rust-v0.122.0]]'
+- '[[Changes/OpenCode/2026-04-20-2-context-window-changes-in-v1-14-19|2 Context Window
+  changes in v1.14.19]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a|open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a]]'
 source_type: github_releases
 theme: context-window
@@ -146,7 +146,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-10-context-window-changes-in-rust-v0-122-0|10 Context Window changes in rust-v0.122.0]]
+- Earlier: 2026-04-20 · OpenCode · [[Changes/OpenCode/2026-04-20-2-context-window-changes-in-v1-14-19|2 Context Window changes in v1.14.19]]
 - Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-18794-organize-context-fragments-pakrym-oai|♯18794 Organize context fragments @pakrym-oai]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4eb7a846efd84e03f1a816d1beb0170588dbf983e11672c224d0b475c12035d0
+machine_hash: 549dd5c0d655dff76053f26234213918407e06cdf7c304b45c938db6beea627c
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,8 +64,8 @@ record:
   title: 7 Safety and Privacy changes in v2.1.221
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-safety-and-privacy-changes-in-v1-0-77|2
-  Safety and Privacy changes in v1.0.77]]'
+- '[[Changes/Google Antigravity/2026-07-31-2-safety-and-privacy-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
+  Safety and Privacy changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-3-safety-and-privacy-changes-in-v1-0-78|3
   Safety and Privacy changes in v1.0.78]]'
 - '[[Changes/Claude Code/2026-08-04-improved-auto-mode-safety-messages-sent-to-other-agent-sessions-via-sendmessage|Improved

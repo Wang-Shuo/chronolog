@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63c80475d6a62865790fdc2237e1dc87597e5660b4b9484886b65f62d3692af9
+machine_hash: 367d6e92f1ddeb3be0ba99cca897f520cd1f0604ef48a7154c044a10a2d5303a
 product: dify
 product_name: Dify
 record:
@@ -57,8 +57,8 @@ record:
   title: 5 Context Window changes in 1.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-6-context-window-changes-in-rust-v0-93-0|6 Context
-  Window changes in rust-v0.93.0]]'
+- '[[Changes/OpenCode/2026-01-31-core-add-copilot-specific-provider-to-properly-handle-reasoning-tokens|Core
+  Add Copilot-specific provider to properly handle reasoning tokens]]'
 - '[[Changes/Codex CLI/2026-02-02-2-context-window-changes-in-rust-v0-94-0|2 Context
   Window changes in rust-v0.94.0]]'
 - '[[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added

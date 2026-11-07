@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7bc2559de862e4a9b67259e1a261c1c359bf63106a81c9af93fd8320b56dc1b
+machine_hash: 71e18fd7174437865ff17344b2cd6eb41f04a09697d33c805cf0313ad2d1a462
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Pricing Model changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-07-transfer-primary-ownership-of-your-workspace|Transfer
-  primary ownership of your workspace]]'
+- '[[Changes/OpenClaw/2026-09-08-4-pricing-model-changes-in-v2026-9-3|4 Pricing Model
+  changes in v2026.9.3]]'
 - '[[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month):
   Unlimited GPT-Live-1 usage]]'
 - '[[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month):

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a59621913414a5e09d36da1ef013352745969b5d0a9dce03857308b2f4d6c0ac
+machine_hash: e8bf8c04bc1231dee0b1d92a860b1776d5cd518943f0304e31f9548106df9aca
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,8 +48,8 @@ record:
     due…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-11-model-support-changes-in-v0-7-0|11 Model Support
-  changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-09-core-fix-model-dialog-search-issues-in-favorites-recents-list-and-prevent-deprec|Core
+  Fix model dialog search issues in favorites/recents list and prevent deprecated…]]'
 - '[[Changes/Cline/2026-01-10-removing-minimax-2-1-from-free-model-list-as-the-free-trial-has-ended|Removing
   Minimax-2.1 from free model list as the free trial has ended]]'
 - '[[Changes/Ollama/2026-01-10-a-new-requires-command-for-the-modelfile-allows-declaring-which-version-of-ollam|A
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-10 · Ollama · [[Changes/Ollama/2026-01-10-a-new-requires-command-for-the-modelfile-allows-declaring-which-version-of-ollam|A new REQUIRES command for the Modelfile allows declaring which version…]]
-- Later: 2026-01-12 · ElevenLabs · [[Changes/ElevenLabs/2026-01-12-scribe-v2|Scribe v2]]
+- Later: 2026-01-10 · OpenCode · [[Changes/OpenCode/2026-01-10-ensure-gpt-5-2-codex-has-variants|Ensure GPT-5.2-codex has variants]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

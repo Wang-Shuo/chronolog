@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3c2d8fbdc59d05ac540aec47c21b24254672bb7d4d5aa98a276167491f7485a6
+machine_hash: a53dcb339ae9ff0c2065bf82cf4ef2af765a49757134bc9ab0d0266d4c73b53c
 product: cursor
 product_name: Cursor
 record:
@@ -40,12 +40,12 @@ record:
   title: Cursor is now available in Microsoft Teams
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149
-  Reduce the surface of collaboration modes @pakrym-oai]]'
 - '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
   can now create a team marketplace without connecting a repository first]]'
 - '[[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration
   changes in rust-v0.129.0]]'
+- '[[Changes/OpenCode/2026-05-09-core-fixed-http-api-auth-responses-to-match-the-previous-wire-format-for-empty-a|Core
+  Fixed HTTP API auth responses to match the previous wire format for empty…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration changes in rust-v0.129.0]]
+- Earlier: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-fixed-http-api-auth-responses-to-match-the-previous-wire-format-for-empty-a|Core Fixed HTTP API auth responses to match the previous wire format for empty…]]
 - Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake teams with multiple accounts can pick which account a chat connects…]]
 <!-- chronolog:end -->
 

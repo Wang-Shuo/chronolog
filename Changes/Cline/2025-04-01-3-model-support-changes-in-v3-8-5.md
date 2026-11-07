@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5df09da571bbcb3d732b52b0d081b2569a7da975cefa2bb76fc05a078f2e7799
+machine_hash: 3064e9fd0e67aff205221ca46c620319512d45d5082a82df25870f48508f0c5b
 product: cline
 product_name: Cline
 record:
@@ -44,11 +44,10 @@ record:
   title: 3 Model Support changes in v3.8.5
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced
-  instruction-following and formatting accuracy]]'
 - '[[Changes/Aider/2025-03-31-3-model-support-changes-in-v0-80-0|3 Model Support changes
   in v0.80.0]]'
 - '[[Changes/ElevenLabs/2025-03-31-text-to-speech|Text to speech]]'
+- '[[Changes/Midjourney/2025-03-31-please-note|Please Note]]'
 source_release: '[[Releases/Cline/cline-2025-04-01-v3-8-5-github-209483266-bf57367b|cline-2025-04-01-v3-8-5-github-209483266-bf57367b]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +84,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.8.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-31 · ElevenLabs · [[Changes/ElevenLabs/2025-03-31-text-to-speech|Text to speech]]
+- Earlier: 2025-03-31 · Midjourney · [[Changes/Midjourney/2025-03-31-please-note|Please Note]]
 - Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-3-model-support-changes-in-v0-6-0|3 Model Support changes in v0.6.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f827c38a03b919a5369abff1394fdb7c55acdedff23ee5d9000cb21e599b2122
+machine_hash: cdf83f7b3f3180afc2296994a8d6584ea951a979b05b8a4f8b3d9dced0677b5f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,12 @@ record:
   title: "\U0001F3DE️ **Better Handling & Storage of Interpreter-Generated Images**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-05-06-openai-image-generation-issues-resolved-resolved-broken-image-output-when-using|\U0001F58C️
-  OpenAI Image Generation Issues Resolved]]"
 - '[[Changes/Gemini/2025-05-20-image-generation-just-got-an-upgrade|Image generation
   just got an upgrade]]'
 - "[[Changes/Open WebUI/2025-05-26-image-generation-with-allowed-file-extensions-now-works-reliably-ensure-seamless|\U0001F5BC️
   Image Generation with Allowed File Extensions Now Works Reliably]]"
+- '[[Changes/Midjourney/2025-05-29-midjourney-v7-image-generation-is-now-40-faster|Midjourney
+  V7 image generation is now ~40% faster!]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5|open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5]]'
 source_type: github_releases
 theme: image-generation
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-image-generation-with-allowed-file-extensions-now-works-reliably-ensure-seamless|🖼️ Image Generation with Allowed File Extensions Now Works Reliably]]
-- Later: 2025-08-08 · ChatGPT · [[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image generation update to ChatGPT Free]]
+- Earlier: 2025-05-29 · Midjourney · [[Changes/Midjourney/2025-05-29-midjourney-v7-image-generation-is-now-40-faster|Midjourney V7 image generation is now ~40% faster!]]
+- Later: 2025-07-31 · Gamma · [[Changes/Gamma/2025-07-31-this-week-s-updates-are-all-about-giving-you-more-control-more-capabilities-and|This week’s updates are all about giving you more control, more capabilities…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

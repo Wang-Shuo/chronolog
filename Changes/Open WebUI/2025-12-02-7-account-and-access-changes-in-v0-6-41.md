@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04c85c2dda6a904e2415168021e2df3f733847dc8235bc956394695f5a58c379
+machine_hash: e853569e8153decb985938120abfeb5f3a7df0d8edfb708a352172125ee1a040
 product: open-webui
 product_name: Open WebUI
 record:
@@ -74,8 +74,8 @@ record:
   title: 7 Account and Access changes in v0.6.41
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-26-feat-implement-rfc-compliant-oauth-discovery-with-dynamic-scope-selection-for-mc|feat:
-  implement RFC-compliant OAuth discovery with dynamic scope selection for MCP…]]'
+- '[[Changes/Google Antigravity/2025-11-26-added-better-error-states-for-onboarding-users-during-authentication-flow|Added
+  better error states for onboarding users during authentication flow]]'
 - '[[Changes/Lovable/2025-11-26-temporary-education-logins|Temporary education logins]]'
 - '[[Changes/Codex CLI/2025-12-02-feat-support-login-as-an-option-on-shell-tool-mcp-by-bolinfest-in-7120|feat:
   support login as an option on shell-tool-mcp by @bolinfest in ♯7120]]'

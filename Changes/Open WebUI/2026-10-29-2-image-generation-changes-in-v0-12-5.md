@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f1b98c2c64ac3cb4811b716e53b21180652587dd1ddd799c2d741e1d18edc21f
+machine_hash: 8c0fc1856f9ffb2d2843eea5eb08378bfeb1d9738046e6e1ca3b47f716dc8478
 product: open-webui
 product_name: Open WebUI
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 ## Nearby in Image Generation
 
 - Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-3-image-generation-changes-in-rust-v0-166-0|3 Image Generation changes in rust-v0.166.0]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-2-image-generation-changes-in-v1-0-106|2 Image Generation changes in v1.0.106]]
+- Later: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-generate-images|Generate Images]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

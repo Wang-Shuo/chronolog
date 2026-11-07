@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f08417984a04639d5589dba653366b7d6ae66339c28b0f7e123ffaf3e8787703
+machine_hash: a00bcb7411710728cc92fd97e5aa9980ac508de350ace35e831d561a00318fe2
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'chore: consume SDK 1.49.5 and Automation 1.15.0'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-chore-consume-sdk-1-49-4-and-automation-1-14-0-by-hieptl-in-https-github-com-ope|chore:
-  consume SDK 1.49.4 and Automation 1.14.0]]'
 - '[[Changes/OpenHands/2026-09-22-2-automation-and-scheduling-changes-in-v1-21-0|2
   Automation and Scheduling changes in v1.21.0]]'
 - '[[Changes/Claude Code/2026-09-23-claude-tag-changed-the-routine-list-claude-gives-when-asked-in-a-slack-thread-to|Claude
   Tag Changed the routine list Claude gives when asked in a Slack thread…]]'
+- '[[Changes/OpenClaw/2026-09-23-9-automation-and-scheduling-changes-in-v2026-9-6|9
+  Automation and Scheduling changes in v2026.9.6]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-23-v1-23-0-github-394895769-626c8feb|openhands-2026-09-23-v1-23-0-github-394895769-626c8feb]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-claude-tag-changed-the-routine-list-claude-gives-when-asked-in-a-slack-thread-to|Claude Tag Changed the routine list Claude gives when asked in a Slack thread…]]
+- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-9-automation-and-scheduling-changes-in-v2026-9-6|9 Automation and Scheduling changes in v2026.9.6]]
 - Later: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3 Automation and Scheduling changes in v1.24.0]]
 <!-- chronolog:end -->
 

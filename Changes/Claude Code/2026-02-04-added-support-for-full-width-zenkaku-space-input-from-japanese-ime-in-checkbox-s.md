@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5d9714d90a64a551d91c5d004deb9bd2ece43796913ea56cb33362b93608420c
+machine_hash: f5dcb72bf452e3b3933f759231bafadb8f7f60b207ab37a7840c026712a40f68
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     selection
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-13-2-accessibility-and-localization-changes-in-1-11-3|2
-  Accessibility and Localization changes in 1.11.3]]'
-- '[[Changes/Claude Code/2026-01-28-added-support-for-full-width-zenkaku-number-input-from-japanese-ime-in-option-se|Added
-  support for full-width (zenkaku) number input from Japanese IME in option…]]'
+- '[[Changes/OpenCode/2026-01-28-2-accessibility-and-localization-changes-in-v1-1-37|2
+  Accessibility and Localization changes in v1.1.37]]'
 - '[[Changes/Dify/2026-02-03-chore-improve-accessibility-for-learn-more-link-by-khmandarrin-in-https-github-c|chore:
   improve accessibility for learn more link]]'
+- '[[Changes/OpenCode/2026-02-03-desktop-use-static-language-names-in-thai-localization|Desktop
+  Use static language names in Thai localization]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-chore-improve-accessibility-for-learn-more-link-by-khmandarrin-in-https-github-c|chore: improve accessibility for learn more link]]
-- Later: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-added-dutch-nl-nl-language-support-across-backend-language-mapping-and-web-local|Added Dutch (nl-NL) language support across backend language mapping and web…]]
+- Earlier: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-desktop-use-static-language-names-in-thai-localization|Desktop Use static language names in Thai localization]]
+- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-desktop-always-show-project-menu-button-on-mobile-for-accessibility|Desktop Always show project menu button on mobile for accessibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

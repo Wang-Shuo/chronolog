@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47afdff8d4e35eb751f984f36352512ed51cc6d2ad8f4447dc1fae78f745f9ef
+machine_hash: baa86800c55df22fd9dbbbfdb35e51dcbaf4088e9564e276034f7bbb2fdc5d8d
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: Improved lists in `/help`, `/hooks`, `/copy`, `/chrome`, `/memory`, `/ide`…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-6-memory-and-personalization-changes-in-v0-11-4|6
-  Memory and Personalization changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-6-memory-and-personalization-changes-in-rust-v0-156-0|6
   Memory and Personalization changes in rust-v0.156.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-22-resuming-large-local-sessions-keeps-transcript-memory-bounded-for-smoother-cli-p|Resuming
   large local sessions keeps transcript memory bounded for smoother CLI performance]]'
+- '[[Changes/OpenClaw/2026-09-23-23-memory-and-personalization-changes-in-v2026-9-6|23
+  Memory and Personalization changes in v2026.9.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
 theme: memory
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-resuming-large-local-sessions-keeps-transcript-memory-bounded-for-smoother-cli-p|Resuming large local sessions keeps transcript memory bounded for smoother CLI performance]]
+- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-23-memory-and-personalization-changes-in-v2026-9-6|23 Memory and Personalization changes in v2026.9.6]]
 - Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-improved-auto-memory-loading-invisible-characters-and-tags-that-imitate-claude-c|Improved auto-memory loading]]
 <!-- chronolog:end -->
 

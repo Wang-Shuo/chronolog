@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 3c8dd33226c99eaf7323df51d1ecd3c4db47fa1679c99cc248b1c35d43cf8ffb
+machine_hash: 0404ec4abacc759751f19c1bfc47bd2e357b3bba639b3a5794e8bb64ce8076e1
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -97,8 +97,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-31-5-apps-and-integrations-changes-in-v1-0-14|5
-  Apps and Integrations changes in v1.0.14]]'
+- '[[Changes/OpenCode/2026-03-31-4-apps-and-integrations-changes-in-v1-3-12-2|4 Apps
+  and Integrations changes in v1.3.12 + 2]]'
 - '[[Changes/Claude Code/2026-04-01-3-apps-and-integrations-changes-in-v2-1-89|3 Apps
   and Integrations changes in v2.1.89]]'
 - '[[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps

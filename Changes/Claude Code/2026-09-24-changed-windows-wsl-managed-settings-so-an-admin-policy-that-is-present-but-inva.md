@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 368e6003797b430f4d2a0038e18b843139f283da8f57df6a9c43b9edf09c0347
+machine_hash: 8ecb92d3db0b2fbf7f5dac4ac56550316c0d7c00b1e088d95d909fba74faf1b7
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
     invalid…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-7-developer-workflow-changes-in-v2-1-281|7 Developer
-  Workflow changes in v2.1.281]]'
 - '[[Changes/Cursor/2026-09-23-rollouts|Rollouts]]'
 - '[[Changes/Cursor/2026-09-23-when-a-pull-request-opens-rollouts-reads-the-diff-and-the-systems-it-touches-the|Monitoring
   plans]]'
+- '[[Changes/OpenClaw/2026-09-23-31-developer-workflow-changes-in-v2026-9-6|31 Developer
+  Workflow changes in v2026.9.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-when-a-pull-request-opens-rollouts-reads-the-diff-and-the-systems-it-touches-the|Monitoring plans]]
+- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-31-developer-workflow-changes-in-v2026-9-6|31 Developer Workflow changes in v2026.9.6]]
 - Later: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-a-command-that-prints-nothing-no-longer-shows-a-raw-json-blob-like-query-git-add|A command that prints nothing no longer shows a raw JSON blob like…]]
 <!-- chronolog:end -->
 

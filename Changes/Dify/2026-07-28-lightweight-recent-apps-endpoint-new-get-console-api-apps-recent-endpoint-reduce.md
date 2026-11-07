@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0e17fc49a70dd1427f73fc7febdfa20b92e612aa3402598eb2a7533dad4aea35
+machine_hash: 45cfc3abe6693f119f9dc1165105a70ac884875d335cda21363a37a9a32a73d9
 product: dify
 product_name: Dify
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-12-reliability-and-performance-changes-in-v0-11-0|12 Reliability and Performance changes in v0.11.0]]
-- Later: 2026-07-29 · Windsurf · [[Changes/Windsurf/2026-07-29-devin-cloud|Devin Cloud]]
+- Later: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-3-reliability-and-performance-changes-in-hub-v2-4-3-preview-tabs-mcp|3 Reliability and Performance changes in HUB v2.4.3 — Preview tabs, MCP…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

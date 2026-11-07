@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab06d528a609c5caec78296118e71740e119d6e9ef2fc32b59ec491e9570d06c
+machine_hash: 091d5c4953ef4fd037c561102f3b99beb6db280965d2f6517c4cabb243b7f502
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,9 @@ record:
   title: '`--enable-all-github-mcp-tools` flag now enables read-write GitHub MCP tools'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-19-modified-schemas|Modified Schemas]]'
 - '[[Changes/ElevenLabs/2026-01-19-sdk-releases|SDK Releases]]'
+- '[[Changes/OpenCode/2026-01-19-extensions-add-use-github-token-to-example|Extensions
+  Add use_github_token to example]]'
 - '[[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps
   and Integrations changes in v2.1.14]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-20-v0-0-388-github-278408057-d1caf6ed|github-copilot-cli-2026-01-20-v0-0-388-github-278408057-d1caf6ed]]'
@@ -77,7 +78,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps and Integrations changes in v2.1.14]]
-- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-3-apps-and-integrations-changes-in-rust-v0-88-0|3 Apps and Integrations changes in rust-v0.88.0]]
+- Later: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-core-ensure-truncation-handling-applies-to-mcp-servers|Core Ensure truncation handling applies to MCP servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

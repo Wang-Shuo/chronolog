@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 83d1704db38de21b35906bb8bee55ad6cf25cff910c3d11ad475b697a90c84b2
+machine_hash: f6fe99df3f8f130f7da51ec4dde0ed88717f4812fec32a2084472137b295d918
 product: ollama
 product_name: Ollama
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-6-model-support-changes-in-v0-25-0|6 Model Support changes in v0.25.0]]
-- Later: 2026-01-22 · ChatGPT · [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2 Personality System Prompt Update]]
+- Later: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-3-model-support-changes-in-v1-1-29|3 Model Support changes in v1.1.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd79b757400b3c2fb0eccf19edf1621329ee3a9ac3017890721541dc5297aa32
+machine_hash: c265151f277e30a64314891e844f87338cfd818d91d15b8ce568b29bdd3e3a80
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Model Support changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved
-  the Bash/PowerShell tool message when a command hits its timeout…]]'
 - '[[Changes/Lovable/2026-07-15-gpt-5-6-and-gemini-text-to-speech-models-for-your-app-s-ai-features|GPT-5.6
   and Gemini text-to-speech models for your app''s AI features]]'
+- '[[Changes/OpenCode/2026-07-15-core-improved-default-reasoning-depth-for-meta-models|Core
+  Improved default reasoning depth for Meta models]]'
 - '[[Changes/Cline/2026-07-16-add-gpt-5-6-chatgpt-subscription-models|Add GPT-5.6
   ChatGPT subscription models]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'

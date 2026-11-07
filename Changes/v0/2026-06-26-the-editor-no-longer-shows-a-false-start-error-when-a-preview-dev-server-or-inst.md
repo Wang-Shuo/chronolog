@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b04d0fc0370c85d2aaf0bba040da4f2b57d78f4f42b4c5c04330da054d0f85c
+machine_hash: 60c0d00ccf76633f45610ee528a0e4b1a96b7539640762d449cd8c624626e764
 product: v0
 product_name: v0
 record:
@@ -44,10 +44,10 @@ record:
   title: The editor no longer shows a false start error when a preview, dev server…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added
-  live file path autocomplete to bash mode (!)]]'
-- '[[Changes/Dify/2026-06-25-3-editor-experience-changes-in-1-15-0|3 Editor Experience
-  changes in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-2-editor-experience-changes-in-hub-v2-2-1-antigravity-guide-audio|2
+  Editor Experience changes in HUB v2.2.1 — Antigravity Guide, audio…]]'
+- '[[Changes/OpenCode/2026-06-25-2-editor-experience-changes-in-v1-17-11|2 Editor
+  Experience changes in v1.17.11]]'
 - '[[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add
   edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]'
 source_release: '[[Releases/v0/v0-2026-06-26-2026-06-26-0ee85750|v0-2026-06-26-2026-06-26-0ee85750]]'

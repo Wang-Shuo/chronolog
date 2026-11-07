@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ba1eb5803c2d045d4c65e98430cafb085421fe15018df7db6dbfebb47365991
+machine_hash: fbd79deedb6b0dfc8bc238e65cf4502e6768617c4d920b624dea16995fe9911b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,11 +44,11 @@ record:
   title: "**\U0001F511 Connection Settings Stability**"
   type: change
 related_changes:
-- '[[Changes/Dify/2025-02-07-2-reliability-and-performance-changes-in-0-15-3|2 Reliability
-  and Performance changes in 0.15.3]]'
 - '[[Changes/Lovable/2025-02-07-from-python-to-go-https-lovable-dev-blog-from-python-to-go-for-stability-respons|From
   Python to Go((source link) for stability…]]'
 - '[[Changes/Replit/2025-02-07-improved-database-viewer|Improved database viewer]]'
+- '[[Changes/Gamma/2025-02-11-finding-the-perfect-layout-just-got-easier-you-can-now-search-within-the-insert|Search
+  in the Insert Menu!]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-13-v0-5-11-github-200072492-646a9b00|open-webui-2025-02-13-v0-5-11-github-200072492-646a9b00]]'
 source_type: github_releases
 theme: reliability-performance
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-02-07 · Replit · [[Changes/Replit/2025-02-07-improved-database-viewer|Improved database viewer]]
+- Earlier: 2025-02-11 · Gamma · [[Changes/Gamma/2025-02-11-finding-the-perfect-layout-just-got-easier-you-can-now-search-within-the-insert|Search in the Insert Menu!]]
 - Later: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-optimize-memory-usage-in-fileeditobservation-by-neubig-in-https-github-com-all-h|Optimize memory usage in FileEditObservation]]
 <!-- chronolog:end -->
 

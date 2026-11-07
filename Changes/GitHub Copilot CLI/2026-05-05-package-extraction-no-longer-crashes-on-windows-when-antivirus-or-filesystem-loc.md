@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a66855f955c9bd245d2842a8c822013972983ec17a803e239ec06f0f9fd22f68
+machine_hash: bd03f308ec2ed0724dcd7e8a23efa0a937796926486e9ca07b025faf3c8834fd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,11 +46,11 @@ record:
     locks…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-3-mobile-and-desktop-changes-in-rust-v0-128-0|3
-  Mobile and Desktop changes in rust-v0.128.0]]'
 - '[[Changes/Ollama/2026-05-03-3-mobile-and-desktop-changes-in-v0-23-0|3 Mobile and
   Desktop changes in v0.23.0]]'
 - '[[Changes/ElevenLabs/2026-05-04-android-sdk|Android SDK]]'
+- '[[Changes/OpenCode/2026-05-04-2-mobile-and-desktop-changes-in-v1-14-34|2 Mobile
+  and Desktop changes in v1.14.34]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863|github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-04 · ElevenLabs · [[Changes/ElevenLabs/2026-05-04-android-sdk|Android SDK]]
-- Later: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-cli-updates-on-windows-no-longer-fail-with-enoent-when-a-transient-eperm-occurs|CLI updates on Windows no longer fail with ENOENT when a transient EPERM occurs…]]
+- Earlier: 2026-05-04 · OpenCode · [[Changes/OpenCode/2026-05-04-2-mobile-and-desktop-changes-in-v1-14-34|2 Mobile and Desktop changes in v1.14.34]]
+- Later: 2026-05-05 · OpenCode · [[Changes/OpenCode/2026-05-05-5-mobile-and-desktop-changes-in-v1-14-39-3|5 Mobile and Desktop changes in v1.14.39 + 3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

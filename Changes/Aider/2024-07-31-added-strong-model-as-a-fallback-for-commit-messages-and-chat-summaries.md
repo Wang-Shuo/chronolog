@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a2e3092b47e5605e16afb05b403a1fc99a1affc57325bd642f032f099ae8931c
+machine_hash: 6ead91adbd1c50298dc16d2ff83eaae830051f8cb31cfa6fb31b2cf7fb6a130b
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,8 @@ record:
   title: Added strong model as a fallback for commit messages (and chat summaries)
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-25-4-model-support-changes-in-v0-3-0|4 Model Support changes
-  in v0.3.0]]'
-- '[[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall
-  back to main model if weak model is unable to generate a commit message]]'
+- '[[Changes/Midjourney/2024-07-30-future-plans|Future plans]]'
+- '[[Changes/Midjourney/2024-07-30-other-important-notes|Other important notes]]'
 - '[[Changes/Ollama/2024-07-30-3-model-support-changes-in-v0-3-1|3 Model Support changes
   in v0.3.1]]'
 source_release: '[[Releases/Aider/aider-2024-07-31-v0-47-0-github-168059187-28da6242|aider-2024-07-31-v0-47-0-github-168059187-28da6242]]'

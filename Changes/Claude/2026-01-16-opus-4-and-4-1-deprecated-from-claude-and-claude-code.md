@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 57aa94d53b1a799ba64bbe8913b438907f0356dee59fe80609c4b5dfe9ce1ab3
+machine_hash: 61e50a172c4ba542f444784c55deb4730cc1d8b5e41e433287a4a17779181be7
 product: claude
 product_name: Claude
 record:
@@ -49,10 +49,10 @@ record:
   title: Opus 4 and 4.1 deprecated from Claude and Claude Code
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-15-adding-openai-gpt-5-2-codex-model-to-the-model-picker|Adding
-  OpenAI gpt-5.2-codex model to the model picker]]'
-- '[[Changes/Codex CLI/2026-01-15-2-model-support-changes-in-rust-v0-85-0|2 Model
-  Support changes in rust-v0.85.0]]'
+- '[[Changes/OpenCode/2026-01-15-core-load-models-dev-in-development-mode|Core Load
+  models.dev in development mode]]'
+- '[[Changes/OpenCode/2026-01-15-core-add-check-in-case-provider-doesn-t-exist-in-models-list|Core
+  Add check in case provider doesn''t exist in models list]]'
 - '[[Changes/v0/2026-01-15-improved-model-selection-to-persist-per-user-per-team|Improved
   model selection to persist per user per team]]'
 source_release: '[[Releases/Claude/claude-2026-01-16-2026-01-16-d287c407|claude-2026-01-16-2026-01-16-d287c407]]'

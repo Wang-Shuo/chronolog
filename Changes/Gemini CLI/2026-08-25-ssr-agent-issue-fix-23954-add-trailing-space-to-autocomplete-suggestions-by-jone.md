@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b99a9d2d89b8e7312ab3f1335af4797693267a98fee0202f0cd892445702eb54
+machine_hash: 9ef5568c3cddc4ffc4528a9a73ff89e8d84141207b46db7e50573f904d0cb2a1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,9 +54,9 @@ record:
   title: '[SSR Agent] Issue Fix (23954): Add trailing space to autocomplete suggestions'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-21-2-interface-experience-changes-in-v1-15-0|2 Interface
-  Experience changes in v1.15.0]]'
 - '[[Changes/Windsurf/2026-08-21-devin-cloud|Devin Cloud]]'
+- '[[Changes/Google Antigravity/2026-08-24-4-interface-experience-changes-in-hub-v2-10-0-embedded-terminals-git|4
+  Interface Experience changes in HUB v2.10.0 — Embedded Terminals, Git…]]'
 - '[[Changes/Dify/2026-08-25-9-interface-experience-changes-in-1-17-0|9 Interface
   Experience changes in 1.17.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa|gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa]]'

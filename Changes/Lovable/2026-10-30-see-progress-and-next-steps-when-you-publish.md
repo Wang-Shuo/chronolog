@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e6d4c33a86d230e4ec03471d7e5defb09c0bf1d0333dc3dc0623a1ca9a053084
+machine_hash: f76f9956ff883bd983d81662c993a63c3f17f4ae3e3a589316737d2346628558
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +48,12 @@ record:
   title: See progress and next steps when you publish
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-feat-conversation-label-the-share-toggle-share-with-org-users-in-team-orgs-ohe-3|feat(conversation):
-  label the share toggle "Share with Org users" in team orgs (OHE-3765)]]'
 - '[[Changes/Codex CLI/2026-10-29-57226-allow-nfs-database-migration-with-shared-file-permissions-dkovalenko-oai|♯57226
   Allow NFS database migration with shared file permissions @dkovalenko-oai]]'
 - "[[Changes/Open WebUI/2026-10-29-knowledge-base-api-responses-trimmed-adding-updating-or-removing-knowledge-base|\U0001F4C3
   Knowledge base API responses trimmed. Adding, updating or removing knowledge…]]"
+- '[[Changes/OpenClaw/2026-10-29-2-collaboration-changes-in-v2026-10-9|2 Collaboration
+  changes in v2026.10.9]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-30-2026-10-30-8c94fa6c|lovable-2026-10-30-2026-10-30-8c94fa6c]]'
 source_type: lovable_changelog
 theme: collaboration
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-knowledge-base-api-responses-trimmed-adding-updating-or-removing-knowledge-base|📃 Knowledge base API responses trimmed. Adding, updating or removing knowledge…]]
+- Earlier: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-2-collaboration-changes-in-v2026-10-9|2 Collaboration changes in v2026.10.9]]
 - Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-new-chats-stay-in-sync-a-chat-started-from-the-home-page-keeps-syncing-with-the|🔃 New chats stay in sync. A chat started from the home page keeps syncing…]]
 <!-- chronolog:end -->
 

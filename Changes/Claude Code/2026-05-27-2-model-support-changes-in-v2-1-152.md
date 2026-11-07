@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3e0bde1de3c29ed83ca99c328d21c9bc70484c6a024191a6d1774c19b530984
+machine_hash: ec55283e790dd36cfc350f2990c8f804e349faae5d8006c1920e3d2582944971
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Model Support changes in v2.1.152
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-2-model-support-changes-in-v0-43-0|2 Model Support
-  changes in v0.43.0]]'
+- '[[Changes/OpenCode/2026-05-22-2-model-support-changes-in-v1-15-9|2 Model Support
+  changes in v1.15.9]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-general-purpose-subagents-use-gpt-5-4-or-gpt-5-5-when-available|General-purpose
   subagents use GPT-5.4 or GPT-5.5 when available]]'
 - '[[Changes/Cline/2026-05-25-4-model-support-changes-in-v3-85-0|4 Model Support changes

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd90b5aeee51a263e420e824293a0e5b7c3c0a6d0ba2cf14c9e4e7a1f7fa8c27
+machine_hash: 4c64f5329ab6e76fd4dafda9e671217b4c437ae151de4d6d8095443a0526c1a8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
   title: Site owners can also create recurring cloud schedules from Automations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-claude-tag-changed-the-routine-list-claude-gives-when-asked-in-a-slack-thread-to|Claude
-  Tag Changed the routine list Claude gives when asked in a Slack thread…]]'
 - '[[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore:
   consume SDK 1.49.5 and Automation 1.15.0]]'
 - '[[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3
   Automation and Scheduling changes in v1.24.0]]'
+- '[[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi|Introducing
+  Manus 2.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6|chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3 Automation and Scheduling changes in v1.24.0]]
-- Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-changed-background-sessions-whose-scheduled-task-is-gone-they-now-move-to-comple|Changed background sessions whose scheduled task is gone]]
+- Earlier: 2026-09-28 · Manus · [[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi|Introducing Manus 2.0]]
+- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-11-automation-and-scheduling-changes-in-v2026-9-7|11 Automation and Scheduling changes in v2026.9.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e2705bddb5e4172a8bc0a286c1097bc4bb4c35020df79e14354e00471be6bff
+machine_hash: 2becedf29ae81179147b64d1ae81e84fbc033289cc5186c482cf92e08944f736
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,12 @@ record:
   title: Improvement to charts, table of contents and full screen writing
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared
-  canvases can now be opened full-screen in the browser, making them easier…]]'
-- '[[Changes/Lovable/2026-06-04-transfer-a-domain-out-to-another-registrar|Transfer
-  a domain out to another registrar]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-05-6-interface-experience-changes-in-v1-0-60|6
-  Interface Experience changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-terminal-mo-now-prefers-the-models-command-in-slash-autocomplete|Terminal
+  /mo now prefers the models command in slash autocomplete]]'
+- '[[Changes/OpenCode/2026-06-05-2-interface-experience-changes-in-v1-16-0|2 Interface
+  Experience changes in v1.16.0]]'
+- '[[Changes/OpenCode/2026-06-05-diff-viewer-now-supports-next-and-previous-hunk-navigation|Diff
+  viewer now supports next and previous hunk navigation]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-6-interface-experience-changes-in-v1-0-60|6 Interface Experience changes in v1.0.60]]
+- Earlier: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-diff-viewer-now-supports-next-and-previous-hunk-navigation|Diff viewer now supports next and previous hunk navigation]]
 - Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface Experience changes in v2.1.169]]
 <!-- chronolog:end -->
 

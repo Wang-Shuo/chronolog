@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 64ca5aa6ce49d4749a9e56e45d4a63fbfbc8b6a0a0bddf3668a662c228b75559
+machine_hash: 7a59b78db2bcf9a23be86a419fad6f04d7517532e4e255d25fd12391f8116823
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Model Support changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-13-3-model-support-changes-in-v4-1-24|3 Model Support changes
-  in v4.1.24]]'
 - '[[Changes/Gemini/2026-10-13-introducing-gemini-4-argon-our-frontier-model-for-complex-tasks|Introducing
   Gemini 4 Argon: our frontier model for complex tasks]]'
 - '[[Changes/Lovable/2026-10-13-gemini-4-argon-for-your-app-s-ai-features|Gemini 4
   Argon for your app''s AI features]]'
+- '[[Changes/OpenClaw/2026-10-13-3-model-support-changes-in-v2026-10-3|3 Model Support
+  changes in v2026.10.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: model-support
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-gemini-4-argon-for-your-app-s-ai-features|Gemini 4 Argon for your app's AI features]]
+- Earlier: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-3-model-support-changes-in-v2026-10-3|3 Model Support changes in v2026.10.3]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-the-note-claude-3-models-get-about-an-mentioned-pdf-so-they-less-often|Improved the note Claude 3 models get about an @-mentioned PDF, so they less often…]]
 <!-- chronolog:end -->
 

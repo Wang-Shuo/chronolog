@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 298c1d7ffb0873cea0c30ca01ed5f68f6d40bbdc04030e554549357f0bc82bbb
+machine_hash: 7b02f2af848836c614dd248f1f26b095300152960ae1047269c6b07e56bc0b34
 product: replit
 product_name: Replit
 record:
@@ -65,12 +65,12 @@ record:
   title: Run black-box pen tests
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety
-  and Privacy changes in v2.1.238]]'
 - '[[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18
   Safety and Privacy changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed
   fullscreen mode answering a permission prompt or pressing a button when you…]]'
+- '[[Changes/OpenCode/2026-08-21-core-answer-permission-requests-triggered-by-subagents-during-opencode-run|Core
+  Answer permission requests triggered by subagents during opencode run]]'
 source_release: '[[Releases/Replit/replit-2026-08-21-2026-08-21-07917b7e|replit-2026-08-21-2026-08-21-07917b7e]]'
 source_type: replit_changelog
 theme: safety-privacy
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed fullscreen mode answering a permission prompt or pressing a button when you…]]
+- Earlier: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-core-answer-permission-requests-triggered-by-subagents-during-opencode-run|Core Answer permission requests triggered by subagents during opencode run]]
 - Later: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-packages|Packages]]
 <!-- chronolog:end -->
 

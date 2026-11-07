@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9b6b4549301311c44d853194dd6a71c048af62d0d07972eb3d01e4b6b6a4f3b3
+machine_hash: 30bdda14b2479d89277e8eb01c6b725c3d6dc1970e040580291885c6f423fe60
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-collaboration-changes-in-v0-3-0|2 Collaboration changes in v0.3.0]]
-- Later: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-channel-message-input-now-supports-direct-paste-functionality-for-images-and-fil|📎 Channel message input now supports direct paste functionality for images and files…]]
+- Later: 2025-09-12 · Manus · [[Changes/Manus/2025-09-12-collaborate-with-your-team-in-real-time-stay-on-the-latest-version-and-keep-work|Introducing Manus collaboration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

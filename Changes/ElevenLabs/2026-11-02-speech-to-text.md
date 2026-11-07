@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 32b20a1efca8b19634144fc59c31304fc731b4bb34df088d3ab261adde27e4c2
+machine_hash: 35805d7ad76f3430aa45a10ae92352dd47873b1eeb3bc00c89022d745e21ac1d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,10 +50,8 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-28-liquid-ai-s-lfm3-https-ollama-com-library-lfm3-models-including-text-to-speech-i|Liquid
-  AI''s LFM3((source link) models, including text-to-speech…]]'
-- "[[Changes/Open WebUI/2026-10-29-read-aloud-with-kokoro-js-read-aloud-now-speaks-with-the-chosen-kokoro-voice-whe|\U0001F50A
-  Read Aloud with Kokoro.js. Read Aloud now speaks with the chosen Kokoro voice…]]"
+- '[[Changes/Suno/2026-10-29-fine-pitch-adjustment|Fine Pitch Adjustment]]'
+- '[[Changes/Suno/2026-10-29-auto-stretch-for-added-audio|Auto-stretch for Added Audio]]'
 - '[[Changes/ElevenLabs/2026-11-02-python-sdk|Python SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'
 source_type: elevenlabs_changelog
@@ -115,8 +113,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-read-aloud-with-kokoro-js-read-aloud-now-speaks-with-the-chosen-kokoro-voice-whe|🔊 Read Aloud with Kokoro.js. Read Aloud now speaks with the chosen Kokoro voice…]]
-- Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-4-voice-and-audio-changes-in-v0-13-0|4 Voice and Audio changes in v0.13.0]]
+- Earlier: 2026-10-29 · Suno · [[Changes/Suno/2026-10-29-auto-stretch-for-added-audio|Auto-stretch for Added Audio]]
+- Later: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-voice-mode-remote-agents-redesigned-automations-and-jupyter-notebook-viewer|Voice mode, remote agents, redesigned Automations, and Jupyter notebook viewer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

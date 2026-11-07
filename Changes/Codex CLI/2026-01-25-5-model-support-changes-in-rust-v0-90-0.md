@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 940267d6e0568c87e8d5dfd9d671c80b888170666b00d9b12f6e15b26bff8770
+machine_hash: 5d2bd9e06ddbc04bb753475ee88d5e45febc9783a6c05427bbadc11d7cf82943
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 5 Model Support changes in rust-v0.90.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-22-add-models-as-alias-for-model-command|Add
-  /models as alias for /model command]]'
 - '[[Changes/Cline/2026-01-23-removed-grok-model-from-free-tier|Removed grok model
   from free tier]]'
+- '[[Changes/OpenCode/2026-01-23-core-added-support-for-openai-based-gitlab-duo-models|Core
+  Added support for OpenAI-based GitLab Duo models]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-24-directory-path-uses-consistent-muted-text-color-with-git-branch-and-model-displa|Directory
   path uses consistent muted text color with git branch and model display]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c|codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c]]'
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.90.0
 ## Nearby in Model Support
 
 - Earlier: 2026-01-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-24-directory-path-uses-consistent-muted-text-color-with-git-branch-and-model-displa|Directory path uses consistent muted text color with git branch and model display]]
-- Later: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-elevencreative-studio|ElevenCreative Studio]]
+- Later: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-enable-thinking-for-google-vertex-anthropic-models|Enable thinking for Google Vertex Anthropic models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

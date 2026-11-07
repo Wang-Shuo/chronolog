@@ -88,7 +88,7 @@ def test_content_meta_hides_reading_time_and_title_has_a_tagline():
     title = Path("_scripts/site_title.tsx").read_text(encoding="utf-8")
     assert '<p class="site-tagline">' in title and 'class="page-title"' in title
     assert "SITE_TAGLINE" in title
-    assert "Tracked changes in AI assistants and coding tools" in Path("_scripts/products.ts").read_text()
+    assert "Tracked changes in AI products" in Path("_scripts/products.ts").read_text()
     for rule in (".global-graph-icon", "--product-chatgpt", "--product-claude-code",
                  "--product-cursor", ".site-tagline"):
         assert rule in title

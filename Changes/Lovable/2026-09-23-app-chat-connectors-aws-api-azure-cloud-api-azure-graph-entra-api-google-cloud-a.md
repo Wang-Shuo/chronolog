@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e5a1cd57abc143b68d8e43036e3567090a5d4146af7c4c2ae4b0df38c281ceed
+machine_hash: 0454879caefb9e95c8b5ff2cc1f75a548edc75edff7033d5d3dccec37aabbb12
 product: lovable
 product_name: Lovable
 record:
@@ -73,8 +73,8 @@ record:
   title: App + chat connectors
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-feat-test-remote-mcp-servers-on-cloud-backends-via-the-app-server-by-hieptl-in-h|feat:
-  test remote MCP servers on cloud backends via the app server]]'
+- '[[Changes/Runway/2026-09-22-agents-in-runway-mcp-can-now-find-your-brand-kits-and-use-those-assets-as-refere|Brand
+  Kits in Runway MCP]]'
 - '[[Changes/Claude Code/2026-09-23-17-apps-and-integrations-changes-in-v2-1-281|17
   Apps and Integrations changes in v2.1.281]]'
 - '[[Changes/Cursor/2026-09-23-integrations|Integrations]]'
@@ -124,7 +124,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-integrations|Integrations]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8 Apps and Integrations changes in v2.1.282]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-58-apps-and-integrations-changes-in-v2026-9-6|58 Apps and Integrations changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

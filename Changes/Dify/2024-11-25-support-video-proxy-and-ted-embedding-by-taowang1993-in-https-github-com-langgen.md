@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 16a96d6327e8e2ca94a248ecd41931f7afa8709e421fcff273ded12b936c7a04
+machine_hash: 7c60576681153aabe0f558d4c874d8a009b2cad48fb1a7d425abce4cc4034879
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: Support Video Proxy and TED Embedding
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-11-chore-add-multimodal-send-video-format-to-docker-s-env-by-hjlarry-in-https-githu|chore:
-  add MULTIMODAL_SEND_VIDEO_FORMAT to docker''s env]]'
 - '[[Changes/Dify/2024-11-18-2-multimodal-input-changes-in-0-11-2|2 Multimodal Input
   changes in 0.11.2]]'
 - "[[Changes/Open WebUI/2024-11-19-youtube-video-attachments-fixed-issues-preventing-proper-loading-and-attachment|\U0001F3A5
   YouTube Video Attachments]]"
+- '[[Changes/Runway/2024-11-22-this-new-feature-allows-you-to-transform-videos-into-new-aspect-ratios-by-genera|Expand
+  Video in Gen-3 Alpha Turbo]]'
 source_release: '[[Releases/Dify/dify-2024-11-25-0-12-0-github-187239779-b9caba2f|dify-2024-11-25-0-12-0-github-187239779-b9caba2f]]'
 source_type: github_releases
 theme: multimodal
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-youtube-video-attachments-fixed-issues-preventing-proper-loading-and-attachment|🎥 YouTube Video Attachments]]
+- Earlier: 2024-11-22 · Runway · [[Changes/Runway/2024-11-22-this-new-feature-allows-you-to-transform-videos-into-new-aspect-ratios-by-genera|Expand Video in Gen-3 Alpha Turbo]]
 - Later: 2024-11-26 · Dify · [[Changes/Dify/2024-11-26-add-grok-vision-beta-to-xai-update-grok-beta-features-by-taowang1993-in-https-gi|Add grok-vision-beta to xAI + Update grok-beta Features]]
 <!-- chronolog:end -->
 

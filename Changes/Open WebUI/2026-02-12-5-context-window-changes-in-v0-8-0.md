@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aaad7a66f642e21f3f49cacb302e45ede7d06099fca7850f11f7410df191f882
+machine_hash: a23b44a3c1e690e85eaa718459661d92882a1238b29b71c9cb6812375bb73d2a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -71,10 +71,10 @@ record:
   title: 5 Context Window changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-6-context-window-changes-in-rust-v0-99-0|6 Context
-  Window changes in rust-v0.99.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-11-expose-session-context-in-session-list-sdk-response|Expose
-  session context in session.list SDK response]]'
+- '[[Changes/OpenCode/2026-02-11-add-additional-context-overflow-cases-and-remove-overcorrecting-ones|Add
+  additional context overflow cases and remove overcorrecting ones]]'
+- '[[Changes/OpenCode/2026-02-11-terminal-add-mode-specific-input-placeholders-to-improve-context-aware-prompts|Terminal
+  Add mode-specific input placeholders to improve context-aware prompts]]'
 - '[[Changes/Codex CLI/2026-02-12-3-context-window-changes-in-rust-v0-100-0|3 Context
   Window changes in rust-v0.100.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-12-v0-8-0-github-285910626-490914ba|open-webui-2026-02-12-v0-8-0-github-285910626-490914ba]]'
@@ -134,7 +134,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.0
 ## Nearby in Context Window
 
 - Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-3-context-window-changes-in-rust-v0-100-0|3 Context Window changes in rust-v0.100.0]]
-- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach up to 20 files in a single message]]
+- Later: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-desktop-more-defensive-session-context-metrics-handling-in-app|Desktop More defensive session context metrics handling in app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

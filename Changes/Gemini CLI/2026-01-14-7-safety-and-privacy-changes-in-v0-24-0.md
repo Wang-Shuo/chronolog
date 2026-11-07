@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3c761d6b6775901221e53b522032d5adedf3a1c653c1badc5bced504bb5d62da
+machine_hash: 43e7e89f43178de0347019aa2bb58e2726d26f6f9495cf81c2a84aee45de2018
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -57,8 +57,8 @@ record:
   title: 7 Safety and Privacy changes in v0.24.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-provide-inline-feedback-when-rejecting-tool-permission-requests-so-agents-don-t|Provide
-  inline feedback when rejecting tool permission requests so agents don''t have…]]'
+- '[[Changes/OpenCode/2026-01-13-2-safety-and-privacy-changes-in-v1-1-16|2 Safety
+  and Privacy changes in v1.1.16]]'
 - '[[Changes/Claude Code/2026-01-14-2-safety-and-privacy-changes-in-v2-1-7|2 Safety
   and Privacy changes in v2.1.7]]'
 - '[[Changes/Codex CLI/2026-01-14-5-safety-and-privacy-changes-in-rust-v0-81-0|5 Safety
@@ -112,7 +112,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.24.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-5-safety-and-privacy-changes-in-rust-v0-81-0|5 Safety and Privacy changes in rust-v0.81.0]]
-- Later: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-revert-linux-sandboxing-now-falls-back-to-landlock-only-restrictions-when-user-n|revert Linux sandboxing now falls back to Landlock-only restrictions when user…]]
+- Later: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-terminal-tweak-external-directory-permission-rendering-in-tui|Terminal Tweak external directory permission rendering in TUI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

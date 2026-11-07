@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fff9cb23214edfd9ba4709978fb3c746131d5cfd4719b72d6a1cb6dcea8a791b
+machine_hash: e0b66a0017efaf10a6dabcf32888c7e22064ce6d7acbf8e6abda638a3b5aad1c
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: Improved responsiveness when leaving the ctrl+o transcript view in long sessions…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-added-rate-limit-options-to-help-and-the-command-menu-for-claude-ai-subscribers|Added
-  /rate-limit-options to /help and the command menu for claude.ai…]]'
-- '[[Changes/Codex CLI/2026-09-28-6-interface-experience-changes-in-rust-v0-158-0|6
-  Interface Experience changes in rust-v0.158.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-28-4-interface-experience-changes-in-v1-0-89|4
-  Interface Experience changes in v1.0.89]]'
+- '[[Changes/Google Antigravity/2026-09-28-you-can-now-switch-the-sidebar-to-show-only-archived-conversations-from-the-disp|Switch
+  the sidebar to show only archived conversations from the Display Options menu…]]'
+- '[[Changes/Google Antigravity/2026-09-28-you-can-now-delete-any-project-directly-from-the-overflow-menu-in-its-sidebar-he|Delete
+  any project directly from the overflow menu in its sidebar header]]'
+- '[[Changes/Google Antigravity/2026-09-28-3-interface-experience-changes-in-hub-v2-18-1-manage-install-plugins|3
+  Interface Experience changes in HUB v2.18.1 — Manage & Install plugins…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
 theme: interface-experience
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-4-interface-experience-changes-in-v1-0-89|4 Interface Experience changes in v1.0.89]]
+- Earlier: 2026-09-28 · Google Antigravity · [[Changes/Google Antigravity/2026-09-28-3-interface-experience-changes-in-hub-v2-18-1-manage-install-plugins|3 Interface Experience changes in HUB v2.18.1 — Manage & Install plugins…]]
 - Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-4-interface-experience-changes-in-rust-v0-159-0|4 Interface Experience changes in rust-v0.159.0]]
 <!-- chronolog:end -->
 

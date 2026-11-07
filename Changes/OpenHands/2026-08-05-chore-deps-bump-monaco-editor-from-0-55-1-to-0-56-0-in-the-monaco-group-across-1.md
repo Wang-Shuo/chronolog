@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 809778c1d6d600475e750d79c1c4912ddd07f44a5ce54dc493639c7b5ab05165
+machine_hash: e5a1662f61d91c66e9cc928082b238e732b09c69d91269c5cc4643ec37095cdf
 product: openhands
 product_name: OpenHands
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-04 · Ollama · [[Changes/Ollama/2026-08-04-tui-fixes-pipe-delimited-prose-no-longer-renders-as-a-table-enter-accepts-the-hi|TUI fixes: pipe-delimited prose no longer renders as a table, Enter accepts…]]
-- Later: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-restore-the-view-changes-button-on-completion-rows-backed-by-sdk-checkpoints-so|Restore the "View Changes" button on completion rows, backed by SDK checkpoints…]]
+- Later: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-2-editor-experience-changes-in-hub-v2-6-0-faster-long-conversations|2 Editor Experience changes in HUB v2.6.0 — Faster long conversations…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

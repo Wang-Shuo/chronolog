@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba689e170be5c220b700ed427ab52e697e1a469c59025bf6f84c6fab78e16789
+machine_hash: 31fe02e1c4acc44cea52c002b5598cb27b0a2d053480294e138b7e79a8f53d93
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Apps and Integrations changes in v2.1.157
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-28-14-apps-and-integrations-changes-in-rust-v0-135-0|14
-  Apps and Integrations changes in rust-v0.135.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-10-apps-and-integrations-changes-in-v1-0-55|10
   Apps and Integrations changes in v1.0.55]]'
 - '[[Changes/Lovable/2026-05-28-app-connectors-algolia-linkedin-and-microsoft-sharepoint|App
   connectors: Algolia, LinkedIn, and Microsoft SharePoint]]'
+- '[[Changes/OpenCode/2026-05-28-acp-integrations-can-now-send-prompts-slash-commands-and-usage-updates-through-a|ACP
+  integrations can now send prompts, slash commands, and usage updates through acp-next]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
 theme: apps-integrations
@@ -97,8 +97,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-28 · Lovable · [[Changes/Lovable/2026-05-28-app-connectors-algolia-linkedin-and-microsoft-sharepoint|App connectors: Algolia, LinkedIn, and Microsoft SharePoint]]
-- Later: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2 Apps and Integrations changes in v1.0.56]]
+- Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-acp-integrations-can-now-send-prompts-slash-commands-and-usage-updates-through-a|ACP integrations can now send prompts, slash commands, and usage updates through acp-next]]
+- Later: 2026-05-29 · Gamma · [[Changes/Gamma/2026-05-29-claude-and-chatgpt-connectors-just-got-smarter|Claude and ChatGPT connectors just got smarter]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

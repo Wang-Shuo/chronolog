@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fddd535246026e12a3f8255fa1a78c96e6cee4a0480da21a3567d32b1218cc4a
+machine_hash: 0b4bfeb27d95853d8729746305e8c5833b44eb81d26ff6f1467797c0f6e36041
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,10 +63,10 @@ record:
   title: 12 Developer Workflow changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer
-  Workflow changes in v2.1.216]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-8-developer-workflow-changes-in-v1-0-72|8
   Developer Workflow changes in v1.0.72]]'
+- '[[Changes/OpenCode/2026-07-20-sync-the-embedded-terminal-theme-with-the-app-theme|Sync
+  the embedded terminal theme with the app theme]]'
 - '[[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved
   footer PR badge links to be clickable hyperlinks even when terminal support…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'

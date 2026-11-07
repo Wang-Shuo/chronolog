@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5437312255a8f83acb543af0ff3da2a818e667365db2a777a0ed00e2c6cd2e59
+machine_hash: 74c23918b9a47602e1f3e1fa87d131d9b034619c318f882dbde19ca9755f23da
 product: dify
 product_name: Dify
 record:
@@ -54,12 +54,12 @@ record:
   title: 6 Interface Experience changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface
-  Experience changes in v2.1.187]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-11-interface-experience-changes-in-v1-0-64|11
   Interface Experience changes in v1.0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-2-interface-experience-changes-in-v1-0-65|2
   Interface Experience changes in v1.0.65]]'
+- '[[Changes/OpenCode/2026-06-24-2-interface-experience-changes-in-v1-17-10|2 Interface
+  Experience changes in v1.17.10]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'
 source_type: github_releases
 theme: interface-experience
@@ -116,8 +116,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-2-interface-experience-changes-in-v1-0-65|2 Interface Experience changes in v1.0.65]]
-- Later: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]
+- Earlier: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-2-interface-experience-changes-in-v1-17-10|2 Interface Experience changes in v1.17.10]]
+- Later: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-5-interface-experience-changes-in-hub-v2-2-1-antigravity-guide-audio|5 Interface Experience changes in HUB v2.2.1 — Antigravity Guide, audio…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a30cdb1c1e054a875e193fe0951a3cf4b9290afb9e9985e17b13b437ebb4f637
+machine_hash: 9a7633da4a1b7adeadfb6c32b34ce950c613aeed1e77ceb55830846fefd7b359
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,11 @@ record:
   title: Added `CLAUDE_CODE_DISABLE_MOUSE_CLICKS` to disable mouse click/drag/hover…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-11-interface-experience-changes-in-v1-0-64|11
-  Interface Experience changes in v1.0.64]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-24-2-interface-experience-changes-in-v1-0-65|2
-  Interface Experience changes in v1.0.65]]'
 - '[[Changes/Dify/2026-06-25-6-interface-experience-changes-in-1-15-0|6 Interface
   Experience changes in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-5-interface-experience-changes-in-hub-v2-2-1-antigravity-guide-audio|5
+  Interface Experience changes in HUB v2.2.1 — Antigravity Guide, audio…]]'
+- '[[Changes/Midjourney/2026-06-25-heya-everyone|Random styles in draft mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-6-interface-experience-changes-in-1-15-0|6 Interface Experience changes in 1.15.0]]
+- Earlier: 2026-06-25 · Midjourney · [[Changes/Midjourney/2026-06-25-heya-everyone|Random styles in draft mode]]
 - Later: 2026-06-26 · Lovable · [[Changes/Lovable/2026-06-26-search-the-template-and-design-system-pickers|Search the template and design system pickers]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b85350559dbde9e188a3541cb92dd49138b0915cef2d05793d2b702e361d04bf
+machine_hash: c74dfccf89387ff97aaf0af04af3a22cc68c9e756bd86a05f471d01c5f8b2b18
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,6 +52,8 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
   now supports a limited selection of languages in the interface]]'
+- '[[Changes/Suno/2024-03-05-miscellaneous-accessibility-fixes|Miscellaneous accessibility
+  fixes]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-03-18-v0-1-113-github-147090544-f0029140|open-webui-2024-03-18-v0-1-113-github-147090544-f0029140]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -81,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
+- Earlier: 2024-03-05 · Suno · [[Changes/Suno/2024-03-05-miscellaneous-accessibility-fixes|Miscellaneous accessibility fixes]]
 - Later: 2024-03-31 · Open WebUI · [[Changes/Open WebUI/2024-03-31-localization-korean-translation-i18n-now-available|🌐 Localization: Korean translation (I18n) now available]]
 <!-- chronolog:end -->
 

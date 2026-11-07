@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6fa2d6c521b455aca6d40fda3e891f67a82fbfc4e10c63e8ad61da21ce40d42e
+machine_hash: c630dcb367b7be633d8d3f2603d933972c96d1fe63ecb8c5e3dc6bce414a5f93
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-09 · Cline · [[Changes/Cline/2026-07-09-2-interface-experience-changes-in-v4-0-7|2 Interface Experience changes in v4.0.7]]
-- Later: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]
+- Later: 2026-07-09 · Suno · [[Changes/Suno/2026-07-09-real-writing-environment|Real writing environment]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: cd1d0bc3f29ad568a82ab959bcf1843f90374793de869a9fec1fa78708e34eb1
+machine_hash: a235f40b0f5a1014808991c078b091ae8d50ee5fb1ccd8b3fff0e4563b4a350f
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Show the billed cost for Cline gateway usage
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-usage-now-shows-the-usage-credits-spend-row-for-team-and-enterprise-members-and|/usage
-  now shows the usage-credits spend row for Team and Enterprise members…]]'
 - '[[Changes/Codex CLI/2026-08-20-39006-emit-api-key-turn-cost-telemetry-from-app-server-copyberry|♯39006
   Emit API-key turn cost telemetry from app-server @copyberry]]'
+- '[[Changes/OpenCode/2026-08-20-2-pricing-model-changes-in-v1-18-19|2 Pricing Model
+  changes in v1.18.19]]'
 - '[[Changes/Claude Code/2026-08-21-persistent-retry-mode-claude-code-retry-watchdog-now-fails-immediately-on-organi|Persistent
   retry mode (CLAUDE_CODE_RETRY_WATCHDOG) now fails immediately…]]'
 source_release: '[[Releases/Cline/cline-2026-08-21-v4-1-11-github-374187578-938b5fa5|cline-2026-08-21-v4-1-11-github-374187578-938b5fa5]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: caa6b7664e0eb495a360571b0386c29d8ced327379a84e5dc0886a03ea7912e2
+machine_hash: 7408a42f121a465e136c71030b018b56d51e3d7dfa2ff52405980c739a4e6646
 product: lovable
 product_name: Lovable
 record:
@@ -56,12 +56,12 @@ record:
   title: Explore changes with drafts
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-2-editor-experience-changes-in-v1-0-83|2
-  Editor Experience changes in v1.0.83]]'
-- '[[Changes/Lovable/2026-09-08-project-files-no-longer-copy-automatically-during-a-remix|Project
-  files no longer copy automatically during a remix]]'
+- '[[Changes/Runway/2026-09-08-runway-is-now-available-directly-inside-premiere-pro-and-after-effects-bring-the|Runway
+  Adobe Plugins]]'
 - '[[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746
   Handle pending network reviews after process completion @copyberry]]'
+- '[[Changes/Google Antigravity/2026-09-09-2-editor-experience-changes-in-hub-v2-13-0-introducing-new-documents|2
+  Editor Experience changes in HUB v2.13.0 — Introducing new Documents…]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-09-2026-09-09-1af9b744|lovable-2026-09-09-2026-09-09-1af9b744]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746 Handle pending network reviews after process completion @copyberry]]
+- Earlier: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-2-editor-experience-changes-in-hub-v2-13-0-introducing-new-documents|2 Editor Experience changes in HUB v2.13.0 — Introducing new Documents…]]
 - Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-added-browser-tab-icons-for-published-artifacts-chosen-by-claude-to-match-each-p|Added browser-tab icons for published artifacts, chosen by Claude to match each page]]
 <!-- chronolog:end -->
 

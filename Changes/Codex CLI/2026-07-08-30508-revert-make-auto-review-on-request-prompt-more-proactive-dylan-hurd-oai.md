@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e8b155e389c145afa49256bef8db8291b0b37bcafd855a769b8dd51a4967c543
+machine_hash: 2984b4ca86c3f972053c241219f00b7b5da35ec9cb3fdde9df2d652476cdd6d4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#30508 Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-pr-auto-now-starts-a-self-paced-loop-that-fixes-one-thing-per-run-and-paces-itse|/pr
-  auto now starts a self-paced loop that fixes one thing per run and paces itself…]]'
+- '[[Changes/OpenClaw/2026-06-30-15-automation-and-scheduling-changes-in-v2026-6-11|15
+  Automation and Scheduling changes in v2026.6.11]]'
 - "[[Changes/Open WebUI/2026-07-01-models-with-null-capabilities-chatting-with-a-model-whose-capabilities-are-unset|\U0001F916
   Models with null capabilities. Chatting with a model whose capabilities…]]"
 - '[[Changes/OpenHands/2026-07-06-2-automation-and-scheduling-changes-in-1-9-0|2 Automation

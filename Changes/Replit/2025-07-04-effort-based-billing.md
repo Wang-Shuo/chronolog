@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 2ab2d660d3984ddf19cd822aff3cf338dd24df454e95eeedd4d1ebc19d6a568a
+machine_hash: d70f64360213daf23a36f91fb1dd88b26417cc608dae585cb0c08ede059845f8
 product: replit
 product_name: Replit
 record:
@@ -47,7 +47,8 @@ record:
   title: Effort-based billing
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-17-subscription-management|Subscription Management]]'
+- '[[Changes/Midjourney/2025-06-19-so-we-want-to-give-you-some-quick-tips-on-how-to-get-the-best-possible-value-wit|So
+  we want to give you some quick tips on how to get the best possible value…]]'
 - '[[Changes/Replit/2025-06-27-organization-suspension-from-ubb-services|Organization
   suspension from UBB services]]'
 - '[[Changes/Gemini CLI/2025-07-01-docs-add-a-page-detailing-quota-and-cost-information-by-ptone-in-https-github-co|Docs:

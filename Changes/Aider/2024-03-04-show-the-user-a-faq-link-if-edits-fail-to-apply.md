@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e0cde86ee38cccf8d077000d2fd6ba3e01807b200282d47e3f744dcb71956c8
+machine_hash: 26593c52113b4ac74b5084c12c60c753174ba73dd6990600754a7844dbc58337
 product: aider
 product_name: Aider
 record:
@@ -42,10 +42,10 @@ record:
   title: Show the user a FAQ link if edits fail to apply
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|Copilot++
-  quality of life improvements…]]'
 - '[[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI
   Previews: this is an experimental new code reading feature]]'
+- '[[Changes/Gamma/2024-02-14-contributor-block-edit-the-contributors-displayed-by-simply-toggling-on-off-indi|Contributor
+  Block]]'
 - '[[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS
   Code 1.86.2]]'
 source_release: '[[Releases/Aider/aider-2024-03-04-v0-25-0-github-144719910-7de50f06|aider-2024-03-04-v0-25-0-github-144719910-7de50f06]]'

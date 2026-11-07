@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f89a43899165e07f682f525ba63e90532d020fbaf93443515bc4e3be174136b7
+machine_hash: 77701fa6ec9430ba765833bc43eb7e88bf8a1ef10ff884c9a9afbc6233d90c6f
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,8 +53,8 @@ record:
   title: 4 Interface Experience changes in v2.1.286
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-28-4-interface-experience-changes-in-v1-0-89|4
-  Interface Experience changes in v1.0.89]]'
+- '[[Changes/Google Antigravity/2026-09-28-3-interface-experience-changes-in-hub-v2-18-1-manage-install-plugins|3
+  Interface Experience changes in HUB v2.18.1 — Manage & Install plugins…]]'
 - '[[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved
   responsiveness when leaving the ctrl+o transcript view in long sessions…]]'
 - '[[Changes/Codex CLI/2026-09-29-4-interface-experience-changes-in-rust-v0-159-0|4

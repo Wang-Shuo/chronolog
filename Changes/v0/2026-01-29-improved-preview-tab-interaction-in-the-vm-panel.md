@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3884a3b870280c9a4bfff0105671612fc44bfd259f3904faf9b0cc120e32a33e
+machine_hash: 51bc6c2784723a372a6d58f974fa5758e1c77ab5176bad98d153865ae79f655e
 product: v0
 product_name: v0
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved preview tab interaction in the VM panel
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-directories-now-appear-in-mention-autocomplete|Directories
-  now appear in @mention autocomplete]]'
 - '[[Changes/v0/2026-01-28-you-can-now-import-any-github-repo-into-v0-and-work-on-your-actual-codebase|Import
   any GitHub repo into v0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-29-2-editor-experience-changes-in-v0-0-399|2
   Editor Experience changes in v0.0.399]]'
+- '[[Changes/OpenCode/2026-01-29-revert-to-anthropic-completions-endpoint-to-avoid-rate-limiting-issues-with-copi|Revert
+  to Anthropic completions endpoint to avoid rate limiting issues with copilot]]'
 source_release: '[[Releases/v0/v0-2026-01-29-2026-01-29-acd9d0ce|v0-2026-01-29-2026-01-29-acd9d0ce]]'
 source_type: v0_changelog
 theme: editor-experience
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-2-editor-experience-changes-in-v0-0-399|2 Editor Experience changes in v0.0.399]]
+- Earlier: 2026-01-29 · OpenCode · [[Changes/OpenCode/2026-01-29-revert-to-anthropic-completions-endpoint-to-avoid-rate-limiting-issues-with-copi|Revert to Anthropic completions endpoint to avoid rate limiting issues with copilot]]
 - Later: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-add-autopilot-mode-for-autonomous-task-completion-experimental|Add autopilot mode for autonomous task completion (experimental)]]
 <!-- chronolog:end -->
 

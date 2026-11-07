@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 026a82bfadbc1505e8831985931abb3ef2cefaaedd595c75b1a8cd573bfbb741
+machine_hash: 4a52e327cf1aaee6f969339d8164957348377d05e1dc92d9f22a17688bf9c380
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,11 +42,11 @@ record:
   title: '`/bg` and `←`-detach now preserve `--allow-dangerously-skip-permissions`…'
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-12-the-vs-code-editor-in-your-chats-autosaves-by-default-with-a-new-vercel-light-th|The
-  VS Code editor in your chats autosaves by default, with a new Vercel Light theme…]]'
 - '[[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved
   PR tabs by adding clearer review states, better reviewer/thread visibility…]]'
 - '[[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]'
+- '[[Changes/OpenCode/2026-05-13-core-autocomplete-configured-mentions-in-prompts|Core
+  Autocomplete configured @mentions in prompts]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]
-- Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-reloading-the-preview-iframe-in-safari-shows-the-open-preview-in-new-tab-message|Reloading the preview iframe in Safari shows the "Open preview in new tab" message…]]
+- Earlier: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-autocomplete-configured-mentions-in-prompts|Core Autocomplete configured @mentions in prompts]]
+- Later: 2026-05-15 · Gamma · [[Changes/Gamma/2026-05-15-dark-mode-now-extends-to-the-theme-panel|Dark mode now extends to the theme panel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

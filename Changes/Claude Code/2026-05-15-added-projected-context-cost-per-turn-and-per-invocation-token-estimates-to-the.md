@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 3b280e0f56b0b9e5256f27adcffb13fea27ff20aac314f66c8e678f8e42c41be
+machine_hash: 8f6aa2ab7afba10287ffc088ef7be9008d420b26a6e613cc32ce0463d101c2a5
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-for-local-use-without-an-ollama-cloud-subscription|For local use without an Ollama Cloud subscription]]
-- Later: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens|Fast (default): $3.00/M input, $15.00/M output tokens]]
+- Later: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-core-added-the-required-billing-origin-header-for-nvidia-endpoints|Core Added the required billing origin header for NVIDIA endpoints]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

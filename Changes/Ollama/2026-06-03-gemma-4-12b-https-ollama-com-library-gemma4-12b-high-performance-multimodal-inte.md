@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4c8deb63573f9095870a905b75d3de74c69d08d768b3c8ae6c66e8875bfe3b1
+machine_hash: 9837f8db2109db6267e7b1d3819a85501f6fb19b06ae9513b6be3596af7a94b3
 product: ollama
 product_name: Ollama
 record:
@@ -53,8 +53,8 @@ record:
   title: '[Gemma 4 12B](https://ollama.com/library/gemma4:12b)'
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-05-19-gemini-omni-is-your-creative-partner-for-video-creation|Gemini
-  Omni is your creative partner for video creation]]'
+- '[[Changes/Runway/2026-05-21-get-the-video-you-need-from-the-video-you-already-have-edit-a-frame-the-way-you|Aleph
+  2.0 & Edit Studio]]'
 - '[[Changes/ElevenLabs/2026-05-25-music-5f1ccf|Music]]'
 - "[[Changes/Open WebUI/2026-06-01-youtube-short-link-transcripts-pasting-a-youtu-be-short-link-into-a-chat-now-loa|\U0001F4FA
   YouTube short link transcripts. Pasting a \"youtu.be\" short link into a chat…]]"
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-youtube-short-link-transcripts-pasting-a-youtu-be-short-link-into-a-chat-now-loa|📺 YouTube short link transcripts. Pasting a "youtu.be" short link into a chat…]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear queued tool images when vision is disabled]]
+- Later: 2026-06-18 · Runway · [[Changes/Runway/2026-06-18-trim-stitch-reorder-and-export-a-final-video-all-in-one-place|Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

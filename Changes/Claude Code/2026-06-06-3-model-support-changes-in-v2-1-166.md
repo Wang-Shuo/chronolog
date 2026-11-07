@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38a4f35e318d1c17a50d179d85bdd4920cc85b2f3a8dbc3347a701546217b8a0
+machine_hash: 8d6204cb53dc4189d70ce6289406a68503b11e33c95034f36a110e403a7a6f9d
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: 3 Model Support changes in v2.1.166
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-3-model-support-changes-in-rust-v0-137-0|3 Model
-  Support changes in rust-v0.137.0]]'
-- '[[Changes/Cline/2026-06-05-3-model-support-changes-in-v3-88-0|3 Model Support changes
-  in v3.88.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-model-support-changes-in-v1-0-60|2 Model
   Support changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-4-model-support-changes-in-v1-16-0|4 Model Support
+  changes in v1.16.0]]'
+- '[[Changes/OpenCode/2026-06-05-2-model-support-changes-in-v1-16-2|2 Model Support
+  changes in v1.16.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.166
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-model-support-changes-in-v1-0-60|2 Model Support changes in v1.0.60]]
+- Earlier: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-2-model-support-changes-in-v1-16-2|2 Model Support changes in v1.16.2]]
 - Later: 2026-06-07 · Ollama · [[Changes/Ollama/2026-06-07-openai-compatible-api-models-list-now-aligns-with-available-model-tags|OpenAI-compatible API models list now aligns with available model tags]]
 <!-- chronolog:end -->
 

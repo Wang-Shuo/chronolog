@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 964d5283cfb37ab74e39f5c4218dfe7633960a66a151041bafc5bd9b00b7df16
+machine_hash: 1a26fb9ec8cea3968a432f7b98659f6facefb4306677cfcb7135bb9a174da712
 product: gemini
 product_name: Gemini
 record:
@@ -54,10 +54,10 @@ record:
   title: Gemini is available to teens in more countries and languages
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-07-17-styling-refactor-various-styling-updates-for-a-cleaner-and-more-cohesive-user-in|\U0001F3A8
-  Styling Refactor]]"
 - '[[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor
   adds a file picker, arrow key navigation, and a model toggle to Composer]]'
+- "[[Changes/Gamma/2024-07-23-we-ve-also-improved-our-gradient-picker|Gamma improves
+  our gradient picker \U0001F44D]]"
 - '[[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching
   to code and ask mode no longer summarizes the chat history]]'
 source_release: '[[Releases/Gemini/gemini-2024-08-01-2024-08-01-4e1db6f4|gemini-2024-08-01-2024-08-01-4e1db6f4]]'

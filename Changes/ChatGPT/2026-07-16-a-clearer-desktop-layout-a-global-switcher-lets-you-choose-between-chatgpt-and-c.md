@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c5d2b739cbba55f660214711890cb4c8bb4b31ed1c28df4242f5b6eb8e8b2fb
+machine_hash: 30f6208cc948aae6186bc208c746ed1d1a46c587ded73529df3d891b8b8a26ce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
     and Codex'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-31356-ci-run-v8-source-builds-on-windows-2025-anp-oai|♯31356
-  ci: run V8 source builds on Windows 2025 @anp-oai]]'
-- '[[Changes/Codex CLI/2026-07-09-ensured-macos-package-installs-expose-the-code-mode-host-alongside-the-codex-exe|Ensured
-  macOS package installs expose the code-mode host alongside the codex executable]]'
-- '[[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search
-  across chats, projects, and files is now supercharged]]'
+- '[[Changes/OpenCode/2026-07-14-completed-the-desktop-v2-migration|Completed the
+  Desktop v2 migration]]'
+- '[[Changes/OpenCode/2026-07-14-10-mobile-and-desktop-changes-in-v1-18-1-1|10 Mobile
+  and Desktop changes in v1.18.1 + 1]]'
+- '[[Changes/OpenCode/2026-07-15-3-mobile-and-desktop-changes-in-v1-18-2|3 Mobile
+  and Desktop changes in v1.18.2]]'
 scope: macOS and Windows
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad]]'
 source_type: chatgpt_changelog
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-14 · ChatGPT · [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search across chats, projects, and files is now supercharged]]
-- Later: 2026-07-17 · Windsurf · [[Changes/Windsurf/2026-07-17-devin-desktop|Devin Desktop]]
+- Earlier: 2026-07-15 · OpenCode · [[Changes/OpenCode/2026-07-15-3-mobile-and-desktop-changes-in-v1-18-2|3 Mobile and Desktop changes in v1.18.2]]
+- Later: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-3-mobile-and-desktop-changes-in-v1-18-3|3 Mobile and Desktop changes in v1.18.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

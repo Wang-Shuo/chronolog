@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 90ae8923b4ed0d7a03ba55ac4eb662c4fe22327f73450222cb2594aa19439492
+machine_hash: 5dd12c522874d20e7414eeea272ae4209adbfc8306efcce46d34d13caf423a96
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -160,7 +160,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-3-safety-and-privacy-changes-in-v2-1-97|3 Safety and Privacy changes in v2.1.97]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-7-safety-and-privacy-changes-in-v2-1-98|7 Safety and Privacy changes in v2.1.98]]
+- Later: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-terminal-added-opencode-run-dangerously-skip-permissions-to-auto-approve-non-den|Terminal Added opencode run --dangerously-skip-permissions to auto-approve…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

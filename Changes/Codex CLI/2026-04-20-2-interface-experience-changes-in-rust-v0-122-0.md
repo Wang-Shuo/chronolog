@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f91335dcaa186fb1e2268488f1cacc7dcf4600b4240e5426f7aed9cf5efd68dc
+machine_hash: f02d2cbfe3bd21f9caa4eba0e4c73efece1bae6c4713e418076a349956453e81
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Interface Experience changes in rust-v0.122.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-3-interface-experience-changes-in-v2-1-113|3 Interface
-  Experience changes in v2.1.113]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-17-2-interface-experience-changes-in-v1-0-32|2
   Interface Experience changes in v1.0.32]]'
+- '[[Changes/OpenCode/2026-04-19-terminal-show-the-session-id-in-the-sidebar-on-non-production-channels|Terminal
+  Show the session ID in the sidebar on non-production channels]]'
 - '[[Changes/Claude Code/2026-04-20-3-interface-experience-changes-in-v2-1-116|3 Interface
   Experience changes in v2.1.116]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'

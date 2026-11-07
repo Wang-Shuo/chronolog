@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad03fc09bc6aa97e7c82e2a4a48599f140c9cc545b817125a9df99cb092b20f1
+machine_hash: c59fc939ddeb18b6fc0488c18b3daab46789d0052a6651b9bfeaae61d74278d9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 5 Account and Access changes in rust-v0.167.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-11-03-saved-oauth-provider-settings-oauth-providers-now-load-their-saved-connection-se|\U0001F511
-  Saved OAuth provider settings. OAuth providers now load their saved connection…]]"
 - '[[Changes/OpenHands/2026-11-03-ci-deps-bump-docker-login-action-from-4-6-0-to-4-7-0-in-the-actions-group-across|ci(deps):
   bump docker/login-action from 4.6.0 to 4.7.0 in the actions group across 1…]]'
 - '[[Changes/Dify/2026-11-04-2-account-and-access-changes-in-1-19-0|2 Account and
   Access changes in 1.19.0]]'
+- '[[Changes/OpenClaw/2026-11-05-4-account-and-access-changes-in-v2026-11-1|4 Account
+  and Access changes in v2026.11.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: account-access
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-account-and-access-changes-in-1-19-0|2 Account and Access changes in 1.19.0]]
+- Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-4-account-and-access-changes-in-v2026-11-1|4 Account and Access changes in v2026.11.1]]
 - Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-23-account-and-access-changes-in-v1-0-106|23 Account and Access changes in v1.0.106]]
 <!-- chronolog:end -->
 

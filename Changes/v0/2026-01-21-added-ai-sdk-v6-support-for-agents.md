@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ac7d08fe6b742b1257c02242d10f8d39d17b163bd1ae415dba511f9c09376cb5
+machine_hash: 4fb6118b0766942366fdfb570aa4702e9d3eaf20d9ec50c05ce9f5dbf1122530
 product: v0
 product_name: v0
 record:
@@ -42,8 +42,8 @@ record:
   title: Added AI SDK v6 support for agents
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-19-mcp-server-management-when-swapping-between-custom-agents-with-agent|MCP
-  server management when swapping between custom agents with /agent]]'
+- '[[Changes/OpenCode/2026-01-20-2-agent-mode-changes-in-v1-1-28|2 Agent Mode changes
+  in v1.1.28]]'
 - '[[Changes/Codex CLI/2026-01-21-2-agent-mode-changes-in-rust-v0-88-0|2 Agent Mode
   changes in rust-v0.88.0]]'
 - '[[Changes/Gemini CLI/2026-01-21-13-agent-mode-changes-in-v0-25-0|13 Agent Mode

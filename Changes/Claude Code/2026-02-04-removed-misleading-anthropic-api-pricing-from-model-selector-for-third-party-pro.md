@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 18e7d6f33cebda4ba981794e9dd1c7ecf83c61b587c6f306ecaae20b8bbdfe79
+machine_hash: f8ec0e4da36d0897d0ed98a3335321dd9859824281e51bc87e06cf7da5ab615d
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,7 +55,8 @@ record:
   title: Removed misleading Anthropic API pricing from model selector for third-party…
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-19-improved-pricing-structure|Improved pricing structure]]'
+- '[[Changes/Suno/2026-01-27-to-try-it-for-yourself-go-to-create-choose-sounds-from-the-custom-dropdown-and-m|To
+  try it for yourself, go to Create, choose Sounds from the Custom dropdown…]]'
 - '[[Changes/v0/2026-01-27-updated-token-pricing|Updated token pricing]]'
 - '[[Changes/Dify/2026-02-03-refactor-contract-restructure-console-contracts-with-nested-billing-module-by-ly|refactor(contract):
   restructure console contracts with nested billing module]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b512e33648830b13c0da6a2cde4051b63e0cb7f3ed72dda0bee517a796fcc6ec
+machine_hash: 5ad20121b49f59b7a582019e6e0e57d990fdf7b8a98383921645eb398a7b66cf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.97.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-03-9-safety-and-privacy-changes-in-1-12-0|9 Safety and Privacy
-  changes in 1.12.0]]'
 - '[[Changes/Codex CLI/2026-02-04-6-safety-and-privacy-changes-in-rust-v0-95-0|6 Safety
   and Privacy changes in rust-v0.95.0]]'
 - '[[Changes/Gemini CLI/2026-02-04-security-hooks-wrap-hook-injected-context-in-distinct-xml-tags-by-yunaseoul-in-h|security(hooks):
   Wrap hook-injected context in distinct XML tags]]'
+- '[[Changes/OpenCode/2026-02-04-core-improve-skills-system-with-better-prompting-fix-permission-requests-after-s|Core
+  Improve skills system with better prompting, fix permission requests after…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-05-rust-v0-97-0-github-283219180-522ab2d0|codex-cli-2026-02-05-rust-v0-97-0-github-283219180-522ab2d0]]'
 source_type: github_releases
 theme: safety-privacy
@@ -88,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.97.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-security-hooks-wrap-hook-injected-context-in-distinct-xml-tags-by-yunaseoul-in-h|security(hooks): Wrap hook-injected context in distinct XML tags]]
+- Earlier: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-core-improve-skills-system-with-better-prompting-fix-permission-requests-after-s|Core Improve skills system with better prompting, fix permission requests after…]]
 - Later: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-2-safety-and-privacy-changes-in-v0-0-403|2 Safety and Privacy changes in v0.0.403]]
 <!-- chronolog:end -->
 

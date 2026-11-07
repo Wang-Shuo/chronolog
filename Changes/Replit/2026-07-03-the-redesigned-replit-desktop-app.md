@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c69272f31554466f8c26462dda5c8568a2b6d619d6468b99579e84d7d47a0f38
+machine_hash: 05a9c6e070c5f1b30e44146a2a647be8c0e309bed1ddadd62bf65144c0b57c6e
 product: replit
 product_name: Replit
 record:
@@ -49,12 +49,12 @@ record:
   title: The redesigned Replit Desktop App
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-4-mobile-and-desktop-changes-in-v0-10-0|4 Mobile
-  and Desktop changes in v0.10.0]]'
-- '[[Changes/Gemini/2026-06-30-hand-off-the-heavy-lifting-to-gemini-spark-now-available-in-the-macos-app|Hand
-  off the heavy lifting to Gemini Spark, now available in the macOS app]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-2-mobile-and-desktop-changes-in-v1-0-66|2
-  Mobile and Desktop changes in v1.0.66]]'
+- '[[Changes/OpenCode/2026-06-30-7-mobile-and-desktop-changes-in-v1-17-12|7 Mobile
+  and Desktop changes in v1.17.12]]'
+- '[[Changes/Granola/2026-07-01-now-android-users-can-take-notes-anywhere-leave-the-laptop-behind-and-take-notes|Granola
+  for Android is here!]]'
+- '[[Changes/OpenCode/2026-07-01-5-mobile-and-desktop-changes-in-v1-17-13|5 Mobile
+  and Desktop changes in v1.17.13]]'
 source_release: '[[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|replit-2026-07-03-2026-07-03-1318c060]]'
 source_type: replit_changelog
 theme: mobile-desktop
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-mobile-and-desktop-changes-in-v1-0-66|2 Mobile and Desktop changes in v1.0.66]]
+- Earlier: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-5-mobile-and-desktop-changes-in-v1-17-13|5 Mobile and Desktop changes in v1.17.13]]
 - Later: 2026-07-04 · Windsurf · [[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 

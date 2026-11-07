@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bcb7c32850756f0ace927d44a05fd57688628e1204ae8771071554858688a31c
+machine_hash: 5a3507ca9b808909ccb5df7de58fb65367e81c982642c6fc5b0d37b5b5814255
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: Support bearer token authentication for BYOK Anthropic models
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added
-  interactive Bedrock setup wizard accessible from the login screen…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-enterprise-github-url-input-in-the-login-flow-now-accepts-keyboard-input-and-sub|Enterprise
   GitHub URL input in the login flow now accepts keyboard input and submits…]]'
+- '[[Changes/OpenCode/2026-04-08-core-improved-opencode-login-transport-error-messages|Core
+  Improved opencode login transport error messages]]'
 - '[[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added
   interactive Google Vertex AI setup wizard accessible from the login screen…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d|github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d]]'

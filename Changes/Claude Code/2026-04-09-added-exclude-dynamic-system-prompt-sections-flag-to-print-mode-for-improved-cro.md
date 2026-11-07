@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43c5a30c5b0f32ca4e921e6dd14f644ae47a84289a52583f5c386be1a6525eee
+machine_hash: 1a0bc839a0cd887b9e6d33bc1f2ce5588f6bc8c0554216dde40917448836e0fb
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Added `--exclude-dynamic-system-prompt-sections` flag to print mode for improved…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-06-slash-command-timeline-entries-now-include-the-command-name-e-g-review-plan-for|Slash
-  command timeline entries now include the command name (e.g., "Review", "Plan")…]]'
+- '[[Changes/OpenCode/2026-04-06-core-fix-output-token-totals-when-reasoning-tokens-are-reported-separately|Core
+  Fix output token totals when reasoning tokens are reported separately]]'
 - '[[Changes/Claude Code/2026-04-08-improved-context-low-warning-to-show-as-a-transient-footer-notification-instead|Improved
   context-low warning to show as a transient footer notification instead…]]'
 - '[[Changes/Gemini CLI/2026-04-08-5-context-window-changes-in-v0-37-0|5 Context Window

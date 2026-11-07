@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e1d1ce8532e12b1e047f0908aa24b2988a8ffe3c6a26382b0eae9940cee38c79
+machine_hash: dbedf231cfa553aba2d345be71517a49700d7e718f7eceab33d983512b5a0269
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: '#18868 Add MITM hook config model @evawong-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-2-model-support-changes-in-v1-0-49|2 Model
-  Support changes in v1.0.49]]'
 - '[[Changes/Codex CLI/2026-05-20-23069-multiagent-trim-model-visible-description-cap-to-5-models-sayan-oai|♯23069
   multiagent: trim model-visible description, cap to 5 models @sayan-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-shell-tool-calls-succeed-even-when-the-model-omits-the-description-parameter|Shell
   tool calls succeed even when the model omits the description parameter]]'
+- '[[Changes/OpenCode/2026-05-20-2-model-support-changes-in-v1-15-6|2 Model Support
+  changes in v1.15.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc|codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-shell-tool-calls-succeed-even-when-the-model-omits-the-description-parameter|Shell tool calls succeed even when the model omits the description parameter]]
+- Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-2-model-support-changes-in-v1-15-6|2 Model Support changes in v1.15.6]]
 - Later: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-gemini-3-5-flash-for-ai-features-in-your-app|Gemini 3.5 Flash for AI features in your app]]
 <!-- chronolog:end -->
 

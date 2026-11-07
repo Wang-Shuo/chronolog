@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 392a0f760cc54830f04ec10915f820153fb72a32e869f1233b18a168e2c11243
+machine_hash: 213e453e7afb948ead2ac0440e2693d36aaae3f169ecb505c5944b48e2aa42c8
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -76,8 +76,8 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-19-2-model-support-changes-in-v0-34-3|2 Model Support
-  changes in v0.34.3]]'
+- '[[Changes/OpenClaw/2026-09-19-28-model-support-changes-in-v2026-9-5|28 Model Support
+  changes in v2026.9.5]]'
 - '[[Changes/ElevenLabs/2026-09-21-text-to-speech-576ca6|Text to Speech]]'
 - '[[Changes/ElevenLabs/2026-09-21-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-21-2026-09-21-6d2d4d80|elevenlabs-2026-09-21-2026-09-21-6d2d4d80]]'
@@ -116,7 +116,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-19 · Ollama · [[Changes/Ollama/2026-09-19-2-model-support-changes-in-v0-34-3|2 Model Support changes in v0.34.3]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-28-model-support-changes-in-v2026-9-5|28 Model Support changes in v2026.9.5]]
 - Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-enable-the-rubber-duck-agent-for-every-model-family-and-for-low-cost-tier-sessio|Enable the rubber-duck agent for every model family and for low-cost-tier session models]]
 <!-- chronolog:end -->
 

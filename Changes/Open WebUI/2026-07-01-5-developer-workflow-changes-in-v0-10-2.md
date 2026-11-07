@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be169f378aa40f8a2215f5962e13ebe9a1b6ecd98f783ae7c2569f0f4907f70b
+machine_hash: 87d3aa310cacceddcb2035013dd0ae80b2b3000830d86f337b7361aa4c3b269c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -62,8 +62,8 @@ record:
   title: 5 Developer Workflow changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-21-developer-workflow-changes-in-v1-0-66|21
-  Developer Workflow changes in v1.0.66]]'
+- '[[Changes/OpenCode/2026-06-30-2-developer-workflow-changes-in-v1-17-12|2 Developer
+  Workflow changes in v1.17.12]]'
 - '[[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background
   agents launched from claude agents now commit, push, and open a draft…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6
@@ -117,7 +117,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.2
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6 Developer Workflow changes in v1.0.68]]
-- Later: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude agents session rows now show pull-request links as bare ♯N without…]]
+- Later: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-desktop-streamline-wsl-server-setup-with-clearer-distro-checks-and-install-flows|Desktop Streamline WSL server setup with clearer distro checks and install flows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb992ac015495ab44dc2789b8659b4762de68ade7a8d9421565c85b4e3ba38c0
+machine_hash: e565e3341c4f2e8cf4b363c9a65a5c9861a8dd692fd92c2efb20dc5dcbd57635
 product: v0
 product_name: v0
 record:
@@ -41,12 +41,12 @@ record:
   title: Added summary header to diff tab showing file changes
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-03-2-editor-experience-changes-in-v0-0-421|2
-  Editor Experience changes in v0.0.421]]'
 - '[[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install
   the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-6-editor-experience-changes-in-v0-0-422|6
   Editor Experience changes in v0.0.422]]'
+- '[[Changes/OpenCode/2026-03-05-desktop-open-search-with-mod-f-even-when-editor-is-not-focused|Desktop
+  Open search with Mod+F even when editor is not focused]]'
 source_release: '[[Releases/v0/v0-2026-03-05-2026-03-05-b2f44e37|v0-2026-03-05-2026-03-05-b2f44e37]]'
 source_type: v0_changelog
 theme: editor-experience
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-6-editor-experience-changes-in-v0-0-422|6 Editor Experience changes in v0.0.422]]
+- Earlier: 2026-03-05 · OpenCode · [[Changes/OpenCode/2026-03-05-desktop-open-search-with-mod-f-even-when-editor-is-not-focused|Desktop Open search with Mod+F even when editor is not focused]]
 - Later: 2026-03-06 · Cline · [[Changes/Cline/2026-03-06-hooks-added-a-notification-hook-for-attention-and-completion-boundaries|Hooks: Added a Notification hook for attention and completion boundaries]]
 <!-- chronolog:end -->
 

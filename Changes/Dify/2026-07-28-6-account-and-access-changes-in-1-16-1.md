@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa973a4bb10ba1ed8ed6e58249b2b5da2f6d871194f8033ff313c05475db6f74
+machine_hash: cff47e71b114d7d2dbe3fb279955bedac2b27940dd8b78ab5ec42d506074396b
 product: dify
 product_name: Dify
 record:
@@ -57,12 +57,12 @@ record:
   title: 6 Account and Access changes in 1.16.1
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-21-2-account-and-access-changes-in-slash-commands-the-shopify|2
-  Account and Access changes in Slash commands, the Shopify…]]'
 - '[[Changes/Lovable/2026-07-24-report-abuse-and-submit-appeals-with-guided-forms|Report
   abuse and submit appeals with guided forms]]'
 - '[[Changes/Open WebUI/2026-07-27-15-account-and-access-changes-in-v0-11-0|15 Account
   and Access changes in v0.11.0]]'
+- '[[Changes/OpenCode/2026-07-27-desktop-fixed-provider-lists-not-refreshing-after-connecting-a-provider-or-finis|Desktop
+  Fixed provider lists not refreshing after connecting a provider or finishing…]]'
 source_release: '[[Releases/Dify/dify-2026-07-28-1-16-1-github-360820489-855a9365|dify-2026-07-28-1-16-1-github-360820489-855a9365]]'
 source_type: github_releases
 theme: account-access
@@ -120,8 +120,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-15-account-and-access-changes-in-v0-11-0|15 Account and Access changes in v0.11.0]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-34643-migrate-login-http-construction-to-httpclient-copyberry|♯34643 Migrate login HTTP construction to HttpClient @copyberry]]
+- Earlier: 2026-07-27 · OpenCode · [[Changes/OpenCode/2026-07-27-desktop-fixed-provider-lists-not-refreshing-after-connecting-a-provider-or-finis|Desktop Fixed provider lists not refreshing after connecting a provider or finishing…]]
+- Later: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-improved-authentication-error-messages-to-show-the-specific-failure-reason|Improved authentication error messages to show the specific failure reason]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

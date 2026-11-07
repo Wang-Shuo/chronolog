@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 68311fad7e1c81b2606ff3a7abb90e81cb8853dc6e98fab9b5410784ebd9a692
+machine_hash: 330f18d5bbbf9d770b0b9607c161f2660f2495cd610a56ced4462246967870c8
 product: cline
 product_name: Cline
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2024-09-10 · Dify · [[Changes/Dify/2024-09-10-2-pricing-model-changes-in-0-8-0|2 Pricing Model changes in 0.8.0]]
-- Later: 2024-10-21 · Gemini · [[Changes/Gemini/2024-10-21-access-to-imagen-3-now-available-for-google-workspace-customers|Access to Imagen 3 now available for Google Workspace customers]]
+- Later: 2024-09-20 · Runway · [[Changes/Runway/2024-09-20-workspace-analytics-now-contains-graphs-that-provide-an-overview-of-credit-usage|Credit Analytics]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

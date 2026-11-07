@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7998b932ee3a04678f3d2be6cd3d3389bbf3163e6b752a9bcd6727e3a545aef0
+machine_hash: 29f0920d238c707f6e91458b626cbda5ffad1c483aa350823eff0960678be87b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,8 +84,8 @@ record:
     by keyboard…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-2-accessibility-and-localization-changes-in-1-16-1|2
-  Accessibility and Localization changes in 1.16.1]]'
+- '[[Changes/Google Antigravity/2026-07-28-improved-accessibility-in-the-settings-modal-with-better-heading-hierarchy-and-k|Improved
+  accessibility in the Settings modal with better heading hierarchy…]]'
 - '[[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved
   screen reader mode]]'
 - '[[Changes/Dify/2026-08-25-3-accessibility-and-localization-changes-in-1-17-0|3
@@ -140,7 +140,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-3-accessibility-and-localization-changes-in-1-17-0|3 Accessibility and Localization changes in 1.17.0]]
-- Later: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-high-contrast-mode-is-now-accessibility-mode-the-interface-setting-previously-ca|🏷️ High Contrast Mode is now Accessibility Mode. The interface setting…]]
+- Later: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-several-overall-ux-improvements-for-performance-accessibility-and-project-config|Several overall UX improvements for performance, accessibility, and project configurations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

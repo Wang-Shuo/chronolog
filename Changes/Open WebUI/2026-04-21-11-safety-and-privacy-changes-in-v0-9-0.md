@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fbe7ae0caf782ddd33e54ed273fcf051a8630eb320d6978db2d5a50fc1702be0
+machine_hash: a795a2a79ca8d2e2fb74896940daf1e8f03a571c8f024b1e5229bde9a60897f2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -162,7 +162,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-9-safety-and-privacy-changes-in-rust-v0-122-0|9 Safety and Privacy changes in rust-v0.122.0]]
-- Later: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-better-mlx-thread-safety-for-array-management|Better MLX thread safety for array management]]
+- Later: 2026-04-21 · OpenCode · [[Changes/OpenCode/2026-04-21-terminal-fixed-permission-replies-using-remote-workspaces-so-they-are-sent-to-th|Terminal Fixed permission replies using remote workspaces so they are sent…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a98af678ac65b04ab2d76f267627887ac9ff5aec7b01a8b556b63485ca08f25
+machine_hash: 813321ae4dd33b491ff6aeea0ca07b902eaf27cad5fc453ee4bbf82ee34b8fa5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat(cli): bridge the IDE companion into container sandboxes over exec stdio'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-11-03-4-editor-experience-changes-in-v0-13-0|4 Editor
-  Experience changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-3-editor-experience-changes-in-v2026-10-10|3 Editor
+  Experience changes in v2026.10.10]]'
 - '[[Changes/OpenHands/2026-11-03-feat-files-add-a-download-button-to-the-files-tab-ohe-3834-by-hieptl-in-https-gi|feat(files):
   add a Download button to the Files tab (OHE-3834)]]'
 - '[[Changes/Dify/2026-11-04-3-editor-experience-changes-in-1-19-0|3 Editor Experience
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-3-editor-experience-changes-in-1-19-0|3 Editor Experience changes in 1.19.0]]
-- Later: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-chore-deps-bump-monaco-editor-from-0-56-0-to-0-57-0-in-the-monaco-group-by-depen|chore(deps): bump monaco-editor from 0.56.0 to 0.57.0 in the monaco group…]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-reduces-prompt-cache-misses-across-completion-heartbeat-and-background-turns-by|Reduces prompt-cache misses across completion, heartbeat and background turns…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

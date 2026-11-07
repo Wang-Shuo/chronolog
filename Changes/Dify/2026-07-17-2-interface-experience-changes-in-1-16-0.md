@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bcf9b1c3612d67bbce131aa8e63a18369b41c101ba9a530627c716b33cdfc82f
+machine_hash: 94b6e1e1ad0d80587229c530e87b22468eb46e3c55adb7e49cab30bbcdd6447c
 product: dify
 product_name: Dify
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Interface Experience changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5
-  Interface Experience changes in v1.0.71]]'
+- '[[Changes/OpenCode/2026-07-16-added-an-up-arrow-shortcut-to-close-the-subagent-picker-when-the-first-item-is-s|Added
+  an Up Arrow shortcut to close the subagent picker when the first item is selected]]'
 - '[[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing
   /resume in the agent view now opens a picker of past sessions]]'
 - '[[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]'

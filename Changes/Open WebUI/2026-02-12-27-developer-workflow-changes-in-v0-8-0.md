@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dcbec179c8e367624def272d0772e81a7b288e6ae0eea4577b90ea619083e301
+machine_hash: 53aa7588673f387735caf696a5ea56c8f310b257e55f36a12a314be160bf04b2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -272,7 +272,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-change-run-command-shortcut-from-ctrl-p-to-ctrl-s|Change run command shortcut from ctrl+p to ctrl+s]]
-- Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-2-developer-workflow-changes-in-v0-8-1|2 Developer Workflow changes in v0.8.1]]
+- Later: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-2-developer-workflow-changes-in-v1-1-64-1|2 Developer Workflow changes in v1.1.64 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

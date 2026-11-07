@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24d9c746866f65162fa76d25793042cb918a87b85fae6b0f2c880681e423d8e7
+machine_hash: d33bb3b0b43f6a3b2baba8fd7c525d626242d15a12acbd3140103e93ba0dc0f5
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Account and Access changes in v4.1.24
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-09-use-native-microsoft-entra-broker-authentication-on-macos-when-available-with-br|Use
-  native Microsoft Entra broker authentication on macOS when available…]]'
-- '[[Changes/Open WebUI/2026-10-10-19-account-and-access-changes-in-v0-12-0|19 Account
-  and Access changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-18-account-and-access-changes-in-v2026-10-1|18 Account
+  and Access changes in v2026.10.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-2-account-and-access-changes-in-v1-0-96|2
   Account and Access changes in v1.0.96]]'
+- '[[Changes/Google Antigravity/2026-10-12-onboarding-now-shows-what-antigravity-can-do-between-signing-in-and-accepting-th|Onboarding
+  now shows what Antigravity can do between signing in and accepting…]]'
 source_release: '[[Releases/Cline/cline-2026-10-13-v4-1-24-github-411804449-05899922|cline-2026-10-13-v4-1-24-github-411804449-05899922]]'
 source_type: github_releases
 theme: account-access
@@ -88,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.24
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-2-account-and-access-changes-in-v1-0-96|2 Account and Access changes in v1.0.96]]
+- Earlier: 2026-10-12 · Google Antigravity · [[Changes/Google Antigravity/2026-10-12-onboarding-now-shows-what-antigravity-can-do-between-signing-in-and-accepting-th|Onboarding now shows what Antigravity can do between signing in and accepting…]]
 - Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-power-bi-and-bluebird-mcp-servers-accept-their-published-resource-scopes-during|Power BI and Bluebird MCP servers accept their published resource scopes during sign-in]]
 <!-- chronolog:end -->
 

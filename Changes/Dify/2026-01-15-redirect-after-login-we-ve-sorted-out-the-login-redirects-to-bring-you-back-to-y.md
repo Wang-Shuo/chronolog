@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ab102ff01fa88262b91792fcce56dfdf859142f722e138384bcf4765ad07df1
+machine_hash: 7875cc60a5ea666f71d24f9b66f115164f56af20dc0ec6ad076efbf27b6db90d
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: '**Redirect After Login**'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-13-4-account-and-access-changes-in-1-11-3|4 Account and
-  Access changes in 1.11.3]]'
 - '[[Changes/Claude Code/2026-01-14-changed-oauth-and-api-console-urls-from-console-anthropic-com-to-platform-claude|Changed
   OAuth and API Console URLs from console.anthropic.com to platform.claude.com]]'
 - '[[Changes/Codex CLI/2026-01-14-2-account-and-access-changes-in-rust-v0-81-0|2 Account
   and Access changes in rust-v0.81.0]]'
+- '[[Changes/OpenCode/2026-01-14-core-skip-duplicate-system-prompt-for-codex-oauth-sessions|Core
+  Skip duplicate system prompt for Codex OAuth sessions]]'
 source_release: '[[Releases/Dify/dify-2026-01-15-1-11-4-github-276958085-bf7e8274|dify-2026-01-15-1-11-4-github-276958085-bf7e8274]]'
 source_type: github_releases
 theme: account-access
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-account-and-access-changes-in-rust-v0-81-0|2 Account and Access changes in rust-v0.81.0]]
+- Earlier: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-core-skip-duplicate-system-prompt-for-codex-oauth-sessions|Core Skip duplicate system prompt for Codex OAuth sessions]]
 - Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]
 <!-- chronolog:end -->
 

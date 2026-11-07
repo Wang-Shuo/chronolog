@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6410c76522478acf7ff5082d13e082de0bf15ceef99f987d5e91c8642cd7f49a
+machine_hash: ca9cfdcbb7e35b87170c263322d1b96d3befcbc656fbf796924a5e524a296d85
 product: replit
 product_name: Replit
 record:
@@ -45,10 +45,9 @@ record:
   title: Theme toggle in avatar dropdown
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-2-interface-experience-changes-in-v0-1-15|2 Interface
-  Experience changes in v0.1.15]]'
 - '[[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat:
   adds navigation bar component and restructure app layout]]'
+- "[[Changes/Gamma/2025-07-31-style-your-visuals|Style Your Visuals \U0001F58C️]]"
 - '[[Changes/Replit/2025-08-01-visual-editor-color-picker-improvement|Visual editor
   color picker improvement]]'
 source_release: '[[Releases/Replit/replit-2025-08-01-2025-08-01-3bbceb1a|replit-2025-08-01-2025-08-01-3bbceb1a]]'
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat: adds navigation bar component and restructure app layout]]
+- Earlier: 2025-07-31 · Gamma · [[Changes/Gamma/2025-07-31-style-your-visuals|Style Your Visuals 🖌️]]
 - Later: 2025-08-02 · Codex CLI · [[Changes/Codex CLI/2025-08-02-big-news-this-release-introduces-a-new-ux-where-codex-is-no-longer-fullscreen-ma|Big News!!! This release introduces a new UX where Codex is no longer fullscreen…]]
 <!-- chronolog:end -->
 

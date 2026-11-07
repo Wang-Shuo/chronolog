@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6bd3c547b8db423803bbeb83ef42bed5da6399ce189e10bbe043269653b86678
+machine_hash: 5f2d4aee65becac0e42f30e296ff1e275f1ef403cc3c46e0553f7f7399b7416b
 product: cline
 product_name: Cline
 record:
@@ -53,12 +53,12 @@ record:
     some models
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor
-  Experience changes in v2.1.296]]'
-- '[[Changes/Open WebUI/2026-10-10-21-editor-experience-changes-in-v0-12-0|21 Editor
-  Experience changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-10-editor-experience-changes-in-v2026-10-1|10 Editor
+  Experience changes in v2026.10.1]]'
 - '[[Changes/Lovable/2026-10-12-edit-images-directly-in-the-files-tab|Edit images
   directly in the Files tab]]'
+- '[[Changes/OpenClaw/2026-10-12-managed-browser-tabs-at-the-shared-tab-limit-locally-managed-browser-cleanup-fav|Managed
+  browser tabs]]'
 source_release: '[[Releases/Cline/cline-2026-10-13-v4-1-24-github-411804449-05899922|cline-2026-10-13-v4-1-24-github-411804449-05899922]]'
 source_type: github_releases
 theme: editor-experience
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-12 · Lovable · [[Changes/Lovable/2026-10-12-edit-images-directly-in-the-files-tab|Edit images directly in the Files tab]]
+- Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-managed-browser-tabs-at-the-shared-tab-limit-locally-managed-browser-cleanup-fav|Managed browser tabs]]
 - Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-synchronous-task-json-output-now-includes-failed-child-error-and-lifecycle-event|Synchronous /task JSON output now includes failed child error and lifecycle events…]]
 <!-- chronolog:end -->
 

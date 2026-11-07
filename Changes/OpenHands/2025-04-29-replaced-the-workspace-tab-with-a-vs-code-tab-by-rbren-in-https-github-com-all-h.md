@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91e52bf4e1890e23f9a599472d188a4464ef9c07ee443af4053d420148c252a7
+machine_hash: 23dd59c82effa2cf70f1509efce25471e9c07b80a0f3a60acdeacee725c6388f
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,7 @@ record:
   title: Replaced the workspace tab with a VS Code tab
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-23-2-editor-experience-changes-in-1-3-0|2 Editor Experience
-  changes in 1.3.0]]'
+- '[[Changes/Midjourney/2025-04-23-lots-of-editor-improvements|Lots of editor improvements]]'
 - '[[Changes/OpenHands/2025-04-23-introduced-a-new-changes-tab-to-show-modifications-made-by-openhands-by-amanape|Introduced
   a new Changes tab to show modifications made by OpenHands]]'
 - '[[Changes/Windsurf/2025-04-25-updates-ide-marketplace-link-by-mirroring-open-vsx|Updates
@@ -77,7 +76,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-04-25 · Windsurf · [[Changes/Windsurf/2025-04-25-updates-ide-marketplace-link-by-mirroring-open-vsx|Updates IDE marketplace link by mirroring Open VSX]]
-- Later: 2025-05-05 · OpenHands · [[Changes/OpenHands/2025-05-05-improved-the-display-of-the-settings-tab-by-xingyaoww-in-https-github-com-all-ha|Improved the display of the settings tab]]
+- Later: 2025-04-30 · Midjourney · [[Changes/Midjourney/2025-04-30-improved-lightbox-editor-interface|Improved lightbox editor interface]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

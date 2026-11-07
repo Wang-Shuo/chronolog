@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7e1cca242887b50ab05b6d53fc9a57beabff687d57657ace5284e741c2792c1
+machine_hash: 8a48208c0fd4561aaa034c71be4075d04c732d221463c3d6eeec2a745d9b69fb
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified the /mcp message shown when an MCP server is still unauthorized after…]]
-- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-8-account-and-access-changes-in-1-14-0|8 Account and Access changes in 1.14.0]]
+- Later: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-2-account-and-access-changes-in-v1-14-29|2 Account and Access changes in v1.14.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

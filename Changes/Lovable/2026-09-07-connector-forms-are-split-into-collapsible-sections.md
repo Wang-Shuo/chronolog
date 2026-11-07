@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0d2247df559e727f761e6d22de8b4b4ed8590e29b773095fb26604a4bcd59d41
+machine_hash: 484607434f574a75dd0e7d4e4f7d9839b00f3a1138fec1d85eab9b9dd765668c
 product: lovable
 product_name: Lovable
 record:
@@ -48,8 +48,8 @@ record:
   title: Connector forms are split into collapsible sections
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-7-apps-and-integrations-changes-in-v1-0-83|7
-  Apps and Integrations changes in v1.0.83]]'
+- '[[Changes/OpenClaw/2026-09-05-35-apps-and-integrations-changes-in-v2026-9-2|35
+  Apps and Integrations changes in v2026.9.2]]'
 - '[[Changes/ElevenLabs/2026-09-07-sdk-releases|SDK releases]]'
 - '[[Changes/Lovable/2026-09-07-connect-your-app-to-gong|Connect your app to Gong]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-07-2026-09-07-cf030a1d|lovable-2026-09-07-2026-09-07-cf030a1d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6e296d708bedcc5c52d4a8e24e1aab1d1f426cf9b3dd749631ff44d56a24a62f
+machine_hash: e31ce016db4d59576c88cebafc3279257d7b2ed0ef6516c65a63a71a0c4341f8
 product: dify
 product_name: Dify
 record:
@@ -313,10 +313,10 @@ record:
   title: 93 Model Support changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-22-restore-tool-calling-for-custom-openai-compatible-models-whose-capability-list-w|Restore
-  tool calling for custom OpenAI-Compatible models whose capability list…]]'
 - '[[Changes/Cline/2026-08-23-refresh-the-built-in-model-catalog-new-entries-include-claude-fable-5-grok-4-6-o|Refresh
   the built-in model catalog]]'
+- '[[Changes/Google Antigravity/2026-08-24-added-support-for-attaching-audio-files-mp3-wav-m4a-aac-ogg-flac-opus-up-to-20mb|Added
+  support for attaching audio files (MP3, WAV, M4A, AAC, OGG, FLAC, OPUS) up…]]'
 - '[[Changes/Lovable/2026-08-24-chat-latest-for-your-app-s-ai-features|Chat Latest
   for your app''s AI features]]'
 source_release: '[[Releases/Dify/dify-2026-08-25-1-17-0-github-376348099-66c16161|dify-2026-08-25-1-17-0-github-376348099-66c16161]]'

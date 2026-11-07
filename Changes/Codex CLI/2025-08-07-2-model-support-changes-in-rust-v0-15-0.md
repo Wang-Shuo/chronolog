@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b31aae6efbf1584d0279f25d0c44004adfcf238a2b31255cdb1af08e984448e
+machine_hash: 951e3bc7718473f539e0a1b897ec0a6b1b5675ad071cf86e9b869f087f91f9e0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -82,7 +82,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.15.0
 ## Nearby in Model Support
 
 - Earlier: 2025-08-07 · Cline · [[Changes/Cline/2025-08-07-pashpashpash-gpt-5-release-by-pashpashpash-in-https-github-com-cline-cline-pull|Pashpashpash/gpt 5 release]]
-- Later: 2025-08-07 · Ollama · [[Changes/Ollama/2025-08-07-openai-always-provide-reasoning-by-drifkin-in-https-github-com-ollama-ollama-pul|openai: always provide reasoning]]
+- Later: 2025-08-07 · Midjourney · [[Changes/Midjourney/2025-08-07-heya-everyone-we-re-releasing-a-hd-mode-for-our-video-model-today|Heya everyone, we're releasing a HD mode for our video model today!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

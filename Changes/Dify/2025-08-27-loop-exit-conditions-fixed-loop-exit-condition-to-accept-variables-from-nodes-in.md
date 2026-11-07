@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd8af13db069d1df0f36a9208d6f37dd27dc50d2906dce29c6136d895d16a602
+machine_hash: a2a013df87f378cae91bf82b31d563342448cf75668b7837a4ffc8b8c80efb68
 product: dify
 product_name: Dify
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2692-do-not-schedule-frames-for-tui-draw-events-in-backtrack|♯2692 do not schedule frames for Tui::Draw events in backtrack]]
-- Later: 2025-09-01 · ElevenLabs · [[Changes/ElevenLabs/2025-09-01-python-sdk|Python SDK]]
+- Later: 2025-08-29 · Gamma · [[Changes/Gamma/2025-08-29-ready-to-get-started-try-one-of-these-popular-automations|Ready to get started?]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 36ac8df1c1fce4cde35d293132e6271b49224102e1383b1895b85fbb05c8efe1
+machine_hash: dd71dee290162183ece83ece28d03be948240c0d0d96eb1b3b3c02a0622a554f
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4 Interface Experience changes in v1.0.70]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added mouse-click support for multi-select menus and "Other" input rows in fullscreen mode]]
+- Later: 2026-07-13 · Google Antigravity · [[Changes/Google Antigravity/2026-07-13-added-support-for-attaching-and-rendering-plain-text-txt-files-in-conversations|Added support for attaching and rendering plain text (.txt) files in conversations…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

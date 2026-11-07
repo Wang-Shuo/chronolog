@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9534edf00023df4f9dc126915d4762cea8c692d20601fa15e7638d8f4e5b1eeb
+machine_hash: d6a37ae683fab920096dd9ed926226bd08494f2c45ac2749bd5a73fde0ff5f25
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,11 @@ record:
   title: 3 Editor Experience changes in 0.6.3
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-03-31-tag-autocomplete-dropdown-feature-added-for-effortless-chat-tagging|\U0001F3F7️
-  Tag Autocomplete: Dropdown feature added for effortless chat tagging]]"
 - '[[Changes/Dify/2024-04-09-2-editor-experience-changes-in-0-6-1|2 Editor Experience
   changes in 0.6.1]]'
 - '[[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++
   UX: Suggestion previews now have syntax highlighting, which we find makes…]]'
+- '[[Changes/Suno/2024-04-12-2-click-edit-profile|2️⃣ Click Edit Profile]]'
 source_release: '[[Releases/Dify/dify-2024-04-16-0-6-3-github-151300363-b9531748|dify-2024-04-16-0-6-3-github-151300363-b9531748]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,7 +87,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++ UX: Suggestion previews now have syntax highlighting, which we find makes…]]
+- Earlier: 2024-04-12 · Suno · [[Changes/Suno/2024-04-12-2-click-edit-profile|2️⃣ Click Edit Profile]]
 - Later: 2024-04-24 · Aider · [[Changes/Aider/2024-04-24-allow-repo-map-for-whole-edit-format|Allow repo map for "whole" edit format]]
 <!-- chronolog:end -->
 

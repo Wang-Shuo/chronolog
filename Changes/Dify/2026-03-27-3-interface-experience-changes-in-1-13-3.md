@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6600c7c85852ccc838175cd7923ae9b135f357818b140eb61b42f6b95f5ef15c
+machine_hash: b7206b02d6d0552e648be7fbcb36b4ac749db279c41de0f77b9b32340b197243
 product: dify
 product_name: Dify
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Interface Experience changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-3-interface-experience-changes-in-rust-v0-117-0|3
-  Interface Experience changes in rust-v0.117.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3
   Interface Experience changes in v1.0.12]]'
+- '[[Changes/OpenCode/2026-03-26-2-interface-experience-changes-in-v1-3-3|2 Interface
+  Experience changes in v1.3.3]]'
 - '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
   /skills menu to sort alphabetically for easier scanning]]'
 source_release: '[[Releases/Dify/dify-2026-03-27-1-13-3-github-302258183-3ff73e84|dify-2026-03-27-1-13-3-github-302258183-3ff73e84]]'
@@ -100,7 +100,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed /skills menu to sort alphabetically for easier scanning]]
-- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2 Interface Experience changes in v1.0.13]]
+- Later: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-2-interface-experience-changes-in-v1-3-6-2|2 Interface Experience changes in v1.3.6 + 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f34698cbc7c8d582d589913edba20f6e6bf5cc6096655d6abf74055960d246cb
+machine_hash: 66f13a1d171e8561f17333b0c6e0a5d04ea1f5c4629f11390682cffe0157238e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.10
 ## Nearby in Collaboration
 
 - Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-refactor-web-split-share-text-generation-and-add-high-coverage-tests-by-codingon|refactor(web): split share text-generation and add high-coverage tests]]
-- Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added managed-settings.d/ drop-in directory alongside managed-settings.json…]]
+- Later: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-2-collaboration-changes-in-v1-3-0|2 Collaboration changes in v1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

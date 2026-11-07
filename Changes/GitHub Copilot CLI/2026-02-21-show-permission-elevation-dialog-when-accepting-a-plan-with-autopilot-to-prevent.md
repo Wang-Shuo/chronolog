@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60773e971131ef4ac861983982d036ae882f333e2eebd9512dcf18c1897a344e
+machine_hash: 92337c51501537a5955fb871d581bf90bdd31c89e9261bcd3a8e231a132bcace
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
     prevent…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-7-safety-and-privacy-changes-in-cli-improvements-and-mermaid-ascii|7
-  Safety and Privacy changes in CLI Improvements and Mermaid ASCII…]]'
 - '[[Changes/Gemini CLI/2026-02-18-5-safety-and-privacy-changes-in-v0-29-0|5 Safety
   and Privacy changes in v0.29.0]]'
 - '[[Changes/Claude Code/2026-02-19-3-safety-and-privacy-changes-in-v2-1-49|3 Safety
   and Privacy changes in v2.1.49]]'
+- '[[Changes/OpenCode/2026-02-19-4-safety-and-privacy-changes-in-v1-2-7|4 Safety and
+  Privacy changes in v1.2.7]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-21-v0-0-414-github-288928471-d3403112|github-copilot-cli-2026-02-21-v0-0-414-github-288928471-d3403112]]'
 source_type: github_releases
 theme: safety-privacy
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-3-safety-and-privacy-changes-in-v2-1-49|3 Safety and Privacy changes in v2.1.49]]
+- Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-4-safety-and-privacy-changes-in-v1-2-7|4 Safety and Privacy changes in v1.2.7]]
 - Later: 2026-02-23 · ElevenLabs · [[Changes/ElevenLabs/2026-02-23-workspaces|Workspaces]]
 <!-- chronolog:end -->
 

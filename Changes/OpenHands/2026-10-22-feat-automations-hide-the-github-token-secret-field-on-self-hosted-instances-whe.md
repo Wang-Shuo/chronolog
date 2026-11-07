@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8df29dd23f8961ebe2742280cbb9356a26e58ee1ead14521c748af400e56dfe6
+machine_hash: 0875734206558e5d19ba79eed8e50c8a42ba5316ceebb083f47ad71313e68551
 product: openhands
 product_name: OpenHands
 record:
@@ -43,9 +43,10 @@ record:
   title: 'feat(automations): hide the GitHub token secret field on self-hosted instances…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-20-channels|Channels]]'
-- '[[Changes/OpenHands/2026-10-20-feat-home-dismiss-recommended-automations-rail-from-home-and-application-setting|feat(home):
-  dismiss recommended automations rail from Home and Application settings]]'
+- '[[Changes/Google Antigravity/2026-10-22-the-conversations-palette-cmd-p-on-macos-ctrl-p-on-windows-and-linux-now-include|The
+  Conversations palette (Cmd+P on macOS, Ctrl+P on Windows and Linux) now includes…]]'
+- '[[Changes/OpenClaw/2026-10-22-5-automation-and-scheduling-changes-in-v2026-10-6|5
+  Automation and Scheduling changes in v2026.10.6]]'
 - '[[Changes/OpenHands/2026-10-22-refactor-automations-express-the-activity-track-height-in-css-by-enyst-in-https|refactor(automations):
   express the activity track height in CSS]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-22-v1-31-0-github-420932125-8ecc1112|openhands-2026-10-22-v1-31-0-github-420932125-8ecc1112]]'

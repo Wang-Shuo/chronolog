@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2c06bb54e04d3725bbe843cd10ffd9b9ab9bda2bcfcfaaca85e29b95219f0509
+machine_hash: e81258d4d9960d8e15d13c08e2dbc511c9a0ab1baa9d64c82c74d63d83b790cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,9 +44,10 @@ record:
   title: Added support for Claude Sonnet 4.6
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-16-new-schemas|New Schemas]]'
 - '[[Changes/Open WebUI/2026-02-16-4-model-support-changes-in-v0-8-2|4 Model Support
   changes in v0.8.2]]'
+- '[[Changes/OpenCode/2026-02-16-core-remove-unnecessary-per-message-title-llm-calls|Core
+  Remove unnecessary per-message title LLM calls]]'
 - '[[Changes/Claude/2026-02-17-claude-sonnet-4-6-launch|Claude Sonnet 4.6 launch]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
 source_type: github_releases

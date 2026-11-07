@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0aa09600f9d130e900dd068b3fbc9034b838830d5aa7042d4ae897dba7c95ed0
+machine_hash: e0cda4db86618ffd0d33c57d787d90688ccf4d866429072f2cb1ea2e017d6932
 product: openhands
 product_name: OpenHands
 record:
@@ -40,8 +40,8 @@ record:
   title: Example code review microagent
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-16-keep-those-pull-requests-coming-as-we-aim-to-make-your-user-experience-as-seamle|Keep
-  those pull requests coming as we aim to make your user experience as seamless…]]'
+- '[[Changes/Midjourney/2025-06-18-what-s-that-basically-imagine-an-ai-system-that-generates-imagery-in-real-time-y|What’s
+  that? Basically; imagine an AI system that generates imagery in real-time]]'
 - '[[Changes/OpenHands/2025-06-20-git-ownership-errors-in-containers-by-llamantino-in-https-github-com-all-hands-a|Git
   Ownership Errors in containers]]'
 - '[[Changes/OpenHands/2025-06-20-2-developer-workflow-changes-in-0-44-0|2 Developer

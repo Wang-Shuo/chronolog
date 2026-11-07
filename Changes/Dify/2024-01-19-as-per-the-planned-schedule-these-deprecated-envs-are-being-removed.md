@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 90307698a2c61e7aac982621b8f460a1cc360c867090d64e6895f62fea1aa1c9
+machine_hash: 4748e3f9b4de1be8a5cc1790da70e1d73c928b03b0b69c149aa6db187f0f728f
 product: dify
 product_name: Dify
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2024-01-04 · Dify · [[Changes/Dify/2024-01-04-alter-schedule-timedelta-by-johnjyong-in-https-github-com-langgenius-dify-pull-1|alter schedule timedelta]]
-- Later: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-targeting-automation-and-batch-processing-this-is-ideal-for-translation-data-ana|Targeting Automation and Batch Processing]]
+- Later: 2024-03-13 · Midjourney · [[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

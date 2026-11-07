@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 95ca0fdf119d920e3bc5d3b657ef7f12834022f3404399dabfa9d8eec97f8e8d
+machine_hash: 3ea79f67d35230a4d695461e7952426815e400ccd0b5c5e660229905e75c8f34
 product: ollama
 product_name: Ollama
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-7-developer-workflow-changes-in-v0-25-0|7 Developer Workflow changes in v0.25.0]]
-- Later: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added new task management system, including new capabilities like dependency tracking]]
+- Later: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-4-developer-workflow-changes-in-v1-1-29|4 Developer Workflow changes in v1.1.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

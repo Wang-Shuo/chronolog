@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ffef359aea9a71a86a8bc4306bc422febd5dee7fd90abfcfa696c3fec1d9fa79
+machine_hash: 2a89d832a3ee0c5a23d76d356003facacb68d0addac61e051cf40021b6bb3879
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0
 ## Nearby in Pricing Model
 
 - Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-test-add-comprehensive-unit-and-integration-tests-for-billing-components-by-codi|test: add comprehensive unit and integration tests for billing components]]
-- Later: 2026-03-19 · Cline · [[Changes/Cline/2026-03-19-add-missing-fireworks-serverless-models-and-pricing|Add missing Fireworks serverless models and pricing]]
+- Later: 2026-03-17 · Midjourney · [[Changes/Midjourney/2026-03-17-modes-and-pricing|Modes and Pricing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

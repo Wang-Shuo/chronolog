@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3eeddf8d464af84f3c5885a9ddd582a18cd056c5dac01f95293b743176c7225b
+machine_hash: 304bb787d932aa1e02495f7f723fbfdb4f7eab7685aaf0407bebe81209a2f77f
 product: dify
 product_name: Dify
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-01-19 · Dify · [[Changes/Dify/2024-01-19-delete-document-cache-embedding-by-johnjyong-in-https-github-com-langgenius-dify|delete document cache embedding]]
-- Later: 2024-03-04 · Dify · [[Changes/Dify/2024-03-04-feat-add-documents-limitation-by-garfielddai-in-https-github-com-langgenius-dify|Feat: Add documents limitation]]
+- Later: 2024-02-14 · Gamma · [[Changes/Gamma/2024-02-14-pdf-compression-we-made-pdf-exports-much-smaller-90-reduction-in-average-file-si|PDF Compression]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

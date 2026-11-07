@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72c33446bdb0d22bb6452902d77bc132e0f9f600ffecb0371ca5cf5f024d40bc
+machine_hash: 5e5bd75513e2aef8ae1af020d08b675d26feb49f15340bcbadd43914cdecfef3
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.181
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-16 · Windsurf · [[Changes/Windsurf/2026-06-16-the-3-2-series-brings-devin-local-enhancements-and-continued-devin-desktop-polis|The 3.2 series brings Devin Local enhancements and continued Devin Desktop polish]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated composer and tools menu]]
+- Later: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-desktop-the-new-desktop-file-and-folder-picker-is-faster-and-easier-to-navigate|Desktop The new desktop file and folder picker is faster and easier to navigate…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

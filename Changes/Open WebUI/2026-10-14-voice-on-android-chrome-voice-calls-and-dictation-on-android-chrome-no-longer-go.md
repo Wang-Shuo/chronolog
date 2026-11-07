@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62df4575f660240ce87bf95f016cb4f9e7aad7d8a9d38c7150e4e8d1aa35fe8d
+machine_hash: e1394633eed42f10236f942c75d1051f6b3c2608034e9719ba6f5d571d418697
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,8 +52,9 @@ record:
     Chrome no longer…"
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-12-voices-e71bd5|Voices]]'
 - '[[Changes/ElevenLabs/2026-10-12-speech-to-text-f7d11e|Speech to Text]]'
+- '[[Changes/OpenClaw/2026-10-12-dictation-holding-the-microphone-and-releasing-it-no-longer-stops-recording-prem|Dictation.
+  Holding the microphone and releasing it no longer stops recording prematurely]]'
 - '[[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude
   Tag Added support for Slack voice clips in Claude in Slack]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d|open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 210456abfe8e7747fc2ecd94ffbd449f8c31434cafcf60e6f15f4eb0cc20d1fe
+machine_hash: b583814acfafa889339dc3fce9b65408ab9df963c54ae1471f856280768d7cc2
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Developer Workflow changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer
-  Workflow changes in v2.1.121]]'
 - '[[Changes/Gemini CLI/2026-04-28-3-developer-workflow-changes-in-v0-40-0|3 Developer
   Workflow changes in v0.40.0]]'
+- '[[Changes/OpenCode/2026-04-28-4-developer-workflow-changes-in-v1-14-29|4 Developer
+  Workflow changes in v1.14.29]]'
 - '[[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added
   first-class run streaming with SSE events, reconnect support…]]'
 source_release: '[[Releases/Dify/dify-2026-04-29-1-14-0-github-314986233-63073e86|dify-2026-04-29-1-14-0-github-314986233-63073e86]]'
@@ -96,7 +96,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added first-class run streaming with SSE events, reconnect support…]]
-- Later: 2026-04-29 · Windsurf · [[Changes/Windsurf/2026-04-29-devin-for-terminal|Devin for Terminal]]
+- Later: 2026-04-29 · OpenCode · [[Changes/OpenCode/2026-04-29-2-developer-workflow-changes-in-v1-14-30|2 Developer Workflow changes in v1.14.30]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

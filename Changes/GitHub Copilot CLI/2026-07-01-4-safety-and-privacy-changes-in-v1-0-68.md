@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63cdd9a36138083344378e88ae3cc75f9992a186a581b0564c3b0a83eca47992
+machine_hash: 148a5f27b562b895a7ddcd51a2c3472636186b8be2c53346fa734729c20d2a85
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Safety and Privacy changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-16-safety-and-privacy-changes-in-v0-10-0|16 Safety
-  and Privacy changes in v0.10.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-disabling-the-sandbox-for-the-rest-of-the-session-now-takes-effect-immediately-s|Disabling
-  the sandbox for the rest of the session now takes effect immediately…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-3-safety-and-privacy-changes-in-v1-0-66|3
   Safety and Privacy changes in v1.0.66]]'
+- '[[Changes/OpenClaw/2026-06-30-6-safety-and-privacy-changes-in-v2026-6-11|6 Safety
+  and Privacy changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-sdk-add-session-permission-request-create-and-fetch-endpoints|SDK
+  Add session permission request create and fetch endpoints]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583|github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583]]'
 source_type: github_releases
 theme: safety-privacy
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-3-safety-and-privacy-changes-in-v1-0-66|3 Safety and Privacy changes in v1.0.66]]
+- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-sdk-add-session-permission-request-create-and-fetch-endpoints|SDK Add session permission request create and fetch endpoints]]
 - Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-3-safety-and-privacy-changes-in-v0-10-2|3 Safety and Privacy changes in v0.10.2]]
 <!-- chronolog:end -->
 

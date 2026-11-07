@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9d23b47eda7c55a7202224cbcd54afa79a81f5c83ddfcb25e1103076c093165
+machine_hash: 3fb25356f039074ec6f27010f07454bdc2027c52dea41a081cdbd1a4514b632d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Image Generation changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-07-cleaner-image-generation-layout-in-the-mlx-runner|Cleaner
-  image generation layout in the MLX runner]]'
 - '[[Changes/Open WebUI/2026-05-10-2-image-generation-changes-in-v0-9-5|2 Image Generation
   changes in v0.9.5]]'
+- '[[Changes/Gamma/2026-05-15-brainstorm-generate-and-edit-images-in-chat|Brainstorm,
+  generate, and edit images in chat]]'
 - '[[Changes/Lovable/2026-05-18-improvements-and-bug-fixes|Improvements and bug fixes]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'
 source_type: github_releases

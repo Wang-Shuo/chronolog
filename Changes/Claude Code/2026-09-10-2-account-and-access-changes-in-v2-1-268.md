@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e901c59cbf2c3591f92deafdd2cf3043efaaf657fc7fbd586943c352da335f7f
+machine_hash: e8ce2d4d5cd3b31aabaa2174f6e9f7b8a61e94211ec9808067768e03b174d792
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Account and Access changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account
-  and Access changes in v2.1.265]]'
 - '[[Changes/Lovable/2026-09-08-lovable-signs-in-to-test-pages-behind-your-app-s-login|Lovable
   signs in to test pages behind your app''s login]]'
+- '[[Changes/OpenClaw/2026-09-08-8-account-and-access-changes-in-v2026-9-3|8 Account
+  and Access changes in v2026.9.3]]'
 - '[[Changes/Codex CLI/2026-09-09-5-account-and-access-changes-in-rust-v0-154-0|5
   Account and Access changes in rust-v0.154.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'

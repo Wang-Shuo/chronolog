@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6fecdde6aed62ff9ea7d9f0d54bdd09f2c219e487fc6603bcce5045ea7778760
+machine_hash: ffd3730eddc80961fa43be6c638fd646c1667eb1c6a6ea5ae4a38469bfbe2a8c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Image Generation changes in v1.0.106
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-25-images-settings-save-admins-can-now-save-images-settings-while-image-generation|\U0001F58C️
-  Images settings save. Admins can now save Images settings while Image…]]"
-- '[[Changes/Codex CLI/2026-10-29-3-image-generation-changes-in-rust-v0-166-0|3 Image
-  Generation changes in rust-v0.166.0]]'
-- '[[Changes/Open WebUI/2026-10-29-2-image-generation-changes-in-v0-12-5|2 Image Generation
-  changes in v0.12.5]]'
+- '[[Changes/OpenCode/2026-10-29-core-associated-image-generation-notices-with-the-correct-background-job|Core
+  Associated image-generation notices with the correct background job]]'
+- '[[Changes/OpenCode/2026-10-29-core-offer-gpt-image-2-after-codex-sign-in-and-add-minimax-and-meta-muse-image-g|Core
+  Offer GPT Image 2 after Codex sign-in and add MiniMax and Meta Muse image…]]'
+- '[[Changes/OpenClaw/2026-11-03-image-generation-and-editing-now-reject-invalid-size-and-shape-options-before-co|Image
+  generation and editing now reject invalid size and shape options before…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: image-generation
@@ -100,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-image-generation-changes-in-v0-12-5|2 Image Generation changes in v0.12.5]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-image-generation-and-editing-now-reject-invalid-size-and-shape-options-before-co|Image generation and editing now reject invalid size and shape options before…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

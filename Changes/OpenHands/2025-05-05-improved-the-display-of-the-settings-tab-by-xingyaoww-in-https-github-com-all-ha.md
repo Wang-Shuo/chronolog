@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 671da8ec250ec36a5480e64c81a1fb5408bba2b288f0eb3fe7b01e226ff9b551
+machine_hash: 46e83c58b338155145299f57c0562dede169be442aad7bf1f710df1ddf352b38
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved the display of the settings tab
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-23-introduced-a-new-changes-tab-to-show-modifications-made-by-openhands-by-amanape|Introduced
-  a new Changes tab to show modifications made by OpenHands]]'
 - '[[Changes/Windsurf/2025-04-25-updates-ide-marketplace-link-by-mirroring-open-vsx|Updates
   IDE marketplace link by mirroring Open VSX]]'
 - '[[Changes/OpenHands/2025-04-29-replaced-the-workspace-tab-with-a-vs-code-tab-by-rbren-in-https-github-com-all-h|Replaced
   the workspace tab with a VS Code tab]]'
+- '[[Changes/Midjourney/2025-04-30-improved-lightbox-editor-interface|Improved lightbox
+  editor interface]]'
 source_release: '[[Releases/OpenHands/openhands-2025-05-05-0-36-1-github-216594786-15b747e6|openhands-2025-05-05-0-36-1-github-216594786-15b747e6]]'
 source_type: github_releases
 theme: editor-experience
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-04-29 · OpenHands · [[Changes/OpenHands/2025-04-29-replaced-the-workspace-tab-with-a-vs-code-tab-by-rbren-in-https-github-com-all-h|Replaced the workspace tab with a VS Code tab]]
+- Earlier: 2025-04-30 · Midjourney · [[Changes/Midjourney/2025-04-30-improved-lightbox-editor-interface|Improved lightbox editor interface]]
 - Later: 2025-05-07 · OpenHands · [[Changes/OpenHands/2025-05-07-added-helpful-tips-to-changes-tab-zero-state-by-rbren-in-https-github-com-all-ha|Added helpful tips to Changes tab zero state]]
 <!-- chronolog:end -->
 

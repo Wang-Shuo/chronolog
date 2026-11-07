@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae45ae78c73a44b8baeff4f45f6da01211cd65143e4cc29bb2a273b6f1374891
+machine_hash: 9e491e9cb0e62820c13ae648d6fdd003c1e0f58dec49a2b4fad76a459c832b2e
 product: v0
 product_name: v0
 record:
@@ -61,8 +61,8 @@ record:
   title: 6 Interface Experience changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-3-interface-experience-changes-in-v1-0-81|3
-  Interface Experience changes in v1.0.81]]'
+- '[[Changes/Midjourney/2026-08-27-drag-images-into-the-prompt-bar-under-attach-to-prompt|Drag
+  images into the prompt bar under "attach to prompt”]]'
 - '[[Changes/OpenHands/2026-08-27-feat-pin-a-favorite-sidebar-page-as-the-home-route-by-hieptl-in-https-github-com|feat:
   pin a favorite sidebar page as the home route]]'
 - '[[Changes/Claude Code/2026-08-28-added-a-spend-limit-bar-to-usage-and-a-rate-limits-spend-limit-status-line-field|Added

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce03778707ae036939cc89aed4725c5c216503767b92df4f15798021ecfa063f
+machine_hash: 1eb4d294c0d09791f76cf7a0e87ddac22d5b5061d7d1470aea3c34e7876f7659
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: '#19805 Add MultiAgentV2 root and subagent context hints @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode
-  /context now opens a native token usage dialog]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-28-add-compact-context-usage-and-env-slash-commands-for-acp-sessions|Add
-  /compact, /context, /usage, and /env slash commands for ACP sessions]]'
+- '[[Changes/OpenCode/2026-04-28-2-context-window-changes-in-v1-14-29|2 Context Window
+  changes in v1.14.29]]'
 - '[[Changes/Dify/2026-04-29-3-context-window-changes-in-1-14-0|3 Context Window changes
   in 1.14.0]]'
+- '[[Changes/OpenCode/2026-04-29-2-context-window-changes-in-v1-14-30|2 Context Window
+  changes in v1.14.30]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases
 theme: context-window
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-3-context-window-changes-in-1-14-0|3 Context Window changes in 1.14.0]]
+- Earlier: 2026-04-29 · OpenCode · [[Changes/OpenCode/2026-04-29-2-context-window-changes-in-v1-14-30|2 Context Window changes in v1.14.30]]
 - Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-remote-session-statusline-shows-the-remote-working-directory-and-branch-instead|Remote session statusline shows the remote working directory and branch instead…]]
 <!-- chronolog:end -->
 

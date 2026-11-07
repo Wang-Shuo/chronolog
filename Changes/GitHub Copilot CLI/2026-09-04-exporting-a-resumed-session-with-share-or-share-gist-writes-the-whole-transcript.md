@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac53a2147a70dad3269248db2a3e746077d1c85aff40dd9f93f781b4d77434a8
+machine_hash: adb166198ea5683de72e5b0a6519a21b4a9a57d5987836a46505c2042c907169
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     transcript…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-5-collaboration-changes-in-rust-v0-152-0|5 Collaboration
-  changes in rust-v0.152.0]]'
 - '[[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share
   Sites with people outside your workspace]]'
 - '[[Changes/Codex CLI/2026-09-03-6-collaboration-changes-in-rust-v0-153-0|6 Collaboration
   changes in rust-v0.153.0]]'
+- '[[Changes/OpenClaw/2026-09-03-7-collaboration-changes-in-v2026-9-1|7 Collaboration
+  changes in v2026.9.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
 source_type: github_releases
 theme: collaboration
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-6-collaboration-changes-in-rust-v0-153-0|6 Collaboration changes in rust-v0.153.0]]
-- Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt]]
+- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-7-collaboration-changes-in-v2026-9-1|7 Collaboration changes in v2026.9.1]]
+- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-9-collaboration-changes-in-v2026-9-2|9 Collaboration changes in v2026.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

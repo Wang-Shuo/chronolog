@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 664fe499396bf4039d45cc48021b2f0631bfb2475739c4c446f14eeee213119c
+machine_hash: 1ebd1d9743b7502b71af1333e829401665a838e52fda9bd4ce01d2fcc5d9c55b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: 6 Memory and Personalization changes in rust-v0.107.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-3-memory-and-personalization-changes-in-rust-v0-106-0|3
-  Memory and Personalization changes in rust-v0.106.0]]'
+- '[[Changes/Midjourney/2026-02-26-this-lets-you-make-personalization-profiles-by-clicking-and-scrolling-through-a|This
+  lets you make personalization profiles by clicking and scrolling through a list…]]'
 - '[[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project
   configs & auto memory now shared across git worktrees of the same repository]]'
 - '[[Changes/Claude/2026-03-02-memory-for-free-users|Memory for free users]]'

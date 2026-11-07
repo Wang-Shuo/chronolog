@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e36dc273b923ad6bddd21cbc38581784f5ba85ff07f55b101cb51a94f0f4d30
+machine_hash: 383f753fcffce0e265ce8d227950887d6e3ba28b5fe449c4f6fcd97a4516b0d2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -65,12 +65,12 @@ record:
   title: 5 Enterprise and Administration changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding):
-  show the Super Admin setup guide on enterprise backends]]'
 - '[[Changes/Lovable/2026-10-09-enterprise-credit-balances-now-appear-as-numbers|Enterprise
   credit balances now appear as numbers]]'
 - '[[Changes/Lovable/2026-10-09-publish-every-app-in-your-workspace-under-your-own-domain|Publish
   every app in your workspace under your own domain]]'
+- '[[Changes/Runway/2026-10-09-workspace-admins-can-now-set-a-credit-cap-on-any-project-giving-each-team-or-cli|Project
+  Credit Caps]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -127,8 +127,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-09 · Lovable · [[Changes/Lovable/2026-10-09-publish-every-app-in-your-workspace-under-your-own-domain|Publish every app in your workspace under your own domain]]
-- Later: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep /allow-all available during startup while enterprise policy is still resolving]]
+- Earlier: 2026-10-09 · Runway · [[Changes/Runway/2026-10-09-workspace-admins-can-now-set-a-credit-cap-on-any-project-giving-each-team-or-cli|Project Credit Caps]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-5-enterprise-and-administration-changes-in-v2026-10-1|5 Enterprise and Administration changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

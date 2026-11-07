@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 837391dfb1090f9b825e1c0c57cdad0a10a816330373b76928fc104b438d4742
+machine_hash: a0e8049b5157008d83deffca833a0b38e826b689329faf79e70c6cf72e72d018
 product: cursor
 product_name: Cursor
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-2-collaboration-changes-in-0-8-2|2 Collaboration changes in 0.8.2]]
-- Later: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-with-this-release-we-re-truly-showcasing-the-power-of-dify-we-appreciate-your-co|With this release, we’re truly showcasing the power of Dify!]]
+- Later: 2024-09-10 · Gamma · [[Changes/Gamma/2024-09-10-we-added-a-new-way-to-share-your-gamma-creations-you-can-now-download-any-of-you|We added a new way to share your Gamma creations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

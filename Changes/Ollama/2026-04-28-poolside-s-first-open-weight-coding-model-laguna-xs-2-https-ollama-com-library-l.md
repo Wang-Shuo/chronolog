@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a01df6145294c6645da72c1bc7b0847aedd0d9437cb4ebe1082b271b6f7e6e89
+machine_hash: 4739a3caa98d51e348635b172874772b853b66ecacd47a86e977c04e93a96904
 product: ollama
 product_name: Ollama
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-28 · Ollama · [[Changes/Ollama/2026-04-28-model-recommendations-are-now-updated-without-updating-ollama|Model recommendations are now updated without updating Ollama]]
-- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-27-model-support-changes-in-1-14-0|27 Model Support changes in 1.14.0]]
+- Later: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-2-model-support-changes-in-v1-14-29|2 Model Support changes in v1.14.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

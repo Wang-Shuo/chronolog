@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c19e7790abac104256b2856c3943499743ec10f15b4ebb9ba147fe670d2564a
+machine_hash: ed90867f1314671be943c8f906493a236b59c49984696c9ba2fd48e4064f5f0c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.2
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-labs-tab-the-labs-tab-has-been-removed-from-settings-github-branch-switching-is|Labs tab. The Labs tab has been removed from settings]]
-- Later: 2026-04-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add copilot completion bash / zsh / fish subcommand to generate static shell…]]
+- Later: 2026-04-26 · OpenCode · [[Changes/OpenCode/2026-04-26-terminal-fixed-editor-lock-detection-to-ignore-locks-from-unrelated-workspaces|Terminal Fixed editor lock detection to ignore locks from unrelated workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

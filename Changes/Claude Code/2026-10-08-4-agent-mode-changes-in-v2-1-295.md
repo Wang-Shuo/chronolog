@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ddac2351b5263d82a0c279ce09074d37f044f4dc854236e33e574becfd74f68a
+machine_hash: 2cce36ade71ff385d9f8199bb44ca83515103563803e8d06e9ebccc9c98b552a
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Agent Mode changes in v2.1.295
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-07-2-agent-mode-changes-in-v2-1-293|2 Agent Mode
-  changes in v2.1.293]]'
 - '[[Changes/Codex CLI/2026-10-07-9-agent-mode-changes-in-rust-v0-161-0|9 Agent Mode
   changes in rust-v0.161.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-clicking-a-truncated-compact-shell-command-expands-it|Clicking
   a truncated compact shell command expands it]]'
+- '[[Changes/Google Antigravity/2026-10-07-2-agent-mode-changes-in-hub-v2-21-1-advanced-search|2
+  Agent Mode changes in HUB v2.21.1 — Advanced Search…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: agent-mode
@@ -105,7 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-clicking-a-truncated-compact-shell-command-expands-it|Clicking a truncated compact shell command expands it]]
+- Earlier: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-2-agent-mode-changes-in-hub-v2-21-1-advanced-search|2 Agent Mode changes in HUB v2.21.1 — Advanced Search…]]
 - Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-14-agent-mode-changes-in-rust-v0-162-0|14 Agent Mode changes in rust-v0.162.0]]
 <!-- chronolog:end -->
 

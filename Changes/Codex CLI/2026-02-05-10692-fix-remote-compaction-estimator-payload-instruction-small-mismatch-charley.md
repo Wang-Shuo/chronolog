@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49f3a70426e21f32cd01b21ad01e281a3a1d3e4ab17872bedb48512b3aa4b5c6
+machine_hash: 425f41b79c8f5873d6c4af6151234ca1f45eabdd39d512de8e403f8e517ab5e5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context Window changes in v2.1.32]]
-- Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-6-context-window-changes-in-rust-v0-99-0|6 Context Window changes in rust-v0.99.0]]
+- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-desktop-fix-stale-context-in-prompt-input|Desktop Fix stale context in prompt input]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

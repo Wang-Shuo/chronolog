@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a94b40e09e43b4dee78eadf53a3ca3b56d1e29334e666370d43251a413b8034
+machine_hash: c0b3b14c0d60a6a9328ce4c5b5657215d95204553b0090b35a69d7226dd17987
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
   title: '[VSCode] Added native MCP server management dialog'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-2-account-and-access-changes-in-v2-1-69|2 Account
-  and Access changes in v2.1.69]]'
 - '[[Changes/Codex CLI/2026-03-05-12383-add-new-scopes-to-login-adaley-openai|♯12383
   add new scopes to login @adaley-openai]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-display-request-id-in-authentication-and-authorization-error-messages-to-aid-tro|Display
   request ID in authentication and authorization error messages to aid…]]'
+- '[[Changes/OpenCode/2026-03-05-terminal-add-options-to-auth-login-command-to-skip-interactive-questions|Terminal
+  Add options to auth login command to skip interactive questions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0|claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0]]'
 source_type: github_releases
 theme: account-access
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-display-request-id-in-authentication-and-authorization-error-messages-to-aid-tro|Display request ID in authentication and authorization error messages to aid…]]
+- Earlier: 2026-03-05 · OpenCode · [[Changes/OpenCode/2026-03-05-terminal-add-options-to-auth-login-command-to-skip-interactive-questions|Terminal Add options to auth login command to skip interactive questions]]
 - Later: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-mcp-servers-can-now-request-users-to-visit-a-url-for-out-of-band-interactions-su|MCP servers can now request users to visit a URL for out-of-band interactions such…]]
 <!-- chronolog:end -->
 

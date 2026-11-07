@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89e6142a72331455ba447a000d5c64fd637cf7c936196ea7e929f23ceee09d2b
+machine_hash: 25668cbaba52e157edb6187f2ac7d06cdde71da942ddb058db8d602de8758e37
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.51
 ## Nearby in Account and Access
 
 - Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-2-account-and-access-changes-in-rust-v0-132-0|2 Account and Access changes in rust-v0.132.0]]
-- Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-2-account-and-access-changes-in-v1-0-52|2 Account and Access changes in v1.0.52]]
+- Later: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-core-opencode-login-now-defaults-to-https-console-opencode-ai|Core opencode login now defaults to (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

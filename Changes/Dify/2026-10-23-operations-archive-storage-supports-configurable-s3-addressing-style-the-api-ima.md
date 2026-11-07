@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 17765459c311f37c10412b82533e1056afcdbaca497651185c1a6f343f200c54
+machine_hash: bfed64e3433bbe34f8f667f257817903a706430ce3357da5eebebc705e1eacb1
 product: dify
 product_name: Dify
 record:
@@ -49,10 +49,10 @@ record:
   title: '**Operations:** archive storage supports configurable S3 addressing style'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-22-3-model-support-changes-in-v1-0-103|3 Model
-  Support changes in v1.0.103]]'
 - '[[Changes/Lovable/2026-10-22-gemini-2-5-chat-models-are-retired-for-your-app-s-ai-features|Gemini
   2.5 chat models are retired for your app''s AI features]]'
+- '[[Changes/OpenClaw/2026-10-22-4-model-support-changes-in-v2026-10-6|4 Model Support
+  changes in v2026.10.6]]'
 - '[[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model
   Support changes in rust-v0.164.0]]'
 source_release: '[[Releases/Dify/dify-2026-10-23-1-18-0-github-421489030-879b0613|dify-2026-10-23-1-18-0-github-421489030-879b0613]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d18710ed814482b2c9b4461561307a58f6ca874c19e356627a6f6e29f5501e01
+machine_hash: f4361ffb9eeccc1f4698121aa2db1abce4a90b7f3347e05b1205ad51ef090c6b
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Agent Mode changes in v2.1.50
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-2-agent-mode-changes-in-cli-improvements-and-mermaid-ascii|2
-  Agent Mode changes in CLI Improvements and Mermaid ASCII…]]'
 - '[[Changes/Gemini CLI/2026-02-18-8-agent-mode-changes-in-v0-29-0|8 Agent Mode changes
   in v0.29.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-3-agent-mode-changes-in-v0-0-412|3 Agent
   Mode changes in v0.0.412]]'
+- '[[Changes/OpenCode/2026-02-19-core-migrate-agent-ts-from-bun-file-to-filesystem-module|Core
+  Migrate agent.ts from Bun.file() to Filesystem module]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,8 +84,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.50
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-3-agent-mode-changes-in-v0-0-412|3 Agent Mode changes in v0.0.412]]
-- Later: 2026-02-20 · Replit · [[Changes/Replit/2026-02-20-production-deployment-logs-access|Production deployment logs access]]
+- Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-core-migrate-agent-ts-from-bun-file-to-filesystem-module|Core Migrate agent.ts from Bun.file() to Filesystem module]]
+- Later: 2026-02-20 · OpenCode · [[Changes/OpenCode/2026-02-20-core-remove-user-agent-header-assertion-from-llm-test-to-fix-failing-test|Core Remove User-Agent header assertion from LLM test to fix failing test]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

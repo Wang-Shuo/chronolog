@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 262fd1e9e7045bbce43d220494814d6e991489433f515e2752741a3faad1f8a6
+machine_hash: 71c45a0db63127b5769d3351a53b22692bd46f6a79629b26118209e5724eaa24
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Editor Experience changes in ElevenLabs updates — 2026-10-26
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-in-ide-mode-a-chat-tab-whose-agent-could-not-start-a-session-says-why-and-offers|In
-  IDE mode, a chat tab whose agent could not start a session says why and offers…]]'
+- '[[Changes/OpenClaw/2026-10-24-a-suspiciously-truncated-configuration-no-longer-replaces-the-healthy-recovery-c|A
+  suspiciously truncated configuration no longer replaces the healthy recovery copy…]]'
 - '[[Changes/Open WebUI/2026-10-25-4-editor-experience-changes-in-v0-12-4|4 Editor
   Experience changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode
@@ -107,7 +107,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/10/26
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode Changed the session list side bar to load Web sessions when the Web tab…]]
-- Later: 2026-10-26 · Lovable · [[Changes/Lovable/2026-10-26-scroll-through-all-files-in-the-files-tab|Scroll through all files in the Files tab]]
+- Later: 2026-10-26 · Google Antigravity · [[Changes/Google Antigravity/2026-10-26-markdown-previews-and-overview-sections-in-new-side-panel-tabs|Markdown previews and overview sections in new side panel tabs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

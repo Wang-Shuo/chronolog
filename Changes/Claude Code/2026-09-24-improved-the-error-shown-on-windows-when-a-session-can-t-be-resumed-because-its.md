@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 42f0feee683f0720f242d5353c8a62b544a7e0f83add8de936172d609145f181
+machine_hash: 2b6032b26804dcf740cc2f565fde154e23b4998c507ea9b1f5d68ff2fcdc18d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: Improved the error shown on Windows when a session can't be resumed because…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-11-mobile-and-desktop-changes-in-rust-v0-156-0|11
-  Mobile and Desktop changes in rust-v0.156.0]]'
 - '[[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile
   and Desktop changes in v2.1.281]]'
+- '[[Changes/OpenClaw/2026-09-23-16-mobile-and-desktop-changes-in-v2026-9-6|16 Mobile
+  and Desktop changes in v2026.9.6]]'
 - '[[Changes/OpenHands/2026-09-23-feat-desktop-universal-macos-dmg-with-per-arch-bundled-runtimes-by-harsh-batheja|feat(desktop):
   universal macOS DMG with per-arch bundled runtimes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'

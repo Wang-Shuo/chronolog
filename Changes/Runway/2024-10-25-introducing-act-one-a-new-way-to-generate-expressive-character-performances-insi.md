@@ -1,0 +1,97 @@
+---
+card_id: runway-2024-10-25-9b4640
+date: '2024-10-25'
+description: 'Runway · 2024-10-25 · Multimodal Input: Introducing, Act-One. A new
+  way to generate expressive character performances inside Gen-3 Alpha using a single
+  driving…'
+diffusion:
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 402
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: multimodal
+  tracked_products_count: 29
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: launch
+machine_hash: d4e410e8fa8ba39068c0f6abbf5ef597e568cc1a1c578d488c6ff0ccf021b91a
+product: runway
+product_name: Runway
+record:
+  ai_generated: true
+  card_id: runway-2024-10-25-9b4640
+  comparison: ''
+  confidence: low
+  date: '2024-10-25'
+  description: 'Runway — Act-One in Gen-3 Alpha: Introducing, Act-One. A new way to
+    generate expressive character performances inside Gen-3 Alpha using a single driving
+    video and character image. No motion capture or rigging required. Act-One is gradually
+    rolling out to users and will soon be available to everyone.'
+  evidence:
+  - quote: Introducing, Act-One. A new way to generate expressive character performances
+      inside Gen-3 Alpha using a single driving video and character image. No motion
+      capture or rigging required. Act-One is gradually rolling out to users and will
+      soon be available to everyone.
+    source_release: https://runway.com/changelog
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
+  product: runway
+  product_name: Runway
+  slug: introducing-act-one-a-new-way-to-generate-expressive-character-performances-insi
+  source_release: runway-2024-10-25-2024-10-25-act-one-in-gen-3-alpha-c5f9d741
+  source_type: runway_changelog
+  theme: multimodal
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Act-One in Gen-3 Alpha
+  type: change
+related_changes:
+- '[[Changes/Suno/2024-10-10-tips-for-effective-use|Tips for Effective Use]]'
+- '[[Changes/Dify/2024-10-21-if-you-have-a-basic-chatbot-or-text-generator-app-with-the-vision-feature-enable|
+  If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…]]'
+- '[[Changes/Ollama/2024-10-21-3-multimodal-input-changes-in-v0-4-0|3 Multimodal Input
+  changes in v0.4.0]]'
+source_release: '[[Releases/Runway/runway-2024-10-25-2024-10-25-act-one-in-gen-3-alpha-c5f9d741|runway-2024-10-25-2024-10-25-act-one-in-gen-3-alpha-c5f9d741]]'
+source_type: runway_changelog
+theme: multimodal
+title: Act-One in Gen-3 Alpha
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Act-One in Gen-3 Alpha
+
+**Runway** · 2024-10-25 · [[Themes/multimodal|Multimodal Input]] · Launch · [Official source](https://runway.com/changelog) · from [[Releases/Runway/runway-2024-10-25-2024-10-25-act-one-in-gen-3-alpha-c5f9d741|Act-One in Gen-3 Alpha]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Introducing, Act-One. A new way to generate expressive character performances inside Gen-3 Alpha using a single driving video and character image. No motion capture or rigging required. Act-One is gradually rolling out to users and will soon be available to everyone.
+>
+> Source: https://runway.com/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Multimodal Input
+
+- Earlier: 2024-10-21 · Ollama · [[Changes/Ollama/2024-10-21-3-multimodal-input-changes-in-v0-4-0|3 Multimodal Input changes in v0.4.0]]
+- Later: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-enhanced-prompt-handling-in-workflows-added-vision-support-in-prompts-for-more-d|Enhanced Prompt Handling in Workflows: Added vision support in prompts for more…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20runway-2024-10-25-9b4640&body=Card%3A%20Changes%2FRunway%2F2024-10-25-introducing-act-one-a-new-way-to-generate-expressive-character-performances-insi.md%0ACard%20ID%3A%20runway-2024-10-25-9b4640%0ASource%3A%20https%3A%2F%2Frunway.com%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

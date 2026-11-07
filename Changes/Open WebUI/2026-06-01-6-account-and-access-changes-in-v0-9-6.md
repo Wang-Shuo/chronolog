@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07d9464065c14f4256161cb883d95ee06512cbb94ce44165fadf0a6cfc655316
+machine_hash: 6842c3d9bc998418a2ae59cc05b596605343ed95e99acb9f14d08832149a5130
 product: open-webui
 product_name: Open WebUI
 record:
@@ -70,10 +70,11 @@ record:
   title: 6 Account and Access changes in v0.9.6
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-2-account-and-access-changes-in-v1-0-52|2
-  Account and Access changes in v1.0.52]]'
 - '[[Changes/Codex CLI/2026-05-26-2-account-and-access-changes-in-rust-v0-134-0|2
   Account and Access changes in rust-v0.134.0]]'
+- '[[Changes/OpenCode/2026-05-27-core-digitalocean-inference-now-uses-your-oauth-token-directly-instead-of-creati|Core
+  DigitalOcean inference now uses your OAuth token directly instead of creating a
+  MAK]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-surface-the-underlying-reason-e-g-github-api-rate-limit-when-sdk-auth-token-vali|Surface
   the underlying reason (e.g. GitHub API rate limit) when SDK auth-token…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e|open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8258aa45d9e36654ad6222c3df8e0fb478c05fe691df11735e8250fffdc0077
+machine_hash: 3d5d24f88c1d1ab04ac7fecdb0e6131ce157abd34dc0e8abb9c9daa46dabfee6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,8 +48,8 @@ record:
     Gboard on Android now…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-4-mobile-and-desktop-changes-in-rust-v0-99-0|4 Mobile
-  and Desktop changes in rust-v0.99.0]]'
+- '[[Changes/OpenCode/2026-02-11-5-mobile-and-desktop-changes-in-v1-1-57|5 Mobile
+  and Desktop changes in v1.1.57]]'
 - '[[Changes/Codex CLI/2026-02-12-4-mobile-and-desktop-changes-in-rust-v0-100-0|4
   Mobile and Desktop changes in rust-v0.100.0]]'
 - '[[Changes/Ollama/2026-02-12-installing-ollama-via-the-curl-install-script-on-macos-will-now-only-prompt-for|Installing
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-02-12 · Ollama · [[Changes/Ollama/2026-02-12-installing-ollama-via-the-curl-install-script-on-macos-will-now-only-prompt-for|Installing Ollama via the curl install script on macOS will now only prompt…]]
-- Later: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added Windows ARM64 (win32-arm64) native binary support]]
+- Later: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-3-mobile-and-desktop-changes-in-v1-1-62|3 Mobile and Desktop changes in v1.1.62]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

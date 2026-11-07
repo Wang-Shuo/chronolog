@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 29be63ff4715bedb3405a9461d1a8efbd9b0660c26eaf54d28b1516402dd8f86
+machine_hash: 210d2ae2bd24726e934a91c9d79406934a9ae7d0ae8cf316d2abbd23d074db27
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
     CLI
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-21-a-new-ollama-launch-command-to-use-ollama-s-models-with-claude-code-codex-openco|A
-  new ollama launch command to use Ollama''s models with Claude Code, Codex…]]'
+- '[[Changes/OpenCode/2026-01-21-4-model-support-changes-in-v1-1-30|4 Model Support
+  changes in v1.1.30]]'
 - '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2
   Personality System Prompt Update]]'
 - '[[Changes/Codex CLI/2026-01-22-9597-feat-core-modelinfo-model-instructions-template-dylan-hurd-oai|♯9597

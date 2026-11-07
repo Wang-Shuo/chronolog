@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b01f644fcb6afb4210563609218e6d649bd778d59d99f5117dee6e9e77bcb31e
+machine_hash: 8ad3128baf576fa97de61c511ee4fc5a509f10981cf19179a010404715263856
 product: ollama
 product_name: Ollama
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A clear error message is displayed when the configured editor cannot be launched]]
-- Later: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote Control clients can now query @-file autocomplete suggestions]]
+- Later: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-core-fixed-github-copilot-overbilling-issue|Core Fixed Github Copilot overbilling issue]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

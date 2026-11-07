@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc8746c4674525fe7085db6d2bb04759edf2de07c9bcf434b102dbc495aaf9d7
+machine_hash: e8f4c056ca00fb4a7e616c906031630265830102fd4bddaeea4f60af2ebd9c3f
 product: claude-code
 product_name: Claude Code
 record:
@@ -66,12 +66,12 @@ record:
   title: 7 Apps and Integrations changes in v2.1.300
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-10-13-an-easier-way-to-customize-how-gemini-works-for-you-and-more-connected-apps|An
-  easier way to customize how Gemini works for you and more connected apps]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-4-apps-and-integrations-changes-in-v1-0-97|4
   Apps and Integrations changes in v1.0.97]]'
 - '[[Changes/Lovable/2026-10-13-approve-every-tool-from-a-chat-connector-at-once|Approve
   every tool from a chat connector at once]]'
+- '[[Changes/OpenClaw/2026-10-13-7-apps-and-integrations-changes-in-v2026-10-3|7 Apps
+  and Integrations changes in v2026.10.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -125,7 +125,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-approve-every-tool-from-a-chat-connector-at-once|Approve every tool from a chat connector at once]]
+- Earlier: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-7-apps-and-integrations-changes-in-v2026-10-3|7 Apps and Integrations changes in v2026.10.3]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19 Apps and Integrations changes in v2.1.299]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 877b4794ebff5f65165478bb1752005826cb0af5a110b55e20d1dac1603ebfc4
+machine_hash: c3f8f1b765cc536dd3811252b309b751fd95a61d391ff7b9b147eab691642232
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved fork subagents launched together]]
-- Later: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-chore-bump-agent-server-to-1-57-0-by-all-hands-bot-in-https-github-com-openhands|chore: bump agent-server to 1.57.0]]
+- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-3-agent-mode-changes-in-v2026-10-6|3 Agent Mode changes in v2026.10.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

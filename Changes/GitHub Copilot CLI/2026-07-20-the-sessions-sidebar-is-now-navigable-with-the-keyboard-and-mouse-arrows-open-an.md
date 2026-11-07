@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9f7f9437b1a9e2563e74751ec0df7624a258acfbb9c74f6969b0b71e74e53e1
+machine_hash: 3c4b4316befce180e25f6231a6b4c4eb75cfd9552a3fb77609e97d9268e1cbf8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-17 · Windsurf · [[Changes/Windsurf/2026-07-17-devin-local|Devin Local]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-18-interface-experience-changes-in-rust-v0-145-0|18 Interface Experience changes in rust-v0.145.0]]
+- Later: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-desktop-preserve-command-drafts-in-the-command-menu|Desktop Preserve command drafts in the command menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

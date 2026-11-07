@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 341a4549a6a28b0331f75da814613e53140a96207b2d62f8fb1c9967f52c2c34
+machine_hash: b61e8eb67087c5d05d3a43ec9dd34a1f65ae5a364674ead9354f1b20248a59f4
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Interface Experience changes in v3.58.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-8-interface-experience-changes-in-rust-v0-99-0|8
-  Interface Experience changes in rust-v0.99.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-11-2-interface-experience-changes-in-v0-0-407|2
-  Interface Experience changes in v0.0.407]]'
+- '[[Changes/OpenCode/2026-02-11-desktop-fixed-sidebar-remounting-issue|Desktop Fixed
+  sidebar remounting issue]]'
+- '[[Changes/OpenCode/2026-02-11-terminal-default-session-sidebar-to-auto|Terminal
+  Default session sidebar to auto]]'
 - '[[Changes/v0/2026-02-11-added-branch-picker-for-vercel-deployments|Added branch
   picker for Vercel deployments]]'
 source_release: '[[Releases/Cline/cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c|cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c]]'

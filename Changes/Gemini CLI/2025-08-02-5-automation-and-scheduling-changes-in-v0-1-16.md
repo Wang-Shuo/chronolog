@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f5a4af946c57b0d688beed8f8cf1af1d1dc06ac4a4e7d2ab2c3ea1d0f12022a
+machine_hash: 90795ccdafe923098801c124b9c1defb80c35018013b20b7abf9b34270a520de
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 5 Automation and Scheduling changes in v0.1.16
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-22-automate-announcement-display-for-major-minor-releases-by-kvyb-in-https-github-c|automate
-  announcement display for major.minor releases]]'
-- '[[Changes/Gemini CLI/2025-07-25-4-automation-and-scheduling-changes-in-v0-1-14|4
-  Automation and Scheduling changes in v0.1.14]]'
+- '[[Changes/Midjourney/2025-07-25-to-make-a-looping-video-use-loop-in-the-prompt|To
+  make a looping video, use --loop in the prompt]]'
+- '[[Changes/Granola/2025-07-28-granola-is-now-connected-with-zapier-so-you-can-connect-your-notes-to-over-8-000|Your
+  meeting notes, now connected with 8,000+ apps]]'
 - '[[Changes/Gemini CLI/2025-07-30-4-automation-and-scheduling-changes-in-v0-1-15|4
   Automation and Scheduling changes in v0.1.15]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7|gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7]]'

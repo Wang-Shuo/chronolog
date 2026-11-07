@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29ae119206abbf022aa0d4a5cc9e414051aa339646eb19b6fd8509ca7ddd0910
+machine_hash: 254cf11d54691c50479948925be21b89aebb24bc78c0ad47742b48046b305a39
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -71,10 +71,10 @@ record:
   title: 14 Apps and Integrations changes in rust-v0.93.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-f43db5|Hooks:
-  Hook scripts now run from the workspace repository root instead…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-3-apps-and-integrations-changes-in-v0-0-400|3
   Apps and Integrations changes in v0.0.400]]'
+- '[[Changes/OpenCode/2026-01-30-2-apps-and-integrations-changes-in-v1-1-47-2|2 Apps
+  and Integrations changes in v1.1.47 + 2]]'
 - '[[Changes/Codex CLI/2026-01-31-smart-approvals-are-now-enabled-by-default-with-explicit-approval-prompts-for-mc|Smart
   approvals are now enabled by default, with explicit approval prompts for MCP…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8|codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8]]'
@@ -147,8 +147,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.93.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-3-apps-and-integrations-changes-in-v0-0-400|3 Apps and Integrations changes in v0.0.400]]
-- Later: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-sdk-releases|SDK Releases]]
+- Earlier: 2026-01-30 · OpenCode · [[Changes/OpenCode/2026-01-30-2-apps-and-integrations-changes-in-v1-1-47-2|2 Apps and Integrations changes in v1.1.47 + 2]]
+- Later: 2026-01-31 · OpenCode · [[Changes/OpenCode/2026-01-31-core-bump-ai-sdk-packages|Core Bump AI SDK packages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e446af81423e866c8b3ae61ad50e857e1a41807eb60c751dc7aaffd17e7dc47
+machine_hash: 0a760a6a2e4af890d01beb7f66762e34f49ab59475eda1b67becded8b8f2034f
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,10 @@ record:
   title: 'Improved startup: bare `claude` starts sooner on macOS'
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-08-19-a-new-dedicated-student-hub-study-notebooks-on-mobile-one-year-of-google-ai-pro|A
-  new dedicated student hub, study notebooks on mobile, one year of Google AI Pro…]]'
 - '[[Changes/Ollama/2026-08-19-new-desktop-onboarding-flow-on-first-launch|New desktop
   onboarding flow on first launch]]'
+- '[[Changes/Suno/2026-08-19-better-controls-for-you-playlist|Better controls for
+  you playlist]]'
 - '[[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep
   pinned chats in sync]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'

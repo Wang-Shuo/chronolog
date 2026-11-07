@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da0687d7a8a3942d087175a079145a70db717a19147a8f7d8767af52dfbee2a8
+machine_hash: b068aa92753e12e29b98933555c63b4c57ae974ea683932176916e2e12a14c50
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: Keep pinned chats in sync
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added
-  notify_when_idle to cross-session SendMessage]]'
 - '[[Changes/Gemini/2026-08-19-a-new-dedicated-student-hub-study-notebooks-on-mobile-one-year-of-google-ai-pro|A
   new dedicated student hub, study notebooks on mobile, one year of Google AI Pro…]]'
 - '[[Changes/Ollama/2026-08-19-new-desktop-onboarding-flow-on-first-launch|New desktop
   onboarding flow on first launch]]'
+- '[[Changes/Suno/2026-08-19-better-controls-for-you-playlist|Better controls for
+  you playlist]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-19 · Ollama · [[Changes/Ollama/2026-08-19-new-desktop-onboarding-flow-on-first-launch|New desktop onboarding flow on first launch]]
+- Earlier: 2026-08-19 · Suno · [[Changes/Suno/2026-08-19-better-controls-for-you-playlist|Better controls for you playlist]]
 - Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved startup: bare claude starts sooner on macOS]]
 <!-- chronolog:end -->
 

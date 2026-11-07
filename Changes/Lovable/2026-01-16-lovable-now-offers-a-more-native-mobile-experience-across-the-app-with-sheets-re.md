@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7d758dbe82df4d166a3a8ecce46eca4eec02c53e2e3bfe2a6406e5509dc1abee
+machine_hash: f7cde0f254170d72992809687c931e8f95a78bb5678cbdeb5a0ed868f76b1c54
 product: lovable
 product_name: Lovable
 record:
@@ -59,8 +59,8 @@ record:
     sheets…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-15-extend-the-rust-protocol-types-to-include-additional-metadata-on-text-elements-e|Extend
-  the Rust protocol/types to include additional metadata on text elements…]]'
+- '[[Changes/OpenCode/2026-01-15-5-interface-experience-changes-in-v1-1-23|5 Interface
+  Experience changes in v1.1.23]]'
 - '[[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2
   Interface Experience changes in CLI Agent Modes and Cloud Handoff]]'
 - '[[Changes/Lovable/2026-01-16-better-dashboard-organization-and-navigation|Better
@@ -105,7 +105,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2 Interface Experience changes in CLI Agent Modes and Cloud Handoff]]
-- Later: 2026-01-16 · OpenHands · [[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding a status indicator above the chat until the conversation is ready]]
+- Later: 2026-01-16 · OpenCode · [[Changes/OpenCode/2026-01-16-6-interface-experience-changes-in-v1-1-24|6 Interface Experience changes in v1.1.24]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

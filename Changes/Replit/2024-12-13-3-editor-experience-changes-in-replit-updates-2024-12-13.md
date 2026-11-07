@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae09805254391fa633c71fd69f9d7e426dd461b3c0bffe5ce406ac28fcc91569
+machine_hash: 9e3f17f316e6a23cd0a5afd3690a535bdbd3b6b0c69f2d1872214f26dc0b96cf
 product: replit
 product_name: Replit
 record:
@@ -47,8 +47,7 @@ record:
   title: 3 Editor Experience changes in Replit updates — 2024-12-13
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-06-2-editor-experience-changes-in-v0-67-0|2 Editor Experience
-  changes in v0.67.0]]'
+- '[[Changes/Midjourney/2024-12-11-creating-with-others|Creating with Others]]'
 - '[[Changes/Replit/2024-12-13-assistant-features|Assistant Features]]'
 - '[[Changes/Replit/2024-12-13-rollback-with-ease|Rollback with Ease]]'
 source_release: '[[Releases/Replit/replit-2024-12-13-2024-12-13-bc147372|replit-2024-12-13-2024-12-13-bc147372]]'
@@ -93,7 +92,7 @@ Source: https://docs.replit.com/updates/2024/12/13/changelog
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-12-06 · Aider · [[Changes/Aider/2024-12-06-2-editor-experience-changes-in-v0-67-0|2 Editor Experience changes in v0.67.0]]
+- Earlier: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-creating-with-others|Creating with Others]]
 - Later: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent can reapply edits with a smarter apply model]]
 <!-- chronolog:end -->
 

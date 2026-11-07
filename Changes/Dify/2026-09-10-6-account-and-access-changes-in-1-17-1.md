@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2c8e45c4fa0f2c9d88b091863d2215d4c5ff233a36e6ce57b8dbe4a0e1296424
+machine_hash: 76167ce121333deba9898a459b681cfc97d1dc576d62d79720d75cac013db25e
 product: dify
 product_name: Dify
 record:
@@ -72,8 +72,8 @@ record:
   title: 6 Account and Access changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-08-lovable-signs-in-to-test-pages-behind-your-app-s-login|Lovable
-  signs in to test pages behind your app''s login]]'
+- '[[Changes/OpenClaw/2026-09-08-8-account-and-access-changes-in-v2026-9-3|8 Account
+  and Access changes in v2026.9.3]]'
 - '[[Changes/Codex CLI/2026-09-09-5-account-and-access-changes-in-rust-v0-154-0|5
   Account and Access changes in rust-v0.154.0]]'
 - '[[Changes/Claude Code/2026-09-10-2-account-and-access-changes-in-v2-1-268|2 Account

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9b980449b096128bc34c818385b528ad6207c2e780c898b82672765d434a463
+machine_hash: c2c3724f0fda4431b411187555f168b29d42f0e02560905fc435e724c4176011
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -112,7 +112,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/10/26
 ## Nearby in Model Support
 
 - Earlier: 2026-10-26 · Cline · [[Changes/Cline/2026-10-26-10-model-support-changes-in-v4-1-26|10 Model Support changes in v4.1.26]]
-- Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-3-model-support-changes-in-v2-1-312|3 Model Support changes in v2.1.312]]
+- Later: 2026-10-26 · Google Antigravity · [[Changes/Google Antigravity/2026-10-26-gemini-4-argon-refreshed-agent-interface-and-inline-diff-shortcuts|Gemini 4 Argon, Refreshed Agent Interface, and Inline Diff Shortcuts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

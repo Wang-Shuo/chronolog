@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 739a855ddcce55390e829f65e9b870b9c6eea919d1d5b2210d8ac07a38365842
+machine_hash: d1fde2c407d0f5688462878023a2f9c8d3fcb733c6535adcbdb952ba84e74ef2
 product: lovable
 product_name: Lovable
 record:
@@ -45,8 +45,8 @@ record:
   title: Project toolbar navigation improvements
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-2-interface-experience-changes-in-v0-43-0|2 Interface
-  Experience changes in v0.43.0]]'
+- '[[Changes/OpenCode/2026-05-22-terminal-keep-the-spinner-color-aligned-with-the-active-agent|Terminal
+  Keep the spinner color aligned with the active agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-6-interface-experience-changes-in-v1-0-52|6
   Interface Experience changes in v1.0.52]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-24-2-interface-experience-changes-in-v1-0-53|2

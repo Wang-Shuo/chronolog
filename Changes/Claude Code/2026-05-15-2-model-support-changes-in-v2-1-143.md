@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9c56d87a4da59efec2ff8c2a6180cdb5287c9302c004431caa1e5b51e705b31
+machine_hash: 3fc45298cf43d10239bdd2c92259b3591444f4ba273dfe506d485fef44b191dd
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-13-nomic-embed-text-now-converts-inputs-to-lowercase-per-the-model-card-where-prior|nomic-embed-text
-  now converts inputs to lowercase per the model card where prior…]]'
 - '[[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support
   changes in v2.1.142]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model
   Support changes in v1.0.48]]'
+- '[[Changes/OpenCode/2026-05-14-3-model-support-changes-in-v1-14-50|3 Model Support
+  changes in v1.14.50]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: model-support
@@ -89,8 +89,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model Support changes in v1.0.48]]
-- Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-claude-opus-4-7-fast-is-available-as-a-new-model-option-under-more-models-with-2|Claude Opus 4.7 Fast is available as a new model option under…]]
+- Earlier: 2026-05-14 · OpenCode · [[Changes/OpenCode/2026-05-14-3-model-support-changes-in-v1-14-50|3 Model Support changes in v1.14.50]]
+- Later: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-2-model-support-changes-in-v1-14-51|2 Model Support changes in v1.14.51]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

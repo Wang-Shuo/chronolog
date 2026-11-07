@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46348ac3f48a6536eaf0a68b0d57389a2fbb26f099f585e41a9c0f02aa034467
+machine_hash: ff245ff43d17b65ad2f247e88ef49aa6f3cc5402672d8baa6742319c7c182b4c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-11-07 · Codex CLI · [[Changes/Codex CLI/2025-11-07-2-safety-and-privacy-changes-in-rust-v0-56-0|2 Safety and Privacy changes in rust-v0.56.0]]
-- Later: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-6480-use-codex-linux-sandbox-in-unified-exec-6c36318bd|♯6480 — Use codex-linux-sandbox in unified exec (6c36318bd)]]
+- Later: 2025-11-12 · Manus · [[Changes/Manus/2025-11-12-the-moment-you-enable-payments-manus-spins-up-a-temporary-stripe-sandbox-so-you|Start testing payments instantly with Stripe]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

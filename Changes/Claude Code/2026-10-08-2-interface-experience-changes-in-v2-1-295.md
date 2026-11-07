@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9731294bcfe4c543ff5615f043955787d312586c5947b6b2f25ee12ee4af5e05
+machine_hash: d6f98a89b60080cd21c3febfd11d5ed44f443d8d697419eebf98aaeccda0e0ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Interface Experience changes in v2.1.295
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-feat-outline-the-back-navigation-control-on-settings-sub-pages-by-errmakov-in-ht|feat:
-  outline the back navigation control on settings sub-pages]]'
 - '[[Changes/Codex CLI/2026-10-07-49856-support-daybreak-selection-in-codex-exec-etraut-openai|♯49856
   Support Daybreak selection in codex exec @etraut-openai]]'
+- '[[Changes/Google Antigravity/2026-10-07-archived-conversations-in-the-sidebar-now-keep-their-status-and-last-updated-tim|Archived
+  conversations in the sidebar now keep their status and last-updated time…]]'
 - '[[Changes/Ollama/2026-10-07-cmd-remove-account-step-from-cli-onboarding-by-hoyyeva-in-https-github-com-ollam|cmd:
   remove account step from CLI onboarding]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'

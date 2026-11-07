@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2de1842304e7aa4d469126a41cabad20bf6724bbdf5237480f78a872d7f28a4
+machine_hash: 84578e99544cbdc69da7ada72b60fb7f14bf55d98a509e58dedba8d7dbf873f1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.421
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-3-apps-and-integrations-changes-in-v0-32-0|3 Apps and Integrations changes in v0.32.0]]
-- Later: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-updated-hooks-docs|Updated hooks docs]]
+- Later: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-2-apps-and-integrations-changes-in-v1-2-16|2 Apps and Integrations changes in v1.2.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

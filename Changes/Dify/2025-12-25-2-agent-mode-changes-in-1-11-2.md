@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8dc7b89f9f4ee1cbdb271d26f733c2bedde48e94a76187ed9651374daa14da76
+machine_hash: 0b1e55d402f4bda55d4ab6e77d41fffe4804e533ba53cf63c9350ca8a1e0d2b0
 product: dify
 product_name: Dify
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.2
 ## Nearby in Agent Mode
 
 - Earlier: 2025-12-23 · Lovable · [[Changes/Lovable/2025-12-23-tasks|Tasks]]
-- Later: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-built-in-subagents-for-exploring-and-managing-tasks|Built-in subagents for exploring and managing tasks]]
+- Later: 2025-12-29 · Manus · [[Changes/Manus/2025-12-29-manus-is-joining-meta-nothing-changes-for-you-same-team-same-product-same-commit|Manus's next step]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

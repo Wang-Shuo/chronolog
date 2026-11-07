@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04a32f320b42ed5dd898360d1d508bc0c74177769f1329c155cfbc697994ab75
+machine_hash: 89bf297d6cab2a44bfdb25e4d3b0fe13610fe9be48e71084209083173d73a78a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -71,10 +71,10 @@ record:
   title: 15 Developer Workflow changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-24935-force-terminal-buffer-rerender-after-exiting-external|SSR
-  Agent Issue Fix (24935)]]'
 - '[[Changes/Open WebUI/2026-08-25-73-developer-workflow-changes-in-v0-11-1|73 Developer
   Workflow changes in v0.11.1]]'
+- '[[Changes/OpenCode/2026-08-25-terminal-fixed-github-auth-for-immutable-oidc-subject-tokens|Terminal
+  Fixed GitHub auth for immutable OIDC subject tokens]]'
 - '[[Changes/Claude Code/2026-08-26-changed-terminal-hyperlinks-in-rendered-markdown-link-targets-that-point-at-a-ne|Changed
   terminal hyperlinks in rendered markdown]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
@@ -149,7 +149,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-terminal-hyperlinks-in-rendered-markdown-link-targets-that-point-at-a-ne|Changed terminal hyperlinks in rendered markdown]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-changed-anthropic-telemetry-export-failures-to-log-at-debug-level-as-anthropic-t|Changed Anthropic telemetry export failures to log at debug level…]]
+- Later: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-generative-ui-and-ui-improvements|Generative UI and UI improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

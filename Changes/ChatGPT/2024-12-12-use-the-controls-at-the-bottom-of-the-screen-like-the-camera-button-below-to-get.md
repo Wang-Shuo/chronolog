@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 286c07dc6faa68ba38534220482cf02d9d12c9bad68e05d5202825203e51e1fb
+machine_hash: 01fb553ab9c37b71bed5918c30ce37c8dd4442dca6e3d4df58547f54daa64bfe
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,12 +57,12 @@ record:
     to get started
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-11-19-youtube-video-attachments-fixed-issues-preventing-proper-loading-and-attachment|\U0001F3A5
-  YouTube Video Attachments]]"
 - '[[Changes/Dify/2024-11-25-support-video-proxy-and-ted-embedding-by-taowang1993-in-https-github-com-langgen|Support
   Video Proxy and TED Embedding]]'
 - '[[Changes/Dify/2024-11-26-add-grok-vision-beta-to-xai-update-grok-beta-features-by-taowang1993-in-https-gi|Add
   grok-vision-beta to xAI + Update grok-beta Features]]'
+- '[[Changes/Midjourney/2024-12-11-to-learn-more-about-how-to-use-patchwork-read-through-the-user-guide-and-watch-t|To
+  learn more about how to use Patchwork, read through the user guide and watch…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d|chatgpt-2024-12-12-santa-voice-and-video-and-screen-share-in-voice-chats-89eb483d]]'
 source_type: chatgpt_changelog
 theme: multimodal
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-11-26 · Dify · [[Changes/Dify/2024-11-26-add-grok-vision-beta-to-xai-update-grok-beta-features-by-taowang1993-in-https-gi|Add grok-vision-beta to xAI + Update grok-beta Features]]
+- Earlier: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-to-learn-more-about-how-to-use-patchwork-read-through-the-user-guide-and-watch-t|To learn more about how to use Patchwork, read through the user guide and watch…]]
 - Later: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-feat-add-grok-2-1212-and-grok-2-vision-1212-by-hjlarry-in-https-github-com-langg|feat: add grok-2-1212 and grok-2-vision-1212]]
 <!-- chronolog:end -->
 

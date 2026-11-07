@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5cc6aac85d93e28026d07feec1a825b2bb9c46caad5ad8382e3201f694e026b
+machine_hash: b13b2eaaedbb5bea85c295e2bd2cda879bd0a60db7f29c9020b5b6b4a4723631
 product: v0
 product_name: v0
 record:
@@ -43,8 +43,8 @@ record:
   title: Improved diff statistics formatting with locale-specific number separators
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document
-  node limitation for shift+tab]]'
+- '[[Changes/OpenCode/2026-03-12-desktop-skip-editor-reconcile-during-ime-composition|Desktop
+  Skip editor reconcile during IME composition]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-syntax-highlighting-in-diff-with-support-for-17-programming-languages|Syntax
   highlighting in /diff with support for 17 programming languages]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-remaining-requests-widget-no-longer-shows-inaccurate-quota-data-for-copilot-free|Remaining

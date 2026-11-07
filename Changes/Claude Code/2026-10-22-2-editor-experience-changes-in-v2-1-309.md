@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e70f22fccc05d89a527930a32781b8a73a051b88ff474d1d48d1c68c89b60083
+machine_hash: 9aa5b81ca1b2ffb6e8f8099f9797f8fcf63beb7263d7d28ec197a5bcb05af7bf
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.309
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-21-fish-shell-completion-works-when-aliases-include-option-aliases-like-effort|Fish shell completion works when aliases include option aliases like --effort]]
-- Later: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-refactor-diff-express-the-markdown-preview-cap-in-css-by-enyst-in-https-github-c|refactor(diff): express the Markdown preview cap in CSS]]
+- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-shell-completion-now-finds-global-flags-after-subcommands-regenerate-your-saved|Shell completion now finds global flags after subcommands]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

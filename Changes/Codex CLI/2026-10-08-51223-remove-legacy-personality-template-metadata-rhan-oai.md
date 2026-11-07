@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8efeb87f08c1c38bc4c3746f56d94ed6b97c19327888a76aca3286275271ffc
+machine_hash: 3781dd471a25e7976ce6540194df1ebcd95e9129d86b946da6b338b00c34ae5a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#51223 Remove legacy personality template metadata @rhan-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-improved-memory-the-left-and-right-arrow-keys-now-flip-its-on-off-settings-such|Improved
-  /memory: the left and right arrow keys now flip its on/off settings, such…]]'
 - '[[Changes/Codex CLI/2026-10-01-49000-isolate-the-memory-startup-metadata-test-from-git-enrichment-jif-oai|♯49000
   Isolate the memory startup metadata test from Git enrichment @jif-oai]]'
+- '[[Changes/OpenClaw/2026-10-03-2-memory-and-personalization-changes-in-v2026-9-8|2
+  Memory and Personalization changes in v2026.9.8]]'
 - '[[Changes/Codex CLI/2026-10-07-49876-remove-personality-plumbing-from-the-tui-etraut-openai|♯49876
   Remove personality plumbing from the TUI @etraut-openai]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db|codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-49876-remove-personality-plumbing-from-the-tui-etraut-openai|♯49876 Remove personality plumbing from the TUI @etraut-openai]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-2-memory-and-personalization-changes-in-v0-12-0|2 Memory and Personalization changes in v0.12.0]]
+- Later: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-organization-improvements|ORGANIZATION IMPROVEMENTS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

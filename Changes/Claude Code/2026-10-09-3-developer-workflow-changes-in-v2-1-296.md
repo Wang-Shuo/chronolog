@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 891bf37d2e3c5bb819ff705ca10956369b8a0b136cc7c61ab67f001c24b56fe4
+machine_hash: 930bb9de815e19aca73b7df89964c69c1da5b69669f7c3eb3c75ea6b9001daee
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.296
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-07-warmed-language-servers-stay-running-across-lsp-requests-when-sandboxing-is-disa|Warmed
-  language servers stay running across LSP requests when sandboxing is disabled]]'
 - '[[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added
   a line on stderr, when it is a terminal, that says what a claude -p run…]]'
 - '[[Changes/Codex CLI/2026-10-08-12-developer-workflow-changes-in-rust-v0-162-0|12
   Developer Workflow changes in rust-v0.162.0]]'
+- '[[Changes/OpenClaw/2026-10-08-3-developer-workflow-changes-in-v2026-9-9|3 Developer
+  Workflow changes in v2026.9.9]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-12-developer-workflow-changes-in-rust-v0-162-0|12 Developer Workflow changes in rust-v0.162.0]]
+- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-3-developer-workflow-changes-in-v2026-9-9|3 Developer Workflow changes in v2026.9.9]]
 - Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-27-developer-workflow-changes-in-v0-12-0|27 Developer Workflow changes in v0.12.0]]
 <!-- chronolog:end -->
 

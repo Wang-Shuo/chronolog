@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8a734f024a9ae81ecc0b5bc70c2671f7586678f6aa64a0dd27eee9902e5d5bfd
+machine_hash: 3457de88f4b683e40ca4fac98c667af5ae1f472a07ba2d9ce9fb2156681754fa
 product: lovable
 product_name: Lovable
 record:
@@ -59,8 +59,8 @@ record:
   title: Let Lovable debug and improve your app's AI features
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage
-  can now show and redeem earned usage-limit reset credits…]]'
+- '[[Changes/Google Antigravity/2026-06-22-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
+  screen redesign]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-display-cache-write-pricing-for-models-that-omit-it|Display
   cache-write pricing for models that omit it]]'
 - '[[Changes/Dify/2026-06-25-6-pricing-model-changes-in-1-15-0|6 Pricing Model changes

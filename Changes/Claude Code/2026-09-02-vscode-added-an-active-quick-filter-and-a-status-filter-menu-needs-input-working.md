@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce3bb5ebacf4cc05444323d109890b7cbe4e7391623a9636912cfbda7437f8f4
+machine_hash: 6d4dbf9b8a080bff06720c9d0b7b231521cad2f4388c2e9430fb78e3277277b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: '[VSCode] Added an Active quick filter and a status filter menu…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-3-interface-experience-changes-in-rust-v0-152-0|3
-  Interface Experience changes in rust-v0.152.0]]'
 - '[[Changes/Lovable/2026-09-01-empty-project-groups-no-longer-show-in-the-sidebar|Empty
   project groups no longer show in the sidebar]]'
+- '[[Changes/OpenClaw/2026-09-01-3-interface-experience-changes-in-v2026-8-2|3 Interface
+  Experience changes in v2026.8.2]]'
 - '[[Changes/v0/2026-09-01-if-you-prefer-the-typical-git-workflow-you-can-still-create-and-merge-pull-reque|If
   you prefer the typical Git workflow, you can still create and merge pull requests…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-01 · v0 · [[Changes/v0/2026-09-01-if-you-prefer-the-typical-git-workflow-you-can-still-create-and-merge-pull-reque|If you prefer the typical Git workflow, you can still create and merge pull requests…]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface Experience changes in v2.1.260]]
+- Later: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-dragging-to-select-a-region-of-an-image-for-a-comment-now-updates-the-selection|Dragging to select a region of an image for a comment now updates the selection…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

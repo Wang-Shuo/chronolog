@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40bfbb2e12116047e439606e7a2e40fbe5fb5b7a198c307f4cd3a94c8bd88fad
+machine_hash: 9209b2ecdff4fcd52456d3253ae7f8879cc8e6117ab64a892248b8286f7d165f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Agent Mode changes in rust-v0.94.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-8-agent-mode-changes-in-v0-26-0|8 Agent Mode changes
-  in v0.26.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-28-add-acp-flag-to-start-as-agent-client-protocol-server|Add
-  --acp flag to start as Agent Client Protocol server]]'
+- '[[Changes/OpenCode/2026-01-28-prevent-agents-md-from-being-loaded-multiple-times-during-parallel-tool-executio|Prevent
+  AGENTS.md from being loaded multiple times during parallel tool execution]]'
+- '[[Changes/OpenCode/2026-01-28-3-agent-mode-changes-in-v1-1-37|3 Agent Mode changes
+  in v1.1.37]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-29-2-agent-mode-changes-in-v0-0-399|2 Agent
   Mode changes in v0.0.399]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-02-rust-v0-94-0-github-282298678-d5cec340|codex-cli-2026-02-02-rust-v0-94-0-github-282298678-d5cec340]]'

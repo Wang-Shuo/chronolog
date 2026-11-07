@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a447042319cda7c23dc7c60dada2a89f4317061bb0295bcc34f9b8450cb51205
+machine_hash: 5f8b38380a2eb7b0bc491cf6b6c31e7df1e617b8b955456d303378eb550cfa18
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-feat-expand-verify-release-to-macos-and-windows-by-yunaseoul-in-https-github-com|feat: expand verify-release to macOS and Windows]]
-- Later: 2026-02-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-23-skill-files-saved-with-a-utf-8-bom-common-on-windows-editors-now-load-correctly|Skill files saved with a UTF-8 BOM (common on Windows editors) now load correctly…]]
+- Later: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-46-mobile-and-desktop-changes-in-v1-2-7|46 Mobile and Desktop changes in v1.2.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

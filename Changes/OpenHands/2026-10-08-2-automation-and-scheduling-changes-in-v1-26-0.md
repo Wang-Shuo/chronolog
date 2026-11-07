@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7638b0aee59adf9bd538a5b4adba9cbea899f23f88966645769244de4d41940
+machine_hash: 90d7df06db67747ef3791ea2c517a09d10e20feae3aad3e592b8a255df426c9f
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Automation and Scheduling changes in v1.26.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-changed-background-sessions-whose-scheduled-task-is-gone-they-now-move-to-comple|Changed
-  background sessions whose scheduled task is gone]]'
-- '[[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5
-  Automation and Scheduling changes in v1.25.0]]'
+- '[[Changes/Google Antigravity/2026-10-07-scheduled-tasks-are-now-called-automations-you-can-run-a-scheduled-automation-ri|Scheduled
+  Tasks are now called Automations]]'
 - '[[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed
   Ctrl+C at the idle prompt of an attached background session to leave…]]'
+- '[[Changes/OpenClaw/2026-10-08-2-automation-and-scheduling-changes-in-v2026-9-9|2
+  Automation and Scheduling changes in v2026.9.9]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-08-v1-26-0-github-407241649-7e646875|openhands-2026-10-08-v1-26-0-github-407241649-7e646875]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -86,7 +86,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.26.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed Ctrl+C at the idle prompt of an attached background session to leave…]]
+- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-2-automation-and-scheduling-changes-in-v2026-9-9|2 Automation and Scheduling changes in v2026.9.9]]
 - Later: 2026-10-09 · Replit · [[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads|Create and manage TikTok Ads]]
 <!-- chronolog:end -->
 

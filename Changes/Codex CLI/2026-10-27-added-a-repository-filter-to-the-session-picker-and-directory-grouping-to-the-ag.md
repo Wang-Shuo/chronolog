@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 4555179c172ee5d240863b00fb7c44ed28d4eeccdd4f6c5c2d132b92ace46c3c
+machine_hash: b87231e1845ed6001a2495d3ded1929e0ff188280fcadb28546da3cb6e72b85a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-2-interface-experience-changes-in-v2-1-312|2 Interface Experience changes in v2.1.312]]
-- Later: 2026-10-27 · Lovable · [[Changes/Lovable/2026-10-27-redesigned-sidebar|Redesigned sidebar]]
+- Later: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-you-can-now-move-the-open-conversation-up-or-down-in-the-sidebar-with-alt-shift|Move the open conversation up or down in the sidebar with Alt+Shift+Up…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

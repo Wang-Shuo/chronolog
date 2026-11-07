@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f2a3a1472c4a3f980a654e03c53fbf08e8e448225a012deaf1b59cec69a6edb0
+machine_hash: a5f7e47d771b7764bb6c7b5bb8a8c7ad04ac5311400ab96caf1fb10ee8d407ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-17 · OpenHands · [[Changes/OpenHands/2026-09-17-2-agent-mode-changes-in-v1-20-0|2 Agent Mode changes in v1.20.0]]
-- Later: 2026-09-18 · Replit · [[Changes/Replit/2026-09-18-connect-custom-apis-to-agent|Connect custom APIs to Agent]]
+- Later: 2026-09-18 · Google Antigravity · [[Changes/Google Antigravity/2026-09-18-3-agent-mode-changes-in-hub-v2-15-0-custom-agent-controls|3 Agent Mode changes in HUB v2.15.0 — Custom agent controls…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 858c4ea2284d01f790b31f8a8ea60e5b65d5d7f22ce4184cee12383923067a86
+machine_hash: e2485b568b87d2b74909cd5e8f3726f86eecb6572cf936f8b448ebc13050a98d
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,8 @@ record:
   title: Monitoring plans
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-22-add-optional-osc-777-terminal-notifications-for-direct-ghostty-and-wezterm-sessi|Add
-  optional OSC 777 terminal notifications for direct Ghostty and WezTerm sessions]]'
+- '[[Changes/Google Antigravity/2026-09-22-added-a-windows-subsystem-for-linux-wsl-section-to-application-settings-on-windo|Added
+  a Windows Subsystem for Linux (WSL) section to Application Settings…]]'
 - '[[Changes/Claude Code/2026-09-23-7-developer-workflow-changes-in-v2-1-281|7 Developer
   Workflow changes in v2.1.281]]'
 - '[[Changes/Cursor/2026-09-23-rollouts|Rollouts]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-7-developer-workflow-changes-in-v2-1-281|7 Developer Workflow changes in v2.1.281]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-changed-windows-wsl-managed-settings-so-an-admin-policy-that-is-present-but-inva|Changed Windows/WSL managed settings so an admin policy that is present but invalid…]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-31-developer-workflow-changes-in-v2026-9-6|31 Developer Workflow changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

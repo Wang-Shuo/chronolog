@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 482273cd529f1a620079414d80a963b6aca38f755e9d677754467e54c3a683c6
+machine_hash: ba802c3c36b312563a07e1f282002264c24b09ae38c25f08397f42848c60f793
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,8 +71,8 @@ record:
   title: ChatGPT for Clinicians
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-14-enterprise-login-accepts-hostnames-without-a-url-scheme-e-g-github-example-com|Enterprise
-  login accepts hostnames without a URL scheme (e.g. ''github.example.com'')]]'
+- '[[Changes/OpenCode/2026-04-16-core-workspaces-now-receive-your-auth-context-so-provider-sign-in-carries-across|Core
+  Workspaces now receive your auth context, so provider sign-in carries across…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-17-copilot-login-host-now-correctly-authenticates-with-github-enterprise-cloud-ghe|copilot
   login --host now correctly authenticates with GitHub Enterprise Cloud (GHE)…]]'
 - '[[Changes/Open WebUI/2026-04-21-17-account-and-access-changes-in-v0-9-0|17 Account

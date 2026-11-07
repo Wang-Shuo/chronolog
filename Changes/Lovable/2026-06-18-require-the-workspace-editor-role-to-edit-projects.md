@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e28531319992ef7b958149eba8c2ef13b6aa2f48a1cc2ade0c099b2c5135700c
+machine_hash: fb789a5773a2a945fca8ef51d260bdce209719146079db654f4ce6bc4f919c92
 product: lovable
 product_name: Lovable
 record:
@@ -52,11 +52,11 @@ record:
   title: Require the workspace editor role to edit projects
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-16-see-when-you-have-unpublished-changes|See when you
-  have unpublished changes]]'
 - '[[Changes/Windsurf/2026-06-16-removed-the-explain-sparkle-button-from-the-editor-breadcrumbs|Removed
   the Explain sparkle button from the editor breadcrumbs]]'
 - '[[Changes/Windsurf/2026-06-16-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/OpenCode/2026-06-17-desktop-added-a-home-tab-toggle-so-you-can-quickly-switch-between-home-and-your|Desktop
+  Added a Home tab toggle so you can quickly switch between Home and your last tab]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-18-2026-06-18-3e62b64d|lovable-2026-06-18-2026-06-18-3e62b64d]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-16 · Windsurf · [[Changes/Windsurf/2026-06-16-agent-and-editor-modes|Agent and Editor modes]]
+- Earlier: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-desktop-added-a-home-tab-toggle-so-you-can-quickly-switch-between-home-and-your|Desktop Added a Home tab toggle so you can quickly switch between Home and your last tab]]
 - Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-inspect-on-vercel-and-analytics-stay-disabled-until-a-deployment-has-an-inspecto|Inspect on Vercel and Analytics stay disabled until a deployment has an inspector…]]
 <!-- chronolog:end -->
 

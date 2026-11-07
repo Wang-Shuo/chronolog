@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 146c9593d9914fef705f4c0a80a68a202b07e56f6ee36ca2e9135ab348d07b36
+machine_hash: eb1f35ee7d0b2ad49c6894ab7320b847f20ab8d4409110a77a3330fe80df8a92
 product: ollama
 product_name: Ollama
 record:
@@ -57,12 +57,12 @@ record:
   title: '`ollama launch <integration>` will now always show the model picker'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-19-preview-diagrams-and-mini-apps-directly-in-chat|Preview
-  diagrams and mini apps directly in chat]]'
 - '[[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps
   and Integrations changes in v2.1.49]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-3-apps-and-integrations-changes-in-v0-0-412|3
   Apps and Integrations changes in v0.0.412]]'
+- '[[Changes/Google Antigravity/2026-02-19-added-a-setting-to-enable-or-disable-terminal-integration|Added
+  a setting to enable or disable terminal integration]]'
 source_release: '[[Releases/Ollama/ollama-2026-02-19-v0-16-3-github-287463337-545815d3|ollama-2026-02-19-v0-16-3-github-287463337-545815d3]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-3-apps-and-integrations-changes-in-v0-0-412|3 Apps and Integrations changes in v0.0.412]]
-- Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE mode now also disables MCP tools, attachments, hooks…]]
+- Earlier: 2026-02-19 · Google Antigravity · [[Changes/Google Antigravity/2026-02-19-added-a-setting-to-enable-or-disable-terminal-integration|Added a setting to enable or disable terminal integration]]
+- Later: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-5-apps-and-integrations-changes-in-v1-2-7|5 Apps and Integrations changes in v1.2.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

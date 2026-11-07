@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6c84be251f41a33efb5b67137b7bbecbda2d203f1b3f1e21c40175f3b452753
+machine_hash: e26ce14f4c92fae115a820c315c890b8b7d64032919d03aa763b1d2d4d01888c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
     --connect
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-resume-sessions-even-when-transcript-files-contain-recoverable-corruption|Resume
-  sessions even when transcript files contain recoverable corruption]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-22-session-resume-preserves-pending-conversation-events-when-saving-fails-and-expla|Session
   resume preserves pending conversation events when saving fails and explains…]]'
+- '[[Changes/OpenClaw/2026-09-23-plugin-requested-answer-revisions-wait-for-session-history-to-become-available-a|Plugin-requested
+  answer revisions wait for session history to become available…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-withdrawn-running-prompts-stay-removed-after-session-resume|Withdrawn
   running prompts stay removed after session resume]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-withdrawn-running-prompts-stay-removed-after-session-resume|Withdrawn running prompts stay removed after session resume]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57342-separate-tui-session-resume-preparation-from-activation-bc-openai|♯57342 Separate TUI session resume preparation from activation @bc-openai]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-plugin-authors-can-await-session-history-extension-changes-and-replay-metadata-t|Plugin authors can await session history, extension changes and replay metadata]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

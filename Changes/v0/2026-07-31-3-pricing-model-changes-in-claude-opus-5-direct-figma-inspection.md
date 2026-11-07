@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9c77d9bd830fe5dc211badee3e5d94d0c685e9e744db1f458122ce6880e5fc5
+machine_hash: 5198a11cbca723fea63f1c54b0a2edc14c4b580995e6a12afa8604c366f6997b
 product: v0
 product_name: v0
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Pricing Model changes in Claude Opus 5, direct Figma inspection…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-2-pricing-model-changes-in-1-16-1|2 Pricing Model changes
-  in 1.16.1]]'
-- '[[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|ChatGPT
-  for Academic Researchers]]'
+- '[[Changes/Runway/2026-07-30-api-responses-now-include-the-credit-cost-of-each-task-both-while-running-as-an|Task
+  Cost API]]'
+- '[[Changes/Google Antigravity/2026-07-31-allocated-and-auto-assigned-license-seats-against-ge-standard-ge-plus-organizati|Allocated
+  and auto-assigned license seats against GE-Standard & GE-Plus organization…]]'
 - '[[Changes/Replit/2026-07-31-billing|Billing]]'
 source_release: '[[Releases/v0/v0-2026-07-31-2026-07-31-9665255c|v0-2026-07-31-2026-07-31-9665255c]]'
 source_type: v0_changelog

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 88a5c824af33b436ba99a82c1539ce3e2b67daf56b99755be1226797cb856ecc
+machine_hash: 2a19191f87d6807c0ed9f21aeffeaa01af18588e1641dfe5a8d66e85cfe7948c
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: 'fix(theme): make consent backend scope readable'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-16-2-safety-and-privacy-changes-in-v0-12-3|2 Safety
-  and Privacy changes in v0.12.3]]'
+- '[[Changes/OpenClaw/2026-10-16-2-safety-and-privacy-changes-in-v2026-10-4|2 Safety
+  and Privacy changes in v2026.10.4]]'
 - '[[Changes/Claude Code/2026-10-19-added-decider-person-to-a-mod-s-tool-check-answer-only-the-permission-dialog-or|Added
   decider: "person" to a mod''s tool.check answer: only the permission dialog…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-6-safety-and-privacy-changes-in-v1-0-100|6

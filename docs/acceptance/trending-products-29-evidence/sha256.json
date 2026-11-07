@@ -1,0 +1,21 @@
+{
+  "browser/console.txt": "4f31ba6f551db190f10043e89cdbc1e9c7c7d49f57f201df89c86d46b920489f",
+  "browser/home-desktop.json": "ef2955b63ee302ef56aad31a56027e3f9e232382296900b213ed184a9a007460",
+  "browser/home-desktop.png": "0fab19a55715bd6b6955f1edc4121a2b094f999749d4b352815a54fadbae88c7",
+  "browser/new-products.json": "eb77723270bcb073d849a85673575777b3942395bb5febf879cb4be6d799de13",
+  "browser/theme-desktop.json": "6da21a64eea6284e26691f6eeba84547993b40061397946589bc78eb58f8e012",
+  "browser/theme-mobile.json": "af87b2b14d6c0ef1c89a0332a219998c95fb385c16f8dad0abd8402c3e1d8a27",
+  "browser/theme-mobile.png": "5b850edac509227b54b5e516181d55a268a6fc6dd1fe4ac53570a2f09995f8d2",
+  "build.log": "7d06515ba28354cfb8600de9070324f71ce8e53da6f49ef4f46f89fbebc1e3e6",
+  "collection.json.gz": "bce86b37a66248b52d168a951cbdb133ab48a98497ad2e33f1c92dd7cf676d04",
+  "existing-history-preserved.json": "de78a018662e6be747aa768a0876f5c02f6f74df1649cc3d743750bfc49a9ba5",
+  "http-hash-validation.json": "46cfd02a7d7213beb6ac4bd09a4516e94e79bf3b8ffdf060a5bbce81a28a829a",
+  "publication.json": "3f7edd7487e125175bb71c01e406ffe6387e6a5e0bc290b350e0f20b425cc332",
+  "quality.json": "46260204ad4c0dcf25b36e7ec54254af63dd63290426281c4bc2367a7bc5b323",
+  "quality.md": "44607a63b5fac7ab03a7728faed5f6c15c18a7f3d3d8c8d687a4360e8ab168d7",
+  "site-size.json": "d1377c7bfae0456a2e99e09ab27d3e1cc5be0186a48ce780cea4666a4b85431f",
+  "tests.log": "374eff9d88ab71ba4c88690ef7c59301ad0d260d0d8d8357dcd0c4785b5ff7e6",
+  "used-http-manifest.json": "da617d3557ac9f2abe3ca934d0f5eb3f53f0d80b5b611591c92e401f63d949dd",
+  "vault-candidate-match.json": "eb0a7533fa3473627371a0a80d7de17c3cf91021ea32296e241de06e1ea70583",
+  "vault-validation.json": "368f2114679b78f497c20834a52784bcece3cb9decdab5400cf77d66f1fee03b"
+}

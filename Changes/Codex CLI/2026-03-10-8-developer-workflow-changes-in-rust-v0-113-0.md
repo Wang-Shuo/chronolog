@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b9c38c1b45c21ced38a64f1c22fe5465ddb8307054db00a8c2dff59d6b46996
+machine_hash: 07ed35f89c950a99dd94a9e9b9826d1cbc414b1940f45efb3f22f036ab748668
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,8 +57,8 @@ record:
   title: 8 Developer Workflow changes in rust-v0.113.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-09-2-developer-workflow-changes-in-v0-8-10|2 Developer
-  Workflow changes in v0.8.10]]'
+- '[[Changes/OpenCode/2026-03-09-terminal-pass-missing-auth-headers-in-run-attach|Terminal
+  Pass missing auth headers in run --attach]]'
 - '[[Changes/Windsurf/2026-03-09-cascade|Cascade]]'
 - '[[Changes/Claude Code/2026-03-10-3-developer-workflow-changes-in-v2-1-72|3 Developer
   Workflow changes in v2.1.72]]'

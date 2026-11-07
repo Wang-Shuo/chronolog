@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07b5c39b4e515f572d4476ae5bf55bec1075377695ac753cb63378819c89522c
+machine_hash: 2559383366c22de7209efeaf6fb5012e5ad9dbef087c72be38e7581ce0736e9c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Editor Experience changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-3-editor-experience-changes-in-v0-28-0|3 Editor
-  Experience changes in v0.28.0]]'
+- '[[Changes/OpenCode/2026-02-10-4-editor-experience-changes-in-v1-1-54|4 Editor Experience
+  changes in v1.1.54]]'
 - '[[Changes/v0/2026-02-10-improved-file-diff-view-to-show-lines-changed|Improved
   file diff view to show lines changed]]'
 - '[[Changes/v0/2026-02-10-improved-vs-code-editor-layout-with-activity-bar-at-top-by-default|Improved

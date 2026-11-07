@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 695a13170a9f1c92d53f2a7667a764915079932f8233a2c3fa3e244a7b0ca43e
+machine_hash: 4e9d638d9d8c5be7fb2837de8c02018598c7783030d64ce8ce72e327b83d1e88
 product: ollama
 product_name: Ollama
 record:
@@ -51,12 +51,12 @@ record:
   title: 'llm: size mmproj offload by projector memory'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added
-  automatic memory-pressure reaping for idle background shell commands…]]'
 - '[[Changes/Codex CLI/2026-06-25-apps-can-display-richer-safety-buffering-ui-using-server-provided-visibility-and|Apps
   can display richer safety-buffering UI using server-provided visibility…]]'
 - '[[Changes/Dify/2026-06-25-2-reliability-and-performance-changes-in-1-15-0|2 Reliability
   and Performance changes in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-optimized-file-watching-notifications-to-prevent-visual-flickering-and-improve-p|Optimized
+  file watching notifications to prevent visual flickering and improve…]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-25-v0-30-11-github-344434965-aea66c2d|ollama-2026-06-25-v0-30-11-github-344434965-aea66c2d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-2-reliability-and-performance-changes-in-1-15-0|2 Reliability and Performance changes in 1.15.0]]
+- Earlier: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-optimized-file-watching-notifications-to-prevent-visual-flickering-and-improve-p|Optimized file watching notifications to prevent visual flickering and improve…]]
 - Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-6-reliability-and-performance-changes-in-v0-10-0|6 Reliability and Performance changes in v0.10.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5135221ca106295ec0746123d526547e2a5481f1e5b721b6b2e630242d94a60c
+machine_hash: 84276cb0aa139a6ecd2f422212e3bcef59311b7398896e5cc0e21358060d974e
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
     model…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-30-compaction-now-returns-a-summary-even-when-instructions-ask-for-tool-use|Compaction
-  now returns a summary even when instructions ask for tool use]]'
+- '[[Changes/OpenClaw/2026-09-30-4-context-window-changes-in-v2026-9-7|4 Context Window
+  changes in v2026.9.7]]'
 - '[[Changes/Claude Code/2026-10-01-changed-opus-4-7-and-fable-to-use-a-1m-context-window-by-default-on-bedrock-vert|Changed
   Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…]]'
 - '[[Changes/Codex CLI/2026-10-01-3-context-window-changes-in-rust-v0-160-0|3 Context

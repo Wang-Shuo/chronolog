@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d1a4eb64b5aa91e94a0f17527323f1450aab2f073208a5e260a8cb572c97f9c
+machine_hash: e3fde478f5936798a07d47be34f9318c79614afe195272bd9d0491ed75bf2cbb
 product: claude-code
 product_name: Claude Code
 record:
@@ -67,12 +67,12 @@ record:
   title: 8 Safety and Privacy changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-09-08-fix-core-enforce-fail-closed-workspace-trust-and-filter-mcpservers-in-restricted|fix(core):
-  enforce fail-closed workspace trust and filter mcpServers in restricted mode]]'
 - '[[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety
   and Privacy changes in v2.1.267]]'
 - '[[Changes/Codex CLI/2026-09-09-25-safety-and-privacy-changes-in-rust-v0-154-0|25
   Safety and Privacy changes in rust-v0.154.0]]'
+- '[[Changes/Google Antigravity/2026-09-09-3-safety-and-privacy-changes-in-hub-v2-13-0-introducing-new-documents|3
+  Safety and Privacy changes in HUB v2.13.0 — Introducing new Documents…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: safety-privacy
@@ -128,7 +128,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-25-safety-and-privacy-changes-in-rust-v0-154-0|25 Safety and Privacy changes in rust-v0.154.0]]
+- Earlier: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-3-safety-and-privacy-changes-in-hub-v2-13-0-introducing-new-documents|3 Safety and Privacy changes in HUB v2.13.0 — Introducing new Documents…]]
 - Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-16-safety-and-privacy-changes-in-1-17-1|16 Safety and Privacy changes in 1.17.1]]
 <!-- chronolog:end -->
 

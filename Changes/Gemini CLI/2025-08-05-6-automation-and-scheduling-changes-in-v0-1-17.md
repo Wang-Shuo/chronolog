@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68ec3fd502b35c1ec3eec55e27d7e0d4b7bc6c3f8b5464d5c0483192cfdb65b6
+machine_hash: 37f0f683a2a66b766006cce72296e81ce125e99028c09685e350a08e393b230f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: 6 Automation and Scheduling changes in v0.1.17
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-25-4-automation-and-scheduling-changes-in-v0-1-14|4
-  Automation and Scheduling changes in v0.1.14]]'
+- '[[Changes/Granola/2025-07-28-granola-is-now-connected-with-zapier-so-you-can-connect-your-notes-to-over-8-000|Your
+  meeting notes, now connected with 8,000+ apps]]'
 - '[[Changes/Gemini CLI/2025-07-30-4-automation-and-scheduling-changes-in-v0-1-15|4
   Automation and Scheduling changes in v0.1.15]]'
 - '[[Changes/Gemini CLI/2025-08-02-5-automation-and-scheduling-changes-in-v0-1-16|5

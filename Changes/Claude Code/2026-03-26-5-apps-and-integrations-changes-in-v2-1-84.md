@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b69b6c1ecb4d000229b8d1d96b3959fe869e2b3589d048c6261598fc81699f7c
+machine_hash: 6cf250402494a74be3a96a556ccc72a841bebbb3a3c0feceed630a63dbb9f97a
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,8 +53,8 @@ record:
   title: 5 Apps and Integrations changes in v2.1.84
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps
-  and Integrations changes in v2.1.83]]'
+- '[[Changes/Google Antigravity/2026-03-25-linux-sandboxing-and-mcp-improvements|Linux
+  Sandboxing and MCP Improvements]]'
 - '[[Changes/Ollama/2026-03-25-openclaw-integration-improvements-for-gateway-checks|OpenClaw
   integration improvements for gateway checks]]'
 - '[[Changes/Open WebUI/2026-03-25-3-apps-and-integrations-changes-in-v0-8-11|3 Apps

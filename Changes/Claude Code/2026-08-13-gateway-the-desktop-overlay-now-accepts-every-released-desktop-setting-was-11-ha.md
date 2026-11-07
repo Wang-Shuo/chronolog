@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2523fe92134790070fb22112a9b650ee07d927af58fa24b0b73d3a08b423975
+machine_hash: d275dfb063764ef1561c2eed93bf29373226b9b78a7541c7ed8ae1f22902c44f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
   title: 'Gateway: the `desktop:` overlay now accepts every released Desktop setting…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-10-2-mobile-and-desktop-changes-in-v1-0-79|2
-  Mobile and Desktop changes in v1.0.79]]'
 - '[[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]'
 - '[[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed
   self-hosted runner Windows startup to require an explicit --base-dir]]'
+- '[[Changes/OpenCode/2026-08-12-desktop-updated-chinese-developer-terminology-to-use-more-widely-recognized-tran|Desktop
+  Updated Chinese developer terminology to use more widely recognized translations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed self-hosted runner Windows startup to require an explicit --base-dir]]
+- Earlier: 2026-08-12 · OpenCode · [[Changes/OpenCode/2026-08-12-desktop-updated-chinese-developer-terminology-to-use-more-widely-recognized-tran|Desktop Updated Chinese developer terminology to use more widely recognized translations]]
 - Later: 2026-08-13 · Windsurf · [[Changes/Windsurf/2026-08-13-devin-desktop|Devin Desktop]]
 <!-- chronolog:end -->
 

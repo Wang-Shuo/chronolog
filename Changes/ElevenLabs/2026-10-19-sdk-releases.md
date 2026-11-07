@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: dfb802de65dbf5a6bb8b837e261c64a411c8b144c9e07773a043e92a8b095b32
+machine_hash: d9f12bf87686011d338bb5486c8284d8fa937c39aef7b4f6b0a7c14b37f95310
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,9 +41,10 @@ record:
   title: SDK releases
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-16-connect-your-app-to-pledge|Connect your app to Pledge]]'
 - '[[Changes/v0/2026-10-16-integration-icons-no-longer-fail-to-load-in-project-settings|Integration
   icons no longer fail to load in project settings]]'
+- '[[Changes/OpenClaw/2026-10-18-3-apps-and-integrations-changes-in-v2026-10-5|3 Apps
+  and Integrations changes in v2026.10.5]]'
 - '[[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8
   Apps and Integrations changes in v2.1.304]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-19-2026-10-19-dd219c14|elevenlabs-2026-10-19-2026-10-19-dd219c14]]'

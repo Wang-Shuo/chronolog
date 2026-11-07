@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d5883a9027071a84924bf77c2170ce71705ee7c08b7e5c1ff14d7ccd6a01d0de
+machine_hash: ec45d73749d54c19fc89b10a0d4c88c35e10ed472b5c1b23dd2cd061ace04a00
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,9 +44,10 @@ record:
   title: Improved websocket session stability by continuing ping handling when idle…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
-- '[[Changes/ElevenLabs/2026-02-09-text-to-speech|Text to Speech]]'
+- '[[Changes/OpenCode/2026-02-10-core-memory-leak-fixed-in-platform-fetch-for-events|Core
+  Memory leak fixed in platform fetch for events]]'
+- '[[Changes/OpenCode/2026-02-10-2-reliability-and-performance-changes-in-v1-1-54|2
+  Reliability and Performance changes in v1.1.54]]'
 - '[[Changes/Dify/2026-02-11-3-reliability-and-performance-changes-in-1-13-0|3 Reliability
   and Performance changes in 1.13.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6|codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6]]'

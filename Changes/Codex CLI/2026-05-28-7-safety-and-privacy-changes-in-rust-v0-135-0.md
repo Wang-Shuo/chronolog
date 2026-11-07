@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb22f361d9f1d732851a534748c241d61202753d8dd5891f714758a972638820
+machine_hash: 4197549746c7f02a5c5b2ce0c2d8bf1dfea34cd4654074ed83f9361ad47893db
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -111,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.135.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-2-safety-and-privacy-changes-in-v2-1-153|2 Safety and Privacy changes in v2.1.153]]
-- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety and Privacy changes in v2.1.157]]
+- Later: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-core-handled-acp-next-permission-prompts-correctly|Core Handled acp-next permission prompts correctly]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

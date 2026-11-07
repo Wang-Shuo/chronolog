@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4d905cb957ed5d3dfe36b65234795217c4a33c863c50f6a68f05db76b09ae8c8
+machine_hash: bb393c0600379e2e0e31ee1c3ab142686a6bb0fbbaec104a27d8c48791dbc455
 product: replit
 product_name: Replit
 record:
@@ -39,12 +39,12 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-24-saml-2-0-single-sign-on-for-your-apps|SAML 2.0 single
-  sign-on for your apps]]'
 - '[[Changes/Lovable/2026-04-24-chat-connectors-sentry-mcp|Chat connectors: Sentry
   MCP]]'
 - '[[Changes/Open WebUI/2026-04-24-2-apps-and-integrations-changes-in-v0-9-2|2 Apps
   and Integrations changes in v0.9.2]]'
+- '[[Changes/OpenCode/2026-04-24-added-an-experimental-http-api-endpoint-for-mcp-server-status|Added
+  an experimental HTTP API endpoint for MCP server status]]'
 source_release: '[[Releases/Replit/replit-2026-04-24-2026-04-24-4062672c|replit-2026-04-24-2026-04-24-4062672c]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-24 · Open WebUI · [[Changes/Open WebUI/2026-04-24-2-apps-and-integrations-changes-in-v0-9-2|2 Apps and Integrations changes in v0.9.2]]
+- Earlier: 2026-04-24 · OpenCode · [[Changes/OpenCode/2026-04-24-added-an-experimental-http-api-endpoint-for-mcp-server-status|Added an experimental HTTP API endpoint for MCP server status]]
 - Later: 2026-04-27 · ElevenLabs · [[Changes/ElevenLabs/2026-04-27-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 

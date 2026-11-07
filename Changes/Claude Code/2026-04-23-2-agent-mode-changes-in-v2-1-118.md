@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40d6911b104e9e2cd43ad103c2b905738a6cacc376937e3fa824a2b2e8b40441
+machine_hash: 829cb39395ace26da5e0079e82f1de7cc5a5e0b8af3d9acfbe69764300311989
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Agent Mode changes in v2.1.118
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-20-2-agent-mode-changes-in-v1-0-33|2 Agent
-  Mode changes in v1.0.33]]'
+- '[[Changes/OpenCode/2026-04-21-desktop-added-a-setting-to-hide-the-session-progress-bar-while-the-agent-is-work|Desktop
+  Added a setting to hide the session progress bar while the agent is working]]'
 - '[[Changes/Claude Code/2026-04-22-2-agent-mode-changes-in-v2-1-117|2 Agent Mode
   changes in v2.1.117]]'
 - '[[Changes/Ollama/2026-04-22-kimi-cli-with-kimi-k2-6-excels-at-long-horizon-agentic-execution-tasks-through-a|Kimi

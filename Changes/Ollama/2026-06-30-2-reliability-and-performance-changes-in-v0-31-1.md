@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d98f88c6640b94a72562aaf231bf98ff056dc783fc662c9dd8385ef84fb7ead
+machine_hash: e82cd129cdcc429cff096125e4df6068e7abfc3af6291fc9167cf19aae4e199a
 product: ollama
 product_name: Ollama
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.31.1
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-30 · Lovable · [[Changes/Lovable/2026-06-30-faster-ai-responses-in-your-app-with-openai-priority-processing|Faster AI responses in your app with OpenAI priority processing]]
-- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
+- Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-4-reliability-and-performance-changes-in-v2026-6-11|4 Reliability and Performance changes in v2026.6.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

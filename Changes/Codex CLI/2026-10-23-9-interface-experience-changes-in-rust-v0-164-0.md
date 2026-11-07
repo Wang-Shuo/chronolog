@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7d10be28dc0ce08a9f946d2e0b0436ce32eca57aa7b95dee207486bb364e82a
+machine_hash: 4eaca68a7ccce2289a087659dbe8f805c4b98f8f160c73dad11013250f12c26a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -60,9 +60,10 @@ record:
   title: 9 Interface Experience changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-improved-a-mod-s-image-to-draw-its-picture-in-iterm2-3-5-and-later-with-fullscre|Improved
-  a mod''s Image to draw its picture in iTerm2 3.5 and later with fullscreen…]]'
-- '[[Changes/Lovable/2026-10-20-redesigned-more-menu|Redesigned More menu]]'
+- '[[Changes/Google Antigravity/2026-10-22-the-more-actions-menu-on-conversations-in-the-sidebar-now-includes-pin-and-archi|The
+  more-actions menu on conversations in the sidebar now includes Pin and Archive…]]'
+- '[[Changes/Google Antigravity/2026-10-22-you-can-now-manage-notification-preferences-toggle-completion-sounds-and-adjust|Manage
+  notification preferences, toggle completion sounds, and adjust agent sound…]]'
 - '[[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved
   a mod''s Image to draw inside tmux with allow-passthrough…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'

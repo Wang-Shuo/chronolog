@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5bf93501afcde28375d8f1d6b8dc5546711056767847ac3223593f1e15a4597e
+machine_hash: bf8671520c93999f4d75cc8a2513353952e5e4d316e296aad3d703f27b8b8dce
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: '#35530 Track model and personality in world state @copyberry'
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-21-design-systems-personal-scope-imports-save-to-your-own-memory-the-selector-reset|Design
-  systems: personal-scope imports save to your own memory, the selector resets…]]'
+- '[[Changes/Midjourney/2026-07-24-we-are-launching-our-v8-2-image-model-today-this-update-focuses-on-aesthetics-an|Midjourney
+  launches our V8.2 image model today]]'
 - '[[Changes/Open WebUI/2026-07-27-7-memory-and-personalization-changes-in-v0-11-0|7
   Memory and Personalization changes in v0.11.0]]'
 - '[[Changes/Dify/2026-07-28-test-use-sqlite-sessions-in-core-memory-by-asukaminato0721-in-https-github-com-l|test:

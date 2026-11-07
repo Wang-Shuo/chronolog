@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 333b334f388870601733fd56e405811dfee1cf75379c6237a14eed5b49520b60
+machine_hash: d58b5a4948e7fa87bf9da98f17a91e0903ea6f978cd0b7fcde1b48b69ac44515
 product: lovable
 product_name: Lovable
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-2-apps-and-integrations-changes-in-v0-0-403|2 Apps and Integrations changes in v0.0.403]]
-- Later: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added plugin name to skill descriptions and /skills menu for better discoverability]]
+- Later: 2026-02-05 · OpenCode · [[Changes/OpenCode/2026-02-05-6-apps-and-integrations-changes-in-v1-1-52|6 Apps and Integrations changes in v1.1.52]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

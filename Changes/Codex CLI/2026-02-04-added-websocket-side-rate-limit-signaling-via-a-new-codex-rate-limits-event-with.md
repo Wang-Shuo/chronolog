@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: d371c00b0e610cf7bc2f2027c859501eb01029b20b6e67cc3af95ea7cad59cc9
+machine_hash: e25e7788642628497297744d0896fa045c17bc8fcde182a8707b55c73ba221cb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: Added websocket-side rate limit signaling via a new `codex.rate_limits` event…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-03-improve-handling-of-chat-history-when-switching-between-model-families|Improve
-  handling of chat history when switching between model families]]'
+- '[[Changes/OpenCode/2026-02-03-5-model-support-changes-in-v1-1-49|5 Model Support
+  changes in v1.1.49]]'
 - '[[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan
   10, 2026: We lowered the Standard and Light thinking time as we observed users…]]'
 - '[[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved

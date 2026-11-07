@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b942b9b007e275b9b514571b7e2bbaec85c7ae85ca333cdf4df878ef1553bb56
+machine_hash: 5cc1f41e3fc9138d450bc47d6f0f8d0f9bb665a7ffd4b84a9202b2d3a8d4b34a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,8 +54,8 @@ record:
   title: '**❗ Update Info Notification for Admins**'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-19-xinference-auth-system-enhanced-support-for-xinference-s-authentication-system-b|Xinference
-  Auth System]]'
+- '[[Changes/Midjourney/2024-08-23-sign-in-with-your-discord-account-on-the-website-if-you-want-to-have-history-of|Sign
+  in with your discord account on the website if you want to have history…]]'
 - '[[Changes/Open WebUI/2024-08-27-disable-signups-conditionally-implemented-conditional-logic-to-disable-sign-ups|✋
   Disable Signups Conditionally]]'
 - "[[Changes/Open WebUI/2024-09-21-downgrade-authlib-reverted-authlib-to-version-1-3-1-to-address-and-resolve-issue|\U0001F513

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bf04bfba7bfeed50387b44629576feb92565c2150c7111f7fb28ea0dcdb61d1a
+machine_hash: cab07f4ab3b3badd34a5299e3d2eab9bfcc4252c41aa528ac28acdea886e3c73
 product: ollama
 product_name: Ollama
 record:
@@ -59,8 +59,8 @@ record:
   title: '[Qwen 2.5](https://ollama.com/library/qwen2.5): new multilingual Qwen models…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We''ve
-  also trained a new Cursor Tab model that''s smarter and more context-aware]]'
+- '[[Changes/Gamma/2024-08-24-pro-token-limit-increased-from-10-000-to-25-000-tokens-per-generation|Pro:
+  Token limit increased from 10,000 to 25,000 tokens per generation]]'
 - '[[Changes/Cline/2024-08-26-implement-sliding-window-context-management-to-keep-tasks-going-past-200k-tokens|Implement
   sliding window context management to keep tasks going past 200k tokens]]'
 - '[[Changes/Aider/2024-08-27-keep-your-prompt-cache-from-expiring-https-aider-chat-docs-usage-caching-html-pr|Keep

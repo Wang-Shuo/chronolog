@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16b1369f010fec95f65977a34c36fc87901bd0ec0c7b16fbe8103238f8c07a73
+machine_hash: f5fa4fa88ab640feddc680975ef73848513618ebfab4eb5eb7bd322ddd4f7b33
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,10 +50,10 @@ record:
     link into a chat…"
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-14-kimi-k2-6-with-vision-support|kimi-k2.6 (with vision
-  support)]]'
 - '[[Changes/Gemini/2026-05-19-gemini-omni-is-your-creative-partner-for-video-creation|Gemini
   Omni is your creative partner for video creation]]'
+- '[[Changes/Runway/2026-05-21-get-the-video-you-need-from-the-video-you-already-have-edit-a-frame-the-way-you|Aleph
+  2.0 & Edit Studio]]'
 - '[[Changes/ElevenLabs/2026-05-25-music-5f1ccf|Music]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e|open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e]]'
 source_type: github_releases

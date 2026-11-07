@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f64017ff60a078ebfd9fdf74f6f867649ca6b15397506994dfeb35292a7c75c5
+machine_hash: d92505abe44db55180ac625cf9be91132fd55c2644cf28cfdd253339dffb0d89
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -53,8 +53,8 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-add-acp-flag-to-start-as-agent-client-protocol-server|Add
-  --acp flag to start as Agent Client Protocol server]]'
+- '[[Changes/OpenCode/2026-01-28-3-agent-mode-changes-in-v1-1-37|3 Agent Mode changes
+  in v1.1.37]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-29-2-agent-mode-changes-in-v0-0-399|2 Agent
   Mode changes in v0.0.399]]'
 - '[[Changes/Codex CLI/2026-02-02-2-agent-mode-changes-in-rust-v0-94-0|2 Agent Mode

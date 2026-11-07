@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ada398a18100299adbbdbd2b0c79b9b2f33e162e3a2eda8c2ee2afc10e2312db
+machine_hash: c431119d6934f85775b7588f6ecac5acd6a37f2e0e253719afd5d8a3f0457480
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,8 +84,8 @@ record:
   title: 6 Safety and Privacy changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-08-2-safety-and-privacy-changes-in-v1-0-94|2
-  Safety and Privacy changes in v1.0.94]]'
+- '[[Changes/OpenClaw/2026-10-08-windows-mxc-sandbox-the-optional-mxc-sandbox-can-start-and-run-tools-on-compatib|Windows
+  MXC sandbox]]'
 - '[[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety
   and Privacy changes in v2.1.296]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-09-copilot-config-supports-sandbox-credential-injecthosts-keys-with-key-completion|copilot
@@ -149,7 +149,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-09-copilot-config-supports-sandbox-credential-injecthosts-keys-with-key-completion|copilot config supports sandbox credential injectHosts keys, with key completion…]]
-- Later: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-3-safety-and-privacy-changes-in-v1-0-96|3 Safety and Privacy changes in v1.0.96]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-20-safety-and-privacy-changes-in-v2026-10-1|20 Safety and Privacy changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a30ebb4ce167be835845a3c5583bb620bef620f7dd507eefcf7b6390fcb08bce
+machine_hash: 177b8deed16c2c00c66491d2ca2a33a7d9efc9560a0116a904c1d878c940a946
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: Get started by installing the integration in the Cursor dashboard
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-09-3-apps-and-integrations-changes-in-v0-9-3|3 Apps
-  and Integrations changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-10-3-apps-and-integrations-changes-in-v1-14-46|3 Apps
+  and Integrations changes in v1.14.46]]'
 - '[[Changes/Claude Code/2026-05-11-added-goal-command-set-a-completion-condition-and-claude-keeps-working-across-tu|Added
   /goal command]]'
 - '[[Changes/Claude Code/2026-05-11-8-apps-and-integrations-changes-in-v2-1-139|8

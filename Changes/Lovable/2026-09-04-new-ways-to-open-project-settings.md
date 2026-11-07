@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d4783f378e0949cb552f0228f0dfe65e9dcee304e4cb5a1f79818aaee1344f25
+machine_hash: cd9a1eafbdb23542806b80f95932824f791f0da4e6fe83a40850ef9426b5d016
 product: lovable
 product_name: Lovable
 record:
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-add-recent-created-name-and-classic-none-sorting-to-the-split-sessions-sidebar-w|Add Recent, Created, Name, and classic None sorting to the split Sessions sidebar…]]
-- Later: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit and comment]]
+- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-21-interface-experience-changes-in-v2026-9-2|21 Interface Experience changes in v2026.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

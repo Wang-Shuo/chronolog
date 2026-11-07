@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28a7d1b4e4edd5ce9872115ef0010554b38746be6dfa28f7e8d6b9be2a1ab26b
+machine_hash: a7fb337f3aad3f26aa3103906a4a657ec95424fc814b62885ac2e1b26a55ae44
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-10-developer-workflow-changes-in-rust-v0-166-0|10
-  Developer Workflow changes in rust-v0.166.0]]'
-- '[[Changes/Open WebUI/2026-10-29-35-developer-workflow-changes-in-v0-12-5|35 Developer
-  Workflow changes in v0.12.5]]'
-- '[[Changes/Claude Code/2026-10-30-4-developer-workflow-changes-in-v2-1-314|4 Developer
-  Workflow changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-3-developer-workflow-changes-in-v2-2-4|3 Developer
+  Workflow changes in v2.2.4]]'
+- '[[Changes/OpenCode/2026-10-30-choose-a-base-branch-quickly|Choose a Base Branch
+  Quickly]]'
+- '[[Changes/OpenCode/2026-10-30-8-developer-workflow-changes-in-v2-2-3|8 Developer
+  Workflow changes in v2.2.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
 source_type: github_releases
 theme: developer-workflow
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-4-developer-workflow-changes-in-v2-1-314|4 Developer Workflow changes in v2.1.314]]
+- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-8-developer-workflow-changes-in-v2-2-3|8 Developer Workflow changes in v2.2.3]]
 - Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-15-developer-workflow-changes-in-v0-13-0|15 Developer Workflow changes in v0.13.0]]
 <!-- chronolog:end -->
 

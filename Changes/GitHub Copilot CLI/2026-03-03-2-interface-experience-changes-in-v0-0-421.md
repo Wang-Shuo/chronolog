@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 014eab173e8703da678960a985e2ea5348a32b43086fa8bc671ad76170daba95
+machine_hash: d86af10d9a2cb7dde98675969530078940b1b54a8492be93c82860e512e0c598
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.421
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The content from your plan files are now included in autocomplete suggestions as you…]]
-- Later: 2026-03-03 · v0 · [[Changes/v0/2026-03-03-improved-chat-sidebar-width-for-better-screen-space|Improved chat sidebar width for better screen space]]
+- Later: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-5-interface-experience-changes-in-v1-2-16|5 Interface Experience changes in v1.2.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

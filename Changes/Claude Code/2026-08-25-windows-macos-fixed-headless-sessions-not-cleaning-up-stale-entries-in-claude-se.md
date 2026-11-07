@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bcd4d5745c7d82b8e586024c9eefa9353cd88c384b0fbbb8dff5e6fab5210448
+machine_hash: cec6db1c0b47749d1f6017dcb6ecc654fb125e192caa1a3804543d4e595f4841
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
   title: 'Windows/macOS: Fixed headless sessions not cleaning up stale entries…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows:
-  cross-session messaging is now available, so Claude Code sessions across…]]'
-- '[[Changes/Ollama/2026-08-21-developers-can-now-easily-configure-claude-desktop-to-seamlessly-work-with-ollam|Developers
-  can now easily configure Claude Desktop to seamlessly work with Ollama…]]'
+- '[[Changes/OpenCode/2026-08-21-desktop-register-the-archive-session-command-in-both-desktop-layouts|Desktop
+  Register the archive session command in both desktop layouts]]'
 - '[[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]'
+- '[[Changes/OpenCode/2026-08-24-desktop-keep-model-provider-headers-visible-while-scrolling-the-model-picker|Desktop
+  Keep model provider headers visible while scrolling the model picker]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-21 · Windsurf · [[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]
+- Earlier: 2026-08-24 · OpenCode · [[Changes/OpenCode/2026-08-24-desktop-keep-model-provider-headers-visible-while-scrolling-the-model-picker|Desktop Keep model provider headers visible while scrolling the model picker]]
 - Later: 2026-08-25 · Lovable · [[Changes/Lovable/2026-08-25-filter-audit-logs-by-client|Filter audit logs by client]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7a7014b8044526ab7ac92714dc426a335cd6e1a08741bf35a14346deda0e60aa
+machine_hash: 45cb396d3ddfb3e93b3c4d383a74662516fb07efef63a860f7d0d02951e292da
 product: ollama
 product_name: Ollama
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-5-model-support-changes-in-v1-0-66|5 Model Support changes in v1.0.66]]
-- Later: 2026-07-01 · Claude · [[Changes/Claude/2026-07-01-model-entitlements-for-enterprise-plans-beta|Model entitlements for Enterprise plans (beta)]]
+- Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-32-model-support-changes-in-v2026-6-11|32 Model Support changes in v2026.6.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

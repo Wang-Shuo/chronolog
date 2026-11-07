@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f70ec34f7a1bb277878fa1b297a92976a9bb507d14211d065c85f680e9700af0
+machine_hash: 1927b7139733d1b083c3bd05801a4ab697d616e76d533cffbabe3e5ab1ce4877
 product: lovable
 product_name: Lovable
 record:
@@ -55,12 +55,12 @@ record:
   title: Email alerts for sign-ins from a new device and country
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-gateway-login-now-supports-anthropic-operated-public-gateway-endpoints|Gateway:
-  /login now supports Anthropic-operated public gateway endpoints]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-10-2-account-and-access-changes-in-v1-0-70|2
-  Account and Access changes in v1.0.70]]'
 - '[[Changes/Lovable/2026-07-10-sign-in-to-lovable-from-your-identity-provider-s-portal|Sign
   in to Lovable from your identity provider''s portal]]'
+- '[[Changes/OpenClaw/2026-07-13-69-account-and-access-changes-in-v2026-7-1|69 Account
+  and Access changes in v2026.7.1]]'
+- '[[Changes/OpenCode/2026-07-13-core-added-oauth-support-for-luna-responses-lite|Core
+  Added OAuth support for Luna Responses Lite]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-15-2026-07-15-41bc4811|lovable-2026-07-15-2026-07-15-41bc4811]]'
 source_type: lovable_changelog
 theme: account-access
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-10 · Lovable · [[Changes/Lovable/2026-07-10-sign-in-to-lovable-from-your-identity-provider-s-portal|Sign in to Lovable from your identity provider's portal]]
+- Earlier: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-core-added-oauth-support-for-luna-responses-lite|Core Added OAuth support for Luna Responses Lite]]
 - Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-server-mode-reconnects-oauth-mcp-servers-from-cached-tokens|Server mode reconnects OAuth MCP servers from cached tokens]]
 <!-- chronolog:end -->
 

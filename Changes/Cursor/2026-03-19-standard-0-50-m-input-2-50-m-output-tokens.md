@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 6413b9045fd956fd4afcf6aaf8be3c5cfa93d9d1e03c4d62363e7ca3d6a15ca1
+machine_hash: e90e0658220fb255bb7287cf8b6af74c6c382d656f5aee31afb0dbc0285fb6fe
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,9 @@ record:
   title: 'Standard: $0.50/M input, $2.50/M output tokens'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-17-test-add-comprehensive-unit-and-integration-tests-for-billing-components-by-codi|test:
-  add comprehensive unit and integration tests for billing components]]'
 - '[[Changes/Gemini CLI/2026-03-17-2-pricing-model-changes-in-v0-34-0|2 Pricing Model
   changes in v0.34.0]]'
+- '[[Changes/Midjourney/2026-03-17-modes-and-pricing|Modes and Pricing]]'
 - '[[Changes/Cline/2026-03-19-add-missing-fireworks-serverless-models-and-pricing|Add
   missing Fireworks serverless models and pricing]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8|cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8]]'

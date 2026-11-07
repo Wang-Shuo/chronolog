@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b892b9d023b9817662b6d23b92c1c538195544ffce19fca34c543a73112dc9e6
+machine_hash: 46236f589d826d6a352aa0b6c4bc6a56d2e61a6bd243e9e1da10022393569f1c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,10 @@ record:
   title: 2 Search and Browsing changes in rust-v0.157.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-2-search-and-browsing-changes-in-rust-v0-156-0|2
-  Search and Browsing changes in rust-v0.156.0]]'
-- '[[Changes/Claude Code/2026-09-23-improved-deep-research-reliability-on-long-research-briefs-by-removing-unused-re|Improved
-  /deep-research reliability on long research briefs by removing unused…]]'
 - '[[Changes/Cline/2026-09-24-on-windows-mention-search-results-now-show-the-right-file-names-nested-files-suc|On
   Windows, @-mention search results now show the right file names]]'
+- '[[Changes/Midjourney/2026-09-24-style-previews|STYLE PREVIEWS]]'
+- '[[Changes/Midjourney/2026-09-24-search-archive|SEARCH & ARCHIVE]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3|codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3]]'
 source_type: github_releases
 theme: search-browsing
@@ -93,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.157.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-on-windows-mention-search-results-now-show-the-right-file-names-nested-files-suc|On Windows, @-mention search results now show the right file names]]
+- Earlier: 2026-09-24 · Midjourney · [[Changes/Midjourney/2026-09-24-search-archive|SEARCH & ARCHIVE]]
 - Later: 2026-09-29 · Ollama · [[Changes/Ollama/2026-09-29-models-using-web-search-can-now-perform-up-to-ten-searches-per-response-up-from|Models using web search can now perform up to ten searches per response, up from three]]
 <!-- chronolog:end -->
 

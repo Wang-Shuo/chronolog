@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 14e64fbe9f9189ced5c94282cf8840e7649ad16e53380b394144f8ea82ef0003
+machine_hash: fd348e057dd98596b42b79cf808147c803d004a1930a43c07bcb39e1aa1f5003
 product: ollama
 product_name: Ollama
 record:
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-elevencreative-studio-d7b18f|ElevenCreative Studio]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-4-model-support-changes-in-1-9-0|4 Model Support changes in 1.9.0]]
+- Later: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-3-model-support-changes-in-v1-17-14|3 Model Support changes in v1.17.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

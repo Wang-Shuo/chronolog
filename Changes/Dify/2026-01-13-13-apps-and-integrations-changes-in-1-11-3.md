@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 52a3b93a8c38921bc01c2f08ec04b74799d6152030df9cc166e9954251198f7d
+machine_hash: eeb0ce88570b84a70f478e082da902020e1cdd02a1fc043d51f86362ded9db93
 product: dify
 product_name: Dify
 record:
@@ -76,8 +76,10 @@ record:
   title: 13 Apps and Integrations changes in 1.11.3
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-12-mcp-server|MCP Server]]'
-- '[[Changes/ElevenLabs/2026-01-12-sdk-releases|SDK Releases]]'
+- '[[Changes/OpenCode/2026-01-12-core-improve-error-handling-for-built-in-plugin-installation-failures|Core
+  Improve error handling for built-in plugin installation failures]]'
+- '[[Changes/OpenCode/2026-01-12-support-resource-content-type-in-mcp-tool-output|Support
+  resource content type in MCP tool output]]'
 - '[[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps
   and Integrations changes in v2.1.6]]'
 source_release: '[[Releases/Dify/dify-2026-01-13-1-11-3-github-276298566-1fe35168|dify-2026-01-13-1-11-3-github-276298566-1fe35168]]'
@@ -144,7 +146,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.3
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps and Integrations changes in v2.1.6]]
-- Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-10-apps-and-integrations-changes-in-rust-v0-81-0|10 Apps and Integrations changes in rust-v0.81.0]]
+- Later: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-terminal-actually-modify-opencode-config-when-adding-mcp-servers-with-mcp-add-co|Terminal Actually modify OpenCode config when adding MCP servers with mcp add command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

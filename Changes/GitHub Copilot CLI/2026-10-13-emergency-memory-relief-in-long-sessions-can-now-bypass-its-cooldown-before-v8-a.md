@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c5625c8e30a2f2fe307417dadc71471f0871528b80eb4230a2f8518bfe9b17c
+machine_hash: 125fa65b1e0524e8cb98fc32b950de74f3128c308361c9a0a17946597d5e4c8e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,8 +49,8 @@ record:
     V8…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-5-reliability-and-performance-changes-in-v0-12-0|5
-  Reliability and Performance changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-2-reliability-and-performance-changes-in-v2026-10-1|2
+  Reliability and Performance changes in v2026.10.1]]'
 - '[[Changes/Ollama/2026-10-11-paused-background-model-upgrade-for-embedding-and-other-request-performance-by-j|Paused
   background model upgrade for embedding and other request performance,]]'
 - '[[Changes/Ollama/2026-10-12-2-reliability-and-performance-changes-in-v0-40-4|2

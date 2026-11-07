@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1afa6ebe4ff995d3d5f70bbc48b04925b3d4200c9447e984c18996b8dbf86002
+machine_hash: 2557c870525abe830929acfed3cd227da80fa0543328b581abd6a156b94af230
 product: openhands
 product_name: OpenHands
 record:
@@ -47,11 +47,12 @@ record:
   title: 4 Files and Data changes in v1.17.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-2-files-and-data-changes-in-v1-16-0|2 Files and
-  Data changes in v1.16.0]]'
-- '[[Changes/ElevenLabs/2026-08-31-dubbing|Dubbing]]'
-- '[[Changes/Open WebUI/2026-08-31-2-files-and-data-changes-in-v0-11-2|2 Files and
-  Data changes in v0.11.2]]'
+- '[[Changes/OpenClaw/2026-09-05-a-rejected-send-can-keep-its-original-attachments-and-retry-action-when-you-leav|A
+  rejected send can keep its original attachments and Retry action when you leave…]]'
+- '[[Changes/OpenClaw/2026-09-08-2-files-and-data-changes-in-v2026-9-3|2 Files and
+  Data changes in v2026.9.3]]'
+- '[[Changes/Google Antigravity/2026-09-09-introducing-new-documents-section-and-several-ux-enhancements-for-organization-a|Introducing
+  new Documents section and several UX enhancements for organization and control]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-09-v1-17-0-github-385787922-b4569793|openhands-2026-09-09-v1-17-0-github-385787922-b4569793]]'
 source_type: github_releases
 theme: file-data
@@ -92,7 +93,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-2-files-and-data-changes-in-v0-11-2|2 Files and Data changes in v0.11.2]]
+- Earlier: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-introducing-new-documents-section-and-several-ux-enhancements-for-organization-a|Introducing new Documents section and several UX enhancements for organization and control]]
 - Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-13-files-and-data-changes-in-1-17-1|13 Files and Data changes in 1.17.1]]
 <!-- chronolog:end -->
 

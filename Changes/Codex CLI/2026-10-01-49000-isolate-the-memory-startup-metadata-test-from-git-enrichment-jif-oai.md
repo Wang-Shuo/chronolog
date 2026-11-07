@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79606fc0be23986445a9bd8c3457e234d2439c25c3ed30988227c4a56fabfeb3
+machine_hash: ca450a0165d0d7fbb8d8dce33e43770ffdfa5cc1d8f3d6a8c562760315066281
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#49000 Isolate the memory startup metadata test from Git enrichment @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed
-  /memory so that Auto-memory can no longer be turned on from a background…]]'
+- '[[Changes/OpenClaw/2026-09-30-15-memory-and-personalization-changes-in-v2026-9-7|15
+  Memory and Personalization changes in v2026.9.7]]'
 - '[[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually
   try on clothing and accessories]]'
 - '[[Changes/Claude Code/2026-10-01-improved-memory-the-left-and-right-arrow-keys-now-flip-its-on-off-settings-such|Improved
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-improved-memory-the-left-and-right-arrow-keys-now-flip-its-on-off-settings-such|Improved /memory: the left and right arrow keys now flip its on/off settings, such…]]
-- Later: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-49876-remove-personality-plumbing-from-the-tui-etraut-openai|♯49876 Remove personality plumbing from the TUI @etraut-openai]]
+- Later: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-2-memory-and-personalization-changes-in-v2026-9-8|2 Memory and Personalization changes in v2026.9.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

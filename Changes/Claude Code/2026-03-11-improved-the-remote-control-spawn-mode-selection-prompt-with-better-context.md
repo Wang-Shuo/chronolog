@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e264dd342a275d9ab5eec9e8edd9e35fcef5a875cbc6b020ee38c30a9721853f
+machine_hash: 6f3084a215d5eb2071c086b569f2442044d527235c9aa813e3b24364dd10a5af
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,8 +41,8 @@ record:
   title: Improved the Remote Control spawn mode selection prompt with better context
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-08-2-context-window-changes-in-v0-8-9|2 Context Window
-  changes in v0.8.9]]'
+- '[[Changes/OpenCode/2026-03-09-core-send-context-1m-2025-08-07-beta-header-to-gitlab-to-enable-1m-context-windo|Core
+  Send context-1m-2025-08-07 beta header to GitLab to enable 1M context window]]'
 - '[[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context
   Window changes in rust-v0.113.0]]'
 - '[[Changes/Claude/2026-03-11-work-across-excel-and-powerpoint|Work across Excel

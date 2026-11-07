@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29f182098588bc4c423b026f912ef5021b3b7c2c645b03c6c13f27f1653aa535
+machine_hash: 29a4b26e6c3ec0637a6f858a54dcad9cc0e57891969a2810cc18680bcafe9a46
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -115,7 +115,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-sdk-releases|SDK Releases]]
-- Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-13-apps-and-integrations-changes-in-rust-v0-99-0|13 Apps and Integrations changes in rust-v0.99.0]]
+- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-core-add-directory-parameter-to-plugin-client-for-multi-project-support|Core Add directory parameter to plugin client for multi-project support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

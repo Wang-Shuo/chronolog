@@ -687,6 +687,15 @@ def semantic_preclassification_override(
     for theme, pattern, ignore_code in SPECIFIC_OVERRIDES:
         if theme in themes and re.search(pattern, code_free if ignore_code else text, re.I):
             return theme
+    if product == "suno" and "music-generation" in themes and re.search(
+        r"\b(?:songs?|lyrics|stems|remaster|instrumental|songwriting)\b", text, re.I,
+    ):
+        return "music-generation"
+    if product in {"runway", "midjourney"} and "video-generation" in themes and re.search(
+        r"\b(?:video generation|(?:text|image)[ -]to[ -]video)|"
+        r"\b(?:generate|extend|loop)\b.{0,35}\bvideos?\b", text, re.I,
+    ):
+        return "video-generation"
     technical_memory_phrases = (
         "memory allocation",
         "memory issue",
@@ -718,6 +727,10 @@ def semantic_preclassification_override(
         re.I,
     ):
         return "context-window"
+    if "accessibility-localization" in themes and re.search(
+        r"\bsupports? (?:\d+|more|additional|new) languages\b", text, re.I,
+    ):
+        return "accessibility-localization"
     if "model-support" in themes and re.search(
         r"\b(?:gpt[- ]?4(?:o|\.\d+)?|gpt[- ]?[56](?:\.\d+)?|o[134](?:-pro|-mini)?|"
         r"sonnet|opus|gemini)\b",
@@ -1646,8 +1659,13 @@ class _ReleaseCards:
                 self.add("digest", items, {"theme": theme})
 
     def build(self, sections: list[dict[str, Any]]) -> list[dict[str, Any]]:
-        flat_list = self.release.get("source_type") == "github_releases"
+        flat_list = self.release.get("source_type") in {"github_releases", "openclaw_changelog"}
         for section in sections:
+            if (self.release.get("source_type") == "midjourney_changelog"
+                    and section["heading"].casefold() in {"up next", "coming soon", "what's next"}):
+                # Keep roadmaps in the source release, but do not publish them as
+                # changes already shipped.
+                continue
             if flat_list and section["heading"].casefold() == "new contributors":
                 continue
             if flat_list or section["kind"] == "generic":

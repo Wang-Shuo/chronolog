@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3136623ad96badfcbf0588e7f363545699e5bda1489e624ffd86efff2916b37e
+machine_hash: 58dd81581f6e11e109e2e1e5973f5399b976fc9234623ccc8ebcd87efbeec603
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.411
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-2-reliability-and-performance-changes-in-2-5|2 Reliability and Performance changes in 2.5]]
-- Later: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
+- Later: 2026-02-17 · Midjourney · [[Changes/Midjourney/2026-02-17-this-rating-party-is-focused-on-prompts-that-ask-to-generate-text|This rating party is focused on prompts that ask to generate text]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

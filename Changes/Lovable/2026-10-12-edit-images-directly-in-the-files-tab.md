@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d87686a5ce91ab68d35e01d8342d370d59d46e03044d35e15b35af2e3df85c1d
+machine_hash: b2d70a68a19c4f364bdda338e156663c89687e484e003d102653fa05df81972e
 product: lovable
 product_name: Lovable
 record:
@@ -51,12 +51,12 @@ record:
   title: Edit images directly in the Files tab
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-50216-use-the-shared-text-editor-for-command-center-task-renaming-bc-openai|♯50216
-  Use the shared text editor for command-center task renaming @bc-openai]]'
 - '[[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor
   Experience changes in v2.1.296]]'
 - '[[Changes/Open WebUI/2026-10-10-21-editor-experience-changes-in-v0-12-0|21 Editor
   Experience changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-10-editor-experience-changes-in-v2026-10-1|10 Editor
+  Experience changes in v2026.10.1]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-12-2026-10-12-16e5a6a0|lovable-2026-10-12-2026-10-12-16e5a6a0]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-21-editor-experience-changes-in-v0-12-0|21 Editor Experience changes in v0.12.0]]
-- Later: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-the-editor-tool-no-longer-receives-null-in-place-of-the-text-to-replace-from-som|The editor tool no longer receives null in place of the text to replace from some models]]
+- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-10-editor-experience-changes-in-v2026-10-1|10 Editor Experience changes in v2026.10.1]]
+- Later: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-managed-browser-tabs-at-the-shared-tab-limit-locally-managed-browser-cleanup-fav|Managed browser tabs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c136e062578ed27f990510a5ef0d5a716835f153a04392d2277cbc0e6f8b577e
+machine_hash: 2072f7e3aa0d32f0a04d2abb8bf38047395119cdbfb5459e1d7c5edaea733f08
 product: dify
 product_name: Dify
 record:
@@ -91,10 +91,10 @@ record:
   title: 14 Agent Mode changes in 1.19.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-11-03-xiaomi-mimo-s-mimo-v2-6-https-ollama-com-library-mimo-v2-6-a-9b-model-built-for|Xiaomi
-  MiMo''s mimo-v2.6((source link) a 9B model built…]]'
-- "[[Changes/Open WebUI/2026-11-03-no-sub-agent-limits-by-default-the-sub-agent-limits-in-admin-settings-and-throug|\U0001F513
-  No sub-agent limits by default. The sub-agent limits in Admin Settings…]]"
+- '[[Changes/OpenClaw/2026-11-03-9-agent-mode-changes-in-v2026-10-10|9 Agent Mode
+  changes in v2026.10.10]]'
+- '[[Changes/OpenClaw/2026-11-03-you-can-now-work-directly-in-a-folder-on-another-computer-connected-to-openclaw|Work
+  directly in a folder on another computer connected to OpenClaw]]'
 - '[[Changes/OpenHands/2026-11-03-3-agent-mode-changes-in-v1-35-0|3 Agent Mode changes
   in v1.35.0]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'
@@ -170,7 +170,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-3-agent-mode-changes-in-v1-35-0|3 Agent Mode changes in v1.35.0]]
-- Later: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-2-agent-mode-changes-in-v1-36-0|2 Agent Mode changes in v1.36.0]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-4-agent-mode-changes-in-v2026-11-1|4 Agent Mode changes in v2026.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

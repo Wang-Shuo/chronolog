@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 92bd1feb84e8310ca5015531bc18d2db71e49f3f9892c610dbbb2f8e1ca93524
+machine_hash: d186aa0850938b2a9b050b68e27347c69cab42479d878fe1f518bd5a10cf14cc
 product: replit
 product_name: Replit
 record:
@@ -60,12 +60,11 @@ record:
   title: Visual editor color picker improvement
   type: change
 related_changes:
-- '[[Changes/Dify/2025-07-28-3-interface-experience-changes-in-1-7-1|3 Interface Experience
-  changes in 1.7.1]]'
 - '[[Changes/Gemini CLI/2025-07-30-2-interface-experience-changes-in-v0-1-15|2 Interface
   Experience changes in v0.1.15]]'
 - '[[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat:
   adds navigation bar component and restructure app layout]]'
+- "[[Changes/Gamma/2025-07-31-style-your-visuals|Style Your Visuals \U0001F58C️]]"
 source_release: '[[Releases/Replit/replit-2025-08-01-2025-08-01-3bbceb1a|replit-2025-08-01-2025-08-01-3bbceb1a]]'
 source_type: replit_changelog
 theme: interface-experience
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat: adds navigation bar component and restructure app layout]]
+- Earlier: 2025-07-31 · Gamma · [[Changes/Gamma/2025-07-31-style-your-visuals|Style Your Visuals 🖌️]]
 - Later: 2025-08-02 · Codex CLI · [[Changes/Codex CLI/2025-08-02-big-news-this-release-introduces-a-new-ux-where-codex-is-no-longer-fullscreen-ma|Big News!!! This release introduces a new UX where Codex is no longer fullscreen…]]
 <!-- chronolog:end -->
 

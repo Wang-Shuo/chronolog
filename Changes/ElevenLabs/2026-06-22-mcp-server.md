@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 84812a0bbe131c3396bd6961cc70959b319446bb59c155336d650ec01729b796
+machine_hash: b3be8ba13e8267387fc7af2bf186e9b5dbdfb5b56ea515e599bf053f4d47fff2
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-22 · Cursor · [[Changes/Cursor/2026-06-22-plugin-canvases|Plugin canvases]]
-- Later: 2026-06-22 · Lovable · [[Changes/Lovable/2026-06-22-lovable-mcp-updates|Lovable MCP updates]]
+- Later: 2026-06-22 · Google Antigravity · [[Changes/Google Antigravity/2026-06-22-2-apps-and-integrations-changes-in-ide-v2-1-1-model-quota-screen|2 Apps and Integrations changes in IDE v2.1.1 — Model quota screen…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

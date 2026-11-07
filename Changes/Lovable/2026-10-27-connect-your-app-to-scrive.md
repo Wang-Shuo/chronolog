@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1aa6dac8ec801b2aeefd5397f25314a6300ef38d11e70fd0a4f663461e5b3578
+machine_hash: c974e4931b6566032e40fd3d723f1614c072a7d84e80d9f76e03f87359df9e01
 product: lovable
 product_name: Lovable
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-27-interactive-and-sdk-autopilot-sessions-keep-waiting-for-attached-background-task|Interactive and SDK Autopilot sessions keep waiting for attached background tasks…]]
-- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions): name dialog viewport limits]]
+- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-9-apps-and-integrations-changes-in-v2026-10-8|9 Apps and Integrations changes in v2026.10.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

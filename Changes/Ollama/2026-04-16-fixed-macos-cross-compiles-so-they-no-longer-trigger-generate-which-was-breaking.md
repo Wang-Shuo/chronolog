@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d298669903af6c0e77480931768a24a55575e01ac2e00b1501049bbc24c6ec1
+machine_hash: 9c80f9f3ab6517aeddba1ed9673aca620a92a8136ade083c25fb3ded3895c92b
 product: ollama
 product_name: Ollama
 record:
@@ -42,8 +42,8 @@ record:
   title: '**Fixed macOS cross-compiles** so they no longer trigger `generate`…'
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-04-15-meet-your-new-desktop-assistant-gemini-for-mac|Meet
-  your new desktop assistant: Gemini for Mac]]'
+- '[[Changes/OpenCode/2026-04-15-2-mobile-and-desktop-changes-in-v1-4-6|2 Mobile and
+  Desktop changes in v1.4.6]]'
 - '[[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows:
   PowerShell tool is progressively rolling out]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-prompt-frame-no-longer-causes-rendering-issues-on-windows-and-ubuntu-terminals|Prompt
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-prompt-frame-no-longer-causes-rendering-issues-on-windows-and-ubuntu-terminals|Prompt frame no longer causes rendering issues on Windows and Ubuntu terminals]]
-- Later: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage now works from Remote Control (mobile/web) clients]]
+- Later: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-desktop-desktop-builds-now-show-a-beta-or-dev-badge-in-the-title-bar-when-applic|Desktop Desktop builds now show a Beta or Dev badge in the title bar when applicable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

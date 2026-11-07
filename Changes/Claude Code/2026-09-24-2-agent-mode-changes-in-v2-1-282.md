@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c626f540e09163b3c80e339fed1a141aed187822ae76e78da53e971e0b053f9
+machine_hash: 122ac557d41e38dacc71d484a31fe8b809a42350135bac75a3c237f8f2c5ec63
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Agent Mode changes in v2.1.282
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs:
-  refresh AGENTS.md guidance]]'
 - '[[Changes/Claude Code/2026-09-23-10-agent-mode-changes-in-v2-1-281|10 Agent Mode
   changes in v2.1.281]]'
 - '[[Changes/Cursor/2026-09-23-when-rollouts-detects-a-regression-it-names-the-change-it-suspects-and-notifies|When
   Rollouts detects a regression, it names the change it suspects and notifies…]]'
+- '[[Changes/OpenClaw/2026-09-23-41-agent-mode-changes-in-v2026-9-6|41 Agent Mode
+  changes in v2026.9.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-when-rollouts-detects-a-regression-it-names-the-change-it-suspects-and-notifies|When Rollouts detects a regression, it names the change it suspects and notifies…]]
+- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-41-agent-mode-changes-in-v2026-9-6|41 Agent Mode changes in v2026.9.6]]
 - Later: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-improved-startup-claude-p-and-claude-code-remote-no-longer-load-the-interactive|Improved startup: claude -p and Claude Code Remote no longer load the interactive…]]
 <!-- chronolog:end -->
 

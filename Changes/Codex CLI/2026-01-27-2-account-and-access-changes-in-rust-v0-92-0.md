@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a403df0a56b5553fb6d1898840f60abf00df329e0ed473e066e182176d942c04
+machine_hash: bd3a910deb4e201c93efdf7f1cbaa3fbfe48eaad2d52ee56142c922d34ce6da1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Account and Access changes in rust-v0.92.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode
-  Added ability for OAuth users to browse and resume remote Claude sessions…]]'
 - '[[Changes/Cursor/2026-01-22-browser-can-now-request-local-network-permissions-fixing-authentication-flows-wi|Browser
   can now request local network permissions, fixing authentication flows…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-22-mcp-servers-can-now-authenticate-using-oauth-2-0-with-automatic-token-management|MCP
   servers can now authenticate using OAuth 2.0 with automatic token management…]]'
+- '[[Changes/OpenCode/2026-01-25-desktop-auto-open-oauth-links-for-codex-and-copilot|Desktop
+  Auto-open OAuth links for Codex and Copilot]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-27-rust-v0-92-0-github-280265755-5634ff7c|codex-cli-2026-01-27-rust-v0-92-0-github-280265755-5634ff7c]]'
 source_type: github_releases
 theme: account-access
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.92.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-mcp-servers-can-now-authenticate-using-oauth-2-0-with-automatic-token-management|MCP servers can now authenticate using OAuth 2.0 with automatic token management…]]
+- Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-desktop-auto-open-oauth-links-for-codex-and-copilot|Desktop Auto-open OAuth links for Codex and Copilot]]
 - Later: 2026-01-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-27-error-messages-consistently-reference-login-and-logout-commands|Error messages consistently reference /login and /logout commands]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef8dd88859a5438ce3ac268315a1439231749b345c0ae24f70368a2f51a0c988
+machine_hash: fd3f3169f90a610bc3ad8f702f29f9e348f6937f6bdb8eec423d77ce0209d910
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: '[Claude Tag] Improved "Notify members now" in admin settings'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5
-  Enterprise and Administration changes in v0.11.4]]'
 - '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
   open Git Sync to org admins on cloud backends]]'
+- '[[Changes/OpenClaw/2026-09-23-2-enterprise-and-administration-changes-in-v2026-9-6|2
+  Enterprise and Administration changes in v2026.9.6]]'
 - '[[Changes/Lovable/2026-09-24-see-which-credit-limit-applies-to-each-member-in-the-people-export|See
   which credit limit applies to each member in the People export]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'

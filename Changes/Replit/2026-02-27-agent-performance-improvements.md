@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: cb4918dcefe5b4f8994e658428252767cedd31512019acc5ca0ed476e9d9229a
+machine_hash: 1ee5d933b309d1e6de2f95d7539a80d22b7591ec6e4084e9be0444d68b299777
 product: replit
 product_name: Replit
 record:
@@ -54,10 +54,10 @@ record:
   title: Agent performance improvements
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved
-  memory usage in multi-agent sessions by releasing completed subagent task state]]'
-- '[[Changes/Codex CLI/2026-02-26-2-reliability-and-performance-changes-in-rust-v0-106-0|2
-  Reliability and Performance changes in rust-v0.106.0]]'
+- '[[Changes/Midjourney/2026-02-26-this-should-be-both-faster-more-accurate-and-more-fun|This
+  should be both faster, more accurate, and more fun]]'
+- '[[Changes/Midjourney/2026-02-26-this-should-noticeably-increase-the-general-speed-and-performance-across-the-ent|This
+  should noticeably increase the general speed and performance across the entire…]]'
 - '[[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster
   sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]'
 source_release: '[[Releases/Replit/replit-2026-02-27-2026-02-27-f0dc45d2|replit-2026-02-27-2026-02-27-f0dc45d2]]'

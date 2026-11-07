@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0cf91e6e70dd931802139023d57a010addb13dbc4be3ca235fb6544e4b520de1
+machine_hash: 2a0281632be8f41d6e6fd155066aea2ccc0bbcb04fa8f63672f1e89bc40c0a83
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Model Support changes in rust-v0.153.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-02-honor-gguf-model-defined-default-parameters|Honor GGUF
-  model defined default parameters]]'
+- '[[Changes/OpenCode/2026-09-02-default-provider-header-timeouts-to-five-minutes-so-slow-model-startups-fail-les|Default
+  provider header timeouts to five minutes so slow model startups fail less often]]'
 - '[[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67|Introducing
   GPT-6 Astra]]'
 - '[[Changes/Claude Code/2026-09-03-2-model-support-changes-in-v2-1-260|2 Model Support

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 015b4e656c2e2eb5ae898f919f356a64f373380dfdaee9a77dffe8ffd71b70d5
+machine_hash: 20bdf6a00c4a2e009273bf2cdf538c91d59c3b2d523e3f2332df3afa999bafe7
 product: gemini
 product_name: Gemini
 record:
@@ -60,10 +60,10 @@ record:
   title: Gemini Omni is your creative partner for video creation
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2:
-  image paste from Windows clipboard now works via a PowerShell fallback…]]'
 - '[[Changes/Ollama/2026-05-13-llama3-2-vision-is-not-yet-supported|llama3.2-vision
   is not yet supported]]'
+- '[[Changes/Runway/2026-05-13-work-with-an-ai-creative-partner-to-develop-and-produce-a-finished-video-describ|Runway
+  Agent]]'
 - '[[Changes/Ollama/2026-05-14-kimi-k2-6-with-vision-support|kimi-k2.6 (with vision
   support)]]'
 source_release: '[[Releases/Gemini/gemini-2026-05-19-2026-05-19-16a11edf|gemini-2026-05-19-2026-05-19-16a11edf]]'
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-kimi-k2-6-with-vision-support|kimi-k2.6 (with vision support)]]
-- Later: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-music-5f1ccf|Music]]
+- Later: 2026-05-21 · Runway · [[Changes/Runway/2026-05-21-get-the-video-you-need-from-the-video-you-already-have-edit-a-frame-the-way-you|Aleph 2.0 & Edit Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

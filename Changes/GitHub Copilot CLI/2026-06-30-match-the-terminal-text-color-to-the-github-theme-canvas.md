@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11b6bebcb53f7c436c4a581a3c5e6791f9053acf5d0c10cac84f06637b79fa60
+machine_hash: e847aa27154ae37cb86c7f1d4d0feb69c32af5625e3bb1c7381b67a655d41de8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-5-files-and-data-changes-in-v0-10-0|5 Files and Data changes in v0.10.0]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-docs-bring-readme-md-over-from-agent-canvas-by-rbren-in-https-github-com-openhan|docs: Bring README.md over from Agent Canvas]]
+- Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-canvas-a2ui-now-serves-only-the-current-app-assets-after-each-build-so-outdated|Canvas A2UI now serves only the current app assets after each build, so outdated…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

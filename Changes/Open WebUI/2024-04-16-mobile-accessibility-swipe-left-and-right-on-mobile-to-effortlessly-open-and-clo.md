@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 97d178b8b838d9a8ffc8c0138b1a3bb41e084e266ce61b9ea1d0792a424f3819
+machine_hash: f2478e110dceca9591ddb53ae7d2736303de81af3738dfee169ed53aa0820ccf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,8 +53,8 @@ record:
   title: "**\U0001F4F1 Mobile Accessibility**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-  now supports a limited selection of languages in the interface]]'
+- '[[Changes/Suno/2024-03-05-miscellaneous-accessibility-fixes|Miscellaneous accessibility
+  fixes]]'
 - "[[Changes/Open WebUI/2024-03-18-localization-you-can-now-change-the-ui-language-in-settings-general-we-support-u|\U0001F30D
   Localization: You can now change the UI language in Settings  General]]"
 - "[[Changes/Open WebUI/2024-03-31-localization-korean-translation-i18n-now-available|\U0001F310

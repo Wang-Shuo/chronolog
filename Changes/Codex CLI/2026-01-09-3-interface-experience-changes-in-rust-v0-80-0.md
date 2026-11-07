@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 15cf2f3769032fd740ff8a7705c0ba89f74912426927a6f7a4b71122beedd54f
+machine_hash: 8eb0b325f2d62cb0f5034385f8bd0ca66ccee321cfa7f4a75d2b006b104d1fff
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Interface Experience changes in rust-v0.80.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-08-loading-remote-sessions-using-graphql-id-or-session-picker|Loading
-  remote sessions using GraphQL ID or session picker]]'
+- '[[Changes/OpenCode/2026-01-08-2-interface-experience-changes-in-v1-1-7|2 Interface
+  Experience changes in v1.1.7]]'
 - '[[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface
   Experience changes in v2.1.3]]'
 - '[[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added

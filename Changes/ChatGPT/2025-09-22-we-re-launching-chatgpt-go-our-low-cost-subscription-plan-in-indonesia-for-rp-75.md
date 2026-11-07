@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: ecbd60e5c192c18348c385115deb6d1987a762afa64eed4f7e69067692bb5805
+machine_hash: 1af6c536b99c23bf8151978ba0c9fca29a1a449d5abc5dc809a8709f7840524c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,10 @@ record:
   title: ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-18-update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https|Update
-  quota-and-pricing.md to clarify billing]]'
 - '[[Changes/Replit/2025-08-29-organization-subscription-cancellation|Organization
   subscription cancellation]]'
+- '[[Changes/Suno/2025-08-29-help-shape-suno-s-future-by-using-listen-rank-a-new-feature-to-rate-clips-by-oth|Listen
+  and Rank, Earn Free Credits!]]'
 - '[[Changes/Lovable/2025-09-01-flexible-plan-management|Flexible plan management]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
 source_type: chatgpt_changelog

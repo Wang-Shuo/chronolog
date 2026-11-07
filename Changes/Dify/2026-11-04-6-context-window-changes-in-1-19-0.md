@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00b3bd5d9dbb8b1a08fe2206d1704b2c8cee4bd4bcc1dd4b62c6a27c4bc5360c
+machine_hash: 627e4ab2a6e5cfd92928213267b89351000e0c92ca561cacad82bfbecdcf379a
 product: dify
 product_name: Dify
 record:
@@ -65,12 +65,12 @@ record:
   title: 6 Context Window changes in 1.19.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-29-provider-details-for-models-administrators-editing-a-model-now-see-a-provider-de|\U0001F4C7
-  Provider details for models. Administrators editing a model now see a Provider…]]"
 - '[[Changes/Ollama/2026-11-03-qwen3-and-qwen3-5-models-using-long-context-yarn-scaling|Qwen3
   and Qwen3.5 models using long-context (YaRN) scaling]]'
 - "[[Changes/Open WebUI/2026-11-03-live-context-usage-estimates-the-context-indicator-now-accounts-for-output-arriv|\U0001F4CF
   Live context usage estimates. The context indicator now accounts for output…]]"
+- '[[Changes/OpenClaw/2026-11-03-5-context-window-changes-in-v2026-10-10|5 Context
+  Window changes in v2026.10.10]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'
 source_type: github_releases
 theme: context-window
@@ -127,8 +127,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-live-context-usage-estimates-the-context-indicator-now-accounts-for-output-arriv|📏 Live context usage estimates. The context indicator now accounts for output…]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-8-context-window-changes-in-rust-v0-167-0|8 Context Window changes in rust-v0.167.0]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-5-context-window-changes-in-v2026-10-10|5 Context Window changes in v2026.10.10]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-3-context-window-changes-in-v2026-11-1|3 Context Window changes in v2026.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

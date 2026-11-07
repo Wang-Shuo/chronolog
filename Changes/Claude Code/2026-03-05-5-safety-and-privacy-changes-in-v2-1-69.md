@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61da312d24909012aa4f66e744e6d2c9da1674bfa75542ff8a275d69d4621448
+machine_hash: 8c283191fb608265f7d2fb07bf0ed119a9bc4d7ac6592693063f6da0af20fb29
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,10 +57,10 @@ record:
   title: 5 Safety and Privacy changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed
-  team permission and access control inconsistencies across organization setups]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-autopilot-permission-dialog-appears-on-first-prompt-submission-instead-of-on-mod|Autopilot
   permission dialog appears on first prompt submission instead of on mode switch]]'
+- '[[Changes/OpenCode/2026-03-03-2-safety-and-privacy-changes-in-v1-2-16|2 Safety
+  and Privacy changes in v1.2.16]]'
 - '[[Changes/v0/2026-03-03-fixed-integration-permission-checks-for-team-roles|Fixed
   integration permission checks for team roles]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'

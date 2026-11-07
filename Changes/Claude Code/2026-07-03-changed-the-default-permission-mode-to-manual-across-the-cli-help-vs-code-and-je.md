@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c80cf8f89596e3564b00da80874ecc543d24f6ab869781f9ee28d41f9d5b3f2b
+machine_hash: 3c6efa0fcb509f538fe786120eb54d14b444a7d3148e252e86098506a0fefdaa
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     VS Code…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-3-safety-and-privacy-changes-in-v1-0-66|3
-  Safety and Privacy changes in v1.0.66]]'
+- '[[Changes/OpenCode/2026-06-30-sdk-add-session-permission-request-create-and-fetch-endpoints|SDK
+  Add session permission request create and fetch endpoints]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4
   Safety and Privacy changes in v1.0.68]]'
 - '[[Changes/Open WebUI/2026-07-01-3-safety-and-privacy-changes-in-v0-10-2|3 Safety

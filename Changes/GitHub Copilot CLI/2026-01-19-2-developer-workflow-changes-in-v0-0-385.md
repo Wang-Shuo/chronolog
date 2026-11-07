@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ced276df699363ae5456fcce509878ce822ed4ff5d7c099d54976f98292ace5
+machine_hash: 4ed24552342b2c1ecf2b42675d94e34abbd451b08eda7a98834881bf56027ee9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Developer Workflow changes in v0.0.385
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-16-user-shell-commands-now-run-under-the-user-snapshot-so-aliases-and-shell-config|User
-  shell commands now run under the user snapshot so aliases and shell config…]]'
 - '[[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2
   Developer Workflow changes in CLI Agent Modes and Cloud Handoff]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-16-2-developer-workflow-changes-in-v0-0-384|2
   Developer Workflow changes in v0.0.384]]'
+- '[[Changes/OpenCode/2026-01-16-4-developer-workflow-changes-in-v1-1-24|4 Developer
+  Workflow changes in v1.1.24]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-19-v0-0-385-github-278028953-d0ad2806|github-copilot-cli-2026-01-19-v0-0-385-github-278028953-d0ad2806]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +83,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.385
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-2-developer-workflow-changes-in-v0-0-384|2 Developer Workflow changes in v0.0.384]]
+- Earlier: 2026-01-16 · OpenCode · [[Changes/OpenCode/2026-01-16-4-developer-workflow-changes-in-v1-1-24|4 Developer Workflow changes in v1.1.24]]
 - Later: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-add-resume-command-to-switch-sessions|Add /resume command to switch sessions]]
 <!-- chronolog:end -->
 

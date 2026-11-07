@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1e487e43ac8735d95ec064db26d8ff6a53f87fa130f1082952bef69d2043b5ab
+machine_hash: b9485d892a4fe70cb6165c2b547e7345492fe0b07119b88f8a1d3589c76c0d7a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
     WPAD…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-silent-mcp-oauth-refresh-reuses-the-granted-scope-so-reconnects-stay-signed-in|Silent
-  MCP OAuth refresh reuses the granted scope so reconnects stay signed in]]'
+- '[[Changes/OpenCode/2026-06-24-core-bound-mcp-oauth-callbacks-to-ipv4-loopback-for-better-local-auth-reliabilit|Core
+  Bound MCP OAuth callbacks to IPv4 loopback for better local auth reliability]]'
 - '[[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added
   a startup notice when MCP servers need authentication, pointing at /mcp]]'
 - '[[Changes/Codex CLI/2026-06-25-macos-authentication-clients-can-honor-system-proxy-pac-and-wpad-settings-when-r|macOS

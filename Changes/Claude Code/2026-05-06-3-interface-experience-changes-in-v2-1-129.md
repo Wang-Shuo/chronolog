@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d12b92d7bb9bd2e1addeb9896cfd4d0221cbd67ffccd06fe753a46540be063f6
+machine_hash: 9e3416566927c188203ec45bd25c18dc9b183c47f99090b29524bf4830d88aec
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Interface Experience changes in v2.1.129
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-04-bare-color-no-args-now-picks-a-random-session-color|Bare
-  /color (no args) now picks a random session color]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-2-interface-experience-changes-in-v1-0-41|2
   Interface Experience changes in v1.0.41]]'
+- '[[Changes/OpenCode/2026-05-05-core-preserve-diff-patch-boundaries-so-session-diffs-keep-rendering-correctly-wh|Core
+  Preserve diff patch boundaries so session diffs keep rendering correctly…]]'
 - '[[Changes/Claude Code/2026-05-06-2-interface-experience-changes-in-v2-1-132|2 Interface
   Experience changes in v2.1.132]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'

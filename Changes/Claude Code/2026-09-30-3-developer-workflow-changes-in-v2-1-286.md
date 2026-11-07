@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44ede5f44e66ee4d87160fec20bf8b1ffb791b57157ca277e4a4179f32b7d284
+machine_hash: b38540620e0f803e8feccdab0c7a4333c576c315960ed66738caf75cf4a1b6cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Developer Workflow changes in v2.1.286
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-28-3-developer-workflow-changes-in-v1-0-89|3
-  Developer Workflow changes in v1.0.89]]'
+- '[[Changes/OpenCode/2026-09-28-core-debug-configuration-output-now-redacts-credentials-and-sensitive-headers|Core
+  Debug configuration output now redacts credentials and sensitive headers]]'
 - '[[Changes/Claude Code/2026-09-29-3-developer-workflow-changes-in-v2-1-285|3 Developer
   Workflow changes in v2.1.285]]'
 - '[[Changes/Codex CLI/2026-09-29-5-developer-workflow-changes-in-rust-v0-159-0|5
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-5-developer-workflow-changes-in-rust-v0-159-0|5 Developer Workflow changes in rust-v0.159.0]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-3-developer-workflow-changes-in-v2-1-287|3 Developer Workflow changes in v2.1.287]]
+- Later: 2026-09-30 · Google Antigravity · [[Changes/Google Antigravity/2026-09-30-pressing-cmd-a-or-ctrl-a-now-selects-only-the-content-pane-or-terminal-you-are-f|Pressing Cmd+A or Ctrl+A now selects only the content pane or terminal you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

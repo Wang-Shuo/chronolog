@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38c07651fa0a5a781697d718b58e8ad57d4f2b9db12e3a66943d4642e8a20017
+machine_hash: b9fca6de8793a9c9378b9a4baaa8f2903df843de291fb2b3d45b9e6356ee93c9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +43,8 @@ record:
   title: Cleaner edit-message flow
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-mobile-and-desktop-changes-in-v1-0-60|2
-  Mobile and Desktop changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-7-mobile-and-desktop-changes-in-v1-16-0|7 Mobile
+  and Desktop changes in v1.16.0]]'
 - '[[Changes/Windsurf/2026-06-06-hardened-migration-from-windsurf-on-windows-to-preserve-shortcut-icon|Hardened
   migration from Windsurf on Windows to preserve shortcut icon]]'
 - '[[Changes/Ollama/2026-06-07-hermes-desktop-is-now-available-via-ollama-launch-hermes-desktop-with-native-win|Hermes

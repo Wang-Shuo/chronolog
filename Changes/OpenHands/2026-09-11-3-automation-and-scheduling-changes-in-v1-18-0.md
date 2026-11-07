@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2206cc08ba04c68ed69d699517a3765ca80496cb7964c6b7ebde0b6c8a65e56b
+machine_hash: 940a292e883c2295c9164b830375ee3e5791a4cbf5de3cf7c66455bc721c849a
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Automation and Scheduling changes in v1.18.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-41457-source-proactive-multi-agent-instructions-from-the-model-catalog-copyberry|♯41457
-  Source proactive multi-agent instructions from the model catalog @copyberry]]'
 - '[[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9
   Automation and Scheduling changes in v1.17.0]]'
 - '[[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation
   and Scheduling changes in 1.17.1]]'
+- '[[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7
+  Automation and Scheduling changes in v2026.9.4]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-11-v1-18-0-github-387253056-164e51d7|openhands-2026-09-11-v1-18-0-github-387253056-164e51d7]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -85,7 +85,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.18.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation and Scheduling changes in 1.17.1]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7 Automation and Scheduling changes in v2026.9.4]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4 Automation and Scheduling changes in v1.19.0]]
 <!-- chronolog:end -->
 

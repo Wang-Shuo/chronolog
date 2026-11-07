@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 018d0550a903583b38ca43fb58c951b5f275c993ab239393cc58d98a697b1e79
+machine_hash: 76c2269bc5a4a2e79e04c9d1daaa54b2c8634b0ec1f5c25d2fd2a2231ada116e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -137,7 +137,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-improve-quick-help-accessibility-screen-reader-friendly-tab-labels-reordered-lay|Improve quick help accessibility]]
-- Later: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-table-disables-borders-in-screen-reader-mode-to-prevent-announcing-decorative-ch|Table disables borders in screen reader mode to prevent announcing decorative characters]]
+- Later: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-desktop-synchronize-internationalization-translations|Desktop Synchronize internationalization translations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

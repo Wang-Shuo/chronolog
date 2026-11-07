@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 717865b3d76c6a7ce32774de258247933fea61e1ced232bb2257315ac68c5c13
+machine_hash: a654f1bd750496645c980ba502ef98e019750cf29ce6d297a4fbe7fcd11f11b6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 4 Developer Workflow changes in rust-v0.89.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-7-developer-workflow-changes-in-v0-25-0|7 Developer
-  Workflow changes in v0.25.0]]'
-- '[[Changes/Ollama/2026-01-21-new-ollama-launch-command-for-claude-code-codex-opencode-and-droid|New
-  ollama launch command for Claude Code, Codex, OpenCode, and Droid]]'
+- '[[Changes/OpenCode/2026-01-21-4-developer-workflow-changes-in-v1-1-29|4 Developer
+  Workflow changes in v1.1.29]]'
+- '[[Changes/OpenCode/2026-01-21-2-developer-workflow-changes-in-v1-1-30|2 Developer
+  Workflow changes in v1.1.30]]'
 - '[[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added
   new task management system, including new capabilities like dependency tracking]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3|codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3]]'

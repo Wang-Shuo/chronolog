@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a2ff8b011df2b3cb192ab41cc5ed124eb9c1c2d47ba18e9d117e270039ecd27
+machine_hash: 1ea1cc9f11f1fd295477cdfea6421dc7c1def8059d58f468d1bc833c0db80b14
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.187
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-19-responding-to-an-agent-prompt-for-an-environment-variable-permission-question-or|Responding
-  to an agent prompt for an environment variable, permission, question…]]'
-- '[[Changes/Claude Code/2026-06-22-2-safety-and-privacy-changes-in-v2-1-186|2 Safety
-  and Privacy changes in v2.1.186]]'
 - '[[Changes/Codex CLI/2026-06-22-12-safety-and-privacy-changes-in-rust-v0-142-0|12
   Safety and Privacy changes in rust-v0.142.0]]'
+- '[[Changes/Google Antigravity/2026-06-22-fixed-agent-permission-issue-fixed-the-bug-where-changes-to-the-agent-security-m|Fixed
+  Agent Permission Issue]]'
+- '[[Changes/Google Antigravity/2026-06-22-model-quota-screen-and-agent-security-fixes|Model
+  quota screen and agent security fixes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases
 theme: safety-privacy
@@ -83,7 +83,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.187
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-12-safety-and-privacy-changes-in-rust-v0-142-0|12 Safety and Privacy changes in rust-v0.142.0]]
+- Earlier: 2026-06-22 · Google Antigravity · [[Changes/Google Antigravity/2026-06-22-model-quota-screen-and-agent-security-fixes|Model quota screen and agent security fixes]]
 - Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-6-safety-and-privacy-changes-in-v1-0-64|6 Safety and Privacy changes in v1.0.64]]
 <!-- chronolog:end -->
 

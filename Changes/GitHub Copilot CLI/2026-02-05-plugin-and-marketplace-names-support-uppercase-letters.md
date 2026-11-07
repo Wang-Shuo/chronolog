@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: af2a50c43735e8187a0ae1b104eca8a7939397787e054a4092a9f16ac8c1852d
+machine_hash: 5fed02a67d138f693425c99fa68c3aee14007e0f811b8e660229fc7bfbce7f9f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Plugin and marketplace names support uppercase letters
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-04-14-apps-and-integrations-changes-in-v0-27-0|14
-  Apps and Integrations changes in v0.27.0]]'
+- '[[Changes/OpenCode/2026-02-04-2-apps-and-integrations-changes-in-v1-1-50|2 Apps
+  and Integrations changes in v1.1.50]]'
 - '[[Changes/Claude Code/2026-02-05-skills-defined-in-claude-skills-within-additional-directories-add-dir-are-now-lo|Skills
   defined in .claude/skills/ within additional directories (--add-dir)…]]'
 - '[[Changes/Codex CLI/2026-02-05-6-apps-and-integrations-changes-in-rust-v0-97-0|6

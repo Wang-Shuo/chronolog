@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 819fd85e064c878113de47b0d528d8044b0c4c9b8fa25c7df45a882ed23bb3be
+machine_hash: 818fede6263439394f6c084d68432882056fbe936b6330501a79d70c70d1f0e3
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,8 +52,8 @@ record:
   title: 4 Developer Workflow changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-4-developer-workflow-changes-in-v3-11-212|4 Developer
-  Workflow changes in v3.11.212]]'
+- '[[Changes/OpenClaw/2026-10-24-3-developer-workflow-changes-in-v2026-10-7|3 Developer
+  Workflow changes in v2026.10.7]]'
 - '[[Changes/Windsurf/2026-10-24-2-developer-workflow-changes-in-v3-11-216|2 Developer
   Workflow changes in v3.11.216]]'
 - '[[Changes/Open WebUI/2026-10-25-49-developer-workflow-changes-in-v0-12-4|49 Developer

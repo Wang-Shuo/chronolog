@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 1ef627a552608e47e0744dd6a04658808d6a4a7f582935262ad510e18077d4d5
+machine_hash: 0d78743624b52d4403409625adaceae37c77357a66ff6590029342721c3dfd14
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Plan usage reflects the current billing period after quota resets
   type: change
 related_changes:
-- '[[Changes/v0/2026-09-29-what-happens-if-i-reach-my-chatgpt-usage-limit|What happens
-  if I reach my ChatGPT usage limit?]]'
 - '[[Changes/Codex CLI/2026-10-01-49079-update-and-centralize-tui-subscription-labels-etraut-openai|♯49079
   Update and centralize TUI subscription labels @etraut-openai]]'
 - '[[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved
   the /usage-credits message shown to Team and Enterprise members whose…]]'
+- '[[Changes/OpenClaw/2026-10-03-9-pricing-model-changes-in-v2026-9-8|9 Pricing Model
+  changes in v2026.9.8]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases
 theme: pricing-model
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved the /usage-credits message shown to Team and Enterprise members whose…]]
+- Earlier: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-9-pricing-model-changes-in-v2026-9-8|9 Pricing Model changes in v2026.9.8]]
 - Later: 2026-10-07 · Lovable · [[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set credit usage limits and alerts for your workspace]]
 <!-- chronolog:end -->
 

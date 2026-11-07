@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b99f00813d3d5804fbf526fbc067abd14b7fe01d6f368d6edc86ed7b4784c2ce
+machine_hash: 726809e7930126350734e9e646196dee5a51e31c4ff2aad546c80ee7e31f5c1c
 product: ollama
 product_name: Ollama
 record:
@@ -45,12 +45,12 @@ record:
     model…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-10-model-support-changes-in-rust-v0-150-0|10 Model
-  Support changes in rust-v0.150.0]]'
 - '[[Changes/Ollama/2026-08-26-mlxrunner-avoid-metal-gpu-timeouts-when-loading-models-from-slow-storage|mlxrunner:
   avoid Metal GPU timeouts when loading models from slow storage]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model
   Support changes in v1.0.81]]'
+- '[[Changes/Midjourney/2026-08-27-today-we-re-gonna-start-letting-everyone-test-our-first-v8-2-image-edit-model|Today
+  we’re gonna start letting everyone test our first V8.2 image edit model!]]'
 source_release: '[[Releases/Ollama/ollama-2026-08-27-v0-33-2-github-377616419-7d5d1169|ollama-2026-08-27-v0-33-2-github-377616419-7d5d1169]]'
 source_type: github_releases
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model Support changes in v1.0.81]]
+- Earlier: 2026-08-27 · Midjourney · [[Changes/Midjourney/2026-08-27-today-we-re-gonna-start-letting-everyone-test-our-first-v8-2-image-edit-model|Today we’re gonna start letting everyone test our first V8.2 image edit model!]]
 - Later: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-2-model-support-changes-in-v1-16-0|2 Model Support changes in v1.16.0]]
 <!-- chronolog:end -->
 

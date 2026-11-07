@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7704b7a1a1176f5cad863612d00212491f2deb0a41b64caafb1df2df9e9ed954
+machine_hash: 1bce47d84d0b99acc7e44d7a51370488dd0d5df066f3ee3fac47995da01c9049
 product: aider
 product_name: Aider
 record:
@@ -83,7 +83,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.67.0
 ## Nearby in Editor Experience
 
 - Earlier: 2024-12-01 · Open WebUI · [[Changes/Open WebUI/2024-12-01-2-editor-experience-changes-in-v0-4-7|2 Editor Experience changes in v0.4.7]]
-- Later: 2024-12-13 · Replit · [[Changes/Replit/2024-12-13-assistant-features|Assistant Features]]
+- Later: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-creating-with-others|Creating with Others]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

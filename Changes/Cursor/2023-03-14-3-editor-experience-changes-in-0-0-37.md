@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f053d4faa98620574420a44b84e25a08ada539c3da435f37885a705acbb0d610
+machine_hash: 1f79b4293a5229495748d5860f09f9dedee3d9efadc5af5fede3f22a937b0c43
 product: cursor
 product_name: Cursor
 record:
@@ -83,7 +83,7 @@ Source: https://cursor.com/changelog/0-0-37
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 20 tracked products.
+- Earliest same-theme entry among the 29 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

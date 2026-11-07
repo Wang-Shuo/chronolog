@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3cbd8e98f9aa1821d41d7b22f15dddf212064c3bd1abb061b0a91d3fba8cd695
+machine_hash: 37eae390f9708a007efba28bad45a3908acbc6c57702f40eb6291cda3adb7b36
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Add `/diff` command to review changes made during the current session
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-4-editor-experience-changes-in-v0-25-0|4 Editor
-  Experience changes in v0.25.0]]'
+- '[[Changes/OpenCode/2026-01-21-desktop-tab-should-select-suggestion-in-the-app|Desktop
+  Tab should select suggestion in the app]]'
 - '[[Changes/Cursor/2026-01-22-2-editor-experience-changes-in-2-4|2 Editor Experience
   changes in 2.4]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-22-edit-tool-now-displays-diffs-when-expanded-in-timeline|Edit
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-edit-tool-now-displays-diffs-when-expanded-in-timeline|Edit tool now displays diffs when expanded in timeline]]
-- Later: 2026-01-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-24-improve-task-completion-with-clearer-detached-process-guidance|Improve task completion with clearer detached process guidance]]
+- Later: 2026-01-23 · OpenCode · [[Changes/OpenCode/2026-01-23-desktop-fixed-folder-suggestions-missing-last-part-in-path-completion|Desktop Fixed folder suggestions missing last part in path completion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

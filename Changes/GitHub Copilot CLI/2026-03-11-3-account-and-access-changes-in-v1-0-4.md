@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6bdc870a4ea5bb1ddedc89911814039b9ee36cf9edeefa468434f04c1d4cd9eb
+machine_hash: ecb1a80815f4420cabd95bcfc3f4d0756844bf9dddb811d3c3fe544607cad5bd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.4
 ## Nearby in Account and Access
 
 - Earlier: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-feat-core-implement-http-authentication-support-for-a2a-remote-agents-by-sandyta|feat(core): implement HTTP authentication support for A2A remote agents]]
-- Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-2-account-and-access-changes-in-v1-0-5|2 Account and Access changes in v1.0.5]]
+- Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-2-account-and-access-changes-in-v1-2-25|2 Account and Access changes in v1.2.25]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

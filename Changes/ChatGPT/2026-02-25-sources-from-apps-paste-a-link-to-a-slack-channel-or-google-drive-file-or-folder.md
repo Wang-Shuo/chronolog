@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be328bec3cd402986918da2e0be388ee9aa389134c7feff0640b2a2ad0852e8d
+machine_hash: 6a73d7ce2fea601efc4e164e33b64ead1a2a68ef9f0ff534bbc0b675454aaddf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,12 @@ record:
   title: Sources from apps
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-24-add-mcp-enterprise-configuration-details|Add MCP enterprise
-  configuration details]]'
 - '[[Changes/Cline/2026-02-24-added-cline-sdk-api-interface-for-programmatic-access-to-cline-features-and-tool|Added
   Cline SDK API interface for programmatic access to Cline features and tools…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-24-block-third-party-mcp-servers-when-the-copilot-mcp-policy-does-not-allow-them|Block
   third-party MCP servers when the Copilot MCP policy does not allow them]]'
+- '[[Changes/OpenCode/2026-02-24-3-apps-and-integrations-changes-in-v1-2-11|3 Apps
+  and Integrations changes in v1.2.11]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-24-block-third-party-mcp-servers-when-the-copilot-mcp-policy-does-not-allow-them|Block third-party MCP servers when the Copilot MCP policy does not allow them]]
+- Earlier: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-3-apps-and-integrations-changes-in-v1-2-11|3 Apps and Integrations changes in v1.2.11]]
 - Later: 2026-02-25 · Claude Code · [[Changes/Claude Code/2026-02-25-expand-remote-control-to-more-users|Expand Remote Control to more users]]
 <!-- chronolog:end -->
 

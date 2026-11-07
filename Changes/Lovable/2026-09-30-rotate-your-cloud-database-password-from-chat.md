@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3220ffaed7e05b13949db48121ced137f51200cce2fc95fb6857b87938db3c29
+machine_hash: cd2577afc8d1b6b0763afb1011efa0d46d3b55e77ca399e7406610c4f2fe085d
 product: lovable
 product_name: Lovable
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-permission-prompts-remain-answerable-after-resuming-interrupted-sessions|Permission prompts remain answerable after resuming interrupted sessions]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-6-safety-and-privacy-changes-in-v2-1-287|6 Safety and Privacy changes in v2.1.287]]
+- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-21-safety-and-privacy-changes-in-v2026-9-7|21 Safety and Privacy changes in v2026.9.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

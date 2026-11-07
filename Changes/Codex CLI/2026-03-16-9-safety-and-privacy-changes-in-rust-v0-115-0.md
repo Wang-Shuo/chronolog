@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cef21fec7a8f5958f46f359ab329903cefcaafa5aa323a5ac26ce6e03e409a1d
+machine_hash: c0a1d7c99d585f6eede5efdb845582d2659609138f805fdfd24f229d80d472b7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,8 +59,8 @@ record:
   title: 9 Safety and Privacy changes in rust-v0.115.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-12-markdown-image-loading-now-requires-user-consent|Markdown
-  image loading now requires user consent]]'
+- '[[Changes/OpenCode/2026-03-12-2-safety-and-privacy-changes-in-v1-2-25|2 Safety
+  and Privacy changes in v1.2.25]]'
 - '[[Changes/v0/2026-03-12-improved-snowflake-deployment-error-messages-for-permission-issues|Improved
   Snowflake deployment error messages for permission issues]]'
 - '[[Changes/Claude Code/2026-03-14-3-safety-and-privacy-changes-in-v2-1-76|3 Safety

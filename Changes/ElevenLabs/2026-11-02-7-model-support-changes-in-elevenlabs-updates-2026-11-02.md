@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3cc5280f3503eebfa923e553cf619df2eb0cfa282723522c0836147a6945dd8c
+machine_hash: a056b426fdc08f026f72eaa734827aba7567852bec0999784d087534eb9cd859
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -155,7 +155,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/11/2
 ## Nearby in Model Support
 
 - Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated fast mode for Opus 4.8 as of October 30, 2026]]
-- Later: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-2-model-support-changes-in-v0-40-15|2 Model Support changes in v0.40.15]]
+- Later: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-voice-mode-enabled-by-gemini-live-lets-you-talk-to-antigravity-and-hand-requests|Voice mode, enabled by Gemini Live, lets you talk to Antigravity and hand requests…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

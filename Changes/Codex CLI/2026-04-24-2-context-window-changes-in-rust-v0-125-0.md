@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8399951a2fe9e75b90e2496e9868cbfad0e79a37afa7980ae7c4ca40345c56e5
+machine_hash: bf9604b3d698146afaf062639a29faa6d67ca9841c0261a1cabee00bc0b6f09c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Context Window changes in rust-v0.125.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-23-18794-organize-context-fragments-pakrym-oai|♯18794
-  Organize context fragments @pakrym-oai]]'
 - '[[Changes/Codex CLI/2026-04-23-2-context-window-changes-in-rust-v0-124-0|2 Context
   Window changes in rust-v0.124.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-2-context-window-changes-in-v1-0-35|2 Context
   Window changes in v1.0.35]]'
+- '[[Changes/OpenCode/2026-04-23-core-improve-session-compaction-so-long-threads-keep-more-useful-context-when-ol|Core
+  Improve session compaction so long threads keep more useful context when older…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c|codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c]]'
 source_type: github_releases
 theme: context-window
@@ -87,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.125.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-2-context-window-changes-in-v1-0-35|2 Context Window changes in v1.0.35]]
+- Earlier: 2026-04-23 · OpenCode · [[Changes/OpenCode/2026-04-23-core-improve-session-compaction-so-long-threads-keep-more-useful-context-when-ol|Core Improve session compaction so long threads keep more useful context when older…]]
 - Later: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-chat-history-search|Chat history search]]
 <!-- chronolog:end -->
 

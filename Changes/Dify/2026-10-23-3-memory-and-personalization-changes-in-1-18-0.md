@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8708ad30fd046a65c68ec7732ee6180757d65bba9464771496ad2654e5bc8b35
+machine_hash: 8f073c391554eede7605b780e2e704c85ef901033fabe41311083d2a26bcea61
 product: dify
 product_name: Dify
 record:
@@ -52,10 +52,10 @@ record:
   title: 3 Memory and Personalization changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-codex-can-run-independent-read-only-tools-in-parallel-including-skill-memory-and|Codex
-  can run independent read-only tools in parallel, including skill, memory…]]'
-- "[[Changes/Open WebUI/2026-10-16-built-in-tools-turned-back-on-stay-on-a-built-in-tool-such-as-memory-that-is-off|\U0001F9F0
-  Built-in tools turned back on stay on. A built-in tool such as Memory…]]"
+- '[[Changes/OpenClaw/2026-10-18-memory-search-recognizes-more-accented-and-korean-spellings-and-keeps-keyword-se|Memory
+  search recognizes more accented and Korean spellings and keeps keyword search…]]'
+- '[[Changes/OpenClaw/2026-10-22-4-memory-and-personalization-changes-in-v2026-10-6|4
+  Memory and Personalization changes in v2026.10.6]]'
 - '[[Changes/Codex CLI/2026-10-23-4-memory-and-personalization-changes-in-rust-v0-164-0|4
   Memory and Personalization changes in rust-v0.164.0]]'
 source_release: '[[Releases/Dify/dify-2026-10-23-1-18-0-github-421489030-879b0613|dify-2026-10-23-1-18-0-github-421489030-879b0613]]'
@@ -107,7 +107,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.18.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-4-memory-and-personalization-changes-in-rust-v0-164-0|4 Memory and Personalization changes in rust-v0.164.0]]
-- Later: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-5-memory-and-personalization-changes-in-rust-v0-165-0|5 Memory and Personalization changes in rust-v0.165.0]]
+- Later: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-2-memory-and-personalization-changes-in-v2026-10-7|2 Memory and Personalization changes in v2026.10.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a96b1310a21d3f39f3e0c00b3cbb658e7569b51204647fa3ddce9bd5b7b56c2
+machine_hash: 36faeefc0a144af07b39ffef2ad0055387ae475b5d7021b1dc5babd885cd4987
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,12 +44,12 @@ record:
     webhook handler…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-2-collaboration-changes-in-rust-v0-106-0|2 Collaboration
-  changes in rust-v0.106.0]]'
 - "[[Changes/Open WebUI/2026-03-01-individual-user-sharing-control-administrators-can-now-disable-individual-user-s|\U0001F510
   Individual user sharing control. Administrators can now disable individual…]]"
 - '[[Changes/GitHub Copilot CLI/2026-03-06-block-share-gist-for-emu-and-ghe-cloud-users-with-clear-error-messaging|Block
   /share gist for EMU and GHE Cloud users with clear error messaging]]'
+- '[[Changes/OpenCode/2026-03-08-core-allow-beta-channel-to-share-database-with-stable-channel|Core
+  Allow beta channel to share database with stable channel]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-09-v0-8-10-github-294485945-5852a771|open-webui-2026-03-09-v0-8-10-github-294485945-5852a771]]'
 source_type: github_releases
 theme: collaboration
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-block-share-gist-for-emu-and-ghe-cloud-users-with-clear-error-messaging|Block /share gist for EMU and GHE Cloud users with clear error messaging]]
+- Earlier: 2026-03-08 · OpenCode · [[Changes/OpenCode/2026-03-08-core-allow-beta-channel-to-share-database-with-stable-channel|Core Allow beta channel to share database with stable channel]]
 - Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-14117-feat-otel-centralize-otel-metric-names-and-shared-tag-builders-owenlin0|♯14117 feat(otel): Centralize OTEL metric names and shared tag builders @owenlin0]]
 <!-- chronolog:end -->
 

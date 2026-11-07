@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2f94ed294638343367798e2912643b8fb46408ae2f75a0709e70e86078866761
+machine_hash: fb56523c4ef7fb0a53120e4439d32be479b96408e4276fef1d4834f9d0b02dd5
 product: windsurf
 product_name: Windsurf
 record:
@@ -167,7 +167,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-23 · Replit · [[Changes/Replit/2026-10-23-create-and-update-skills-with-agent|Create and update skills with Agent]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode changes in v2.1.311]]
+- Later: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-8-agent-mode-changes-in-v2026-10-7|8 Agent Mode changes in v2026.10.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

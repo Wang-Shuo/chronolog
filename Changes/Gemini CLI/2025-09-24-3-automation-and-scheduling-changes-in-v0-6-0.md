@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20b7a76f36a228b9414f555335db2bdeecd0550d4ab8307e1f44c7cd62d93a73
+machine_hash: 9339fc0c70f5dd87667760a32c49ca03422d1bb3cd3f928876b202fee532110e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,8 +47,9 @@ record:
   title: 3 Automation and Scheduling changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-01-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2025-09-01-sound-effects|Sound Effects]]'
+- '[[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta|Gamma
+  API: Automate your creative workflow (Beta)]]'
 - '[[Changes/Dify/2025-09-22-5-automation-and-scheduling-changes-in-1-9-0|5 Automation
   and Scheduling changes in 1.9.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c|gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c]]'

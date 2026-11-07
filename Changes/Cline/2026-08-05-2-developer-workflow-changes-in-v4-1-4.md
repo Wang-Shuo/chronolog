@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed73c35422ab1769e9e60ce92f9d6f86ae2b7fcaba94ddf24c4370859916b50e
+machine_hash: 8800656b7074872936693641997e391acad55bed56c02ba13d35986b122896d3
 product: cline
 product_name: Cline
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Developer Workflow changes in v4.1.4
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-02-2-developer-workflow-changes-in-v4-1-3|2 Developer Workflow
-  changes in v4.1.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-2-developer-workflow-changes-in-v1-0-78|2
   Developer Workflow changes in v1.0.78]]'
 - '[[Changes/Claude Code/2026-08-04-3-developer-workflow-changes-in-v2-1-221|3 Developer
   Workflow changes in v2.1.221]]'
+- '[[Changes/OpenCode/2026-08-04-terminal-github-pull-request-reviews-now-include-the-pull-request-number-and-url|Terminal
+  GitHub pull request reviews now include the pull request number and URL…]]'
 source_release: '[[Releases/Cline/cline-2026-08-05-v4-1-4-github-365446897-8becc947|cline-2026-08-05-v4-1-4-github-365446897-8becc947]]'
 source_type: github_releases
 theme: developer-workflow
@@ -89,8 +89,8 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-3-developer-workflow-changes-in-v2-1-221|3 Developer Workflow changes in v2.1.221]]
-- Later: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-2-developer-workflow-changes-in-v2-1-223|2 Developer Workflow changes in v2.1.223]]
+- Earlier: 2026-08-04 · OpenCode · [[Changes/OpenCode/2026-08-04-terminal-github-pull-request-reviews-now-include-the-pull-request-number-and-url|Terminal GitHub pull request reviews now include the pull request number and URL…]]
+- Later: 2026-08-05 · OpenCode · [[Changes/OpenCode/2026-08-05-core-logged-remote-workspace-5xx-response-bodies-in-the-host-logs-to-make-proxy|Core Logged remote workspace 5xx response bodies in the host logs to make proxy…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

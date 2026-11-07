@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c21feadbbd7dd56e23a2d8e167e3012126cfd1af470a6db7a82bab17fad00ed5
+machine_hash: 5bdcc23a01790db58fa2ed6f30660e69df841e6e98be3cc94af4d782982e46f2
 product: dify
 product_name: Dify
 record:
@@ -48,12 +48,12 @@ record:
   title: Hello community!
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-03-13-gems-your-custom-ai-experts-are-now-available-to-more-gemini-users-at-no-cost|Gems,
-  your custom AI experts, are now available to more Gemini users at no cost]]'
 - '[[Changes/Lovable/2025-03-21-we-heard-the-issues-you-ve-shared-with-us-and-we-re-working-hard-to-fix-them-all|We
   heard the issues you''ve shared with us and we''re working hard to fix them all]]'
 - '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
   indexing performance for teams sharing codebases]]'
+- '[[Changes/Midjourney/2025-03-30-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v7-with-you-soon|Thank
+  you so much for your help!]]'
 source_release: '[[Releases/Dify/dify-2025-04-09-1-2-0-github-211219994-e78c941d|dify-2025-04-09-1-2-0-github-211219994-e78c941d]]'
 source_type: github_releases
 theme: collaboration
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]]
+- Earlier: 2025-03-30 · Midjourney · [[Changes/Midjourney/2025-03-30-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v7-with-you-soon|Thank you so much for your help!]]
 - Later: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-2-collaboration-changes-in-v0-6-3|2 Collaboration changes in v0.6.3]]
 <!-- chronolog:end -->
 

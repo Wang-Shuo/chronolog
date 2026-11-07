@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3de3077be68726c4a82ab135926d08fc4cf01dd314f8fc7de26649ee6c01d38c
+machine_hash: 80bd6e36e2078eef203ccff94d058369fd61d1588879d87cba6141f46bd76a1a
 product: claude-code
 product_name: Claude Code
 record:
@@ -71,12 +71,12 @@ record:
   title: 9 Safety and Privacy changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-4-safety-and-privacy-changes-in-v2-1-284|4 Safety
-  and Privacy changes in v2.1.284]]'
 - '[[Changes/Codex CLI/2026-09-28-9-safety-and-privacy-changes-in-rust-v0-158-0|9
   Safety and Privacy changes in rust-v0.158.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-2-safety-and-privacy-changes-in-v1-0-89|2
   Safety and Privacy changes in v1.0.89]]'
+- '[[Changes/Google Antigravity/2026-09-28-2-safety-and-privacy-changes-in-hub-v2-18-1-manage-install-plugins|2
+  Safety and Privacy changes in HUB v2.18.1 — Manage & Install plugins…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
 theme: safety-privacy
@@ -135,7 +135,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.285
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-2-safety-and-privacy-changes-in-v1-0-89|2 Safety and Privacy changes in v1.0.89]]
+- Earlier: 2026-09-28 · Google Antigravity · [[Changes/Google Antigravity/2026-09-28-2-safety-and-privacy-changes-in-hub-v2-18-1-manage-install-plugins|2 Safety and Privacy changes in HUB v2.18.1 — Manage & Install plugins…]]
 - Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-3-safety-and-privacy-changes-in-rust-v0-159-0|3 Safety and Privacy changes in rust-v0.159.0]]
 <!-- chronolog:end -->
 

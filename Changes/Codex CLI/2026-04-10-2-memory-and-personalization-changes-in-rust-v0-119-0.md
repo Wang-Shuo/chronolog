@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 59e76a5d8812a30111d7e75a2585ae85766b503e983ccb6ca077b4b28c9a2ee0
+machine_hash: cd00a41eab6fd011c5d57e0e2a9a7299bd0193b0de1e59f7c8fbe608e168e8a8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Memory and Personalization changes in rust-v0.119.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
-  filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
 - '[[Changes/Gemini CLI/2026-04-01-3-memory-and-personalization-changes-in-v0-36-0|3
   Memory and Personalization changes in v0.36.0]]'
 - '[[Changes/Gemini CLI/2026-04-08-2-memory-and-personalization-changes-in-v0-37-0|2
   Memory and Personalization changes in v0.37.0]]'
+- '[[Changes/OpenCode/2026-04-08-core-reduced-typescript-lsp-memory-use-by-using-the-native-project-config|Core
+  Reduced TypeScript LSP memory use by using the native project config]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1|codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1]]'
 source_type: github_releases
 theme: memory
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-2-memory-and-personalization-changes-in-v0-37-0|2 Memory and Personalization changes in v0.37.0]]
+- Earlier: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-core-reduced-typescript-lsp-memory-use-by-using-the-native-project-config|Core Reduced TypeScript LSP memory use by using the native project config]]
 - Later: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-agent-no-longer-hangs-on-the-first-turn-when-the-memory-backend-is-unavailable|Agent no longer hangs on the first turn when the memory backend is unavailable]]
 <!-- chronolog:end -->
 

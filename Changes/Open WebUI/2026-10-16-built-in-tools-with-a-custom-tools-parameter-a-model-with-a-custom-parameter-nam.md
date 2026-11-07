@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 227525ae5cf66ec5bbdb69f80cc6eebcfe901b29ea06a834061de79721bcefb4
+machine_hash: 37444bdb1ea7cd8a69ab6faf1c90a4ac0e8bb016738fab3c393b873f77ad9a86
 product: open-webui
 product_name: Open WebUI
 record:
@@ -68,10 +68,10 @@ record:
     a custom parameter…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-3-search-and-browsing-changes-in-rust-v0-161-0|3
-  Search and Browsing changes in rust-v0.161.0]]'
 - '[[Changes/Open WebUI/2026-10-10-4-search-and-browsing-changes-in-v0-12-0|4 Search
   and Browsing changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-3-search-and-browsing-changes-in-v2026-10-1|3 Search
+  and Browsing changes in v2026.10.1]]'
 - "[[Changes/Open WebUI/2026-10-14-tools-picked-in-new-chats-tools-picked-from-the-integrations-menu-the-web-search|\U0001F9F0
   Tools picked in new chats. Tools picked from the Integrations menu, the Web…]]"
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'

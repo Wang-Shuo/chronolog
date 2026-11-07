@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d6736cefd9b401b0ba253e63871d05457f91e71cc22efff0fbbcfd2f8c3332ca
+machine_hash: 32b27b73a21bdf9297ce85f2b979a562e561dd2f317c70ac2ed1fa49b8b40ca8
 product: replit
 product_name: Replit
 record:
@@ -45,11 +45,12 @@ record:
   title: Replit Mobile
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-17-web-view-mobile-support|Web view mobile support]]'
-- "[[Changes/Open WebUI/2025-01-22-desktop-app-preparations-ongoing-work-to-support-the-upcoming-open-webui-desktop|\U0001F5A5️
-  Desktop App Preparations]]"
 - '[[Changes/Ollama/2025-02-05-new-ollama-darwin-tgz-package-for-macos-that-replaces-the-previous-ollama-darwin|New
   ollama-darwin.tgz package for macOS that replaces the previous ollama-darwin…]]'
+- "[[Changes/Suno/2025-02-06-expand-your-favorite-track-moments-and-make-your-sound-hit-even-harder-covers-pe|\U0001F6A8
+  Extend is live on iOS!]]"
+- '[[Changes/Suno/2025-02-06-hype-up-your-friends-give-props-where-they-re-due-or-start-a-lyrical-debate-the|Hype
+  up your friends, give props where they’re due, or start a lyrical debate—the…]]'
 source_release: '[[Releases/Replit/replit-2025-02-07-2025-02-07-c5bc91d9|replit-2025-02-07-2025-02-07-c5bc91d9]]'
 source_type: replit_changelog
 theme: mobile-desktop
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-02-05 · Ollama · [[Changes/Ollama/2025-02-05-new-ollama-darwin-tgz-package-for-macos-that-replaces-the-previous-ollama-darwin|New ollama-darwin.tgz package for macOS that replaces the previous ollama-darwin…]]
+- Earlier: 2025-02-06 · Suno · [[Changes/Suno/2025-02-06-hype-up-your-friends-give-props-where-they-re-due-or-start-a-lyrical-debate-the|Hype up your friends, give props where they’re due, or start a lyrical debate—the…]]
 - Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web)]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 261da8a02de90223153bd43cb528fc333b6a5f2d74ca1bf741835f6a3f4e3cf8
+machine_hash: 5e3a081d8c4685155bc2c863300d083e977771060daf91003445e3b652c0c463
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,8 +41,9 @@ record:
   title: Agents & Tool Execution
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-15-agents-platform|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-12-15-agents-platform-ef857c|Agents Platform]]'
+- '[[Changes/Manus/2025-12-15-we-ve-just-released-a-major-upgrade-with-a-new-flagship-agent-manus-1-6-max-plus|Welcome
+  Manus 1.6]]'
 - '[[Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands|New
   OpenHands 1.0.0 using the new…]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-16-v1-12-47-ba92e48b|windsurf-2025-12-16-v1-12-47-ba92e48b]]'

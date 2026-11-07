@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c081d784c1577bf9863c3b9753f2c8846bb5ff3039e047eb83e23eb504713eab
+machine_hash: a8c432a3dd2ec4e6e59e460f71227e3f1cea94067638e5b252c8970ee35280fe
 product: dify
 product_name: Dify
 record:
@@ -42,7 +42,8 @@ record:
   title: 'refactor: split changes for api/controllers/web/audio.py'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-15-python-sdk|Python SDK]]'
+- '[[Changes/Runway/2025-12-18-text-to-speech-is-now-available-via-the-audio-tab-in-tool-mode-alongside-new-aud|New
+  Audio Features]]'
 - '[[Changes/Open WebUI/2025-12-21-2-voice-and-audio-changes-in-v0-6-42|2 Voice and
   Audio changes in v0.6.42]]'
 - "[[Changes/Open WebUI/2025-12-22-speech-to-text-default-content-type-handling-was-fixed-and-refactored-to-ensure|\U0001F399️

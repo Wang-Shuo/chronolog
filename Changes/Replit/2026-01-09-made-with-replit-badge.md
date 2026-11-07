@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5cc579e6a4452fa82ea8192db4766f6d02c67777bdf7883b7bf3506b35037461
+machine_hash: b8481b5fbc42d07e789ffd774b11f227a63ec8dd5db2ee9cafadcdce83b6b041
 product: replit
 product_name: Replit
 record:
@@ -44,10 +44,10 @@ record:
   title: Made with Replit badge
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-2-apps-and-integrations-changes-in-rust-v0-80-0|2
-  Apps and Integrations changes in rust-v0.80.0]]'
 - '[[Changes/Open WebUI/2026-01-09-3-apps-and-integrations-changes-in-v0-7-0|3 Apps
   and Integrations changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-09-2-apps-and-integrations-changes-in-v1-1-10|2 Apps
+  and Integrations changes in v1.1.10]]'
 - '[[Changes/Replit/2026-01-09-private-apps-for-free-accounts|Private apps for free
   accounts]]'
 source_release: '[[Releases/Replit/replit-2026-01-09-2026-01-09-e20af2fb|replit-2026-01-09-2026-01-09-e20af2fb]]'
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-apps-and-integrations-changes-in-v0-7-0|3 Apps and Integrations changes in v0.7.0]]
+- Earlier: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-2-apps-and-integrations-changes-in-v1-1-10|2 Apps and Integrations changes in v1.1.10]]
 - Later: 2026-01-10 · Cline · [[Changes/Cline/2026-01-10-2-apps-and-integrations-changes-in-v3-49-0|2 Apps and Integrations changes in v3.49.0]]
 <!-- chronolog:end -->
 

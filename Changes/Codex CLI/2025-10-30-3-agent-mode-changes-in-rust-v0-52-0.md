@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f72a032556dee2d0180c7477cc9d15560a987c3230f76d8841b66e562a47671f
+machine_hash: 692cdfbf98bcac93c88846aff6f3c2bc12372deba2bcc2261e7ffd64aeae531a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.52.0
 ## Nearby in Agent Mode
 
 - Earlier: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-chore-subagents-remove-legacy-subagent-code-by-abhipatel12-in-https-github-com-g|chore(subagents): Remove legacy subagent code]]
-- Later: 2025-11-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-03-custom-agents-with-special-characters-in-filenames-no-longer-fail|Custom agents with special characters in filenames no longer fail]]
+- Later: 2025-11-03 · Gamma · [[Changes/Gamma/2025-11-03-now-when-you-edit-an-ai-generated-image-with-agent-those-changes-are-automatical|Now when you edit an AI-generated image with Agent, those changes are automatically…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

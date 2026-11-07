@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 631aef44a3493abe7c5a29ba4b8ff11298dbe9fe79d90b44c5e62960ecd08cb0
+machine_hash: bbfde702637a40b3b888c427853b896e6e226a88db663d5c35a61c5c5ca2203d
 product: openhands
 product_name: OpenHands
 record:
@@ -66,8 +66,8 @@ record:
   title: 12 Safety and Privacy changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-14-2-safety-and-privacy-changes-in-0-6-11|2 Safety and Privacy
-  changes in 0.6.11]]'
+- '[[Changes/Runway/2024-06-14-creating-a-custom-voice-will-now-require-explicit-user-consent|Voice
+  Verification]]'
 - '[[Changes/Open WebUI/2024-06-27-2-safety-and-privacy-changes-in-v0-3-6|2 Safety
   and Privacy changes in v0.3.6]]'
 - '[[Changes/Dify/2024-06-28-feat-permission-and-security-fixes-by-chazzhou-in-https-github-com-langgenius-di|feat:

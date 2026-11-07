@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0f03de0b4ce32700a7d98f7a29704456fa19b8bec3e0cb4c25d2344283b73384
+machine_hash: 5eee93e9fb15fd4c935fed6affd9fa5bf567152eb52a5ec830b69922f1d8934f
 product: windsurf
 product_name: Windsurf
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-2-model-support-changes-in-v3-17-1|2 Model Support changes in v3.17.1]]
-- Later: 2025-05-23 · Replit · [[Changes/Replit/2025-05-23-sonnet-4-in-agent|Sonnet 4 in Agent]]
+- Later: 2025-05-23 · Midjourney · [[Changes/Midjourney/2025-05-23-we-re-getting-ready-to-make-our-v7-model-the-default-model-but-a-lot-of-us-still|We're getting ready to make our V7 model the 'default' model but a lot of us still…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

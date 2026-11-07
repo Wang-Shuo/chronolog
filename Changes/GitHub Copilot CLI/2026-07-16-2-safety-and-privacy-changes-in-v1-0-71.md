@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d77e3140058d46dd77a17a98ee35765e2b31ecef6aa37de7e6b6d9e39e5cf2f
+machine_hash: d873bef45b3b586e9dd103747f278828cd22d38551d5826e2277c3bc5331fb02
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Safety and Privacy changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask|Fixed
-  multi-second per-turn slowdowns in sessions with many permission deny/ask rules]]'
+- '[[Changes/OpenCode/2026-07-14-desktop-kept-permission-auto-accept-state-separate-for-each-server|Desktop
+  Kept permission auto-accept state separate for each server]]'
 - '[[Changes/Claude Code/2026-07-15-2-safety-and-privacy-changes-in-v2-1-211|2 Safety
   and Privacy changes in v2.1.211]]'
 - '[[Changes/Lovable/2026-07-15-automatically-delete-abandoned-projects|Automatically

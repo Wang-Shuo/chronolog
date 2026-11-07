@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47fb05180b8bfce6bf8810f91102a599202b5b30d3f41d9cf0f9a8b40f72c8ae
+machine_hash: 691352db888c3c8b3d9560a8ee9e20832513f5fc2f07f88fdf37fefe43d4e535
 product: dify
 product_name: Dify
 record:
@@ -49,12 +49,12 @@ record:
   title: '**Knowledge-base stability** — fixed knowledge hit-testing rendering, empty…'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention
-  file search performance]]'
 - '[[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2
   Reliability and Performance changes in v0.30.0]]'
 - '[[Changes/Lovable/2026-05-18-speed-tab-the-standalone-speed-tab-has-been-removed-speed-and-lighthouse-checks|Speed
   tab. The standalone Speed tab has been removed]]'
+- '[[Changes/OpenCode/2026-05-18-desktop-speed-up-large-session-timelines|Desktop
+  Speed up large session timelines]]'
 source_release: '[[Releases/Dify/dify-2026-05-19-1-14-2-github-324730496-11d48ace|dify-2026-05-19-1-14-2-github-324730496-11d48ace]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-speed-tab-the-standalone-speed-tab-has-been-removed-speed-and-lighthouse-checks|Speed tab. The standalone Speed tab has been removed]]
+- Earlier: 2026-05-18 · OpenCode · [[Changes/OpenCode/2026-05-18-desktop-speed-up-large-session-timelines|Desktop Speed up large session timelines]]
 - Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-windows-installs-are-more-robust-codex-doctor-now-detects-npm-managed-installs-c|Windows installs are more robust]]
 <!-- chronolog:end -->
 

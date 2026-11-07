@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 80391d0eaafa4c80df798f46f745306066fdad6fd2196896086b40303ef19ba1
+machine_hash: f161fef4625c23de38ceb853339584d2e0a261af9a8cee7e6cdcd6d3dcc932ae
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: Explore agent can now use GitHub MCP tools when available
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-20-support-remote-plugin-sources-github-repos-and-git-urls-in-marketplace-json-plug|Support
-  remote plugin sources (GitHub repos and git URLs) in marketplace.json plugin…]]'
+- '[[Changes/OpenCode/2026-02-20-sdk-build-sdk-to-dist-instead-of-dist-src|SDK Build
+  SDK to dist/ instead of dist/src]]'
 - '[[Changes/Replit/2026-02-20-razorpay-mcp-integration|Razorpay MCP integration]]'
 - '[[Changes/Replit/2026-02-20-expanded-default-mcp-list|Expanded default MCP list]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-21-v0-0-414-github-288928471-d3403112|github-copilot-cli-2026-02-21-v0-0-414-github-288928471-d3403112]]'

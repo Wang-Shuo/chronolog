@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 49fd09d24ec5946d27bc5eefec498439de352b86b581cf5f2a9a1bc2ce592ec0
+machine_hash: 42783b57784356bdcc7bd0b7355c46019a8ac44df3b9259bfb57e61885fae068
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Lock workspace membership to your identity provider
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect
-  your preview links]]'
+- '[[Changes/OpenClaw/2026-09-08-ordinary-model-changes-now-apply-to-the-current-chat-by-default-including-admini|Ordinary
+  model changes now apply to the current chat by default, including…]]'
 - '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box,
   Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]'
 - '[[Changes/Claude/2026-09-10-smart-reports-beta|Smart reports (beta)]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-10 · Claude · [[Changes/Claude/2026-09-10-smart-reports-beta|Smart reports (beta)]]
-- Later: 2026-09-11 · Replit · [[Changes/Replit/2026-09-11-retrieve-prompt-text-for-compliance-workflows|Retrieve prompt text for compliance workflows]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-messages-arriving-while-openclaw-is-paused-now-wait-until-it-is-ready-again-and|Messages arriving while OpenClaw is paused now wait until it is ready again…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

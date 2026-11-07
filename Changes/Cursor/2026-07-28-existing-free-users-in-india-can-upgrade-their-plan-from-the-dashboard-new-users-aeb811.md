@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f289d0569fc69cb712bb8515f1f2ddeb172fce0911d4135bce87e8e72d4a9d34
+machine_hash: ba602e23dbd2c577f07800ec41371b50fbefe49aa31a1c517639d91617efb355
 product: cursor
 product_name: Cursor
 record:
@@ -50,12 +50,12 @@ record:
   title: Existing Free users in India can upgrade their plan from the dashboard
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-23-add-model-plan-or-model-plan-to-pick-a-model-used-while-in-plan-mode-pass-a-mode|Add
-  /model plan (or /model --plan) to pick a model used while in plan mode]]'
-- '[[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface
-  Experience changes in v2.1.219]]'
+- '[[Changes/OpenCode/2026-07-24-core-fix-minimax-m3-thinking-variant-selection|Core
+  Fix MiniMax M3 thinking variant selection]]'
 - '[[Changes/Open WebUI/2026-07-27-19-interface-experience-changes-in-v0-11-0|19 Interface
   Experience changes in v0.11.0]]'
+- '[[Changes/OpenCode/2026-07-27-desktop-remove-the-extra-titlebar-inset-in-fullscreen-on-macos|Desktop
+  Remove the extra titlebar inset in fullscreen on macOS]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-19-interface-experience-changes-in-v0-11-0|19 Interface Experience changes in v0.11.0]]
+- Earlier: 2026-07-27 · OpenCode · [[Changes/OpenCode/2026-07-27-desktop-remove-the-extra-titlebar-inset-in-fullscreen-on-macos|Desktop Remove the extra titlebar inset in fullscreen on macOS]]
 - Later: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-10-interface-experience-changes-in-1-16-1|10 Interface Experience changes in 1.16.1]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9400f5763dd1b7a1fefc98660a73c3f003138e979cef64ecd327be3352381edd
+machine_hash: 5b9219a14a70697b0bc1c5e82a9911b07b7c87f1ef4dace4cd14a41b35612cde
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,12 +67,12 @@ record:
   title: Privacy Center in ChatGPT
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-sandbox-policy-now-reports-local-network-access-using-your-configured-setting|/sandbox
-  policy now reports local-network access using your configured setting]]'
-- '[[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety
-  and Privacy changes in v2.1.277]]'
 - '[[Changes/Replit/2026-09-18-investigate-with-expanded-audit-logs|Investigate with
   expanded audit logs]]'
+- '[[Changes/Google Antigravity/2026-09-19-windows-sandbox-support|Windows sandbox
+  support]]'
+- '[[Changes/OpenClaw/2026-09-19-39-safety-and-privacy-changes-in-v2026-9-5|39 Safety
+  and Privacy changes in v2026.9.5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba|chatgpt-2026-09-21-privacy-center-in-chatgpt-ecef9fba]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-18 · Replit · [[Changes/Replit/2026-09-18-investigate-with-expanded-audit-logs|Investigate with expanded audit logs]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-39-safety-and-privacy-changes-in-v2026-9-5|39 Safety and Privacy changes in v2026.9.5]]
 - Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-2-safety-and-privacy-changes-in-v1-0-87|2 Safety and Privacy changes in v1.0.87]]
 <!-- chronolog:end -->
 

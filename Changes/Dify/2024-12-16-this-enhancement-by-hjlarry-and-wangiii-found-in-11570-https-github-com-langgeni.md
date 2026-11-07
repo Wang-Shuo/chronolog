@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c2241d3869a202d2b049dd82b69014178f22b4c36e42699b04fe68e7d9f83664
+machine_hash: a1608bb941da9f623d341a33561bfedb84536ee386b868cc60d4be3b179fa7fd
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: This enhancement by @hjlarry and @wangiii, found…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-12-07-rich-text-reliability-improved-the-reliability-and-stability-of-rich-text-input|\U0001F4CB
-  Rich Text Reliability]]"
+- '[[Changes/Runway/2024-12-07-control-handheld-shake-and-speed-in-your-generations-using-the-edit-video-featur|Handheld
+  camera shake in Gen-3 Alpha and Gen-3 Alpha Turbo]]'
 - '[[Changes/Dify/2024-12-09-improved-overall-code-quality-and-performance-by-removing-redundant-styles-in-co|Improved
   overall code quality and performance by removing redundant styles…]]'
 - '[[Changes/Ollama/2024-12-11-improved-memory-estimation-when-scheduling-models|Improved

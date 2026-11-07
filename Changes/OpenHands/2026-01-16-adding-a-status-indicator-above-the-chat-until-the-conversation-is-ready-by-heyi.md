@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 590e081a6e9d14e5695b7e92ca069819a602dea7adc960fe194dc6f25e963678
+machine_hash: 72792bcc44f1277b2a96cdb9ad19b5ed69f07e7c046c12c3ab1e0c19923b2d6b
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: Adding a status indicator above the chat until the conversation is ready
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2
-  Interface Experience changes in CLI Agent Modes and Cloud Handoff]]'
 - '[[Changes/Lovable/2026-01-16-better-dashboard-organization-and-navigation|Better
   dashboard organization and navigation]]'
 - '[[Changes/Lovable/2026-01-16-lovable-now-offers-a-more-native-mobile-experience-across-the-app-with-sheets-re|Lovable
   now offers a more native mobile experience across the app, with sheets…]]'
+- '[[Changes/OpenCode/2026-01-16-6-interface-experience-changes-in-v1-1-24|6 Interface
+  Experience changes in v1.1.24]]'
 source_release: '[[Releases/OpenHands/openhands-2026-01-16-1-2-0-github-277420089-3a6d7d12|openhands-2026-01-16-1-2-0-github-277420089-3a6d7d12]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-lovable-now-offers-a-more-native-mobile-experience-across-the-app-with-sheets-re|Lovable now offers a more native mobile experience across the app, with sheets…]]
+- Earlier: 2026-01-16 · OpenCode · [[Changes/OpenCode/2026-01-16-6-interface-experience-changes-in-v1-1-24|6 Interface Experience changes in v1.1.24]]
 - Later: 2026-01-16 · v0 · [[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added searchable version selector for easier navigation]]
 <!-- chronolog:end -->
 

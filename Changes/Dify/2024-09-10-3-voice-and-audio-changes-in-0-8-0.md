@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c9d6eb5d65ec391cd814a8933bdc2004f7e85a6020a55f6ce63615fc0e120f5
+machine_hash: b1ec97f3b40011b017d5fdfee3ef678fdaafe5434443c239c06e27bd44f42106
 product: dify
 product_name: Dify
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.8.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-09-09 · Aider · [[Changes/Aider/2024-09-09-new-chat-language-switch-to-set-the-spoken-language|New --chat-language switch to set the spoken language]]
-- Later: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-customizable-playback-speed-playback-speed-control-is-now-available-in-call-mode|🎚️ Customizable Playback Speed]]
+- Later: 2024-09-12 · Suno · [[Changes/Suno/2024-09-12-2-transform-audio-uploads-try-uploading-a-clip-of-your-singing-humming-or-playin|2 - Transform Audio Uploads]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

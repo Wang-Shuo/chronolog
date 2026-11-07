@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bbc59da5ddfd9ec8da5cf40b00e768c5316abcce84e40dcc554cd103290b2a55
+machine_hash: 88fda006ca5835653b1d27b183c703ab7aa9d4f295246f71009e7b277aa02587
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: Sandboxed commands on Windows write temporary files to the granted temp directory…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49093-simplify-startup-promotions-to-platform-specific-desktop-app-tips-etraut-o|♯49093
-  Simplify startup promotions to platform-specific desktop app tips @etraut-openai]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-01-sandboxed-commands-run-on-windows-versions-without-filesystem-enumeration-suppor|Sandboxed
   commands run on Windows versions without filesystem enumeration support…]]'
 - '[[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances
   expands to Free and Go users]]'
+- '[[Changes/OpenClaw/2026-10-03-2-mobile-and-desktop-changes-in-v2026-9-8|2 Mobile
+  and Desktop changes in v2026.9.8]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-02 · ChatGPT · [[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances expands to Free and Go users]]
+- Earlier: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-2-mobile-and-desktop-changes-in-v2026-9-8|2 Mobile and Desktop changes in v2026.9.8]]
 - Later: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep your computer awake]]
 <!-- chronolog:end -->
 

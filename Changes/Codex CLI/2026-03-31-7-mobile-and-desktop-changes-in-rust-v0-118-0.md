@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1451949c0c9fe6bf1e0c3e31673f0eac70999b46fc9d48f34df709d22b5025a5
+machine_hash: 7bcdc481a865c98428e13597b6b215d164a60455688587b39d4b95157dbda77f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,12 +56,12 @@ record:
   title: 7 Mobile and Desktop changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-added-powershell-tool-for-windows-as-an-opt-in-preview-learn-more-at-https-code|Added
-  PowerShell tool for Windows as an opt-in preview]]'
-- '[[Changes/Codex CLI/2026-03-26-3-mobile-and-desktop-changes-in-rust-v0-117-0|3
-  Mobile and Desktop changes in rust-v0.117.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-26-2-mobile-and-desktop-changes-in-v1-0-12|2
-  Mobile and Desktop changes in v1.0.12]]'
+- '[[Changes/OpenCode/2026-03-26-3-mobile-and-desktop-changes-in-v1-3-3|3 Mobile and
+  Desktop changes in v1.3.3]]'
+- '[[Changes/OpenCode/2026-03-29-10-mobile-and-desktop-changes-in-v1-3-6-2|10 Mobile
+  and Desktop changes in v1.3.6 + 2]]'
+- '[[Changes/OpenCode/2026-03-30-added-first-class-powershell-support-on-windows|Added
+  first-class PowerShell support on Windows]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -116,7 +116,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.118.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-2-mobile-and-desktop-changes-in-v1-0-12|2 Mobile and Desktop changes in v1.0.12]]
+- Earlier: 2026-03-30 · OpenCode · [[Changes/OpenCode/2026-03-30-added-first-class-powershell-support-on-windows|Added first-class PowerShell support on Windows]]
 - Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell tool on Windows]]
 <!-- chronolog:end -->
 

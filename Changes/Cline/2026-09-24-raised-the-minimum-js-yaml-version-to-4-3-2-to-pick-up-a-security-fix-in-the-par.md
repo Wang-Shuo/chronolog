@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d73cfff3872bb849f14083f377c807100c5cab7e7a1ffc15293da9200f33cde
+machine_hash: d1fcd21f2345f66bdfa93882f3696f4ebb6eb448222c3915792de519312b9542
 product: cline
 product_name: Cline
 record:
@@ -43,9 +43,10 @@ record:
     the parser…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-findings|Findings]]'
 - '[[Changes/Lovable/2026-09-23-redesigned-project-security-view|Redesigned project
   Security view]]'
+- '[[Changes/OpenClaw/2026-09-23-50-safety-and-privacy-changes-in-v2026-9-6|50 Safety
+  and Privacy changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-24-4-safety-and-privacy-changes-in-v2-1-282|4 Safety
   and Privacy changes in v2.1.282]]'
 source_release: '[[Releases/Cline/cline-2026-09-24-v4-1-21-github-395862160-2e42664e|cline-2026-09-24-v4-1-21-github-395862160-2e42664e]]'

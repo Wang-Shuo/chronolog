@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f7de84de342cec0ca1c1071a475a39ce71fcd96c4463540abbb3bcd8fc9c773
+machine_hash: 333f3c47a31fee9c8be257cdaf0b37093b9ea8753bb08f6f71509c123755e2b7
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.49
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-5-safety-and-privacy-changes-in-v0-29-0|5 Safety and Privacy changes in v0.29.0]]
-- Later: 2026-02-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-21-show-permission-elevation-dialog-when-accepting-a-plan-with-autopilot-to-prevent|Show permission elevation dialog when accepting a plan with autopilot to prevent…]]
+- Later: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-4-safety-and-privacy-changes-in-v1-2-7|4 Safety and Privacy changes in v1.2.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

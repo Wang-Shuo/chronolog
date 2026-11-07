@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 234316be608e5cb7e629e5e0d6801a543a424aae4c05872c5f6a641457d3bc0d
+machine_hash: ab70943dd333b28c78691e913b18ad1778c8ce787bc0e21a49375491db0a1ea7
 product: lovable
 product_name: Lovable
 record:
@@ -49,10 +49,10 @@ record:
   title: Connect your app to Firebase Cloud Messaging
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect
-  multiple Google accounts to ChatGPT]]'
 - '[[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4
   Apps and Integrations changes in v2.1.251]]'
+- '[[Changes/Gamma/2026-08-28-build-more-with-gamma-s-api-and-connectors|Build more
+  with Gamma’s API and connectors]]'
 - '[[Changes/Lovable/2026-08-28-connect-your-app-to-gitlab-api|Connect your app to
   GitLab API]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-28-2026-08-28-1fac4f32|lovable-2026-08-28-2026-08-28-1fac4f32]]'
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4 Apps and Integrations changes in v2.1.251]]
+- Earlier: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-build-more-with-gamma-s-api-and-connectors|Build more with Gamma’s API and connectors]]
 - Later: 2026-08-28 · Replit · [[Changes/Replit/2026-08-28-customize-connectors|Customize connectors]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91dcbe00b8f90f88491797fab2a8ff98f5e39e1da715f45e724d96e10bdf8881
+machine_hash: 5b7fcea69663755d7a70cd441c7dc05735f201d1b12d0560dd1d8204f9772b32
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added interactive Bedrock setup wizard accessible from the login screen…]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added interactive Google Vertex AI setup wizard accessible from the login screen…]]
+- Later: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-core-improved-opencode-login-transport-error-messages|Core Improved opencode login transport error messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

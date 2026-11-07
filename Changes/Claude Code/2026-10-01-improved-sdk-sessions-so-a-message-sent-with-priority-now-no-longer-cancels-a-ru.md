@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7cde9d0a3917a4f3be9a641046d39881de13b917d8e0db9d919f1b0946fb880
+machine_hash: ac74645a4be51ff6332f2427f0721571d03d78a203904410ab530922a860a372
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved SDK sessions so a message sent with priority "now" no longer cancels…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-24-on-windows-mention-search-results-now-show-the-right-file-names-nested-files-suc|On
-  Windows, @-mention search results now show the right file names]]'
 - '[[Changes/Codex CLI/2026-09-25-2-search-and-browsing-changes-in-rust-v0-157-0|2
   Search and Browsing changes in rust-v0.157.0]]'
 - '[[Changes/Ollama/2026-09-29-models-using-web-search-can-now-perform-up-to-ten-searches-per-response-up-from|Models
   using web search can now perform up to ten searches per response, up from three]]'
+- '[[Changes/OpenClaw/2026-09-30-4-search-and-browsing-changes-in-v2026-9-7|4 Search
+  and Browsing changes in v2026.9.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: search-browsing
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-09-29 · Ollama · [[Changes/Ollama/2026-09-29-models-using-web-search-can-now-perform-up-to-ten-searches-per-response-up-from|Models using web search can now perform up to ten searches per response, up from three]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-4-search-and-browsing-changes-in-v2026-9-7|4 Search and Browsing changes in v2026.9.7]]
 - Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-browse-older-tasks-in-the-agent-command-center-with-a-keyboard-accessible-show-m|Browse older tasks in the agent command center with a keyboard-accessible…]]
 <!-- chronolog:end -->
 

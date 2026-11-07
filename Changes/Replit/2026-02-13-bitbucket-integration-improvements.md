@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0031d1b2b4457bfc6cf29693843a29b043078ba833257a30e3cea4bc0e395482
+machine_hash: 565b3d65ca0dfbdf349d12c4a8ef71d83873ed05d19c081ea0cacb1e52c50a8c
 product: replit
 product_name: Replit
 record:
@@ -45,12 +45,12 @@ record:
   title: Bitbucket integration improvements
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-mcp-servers-respect-the-cwd-working-directory-property|MCP
-  servers respect the cwd working directory property]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-12-2-apps-and-integrations-changes-in-v0-0-409|2
-  Apps and Integrations changes in v0.0.409]]'
-- '[[Changes/Open WebUI/2026-02-12-6-apps-and-integrations-changes-in-v0-8-0|6 Apps
-  and Integrations changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-12-core-use-promise-all-for-mcp-listtools-calls-to-improve-performance|Core
+  Use Promise.all for MCP listTools calls to improve performance]]'
+- '[[Changes/OpenCode/2026-02-12-core-expose-tool-arguments-in-shell-hook-for-plugin-visibility|Core
+  Expose tool arguments in shell hook for plugin visibility]]'
+- '[[Changes/OpenCode/2026-02-13-core-add-tool-definition-hook-for-plugins-to-modify-tool-description-and-paramet|Core
+  Add tool.definition hook for plugins to modify tool description and parameters]]'
 source_release: '[[Releases/Replit/replit-2026-02-13-2026-02-13-6a679506|replit-2026-02-13-2026-02-13-6a679506]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-6-apps-and-integrations-changes-in-v0-8-0|6 Apps and Integrations changes in v0.8.0]]
+- Earlier: 2026-02-13 · OpenCode · [[Changes/OpenCode/2026-02-13-core-add-tool-definition-hook-for-plugins-to-modify-tool-description-and-paramet|Core Add tool.definition hook for plugins to modify tool description and parameters]]
 - Later: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-3-apps-and-integrations-changes-in-v0-0-410|3 Apps and Integrations changes in v0.0.410]]
 <!-- chronolog:end -->
 

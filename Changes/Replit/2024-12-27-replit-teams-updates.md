@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 433f093342f8240aa1a858f87638108bae1fe6b71bedddbc4695e9f609789ac8
+machine_hash: 032b0b755bd7c8ae3f61fb481ff49c4e2cc11c0ed64bc206d61e7a1f48dd2629
 product: replit
 product_name: Replit
 record:
@@ -48,8 +48,7 @@ record:
   title: Replit Teams updates
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip
-  suggesting files that share names with files already in chat]]'
+- '[[Changes/Midjourney/2024-12-11-tips|Tips]]'
 - '[[Changes/Open WebUI/2024-12-25-2-collaboration-changes-in-v0-5-0|2 Collaboration
   changes in v0.5.0]]'
 - "[[Changes/Open WebUI/2024-12-27-typing-indicators-in-channels-know-exactly-who-s-typing-in-real-time-within-your|\U0001F58A️

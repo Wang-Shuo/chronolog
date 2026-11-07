@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b2d60020ae66bd5b1120c9d52430b5481bba50b319de39c0675a57cb8cb65ff3
+machine_hash: 10e0d8ad19abfad3e078bb3846135d6cbd18182d9c2866da26c6ea3bbe71eae3
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,10 @@ record:
   title: Changed `/review <pr>` back to a fast single-pass review
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6
-  Developer Workflow changes in v1.0.68]]'
 - '[[Changes/Open WebUI/2026-07-01-5-developer-workflow-changes-in-v0-10-2|5 Developer
   Workflow changes in v0.10.2]]'
+- '[[Changes/OpenCode/2026-07-01-desktop-streamline-wsl-server-setup-with-clearer-distro-checks-and-install-flows|Desktop
+  Streamline WSL server setup with clearer distro checks and install flows]]'
 - '[[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude
   agents session rows now show pull-request links as bare ♯N without…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude agents session rows now show pull-request links as bare ♯N without…]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-feat-add-full-git-history-user-setting-by-malhotra5-in-https-github-com-openhand|feat: Add full Git history user setting]]
+- Later: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-3-developer-workflow-changes-in-v1-17-14|3 Developer Workflow changes in v1.17.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

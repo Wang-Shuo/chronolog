@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe476b50e62795b9a11aa0759961725c8a04189e87eb427a39f332d1e007f5d5
+machine_hash: ca2249891606288099160f5647e13cee2f0f62fd403be3c1ad798376ac4d6ad7
 product: cline
 product_name: Cline
 record:
@@ -55,8 +55,8 @@ record:
     and it no…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-23-nemotron-3-5-bolt-e4b-https-ollama-com-library-nemotron-3-5-bolt-is-nvidia-s-sma|Nemotron
-  3.5 Bolt E4B((source link) is NVIDIA’s…]]'
+- '[[Changes/OpenClaw/2026-10-24-4-context-window-changes-in-v2026-10-7|4 Context
+  Window changes in v2026.10.7]]'
 - '[[Changes/Open WebUI/2026-10-25-4-context-window-changes-in-v0-12-4|4 Context Window
   changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-2-context-window-changes-in-v2-1-311|2 Context

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a759bb9dfa7fab1253fffada6cb4d080ae3c8ccf48a7acb6a3e025d66628c61
+machine_hash: 59659a9cada453321b3cd86c28772f94ed845b0956b16ba3b22e2bf4962f7765
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,12 +63,12 @@ record:
   title: ChatGPT Work can now complete tasks on signed-in websites
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-2-account-and-access-changes-in-v2-1-234|2 Account
-  and Access changes in v2.1.234]]'
 - '[[Changes/Codex CLI/2026-08-18-16-account-and-access-changes-in-rust-v0-148-0|16
   Account and Access changes in rust-v0.148.0]]'
 - '[[Changes/Codex CLI/2026-08-20-8-account-and-access-changes-in-rust-v0-149-0|8
   Account and Access changes in rust-v0.149.0]]'
+- '[[Changes/OpenCode/2026-08-24-core-fixed-opencode-device-login-links-when-servers-return-relative-verification|Core
+  Fixed OpenCode device login links when servers return relative verification…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-chatgpt-work-can-now-complete-tasks-on-signed-in-websites-d2be314c|chatgpt-2026-08-25-chatgpt-work-can-now-complete-tasks-on-signed-in-websites-d2be314c]]'
 source_type: chatgpt_changelog
 theme: account-access
@@ -109,7 +109,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-8-account-and-access-changes-in-rust-v0-149-0|8 Account and Access changes in rust-v0.149.0]]
+- Earlier: 2026-08-24 · OpenCode · [[Changes/OpenCode/2026-08-24-core-fixed-opencode-device-login-links-when-servers-return-relative-verification|Core Fixed OpenCode device login links when servers return relative verification…]]
 - Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-improved-attribution-of-usage-telemetry-to-your-organization-for-workload-identi|Improved attribution of usage telemetry to your organization for workload identity…]]
 <!-- chronolog:end -->
 

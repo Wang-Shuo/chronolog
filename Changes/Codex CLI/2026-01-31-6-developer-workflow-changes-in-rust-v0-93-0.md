@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2424a894a208e876b596f601458bcf68467302d3b647e101aeda330b15354272
+machine_hash: 14d58ad16cae9c2468c1017488117e67f808c08db7185dac18e98e1c68bbbd2a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: 6 Developer Workflow changes in rust-v0.93.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-29-added-server-logs-for-better-debugging|Added server logs
-  for better debugging]]'
 - '[[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer
   Workflow changes in v2.1.27]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-3-developer-workflow-changes-in-v0-0-400|3
   Developer Workflow changes in v0.0.400]]'
+- '[[Changes/OpenCode/2026-01-30-core-i-need-to-see-the-actual-commit-message-to-summarize-it-could-you-please-pr|Core
+  I need to see the actual commit message to summarize it]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8|codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8]]'
 source_type: github_releases
 theme: developer-workflow
@@ -111,8 +111,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.93.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-3-developer-workflow-changes-in-v0-0-400|3 Developer Workflow changes in v0.0.400]]
-- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer Workflow changes in v2.1.30]]
+- Earlier: 2026-01-30 · OpenCode · [[Changes/OpenCode/2026-01-30-core-i-need-to-see-the-actual-commit-message-to-summarize-it-could-you-please-pr|Core I need to see the actual commit message to summarize it]]
+- Later: 2026-01-31 · OpenCode · [[Changes/OpenCode/2026-01-31-core-handle-redirected-statement-treesitter-node-in-bash-permissions|Core Handle redirected statement treesitter node in bash permissions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

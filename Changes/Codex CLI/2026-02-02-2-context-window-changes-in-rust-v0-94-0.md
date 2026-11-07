@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f8023dee9ed4d1496d7598e50fbbfbd4133c08aa84815da28b0d00cc366b90fb
+machine_hash: ddf267df6b5c2797b43cfecb8f4b1422fcc8df5892ffcca68d7767f4badbe41c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Context Window changes in rust-v0.94.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-53f1f0|New
-  model: Added Kimi-K2.5 model to Moonshot provider…]]'
 - '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|New
   model: Added Kimi-K2.5 model to Moonshot provider…]]'
 - '[[Changes/Codex CLI/2026-01-31-6-context-window-changes-in-rust-v0-93-0|6 Context
   Window changes in rust-v0.93.0]]'
+- '[[Changes/OpenCode/2026-01-31-core-add-copilot-specific-provider-to-properly-handle-reasoning-tokens|Core
+  Add Copilot-specific provider to properly handle reasoning tokens]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-02-rust-v0-94-0-github-282298678-d5cec340|codex-cli-2026-02-02-rust-v0-94-0-github-282298678-d5cec340]]'
 source_type: github_releases
 theme: context-window
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.94.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-6-context-window-changes-in-rust-v0-93-0|6 Context Window changes in rust-v0.93.0]]
+- Earlier: 2026-01-31 · OpenCode · [[Changes/OpenCode/2026-01-31-core-add-copilot-specific-provider-to-properly-handle-reasoning-tokens|Core Add Copilot-specific provider to properly handle reasoning tokens]]
 - Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added pages parameter to the Read tool for PDFs, allowing specific page ranges…]]
 <!-- chronolog:end -->
 

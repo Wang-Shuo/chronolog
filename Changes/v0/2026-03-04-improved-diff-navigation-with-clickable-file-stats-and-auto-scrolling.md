@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f4197e48d7894e1b138dd00a3ac085854cc109af6e820929ccc37992123dde5
+machine_hash: 15e1389a89fe10c20061bc39f908b00666cd13c923ae5aa165cd74cc68d0d702
 product: v0
 product_name: v0
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved diff navigation with clickable file stats and auto-scrolling
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The
-  content from your plan files are now included in autocomplete suggestions as you…]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-03-2-interface-experience-changes-in-v0-0-421|2
-  Interface Experience changes in v0.0.421]]'
+- '[[Changes/OpenCode/2026-03-03-5-interface-experience-changes-in-v1-2-16|5 Interface
+  Experience changes in v1.2.16]]'
 - '[[Changes/v0/2026-03-03-improved-chat-sidebar-width-for-better-screen-space|Improved
   chat sidebar width for better screen space]]'
+- '[[Changes/OpenCode/2026-03-04-desktop-remove-diff-lines-from-sessions-in-sidebar|Desktop
+  Remove diff lines from sessions in sidebar]]'
 source_release: '[[Releases/v0/v0-2026-03-04-2026-03-04-a91c7249|v0-2026-03-04-2026-03-04-a91c7249]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-03 · v0 · [[Changes/v0/2026-03-03-improved-chat-sidebar-width-for-better-screen-space|Improved chat sidebar width for better screen space]]
+- Earlier: 2026-03-04 · OpenCode · [[Changes/OpenCode/2026-03-04-desktop-remove-diff-lines-from-sessions-in-sidebar|Desktop Remove diff lines from sessions in sidebar]]
 - Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-3-interface-experience-changes-in-v2-1-69|3 Interface Experience changes in v2.1.69]]
 <!-- chronolog:end -->
 

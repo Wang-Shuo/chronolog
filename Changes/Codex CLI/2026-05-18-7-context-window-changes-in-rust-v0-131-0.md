@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2562470678c5706d1dff8280f9bc60fc66fa3205859aefb9b3c6aaddfdf70270
+machine_hash: d2b4231c8f21e333092dbb78f86eb503af43207753d2f0b9f8baebe659bdd8c7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,11 +52,12 @@ record:
   title: 7 Context Window changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]'
-- '[[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved
-  reactive compaction]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context
   shows correct token limits for all models instead of always showing 128k]]'
+- '[[Changes/OpenCode/2026-05-15-core-fixed-repeated-auto-compaction-in-sessions-after-compaction-reordered-messa|Core
+  Fixed repeated auto-compaction in sessions after compaction reordered messages]]'
+- '[[Changes/OpenCode/2026-05-16-terminal-fixed-async-commands-losing-the-active-instance-context-which-could-bre|Terminal
+  Fixed async commands losing the active instance context, which could break…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: context-window
@@ -110,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context shows correct token limits for all models instead of always showing 128k]]
+- Earlier: 2026-05-16 · OpenCode · [[Changes/OpenCode/2026-05-16-terminal-fixed-async-commands-losing-the-active-instance-context-which-could-bre|Terminal Fixed async commands losing the active instance context, which could break…]]
 - Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-draw-on-images|Draw on images]]
 <!-- chronolog:end -->
 

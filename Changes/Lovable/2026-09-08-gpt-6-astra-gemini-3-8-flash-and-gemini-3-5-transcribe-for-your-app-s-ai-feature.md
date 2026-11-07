@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: be5290a33ba587327be6bd21213e135b68e6674be81288ec49d6ceb3dd454b06
+machine_hash: 37bf4da7b2420ebc58c9fc21f3b0fddcc20f34edb6ce2095e61eb0d32cfbcbaa
 product: lovable
 product_name: Lovable
 record:
@@ -59,12 +59,12 @@ record:
     features
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-04-3-model-support-changes-in-rust-v0-153-3|3 Model
-  Support changes in rust-v0.153.3]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-3-model-support-changes-in-v1-0-83|3 Model
-  Support changes in v1.0.83]]'
+- '[[Changes/OpenCode/2026-09-04-allow-codex-oauth-model-filtering-to-recognize-integer-gpt-versions-like-gpt-6|Allow
+  Codex OAuth model filtering to recognize integer GPT versions like gpt-6]]'
 - '[[Changes/Ollama/2026-09-05-ollama-models-can-now-be-used-directly-in-chatgpt-desktop-so-you-can-keep-your-e|Ollama
   models can now be used directly in ChatGPT Desktop, so you can keep…]]'
+- '[[Changes/OpenClaw/2026-09-05-17-model-support-changes-in-v2026-9-2|17 Model Support
+  changes in v2026.9.2]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-08-2026-09-08-ea9aff6b|lovable-2026-09-08-2026-09-08-ea9aff6b]]'
 source_type: lovable_changelog
 theme: model-support
@@ -103,8 +103,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-05 · Ollama · [[Changes/Ollama/2026-09-05-ollama-models-can-now-be-used-directly-in-chatgpt-desktop-so-you-can-keep-your-e|Ollama models can now be used directly in ChatGPT Desktop, so you can keep…]]
-- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-17-model-support-changes-in-v2026-9-2|17 Model Support changes in v2026.9.2]]
+- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-15-model-support-changes-in-v2026-9-3|15 Model Support changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

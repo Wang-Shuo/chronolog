@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 746c8c756faca6f9984c5de1e61e914023ebc5cec3e12fdbab887ffd9215ccd7
+machine_hash: 3d6d345110fbc5e7a7088efb29d9ef1a77ee82de141564d839a808db0ca79996
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 5 Editor Experience changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-2-editor-experience-changes-in-v1-0-70|2
-  Editor Experience changes in v1.0.70]]'
-- '[[Changes/Lovable/2026-07-10-see-project-status-in-your-browser-tab|See project
-  status in your browser tab]]'
+- '[[Changes/OpenCode/2026-07-13-desktop-added-middle-click-to-open-sessions-in-a-new-tab|Desktop
+  Added middle-click to open sessions in a new tab]]'
 - '[[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor
   Experience changes in v2.1.208]]'
+- '[[Changes/OpenCode/2026-07-15-added-mod-n-as-another-shortcut-for-opening-a-new-tab|Added
+  Mod+N as another shortcut for opening a new tab]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
 source_type: github_releases
 theme: editor-experience
@@ -107,7 +107,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor Experience changes in v2.1.208]]
+- Earlier: 2026-07-15 · OpenCode · [[Changes/OpenCode/2026-07-15-added-mod-n-as-another-shortcut-for-opening-a-new-tab|Added Mod+N as another shortcut for opening a new tab]]
 - Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-4-editor-experience-changes-in-1-16-0|4 Editor Experience changes in 1.16.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2b464006e9dae38f2307d2e4d3355bf9f3c7f6749cfa173e52a7c528a8a70bfe
+machine_hash: 2e7dcd9d943b10c4aee6d666152132566301ff5feaa6ae5f4a6dfbe7112402cc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed Ctrl+L and Cmd+K in fullscreen to always just repaint]]
-- Later: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep recent chats easier to browse]]
+- Later: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-added-the-ability-to-collapse-top-level-sidebar-sections-the-ungrouped-list-now|Added the ability to collapse top-level sidebar sections]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

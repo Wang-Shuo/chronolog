@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 386c61ff2f80542fde2ba9449d18098128d28e895290dd48fa61331198e5876b
+machine_hash: 4f8f6fa4f24c5e1406b8a8ce85ca3bf509f4034da3ab395977b30cb54ae8390a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Editor Experience changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-06-10-removed-app-tab-from-conversation-by-neubig-in-https-github-com-openhands-openha|Removed
-  App tab from conversation]]'
-- '[[Changes/Windsurf/2026-06-10-the-3-1-series-builds-on-the-devin-desktop-rebrand-with-a-smoother-agent-editor|The
-  3.1 series builds on the Devin Desktop rebrand with a smoother Agent/Editor…]]'
+- '[[Changes/Gamma/2026-06-12-the-editor-got-a-reliability-sweep|The editor got a
+  reliability sweep]]'
+- '[[Changes/Gamma/2026-06-12-a-smoother-editing-and-presenting-experience|A smoother
+  editing and presenting experience]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-2-editor-experience-changes-in-v1-0-62|2
   Editor Experience changes in v1.0.62]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'

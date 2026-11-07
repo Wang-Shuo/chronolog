@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42f7c0abb7f5bccc67fefeed6b0c3de76d97e5dfc7d4c0820e8e563fa2c6c817
+machine_hash: 56efb26aba4dbcd23fb18d1009d0032cfc5ecbe7bd1ad5859725855d9e906420
 product: open-webui
 product_name: Open WebUI
 record:
@@ -101,10 +101,9 @@ record:
   title: 8 Memory and Personalization changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated
-  the bundled claude-api skill for the Managed Agents Aug 19 release]]'
 - '[[Changes/Codex CLI/2026-08-20-2-memory-and-personalization-changes-in-rust-v0-149-0|2
   Memory and Personalization changes in rust-v0.149.0]]'
+- '[[Changes/Midjourney/2026-08-21-settings|Settings]]'
 - '[[Changes/Claude/2026-08-25-memory-in-claude-cowork-editable-topics-and-a-sensitive-topics-setting|Memory
   in Claude Cowork, editable topics, and a sensitive topics setting]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'

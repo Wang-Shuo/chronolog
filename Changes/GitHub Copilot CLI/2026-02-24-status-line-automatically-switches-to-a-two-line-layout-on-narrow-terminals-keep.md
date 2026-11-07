@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 95a0f4fbb4e726b107b64987cdab6316e3473dcd82c34f131a295aa434cd4b87
+machine_hash: cfed7d9876b18b4289fae32ceb5c1a44f58b91ffe899ec007b018cbebce5507f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-add-q-command-to-quit-cli|Add /q command to quit CLI]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-15-developer-workflow-changes-in-rust-v0-105-0|15 Developer Workflow changes in rust-v0.105.0]]
+- Later: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-add-workspace-serve-command-experimental|Add workspace-serve command (experimental)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

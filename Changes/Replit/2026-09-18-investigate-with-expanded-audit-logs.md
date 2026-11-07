@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 09f6c5e5dc417e8555e86f4bf280232f4fd17b7a90204c6ed90cb50ad70c94e8
+machine_hash: 3eaf399d5ab8d989b2eefe1c01ed09a6ff461cecf714466b81aa6e6949be1486
 product: replit
 product_name: Replit
 record:
@@ -78,12 +78,12 @@ record:
   title: Investigate with expanded audit logs
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-7-safety-and-privacy-changes-in-rust-v0-155-0|7
-  Safety and Privacy changes in rust-v0.155.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-sandbox-policy-now-reports-local-network-access-using-your-configured-setting|/sandbox
   policy now reports local-network access using your configured setting]]'
 - '[[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety
   and Privacy changes in v2.1.277]]'
+- '[[Changes/Google Antigravity/2026-09-18-fixed-an-issue-where-permission-settings-accumulated-duplicate-entries-which-mad|Fixed
+  an issue where permission settings accumulated duplicate entries, which made…]]'
 source_release: '[[Releases/Replit/replit-2026-09-18-2026-09-18-bb95ac6d|replit-2026-09-18-2026-09-18-bb95ac6d]]'
 source_type: replit_changelog
 theme: safety-privacy
@@ -112,8 +112,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety and Privacy changes in v2.1.277]]
-- Later: 2026-09-21 · ChatGPT · [[Changes/ChatGPT/2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it-0d2f36|Privacy Center in ChatGPT]]
+- Earlier: 2026-09-18 · Google Antigravity · [[Changes/Google Antigravity/2026-09-18-fixed-an-issue-where-permission-settings-accumulated-duplicate-entries-which-mad|Fixed an issue where permission settings accumulated duplicate entries, which made…]]
+- Later: 2026-09-19 · Google Antigravity · [[Changes/Google Antigravity/2026-09-19-windows-sandbox-support|Windows sandbox support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

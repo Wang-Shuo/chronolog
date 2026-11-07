@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eedb68ef9c5e9b360d8babb637001dfca20ddd760fc5c1ee877280c6e86eb33b
+machine_hash: e9fff3b10f5164f703a859328c399e170afa1b348a6d9781c6d04ea398919426
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Editor Experience changes in v2.1.208
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added
-  a /doctor check that proposes trimming checked-in CLAUDE.md files…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-10-2-editor-experience-changes-in-v1-0-70|2
-  Editor Experience changes in v1.0.70]]'
 - '[[Changes/Lovable/2026-07-10-see-project-status-in-your-browser-tab|See project
   status in your browser tab]]'
+- '[[Changes/OpenClaw/2026-07-13-21-editor-experience-changes-in-v2026-7-1|21 Editor
+  Experience changes in v2026.7.1]]'
+- '[[Changes/OpenCode/2026-07-13-desktop-added-middle-click-to-open-sessions-in-a-new-tab|Desktop
+  Added middle-click to open sessions in a new tab]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,8 +90,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.208
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-10 · Lovable · [[Changes/Lovable/2026-07-10-see-project-status-in-your-browser-tab|See project status in your browser tab]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5 Editor Experience changes in v1.0.71]]
+- Earlier: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-desktop-added-middle-click-to-open-sessions-in-a-new-tab|Desktop Added middle-click to open sessions in a new tab]]
+- Later: 2026-07-15 · OpenCode · [[Changes/OpenCode/2026-07-15-added-mod-n-as-another-shortcut-for-opening-a-new-tab|Added Mod+N as another shortcut for opening a new tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

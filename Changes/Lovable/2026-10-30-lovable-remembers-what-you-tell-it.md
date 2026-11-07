@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b08e560d345bab93e17df517b8ec1e00cf5ecf508e0207955c2202e320674807
+machine_hash: 4348bd85e620d743eacabfd945104bccaae42cd20e1aa5f1fd70fb94d22e885b
 product: lovable
 product_name: Lovable
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-30 · ChatGPT · [[Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta|Account switching on iOS and Android]]
-- Later: 2026-11-04 · Lovable · [[Changes/Lovable/2026-11-04-dreaming-lovable-keeps-its-memory-up-to-date|Dreaming: Lovable keeps its memory up to date]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-15-memory-and-personalization-changes-in-v2026-10-10|15 Memory and Personalization changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

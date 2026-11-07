@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ad78cd5606969ac7cd488e0181c9bbd0f93f8f258d17c44fea0a36337f1eaf6b
+machine_hash: 4421ac3f12124b9b9187787e17f20fb878eaba502e820e7ac1c35ce4e0548ac6
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,8 +41,8 @@ record:
   title: Claude Opus 4.6 is now available!
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-04-6-model-support-changes-in-v0-27-0|6 Model Support
-  changes in v0.27.0]]'
+- '[[Changes/OpenCode/2026-02-04-core-prevent-double-prefixing-of-bedrock-cross-region-inference-models|Core
+  Prevent double-prefixing of Bedrock cross-region inference models]]'
 - '[[Changes/Claude/2026-02-05-claude-opus-4-6-launch|Claude Opus 4.6 launch]]'
 - '[[Changes/Claude/2026-02-05-claude-for-excel-improvements|Claude for Excel improvements]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'

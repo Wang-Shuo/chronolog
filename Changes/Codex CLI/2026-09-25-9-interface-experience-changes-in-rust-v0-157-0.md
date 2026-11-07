@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8dcdd55b835fa67aec7ff977c9dd552d454d5b4984d3c776fc4e4755ab30695
+machine_hash: 7acfd2746b48d2c58c38c565ef2ccfd876dd8e1856e0d9d3fee38fbad4d260dc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,9 +59,9 @@ record:
   title: 9 Interface Experience changes in rust-v0.157.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-redesigned-projects-page|Redesigned Projects page]]'
-- '[[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface
-  Experience changes in v2.1.282]]'
+- '[[Changes/Midjourney/2026-09-24-we-re-experimenting-with-fast-models-in-the-interface-on-alpha-midjourney-com-th|We''re
+  experimenting with fast models in the interface on alpha.midjourney.com]]'
+- '[[Changes/Midjourney/2026-09-24-styles|STYLES]]'
 - '[[Changes/Claude Code/2026-09-25-2-interface-experience-changes-in-v2-1-283|2 Interface
   Experience changes in v2.1.283]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3|codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3]]'

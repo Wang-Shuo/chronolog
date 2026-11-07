@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d0e9cc950c3bbe9177412d6b7846ea77a92d7de9792ab3c636b6bacabe1575d
+machine_hash: 5eb9d0886021898e13f310cc46ffc79b47a09970e87bde7c10aec0f30d1ab504
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: Subagents and context compaction now inherit the session's extended thinking…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-3-context-window-changes-in-1-15-0|3 Context Window changes
-  in 1.15.0]]'
-- '[[Changes/Open WebUI/2026-06-29-3-context-window-changes-in-v0-10-0|3 Context Window
-  changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-keep-session-store-searches-and-context-lookups-responsive|Keep
   session-store searches and context lookups responsive]]'
+- '[[Changes/OpenClaw/2026-06-30-20-context-window-changes-in-v2026-6-11|20 Context
+  Window changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-desktop-show-stored-token-and-cost-totals-in-the-session-context|Desktop
+  Show stored token and cost totals in the session context]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
 theme: context-window
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-keep-session-store-searches-and-context-lookups-responsive|Keep session-store searches and context lookups responsive]]
+- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-desktop-show-stored-token-and-cost-totals-in-the-session-context|Desktop Show stored token and cost totals in the session context]]
 - Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-context-window-changes-in-v1-0-68|2 Context Window changes in v1.0.68]]
 <!-- chronolog:end -->
 

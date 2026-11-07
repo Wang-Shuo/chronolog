@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0664c9340ef6274ea3e1a9192f783079019e0bd635aa1c07ad3318e559728bc3
+machine_hash: 12707b1752690ed5a193ff721b53b0957c48c1c2f6ae0cac7160c596146d14d1
 product: ollama
 product_name: Ollama
 record:

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f27e621862990b2694690b613edd463047e063de1530e10777903489f081a2a8
+machine_hash: 6a48e5d5dfbff3f585df603d13f0452ca9dce19d65ed8b46b5f42e423eeaf5ca
 product: open-webui
 product_name: Open WebUI
 record:
@@ -88,12 +88,12 @@ record:
   title: 10 Files and Data changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Claude/2026-09-16-create-designs-decks-and-docs-in-any-conversation|Create
-  designs, decks, and docs in any conversation]]'
 - '[[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat:
   track authenticated Canvas arrivals]]'
 - '[[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude
   Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]'
+- '[[Changes/OpenClaw/2026-09-19-7-files-and-data-changes-in-v2026-9-5|7 Files and
+  Data changes in v2026.9.5]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'
 source_type: github_releases
 theme: file-data
@@ -159,7 +159,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-7-files-and-data-changes-in-v2026-9-5|7 Files and Data changes in v2026.9.5]]
 - Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-46027-document-and-test-wildcards-in-network-proxy-domain-patterns-viyatb-oai|♯46027 Document and test ? wildcards in network proxy domain patterns @viyatb-oai]]
 <!-- chronolog:end -->
 

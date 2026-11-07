@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ce21ba06fd4c9c5afca048c42e3154695eb8a207d2226536e0d8a7a1f05eb5e
+machine_hash: 5d7c18f578dec2044d897537ed270bb6bce7c17c5b50963f3be926b0d31a4ca3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -77,10 +77,10 @@ record:
   title: 17 Context Window changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-changed-context-token-counting-to-use-a-local-estimate-when-the-token-counting-a|Changed
-  /context token counting to use a local estimate when the token-counting…]]'
-- '[[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added
-  /skill-doctor to show which loaded skills go unused and what they cost…]]'
+- '[[Changes/OpenClaw/2026-09-05-15-context-window-changes-in-v2026-9-2|15 Context
+  Window changes in v2026.9.2]]'
+- '[[Changes/OpenClaw/2026-09-08-12-context-window-changes-in-v2026-9-3|12 Context
+  Window changes in v2026.9.3]]'
 - '[[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved
   prompt-cache stability]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'

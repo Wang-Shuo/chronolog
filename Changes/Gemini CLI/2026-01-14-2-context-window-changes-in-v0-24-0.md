@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d4c1d064aba9eb92cc699c12d89f32f09c829a69701056576bd972c9152b803
+machine_hash: eec66cbc1488b9dbcae571d685bc8c04d47c89145e6870c6627914d4ec387b07
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.24.0
 ## Nearby in Context Window
 
 - Earlier: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-enabled-mcp-tool-search-auto-mode-by-default-for-all-users-when-mcp-tool-descrip|Enabled MCP tool search auto mode by default for all users]]
-- Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added auto:N syntax for configuring the MCP tool search auto-enable threshold…]]
+- Later: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-core-add-input-limit-for-compaction|Core Add input limit for compaction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

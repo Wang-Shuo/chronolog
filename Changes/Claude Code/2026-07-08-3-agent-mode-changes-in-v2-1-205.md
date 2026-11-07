@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5051dc6f4ed7906aad191585cc67cd4f6f49fd904da3bb9c08485c58f4018ff
+machine_hash: 38cc9e79a2692259fdc588fb707eadf3945cb202e6ca3fe7967a200733d01c8c
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Agent Mode changes in v2.1.205
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-9-agent-mode-changes-in-1-9-0|9 Agent Mode changes
-  in 1.9.0]]'
+- '[[Changes/Runway/2026-07-06-agent-can-now-read-pdfs-you-upload-pulling-their-content-directly-into-generatio|PDF
+  Input for Agent]]'
 - '[[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode
   changes in v2.1.203]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-double-press-esc-now-interrupts-the-running-main-turn-flushing-queued-messages-o|Double-press

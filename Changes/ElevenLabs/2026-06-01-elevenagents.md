@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8187e37021dfaa5e477f1ff88d2a7a4a8df0755e6be7a0723595944cd473b0b4
+machine_hash: 82d24cad3d590265d2e6d0beafc7d6b872d93a3d4cdeecd4ce8d365de176a56a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -94,7 +94,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-29-integrations|Integrations]]'
+- '[[Changes/OpenCode/2026-05-30-sessions-can-now-store-custom-metadata-through-the-api-and-sdk|Sessions
+  can now store custom metadata through the API and SDK]]'
 - '[[Changes/Codex CLI/2026-06-01-20-apps-and-integrations-changes-in-rust-v0-136-0|20
   Apps and Integrations changes in rust-v0.136.0]]'
 - '[[Changes/ElevenLabs/2026-06-01-sdk-releases|SDK Releases]]'

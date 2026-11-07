@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b88d90c46b12920f985a68459f6da2db5e6886819fb09a25596cd853e8782506
+machine_hash: e24d0dfdb79bfc7324e8f7794a70d5ae758eff75feb3776be89c3c89f9ac9c21
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
     to view…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-3-interface-experience-changes-in-v1-0-62|3
-  Interface Experience changes in v1.0.62]]'
+- '[[Changes/OpenCode/2026-06-13-core-fixed-duplicate-renderable-ids-that-could-break-tui-rendering|Core
+  Fixed duplicate renderable IDs that could break TUI rendering]]'
 - '[[Changes/Codex CLI/2026-06-15-added-import-for-selectively-importing-setup-project-configuration-and-recent-ch|Added
   /import for selectively importing setup, project configuration, and recent…]]'
 - '[[Changes/Codex CLI/2026-06-15-3-interface-experience-changes-in-rust-v0-140-0|3

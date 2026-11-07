@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4f00ffc384958073d91bfae13cc7895a0b2148e1e414d756712154abfd13eb3c
+machine_hash: cebc51bd87942dde0487b552d41b9b6ae3a6ab97acb3e12137076f1a88549d34
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-4-editor-experience-changes-in-v2-1-97|4 Editor Experience changes in v2.1.97]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-2-editor-experience-changes-in-v2-1-98|2 Editor Experience changes in v2.1.98]]
+- Later: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-core-aligned-github-copilot-anthropic-reasoning-levels-and-removed-incorrect-qwe|Core Aligned GitHub Copilot Anthropic reasoning levels and removed incorrect Qwen variants]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

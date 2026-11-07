@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 773b52ef1f8d48fb2aa6a7502b87b83e3bafb2825435cffa419af4c7ce5c3968
+machine_hash: 8e92e34c6f9772fbb4d7c18d4ea40416fe9f3af29c5c8f4cf9aaa9dab2cefd39
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Add regression tests for shell command parsing
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-chore-subagents-remove-legacy-subagent-code-by-abhipatel12-in-https-github-com-g|chore(subagents):
-  Remove legacy subagent code]]'
 - '[[Changes/Codex CLI/2025-10-30-3-agent-mode-changes-in-rust-v0-52-0|3 Agent Mode
   changes in rust-v0.52.0]]'
+- '[[Changes/Gamma/2025-11-03-now-when-you-edit-an-ai-generated-image-with-agent-those-changes-are-automatical|Now
+  when you edit an AI-generated image with Agent, those changes are automatically…]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-03-custom-agents-with-special-characters-in-filenames-no-longer-fail|Custom
   agents with special characters in filenames no longer fail]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-04-v0-12-0-github-259722512-acf05c2e|gemini-cli-2025-11-04-v0-12-0-github-259722512-acf05c2e]]'

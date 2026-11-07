@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7e27bac7bee9ac4c265921519cb7dc814acd2f777c98c7f6f4d1a1b4bc0ce212
+machine_hash: f484db0018eb3d8131b45654f5cc7f0eedfda055b9beabe778a0111410b9e46b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -89,12 +89,12 @@ record:
     users…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed
-  /model to execute immediately instead of being queued]]'
 - '[[Changes/Dify/2026-02-03-5-model-support-changes-in-1-12-0|5 Model Support changes
   in 1.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-improve-handling-of-chat-history-when-switching-between-model-families|Improve
   handling of chat history when switching between model families]]'
+- '[[Changes/OpenCode/2026-02-03-5-model-support-changes-in-v1-1-49|5 Model Support
+  changes in v1.1.49]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431|chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -122,7 +122,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-improve-handling-of-chat-history-when-switching-between-model-families|Improve handling of chat history when switching between model families]]
+- Earlier: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-5-model-support-changes-in-v1-1-49|5 Model Support changes in v1.1.49]]
 - Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved system prompts to more clearly guide the model toward using dedicated tools…]]
 <!-- chronolog:end -->
 

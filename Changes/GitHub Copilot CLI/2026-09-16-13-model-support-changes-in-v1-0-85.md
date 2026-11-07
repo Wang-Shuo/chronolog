@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f6b400ef53022af30d6b4ee9ba62aa4413c11ccb8f4dd5b1cfe5a67b288f09d
+machine_hash: b910ba6e5e18c710620cd742a8d43e8cc425fcfad67a064a99d86c7ce74d3633
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -76,8 +76,8 @@ record:
   title: 13 Model Support changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-14-2-model-support-changes-in-v0-34-1|2 Model Support
-  changes in v0.34.1]]'
+- '[[Changes/OpenCode/2026-09-14-core-restored-acp-session-model-effort-mode-and-reasoning-chunk-boundaries-when|Core
+  Restored ACP session model, effort, mode, and reasoning chunk boundaries…]]'
 - '[[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed
   /bug and /feedback reports to include only model-behavior params…]]'
 - '[[Changes/Lovable/2026-09-15-removed-workspace-level-ai-model-training-setting|Removed:

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2fb145cdcfebf83059f1c5f47582d8d803605ece77a118dcb257d288bce4d20b
+machine_hash: f3f14939d26d171897cd70d29e2a31c15a5f1397c92367b92da2f1973de8293f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,12 +41,12 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-30-enable-copilot-spaces-tools-in-github-mcp-server|Enable
-  Copilot Spaces tools in GitHub MCP Server]]'
-- '[[Changes/OpenHands/2025-12-30-added-forgejo-integration-by-johba37-in-https-github-com-openhands-openhands-pul|Added
-  Forgejo integration]]'
+- '[[Changes/OpenCode/2025-12-31-core-display-mcp-tag-for-prompts-in-autocomplete-but-not-in-prompt|Core
+  Display MCP tag for prompts in autocomplete but not in prompt]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-02-mcp-server-type-help-text-displays-correct-options|MCP
   server type help text displays correct options]]'
+- '[[Changes/OpenCode/2026-01-04-18-apps-and-integrations-changes-in-v1-1-1|18 Apps
+  and Integrations changes in v1.1.1]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-01-05-2026-01-05-6c816c7e|elevenlabs-2026-01-05-2026-01-05-6c816c7e]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-mcp-server-type-help-text-displays-correct-options|MCP server type help text displays correct options]]
-- Later: 2026-01-06 · Cline · [[Changes/Cline/2026-01-06-exclude-binary-files-without-extensions-from-diffs|Exclude binary files without extensions from diffs]]
+- Earlier: 2026-01-04 · OpenCode · [[Changes/OpenCode/2026-01-04-18-apps-and-integrations-changes-in-v1-1-1|18 Apps and Integrations changes in v1.1.1]]
+- Later: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-terminal-add-description-for-mcp-command-in-documentation|Terminal Add description for MCP command in documentation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

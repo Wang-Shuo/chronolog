@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c87e592c8abe40540554ce69656f534691cf5485e73eadb2641186eafadc3082
+machine_hash: 7c21d74d706d54415e55c659886a96fee3ceffe625f4a09fb514a4b1f8bd1dd7
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,10 +56,10 @@ record:
     context window
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage
-  report in canvas]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-context-window-changes-in-v1-0-60|2 Context
   Window changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-core-sessions-now-persist-system-context-updates-during-long-running-conversatio|Core
+  Sessions now persist system context updates during long-running conversations]]'
 - '[[Changes/Windsurf/2026-06-06-improved-handling-of-file-context-in-devin-local-agent|Improved
   handling of file context in Devin Local agent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 22b5e45765f14582a8c9f3db4eaabadf5a0446a2c26f73068d894d46af176c32
+machine_hash: 45533d87de23bbfecd7cd72c1f0d7a08298a2373c65f650209987836185ab270
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,7 +50,8 @@ record:
   title: 3 Apps and Integrations changes in v2.1.246
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-24-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Google Antigravity/2026-08-24-model-context-protocol-mcp-and-custom-tool-execution-steps-now-display-structure|Model
+  Context Protocol (MCP) and custom tool execution steps now display structured…]]'
 - '[[Changes/Lovable/2026-08-24-add-an-mcp-registry-from-the-catalog-header|Add an
   MCP registry from the catalog header]]'
 - '[[Changes/Lovable/2026-08-24-let-your-app-s-users-connect-their-own-github-account|Let

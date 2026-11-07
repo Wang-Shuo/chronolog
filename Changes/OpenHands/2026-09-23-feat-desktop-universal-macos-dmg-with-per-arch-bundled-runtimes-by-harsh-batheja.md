@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7f0ae44c0010ac7b3c56f55a21e8656d80992f3baa3e8e1d608169edd15ccc0
+machine_hash: f6bee88f9988c8abd41025d5f0d56f31194795dcb0215ee30b50ad1f2b33eb2c
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(desktop): universal macOS DMG with per-arch bundled runtimes'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-22-rules-are-found-and-shown-consistently-the-rules-panel-listed-only-clinerules-an|Rules
-  are found and shown consistently]]'
 - '[[Changes/Codex CLI/2026-09-22-11-mobile-and-desktop-changes-in-rust-v0-156-0|11
   Mobile and Desktop changes in rust-v0.156.0]]'
 - '[[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile
   and Desktop changes in v2.1.281]]'
+- '[[Changes/OpenClaw/2026-09-23-16-mobile-and-desktop-changes-in-v2026-9-6|16 Mobile
+  and Desktop changes in v2026.9.6]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-23-v1-23-0-github-394895769-626c8feb|openhands-2026-09-23-v1-23-0-github-394895769-626c8feb]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile and Desktop changes in v2.1.281]]
+- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-16-mobile-and-desktop-changes-in-v2026-9-6|16 Mobile and Desktop changes in v2026.9.6]]
 - Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-improved-the-error-shown-on-windows-when-a-session-can-t-be-resumed-because-its|Improved the error shown on Windows when a session can't be resumed because…]]
 <!-- chronolog:end -->
 

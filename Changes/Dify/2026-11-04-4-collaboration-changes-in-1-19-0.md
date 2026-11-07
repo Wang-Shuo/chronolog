@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eec4e16bccade3b73cdeed587e3b255508e8f561477c124af2bbbeb7af2574eb
+machine_hash: 478dd590e3917e1d7b4b43e57e994567783b4950014751f86c1e0e50536c30fc
 product: dify
 product_name: Dify
 record:
@@ -64,10 +64,10 @@ record:
   title: 4 Collaboration changes in 1.19.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-30-see-progress-and-next-steps-when-you-publish|See progress
-  and next steps when you publish]]'
 - "[[Changes/Open WebUI/2026-11-03-new-chats-stay-in-sync-a-chat-started-from-the-home-page-keeps-syncing-with-the|\U0001F503
   New chats stay in sync. A chat started from the home page keeps syncing…]]"
+- '[[Changes/OpenClaw/2026-11-03-6-collaboration-changes-in-v2026-10-10|6 Collaboration
+  changes in v2026.10.10]]'
 - '[[Changes/OpenHands/2026-11-03-2-collaboration-changes-in-v1-35-0|2 Collaboration
   changes in v1.35.0]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'
@@ -123,7 +123,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-2-collaboration-changes-in-v1-35-0|2 Collaboration changes in v1.35.0]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-9-collaboration-changes-in-v1-0-106|9 Collaboration changes in v1.0.106]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-allows-authorized-native-commands-to-restore-archived-source-sessions-and-report|Allows authorized native commands to restore archived source sessions, and reports…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9f4073b2bdfcf27730bc2a91ffa97ebd6d4e861ad85966f95a11ea0700f0b8f2
+machine_hash: 4dc630ed03c15c572ae0884846b4d5bb928cd3a9cd8818959c51c21277050694
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: Added `enforceAvailableModels` managed setting
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-06-10-added-llm-profiles-by-vascosch92-in-https-github-com-openhands-openhands-pull-14|Added
-  LLM profiles]]'
-- '[[Changes/Cline/2026-06-11-handle-the-deepseek-v4-reasoning-format|Handle the DeepSeek
-  V4 reasoning format]]'
+- '[[Changes/Midjourney/2026-06-11-after-your-testing-and-feedback-we-ve-updated-the-default-model-from-v7-to-v8-1|After
+  your testing and feedback, we''ve updated the default model from V7 to V8.1!]]'
+- '[[Changes/Midjourney/2026-06-11-a-reminder-of-what-s-new-in-v8-1|A reminder of
+  what''s new in V8.1]]'
 - '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring
   GPT-5.2 models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-175-github-338335820-6f3a7124|claude-code-2026-06-12-v2-1-175-github-338335820-6f3a7124]]'

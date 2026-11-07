@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0c7e681662d8f43002338281cf0bd871b6fafaec6509c2c160010baebd3eb5de
+machine_hash: 190da216b174a47b60711012352bc3c5cd27ca78a419716703315c24e481896f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 'feat(cli): add models command and --list-models flag for model discovery'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-11-03-2-model-support-changes-in-v0-40-14|2 Model Support
-  changes in v0.40.14]]'
 - '[[Changes/Open WebUI/2026-11-03-4-model-support-changes-in-v0-13-0|4 Model Support
   changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-17-model-support-changes-in-v2026-10-10|17 Model
+  Support changes in v2026.10.10]]'
 - '[[Changes/Dify/2026-11-04-4-model-support-changes-in-1-19-0|4 Model Support changes
   in 1.19.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-11-04-v0-67-0-github-434415349-61471746|gemini-cli-2026-11-04-v0-67-0-github-434415349-61471746]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-4-model-support-changes-in-1-19-0|4 Model Support changes in 1.19.0]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-7-model-support-changes-in-rust-v0-167-0|7 Model Support changes in rust-v0.167.0]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-4-model-support-changes-in-v2026-11-1|4 Model Support changes in v2026.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

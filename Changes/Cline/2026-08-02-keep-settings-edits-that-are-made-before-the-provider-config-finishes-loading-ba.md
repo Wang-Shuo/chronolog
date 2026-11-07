@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79ed454b526cb9f20849649f0576724789fbaf50d1309ba3d0a7a136f51e969e
+machine_hash: d161cf7790be637c4d8c3dc59c0c36e2dd8f64ffd0db8dfb9511ffe1a37747fb
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,10 @@ record:
   title: Keep settings edits that are made before the provider config finishes loading
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-editor-experience-changes-in-v1-0-76|2
-  Editor Experience changes in v1.0.76]]'
-- '[[Changes/Lovable/2026-07-30-change-the-owner-of-several-projects-at-once|Change
-  the owner of several projects at once]]'
+- '[[Changes/OpenCode/2026-07-30-2-editor-experience-changes-in-v1-18-10|2 Editor
+  Experience changes in v1.18.10]]'
+- '[[Changes/OpenCode/2026-08-01-2-editor-experience-changes-in-v1-18-11|2 Editor
+  Experience changes in v1.18.11]]'
 - '[[Changes/Windsurf/2026-08-01-the-edit-write-apply-patch-and-notebook-edit-tools-in-devin-local-now-refuse-to|The
   edit, write, apply_patch, and notebook_edit tools in Devin Local now…]]'
 source_release: '[[Releases/Cline/cline-2026-08-02-v4-1-3-github-363709138-84b1555e|cline-2026-08-02-v4-1-3-github-363709138-84b1555e]]'

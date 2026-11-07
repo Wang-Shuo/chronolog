@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 90071abd73bde1a311707a9c6acd3cb3bb0c97a75fccf1067bd86222678ba0fa
+machine_hash: c51be95188343b508a2320c1ae8ffad7e4f5f2bb26cec77dbbd3e88565e4d28e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -72,12 +72,12 @@ record:
   title: 7 Search and Browsing changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-3-search-and-browsing-changes-in-v2-1-212|3 Search
-  and Browsing changes in v2.1.212]]'
 - '[[Changes/Codex CLI/2026-07-21-3-search-and-browsing-changes-in-rust-v0-145-0|3
   Search and Browsing changes in rust-v0.145.0]]'
 - '[[Changes/Claude Code/2026-07-22-changed-deep-research-to-start-only-when-invoked-manually-claude-no-longer-launc|Changed
   /deep-research to start only when invoked manually]]'
+- '[[Changes/OpenCode/2026-07-24-core-preserve-grep-symlink-paths-in-search-results|Core
+  Preserve grep symlink paths in search results]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases
 theme: search-browsing
@@ -140,7 +140,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-deep-research-to-start-only-when-invoked-manually-claude-no-longer-launc|Changed /deep-research to start only when invoked manually]]
+- Earlier: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-core-preserve-grep-symlink-paths-in-search-results|Core Preserve grep symlink paths in search results]]
 - Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-2-search-and-browsing-changes-in-rust-v0-146-0|2 Search and Browsing changes in rust-v0.146.0]]
 <!-- chronolog:end -->
 

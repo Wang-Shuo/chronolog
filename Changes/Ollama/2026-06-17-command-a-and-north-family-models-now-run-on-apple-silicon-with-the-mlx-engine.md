@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 632315fb1b52fa760a279ff2a9815f4380261d75fc1581a48a5531870de54a08
+machine_hash: f19c6c387b83f15dd4bd93aeb7631e0d2176b87b2bbca34abb5bbcf1c141fe9b
 product: ollama
 product_name: Ollama
 record:
@@ -42,11 +42,11 @@ record:
   title: Command A and North family models now run on Apple Silicon with the MLX engine
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug
-  now requires a description before submitting, and no longer uses…]]'
 - '[[Changes/Codex CLI/2026-06-15-4-model-support-changes-in-rust-v0-140-0|4 Model
   Support changes in rust-v0.140.0]]'
 - '[[Changes/ElevenLabs/2026-06-15-introducing-music-v2|Introducing Music v2]]'
+- '[[Changes/Midjourney/2026-06-16-use-preview-to-test-new-features|Use --preview
+  to test new features]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-17-v0-30-10-github-340587039-e18d776f|ollama-2026-06-17-v0-30-10-github-340587039-e18d776f]]'
 source_type: github_releases
 theme: model-support
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-introducing-music-v2|Introducing Music v2]]
+- Earlier: 2026-06-16 · Midjourney · [[Changes/Midjourney/2026-06-16-use-preview-to-test-new-features|Use --preview to test new features]]
 - Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press send to choose a model]]
 <!-- chronolog:end -->
 

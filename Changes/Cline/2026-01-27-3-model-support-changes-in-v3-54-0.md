@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 309e4c4cc448dc179e74eecf84bd9a806a7a3a2bec705a6af2b0db9e9989452a
+machine_hash: 108eaced0864b98aee985261d7a37d8e8ac37902c6b195eb65594307a451dd5b
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Model Support changes in v3.54.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-24-directory-path-uses-consistent-muted-text-color-with-git-branch-and-model-displa|Directory
-  path uses consistent muted text color with git branch and model display]]'
-- '[[Changes/Codex CLI/2026-01-25-5-model-support-changes-in-rust-v0-90-0|5 Model
-  Support changes in rust-v0.90.0]]'
+- '[[Changes/OpenCode/2026-01-25-9-model-support-changes-in-v1-1-35|9 Model Support
+  changes in v1.1.35]]'
+- '[[Changes/OpenCode/2026-01-25-desktop-fixed-crash-when-no-default-model-is-set|Desktop
+  Fixed crash when no default model is set]]'
 - '[[Changes/ElevenLabs/2026-01-26-elevencreative-studio|ElevenCreative Studio]]'
 source_release: '[[Releases/Cline/cline-2026-01-27-v3-54-0-github-280361451-f31b8c09|cline-2026-01-27-v3-54-0-github-280361451-f31b8c09]]'
 source_type: github_releases

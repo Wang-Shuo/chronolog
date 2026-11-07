@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6670d56e864af24b724ae7954c40dd3ba0eff3911c37584e00855d0b4229c1f1
+machine_hash: 02f782722094ebc96a9402689eb645ec2667feac90809a74118f4674898838e9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -163,7 +163,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Files and Data
 
 - Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-5-files-and-data-changes-in-1-17-0|5 Files and Data changes in 1.17.0]]
-- Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-canvas-windows-open-and-refresh-in-the-background-instead-of-stealing-focus-from|Canvas windows open and refresh in the background instead of stealing focus…]]
+- Later: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-added-support-for-viewing-specific-page-ranges-startpage-and-endpage-in-multi-pa|Added support for viewing specific page ranges (StartPage and EndPage) in multi-page…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

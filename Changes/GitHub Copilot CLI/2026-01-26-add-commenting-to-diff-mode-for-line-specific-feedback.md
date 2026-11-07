@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6cf21a0f618f0f20264f55f0607fa5efd306cf947a7b5caa105565d8b89f8b40
+machine_hash: 824b33cd32731c0051c895aa0596668a9f3719c01aca82fc0014548844414a31
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Add commenting to /diff mode for line-specific feedback
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-22-edit-tool-now-displays-diffs-when-expanded-in-timeline|Edit
-  tool now displays diffs when expanded in timeline]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-22-add-diff-command-to-review-changes-made-during-the-current-session|Add
-  /diff command to review changes made during the current session]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-24-improve-task-completion-with-clearer-detached-process-guidance|Improve
   task completion with clearer detached process guidance]]'
+- '[[Changes/OpenCode/2026-01-25-3-editor-experience-changes-in-v1-1-35|3 Editor Experience
+  changes in v1.1.35]]'
+- '[[Changes/Gamma/2026-01-26-you-can-now-use-color-gradients-on-card-backgrounds|Gradient
+  card backgrounds]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-26-v0-0-395-github-280018620-9ba72686|github-copilot-cli-2026-01-26-v0-0-395-github-280018620-9ba72686]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-24-improve-task-completion-with-clearer-detached-process-guidance|Improve task completion with clearer detached process guidance]]
+- Earlier: 2026-01-26 · Gamma · [[Changes/Gamma/2026-01-26-you-can-now-use-color-gradients-on-card-backgrounds|Gradient card backgrounds]]
 - Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-added-external-editor-shortcut-ctrl-g-to-the-help-menu-for-better-discoverabilit|Added external editor shortcut (Ctrl+G) to the help menu for better discoverability]]
 <!-- chronolog:end -->
 

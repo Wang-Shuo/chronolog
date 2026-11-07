@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa49817a01ebe3e9ce319d9259da19fb589beb6e2bdbb0fdf45cad6bc265f035
+machine_hash: 2c585f041e887af4dcc39ed9de7858979c3a47a6cbe60f438939396759036312
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -43,8 +43,8 @@ record:
   title: '**Transcript downloads**: The dubbing project menu can download target language…'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-2-interface-experience-changes-in-v3-11-212|2 Interface
-  Experience changes in v3.11.212]]'
+- '[[Changes/OpenClaw/2026-10-24-large-batches-of-child-agent-results-now-fit-within-a-bounded-completion-message|Large
+  batches of child-agent results now fit within a bounded completion message…]]'
 - '[[Changes/Open WebUI/2026-10-25-13-interface-experience-changes-in-v0-12-4|13 Interface
   Experience changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed

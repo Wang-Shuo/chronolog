@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 39868bce6a97636a09b11fd9027d175cc5d9391c5002208a199bec7b9dca8231
+machine_hash: cda6ec2c45e3f2db6320e74076d633c130daf84b127e9c65bb9c2c26e7f12a2d
 product: lovable
 product_name: Lovable
 record:
@@ -53,12 +53,12 @@ record:
   title: Set a default design system for each group
   type: change
 related_changes:
-- '[[Changes/Replit/2026-09-11-retrieve-prompt-text-for-compliance-workflows|Retrieve
-  prompt text for compliance workflows]]'
-- '[[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude
-  Tag Improved Claude''s notices in Enterprise Grid channels shared across…]]'
 - '[[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2
   Enterprise and Administration changes in v2.1.277]]'
+- '[[Changes/OpenClaw/2026-09-19-2-enterprise-and-administration-changes-in-v2026-9-5|2
+  Enterprise and Administration changes in v2026.9.5]]'
+- '[[Changes/OpenClaw/2026-09-19-you-can-now-install-the-cli-on-freebsd-with-install-cli-sh-using-system-node-and|Install
+  the CLI on FreeBSD with install-cli.sh using system Node and npm]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-21-2026-09-21-6d2d4d80|lovable-2026-09-21-2026-09-21-6d2d4d80]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2 Enterprise and Administration changes in v2.1.277]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-you-can-now-install-the-cli-on-freebsd-with-install-cli-sh-using-system-node-and|Install the CLI on FreeBSD with install-cli.sh using system Node and npm]]
 - Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5 Enterprise and Administration changes in v0.11.4]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 591e0bf42a28d7be2a562cf8f7186ff8e6d167f8395d232d2448a47de8666764
+machine_hash: e2b576068f06fe1b98b97428183c494457e1d7b1ee2b321c0f0c9d4dd46941a6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,8 @@ record:
   title: "**\U0001F50D Query Generation Issue**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-30-add-zhipuai-web-search-by-aaee86-in-https-github-com-langgenius-dify-pull-8668|add
-  zhipuai web search]]'
+- '[[Changes/Gamma/2024-10-23-browse-your-entire-workspace-s-images-while-editing-any-gamma|Browse
+  your entire workspace’s images while editing any gamma]]'
 - '[[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow
   CodeAct agent to perform web browsing by itself…]]'
 - '[[Changes/Open WebUI/2024-11-19-2-search-and-browsing-changes-in-v0-4-0|2 Search

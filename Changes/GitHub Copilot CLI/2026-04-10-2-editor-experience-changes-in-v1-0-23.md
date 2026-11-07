@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 77e2950ddd3aaa0d8f5f2880a9a76cb28d4fdd79c9d4eb941da17e2c979bfe90
+machine_hash: c4e25de434cb6290f1a1ef76beb6bc71e248670665cc4a2850c280d6979e3116
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Editor Experience changes in v1.0.23
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-08-feat-cli-support-tab-to-queue-for-messages-while-generating-by-gundermanc-in-htt|feat(cli):
-  support ''tab to queue'' for messages while generating]]'
+- '[[Changes/OpenCode/2026-04-08-core-aligned-github-copilot-anthropic-reasoning-levels-and-removed-incorrect-qwe|Core
+  Aligned GitHub Copilot Anthropic reasoning levels and removed incorrect Qwen variants]]'
 - '[[Changes/Claude Code/2026-04-09-2-editor-experience-changes-in-v2-1-98|2 Editor
   Experience changes in v2.1.98]]'
 - '[[Changes/Codex CLI/2026-04-10-16202-fix-paste-driven-bottom-pane-completion-teardown-etraut-openai|♯16202

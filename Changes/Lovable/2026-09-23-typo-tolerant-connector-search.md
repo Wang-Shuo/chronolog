@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 72c5590a7736fe08e8a1a318fe8253317a8dae6584459f79e806206e6dd29014
+machine_hash: cd447254c597fb9b09d5af399282f4288b4f9696febf98840eda7cced126aa94
 product: lovable
 product_name: Lovable
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-integrations|Integrations]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8 Apps and Integrations changes in v2.1.282]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-58-apps-and-integrations-changes-in-v2026-9-6|58 Apps and Integrations changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

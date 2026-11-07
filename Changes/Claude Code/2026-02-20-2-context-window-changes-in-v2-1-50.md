@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86606aa41dcddceaaddd6c7d2c7d2efcc19517f3b918f4d15beeb0ac1da3ae17
+machine_hash: 41b70a425e123b8974981bddbb0063180274b90ebb312bb8d06dc8e81915c13c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Context Window changes in v2.1.50
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-cli-now-stores-conversation-transcripts-that-the-agent-can-use-as-context|CLI
-  now stores conversation transcripts that the agent can use as context]]'
 - '[[Changes/Gemini CLI/2026-02-18-3-context-window-changes-in-v0-29-0|3 Context Window
   changes in v0.29.0]]'
+- '[[Changes/OpenCode/2026-02-19-core-emit-prompt-too-large-error-when-github-context-overflows|Core
+  Emit PROMPT_TOO_LARGE error when GitHub context overflows]]'
 - '[[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|Expanded
   context window for Thinking]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'

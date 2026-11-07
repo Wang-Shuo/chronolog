@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d57dfbce37f95c198e464da796ddbcb3989e9f5be622c1f193df462bbd7630c7
+machine_hash: 2a8d42c93da731bf9e5da25181dd3f263345ca82ee163934c2478893d53d5764
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.89
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-sdk-releases|SDK releases]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This is a limited preview with participating integrations]]
+- Later: 2026-09-28 · Google Antigravity · [[Changes/Google Antigravity/2026-09-28-manage-install-plugins-in-agy|Manage & Install plugins in AGY]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

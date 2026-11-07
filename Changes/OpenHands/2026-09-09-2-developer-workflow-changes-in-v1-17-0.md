@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e88eb4d8e6219f0dbc0f47fa586c34c42743636e7c926dcb4c79c301e5bd43f4
+machine_hash: 68087c53b44cc173a2c0aea2f931b09b478590f41245f9deb3376ff733273008
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in v1.17.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer
-  Workflow changes in v2.1.265]]'
 - '[[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer
   Workflow changes in v2.1.267]]'
 - '[[Changes/Codex CLI/2026-09-09-7-developer-workflow-changes-in-rust-v0-154-0|7
   Developer Workflow changes in rust-v0.154.0]]'
+- '[[Changes/Google Antigravity/2026-09-09-2-developer-workflow-changes-in-hub-v2-13-0-introducing-new-documents|2
+  Developer Workflow changes in HUB v2.13.0 — Introducing new Documents…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-09-v1-17-0-github-385787922-b4569793|openhands-2026-09-09-v1-17-0-github-385787922-b4569793]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,7 +84,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-7-developer-workflow-changes-in-rust-v0-154-0|7 Developer Workflow changes in rust-v0.154.0]]
+- Earlier: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-2-developer-workflow-changes-in-hub-v2-13-0-introducing-new-documents|2 Developer Workflow changes in HUB v2.13.0 — Introducing new Documents…]]
 - Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-code-review-added-a-note-under-the-still-open-findings-list-in-follow-up-reviews|Code Review Added a note under the still-open findings list in follow-up reviews]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ef23015df77bfd031220e38ff95a621b81d8b2ec6587d199979dd182277ec4b
+machine_hash: 097cbd7cffacba53d7d542305a2043f2613d5ceda0e988b7de1ebf95adb46256
 product: cline
 product_name: Cline
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-12-12 · v0 · [[Changes/v0/2025-12-12-v0-pro-superior-performance-for-most-tasks|v0 Pro : Superior performance for most tasks]]
-- Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-8216-speed-and-reliability-improvements-for-setting-reads-acls|♯8216 speed and reliability improvements for setting reads ACLs]]
+- Later: 2025-12-17 · Gamma · [[Changes/Gamma/2025-12-17-for-faster-results-submit-your-url-through-google-search-console|For faster results, submit your URL through Google Search Console]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b39187fa1a518e3a98500c7f77bd3f2e60f4712cacc9697e4a7fbfb59ed2480c
+machine_hash: 8744aee7dbe387d79085518c4186c0361e43d2c0bec8406fe2ba2d283df9f416
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,9 @@ record:
     crashes…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-12-sdk-releases|SDK releases]]'
 - '[[Changes/Lovable/2026-10-12-connect-your-app-to-loops|Connect your app to Loops]]'
+- '[[Changes/OpenClaw/2026-10-12-5-apps-and-integrations-changes-in-v2026-10-2|5 Apps
+  and Integrations changes in v2026.10.2]]'
 - '[[Changes/OpenHands/2026-10-12-3-apps-and-integrations-changes-in-v1-27-0|3 Apps
   and Integrations changes in v1.27.0]]'
 source_release: '[[Releases/Cline/cline-2026-10-13-v4-1-24-github-411804449-05899922|cline-2026-10-13-v4-1-24-github-411804449-05899922]]'

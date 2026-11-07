@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77cebf912d832de9184f0a1bb5282e2855a32f714a444e0e9150754419816b6b
+machine_hash: fbb2a54783d4fac9a84b98449f901c2d210ec0c762b97841dcc92c2c06ad7a01
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-9674-feat-app-server-expose-personality-dylan-hurd-oai|♯9674 feat(app-server) Expose personality @dylan-hurd-oai]]
-- Later: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-better-handle-large-results-from-grep-and-glob-tools-to-avoid-memory-issues|Better handle large results from grep and glob tools to avoid memory issues]]
+- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-2-memory-and-personalization-changes-in-v1-1-37|2 Memory and Personalization changes in v1.1.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

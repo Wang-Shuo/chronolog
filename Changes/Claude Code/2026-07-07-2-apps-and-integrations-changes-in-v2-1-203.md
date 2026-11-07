@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c63cabf95dd54e32cd7bdba9c6cc5a46d7d2dee24fd62196efb793073e5bc864
+machine_hash: 7374ba8424fb1e5617a96364ebe1924aef57f631be6ea1028d9d441e87fe1534
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,7 +43,8 @@ record:
   title: 2 Apps and Integrations changes in v2.1.203
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-06-elevenagents|ElevenAgents]]'
+- '[[Changes/OpenCode/2026-07-06-added-a-code-mode-mcp-adapter-for-running-confined-orchestration-scripts-against|Added
+  a code mode MCP adapter for running confined orchestration scripts against…]]'
 - '[[Changes/OpenHands/2026-07-06-7-apps-and-integrations-changes-in-1-9-0|7 Apps
   and Integrations changes in 1.9.0]]'
 - '[[Changes/Claude/2026-07-07-write-tools-for-the-microsoft-365-connector|Write tools

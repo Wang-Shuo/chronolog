@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31978c0d303188241cb1e53260a10f33bba094b551ac26e26f9606d74d6eaff5
+machine_hash: 4c5448d41b0e4a317ad30460ce69bfc87e98fc45921e9244089f4239ee0ba090
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Safety and Privacy changes in v2.1.149
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-add-security-review-slash-command-to-review-code-changes-for-security-vulnerabil|Add
-  /security-review slash command to review code changes for security…]]'
+- '[[Changes/OpenCode/2026-05-20-core-invalid-opencode-permission-json-no-longer-crashes-startup|Core
+  Invalid OPENCODE_PERMISSION JSON no longer crashes startup]]'
 - '[[Changes/Claude/2026-05-21-claude-now-works-with-more-security-and-compliance-tools|Claude
   now works with more security and compliance tools]]'
 - '[[Changes/Codex CLI/2026-05-21-17-safety-and-privacy-changes-in-rust-v0-133-0|17

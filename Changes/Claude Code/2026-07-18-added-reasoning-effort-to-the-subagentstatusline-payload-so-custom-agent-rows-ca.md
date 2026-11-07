@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6eaa236ccd99ab39ab09d1f7e1215216ea46ae3d6cf555807aaed4788cdd9290
+machine_hash: aaaa9a2ae1128ecf92a56dce3bbb7527d781d431d82666d06c5976ff9be4b022
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,8 +55,8 @@ record:
     rows can…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent
-  Mode changes in v1.0.71]]'
+- '[[Changes/OpenCode/2026-07-16-desktop-fixed-custom-agent-selector-visibility-when-custom-agents-are-available|Desktop
+  Fixed custom agent selector visibility when custom agents are available]]'
 - '[[Changes/Claude Code/2026-07-17-7-agent-mode-changes-in-v2-1-212|7 Agent Mode
   changes in v2.1.212]]'
 - '[[Changes/Dify/2026-07-17-64-agent-mode-changes-in-1-16-0|64 Agent Mode changes

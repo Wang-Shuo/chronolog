@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c28b6fcc1cb62cadb858c2eb0be9a0cff958e4047cd814011bed7d46a833b3c0
+machine_hash: 8a83938f80d4bd8f887d955e7cb92aa7ce2b66a214f0d53dd21a2ce41cc20126
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Model Support changes in rust-v0.104.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-17-11699-chore-rm-remote-models-fflag-sayan-oai|♯11699
-  chore: rm remote models fflag @sayan-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-2-model-support-changes-in-v0-0-411|2 Model
   Support changes in v0.0.411]]'
+- '[[Changes/Midjourney/2026-02-17-please-note|Please Note]]'
 - '[[Changes/Open WebUI/2026-02-17-4-model-support-changes-in-v0-8-3|4 Model Support
   changes in v0.8.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-18-rust-v0-104-0-github-287549221-f2e69b34|codex-cli-2026-02-18-rust-v0-104-0-github-287549221-f2e69b34]]'

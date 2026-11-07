@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35f0adb6e635cb87aac897928393012e9d2daf4a1669ecf93cbc50c081f670d6
+machine_hash: 392eeb86f76399c11b11292618f0fde93d95d223fdc8b9f25df3ee7743684a6b
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Model Support changes in v2.1.111
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger
-  the model picker from anywhere to switch models without clearing your prompt first]]'
+- '[[Changes/Midjourney/2026-04-14-thanks-for-testing-our-v8-0-model-over-the-last-month-today-we-re-releasing-our|Thanks
+  for testing our V8.0 model over the last month!]]'
 - '[[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model
   Support changes in rust-v0.121.0]]'
 - '[[Changes/Claude/2026-04-16-claude-opus-4-7-launch|Claude Opus 4.7 launch]]'

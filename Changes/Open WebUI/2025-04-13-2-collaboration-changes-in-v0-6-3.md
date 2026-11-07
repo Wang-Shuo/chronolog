@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95c722068de6c065ae3a644199666483de8d1fe1550070034bfc5de8d85e5243
+machine_hash: 93fd68140970007cb4d55011454aad0b012b06328a54d479c7166001c400e579
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Collaboration changes in v0.6.3
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-03-21-we-heard-the-issues-you-ve-shared-with-us-and-we-re-working-hard-to-fix-them-all|We
-  heard the issues you''ve shared with us and we''re working hard to fix them all]]'
 - '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
   indexing performance for teams sharing codebases]]'
+- '[[Changes/Midjourney/2025-03-30-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v7-with-you-soon|Thank
+  you so much for your help!]]'
 - '[[Changes/Dify/2025-04-09-hello-community-we-re-excited-to-share-our-v1-2-0-update-with-you-it-s-packed-wi|Hello
   community!]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-13-v0-6-3-github-212047861-826c6203|open-webui-2025-04-13-v0-6-3-github-212047861-826c6203]]'

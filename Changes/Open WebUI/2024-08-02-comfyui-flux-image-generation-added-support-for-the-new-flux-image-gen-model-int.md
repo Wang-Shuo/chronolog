@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5a8a0582aef3940da4b116c0f8b3b1a797f7a90572feef56a682be59810ce57f
+machine_hash: 16a83cdfea637ac866392f89db05a13b507dc298fc05704ddd0ff4a5e0197390
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,10 +55,10 @@ record:
   title: "**\U0001F579️ ComfyUI Flux Image Generation**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-03-24-image-generation-comfyui-image-generation-now-supports-comfyui|\U0001F3A8
-  Image Generation ComfyUI: Image generation now supports ComfyUI]]"
-- "[[Changes/Open WebUI/2024-05-02-image-generation-compatibility-issue-rectified-image-generation-compatibility-is|\U0001F310
-  Image Generation Compatibility Issue]]"
+- "[[Changes/Suno/2024-05-22-pro-and-premier-members-now-have-the-ability-to-upload-profile-cover-and-playlis|\U0001F5BC️
+  Customize Images (Pro and Premier)]]"
+- '[[Changes/Gamma/2024-06-05-ai-images-are-more-powerful-than-ever-in-gamma-you-can-now-generate-in-a-consist|AI
+  image improvements]]'
 - '[[Changes/Dify/2024-06-28-2-image-generation-changes-in-0-6-12|2 Image Generation
   changes in 0.6.12]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87|open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87]]'

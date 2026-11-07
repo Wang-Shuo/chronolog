@@ -48,10 +48,11 @@ def html_blocks(root: Tag) -> list[dict]:
     for ignored in root.select("script, style, nav, footer, button, svg, pre, table, .hash-link"):
         ignored.decompose()
     blocks = []
+    contained_list_items = {id(item) for item in root.find_all("li")} | ({id(root)} if root.name == "li" else set())
     for node in root.find_all(["h1", "h2", "h3", "h4", "p", "li"]):
         # A list item already contains its paragraphs; child list items are kept
         # separately so nested lists don't duplicate their parent text.
-        if node.name == "p" and node.find_parent("li"):
+        if node.name == "p" and id(node.find_parent("li")) in contained_list_items:
             continue
         if node.name == "li":
             clone = BeautifulSoup(str(node), "html.parser").li

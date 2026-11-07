@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 430a462e4e8a81c4df292703e4fb9f373375371b7bf8028d122146e673059793
+machine_hash: 0e9929fe0baa83267194d0e940e979df28b8f6b5d1ac7c54802a0072e0677dcc
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,10 +58,10 @@ record:
   title: Added `/ultrareview` for running comprehensive code review in the cloud using…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In
-  the Agents Window, canvases are durable artifacts that live in the side panel…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-15-2-developer-workflow-changes-in-v1-0-27|2
   Developer Workflow changes in v1.0.27]]'
+- '[[Changes/OpenCode/2026-04-15-2-developer-workflow-changes-in-v1-4-4|2 Developer
+  Workflow changes in v1.4.4]]'
 - '[[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer
   Workflow changes in v2.1.111]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-2-developer-workflow-changes-in-v1-0-27|2 Developer Workflow changes in v1.0.27]]
+- Earlier: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-2-developer-workflow-changes-in-v1-4-4|2 Developer Workflow changes in v1.4.4]]
 - Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-terminal-state-correctly-restored-after-a-crash-exit-on-windows|Terminal state correctly restored after a crash exit on Windows]]
 <!-- chronolog:end -->
 

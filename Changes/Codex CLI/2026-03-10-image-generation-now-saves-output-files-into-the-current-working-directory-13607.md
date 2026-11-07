@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9953bde7caaf2bbc761bd4b740de4e76788598424f30d85bd1acca9d294ae237
+machine_hash: 33903f33dfb10f48c9492d33f7ccb59033ab2ff01c9f95b015c967835c62212b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,7 +42,8 @@ record:
   title: Image generation now saves output files into the current working directory
   type: change
 related_changes:
-- '[[Changes/Replit/2026-02-20-video-stack|Video Stack]]'
+- '[[Changes/Runway/2026-02-27-the-most-advanced-and-consistent-image-generation-and-editing-model-now-availabl|Nano
+  Banana 2]]'
 - '[[Changes/Codex CLI/2026-03-05-expanded-image-workflow-support-for-clients-including-client-side-handling-of-im|Expanded
   image workflow support for clients, including client-side handling…]]'
 - "[[Changes/Open WebUI/2026-03-08-image-generation-in-temporary-chats-generated-images-now-display-correctly-in-te|\U0001F58C️

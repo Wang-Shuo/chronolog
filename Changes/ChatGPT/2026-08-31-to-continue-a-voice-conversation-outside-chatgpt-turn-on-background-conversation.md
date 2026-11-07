@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8683d830011011bcbcce02558e247da1567581da13c5d8b2d0c5fafb8cf71f83
+machine_hash: b60697bd198f31b8cc03cdc1567fa89d45d0e02a9b635d9939a739e8f57e51c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-use-ctrl-space-to-toggle-voice-dictation|Use Ctrl+Space to toggle voice dictation]]
-- Later: 2026-09-02 · Ollama · [[Changes/Ollama/2026-09-02-gemma4-now-supports-images-and-audio-on-mlx-engine|gemma4 now supports images and audio on MLX engine]]
+- Later: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-2-voice-and-audio-changes-in-v2026-8-1|2 Voice and Audio changes in v2026.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

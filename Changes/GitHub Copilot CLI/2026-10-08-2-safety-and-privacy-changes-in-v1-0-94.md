@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4aff7975e993f157d60c8a626338356982c21ed113fce5926b1984c38a7a4ebc
+machine_hash: eac59e076071fbbcec3ebc0a9fa4259d0578b3c4a59b4c92caa34cdd66051e98
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Safety and Privacy changes in v1.0.94
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-07-2-safety-and-privacy-changes-in-v1-0-93|2
-  Safety and Privacy changes in v1.0.93]]'
+- '[[Changes/Google Antigravity/2026-10-07-on-macos-if-privacy-settings-block-antigravity-from-reading-a-file-or-folder-you|On
+  macOS, if privacy settings block Antigravity from reading a file or folder you…]]'
 - '[[Changes/Claude Code/2026-10-08-5-safety-and-privacy-changes-in-v2-1-295|5 Safety
   and Privacy changes in v2.1.295]]'
 - '[[Changes/Codex CLI/2026-10-08-13-safety-and-privacy-changes-in-rust-v0-162-0|13
@@ -86,7 +86,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.94
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-13-safety-and-privacy-changes-in-rust-v0-162-0|13 Safety and Privacy changes in rust-v0.162.0]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety and Privacy changes in v2.1.296]]
+- Later: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-windows-mxc-sandbox-the-optional-mxc-sandbox-can-start-and-run-tools-on-compatib|Windows MXC sandbox]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 13c5bde1bfc594544a1583ad9fdab840a30c73628129621afdb6620a0982715a
+machine_hash: ef66c7b187cff0b3af75226f3787cee1752b684687fdf156fa8fc2facedc29c8
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
     task state
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-24-mlx-engine-now-has-improved-memory-usage|MLX engine
-  now has improved memory usage]]'
 - '[[Changes/Codex CLI/2026-02-25-3-reliability-and-performance-changes-in-rust-v0-105-0|3
   Reliability and Performance changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-2-reliability-and-performance-changes-in-v0-30-0|2
   Reliability and Performance changes in v0.30.0]]'
+- '[[Changes/Google Antigravity/2026-02-25-stability-and-ui-improvements|Stability
+  and UI Improvements]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217]]'
 source_type: github_releases
 theme: reliability-performance
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-2-reliability-and-performance-changes-in-v0-30-0|2 Reliability and Performance changes in v0.30.0]]
+- Earlier: 2026-02-25 · Google Antigravity · [[Changes/Google Antigravity/2026-02-25-stability-and-ui-improvements|Stability and UI Improvements]]
 - Later: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-2-reliability-and-performance-changes-in-rust-v0-106-0|2 Reliability and Performance changes in rust-v0.106.0]]
 <!-- chronolog:end -->
 

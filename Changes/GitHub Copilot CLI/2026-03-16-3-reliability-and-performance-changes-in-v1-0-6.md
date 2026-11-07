@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd90cb29fa86e402eec4cb09fee634b4d8eb4a93322ebec50457882654efe71e
+machine_hash: a872cd4f3d620b4ce971e3a920a1df6e8df303a19bb9e39db289b136f1094892
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Reliability and Performance changes in v1.0.6
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
-  actionable suggestions to /context command]]'
+- '[[Changes/OpenCode/2026-03-12-desktop-trim-session-render-work-in-app-for-improved-performance|Desktop
+  Trim session render work in app for improved performance]]'
 - '[[Changes/v0/2026-03-12-improved-code-server-loading-speed-for-fresh-vms|Improved
   code-server loading speed for fresh VMs]]'
 - '[[Changes/Ollama/2026-03-14-4-reliability-and-performance-changes-in-v0-18-0|4

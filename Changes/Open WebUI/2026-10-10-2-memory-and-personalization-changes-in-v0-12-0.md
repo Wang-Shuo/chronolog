@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6191f8bfa6ea463e0b0b89b2f5b6d8a9ce61d45fa51517222659cfb28986126
+machine_hash: ee5a48ec64fa59695c74433f2ad4e32bbd7d5c8f83285cf47fc8f99f820e6c0a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,12 +52,11 @@ record:
   title: 2 Memory and Personalization changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49000-isolate-the-memory-startup-metadata-test-from-git-enrichment-jif-oai|♯49000
-  Isolate the memory startup metadata test from Git enrichment @jif-oai]]'
-- '[[Changes/Codex CLI/2026-10-07-49876-remove-personality-plumbing-from-the-tui-etraut-openai|♯49876
-  Remove personality plumbing from the TUI @etraut-openai]]'
 - '[[Changes/Codex CLI/2026-10-08-51223-remove-legacy-personality-template-metadata-rhan-oai|♯51223
   Remove legacy personality template metadata @rhan-oai]]'
+- '[[Changes/Midjourney/2026-10-08-organization-improvements|ORGANIZATION IMPROVEMENTS]]'
+- '[[Changes/OpenClaw/2026-10-08-2-memory-and-personalization-changes-in-v2026-9-9|2
+  Memory and Personalization changes in v2026.9.9]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: memory
@@ -108,8 +107,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-51223-remove-legacy-personality-template-metadata-rhan-oai|♯51223 Remove legacy personality template metadata @rhan-oai]]
-- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-memory-in-automations-automations-now-get-the-memory-tools-when-the-user-has-mem|🧠 Memory in automations. Automations now get the memory tools when the user has…]]
+- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-2-memory-and-personalization-changes-in-v2026-9-9|2 Memory and Personalization changes in v2026.9.9]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-13-memory-and-personalization-changes-in-v2026-10-1|13 Memory and Personalization changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

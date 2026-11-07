@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e9a1eb007d47bee2be558c4331258bba31e677cb2cefbdcc82475dd5b442fb1b
+machine_hash: ecc47080900c16b0b0935d204b6613c2941490afa066c862936442d45d7384c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     button…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode
-  Changed the session list side bar to load Web sessions when the Web tab…]]'
-- '[[Changes/ElevenLabs/2026-10-26-2-editor-experience-changes-in-elevenlabs-updates-2026-10-26|2
-  Editor Experience changes in ElevenLabs updates — 2026-10-26]]'
+- '[[Changes/Google Antigravity/2026-10-26-markdown-previews-and-overview-sections-in-new-side-panel-tabs|Markdown
+  previews and overview sections in new side panel tabs]]'
+- '[[Changes/Google Antigravity/2026-10-26-2-editor-experience-changes-in-ide-v2-6-0-gemini-4-argon-refreshed|2
+  Editor Experience changes in IDE v2.6.0 — Gemini 4 Argon, Refreshed…]]'
 - '[[Changes/Lovable/2026-10-26-scroll-through-all-files-in-the-files-tab|Scroll through
   all files in the Files tab]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-26 · Lovable · [[Changes/Lovable/2026-10-26-scroll-through-all-files-in-the-files-tab|Scroll through all files in the Files tab]]
-- Later: 2026-10-28 · Windsurf · [[Changes/Windsurf/2026-10-28-in-devin-local-some-tool-requests-such-as-web-fetches-and-multi-file-edits-now-c|In Devin Local, some tool requests, such as web fetches and multi-file edits, now…]]
+- Later: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-2-editor-experience-changes-in-hub-v2-28-0-built-in-browser|2 Editor Experience changes in HUB v2.28.0 — Built-in browser…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

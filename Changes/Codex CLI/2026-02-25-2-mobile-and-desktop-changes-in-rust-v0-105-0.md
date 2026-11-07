@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f272a5b0a5dbe8c0bf18864c372485848a624becddd44718af170f9d9eb058b1
+machine_hash: 89f0495e18cd9b2feb8502a931413ce02fb93f2306cda1f9011d10d329225e68
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-feat-expand-verify-release-to-macos-and-windows-by-yunaseoul-in-https-github-com|feat:
-  expand verify-release to macOS and Windows]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-19-terminal-editor-is-now-supported-on-windows|Terminal
-  editor is now supported on Windows]]'
+- '[[Changes/OpenCode/2026-02-20-2-mobile-and-desktop-changes-in-v1-2-10-1|2 Mobile
+  and Desktop changes in v1.2.10 + 1]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-23-skill-files-saved-with-a-utf-8-bom-common-on-windows-editors-now-load-correctly|Skill
   files saved with a UTF-8 BOM (common on Windows editors) now load correctly…]]'
+- '[[Changes/OpenCode/2026-02-24-24-mobile-and-desktop-changes-in-v1-2-11|24 Mobile
+  and Desktop changes in v1.2.11]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -95,8 +95,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-23-skill-files-saved-with-a-utf-8-bom-common-on-windows-editors-now-load-correctly|Skill files saved with a UTF-8 BOM (common on Windows editors) now load correctly…]]
-- Later: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-2-mobile-and-desktop-changes-in-rust-v0-106-0|2 Mobile and Desktop changes in rust-v0.106.0]]
+- Earlier: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-24-mobile-and-desktop-changes-in-v1-2-11|24 Mobile and Desktop changes in v1.2.11]]
+- Later: 2026-02-25 · OpenCode · [[Changes/OpenCode/2026-02-25-2-mobile-and-desktop-changes-in-v1-2-14-1|2 Mobile and Desktop changes in v1.2.14 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

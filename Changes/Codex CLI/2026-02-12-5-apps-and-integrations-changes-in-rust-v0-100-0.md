@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1dc205fda3379db0f810f0a1fe0b4d479768a1589b8f713b36f3b571ce9e6d7f
+machine_hash: c686f6ecd8c32a0bc6b32b7a37116d4999969597dba2a2b3b97ebcf76b32f97d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 5 Apps and Integrations changes in rust-v0.100.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-11-10-apps-and-integrations-changes-in-1-13-0|10 Apps and
-  Integrations changes in 1.13.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-3-apps-and-integrations-changes-in-v0-0-407|3
   Apps and Integrations changes in v0.0.407]]'
+- '[[Changes/OpenCode/2026-02-11-sdk-encode-non-ascii-directory-paths-in-v1-sdk-http-headers|SDK
+  Encode non-ASCII directory paths in v1 SDK HTTP headers]]'
 - '[[Changes/Cline/2026-02-12-2-apps-and-integrations-changes-in-v3-58-0|2 Apps and
   Integrations changes in v3.58.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6|codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6]]'

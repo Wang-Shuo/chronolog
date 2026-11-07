@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a9208846d4c95316dfe88d9b996cff13dc30dc58cb0d418356c1973925f057d
+machine_hash: 835f38c6d236252641088e149af147fec738918b76bc64031d31919f804608af
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-27 · ChatGPT · [[Changes/ChatGPT/2026-10-27-icloud-users-can-now-connect-mail-and-calendar-to-chatgpt-to-find-emails-catch-u|iCloud users can now connect Mail and Calendar to ChatGPT to find emails, catch up…]]
-- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-6-automation-and-scheduling-changes-in-v1-34-0|6 Automation and Scheduling changes in v1.34.0]]
+- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-4-automation-and-scheduling-changes-in-v2026-10-8|4 Automation and Scheduling changes in v2026.10.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

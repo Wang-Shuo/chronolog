@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd1774abe4ee57e949610710dae4a22655fb90f5f3915ab7f33f8c4d108a4446
+machine_hash: c0fd1dec6454025944eb4ab74f223c3f34291bbfef3e95db01041f646dfe234f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.136
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-07-over-the-coming-weeks-we-ll-be-rolling-out-trusted-contact-an-optional-safety-fe|Trusted
-  contact in ChatGPT]]'
 - '[[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|Added
   sandbox.bwrapPath and sandbox.socatPath managed settings (Linux/WSL)…]]'
 - '[[Changes/Codex CLI/2026-05-07-11-safety-and-privacy-changes-in-rust-v0-129-0|11
   Safety and Privacy changes in rust-v0.129.0]]'
+- '[[Changes/OpenCode/2026-05-07-desktop-allow-trusted-app-windows-to-write-to-the-clipboard-without-permission-f|Desktop
+  Allow trusted app windows to write to the clipboard without permission failures]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-11-safety-and-privacy-changes-in-rust-v0-129-0|11 Safety and Privacy changes in rust-v0.129.0]]
+- Earlier: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-desktop-allow-trusted-app-windows-to-write-to-the-clipboard-without-permission-f|Desktop Allow trusted app windows to write to the clipboard without permission failures]]
 - Later: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-2-safety-and-privacy-changes-in-rust-v0-130-0|2 Safety and Privacy changes in rust-v0.130.0]]
 <!-- chronolog:end -->
 

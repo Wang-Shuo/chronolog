@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 06de0369b9ec91d4363c9595bf564d3e0267aa2d118e81249f063bfd45a8049e
+machine_hash: 6979e4da3a3dae41eef1f1b73c75fe2f8a883391623652faa7d1fc55fe640bcf
 product: dify
 product_name: Dify
 record:
@@ -64,10 +64,10 @@ record:
   title: 6 Files and Data changes in 1.19.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-29-2-files-and-data-changes-in-v0-12-5|2 Files and
-  Data changes in v0.12.5]]'
 - '[[Changes/ElevenLabs/2026-11-02-2-files-and-data-changes-in-elevenlabs-updates-2026-11-02|2
   Files and Data changes in ElevenLabs updates — 2026-11-02]]'
+- '[[Changes/OpenClaw/2026-11-03-2-files-and-data-changes-in-v2026-10-10|2 Files and
+  Data changes in v2026.10.10]]'
 - '[[Changes/OpenHands/2026-11-03-feat-canvas-attribute-local-cloud-signup-entries-all-5962-by-malhotra5-in-https|feat(canvas):
   attribute local Cloud signup entries (ALL-5962)]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3041889dec5aa2ba80e2ca80f4f59d668b511c25d7902a5552db48807b944fac
+machine_hash: f846a198f1ac42eb552b3c54da381190f3457ff74cc1fb51151d5dc9b03eb153
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v0.34.3
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-17-test-isolate-mock-llm-profiles-from-ambient-secrets-by-neubig-in-https-github-co|test:
-  isolate Mock-LLM profiles from ambient secrets]]'
-- '[[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed
-  Fable to always appear in /model on the Anthropic API]]'
 - '[[Changes/Codex CLI/2026-09-18-2-model-support-changes-in-rust-v0-155-1|2 Model
   Support changes in rust-v0.155.1]]'
+- '[[Changes/Google Antigravity/2026-09-18-a-malformed-tool-call-from-the-model-now-appears-as-a-short-invalid-tool-call-no|A
+  malformed tool call from the model now appears as a short "Invalid tool call" note…]]'
+- '[[Changes/Runway/2026-09-18-kling-o3-4k-kling-3-0-standard-kling-o3-standard-and-kling-3-0-motion-control-ar|Kling
+  Models on Runway MCP]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-19-v0-34-3-github-391835331-b8a80fbd|ollama-2026-09-19-v0-34-3-github-391835331-b8a80fbd]]'
 source_type: github_releases
 theme: model-support
@@ -81,8 +81,8 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.34.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-18 · Codex CLI · [[Changes/Codex CLI/2026-09-18-2-model-support-changes-in-rust-v0-155-1|2 Model Support changes in rust-v0.155.1]]
-- Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-text-to-speech-576ca6|Text to Speech]]
+- Earlier: 2026-09-18 · Runway · [[Changes/Runway/2026-09-18-kling-o3-4k-kling-3-0-standard-kling-o3-standard-and-kling-3-0-motion-control-ar|Kling Models on Runway MCP]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-28-model-support-changes-in-v2026-9-5|28 Model Support changes in v2026.9.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d994b0e94955fa4cc463f293f1454cd2d8d3955753d22019a904aaaa41648783
+machine_hash: c6efdb0ba90e0e01539c978d3cb0fed8f6936beb886ae5a979c541f515724004
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
     send…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-improved-screen-reader-output-in-mcp-a-disabled-server-is-read-as-off-instead-of|Improved
-  screen-reader output in /mcp]]'
+- '[[Changes/OpenClaw/2026-09-23-localization-maintenance-removes-entries-whose-interface-text-has-already-been-r|Localization
+  maintenance removes entries whose interface text has already been…]]'
 - '[[Changes/Claude Code/2026-10-01-changed-screen-reader-mode-to-write-new-or-changed-lines-without-first-pausing-w|Changed
   screen reader mode to write new or changed lines without first pausing…]]'
 - '[[Changes/Claude Code/2026-10-02-2-accessibility-and-localization-changes-in-v2-1-288|2
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-2-accessibility-and-localization-changes-in-v2-1-288|2 Accessibility and Localization changes in v2.1.288]]
-- Later: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-vscode-added-a-running-start-up-hooks-spinner-status-with-a-screen-reader-announ|VSCode Added a "Running start-up hooks" spinner status, with a screen reader…]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-2-accessibility-and-localization-changes-in-v2026-10-1|2 Accessibility and Localization changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

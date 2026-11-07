@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4da98e205b11c5c319ee59f1553f6d795e3ea36793ce6e205a07128c24d67b8b
+machine_hash: 4f2a622c792109cc40d69a1d65ea6c970302d6c30f6e1e6b7d49501b4cdc3812
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Interface Experience changes in v0.1.119
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-04-04-latex-chat-screen-overflow-fixed-screen-overflow-issue-with-latex-rendering|\U0001F4DC
-  LaTeX Chat Screen Overflow: Fixed screen overflow issue with LaTeX rendering]]"
+- '[[Changes/Runway/2024-04-05-a-redesigned-gen-2-user-interface-that-makes-even-our-most-complex-tools-easier|Updated
+  Gen-2 UI]]'
 - '[[Changes/Cursor/2024-04-12-cursor-help-pane-beta-you-can-also-ask-cursor-about-cursor-the-cursor-help-pane|Cursor
   Help Pane (Beta): You can also ask Cursor about Cursor!]]'
 - '[[Changes/Dify/2024-04-16-chore-improve-reference-variable-picker-user-experience-by-iamjoel-in-https-gith|chore:

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 30962449d182eaac1bcf382aba9c6b44f9701b2be31684fd76b6ac3980e5304c
+machine_hash: 7a40293952eba9d086a33bb3088960f1cd623959bbd4010f44a7e52c8db15fe2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -80,12 +80,12 @@ record:
   title: ChatGPT for Excel and Google Sheets
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-claude-auth-login-now-accepts-the-oauth-code-pasted-into-the-terminal-when-the-b|claude
-  auth login now accepts the OAuth code pasted into the terminal…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-2-account-and-access-changes-in-v1-0-40|2
   Account and Access changes in v1.0.40]]'
 - '[[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels
   now works with console (API key) authentication]]'
+- '[[Changes/OpenCode/2026-05-04-2-account-and-access-changes-in-v1-14-34|2 Account
+  and Access changes in v1.14.34]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0|chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0]]'
 source_type: chatgpt_changelog
 theme: account-access
@@ -112,7 +112,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels now works with console (API key) authentication]]
+- Earlier: 2026-05-04 · OpenCode · [[Changes/OpenCode/2026-05-04-2-account-and-access-changes-in-v1-14-34|2 Account and Access changes in v1.14.34]]
 - Later: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-cli-starts-faster-by-rendering-the-ui-immediately-while-authentication-resolves|CLI starts faster by rendering the UI immediately while authentication resolves…]]
 <!-- chronolog:end -->
 

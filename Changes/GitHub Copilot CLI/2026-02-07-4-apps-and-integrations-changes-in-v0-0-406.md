@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ebc142a2230c0dadeaf595933fe5b845e99e0aaf0e4bf850769eba31350d0167
+machine_hash: 4861c74fa3f48c01bded1e5897da2b02b949511bbf5f5a1bbcd3f55e491ffae9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 4 Apps and Integrations changes in v0.0.406
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-2-apps-and-integrations-changes-in-v0-0-403|2
-  Apps and Integrations changes in v0.0.403]]'
-- '[[Changes/Lovable/2026-02-05-custom-mcp-servers-on-all-paid-plans|Custom MCP servers
-  on all paid plans]]'
+- '[[Changes/OpenCode/2026-02-05-load-user-plugins-after-built-in-plugins|Load user
+  plugins after built-in plugins]]'
+- '[[Changes/OpenCode/2026-02-05-2-apps-and-integrations-changes-in-v1-1-53|2 Apps
+  and Integrations changes in v1.1.53]]'
 - '[[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added
   plugin name to skill descriptions and /skills menu for better discoverability]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-07-v0-0-406-github-284060687-b4a44242|github-copilot-cli-2026-02-07-v0-0-406-github-284060687-b4a44242]]'

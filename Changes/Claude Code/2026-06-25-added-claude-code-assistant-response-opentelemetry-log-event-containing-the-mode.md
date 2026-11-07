@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8328cf5c71959d3db4a85aa985a84f26574d1660b63c250db78ecd20757494bb
+machine_hash: 59246a07753e9a4eaf6fbe3cadd0e2a02b609793a550535b1b1199b3a0d0c4e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: Added `claude_code.assistant_response` OpenTelemetry log event containing…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-7-model-support-changes-in-v1-0-64|7 Model
-  Support changes in v1.0.64]]'
 - '[[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5
   Instant Update]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-2-model-support-changes-in-v1-0-65|2 Model
   Support changes in v1.0.65]]'
+- '[[Changes/OpenCode/2026-06-24-core-hid-gpt-5-5-pro-when-using-codex-oauth|Core
+  Hid gpt-5.5-pro when using Codex OAuth]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-2-model-support-changes-in-v1-0-65|2 Model Support changes in v1.0.65]]
+- Earlier: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-core-hid-gpt-5-5-pro-when-using-codex-oauth|Core Hid gpt-5.5-pro when using Codex OAuth]]
 - Later: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-4-model-support-changes-in-rust-v0-142-2|4 Model Support changes in rust-v0.142.2]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9a0f0d5c8bdee2aa3065df28f15d6225cec784371f18772de64d3fbc172a4a3
+machine_hash: 0d1306d19060289a8807c43694cbc8e34bfc306b70772416ff7c57f52bf6799f
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     and no hook…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-16-2-account-and-access-changes-in-v0-12-3|2 Account
-  and Access changes in v0.12.3]]'
+- '[[Changes/OpenClaw/2026-10-18-the-dashboard-handles-reconnects-and-long-chat-histories-with-fewer-interruption|The
+  Dashboard handles reconnects and long chat histories with fewer interruptions…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-3-account-and-access-changes-in-v1-0-100|3
   Account and Access changes in v1.0.100]]'
 - '[[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing

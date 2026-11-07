@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d0c50b8a613b2d6325017e198f59a23a4c473ca95f83977a6325d5e04f82f0e3
+machine_hash: feb4f847681cde2bc1f1ef881a8fa67a6c6fdf1dfb261364c7b60c47bfedf67e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Add canvas support in the CLI for extension-driven interactions
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-docs-bring-readme-md-over-from-agent-canvas-by-rbren-in-https-github-com-openhan|docs:
-  Bring README.md over from Agent Canvas]]'
 - '[[Changes/Codex CLI/2026-07-08-27714-app-server-document-thread-and-turn-ids-are-uuid7-owenlin0|♯27714
   app-server: document thread and turn IDs are UUID7 @owenlin0]]'
+- '[[Changes/OpenClaw/2026-07-13-13-files-and-data-changes-in-v2026-7-1|13 Files and
+  Data changes in v2026.7.1]]'
 - '[[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude
   in Chrome: hardened file-upload path validation]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'

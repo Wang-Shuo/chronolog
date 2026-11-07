@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 335ab792ba1aa6fb5db433a3ac49adbdab13db610ffb18add1232d4eda36d987
+machine_hash: 847ff3d24a1c674c25eff707535b5a816b1d557910a05e28296e99171b317118
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: /diff uses full screen in alt-screen mode
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-11-2-interface-experience-changes-in-v0-0-407|2
-  Interface Experience changes in v0.0.407]]'
+- '[[Changes/OpenCode/2026-02-11-terminal-default-session-sidebar-to-auto|Terminal
+  Default session sidebar to auto]]'
 - '[[Changes/v0/2026-02-11-added-branch-picker-for-vercel-deployments|Added branch
   picker for Vercel deployments]]'
 - '[[Changes/Cline/2026-02-12-2-interface-experience-changes-in-v3-58-0|2 Interface

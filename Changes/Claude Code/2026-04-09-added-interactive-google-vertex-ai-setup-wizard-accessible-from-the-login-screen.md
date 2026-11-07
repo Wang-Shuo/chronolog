@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1057a204be9cad918327805b91adebd1e00219b69c79ce992aa1523c4d36e953
+machine_hash: 02782a6f6fe75e62593d4ce721b3afd9a421b8ba2634006c27e8a519e1c33f33
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
     screen…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-03-mcp-oauth-flows-now-support-https-redirect-uris-via-a-self-signed-certificate-fa|MCP
-  OAuth flows now support HTTPS redirect URIs via a self-signed certificate…]]'
 - '[[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added
   interactive Bedrock setup wizard accessible from the login screen…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-enterprise-github-url-input-in-the-login-flow-now-accepts-keyboard-input-and-sub|Enterprise
   GitHub URL input in the login flow now accepts keyboard input and submits…]]'
+- '[[Changes/OpenCode/2026-04-08-core-improved-opencode-login-transport-error-messages|Core
+  Improved opencode login transport error messages]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: account-access
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-enterprise-github-url-input-in-the-login-flow-now-accepts-keyboard-input-and-sub|Enterprise GitHub URL input in the login flow now accepts keyboard input and submits…]]
+- Earlier: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-core-improved-opencode-login-transport-error-messages|Core Improved opencode login transport error messages]]
 - Later: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-support-bearer-token-authentication-for-byok-anthropic-models|Support bearer token authentication for BYOK Anthropic models]]
 <!-- chronolog:end -->
 

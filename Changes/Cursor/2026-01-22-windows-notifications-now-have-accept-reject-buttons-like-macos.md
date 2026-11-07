@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a465e27c9a36e2f2f614e183ad4c0d62a4caef056570af415aca95d5b93c686a
+machine_hash: 3b68b475394ea20a12ddc9532ecabb339fc13bfe9450aa6af4ae3d8d15a3db3d
 product: cursor
 product_name: Cursor
 record:
@@ -41,11 +41,12 @@ record:
   title: Windows notifications now have accept/reject buttons like MacOS
   type: change
 related_changes:
-- '[[Changes/Claude/2026-01-16-cowork-research-preview-expanded-to-pro-plans|Cowork
-  research preview expanded to Pro plans]]'
-- '[[Changes/Replit/2026-01-16-mobile-apps-on-replit|Mobile Apps on Replit]]'
 - '[[Changes/Codex CLI/2026-01-21-8590-fix-core-require-approval-for-force-delete-on-windows-hdcodedev|♯8590
   fix(core): require approval for force delete on Windows @hdcodedev]]'
+- '[[Changes/OpenCode/2026-01-21-3-mobile-and-desktop-changes-in-v1-1-30|3 Mobile
+  and Desktop changes in v1.1.30]]'
+- '[[Changes/OpenCode/2026-01-21-24-mobile-and-desktop-changes-in-v1-1-29|24 Mobile
+  and Desktop changes in v1.1.29]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -91,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-8590-fix-core-require-approval-for-force-delete-on-windows-hdcodedev|♯8590 fix(core): require approval for force delete on Windows @hdcodedev]]
+- Earlier: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-24-mobile-and-desktop-changes-in-v1-1-29|24 Mobile and Desktop changes in v1.1.29]]
 - Later: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-add-msi-installer-for-windows|Add MSI installer for Windows]]
 <!-- chronolog:end -->
 

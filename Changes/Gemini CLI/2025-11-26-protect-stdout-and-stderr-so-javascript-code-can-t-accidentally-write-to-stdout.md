@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ddb345459e927f3bedbdac4cb24803e2f90229f69960d8bfa4c4f4edbc64eed
+machine_hash: 58d29c5b8f7aa763d317ca84f7857d22aab979be554463cafe440e843d690ecf
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,8 +47,7 @@ record:
     stdout…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-11-24-5-interface-experience-changes-in-v0-6-37|5 Interface
-  Experience changes in v0.6.37]]'
+- '[[Changes/Gamma/2025-11-25-here-s-what-s-improved|Here''s what''s improved]]'
 - '[[Changes/Open WebUI/2025-11-25-2-interface-experience-changes-in-v0-6-39|2 Interface
   Experience changes in v0.6.39]]'
 - '[[Changes/Dify/2025-11-26-4-interface-experience-changes-in-1-10-1|4 Interface

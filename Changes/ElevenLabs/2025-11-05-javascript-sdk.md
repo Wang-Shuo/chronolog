@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c01f0368fdcfa7b0e7fe8062c571bcd5e3d4a1839dee73762b0e473ce08b91dc
+machine_hash: 5d4c2dcbaf9028477e7a414ebee31bcffbaeb5f86a958d183d10f2544f8ea2a3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -112,7 +112,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-11-04 · Windsurf · [[Changes/Windsurf/2025-11-04-mcp-enhancements|MCP Enhancements]]
-- Later: 2025-11-05 · Lovable · [[Changes/Lovable/2025-11-05-lovable-shopify-integration|Lovable × Shopify Integration]]
+- Later: 2025-11-05 · Gamma · [[Changes/Gamma/2025-11-05-official-make-com-integration-https-www-make-com-en-integrations-gamma-app-for-n|Official Make. com integration((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a144d3044f9716db4276e02541cb761428919c6d05dcbb4b17f31383dfaddbc0
+machine_hash: 806ee12bc5c7198126e731fd05d3fe64333367e8d1eb6db90d271e240acf31c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     interactive…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-10-agent-mode-changes-in-v2-1-281|10 Agent Mode
-  changes in v2.1.281]]'
 - '[[Changes/Cursor/2026-09-23-when-rollouts-detects-a-regression-it-names-the-change-it-suspects-and-notifies|When
   Rollouts detects a regression, it names the change it suspects and notifies…]]'
+- '[[Changes/OpenClaw/2026-09-23-41-agent-mode-changes-in-v2026-9-6|41 Agent Mode
+  changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-24-2-agent-mode-changes-in-v2-1-282|2 Agent Mode
   changes in v2.1.282]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'

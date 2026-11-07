@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 74f686342766a93cf83a50db219557a38ccc43bff0e2ef637b41679895ca63b0
+machine_hash: e991fbd90d9642b53615f68df3cb05f7928ab35b519824246d92add97b084f9a
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: '[Cloud sessions] Added Claude Code cloud sessions and Remote Control permissions…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-model-picker-marks-your-administrator-managed-model-as-the-default-when-it-is-av|Model
-  picker marks your administrator-managed model as the default when it is available]]'
 - '[[Changes/Lovable/2026-10-20-group-your-workspaces-into-an-organization|Group your
   workspaces into an organization]]'
 - '[[Changes/Lovable/2026-10-21-see-adoption-by-department-without-scim|See adoption
   by department without SCIM]]'
+- '[[Changes/OpenClaw/2026-10-22-2-enterprise-and-administration-changes-in-v2026-10-6|2
+  Enterprise and Administration changes in v2026.10.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-21 · Lovable · [[Changes/Lovable/2026-10-21-see-adoption-by-department-without-scim|See adoption by department without SCIM]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-2-enterprise-and-administration-changes-in-v2026-10-6|2 Enterprise and Administration changes in v2026.10.6]]
 - Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-shared-chat-pages-load-once-chats-opened-under-s-through-a-share-link-or-by-an-a|🔗 Shared chat pages load once. Chats opened under /s/, through a share link…]]
 <!-- chronolog:end -->
 

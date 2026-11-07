@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee790d709fdc9f3052082abe5b7f840726fb1f5578c61bc62e88af0d6f4accb0
+machine_hash: c7a57282aa6c43dd549405ab3ad0eb4200a7de58e2929ead313af7dee3b20a8a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -197,8 +197,8 @@ record:
   title: 34 Developer Workflow changes in v0.8.11
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-2-developer-workflow-changes-in-v1-0-10|2
-  Developer Workflow changes in v1.0.10]]'
+- '[[Changes/OpenCode/2026-03-22-2-developer-workflow-changes-in-v1-3-0|2 Developer
+  Workflow changes in v1.3.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-23-2-developer-workflow-changes-in-v1-0-11|2
   Developer Workflow changes in v1.0.11]]'
 - '[[Changes/Gemini CLI/2026-03-24-feat-skills-improve-async-pr-review-workflow-and-logging-by-mattkorwel-in-https|feat(skills):

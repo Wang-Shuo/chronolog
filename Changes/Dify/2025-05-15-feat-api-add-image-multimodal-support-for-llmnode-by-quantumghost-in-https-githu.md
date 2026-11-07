@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7f25a96a068fc7673987e83cb1d4eaa46895313dd78ae89d339db81fa856ccdc
+machine_hash: 1ac578dbeb4bd12f4d318104ee7bf6f0d0500d5be611c253253821f4bcb4babd
 product: dify
 product_name: Dify
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2025-05-13 · Ollama · [[Changes/Ollama/2025-05-13-2-multimodal-input-changes-in-v0-7-0|2 Multimodal Input changes in v0.7.0]]
-- Later: 2025-05-21 · Ollama · [[Changes/Ollama/2025-05-21-support-for-alibaba-s-qwen-3-and-qwen-2-architectures-in-ollama-s-new-multimodal|Support for Alibaba's Qwen 3 and Qwen 2 architectures in Ollama's new multimodal…]]
+- Later: 2025-05-16 · Runway · [[Changes/Runway/2025-05-16-gen-4-image-is-now-available-via-the-runway-api-allowing-anyone-to-integrate-its|Gen-4 Image in Runway API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

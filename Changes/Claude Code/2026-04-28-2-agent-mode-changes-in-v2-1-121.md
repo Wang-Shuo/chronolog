@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2141a7b7646af72688652e95c86ff128789993ea2fe8c5f86a3387862dc43cd
+machine_hash: d891b323ba067bc6ed31d52219d71dc878dadb9a6b35d6386ccf8f99d89c4899
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Agent Mode changes in v2.1.121
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-27-swift-sdk|Swift SDK]]'
 - '[[Changes/ElevenLabs/2026-04-27-packages|Packages]]'
 - '[[Changes/ElevenLabs/2026-04-27-elevenagents-e7cc6e|ElevenAgents]]'
+- '[[Changes/OpenCode/2026-04-27-core-added-a-configurable-default-shell-for-terminals-and-agent-shell-commands-w|Core
+  Added a configurable default shell for terminals and agent shell commands…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
 theme: agent-mode
@@ -86,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.121
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-27 · ElevenLabs · [[Changes/ElevenLabs/2026-04-27-elevenagents-e7cc6e|ElevenAgents]]
+- Earlier: 2026-04-27 · OpenCode · [[Changes/OpenCode/2026-04-27-core-added-a-configurable-default-shell-for-terminals-and-agent-shell-commands-w|Core Added a configurable default shell for terminals and agent shell commands…]]
 - Later: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-3-agent-mode-changes-in-v0-40-0|3 Agent Mode changes in v0.40.0]]
 <!-- chronolog:end -->
 

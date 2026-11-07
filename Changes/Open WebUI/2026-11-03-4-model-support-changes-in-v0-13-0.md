@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42d83fbcd0abe3880223b55a6974f9863110f0dd06fb5c1769e5ac62ae6451c6
+machine_hash: 7d6915b9c9f9c24196f7f6b9fbbbc9aabcebefcd609692a2c594323ad9fe1786
 product: open-webui
 product_name: Open WebUI
 record:
@@ -65,8 +65,8 @@ record:
   title: 4 Model Support changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-7-model-support-changes-in-elevenlabs-updates-2026-11-02|7
-  Model Support changes in ElevenLabs updates — 2026-11-02]]'
+- '[[Changes/Google Antigravity/2026-11-03-voice-mode-enabled-by-gemini-live-lets-you-talk-to-antigravity-and-hand-requests|Voice
+  mode, enabled by Gemini Live, lets you talk to Antigravity and hand requests…]]'
 - '[[Changes/Ollama/2026-11-03-2-model-support-changes-in-v0-40-15|2 Model Support
   changes in v0.40.15]]'
 - '[[Changes/Ollama/2026-11-03-2-model-support-changes-in-v0-40-14|2 Model Support
@@ -125,7 +125,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.13.0
 ## Nearby in Model Support
 
 - Earlier: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-2-model-support-changes-in-v0-40-14|2 Model Support changes in v0.40.14]]
-- Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-4-model-support-changes-in-1-19-0|4 Model Support changes in 1.19.0]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-17-model-support-changes-in-v2026-10-10|17 Model Support changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

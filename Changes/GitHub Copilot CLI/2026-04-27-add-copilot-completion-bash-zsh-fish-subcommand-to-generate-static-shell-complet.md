@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5aa2f01f1af9fd8af15125adaa4e9a05ffbab1ddefef34ac39e3abafe909556
+machine_hash: 903cb48860c3e85788871cc222d9c0a60839a4fd10df0a0f33ef3ebbbd1f6dee
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Add `copilot completion <bash|zsh|fish>` subcommand to generate static shell…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-24-2-editor-experience-changes-in-v1-0-36|2
-  Editor Experience changes in v1.0.36]]'
 - '[[Changes/Lovable/2026-04-24-labs-tab-the-labs-tab-has-been-removed-from-settings-github-branch-switching-is|Labs
   tab. The Labs tab has been removed from settings]]'
 - '[[Changes/Open WebUI/2026-04-24-2-editor-experience-changes-in-v0-9-2|2 Editor
   Experience changes in v0.9.2]]'
+- '[[Changes/OpenCode/2026-04-26-terminal-fixed-editor-lock-detection-to-ignore-locks-from-unrelated-workspaces|Terminal
+  Fixed editor lock detection to ignore locks from unrelated workspaces]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c|github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-24 · Open WebUI · [[Changes/Open WebUI/2026-04-24-2-editor-experience-changes-in-v0-9-2|2 Editor Experience changes in v0.9.2]]
+- Earlier: 2026-04-26 · OpenCode · [[Changes/OpenCode/2026-04-26-terminal-fixed-editor-lock-detection-to-ignore-locks-from-unrelated-workspaces|Terminal Fixed editor lock detection to ignore locks from unrelated workspaces]]
 - Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-6-editor-experience-changes-in-1-14-0|6 Editor Experience changes in 1.14.0]]
 <!-- chronolog:end -->
 

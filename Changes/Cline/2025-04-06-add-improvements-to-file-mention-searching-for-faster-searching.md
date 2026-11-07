@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 837888c18ebe6a898d7a0cb92ff30a7add7ca5686efc372dc27972c3f7321068
+machine_hash: 3fb93f8de8af1d48b949b3b3e6e931e6febae1a2a10c6e74ff0a12919d1f1295
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,7 @@ record:
   title: Add improvements to file mention searching for faster searching
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-04-01-3-reliability-and-performance-changes-in-v0-6-0|3
-  Reliability and Performance changes in v0.6.0]]'
+- '[[Changes/Midjourney/2025-04-04-other-features|Other features]]'
 - '[[Changes/Replit/2025-04-04-assistant-performance-improvements|Assistant performance
   improvements]]'
 - '[[Changes/Open WebUI/2025-04-05-2-reliability-and-performance-changes-in-v0-6-1|2

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 769b55af4002045195e1a68da2d979b85729c71dc5c523637de8ac90cd7f62a6
+machine_hash: 7567df2dfa40fd5e22bbd0f5d983526889462ac3df564233c46961ace942daa3
 product: ollama
 product_name: Ollama
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.23
 ## Nearby in Multimodal Input
 
 - Earlier: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-our-expansion-into-text-to-image-capabilities-marks-a-significant-step-in-our-mu|Our expansion into text-to-image capabilities marks a significant step in our…]]
-- Later: 2024-04-11 · Dify · [[Changes/Dify/2024-04-11-3-multimodal-input-changes-in-0-6-2|3 Multimodal Input changes in 0.6.2]]
+- Later: 2024-04-05 · Runway · [[Changes/Runway/2024-04-05-create-presets-to-easily-reuse-gen-2-prompt-text-camera-movements-motion-brushes|Custom Gen-2 presets]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

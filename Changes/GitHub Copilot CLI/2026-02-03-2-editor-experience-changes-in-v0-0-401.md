@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d5a6bdfccdd1ad21eede7b85b73191bf7a410bc147c2bc6678cfc662b1cfe13b
+machine_hash: d1624802ccc6c65fbe42f041c76f165571498965076ee294172b3f7f77991400
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.401
 ## Nearby in Editor Experience
 
 - Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-chore-hide-disable-try-tab-when-not-support-by-iamjoel-in-https-github-com-langg|chore: hide disable try tab when not support]]
-- Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-added-thread-compact-to-the-v2-app-server-api-as-an-async-trigger-rpc-so-clients|Added thread/compact to the v2 app-server API as an async trigger RPC, so clients…]]
+- Later: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-2-editor-experience-changes-in-v1-1-49|2 Editor Experience changes in v1.1.49]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

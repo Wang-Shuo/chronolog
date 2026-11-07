@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72d5f99d00d6cc2cef4492d503a40547067bd83387ae56b78182ae4f4420cd3c
+machine_hash: 04f80dcaaf6ce408ab8312bd8cae54fcd71ddfe374f970c175dac85426fde982
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,10 +55,10 @@ record:
   title: 7 Context Window changes in rust-v0.129.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-19805-add-multiagentv2-root-and-subagent-context-hints-jif-oai|♯19805
-  Add MultiAgentV2 root and subagent context hints @jif-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-remote-session-statusline-shows-the-remote-working-directory-and-branch-instead|Remote
   session statusline shows the remote working directory and branch instead…]]'
+- '[[Changes/OpenCode/2026-05-05-core-improved-v2-session-rendering-with-cleaner-tool-states-better-compaction-su|Core
+  Improved v2 session rendering with cleaner tool states, better compaction…]]'
 - '[[Changes/Cursor/2026-05-06-you-can-now-see-a-breakdown-of-your-agent-s-context-usage-e005b2|Context
   Usage Breakdown]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e|codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e]]'
@@ -119,7 +119,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.129.0
 ## Nearby in Context Window
 
 - Earlier: 2026-05-06 · Cursor · [[Changes/Cursor/2026-05-06-you-can-now-see-a-breakdown-of-your-agent-s-context-usage-e005b2|Context Usage Breakdown]]
-- Later: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-2-context-window-changes-in-rust-v0-130-0|2 Context Window changes in rust-v0.130.0]]
+- Later: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-2-context-window-changes-in-v1-14-40|2 Context Window changes in v1.14.40]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

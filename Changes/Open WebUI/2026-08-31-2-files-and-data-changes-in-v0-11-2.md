@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 77184f1df2693a8f47ce1e631ebea87ebfe730fc91ccf58cddf43835f7015877
+machine_hash: e42ab8bbb10eacaa59eec30e041540cd0145fed0cd008573dc390d950bacf375
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,8 +56,8 @@ record:
   title: 2 Files and Data changes in v0.11.2
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-canvas-windows-open-and-refresh-in-the-background-instead-of-stealing-focus-from|Canvas
-  windows open and refresh in the background instead of stealing focus…]]'
+- '[[Changes/Midjourney/2026-08-27-changing-specific-areas-of-your-images-inpainting-or-expand-your-canvas-outpaint|Changing
+  specific areas of your images (inpainting) or expand your canvas (outpainting)]]'
 - '[[Changes/OpenHands/2026-08-27-2-files-and-data-changes-in-v1-16-0|2 Files and
   Data changes in v1.16.0]]'
 - '[[Changes/ElevenLabs/2026-08-31-dubbing|Dubbing]]'
@@ -103,7 +103,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.2
 ## Nearby in Files and Data
 
 - Earlier: 2026-08-31 · ElevenLabs · [[Changes/ElevenLabs/2026-08-31-dubbing|Dubbing]]
-- Later: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-4-files-and-data-changes-in-v1-17-0|4 Files and Data changes in v1.17.0]]
+- Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-another-382-changes-in-v2026-8-2-primarily-affect-the-people-who-build-test-docu|Another 382 changes in v2026.8.2 primarily affect the people who build, test…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

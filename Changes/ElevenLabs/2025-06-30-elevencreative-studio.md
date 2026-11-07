@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f1cab31ffd7b6eec9c2145990bd29a0bea02f33d485b68386aa7659f29f2a99e
+machine_hash: c9561fdadcccd776a7f6db688db4c319307344eceae1ca9c9ca923151d2fe962
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -47,12 +47,10 @@ record:
   title: ElevenCreative Studio
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-05-13-2-multimodal-input-changes-in-v0-7-0|2 Multimodal Input
-  changes in v0.7.0]]'
-- '[[Changes/Dify/2025-05-15-feat-api-add-image-multimodal-support-for-llmnode-by-quantumghost-in-https-githu|feat(api):
-  Add image multimodal support for LLMNode]]'
-- '[[Changes/Ollama/2025-05-21-support-for-alibaba-s-qwen-3-and-qwen-2-architectures-in-ollama-s-new-multimodal|Support
-  for Alibaba''s Qwen 3 and Qwen 2 architectures in Ollama''s new multimodal…]]'
+- '[[Changes/Midjourney/2025-06-18-low-motion|Low motion]]'
+- '[[Changes/Midjourney/2025-06-18-high-motion|High motion]]'
+- '[[Changes/Midjourney/2025-06-19-pro-and-mega-tiers-can-help-us-test-video-relax-mode-right-now-unlimited-generat|Pro
+  and Mega tiers can help us test "video relax mode" right now…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-06-30-2025-06-30-46fa8d5a|elevenlabs-2025-06-30-2025-06-30-46fa8d5a]]'
 source_type: elevenlabs_changelog
 theme: multimodal
@@ -87,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-05-21 · Ollama · [[Changes/Ollama/2025-05-21-support-for-alibaba-s-qwen-3-and-qwen-2-architectures-in-ollama-s-new-multimodal|Support for Alibaba's Qwen 3 and Qwen 2 architectures in Ollama's new multimodal…]]
+- Earlier: 2025-06-19 · Midjourney · [[Changes/Midjourney/2025-06-19-pro-and-mega-tiers-can-help-us-test-video-relax-mode-right-now-unlimited-generat|Pro and Mega tiers can help us test "video relax mode" right now…]]
 - Later: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-feature-commands-refactor-slash-command-vision-for-the-future-by-abhipatel12-in|feature(commands) - Refactor Slash Command + Vision For the Future]]
 <!-- chronolog:end -->
 

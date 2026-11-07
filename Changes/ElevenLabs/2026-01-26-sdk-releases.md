@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ea63979b1b4042700420e7d48ebf7e797479e180394a72b499ab291ccf28efd9
+machine_hash: 537bd1fc7b84affa72c2ea7320622392b64d0df421bf965832e15bada32087bd
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,12 +41,12 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-23-2-apps-and-integrations-changes-in-v0-0-393|2
-  Apps and Integrations changes in v0.0.393]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-24-plugin-skills-work-in-agent-responses|Plugin
   skills work in agent responses]]'
 - '[[Changes/Codex CLI/2026-01-25-3-apps-and-integrations-changes-in-rust-v0-90-0|3
   Apps and Integrations changes in rust-v0.90.0]]'
+- '[[Changes/OpenCode/2026-01-25-2-apps-and-integrations-changes-in-v1-1-35|2 Apps
+  and Integrations changes in v1.1.35]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-01-26-2026-01-26-f7dcd336|elevenlabs-2026-01-26-2026-01-26-f7dcd336]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-3-apps-and-integrations-changes-in-rust-v0-90-0|3 Apps and Integrations changes in rust-v0.90.0]]
+- Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-2-apps-and-integrations-changes-in-v1-1-35|2 Apps and Integrations changes in v1.1.35]]
 - Later: 2026-01-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-26-3-apps-and-integrations-changes-in-v0-0-395|3 Apps and Integrations changes in v0.0.395]]
 <!-- chronolog:end -->
 

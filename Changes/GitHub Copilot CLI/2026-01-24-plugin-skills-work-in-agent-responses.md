@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: fd8b93b67a143e16d3383c64e9ba3ce84983a800bc463ebc504fb6b4aa94461f
+machine_hash: e6d4562ca19a2136d3ae174832c3e1bd2a82a03da6324232ce22ec5da578424a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,8 +52,8 @@ record:
   title: Plugin skills work in agent responses
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-22-2-apps-and-integrations-changes-in-v0-0-389|2
-  Apps and Integrations changes in v0.0.389]]'
+- '[[Changes/OpenCode/2026-01-22-core-print-mcp-stderr-to-opencode-log-file|Core Print
+  MCP stderr to OpenCode log file]]'
 - '[[Changes/Claude Code/2026-01-23-2-apps-and-integrations-changes-in-v2-1-19|2 Apps
   and Integrations changes in v2.1.19]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-23-2-apps-and-integrations-changes-in-v0-0-393|2

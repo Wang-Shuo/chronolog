@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6ee3cdc1a7aa259132e889b54689597efd32eb22f7c7df7fb0aafcb93f03c2a
+machine_hash: ebc4c38e12de256198218472b117d089c12dcc7708cee8b95aca2fb51226ea4b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-workspace-security-center-2-0|Workspace Security Center 2.0]]
-- Later: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-6-safety-and-privacy-changes-in-v0-9-5|6 Safety and Privacy changes in v0.9.5]]
+- Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-rejected-invalid-permission-and-question-ids-in-the-http-api|Core Rejected invalid permission and question IDs in the HTTP API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

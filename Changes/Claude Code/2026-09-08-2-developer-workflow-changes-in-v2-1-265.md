@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45a1671e5c6c8e96ad021d1201ced76c8179a8f835da14652c73ef2635068812
+machine_hash: 3da9810a34ae81ffd29e431506dd343f28a617f8c2355391f72462b3babbd111
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.265
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer
-  Workflow changes in v2.1.261]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-detect-the-herdr-terminal-multiplexer-instead-of-mistaking-it-for-tmux-so-the-ki|Detect
-  the herdr terminal multiplexer instead of mistaking it for tmux, so the Kitty…]]'
+- '[[Changes/OpenClaw/2026-09-05-16-developer-workflow-changes-in-v2026-9-2|16 Developer
+  Workflow changes in v2026.9.2]]'
+- '[[Changes/OpenClaw/2026-09-05-you-can-now-put-the-part-of-a-task-you-are-working-on-in-the-main-view-and-keep|Put
+  the part of a task you are working on in the main view and keep the conversation…]]'
 - '[[Changes/ElevenLabs/2026-09-07-elevenlabs-cli|ElevenLabs CLI]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'
 source_type: github_releases
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.265
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-07 · ElevenLabs · [[Changes/ElevenLabs/2026-09-07-elevenlabs-cli|ElevenLabs CLI]]
-- Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer Workflow changes in v2.1.267]]
+- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-22-developer-workflow-changes-in-v2026-9-3|22 Developer Workflow changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

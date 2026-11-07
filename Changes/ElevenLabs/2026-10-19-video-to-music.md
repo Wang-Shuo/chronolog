@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: dbef4efb1894a1d0823875f068c32c2266e72aaeefe60e51640f5cc813778331
+machine_hash: c6e4bc5406e36986e8aaae2f9aba4c88e8c4ce9c87474f18a606bbc8c5f96585
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -58,11 +58,11 @@ record:
   title: Video to Music
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-29-clef-27b-and-clef-flash-9b-are-multimodal-requests-can-now-include-images-alongs|Clef
-  (27B) and Clef Flash (9B) are multimodal]]'
 - '[[Changes/ElevenLabs/2026-10-12-music|Music]]'
 - '[[Changes/Ollama/2026-10-12-added-support-for-multimodal-embeddings-through-llama-server|Added
   support for multimodal embeddings through llama-server]]'
+- '[[Changes/OpenClaw/2026-10-13-muse-wonder-meta-users-can-select-muse-wonder-with-text-and-image-input-and-max|Muse
+  Wonder. Meta users can select Muse Wonder with text and image input and max thinking]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-19-2026-10-19-dd219c14|elevenlabs-2026-10-19-2026-10-19-dd219c14]]'
 source_type: elevenlabs_changelog
 theme: multimodal
@@ -107,8 +107,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-added-support-for-multimodal-embeddings-through-llama-server|Added support for multimodal embeddings through llama-server]]
-- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video to music: Studio's video to music workflow uses Music v2.5 by default]]
+- Earlier: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-muse-wonder-meta-users-can-select-muse-wonder-with-text-and-image-input-and-max|Muse Wonder. Meta users can select Muse Wonder with text and image input and max thinking]]
+- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-linux-camera-discovery-now-reports-an-unreadable-device-folder-as-an-error-inste|Linux camera discovery now reports an unreadable device folder as an error instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

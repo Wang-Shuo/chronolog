@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a1e86c971aeaeb025331f6863eda603ceb8e0acfe3b33d279cd2f6a603375514
+machine_hash: e4b0805c1c5671627b0ff07eda219b7e62df96bc405fc26c7046b138b64dd277
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.27
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-15 · Cursor · [[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In the Agents Window, canvases are durable artifacts that live in the side panel…]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer Workflow changes in v2.1.111]]
+- Later: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-2-developer-workflow-changes-in-v1-4-4|2 Developer Workflow changes in v1.4.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd0a2c562b5dc45fa6746d34ee4a5ee1e0321f35adc7f31221c5013f158fbb24
+machine_hash: 9c5e8b4663dec8de49c71c6f191d1c00018cc0063416072a4dab58c31c17dfcb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Editor Experience changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor
-  Experience changes in v2.1.6]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-ghost-text-and-tab-completion-show-correct-alias-when-typing-slash-commands-like|Ghost
   text and tab completion show correct alias when typing slash commands like…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-send-messages-while-copilot-is-thinking-to-steer-or-queue|Send
   messages while Copilot is thinking to steer or queue]]'
+- '[[Changes/OpenCode/2026-01-13-core-improved-edit-and-write-tool-feedback-to-prevent-confusion-about-whether-ch|Core
+  Improved edit and write tool feedback to prevent confusion about whether…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40|codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40]]'
 source_type: github_releases
 theme: editor-experience
@@ -89,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.81.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-send-messages-while-copilot-is-thinking-to-steer-or-queue|Send messages while Copilot is thinking to steer or queue]]
+- Earlier: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-core-improved-edit-and-write-tool-feedback-to-prevent-confusion-about-whether-ch|Core Improved edit and write tool feedback to prevent confusion about whether…]]
 - Later: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-4-editor-experience-changes-in-v0-24-0|4 Editor Experience changes in v0.24.0]]
 <!-- chronolog:end -->
 

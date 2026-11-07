@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c98220d6a61203fbf0e68d57a1c4bb44d9346f4931b970d3f070f2fd8e79b000
+machine_hash: 0762f6e400ac10aabdbbd17ac782d1963dbd63392cd9f82cbe01ac7932a1a62d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,10 +43,10 @@ record:
   title: "**\U0001F513 Downgrade Authlib**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-08-14-oauth-email-claim-customization-introduced-an-oauth-email-claim-variable-to-allo|\U0001F300
-  OAuth Email Claim Customization]]"
 - '[[Changes/Dify/2024-08-19-xinference-auth-system-enhanced-support-for-xinference-s-authentication-system-b|Xinference
   Auth System]]'
+- '[[Changes/Midjourney/2024-08-23-sign-in-with-your-discord-account-on-the-website-if-you-want-to-have-history-of|Sign
+  in with your discord account on the website if you want to have history…]]'
 - '[[Changes/Open WebUI/2024-08-27-disable-signups-conditionally-implemented-conditional-logic-to-disable-sign-ups|✋
   Disable Signups Conditionally]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-21-v0-3-23-github-176209943-02641eae|open-webui-2024-09-21-v0-3-23-github-176209943-02641eae]]'

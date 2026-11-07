@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 12ca4b5b6be3e1680079bae49a788b53d782982d531bea8656392fe66f9cb8ba
+machine_hash: 41635af1c209da7c1e0f2aaa6ebe444af3413168d19e2fce98088d72252062be
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,12 +60,12 @@ record:
     Pro…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-03-see-how-your-workspace-adopts-lovable|See how your
-  workspace adopts Lovable]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise
-  admins can pin sign-in to approved GitHub organizations…]]'
 - '[[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect
   your preview links]]'
+- '[[Changes/OpenClaw/2026-09-05-4-enterprise-and-administration-changes-in-v2026-9-2|4
+  Enterprise and Administration changes in v2026.9.2]]'
+- '[[Changes/OpenClaw/2026-09-08-ordinary-model-changes-now-apply-to-the-current-chat-by-default-including-admini|Ordinary
+  model changes now apply to the current chat by default, including…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018|chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-04 · Lovable · [[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect your preview links]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-ordinary-model-changes-now-apply-to-the-current-chat-by-default-including-admini|Ordinary model changes now apply to the current chat by default, including…]]
 - Later: 2026-09-10 · Claude · [[Changes/Claude/2026-09-10-smart-reports-beta|Smart reports (beta)]]
 <!-- chronolog:end -->
 

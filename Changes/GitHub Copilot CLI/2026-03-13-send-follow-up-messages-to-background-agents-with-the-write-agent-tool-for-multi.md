@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 1cc415d3624bd570aaaf8278ef820e99180f29642afe9daf29f81c5603e22d78
+machine_hash: 5c297bea1a41bad138f0bbec4df70f2ecc4d2350958f2845b4f62498a21123aa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: Send follow-up messages to background agents with the write_agent tool…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-2-agent-mode-changes-in-v1-0-4|2 Agent
-  Mode changes in v1.0.4]]'
 - '[[Changes/OpenHands/2026-03-11-2-agent-mode-changes-in-1-5-0|2 Agent Mode changes
   in 1.5.0]]'
 - '[[Changes/Cline/2026-03-12-added-github-copilot-instructions-md-for-coding-agents|Added
   .github/copilot-instructions.md for coding agents]]'
+- '[[Changes/OpenCode/2026-03-12-core-improve-skill-presentation-to-agent-to-increase-likelihood-of-skill-invocat|Core
+  Improve skill presentation to agent to increase likelihood of skill invocations]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6|github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-12 · Cline · [[Changes/Cline/2026-03-12-added-github-copilot-instructions-md-for-coding-agents|Added .github/copilot-instructions.md for coding agents]]
+- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-core-improve-skill-presentation-to-agent-to-increase-likelihood-of-skill-invocat|Core Improve skill presentation to agent to increase likelihood of skill invocations]]
 - Later: 2026-03-13 · Replit · [[Changes/Replit/2026-03-13-agent|Agent]]
 <!-- chronolog:end -->
 

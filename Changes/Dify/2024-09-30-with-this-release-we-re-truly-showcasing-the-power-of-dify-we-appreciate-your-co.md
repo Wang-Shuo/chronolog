@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 957df13fad5741abde23972edf76730b7cbd737f40ccd2b8b811da90a2cbb161
+machine_hash: 1f3a7e9e73ae4b0ec48d4b6d1b377670b27d5c9415b38ace64cfbff2e28f29ee
 product: dify
 product_name: Dify
 record:
@@ -47,12 +47,12 @@ record:
   title: With this release, we’re truly showcasing the power of Dify!
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-23-feat-add-email-support-for-pro-and-team-by-crazywoola-in-https-github-com-langge|Feat/add
-  email support for pro and team]]'
 - '[[Changes/OpenHands/2024-07-27-2-collaboration-changes-in-0-8-2|2 Collaboration
   changes in 0.8.2]]'
 - '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
   is now default-on and available to all Pro/Business users by hitting cmd+I]]'
+- '[[Changes/Gamma/2024-09-10-we-added-a-new-way-to-share-your-gamma-creations-you-can-now-download-any-of-you|We
+  added a new way to share your Gamma creations]]'
 source_release: '[[Releases/Dify/dify-2024-09-30-0-9-0-github-177564351-208577ea|dify-2024-09-30-0-9-0-github-177564351-208577ea]]'
 source_type: github_releases
 theme: collaboration
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]]
+- Earlier: 2024-09-10 · Gamma · [[Changes/Gamma/2024-09-10-we-added-a-new-way-to-share-your-gamma-creations-you-can-now-download-any-of-you|We added a new way to share your Gamma creations]]
 - Later: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New README and got a cool domain for the project (source link) (wip)]]
 <!-- chronolog:end -->
 

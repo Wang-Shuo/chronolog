@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44b8739a77bb4eb927131a31ee8f3d388766cee82d78a0b5fb33c5f19a10993f
+machine_hash: 8d69bfea77c9348f8372babf6e3dfee1819bbb93a36aae485acc3cc0deff1ff7
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in v2.1.126
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-28-poolside-s-first-open-weight-coding-model-laguna-xs-2-https-ollama-com-library-l|Poolside''s
-  first open-weight coding model - Laguna…]]'
 - '[[Changes/Dify/2026-04-29-27-model-support-changes-in-1-14-0|27 Model Support changes
   in 1.14.0]]'
+- '[[Changes/OpenCode/2026-04-29-4-model-support-changes-in-v1-14-30|4 Model Support
+  changes in v1.14.30]]'
 - '[[Changes/Codex CLI/2026-04-30-10-model-support-changes-in-rust-v0-128-0|10 Model
   Support changes in rust-v0.128.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'

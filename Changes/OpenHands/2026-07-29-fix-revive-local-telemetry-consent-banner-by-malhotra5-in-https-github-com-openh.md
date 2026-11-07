@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 450da7d3f5cd9fa221c4c6bca7d7f3905ec4dd33203c280fe03e83b18b33f2d7
+machine_hash: 9183e694a9621c07d136be14b3cfab8f7b0fdb71bc4cd35c6a25d3f50d20dd04
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: 'fix: Revive local telemetry consent banner'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-07-28-fix-a2a-server-enforce-workspace-trust-and-task-isolation-to-prevent-rce-by-luis|fix(a2a-server):
-  enforce workspace trust and task isolation to prevent RCE]]'
+- '[[Changes/Google Antigravity/2026-07-28-3-safety-and-privacy-changes-in-hub-v2-4-3-preview-tabs-mcp|3
+  Safety and Privacy changes in HUB v2.4.3 — Preview tabs, MCP…]]'
 - '[[Changes/Codex CLI/2026-07-29-6-safety-and-privacy-changes-in-rust-v0-146-0|6
   Safety and Privacy changes in rust-v0.146.0]]'
 - '[[Changes/Lovable/2026-07-29-fewer-false-alarms-in-dependency-scans|Fewer false

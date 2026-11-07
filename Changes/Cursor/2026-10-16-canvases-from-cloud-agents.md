@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 18cb6e78aeaecb8e4e44b1ebd338d8dda320f6317bef4e5435cb25476449c931
+machine_hash: 51a5024bec1fe6ddea1e2eac09750716a6ebf20601c754cd552cdaf143a6a666
 product: cursor
 product_name: Cursor
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-6-agent-mode-changes-in-v2-1-302|6 Agent Mode changes in v2.1.302]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode changes in v2.1.304]]
+- Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-2-agent-mode-changes-in-v2026-10-4|2 Agent Mode changes in v2026.10.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

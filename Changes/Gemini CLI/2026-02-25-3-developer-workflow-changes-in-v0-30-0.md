@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 217d0ec1b2c4b9d2b0ace4372519c3bd43243addee0444a17358074b724bc9fd
+machine_hash: 13c0d8b1e9fb1d74851d557fe412f394111618ed60c26026899fa05dd7088eb0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,9 +46,10 @@ record:
   title: 3 Developer Workflow changes in v0.30.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-24-add-q-command-to-quit-cli|Add /q command to quit CLI]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-24-status-line-automatically-switches-to-a-two-line-layout-on-narrow-terminals-keep|Status
-  line automatically switches to a two-line layout on narrow terminals, keeping…]]'
+- '[[Changes/OpenCode/2026-02-24-add-workspace-serve-command-experimental|Add workspace-serve
+  command (experimental)]]'
+- '[[Changes/OpenCode/2026-02-24-3-developer-workflow-changes-in-v1-2-11|3 Developer
+  Workflow changes in v1.2.11]]'
 - '[[Changes/Codex CLI/2026-02-25-15-developer-workflow-changes-in-rust-v0-105-0|15
   Developer Workflow changes in rust-v0.105.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'
@@ -99,7 +100,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.30.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-15-developer-workflow-changes-in-rust-v0-105-0|15 Developer Workflow changes in rust-v0.105.0]]
-- Later: 2026-02-25 · v0 · [[Changes/v0/2026-02-25-added-repository-information-to-first-message-in-git-connected-chats|Added repository information to first message in git-connected chats]]
+- Later: 2026-02-25 · OpenCode · [[Changes/OpenCode/2026-02-25-3-developer-workflow-changes-in-v1-2-14-1|3 Developer Workflow changes in v1.2.14 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

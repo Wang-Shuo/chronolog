@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 04eb82481ed4d9611feb51cecca9fb529547c664151401db8592ea9cf4d6102b
+machine_hash: ed5fa32218d2a792f6a7a1f776c5d012cdc44cf9d00631c32d056bb4e9770657
 product: claude
 product_name: Claude
 record:
@@ -48,12 +48,12 @@ record:
   title: Model entitlements for Enterprise plans (beta)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-add-claude-sonnet-5-as-a-supported-model|Add
-  Claude Sonnet 5 as a supported model]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-5-model-support-changes-in-v1-0-66|5 Model
-  Support changes in v1.0.66]]'
 - '[[Changes/Ollama/2026-06-30-tightened-gemma-4-moe-model-loading-in-the-mlx-engine|Tightened
   Gemma 4 MoE model loading in the MLX engine]]'
+- '[[Changes/OpenClaw/2026-06-30-32-model-support-changes-in-v2026-6-11|32 Model Support
+  changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-4-model-support-changes-in-v1-17-12|4 Model Support
+  changes in v1.17.12]]'
 source_release: '[[Releases/Claude/claude-2026-07-01-2026-07-01-070e4e1f|claude-2026-07-01-2026-07-01-070e4e1f]]'
 source_type: claude_changelog
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-30 · Ollama · [[Changes/Ollama/2026-06-30-tightened-gemma-4-moe-model-loading-in-the-mlx-engine|Tightened Gemma 4 MoE model loading in the MLX engine]]
+- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-4-model-support-changes-in-v1-17-12|4 Model Support changes in v1.17.12]]
 - Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support changes in v2.1.198]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7eed5145d2135b3d963ad5864a152fe68cac9ebd53af78a51e2083ea8674029e
+machine_hash: f0b80c125c24b56873fcfa51d34d33e65e165775c59667b755063ecfb9a5a0a4
 product: dify
 product_name: Dify
 record:
@@ -65,8 +65,8 @@ record:
   title: 11 Multimodal Input changes in 1.11.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-09-22-multimodal-embedding-support-richer-content-types-beyond-text|Multimodal
-  Embedding: Support richer content types beyond text]]'
+- '[[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x
+  more styles]]'
 - '[[Changes/Open WebUI/2025-11-06-2-multimodal-input-changes-in-v0-6-35|2 Multimodal
   Input changes in v0.6.35]]'
 - '[[Changes/Ollama/2025-11-27-mistral-large-3-https-ollama-com-library-mistral-large-3-a-general-purpose-multi|Mistral-Large-3((source

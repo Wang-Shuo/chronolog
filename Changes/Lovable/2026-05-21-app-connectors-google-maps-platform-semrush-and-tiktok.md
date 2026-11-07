@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1eae0fba2a8accf49ee16b5a3f4088ed2e8989b37b10e590f78c3e95660517cb
+machine_hash: b64d42dcdea95618cd0a9ef54e77fcd9f868c18cd2cb522ec38e0c4b065593fc
 product: lovable
 product_name: Lovable
 record:
@@ -64,12 +64,12 @@ record:
   title: 'App connectors: Google Maps Platform, Semrush, and TikTok'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-9-apps-and-integrations-changes-in-rust-v0-132-0|9
-  Apps and Integrations changes in rust-v0.132.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-20-4-apps-and-integrations-changes-in-v1-0-51|4
-  Apps and Integrations changes in v1.0.51]]'
+- '[[Changes/OpenCode/2026-05-20-3-apps-and-integrations-changes-in-v1-15-6|3 Apps
+  and Integrations changes in v1.15.6]]'
 - '[[Changes/Codex CLI/2026-05-21-20-apps-and-integrations-changes-in-rust-v0-133-0|20
   Apps and Integrations changes in rust-v0.133.0]]'
+- '[[Changes/Google Antigravity/2026-05-21-added-a-migration-flow-that-allows-users-to-import-settings-extensions-and-keybi|Added
+  a migration flow that allows users to import settings, extensions…]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-21-2026-05-21-42edfd96|lovable-2026-05-21-2026-05-21-42edfd96]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -106,8 +106,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-20-apps-and-integrations-changes-in-rust-v0-133-0|20 Apps and Integrations changes in rust-v0.133.0]]
-- Later: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2 Apps and Integrations changes in v2.1.149]]
+- Earlier: 2026-05-21 · Google Antigravity · [[Changes/Google Antigravity/2026-05-21-added-a-migration-flow-that-allows-users-to-import-settings-extensions-and-keybi|Added a migration flow that allows users to import settings, extensions…]]
+- Later: 2026-05-21 · OpenCode · [[Changes/OpenCode/2026-05-21-sdk-v2-global-event-streams-now-include-account-add-remove-and-switch-events|SDK V2 global event streams now include account add, remove, and switch events]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f62f4f9fc1c78e63b7dabe6677fa4cd7749ddc441f6a8a5a466b056e23a3951
+machine_hash: 2398421a4a876c1e1149bf1be8856cd526ff4540efdcca9d740687bfb78ebcdb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-added-cline-sdk-api-interface-for-programmatic-access-to-cline-features-and-tool|Added Cline SDK API interface for programmatic access to Cline features and tools…]]
-- Later: 2026-02-25 · ChatGPT · [[Changes/ChatGPT/2026-02-25-sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder|Sources from apps]]
+- Later: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-3-apps-and-integrations-changes-in-v1-2-11|3 Apps and Integrations changes in v1.2.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 84a341583b3107d3d376dcb936e1b91bcaefed54c4d6cbf04cdb11e15a8fdd4f
+machine_hash: 65a2778e241999d3c1c69137d432136f823683aeb1f8cb4a1a2418678618e329
 product: gemini
 product_name: Gemini
 record:
@@ -55,12 +55,12 @@ record:
     cost
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-01-05-clone-shared-chats-effortlessly-clone-shared-chats-to-save-time-and-streamline-c|\U0001F504
-  Clone Shared Chats]]"
 - "[[Changes/Open WebUI/2025-02-18-download-button-for-svg-diagrams-svg-diagrams-generated-within-chat-can-now-be-d|\U0001F4E5
   Download Button for SVG Diagrams]]"
 - '[[Changes/Dify/2025-02-28-we-are-glad-to-share-that-we-re-launching-dify-v1-0-0|We
   are glad to share that we''re launching Dify v1.0.0]]'
+- "[[Changes/Gamma/2025-03-05-add-a-comment-for-feedback-or-collaboration|\U0001F4AC
+  Add a Comment for feedback or collaboration]]"
 source_release: '[[Releases/Gemini/gemini-2025-03-13-2025-03-13-af613e5f|gemini-2025-03-13-2025-03-13-af613e5f]]'
 source_type: gemini_changelog
 theme: collaboration
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-02-28 · Dify · [[Changes/Dify/2025-02-28-we-are-glad-to-share-that-we-re-launching-dify-v1-0-0|We are glad to share that we're launching Dify v1.0.0]]
+- Earlier: 2025-03-05 · Gamma · [[Changes/Gamma/2025-03-05-add-a-comment-for-feedback-or-collaboration|💬 Add a Comment for feedback or collaboration]]
 - Later: 2025-03-21 · Lovable · [[Changes/Lovable/2025-03-21-we-heard-the-issues-you-ve-shared-with-us-and-we-re-working-hard-to-fix-them-all|We heard the issues you've shared with us and we're working hard to fix them all]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 507364d0c5c7c61c69917bf7c5a181f7951317d85c5e6ced3eccae75f76a70bd
+machine_hash: b68b14a3ba2972591be42db61191257215fba8981826a21318fc84aec00f1fc7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Memory and Personalization changes in rust-v0.164.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-14-memory-reindex-rate-limits-reindexing-memories-from-the-admin-reindex-knowledge|\U0001F9EE
-  Memory reindex rate limits. Reindexing memories, from the admin Reindex…]]"
-- '[[Changes/Codex CLI/2026-10-15-codex-can-run-independent-read-only-tools-in-parallel-including-skill-memory-and|Codex
-  can run independent read-only tools in parallel, including skill, memory…]]'
-- "[[Changes/Open WebUI/2026-10-16-built-in-tools-turned-back-on-stay-on-a-built-in-tool-such-as-memory-that-is-off|\U0001F9F0
-  Built-in tools turned back on stay on. A built-in tool such as Memory…]]"
+- '[[Changes/OpenClaw/2026-10-16-schedule-inspection-during-recovery-updates-and-doctor-can-continue-when-optiona|Schedule
+  inspection during recovery]]'
+- '[[Changes/OpenClaw/2026-10-18-memory-search-recognizes-more-accented-and-korean-spellings-and-keeps-keyword-se|Memory
+  search recognizes more accented and Korean spellings and keeps keyword search…]]'
+- '[[Changes/OpenClaw/2026-10-22-4-memory-and-personalization-changes-in-v2026-10-6|4
+  Memory and Personalization changes in v2026.10.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
 source_type: github_releases
 theme: memory
@@ -103,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-built-in-tools-turned-back-on-stay-on-a-built-in-tool-such-as-memory-that-is-off|🧰 Built-in tools turned back on stay on. A built-in tool such as Memory…]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-4-memory-and-personalization-changes-in-v2026-10-6|4 Memory and Personalization changes in v2026.10.6]]
 - Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-memory-and-personalization-changes-in-1-18-0|3 Memory and Personalization changes in 1.18.0]]
 <!-- chronolog:end -->
 

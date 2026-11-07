@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 968da49699be54f5b681787cc2c40fb622b42016ff6c993f38f5d058c8e9eb22
+machine_hash: 47e53b513ab0d78057a5813f710a8b3967e009c9357c4f2ca812f633f3994060
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-36807-extract-audio-preparation-into-a-utility-crate-copyberry|♯36807 Extract audio preparation into a utility crate @copyberry]]
-- Later: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch between typing and dictation]]
+- Later: 2026-08-10 · Runway · [[Changes/Runway/2026-08-10-tool-mode-and-edit-studio-now-let-you-export-gen-4-5-and-aleph-2-generations-as|ProRes / PNG Sequence Export]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

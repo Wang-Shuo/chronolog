@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c22e590e2198c9ea40a8e48a31fc3cecc43e0cac5bb39bccef6aec971fce6df6
+machine_hash: a56da67d63d22d254a020f8e435ac21cd13b35987cec75a93f5e6f2a5b320dc6
 product: replit
 product_name: Replit
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-5-agent-mode-changes-in-rust-v0-116-0|5 Agent Mode changes in rust-v0.116.0]]
-- Later: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-elevenagents|ElevenAgents]]
+- Later: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-ui-ux-improvements-agent-skill-ordering-more-consistent-ai-responses-with-improv|UI/UX Improvements Agent & Skill Ordering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

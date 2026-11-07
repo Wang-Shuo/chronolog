@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d442b07633f3a5a9eff08fd2619358995bc672a0867bc45306cae2b6f16dc76
+machine_hash: cd89a7fce09d4905c08e1fc25f85eba8e5dcf9a3456e262f0cc175c5bd17012e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,11 +46,12 @@ record:
     can now send…"
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-29-speech-to-text-b8f62a|Speech to Text]]'
 - '[[Changes/Open WebUI/2026-06-29-3-voice-and-audio-changes-in-v0-10-0|3 Voice and
   Audio changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-voice-mode-turns-itself-off-when-the-engine-fails-to-start-at-boot|Voice
   mode turns itself off when the engine fails to start at boot]]'
+- '[[Changes/OpenClaw/2026-06-30-6-voice-and-audio-changes-in-v2026-6-11|6 Voice and
+  Audio changes in v2026.6.11]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'
 source_type: github_releases
 theme: voice
@@ -90,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-voice-mode-turns-itself-off-when-the-engine-fails-to-start-at-boot|Voice mode turns itself off when the engine fails to start at boot]]
+- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-6-voice-and-audio-changes-in-v2026-6-11|6 Voice and Audio changes in v2026.6.11]]
 - Later: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-music|Music]]
 <!-- chronolog:end -->
 

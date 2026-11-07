@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c3a2079cfe463ac0e2c3b9b3634b185c2cd20a77efb82cc70be7e3eb29053fd
+machine_hash: fcb6cd13ac018f9c139f4ac6597107c569b5db285a96b1878143541247d76f3f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Diff display uses your configured git pager (delta, diff-so-fancy)
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-16-3-editor-experience-changes-in-v0-21-0|3 Editor
-  Experience changes in v0.21.0]]'
 - '[[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit
   and review tasks in Pulse anytime after you create them]]'
+- '[[Changes/Google Antigravity/2025-12-17-performance-improvements-for-agent-manager-and-for-long-conversations-in-editor|Performance
+  improvements for Agent Manager and for long conversations in editor windows]]'
 - '[[Changes/Codex CLI/2025-12-18-7931-chore-persist-comments-in-edit|♯7931 chore:
   persist comments in edit]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-12-18-v0-0-370-github-271488760-c35693f4|github-copilot-cli-2025-12-18-v0-0-370-github-271488760-c35693f4]]'

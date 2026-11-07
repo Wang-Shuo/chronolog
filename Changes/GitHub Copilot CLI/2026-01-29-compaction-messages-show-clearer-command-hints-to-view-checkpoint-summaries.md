@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f2bdf216740db6325e7fc7329f543f27d2deae425c83f65f8594c06abd5bd03
+machine_hash: 7150025b338f038a18d7a7db4adabf32ff7f45b4b9d874924df2532a0165d445
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Compaction messages show clearer command hints to view checkpoint summaries
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-27-strip-notebook-cell-outputs-when-extracting-text-content-from-jupyter-notebooks|Strip
-  notebook cell outputs when extracting text content from Jupyter notebooks…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-27-simplify-compaction-timeline-entries|Simplify
   compaction timeline entries]]'
 - '[[Changes/Gemini CLI/2026-01-28-feat-core-enhanced-anchored-iterative-context-compression-with-self-verification|feat(core):
   enhanced anchored iterative context compression with self-verification]]'
+- '[[Changes/OpenCode/2026-01-28-core-handle-venice-cache-creation-tokens|Core Handle
+  Venice cache creation tokens]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6|github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6]]'
 source_type: github_releases
 theme: context-window
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-feat-core-enhanced-anchored-iterative-context-compression-with-self-verification|feat(core): enhanced anchored iterative context compression with self-verification]]
+- Earlier: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-core-handle-venice-cache-creation-tokens|Core Handle Venice cache creation tokens]]
 - Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support|New model: Added Kimi-K2.5 model to Moonshot provider…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9a23f3ab7f10de622e0a37c05c4a7f5bef886623d5714a03ba6f0a29675cd90
+machine_hash: c6762adca8adf63152989fa0228a41c4beaaf0efdf92baffb0456b173d9db2ae
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Editor Experience changes in v0.27.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-03-chore-hide-disable-try-tab-when-not-support-by-iamjoel-in-https-github-com-langg|chore:
-  hide disable try tab when not support]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-2-editor-experience-changes-in-v0-0-401|2
   Editor Experience changes in v0.0.401]]'
+- '[[Changes/OpenCode/2026-02-03-2-editor-experience-changes-in-v1-1-49|2 Editor Experience
+  changes in v1.1.49]]'
 - '[[Changes/Codex CLI/2026-02-04-added-thread-compact-to-the-v2-app-server-api-as-an-async-trigger-rpc-so-clients|Added
   thread/compact to the v2 app-server API as an async trigger RPC, so clients…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835|gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835]]'

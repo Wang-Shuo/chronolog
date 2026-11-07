@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66347fbbb97e5f73ff1651e8c1bceb067dd2241562b09fa7397b678f0cce721e
+machine_hash: 73d938b1f7c35c74e94b9f0fb23aa59e2829d0375bf33b0033aa21eee2d3937e
 product: dify
 product_name: Dify
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-esc-to-exit-privacy-screen-in-error-state-by-scidomino-in-https-github-com-googl|Esc to exit privacy screen in error state]]
-- Later: 2025-07-08 · Codex CLI · [[Changes/Codex CLI/2025-07-08-adds-support-for-a-sandbox-flag-and-makes-some-breaking-changes-to-config-toml-a|Adds support for a --sandbox flag and makes some breaking changes to config.toml…]]
+- Later: 2025-07-07 · Granola · [[Changes/Granola/2025-07-07-we-ve-shown-independent-auditors-that-our-security-practices-meet-soc2-type-2-st|Granola is SOC2 compliant]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

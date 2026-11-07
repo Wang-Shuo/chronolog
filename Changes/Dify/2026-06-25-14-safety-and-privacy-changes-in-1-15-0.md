@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c8a5559c653441251ac9e96fdb1f1fd68b2315e1a3cebb8332144de0a6e87b4
+machine_hash: 7ff3900b12fa9c3a557e1ae3e992a028cacd3aa8e7249ae31d95a1f80d36e8e7
 product: dify
 product_name: Dify
 record:
@@ -155,7 +155,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-2-safety-and-privacy-changes-in-rust-v0-142-2|2 Safety and Privacy changes in rust-v0.142.2]]
-- Later: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed external plugins enabled only by project .claude/settings.json not requiring…]]
+- Later: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-3-safety-and-privacy-changes-in-hub-v2-2-1-antigravity-guide-audio|3 Safety and Privacy changes in HUB v2.2.1 — Antigravity Guide, audio…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

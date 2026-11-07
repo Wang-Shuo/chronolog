@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d6be574f52fd8f7e870d7dd557d77628bb758574e7d2b825844f08f55055f5a
+machine_hash: 618d0f5d5ae2431f442d614ebe9d2d680d5e5314de27964dd4fe39154b42e85f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Changed clicks on scrollbar arrows and bars in fullscreen lists to act…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-refactor-sidebar-express-mobile-drawer-duration-in-css-by-enyst-in-https-github|refactor(sidebar):
-  express mobile drawer duration in CSS]]'
 - '[[Changes/Windsurf/2026-10-23-2-interface-experience-changes-in-v3-11-212|2 Interface
   Experience changes in v3.11.212]]'
+- '[[Changes/OpenClaw/2026-10-24-large-batches-of-child-agent-results-now-fit-within-a-bounded-completion-message|Large
+  batches of child-agent results now fit within a bounded completion message…]]'
 - '[[Changes/Open WebUI/2026-10-25-13-interface-experience-changes-in-v0-12-4|13 Interface
   Experience changes in v0.12.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'

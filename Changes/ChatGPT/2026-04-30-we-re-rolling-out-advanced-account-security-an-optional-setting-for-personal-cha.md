@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 225dfe5e3b263095be0113477450884e0a922e9b17db5ae75cb70635f04474c3
+machine_hash: 74e9885fd7fb0592cf90f886515ca18fd24d92244fe7c76d7e6c0b9fef3b226b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,10 +74,10 @@ record:
   title: Advanced Account Security in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified
-  the /mcp message shown when an MCP server is still unauthorized after…]]'
 - '[[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs:
   migrate installation and authentication to mdx with tabbed layouts]]'
+- '[[Changes/OpenCode/2026-04-28-2-account-and-access-changes-in-v1-14-29|2 Account
+  and Access changes in v1.14.29]]'
 - '[[Changes/Dify/2026-04-29-8-account-and-access-changes-in-1-14-0|8 Account and
   Access changes in 1.14.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569|chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569]]'

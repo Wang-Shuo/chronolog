@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f0cf7949301ba12b0ab293b3906b28c3fb5bff5e52ead450429b618539a51e46
+machine_hash: c5af2fefacabe59b17d0f9ecc25874d8b3aecdbbf73f48612d2848fc80721cdd
 product: open-webui
 product_name: Open WebUI
 record:
@@ -130,7 +130,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-11521-test-app-server-stabilize-app-list-thread-feature-flag-test-by-using-file|♯11521 test(app-server): stabilize app/list thread feature-flag test by using…]]
-- Later: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added claude auth login, claude auth status, and claude auth logout CLI subcommands]]
+- Later: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-desktop-normalize-oauth-error-messages|Desktop Normalize OAuth error messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

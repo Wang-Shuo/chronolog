@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 165c0930477db865508b023dc290ecc48ddab516a8b4874a5746ebca6edad02e
+machine_hash: 2bfe13f9b2ce3a7e829c3007b47b49e109f47fb88cedd5751381a75a652fd6bb
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,8 +49,8 @@ record:
   title: Android SDK
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-install-it-on-any-platform-macos-linux-windows-with-a-single-command-and-no-acce|Install
-  it on any platform (macOS, Linux, Windows) with a single command and no…]]'
+- '[[Changes/OpenCode/2026-06-25-11-mobile-and-desktop-changes-in-v1-17-11|11 Mobile
+  and Desktop changes in v1.17.11]]'
 - '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved
   background session reliability]]'
 - '[[Changes/ElevenLabs/2026-06-29-ios-sdk|iOS SDK]]'

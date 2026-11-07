@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff2d011efb0d0b971b7c5bb81356b9401e2c11eeb43775dd7f74bd63196b5a25
+machine_hash: 64a27c1e6b20560cc2ae58b610268be098687ee80d96a9c4ff1305906075c2eb
 product: dify
 product_name: Dify
 record:
@@ -49,10 +49,10 @@ record:
   title: 2 Interface Experience changes in 1.19.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-11-03-picker-shows-ollama-s-actual-model-names|picker shows
-  Ollama''s actual model names]]'
 - '[[Changes/Open WebUI/2026-11-03-4-interface-experience-changes-in-v0-13-0|4 Interface
   Experience changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-13-interface-experience-changes-in-v2026-10-10|13
+  Interface Experience changes in v2026.10.10]]'
 - '[[Changes/OpenHands/2026-11-03-12-interface-experience-changes-in-v1-35-0|12 Interface
   Experience changes in v1.35.0]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8716a72716485641dc0d746ea177473756d9ef30b99f118a06c17586e53af93c
+machine_hash: 95210822bb1944fc4a56d13d689ad2152c227ad051910204e25527153e4be293
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
     convention'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-keep-session-store-searches-and-context-lookups-responsive|Keep
-  session-store searches and context lookups responsive]]'
+- '[[Changes/OpenCode/2026-06-30-desktop-show-stored-token-and-cost-totals-in-the-session-context|Desktop
+  Show stored token and cost totals in the session context]]'
 - '[[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents
   and context compaction now inherit the session''s extended thinking…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-context-window-changes-in-v1-0-68|2 Context

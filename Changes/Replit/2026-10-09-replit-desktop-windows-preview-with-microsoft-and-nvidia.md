@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 487cad8a3754c3561184df25c8165375e5a3a412a6f23d4b16efa22b4dacddb2
+machine_hash: ba0a278d411adbf2fe6709b02f1fe9a3e4f6fb3bc75b62b015f3b67ee4449d59
 product: replit
 product_name: Replit
 record:
@@ -50,12 +50,12 @@ record:
   title: Replit Desktop Windows preview with Microsoft and NVIDIA
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-07-manifest-avoid-symlinks-on-windows-by-dhiltgen-in-https-github-com-ollama-ollama|manifest:
-  avoid symlinks on Windows]]'
 - '[[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed
   the Claude apps gateway to start with a warning and serve a desktop policy…]]'
 - '[[Changes/Codex CLI/2026-10-08-50384-allow-opting-into-16-kib-arm64-code-pages-for-macos-signing-chess-oai|♯50384
   Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai]]'
+- '[[Changes/OpenClaw/2026-10-08-3-mobile-and-desktop-changes-in-v2026-9-9|3 Mobile
+  and Desktop changes in v2026.9.9]]'
 source_release: '[[Releases/Replit/replit-2026-10-09-2026-10-09-58884c93|replit-2026-10-09-2026-10-09-58884c93]]'
 source_type: replit_changelog
 theme: mobile-desktop
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-50384-allow-opting-into-16-kib-arm64-code-pages-for-macos-signing-chess-oai|♯50384 Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai]]
+- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-3-mobile-and-desktop-changes-in-v2026-9-9|3 Mobile and Desktop changes in v2026.9.9]]
 - Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-3-mobile-and-desktop-changes-in-v0-12-0|3 Mobile and Desktop changes in v0.12.0]]
 <!-- chronolog:end -->
 

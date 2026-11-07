@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2348c06b103f318cc4ade02b4c115210a64c902ad789820e04b26dc99f3b6d88
+machine_hash: d186e4a44c3aae68d5bdc83443824cd6abbf8d9c6c3d7aee00db7acfcf427204
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Files and Data changes in v1.18.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-13-files-and-data-changes-in-1-17-1|13 Files and Data
-  changes in 1.17.1]]'
 - '[[Changes/Gemini/2026-09-10-bring-google-gemini-to-your-pc-with-the-new-windows-app|Bring
   Google Gemini to your PC with the new Windows app]]'
 - '[[Changes/Claude Code/2026-09-11-vscode-improved-documents-and-messages-written-for-someone-other-than-the-user-c|VSCode
   Improved documents and messages written for someone other than the user]]'
+- '[[Changes/OpenClaw/2026-09-11-images-you-send-stay-visible-while-the-conversation-updates-and-scrolling-back-t|Images
+  you send stay visible while the conversation updates, and scrolling back…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-11-v1-18-0-github-387253056-164e51d7|openhands-2026-09-11-v1-18-0-github-387253056-164e51d7]]'
 source_type: github_releases
 theme: file-data
@@ -82,7 +82,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.18.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-vscode-improved-documents-and-messages-written-for-someone-other-than-the-user-c|VSCode Improved documents and messages written for someone other than the user]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-images-you-send-stay-visible-while-the-conversation-updates-and-scrolling-back-t|Images you send stay visible while the conversation updates, and scrolling back…]]
 - Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-2-files-and-data-changes-in-v2-1-271|2 Files and Data changes in v2.1.271]]
 <!-- chronolog:end -->
 

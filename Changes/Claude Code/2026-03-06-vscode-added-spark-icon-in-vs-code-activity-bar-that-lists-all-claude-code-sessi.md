@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07a39e2e946520c443051a7a72ea8c7c7364059f778c1b9ebf4536555526feb9
+machine_hash: 170babd17b13ed629689bf7cca28a6d36d767b82b4d721fecc9e05e4281a0955
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-text-selection-persists-after-copying-to-clipboard-in-alt-screen|Text selection persists after copying to clipboard in alt screen]]
-- Later: 2026-03-06 · Replit · [[Changes/Replit/2026-03-06-ai-chat-message-truncation|AI Chat message truncation]]
+- Later: 2026-03-06 · OpenCode · [[Changes/OpenCode/2026-03-06-desktop-remove-keyboard-shortcut-tooltips-from-new-session-and-new-workspace-but|Desktop Remove keyboard shortcut tooltips from new session and new workspace buttons…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

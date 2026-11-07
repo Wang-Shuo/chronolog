@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0289ea8ea287cd9d5a549394744c23df198a79bf7cb8b2e1c7119f833c4eca81
+machine_hash: 5f07cc8b9e6fa7b78d6f828397035809acdf9056b91b412903709722c831ec42
 product: cline
 product_name: Cline
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Model Support changes in v4.1.11
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-6-model-support-changes-in-rust-v0-149-0|6 Model
-  Support changes in rust-v0.149.0]]'
-- '[[Changes/Lovable/2026-08-20-gemini-embedding-2-is-the-default-for-search-and-recommendations|Gemini
-  Embedding 2 is the default for search and recommendations]]'
+- '[[Changes/OpenCode/2026-08-20-added-native-openai-and-anthropic-passthroughs-for-cloudflare-ai-gateway-models|Added
+  native OpenAI and Anthropic passthroughs for Cloudflare AI Gateway models]]'
+- '[[Changes/Runway/2026-08-20-transform-any-sdr-video-into-true-hdr-with-runway-ruby-a-native-color-grading-mo|Runway
+  Ruby]]'
 - '[[Changes/Cline/2026-08-21-restore-tool-calling-for-custom-openai-compatible-models-whose-stored-capability|Restore
   tool calling for custom OpenAI-Compatible models whose stored capability…]]'
 source_release: '[[Releases/Cline/cline-2026-08-21-v4-1-11-github-374187578-938b5fa5|cline-2026-08-21-v4-1-11-github-374187578-938b5fa5]]'
@@ -95,7 +95,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.11
 ## Nearby in Model Support
 
 - Earlier: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-restore-tool-calling-for-custom-openai-compatible-models-whose-stored-capability|Restore tool calling for custom OpenAI-Compatible models whose stored capability…]]
-- Later: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-perf-batch-streamingdeltaevents-so-the-ui-keeps-up-with-fast-models-by-vascosch9|perf: batch StreamingDeltaEvents so the UI keeps up with fast models]]
+- Later: 2026-08-21 · Midjourney · [[Changes/Midjourney/2026-08-21-prompt-bar-and-pills|Prompt bar and pills]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

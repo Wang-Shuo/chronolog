@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b3b569613196acc6bd090eeb0a8d87d53f25a8f1f26d3868a9094c1997ecbd2
+machine_hash: 578dfd29bcd3cb1085e0769e86516c0fc8327154336e06e286f23b7cc6b54d4f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,8 +84,8 @@ record:
   title: 9 Account and Access changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-5-account-and-access-changes-in-1-15-0|5 Account and
-  Access changes in 1.15.0]]'
+- '[[Changes/OpenCode/2026-06-25-core-always-print-the-mcp-oauth-url-so-manual-sign-in-still-works-when-opening-t|Core
+  Always print the MCP OAuth URL so manual sign-in still works when opening…]]'
 - '[[Changes/v0/2026-06-26-3-account-and-access-changes-in-platform-api-v2-mcp-chat-tools|3
   Account and Access changes in Platform API v2, MCP chat tools…]]'
 - "[[Changes/Open WebUI/2026-06-29-shared-folder-read-only-chats-no-longer-sign-users-out-opening-or-reading-chats|\U0001F91D

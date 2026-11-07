@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28642068adb41b3fd54d63d748f461746f8f242c2bf734e79a7107177f4885e7
+machine_hash: 7de5af28ad06d1aaec79d6d45a65d3dcd9f3f2645ee9bf708543fa2801ebff97
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v1.0.96
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e):
-  launch the same-model profile test from the BETA profile]]'
 - '[[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude
   Tag Changed Claude in Slack to show the footer with the session link, model…]]'
 - '[[Changes/Open WebUI/2026-10-10-49-model-support-changes-in-v0-12-0|49 Model Support
   changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-18-model-support-changes-in-v2026-10-1|18 Model Support
+  changes in v2026.10.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14|github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +86,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.96
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-49-model-support-changes-in-v0-12-0|49 Model Support changes in v0.12.0]]
+- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-18-model-support-changes-in-v2026-10-1|18 Model Support changes in v2026.10.1]]
 - Later: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-3-model-support-changes-in-v0-40-4|3 Model Support changes in v0.40.4]]
 <!-- chronolog:end -->
 

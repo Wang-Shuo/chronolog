@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f406d811fadea03a7fd3ce96aae5c224eb79ecf29239a55a84727b09ec049a5d
+machine_hash: 886b332c54f94a7015a3b0b8766a9fcb63f8d0ae8be7a45c11bddb325ce36b52
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Apps and Integrations changes in v1.0.98
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-13-approve-every-tool-from-a-chat-connector-at-once|Approve
-  every tool from a chat connector at once]]'
+- '[[Changes/OpenClaw/2026-10-13-7-apps-and-integrations-changes-in-v2026-10-3|7 Apps
+  and Integrations changes in v2026.10.3]]'
 - '[[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7
   Apps and Integrations changes in v2.1.300]]'
 - '[[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19

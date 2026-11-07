@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55f054e698cc39f988122e1d61c3fa36d3ebab627c5e3b9f91c7b6e2587cbce7
+machine_hash: 31d687e358dc972327108d98935c87f9668bc318a1fd4fc7bad82b5719d23708
 product: dify
 product_name: Dify
 record:
@@ -40,12 +40,12 @@ record:
   title: Voice audition
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT
-  with voice is available to all users]]'
 - '[[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat
   to supercharge your ideas in the Gemini app]]'
 - '[[Changes/Dify/2024-02-19-5-voice-and-audio-changes-in-0-5-6|5 Voice and Audio
   changes in 0.5.6]]'
+- '[[Changes/Suno/2024-02-22-v3-alpha-has-better-audio-quality-and-increased-expressiveness-among-other-heavi|V3
+  Alpha has better audio quality and increased expressiveness among other heavily…]]'
 source_release: '[[Releases/Dify/dify-2024-02-28-0-5-7-github-143968174-dc5f7626|dify-2024-02-28-0-5-7-github-143968174-dc5f7626]]'
 source_type: github_releases
 theme: voice
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-02-19 · Dify · [[Changes/Dify/2024-02-19-5-voice-and-audio-changes-in-0-5-6|5 Voice and Audio changes in 0.5.6]]
-- Later: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio changes in 0.6.5]]
+- Earlier: 2024-02-22 · Suno · [[Changes/Suno/2024-02-22-v3-alpha-has-better-audio-quality-and-increased-expressiveness-among-other-heavi|V3 Alpha has better audio quality and increased expressiveness among other heavily…]]
+- Later: 2024-04-16 · Runway · [[Changes/Runway/2024-04-16-use-lip-sync-audio-to-video-directly-from-within-the-gen-2-tool|Lip Sync in Gen-2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2390fe36736be0894057fc83d0473551aff1e0b6b551fa025672c5116e8fefd6
+machine_hash: dc57e4cc0605a2f5c2cafa52230fd4299dd33cb1b2d50b4df02e359be2da6b8b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.5
 ## Nearby in Image Generation
 
 - Earlier: 2026-05-07 · Ollama · [[Changes/Ollama/2026-05-07-cleaner-image-generation-layout-in-the-mlx-runner|Cleaner image generation layout in the MLX runner]]
-- Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-improvements-and-bug-fixes|Improvements and bug fixes]]
+- Later: 2026-05-15 · Gamma · [[Changes/Gamma/2026-05-15-brainstorm-generate-and-edit-images-in-chat|Brainstorm, generate, and edit images in chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

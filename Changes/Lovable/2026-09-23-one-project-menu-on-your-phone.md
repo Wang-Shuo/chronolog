@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 14119f3a78fc92840c12f94dd677bd8446d21a993dca0903f16d5c10ff3fa300
+machine_hash: c16357ce9d0c450ed9fedf850232b72f0f90810bc3d495cc57917fc4a28f65de
 product: lovable
 product_name: Lovable
 record:
@@ -44,10 +44,10 @@ record:
   title: One project menu on your phone
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-5-interface-experience-changes-in-v2-1-280|5 Interface
-  Experience changes in v2.1.280]]'
-- '[[Changes/Codex CLI/2026-09-22-32-interface-experience-changes-in-rust-v0-156-0|32
-  Interface Experience changes in rust-v0.156.0]]'
+- '[[Changes/Google Antigravity/2026-09-22-2-interface-experience-changes-in-hub-v2-16-0-windows-subsystem|2
+  Interface Experience changes in HUB v2.16.0 — Windows Subsystem…]]'
+- '[[Changes/Google Antigravity/2026-09-22-4-interface-experience-changes-in-hub-v2-17-0-plan-before-you-build|4
+  Interface Experience changes in HUB v2.17.0 — Plan before you build]]'
 - '[[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface
   Experience changes in v2.1.281]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-23-2026-09-23-6719e501|lovable-2026-09-23-2026-09-23-6719e501]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface Experience changes in v2.1.281]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface Experience changes in v2.1.282]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-19-interface-experience-changes-in-v2026-9-6|19 Interface Experience changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d32755ddbe38cf85ee046e838ecc7df933004bb867bffbde891f6b2da980e36
+machine_hash: 1b49052177c5d7194fa0db6d6500f91f363da6bed30070758554198cf59832bd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Developer Workflow changes in v1.0.56
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-28-codex-doctor-now-reports-richer-environment-git-terminal-app-server-and-thread-i|codex
-  doctor now reports richer environment, Git, terminal, app-server, and thread…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-3-developer-workflow-changes-in-v1-0-55|3
   Developer Workflow changes in v1.0.55]]'
+- '[[Changes/OpenCode/2026-05-28-4-developer-workflow-changes-in-v1-15-12|4 Developer
+  Workflow changes in v1.15.12]]'
 - '[[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer
   Workflow changes in v2.1.157]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448|github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448]]'
@@ -98,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.56
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer Workflow changes in v2.1.157]]
-- Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-11-developer-workflow-changes-in-rust-v0-136-0|11 Developer Workflow changes in rust-v0.136.0]]
+- Later: 2026-05-30 · OpenCode · [[Changes/OpenCode/2026-05-30-terminal-wrapped-inline-tool-rows-now-stay-aligned-and-failed-inline-tools-can-e|Terminal Wrapped inline tool rows now stay aligned, and failed inline tools can…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

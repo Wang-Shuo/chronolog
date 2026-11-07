@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d03af98dc18a72de49beb942300433a0100a628a71e010f195617901f1b1f660
+machine_hash: f833b8ea60aaa083cdaa73c00659945c9b29e0485604b268cc11da669ee641fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Added support for Windows Package Manager (winget) installations with automatic…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-18-8084-chore-ci-drop-homebrew-origin-main-workaround-for-macos-runners|♯8084
-  chore(ci): drop Homebrew origin/main workaround for macOS runners]]'
-- '[[Changes/Codex CLI/2025-12-19-4-mobile-and-desktop-changes-in-rust-v0-76-0|4 Mobile
-  and Desktop changes in rust-v0.76.0]]'
-- '[[Changes/Codex CLI/2026-01-06-8743-macos-load-config-requirements-from-mdm-gt-oai|♯8743
-  (MacOS) Load config requirements from MDM @gt-oai]]'
+- '[[Changes/OpenCode/2026-01-06-3-mobile-and-desktop-changes-in-v1-1-4|3 Mobile and
+  Desktop changes in v1.1.4]]'
+- '[[Changes/OpenCode/2026-01-07-8-mobile-and-desktop-changes-in-v1-1-6|8 Mobile and
+  Desktop changes in v1.1.6]]'
+- '[[Changes/OpenCode/2026-01-08-2-mobile-and-desktop-changes-in-v1-1-7|2 Mobile and
+  Desktop changes in v1.1.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-8743-macos-load-config-requirements-from-mdm-gt-oai|♯8743 (MacOS) Load config requirements from MDM @gt-oai]]
+- Earlier: 2026-01-08 · OpenCode · [[Changes/OpenCode/2026-01-08-2-mobile-and-desktop-changes-in-v1-1-7|2 Mobile and Desktop changes in v1.1.7]]
 - Later: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-2-mobile-and-desktop-changes-in-rust-v0-80-0|2 Mobile and Desktop changes in rust-v0.80.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c6fbf74127b86f84939ae050fc5eaa28df9a7b3b00b2a97d174d3c962fb6697c
+machine_hash: d268cab039410e2d4ddbe27ebe42cd1bafb5a0d8ff34951f579d0b3a223160a4
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Image Generation changes in 0.6.12
   type: change
 related_changes:
-- '[[Changes/Dify/2024-03-19-2-image-generation-changes-in-0-5-10|2 Image Generation
-  changes in 0.5.10]]'
-- "[[Changes/Open WebUI/2024-03-24-image-generation-comfyui-image-generation-now-supports-comfyui|\U0001F3A8
-  Image Generation ComfyUI: Image generation now supports ComfyUI]]"
 - "[[Changes/Open WebUI/2024-05-02-image-generation-compatibility-issue-rectified-image-generation-compatibility-is|\U0001F310
   Image Generation Compatibility Issue]]"
+- "[[Changes/Suno/2024-05-22-pro-and-premier-members-now-have-the-ability-to-upload-profile-cover-and-playlis|\U0001F5BC️
+  Customize Images (Pro and Premier)]]"
+- '[[Changes/Gamma/2024-06-05-ai-images-are-more-powerful-than-ever-in-gamma-you-can-now-generate-in-a-consist|AI
+  image improvements]]'
 source_release: '[[Releases/Dify/dify-2024-06-28-0-6-12-github-163007249-ac67daf7|dify-2024-06-28-0-6-12-github-163007249-ac67daf7]]'
 source_type: github_releases
 theme: image-generation
@@ -92,7 +92,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.12
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-image-generation-compatibility-issue-rectified-image-generation-compatibility-is|🌐 Image Generation Compatibility Issue]]
+- Earlier: 2024-06-05 · Gamma · [[Changes/Gamma/2024-06-05-ai-images-are-more-powerful-than-ever-in-gamma-you-can-now-generate-in-a-consist|AI image improvements]]
 - Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-comfyui-flux-image-generation-added-support-for-the-new-flux-image-gen-model-int|🕹️ ComfyUI Flux Image Generation]]
 <!-- chronolog:end -->
 

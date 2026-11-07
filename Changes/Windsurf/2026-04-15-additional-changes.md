@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4ebe59609d9494c4191a296272d9385e76f40adb18e6076390d2fd54651a5d09
+machine_hash: c433067b7d72d06e2ea41377d3718937d8921a551c8fd02354df1afe7ca9b55c
 product: windsurf
 product_name: Windsurf
 record:
@@ -52,12 +52,12 @@ record:
   title: Additional Changes
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-4-apps-and-integrations-changes-in-v2-1-110|4
-  Apps and Integrations changes in v2.1.110]]'
-- '[[Changes/Codex CLI/2026-04-15-9-apps-and-integrations-changes-in-rust-v0-121-0|9
-  Apps and Integrations changes in rust-v0.121.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-15-add-copilot-plugin-marketplace-update-command-to-refresh-plugin-catalogs|Add
   copilot plugin marketplace update command to refresh plugin catalogs]]'
+- '[[Changes/OpenCode/2026-04-15-export-ai-sdk-telemetry-spans-to-otlp-trace-backends|Export
+  AI SDK telemetry spans to OTLP trace backends]]'
+- '[[Changes/OpenCode/2026-04-15-4-apps-and-integrations-changes-in-v1-4-4|4 Apps
+  and Integrations changes in v1.4.4]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-15-v2-0-44-3f004a0d|windsurf-2026-04-15-v2-0-44-3f004a0d]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-add-copilot-plugin-marketplace-update-command-to-refresh-plugin-catalogs|Add copilot plugin marketplace update command to refresh plugin catalogs]]
+- Earlier: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-4-apps-and-integrations-changes-in-v1-4-4|4 Apps and Integrations changes in v1.4.4]]
 - Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-2-apps-and-integrations-changes-in-v2-1-111|2 Apps and Integrations changes in v2.1.111]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c740cbe1e16bf791a0d625bc56c8eaa22aa2b0f17ed0da4506cec19cebdddc7
+machine_hash: 3a17747a8af735a88f7b3145f1fea8fd1c16693dbabc7bb21044754e58cc0011
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
     in document adding"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-25-add-tts-document-fix-bug-by-charli117-in-https-github-com-langgenius-dify-pull-2|Add
-  tts document&fix bug]]'
+- '[[Changes/Gamma/2024-02-14-portrait-vertical-cards-go-to-page-setup-change-the-card-size-to-16-9-a4-or-lett|Portrait
+  (Vertical) Cards]]'
 - '[[Changes/Dify/2024-03-04-feat-add-documents-limitation-by-garfielddai-in-https-github-com-langgenius-dify|Feat:
   Add documents limitation]]'
 - '[[Changes/Dify/2024-03-19-add-tenant-id-index-for-document-and-document-segment-table-by-johnjyong-in-http|add

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd172e9fb86d6987fb32979bc6d4ec4288acc8fbf2959c17670181e6ec8c2d0c
+machine_hash: 334bff384ce4726cd0e981c6c7e027280cb4798a7f2e1ee8056a6c5dce4261f2
 product: dify
 product_name: Dify
 record:
@@ -55,10 +55,10 @@ record:
   title: 7 Pricing Model changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-21-ask-lovable-about-your-plan-and-subscription|Ask Lovable
-  about your plan and subscription]]'
 - '[[Changes/Replit/2026-08-21-work-in-free-mode|Work in Free Mode]]'
 - '[[Changes/ElevenLabs/2026-08-24-swift-sdk|Swift SDK]]'
+- '[[Changes/OpenCode/2026-08-24-removed-outdated-opencode-go-first-month-discount-messaging-and-pricing|Removed
+  outdated OpenCode Go first-month discount messaging and pricing]]'
 source_release: '[[Releases/Dify/dify-2026-08-25-1-17-0-github-376348099-66c16161|dify-2026-08-25-1-17-0-github-376348099-66c16161]]'
 source_type: github_releases
 theme: pricing-model
@@ -118,7 +118,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-swift-sdk|Swift SDK]]
+- Earlier: 2026-08-24 · OpenCode · [[Changes/OpenCode/2026-08-24-removed-outdated-opencode-go-first-month-discount-messaging-and-pricing|Removed outdated OpenCode Go first-month discount messaging and pricing]]
 - Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-2-pricing-model-changes-in-v0-11-1|2 Pricing Model changes in v0.11.1]]
 <!-- chronolog:end -->
 

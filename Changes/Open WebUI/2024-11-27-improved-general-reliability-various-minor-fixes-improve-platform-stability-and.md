@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94813e105149b2ad9b55aa1aee374209bac3bfdc04657699d92612d3a661dc13
+machine_hash: 346f1f9a50e85e797a4e5bcdf0f20354dc1fe32fb46bbd80af164e92f7cd3cc5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,8 @@ record:
   title: '**⚡ Improved General Reliability**'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-11-23-rag-query-generation-issue-addressed-a-significant-problem-where-rag-query-gener|⏳
-  RAG Query Generation Issue]]'
+- '[[Changes/Runway/2024-11-23-you-can-now-use-act-one-in-gen-3-alpha-turbo-for-faster-more-affordable-generati|Act-One
+  in Gen-3 Alpha Turbo]]'
 - '[[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance
   improvements]]'
 - '[[Changes/Dify/2024-11-25-performance-optimization-the-weightrerankrunner-logic-has-been-optimized-to-achi|Performance

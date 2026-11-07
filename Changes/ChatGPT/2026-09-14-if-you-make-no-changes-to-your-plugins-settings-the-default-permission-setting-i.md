@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d5de3b7aa9582b340e7ee68b7e95a84c15661654510642122c43547697b7a434
+machine_hash: 8445337439dba491dcfe93fb9bcdd146a126c497447e67f55cb30685151415c2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,9 +57,10 @@ record:
   title: If you make no changes to your Plugins settings, the default permission setting…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-09-10-devin-cloud|Devin Cloud]]'
 - '[[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety
   and Privacy changes in v2.1.269]]'
+- '[[Changes/OpenClaw/2026-09-11-12-safety-and-privacy-changes-in-v2026-9-4|12 Safety
+  and Privacy changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-12-fixed-read-only-git-commands-in-bash-unexpectedly-asking-for-permission-after-a|Fixed
   read-only git commands in Bash unexpectedly asking for permission after…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7]]'

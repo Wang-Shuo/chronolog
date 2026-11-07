@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e33954d49d7cd08cea246c403aceea6c2700befd10115e8483008a71889adcb3
+machine_hash: e1d6b7a819a8af3f27e420f0120c322864f0c29bea5aec1514e5c90b9004cd50
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Account and Access changes in v3.58.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core):
-  mock fetch in OAuth transport fallback tests]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-include-basic-authentication-in-app|Desktop
+  Include basic authentication in app]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-2-account-and-access-changes-in-v0-0-407|2
   Account and Access changes in v0.0.407]]'
 - '[[Changes/v0/2026-02-11-added-sso-page-for-team-specific-authentication|Added SSO

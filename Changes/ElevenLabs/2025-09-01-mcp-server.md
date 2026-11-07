@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 906757e8339adb6d138b59dde2bf2ea8df29cd7d57e7514b09431aa13a1a6faa
+machine_hash: f474b92896927c060dc933281f7964157c179f85ba1c55c3e131b608e49312ca
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -45,8 +45,8 @@ record:
   title: MCP Server
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-29-mcp-stability-drop-mutexes-earlier-and-avoid-lock-ordering-pitfalls|MCP
-  stability: drop mutexes earlier and avoid lock ordering pitfalls]]'
+- '[[Changes/Gamma/2025-08-29-now-you-can-connect-gamma-to-8-000-apps-with-our-new-zapier-integration|Now
+  you can connect Gamma to 8,000+ apps with our new Zapier integration]]'
 - '[[Changes/Replit/2025-08-29-shareable-app-creation-links|Shareable app creation
   links]]'
 - '[[Changes/ElevenLabs/2025-09-01-sdk-releases|SDK Releases]]'

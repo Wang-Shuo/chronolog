@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9a627cf8a9f5936815ccc7a86d62b7f0841aea2297c7a4121d852ac2d0d6c1c
+machine_hash: 7de9aac3e8f27c3f7f6a719614ed13a1aa8b4e9a6610b86a3aeb410cbcf34268
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: 'pref: optimize add hit count query performance when dataset hit'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++
-  performance improvements]]'
 - '[[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|"Apply
   Diffs" from chat should be a bit faster]]'
 - '[[Changes/Ollama/2024-02-02-when-making-api-requests-the-new-keep-alive-parameter-can-be-used-to-control-how|When
   making API requests, the new keep_alive parameter can be used to control how…]]'
+- '[[Changes/Runway/2024-02-09-you-with-a-large-number-of-assets-have-significantly-faster-loading-times|Assets
+  page is ~1.5x faster]]'
 source_release: '[[Releases/Dify/dify-2024-02-13-0-5-5-github-141734357-775b8760|dify-2024-02-13-0-5-5-github-141734357-775b8760]]'
 source_type: github_releases
 theme: reliability-performance
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-02-02 · Ollama · [[Changes/Ollama/2024-02-02-when-making-api-requests-the-new-keep-alive-parameter-can-be-used-to-control-how|When making API requests, the new keep_alive parameter can be used to control how…]]
-- Later: 2024-02-22 · Ollama · [[Changes/Ollama/2024-02-22-performance-improvements-up-to-2x-when-running-gemma-https-ollama-com-library-ge|Performance improvements (up to 2x) when running…]]
+- Earlier: 2024-02-09 · Runway · [[Changes/Runway/2024-02-09-you-with-a-large-number-of-assets-have-significantly-faster-loading-times|Assets page is ~1.5x faster]]
+- Later: 2024-02-14 · Gamma · [[Changes/Gamma/2024-02-14-search-performance-faster-search-from-your-home-screen-or-using-cmd-k-from-anywh|Search Performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

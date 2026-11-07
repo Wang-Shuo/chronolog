@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 11e87981d586320739a0f1373c6eb3395ca3a3a7ba16fb7564bbd60251fefe98
+machine_hash: 9e8ae565cb86e63b53ad14871430728269cc4000b12e3fd6597f5882061bdb35
 product: replit
 product_name: Replit
 record:
@@ -50,12 +50,12 @@ record:
   title: Intelligent model routing
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-27-the-claude-desktop-proxy-no-longer-interrupts-in-flight-requests-when-the-model|The
-  Claude Desktop proxy no longer interrupts in-flight requests when the model…]]'
 - '[[Changes/OpenHands/2026-08-27-2-model-support-changes-in-v1-16-0|2 Model Support
   changes in v1.16.0]]'
 - '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
   changes in v2.1.251]]'
+- '[[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core
+  Bedrock reasoning responses no longer get cached into unreplayable empty messages]]'
 source_release: '[[Releases/Replit/replit-2026-08-28-2026-08-28-1fac4f32|replit-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: replit_changelog
 theme: model-support
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support changes in v2.1.251]]
+- Earlier: 2026-08-28 · OpenCode · [[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core Bedrock reasoning responses no longer get cached into unreplayable empty messages]]
 - Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-gpt-5-6-sol-and-a-faster-sol-fast-tier-are-available-in-the-model-picker-routed|GPT-5.6 Sol and a faster Sol Fast tier are available in the model picker, routed…]]
 <!-- chronolog:end -->
 

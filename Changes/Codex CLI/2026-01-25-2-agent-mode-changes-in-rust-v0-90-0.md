@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58b5a42c17c38f8e68049f5d11ba0d5f0eb8ffa78d63128b8a2bba31cc6bb224
+machine_hash: 3fa75d53c05df4f39fbc29b870e6244853690626d1241b562f4bac03b531c126
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.90.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-91-0|2 Agent Mode changes in rust-v0.91.0]]
-- Later: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-python-sdk|Python SDK]]
+- Later: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-2-agent-mode-changes-in-v1-1-35|2 Agent Mode changes in v1.1.35]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31ac4973801fc0c9632b0179eaed85747ea728e5f35454a68ec3adc6a8674e75
+machine_hash: 5fa949dfd2da269a8d00a398bb94bba5a868db067a87c3c6dd486a72d663bae0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,8 @@ record:
   title: Updated launch animations and composer design on Android
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-02-05-new-ollama-darwin-tgz-package-for-macos-that-replaces-the-previous-ollama-darwin|New
-  ollama-darwin.tgz package for macOS that replaces the previous ollama-darwin…]]'
+- '[[Changes/Suno/2025-02-06-hype-up-your-friends-give-props-where-they-re-due-or-start-a-lyrical-debate-the|Hype
+  up your friends, give props where they’re due, or start a lyrical debate—the…]]'
 - '[[Changes/Replit/2025-02-07-replit-mobile|Replit Mobile]]'
 - '[[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation
   dialog for logging out (iOS, web)]]'

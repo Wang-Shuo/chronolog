@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f2db743f50d8ced69cebc5de27bd4ac695c9b8596a00266b7014bad46736b866
+machine_hash: ee8054e2d34ec36af8f7bcd37af7e5108d587d54d89a871c74a0cafe510949d9
 product: lovable
 product_name: Lovable
 record:
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-10-apps-and-integrations-changes-in-v1-0-55|10 Apps and Integrations changes in v1.0.55]]
-- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4 Apps and Integrations changes in v2.1.157]]
+- Later: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-acp-integrations-can-now-send-prompts-slash-commands-and-usage-updates-through-a|ACP integrations can now send prompts, slash commands, and usage updates through acp-next]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 877786a6bd870e13a04ebc6f73e3553346aca86442851e872ff9db2ffb6ddf4c
+machine_hash: 8bcb72cd259ce8c942dce1d56102541b7091f7d478b37261129887f6570eeaea
 product: cline
 product_name: Cline
 record:
@@ -54,12 +54,12 @@ record:
   title: Strip notebook cell outputs when extracting text content from Jupyter notebooks…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-22-preserve-extended-thinking-after-compaction|Preserve
-  extended thinking after compaction]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-23-show-conversation-compaction-status-as-timeline-messages-instead-of-header-indic|Show
   conversation compaction status as timeline messages instead of header indicator]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-24-3-context-window-changes-in-v0-0-394|3
   Context Window changes in v0.0.394]]'
+- '[[Changes/OpenCode/2026-01-25-3-context-window-changes-in-v1-1-35|3 Context Window
+  changes in v1.1.35]]'
 source_release: '[[Releases/Cline/cline-2026-01-27-v3-54-0-github-280361451-f31b8c09|cline-2026-01-27-v3-54-0-github-280361451-f31b8c09]]'
 source_type: github_releases
 theme: context-window
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-24-3-context-window-changes-in-v0-0-394|3 Context Window changes in v0.0.394]]
+- Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-3-context-window-changes-in-v1-1-35|3 Context Window changes in v1.1.35]]
 - Later: 2026-01-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-27-simplify-compaction-timeline-entries|Simplify compaction timeline entries]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e83260920f2e836f2642c16c273fc9e3afde6b28efa9a4a5417b929860e1449
+machine_hash: 5f030964378c34661789dae60dba220fa38dc69ffb75033ac0241f30f2db2522
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Developer Workflow changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-when-a-pull-request-opens-rollouts-reads-the-diff-and-the-systems-it-touches-the|Monitoring
-  plans]]'
+- '[[Changes/OpenClaw/2026-09-23-31-developer-workflow-changes-in-v2026-9-6|31 Developer
+  Workflow changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-24-changed-windows-wsl-managed-settings-so-an-admin-policy-that-is-present-but-inva|Changed
   Windows/WSL managed settings so an admin policy that is present but invalid…]]'
 - '[[Changes/Cline/2026-09-24-a-command-that-prints-nothing-no-longer-shows-a-raw-json-blob-like-query-git-add|A

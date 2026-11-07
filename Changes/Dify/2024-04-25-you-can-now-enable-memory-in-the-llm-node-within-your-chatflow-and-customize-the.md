@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: abdb7d36c371c1eb799ca4420e7e811563df801231c1ddb40c9ebc3ef4ae1c7a
+machine_hash: 2b2636b4ea28004985eb6525467d6c49b1adb44f3d680df11030df68ec94f1e7
 product: dify
 product_name: Dify
 record:
@@ -52,10 +52,10 @@ record:
     prompt…
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-05-feat-optimize-memory-invoke-error-output-by-takatost-in-https-github-com-langgen|feat:
-  optimize memory & invoke error output]]'
-- '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory
-  and new controls for ChatGPT]]'
+- '[[Changes/Midjourney/2024-03-13-our-team-is-also-working-on-new-special-features-like-model-personalization-that|Our
+  team is also working on new special features like model personalization…]]'
+- '[[Changes/Midjourney/2024-03-21-these-ratings-help-improve-our-algorithms-populate-the-explore-page-and-also-wil|These
+  ratings help improve our algorithms, populate the explore page, and also will…]]'
 - '[[Changes/Dify/2024-04-08-compared-to-the-regular-workflow-app-type-chatflow-adds-chat-specific-features-s|Compared
   to the regular Workflow app type, Chatflow adds chat-specific features such…]]'
 source_release: '[[Releases/Dify/dify-2024-04-25-0-6-5-github-152778461-0e2655b1|dify-2024-04-25-0-6-5-github-152778461-0e2655b1]]'

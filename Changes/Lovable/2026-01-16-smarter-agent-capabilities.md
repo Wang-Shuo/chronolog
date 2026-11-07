@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 51a83703c2862e9320d82d203cf846d644eb358dab4aa7d7e9f1067c2ec6d7fe
+machine_hash: e34510b7da7cfcaec861977907d12f9a7c8bd2bb671a51ddfeae77d35d6df017
 product: lovable
 product_name: Lovable
 record:
@@ -116,7 +116,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-2-agent-mode-changes-in-v0-0-384|2 Agent Mode changes in v0.0.384]]
-- Later: 2026-01-16 · Replit · [[Changes/Replit/2026-01-16-redesigned-tool-calls-ui-in-agent-chat|Redesigned tool calls UI in Agent chat]]
+- Later: 2026-01-16 · OpenCode · [[Changes/OpenCode/2026-01-16-3-agent-mode-changes-in-v1-1-24|3 Agent Mode changes in v1.1.24]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b6988f07d1585e51045a44a86dd1d637b3b9369c3119cedad7b3f2e35e73af4
+machine_hash: 4c9e6386111ca78eaf7deacfeb4e5be2c8a514659e7cd591931242e9adccbf97
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 6 Memory and Personalization changes in rust-v0.93.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-25-9674-feat-app-server-expose-personality-dylan-hurd-oai|♯9674
-  feat(app-server) Expose personality @dylan-hurd-oai]]'
 - '[[Changes/Codex CLI/2026-01-27-9718-feat-tui-personality-dylan-hurd-oai|♯9718 feat(tui)
   /personality @dylan-hurd-oai]]'
+- '[[Changes/OpenCode/2026-01-28-2-memory-and-personalization-changes-in-v1-1-37|2
+  Memory and Personalization changes in v1.1.37]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-better-handle-large-results-from-grep-and-glob-tools-to-avoid-memory-issues|Better
   handle large results from grep and glob tools to avoid memory issues]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8|codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8]]'

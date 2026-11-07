@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 835ea41d93de25649b8dda738de24d2dad0fd1f9b9ee47fe69ec0f3b082460c2
+machine_hash: 8655ee9c6981b84a2547d44f6824c428ebc5c048265da84c37e87f354a7c3386
 product: claude
 product_name: Claude
 record:
@@ -56,7 +56,8 @@ record:
   title: Delegate work to Claude in Slack with Claude Tag
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-22-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Google Antigravity/2026-06-22-2-apps-and-integrations-changes-in-ide-v2-1-1-model-quota-screen|2
+  Apps and Integrations changes in IDE v2.1.1 — Model quota screen…]]'
 - '[[Changes/Lovable/2026-06-22-lovable-mcp-updates|Lovable MCP updates]]'
 - '[[Changes/Lovable/2026-06-22-aikido-penetration-testing-is-now-available-on-all-plans|Aikido
   penetration testing is now available on all plans]]'

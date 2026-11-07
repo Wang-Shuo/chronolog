@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 737819155c6a8e59def806a98d0b781a806d482719018ac37bade6b3440cb7be
+machine_hash: ff855f159a85c6cb8546078e1b252f79031f65338904c3f44847c85fd2cde822
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -79,11 +79,11 @@ record:
   title: 20 Voice and Audio changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-02-gemma4-now-supports-images-and-audio-on-mlx-engine|gemma4
-  now supports images and audio on MLX engine]]'
-- '[[Changes/Codex CLI/2026-09-03-5-voice-and-audio-changes-in-rust-v0-153-0|5 Voice
-  and Audio changes in rust-v0.153.0]]'
+- '[[Changes/OpenClaw/2026-09-05-17-voice-and-audio-changes-in-v2026-9-2|17 Voice
+  and Audio changes in v2026.9.2]]'
 - '[[Changes/ElevenLabs/2026-09-07-workspaces|Workspaces]]'
+- '[[Changes/OpenClaw/2026-09-08-8-voice-and-audio-changes-in-v2026-9-3|8 Voice and
+  Audio changes in v2026.9.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
 source_type: github_releases
 theme: voice
@@ -167,8 +167,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-07 · ElevenLabs · [[Changes/ElevenLabs/2026-09-07-workspaces|Workspaces]]
-- Later: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-packages|Packages]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-8-voice-and-audio-changes-in-v2026-9-3|8 Voice and Audio changes in v2026.9.3]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-you-can-now-choose-deepgram-flux-to-turn-incoming-voice-notes-into-text-your-cla|Choose Deepgram Flux to turn incoming voice notes into text your Claw can use…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: edc9e4ab6722e48f4e3ade466b3c917c07afe66decc802621ab2317e85e23660
+machine_hash: 660968422bf0f3fbbb2a1941b8780b48cd5dbc30d0d93da415341f3a1664aeaa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,11 +97,12 @@ record:
   title: 28 Developer Workflow changes in rust-v0.119.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]'
-- '[[Changes/Gemini CLI/2026-04-08-3-developer-workflow-changes-in-v0-37-0|3 Developer
-  Workflow changes in v0.37.0]]'
+- '[[Changes/OpenCode/2026-04-08-terminal-added-pdf-drag-and-drop-for-attachments|Terminal
+  Added PDF drag and drop for attachments]]'
 - '[[Changes/Claude Code/2026-04-09-6-developer-workflow-changes-in-v2-1-98|6 Developer
   Workflow changes in v2.1.98]]'
+- '[[Changes/OpenCode/2026-04-09-4-developer-workflow-changes-in-v1-4-2-1|4 Developer
+  Workflow changes in v1.4.2 + 1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1|codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1]]'
 source_type: github_releases
 theme: developer-workflow
@@ -200,7 +201,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-6-developer-workflow-changes-in-v2-1-98|6 Developer Workflow changes in v2.1.98]]
+- Earlier: 2026-04-09 · OpenCode · [[Changes/OpenCode/2026-04-09-4-developer-workflow-changes-in-v1-4-2-1|4 Developer Workflow changes in v1.4.2 + 1]]
 - Later: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-terminal-state-alt-screen-cursor-raw-mode-is-restored-correctly-after-cli-crashe|Terminal state (alt screen, cursor, raw mode) is restored correctly after CLI…]]
 <!-- chronolog:end -->
 

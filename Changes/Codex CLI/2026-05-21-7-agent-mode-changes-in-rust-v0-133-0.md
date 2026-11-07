@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dfc87cdac9d2d2ef34b1471e905740098c72ebec28bdcb9ec1c30c0a24905de5
+machine_hash: bc1aa3528e6693894c0ffbcccef81f75e4253870e31ef7eb105f50358622c69a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,9 +56,10 @@ record:
   title: 7 Agent Mode changes in rust-v0.133.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-20-loop-skill|/loop skill]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-remote-command-can-now-be-used-while-the-agent-is-working|/remote
   command can now be used while the agent is working]]'
+- '[[Changes/OpenCode/2026-05-20-core-agent-and-command-names-now-resolve-correctly-from-relative-config-paths|Core
+  Agent and command names now resolve correctly from relative config paths]]'
 - '[[Changes/Claude Code/2026-05-21-auto-mode-no-longer-suppresses-askuserquestion-when-the-user-or-a-skill-explicit|Auto
   mode no longer suppresses AskUserQuestion when the user or a skill explicitly…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc|codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc]]'

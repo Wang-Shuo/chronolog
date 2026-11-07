@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dda77ab78fd2f0357397c298efdbb34687f3f89ba128a8dbed175bfd758b4c6d
+machine_hash: 6532327703cdb1fc939715237e74626351b566cb4ed7c385c4e8c446f1104e0f
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Account and Access changes in v2.1.261
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-2-account-and-access-changes-in-rust-v0-152-0|2
-  Account and Access changes in rust-v0.152.0]]'
 - '[[Changes/Cline/2026-09-02-2-account-and-access-changes-in-v4-1-17|2 Account and
   Access changes in v4.1.17]]'
 - '[[Changes/Codex CLI/2026-09-03-42128-https-github-com-openai-codex-pull-42128-prepare-mcp-connections-for-coord|♯42128((source
   link) Prepare MCP connections…]]'
+- '[[Changes/OpenClaw/2026-09-03-12-account-and-access-changes-in-v2026-9-1|12 Account
+  and Access changes in v2026.9.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: account-access
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-42128-https-github-com-openai-codex-pull-42128-prepare-mcp-connections-for-coord|♯42128((source link) Prepare MCP connections…]]
+- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-12-account-and-access-changes-in-v2026-9-1|12 Account and Access changes in v2026.9.1]]
 - Later: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-3-account-and-access-changes-in-v1-0-83|3 Account and Access changes in v1.0.83]]
 <!-- chronolog:end -->
 

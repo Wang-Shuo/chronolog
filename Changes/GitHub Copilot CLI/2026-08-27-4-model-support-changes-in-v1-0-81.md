@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4af87e5768a6b130716446b0d894e12446c3002f10873137aa5d7591f4db646d
+machine_hash: 39b8ccbd5f9bfc9fdf5bffeb4c01d5f7fb67f09ae47bcffedeb702770c892ff2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -105,7 +105,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.81
 ## Nearby in Model Support
 
 - Earlier: 2026-08-26 · Ollama · [[Changes/Ollama/2026-08-26-mlxrunner-avoid-metal-gpu-timeouts-when-loading-models-from-slow-storage|mlxrunner: avoid Metal GPU timeouts when loading models from slow storage]]
-- Later: 2026-08-27 · Ollama · [[Changes/Ollama/2026-08-27-the-claude-desktop-proxy-no-longer-interrupts-in-flight-requests-when-the-model|The Claude Desktop proxy no longer interrupts in-flight requests when the model…]]
+- Later: 2026-08-27 · Midjourney · [[Changes/Midjourney/2026-08-27-today-we-re-gonna-start-letting-everyone-test-our-first-v8-2-image-edit-model|Today we’re gonna start letting everyone test our first V8.2 image edit model!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2b94c56b15a53dc716a4c972077b9f7eaff02162ab6d08a7f835d07068bc923c
+machine_hash: b0f56944901954282caead50773f7fa35a835811dde8dcf8e5a9fb717c7cd094
 product: replit
 product_name: Replit
 record:
@@ -70,10 +70,10 @@ record:
   title: Web search in Agent automations
   type: change
 related_changes:
-- '[[Changes/Replit/2026-01-09-automation-preview-for-agent-users|Automation preview
-  for Agent users]]'
 - '[[Changes/Dify/2026-01-13-chore-deps-bump-scheduler-from-0-26-0-to-0-27-0-in-web-by-dependabot-bot-in-http|chore(deps):
   bump scheduler from 0.26.0 to 0.27.0 in /web…]]'
+- '[[Changes/OpenCode/2026-01-19-core-add-scheduler-and-cleanup-module|Core Add scheduler
+  and cleanup module]]'
 - '[[Changes/Gemini CLI/2026-01-21-2-automation-and-scheduling-changes-in-v0-25-0|2
   Automation and Scheduling changes in v0.25.0]]'
 source_release: '[[Releases/Replit/replit-2026-01-23-2026-01-23-0f161827|replit-2026-01-23-2026-01-23-0f161827]]'
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-2-automation-and-scheduling-changes-in-v0-25-0|2 Automation and Scheduling changes in v0.25.0]]
-- Later: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-12-automation-and-scheduling-changes-in-v0-26-0|12 Automation and Scheduling changes in v0.26.0]]
+- Later: 2026-01-27 · Suno · [[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and|Sounds is a new Create mode that lets you create individual one-shot samples…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

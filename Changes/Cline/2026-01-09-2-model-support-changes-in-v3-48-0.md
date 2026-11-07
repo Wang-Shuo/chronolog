@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31bdf556f134d0ff5ea264f659ea1586413e3cd2238cddbfe7cef44ffc56fd13
+machine_hash: a465d97f6dabb4306cc1a66f33ecf219c9095dd9238d5d759070525620b0743f
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Model Support changes in v3.48.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model
-  list and selection]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-08-large-tool-outputs-are-written-to-disk-and-models-are-encouraged-to-use-efficien|Large
   tool outputs are written to disk and models are encouraged to use efficient…]]'
+- '[[Changes/OpenCode/2026-01-08-2-model-support-changes-in-v1-1-7|2 Model Support
+  changes in v1.1.7]]'
 - '[[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged
   slash commands and skills, simplifying the mental model with no change in behavior]]'
 source_release: '[[Releases/Cline/cline-2026-01-09-v3-48-0-github-275594973-5b3ea2b9|cline-2026-01-09-v3-48-0-github-275594973-5b3ea2b9]]'

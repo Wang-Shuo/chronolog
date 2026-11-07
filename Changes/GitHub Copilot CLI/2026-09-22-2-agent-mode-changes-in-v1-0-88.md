@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 70c5402953860afa7f46ad4ebff67b35ef013b24170233608dd4c36734d097c8
+machine_hash: d01c1af08c7efcb3dd79c27f64527e500bf447f0dea0413d36645ec57a67cd74
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.88
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-34-agent-mode-changes-in-rust-v0-156-0|34 Agent Mode changes in rust-v0.156.0]]
-- Later: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs: refresh AGENTS.md guidance]]
+- Later: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-windows-subsystem-for-linux-office-attachments-and-live-subagent-cards|Windows Subsystem for Linux, Office attachments, and live subagent cards]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

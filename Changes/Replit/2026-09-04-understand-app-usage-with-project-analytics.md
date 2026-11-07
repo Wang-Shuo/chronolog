@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f0be439374879b2b14c03d5d8963f8bef9a3ac6b0c184a085bf37d825270aeba
+machine_hash: ce5676fc272e95c9550c743127aec266fc5c26ca5168f1b11a5fb4528a94bd5e
 product: replit
 product_name: Replit
 record:
@@ -54,8 +54,8 @@ record:
   title: Understand app usage with Project Analytics
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-4-agent-mode-changes-in-rust-v0-153-0|4 Agent Mode
-  changes in rust-v0.153.0]]'
+- '[[Changes/OpenClaw/2026-09-03-14-agent-mode-changes-in-v2026-9-1|14 Agent Mode
+  changes in v2026.9.1]]'
 - '[[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode
   changes in v2.1.261]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-stopping-a-timed-out-shell-command-now-lets-queued-messages-run-and-sessions-ret|Stopping
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-stopping-a-timed-out-shell-command-now-lets-queued-messages-run-and-sessions-ret|Stopping a timed-out shell command now lets queued messages run and sessions return…]]
-- Later: 2026-09-07 · ElevenLabs · [[Changes/ElevenLabs/2026-09-07-javascript-sdk|JavaScript SDK]]
+- Later: 2026-09-04 · Runway · [[Changes/Runway/2026-09-04-team-is-a-new-self-serve-plan-for-small-teams-that-create-together-in-runway-eve|Introducing Team Plan]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

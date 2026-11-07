@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c8c0820bad352d108c701107bbbfb8b019fbbed59e796add5d50a8ea3848980
+machine_hash: b688e890f69df6c4d99c7d76773b175668bb9aaa7e2ebcbc221a169772387fa7
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,12 @@ record:
   title: Reduced memory usage for large Devin Local sessions
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-25-3-reliability-and-performance-changes-in-v0-12-4|3
-  Reliability and Performance changes in v0.12.4]]'
-- '[[Changes/Ollama/2026-10-27-faster-prompt-processing-on-apple-silicon-for-gemma-4-flint-and-laguna-models|Faster
-  prompt processing on Apple silicon for Gemma 4, Flint and Laguna models]]'
+- '[[Changes/OpenCode/2026-10-27-6-reliability-and-performance-changes-in-v2-2-0|6
+  Reliability and Performance changes in v2.2.0]]'
 - '[[Changes/Open WebUI/2026-10-29-2-reliability-and-performance-changes-in-v0-12-5|2
   Reliability and Performance changes in v0.12.5]]'
+- '[[Changes/OpenCode/2026-10-29-core-improve-snapshot-performance-by-coalescing-captures-and-avoiding-repeated-i|Core
+  Improve snapshot performance by coalescing captures and avoiding repeated…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-29-v3-11-234-334defb8|windsurf-2026-10-29-v3-11-234-334defb8]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-reliability-and-performance-changes-in-v0-12-5|2 Reliability and Performance changes in v0.12.5]]
+- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-core-improve-snapshot-performance-by-coalescing-captures-and-avoiding-repeated-i|Core Improve snapshot performance by coalescing captures and avoiding repeated…]]
 - Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-reliability-and-performance-changes-in-v2-1-314|3 Reliability and Performance changes in v2.1.314]]
 <!-- chronolog:end -->
 

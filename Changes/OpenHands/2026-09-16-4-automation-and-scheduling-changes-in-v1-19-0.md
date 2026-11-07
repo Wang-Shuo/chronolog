@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e936847b556332ff441f1136f67596de2499f28282df8b8ef9e5ef9b9ac4add2
+machine_hash: 985be66f799e9c491546f9e1b99ef3de9aa84f445d694fb88a28c6c56c22d465
 product: openhands
 product_name: OpenHands
 record:
@@ -47,10 +47,10 @@ record:
   title: 4 Automation and Scheduling changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9
-  Automation and Scheduling changes in v1.17.0]]'
 - '[[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation
   and Scheduling changes in 1.17.1]]'
+- '[[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7
+  Automation and Scheduling changes in v2026.9.4]]'
 - '[[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3
   Automation and Scheduling changes in v1.18.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a80353143063804b922bbef45ce1c34eff35bdb130c8cf5a58877fe24f7657d
+machine_hash: c5ac2b0b24a13d45fc5e204ac15f9cf78447c69846e721935591f7f1c98d26d9
 product: aider
 product_name: Aider
 record:
@@ -42,10 +42,10 @@ record:
   title: Skip suggesting files that share names with files already in chat
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-10-24-folders-support-for-chats-organize-your-chats-better-by-grouping-them-into-folde|\U0001F4C1
-  Folders Support for Chats: Organize your chats better by grouping them into folders]]"
 - '[[Changes/Aider/2024-11-01-anonymous-opt-in-analytics-https-aider-chat-docs-more-analytics-html-with-no-per|Anonymous,
   opt-in analytics((source link) with no…]]'
+- '[[Changes/Gamma/2024-11-06-until-now-there-hasn-t-been-a-way-to-share-custom-themes-anyone-outside-your-wor|Theme
+  sharing link]]'
 - '[[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration
   changes in v0.4.0]]'
 source_release: '[[Releases/Aider/aider-2024-11-26-v0-65-0-github-187637118-11b15eff|aider-2024-11-26-v0-65-0-github-187637118-11b15eff]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration changes in v0.4.0]]
-- Later: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-2-collaboration-changes-in-v0-5-0|2 Collaboration changes in v0.5.0]]
+- Later: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-tips|Tips]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

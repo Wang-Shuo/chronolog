@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3b3c254dbe9f94609357724f4a10bf55c9194910b97c80039f5922772f69617f
+machine_hash: 2d881eab689fbc9afcc266f2373b766562ad132a139c851f8e740bccf97f0179
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
     using…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-10-context-window-changes-in-rust-v0-162-0|10 Context
-  Window changes in rust-v0.162.0]]'
 - '[[Changes/Ollama/2026-10-08-ollama-launch-claude-uses-the-model-s-full-context-length-by-jberg5-in-https-git|ollama
   launch claude uses the model''s full context length]]'
+- '[[Changes/OpenClaw/2026-10-08-model-retries-and-context-one-shot-model-requests-through-the-gateway-retain-the|Model
+  retries and context]]'
 - '[[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context
   Window changes in v2.1.296]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-09-v1-0-95-github-408085682-4bdfce3d|github-copilot-cli-2026-10-09-v1-0-95-github-408085682-4bdfce3d]]'

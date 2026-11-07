@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 268b5ef5b609f3869fccdbd647b3344a1975b4ddde118447c01f9e81b86caa55
+machine_hash: b85563d47e7583c8c65f9e45f04aa721a4d227afcdbf8a4be287a9aea2bd306d
 product: replit
 product_name: Replit
 record:
@@ -39,12 +39,12 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-mcp-migration-hint-now-links-to-documentation-with-platform-specific-instruction|MCP
-  migration hint now links to documentation with platform-specific instructions…]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-16-3-apps-and-integrations-changes-in-v1-0-29|3
-  Apps and Integrations changes in v1.0.29]]'
 - '[[Changes/Ollama/2026-04-16-2-apps-and-integrations-changes-in-v0-21-0|2 Apps and
   Integrations changes in v0.21.0]]'
+- '[[Changes/OpenCode/2026-04-16-2-apps-and-integrations-changes-in-v1-4-7|2 Apps
+  and Integrations changes in v1.4.7]]'
+- '[[Changes/OpenCode/2026-04-17-core-let-plugin-tools-return-metadata-in-execute-results|Core
+  Let plugin tools return metadata in execute results]]'
 source_release: '[[Releases/Replit/replit-2026-04-17-2026-04-17-97599a7a|replit-2026-04-17-2026-04-17-97599a7a]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-16 · Ollama · [[Changes/Ollama/2026-04-16-2-apps-and-integrations-changes-in-v0-21-0|2 Apps and Integrations changes in v0.21.0]]
-- Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-apps-and-integrations-changes-in-v2-1-116|2 Apps and Integrations changes in v2.1.116]]
+- Earlier: 2026-04-17 · OpenCode · [[Changes/OpenCode/2026-04-17-core-let-plugin-tools-return-metadata-in-execute-results|Core Let plugin tools return metadata in execute results]]
+- Later: 2026-04-19 · OpenCode · [[Changes/OpenCode/2026-04-19-2-apps-and-integrations-changes-in-v1-14-18-1|2 Apps and Integrations changes in v1.14.18 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

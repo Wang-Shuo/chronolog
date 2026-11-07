@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 160eddf99ca4df5ff5e89b9ea36ddeb1d3b1b6c5cd77b1e9dd4ad4e05d4af8b7
+machine_hash: 1fe6f589eee850eccaea57d49b56f58502abfe5f1ddba21c73ba319223c24f46
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 'docs(extensions): refactor releasing guide and add update mechanisms'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-21-20-apps-and-integrations-changes-in-rust-v0-133-0|20
-  Apps and Integrations changes in rust-v0.133.0]]'
 - '[[Changes/Lovable/2026-05-21-app-connectors-google-maps-platform-semrush-and-tiktok|App
   connectors: Google Maps Platform, Semrush, and TikTok]]'
+- '[[Changes/OpenCode/2026-05-21-sdk-v2-global-event-streams-now-include-account-add-remove-and-switch-events|SDK
+  V2 global event streams now include account add, remove, and switch events]]'
 - '[[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2
   Apps and Integrations changes in v2.1.149]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a|gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2 Apps and Integrations changes in v2.1.149]]
-- Later: 2026-05-22 · Replit · [[Changes/Replit/2026-05-22-integrations|Integrations]]
+- Later: 2026-05-22 · Google Antigravity · [[Changes/Google Antigravity/2026-05-22-antigravity-ide-integration|Antigravity IDE integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

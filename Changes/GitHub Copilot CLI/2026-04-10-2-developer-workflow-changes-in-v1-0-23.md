@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b127cfa5ca2ef8ee41d20e3d207ec451094dc08ab3e5e057daf242d0cc539db
+machine_hash: 8277ae205a3a8ecac98be1710e3cd5192bbc42ab70343834e070b6876c6ad679
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: 2 Developer Workflow changes in v1.0.23
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-6-developer-workflow-changes-in-v2-1-98|6 Developer
-  Workflow changes in v2.1.98]]'
+- '[[Changes/OpenCode/2026-04-09-4-developer-workflow-changes-in-v1-4-2-1|4 Developer
+  Workflow changes in v1.4.2 + 1]]'
 - '[[Changes/Codex CLI/2026-04-10-28-developer-workflow-changes-in-rust-v0-119-0|28
   Developer Workflow changes in rust-v0.119.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-terminal-state-alt-screen-cursor-raw-mode-is-restored-correctly-after-cli-crashe|Terminal
@@ -86,7 +86,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.23
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-terminal-state-alt-screen-cursor-raw-mode-is-restored-correctly-after-cli-crashe|Terminal state (alt screen, cursor, raw mode) is restored correctly after CLI…]]
-- Later: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer Workflow changes in v2.1.105]]
+- Later: 2026-04-10 · OpenCode · [[Changes/OpenCode/2026-04-10-2-developer-workflow-changes-in-v1-4-3|2 Developer Workflow changes in v1.4.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

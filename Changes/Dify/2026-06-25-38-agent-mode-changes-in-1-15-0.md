@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42b1833496d6db3815e31399f5b4ed1eb13640215681278d20e04a15c50b28e2
+machine_hash: e95f81111d4474e4d84c8aa933e8257025841cb7626fba3de79f5de76253f439
 product: dify
 product_name: Dify
 record:
@@ -258,7 +258,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-3-agent-mode-changes-in-v2-1-193|3 Agent Mode changes in v2.1.193]]
-- Later: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved claude agents completed list to fill available vertical space]]
+- Later: 2026-06-25 · Runway · [[Changes/Runway/2026-06-25-make-marketing-that-drives-revenue-runway-agent-creates-entire-campaigns-analyze|Agent 2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2f04e0e4bc55fbbc25de59f1c2f27818365dc62d1c537e168b3280099142cbe0
+machine_hash: abdb70eb3690b25eee89cec1c8e02f02879e4861aefd02da4ee9c1ed08d15bd4
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: 'Keyboard Shortcuts: All keyboard shortcuts are now available in the Keyboard…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface
-  Experience changes in 0.25.0]]'
 - "[[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|\U0001F30D
   Translation Updates]]"
+- '[[Changes/Gamma/2025-03-05-making-edits-just-got-easier-you-can-now-right-click-on-any-inline-or-accent-ima|Making
+  edits just got easier!]]'
 - '[[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
 source_type: cursor_changelog

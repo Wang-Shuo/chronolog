@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ead0594d07740b616c355592dba223b2c8d474f50def5cebb4eebce78cf4b349
+machine_hash: ff90b0c43081d945f2f1e92d9b83014565c154936f65821e5a48f142dce23358
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Added Windows ARM64 (win32-arm64) native binary support
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-4-mobile-and-desktop-changes-in-rust-v0-100-0|4
-  Mobile and Desktop changes in rust-v0.100.0]]'
-- '[[Changes/Ollama/2026-02-12-installing-ollama-via-the-curl-install-script-on-macos-will-now-only-prompt-for|Installing
-  Ollama via the curl install script on macOS will now only prompt…]]'
-- "[[Changes/Open WebUI/2026-02-12-gboard-multi-line-paste-fix-multi-line-text-pasted-from-gboard-on-android-now-in|\U0001F4F1
-  Gboard multi-line paste fix. Multi-line text pasted from Gboard on Android now…]]"
+- '[[Changes/OpenCode/2026-02-12-2-mobile-and-desktop-changes-in-v1-1-60|2 Mobile
+  and Desktop changes in v1.1.60]]'
+- '[[Changes/OpenCode/2026-02-12-desktop-display-progress-bar-for-sqlite-migrations-in-desktop-app|Desktop
+  Display progress bar for SQLite migrations in desktop app]]'
+- '[[Changes/OpenCode/2026-02-12-3-mobile-and-desktop-changes-in-v1-1-64-1|3 Mobile
+  and Desktop changes in v1.1.64 + 1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-gboard-multi-line-paste-fix-multi-line-text-pasted-from-gboard-on-android-now-in|📱 Gboard multi-line paste fix. Multi-line text pasted from Gboard on Android now…]]
-- Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-2-mobile-and-desktop-changes-in-rust-v0-102-0|2 Mobile and Desktop changes in rust-v0.102.0]]
+- Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-3-mobile-and-desktop-changes-in-v1-1-64-1|3 Mobile and Desktop changes in v1.1.64 + 1]]
+- Later: 2026-02-13 · OpenCode · [[Changes/OpenCode/2026-02-13-7-mobile-and-desktop-changes-in-v1-1-65|7 Mobile and Desktop changes in v1.1.65]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

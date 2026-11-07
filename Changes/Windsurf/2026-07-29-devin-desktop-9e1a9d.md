@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 4f62329f45c2bc05b8e80a49d64b5a2772a8dccee749fa455984028d0db0ceb6
+machine_hash: 9db9c91ba1c163502caa2fa96f2822474c2162a9247a8aa47ebe788b2b38a046
 product: windsurf
 product_name: Windsurf
 record:
@@ -168,7 +168,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-29 · Windsurf · [[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile and Desktop changes in v2.1.224]]
+- Later: 2026-07-30 · OpenCode · [[Changes/OpenCode/2026-07-30-4-mobile-and-desktop-changes-in-v1-18-10|4 Mobile and Desktop changes in v1.18.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 13c90a0a769037659327ce9eb2430851b9a4a09c5f4e7ebb7efda7f423d18052
+machine_hash: 36e5c633e73169860fc1c965aad1b240c482956328cbd328096cbe8bdab442c1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 5 Model Support changes in v0.42.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-high-bugbot-spends-more-time-reasoning-reviews-are-more-expensive-and-take-longe|High:
-  Bugbot spends more time reasoning]]'
 - '[[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom:
   Describe in natural language when Bugbot should use default or high effort]]'
+- '[[Changes/OpenCode/2026-05-11-2-model-support-changes-in-v1-14-48-1|2 Model Support
+  changes in v1.14.48 + 1]]'
 - '[[Changes/Dify/2026-05-12-2-model-support-changes-in-1-14-1|2 Model Support changes
   in 1.14.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3|gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67df97f4390a74c6c30c61fdd1d6ddffdf124abb6d107780337efb6e4a352c47
+machine_hash: 572dea010a045e72773316755afe890282b5b6e2072a75a152b35e4a009e7882
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#39283 Document secure devcontainer DNS exfiltration risk @copyberry'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-36043-document-the-responses-api-proxy-reqwest-exception-copyberry|♯36043
-  Document the Responses API proxy reqwest exception @copyberry]]'
-- '[[Changes/OpenHands/2026-08-07-feat-settings-polish-agent-canvas-version-update-ui-by-fraterccclxiii-in-https-g|feat(settings):
-  polish Agent Canvas version update UI]]'
+- '[[Changes/Google Antigravity/2026-08-12-added-support-for-attaching-and-rendering-plain-text-txt-pdf-pdf-and-markdown-md|Added
+  support for attaching and rendering plain text (.txt), pdf (.pdf) and markdown…]]'
+- '[[Changes/OpenCode/2026-08-12-core-enabled-pdf-attachments-for-github-copilot-models-that-advertise-pdf-vision|Core
+  Enabled PDF attachments for GitHub Copilot models that advertise PDF vision support]]'
 - '[[Changes/OpenHands/2026-08-17-2-files-and-data-changes-in-v1-14-0|2 Files and
   Data changes in v1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'

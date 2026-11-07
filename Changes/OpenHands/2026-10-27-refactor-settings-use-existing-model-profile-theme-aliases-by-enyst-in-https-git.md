@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 065fa186acc53fc75f44147607f318618ffb66495e53991bcaf4b260ef994d6f
+machine_hash: 0fbf22c8e4bc8aac39763d87a114a445f7ce7ead21ae19c405836df4a3799e55
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 'refactor(settings): use existing model-profile theme aliases'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-10-27-add-banner-about-gemini-cli-not-being-optimized-for-gemini-4-by-srithreepo-in-ht|Add
-  Banner about Gemini CLI not being optimized for Gemini 4]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-27-managed-model-fusion-now-starts-sessions-on-auto-and-applies-fusiontier-settings|Managed
-  model "fusion" now starts sessions on Auto and applies fusionTier settings]]'
-- '[[Changes/Ollama/2026-10-27-speculative-decoding-now-supports-dflash2-draft-models-on-mlx|Speculative
-  decoding now supports DFlash2 draft models on MLX]]'
+- '[[Changes/OpenClaw/2026-10-27-6-model-support-changes-in-v2026-10-8|6 Model Support
+  changes in v2026.10.8]]'
+- '[[Changes/OpenCode/2026-10-27-13-model-support-changes-in-v2-2-0|13 Model Support
+  changes in v2.2.0]]'
+- '[[Changes/OpenCode/2026-10-27-add-configurable-prompt-cache-ttls-per-provider-model|Add
+  configurable prompt cache TTLs per provider/model]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892|openhands-2026-10-27-v1-34-0-github-425575573-3f638892]]'
 source_type: github_releases
 theme: model-support
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-speculative-decoding-now-supports-dflash2-draft-models-on-mlx|Speculative decoding now supports DFlash2 draft models on MLX]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-add-configurable-prompt-cache-ttls-per-provider-model|Add configurable prompt cache TTLs per provider/model]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model Support changes in rust-v0.166.0]]
 <!-- chronolog:end -->
 

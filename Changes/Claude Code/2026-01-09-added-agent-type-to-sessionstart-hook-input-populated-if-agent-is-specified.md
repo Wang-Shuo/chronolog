@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 4a74e050eef1ef7d6478f8175680804522bb4b014f2ffde87b1d38c48c31000e
+machine_hash: bc3675a05b049d42769e4b80a0d8a2b9ba0c92e808312938d98be91e16530d6f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     specified
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New
-  agent command is now the primary CLI entrypoint. cursor-agent remains…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-08-task-tool-subagents-can-now-process-images|Task
   tool subagents can now process images]]'
+- '[[Changes/OpenCode/2026-01-08-core-simplify-task-tool-subagent-filtering|Core Simplify
+  task tool subagent filtering]]'
 - '[[Changes/v0/2026-01-08-improved-how-large-inputs-are-stored-in-the-agent-s-filesystem-for-better-recall|Improved
   how large inputs are stored in the agent''s filesystem for better recall]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'

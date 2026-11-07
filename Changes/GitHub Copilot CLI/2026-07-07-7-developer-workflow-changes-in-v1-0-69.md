@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7272f3fdb55fe0b6f756c4c1c247b08fcfc3d0a7f14474432c85dd5ee7c66c13
+machine_hash: ac41d04e822d4a702eb488299b0a74085a661aea1c7682bc77077f3025901464
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,8 +54,8 @@ record:
   title: 7 Developer Workflow changes in v1.0.69
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed
-  /review pr back to a fast single-pass review]]'
+- '[[Changes/OpenCode/2026-07-06-3-developer-workflow-changes-in-v1-17-14|3 Developer
+  Workflow changes in v1.17.14]]'
 - '[[Changes/OpenHands/2026-07-06-feat-add-full-git-history-user-setting-by-malhotra5-in-https-github-com-openhand|feat:
   Add full Git history user setting]]'
 - '[[Changes/Claude Code/2026-07-07-removed-the-startup-claude-command-missing-or-broken-warnings-they-now-appear-in|Removed
@@ -115,7 +115,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.69
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-removed-the-startup-claude-command-missing-or-broken-warnings-they-now-appear-in|Removed the startup "claude command missing or broken" warnings]]
-- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-7-developer-workflow-changes-in-rust-v0-143-0|7 Developer Workflow changes in rust-v0.143.0]]
+- Later: 2026-07-07 · OpenCode · [[Changes/OpenCode/2026-07-07-desktop-make-terminal-shortcuts-take-priority-when-the-terminal-is-focused|Desktop Make terminal shortcuts take priority when the terminal is focused]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

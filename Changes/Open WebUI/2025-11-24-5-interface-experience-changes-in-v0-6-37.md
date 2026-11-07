@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d658b3a112f060e35c7f9efb05e81b518ed37e2133cb93576287cb96a3f6c0e3
+machine_hash: 06efc36668b2edcdbed7e30aef94db1913be8c176a4f6df4254273d8988d4f64
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,8 +61,8 @@ record:
   title: 5 Interface Experience changes in v0.6.37
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-20-bug-ui-make-it-clear-when-users-need-to-enter-selection-mode-and-fix-clear-issue|bug(ui)
-  make it clear when users need to enter selection mode and fix clear issue]]'
+- '[[Changes/Midjourney/2025-11-20-animate-manually-button-bumps-you-back-to-prompt-bar|Animate
+  manually button bumps you back to prompt bar]]'
 - '[[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set
   origin allowlist from dashboard to restrict browser tools]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved
@@ -128,7 +128,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.37
 ## Nearby in Interface Experience
 
 - Earlier: 2025-11-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved timeline rendering of shell tool names]]
-- Later: 2025-11-25 · Open WebUI · [[Changes/Open WebUI/2025-11-25-2-interface-experience-changes-in-v0-6-39|2 Interface Experience changes in v0.6.39]]
+- Later: 2025-11-25 · Gamma · [[Changes/Gamma/2025-11-25-here-s-what-s-improved|Here's what's improved]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

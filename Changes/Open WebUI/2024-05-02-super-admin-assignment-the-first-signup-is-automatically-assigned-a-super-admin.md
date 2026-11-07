@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d03ff1132023041a4014322bf61df24b27083450819a3dce434b172dc0c2a99
+machine_hash: b2261035850234de5d0192972520114657b036bfdfb337babaf87996237ac7e9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,8 @@ record:
   title: "**\U0001F451 Super Admin Assignment**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-  improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+- '[[Changes/Runway/2024-04-05-admins-can-now-configure-sso-for-new-users-to-request-access-instead-of-auto-add|Request
+  SSO access instead of auto-adding users]]'
 - '[[Changes/Dify/2024-04-22-feat-enterprise-sso-by-garfielddai-in-https-github-com-langgenius-dify-pull-3602|Feat/enterprise
   sso]]'
 - "[[Changes/Open WebUI/2024-04-28-improved-admin-panel-admins-can-now-conveniently-check-users-chat-lists-and-last|\U0001F468\U0001F4BC

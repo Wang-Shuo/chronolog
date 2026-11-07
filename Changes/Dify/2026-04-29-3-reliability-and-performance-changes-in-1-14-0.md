@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 420d864f263ab0eba4418c800e391b5738dc8186f4e4dee43f71f778e5f95f7d
+machine_hash: cdf1ad3a5b9b0e9ee8146e60114de9cbf478ec636b83390087ca8582a9444771
 product: dify
 product_name: Dify
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-2-reliability-and-performance-changes-in-v0-40-0|2 Reliability and Performance changes in v0.40.0]]
-- Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve CLI startup speed by loading custom CA certificates asynchronously]]
+- Later: 2026-04-29 · OpenCode · [[Changes/OpenCode/2026-04-29-core-reduced-memory-growth-in-long-running-bash-tool-usage|Core Reduced memory growth in long-running bash tool usage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

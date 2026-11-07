@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1008a313c62bfd5c35edcd62791ed13cdfd17fc3797336f11898ca8eeffd074a
+machine_hash: f0b2b43b3ffa63668361a614a22648a27b70b8381e1957060ce54efb73dc21b1
 product: ollama
 product_name: Ollama
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-preconnect-websocket-to-reduce-response-latency|Preconnect websocket to reduce response latency]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-3-reliability-and-performance-changes-in-rust-v0-105-0|3 Reliability and Performance changes in rust-v0.105.0]]
+- Later: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-2-reliability-and-performance-changes-in-v1-2-11|2 Reliability and Performance changes in v1.2.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

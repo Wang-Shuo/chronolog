@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf0737d5dea6ccf408b222f7006a383d55474c487076cf4cb19a4cd9042d90c5
+machine_hash: a3cc54dbc0cb9f813f6243b8276be44b4a2905dcf4f281dc92b301ebd48676db
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,9 +46,10 @@ record:
   title: 2 Agent Mode changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-28-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-queue-exit-commands-while-an-agent-response-is-still-running|Queue
   exit commands while an agent response is still running]]'
+- '[[Changes/Google Antigravity/2026-09-28-2-agent-mode-changes-in-hub-v2-18-1-manage-install-plugins|2
+  Agent Mode changes in HUB v2.18.1 — Manage & Install plugins…]]'
 - '[[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5|ChatGPT
   introduces dots]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 29ae8423301da9bcc4c5f62b44049cf457b0e69f3a280123427f5897ef85b85f
+machine_hash: 5c7b692747079cfa734a8ee7b952714491e494dd4c1b94cebfc09e4341a6daa7
 product: cline
 product_name: Cline
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-improved-terminal-resize-and-first-render-performance-for-long-responses-by-reus|Improved terminal resize and first-render performance for long responses by reusing…]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-improved-deleting-a-background-session-whose-worktree-has-unpushed-commits-the-m|Improved deleting a background session whose worktree has unpushed commits]]
+- Later: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-terminal-split-layouts-are-now-preserved-across-window-reloads|Terminal split layouts are now preserved across window reloads]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

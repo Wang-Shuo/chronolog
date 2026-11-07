@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: e350b881a77f4ebd96d89fba7c2f5759a44ab441719c7f95d6044c85a26d9e15
+machine_hash: 402e14c78ea3cff7c484d1eb0bcace192f81efc9495590e2e58746f057cf347e
 product: v0
 product_name: v0
 record:
@@ -41,8 +41,9 @@ record:
   title: Updated v0 Max pricing
   type: change
 related_changes:
-- '[[Changes/Replit/2025-12-26-gift-cards|Gift cards]]'
 - '[[Changes/Replit/2025-12-26-credit-packs-holiday-sale|Credit packs holiday sale]]'
+- '[[Changes/OpenCode/2026-01-12-terminal-refactor-event-streaming-in-tui-to-use-sdk-instead-of-manual-rpc-subscr|Terminal
+  Refactor event streaming in TUI to use SDK instead of manual RPC subscription]]'
 - '[[Changes/v0/2026-01-14-added-scope-selector-in-the-buy-credits-dialog|Added scope
   selector in the buy credits dialog]]'
 source_release: '[[Releases/v0/v0-2026-01-15-2026-01-15-3ad21b8a|v0-2026-01-15-2026-01-15-3ad21b8a]]'

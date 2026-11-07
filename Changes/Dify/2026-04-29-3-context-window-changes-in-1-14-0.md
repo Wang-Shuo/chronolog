@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 22a22cf20ca38319d5a95b1c02f0aec81c9f37d51d77fe2d3ef26e182ac49d5d
+machine_hash: 2328ee4f275b3731a84ac34ae5c1e5295b6e8670c420fed464a64f40ab87c373
 product: dify
 product_name: Dify
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Context Window changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-24-3-context-window-changes-in-v0-9-2|3 Context Window
-  changes in v0.9.2]]'
 - '[[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode
   /context now opens a native token usage dialog]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-28-add-compact-context-usage-and-env-slash-commands-for-acp-sessions|Add
   /compact, /context, /usage, and /env slash commands for ACP sessions]]'
+- '[[Changes/OpenCode/2026-04-28-2-context-window-changes-in-v1-14-29|2 Context Window
+  changes in v1.14.29]]'
 source_release: '[[Releases/Dify/dify-2026-04-29-1-14-0-github-314986233-63073e86|dify-2026-04-29-1-14-0-github-314986233-63073e86]]'
 source_type: github_releases
 theme: context-window
@@ -102,8 +102,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-28-add-compact-context-usage-and-env-slash-commands-for-acp-sessions|Add /compact, /context, /usage, and /env slash commands for ACP sessions]]
-- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-19805-add-multiagentv2-root-and-subagent-context-hints-jif-oai|♯19805 Add MultiAgentV2 root and subagent context hints @jif-oai]]
+- Earlier: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-2-context-window-changes-in-v1-14-29|2 Context Window changes in v1.14.29]]
+- Later: 2026-04-29 · OpenCode · [[Changes/OpenCode/2026-04-29-2-context-window-changes-in-v1-14-30|2 Context Window changes in v1.14.30]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

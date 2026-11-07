@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6fa40249a2e59651ae11159fbc8f24f8be695e1ed5d33d1a216d07aeb90d692
+machine_hash: 01b05a2a16e7403149bbeb8458fc15a6df5ebf3e9f0212b8969973fe78a39d35
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,10 @@ record:
   title: 4 Model Support changes in v3.85.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-21-gemini-3-5-flash-for-ai-features-in-your-app|Gemini
-  3.5 Flash for AI features in your app]]'
 - '[[Changes/Gemini CLI/2026-05-22-2-model-support-changes-in-v0-43-0|2 Model Support
   changes in v0.43.0]]'
+- '[[Changes/OpenCode/2026-05-22-2-model-support-changes-in-v1-15-9|2 Model Support
+  changes in v1.15.9]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-general-purpose-subagents-use-gpt-5-4-or-gpt-5-5-when-available|General-purpose
   subagents use GPT-5.4 or GPT-5.5 when available]]'
 source_release: '[[Releases/Cline/cline-2026-05-25-v3-85-0-github-329008379-9b345c1b|cline-2026-05-25-v3-85-0-github-329008379-9b345c1b]]'

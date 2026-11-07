@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d78464ca58b12e5f2af79cd1fad671c5a38a4d8cb46b9ecad386b3938e75fad6
+machine_hash: 5d930192b76c5c0db1bf66fd06d3530f856dca08b0a42d774bcb12e45d634a4c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -66,8 +66,8 @@ record:
   title: 10 Interface Experience changes in rust-v0.119.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-08-refine-onboarding-metrics-to-log-the-duration-explicitly-and-use-the-tier-name-b|Refine
-  onboarding metrics to log the duration explicitly and use the tier name]]'
+- '[[Changes/OpenCode/2026-04-08-terminal-added-a-keybinding-option-for-switch-model-variant|Terminal
+  Added a keybinding option for "Switch model variant"]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-09-slash-command-picker-appears-above-the-text-input-for-a-more-stable-layout|Slash
   command picker appears above the text input for a more stable layout]]'
 - '[[Changes/Claude Code/2026-04-10-improved-focus-mode-claude-now-writes-more-self-contained-summaries-since-it-kno|Improved

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 54b761bfaaf641e6cc4a9f2860c7af801bf55560c7d72f8d6adbb9028fef416c
+machine_hash: beb3f31659f0562b726ab8cb005820ea4ae6e2e0bd38e4955a77ec5e2bce9857
 product: open-webui
 product_name: Open WebUI
 record:
@@ -69,8 +69,8 @@ record:
   title: 7 Memory and Personalization changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-custom-instructions-and-skills-refresh-from-disk-after-clear-or-new|Custom
-  instructions and skills refresh from disk after /clear or /new]]'
+- '[[Changes/OpenCode/2026-04-16-core-the-bash-tool-uses-less-memory-on-large-command-output|Core
+  The bash tool uses less memory on large command output]]'
 - '[[Changes/Codex CLI/2026-04-20-4-memory-and-personalization-changes-in-rust-v0-122-0|4
   Memory and Personalization changes in rust-v0.122.0]]'
 - '[[Changes/ElevenLabs/2026-04-20-elevenagents-d2ebb2|ElevenAgents]]'

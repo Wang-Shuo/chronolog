@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b6d8741eb7f3ee42ccf062328d8afbceaf5fc6432ecb56ce60f4f3da47cef79d
+machine_hash: 912a90845454dd5b9a3fbfdd6d880136c7591b6784247c8562146849472a2a2d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -124,7 +124,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.0
 ## Nearby in Model Support
 
 - Earlier: 2026-07-09 · Cline · [[Changes/Cline/2026-07-09-allow-selecting-cline-free-models-on-the-clinepass-provider-organized-into-subsc|Allow selecting Cline free models on the ClinePass provider, organized…]]
-- Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-improved-code-review-findings-quality-on-claude-opus-4-8-across-all-effort-level|Improved /code-review findings quality on claude-opus-4-8 across all effort levels]]
+- Later: 2026-07-09 · OpenCode · [[Changes/OpenCode/2026-07-09-3-model-support-changes-in-v1-17-18-1|3 Model Support changes in v1.17.18 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

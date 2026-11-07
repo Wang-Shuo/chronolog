@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58557969f402b633f4f99944b2b86a2e03e43243f4dd8b62dbafba873764c238
+machine_hash: 1ca6cbe28767f3d8d4e8477062a32984f3df2f7ad9eb96bd7cdf136bda33b2e6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,10 +55,10 @@ record:
   title: 3 Safety and Privacy changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-disabling-the-sandbox-for-the-rest-of-the-session-now-takes-effect-immediately-s|Disabling
-  the sandbox for the rest of the session now takes effect immediately…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-3-safety-and-privacy-changes-in-v1-0-66|3
-  Safety and Privacy changes in v1.0.66]]'
+- '[[Changes/OpenClaw/2026-06-30-6-safety-and-privacy-changes-in-v2026-6-11|6 Safety
+  and Privacy changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-sdk-add-session-permission-request-create-and-fetch-endpoints|SDK
+  Add session permission request create and fetch endpoints]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4
   Safety and Privacy changes in v1.0.68]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'

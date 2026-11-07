@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 22861a1369d9d9255e5eec86120cda2fe3356b09870dae1e17e227023fa08e19
+machine_hash: 7a213dfff46cd69c14622dccfca0aa033bfe319e901416fe6bb3ae6905a242d9
 product: replit
 product_name: Replit
 record:
@@ -58,10 +58,10 @@ record:
   title: Bring more Slack context to Agent
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5
-  Apps and Integrations changes in v2.1.219]]'
 - '[[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include
   the host plugin version in telemetry events]]'
+- '[[Changes/OpenCode/2026-07-24-core-use-the-correct-prompt-cache-keys-for-each-sdk|Core
+  Use the correct prompt cache keys for each SDK]]'
 - '[[Changes/Replit/2026-07-24-integrations|Integrations]]'
 source_release: '[[Releases/Replit/replit-2026-07-24-2026-07-24-b0f18b89|replit-2026-07-24-2026-07-24-b0f18b89]]'
 source_type: replit_changelog
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-24 · Cline · [[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include the host plugin version in telemetry events]]
+- Earlier: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-core-use-the-correct-prompt-cache-keys-for-each-sdk|Core Use the correct prompt cache keys for each SDK]]
 - Later: 2026-07-27 · ElevenLabs · [[Changes/ElevenLabs/2026-07-27-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 

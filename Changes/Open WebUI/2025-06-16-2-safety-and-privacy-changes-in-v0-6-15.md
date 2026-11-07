@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: acd7550b95998eafb3662befdc1336639dba20841322245f95f926f37ce55b39
+machine_hash: 3f6bfbd3dbcf18db7ec3facf865a09fb97493fe5ce32879192fd73bbc9b47a10
 product: open-webui
 product_name: Open WebUI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.15
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-2-safety-and-privacy-changes-in-1-4-2|2 Safety and Privacy changes in 1.4.2]]
-- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-daytona-runtime-sandbox-handling-by-idagelic-in-https-github-com-all-hands-ai-op|Daytona Runtime sandbox handling]]
+- Later: 2025-06-20 · Manus · [[Changes/Manus/2025-06-20-open-the-browser-in-a-session-log-in-manually-once-we-encrypt-save-your-login-st|Introducing Manus Cloud Browser]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

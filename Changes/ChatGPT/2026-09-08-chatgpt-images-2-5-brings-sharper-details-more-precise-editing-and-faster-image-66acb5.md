@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d1e50aaf9cd508045f16de2e2dee615e5f09584022c95b59dce513d8a3a70be6
+machine_hash: 9eb0d29e781c105c576350c2e9a74b35e07f57e94c78755dece28e43683a1fc3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -110,7 +110,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-generated-images-referenced-by-relative-paths-render-in-responses-as-do-screensh|Generated images referenced by relative paths render in responses, as do screenshots…]]
-- Later: 2026-09-15 · Lovable · [[Changes/Lovable/2026-09-15-gpt-image-2-5-flare-and-sunburst-for-your-app-s-ai-features|GPT Image 2.5 Flare and Sunburst for your app's AI features]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-2-image-generation-changes-in-v2026-9-4|2 Image Generation changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

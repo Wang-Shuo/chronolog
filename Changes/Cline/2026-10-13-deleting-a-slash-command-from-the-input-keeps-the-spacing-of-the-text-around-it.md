@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 41a00994454565833daddda43b44cc1b3fcfa3376e766ef1a0efcfde5c522270
+machine_hash: c66106f05305ac47bd7f1a2dce43850e3d2641256b23e8f6c280de74d3510250
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
     it
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-27-developer-workflow-changes-in-v0-12-0|27 Developer
-  Workflow changes in v0.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-interactive-sessions-in-git-repositories-reach-the-input-prompt-sooner|Interactive
   sessions in git repositories reach the input prompt sooner]]'
 - '[[Changes/Ollama/2026-10-12-decision-models-can-now-be-used-directly-from-the-terminal-with-ollama-run-ask-y|Decision
   models can now be used directly from the terminal with ollama run]]'
+- '[[Changes/OpenClaw/2026-10-12-2-developer-workflow-changes-in-v2026-10-2|2 Developer
+  Workflow changes in v2026.10.2]]'
 source_release: '[[Releases/Cline/cline-2026-10-13-v4-1-24-github-411804449-05899922|cline-2026-10-13-v4-1-24-github-411804449-05899922]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-decision-models-can-now-be-used-directly-from-the-terminal-with-ollama-run-ask-y|Decision models can now be used directly from the terminal with ollama run]]
+- Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-2-developer-workflow-changes-in-v2026-10-2|2 Developer Workflow changes in v2026.10.2]]
 - Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-background-shell-wait-status-no-longer-animates-when-no-foreground-work-is-runni|Background-shell wait status no longer animates when no foreground work is running]]
 <!-- chronolog:end -->
 

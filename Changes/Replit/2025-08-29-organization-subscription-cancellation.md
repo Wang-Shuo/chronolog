@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d0fad81a083b5f5f4a101234a3ccd7e1931662a3d25c3a04e886892cc0a4fc3e
+machine_hash: 21eac45237a7157f7b3cd3cc4f1200470ea73451909c086cb81463d43b0cfa39
 product: replit
 product_name: Replit
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https|Update quota-and-pricing.md to clarify billing]]
-- Later: 2025-09-01 · Lovable · [[Changes/Lovable/2025-09-01-flexible-plan-management|Flexible plan management]]
+- Later: 2025-08-29 · Suno · [[Changes/Suno/2025-08-29-help-shape-suno-s-future-by-using-listen-rank-a-new-feature-to-rate-clips-by-oth|Listen and Rank, Earn Free Credits!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 774d4e94b8e9ffe98650c0c20f0149dd5d087c39d887e3e2c34a1b285b7f0830
+machine_hash: 0c2dc5e65fd45f1614064c338d09294e06ccc64a995f2af7a24239cb002a31c3
 product: cursor
 product_name: Cursor
 record:
@@ -113,7 +113,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind menu: added "Summarize up to here" to compress earlier context while keeping…]]
-- Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved reactive compaction]]
+- Later: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-keep-recent-turns-after-compaction-instead-of-folding-them-into-the-summary|Core Keep recent turns after compaction instead of folding them into the summary]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

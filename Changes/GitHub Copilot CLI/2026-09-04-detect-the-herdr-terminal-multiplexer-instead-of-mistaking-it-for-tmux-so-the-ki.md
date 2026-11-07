@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 407b4aaae64eb51c8c34f16d0a9208989fbc797463d6ea34e0b325b538c12b9e
+machine_hash: 5d877b036f50f0fcf789f31be6cb7d0fd20b53cf777594c7a0b8e93b7b162b90
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
     the Kitty…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-improved-deleting-a-background-session-whose-worktree-has-unpushed-commits-the-m|Improved
-  deleting a background session whose worktree has unpushed commits]]'
 - '[[Changes/Codex CLI/2026-09-03-5-developer-workflow-changes-in-rust-v0-153-0|5
   Developer Workflow changes in rust-v0.153.0]]'
+- '[[Changes/OpenClaw/2026-09-03-11-developer-workflow-changes-in-v2026-9-1|11 Developer
+  Workflow changes in v2026.9.1]]'
 - '[[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer
   Workflow changes in v2.1.261]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer Workflow changes in v2.1.261]]
-- Later: 2026-09-07 · ElevenLabs · [[Changes/ElevenLabs/2026-09-07-elevenlabs-cli|ElevenLabs CLI]]
+- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-16-developer-workflow-changes-in-v2026-9-2|16 Developer Workflow changes in v2026.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3d48e48ddead835a34c283ba785a48d7049b811abb29324ba78f19dae22fdaac
+machine_hash: c77d9851370c6d530e5a9a38cb6f41bc3b5630a2767c9e250589aa44c1dc39d5
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -58,11 +58,12 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-12-23-tasks|Tasks]]'
-- '[[Changes/Dify/2025-12-25-2-agent-mode-changes-in-1-11-2|2 Agent Mode changes in
-  1.11.2]]'
+- '[[Changes/OpenCode/2026-01-01-2-agent-mode-changes-in-v1-0-223-1|2 Agent Mode changes
+  in v1.0.223 + 1]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-02-built-in-subagents-for-exploring-and-managing-tasks|Built-in
   subagents for exploring and managing tasks]]'
+- '[[Changes/OpenCode/2026-01-04-4-agent-mode-changes-in-v1-1-1|4 Agent Mode changes
+  in v1.1.1]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-01-05-2026-01-05-6c816c7e|elevenlabs-2026-01-05-2026-01-05-6c816c7e]]'
 source_type: elevenlabs_changelog
 theme: agent-mode
@@ -101,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-built-in-subagents-for-exploring-and-managing-tasks|Built-in subagents for exploring and managing tasks]]
-- Later: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-4-agent-mode-changes-in-rust-v0-79-0|4 Agent Mode changes in rust-v0.79.0]]
+- Earlier: 2026-01-04 · OpenCode · [[Changes/OpenCode/2026-01-04-4-agent-mode-changes-in-v1-1-1|4 Agent Mode changes in v1.1.1]]
+- Later: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-core-transform-agent-improvements-and-optimizations|Core Transform agent improvements and optimizations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

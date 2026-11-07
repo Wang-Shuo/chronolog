@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b40493034e3dcc40e5069ae4bcd4af7205b9c9dbb54cee9fb6f18deec0b2062
+machine_hash: ab1091f7ce1a6c282399cf23d524c6959d8ec7eed5a608ccea24973d8d2477c9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: Complete, statically analyzable read-only shell pipelines can now enter…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-3-developer-workflow-changes-in-v2-1-286|3 Developer
-  Workflow changes in v2.1.286]]'
+- '[[Changes/OpenClaw/2026-09-30-13-developer-workflow-changes-in-v2026-9-7|13 Developer
+  Workflow changes in v2026.9.7]]'
 - '[[Changes/Claude Code/2026-10-01-3-developer-workflow-changes-in-v2-1-287|3 Developer
   Workflow changes in v2.1.287]]'
 - '[[Changes/Codex CLI/2026-10-01-2-developer-workflow-changes-in-rust-v0-160-0|2

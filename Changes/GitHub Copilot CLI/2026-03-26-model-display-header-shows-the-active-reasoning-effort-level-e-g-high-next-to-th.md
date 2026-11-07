@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c5c87add64e94aad3c84276fd4e5229e28bd6cb1975c3c67e4da8af9a25049ed
+machine_hash: f4b6e4427c86561c35d02085af5050808494eeaea03cbc00a17d4c421b26ae6e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-3-model-support-changes-in-rust-v0-117-0|3 Model Support changes in rust-v0.117.0]]
-- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-7-model-support-changes-in-1-13-3|7 Model Support changes in 1.13.3]]
+- Later: 2026-03-26 · Suno · [[Changes/Suno/2026-03-26-v5-5-our-newest-model-richer-arrangements-sharper-vocals-and-more-dynamic-sound|v5.5 Our newest model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

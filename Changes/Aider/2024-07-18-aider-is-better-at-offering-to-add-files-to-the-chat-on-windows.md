@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2ad0c5cddaa74d9e99682cb9f715c2e0c00414c824e9f65ef8c039397dfd48c1
+machine_hash: 87b618276fe0fc66a48c5f2ef556ee09b59baccce5a334c74a88e035731d1fac
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,8 @@ record:
   title: Aider is better at offering to add files to the chat on Windows
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-2-mobile-and-desktop-changes-in-0-7-0|2 Mobile and
-  Desktop changes in 0.7.0]]'
+- '[[Changes/Suno/2024-07-01-we-re-excited-to-present-suno-on-ios|We’re excited to
+  present Suno on iOS]]'
 - '[[Changes/Dify/2024-07-08-ensure-sh-are-lf-style-so-that-they-can-be-used-directly-by-docker-for-windows-b|Ensure
   .sh are LF-style, so that they can be used directly by Docker for Windows]]'
 - "[[Changes/Open WebUI/2024-07-09-font-change-for-windows-replaced-arimo-with-inter-font-for-windows-users-improvi|\U0001F504

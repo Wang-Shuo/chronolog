@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c311dcd9fbb9766987e1d3cd204a44ea3b1266e7878c7a2f74221db9b77db66
+machine_hash: ac0e11b95b181417fdd3b60e3110d1cabe36af53781451ca029f13fa043c2c1a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,12 +56,12 @@ record:
   title: "\U0001F680 **Optimized Faster Web Search & Multi-Threaded Queries**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-04-07-2-search-and-browsing-changes-in-v0-6-2|2 Search
-  and Browsing changes in v0.6.2]]'
 - '[[Changes/Cline/2025-04-08-use-your-local-chrome-browser-for-session-based-browsing-enabling-debugging-and|Use
   your local Chrome browser for session-based browsing, enabling debugging…]]'
 - "[[Changes/Open WebUI/2025-04-13-sougou-web-search-integration-new-search-engine-option-added-enhancing-global-re|\U0001F9ED
   Sougou Web Search Integration]]"
+- '[[Changes/Gamma/2025-04-16-layout-suggestions-powered-by-ai|Layout Suggestions
+  (Powered by AI)]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-05-v0-6-6-github-216502762-5c099040|open-webui-2025-05-05-v0-6-6-github-216502762-5c099040]]'
 source_type: github_releases
 theme: search-browsing
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-sougou-web-search-integration-new-search-engine-option-added-enhancing-global-re|🧭 Sougou Web Search Integration]]
+- Earlier: 2025-04-16 · Gamma · [[Changes/Gamma/2025-04-16-layout-suggestions-powered-by-ai|Layout Suggestions (Powered by AI)]]
 - Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-chatgpt-deep-research-with-github-is-available-globally-to-team-users-it-is-also-ad2e25|GitHub connector for deep research for Plus/Pro/Team]]
 <!-- chronolog:end -->
 

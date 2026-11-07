@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66f2dfc1350d00368aeea1b1d0927abb883c99fc1047bb34f111070e8747edb1
+machine_hash: ff8579c7086ef30f82ef5c9ebdc92d5b211932d2cc833dd95c41f79595b1cd72
 product: open-webui
 product_name: Open WebUI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2024-04-29 · ChatGPT · [[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory is now available to Plus users]]
-- Later: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-2-memory-and-personalization-changes-in-0-6-11|2 Memory and Personalization changes in 0.6.11]]
+- Later: 2024-06-12 · Midjourney · [[Changes/Midjourney/2024-06-12-what-is-model-personalization|What is Model Personalization?]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

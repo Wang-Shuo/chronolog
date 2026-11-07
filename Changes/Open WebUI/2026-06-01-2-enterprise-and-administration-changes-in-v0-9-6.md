@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c780fc36523ee90a5e9e2a6eefabc59fe38a75628f786745338b5189350170fa
+machine_hash: 46577359ce056a7c4d7ea550827e04d646b55092d43de1a9037a82097b535c8b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,8 +50,7 @@ record:
   title: 2 Enterprise and Administration changes in v0.9.6
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-26-23736-add-new-enterprise-requirement-gate-adams-oai|♯23736
-  Add new enterprise requirement gate @adams-oai]]'
+- '[[Changes/Gamma/2026-05-29-api-delete-is-here|API delete is here]]'
 - '[[Changes/Replit/2026-05-29-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2026-05-29-upgrade-to-enterprise-without-leaving-replit|Upgrade
   to Enterprise without leaving Replit]]'

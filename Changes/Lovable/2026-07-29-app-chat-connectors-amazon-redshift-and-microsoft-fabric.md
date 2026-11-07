@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e5f71eb6a88bd086363ba9040c4554081698ee1ea783837fcf68c037780e5cd9
+machine_hash: 2b127e6787567a0e44942ae9df1cb0d6a10b3d76cde02555c0cb4f8cbf362e50
 product: lovable
 product_name: Lovable
 record:
@@ -55,8 +55,8 @@ record:
   title: 'App + chat connectors: Amazon Redshift and Microsoft Fabric'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-28-connect-pipedrive-in-one-click|Connect Pipedrive in
-  one click]]'
+- '[[Changes/OpenCode/2026-07-28-core-restored-compatibility-with-legacy-mcp-sdk-clients|Core
+  Restored compatibility with legacy MCP SDK clients]]'
 - '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign
   in with ChatGPT]]'
 - '[[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47

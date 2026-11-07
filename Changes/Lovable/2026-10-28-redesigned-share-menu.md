@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 00473a7e9ff4084aeb1a209eddbe81400716ae810c5f1547adc4a6812ddca942
+machine_hash: 39cd80befabe26d625a0ffb364efa262ab9fb6d45ad104b7d0297fa7a523d92e
 product: lovable
 product_name: Lovable
 record:
@@ -48,9 +48,10 @@ record:
   title: Redesigned Share menu
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-added-a-repository-filter-to-the-session-picker-and-directory-grouping-to-the-ag|Added
-  a repository filter to the session picker and directory grouping to the agent…]]'
-- '[[Changes/Lovable/2026-10-27-redesigned-sidebar|Redesigned sidebar]]'
+- '[[Changes/OpenClaw/2026-10-27-on-linux-doctor-can-repair-a-managed-gateway-that-is-using-an-unsupported-node-v|On
+  Linux, Doctor can repair a managed Gateway that is using an unsupported Node…]]'
+- '[[Changes/OpenCode/2026-10-27-10-interface-experience-changes-in-v2-2-0|10 Interface
+  Experience changes in v2.2.0]]'
 - '[[Changes/OpenHands/2026-10-27-3-interface-experience-changes-in-v1-34-0|3 Interface
   Experience changes in v1.34.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-28-2026-10-28-4c2babff|lovable-2026-10-28-2026-10-28-4c2babff]]'

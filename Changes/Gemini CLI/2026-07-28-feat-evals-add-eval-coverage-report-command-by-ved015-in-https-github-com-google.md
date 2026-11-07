@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 98a49d5d7aaf0bdf677b7858224f1143ff8a2695695fa5894a9eb011c9734ac7
+machine_hash: f616e215693d122d8f7e4a5a715b5e2fd98a0a8b288301558e1c098b45f722f4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat(evals): add eval coverage report command'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-23-2-developer-workflow-changes-in-v1-0-74|2
-  Developer Workflow changes in v1.0.74]]'
 - '[[Changes/Open WebUI/2026-07-27-62-developer-workflow-changes-in-v0-11-0|62 Developer
   Workflow changes in v0.11.0]]'
+- '[[Changes/OpenCode/2026-07-27-desktop-improved-compatibility-with-the-newer-client-api-across-directory-projec|Desktop
+  Improved compatibility with the newer client API across directory, project…]]'
 - '[[Changes/Dify/2026-07-28-4-developer-workflow-changes-in-1-16-1|4 Developer Workflow
   changes in 1.16.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-07-28-v0-53-0-github-361395136-ca91763a|gemini-cli-2026-07-28-v0-53-0-github-361395136-ca91763a]]'

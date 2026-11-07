@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a0249658b7d0ef904ccc83346e573a442aa674f54575c1504986295e26d5f64
+machine_hash: 5289a1a19ce6b8e86a072c1357b354db6f1ce789effc2ee354c91f261172604a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     fields
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-09-7-apps-and-integrations-changes-in-v1-0-22|7
-  Apps and Integrations changes in v1.0.22]]'
+- '[[Changes/OpenCode/2026-04-09-sdk-fix-the-generated-sdk-and-openapi-types-for-providers-and-session-shell-resp|SDK
+  Fix the generated SDK and OpenAPI types for /providers and session shell responses]]'
 - '[[Changes/Claude Code/2026-04-10-4-apps-and-integrations-changes-in-v2-1-101|4
   Apps and Integrations changes in v2.1.101]]'
 - '[[Changes/Codex CLI/2026-04-10-19-apps-and-integrations-changes-in-rust-v0-119-0|19

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 75de89795a2dd700cfc1d142a53833aa9653e2c5b060651cd8e36482a588dc61
+machine_hash: 772c68358b557e39f4af19e48d488ba715fee8ebd6cd5a240e29b1d54adafc25
 product: open-webui
 product_name: Open WebUI
 record:
@@ -174,12 +174,12 @@ record:
   title: 13 Interface Experience changes in v0.12.4
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-2-interface-experience-changes-in-1-18-0|2 Interface
-  Experience changes in 1.18.0]]'
 - '[[Changes/OpenHands/2026-10-23-refactor-sidebar-express-mobile-drawer-duration-in-css-by-enyst-in-https-github|refactor(sidebar):
   express mobile drawer duration in CSS]]'
 - '[[Changes/Windsurf/2026-10-23-2-interface-experience-changes-in-v3-11-212|2 Interface
   Experience changes in v3.11.212]]'
+- '[[Changes/OpenClaw/2026-10-24-large-batches-of-child-agent-results-now-fit-within-a-bounded-completion-message|Large
+  batches of child-agent results now fit within a bounded completion message…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'
 source_type: github_releases
 theme: interface-experience
@@ -247,7 +247,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-2-interface-experience-changes-in-v3-11-212|2 Interface Experience changes in v3.11.212]]
+- Earlier: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-large-batches-of-child-agent-results-now-fit-within-a-bounded-completion-message|Large batches of child-agent results now fit within a bounded completion message…]]
 - Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed clicks on scrollbar arrows and bars in fullscreen lists to act…]]
 <!-- chronolog:end -->
 

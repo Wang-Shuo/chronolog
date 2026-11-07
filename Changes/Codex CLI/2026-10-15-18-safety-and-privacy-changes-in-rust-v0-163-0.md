@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a47c41ace4caff874acb85f5400855821b24c5a7bf0394130d70a75cc8d0862b
+machine_hash: aed1b1d75574158a81eee72c441c48ee411836ad36636aea8a8171fb2a501aaf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -164,7 +164,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-5-safety-and-privacy-changes-in-v2-1-301|5 Safety and Privacy changes in v2.1.301]]
-- Later: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-2-safety-and-privacy-changes-in-v2-1-302|2 Safety and Privacy changes in v2.1.302]]
+- Later: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-the-review-permissions-dialog-now-wraps-long-commands-and-paths-so-you-can-read|The Review permissions dialog now wraps long commands and paths, so you can read…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

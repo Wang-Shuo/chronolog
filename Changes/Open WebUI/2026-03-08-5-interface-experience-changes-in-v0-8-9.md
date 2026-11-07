@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a9d5d89cb7b31a1522703e592247f89b03446c07e7698704221d0f35ed43439
+machine_hash: d5c91238a56538cf56243cc84085c72d268bdbaf3f15f7e54bb979c3921d1ccf
 product: open-webui
 product_name: Open WebUI
 record:
@@ -62,9 +62,9 @@ record:
   title: 5 Interface Experience changes in v0.8.9
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode
-  Added spark icon in VS Code activity bar that lists all Claude Code…]]'
 - '[[Changes/Replit/2026-03-06-ai-chat-message-truncation|AI Chat message truncation]]'
+- '[[Changes/OpenCode/2026-03-07-2-interface-experience-changes-in-v1-2-21|2 Interface
+  Experience changes in v1.2.21]]'
 - '[[Changes/Codex CLI/2026-03-08-added-a-new-model-selection-surface-update-so-the-latest-model-catalog-changes-a|Added
   a new model-selection surface update so the latest model catalog changes…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb|open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb]]'
@@ -119,7 +119,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.9
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-added-a-new-model-selection-surface-update-so-the-latest-model-catalog-changes-a|Added a new model-selection surface update so the latest model catalog changes…]]
-- Later: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-show-loading-spinner-in-diff-mode-while-fetching-changes|Show loading spinner in diff mode while fetching changes]]
+- Later: 2026-03-08 · OpenCode · [[Changes/OpenCode/2026-03-08-2-interface-experience-changes-in-v1-2-22|2 Interface Experience changes in v1.2.22]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

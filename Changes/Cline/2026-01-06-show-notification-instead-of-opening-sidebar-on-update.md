@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8dc9b6644a14688ecfea9f34cf0298ddc43f6c1ddbbe47d51798c938d979a976
+machine_hash: c5e5a23880383e7a54aaf3756347dfb07207bac2d188435dd646fc2a5eb255f7
 product: cline
 product_name: Cline
 record:
@@ -40,12 +40,12 @@ record:
   title: Show notification instead of opening sidebar on update
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-12-21-8-interface-experience-changes-in-v0-6-42|8 Interface
-  Experience changes in v0.6.42]]'
-- '[[Changes/Cline/2025-12-22-model-picker-favorites-ordering-star-toggle-and-keyboard-navigation-for-openrout|Model
-  picker favorites ordering, star toggle, and keyboard navigation for OpenRouter…]]'
-- '[[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience
-  changes in 2.3]]'
+- '[[Changes/OpenCode/2026-01-04-core-add-tui-session-selection-api-endpoint-for-navigation|Core
+  Add TUI session selection API endpoint for navigation]]'
+- '[[Changes/OpenCode/2026-01-05-2-interface-experience-changes-in-v1-1-3|2 Interface
+  Experience changes in v1.1.3]]'
+- '[[Changes/OpenCode/2026-01-05-2-interface-experience-changes-in-v1-1-2|2 Interface
+  Experience changes in v1.1.2]]'
 source_release: '[[Releases/Cline/cline-2026-01-06-v3-47-0-github-274645512-af25fb1a|cline-2026-01-06-v3-47-0-github-274645512-af25fb1a]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience changes in 2.3]]
+- Earlier: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-2-interface-experience-changes-in-v1-1-2|2 Interface Experience changes in v1.1.2]]
 - Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-9-interface-experience-changes-in-rust-v0-78-0|9 Interface Experience changes in rust-v0.78.0]]
 <!-- chronolog:end -->
 

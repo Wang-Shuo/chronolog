@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 242d17f2a4a424858d88866fa4d402ba0ea1a218aa8f2523f9902af6cb6a989a
+machine_hash: ad66eb8b8145b003a59e19d72a5bd590ad9d404b9d6930b5d5487a8b89de2ba8
 product: lovable
 product_name: Lovable
 record:
@@ -58,10 +58,10 @@ record:
   title: See how each app page appears in search results and link previews
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-14-the-openai-compatible-responses-api-now-supports-web-search|The
-  OpenAI-compatible Responses API now supports web search]]'
-- '[[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your
-  code]]'
+- '[[Changes/OpenCode/2026-08-20-core-enabled-web-search-when-using-the-opencode-go-provider|Core
+  Enabled web search when using the OpenCode Go provider]]'
+- '[[Changes/OpenCode/2026-08-21-desktop-keep-file-search-results-visible-while-the-next-search-is-loading|Desktop
+  Keep file search results visible while the next search is loading]]'
 - '[[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search
   and Browsing changes in v0.11.1]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-26-2026-08-26-bad08262|lovable-2026-08-26-2026-08-26-bad08262]]'

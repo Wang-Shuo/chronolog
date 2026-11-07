@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 07d212d7021d8bc863197f852f7c1aa4e149844a02c6846af1da2af1ec01a0c1
+machine_hash: c9023c0cfdddd96ffb0d57f2d58ba9bcc15f8f84afa568aace53c635d1477a8f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -105,8 +105,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-19-annotations-mode-lets-you-click-elements-in-the-preview-to-drop-numbered-comment|Annotations
-  mode lets you click elements in the preview to drop numbered comments…]]'
+- '[[Changes/OpenCode/2026-06-21-core-honor-configured-agent-step-limits-by-forcing-a-final-text-response-instead|Core
+  Honor configured agent step limits by forcing a final text response instead…]]'
 - '[[Changes/Claude Code/2026-06-22-2-agent-mode-changes-in-v2-1-186|2 Agent Mode
   changes in v2.1.186]]'
 - '[[Changes/Codex CLI/2026-06-22-14-agent-mode-changes-in-rust-v0-142-0|14 Agent
@@ -170,7 +170,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-14-agent-mode-changes-in-rust-v0-142-0|14 Agent Mode changes in rust-v0.142.0]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-6-agent-mode-changes-in-v1-0-64|6 Agent Mode changes in v1.0.64]]
+- Later: 2026-06-22 · Google Antigravity · [[Changes/Google Antigravity/2026-06-22-new-entries-in-the-sensitive-paths-list-vscode-and-cache-are-now-recognized-as-s|New entries in the sensitive paths list]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

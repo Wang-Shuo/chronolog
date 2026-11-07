@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 03b6e356eb66f1a08274372999425a58a12a4654ab42e7f6af29018911a493be
+machine_hash: 2bd868a6ae23627aa8f7189412829c968ee0c6ff4845463028bcbcfcf79d159b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Auto detect pnpm global installation path for macOS and Windows
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-ci-release-build-and-attach-unsigned-macos-binaries-to-releases-by-ruomengz-in-h|ci(release):
-  build and attach unsigned macOS binaries to releases]]'
+- '[[Changes/OpenCode/2026-05-22-4-mobile-and-desktop-changes-in-v1-15-9|4 Mobile
+  and Desktop changes in v1.15.9]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-2-mobile-and-desktop-changes-in-v1-0-52|2
   Mobile and Desktop changes in v1.0.52]]'
 - '[[Changes/Codex CLI/2026-05-26-2-mobile-and-desktop-changes-in-rust-v0-134-0|2
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-2-mobile-and-desktop-changes-in-rust-v0-134-0|2 Mobile and Desktop changes in rust-v0.134.0]]
-- Later: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-5-mobile-and-desktop-changes-in-rust-v0-135-0|5 Mobile and Desktop changes in rust-v0.135.0]]
+- Later: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-6-mobile-and-desktop-changes-in-v1-15-11|6 Mobile and Desktop changes in v1.15.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

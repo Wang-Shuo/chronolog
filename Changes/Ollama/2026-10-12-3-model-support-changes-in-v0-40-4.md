@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93cc40aba9ac54fc5825da9a2411928f456094138de0a051f27b20975ee0aa0c
+machine_hash: 4b5c7368eaba955e14d9041d64f3c8e535d4d58c3eb313c93c285fbad9eff16c
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Model Support changes in v0.40.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude
-  Tag Changed Claude in Slack to show the footer with the session link, model…]]'
 - '[[Changes/Open WebUI/2026-10-10-49-model-support-changes-in-v0-12-0|49 Model Support
   changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-18-model-support-changes-in-v2026-10-1|18 Model Support
+  changes in v2026.10.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-2-model-support-changes-in-v1-0-96|2 Model
   Support changes in v1.0.96]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-12-v0-40-4-github-410905890-5db61c07|ollama-2026-10-12-v0-40-4-github-410905890-5db61c07]]'
@@ -91,7 +91,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.40.4
 ## Nearby in Model Support
 
 - Earlier: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-2-model-support-changes-in-v1-0-96|2 Model Support changes in v1.0.96]]
-- Later: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-3-model-support-changes-in-v1-27-0|3 Model Support changes in v1.27.0]]
+- Later: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-9-model-support-changes-in-v2026-10-2|9 Model Support changes in v2026.10.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

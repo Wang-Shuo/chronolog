@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 7deee0a869b0e9dd3194112b779be73a601adc8c04a014d7db611c4ebff20cb3
+machine_hash: 1bf16669eb5934dea7c59283580a3f08eaf12a5e8675ed03230adbe4bfbbaecb
 product: cursor
 product_name: Cursor
 record:
@@ -47,11 +47,12 @@ record:
   title: Voice input
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-01-dubbing-fad5c5|Dubbing]]'
 - '[[Changes/Open WebUI/2026-06-01-4-voice-and-audio-changes-in-v0-9-6|4 Voice and
   Audio changes in v0.9.6]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-02-add-the-voice-command-to-dictate-prompts-using-local-speech-to-text-models|Add
   the /voice command to dictate prompts using local speech-to-text models]]'
+- '[[Changes/Suno/2026-06-04-share-audio-from-ios-voice-memos-the-app-will-automatically-attach-as-audio-in-t|Share
+  audio from iOS Voice Memos]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395|cursor-2026-06-05-3-7-https-cursor-com-changelog-design-mode-improvements-936ff395]]'
 source_type: cursor_changelog
 theme: voice
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-02-add-the-voice-command-to-dictate-prompts-using-local-speech-to-text-models|Add the /voice command to dictate prompts using local speech-to-text models]]
+- Earlier: 2026-06-04 · Suno · [[Changes/Suno/2026-06-04-share-audio-from-ios-voice-memos-the-app-will-automatically-attach-as-audio-in-t|Share audio from iOS Voice Memos]]
 - Later: 2026-06-08 · ElevenLabs · [[Changes/ElevenLabs/2026-06-08-speech-to-text|Speech to Text]]
 <!-- chronolog:end -->
 

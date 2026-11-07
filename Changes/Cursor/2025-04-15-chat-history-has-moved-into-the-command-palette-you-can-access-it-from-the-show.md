@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c546bb827a56eeeccbeb5cb0ea649ee189d89726774827632377cde2688a1806
+machine_hash: bb3ef25bfb2e4f0b742145660c9851ea4306655bd2e8de80b13d7b5e2b7eae46
 product: cursor
 product_name: Cursor
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-translation-updates-across-multiple-languages-refined-catalan-russian-chinese-si|🌍 Translation Updates Across Multiple Languages]]
-- Later: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add new slash command menu letting you type…]]
+- Later: 2025-04-16 · Gamma · [[Changes/Gamma/2025-04-16-card-numbers-for-easier-navigation-in-pdfs-or-decks|Card numbers for easier navigation in PDFs or decks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

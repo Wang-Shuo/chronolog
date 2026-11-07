@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 643659048e277aa4de068d5cca405f4a4cc680892f8556449a0019ca77232254
+machine_hash: 0c19043f77642e1a25c40f03889866a7dccb7e5920f26cd7c579aa1d5d3c4c70
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,12 +62,12 @@ record:
   title: Generated images will continue to appear in the Images tab
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall
-  back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]'
-- '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More
-  images in answers for Free users]]'
 - '[[Changes/Ollama/2026-05-13-laguna-xs-2-is-not-yet-supported-on-windows-linux|laguna-xs.2
   is not yet supported on Windows/Linux]]'
+- '[[Changes/OpenCode/2026-05-13-6-mobile-and-desktop-changes-in-v1-14-49|6 Mobile
+  and Desktop changes in v1.14.49]]'
+- '[[Changes/Suno/2026-05-13-suno-is-now-available-on-apple-carplay-and-android-auto|Suno
+  is now available on Apple CarPlay and Android Auto]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb|chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-laguna-xs-2-is-not-yet-supported-on-windows-linux|laguna-xs.2 is not yet supported on Windows/Linux]]
-- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and|The PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]]
+- Earlier: 2026-05-13 · Suno · [[Changes/Suno/2026-05-13-suno-is-now-available-on-apple-carplay-and-android-auto|Suno is now available on Apple CarPlay and Android Auto]]
+- Later: 2026-05-14 · Suno · [[Changes/Suno/2026-05-14-the-mobile-app-just-got-better|The mobile app just got better]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

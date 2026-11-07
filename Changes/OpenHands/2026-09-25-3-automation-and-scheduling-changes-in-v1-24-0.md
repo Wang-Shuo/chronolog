@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca2a814a7b491720b807658540bb90bb03eb1cc881b7e157ca67affc528a45f2
+machine_hash: a2e1fa7027e06d06c5c7235b7a86f2c23da1190ec62885055ed52d373c732ab5
 product: openhands
 product_name: OpenHands
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Automation and Scheduling changes in v1.24.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-2-automation-and-scheduling-changes-in-v1-21-0|2
-  Automation and Scheduling changes in v1.21.0]]'
 - '[[Changes/Claude Code/2026-09-23-claude-tag-changed-the-routine-list-claude-gives-when-asked-in-a-slack-thread-to|Claude
   Tag Changed the routine list Claude gives when asked in a Slack thread…]]'
+- '[[Changes/OpenClaw/2026-09-23-9-automation-and-scheduling-changes-in-v2026-9-6|9
+  Automation and Scheduling changes in v2026.9.6]]'
 - '[[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore:
   consume SDK 1.49.5 and Automation 1.15.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-25-v1-24-0-github-396708686-384650c4|openhands-2026-09-25-v1-24-0-github-396708686-384650c4]]'
@@ -92,7 +92,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.24.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-23 · OpenHands · [[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore: consume SDK 1.49.5 and Automation 1.15.0]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site owners can also create recurring cloud schedules from Automations]]
+- Later: 2026-09-28 · Manus · [[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi|Introducing Manus 2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

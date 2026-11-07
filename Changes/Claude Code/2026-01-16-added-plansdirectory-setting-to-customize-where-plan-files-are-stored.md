@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ba8c40cd82caa54ed05086f0784cf11c728be531bf36d02c14aa7c525b92369
+machine_hash: e8ce16a42e17734e0b083cb43ecad488bc3fe4f6a9f2c65860bb08f234f0f953
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,12 @@ record:
   title: Added `plansDirectory` setting to customize where plan files are stored
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-14-10-agent-mode-changes-in-v0-24-0|10 Agent Mode
-  changes in v0.24.0]]'
-- '[[Changes/v0/2026-01-14-improved-agent-error-handling|Improved agent error handling]]'
 - '[[Changes/Codex CLI/2026-01-15-9275-feat-add-agent-roles-to-collab-tools-jif-oai|♯9275
   feat: add agent roles to collab tools @jif-oai]]'
+- '[[Changes/OpenCode/2026-01-15-ensure-agent-exists-before-processing-title-in-session-summary|Ensure
+  agent exists before processing title in session summary]]'
+- '[[Changes/OpenCode/2026-01-15-core-ensure-frontmatter-can-process-same-content-as-other-agents|Core
+  Ensure frontmatter can process same content as other agents]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-9275-feat-add-agent-roles-to-collab-tools-jif-oai|♯9275 feat: add agent roles to collab tools @jif-oai]]
+- Earlier: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-core-ensure-frontmatter-can-process-same-content-as-other-agents|Core Ensure frontmatter can process same content as other agents]]
 - Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-push-your-local-conversation-to-a-cloud-agent-and-let-it-keep-running-while-you|Handoff to Cloud Agents]]
 <!-- chronolog:end -->
 

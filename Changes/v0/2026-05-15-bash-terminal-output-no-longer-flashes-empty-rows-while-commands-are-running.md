@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61950dce735d96538ff569231ad14855dc11a8a4995ca6175e3b07da9504bd47
+machine_hash: 76f85e698d6c54b3ca5ae8f57335b3507dfa3d3b056e585b3d8a2d4e93955f3e
 product: v0
 product_name: v0
 record:
@@ -40,12 +40,12 @@ record:
   title: Bash terminal output no longer flashes empty rows while commands are running
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal
-  cursor positions correctly on the input field instead of on decorative…]]'
-- '[[Changes/Ollama/2026-05-14-ollama-0-24-includes-support-for-the-codex-app-openai-s-desktop-experience-for-w|Ollama
-  0.24 includes support for the Codex App, OpenAI''s desktop experience…]]'
+- '[[Changes/OpenCode/2026-05-14-core-returned-proper-busy-errors-when-a-session-is-already-running-prompt-or-she|Core
+  Returned proper busy errors when a session is already running prompt or shell work]]'
 - '[[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer
   Workflow changes in v2.1.143]]'
+- '[[Changes/OpenCode/2026-05-15-3-developer-workflow-changes-in-v1-14-51|3 Developer
+  Workflow changes in v1.14.51]]'
 source_release: '[[Releases/v0/v0-2026-05-15-2026-05-15-d142aa2e|v0-2026-05-15-2026-05-15-d142aa2e]]'
 source_type: v0_changelog
 theme: developer-workflow
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer Workflow changes in v2.1.143]]
-- Later: 2026-05-16 · Windsurf · [[Changes/Windsurf/2026-05-16-2-developer-workflow-changes-in-v2-3-9|2 Developer Workflow changes in v2.3.9]]
+- Earlier: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-3-developer-workflow-changes-in-v1-14-51|3 Developer Workflow changes in v1.14.51]]
+- Later: 2026-05-16 · OpenCode · [[Changes/OpenCode/2026-05-16-reduced-unnecessary-prompting-around-shell-task-and-todo-flows|Reduced unnecessary prompting around shell, task, and todo flows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

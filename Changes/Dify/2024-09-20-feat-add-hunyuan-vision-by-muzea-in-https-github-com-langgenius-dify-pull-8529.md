@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b6b0cc624710f9fa72031ee0a9628a6470438cc39c75990b5ea9a556f5a951f
+machine_hash: 612a656766e16be184bc4d4e9025014c8dd5c1c7e6618985f5db1493cb39ef82
 product: dify
 product_name: Dify
 record:
@@ -40,11 +40,12 @@ record:
   title: 'feat: add hunyuan-vision'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-04-21-4-turbo-vision|--4-turbo-vision]]'
 - '[[Changes/Dify/2024-04-22-2-multimodal-input-changes-in-0-6-4|2 Multimodal Input
   changes in 0.6.4]]'
 - "[[Changes/Open WebUI/2024-05-02-youtube-rag-pipeline-introduces-dedicated-rag-pipeline-for-youtube-videos-enabli|\U0001F4F9
   Youtube RAG Pipeline]]"
+- '[[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3
+  Alpha Text to Video]]'
 source_release: '[[Releases/Dify/dify-2024-09-20-0-8-3-github-176083684-f9381a70|dify-2024-09-20-0-8-3-github-176083684-f9381a70]]'
 source_type: github_releases
 theme: multimodal
@@ -80,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-youtube-rag-pipeline-introduces-dedicated-rag-pipeline-for-youtube-videos-enabli|📹 Youtube RAG Pipeline]]
-- Later: 2024-09-30 · OpenHands · [[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision and prompt caching fixes]]
+- Earlier: 2024-07-01 · Runway · [[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3 Alpha Text to Video]]
+- Later: 2024-09-26 · Runway · [[Changes/Runway/2024-09-26-iterate-faster-than-ever-before-with-video-to-video-in-gen-3-alpha-turbo|Video to Video in Gen-3 Alpha Turbo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

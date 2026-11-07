@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 95558763637821d4247a56144a7a8075560db2ae619bd5a411d8dcc3f691035d
+machine_hash: e2b1ae1295461447a6121ab0e71482488f81c9caf230984d2437dc8ebb85cecb
 product: claude
 product_name: Claude
 record:
@@ -47,12 +47,12 @@ record:
   title: Enterprise plans can manage connector access with custom roles
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-26-11-apps-and-integrations-changes-in-rust-v0-134-0|11
-  Apps and Integrations changes in rust-v0.134.0]]'
 - '[[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4
   Apps and Integrations changes in v2.1.152]]'
 - '[[Changes/Gemini CLI/2026-05-27-docs-extensions-clarify-env-var-sanitization-policy-for-mcp-and-ext-by-galz10-in|docs(extensions):
   clarify env var sanitization policy for MCP and ext…]]'
+- '[[Changes/OpenCode/2026-05-27-3-apps-and-integrations-changes-in-v1-15-11|3 Apps
+  and Integrations changes in v1.15.11]]'
 source_release: '[[Releases/Claude/claude-2026-05-28-2026-05-28-4c96572a|claude-2026-05-28-2026-05-28-4c96572a]]'
 source_type: claude_changelog
 theme: apps-integrations
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-docs-extensions-clarify-env-var-sanitization-policy-for-mcp-and-ext-by-galz10-in|docs(extensions): clarify env var sanitization policy for MCP and ext…]]
+- Earlier: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-3-apps-and-integrations-changes-in-v1-15-11|3 Apps and Integrations changes in v1.15.11]]
 - Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-2-apps-and-integrations-changes-in-v2-1-153|2 Apps and Integrations changes in v2.1.153]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 207609e49fef5efea2d2ed7ac8fccad9466ca238a8dca958fb0af279705f6b92
+machine_hash: f0b21cb595656f6818feff692b66ccd7548e785828b9bd82388f17e1b86d5be0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,9 @@ record:
   title: Explore your health data with personalized summaries
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-6-editor-experience-changes-in-rust-v0-156-0|6 Editor
-  Experience changes in rust-v0.156.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In
-  the Sessions tab, rows you can dismiss now take x then x again to confirm]]'
+- '[[Changes/Runway/2026-09-23-runway-is-now-available-directly-inside-davinci-resolve-bring-runway-s-tools-int|DaVinci
+  Resolve Plugin]]'
+- '[[Changes/Midjourney/2026-09-24-editing|EDITING]]'
 - '[[Changes/Lovable/2026-09-25-open-cited-web-sources-from-an-answer|Open cited web
   sources from an answer]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126|chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126]]'

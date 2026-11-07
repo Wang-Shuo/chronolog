@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0605eaa87615eae41f70fb96086b17594a47670ee8f1e1122166f7108366a2d
+machine_hash: cbc55a3d441407e25ecc27560cbac5551948450feb72366698e705b45e437e99
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,8 +54,8 @@ record:
   title: 7 Mobile and Desktop changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-19-new-desktop-onboarding-flow-on-first-launch|New desktop
-  onboarding flow on first launch]]'
+- '[[Changes/Suno/2026-08-19-better-controls-for-you-playlist|Better controls for
+  you playlist]]'
 - '[[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep
   pinned chats in sync]]'
 - '[[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved
@@ -119,7 +119,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved startup: bare claude starts sooner on macOS]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote sessions: images uploaded from mobile now include their saved file path…]]
+- Later: 2026-08-20 · OpenCode · [[Changes/OpenCode/2026-08-20-desktop-kept-saved-server-details-editable-in-the-server-dialog|Desktop Kept saved server details editable in the server dialog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

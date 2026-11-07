@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a7911df410bb34f6b9cc2b05625729734c0cc200e3b26f808ebfa51270ef30a
+machine_hash: 9178af76de0088b9919793c9effe67a4c5a8955ccf8721ee80745b558a600c95
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,9 +106,9 @@ record:
   title: 28 Apps and Integrations changes in rust-v0.122.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-16-2-apps-and-integrations-changes-in-v0-21-0|2 Apps and
-  Integrations changes in v0.21.0]]'
 - '[[Changes/Replit/2026-04-17-integrations|Integrations]]'
+- '[[Changes/OpenCode/2026-04-19-2-apps-and-integrations-changes-in-v1-14-18-1|2 Apps
+  and Integrations changes in v1.14.18 + 1]]'
 - '[[Changes/Claude Code/2026-04-20-2-apps-and-integrations-changes-in-v2-1-116|2
   Apps and Integrations changes in v2.1.116]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'

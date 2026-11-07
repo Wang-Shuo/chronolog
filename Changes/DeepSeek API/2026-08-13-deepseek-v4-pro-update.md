@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 125d514a25cc1097a275179ac4daf6295f0e4ea37086127f189b96fa84f5b08f
+machine_hash: 681d99ac74e230bbebdb7f6ec8c16aaa4b41ef029db9d6905ce9648535c59672
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -88,12 +88,12 @@ record:
   title: DeepSeek-V4-Pro Update
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-11-changed-the-write-tool-so-newer-models-can-overwrite-an-existing-file-they-haven|Changed
-  the Write tool so newer models can overwrite an existing file they haven''t…]]'
-- '[[Changes/Cline/2026-08-11-2-model-support-changes-in-v4-1-8|2 Model Support changes
-  in v4.1.8]]'
-- '[[Changes/Gemini CLI/2026-08-11-2-model-support-changes-in-v0-55-1|2 Model Support
-  changes in v0.55.1]]'
+- '[[Changes/Google Antigravity/2026-08-12-improved-the-model-selector-dropdown-to-choose-thinking-levels-per-model-low-med|Improved
+  the model selector dropdown to choose thinking levels per-model…]]'
+- '[[Changes/OpenCode/2026-08-12-made-session-compaction-keep-complete-recent-turns-and-produce-clearer-summaries|Made
+  session compaction keep complete recent turns and produce clearer summaries…]]'
+- '[[Changes/OpenCode/2026-08-12-3-model-support-changes-in-v1-18-17|3 Model Support
+  changes in v1.18.17]]'
 source_release: '[[Releases/DeepSeek API/deepseek-api-2026-08-13-2026-08-13-bf09d366|deepseek-api-2026-08-13-2026-08-13-bf09d366]]'
 source_type: deepseek_changelog
 theme: model-support
@@ -150,7 +150,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-2-model-support-changes-in-v0-55-1|2 Model Support changes in v0.55.1]]
+- Earlier: 2026-08-12 · OpenCode · [[Changes/OpenCode/2026-08-12-3-model-support-changes-in-v1-18-17|3 Model Support changes in v1.18.17]]
 - Later: 2026-08-13 · Lovable · [[Changes/Lovable/2026-08-13-image-editing-with-openai-models-for-your-app-s-ai-features|Image editing with OpenAI models for your app's AI features]]
 <!-- chronolog:end -->
 

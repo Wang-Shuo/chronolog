@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e31b94a55190be94af25e76058cea76ca92a20cacf12803199d8e8778c50850
+machine_hash: 2bc870ad5f3238b842baa35928587257a3a5902f019903909c00c273017fd05b
 product: claude-code
 product_name: Claude Code
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit no longer requires a separate Read after viewing a file with grep]]
-- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-3-editor-experience-changes-in-v1-0-60|3 Editor Experience changes in v1.0.60]]
+- Later: 2026-06-03 · Google Antigravity · [[Changes/Google Antigravity/2026-06-03-antivirus-and-open-ide-fixes|Antivirus and Open IDE fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

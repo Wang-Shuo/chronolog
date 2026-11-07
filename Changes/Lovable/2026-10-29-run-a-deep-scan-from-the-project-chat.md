@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a2f58b6bfef76ea59e9301b7cb22ed682a754581718e89ab7a113335a335a2d6
+machine_hash: 73c6181252bff5d686d33fc4e7b800cc93dd8092051061e913f6d4c3af7d2f89
 product: lovable
 product_name: Lovable
 record:
@@ -51,10 +51,10 @@ record:
   title: Run a Deep scan from the project chat
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-feat-sidebar-start-a-new-conversation-in-the-row-s-sandbox-ohe-3689-by-hieptl-in|feat(sidebar):
-  start a new conversation in the row''s sandbox (OHE-3689)]]'
 - '[[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting
   your dot]]'
+- '[[Changes/Google Antigravity/2026-10-28-the-marketplace-tab-and-the-pages-of-plugins-from-third-party-developers-now-sho|The
+  Marketplace tab and the pages of plugins from third party developers now show…]]'
 - '[[Changes/Codex CLI/2026-10-29-10-safety-and-privacy-changes-in-rust-v0-166-0|10
   Safety and Privacy changes in rust-v0.166.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-29-2026-10-29-850979f2|lovable-2026-10-29-2026-10-29-850979f2]]'

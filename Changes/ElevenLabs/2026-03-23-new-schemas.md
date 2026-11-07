@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c09cf3c59ffffd26e57df8c3ab7710aa35b6732ef23a2460ef86586608b824c6
+machine_hash: e7d3e79b7e11596a1ed5315354e8f5db1dde4a97e73c329807ada4aebce41567
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -62,12 +62,12 @@ record:
   title: New Schemas
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-19-3-model-support-changes-in-v3-74-0|3 Model Support changes
-  in v3.74.0]]'
 - '[[Changes/Codex CLI/2026-03-19-2-model-support-changes-in-rust-v0-116-0|2 Model
   Support changes in rust-v0.116.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-model-support-changes-in-v1-0-10|2 Model
   Support changes in v1.0.10]]'
+- '[[Changes/OpenCode/2026-03-22-3-model-support-changes-in-v1-3-0|3 Model Support
+  changes in v1.3.0]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-03-23-2026-03-23-c7dac693|elevenlabs-2026-03-23-2026-03-23-c7dac693]]'
 source_type: elevenlabs_changelog
 theme: model-support
@@ -114,7 +114,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-2-model-support-changes-in-v1-0-10|2 Model Support changes in v1.0.10]]
+- Earlier: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-3-model-support-changes-in-v1-3-0|3 Model Support changes in v1.3.0]]
 - Later: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-ensure-models-appear-in-picker-correctly-display-model-names-where-possible|Ensure models appear in picker correctly, display model names where possible]]
 <!-- chronolog:end -->
 

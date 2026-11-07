@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a1699fc6c79866a108cc28bd334161dd45dda9d141fb81793d83fe53e3f5e96d
+machine_hash: 1460259fd000280207c2d590b6f19aa8d7d160425ac476b8c60f1f6491928f55
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,7 @@ record:
   title: 3 Apps and Integrations changes in v0.0.401
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-added-apps-to-browse-connectors-in-tui-and-insertion-for-app-prompts-9728|Added
-  /apps to browse connectors in TUI and $ insertion for app prompts]]'
+- '[[Changes/OpenCode/2026-01-31-core-bump-ai-sdk-packages|Core Bump AI SDK packages]]'
 - '[[Changes/ElevenLabs/2026-02-02-sdk-releases|SDK Releases]]'
 - '[[Changes/Dify/2026-02-03-14-apps-and-integrations-changes-in-1-12-0|14 Apps and
   Integrations changes in 1.12.0]]'

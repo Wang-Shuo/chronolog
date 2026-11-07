@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 32d7f65fb172313cafd146f9f4e87844f227bf320759511ff81765aceddd16a4
+machine_hash: 21b6ec60718bd48622b6bcd973cf4bc3e9a9cbc96ef8eb9243725d05443fab24
 product: claude
 product_name: Claude
 record:
@@ -51,11 +51,11 @@ record:
     for Pro/Max)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-16-agent-mode-changes-in-rust-v0-115-0|16 Agent
-  Mode changes in rust-v0.115.0]]'
 - '[[Changes/ElevenLabs/2026-03-16-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-5-agent-mode-changes-in-v1-0-6|5 Agent
   Mode changes in v1.0.6]]'
+- '[[Changes/OpenCode/2026-03-16-core-ensure-that-compaction-message-is-tracked-as-agent-initiated|Core
+  Ensure that compaction message is tracked as agent initiated]]'
 source_release: '[[Releases/Claude/claude-2026-03-17-2026-03-17-1e9b9cb5|claude-2026-03-17-2026-03-17-1e9b9cb5]]'
 source_type: claude_changelog
 theme: agent-mode
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-5-agent-mode-changes-in-v1-0-6|5 Agent Mode changes in v1.0.6]]
+- Earlier: 2026-03-16 · OpenCode · [[Changes/OpenCode/2026-03-16-core-ensure-that-compaction-message-is-tracked-as-agent-initiated|Core Ensure that compaction message is tracked as agent initiated]]
 - Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-agent-mode-changes-in-v2-1-77|2 Agent Mode changes in v2.1.77]]
 <!-- chronolog:end -->
 

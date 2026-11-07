@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60c94ceb1a9d145161ee6600b602f021ec55cc81f50965a5fde56fda2b459001
+machine_hash: f3a04b42585c93a14c743d0d587c71c92fecbe30a51089b6a9689fe7001aed9e
 product: v0
 product_name: v0
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-2-interface-experience-changes-in-rust-v0-116-0|2 Interface Experience changes in rust-v0.116.0]]
-- Later: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli): add custom keybinding documentation]]
+- Later: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-3-interface-experience-changes-in-v1-3-0|3 Interface Experience changes in v1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

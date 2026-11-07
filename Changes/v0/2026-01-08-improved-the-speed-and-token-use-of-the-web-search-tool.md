@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00eeb89a1ec69c54b80f8e7840bc6104f73818f861ebf7ba56c9bf86f9f6ea7c
+machine_hash: d2a31c5a1bfa22a4e4715bb877dbd1195bceda79ce3c111a221a5ded6baba26e
 product: v0
 product_name: v0
 record:
@@ -51,8 +51,8 @@ record:
   title: Improved the speed and token use of the Web Search tool
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-12-02-web-search-domain-filtering-was-corrected-to-properly-block-results-when-any-res|\U0001F6E1️
-  Web search domain filtering was corrected to properly block results when any…]]"
+- '[[Changes/Gamma/2025-12-17-want-your-site-to-show-up-in-search-results-now-you-can-enable-indexing-to-help|Want
+  your site to show up in search results?]]'
 - '[[Changes/Open WebUI/2025-12-21-3-search-and-browsing-changes-in-v0-6-42|3 Search
   and Browsing changes in v0.6.42]]'
 - '[[Changes/Codex CLI/2026-01-07-4-search-and-browsing-changes-in-rust-v0-79-0|4

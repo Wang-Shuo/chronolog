@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0abc7574d8b6ae1ed75894b2a4b5e2aff2c7843252bd2c84b820df7463e221b4
+machine_hash: 60207164b496901839cf0ada97fa75976368f3935a55514c260127c9f3622c0d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     link, model…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-08-add-claude-haiku-5-5-to-model-selection-and-model-completions|Add
-  Claude Haiku 5.5 to model selection and --model completions]]'
 - '[[Changes/Ollama/2026-10-08-4-model-support-changes-in-v0-40-2|4 Model Support
   changes in v0.40.2]]'
+- '[[Changes/OpenClaw/2026-10-08-4-model-support-changes-in-v2026-9-9|4 Model Support
+  changes in v2026.9.9]]'
 - '[[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e):
   launch the same-model profile test from the BETA profile]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'

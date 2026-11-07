@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f42ce1eb403cf27ee32212df0929f74d936d7e901f494a98be4925e64d2e46dc
+machine_hash: 8a7d1c9d268662dd0de7de725bfc1300d4c9c7f6de26b2395392b5a2e29d6f5d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.112.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps and Integrations changes in v2.1.71]]
-- Later: 2026-03-09 · ElevenLabs · [[Changes/ElevenLabs/2026-03-09-sdk-releases|SDK Releases]]
+- Later: 2026-03-08 · OpenCode · [[Changes/OpenCode/2026-03-08-core-fix-broken-mcp-toggling-in-tui|Core Fix broken MCP toggling in TUI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

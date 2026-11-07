@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c412b603882ac7fe47d4218a5a843100e78f8533a900042ebb3870fb4f799ab2
+machine_hash: 998b1b466662dce609f9c28007037d0ea407f8ad559c6dda5006c3b51d43c559
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: Add Skills system for reusable, on-demand agent instructions
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-08-task-tool-subagents-can-now-process-images|Task
-  tool subagents can now process images]]'
+- '[[Changes/OpenCode/2026-01-08-core-simplify-task-tool-subagent-filtering|Core Simplify
+  task tool subagent filtering]]'
 - '[[Changes/v0/2026-01-08-improved-how-large-inputs-are-stored-in-the-agent-s-filesystem-for-better-recall|Improved
   how large inputs are stored in the agent''s filesystem for better recall]]'
 - '[[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added

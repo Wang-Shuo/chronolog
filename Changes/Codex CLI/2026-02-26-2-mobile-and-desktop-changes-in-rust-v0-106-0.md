@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cdf279075d31c72889bbbf26f18f0f08aba8d6088a4a97e7169c15e028d80ff3
+machine_hash: e90958100dc92ca9eadb475b2e4ed557e1285c7038457a172f4fbdcd4f38dec3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.106.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-terminal-editor-is-now-supported-on-windows|Terminal
-  editor is now supported on Windows]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-23-skill-files-saved-with-a-utf-8-bom-common-on-windows-editors-now-load-correctly|Skill
-  files saved with a UTF-8 BOM (common on Windows editors) now load correctly…]]'
+- '[[Changes/OpenCode/2026-02-24-24-mobile-and-desktop-changes-in-v1-2-11|24 Mobile
+  and Desktop changes in v1.2.11]]'
 - '[[Changes/Codex CLI/2026-02-25-2-mobile-and-desktop-changes-in-rust-v0-105-0|2
   Mobile and Desktop changes in rust-v0.105.0]]'
+- '[[Changes/OpenCode/2026-02-25-2-mobile-and-desktop-changes-in-v1-2-14-1|2 Mobile
+  and Desktop changes in v1.2.14 + 1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-26-rust-v0-106-0-github-291146451-379358db|codex-cli-2026-02-26-rust-v0-106-0-github-291146451-379358db]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -93,8 +93,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.106.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-2-mobile-and-desktop-changes-in-rust-v0-105-0|2 Mobile and Desktop changes in rust-v0.105.0]]
-- Later: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-feat-cli-add-macos-run-event-notifications-interactive-only-by-lyalindotcom-in-h|feat(cli): add macOS run-event notifications (interactive only)]]
+- Earlier: 2026-02-25 · OpenCode · [[Changes/OpenCode/2026-02-25-2-mobile-and-desktop-changes-in-v1-2-14-1|2 Mobile and Desktop changes in v1.2.14 + 1]]
+- Later: 2026-02-26 · OpenCode · [[Changes/OpenCode/2026-02-26-3-mobile-and-desktop-changes-in-v1-2-15|3 Mobile and Desktop changes in v1.2.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

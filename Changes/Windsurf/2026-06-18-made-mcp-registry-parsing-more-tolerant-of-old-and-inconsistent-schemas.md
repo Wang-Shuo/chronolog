@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05f818291eaf1e1ed9d736e0d34c3c88dd63b9354e2493440c05ddbc240b1e3c
+machine_hash: 7af1f528530470e248da540bb0baee44ea5209dc6a76b7ea28ccf5b5f664c037
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,7 +41,8 @@ record:
   title: Made MCP registry parsing more tolerant of old and inconsistent schemas
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-17-app-connector-lightspeed|App connector: Lightspeed]]'
+- '[[Changes/OpenCode/2026-06-17-4-apps-and-integrations-changes-in-v1-17-8|4 Apps
+  and Integrations changes in v1.17.8]]'
 - '[[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17
   Apps and Integrations changes in rust-v0.141.0]]'
 - '[[Changes/Lovable/2026-06-18-inspect-your-app-s-ai-activity|Inspect your app''s

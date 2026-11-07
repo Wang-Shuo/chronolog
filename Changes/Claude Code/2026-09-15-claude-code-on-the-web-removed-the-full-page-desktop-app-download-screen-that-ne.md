@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9bc99c4c6d4b28add45c4dc7265384197aa06b8ae7bfc6adcda5b17c2d1fe211
+machine_hash: 3d196f90e43818747d8827be3610a33092dc1e617641ca5b3d32f9069533d277
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     that new…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed
-  skills synced from claude.ai in cloud sessions to be named…]]'
+- '[[Changes/OpenClaw/2026-09-11-you-can-now-enable-desktop-access-for-azure-cloud-workers-whether-openclaw-manag|Enable
+  desktop access for Azure cloud workers , whether OpenClaw manages them…]]'
 - '[[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved
   /mobile to show a single QR code for claude.ai/mobile, which opens…]]'
 - '[[Changes/ElevenLabs/2026-09-14-ios-sdk|iOS SDK]]'

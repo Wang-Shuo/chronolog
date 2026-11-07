@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: cb3aca80b468c3c3691e40305861abbe51fc48ab006a434a70919c9193df40de
+machine_hash: 72e36629caab37f33dc872d2e384df526f63323002430bf07b7ea92acca30995
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: Add /statusline command (with /footer alias) to customize which items appear…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-14-4-context-window-changes-in-v1-0-26|4 Context
-  Window changes in v1.0.26]]'
-- '[[Changes/Claude Code/2026-04-15-added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e|Added
-  option to show Claude''s last response as commented context in the Ctrl+G…]]'
 - '[[Changes/Codex CLI/2026-04-15-4-context-window-changes-in-rust-v0-121-0|4 Context
   Window changes in rust-v0.121.0]]'
+- '[[Changes/OpenCode/2026-04-15-2-context-window-changes-in-v1-4-4|2 Context Window
+  changes in v1.4.4]]'
+- '[[Changes/OpenCode/2026-04-15-kept-github-copilot-compaction-requests-valid|Kept
+  GitHub Copilot compaction requests valid]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-16-v1-0-30-github-310019312-a7664826|github-copilot-cli-2026-04-16-v1-0-30-github-310019312-a7664826]]'
 source_type: github_releases
 theme: context-window
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-4-context-window-changes-in-rust-v0-121-0|4 Context Window changes in rust-v0.121.0]]
+- Earlier: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-kept-github-copilot-compaction-requests-valid|Kept GitHub Copilot compaction requests valid]]
 - Later: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-3-context-window-changes-in-v1-0-32|3 Context Window changes in v1.0.32]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0f10768bde954b5f93d6f4b00657590104e5d5eb6b6f9565e77534a0f94c9b96
+machine_hash: 17007b5ee635f9776a4ced11fa7ba672a502622990b3f3ae319dcb3b0a2df98a
 product: v0
 product_name: v0
 record:
@@ -43,11 +43,12 @@ record:
   title: Improved model selection to persist per user per team
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-14-gpt-5-2-codex|GPT-5.2-Codex]]'
-- '[[Changes/Cline/2026-01-15-adding-openai-gpt-5-2-codex-model-to-the-model-picker|Adding
-  OpenAI gpt-5.2-codex model to the model picker]]'
 - '[[Changes/Codex CLI/2026-01-15-2-model-support-changes-in-rust-v0-85-0|2 Model
   Support changes in rust-v0.85.0]]'
+- '[[Changes/OpenCode/2026-01-15-core-load-models-dev-in-development-mode|Core Load
+  models.dev in development mode]]'
+- '[[Changes/OpenCode/2026-01-15-core-add-check-in-case-provider-doesn-t-exist-in-models-list|Core
+  Add check in case provider doesn''t exist in models list]]'
 source_release: '[[Releases/v0/v0-2026-01-15-2026-01-15-3ad21b8a|v0-2026-01-15-2026-01-15-3ad21b8a]]'
 source_type: v0_changelog
 theme: model-support
@@ -76,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-2-model-support-changes-in-rust-v0-85-0|2 Model Support changes in rust-v0.85.0]]
+- Earlier: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-core-add-check-in-case-provider-doesn-t-exist-in-models-list|Core Add check in case provider doesn't exist in models list]]
 - Later: 2026-01-16 · Claude · [[Changes/Claude/2026-01-16-opus-4-and-4-1-deprecated-from-claude-and-claude-code|Opus 4 and 4.1 deprecated from Claude and Claude Code]]
 <!-- chronolog:end -->
 

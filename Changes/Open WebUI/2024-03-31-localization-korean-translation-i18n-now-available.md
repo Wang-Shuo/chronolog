@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eaface6092dcc6a3636ca6c34e8434f274948f708e20fd5651f3929a610f4aff
+machine_hash: bacf2c9fa491ea57e77783902be5d9edfede7a80f4d20aa1a7556f603b1087ab
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,6 +43,8 @@ record:
 related_changes:
 - '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
   now supports a limited selection of languages in the interface]]'
+- '[[Changes/Suno/2024-03-05-miscellaneous-accessibility-fixes|Miscellaneous accessibility
+  fixes]]'
 - "[[Changes/Open WebUI/2024-03-18-localization-you-can-now-change-the-ui-language-in-settings-general-we-support-u|\U0001F30D
   Localization: You can now change the UI language in Settings  General]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-03-31-v0-1-116-github-149129164-4c8e7e16|open-webui-2024-03-31-v0-1-116-github-149129164-4c8e7e16]]'

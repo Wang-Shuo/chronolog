@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa5f4470e27ef4f936ef4b0ede73851b6044c387a41cddc98fe4bd3061f546de
+machine_hash: ec26b9644bc6172a187bffe9bcfa2d2fb2a77b8e75ec249d542887b5c160be15
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Reliability and Performance changes in rust-v0.93.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-24-glm-4-7-flash-performance-and-correctness-improvements-fixing-repetitive-answers|GLM-4.7-Flash
-  performance and correctness improvements, fixing repetitive answers…]]'
 - '[[Changes/Cline/2026-01-27-throttle-diff-view-updates-during-streaming-to-reduce-ui-flickering-and-improve|Throttle
   diff view updates during streaming to reduce UI flickering and improve…]]'
+- '[[Changes/OpenCode/2026-01-28-3-reliability-and-performance-changes-in-v1-1-37|3
+  Reliability and Performance changes in v1.1.37]]'
 - '[[Changes/Windsurf/2026-01-30-various-bug-fixes-and-performance-improvements|Various
   bug fixes and performance improvements]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8|codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8]]'

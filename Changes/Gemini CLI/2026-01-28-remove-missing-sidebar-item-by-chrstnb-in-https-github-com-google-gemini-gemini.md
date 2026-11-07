@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26116784bed438c7f61fb29891ff22ee750bdd9ea9eda259484db32e224bce5c
+machine_hash: 8f45c87e5d0b932813fa0add54354957ba71aca5dc1203d9cc4ac2f0268e3936
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved read/search progress indicators to show "Reading…" while in progress…]]
-- Later: 2026-01-28 · v0 · [[Changes/v0/2026-01-28-added-modals-for-library-and-projects-navigation|Added modals for Library and Projects navigation]]
+- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-desktop-enable-ctrl-n-and-ctrl-p-for-popover-navigation-in-desktop-app|Desktop Enable ctrl+n and ctrl+p for popover navigation in desktop app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 46717336cbce93fc15bd2fdda3cca7d5c74e815705e3f9f53f393b165eda66bd
+machine_hash: 5386517f669e2d7353e885fa2273a4a878dffe001d1a83ea5ebe717d27eadd55
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,8 +54,8 @@ record:
   title: 3 Context Window changes in v0.8.11
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-20-changed-plan-mode-to-hide-the-clear-context-option-by-default-restore-with-showc|Changed
-  plan mode to hide the "clear context" option by default…]]'
+- '[[Changes/OpenCode/2026-03-22-2-context-window-changes-in-v1-3-0|2 Context Window
+  changes in v1.3.0]]'
 - '[[Changes/Gemini CLI/2026-03-24-2-context-window-changes-in-v0-35-0|2 Context Window
   changes in v0.35.0]]'
 - '[[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Large

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed35d306e1b46d2ae3189e952a86ffcdd124378224b5630e8c6fc868a164f985
+machine_hash: 0039082a971c88e7dfd95b8e5398a89e4d866c83bed69f4eb65bf88c9fe9e4e6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.407
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-please-use-the-following-command-instead-for-details-please-read-this-https-gith| Please use the following command instead]]
-- Later: 2026-02-12 · Cline · [[Changes/Cline/2026-02-12-terminal-surface-command-exit-codes-in-results-and-improve-long-running-execute|Terminal: surface command exit codes in results and improve long-running…]]
+- Later: 2026-02-11 · OpenCode · [[Changes/OpenCode/2026-02-11-5-developer-workflow-changes-in-v1-1-58|5 Developer Workflow changes in v1.1.58]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

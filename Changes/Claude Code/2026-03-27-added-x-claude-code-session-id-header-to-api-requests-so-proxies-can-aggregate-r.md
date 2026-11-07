@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cebe2ce7dfe7f74b6fb3e01dafb5388377b221e136407ccfb687c878b79a8bb8
+machine_hash: 951b3266575422f0f0300fdd8efdfdd6f72abae180f8cc03b361112ebeb71eb4
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added `X-Claude-Code-Session-Id` header to API requests so proxies can aggregate…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-improved-powershell-dangerous-command-detection|Improved
-  PowerShell dangerous command detection]]'
 - '[[Changes/Codex CLI/2026-03-26-19-developer-workflow-changes-in-rust-v0-117-0|19
   Developer Workflow changes in rust-v0.117.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-2-developer-workflow-changes-in-v1-0-12|2
   Developer Workflow changes in v1.0.12]]'
+- '[[Changes/OpenCode/2026-03-26-2-developer-workflow-changes-in-v1-3-3|2 Developer
+  Workflow changes in v1.3.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-2-developer-workflow-changes-in-v1-0-12|2 Developer Workflow changes in v1.0.12]]
+- Earlier: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-2-developer-workflow-changes-in-v1-3-3|2 Developer Workflow changes in v1.3.3]]
 - Later: 2026-03-27 · Open WebUI · [[Changes/Open WebUI/2026-03-27-5-developer-workflow-changes-in-v0-8-12|5 Developer Workflow changes in v0.8.12]]
 <!-- chronolog:end -->
 

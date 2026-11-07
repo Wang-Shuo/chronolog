@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4416edaf7d49d1ea7d96e91d86acbe6168fc0771de94febd7e58877c77b052e6
+machine_hash: 8437f3ef9b2745210e1491e7917224af42623d06f8009591c2efe2d4725e6569
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,12 @@ record:
     setting…"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved
-  screen reader mode]]'
 - '[[Changes/Dify/2026-08-25-3-accessibility-and-localization-changes-in-1-17-0|3
   Accessibility and Localization changes in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-improved-ui-accessibility-a-closed-sidebar-is-no-longer-reachable-by-keyboard-or|♿
   Improved UI accessibility. A closed sidebar is no longer reachable by keyboard…]]'
+- '[[Changes/Google Antigravity/2026-08-26-several-overall-ux-improvements-for-performance-accessibility-and-project-config|Several
+  overall UX improvements for performance, accessibility, and project configurations]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-31-v0-11-2-github-379534902-6de0950b|open-webui-2026-08-31-v0-11-2-github-379534902-6de0950b]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-improved-ui-accessibility-a-closed-sidebar-is-no-longer-reachable-by-keyboard-or|♿ Improved UI accessibility. A closed sidebar is no longer reachable by keyboard…]]
-- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-vscode-added-a-claude-code-focus-last-message-command-that-moves-keyboard-focus|VSCode Added a "Claude Code]]
+- Earlier: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-several-overall-ux-improvements-for-performance-accessibility-and-project-config|Several overall UX improvements for performance, accessibility, and project configurations]]
+- Later: 2026-09-02 · Granola · [[Changes/Granola/2026-09-02-granola-now-supports-32-languages|More languages are here!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

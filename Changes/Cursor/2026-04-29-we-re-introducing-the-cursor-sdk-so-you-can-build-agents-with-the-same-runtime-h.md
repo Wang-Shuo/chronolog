@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 370489dd7bdc1818adeda15a34b78e47383eab544a5e0060d6e8ed967c0fbeea
+machine_hash: 62849088e289722bd3c64161eba7edc17d26205bc9083fb171e764dbe5e7c5e9
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,12 @@ record:
   title: Cursor introduces the Cursor SDK so you can build agents with the same runtime…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-6-apps-and-integrations-changes-in-v2-1-121|6
-  Apps and Integrations changes in v2.1.121]]'
 - '[[Changes/Gemini CLI/2026-04-28-2-apps-and-integrations-changes-in-v0-40-0|2 Apps
   and Integrations changes in v0.40.0]]'
 - '[[Changes/Ollama/2026-04-28-aligned-the-desktop-app-s-launch-page-with-ollama-launch-integrations|Aligned
   the desktop app''s launch page with ollama launch integrations]]'
+- '[[Changes/OpenCode/2026-04-28-desktop-sync-state-loading-is-more-reliable-for-mcp-lsp-and-workspace-refreshes|Desktop
+  Sync state loading is more reliable for MCP, LSP, and workspace refreshes]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-28 · Ollama · [[Changes/Ollama/2026-04-28-aligned-the-desktop-app-s-launch-page-with-ollama-launch-integrations|Aligned the desktop app's launch page with ollama launch integrations]]
+- Earlier: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-desktop-sync-state-loading-is-more-reliable-for-mcp-lsp-and-workspace-refreshes|Desktop Sync state loading is more reliable for MCP, LSP, and workspace refreshes]]
 - Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and Integrations changes in 1.14.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7c01ed465553cf038c1144a09ddcde5a494c7cfb8da33b5420dc797405900abb
+machine_hash: 3f852094f59d9fe943a7033d1cf945161eeedfe134582b4e6347ea746d8b6b17
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Add support for the kimi-k2.7-code model
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-30-tightened-gemma-4-moe-model-loading-in-the-mlx-engine|Tightened
-  Gemma 4 MoE model loading in the MLX engine]]'
+- '[[Changes/OpenCode/2026-06-30-4-model-support-changes-in-v1-17-12|4 Model Support
+  changes in v1.17.12]]'
 - '[[Changes/Claude/2026-07-01-model-entitlements-for-enterprise-plans-beta|Model
   entitlements for Enterprise plans (beta)]]'
 - '[[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support

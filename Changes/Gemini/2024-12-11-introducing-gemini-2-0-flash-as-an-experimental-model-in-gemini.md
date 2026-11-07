@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 491e1a81ee7f0639813d99934e3cb5aa7946000b5821dea71a5230d85b2cedd7
+machine_hash: 2cf7e40f282619f5d9be2a3094f5f79db099b7786a67b407c3f2e00f3527dd1e
 product: gemini
 product_name: Gemini
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-12-10 · DeepSeek API · [[Changes/DeepSeek API/2024-12-10-deepseek-chat|deepseek-chat]]
-- Later: 2024-12-11 · Ollama · [[Changes/Ollama/2024-12-11-exaone-3-5-https-ollama-com-library-exaone3-5-a-collection-of-instruction-tuned|EXAONE 3.5((source link) a collection…]]
+- Later: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-in-the-future-we-plan-for-the-characters-worlds-and-other-materials-you-create-i|In the future, we plan for the characters, worlds, and other materials you create…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

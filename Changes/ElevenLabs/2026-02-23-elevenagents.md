@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: cc9c5817b8dfca38c737e816391746fc3329525e5e17b738464833ce8ae9cc71
+machine_hash: 75271463eae08c1dc0662874fde51ca86449d529d2e6aadf7b0e873343f1e3aa
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -109,10 +109,10 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-3-agent-mode-changes-in-v0-0-412|3 Agent
-  Mode changes in v0.0.412]]'
 - '[[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes
   in v2.1.50]]'
+- '[[Changes/OpenCode/2026-02-20-core-remove-user-agent-header-assertion-from-llm-test-to-fix-failing-test|Core
+  Remove User-Agent header assertion from LLM test to fix failing test]]'
 - '[[Changes/Replit/2026-02-20-production-deployment-logs-access|Production deployment
   logs access]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-23-2026-02-23-19067983|elevenlabs-2026-02-23-2026-02-23-19067983]]'

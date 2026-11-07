@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 27e7a31541ee33efdf6fce3cbb08ee35420a1bbc8c638007e3520dac5f0b440c
+machine_hash: 37e93c380bab54e1922dc17cfad30f3587b010aea6d33d8d8579d1d2f808e1eb
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,7 +41,8 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Replit/2026-04-17-integrations|Integrations]]'
+- '[[Changes/OpenCode/2026-04-19-2-apps-and-integrations-changes-in-v1-14-18-1|2 Apps
+  and Integrations changes in v1.14.18 + 1]]'
 - '[[Changes/Claude Code/2026-04-20-2-apps-and-integrations-changes-in-v2-1-116|2
   Apps and Integrations changes in v2.1.116]]'
 - '[[Changes/Codex CLI/2026-04-20-28-apps-and-integrations-changes-in-rust-v0-122-0|28

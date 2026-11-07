@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4b103e043154dc6ec1afaafcc14f81a70849937463a7964812797942a71df974
+machine_hash: 999f2236df62af6bf72ec0bbdf21c242592b2e3fa7dee80a874368850188989c
 product: openhands
 product_name: OpenHands
 record:
@@ -47,10 +47,10 @@ record:
   title: 5 Developer Workflow changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added
-  OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]'
-- '[[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer
-  Workflow changes in v2.1.273]]'
+- '[[Changes/Google Antigravity/2026-09-15-new-permissions-system-terminal-and-git-version-control-for-enterprise|New
+  Permissions System & Terminal and Git version control for Enterprise]]'
+- '[[Changes/Google Antigravity/2026-09-15-the-command-palette-now-opens-over-a-dimmed-backdrop-with-enter-and-exit-animati|The
+  command palette now opens over a dimmed backdrop with enter and exit animations…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-6-developer-workflow-changes-in-v1-0-85|6
   Developer Workflow changes in v1.0.85]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'

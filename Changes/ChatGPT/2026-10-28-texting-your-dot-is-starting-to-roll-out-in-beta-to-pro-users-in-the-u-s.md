@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 27ac01aef5e7f22f805f90a2f79f27a18583e38803597a88a7848fbe746925aa
+machine_hash: 2427628ac02b6d242640e58a725c8162bea6c93499099914b382f639b8be44d3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,10 +62,10 @@ record:
   title: Texting your dot
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-3-safety-and-privacy-changes-in-rust-v0-165-0|3
-  Safety and Privacy changes in rust-v0.165.0]]'
-- '[[Changes/Gemini CLI/2026-10-27-fix-ci-remove-unsupported-members-permission-in-unassign-inactive-assignees-work|fix(ci):
-  remove unsupported members permission in unassign-inactive-assignees workflow]]'
+- '[[Changes/OpenClaw/2026-10-27-2-safety-and-privacy-changes-in-v2026-10-8|2 Safety
+  and Privacy changes in v2026.10.8]]'
+- '[[Changes/OpenCode/2026-10-27-2-safety-and-privacy-changes-in-v2-2-0|2 Safety and
+  Privacy changes in v2.2.0]]'
 - '[[Changes/OpenHands/2026-10-27-feat-sidebar-start-a-new-conversation-in-the-row-s-sandbox-ohe-3689-by-hieptl-in|feat(sidebar):
   start a new conversation in the row''s sandbox (OHE-3689)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-28-texting-your-dot-7b46a795|chatgpt-2026-10-28-texting-your-dot-7b46a795]]'
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-sidebar-start-a-new-conversation-in-the-row-s-sandbox-ohe-3689-by-hieptl-in|feat(sidebar): start a new conversation in the row's sandbox (OHE-3689)]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-10-safety-and-privacy-changes-in-rust-v0-166-0|10 Safety and Privacy changes in rust-v0.166.0]]
+- Later: 2026-10-28 · Google Antigravity · [[Changes/Google Antigravity/2026-10-28-the-marketplace-tab-and-the-pages-of-plugins-from-third-party-developers-now-sho|The Marketplace tab and the pages of plugins from third party developers now show…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

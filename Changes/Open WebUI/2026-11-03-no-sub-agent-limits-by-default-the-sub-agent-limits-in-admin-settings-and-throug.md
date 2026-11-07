@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ff14f64e3e04b35ef3891b06ca3634ef21473a950d8be27be1eedca1796a14aa
+machine_hash: 13375e5037cde7751a66cf765f0b41e4b78b1c07e4bedfb0494a6924911d330e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,7 +52,8 @@ record:
     Settings…"
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-workspaces|Workspaces]]'
+- '[[Changes/Google Antigravity/2026-11-03-remote-agents-are-starting-to-roll-out-to-google-ai-ultra-and-pro-subscribers-co|Remote
+  agents are starting to roll out to Google AI Ultra and Pro subscribers]]'
 - '[[Changes/Lovable/2026-11-03-lovable-follows-agents-md-files-in-your-project-s-subfolders|Lovable
   follows AGENTS.md files in your project''s subfolders]]'
 - '[[Changes/Ollama/2026-11-03-xiaomi-mimo-s-mimo-v2-6-https-ollama-com-library-mimo-v2-6-a-9b-model-built-for|Xiaomi
@@ -103,7 +104,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-xiaomi-mimo-s-mimo-v2-6-https-ollama-com-library-mimo-v2-6-a-9b-model-built-for|Xiaomi MiMo's mimo-v2.6((source link) a 9B model built…]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-3-agent-mode-changes-in-v1-35-0|3 Agent Mode changes in v1.35.0]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-9-agent-mode-changes-in-v2026-10-10|9 Agent Mode changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

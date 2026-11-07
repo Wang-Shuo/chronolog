@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c8f43c909d9240fae7a412907e3ead56d4a9ce496e736ec954065a59319f0274
+machine_hash: 5d6067d2ccb30a726e5f700e8cce803dc87165e1acf16bde75a652039b3ae5f9
 product: lovable
 product_name: Lovable
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-scim-sync-can-t-demote-an-admin-a-scim-provisioning-sync-that-marks-a-user-inact|🛟 SCIM sync can't demote an admin. A SCIM provisioning sync that marks a user…]]
-- Later: 2026-07-01 · Lovable · [[Changes/Lovable/2026-07-01-restrict-who-can-download-project-code|Restrict who can download project code]]
+- Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-qqbot-group-admins-can-choose-how-broadly-slash-commands-are-available-and-priva|QQBot group admins can choose how broadly slash commands are available…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

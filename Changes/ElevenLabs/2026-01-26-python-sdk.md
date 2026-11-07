@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5c19602458d4ea5c406d27319457220dd78a1c8889a08f2e926ba2fc785b2f45
+machine_hash: 4f55d7755ab3f6d8ece76f5e24e91babe4f9d55ba70449ae1d2ef78ce2c00d94
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,12 +48,12 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Replit/2026-01-23-rulessync-support-for-replit-md|RulesSync support for
-  replit.md]]'
 - '[[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-91-0|2 Agent Mode
   changes in rust-v0.91.0]]'
 - '[[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-90-0|2 Agent Mode
   changes in rust-v0.90.0]]'
+- '[[Changes/OpenCode/2026-01-25-2-agent-mode-changes-in-v1-1-35|2 Agent Mode changes
+  in v1.1.35]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-01-26-2026-01-26-f7dcd336|elevenlabs-2026-01-26-2026-01-26-f7dcd336]]'
 source_type: elevenlabs_changelog
 theme: agent-mode
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-90-0|2 Agent Mode changes in rust-v0.90.0]]
+- Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-2-agent-mode-changes-in-v1-1-35|2 Agent Mode changes in v1.1.35]]
 - Later: 2026-01-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-26-load-local-shell-configuration-in-agent-sessions|Load local shell configuration in agent sessions]]
 <!-- chronolog:end -->
 

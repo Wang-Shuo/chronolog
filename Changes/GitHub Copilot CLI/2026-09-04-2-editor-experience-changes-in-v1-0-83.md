@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18ac1ef3187f94d3c0719d62d07c87dcbc1d8c0df6811a46a39657a8657fc199
+machine_hash: 10485e97ee9a92b706edbd796b223b6ba1857350dbaa5502c512044d5b8a45de
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Editor Experience changes in v1.0.83
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor
-  Experience changes in v2.1.257]]'
-- '[[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the
-  code diff against the base branch]]'
 - '[[Changes/Claude Code/2026-09-03-improved-the-settings-error-for-rules-such-as-edit-c-dir-name-where-is-read-as-a|Improved
   the settings error for rules such as Edit(C:\dir\(name)\), where…]]'
+- '[[Changes/Midjourney/2026-09-03-edit-lightbox|EDIT-LIGHTBOX]]'
+- '[[Changes/OpenClaw/2026-09-03-3-editor-experience-changes-in-v2026-9-1|3 Editor
+  Experience changes in v2026.9.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,8 +91,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.83
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-improved-the-settings-error-for-rules-such-as-edit-c-dir-name-where-is-read-as-a|Improved the settings error for rules such as Edit(C:\dir\(name)\), where…]]
-- Later: 2026-09-08 · Lovable · [[Changes/Lovable/2026-09-08-project-files-no-longer-copy-automatically-during-a-remix|Project files no longer copy automatically during a remix]]
+- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-3-editor-experience-changes-in-v2026-9-1|3 Editor Experience changes in v2026.9.1]]
+- Later: 2026-09-04 · OpenCode · [[Changes/OpenCode/2026-09-04-core-send-the-session-id-as-github-copilot-s-interaction-header-to-improve-reque|Core Send the session ID as GitHub Copilot's interaction header to improve request…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

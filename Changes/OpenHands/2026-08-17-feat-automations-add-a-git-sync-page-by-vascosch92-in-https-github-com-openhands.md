@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a047c1f4cfc69e8a11cd1c16f913156bd23a4eebf0e50338a6536ac280148f9e
+machine_hash: b16aa76a8cd5d4cdc5fbe7152cf0a9480aacda5fc6d881037b856ff3e68014eb
 product: openhands
 product_name: OpenHands
 record:
@@ -41,10 +41,10 @@ record:
   title: 'feat(automations): add a Git Sync page'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted
-  and clipboard images are read without blocking the event loop]]'
 - '[[Changes/OpenHands/2026-08-13-chore-bump-sdk-deps-software-agent-sdk-1-42-1-automation-1-7-1-typescript-client|chore:
   bump SDK deps…]]'
+- '[[Changes/Suno/2026-08-13-automation-change-your-effect-parameters-over-time-to-breathe-life-into-your-fin|Automation:
+  Change your effect parameters over time to breathe life into your final mix]]'
 - '[[Changes/Cline/2026-08-14-stop-two-cline-installations-on-different-builds-from-shutting-each-other-s-hub|Stop
   two Cline installations on different builds from shutting each other''s Hub…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-17-v1-14-0-github-371966965-402951e4|openhands-2026-08-17-v1-14-0-github-371966965-402951e4]]'

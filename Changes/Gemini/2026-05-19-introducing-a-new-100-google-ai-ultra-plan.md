@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6a7eaa7c2f664af0bd54bfb639e4a52d362ced46a7a7cb9ae291a09ae19d1a5c
+machine_hash: f0e1929666c37cfd9e0f7824c319d9d6549907f159dfa4b6cb084e0578cba334
 product: gemini
 product_name: Gemini
 record:
@@ -59,10 +59,10 @@ record:
   title: Introducing a new $100 Google AI Ultra plan
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens|Fast
-  (default): $3.00/M input, $15.00/M output tokens]]'
 - '[[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|Standard:
   $0.50/M input, $2.50/M output tokens]]'
+- '[[Changes/OpenCode/2026-05-18-core-reduce-missed-event-updates-caused-by-a-subscription-race|Core
+  Reduce missed /event updates caused by a subscription race]]'
 - '[[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr|Renamed
   "extra usage" to "usage credits" across CLI copy]]'
 source_release: '[[Releases/Gemini/gemini-2026-05-19-2026-05-19-16a11edf|gemini-2026-05-19-2026-05-19-16a11edf]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0b2ad3cb00ff0ee1e2851359dcb8f6a396f2dcb19085914f139bb0e44f8f1606
+machine_hash: d955ed89e0f942130aab1ad0662a28fc5ad7116f937a0f5569da1b4a17c51d21
 product: lovable
 product_name: Lovable
 record:
@@ -58,12 +58,12 @@ record:
   title: Restrict an API key to approved IP addresses
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-24-see-which-credit-limit-applies-to-each-member-in-the-people-export|See
-  which credit limit applies to each member in the People export]]'
 - '[[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude
   Tag Improved "Notify members now" in admin settings]]'
 - '[[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For
   the next month, dots usage won’t count toward eligible Pro, Business…]]'
+- '[[Changes/OpenClaw/2026-09-30-2-enterprise-and-administration-changes-in-v2026-9-7|2
+  Enterprise and Administration changes in v2026.9.7]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-01-2026-10-01-a783b57b|lovable-2026-10-01-2026-10-01-a783b57b]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For the next month, dots usage won’t count toward eligible Pro, Business…]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-2-enterprise-and-administration-changes-in-v2026-9-7|2 Enterprise and Administration changes in v2026.9.7]]
 - Later: 2026-10-02 · Lovable · [[Changes/Lovable/2026-10-02-show-an-announcement-banner-to-everyone-in-your-workspace|Show an announcement banner to everyone in your workspace]]
 <!-- chronolog:end -->
 

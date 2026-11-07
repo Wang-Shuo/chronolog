@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1bd1cad86377fe0c2243f35f94d2e634b8a053e1fabc4559f83c7fe2c153f6bc
+machine_hash: c8ac1558db90c433c4d2f3d4748a830fe1156e0227d819a5e859ac223fd5c852
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in v1.0.56
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-model-now-saves-your-selection-as-the-default-for-new-sessions-matching-the-ide|/model
-  now saves your selection as the default for new sessions (matching the IDE)]]'
 - '[[Changes/Cline/2026-05-28-2-model-support-changes-in-v3-86-0|2 Model Support changes
   in v3.86.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-3-model-support-changes-in-v1-0-55|3 Model
   Support changes in v1.0.55]]'
+- '[[Changes/OpenCode/2026-05-28-2-model-support-changes-in-v1-15-12|2 Model Support
+  changes in v1.15.12]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448|github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448]]'
 source_type: github_releases
 theme: model-support
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.56
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-3-model-support-changes-in-v1-0-55|3 Model Support changes in v1.0.55]]
+- Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-2-model-support-changes-in-v1-15-12|2 Model Support changes in v1.15.12]]
 - Later: 2026-05-30 · Claude Code · [[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]
 <!-- chronolog:end -->
 

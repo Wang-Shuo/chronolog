@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6623e54a7cc6f27ad8c8cd8e3dc2806fd546bebdd49ed1e89b6f56bbaa8c7026
+machine_hash: 3ddc43f1246aeeb165f00707403c9d7d032a1b0bb801906daa06985301abf2b7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,11 +59,11 @@ record:
   title: 4 Model Support changes in v0.8.2
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-14-2-model-support-changes-in-v0-16-2|2 Model Support
-  changes in v0.16.2]]'
-- '[[Changes/Open WebUI/2026-02-14-6-model-support-changes-in-v0-8-1|6 Model Support
-  changes in v0.8.1]]'
+- '[[Changes/OpenCode/2026-02-15-2-model-support-changes-in-v1-2-5-1|2 Model Support
+  changes in v1.2.5 + 1]]'
 - '[[Changes/ElevenLabs/2026-02-16-new-schemas|New Schemas]]'
+- '[[Changes/Midjourney/2026-02-16-your-ratings-are-already-helping-the-v8-model-and-we-really-appreciate-your-time|Your
+  ratings are already helping the V8 model and we really appreciate your time…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-16-v0-8-2-github-286715828-a462c4be|open-webui-2026-02-16-v0-8-2-github-286715828-a462c4be]]'
 source_type: github_releases
 theme: model-support
@@ -107,8 +107,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-16 · ElevenLabs · [[Changes/ElevenLabs/2026-02-16-new-schemas|New Schemas]]
-- Later: 2026-02-17 · Claude · [[Changes/Claude/2026-02-17-claude-sonnet-4-6-launch|Claude Sonnet 4.6 launch]]
+- Earlier: 2026-02-16 · Midjourney · [[Changes/Midjourney/2026-02-16-your-ratings-are-already-helping-the-v8-model-and-we-really-appreciate-your-time|Your ratings are already helping the V8 model and we really appreciate your time…]]
+- Later: 2026-02-16 · OpenCode · [[Changes/OpenCode/2026-02-16-core-remove-unnecessary-per-message-title-llm-calls|Core Remove unnecessary per-message title LLM calls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

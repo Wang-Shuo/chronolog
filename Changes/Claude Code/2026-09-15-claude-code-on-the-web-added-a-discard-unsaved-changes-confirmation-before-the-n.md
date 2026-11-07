@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8ecaa0ffd778635b2e9cc4008880b825c4fb02ffe536bfbb0772275323881386
+machine_hash: 29bf8e5f64ee2a0029a873024b814c8495eb75dc857b1465f3e607af0efdc59f
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
     before…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-10-sync-your-project-with-bitbucket-cloud|Sync your project
-  with Bitbucket Cloud]]'
 - '[[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor
   Experience changes in v2.1.269]]'
+- '[[Changes/OpenClaw/2026-09-11-5-editor-experience-changes-in-v2026-9-4|5 Editor
+  Experience changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-3-editor-experience-changes-in-v2-1-271|3 Editor
   Experience changes in v2.1.271]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'

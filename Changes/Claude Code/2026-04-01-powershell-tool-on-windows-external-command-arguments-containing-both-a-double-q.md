@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc0dc858b0c3e840f830bd11669475f296f1111f9b10d99e79df102e5c633422
+machine_hash: b23f9a7d946f9991cad6bb8343c9874ebaf4e3c91bf84e940aa3e70039f9337e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: PowerShell tool on Windows
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-3-mobile-and-desktop-changes-in-rust-v0-117-0|3
-  Mobile and Desktop changes in rust-v0.117.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-26-2-mobile-and-desktop-changes-in-v1-0-12|2
-  Mobile and Desktop changes in v1.0.12]]'
+- '[[Changes/OpenCode/2026-03-29-10-mobile-and-desktop-changes-in-v1-3-6-2|10 Mobile
+  and Desktop changes in v1.3.6 + 2]]'
+- '[[Changes/OpenCode/2026-03-30-added-first-class-powershell-support-on-windows|Added
+  first-class PowerShell support on Windows]]'
 - '[[Changes/Codex CLI/2026-03-31-7-mobile-and-desktop-changes-in-rust-v0-118-0|7
   Mobile and Desktop changes in rust-v0.118.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'

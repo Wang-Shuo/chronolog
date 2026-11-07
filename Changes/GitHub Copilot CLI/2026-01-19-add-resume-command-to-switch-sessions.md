@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dfa1408f98ff85141e0935a13f137462be9031ac7ebbc553abb35ee6582dfad6
+machine_hash: 7d10881fa41e59b7e4d024db7fe51dfbf689929ec544878dbb5c07e89beb43b7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Add `/resume` command to switch sessions
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2
-  Developer Workflow changes in CLI Agent Modes and Cloud Handoff]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-16-2-developer-workflow-changes-in-v0-0-384|2
   Developer Workflow changes in v0.0.384]]'
+- '[[Changes/OpenCode/2026-01-16-4-developer-workflow-changes-in-v1-1-24|4 Developer
+  Workflow changes in v1.1.24]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-2-developer-workflow-changes-in-v0-0-385|2
   Developer Workflow changes in v0.0.385]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-19-v0-0-386-github-278059609-7539de31|github-copilot-cli-2026-01-19-v0-0-386-github-278059609-7539de31]]'
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-2-developer-workflow-changes-in-v0-0-385|2 Developer Workflow changes in v0.0.385]]
-- Later: 2026-01-19 · v0 · [[Changes/v0/2026-01-19-improved-pull-request-creation-with-option-to-push-latest-changes|Improved pull request creation with option to push latest changes]]
+- Later: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-16-developer-workflow-changes-in-v1-1-26|16 Developer Workflow changes in v1.1.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

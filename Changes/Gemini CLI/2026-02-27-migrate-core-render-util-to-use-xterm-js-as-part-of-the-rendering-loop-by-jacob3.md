@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9b555532b1f26d8ceede957f2fe87465231b9dd4a9778652a6b0803fe3021db
+machine_hash: 4913276f8570cb7b9faa5a038132bc1222fc96cc245dd418eb947e2796d01afa
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: Migrate core render util to use xterm.js as part of the rendering loop
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-feat-core-add-setting-to-disable-loop-detection-by-sandytao520-in-https-github-c|feat(core):
-  add setting to disable loop detection]]'
+- '[[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core
+  SessionPrompt.shell() now triggers loop if messages are queued]]'
 - "[[Changes/Open WebUI/2026-02-12-async-pipeline-operations-pipeline-operations-now-run-asynchronously-instead-of|\U0001F527
   Async pipeline operations. Pipeline operations now run asynchronously instead…]]"
 - '[[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork|Scheduled tasks in Cowork]]'

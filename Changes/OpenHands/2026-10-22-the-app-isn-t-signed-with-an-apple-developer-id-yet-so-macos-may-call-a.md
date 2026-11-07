@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eaa70b3a781099995a5f9362a23831e675322af943bc8b2d041bf2e75c95353b
+machine_hash: 1a3cfb688f2c2fc068bd66d553b7cadd90261fc989d8fa352377d427404b3e91
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: The app isn't signed with an Apple Developer ID yet, so macOS may call a
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-21-note-flint-is-supported-on-macos-other-gpu-support-will-be-enabled-in-a-subseque|Note:
-  Flint is supported on MacOS]]'
 - '[[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed
   the dangerous rm and rmdir prompt in bypass permissions mode…]]'
 - '[[Changes/Ollama/2026-10-22-flint-https-ollama-com-library-flint-now-runs-on-linux-and-windows-as-well-as-ma|Flint((source
   link) now runs on Linux and Windows as well as macOS]]'
+- '[[Changes/OpenClaw/2026-10-22-2-mobile-and-desktop-changes-in-v2026-10-6|2 Mobile
+  and Desktop changes in v2026.10.6]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-22-v1-31-0-github-420932125-8ecc1112|openhands-2026-10-22-v1-31-0-github-420932125-8ecc1112]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-22 · Ollama · [[Changes/Ollama/2026-10-22-flint-https-ollama-com-library-flint-now-runs-on-linux-and-windows-as-well-as-ma|Flint((source link) now runs on Linux and Windows as well as macOS]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-2-mobile-and-desktop-changes-in-v2026-10-6|2 Mobile and Desktop changes in v2026.10.6]]
 - Later: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-431833|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
 <!-- chronolog:end -->
 

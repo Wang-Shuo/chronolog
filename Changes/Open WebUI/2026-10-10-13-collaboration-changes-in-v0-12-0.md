@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67227a236af3647f7ac6a77355c32f61c4391998b8c09438c35765568b3c9731
+machine_hash: dd3d1e867eb41128c0275975f857aa214bc476972317ae17eca5d1887cb43586
 product: open-webui
 product_name: Open WebUI
 record:
@@ -113,12 +113,11 @@ record:
   title: 13 Collaboration changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Claude/2026-10-07-monthly-api-credits-for-max-and-team-plans|Monthly
-  API credits for Max and Team plans]]'
-- '[[Changes/Codex CLI/2026-10-07-2-collaboration-changes-in-rust-v0-161-0|2 Collaboration
-  changes in rust-v0.161.0]]'
-- '[[Changes/Codex CLI/2026-10-08-2-collaboration-changes-in-rust-v0-162-0|2 Collaboration
-  changes in rust-v0.162.0]]'
+- '[[Changes/Midjourney/2026-10-08-shared-folders|SHARED FOLDERS]]'
+- '[[Changes/Midjourney/2026-10-08-here-s-this-week-s-round-of-changes-on-alpha-midjourney-com-the-highlight-this-w|here''s
+  this week''s round of changes on alpha.midjourney.com]]'
+- '[[Changes/OpenClaw/2026-10-08-september-database-compatibility-upgrading-from-september-stable-keeps-shared-da|September
+  database compatibility]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: collaboration
@@ -191,8 +190,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-2-collaboration-changes-in-rust-v0-162-0|2 Collaboration changes in rust-v0.162.0]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed local session transcripts to also record each API request's system prompt…]]
+- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-september-database-compatibility-upgrading-from-september-stable-keeps-shared-da|September database compatibility]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-12-collaboration-changes-in-v2026-10-1|12 Collaboration changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

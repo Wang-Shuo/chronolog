@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61ba2b259f580fa497d0c0dea476f453ecbd01a474a1a8068f95812d60a5c2ea
+machine_hash: 773d75590c9cb1e8db69c1856c2231a98aec8503da5344b1126d630e89d6911f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,9 @@ record:
   title: 3 Image Generation changes in rust-v0.158.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-2-image-generation-changes-in-v0-11-4|2 Image Generation
-  changes in v0.11.4]]'
-- '[[Changes/Codex CLI/2026-09-22-45544-discourage-logging-full-image-generation-results-gan-tu|♯45544
-  Discourage logging full image generation results @Gan-Tu]]'
+- '[[Changes/OpenClaw/2026-09-23-2-image-generation-changes-in-v2026-9-6|2 Image Generation
+  changes in v2026.9.6]]'
+- '[[Changes/Midjourney/2026-09-24-create-feed|CREATE FEED]]'
 - '[[Changes/Codex CLI/2026-09-25-47327-preserve-image-generation-request-ids-on-failure-chrisdong-oai|♯47327
   Preserve image generation request IDs on failure @chrisdong-oai]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7|codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7]]'

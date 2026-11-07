@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20cc0974958b75d1716afe89023648b8257cb3e795003587d4f35dc5e0b04ac0
+machine_hash: 1e5b4d651fcd54f933a488f95274ab468baec2ac23c6f5611e492ac0fbb7a1b4
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,13 +50,13 @@ record:
   title: Improved terminal layout and rendering performance
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved
-  agent view]]'
 - '[[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added
   mouse-click support for multi-select menus and "Other" input rows in fullscreen
   mode]]'
 - '[[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface
   Experience changes in v2.1.210]]'
+- '[[Changes/OpenCode/2026-07-14-2-interface-experience-changes-in-v1-18-1-1|2 Interface
+  Experience changes in v1.18.1 + 1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
 theme: interface-experience
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface Experience changes in v2.1.210]]
+- Earlier: 2026-07-14 · OpenCode · [[Changes/OpenCode/2026-07-14-2-interface-experience-changes-in-v1-18-1-1|2 Interface Experience changes in v1.18.1 + 1]]
 - Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5 Interface Experience changes in v1.0.71]]
 <!-- chronolog:end -->
 

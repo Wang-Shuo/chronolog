@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 7cee16a1d0f46d97c55c94bcae528939f1c5e0d8cc7c6ed7335fde6c767de92e
+machine_hash: 6b01b1fb683fdce7593e98ed8b42fbca2c27a3631f15c6653c878b2111d2c1d4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-loop-skill|/loop skill]]
-- Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-auto-mode-no-longer-suppresses-askuserquestion-when-the-user-or-a-skill-explicit|Auto mode no longer suppresses AskUserQuestion when the user or a skill explicitly…]]
+- Later: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-core-agent-and-command-names-now-resolve-correctly-from-relative-config-paths|Core Agent and command names now resolve correctly from relative config paths]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

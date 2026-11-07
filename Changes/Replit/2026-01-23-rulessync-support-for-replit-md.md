@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1fff43cdb8231e69c547d629a0b140db07ae1ed22f12f2ebdfde208034c93c3e
+machine_hash: ea1ba12196d064bfb8e68fb2ce360359d7ebfc8427a2214729585a6e7315c15f
 product: replit
 product_name: Replit
 record:
@@ -46,8 +46,8 @@ record:
   title: RulesSync support for replit.md
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-22-2-agent-mode-changes-in-v0-0-389|2 Agent
-  Mode changes in v0.0.389]]'
+- '[[Changes/OpenCode/2026-01-22-mark-subagent-sessions-as-agent-initiated-to-exclude-them-from-quota-limits|Mark
+  subagent sessions as agent-initiated to exclude them from quota limits]]'
 - '[[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added
   env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-23-add-support-for-ghe-cloud-ghe-com-remote-custom-agents|Add

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1194ebc548310786a60b78860f736174df4a0df9653b5ce94c55872fc00c0cce
+machine_hash: aafe3bc02810e9ab675e91c2b89de72b72f839150b73190ac07ce8d248793a36
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,8 +76,8 @@ record:
   title: ChatGPT for PowerPoint is now generally available
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-6-account-and-access-changes-in-v1-0-66|6
-  Account and Access changes in v1.0.66]]'
+- '[[Changes/OpenCode/2026-06-30-3-account-and-access-changes-in-v1-17-12|3 Account
+  and Access changes in v1.17.12]]'
 - '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
   now opens the sign-in dialog from the claude agents view instead…]]'
 - '[[Changes/Open WebUI/2026-07-01-2-account-and-access-changes-in-v0-10-2|2 Account

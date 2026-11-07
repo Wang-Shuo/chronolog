@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 536ca402d9c3c7376f11e0a30f6a17537d82b0e83e170d875f346b44a441002d
+machine_hash: 43b8fd3f82b92329029c16b730e22d91643a912c4a5d2f506ea7fcc1196ddfff
 product: replit
 product_name: Replit
 record:
@@ -54,10 +54,10 @@ record:
   title: 'Two new connectors: Quiver AI and Browserbase'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2
-  Apps and Integrations changes in v2.1.149]]'
-- '[[Changes/Gemini CLI/2026-05-22-docs-extensions-refactor-releasing-guide-and-add-update-mechanisms-by-ruomengz-i|docs(extensions):
-  refactor releasing guide and add update mechanisms]]'
+- '[[Changes/Google Antigravity/2026-05-22-antigravity-ide-integration|Antigravity
+  IDE integration]]'
+- '[[Changes/OpenCode/2026-05-22-core-return-mcp-server-not-found-errors-from-the-http-api|Core
+  Return MCP server not found errors from the HTTP API]]'
 - '[[Changes/Replit/2026-05-22-integrations|Integrations]]'
 source_release: '[[Releases/Replit/replit-2026-05-22-2026-05-22-243c68d8|replit-2026-05-22-2026-05-22-243c68d8]]'
 source_type: replit_changelog
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-docs-extensions-refactor-releasing-guide-and-add-update-mechanisms-by-ruomengz-i|docs(extensions): refactor releasing guide and add update mechanisms]]
+- Earlier: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-core-return-mcp-server-not-found-errors-from-the-http-api|Core Return MCP server not found errors from the HTTP API]]
 - Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-2-apps-and-integrations-changes-in-v1-0-52|2 Apps and Integrations changes in v1.0.52]]
 <!-- chronolog:end -->
 

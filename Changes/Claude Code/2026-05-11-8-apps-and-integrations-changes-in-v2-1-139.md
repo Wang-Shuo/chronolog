@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a3e662f3620de5b566205fe250386945edf472f31183f00e8dc9f96e909993b5
+machine_hash: 6a423f2ff0beb638cee362d7633f12bf531129bec736514cd8b6239bf4784b2d
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,10 +63,10 @@ record:
   title: 8 Apps and Integrations changes in v2.1.139
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-08-speaker-notes-and-presenter-view-in-slide-decks|Speaker
-  notes and Presenter view in Slide Decks]]'
-- '[[Changes/Open WebUI/2026-05-09-3-apps-and-integrations-changes-in-v0-9-3|3 Apps
-  and Integrations changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-10-2-apps-and-integrations-changes-in-v1-14-45|2 Apps
+  and Integrations changes in v1.14.45]]'
+- '[[Changes/OpenCode/2026-05-10-3-apps-and-integrations-changes-in-v1-14-46|3 Apps
+  and Integrations changes in v1.14.46]]'
 - '[[Changes/Claude Code/2026-05-11-added-goal-command-set-a-completion-condition-and-claude-keeps-working-across-tu|Added
   /goal command]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
@@ -122,7 +122,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.139
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-3-apps-and-integrations-changes-in-v0-9-3|3 Apps and Integrations changes in v0.9.3]]
+- Earlier: 2026-05-10 · OpenCode · [[Changes/OpenCode/2026-05-10-3-apps-and-integrations-changes-in-v1-14-46|3 Apps and Integrations changes in v1.14.46]]
 - Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in|Get started by installing the integration in the Cursor dashboard]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7da492399c6e4cc140bf917f6221227a27687d1b6b11cc53f73025e3a6b670e2
+machine_hash: 85543245b1cf03b8e0ce610cdf93a9565c1f4578b665d242b962575a9ed18a71
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     it fails…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-07-2-account-and-access-changes-in-rust-v0-79-0|2 Account
-  and Access changes in rust-v0.79.0]]'
-- '[[Changes/Gemini CLI/2026-01-07-validate-oauth-resource-parameter-matches-mcp-server-url-by-galz10-in-https-gith|Validate
-  OAuth resource parameter matches MCP server URL]]'
-- '[[Changes/Open WebUI/2026-01-09-3-account-and-access-changes-in-v0-7-0|3 Account
-  and Access changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-10-2-account-and-access-changes-in-v1-1-12-1|2 Account
+  and Access changes in v1.1.12 + 1]]'
+- '[[Changes/OpenCode/2026-01-12-rename-opencode-password-to-opencode-server-password-for-clearer-authentication|Rename
+  OPENCODE_PASSWORD to OPENCODE_SERVER_PASSWORD for clearer authentication…]]'
+- '[[Changes/OpenCode/2026-01-12-terminal-copy-oauth-url-when-device-code-is-unavailable|Terminal
+  Copy OAuth URL when device code is unavailable]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: account-access
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-account-and-access-changes-in-v0-7-0|3 Account and Access changes in v0.7.0]]
+- Earlier: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-terminal-copy-oauth-url-when-device-code-is-unavailable|Terminal Copy OAuth URL when device code is unavailable]]
 - Later: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-4-account-and-access-changes-in-1-11-3|4 Account and Access changes in 1.11.3]]
 <!-- chronolog:end -->
 

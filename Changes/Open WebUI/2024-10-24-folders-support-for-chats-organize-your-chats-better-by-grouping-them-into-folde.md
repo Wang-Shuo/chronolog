@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2a6eeb4e2b15bf2177f2762be42d820b5f04f9d08fdbb7d0f700b02a2861d006
+machine_hash: 0fdb6c47e42622faccf4bf64a1e94de5db824406793eae4adb73e3d31e97694a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,12 +47,12 @@ record:
     grouping them into folders"
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer
-  is now default-on and available to all Pro/Business users by hitting cmd+I]]'
 - '[[Changes/Dify/2024-09-30-with-this-release-we-re-truly-showcasing-the-power-of-dify-we-appreciate-your-co|With
   this release, we’re truly showcasing the power of Dify!]]'
 - '[[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New
   README and got a cool domain for the project (source link) (wip)]]'
+- '[[Changes/Gamma/2024-10-23-view-images-your-teammates-have-created-in-shared-gammas|View
+  images your teammates have created in shared gammas]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-10-24-v0-3-33-github-181813159-9e2c88f7|open-webui-2024-10-24-v0-3-33-github-181813159-9e2c88f7]]'
 source_type: github_releases
 theme: collaboration
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New README and got a cool domain for the project (source link) (wip)]]
+- Earlier: 2024-10-23 · Gamma · [[Changes/Gamma/2024-10-23-view-images-your-teammates-have-created-in-shared-gammas|View images your teammates have created in shared gammas]]
 - Later: 2024-11-01 · Aider · [[Changes/Aider/2024-11-01-anonymous-opt-in-analytics-https-aider-chat-docs-more-analytics-html-with-no-per|Anonymous, opt-in analytics((source link) with no…]]
 <!-- chronolog:end -->
 

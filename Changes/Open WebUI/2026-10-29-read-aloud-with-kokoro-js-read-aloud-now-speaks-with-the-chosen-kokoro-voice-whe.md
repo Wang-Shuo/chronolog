@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49f624465fdd2c466be5b329dc2d74953c7219b91a6fe29faf3e51db84d7fa7f
+machine_hash: 5bf532336771111c3f3ee72d86af7ba2ad68cf2b86209c3726cf49819dd72afa
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,9 +50,10 @@ record:
     chosen Kokoro voice…"
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-javascript-sdk|JavaScript SDK]]'
-- '[[Changes/Ollama/2026-10-27-3-voice-and-audio-changes-in-v0-40-12|3 Voice and Audio
-  changes in v0.40.12]]'
+- '[[Changes/OpenClaw/2026-10-27-6-voice-and-audio-changes-in-v2026-10-8|6 Voice and
+  Audio changes in v2026.10.8]]'
+- '[[Changes/OpenCode/2026-10-27-2-voice-and-audio-changes-in-v2-2-0|2 Voice and Audio
+  changes in v2.2.0]]'
 - '[[Changes/Ollama/2026-10-28-liquid-ai-s-lfm3-https-ollama-com-library-lfm3-models-including-text-to-speech-i|Liquid
   AI''s LFM3((source link) models, including text-to-speech…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
@@ -101,7 +102,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-28 · Ollama · [[Changes/Ollama/2026-10-28-liquid-ai-s-lfm3-https-ollama-com-library-lfm3-models-including-text-to-speech-i|Liquid AI's LFM3((source link) models, including text-to-speech…]]
-- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-python-sdk|Python SDK]]
+- Later: 2026-10-29 · Suno · [[Changes/Suno/2026-10-29-fine-pitch-adjustment|Fine Pitch Adjustment]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 590fa88b94dc27aa0a3ac2675bf17f74bc1b7436918ca968eed2f3b33fde2c89
+machine_hash: af4ddba0d56a041e6aebe8caa9520035cea233b20d20c2064cd00ddbeff442da
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,12 @@ record:
   title: Add collapsible recent task list, allowing users to hide their task history…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-06-teams-features|Teams Features]]'
-- '[[Changes/Windsurf/2025-05-06-teams-conversation-sharing|Teams: Conversation Sharing]]'
+- '[[Changes/Midjourney/2025-05-07-we-re-preparing-to-do-a-new-community-idea-ranking-activity-later-this-week-befo|Share
+  your ideas!]]'
 - '[[Changes/Lovable/2025-05-09-project-visibility-settings-have-returned-to-team-workspaces-but-will-be-disable|Project
   visibility settings have returned to team workspaces, but will be disabled for now]]'
+- '[[Changes/Granola/2025-05-14-introducing-the-next-chapter-for-granola-bringing-all-your-team-s-conversations|Granola
+  2.0: A second brain for your team]]'
 source_release: '[[Releases/Cline/cline-2025-05-16-v3-16-0-github-219219393-255497c4|cline-2025-05-16-v3-16-0-github-219219393-255497c4]]'
 source_type: github_releases
 theme: collaboration
@@ -74,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-05-09 · Lovable · [[Changes/Lovable/2025-05-09-project-visibility-settings-have-returned-to-team-workspaces-but-will-be-disable|Project visibility settings have returned to team workspaces, but will be disabled for now]]
+- Earlier: 2025-05-14 · Granola · [[Changes/Granola/2025-05-14-introducing-the-next-chapter-for-granola-bringing-all-your-team-s-conversations|Granola 2.0: A second brain for your team]]
 - Later: 2025-05-16 · Replit · [[Changes/Replit/2025-05-16-viewer-seats-for-replit-teams|Viewer seats for Replit Teams]]
 <!-- chronolog:end -->
 

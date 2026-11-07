@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84cd812f08d90289580967711ba6e7f16dc4912284990be976d1fa4d5376f16a
+machine_hash: 5a8803941ad3d8ad04772560797bf51f9b68219049b4c78cc0ac5f55609063ea
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
     sessions…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-16-2-account-and-access-changes-in-v0-0-384|2
-  Account and Access changes in v0.0.384]]'
-- '[[Changes/Lovable/2026-01-16-two-factor-authentication-2fa|Two-factor authentication
-  (2FA)]]'
+- '[[Changes/OpenCode/2026-01-20-core-register-oauth-callback-before-opening-browser-in-mcp|Core
+  Register OAuth callback before opening browser in MCP]]'
 - '[[Changes/Gemini CLI/2026-01-21-feat-admin-prompt-user-to-restart-the-cli-if-they-change-auth-to-oauth-mid-sessi|feat(admin):
   prompt user to restart the CLI if they change auth to oauth mid-session…]]'
+- '[[Changes/OpenCode/2026-01-21-desktop-improve-provider-oauth-error-handling-in-app|Desktop
+  Improve provider OAuth error handling in app]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428]]'
 source_type: github_releases
 theme: account-access
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-feat-admin-prompt-user-to-restart-the-cli-if-they-change-auth-to-oauth-mid-sessi|feat(admin): prompt user to restart the CLI if they change auth to oauth mid-session…]]
+- Earlier: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-desktop-improve-provider-oauth-error-handling-in-app|Desktop Improve provider OAuth error handling in app]]
 - Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-browser-can-now-request-local-network-permissions-fixing-authentication-flows-wi|Browser can now request local network permissions, fixing authentication flows…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1b754aea6a07cba43e70b48c6dd8ebff5b8b66a17f6e929c1a728981cb06645
+machine_hash: b7a5fdf3eef165e60220b519bd1b80fd384298d72272b73efbf1054b4d05186f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Interface Experience changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added
-  searchable version selector for easier navigation]]'
 - '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
   backspace to delete pasted text as a single token instead of one character…]]'
+- '[[Changes/OpenCode/2026-01-20-3-interface-experience-changes-in-v1-1-28|3 Interface
+  Experience changes in v1.1.28]]'
 - '[[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3
   Interface Experience changes in rust-v0.88.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397|gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397]]'
@@ -98,7 +98,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.25.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3 Interface Experience changes in rust-v0.88.0]]
-- Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-improved-slash-command-selection-by-prioritizing-exact-and-prefix-matches-over-f|Improved slash-command selection by prioritizing exact and prefix matches over fuzzy…]]
+- Later: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-2-interface-experience-changes-in-v1-1-29|2 Interface Experience changes in v1.1.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

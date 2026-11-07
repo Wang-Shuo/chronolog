@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: affbabff0cc9f43813859898222b987434eb3772f733d7c28b2124bf88167377
+machine_hash: 6eff3e458ce563d052a017fdfc4881de64670f32e8e8925c6fa741f5c2043ba4
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -67,10 +67,10 @@ record:
   title: Audio Generation (TTS, S2S, SFX, Voice Design)
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-04-21-speech-to-text|Speech to Text]]'
 - '[[Changes/ElevenLabs/2025-04-21-professional-voice-cloning-pvc|Professional Voice
   Cloning (PVC)]]'
 - '[[Changes/ElevenLabs/2025-04-21-speech-to-text-e79d25|Speech to Text]]'
+- '[[Changes/Midjourney/2025-04-23-a-new-prompt-bar-for-v7|A new prompt bar for V7]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-04-28-2025-04-28-49480de5|elevenlabs-2025-04-28-2025-04-28-49480de5]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -118,7 +118,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-04-21 · ElevenLabs · [[Changes/ElevenLabs/2025-04-21-speech-to-text-e79d25|Speech to Text]]
+- Earlier: 2025-04-23 · Midjourney · [[Changes/Midjourney/2025-04-23-a-new-prompt-bar-for-v7|A new prompt bar for V7]]
 - Later: 2025-05-01 · ChatGPT · [[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|Sunsetting Monday GPT]]
 <!-- chronolog:end -->
 

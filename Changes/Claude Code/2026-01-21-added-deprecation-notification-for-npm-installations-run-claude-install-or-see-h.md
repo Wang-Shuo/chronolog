@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 755f896cae9a9a09a376a534e6b39993b1c7307abb2b5c0db173f0e764e81bb5
+machine_hash: 71201ad04bfe5b20af8b9f6a2e99d3b3f7f6a196b78a425754d747083e8a260a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     or see…
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-19-improved-pull-request-creation-with-option-to-push-latest-changes|Improved
-  pull request creation with option to push latest changes]]'
-- '[[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode
-  Added /usage command to display current plan usage]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-20-2-developer-workflow-changes-in-v0-0-388|2
   Developer Workflow changes in v0.0.388]]'
+- '[[Changes/OpenCode/2026-01-20-2-developer-workflow-changes-in-v1-1-28|2 Developer
+  Workflow changes in v1.1.28]]'
+- '[[Changes/OpenCode/2026-01-20-terminal-add-space-toggle-hint-to-tool-selection-prompt|Terminal
+  Add space toggle hint to tool selection prompt]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b|claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-20-2-developer-workflow-changes-in-v0-0-388|2 Developer Workflow changes in v0.0.388]]
+- Earlier: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-terminal-add-space-toggle-hint-to-tool-selection-prompt|Terminal Add space toggle hint to tool selection prompt]]
 - Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-9-developer-workflow-changes-in-rust-v0-88-0|9 Developer Workflow changes in rust-v0.88.0]]
 <!-- chronolog:end -->
 

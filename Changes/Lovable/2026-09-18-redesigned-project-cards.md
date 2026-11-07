@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6ddcae66145edd50dea838277cd2cd2dcff4517b77cd86e311bfaac7761b8693
+machine_hash: 1f191de5dfa289026cfb3596a69a5e7af1a11067d77056bcba80cacc38388e8b
 product: lovable
 product_name: Lovable
 record:
@@ -47,12 +47,12 @@ record:
   title: Redesigned project cards
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-cline-s-logo-and-icons-have-been-refreshed-throughout-the-extension-including-th|Cline''s
-  logo and icons have been refreshed throughout the extension, including…]]'
-- '[[Changes/Codex CLI/2026-09-17-43846-include-completed-commentary-in-the-copy-picker-copyberry|♯43846
-  Include completed commentary in the /copy picker @copyberry]]'
 - '[[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode
   Added a Sign out row to the panel menu, with /logout in the typed command menu]]'
+- '[[Changes/Google Antigravity/2026-09-18-custom-agent-controls-and-keyboard-navigation|Custom
+  agent controls and keyboard navigation]]'
+- '[[Changes/Google Antigravity/2026-09-18-3-interface-experience-changes-in-hub-v2-15-0-custom-agent-controls|3
+  Interface Experience changes in HUB v2.15.0 — Custom agent controls…]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-18-2026-09-18-bb95ac6d|lovable-2026-09-18-2026-09-18-bb95ac6d]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode Added a Sign out row to the panel menu, with /logout in the typed command menu]]
-- Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-number-key-selection-in-the-question-dialog-works-for-choices-10-and-beyond|Number-key selection in the question dialog works for choices 10 and beyond]]
+- Earlier: 2026-09-18 · Google Antigravity · [[Changes/Google Antigravity/2026-09-18-3-interface-experience-changes-in-hub-v2-15-0-custom-agent-controls|3 Interface Experience changes in HUB v2.15.0 — Custom agent controls…]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-32-interface-experience-changes-in-v2026-9-5|32 Interface Experience changes in v2026.9.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

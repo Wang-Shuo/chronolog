@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4259405ac465785193d9676aa8c4b13b2f006b6e23728f9139a56c56d7cbc43e
+machine_hash: 278a81a8c60b02dbc09a4332d17bbefbf5e6609ee8abccd453005a3ce791e324
 product: aider
 product_name: Aider
 record:
@@ -41,10 +41,9 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-06-2-interface-experience-changes-in-v0-67-0|2 Interface
-  Experience changes in v0.67.0]]'
 - '[[Changes/Dify/2024-12-09-4-interface-experience-changes-in-0-13-2|4 Interface
   Experience changes in 0.13.2]]'
+- '[[Changes/Midjourney/2024-12-11-action-bar|Action Bar]]'
 - "[[Changes/Open WebUI/2024-12-25-quick-screen-capture-button-effortlessly-capture-your-screen-with-a-single-click|\U0001F4F8
   Quick Screen Capture Button]]"
 source_release: '[[Releases/Aider/aider-2024-12-26-v0-70-0-github-192422417-0fd50011|aider-2024-12-26-v0-70-0-github-192422417-0fd50011]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a1194370b9dd35ecdf8ff0650bc55422694b4d335ecbf32f36c41061a121c7a6
+machine_hash: 1c9f0e6121b6e3836d0c4fcba7082874c09313cb30d788417a228210971c81e6
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,9 +50,9 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-5-agent-mode-changes-in-rust-v0-116-0|5 Agent Mode
-  changes in rust-v0.116.0]]'
 - '[[Changes/Replit/2026-03-20-empty-project-creation|Empty project creation]]'
+- '[[Changes/OpenCode/2026-03-22-ui-ux-improvements-agent-skill-ordering-more-consistent-ai-responses-with-improv|UI/UX
+  Improvements Agent & Skill Ordering]]'
 - '[[Changes/ElevenLabs/2026-03-23-elevenagents|ElevenAgents]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-03-23-2026-03-23-c7dac693|elevenlabs-2026-03-23-2026-03-23-c7dac693]]'
 source_type: elevenlabs_changelog
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-20 · Replit · [[Changes/Replit/2026-03-20-empty-project-creation|Empty project creation]]
+- Earlier: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-ui-ux-improvements-agent-skill-ordering-more-consistent-ai-responses-with-improv|UI/UX Improvements Agent & Skill Ordering]]
 - Later: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-2-agent-mode-changes-in-v1-0-11|2 Agent Mode changes in v1.0.11]]
 <!-- chronolog:end -->
 

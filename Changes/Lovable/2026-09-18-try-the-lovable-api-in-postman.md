@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 72274e04deaf180561ea79671fbe5b152875ba7440462e876e4566c6fb3be043
+machine_hash: 825941ee5e3b2ab09382eb88b03ac86a1cedc613fe644d38c58a7c735e1e2ae3
 product: lovable
 product_name: Lovable
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-09-17 · Lovable · [[Changes/Lovable/2026-09-17-perplexity-web-search-without-your-own-api-key|Perplexity web search without your own API key]]
-- Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-consecutive-steering-prompts-in-the-same-mode-combine-into-one-pending-message-p|Consecutive steering prompts in the same mode combine into one pending message]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-6-search-and-browsing-changes-in-v2026-9-5|6 Search and Browsing changes in v2026.9.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

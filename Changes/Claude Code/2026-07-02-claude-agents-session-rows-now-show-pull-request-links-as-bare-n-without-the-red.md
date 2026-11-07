@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 28efd620507f666a4b215c37c0d6db8c97b1d2f6c71432f0059de62f556c20da
+machine_hash: f0ca017f171464c23ace5818cd3f6b72060e6d2cfd0dfd5e9987a2c147412e44
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: '`claude agents` session rows now show pull-request links as bare `#N` without…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background
-  agents launched from claude agents now commit, push, and open a draft…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6
   Developer Workflow changes in v1.0.68]]'
 - '[[Changes/Open WebUI/2026-07-01-5-developer-workflow-changes-in-v0-10-2|5 Developer
   Workflow changes in v0.10.2]]'
+- '[[Changes/OpenCode/2026-07-01-desktop-streamline-wsl-server-setup-with-clearer-distro-checks-and-install-flows|Desktop
+  Streamline WSL server setup with clearer distro checks and install flows]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-5-developer-workflow-changes-in-v0-10-2|5 Developer Workflow changes in v0.10.2]]
+- Earlier: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-desktop-streamline-wsl-server-setup-with-clearer-distro-checks-and-install-flows|Desktop Streamline WSL server setup with clearer distro checks and install flows]]
 - Later: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed /review pr back to a fast single-pass review]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4119691524cfc7597cb59045d878acd62cf73e583152be8b77c7da931a6df177
+machine_hash: dde4b67f93753512aff03f9cc07e90b8da1f75fd3a5e21da7f0a15583edb897c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-handle-don-t-trust-directory-selection-in-onboarding-4941-viniciusmotta8|Handle "Don't Trust" directory selection in onboarding (♯4941) — @viniciusmotta8]]
-- Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set origin allowlist from dashboard to restrict browser tools]]
+- Later: 2025-11-20 · Midjourney · [[Changes/Midjourney/2025-11-20-animate-manually-button-bumps-you-back-to-prompt-bar|Animate manually button bumps you back to prompt bar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

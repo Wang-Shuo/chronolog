@@ -46,10 +46,20 @@ python -m pytest -q
 - Ollama: [ollama/ollama releases](https://github.com/ollama/ollama/releases)
 - Dify: [langgenius/dify releases](https://github.com/langgenius/dify/releases)
 - Open WebUI: [open-webui/open-webui releases](https://github.com/open-webui/open-webui/releases)
+- Suno: [official release notes](https://suno.com/release-notes)
+- Runway: [official changelog](https://runway.com/changelog)
+- Midjourney: [official updates](https://updates.midjourney.com/)
+- Gamma: [official public changelog](https://ideas.gamma.app/changelog)
+- Granola: [official update summaries](https://www.granola.ai/updates)
+- Google Antigravity: [App and original IDE releases](https://antigravity.google/docs/changelog)
+- Manus: [official public updates](https://www.manus.im/updates)
+- OpenClaw: [official curated release summaries](https://docs.openclaw.ai/releases)
+- OpenCode: [official paginated changelog](https://opencode.ai/changelog)
 
 `_scripts/sources.yaml` is the shared product catalog for collection, public pages,
-search, graph and timeline filters. It now tracks 20 products across consumer
-assistants, audio generation, app building, local-model tools and developer tools.
+search, graph and timeline filters. It now tracks 29 products across consumer
+assistants, music, image and video generation, presentations, meeting notes,
+agents, app building, local-model tools and developer tools.
 GitHub sources use `include_prereleases: false` and `tag_pattern` to exclude preview
 builds, separately tagged packages and temporary CI uploads. Larger asset feeds use
 smaller API pages to avoid timeouts.
@@ -60,6 +70,14 @@ Markdown window; Replit traverses dated update URLs in its official sitemap and
 verifies each page's heading against that date. Missing pages, malformed dates and
 duplicate identities fail the source, so a partial archive cannot be reconciled as
 complete. Navigation, hosting widgets and code examples are excluded.
+
+Midjourney traverses its posts sitemap and uses each article's publication date.
+Gamma traverses cumulative published-entry pages; Manus follows the public update
+cursor and checks the reported total. OpenCode follows every older-updates page.
+OpenClaw collects the curated documentation index and dates each version from the
+matching stable GitHub release, rather than interpreting its version as a date.
+Granola records the dated summaries on its update index. Antigravity covers its
+App and original IDE; separately versioned CLI, SDK and editor extensions are excluded.
 
 Coverage limits are carried into each product page and About. Claude and Gemini
 app histories are distinct from their coding tools; DeepSeek API represents its API

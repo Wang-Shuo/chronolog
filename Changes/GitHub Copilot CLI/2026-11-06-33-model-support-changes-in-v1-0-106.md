@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bafbf4bbedcf095b69e7c319e3fd1498c2cf2030f5aeaf0b16799c8713c6ad33
+machine_hash: 61e5f7ebd848e0be79817d46ae5b0ae6ab151afed10c2e61d528b13164e82d65
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -142,10 +142,10 @@ record:
   title: 33 Model Support changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-4-model-support-changes-in-1-19-0|4 Model Support changes
-  in 1.19.0]]'
 - '[[Changes/Gemini CLI/2026-11-04-feat-cli-add-models-command-and-list-models-flag-for-model-discovery-by-urielefr|feat(cli):
   add models command and --list-models flag for model discovery]]'
+- '[[Changes/OpenClaw/2026-11-05-4-model-support-changes-in-v2026-11-1|4 Model Support
+  changes in v2026.11.1]]'
 - '[[Changes/Codex CLI/2026-11-06-7-model-support-changes-in-rust-v0-167-0|7 Model
   Support changes in rust-v0.167.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
@@ -262,6 +262,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 ## Nearby in Model Support
 
 - Earlier: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-7-model-support-changes-in-rust-v0-167-0|7 Model Support changes in rust-v0.167.0]]
+- Later: 2026-11-06 · OpenCode · [[Changes/OpenCode/2026-11-06-core-added-azure-messages-support-for-foundry-claude-models|Core Added Azure Messages support for Foundry Claude models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

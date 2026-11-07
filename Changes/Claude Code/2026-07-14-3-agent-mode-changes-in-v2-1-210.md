@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f4f6a78520ca262ac11c4ed25db13d6e63a07efd042f0e3af9c939f27a47dfff
+machine_hash: 5333906247a67237931acdad988105f761a1fe9eac2a0df9fae757327710932b
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,10 @@ record:
   title: 3 Agent Mode changes in v2.1.210
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-13-elevenagents|ElevenAgents]]'
-- '[[Changes/ElevenLabs/2026-07-13-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Google Antigravity/2026-07-13-2-agent-mode-changes-in-hub-v2-3-0-queued-messages-plain|2
+  Agent Mode changes in HUB v2.3.0 — Queued messages, plain…]]'
+- '[[Changes/OpenClaw/2026-07-13-132-agent-mode-changes-in-v2026-7-1|132 Agent Mode
+  changes in v2026.7.1]]'
 - '[[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode
   changes in v2.1.208]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7|claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7]]'

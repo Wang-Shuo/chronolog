@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f4aa62bff592a977779507d1f01b010a6bd3d8736ab7e74bc69241c0992e1fc4
+machine_hash: 9e792770032e32ded31ef764d8405184787743e4241e941bff8159cb3c5ff17f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,10 @@ record:
   title: 3 Model Support changes in rust-v0.121.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-13-the-config-dir-flag-is-now-respected-when-selecting-the-active-model|The
-  --config-dir flag is now respected when selecting the active model]]'
-- '[[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved
-  /model to warn before switching models mid-conversation, since the next…]]'
-- '[[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger
-  the model picker from anywhere to switch models without clearing your prompt first]]'
+- '[[Changes/Midjourney/2026-04-14-what-s-next|What’s next?]]'
+- '[[Changes/Midjourney/2026-04-14-please-note|Please Note]]'
+- '[[Changes/Midjourney/2026-04-14-thanks-for-testing-our-v8-0-model-over-the-last-month-today-we-re-releasing-our|Thanks
+  for testing our V8.0 model over the last month!]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-15-rust-v0-121-0-github-309557036-bb698f03|codex-cli-2026-04-15-rust-v0-121-0-github-309557036-bb698f03]]'
 source_type: github_releases
 theme: model-support
@@ -95,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.121.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger the model picker from anywhere to switch models without clearing your prompt first]]
+- Earlier: 2026-04-14 · Midjourney · [[Changes/Midjourney/2026-04-14-thanks-for-testing-our-v8-0-model-over-the-last-month-today-we-re-releasing-our|Thanks for testing our V8.0 model over the last month!]]
 - Later: 2026-04-16 · Claude · [[Changes/Claude/2026-04-16-claude-opus-4-7-launch|Claude Opus 4.7 launch]]
 <!-- chronolog:end -->
 

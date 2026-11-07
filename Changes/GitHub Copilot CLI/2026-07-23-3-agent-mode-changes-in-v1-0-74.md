@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9ab0e64b8548edea4ff90825b13ab10a469a10534066e258b2be43826b86c40
+machine_hash: bfb8d315aedc1dc56249cd74b041e32046480ef688dda6b1cfdb6846f3d53572
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.74
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode is now powered by Cursor Router]]
-- Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode changes in v2.1.219]]
+- Later: 2026-07-23 · Runway · [[Changes/Runway/2026-07-23-agent-can-now-build-and-run-entire-workflows-for-you-just-describe-what-you-want|Agent Workflows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

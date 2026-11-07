@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b465a148c68e5bef2d2e5a9c0bdac3f07e9fd826f7eafbdb482187464f91bb81
+machine_hash: 391d1b9ddde843799fd4c869a43932c405de46b7a69627d5ae2a961a3ad0353c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Improved focus mode
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface
-  Experience changes in v2.1.97]]'
 - '[[Changes/Gemini CLI/2026-04-08-refine-onboarding-metrics-to-log-the-duration-explicitly-and-use-the-tier-name-b|Refine
   onboarding metrics to log the duration explicitly and use the tier name]]'
+- '[[Changes/OpenCode/2026-04-08-terminal-added-a-keybinding-option-for-switch-model-variant|Terminal
+  Added a keybinding option for "Switch model variant"]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-09-slash-command-picker-appears-above-the-text-input-for-a-more-stable-layout|Slash
   command picker appears above the text input for a more stable layout]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'

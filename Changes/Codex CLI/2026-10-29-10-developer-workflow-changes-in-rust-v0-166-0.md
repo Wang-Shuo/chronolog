@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c6a67b86af0f790b1aab4bd6564e3fe80b111402e04c01785eba86ac125baf0
+machine_hash: b3b9b4f83896c90910972f0c7c9e85a7577e3f54e9082a96ff96643061b22b4a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,10 +62,10 @@ record:
   title: 10 Developer Workflow changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-26-2-developer-workflow-changes-in-v3-11-228|2 Developer
-  Workflow changes in v3.11.228]]'
-- '[[Changes/Codex CLI/2026-10-27-3-developer-workflow-changes-in-rust-v0-165-0|3
-  Developer Workflow changes in rust-v0.165.0]]'
+- '[[Changes/OpenClaw/2026-10-27-2-developer-workflow-changes-in-v2026-10-8|2 Developer
+  Workflow changes in v2026.10.8]]'
+- '[[Changes/OpenCode/2026-10-27-13-developer-workflow-changes-in-v2-2-0|13 Developer
+  Workflow changes in v2.2.0]]'
 - '[[Changes/OpenHands/2026-10-27-chore-bump-shell-quote-and-dompurify-dependencies-by-devinvinson-in-https-github|chore:
   bump shell-quote and DOMPurify dependencies]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'

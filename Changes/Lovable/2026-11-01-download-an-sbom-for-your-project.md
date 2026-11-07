@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9c21111fddbb27f569408aa8e933c6a52c6e3f8ab0890f51ce164cae0daa8074
+machine_hash: ee246ad6aebe034eb32898eb391ba7d83624c3977cedeb1a8cc82fb4a2438795
 product: lovable
 product_name: Lovable
 record:
@@ -49,12 +49,12 @@ record:
   title: Download an SBOM for your project
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-29-run-a-deep-scan-from-the-project-chat|Run a Deep scan
-  from the project chat]]'
-- "[[Changes/Open WebUI/2026-10-29-security-advisory-this-release-contains-security-fixes-we-strongly-recommend-upd|\U0001F6E1️
-  Security Advisory: This release contains security fixes]]"
+- '[[Changes/OpenClaw/2026-10-29-security-release-v2026-10-9-adds-remediations-for-vulnerable-dependencies-and-re|Security
+  release: v2026.10.9 adds remediations for vulnerable dependencies…]]'
 - '[[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety
   and Privacy changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-core-preserved-permission-reasons-and-feedback-in-mcp-failures-and-made-code-mod|Core
+  Preserved permission reasons and feedback in MCP failures, and made Code Mode…]]'
 source_release: '[[Releases/Lovable/lovable-2026-11-01-2026-11-01-6ae925ca|lovable-2026-11-01-2026-11-01-6ae925ca]]'
 source_type: lovable_changelog
 theme: safety-privacy
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety and Privacy changes in v2.1.314]]
+- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-core-preserved-permission-reasons-and-feedback-in-mcp-failures-and-made-code-mod|Core Preserved permission reasons and feedback in MCP failures, and made Code Mode…]]
 - Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-4-safety-and-privacy-changes-in-elevenlabs-updates-2026-11-02|4 Safety and Privacy changes in ElevenLabs updates — 2026-11-02]]
 <!-- chronolog:end -->
 

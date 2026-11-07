@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 32f8a2a3d81ea6a3d1529d892aa7a43160a438429805a67d90fb47ba76a3e757
+machine_hash: 0d4d959ccb27c0648cee2ca0c02690345b9be93181f86e3dfe037569774df6e5
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,10 @@ record:
     or pull…
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-08-agent|Agent]]'
-- '[[Changes/Replit/2026-05-08-agent-accepts-svg-uploads|Agent accepts SVG uploads]]'
+- '[[Changes/OpenCode/2026-05-09-core-added-the-scout-agent-for-repo-research-docs-lookup-and-dependency-source-i|Core
+  Added the Scout agent for repo research, docs lookup, and dependency-source…]]'
+- '[[Changes/OpenCode/2026-05-10-core-fixed-a-plan-mode-security-bypass-where-subagents-could-ignore-parent-agent|Core
+  Fixed a Plan Mode security bypass where subagents could ignore parent-agent…]]'
 - '[[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode
   changes in v2.1.139]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4|cursor-2026-05-11-cursor-in-microsoft-teams-https-cursor-com-changelog-microsoft-t-26de16e4]]'

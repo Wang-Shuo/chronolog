@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3ddd21f2e53263b5d3281a41dfe96df43b3a5824e7ff83fd3eb16d8511618ad3
+machine_hash: 948cb4f00f09a5f6061649f04c9d2e4f00f2e0c6f1a0cb5e2b50837929b2e7da
 product: replit
 product_name: Replit
 record:
@@ -46,12 +46,12 @@ record:
   title: DeepLearningAI course launch
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-26-add-grok-vision-beta-to-xai-update-grok-beta-features-by-taowang1993-in-https-gi|Add
-  grok-vision-beta to xAI + Update grok-beta Features]]'
 - '[[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use
   the controls at the bottom of the screen, like the camera button below, to get started]]'
 - '[[Changes/Dify/2024-12-16-feat-add-grok-2-1212-and-grok-2-vision-1212-by-hjlarry-in-https-github-com-langg|feat:
   add grok-2-1212 and grok-2-vision-1212]]'
+- '[[Changes/Midjourney/2025-02-20-we-ve-added-a-new-folder-and-organization-system-to-the-website-check-out-the-vi|Midjourney
+  adds a new folder and organization system to the website]]'
 source_release: '[[Releases/Replit/replit-2025-03-28-2025-03-28-e7e91c08|replit-2025-03-28-2025-03-28-e7e91c08]]'
 source_type: replit_changelog
 theme: multimodal
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-feat-add-grok-2-1212-and-grok-2-vision-1212-by-hjlarry-in-https-github-com-langg|feat: add grok-2-1212 and grok-2-vision-1212]]
+- Earlier: 2025-02-20 · Midjourney · [[Changes/Midjourney/2025-02-20-we-ve-added-a-new-folder-and-organization-system-to-the-website-check-out-the-vi|Midjourney adds a new folder and organization system to the website]]
 - Later: 2025-04-26 · Ollama · [[Changes/Ollama/2025-04-26-add-support-for-meta-s-llama-4-https-ollama-com-library-llama4-multimodal-models|Add support for Meta's Llama 4((source link) multimodal models]]
 <!-- chronolog:end -->
 

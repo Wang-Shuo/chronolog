@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c7bc63c3e32d5388454544fbd65629ad3621e3b739f5fa32890c3a1a81a76b6
+machine_hash: 7941a8a14f31b234d2565af4ed799d096b344164c7c56f9bacd9e5a629f0ed6a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,10 +55,10 @@ record:
   title: 5 Developer Workflow changes in v1.0.81
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-changed-terminal-hyperlinks-in-rendered-markdown-link-targets-that-point-at-a-ne|Changed
-  terminal hyperlinks in rendered markdown]]'
-- '[[Changes/Codex CLI/2026-08-26-15-developer-workflow-changes-in-rust-v0-150-0|15
-  Developer Workflow changes in rust-v0.150.0]]'
+- '[[Changes/Google Antigravity/2026-08-26-generative-ui-and-ui-improvements|Generative
+  UI and UI improvements]]'
+- '[[Changes/Google Antigravity/2026-08-26-disabled-the-git-push-action-in-repositories-without-a-configured-remote-and-add|Disabled
+  the Git Push action in repositories without a configured remote, and added…]]'
 - '[[Changes/Claude Code/2026-08-27-changed-anthropic-telemetry-export-failures-to-log-at-debug-level-as-anthropic-t|Changed
   Anthropic telemetry export failures to log at debug level…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'

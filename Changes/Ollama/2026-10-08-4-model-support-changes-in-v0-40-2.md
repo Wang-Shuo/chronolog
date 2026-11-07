@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a76c74baee7d5a6d39a091c00a7606e9ba86fbfaed773cbd06eec80919d96b75
+machine_hash: d972021a82ab2ac73afbe4fe0c2eee73944450f4ef96121ddbbf09cb7d2c0730
 product: ollama
 product_name: Ollama
 record:
@@ -51,12 +51,12 @@ record:
   title: 4 Model Support changes in v0.40.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-3-model-support-changes-in-v2-1-295|3 Model Support
-  changes in v2.1.295]]'
 - '[[Changes/Codex CLI/2026-10-08-11-model-support-changes-in-rust-v0-162-0|11 Model
   Support changes in rust-v0.162.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-08-add-claude-haiku-5-5-to-model-selection-and-model-completions|Add
   Claude Haiku 5.5 to model selection and --model completions]]'
+- '[[Changes/Midjourney/2026-10-08-we-re-finding-in-tests-that-this-helps-make-the-model-better-at-prompt-accuracy|We''re
+  finding in tests that this helps make the model better at prompt accuracy…]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-08-v0-40-2-github-407063639-d2785d50|ollama-2026-10-08-v0-40-2-github-407063639-d2785d50]]'
 source_type: github_releases
 theme: model-support
@@ -96,8 +96,8 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.40.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-08-add-claude-haiku-5-5-to-model-selection-and-model-completions|Add Claude Haiku 5.5 to model selection and --model completions]]
-- Later: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e): launch the same-model profile test from the BETA profile]]
+- Earlier: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-we-re-finding-in-tests-that-this-helps-make-the-model-better-at-prompt-accuracy|We're finding in tests that this helps make the model better at prompt accuracy…]]
+- Later: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-4-model-support-changes-in-v2026-9-9|4 Model Support changes in v2026.9.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

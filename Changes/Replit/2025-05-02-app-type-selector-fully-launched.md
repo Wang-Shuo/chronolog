@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b490fe20761ab9023fde96e27385d144052786787f441d770bd3b69f6dd614f7
+machine_hash: d507a9273c15a9a8b2e89107954874737d03f7546575730a6fae96270d59a445
 product: replit
 product_name: Replit
 record:
@@ -48,10 +48,11 @@ record:
   title: App type selector fully launched
   type: change
 related_changes:
-- '[[Changes/Replit/2025-04-18-faster-ai-responses|Faster AI responses]]'
 - '[[Changes/Dify/2025-04-23-chore-speed-up-git-checkout-by-removing-fetch-depth-0-to-avoid-pulling-all-tags|chore:
   speed up git checkout by removing fetch-depth 0 to avoid pulling all tags…]]'
 - '[[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]'
+- '[[Changes/Suno/2025-05-01-faster-creation-speed-is-substantially-improved-for-your-creative-process|Faster
+  creation — Speed is substantially improved for your creative process]]'
 source_release: '[[Releases/Replit/replit-2025-05-02-2025-05-02-ceaa92ef|replit-2025-05-02-2025-05-02-ceaa92ef]]'
 source_type: replit_changelog
 theme: reliability-performance
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-04-27 · Windsurf · [[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]
+- Earlier: 2025-05-01 · Suno · [[Changes/Suno/2025-05-01-faster-creation-speed-is-substantially-improved-for-your-creative-process|Faster creation — Speed is substantially improved for your creative process]]
 - Later: 2025-05-03 · Ollama · [[Changes/Ollama/2025-05-03-2-reliability-and-performance-changes-in-v0-6-8|2 Reliability and Performance changes in v0.6.8]]
 <!-- chronolog:end -->
 

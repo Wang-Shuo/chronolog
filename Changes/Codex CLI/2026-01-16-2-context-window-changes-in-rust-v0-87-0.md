@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 768fc75e81e6a9ff23c490b285488df0e78238790a72663aeb86c6e88971660e
+machine_hash: fcd718dee8b6ea170abfac90f1c2f6f24ae03214fcbfa2e88d15b011e3dc065f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Context Window changes in rust-v0.87.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-enabled-mcp-tool-search-auto-mode-by-default-for-all-users-when-mcp-tool-descrip|Enabled
-  MCP tool search auto mode by default for all users]]'
 - '[[Changes/Gemini CLI/2026-01-14-2-context-window-changes-in-v0-24-0|2 Context Window
   changes in v0.24.0]]'
+- '[[Changes/OpenCode/2026-01-15-core-add-input-limit-for-compaction|Core Add input
+  limit for compaction]]'
 - '[[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added
   auto:N syntax for configuring the MCP tool search auto-enable threshold…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-16-rust-v0-87-0-github-277440557-08f55bf8|codex-cli-2026-01-16-rust-v0-87-0-github-277440557-08f55bf8]]'

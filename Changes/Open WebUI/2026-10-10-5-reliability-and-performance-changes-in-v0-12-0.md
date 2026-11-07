@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9da0e2a70d24873cc8904dcf43f353f680deb7b3e0b0dfa968a1695a555446df
+machine_hash: 558a895496357ed9bc9ca966233df9b30933d778ced06ed5175bd9782c1c5489
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,8 +63,8 @@ record:
   title: 5 Reliability and Performance changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-3-reliability-and-performance-changes-in-rust-v0-162-0|3
-  Reliability and Performance changes in rust-v0.162.0]]'
+- '[[Changes/Midjourney/2026-10-08-we-re-trying-to-both-improve-performance-and-just-generally-investigate-this-dir|We''re
+  trying to both improve performance and just generally investigate…]]'
 - '[[Changes/Ollama/2026-10-08-models-downloaded-with-earlier-versions-of-ollama-are-upgraded-in-the-background|Models
   downloaded with earlier versions of Ollama are upgraded in the background…]]'
 - '[[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved
@@ -126,7 +126,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]
-- Later: 2026-10-11 · Ollama · [[Changes/Ollama/2026-10-11-paused-background-model-upgrade-for-embedding-and-other-request-performance-by-j|Paused background model upgrade for embedding and other request performance,]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-2-reliability-and-performance-changes-in-v2026-10-1|2 Reliability and Performance changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

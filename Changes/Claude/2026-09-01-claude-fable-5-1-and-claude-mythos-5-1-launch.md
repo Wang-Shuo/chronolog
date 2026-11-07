@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8e26241ef51f9b9a8cecdd1ea824d3321e3d416e2b819b3e16b3ba990c6f7439
+machine_hash: 0daf5d991d2a1763d390ec07880ca7ad73c2d652cc52fd3dc3bfdc53de3a78a6
 product: claude
 product_name: Claude
 record:
@@ -46,12 +46,12 @@ record:
   title: Claude Fable 5.1 and Claude Mythos 5.1 launch
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site
-  tools use WebMCP and require a supported account, model, and webpage]]'
-- '[[Changes/Lovable/2026-08-31-priority-processing-now-works-with-gemini-chat-models|Priority
-  processing now works with Gemini chat models]]'
 - '[[Changes/Open WebUI/2026-08-31-10-model-support-changes-in-v0-11-2|10 Model Support
   changes in v0.11.2]]'
+- '[[Changes/OpenClaw/2026-08-31-models-and-providers-chat-and-the-models-page-open-from-the-catalog-openclaw-alr|Models
+  and Providers - Chat and the Models page open from the catalog OpenClaw…]]'
+- '[[Changes/Runway/2026-08-31-ruby-is-now-available-as-its-own-model-in-the-tool-mode-model-selector-with-a-de|Runway
+  Ruby in Tool Mode]]'
 source_release: '[[Releases/Claude/claude-2026-09-01-2026-09-01-13cb07e2|claude-2026-09-01-2026-09-01-13cb07e2]]'
 source_type: claude_changelog
 theme: model-support
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-10-model-support-changes-in-v0-11-2|10 Model Support changes in v0.11.2]]
+- Earlier: 2026-08-31 · Runway · [[Changes/Runway/2026-08-31-ruby-is-now-available-as-its-own-model-in-the-tool-mode-model-selector-with-a-de|Runway Ruby in Tool Mode]]
 - Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support changes in v2.1.257]]
 <!-- chronolog:end -->
 

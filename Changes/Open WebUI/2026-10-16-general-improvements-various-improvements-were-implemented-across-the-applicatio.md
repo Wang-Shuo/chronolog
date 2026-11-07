@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 93f0be6f58dd758187151cdfae64c0cebc5b06c8ac7146d441be2920f5de873f
+machine_hash: f1551ae133b80cb7cae396627991d8896ad7f20985182c2cdce28da2a861c3c5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-16 · Cursor · [[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2 Reliability and Performance changes in v2.1.304]]
+- Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-node-worker-memory-limits-node-workers-can-honor-their-configured-javascript-hea|Node worker memory limits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

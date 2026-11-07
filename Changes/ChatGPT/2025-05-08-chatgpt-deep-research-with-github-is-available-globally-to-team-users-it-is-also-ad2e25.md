@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff8f0dd7b2a8d49167b73e24842148ae78f0bb5cefec889b945f1aca4cfe5b0d
+machine_hash: 65206195f39dd20a4ddbc1dabc6f509997dbd48fed9c34ef707c80a69454e888
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,10 +48,10 @@ record:
   title: GitHub connector for deep research for Plus/Pro/Team
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-08-use-your-local-chrome-browser-for-session-based-browsing-enabling-debugging-and|Use
-  your local Chrome browser for session-based browsing, enabling debugging…]]'
 - "[[Changes/Open WebUI/2025-04-13-sougou-web-search-integration-new-search-engine-option-added-enhancing-global-re|\U0001F9ED
   Sougou Web Search Integration]]"
+- '[[Changes/Gamma/2025-04-16-layout-suggestions-powered-by-ai|Layout Suggestions
+  (Powered by AI)]]'
 - "[[Changes/Open WebUI/2025-05-05-optimized-faster-web-search-multi-threaded-queries-enjoy-dramatically-faster-web|\U0001F680
   Optimized Faster Web Search & Multi-Threaded Queries]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135|chatgpt-2025-05-08-github-connector-for-deep-research-for-plus-pro-team-498e1135]]'

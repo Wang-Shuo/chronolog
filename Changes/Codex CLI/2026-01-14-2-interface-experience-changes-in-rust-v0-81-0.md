@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35b10cc54ba9a371d6366d44dfde9646fdcb83667bbf65e60a989e0931869449
+machine_hash: 28322fc68a95cfa1fb2ebbf9a77c4727ac482769918cf57524bc2b721dede9f1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Interface Experience changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-shell-mode-history-navigation-now-filters-by-prefix-typing-git-and-pressing-up-a|Shell
-  mode history navigation now filters by prefix - typing !git and pressing up…]]'
+- '[[Changes/OpenCode/2026-01-13-core-fix-max-completion-tokens-error-for-cloudflare-provider|Core
+  Fix max completion tokens error for Cloudflare provider]]'
 - '[[Changes/v0/2026-01-13-added-credits-display-in-the-user-menu|Added credits display
   in the user menu]]'
 - '[[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added

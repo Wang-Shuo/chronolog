@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 3d731dac1bc024f80f893c051cec8a2e7469e51b8d7abc397a26d64aa44e8de1
+machine_hash: 8645ec7b2bdafb9a8c50daf4040deb236fc48a61406a9f85a621c5fb2c5ce2c7
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,10 @@ record:
   title: Security scan while you build
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-2-safety-and-privacy-changes-in-v2-1-224|2 Safety
-  and Privacy changes in v2.1.224]]'
 - '[[Changes/Codex CLI/2026-08-07-9-safety-and-privacy-changes-in-rust-v0-147-0|9
   Safety and Privacy changes in rust-v0.147.0]]'
+- '[[Changes/Google Antigravity/2026-08-07-steps-waiting-on-your-input-now-show-the-icon-for-the-tool-involved-including-in|Steps
+  waiting on your input now show the icon for the tool involved, including…]]'
 - '[[Changes/Lovable/2026-08-07-trust-center-for-your-published-app|Trust Center for
   your published app]]'
 source_release: '[[Releases/Replit/replit-2026-08-07-2026-08-07-d8d80b64|replit-2026-08-07-2026-08-07-d8d80b64]]'

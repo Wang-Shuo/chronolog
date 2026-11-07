@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6bb9bccf40ccc359dc440f38d6665d8c067fa6bbc08bed7f44f54c0756524b80
+machine_hash: 618e5676a875fc2ef5c22e35ee7865a57daf124907c65087eb50ae4d1c59cfec
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Editor Experience changes in v1.0.79
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-04-tui-fixes-pipe-delimited-prose-no-longer-renders-as-a-table-enter-accepts-the-hi|TUI
-  fixes: pipe-delimited prose no longer renders as a table, Enter accepts…]]'
-- '[[Changes/OpenHands/2026-08-05-chore-deps-bump-monaco-editor-from-0-55-1-to-0-56-0-in-the-monaco-group-across-1|chore(deps):
-  bump monaco-editor from 0.55.1 to 0.56.0 in the monaco group across 1…]]'
+- '[[Changes/Google Antigravity/2026-08-07-2-editor-experience-changes-in-hub-v2-6-0-faster-long-conversations|2
+  Editor Experience changes in HUB v2.6.0 — Faster long conversations…]]'
+- '[[Changes/Runway/2026-08-07-leave-feedback-directly-on-an-image-or-video-with-the-new-comments-tab-pin-comme|Comments
+  on Assets]]'
 - '[[Changes/Cline/2026-08-09-restore-the-view-changes-button-on-completion-rows-backed-by-sdk-checkpoints-so|Restore
   the "View Changes" button on completion rows, backed by SDK checkpoints…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-10-v1-0-79-github-368051224-d4fdfd9a|github-copilot-cli-2026-08-10-v1-0-79-github-368051224-d4fdfd9a]]'

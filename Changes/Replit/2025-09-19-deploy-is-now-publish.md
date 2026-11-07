@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ba67848cdf202b2bbc034889a2181c37613893560ddd71c8fa788abe9160ba12
+machine_hash: eb6d10921fe2e325cf8a08c309e378fec748e2a26053985ca9562f93747d3adb
 product: replit
 product_name: Replit
 record:
@@ -46,8 +46,8 @@ record:
   title: '''Deploy'' is now ''Publish'''
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-08-backward-compatible-changes|Backward Compatible
-  Changes]]'
+- '[[Changes/Granola/2025-09-17-now-there-s-an-easier-way-to-stay-in-the-loop-with-your-team-s-conversations-whe|Shared
+  with me: a new way to keep up-to-date with important conversations]]'
 - "[[Changes/Open WebUI/2025-09-17-channel-message-input-now-supports-direct-paste-functionality-for-images-and-fil|\U0001F4CE
   Channel message input now supports direct paste functionality for images and files…]]"
 - '[[Changes/Replit/2025-09-19-email-copying-from-members-page|Email copying from

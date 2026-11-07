@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0a9aaabec59c5a2aead7fd76f8064272f94202be6c8fd384a7436640781475c7
+machine_hash: 410c40640c7edd254bc750ff21a0d134ec7a8bb765fd3c5faed970e138e784c1
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,8 @@ record:
   title: Enabling MCP servers
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-06-8694-mcp-sanitize-mcp-tool-names-to-ensure-they-are-compatible-with-the-response|♯8694
-  MCP Sanitize MCP tool names to ensure they are compatible with the Responses…]]'
+- '[[Changes/OpenCode/2026-01-06-desktop-add-single-instance-plugin-to-prevent-multiple-desktop-windows|Desktop
+  Add single-instance plugin to prevent multiple desktop windows]]'
 - '[[Changes/Gemini CLI/2026-01-07-5-apps-and-integrations-changes-in-v0-23-0|5 Apps
   and Integrations changes in v0.23.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-07-shutdown-mcp-servers-after-subagent-execution-completes|Shutdown

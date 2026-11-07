@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51ea9066c171f54e9a8523fa892dea966953da8eb86d448a06fda33795bc659c
+machine_hash: 6fa0af295b8b40a24266a9726207e2091f4e6fade523c33fdea1a613af9f540e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Developer Workflow changes in v1.0.36
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-4-developer-workflow-changes-in-v1-0-35|4
-  Developer Workflow changes in v1.0.35]]'
+- '[[Changes/OpenCode/2026-04-23-4-developer-workflow-changes-in-v1-14-22-1|4 Developer
+  Workflow changes in v1.14.22 + 1]]'
 - '[[Changes/Cline/2026-04-24-log-discovered-heap-snapshots-on-abnormal-exits-for-easier-oom-debugging|log
   discovered heap snapshots on abnormal exits for easier OOM debugging]]'
 - '[[Changes/Codex CLI/2026-04-24-2-developer-workflow-changes-in-rust-v0-125-0|2
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.36
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-2-developer-workflow-changes-in-rust-v0-125-0|2 Developer Workflow changes in rust-v0.125.0]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry: added claude_code.at_mention log event for @-mention resolution]]
+- Later: 2026-04-24 · OpenCode · [[Changes/OpenCode/2026-04-24-terminal-render-all-non-synthetic-text-in-a-user-message-instead-of-showing-only|Terminal Render all non-synthetic text in a user message instead of showing only…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

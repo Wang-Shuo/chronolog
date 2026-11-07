@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 399e40ca1871e819c11d125cb984c91f7e0b92386154dc37ee6d25d8468fa42f
+machine_hash: b818984c74aef6973a7e35d7d8b2a797cd9521630c33d8cbc9a071806ea46776
 product: lovable
 product_name: Lovable
 record:
@@ -45,7 +45,8 @@ record:
     helping…'
   type: change
 related_changes:
-- '[[Changes/Replit/2025-12-26-credit-packs-holiday-sale|Credit packs holiday sale]]'
+- '[[Changes/OpenCode/2026-01-12-terminal-refactor-event-streaming-in-tui-to-use-sdk-instead-of-manual-rpc-subscr|Terminal
+  Refactor event streaming in TUI to use SDK instead of manual RPC subscription]]'
 - '[[Changes/v0/2026-01-14-added-scope-selector-in-the-buy-credits-dialog|Added scope
   selector in the buy credits dialog]]'
 - '[[Changes/v0/2026-01-15-updated-v0-max-pricing|Updated v0 Max pricing]]'
@@ -89,7 +90,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-01-15 · v0 · [[Changes/v0/2026-01-15-updated-v0-max-pricing|Updated v0 Max pricing]]
-- Later: 2026-01-19 · v0 · [[Changes/v0/2026-01-19-improved-pricing-structure|Improved pricing structure]]
+- Later: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-core-use-single-global-event-subscription-and-route-by-session-id-in-acp|Core Use single global event subscription and route by session ID in ACP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 755b794b79636c4468195c99a1cde8ed2ea3a4b6f4d1a44f019f3f93ebe85ffa
+machine_hash: 10a3137ea3c42dbf7cac31ceeb5cd91b0e1223f2b34fe959a8f000c9f3088072
 product: openhands
 product_name: OpenHands
 record:
@@ -82,7 +82,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.25.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]]
-- Later: 2025-02-20 · Open WebUI · [[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|🌍 Translation Updates]]
+- Later: 2025-02-20 · Midjourney · [[Changes/Midjourney/2025-02-20-a-new-folders-menu-is-available-on-both-the-create-and-organize-pages|A new Folders menu is available on both the Create and Organize pages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

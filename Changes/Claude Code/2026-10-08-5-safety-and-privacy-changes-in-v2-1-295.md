@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0d452dd26cbcc72fe26650cf8a348b4f5b13348fe10084229a36d5affd6eb901
+machine_hash: f49bf4da50f5f9c8caf22130d31c8c1ccd1eafd1217d673e1fe7dea9f5847c6a
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
   title: 5 Safety and Privacy changes in v2.1.295
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-07-3-safety-and-privacy-changes-in-v2-1-293|3 Safety
-  and Privacy changes in v2.1.293]]'
 - '[[Changes/Codex CLI/2026-10-07-9-safety-and-privacy-changes-in-rust-v0-161-0|9
   Safety and Privacy changes in rust-v0.161.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-2-safety-and-privacy-changes-in-v1-0-93|2
   Safety and Privacy changes in v1.0.93]]'
+- '[[Changes/Google Antigravity/2026-10-07-on-macos-if-privacy-settings-block-antigravity-from-reading-a-file-or-folder-you|On
+  macOS, if privacy settings block Antigravity from reading a file or folder you…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: safety-privacy
@@ -111,7 +111,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-2-safety-and-privacy-changes-in-v1-0-93|2 Safety and Privacy changes in v1.0.93]]
+- Earlier: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-on-macos-if-privacy-settings-block-antigravity-from-reading-a-file-or-folder-you|On macOS, if privacy settings block Antigravity from reading a file or folder you…]]
 - Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-13-safety-and-privacy-changes-in-rust-v0-162-0|13 Safety and Privacy changes in rust-v0.162.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e789afd80f989f79c12450cc294b717cee352e499dcf10354afd184b8c21efb
+machine_hash: 059489bdd0428e96b7b16b27d1355ab4ee1b57952c7041caf155ddd7f169a464
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-3-account-and-access-changes-in-v0-12-1|3 Account and Access changes in v0.12.1]]
-- Later: 2026-10-15 · Lovable · [[Changes/Lovable/2026-10-15-use-lovable-from-claude-through-your-company-s-sso|Use Lovable from Claude through your company's SSO]]
+- Later: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-when-your-sign-in-expires-during-a-session-antigravity-now-shows-an-authenticati|When your sign-in expires during a session, Antigravity now shows an Authentication…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

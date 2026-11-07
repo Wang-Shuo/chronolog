@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b5a3858160793f5872ad6cc878dc124e764b5ea9952934720ec6550039bdfc2
+machine_hash: a7d0caeeff0f3cf3dd24412d8483817e1807d922e6fb4057f1418dbcf81719ad
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -236,8 +236,8 @@ record:
   title: 57 Editor Experience changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-11-04-feat-cli-bridge-the-ide-companion-into-container-sandboxes-over-exec-stdio-by-el|feat(cli):
-  bridge the IDE companion into container sandboxes over exec stdio]]'
+- '[[Changes/OpenClaw/2026-11-05-reduces-prompt-cache-misses-across-completion-heartbeat-and-background-turns-by|Reduces
+  prompt-cache misses across completion, heartbeat and background turns…]]'
 - '[[Changes/OpenHands/2026-11-05-chore-deps-bump-monaco-editor-from-0-56-0-to-0-57-0-in-the-monaco-group-by-depen|chore(deps):
   bump monaco-editor from 0.56.0 to 0.57.0 in the monaco group…]]'
 - '[[Changes/Codex CLI/2026-11-06-2-editor-experience-changes-in-rust-v0-167-0|2 Editor

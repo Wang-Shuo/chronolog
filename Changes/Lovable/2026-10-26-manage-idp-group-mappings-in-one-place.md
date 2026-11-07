@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2e847fe0ebea66697c75702748950ebda5383f55899329e611e3f642be75231a
+machine_hash: 37fbe488cde96bbd5c5af17c6522a858f0224c55a9e74f1af74fa67ab95f2f99
 product: lovable
 product_name: Lovable
 record:
@@ -48,8 +48,8 @@ record:
   title: Manage IdP group mappings in one place
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-21-see-adoption-by-department-without-scim|See adoption
-  by department without SCIM]]'
+- '[[Changes/OpenClaw/2026-10-22-2-enterprise-and-administration-changes-in-v2026-10-6|2
+  Enterprise and Administration changes in v2026.10.6]]'
 - '[[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud
   sessions Added Claude Code cloud sessions and Remote Control permissions…]]'
 - "[[Changes/Open WebUI/2026-10-25-shared-chat-pages-load-once-chats-opened-under-s-through-a-share-link-or-by-an-a|\U0001F517

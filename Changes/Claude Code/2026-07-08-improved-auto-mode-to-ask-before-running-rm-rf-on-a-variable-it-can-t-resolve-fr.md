@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8b5efbd304c14523943537173fea55f689607b587039bc67e8b38ffab6bfbe0
+machine_hash: 6934fe5562da63f2d480183de9cd7d189a8ae98c251dbe38c0a048ebb079d836
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
     resolve…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-context-window-changes-in-v1-0-68|2 Context
-  Window changes in v1.0.68]]'
 - '[[Changes/OpenHands/2026-07-06-test-pltf-1269-replace-test-should-naming-with-test-verb-noun-context-convention|test:
   PLTF-1269 replace test_should naming with test_verb_noun_context convention]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-warn-when-static-context-uses-most-of-the-prompt-budget-and-block-requests-when|Warn
   when static context uses most of the prompt budget and block requests…]]'
+- '[[Changes/OpenCode/2026-07-07-core-better-classify-z-ai-context-window-overflow-errors-so-oversized-requests-s|Core
+  Better classify Z.ai context-window overflow errors so oversized requests…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba|claude-code-2026-07-08-v2-1-205-github-351140412-aeced5ba]]'
 source_type: github_releases
 theme: context-window
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-warn-when-static-context-uses-most-of-the-prompt-budget-and-block-requests-when|Warn when static context uses most of the prompt budget and block requests…]]
+- Earlier: 2026-07-07 · OpenCode · [[Changes/OpenCode/2026-07-07-core-better-classify-z-ai-context-window-overflow-errors-so-oversized-requests-s|Core Better classify Z.ai context-window overflow errors so oversized requests…]]
 - Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-12-context-window-changes-in-rust-v0-143-0|12 Context Window changes in rust-v0.143.0]]
 <!-- chronolog:end -->
 

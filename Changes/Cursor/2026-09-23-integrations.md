@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bc606ac540c41517af9e666590c605148d94eeaffcc710bd5ab2ec51208ddc6f
+machine_hash: f9718893a6916aa10987e8f06c6fa3a5918d9738a16199bc44f1b586f75dabfc
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-test-cover-mcp-config-utilities-by-aivong-openhands-in-https-github-com-openhand|test:
-  cover MCP config utilities]]'
 - '[[Changes/OpenHands/2026-09-22-feat-test-remote-mcp-servers-on-cloud-backends-via-the-app-server-by-hieptl-in-h|feat:
   test remote MCP servers on cloud backends via the app server]]'
+- '[[Changes/Runway/2026-09-22-agents-in-runway-mcp-can-now-find-your-brand-kits-and-use-those-assets-as-refere|Brand
+  Kits in Runway MCP]]'
 - '[[Changes/Claude Code/2026-09-23-17-apps-and-integrations-changes-in-v2-1-281|17
   Apps and Integrations changes in v2.1.281]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0df428cdf27e1d9c3c6b53620941f3c6e8b18b2c5ad6e84cdb523512f852a86
+machine_hash: 59537f0db4bdb09addf2ac00b8106195b0665af639f67010c8a631b3b2d23c27
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.221
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-2-developer-workflow-changes-in-v1-0-78|2 Developer Workflow changes in v1.0.78]]
-- Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-2-developer-workflow-changes-in-v4-1-4|2 Developer Workflow changes in v4.1.4]]
+- Later: 2026-08-04 · OpenCode · [[Changes/OpenCode/2026-08-04-terminal-github-pull-request-reviews-now-include-the-pull-request-number-and-url|Terminal GitHub pull request reviews now include the pull request number and URL…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

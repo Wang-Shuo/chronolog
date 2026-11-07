@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dc0717959907b625710a090ee0420864538613d79c9658fbd9f782cb62f763d3
+machine_hash: a5358b02e8504afe2f924c4a047592d7c8ba0b4b98b899f3c5faefb07bf04ad5
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Added `/effort` slash command to set model effort level
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-03-11-added-support-for-the-following-models-claude-opus-4-6-glm-4-7-claude-sonnet-4-6|Added
-  support for the following models]]'
-- '[[Changes/Cline/2026-03-12-2-model-support-changes-in-v3-72-0|2 Model Support changes
-  in v3.72.0]]'
+- '[[Changes/OpenCode/2026-03-12-core-fixed-chunk-timeout-when-processing-llm-stream|Core
+  Fixed chunk timeout when processing LLM stream]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting
   claude-sonnet-4.6 as the default model is now preserved correctly]]'
+- '[[Changes/OpenCode/2026-03-13-desktop-model-selection-now-persists-by-session|Desktop
+  Model selection now persists by session]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting claude-sonnet-4.6 as the default model is now preserved correctly]]
+- Earlier: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-desktop-model-selection-now-persists-by-session|Desktop Model selection now persists by session]]
 - Later: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-3-model-support-changes-in-v0-18-0|3 Model Support changes in v0.18.0]]
 <!-- chronolog:end -->
 

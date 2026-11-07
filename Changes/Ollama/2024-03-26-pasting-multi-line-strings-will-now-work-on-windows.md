@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a8ba8fbac16bc5220db15d4d99e50f839ce7205b8563dcc48b04aa160090305
+machine_hash: 36085867763c98e3df27575f3c2c4d3850fcb34d2020e6b0c9a9ed724bbc1c4b
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,12 @@ record:
   title: Pasting multi-line strings will now work on Windows
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-03-01-2-mobile-and-desktop-changes-in-v0-1-28|2 Mobile and
-  Desktop changes in v0.1.28]]'
 - '[[Changes/Ollama/2024-03-10-2-mobile-and-desktop-changes-in-v0-1-29|2 Mobile and
   Desktop changes in v0.1.29]]'
 - '[[Changes/Dify/2024-03-12-2-mobile-and-desktop-changes-in-0-5-9|2 Mobile and Desktop
   changes in 0.5.9]]'
+- '[[Changes/Midjourney/2024-03-21-ranking-goes-fastest-if-you-use-the-1-2-hotkeys-on-pc-or-use-it-on-mobile|Ranking
+  goes fastest if you use the 1/2 hotkeys on PC or use it on mobile]]'
 source_release: '[[Releases/Ollama/ollama-2024-03-26-v0-1-30-github-148399532-ce68a454|ollama-2024-03-26-v0-1-30-github-148399532-ce68a454]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-03-12 · Dify · [[Changes/Dify/2024-03-12-2-mobile-and-desktop-changes-in-0-5-9|2 Mobile and Desktop changes in 0.5.9]]
+- Earlier: 2024-03-21 · Midjourney · [[Changes/Midjourney/2024-03-21-ranking-goes-fastest-if-you-use-the-1-2-hotkeys-on-pc-or-use-it-on-mobile|Ranking goes fastest if you use the 1/2 hotkeys on PC or use it on mobile]]
 - Later: 2024-04-28 · Open WebUI · [[Changes/Open WebUI/2024-04-28-prompt-input-behavior-on-mobile-enter-key-prompt-submission-disabled-on-mobile-d|⌨️ Prompt Input Behavior on Mobile]]
 <!-- chronolog:end -->
 

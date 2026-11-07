@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3620fd0af124b46c4fbf4e691100646d278a11f55fa6c1e67fdd58eaa213b8da
+machine_hash: aa7da12fe22fd4a64123e90637e4b344631af012410a39ecfcee2a3289367eb8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-3-developer-workflow-changes-in-v1-0-70|3 Developer Workflow changes in v1.0.70]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-99-developer-workflow-changes-in-v2026-7-1|99 Developer Workflow changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

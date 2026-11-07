@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6e61a745b4e8c5a0a6050c96a544e3f4ef3ab672d61afb0d20ef2419e9787582
+machine_hash: 4dd4ec4c38fb41b79b7b57e2e871b09076960d3e85c6ecbe0fe062c76693440e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Memory and Personalization changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-27-chore-clean-up-launched-memory-features-by-sandytao520-in-https-github-com-googl|chore:
-  clean up launched memory features]]'
+- '[[Changes/Midjourney/2026-05-27-activating-a-niji-6-or-v6-personalization-profile-no-longer-immediately-deselect|Activating
+  a Niji 6 or V6 Personalization profile no longer immediately deselects it]]'
 - '[[Changes/Codex CLI/2026-05-28-8-memory-and-personalization-changes-in-rust-v0-135-0|8
   Memory and Personalization changes in rust-v0.135.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-vote-memory-tool-calls-are-throttled-per-response-and-per-interaction-to-prevent|vote_memory

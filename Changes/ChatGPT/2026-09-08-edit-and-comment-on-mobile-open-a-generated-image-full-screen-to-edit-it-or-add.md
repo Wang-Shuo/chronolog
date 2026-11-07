@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6cc43a5cebd8195d75fbbd7d5c9d12d57bdb78634ef6477da9a00ac018596df6
+machine_hash: 5ae339caae40e9f8a4c9a7021e6ce0d00710337d49c3cbb0751739cebaa74f46
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: Edit and comment
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874
-  0.153 hotfix Show Astra in bundled model picker @rhan-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-add-recent-created-name-and-classic-none-sorting-to-the-split-sessions-sidebar-w|Add
   Recent, Created, Name, and classic None sorting to the split Sessions sidebar…]]'
 - '[[Changes/Lovable/2026-09-04-new-ways-to-open-project-settings|New ways to open
   project settings]]'
+- '[[Changes/OpenClaw/2026-09-05-21-interface-experience-changes-in-v2026-9-2|21 Interface
+  Experience changes in v2026.9.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-04 · Lovable · [[Changes/Lovable/2026-09-04-new-ways-to-open-project-settings|New ways to open project settings]]
-- Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved the /diff panel]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-21-interface-experience-changes-in-v2026-9-2|21 Interface Experience changes in v2026.9.2]]
+- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-11-interface-experience-changes-in-v2026-9-3|11 Interface Experience changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

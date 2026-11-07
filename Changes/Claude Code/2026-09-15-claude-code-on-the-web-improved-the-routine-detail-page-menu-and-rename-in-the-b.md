@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1aea3e4b3c4c04ff94248fbb28284722a4f8aedf4a15a4b8bbaa31aab7b7605c
+machine_hash: 27a87bd1c379b8f63ac1b2e3bd0a2da04e97887438b51e1d1c05ae8d4d4e9826
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: '[Claude Code on the web] Improved the routine detail page'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface
-  Experience changes in v2.1.269]]'
 - '[[Changes/Lovable/2026-09-11-preview-a-remixable-project-without-signing-in|Preview
   a remixable project without signing in]]'
+- '[[Changes/OpenClaw/2026-09-11-5-interface-experience-changes-in-v2026-9-4|5 Interface
+  Experience changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface
   Experience changes in v2.1.271]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface Experience changes in v2.1.271]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-3-interface-experience-changes-in-v1-0-85|3 Interface Experience changes in v1.0.85]]
+- Later: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-reorganized-the-conversation-menu-so-archive-and-delete-sit-together-at-the-bott|Reorganized the conversation menu so Archive and Delete sit together at the bottom…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

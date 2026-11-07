@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64cc4dfb6526543b53eeaaea0fbf198cc13533954cf68500909062f4bfee7c0f
+machine_hash: 22c781082ac9a64db1d3a548de92cfc29a4fcac332bfd288814da136260a76df
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Remote session statusline shows the remote working directory and branch instead…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-28-add-compact-context-usage-and-env-slash-commands-for-acp-sessions|Add
-  /compact, /context, /usage, and /env slash commands for ACP sessions]]'
 - '[[Changes/Dify/2026-04-29-3-context-window-changes-in-1-14-0|3 Context Window changes
   in 1.14.0]]'
+- '[[Changes/OpenCode/2026-04-29-2-context-window-changes-in-v1-14-30|2 Context Window
+  changes in v1.14.30]]'
 - '[[Changes/Codex CLI/2026-04-30-19805-add-multiagentv2-root-and-subagent-context-hints-jif-oai|♯19805
   Add MultiAgentV2 root and subagent context hints @jif-oai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71|github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-19805-add-multiagentv2-root-and-subagent-context-hints-jif-oai|♯19805 Add MultiAgentV2 root and subagent context hints @jif-oai]]
-- Later: 2026-05-06 · Cursor · [[Changes/Cursor/2026-05-06-you-can-now-see-a-breakdown-of-your-agent-s-context-usage-e005b2|Context Usage Breakdown]]
+- Later: 2026-05-05 · OpenCode · [[Changes/OpenCode/2026-05-05-core-improved-v2-session-rendering-with-cleaner-tool-states-better-compaction-su|Core Improved v2 session rendering with cleaner tool states, better compaction…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

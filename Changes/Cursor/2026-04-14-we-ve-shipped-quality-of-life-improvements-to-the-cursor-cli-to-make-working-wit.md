@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2f082ed4db9bd0d4f32dabc6d4f9743cddaff10c4156f7ee64eaed26c76707a
+machine_hash: 0cc66e84fcd6813964e7bd98809da1c7884ee98e400e6455dcb5171abfe61d57
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: We've shipped quality-of-life improvements to the Cursor CLI to make working…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-10-2-developer-workflow-changes-in-v1-0-23|2
-  Developer Workflow changes in v1.0.23]]'
+- '[[Changes/OpenCode/2026-04-10-2-developer-workflow-changes-in-v1-4-3|2 Developer
+  Workflow changes in v1.4.3]]'
 - '[[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer
   Workflow changes in v2.1.105]]'
 - '[[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Debug

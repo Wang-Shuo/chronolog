@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 899eadbcd23b3743d2b30fc42485b9762a79d3fba5db735fff3cb71320e17b68
+machine_hash: ac2818e603def021f8535e42b7d22054d89142f0f8e9c523dedcbc48682add90
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: Debug Mode in CLI
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-10-terminal-state-alt-screen-cursor-raw-mode-is-restored-correctly-after-cli-crashe|Terminal
-  state (alt screen, cursor, raw mode) is restored correctly after CLI…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-2-developer-workflow-changes-in-v1-0-23|2
   Developer Workflow changes in v1.0.23]]'
+- '[[Changes/OpenCode/2026-04-10-2-developer-workflow-changes-in-v1-4-3|2 Developer
+  Workflow changes in v1.4.3]]'
 - '[[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer
   Workflow changes in v2.1.105]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a|cursor-2026-04-14-cli-debug-mode-and-btw-support-https-cursor-com-changelog-04-14-43ba096a]]'

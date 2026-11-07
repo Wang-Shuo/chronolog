@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 09543669bfc4172511760749a6d3f075d18d1cc69809845d736fedadb85b2474
+machine_hash: 7d941b4ebe663b48a15de8741b01cab06da88f95d506256959c4431ac7b4d642
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,10 @@ record:
   title: Open in Replit button (Beta)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-2-apps-and-integrations-changes-in-v0-0-409|2
-  Apps and Integrations changes in v0.0.409]]'
-- '[[Changes/Open WebUI/2026-02-12-6-apps-and-integrations-changes-in-v0-8-0|6 Apps
-  and Integrations changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-12-core-expose-tool-arguments-in-shell-hook-for-plugin-visibility|Core
+  Expose tool arguments in shell hook for plugin visibility]]'
+- '[[Changes/OpenCode/2026-02-13-core-add-tool-definition-hook-for-plugins-to-modify-tool-description-and-paramet|Core
+  Add tool.definition hook for plugins to modify tool description and parameters]]'
 - '[[Changes/Replit/2026-02-13-bitbucket-integration-improvements|Bitbucket integration
   improvements]]'
 source_release: '[[Releases/Replit/replit-2026-02-13-2026-02-13-6a679506|replit-2026-02-13-2026-02-13-6a679506]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-6-apps-and-integrations-changes-in-v0-8-0|6 Apps and Integrations changes in v0.8.0]]
+- Earlier: 2026-02-13 · OpenCode · [[Changes/OpenCode/2026-02-13-core-add-tool-definition-hook-for-plugins-to-modify-tool-description-and-paramet|Core Add tool.definition hook for plugins to modify tool description and parameters]]
 - Later: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-3-apps-and-integrations-changes-in-v0-0-410|3 Apps and Integrations changes in v0.0.410]]
 <!-- chronolog:end -->
 

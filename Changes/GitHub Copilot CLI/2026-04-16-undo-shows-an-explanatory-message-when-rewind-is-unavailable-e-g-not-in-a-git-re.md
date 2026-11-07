@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a7afe7bbc56cbdf822b8bcc0ed40881b161167eb36165480e1cd843971e87793
+machine_hash: ac79283578e76fa79973a00225064c0ce1523ed051684f5e9bf1537751ba13b9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-support-copilot-disable-terminal-title-environment-variable-to-opt-out-of-termin|Support COPILOT_DISABLE_TERMINAL_TITLE environment variable to opt out of terminal…]]
-- Later: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-3-developer-workflow-changes-in-v2-1-113|3 Developer Workflow changes in v2.1.113]]
+- Later: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-3-developer-workflow-changes-in-v1-4-7|3 Developer Workflow changes in v1.4.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

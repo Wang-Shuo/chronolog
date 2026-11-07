@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 23e6e88b544de2a250c28efc4c1a79e8a13786a6c18d1994e4ace66c59ad9621
+machine_hash: 8134957dd7cc26fa857ab76121321c3ad57203281d95999d4f395ffe90a854dc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,12 +62,12 @@ record:
   title: 10 Model Support changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-28-model-recommendations-are-now-updated-without-updating-ollama|Model
-  recommendations are now updated without updating Ollama]]'
-- '[[Changes/Ollama/2026-04-28-poolside-s-first-open-weight-coding-model-laguna-xs-2-https-ollama-com-library-l|Poolside''s
-  first open-weight coding model - Laguna…]]'
+- '[[Changes/OpenCode/2026-04-28-2-model-support-changes-in-v1-14-29|2 Model Support
+  changes in v1.14.29]]'
 - '[[Changes/Dify/2026-04-29-27-model-support-changes-in-1-14-0|27 Model Support changes
   in 1.14.0]]'
+- '[[Changes/OpenCode/2026-04-29-4-model-support-changes-in-v1-14-30|4 Model Support
+  changes in v1.14.30]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases
 theme: model-support
@@ -128,7 +128,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.128.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-27-model-support-changes-in-1-14-0|27 Model Support changes in 1.14.0]]
+- Earlier: 2026-04-29 · OpenCode · [[Changes/OpenCode/2026-04-29-4-model-support-changes-in-v1-14-30|4 Model Support changes in v1.14.30]]
 - Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-2-model-support-changes-in-v2-1-126|2 Model Support changes in v2.1.126]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 35d547250c09e90c6a2c726f495754aa7995e127ef02d63dfd7d19dadb3bd91b
+machine_hash: 05e31a2a8f3783a198cf0149ad07dbb0adfe1ce3971f0c83772b5c88b457811e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,10 +41,10 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-29-3-apps-and-integrations-changes-in-rust-v0-26-0|3
-  Apps and Integrations changes in rust-v0.26.0]]'
 - '[[Changes/Codex CLI/2025-08-29-mcp-stability-drop-mutexes-earlier-and-avoid-lock-ordering-pitfalls|MCP
   stability: drop mutexes earlier and avoid lock ordering pitfalls]]'
+- '[[Changes/Gamma/2025-08-29-now-you-can-connect-gamma-to-8-000-apps-with-our-new-zapier-integration|Now
+  you can connect Gamma to 8,000+ apps with our new Zapier integration]]'
 - '[[Changes/Replit/2025-08-29-shareable-app-creation-links|Shareable app creation
   links]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-09-01-2025-09-01-b1665f28|elevenlabs-2025-09-01-2025-09-01-b1665f28]]'

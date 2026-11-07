@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0db6f6655113da04d405f5a9b4a7405fc95ea444444bd77dc89712fdeb2f281e
+machine_hash: 6a19ed6e4a47e1c02659d7fe3fb129bcef13d03ac87c47e876c2ba6d9281aba1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,8 +67,8 @@ record:
   title: 15 Developer Workflow changes in rust-v0.147.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-05-2-developer-workflow-changes-in-v4-1-4|2 Developer Workflow
-  changes in v4.1.4]]'
+- '[[Changes/OpenCode/2026-08-05-core-logged-remote-workspace-5xx-response-bodies-in-the-host-logs-to-make-proxy|Core
+  Logged remote workspace 5xx response bodies in the host logs to make proxy…]]'
 - '[[Changes/Claude Code/2026-08-06-2-developer-workflow-changes-in-v2-1-223|2 Developer
   Workflow changes in v2.1.223]]'
 - '[[Changes/Claude Code/2026-08-07-added-a-cancel-and-confirm-step-when-removing-an-unavailable-paste-changes-a-com|Added

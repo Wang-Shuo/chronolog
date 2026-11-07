@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a9555e1b4dc8522895986801f1ede23d428b127aa583992e71642ac0cce04bb
+machine_hash: 20313a56f69c243dd5be06478d0ae67fe0dae3e37e2db372071cccfe36feb78c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-repo-map-is-now-optimized-based-on-text-of-chat-history-as-well-as-files-added-t|Repo map is now optimized based on text of chat history as well as files added to chat]]
-- Later: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-update-tooltip-by-guchenhe-in-https-github-com-langgenius-dify-pull-5235|update tooltip]]
+- Later: 2024-06-12 · Midjourney · [[Changes/Midjourney/2024-06-12-report-bug-can-now-be-found-under-the-help-menu|'Report Bug' can now be found under the 'Help' menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: expansion
-machine_hash: 31db60587e061b9ccba4556c82a784faafcab120547e55c607ba3f4d4d61c91a
+machine_hash: 95c5ce2c12869b4c0e3ecaad0e1d707ebc371c2e317aff612f9de79de836094b
 product: replit
 product_name: Replit
 record:
@@ -47,12 +47,12 @@ record:
   title: Razorpay MCP integration
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-19-ollama-launch-integration-will-now-always-show-the-model-picker|ollama
-  launch integration will now always show the model picker]]'
-- '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE
-  mode now also disables MCP tools, attachments, hooks…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-support-remote-plugin-sources-github-repos-and-git-urls-in-marketplace-json-plug|Support
   remote plugin sources (GitHub repos and git URLs) in marketplace.json plugin…]]'
+- '[[Changes/OpenCode/2026-02-20-add-missing-id-sessionid-and-messageid-to-mcp-tool-attachments|Add
+  missing id, sessionID, and messageID to MCP tool attachments]]'
+- '[[Changes/OpenCode/2026-02-20-sdk-build-sdk-to-dist-instead-of-dist-src|SDK Build
+  SDK to dist/ instead of dist/src]]'
 source_release: '[[Releases/Replit/replit-2026-02-20-2026-02-20-4b4b553e|replit-2026-02-20-2026-02-20-4b4b553e]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-support-remote-plugin-sources-github-repos-and-git-urls-in-marketplace-json-plug|Support remote plugin sources (GitHub repos and git URLs) in marketplace.json plugin…]]
+- Earlier: 2026-02-20 · OpenCode · [[Changes/OpenCode/2026-02-20-sdk-build-sdk-to-dist-instead-of-dist-src|SDK Build SDK to dist/ instead of dist/src]]
 - Later: 2026-02-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-21-explore-agent-can-now-use-github-mcp-tools-when-available|Explore agent can now use GitHub MCP tools when available]]
 <!-- chronolog:end -->
 

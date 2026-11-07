@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b22278706f5537823c20659fcb74ae34a7e819afd990f3995b2fb9e9408afd6c
+machine_hash: 1eed358d77db69e03f9ac1ddd791ef154ac3172c6e4962890244f0859c1b3873
 product: openhands
 product_name: OpenHands
 record:
@@ -42,11 +42,12 @@ record:
   title: 2 Agent Mode changes in 1.8.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-3-agent-mode-changes-in-v1-0-61|3 Agent
-  Mode changes in v1.0.61]]'
-- '[[Changes/Lovable/2026-06-09-publish-from-chat|Publish from chat]]'
 - '[[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents
   can now spawn their own sub-agents (up to 5 levels deep)]]'
+- '[[Changes/OpenCode/2026-06-10-desktop-hidden-agents-no-longer-get-cycled-accidentally|Desktop
+  Hidden agents no longer get cycled accidentally]]'
+- '[[Changes/OpenCode/2026-06-10-let-subagents-use-their-own-configured-permissions-again|Let
+  subagents use their own configured permissions again]]'
 source_release: '[[Releases/OpenHands/openhands-2026-06-10-1-8-0-github-337373027-9a0bbdca|openhands-2026-06-10-1-8-0-github-337373027-9a0bbdca]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,8 +83,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.8.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents can now spawn their own sub-agents (up to 5 levels deep)]]
-- Later: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-block-malicious-packages-with-package-firewall|Block malicious packages with Package Firewall]]
+- Earlier: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-let-subagents-use-their-own-configured-permissions-again|Let subagents use their own configured permissions again]]
+- Later: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-3-agent-mode-changes-in-hub-v2-1-4-quota-screen-redesign|3 Agent Mode changes in HUB v2.1.4 — Quota Screen Redesign…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

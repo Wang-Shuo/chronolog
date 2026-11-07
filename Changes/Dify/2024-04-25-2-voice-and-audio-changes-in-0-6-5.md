@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3da42d13f39ee2729b0278c8dd8820dd55c26c9013dcdc39fb9482ae940d63c
+machine_hash: 245ea0c0dbca8a3520b256b67d5f47d7124d9625dc5ee26bca7652913ffcce42
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Voice and Audio changes in 0.6.5
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat
-  to supercharge your ideas in the Gemini app]]'
-- '[[Changes/Dify/2024-02-19-5-voice-and-audio-changes-in-0-5-6|5 Voice and Audio
-  changes in 0.5.6]]'
+- '[[Changes/Suno/2024-02-22-v3-alpha-has-better-audio-quality-and-increased-expressiveness-among-other-heavi|V3
+  Alpha has better audio quality and increased expressiveness among other heavily…]]'
 - '[[Changes/Dify/2024-02-28-voice-audition-by-charli117-in-https-github-com-langgenius-dify-pull-2504|Voice
   audition]]'
+- '[[Changes/Runway/2024-04-16-use-lip-sync-audio-to-video-directly-from-within-the-gen-2-tool|Lip
+  Sync in Gen-2]]'
 source_release: '[[Releases/Dify/dify-2024-04-25-0-6-5-github-152778461-0e2655b1|dify-2024-04-25-0-6-5-github-152778461-0e2655b1]]'
 source_type: github_releases
 theme: voice
@@ -87,8 +87,8 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-02-28 · Dify · [[Changes/Dify/2024-02-28-voice-audition-by-charli117-in-https-github-com-langgenius-dify-pull-2504|Voice audition]]
-- Later: 2024-05-09 · Dify · [[Changes/Dify/2024-05-09-2-voice-and-audio-changes-in-0-6-7|2 Voice and Audio changes in 0.6.7]]
+- Earlier: 2024-04-16 · Runway · [[Changes/Runway/2024-04-16-use-lip-sync-audio-to-video-directly-from-within-the-gen-2-tool|Lip Sync in Gen-2]]
+- Later: 2024-04-27 · Midjourney · [[Changes/Midjourney/2024-04-27-a-few-cool-features-in-rooms|A few cool features in rooms]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

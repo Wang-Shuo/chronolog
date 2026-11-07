@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4d3ce53a0e3aa243d62cd290c681671716057a1943cb7c3fa6682e609ed453c2
+machine_hash: 37eb50a04df7d200626f19e6fba7aca9422c1ba39b309b30e1893d3d0c2815db
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-a-failed-session-history-load-no-longer-leaves-the-timeline-permanently-empty-th|A failed session-history load no longer leaves the timeline permanently empty]]
-- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-42306-stabilize-the-detached-exec-server-session-resume-test-copyberry|♯42306 Stabilize the detached exec-server session resume test @copyberry]]
+- Later: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-an-update-or-doctor-repair-now-does-more-to-preserve-the-setup-you-already-autho|An update or Doctor repair now does more to preserve the setup you already authored…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

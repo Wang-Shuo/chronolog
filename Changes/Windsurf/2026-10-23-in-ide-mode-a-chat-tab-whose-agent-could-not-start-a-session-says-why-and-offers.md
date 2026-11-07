@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b152ad64703bc249e16bec1db710182882a5eaf5507f8e423e8c1a81189d8849
+machine_hash: 412cbc784652fb6f8c1047c3c9e0b84a1ae34af7f8df60e7a44842208fe14a43
 product: windsurf
 product_name: Windsurf
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-chore-verify-openhands-time-network-responses-and-order-them-by-completion-by-en|chore(verify-openhands): time network responses and order them by completion]]
-- Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-4-editor-experience-changes-in-v0-12-4|4 Editor Experience changes in v0.12.4]]
+- Later: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-a-suspiciously-truncated-configuration-no-longer-replaces-the-healthy-recovery-c|A suspiciously truncated configuration no longer replaces the healthy recovery copy…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

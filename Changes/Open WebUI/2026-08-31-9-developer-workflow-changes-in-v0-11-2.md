@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ace0f250ce0fd2ae403d207f2b719debfcf703a9b16487ba89f6dd878ec0017
+machine_hash: ec11aa2c90e92f88f33c1b0440fe2cfb676308341c5eb79c2b595dc7b1d84abd
 product: open-webui
 product_name: Open WebUI
 record:
@@ -140,7 +140,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.2
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-custom-interface-fonts-reach-more-of-the-app-the-font-chosen-in-interface-settin|🔤 Custom interface fonts reach more of the app. The font chosen in interface…]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-3-developer-workflow-changes-in-v2-1-257|3 Developer Workflow changes in v2.1.257]]
+- Later: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-each-area-below-has-its-own-page-keeping-the-user-facing-description-and-the-com|Each area below has its own page, keeping the user-facing description…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

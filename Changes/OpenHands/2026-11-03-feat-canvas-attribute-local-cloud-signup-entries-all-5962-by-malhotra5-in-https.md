@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5fccabec8964fac73cf1532db852a76f0253fc0e6c42e2fa3b617a48b8b47963
+machine_hash: ecca0a281859f4e7cf63f44fa98b6464aa43f7f76d32e4306e934c9c77960d0f
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(canvas): attribute local Cloud signup entries (ALL-5962)'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-feat-canvas-per-conversation-docker-runtime-and-settings-runtime-page-by-vascosc|feat(canvas):
-  per-conversation Docker runtime and Settings → Runtime page]]'
-- '[[Changes/Open WebUI/2026-10-29-2-files-and-data-changes-in-v0-12-5|2 Files and
-  Data changes in v0.12.5]]'
+- '[[Changes/OpenClaw/2026-10-29-canvas-a2ui-and-discord-activity-now-avoid-unnecessary-processing-by-rejecting-o|Canvas/A2UI
+  and Discord Activity now avoid unnecessary processing by rejecting…]]'
 - '[[Changes/ElevenLabs/2026-11-02-2-files-and-data-changes-in-elevenlabs-updates-2026-11-02|2
   Files and Data changes in ElevenLabs updates — 2026-11-02]]'
+- '[[Changes/OpenClaw/2026-11-03-2-files-and-data-changes-in-v2026-10-10|2 Files and
+  Data changes in v2026.10.10]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: file-data
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-2-files-and-data-changes-in-elevenlabs-updates-2026-11-02|2 Files and Data changes in ElevenLabs updates — 2026-11-02]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-2-files-and-data-changes-in-v2026-10-10|2 Files and Data changes in v2026.10.10]]
 - Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-6-files-and-data-changes-in-1-19-0|6 Files and Data changes in 1.19.0]]
 <!-- chronolog:end -->
 

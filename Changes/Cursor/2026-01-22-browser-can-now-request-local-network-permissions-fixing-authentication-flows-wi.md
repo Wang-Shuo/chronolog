@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eacbd684f6e9b57a163fbda851982a1c3b77ccc177217e5ccf6ebe558538cad1
+machine_hash: 5bdb3eeb86acbebaa7ccd7445dcafcfd43f01981034587edea47ef3984a2f152
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
     flows…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-01-16-two-factor-authentication-2fa|Two-factor authentication
-  (2FA)]]'
 - '[[Changes/Gemini CLI/2026-01-21-feat-admin-prompt-user-to-restart-the-cli-if-they-change-auth-to-oauth-mid-sessi|feat(admin):
   prompt user to restart the CLI if they change auth to oauth mid-session…]]'
+- '[[Changes/OpenCode/2026-01-21-desktop-improve-provider-oauth-error-handling-in-app|Desktop
+  Improve provider OAuth error handling in app]]'
 - '[[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode
   Added ability for OAuth users to browse and resume remote Claude sessions…]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'

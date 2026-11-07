@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: afc93a776c2b6ac79a82a89e06b710bab5bd5edf1175f35e1fccbe2d5093c111
+machine_hash: 960923f0cdc828cf1a448185b0a6ec9adec2f6e82becb56dc5c33a1df5731dc3
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Agent Mode changes in v2.1.84
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-10-agent-mode-changes-in-v0-35-0|10 Agent Mode
-  changes in v0.35.0]]'
 - '[[Changes/Claude Code/2026-03-25-agents-can-now-declare-initialprompt-in-frontmatter-to-auto-submit-a-first-turn|Agents
   can now declare initialPrompt in frontmatter to auto-submit a first turn]]'
 - '[[Changes/Cursor/2026-03-25-cursor-now-supports-self-hosted-cloud-agents-that-keep-your-code-and-tool-execut-e411f3|Self-hosted
   Cloud Agents]]'
+- '[[Changes/Google Antigravity/2026-03-25-various-layout-and-ux-improvements-in-the-agent-manager|Various
+  layout and UX improvements in the agent manager]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: agent-mode
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.84
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-25 · Cursor · [[Changes/Cursor/2026-03-25-cursor-now-supports-self-hosted-cloud-agents-that-keep-your-code-and-tool-execut-e411f3|Self-hosted Cloud Agents]]
+- Earlier: 2026-03-25 · Google Antigravity · [[Changes/Google Antigravity/2026-03-25-various-layout-and-ux-improvements-in-the-agent-manager|Various layout and UX improvements in the agent manager]]
 - Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-19-agent-mode-changes-in-rust-v0-117-0|19 Agent Mode changes in rust-v0.117.0]]
 <!-- chronolog:end -->
 

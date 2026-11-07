@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0413f916bb1510ad6e8cbaf19eaf62d2e829526bf5acfa31bf12d551307f034
+machine_hash: 438f0690bb93b7211a4a0f1be22e5d8cd6aa781c44dfc7f066936b66d0744162
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Memory and Personalization changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali|ChatGPT
-  rolls out new controls in temporary chat]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-ship-mcp-2026-07-28-support-to-cli-sdk-ide-and-in-memory-clients|Ship
-  MCP 2026-07-28 support to CLI, SDK, IDE, and in-memory clients]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-long-running-sessions-on-linux-return-freed-memory-to-the-system-instead-of-hold|Long-running
   sessions on Linux return freed memory to the system instead of holding…]]'
+- '[[Changes/OpenClaw/2026-09-05-21-memory-and-personalization-changes-in-v2026-9-2|21
+  Memory and Personalization changes in v2026.9.2]]'
+- '[[Changes/OpenClaw/2026-09-08-10-memory-and-personalization-changes-in-v2026-9-3|10
+  Memory and Personalization changes in v2026.9.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
 source_type: github_releases
 theme: memory
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-long-running-sessions-on-linux-return-freed-memory-to-the-system-instead-of-hold|Long-running sessions on Linux return freed memory to the system instead of holding…]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-10-memory-and-personalization-changes-in-v2026-9-3|10 Memory and Personalization changes in v2026.9.3]]
 - Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-memory-and-personalization-changes-in-v2-1-268|2 Memory and Personalization changes in v2.1.268]]
 <!-- chronolog:end -->
 

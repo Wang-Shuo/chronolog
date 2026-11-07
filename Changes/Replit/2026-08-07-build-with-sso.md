@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5c29a1910df1537d0cfa40f8976121731ec6024438058b071714d291d5005f3f
+machine_hash: a6d02e5b66377f70405a21de1267debd45961fbc3109ceda4d28d5539b18a46d
 product: replit
 product_name: Replit
 record:
@@ -66,8 +66,8 @@ record:
   title: Build with SSO
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-03-2-account-and-access-changes-in-v1-0-78|2
-  Account and Access changes in v1.0.78]]'
+- '[[Changes/OpenCode/2026-08-05-core-simplified-xai-login-to-a-single-device-code-flow-that-works-better-in-head|Core
+  Simplified xAI login to a single device-code flow that works better in headless…]]'
 - '[[Changes/Claude Code/2026-08-07-changed-managed-settings-the-approval-prompt-no-longer-re-appears-after-re-login|Changed
   managed settings]]'
 - '[[Changes/Codex CLI/2026-08-07-8-account-and-access-changes-in-rust-v0-147-0|8

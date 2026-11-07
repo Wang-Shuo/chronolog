@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dfe6d8834183875e40709fdc47b71f8d48d47194b2311c6eac19d36d885ae5d0
+machine_hash: 936464c1cc6d6d6168e4119ba16ec370a20b97726bd93af0cdd69266dc5f2deb
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Developer Workflow changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-chore-bump-shell-quote-and-dompurify-dependencies-by-devinvinson-in-https-github|chore:
-  bump shell-quote and DOMPurify dependencies]]'
-- '[[Changes/Codex CLI/2026-10-29-10-developer-workflow-changes-in-rust-v0-166-0|10
-  Developer Workflow changes in rust-v0.166.0]]'
-- '[[Changes/Open WebUI/2026-10-29-35-developer-workflow-changes-in-v0-12-5|35 Developer
-  Workflow changes in v0.12.5]]'
+- '[[Changes/OpenClaw/2026-10-29-2-developer-workflow-changes-in-v2026-10-9|2 Developer
+  Workflow changes in v2026.10.9]]'
+- '[[Changes/OpenCode/2026-10-29-5-developer-workflow-changes-in-v2-2-2|5 Developer
+  Workflow changes in v2.2.2]]'
+- '[[Changes/OpenCode/2026-10-29-5-developer-workflow-changes-in-v2-2-1|5 Developer
+  Workflow changes in v2.2.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: developer-workflow
@@ -103,8 +103,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-35-developer-workflow-changes-in-v0-12-5|35 Developer Workflow changes in v0.12.5]]
-- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-developer-workflow-changes-in-v2-1-316|2 Developer Workflow changes in v2.1.316]]
+- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-5-developer-workflow-changes-in-v2-2-1|5 Developer Workflow changes in v2.2.1]]
+- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-worktree-and-shell-mode-shortcuts|Worktree and Shell Mode Shortcuts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

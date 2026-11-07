@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 431ff8f7d51de4152f740ef82e339fd3051ceed68d3013e05f9ae2b664bba37e
+machine_hash: 6fcccd67aad7ba38bcaac37c070e8d20d592129fecdc85489f841d718178a896
 product: replit
 product_name: Replit
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-02-07 · Lovable · [[Changes/Lovable/2025-02-07-from-python-to-go-https-lovable-dev-blog-from-python-to-go-for-stability-respons|From Python to Go((source link) for stability…]]
-- Later: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-connection-settings-stability-addressed-connection-settings-issues-that-were-cau|🔑 Connection Settings Stability]]
+- Later: 2025-02-11 · Gamma · [[Changes/Gamma/2025-02-11-finding-the-perfect-layout-just-got-easier-you-can-now-search-within-the-insert|Search in the Insert Menu!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

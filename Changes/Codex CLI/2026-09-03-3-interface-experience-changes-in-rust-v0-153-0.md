@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5f6450914abcb8617d09420cc05b6721ce91d877aa4cefbff060c656dffed5bd
+machine_hash: 7cc7ccd63c712f545c891a21023f631853f0702cff09c2df088797ce4c726101
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Interface Experience changes in rust-v0.153.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-09-01-if-you-prefer-the-typical-git-workflow-you-can-still-create-and-merge-pull-reque|If
-  you prefer the typical Git workflow, you can still create and merge pull requests…]]'
-- '[[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode
-  Added an Active quick filter and a status filter menu…]]'
+- '[[Changes/Google Antigravity/2026-09-02-dragging-to-select-a-region-of-an-image-for-a-comment-now-updates-the-selection|Dragging
+  to select a region of an image for a comment now updates the selection…]]'
+- '[[Changes/Google Antigravity/2026-09-02-quoting-boost-and-improved-settings|Quoting,
+  /boost, and improved Settings]]'
 - '[[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface
   Experience changes in v2.1.260]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f|codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f]]'

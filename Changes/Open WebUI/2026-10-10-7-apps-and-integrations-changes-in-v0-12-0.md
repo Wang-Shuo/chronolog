@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a56c93d57d08a4e22bd8d0fdf7cdd9332d63773ce7cbe1876b6f70adacd2e7d
+machine_hash: f0e81db85362626ef5f9166783150f00df3690347359b805d060b1374b38fad0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -154,7 +154,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-09 · Lovable · [[Changes/Lovable/2026-10-09-generate-a-secret-that-another-app-also-needs|Generate a secret that another app also needs]]
-- Later: 2026-10-11 · Ollama · [[Changes/Ollama/2026-10-11-ollama-launch-claude-no-longer-shows-a-warning-about-claude-connectors-by-hoyyev|ollama launch claude no longer shows a warning about Claude connectors]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-96-apps-and-integrations-changes-in-v2026-10-1|96 Apps and Integrations changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

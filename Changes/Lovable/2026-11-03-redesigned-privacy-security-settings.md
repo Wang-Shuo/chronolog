@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2c5c015d8b016c23ecb1506daa494fbc868caadf45f98d8d15f795ff795e6824
+machine_hash: cb21e429cc45a3638c31609df70454b04653cbb2fc9e480024d2ca9d762d31e5
 product: lovable
 product_name: Lovable
 record:
@@ -47,12 +47,12 @@ record:
   title: Redesigned Privacy & security settings
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-11-01-download-an-sbom-for-your-project|Download an SBOM
-  for your project]]'
 - '[[Changes/ElevenLabs/2026-11-02-4-safety-and-privacy-changes-in-elevenlabs-updates-2026-11-02|4
   Safety and Privacy changes in ElevenLabs updates — 2026-11-02]]'
 - '[[Changes/Lovable/2026-11-02-redesigned-action-center-reviews|Redesigned Action
   center reviews]]'
+- '[[Changes/Google Antigravity/2026-11-03-2-safety-and-privacy-changes-in-hub-v2-29-0-voice-mode-remote|2
+  Safety and Privacy changes in HUB v2.29.0 — Voice mode, remote…]]'
 source_release: '[[Releases/Lovable/lovable-2026-11-03-2026-11-03-b62c62d7|lovable-2026-11-03-2026-11-03-b62c62d7]]'
 source_type: lovable_changelog
 theme: safety-privacy
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-11-02 · Lovable · [[Changes/Lovable/2026-11-02-redesigned-action-center-reviews|Redesigned Action center reviews]]
+- Earlier: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-2-safety-and-privacy-changes-in-hub-v2-29-0-voice-mode-remote|2 Safety and Privacy changes in HUB v2.29.0 — Voice mode, remote…]]
 - Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-2-safety-and-privacy-changes-in-v0-13-0|2 Safety and Privacy changes in v0.13.0]]
 <!-- chronolog:end -->
 

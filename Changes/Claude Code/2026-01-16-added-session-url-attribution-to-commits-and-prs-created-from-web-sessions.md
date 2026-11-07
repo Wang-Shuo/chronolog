@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b1f31654655a60bef818bed57da6eb678b5acfd207f4cd5073f0c9f311f5a4f
+machine_hash: 9b500e7d493e4cb08fac417ea9483c3ac9e7df9cf9be42ab60c54ed4db57192c
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Added session URL attribution to commits and PRs created from web sessions
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-5-developer-workflow-changes-in-rust-v0-81-0|5 Developer
-  Workflow changes in rust-v0.81.0]]'
-- '[[Changes/Gemini CLI/2026-01-14-feat-add-folder-suggestions-to-dir-add-command-by-jackwotherspoon-in-https-githu|feat:
-  add folder suggestions to /dir add command]]'
 - '[[Changes/Dify/2026-01-15-please-use-the-following-command-instead-for-details-please-read-this-https-gith|
   Please use the following command instead]]'
+- '[[Changes/OpenCode/2026-01-15-2-developer-workflow-changes-in-v1-1-21|2 Developer
+  Workflow changes in v1.1.21]]'
+- '[[Changes/OpenCode/2026-01-15-4-developer-workflow-changes-in-v1-1-23|4 Developer
+  Workflow changes in v1.1.23]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-15 · Dify · [[Changes/Dify/2026-01-15-please-use-the-following-command-instead-for-details-please-read-this-https-gith| Please use the following command instead]]
+- Earlier: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-4-developer-workflow-changes-in-v1-1-23|4 Developer Workflow changes in v1.1.23]]
 - Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-input-prompt-placeholder-styling-is-back-to-non-italic-to-avoid-terminal-renderi|Input prompt placeholder styling is back to non-italic to avoid terminal rendering…]]
 <!-- chronolog:end -->
 

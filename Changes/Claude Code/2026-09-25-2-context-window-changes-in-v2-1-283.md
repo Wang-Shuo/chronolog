@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c3bdf9297098d6a974ce6f2c60b5ba47f3a4a0a756b20a03a18fa34e5006b890
+machine_hash: 4c92bbf0094ea725452ca2c4c6327a2f4d0cb7ce774286d0e73bb7483af5e204
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Context Window changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window
-  changes in v4.1.20]]'
 - '[[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context
   Window changes in rust-v0.156.0]]'
+- '[[Changes/OpenClaw/2026-09-23-25-context-window-changes-in-v2026-9-6|25 Context
+  Window changes in v2026.9.6]]'
 - '[[Changes/Cline/2026-09-24-long-replies-on-local-models-llama-cpp-ollama-lm-studio-that-hit-the-output-toke|Long
   replies on local models (llama.cpp, Ollama, LM Studio) that hit…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'

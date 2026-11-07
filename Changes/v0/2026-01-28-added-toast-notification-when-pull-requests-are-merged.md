@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6c809cedf5949153f6e6e81f82aaf86c1a3989bbbc569f8bdf28272be46f5c4
+machine_hash: 67e951857adac5e0c2dc256b42f8dfe1b6d2068bb9ed3843991c0d0f2109afc3
 product: v0
 product_name: v0
 record:
@@ -42,12 +42,12 @@ record:
   title: Added toast notification when pull requests are merged
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-8-developer-workflow-changes-in-v0-26-0|8 Developer
-  Workflow changes in v0.26.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-28-skills-from-parent-directories-are-now-invocable-and-work-in-non-git-directories|Skills
-  from parent directories are now invocable and work in non-git directories]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-header-layout-adapts-better-to-narrow-terminal-widths|Header
   layout adapts better to narrow terminal widths]]'
+- '[[Changes/OpenCode/2026-01-28-terminal-add-streaming-prop-to-markdown-element|Terminal
+  Add streaming prop to markdown element]]'
+- '[[Changes/OpenCode/2026-01-28-9-developer-workflow-changes-in-v1-1-37|9 Developer
+  Workflow changes in v1.1.37]]'
 source_release: '[[Releases/v0/v0-2026-01-28-2026-01-28-27ea870c|v0-2026-01-28-2026-01-28-27ea870c]]'
 source_type: v0_changelog
 theme: developer-workflow
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-header-layout-adapts-better-to-narrow-terminal-widths|Header layout adapts better to narrow terminal widths]]
+- Earlier: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-9-developer-workflow-changes-in-v1-1-37|9 Developer Workflow changes in v1.1.37]]
 - Later: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed Bash commands to show timeout duration alongside elapsed time]]
 <!-- chronolog:end -->
 

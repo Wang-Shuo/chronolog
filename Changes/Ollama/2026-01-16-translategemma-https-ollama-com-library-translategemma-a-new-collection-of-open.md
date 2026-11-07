@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 41d468332d19e61913ffed58230d67cd67a1312da8265a00204755690e9b33f8
+machine_hash: f604776bc200275868a4e7a07fbb687239d3caaa15cfe154ec6f0d1bf2574a59
 product: ollama
 product_name: Ollama
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-16 · Ollama · [[Changes/Ollama/2026-01-16-2-model-support-changes-in-v0-14-3|2 Model Support changes in v0.14.3]]
-- Later: 2026-01-16 · Windsurf · [[Changes/Windsurf/2026-01-16-improvements-to-gpt-5-2-codex-harness|Improvements to GPT-5.2-Codex harness]]
+- Later: 2026-01-16 · OpenCode · [[Changes/OpenCode/2026-01-16-2-model-support-changes-in-v1-1-24|2 Model Support changes in v1.1.24]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7624c2070ae53effc3218ff6255d32e27e22a609c3931a2738bed21630fd1587
+machine_hash: 4368987db89912b87d30f4299d826bb15be078057c989cdbd8143e9448972782
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,12 +49,11 @@ record:
   title: 2 Collaboration changes in v0.5.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-01-anonymous-opt-in-analytics-https-aider-chat-docs-more-analytics-html-with-no-per|Anonymous,
-  opt-in analytics((source link) with no…]]'
 - '[[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration
   changes in v0.4.0]]'
 - '[[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip
   suggesting files that share names with files already in chat]]'
+- '[[Changes/Midjourney/2024-12-11-tips|Tips]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c|open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c]]'
 source_type: github_releases
 theme: collaboration
@@ -97,7 +96,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.5.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip suggesting files that share names with files already in chat]]
+- Earlier: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-tips|Tips]]
 - Later: 2024-12-27 · Open WebUI · [[Changes/Open WebUI/2024-12-27-typing-indicators-in-channels-know-exactly-who-s-typing-in-real-time-within-your|🖊️ Typing Indicators in Channels]]
 <!-- chronolog:end -->
 

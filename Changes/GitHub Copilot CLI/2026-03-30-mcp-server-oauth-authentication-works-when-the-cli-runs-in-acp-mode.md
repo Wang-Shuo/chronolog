@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66a67d6fc9de34a4eae36e528db4f75de561f4643e014a090e38d607496d6155
+machine_hash: 3c6aebf81092903abc9407c08d0e745bd92e5916b971330c2965582ef2d382f9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: MCP server OAuth authentication works when the CLI runs in ACP mode
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP
-  OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…]]'
 - '[[Changes/Codex CLI/2026-03-26-4-account-and-access-changes-in-rust-v0-117-0|4
   Account and Access changes in rust-v0.117.0]]'
+- '[[Changes/OpenCode/2026-03-26-2-account-and-access-changes-in-v1-3-3|2 Account
+  and Access changes in v1.3.3]]'
 - '[[Changes/Dify/2026-03-27-2-account-and-access-changes-in-1-13-3|2 Account and
   Access changes in 1.13.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'

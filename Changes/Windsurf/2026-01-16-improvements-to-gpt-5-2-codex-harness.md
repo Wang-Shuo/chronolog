@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d0e893e9c9288d25217d92f3fa79eb47a557a6140aa840f287b617b408b79ad
+machine_hash: 5c2f407c9b36716096acaad65be50c7f4b9b5ffc067148dc648808d32aa50aa4
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,12 @@ record:
   title: Improvements to GPT-5.2-Codex harness
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-01-16-gpt-5-2-and-gemini-3-flash-support|GPT-5.2 and Gemini
-  3 Flash support]]'
 - '[[Changes/Ollama/2026-01-16-2-model-support-changes-in-v0-14-3|2 Model Support
   changes in v0.14.3]]'
 - '[[Changes/Ollama/2026-01-16-translategemma-https-ollama-com-library-translategemma-a-new-collection-of-open|TranslateGemma((source
   link) A new collection…]]'
+- '[[Changes/OpenCode/2026-01-16-2-model-support-changes-in-v1-1-24|2 Model Support
+  changes in v1.1.24]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-16-v1-13-9-c9b9f68d|windsurf-2026-01-16-v1-13-9-c9b9f68d]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-16 · Ollama · [[Changes/Ollama/2026-01-16-translategemma-https-ollama-com-library-translategemma-a-new-collection-of-open|TranslateGemma((source link) A new collection…]]
+- Earlier: 2026-01-16 · OpenCode · [[Changes/OpenCode/2026-01-16-2-model-support-changes-in-v1-1-24|2 Model Support changes in v1.1.24]]
 - Later: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-model-switching-from-codex-to-opus-preserves-conversation-history-correctly|Model switching from Codex to Opus preserves conversation history correctly]]
 <!-- chronolog:end -->
 

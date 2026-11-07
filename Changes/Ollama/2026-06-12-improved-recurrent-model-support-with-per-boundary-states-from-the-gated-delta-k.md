@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 01ad3a60bdac3ecacbf1b182d91eebc7949ed70339c554d694aa10be3f62fa71
+machine_hash: be9e31cfd8304f923c6f00b89a8a4f509957b7089604432457715d64e1337cf6
 product: ollama
 product_name: Ollama
 record:
@@ -45,8 +45,8 @@ record:
     kernels
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-11-handle-the-deepseek-v4-reasoning-format|Handle the DeepSeek
-  V4 reasoning format]]'
+- '[[Changes/Midjourney/2026-06-11-a-reminder-of-what-s-new-in-v8-1|A reminder of
+  what''s new in V8.1]]'
 - '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring
   GPT-5.2 models]]'
 - '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added enforceAvailableModels managed setting]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-3-model-support-changes-in-v1-0-62|3 Model Support changes in v1.0.62]]
+- Later: 2026-06-12 · OpenCode · [[Changes/OpenCode/2026-06-12-2-model-support-changes-in-v1-17-4|2 Model Support changes in v1.17.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

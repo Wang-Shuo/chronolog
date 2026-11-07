@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a06b15de29206b109674e5fd4b372a2eddb5d42bad9258ccab1d7d5cfe40a143
+machine_hash: 15faed2cd5b6c974e5666edd775de9934e4e7779f447bde31c0b86afbd6e0aab
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Context Window changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved
-  the spinner status during long thinking]]'
 - '[[Changes/Ollama/2026-09-14-runaway-repeat-token-detection-now-requires-100-repeat-tokens-for-reduced-false|Runaway
   repeat token detection now requires 100 repeat tokens for reduced false…]]'
 - '[[Changes/Claude Code/2026-09-15-added-x-claude-code-request-class-x-claude-code-agent-type-x-claude-code-prev-to|Added
   x-claude-code-request-class, x-claude-code-agent-type…]]'
+- '[[Changes/Runway/2026-09-15-you-can-now-mention-agent-directly-in-comments-on-any-asset-page-collaborate-and|Agent
+  in Asset Comments]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: context-window
@@ -102,7 +102,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-added-x-claude-code-request-class-x-claude-code-agent-type-x-claude-code-prev-to|Added x-claude-code-request-class, x-claude-code-agent-type…]]
+- Earlier: 2026-09-15 · Runway · [[Changes/Runway/2026-09-15-you-can-now-mention-agent-directly-in-comments-on-any-asset-page-collaborate-and|Agent in Asset Comments]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-test-cover-conversation-context-menu-by-aivong-openhands-in-https-github-com-ope|test: cover conversation context menu]]
 <!-- chronolog:end -->
 

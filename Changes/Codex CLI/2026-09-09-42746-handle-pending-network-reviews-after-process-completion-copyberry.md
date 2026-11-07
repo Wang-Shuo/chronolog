@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94e0aea591c330ffc15014a053699c73e7820c5f2fc73eb8d06a26a4f69a38db
+machine_hash: 91ff8ddabc39e426482724c19a5928af78c55c14ef31ac707368a483d5588b25
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#42746 Handle pending network reviews after process completion @copyberry'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-improved-the-settings-error-for-rules-such-as-edit-c-dir-name-where-is-read-as-a|Improved
-  the settings error for rules such as Edit(C:\dir\(name)\), where…]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-2-editor-experience-changes-in-v1-0-83|2
-  Editor Experience changes in v1.0.83]]'
 - '[[Changes/Lovable/2026-09-08-project-files-no-longer-copy-automatically-during-a-remix|Project
   files no longer copy automatically during a remix]]'
+- '[[Changes/OpenClaw/2026-09-08-8-editor-experience-changes-in-v2026-9-3|8 Editor
+  Experience changes in v2026.9.3]]'
+- '[[Changes/Runway/2026-09-08-runway-is-now-available-directly-inside-premiere-pro-and-after-effects-bring-the|Runway
+  Adobe Plugins]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-08 · Lovable · [[Changes/Lovable/2026-09-08-project-files-no-longer-copy-automatically-during-a-remix|Project files no longer copy automatically during a remix]]
-- Later: 2026-09-09 · Lovable · [[Changes/Lovable/2026-09-09-explore-changes-with-drafts|Explore changes with drafts]]
+- Earlier: 2026-09-08 · Runway · [[Changes/Runway/2026-09-08-runway-is-now-available-directly-inside-premiere-pro-and-after-effects-bring-the|Runway Adobe Plugins]]
+- Later: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-2-editor-experience-changes-in-hub-v2-13-0-introducing-new-documents|2 Editor Experience changes in HUB v2.13.0 — Introducing new Documents…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

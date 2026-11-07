@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d2819d7ef7527b622c23772410d3d6805e952af8f09d578117a072748007d13c
+machine_hash: 7aaf0b3b5bacf80215b2fdbc85f951519f0f245db4147be33642b843f60796a7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,11 +54,11 @@ record:
   title: Added a new model-selection surface update so the latest model catalog changes…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-text-selection-persists-after-copying-to-clipboard-in-alt-screen|Text
-  selection persists after copying to clipboard in alt screen]]'
-- '[[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode
-  Added spark icon in VS Code activity bar that lists all Claude Code…]]'
+- '[[Changes/OpenCode/2026-03-06-desktop-remove-keyboard-shortcut-tooltips-from-new-session-and-new-workspace-but|Desktop
+  Remove keyboard shortcut tooltips from new session and new workspace buttons…]]'
 - '[[Changes/Replit/2026-03-06-ai-chat-message-truncation|AI Chat message truncation]]'
+- '[[Changes/OpenCode/2026-03-07-2-interface-experience-changes-in-v1-2-21|2 Interface
+  Experience changes in v1.2.21]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5|codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5]]'
 source_type: github_releases
 theme: interface-experience
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-06 · Replit · [[Changes/Replit/2026-03-06-ai-chat-message-truncation|AI Chat message truncation]]
+- Earlier: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-2-interface-experience-changes-in-v1-2-21|2 Interface Experience changes in v1.2.21]]
 - Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-5-interface-experience-changes-in-v0-8-9|5 Interface Experience changes in v0.8.9]]
 <!-- chronolog:end -->
 

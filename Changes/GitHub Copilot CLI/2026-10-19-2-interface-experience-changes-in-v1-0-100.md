@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 831b16be61f284b88f4085e55e203a74e7a14454741ac6d4c595348830acd767
+machine_hash: 443e21d3fe114f3442b3abd0be42f8af08a7fbe5c4d733d533a8c2e945b14a8d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Interface Experience changes in v1.0.100
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-8-interface-experience-changes-in-rust-v0-163-0|8
-  Interface Experience changes in rust-v0.163.0]]'
 - '[[Changes/Open WebUI/2026-10-16-4-interface-experience-changes-in-v0-12-3|4 Interface
   Experience changes in v0.12.3]]'
 - '[[Changes/v0/2026-10-16-2-interface-experience-changes-in-downloads-in-the-code-tab-new-ios|2
   Interface Experience changes in Downloads in the Code tab, new iOS…]]'
+- '[[Changes/OpenClaw/2026-10-18-openclaw-2026-10-5-refreshes-the-sidebar-adds-saved-versions-and-undo-to-skill-w|OpenClaw
+  2026.10.5 refreshes the sidebar, adds saved versions and Undo to Skill…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: interface-experience
@@ -95,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.100
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-2-interface-experience-changes-in-downloads-in-the-code-tab-new-ios|2 Interface Experience changes in Downloads in the Code tab, new iOS…]]
+- Earlier: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-openclaw-2026-10-5-refreshes-the-sidebar-adds-saved-versions-and-undo-to-skill-w|OpenClaw 2026.10.5 refreshes the sidebar, adds saved versions and Undo to Skill…]]
 - Later: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-test-e2e-bound-and-diagnose-sidebar-modified-click-tab-waits-by-enyst-in-https-g|test(e2e): bound and diagnose sidebar modified-click tab waits]]
 <!-- chronolog:end -->
 

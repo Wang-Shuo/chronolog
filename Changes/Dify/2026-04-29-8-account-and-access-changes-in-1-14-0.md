@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 143caaa02fe6ca553d186ff333532b7b3c65f54503efebc8221a782cea1ff995
+machine_hash: 49840f6a8db09df02d8315280655fc56a07214bd965c7d4419759e3f6e0d3c9c
 product: dify
 product_name: Dify
 record:
@@ -59,12 +59,12 @@ record:
   title: 8 Account and Access changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-24-3-account-and-access-changes-in-v0-9-2|3 Account
-  and Access changes in v0.9.2]]'
 - '[[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified
   the /mcp message shown when an MCP server is still unauthorized after…]]'
 - '[[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs:
   migrate installation and authentication to mdx with tabbed layouts]]'
+- '[[Changes/OpenCode/2026-04-28-2-account-and-access-changes-in-v1-14-29|2 Account
+  and Access changes in v1.14.29]]'
 source_release: '[[Releases/Dify/dify-2026-04-29-1-14-0-github-314986233-63073e86|dify-2026-04-29-1-14-0-github-314986233-63073e86]]'
 source_type: github_releases
 theme: account-access
@@ -124,7 +124,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs: migrate installation and authentication to mdx with tabbed layouts]]
+- Earlier: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-2-account-and-access-changes-in-v1-14-29|2 Account and Access changes in v1.14.29]]
 - Later: 2026-04-30 · ChatGPT · [[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced Account Security in ChatGPT]]
 <!-- chronolog:end -->
 

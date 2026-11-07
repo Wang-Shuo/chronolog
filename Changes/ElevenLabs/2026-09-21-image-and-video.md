@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3be7dfe6ee35bcb25c76409f8139d65866c3dc2eb1ff098a730b8fbec9739c46
+machine_hash: fa4f36c4b1330b927fa5ab0b6057920b7e09e93adbc704ee78df1ad29164e2c1
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -58,8 +58,8 @@ record:
   title: Image and video
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-08-chatgpt-images-2-5-brings-sharper-details-more-precise-editing-and-faster-image-66acb5|ChatGPT
-  Images 2.5 brings sharper details, more precise editing, and faster image…]]'
+- '[[Changes/OpenClaw/2026-09-11-2-image-generation-changes-in-v2026-9-4|2 Image Generation
+  changes in v2026.9.4]]'
 - '[[Changes/Lovable/2026-09-15-gpt-image-2-5-flare-and-sunburst-for-your-app-s-ai-features|GPT
   Image 2.5 Flare and Sunburst for your app''s AI features]]'
 - '[[Changes/Codex CLI/2026-09-17-43953-preserve-per-image-generation-ids-in-image-generation-analytics-copyberry|♯43953

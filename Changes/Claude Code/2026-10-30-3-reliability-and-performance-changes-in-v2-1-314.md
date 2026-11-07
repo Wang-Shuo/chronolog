@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 91f354ae406efc266c964a816051bdf9bdea491fa3172bbfd3ff0c4ada6c3db6
+machine_hash: 219a2c015b63e3e82adf8b4c8cdc53af6d513de473d1b63592d7e4717d68adad
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Reliability and Performance changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-27-faster-prompt-processing-on-apple-silicon-for-gemma-4-flint-and-laguna-models|Faster
-  prompt processing on Apple silicon for Gemma 4, Flint and Laguna models]]'
 - '[[Changes/Open WebUI/2026-10-29-2-reliability-and-performance-changes-in-v0-12-5|2
   Reliability and Performance changes in v0.12.5]]'
+- '[[Changes/OpenCode/2026-10-29-core-improve-snapshot-performance-by-coalescing-captures-and-avoiding-repeated-i|Core
+  Improve snapshot performance by coalescing captures and avoiding repeated…]]'
 - '[[Changes/Windsurf/2026-10-29-reduced-memory-usage-for-large-devin-local-sessions|Reduced
   memory usage for large Devin Local sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-29 · Windsurf · [[Changes/Windsurf/2026-10-29-reduced-memory-usage-for-large-devin-local-sessions|Reduced memory usage for large Devin Local sessions]]
-- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-fixes-history-items-for-v4-generations-keep-clone-strength-and-speed-in-their-sa|Fixes: History items for v4 generations keep clone_strength and speed…]]
+- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-desktop-stability-fixes|Desktop Stability Fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

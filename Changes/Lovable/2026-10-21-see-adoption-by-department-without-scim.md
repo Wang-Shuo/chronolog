@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d99996ffb3e2572df855af48c5fe155271dd066e6425c491e7ad5a219f7e16a8
+machine_hash: ad8543b6b57d325eb05ce646b686d51cb81ac0a148d4388a2b7587a07f8923f6
 product: lovable
 product_name: Lovable
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-group-your-workspaces-into-an-organization|Group your workspaces into an organization]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud sessions Added Claude Code cloud sessions and Remote Control permissions…]]
+- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-2-enterprise-and-administration-changes-in-v2026-10-6|2 Enterprise and Administration changes in v2026.10.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

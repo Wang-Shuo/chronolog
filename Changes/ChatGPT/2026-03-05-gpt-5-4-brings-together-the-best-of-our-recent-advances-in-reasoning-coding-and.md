@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a65e6ec5b3f9043b4fe176df9202d3e366eecf7efeb5315ae4fb6556d830b71a
+machine_hash: d57f140891fa26351007fa67fa9cd6730a012a29fe56f9df2951bb86cd098835
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -95,10 +95,10 @@ record:
   title: GPT-5.4 Thinking in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-03-trigger-auto-compaction-on-openrouter-context-overflow-errors|Trigger
-  auto-compaction on OpenRouter context overflow errors]]'
 - '[[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes
   in 2.6]]'
+- '[[Changes/OpenCode/2026-03-03-core-recover-from-413-request-entity-too-large-errors-via-automatic-compaction|Core
+  Recover from 413 Request Entity Too Large errors via automatic compaction]]'
 - '[[Changes/Cline/2026-03-04-2-context-window-changes-in-v3-70-0|2 Context Window
   changes in v3.70.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-05-gpt-5-4-thinking-in-chatgpt-df7dc812|chatgpt-2026-03-05-gpt-5-4-thinking-in-chatgpt-df7dc812]]'

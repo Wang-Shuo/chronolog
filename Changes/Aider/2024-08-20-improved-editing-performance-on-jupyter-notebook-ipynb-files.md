@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eab184269bee8f71084c6fa56676e8757ce469203bc4e342cf5eeaaf5ccbe18c
+machine_hash: 493dfca1922df91faa1081e2a844445bb87b4d76006d642d186735fca4f93875
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved editing performance on Jupyter Notebook `.ipynb` files
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-13-web-scraper-is-more-robust-if-page-never-idles|Web scraper
-  is more robust if page never idles]]'
 - '[[Changes/Ollama/2024-08-13-ollama-will-now-import-gguf-files-faster-by-minimizing-file-copies|Ollama
   will now import GGUF files faster by minimizing file copies]]'
 - '[[Changes/Open WebUI/2024-08-14-2-reliability-and-performance-changes-in-v0-3-13|2
   Reliability and Performance changes in v0.3.13]]'
+- '[[Changes/Runway/2024-08-14-generate-7x-faster-for-half-the-price-of-the-original-gen-3-alpha-while-still-ma|Gen-3
+  Alpha Turbo]]'
 source_release: '[[Releases/Aider/aider-2024-08-20-v0-51-0-github-171109140-6ace7052|aider-2024-08-20-v0-51-0-github-171109140-6ace7052]]'
 source_type: github_releases
 theme: reliability-performance
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-2-reliability-and-performance-changes-in-v0-3-13|2 Reliability and Performance changes in v0.3.13]]
+- Earlier: 2024-08-14 · Runway · [[Changes/Runway/2024-08-14-generate-7x-faster-for-half-the-price-of-the-original-gen-3-alpha-while-still-ma|Gen-3 Alpha Turbo]]
 - Later: 2024-08-20 · Ollama · [[Changes/Ollama/2024-08-20-2-reliability-and-performance-changes-in-v0-3-7|2 Reliability and Performance changes in v0.3.7]]
 <!-- chronolog:end -->
 

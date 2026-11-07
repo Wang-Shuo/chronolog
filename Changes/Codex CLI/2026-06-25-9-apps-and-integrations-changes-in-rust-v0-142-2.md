@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a9265798762ffe89926cb86378b495d69802668bdfb56bcaea95d14aef55e69
+machine_hash: 7f9e161039a3206db36fdcd8611998fc72f574e683862df1bc04e5acb4d15204
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -60,8 +60,10 @@ record:
   title: 9 Apps and Integrations changes in rust-v0.142.2
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-24-lovable-mcp-updates|Lovable MCP updates]]'
-- '[[Changes/Lovable/2026-06-24-app-connector-calendly|App connector: Calendly]]'
+- '[[Changes/OpenCode/2026-06-24-added-mcp-server-instructions-to-session-context|Added
+  MCP server instructions to session context]]'
+- '[[Changes/OpenCode/2026-06-24-9-apps-and-integrations-changes-in-v1-17-10|9 Apps
+  and Integrations changes in v1.17.10]]'
 - '[[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2
   Apps and Integrations changes in v2.1.193]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c|codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a7bd7fe835eace1bad553ecba04c9b3dba3268f5f9ea24e7e462d590f57a1c82
+machine_hash: 331c0bb9c8f627077781690a5a4409fa089ab69337f195a5b74257a852a233f6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
     without…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-12-30-added-refresh-button-to-the-changes-tab-by-hieptl-in-https-github-com-openhands|Added
-  refresh button to the Changes tab]]'
+- '[[Changes/OpenCode/2026-01-05-terminal-expand-directory-on-tab-select-on-enter-in-tui-autocomplete|Terminal
+  Expand directory on Tab, select on Enter in TUI autocomplete]]'
 - '[[Changes/Cline/2026-01-06-added-experimental-support-for-background-edits-allows-editing-files-in-backgrou|Added
   experimental support for Background Edits…]]'
 - '[[Changes/Codex CLI/2026-01-06-3-editor-experience-changes-in-rust-v0-78-0|3 Editor

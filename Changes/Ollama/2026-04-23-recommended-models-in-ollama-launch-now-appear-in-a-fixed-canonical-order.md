@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78287fe94b46017f0f83ec5a8546f6b9f5e948f61cb4bac294cdea56684619c8
+machine_hash: 2a630e05fccc1e6570dbeb0435aca803e8c8211461a678b143d82cdd9fa9d5db
 product: ollama
 product_name: Ollama
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-2-model-support-changes-in-v1-0-35|2 Model Support changes in v1.0.35]]
-- Later: 2026-04-24 · Cline · [[Changes/Cline/2026-04-24-add-gpt-5-5-model-support-for-openai-codex-subscription-users|Add GPT-5.5 model support for OpenAI Codex subscription users]]
+- Later: 2026-04-23 · OpenCode · [[Changes/OpenCode/2026-04-23-2-model-support-changes-in-v1-14-22-1|2 Model Support changes in v1.14.22 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

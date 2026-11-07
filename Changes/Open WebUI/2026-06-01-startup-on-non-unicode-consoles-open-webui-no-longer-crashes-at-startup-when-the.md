@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79fb5fcc4c291fc0577f0662b777e2149355b329b915a010d2587ee93b8b6679
+machine_hash: d1f65c58c47c8ebbb68d710d201683ff0b38aefb291b11b9f23736dc039159af
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,12 +52,12 @@ record:
     at startup…"
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-27-auto-detect-pnpm-global-installation-path-for-macos-and-windows-by-tisonkun-in-h|Auto
-  detect pnpm global installation path for macOS and Windows]]'
 - '[[Changes/Codex CLI/2026-05-28-5-mobile-and-desktop-changes-in-rust-v0-135-0|5
   Mobile and Desktop changes in rust-v0.135.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard
   correctly copies CJK and supplementary-plane Unicode characters on Windows]]'
+- '[[Changes/OpenCode/2026-05-28-desktop-improved-the-home-empty-state-and-fixed-v2-font-usage|Desktop
+  Improved the home empty state and fixed V2 font usage]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e|open-webui-2026-06-01-v0-9-6-github-332798378-d8dc258e]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard correctly copies CJK and supplementary-plane Unicode characters on Windows]]
+- Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-desktop-improved-the-home-empty-state-and-fixed-v2-font-usage|Desktop Improved the home empty state and fixed V2 font usage]]
 - Later: 2026-06-02 · Windsurf · [[Changes/Windsurf/2026-06-02-windsurf-is-now-devin-desktop-https-devin-ai-blog-windsurf-is-now-devin-desktop|Windsurf is now Devin Desktop((source link)]]
 <!-- chronolog:end -->
 

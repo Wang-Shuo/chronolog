@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f0f098a14a7b412f8c8f53f0e53577c0d642ddfe5111567bbdc164251cbeafa7
+machine_hash: 55a8675c13115250b1e91ae37dd5b3ed4118de336acd903f06e9d577457f75cb
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,8 +46,8 @@ record:
   title: New Models
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-2-model-support-changes-in-v0-0-403|2 Model
-  Support changes in v0.0.403]]'
+- '[[Changes/OpenCode/2026-02-05-core-update-transforms-for-gpt-5-3|Core Update transforms
+  for GPT-5.3]]'
 - '[[Changes/Windsurf/2026-02-05-claude-opus-4-6|Claude Opus 4.6]]'
 - '[[Changes/Windsurf/2026-02-05-released-tab-v2-model-selector-to-all-users|Released
   Tab v2 model selector to all users]]'
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-2-model-support-changes-in-v0-0-403|2 Model Support changes in v0.0.403]]
+- Earlier: 2026-02-05 · OpenCode · [[Changes/OpenCode/2026-02-05-core-update-transforms-for-gpt-5-3|Core Update transforms for GPT-5.3]]
 - Later: 2026-02-06 · Replit · [[Changes/Replit/2026-02-06-custom-openai-key-support|Custom OpenAI key support]]
 <!-- chronolog:end -->
 

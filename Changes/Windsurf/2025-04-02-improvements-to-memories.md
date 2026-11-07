@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6e1f9c739e7f6695ccb5ff589070b8f8aeb54d6d11c41f7c9267bcfca11edb65
+machine_hash: 561bf8651d6bf9f3542494d1df54c5fd021a4ebb95a912f53867c3710831e24a
 product: windsurf
 product_name: Windsurf
 record:
@@ -55,12 +55,12 @@ record:
   title: Improvements to Memories
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-07-developer-mode-now-defaults-to-storing-data-on-the-filesystem-instead-of-in-memo|Developer
-  mode now defaults to storing data on the filesystem instead of in-memory…]]'
 - '[[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9:
   Memory and performances fixes, composer/chat remembers your last mode…]]'
 - '[[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable
   memory condensation from settings page]]'
+- '[[Changes/Midjourney/2025-03-31-we-re-now-in-round-3-of-the-v7-image-rating-party|We''re
+  now in ROUND 3 of the V7 image rating party]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-02-v1-6-1-9d892c6f|windsurf-2025-04-02-v1-6-1-9d892c6f]]'
 source_type: windsurf_changelog
 theme: memory
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-02-24 · OpenHands · [[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable memory condensation from settings page]]
-- Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-feat-agent-node-add-memory-by-nov1c444-in-https-github-com-langgenius-dify-pull|feat: agent node add memory]]
+- Earlier: 2025-03-31 · Midjourney · [[Changes/Midjourney/2025-03-31-we-re-now-in-round-3-of-the-v7-image-rating-party|We're now in ROUND 3 of the V7 image rating party]]
+- Later: 2025-04-04 · Midjourney · [[Changes/Midjourney/2025-04-04-v7-is-the-first-model-to-have-model-personalization-turned-on-by-default|V7 is the first model to have model personalization turned on by default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

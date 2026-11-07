@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a209f388df8d453ea044287e47a4ec47155f6a5a84bcf0601b9873cf9464eb7
+machine_hash: 7183920a8289f24ddd240f7016674725131bce8d15c3b166c4ce5f7e5eb3800b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: 7 Agent Mode changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode
-  changes in v2.1.312]]'
-- '[[Changes/Codex CLI/2026-10-27-4-agent-mode-changes-in-rust-v0-165-0|4 Agent Mode
-  changes in rust-v0.165.0]]'
+- '[[Changes/OpenClaw/2026-10-27-7-agent-mode-changes-in-v2026-10-8|7 Agent Mode changes
+  in v2026.10.8]]'
+- '[[Changes/OpenCode/2026-10-27-2-agent-mode-changes-in-v2-2-0|2 Agent Mode changes
+  in v2.2.0]]'
 - '[[Changes/OpenHands/2026-10-27-feat-verify-stand-in-for-digitalocean-so-managed-agents-can-be-verified-by-enyst|feat(verify):
   stand in for DigitalOcean so Managed Agents can be verified]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'

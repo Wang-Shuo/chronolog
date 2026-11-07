@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a7683b5fe61480462fb16f0a2cfc118d955165beefee841bb4f7714eef0872e6
+machine_hash: 1b09c772c5d7bdb9db4c54bc0e7edcb264c36e1b1c34a892c01951830631f27d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Memory and Personalization changes in v0.8.4
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-2-memory-and-personalization-changes-in-v0-29-0|2
-  Memory and Personalization changes in v0.29.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-19-2-memory-and-personalization-changes-in-v0-0-412|2
-  Memory and Personalization changes in v0.0.412]]'
+- '[[Changes/OpenCode/2026-02-19-core-make-read-tool-more-memory-efficient|Core Make
+  read tool more memory efficient]]'
+- '[[Changes/Midjourney/2026-02-20-we-re-now-in-the-final-round-of-the-v8-image-rating-party|We''re
+  now in the FINAL ROUND of the V8 image rating party]]'
 - '[[Changes/Replit/2026-02-20-background-memory-compression|Background memory compression]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-23-v0-8-4-github-289302856-177fc54c|open-webui-2026-02-23-v0-8-4-github-289302856-177fc54c]]'
 source_type: github_releases

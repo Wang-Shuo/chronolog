@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6683c6a03d83805d36e4d647dbabe25c92d616bfe98f38993b5e93c376873350
+machine_hash: 69c749d5222e85d1cfbfebbdd562fc06cfeb3e0bd09570a01cd18e770d1c5f80
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,9 +48,10 @@ record:
   title: 5 Model Support changes in rust-v0.78.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-27-gemini-3-flash|Gemini 3 Flash]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-02-model-picker-shows-clearer-message-with-settings-link-when-models-are-unavailabl|Model
-  picker shows clearer message with settings link when models are unavailable]]'
+- '[[Changes/OpenCode/2026-01-05-2-model-support-changes-in-v1-1-2|2 Model Support
+  changes in v1.1.2]]'
+- '[[Changes/OpenCode/2026-01-05-core-filter-out-empty-messages-and-reasoning-for-anthropic-api-compatibility|Core
+  Filter out empty messages and reasoning for Anthropic API compatibility]]'
 - '[[Changes/Cline/2026-01-06-3-model-support-changes-in-v3-47-0|3 Model Support changes
   in v3.47.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'

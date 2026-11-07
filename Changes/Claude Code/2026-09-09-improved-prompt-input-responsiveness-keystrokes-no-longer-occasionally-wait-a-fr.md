@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cdadff65166ba29ab37d98e1d12e5f8530b78ea09111437a5a416ecc5a15475c
+machine_hash: 07f04fd59e7890a51e7b542b1026b06784740bb87bf403730e40cf0a59440755
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,11 @@ record:
   title: Improved prompt input responsiveness
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-05-this-release-also-improves-structured-output-performance-on-apple-silicon-adds-s|This
-  release also improves structured output performance on Apple Silicon, adds…]]'
 - '[[Changes/Lovable/2026-09-07-faster-payments-dashboard|Faster payments dashboard]]'
 - '[[Changes/Lovable/2026-09-07-redesigned-cloud-advanced-settings-show-when-your-database-is-under-pressure|Redesigned
   Cloud Advanced settings show when your database is under pressure]]'
+- '[[Changes/OpenClaw/2026-09-08-4-reliability-and-performance-changes-in-v2026-9-3|4
+  Reliability and Performance changes in v2026.9.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
 theme: reliability-performance
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-redesigned-cloud-advanced-settings-show-when-your-database-is-under-pressure|Redesigned Cloud Advanced settings show when your database is under pressure]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-4-reliability-and-performance-changes-in-v2026-9-3|4 Reliability and Performance changes in v2026.9.3]]
 - Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-reliability-and-performance-changes-in-v2-1-268|2 Reliability and Performance changes in v2.1.268]]
 <!-- chronolog:end -->
 

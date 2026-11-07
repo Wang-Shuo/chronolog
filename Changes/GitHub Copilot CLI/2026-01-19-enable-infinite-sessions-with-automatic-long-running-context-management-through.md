@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05449d4816cb61eae0660ffacfb72caf7aa9e0bd4bf4d801dc08827c7e790a8b
+machine_hash: 94cd305c9c2ce6b29d17b7991e4b137795c1848e81985c6a8d8f3ddea7ff6c1c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Enable infinite sessions with automatic long-running context management through…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-14-2-context-window-changes-in-v0-24-0|2 Context Window
-  changes in v0.24.0]]'
+- '[[Changes/OpenCode/2026-01-15-core-add-input-limit-for-compaction|Core Add input
+  limit for compaction]]'
 - '[[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added
   auto:N syntax for configuring the MCP tool search auto-enable threshold…]]'
 - '[[Changes/Codex CLI/2026-01-16-2-context-window-changes-in-rust-v0-87-0|2 Context

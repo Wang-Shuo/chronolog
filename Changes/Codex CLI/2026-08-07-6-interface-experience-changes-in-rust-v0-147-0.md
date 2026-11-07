@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e1d7d85ee687ad3eb2a613909ebe3157d49f10038bc19f44bd0714e5d13f382
+machine_hash: 2f6e6f0619ddb021c99ed9d4b1c0078f44c6f5a6f3ad435f7016f7b89b81c25e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.147.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved fullscreen mode to keep the full pre-compaction history in scrollback…]]
-- Later: 2026-08-07 · OpenHands · [[Changes/OpenHands/2026-08-07-feat-reorder-customize-navigation-by-devinvinson-in-https-github-com-openhands-o|feat: reorder Customize navigation]]
+- Later: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-you-can-now-copy-an-image-to-your-clipboard-from-an-artifact-or-the-file-viewer|Copy an image to your clipboard from an artifact or the file viewer, using the menu…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

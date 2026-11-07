@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8628188665746b2c2610b2501a903376ae3a15271ebef362de5366490f6edc88
+machine_hash: bfc78ee37ce860a94de694a89559669778acedf4fe2f42135966171fe4e14d90
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 6 Safety and Privacy changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-2-safety-and-privacy-changes-in-v2-1-186|2 Safety
-  and Privacy changes in v2.1.186]]'
-- '[[Changes/Codex CLI/2026-06-22-12-safety-and-privacy-changes-in-rust-v0-142-0|12
-  Safety and Privacy changes in rust-v0.142.0]]'
+- '[[Changes/Google Antigravity/2026-06-22-fixed-agent-permission-issue-fixed-the-bug-where-changes-to-the-agent-security-m|Fixed
+  Agent Permission Issue]]'
+- '[[Changes/Google Antigravity/2026-06-22-model-quota-screen-and-agent-security-fixes|Model
+  quota screen and agent security fixes]]'
 - '[[Changes/Claude Code/2026-06-23-2-safety-and-privacy-changes-in-v2-1-187|2 Safety
   and Privacy changes in v2.1.187]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'

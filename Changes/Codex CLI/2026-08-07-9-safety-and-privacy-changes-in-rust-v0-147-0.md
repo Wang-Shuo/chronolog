@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1a40eb904810346942a03cf9bed28bc72922ea75a54a8f3dec47ade3ba963e1
+machine_hash: e20e1ffb2189845ceb32aa894cc17445444ea92ed122aa4017c83381cae03ce7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -125,7 +125,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.147.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-2-safety-and-privacy-changes-in-v2-1-224|2 Safety and Privacy changes in v2.1.224]]
-- Later: 2026-08-07 · Lovable · [[Changes/Lovable/2026-08-07-trust-center-for-your-published-app|Trust Center for your published app]]
+- Later: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-steps-waiting-on-your-input-now-show-the-icon-for-the-tool-involved-including-in|Steps waiting on your input now show the icon for the tool involved, including…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

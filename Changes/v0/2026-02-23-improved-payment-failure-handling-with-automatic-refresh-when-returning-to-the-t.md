@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 308eed552918c0f0d4242b7caa966f01d09eeaf6c978ec2cddb359e9d853ffb6
+machine_hash: fb001a633ac003c78729a93818bb5fa16c27651f13a180c78b093995b7750aee
 product: v0
 product_name: v0
 record:
@@ -43,8 +43,8 @@ record:
     the tab
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-3-editor-experience-changes-in-v0-0-412|3
-  Editor Experience changes in v0.0.412]]'
+- '[[Changes/OpenCode/2026-02-19-2-editor-experience-changes-in-v1-2-7|2 Editor Experience
+  changes in v1.2.7]]'
 - '[[Changes/Lovable/2026-02-23-the-plan-mode-https-docs-lovable-dev-features-plan-mode-md-editor-now-uses-a-ren|The
   Plan mode((source link) editor now uses…]]'
 - '[[Changes/Open WebUI/2026-02-23-2-editor-experience-changes-in-v0-8-4|2 Editor
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-2-editor-experience-changes-in-v0-8-4|2 Editor Experience changes in v0.8.4]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-2-editor-experience-changes-in-rust-v0-105-0|2 Editor Experience changes in rust-v0.105.0]]
+- Later: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-desktop-wait-for-loadfile-to-complete-before-opening-file-tab|Desktop Wait for loadFile to complete before opening file tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

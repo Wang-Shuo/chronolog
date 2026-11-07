@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d867f5929d498b66492d74a683fec012cfd5f9b25fcc569926455e17593e22a9
+machine_hash: 77484ea1450127972527d5eeda860ad6e7f226682802145d1f82d46d7349a0a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Reliability and Performance changes in v2.1.117
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-04-17-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
 - '[[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume
   on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]'
+- '[[Changes/Granola/2026-04-21-granola-chat-is-rebuilt-to-be-agentic-faster-across-your-notes-team-space-and-wh|Granola
+  Chat just got smarter]]'
 - '[[Changes/Open WebUI/2026-04-21-24-reliability-and-performance-changes-in-v0-9-0|24
   Reliability and Performance changes in v0.9.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'

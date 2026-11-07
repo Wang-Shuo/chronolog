@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d408479463f9e986af9e10379f373d4124d945271a9ef40dc329f6c4acfc6dfc
+machine_hash: ddb22bce9412005b6ca6d2e7e6ea6fcbca559791c64f63dea84d5639afd1616c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,11 @@ record:
   title: 2 Agent Mode changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-elevenagents|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-09-14-elevenagents-d9e798|ElevenAgents]]'
 - '[[Changes/Claude Code/2026-09-15-changed-auto-mode-on-bedrock-vertex-and-foundry-to-use-the-local-classifier-by-d|Changed
   auto mode on Bedrock, Vertex and Foundry to use the local classifier…]]'
+- '[[Changes/Google Antigravity/2026-09-15-the-agent-s-temporary-scratch-files-are-no-longer-watched-synced-or-shown-in-the|The
+  agent''s temporary scratch files are no longer watched, synced, or shown…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: agent-mode
@@ -95,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-changed-auto-mode-on-bedrock-vertex-and-foundry-to-use-the-local-classifier-by-d|Changed auto mode on Bedrock, Vertex and Foundry to use the local classifier…]]
+- Earlier: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-the-agent-s-temporary-scratch-files-are-no-longer-watched-synced-or-shown-in-the|The agent's temporary scratch files are no longer watched, synced, or shown…]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-2-agent-mode-changes-in-v1-19-0|2 Agent Mode changes in v1.19.0]]
 <!-- chronolog:end -->
 

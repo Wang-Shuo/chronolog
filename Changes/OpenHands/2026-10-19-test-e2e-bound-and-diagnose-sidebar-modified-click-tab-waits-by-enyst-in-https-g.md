@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3dba7707ef26a617095725d909a827ce77eaa7db3a0b426f0d295cc115ff2484
+machine_hash: 37e055647f3a099f23f8f07aa5a49406794a3113a6777e95e42579ce721cbf21
 product: openhands
 product_name: OpenHands
 record:
@@ -52,10 +52,10 @@ record:
   title: 'test(e2e): bound and diagnose sidebar modified-click tab waits'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-16-4-interface-experience-changes-in-v0-12-3|4 Interface
-  Experience changes in v0.12.3]]'
 - '[[Changes/v0/2026-10-16-2-interface-experience-changes-in-downloads-in-the-code-tab-new-ios|2
   Interface Experience changes in Downloads in the Code tab, new iOS…]]'
+- '[[Changes/OpenClaw/2026-10-18-openclaw-2026-10-5-refreshes-the-sidebar-adds-saved-versions-and-undo-to-skill-w|OpenClaw
+  2026.10.5 refreshes the sidebar, adds saved versions and Undo to Skill…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-2-interface-experience-changes-in-v1-0-100|2
   Interface Experience changes in v1.0.100]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-19-v1-28-0-github-417391290-d3015a14|openhands-2026-10-19-v1-28-0-github-417391290-d3015a14]]'

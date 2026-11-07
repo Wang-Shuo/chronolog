@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 18fd67b917eab36a1870e6a4d4d983f3039a5e03f4efe76fc29b7f9c609ac2b6
+machine_hash: e14850607730435ce81e7a01f34e85183a0a1dec8b997e1a8793281346929ca4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: Skill files saved with a UTF-8 BOM (common on Windows editors) now load correctly…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2
-  Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]'
-- '[[Changes/Gemini CLI/2026-02-18-feat-expand-verify-release-to-macos-and-windows-by-yunaseoul-in-https-github-com|feat:
-  expand verify-release to macOS and Windows]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-19-terminal-editor-is-now-supported-on-windows|Terminal
-  editor is now supported on Windows]]'
+- '[[Changes/OpenCode/2026-02-19-46-mobile-and-desktop-changes-in-v1-2-7|46 Mobile
+  and Desktop changes in v1.2.7]]'
+- '[[Changes/OpenCode/2026-02-19-2-mobile-and-desktop-changes-in-v1-2-8|2 Mobile and
+  Desktop changes in v1.2.8]]'
+- '[[Changes/OpenCode/2026-02-20-2-mobile-and-desktop-changes-in-v1-2-10-1|2 Mobile
+  and Desktop changes in v1.2.10 + 1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-23-v0-0-415-github-289607575-3b8d8d7c|github-copilot-cli-2026-02-23-v0-0-415-github-289607575-3b8d8d7c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-terminal-editor-is-now-supported-on-windows|Terminal editor is now supported on Windows]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-2-mobile-and-desktop-changes-in-rust-v0-105-0|2 Mobile and Desktop changes in rust-v0.105.0]]
+- Earlier: 2026-02-20 · OpenCode · [[Changes/OpenCode/2026-02-20-2-mobile-and-desktop-changes-in-v1-2-10-1|2 Mobile and Desktop changes in v1.2.10 + 1]]
+- Later: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-24-mobile-and-desktop-changes-in-v1-2-11|24 Mobile and Desktop changes in v1.2.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: abd57ba235a4335a07c7e3ebbde7cf809625109d24dc7c882ac6c03e4612fba1
+machine_hash: 4297a65260ac5d2e0724fb10129bf9e94e55e85e9158b2fac9ca1a4eacfbc1ab
 product: lovable
 product_name: Lovable
 record:
@@ -66,12 +66,12 @@ record:
   title: Use Lovable from Claude through your company's SSO
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-14-clearer-error-messages-when-cloud-access-fails-sign-in-problems-payment-issues-i|Clearer
-  error messages when cloud access fails]]'
 - '[[Changes/Open WebUI/2026-10-14-3-account-and-access-changes-in-v0-12-1|3 Account
   and Access changes in v0.12.1]]'
 - '[[Changes/Codex CLI/2026-10-15-53389-use-cached-login-credentials-for-guardian-decisions-swastik-oai|♯53389
   Use cached login credentials for Guardian decisions @swastik-oai]]'
+- '[[Changes/Google Antigravity/2026-10-15-when-your-sign-in-expires-during-a-session-antigravity-now-shows-an-authenticati|When
+  your sign-in expires during a session, Antigravity now shows an Authentication…]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-15-2026-10-15-46556c18|lovable-2026-10-15-2026-10-15-46556c18]]'
 source_type: lovable_changelog
 theme: account-access
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-53389-use-cached-login-credentials-for-guardian-decisions-swastik-oai|♯53389 Use cached login credentials for Guardian decisions @swastik-oai]]
+- Earlier: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-when-your-sign-in-expires-during-a-session-antigravity-now-shows-an-authenticati|When your sign-in expires during a session, Antigravity now shows an Authentication…]]
 - Later: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added a notice to /design-sync and /design-login that standalone Claude Design…]]
 <!-- chronolog:end -->
 

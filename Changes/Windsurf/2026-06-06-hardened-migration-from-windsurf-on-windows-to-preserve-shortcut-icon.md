@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99b6f283fb312524b77167b0dd2c74c99b55a73affbe70c02393bfd813629ae7
+machine_hash: 516fe60041117385d25997946ca2c7203245b7051fed00aa25de58920a93fd9f
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,12 +43,12 @@ record:
   title: Hardened migration from Windsurf on Windows to preserve shortcut icon
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-04-ollama-launch-hermes-desktop-now-launches-hermes-desktop-and-can-skip-rebuilding|ollama
-  launch hermes-desktop now launches Hermes Desktop and can skip rebuilding…]]'
-- '[[Changes/Windsurf/2026-06-04-added-a-new-command-for-devin-desktop-to-rerun-the-migration-from-windsurf-this|Added
-  a new command for Devin Desktop to rerun the migration from Windsurf]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-mobile-and-desktop-changes-in-v1-0-60|2
   Mobile and Desktop changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-3-mobile-and-desktop-changes-in-v1-16-2|3 Mobile
+  and Desktop changes in v1.16.2]]'
+- '[[Changes/OpenCode/2026-06-05-7-mobile-and-desktop-changes-in-v1-16-0|7 Mobile
+  and Desktop changes in v1.16.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-06-v3-0-28-9d5b371b|windsurf-2026-06-06-v3-0-28-9d5b371b]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-mobile-and-desktop-changes-in-v1-0-60|2 Mobile and Desktop changes in v1.0.60]]
+- Earlier: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-7-mobile-and-desktop-changes-in-v1-16-0|7 Mobile and Desktop changes in v1.16.0]]
 - Later: 2026-06-07 · Ollama · [[Changes/Ollama/2026-06-07-hermes-desktop-is-now-available-via-ollama-launch-hermes-desktop-with-native-win|Hermes Desktop is now available via ollama launch hermes-desktop with native…]]
 <!-- chronolog:end -->
 

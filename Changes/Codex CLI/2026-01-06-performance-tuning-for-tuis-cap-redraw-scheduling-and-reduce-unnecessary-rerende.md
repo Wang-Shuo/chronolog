@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae05327f52563528f130937e6be65d56b27d05303b424356582c235faacdc0ca
+machine_hash: 5d992e0c7ce5885095625012a697e9fb845deec4c270d32818ef0c62991031e0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,11 +44,12 @@ record:
   title: Performance tuning for TUIs
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-25-feat-show-generate-speed-in-chatbot-by-leslie2046-in-https-github-com-langgenius|feat:
-  show generate speed in chatbot]]'
-- '[[Changes/Replit/2025-12-26-fast-build|Fast Build]]'
-- '[[Changes/Windsurf/2025-12-27-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
+- '[[Changes/OpenCode/2025-12-30-terminal-fixed-high-cpu-usage-and-memory-leak-when-filtering-model-list-to-empty|Terminal
+  Fixed high CPU usage and memory leak when filtering model list to empty results]]'
+- '[[Changes/OpenCode/2026-01-04-3-reliability-and-performance-changes-in-v1-1-1|3
+  Reliability and Performance changes in v1.1.1]]'
+- '[[Changes/OpenCode/2026-01-05-desktop-performance-improvements-through-event-batching-in-app|Desktop
+  Performance improvements through event batching in app]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -86,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-27 · Windsurf · [[Changes/Windsurf/2025-12-27-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
-- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2 Reliability and Performance changes in New CLI Features and Improved CLI…]]
+- Earlier: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-desktop-performance-improvements-through-event-batching-in-app|Desktop Performance improvements through event batching in app]]
+- Later: 2026-01-06 · OpenCode · [[Changes/OpenCode/2026-01-06-3-reliability-and-performance-changes-in-v1-1-4|3 Reliability and Performance changes in v1.1.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

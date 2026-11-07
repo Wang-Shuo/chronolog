@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 048ca60268c50df0d9b7304bf47966f177dfffdd1a3c62afe47208a0d66a1922
+machine_hash: f3dc2adf8063fca662f8d8b01aaf68d8a87aef3d1dc7428941801bb1a14c5749
 product: openhands
 product_name: OpenHands
 record:
@@ -42,11 +42,12 @@ record:
     orgs (OHE-3765)'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-5-collaboration-changes-in-1-18-0|5 Collaboration changes
-  in 1.18.0]]'
-- '[[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]'
 - '[[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE
   mode now offers Devin Cloud whenever your account has Cloud access, the same…]]'
+- '[[Changes/OpenClaw/2026-10-27-malformed-microsoft-teams-message-html-no-longer-causes-the-parsing-stalls-that|Malformed
+  Microsoft Teams message HTML no longer causes the parsing stalls…]]'
+- '[[Changes/OpenCode/2026-10-27-core-honor-shared-parallel-tool-call-and-service-tier-settings-for-groq|Core
+  Honor shared parallel tool-call and service-tier settings for Groq]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892|openhands-2026-10-27-v1-34-0-github-425575573-3f638892]]'
 source_type: github_releases
 theme: collaboration
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE mode now offers Devin Cloud whenever your account has Cloud access, the same…]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-core-honor-shared-parallel-tool-call-and-service-tier-settings-for-groq|Core Honor shared parallel tool-call and service-tier settings for Groq]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57226-allow-nfs-database-migration-with-shared-file-permissions-dkovalenko-oai|♯57226 Allow NFS database migration with shared file permissions @dkovalenko-oai]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bccd94dbd2033d004157d10677ee7b5d72881f6c721c1099c27aed7a7902e103
+machine_hash: 70188ca744f3e5799bff6beff8bfbb2108e39f4d101eccf900d93efce8765908
 product: lovable
 product_name: Lovable
 record:
@@ -48,8 +48,8 @@ record:
   title: Project monitoring catches errors in your visitors' browsers
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor
-  Experience changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-core-when-edit-can-t-find-oldstring-the-error-shows-the-file-s-closest-lines-or|Core
+  When edit can''t find oldString , the error shows the file''s closest lines…]]'
 - '[[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor
   Experience changes in v2.1.316]]'
 - '[[Changes/ElevenLabs/2026-11-02-svg-assets-svg-uploads-to-assets-stay-svg-and-render-as-vectors-including-in-the|SVG
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-svg-assets-svg-uploads-to-assets-stay-svg-and-render-as-vectors-including-in-the|SVG assets: SVG uploads to Assets stay SVG and render as vectors, including…]]
-- Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-4-editor-experience-changes-in-v0-13-0|4 Editor Experience changes in v0.13.0]]
+- Later: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-the-overview-panel-s-review-row-and-the-review-tab-header-now-show-total-added-a|The Overview panel's Review row and the Review tab header now show total added…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

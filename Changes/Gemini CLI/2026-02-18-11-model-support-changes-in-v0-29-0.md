@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ddaf7e617036e4f7142a9527a4a34c534260bda9b8f08510f742361a096d365
+machine_hash: cd686fbdff2c655b0b93f95e0479862d1c4eab3ce32f0f8cf84f681d13307b57
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -134,7 +134,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.29.0
 ## Nearby in Model Support
 
 - Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-2-model-support-changes-in-cli-improvements-and-mermaid-ascii|2 Model Support changes in CLI Improvements and Mermaid ASCII…]]
-- Later: 2026-02-18 · OpenHands · [[Changes/OpenHands/2026-02-18-add-minimax-m2-5-model-support-by-neubig-in-https-github-com-openhands-openhands|Add MiniMax-M2.5 model support]]
+- Later: 2026-02-18 · Midjourney · [[Changes/Midjourney/2026-02-18-please-note|Please Note]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

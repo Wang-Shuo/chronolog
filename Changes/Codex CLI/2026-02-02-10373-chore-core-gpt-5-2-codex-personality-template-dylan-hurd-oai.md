@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 957fe5105e42a5c84daff5ae72a0049654a7bf7145da74579ff56eff8cbd90ee
+machine_hash: de5d77035ae335d14d24535d738b91272624e5dd58d2942117d4a4aa962c01f4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,9 +52,10 @@ record:
   title: '#10373 chore(core) gpt-5.2-codex personality template @dylan-hurd-oai'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-30-wave-14-arena-mode|Wave 14: Arena Mode]]'
 - '[[Changes/Codex CLI/2026-01-31-10118-codex-cli-show-model-capacity-guidance-on-429-ccy-oai|♯10118
   CodexCLI Show model-capacity guidance on 429 @ccy-oai]]'
+- '[[Changes/OpenCode/2026-01-31-4-model-support-changes-in-v1-1-48|4 Model Support
+  changes in v1.1.48]]'
 - '[[Changes/Ollama/2026-02-01-improved-tool-calling-for-ministral-models|Improved
   tool calling for Ministral models]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-02-rust-v0-94-0-github-282298678-d5cec340|codex-cli-2026-02-02-rust-v0-94-0-github-282298678-d5cec340]]'

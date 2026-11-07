@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f637859590452a38beb67fd7377e662382f6273ba917ae6c1a0cfaf3570f247b
+machine_hash: a18b697f25069c3e5f570f775776df917bd34f90251dda52bdcf1386172a4267
 product: dify
 product_name: Dify
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Files and Data changes in 1.11.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-app-server-readme-now-documents-skills-support-and-usage-8853|App-server
-  README now documents skills support and usage]]'
 - '[[Changes/Open WebUI/2026-01-09-5-files-and-data-changes-in-v0-7-0|5 Files and
   Data changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-09-core-document-cargofmt-in-docs|Core Document cargofmt
+  in docs]]'
 - '[[Changes/ElevenLabs/2026-01-12-knowledge-base|Knowledge Base]]'
 source_release: '[[Releases/Dify/dify-2026-01-13-1-11-3-github-276298566-1fe35168|dify-2026-01-13-1-11-3-github-276298566-1fe35168]]'
 source_type: github_releases

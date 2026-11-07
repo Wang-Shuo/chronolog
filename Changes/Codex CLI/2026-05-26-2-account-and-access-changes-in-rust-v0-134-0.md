@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1a2b4e2c5be82abc4927c71ee43f3ec27c0f57fd44cf35f6613c2b382bcdacf
+machine_hash: ffff0af9baa30c728999b1566ba07bae0bc95502fff1c2c67f5548bbef4942c8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Account and Access changes in rust-v0.134.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-2-account-and-access-changes-in-rust-v0-132-0|2
-  Account and Access changes in rust-v0.132.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-20-2-account-and-access-changes-in-v1-0-51|2
-  Account and Access changes in v1.0.51]]'
+- '[[Changes/OpenCode/2026-05-21-added-grok-oauth-sign-in|Added Grok OAuth sign-in]]'
+- '[[Changes/OpenCode/2026-05-22-core-let-mcp-oauth-configs-set-a-callback-port-and-include-configured-scopes-in|Core
+  Let MCP OAuth configs set a callback port and include configured scopes…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-2-account-and-access-changes-in-v1-0-52|2
   Account and Access changes in v1.0.52]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e|codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e]]'
@@ -89,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.134.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-2-account-and-access-changes-in-v1-0-52|2 Account and Access changes in v1.0.52]]
-- Later: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-surface-the-underlying-reason-e-g-github-api-rate-limit-when-sdk-auth-token-vali|Surface the underlying reason (e.g. GitHub API rate limit) when SDK auth-token…]]
+- Later: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-core-digitalocean-inference-now-uses-your-oauth-token-directly-instead-of-creati|Core DigitalOcean inference now uses your OAuth token directly instead of creating a MAK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: adcb714bf9012f209ceea445aecf54887ec6dd05ece0c632b7ededeac722ad53
+machine_hash: 6400fa29704da44b3da4ab9baa2c2ea09414c3e52b94ea528822c5b2c9ef3b5c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Fixed official marketplace plugin scripts failing…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-fixed-the-allow-claude-to-edit-its-own-settings-for-this-session-permission-opti|Fixed
-  the "allow Claude to edit its own settings for this session" permission option…]]'
 - '[[Changes/Claude Code/2026-03-26-2-safety-and-privacy-changes-in-v2-1-85|2 Safety
   and Privacy changes in v2.1.85]]'
 - '[[Changes/Codex CLI/2026-03-26-5-safety-and-privacy-changes-in-rust-v0-117-0|5
   Safety and Privacy changes in rust-v0.117.0]]'
+- '[[Changes/OpenCode/2026-03-26-core-respect-agent-permission-configuration-for-todowrite-tool|Core
+  Respect agent permission configuration for todowrite tool]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-5-safety-and-privacy-changes-in-rust-v0-117-0|5 Safety and Privacy changes in rust-v0.117.0]]
+- Earlier: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-core-respect-agent-permission-configuration-for-todowrite-tool|Core Respect agent permission configuration for todowrite tool]]
 - Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-6-safety-and-privacy-changes-in-1-13-3|6 Safety and Privacy changes in 1.13.3]]
 <!-- chronolog:end -->
 

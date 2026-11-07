@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 23a6f29360b06e222d9e768691ae8311523187c67f11c0088974059888da1507
+machine_hash: f78188d3018e13be7908437f6b9e5dac0a359be436589e20d3e8e1abce0659b9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Search and Browsing changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525
-  core: migrate standalone web search to extension-owned turn items @owenlin0]]'
+- '[[Changes/OpenCode/2026-07-13-desktop-updated-the-review-panel-with-persistent-file-browsing-better-file-tabs|Desktop
+  Updated the review panel with persistent file browsing, better file tabs…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-add-plugins-marketplace-browse-and-update-commands|Add
   plugins marketplace browse and update commands]]'
 - '[[Changes/Claude Code/2026-07-17-3-search-and-browsing-changes-in-v2-1-212|3 Search

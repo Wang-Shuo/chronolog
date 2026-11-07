@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 738609e1ce3b226264356c7fe8556aa869911eba1a7781581f9f98f8ac6c5405
+machine_hash: bed716a5c63d9522d20394b91e467d82d8823f13af42a6a9ceee952c99681e57
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,10 +51,10 @@ record:
     ChatGPT…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-28-5-model-support-changes-in-v1-0-89|5 Model
-  Support changes in v1.0.89]]'
-- '[[Changes/Ollama/2026-09-28-3-model-support-changes-in-v0-35-0|3 Model Support
-  changes in v0.35.0]]'
+- '[[Changes/OpenCode/2026-09-28-core-gemini-thinking-defaults-and-effort-options-now-match-the-supported-control|Core
+  Gemini thinking defaults and effort options now match the supported controls…]]'
+- '[[Changes/OpenCode/2026-09-28-cloudflare-ai-gateway-models-now-honor-provider-response-and-stream-timeouts|Cloudflare
+  AI Gateway models now honor provider response and stream timeouts]]'
 - '[[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1
   Sol in ChatGPT Work and Codex]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3]]'

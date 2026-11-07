@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e53f391b1c8785075aad24775ef22662bf399cabd891884428909d36ad9ff93
+machine_hash: 5c4e97e2434e631a9314f046ba8df2c8dee621235b94dfec4f8ccc38e112816e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 4 Editor Experience changes in v0.24.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-ghost-text-and-tab-completion-show-correct-alias-when-typing-slash-commands-like|Ghost
-  text and tab completion show correct alias when typing slash commands like…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-send-messages-while-copilot-is-thinking-to-steer-or-queue|Send
   messages while Copilot is thinking to steer or queue]]'
+- '[[Changes/OpenCode/2026-01-13-core-improved-edit-and-write-tool-feedback-to-prevent-confusion-about-whether-ch|Core
+  Improved edit and write tool feedback to prevent confusion about whether…]]'
 - '[[Changes/Codex CLI/2026-01-14-2-editor-experience-changes-in-rust-v0-81-0|2 Editor
   Experience changes in rust-v0.81.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-14-v0-24-0-github-276723271-62398547|gemini-cli-2026-01-14-v0-24-0-github-276723271-62398547]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 195d63d7e3e50f80941c498b07c93fb264b439405950693bb15c3f29dd105df1
+machine_hash: d2d8de6127395ce40f2e4736d6ba197599f329765c5c6182f210cfbc365e3d1c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -74,11 +74,12 @@ record:
   title: 15 Developer Workflow changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-24-bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa|BashTool
-  now skips login shell (-l flag) by default when a shell snapshot…]]'
-- '[[Changes/Cline/2026-02-24-add-q-command-to-quit-cli|Add /q command to quit CLI]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-24-status-line-automatically-switches-to-a-two-line-layout-on-narrow-terminals-keep|Status
   line automatically switches to a two-line layout on narrow terminals, keeping…]]'
+- '[[Changes/OpenCode/2026-02-24-add-workspace-serve-command-experimental|Add workspace-serve
+  command (experimental)]]'
+- '[[Changes/OpenCode/2026-02-24-3-developer-workflow-changes-in-v1-2-11|3 Developer
+  Workflow changes in v1.2.11]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: developer-workflow
@@ -151,7 +152,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-24-status-line-automatically-switches-to-a-two-line-layout-on-narrow-terminals-keep|Status line automatically switches to a two-line layout on narrow terminals, keeping…]]
+- Earlier: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-3-developer-workflow-changes-in-v1-2-11|3 Developer Workflow changes in v1.2.11]]
 - Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-3-developer-workflow-changes-in-v0-30-0|3 Developer Workflow changes in v0.30.0]]
 <!-- chronolog:end -->
 

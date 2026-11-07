@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b89aa2a7a71c4e1980bd41386fb95c15078a2c4100a4405d9c3fe1a3b637453
+machine_hash: ad35d736373727dcb2734675f3f68feae965d957952ddfd6f783809a0ab8ec28
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: Validate OAuth resource parameter matches MCP server URL
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-12-30-added-oauth-2-0-device-flow-for-cli-authentication-by-malhotra5-in-https-github|Added
-  OAuth 2.0 Device Flow for CLI authentication]]'
 - '[[Changes/Cline/2026-01-06-added-support-for-azure-based-identity-authentication-in-openai-compatible-provi|Added
   support for Azure based identity authentication in OpenAI Compatible provider…]]'
+- '[[Changes/OpenCode/2026-01-06-terminal-add-keyboard-shortcut-c-to-copy-device-code-in-oauth-flow|Terminal
+  Add keyboard shortcut ''c'' to copy device code in OAuth flow]]'
 - '[[Changes/Codex CLI/2026-01-07-2-account-and-access-changes-in-rust-v0-79-0|2 Account
   and Access changes in rust-v0.79.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-07-v0-23-0-github-274690353-5e923999|gemini-cli-2026-01-07-v0-23-0-github-274690353-5e923999]]'
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-2-account-and-access-changes-in-rust-v0-79-0|2 Account and Access changes in rust-v0.79.0]]
-- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-account-and-access-changes-in-v0-7-0|3 Account and Access changes in v0.7.0]]
+- Later: 2026-01-08 · OpenCode · [[Changes/OpenCode/2026-01-08-core-use-correct-authorization-server-url-for-oauth-discovery-in-mcp|Core Use correct authorization server URL for OAuth discovery in MCP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

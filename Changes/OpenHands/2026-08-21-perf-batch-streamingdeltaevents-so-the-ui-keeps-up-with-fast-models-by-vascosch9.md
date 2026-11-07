@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3818554478a59708464c0cc2c96c6a668f083395a571716e346d43f5f9b0ecb
+machine_hash: 2aa575aceeeb3d121b16248d6b8da356ae9ef9f67edee9b991ddaff1fc226742
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,11 @@ record:
   title: 'perf: batch StreamingDeltaEvents so the UI keeps up with fast models'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-20-gemini-embedding-2-is-the-default-for-search-and-recommendations|Gemini
-  Embedding 2 is the default for search and recommendations]]'
-- '[[Changes/Cline/2026-08-21-restore-tool-calling-for-custom-openai-compatible-models-whose-stored-capability|Restore
-  tool calling for custom OpenAI-Compatible models whose stored capability…]]'
-- '[[Changes/Cline/2026-08-21-3-model-support-changes-in-v4-1-11|3 Model Support changes
-  in v4.1.11]]'
+- '[[Changes/Midjourney/2026-08-21-prompt-bar-and-pills|Prompt bar and pills]]'
+- '[[Changes/OpenCode/2026-08-21-continue-responses-when-a-model-reports-an-unknown-finish-reason-instead-of-stop|Continue
+  responses when a model reports an unknown finish reason instead of stopping early]]'
+- '[[Changes/OpenCode/2026-08-21-core-route-vertex-ai-eu-and-us-multi-region-gemini-requests-through-rep-endpoint|Core
+  Route Vertex AI eu and us multi-region Gemini requests through REP endpoints]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc|openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc]]'
 source_type: github_releases
 theme: model-support
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-3-model-support-changes-in-v4-1-11|3 Model Support changes in v4.1.11]]
+- Earlier: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-core-route-vertex-ai-eu-and-us-multi-region-gemini-requests-through-rep-endpoint|Core Route Vertex AI eu and us multi-region Gemini requests through REP endpoints]]
 - Later: 2026-08-22 · Cline · [[Changes/Cline/2026-08-22-restore-tool-calling-for-custom-openai-compatible-models-whose-capability-list-w|Restore tool calling for custom OpenAI-Compatible models whose capability list…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82ca77ced57467a4737ffc3e056183a24d61ed3e515c7d01f6b34463db8266ee
+machine_hash: 97c2606ebfaee9ef3583d62db25c20ef901ccb82c188bbfd2f20917c3bb09725
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
     so clients…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-10030-clarify-external-editor-env-var-message-joshka-oai|♯10030
-  Clarify external editor env var message @joshka-oai]]'
 - '[[Changes/Dify/2026-02-03-chore-hide-disable-try-tab-when-not-support-by-iamjoel-in-https-github-com-langg|chore:
   hide disable try tab when not support]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-2-editor-experience-changes-in-v0-0-401|2
   Editor Experience changes in v0.0.401]]'
+- '[[Changes/OpenCode/2026-02-03-2-editor-experience-changes-in-v1-1-49|2 Editor Experience
+  changes in v1.1.49]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-04-rust-v0-96-0-github-283083942-f92045dd|codex-cli-2026-02-04-rust-v0-96-0-github-283083942-f92045dd]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-2-editor-experience-changes-in-v0-0-401|2 Editor Experience changes in v0.0.401]]
+- Earlier: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-2-editor-experience-changes-in-v1-1-49|2 Editor Experience changes in v1.1.49]]
 - Later: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-4-editor-experience-changes-in-v0-27-0|4 Editor Experience changes in v0.27.0]]
 <!-- chronolog:end -->
 

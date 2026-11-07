@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 43ee452259c535713448eb12b73fc6912621dc52caf3c7c1b9851a8acf413592
+machine_hash: 75f2fe213fbb0fab1286b4f062c6b3bbf32675dc784a14a88bb57d48353dfcca
 product: cursor
 product_name: Cursor
 record:
@@ -64,10 +64,10 @@ record:
   title: One-click MCP authentication
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-changed-oauth-and-api-console-urls-from-console-anthropic-com-to-platform-claude|Changed
-  OAuth and API Console URLs from console.anthropic.com to platform.claude.com]]'
 - '[[Changes/Codex CLI/2026-01-14-2-account-and-access-changes-in-rust-v0-81-0|2 Account
   and Access changes in rust-v0.81.0]]'
+- '[[Changes/OpenCode/2026-01-14-core-skip-duplicate-system-prompt-for-codex-oauth-sessions|Core
+  Skip duplicate system prompt for Codex OAuth sessions]]'
 - '[[Changes/Dify/2026-01-15-redirect-after-login-we-ve-sorted-out-the-login-redirects-to-bring-you-back-to-y|Redirect
   After Login]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'

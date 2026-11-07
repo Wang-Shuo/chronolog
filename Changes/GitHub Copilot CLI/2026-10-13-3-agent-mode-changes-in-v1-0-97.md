@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39331a656fa27b4eefd73f5b58b7a252c094d2b751121eabe5d79213154bcea0
+machine_hash: 556828f543123623a4127a77347dd8a5999ebf74027b3612bbc9bb4eee704e0d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,8 +46,10 @@ record:
   title: 3 Agent Mode changes in v1.0.97
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-12-elevenagents|ElevenAgents]]'
-- '[[Changes/ElevenLabs/2026-10-12-elevenagents-545be2|ElevenAgents]]'
+- '[[Changes/Google Antigravity/2026-10-12-subagent-launches-now-show-as-a-one-line-row-with-a-live-status-icon-like-other|Subagent
+  launches now show as a one-line row with a live status icon, like other…]]'
+- '[[Changes/OpenClaw/2026-10-12-5-agent-mode-changes-in-v2026-10-2|5 Agent Mode changes
+  in v2026.10.2]]'
 - '[[Changes/OpenHands/2026-10-12-4-agent-mode-changes-in-v1-27-0|4 Agent Mode changes
   in v1.27.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'

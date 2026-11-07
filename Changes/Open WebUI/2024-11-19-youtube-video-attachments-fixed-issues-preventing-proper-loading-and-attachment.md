@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc60ccd588d4e76447a923cb7cd275f0a4a9ecdf7eca726bf3948c6a4be95077
+machine_hash: b326f3cc8bd46343e6daca72063384e9c196346bf8b4fecd4f14dea90b3c1421
 product: open-webui
 product_name: Open WebUI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2024-11-18 · Dify · [[Changes/Dify/2024-11-18-2-multimodal-input-changes-in-0-11-2|2 Multimodal Input changes in 0.11.2]]
-- Later: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-support-video-proxy-and-ted-embedding-by-taowang1993-in-https-github-com-langgen|Support Video Proxy and TED Embedding]]
+- Later: 2024-11-22 · Runway · [[Changes/Runway/2024-11-22-this-new-feature-allows-you-to-transform-videos-into-new-aspect-ratios-by-genera|Expand Video in Gen-3 Alpha Turbo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

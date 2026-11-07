@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c3e2d4f994130b3438b1f619f5ade2355b8b6651e8879d6b7d75bf446bcab4d1
+machine_hash: e42cb4cec7f6dd118ee2475b6b3562a81d2700b7222c7b9ce35335d152b399bb
 product: cline
 product_name: Cline
 record:
@@ -44,11 +44,12 @@ record:
   title: 3 Model Support changes in v3.47.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-25-feat-add-type-field-to-pipelinerecommendedplugin-model-add-query-param-type-to-r|feat:
-  Add "type" field to PipelineRecommendedPlugin model]]'
-- '[[Changes/Windsurf/2025-12-27-gemini-3-flash|Gemini 3 Flash]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-02-model-picker-shows-clearer-message-with-settings-link-when-models-are-unavailabl|Model
-  picker shows clearer message with settings link when models are unavailable]]'
+- '[[Changes/OpenCode/2026-01-04-3-model-support-changes-in-v1-1-1|3 Model Support
+  changes in v1.1.1]]'
+- '[[Changes/OpenCode/2026-01-05-2-model-support-changes-in-v1-1-2|2 Model Support
+  changes in v1.1.2]]'
+- '[[Changes/OpenCode/2026-01-05-core-filter-out-empty-messages-and-reasoning-for-anthropic-api-compatibility|Core
+  Filter out empty messages and reasoning for Anthropic API compatibility]]'
 source_release: '[[Releases/Cline/cline-2026-01-06-v3-47-0-github-274645512-af25fb1a|cline-2026-01-06-v3-47-0-github-274645512-af25fb1a]]'
 source_type: github_releases
 theme: model-support
@@ -87,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.47.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-model-picker-shows-clearer-message-with-settings-link-when-models-are-unavailabl|Model picker shows clearer message with settings link when models are unavailable]]
+- Earlier: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-core-filter-out-empty-messages-and-reasoning-for-anthropic-api-compatibility|Core Filter out empty messages and reasoning for Anthropic API compatibility]]
 - Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-5-model-support-changes-in-rust-v0-78-0|5 Model Support changes in rust-v0.78.0]]
 <!-- chronolog:end -->
 

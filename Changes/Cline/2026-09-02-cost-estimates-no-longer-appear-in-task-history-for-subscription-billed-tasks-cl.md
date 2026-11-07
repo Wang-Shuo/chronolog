@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d1dff96f98becdc58ce96005050c7460f0748e99dd5dd9bce4aef191197f1ce1
+machine_hash: 9cfcffa720ab9972eb71ba7f3912c5b20c7453d113a3a1fa87a64f734831a6ec
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: Cost estimates no longer appear in task history for subscription-billed tasks…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added
-  a per-session prompt-cache line to /cost…]]'
 - '[[Changes/v0/2026-08-28-4-pricing-model-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
   Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - '[[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit
   banners offer actions for checking usage, managing credits, resetting…]]'
+- '[[Changes/OpenClaw/2026-09-01-usage-and-status-views-now-carry-cumulative-output-token-totals-through-tool-cal|Usage
+  and status views now carry cumulative output-token totals through tool calls…]]'
 source_release: '[[Releases/Cline/cline-2026-09-02-v4-1-17-github-381000681-694bbda2|cline-2026-09-02-v4-1-17-github-381000681-694bbda2]]'
 source_type: github_releases
 theme: pricing-model
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit banners offer actions for checking usage, managing credits, resetting…]]
+- Earlier: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-usage-and-status-views-now-carry-cumulative-output-token-totals-through-tool-cal|Usage and status views now carry cumulative output-token totals through tool calls…]]
 - Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-41944-https-github-com-openai-codex-pull-41944-emit-turn-cost-telemetry-for-chat|♯41944((source link) Emit turn cost telemetry…]]
 <!-- chronolog:end -->
 

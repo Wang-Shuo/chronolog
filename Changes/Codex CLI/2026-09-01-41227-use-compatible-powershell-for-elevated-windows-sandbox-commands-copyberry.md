@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bc8454a0750f3c0fdf0f1c37c5e3d3e33d05e1cae9f29af2ec4e305ba6744e4b
+machine_hash: dd0fc4b46ff5bb48ba8e8843c4d5f80b2457bd4b468ea85c059175150272b0d5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: '#41227 Use compatible PowerShell for elevated Windows sandbox commands @copyberry'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-security-advisory-this-release-includes-security-and-access-control-fixes-we-rec|\U0001F6E1️
-  Security Advisory: This release includes security and access-control fixes]]"
+- '[[Changes/OpenClaw/2026-08-31-2-safety-and-privacy-changes-in-v2026-8-1|2 Safety
+  and Privacy changes in v2026.8.1]]'
 - '[[Changes/Claude Code/2026-09-01-fixed-remote-and-scheduled-sessions-failing-with-user-messages-must-have-non-emp|Fixed
   remote and scheduled sessions failing…]]'
 - '[[Changes/Claude Code/2026-09-01-10-safety-and-privacy-changes-in-v2-1-257|10 Safety
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-10-safety-and-privacy-changes-in-v2-1-257|10 Safety and Privacy changes in v2.1.257]]
-- Later: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-4-safety-and-privacy-changes-in-v2-1-259|4 Safety and Privacy changes in v2.1.259]]
+- Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-7-safety-and-privacy-changes-in-v2026-8-2|7 Safety and Privacy changes in v2026.8.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

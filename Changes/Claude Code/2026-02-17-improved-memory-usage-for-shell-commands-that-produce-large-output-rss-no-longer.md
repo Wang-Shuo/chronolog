@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5039a3f7e3b13cec56c3dbbd9ce40527394991a06af22dc2efba2e6841985012
+machine_hash: 42155e49f90b6d787d8efd703ca592137ca911ea2d6baf97e80116d37f711ec5
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved memory usage for shell commands that produce large output
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance
-  improvements]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-14-reduce-memory-usage-from-encoding-streaming-chunks|Reduce
-  memory usage from encoding streaming chunks]]'
-- '[[Changes/Open WebUI/2026-02-14-2-reliability-and-performance-changes-in-v0-8-1|2
-  Reliability and Performance changes in v0.8.1]]'
+- '[[Changes/OpenCode/2026-02-14-core-filter-sessions-at-database-level-to-improve-session-list-loading-performan|Core
+  Filter sessions at database level to improve session list loading performance]]'
+- '[[Changes/OpenCode/2026-02-14-desktop-performance-optimization-for-showing-large-diffs-and-files-in-desktop|Desktop
+  Performance optimization for showing large diffs and files in desktop]]'
+- '[[Changes/Suno/2026-02-16-studio-1-2-is-an-update-that-brings-innovative-pro-level-features-to-suno-and-gi|Studio
+  just leveled up]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
 source_type: github_releases
 theme: reliability-performance
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-2-reliability-and-performance-changes-in-v0-8-1|2 Reliability and Performance changes in v0.8.1]]
+- Earlier: 2026-02-16 · Suno · [[Changes/Suno/2026-02-16-studio-1-2-is-an-update-that-brings-innovative-pro-level-features-to-suno-and-gi|Studio just leveled up]]
 - Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-removed-the-remote-models-feature-flag-to-prevent-fallback-model-metadata-when-i|Removed the remote_models feature flag to prevent fallback model metadata…]]
 <!-- chronolog:end -->
 

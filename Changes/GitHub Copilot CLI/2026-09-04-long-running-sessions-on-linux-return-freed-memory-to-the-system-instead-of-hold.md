@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82354e25cdc50e314e23692362989b3aad56a55d0e6a711786716401768b984f
+machine_hash: 9af995c8a96c2d6ddadb5d13640e289891d3381395ce7ac982b0ee35d61f0415
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
     of holding…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-27-3-memory-and-personalization-changes-in-more-controls-in-temporary-chat|3
-  Memory and Personalization changes in More controls in temporary chat]]'
-- '[[Changes/ChatGPT/2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali|ChatGPT
-  rolls out new controls in temporary chat]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-ship-mcp-2026-07-28-support-to-cli-sdk-ide-and-in-memory-clients|Ship
-  MCP 2026-07-28 support to CLI, SDK, IDE, and in-memory clients]]'
+- '[[Changes/OpenClaw/2026-08-31-memory-an-eligible-personal-claw-can-recall-relevant-context-from-that-agent-s-o|Memory
+  - An eligible personal Claw can recall relevant context from that agent''s…]]'
+- '[[Changes/OpenClaw/2026-09-01-4-memory-and-personalization-changes-in-v2026-8-2|4
+  Memory and Personalization changes in v2026.8.2]]'
+- '[[Changes/OpenClaw/2026-09-03-19-memory-and-personalization-changes-in-v2026-9-1|19
+  Memory and Personalization changes in v2026.9.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
 source_type: github_releases
 theme: memory
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-ship-mcp-2026-07-28-support-to-cli-sdk-ide-and-in-memory-clients|Ship MCP 2026-07-28 support to CLI, SDK, IDE, and in-memory clients]]
-- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-2-memory-and-personalization-changes-in-rust-v0-154-0|2 Memory and Personalization changes in rust-v0.154.0]]
+- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-19-memory-and-personalization-changes-in-v2026-9-1|19 Memory and Personalization changes in v2026.9.1]]
+- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-21-memory-and-personalization-changes-in-v2026-9-2|21 Memory and Personalization changes in v2026.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

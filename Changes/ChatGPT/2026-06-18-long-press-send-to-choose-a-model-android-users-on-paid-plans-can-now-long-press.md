@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 591189a74bef5655f51d1279c948ff28b97b379290af64f74a5548ebcc4b0efb
+machine_hash: eb325b56e839a36f4a7324dad6aa5352823e9009bde90867bc84efeef679cf51
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,9 +48,9 @@ record:
   title: Long-press send to choose a model
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-4-model-support-changes-in-rust-v0-140-0|4 Model
-  Support changes in rust-v0.140.0]]'
 - '[[Changes/ElevenLabs/2026-06-15-introducing-music-v2|Introducing Music v2]]'
+- '[[Changes/Midjourney/2026-06-16-use-preview-to-test-new-features|Use --preview
+  to test new features]]'
 - '[[Changes/Ollama/2026-06-17-command-a-and-north-family-models-now-run-on-apple-silicon-with-the-mlx-engine|Command
   A and North family models now run on Apple Silicon with the MLX engine]]'
 scope: Android

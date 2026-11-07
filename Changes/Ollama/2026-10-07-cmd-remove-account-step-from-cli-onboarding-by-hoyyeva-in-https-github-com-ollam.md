@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9dc9e0b94ed69510609f80f9540d13349fc28767d85962038009f87a60082a52
+machine_hash: 2898f2144947759b32e61bb4be701e83a3154fef4aaf903da981f4f6670ca4c6
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
   title: 'cmd: remove account step from CLI onboarding'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved
-  the /focus tip]]'
 - '[[Changes/OpenHands/2026-10-06-feat-outline-the-back-navigation-control-on-settings-sub-pages-by-errmakov-in-ht|feat:
   outline the back navigation control on settings sub-pages]]'
 - '[[Changes/Codex CLI/2026-10-07-49856-support-daybreak-selection-in-codex-exec-etraut-openai|♯49856
   Support Daybreak selection in codex exec @etraut-openai]]'
+- '[[Changes/Google Antigravity/2026-10-07-archived-conversations-in-the-sidebar-now-keep-their-status-and-last-updated-tim|Archived
+  conversations in the sidebar now keep their status and last-updated time…]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-07-v0-40-1-github-406237079-5c84232c|ollama-2026-10-07-v0-40-1-github-406237079-5c84232c]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-49856-support-daybreak-selection-in-codex-exec-etraut-openai|♯49856 Support Daybreak selection in codex exec @etraut-openai]]
+- Earlier: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-archived-conversations-in-the-sidebar-now-keep-their-status-and-last-updated-tim|Archived conversations in the sidebar now keep their status and last-updated time…]]
 - Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-2-interface-experience-changes-in-v2-1-295|2 Interface Experience changes in v2.1.295]]
 <!-- chronolog:end -->
 

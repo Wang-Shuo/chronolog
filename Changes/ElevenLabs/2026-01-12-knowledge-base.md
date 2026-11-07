@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f842516188ab72ce662c5e6fd90ebf2fcbadd812ec2be8c5d9e8a89ac34ea7fa
+machine_hash: 46c020737bced4c0f0127aa89d777f2a3e63eae8410204d456c5b8a712b92001
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,12 +46,12 @@ record:
   title: Knowledge Base
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-09-revert-8341-due-to-regressions-in-diff-view-document-truncation-see-8423-8429|Revert
-  ♯8341 due to regressions in diff view/document truncation (see ♯8423, ♯8429)]]'
 - '[[Changes/Codex CLI/2026-01-09-app-server-readme-now-documents-skills-support-and-usage-8853|App-server
   README now documents skills support and usage]]'
 - '[[Changes/Open WebUI/2026-01-09-5-files-and-data-changes-in-v0-7-0|5 Files and
   Data changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-09-core-document-cargofmt-in-docs|Core Document cargofmt
+  in docs]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-01-12-2026-01-12-102f5bca|elevenlabs-2026-01-12-2026-01-12-102f5bca]]'
 source_type: elevenlabs_changelog
 theme: file-data
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-5-files-and-data-changes-in-v0-7-0|5 Files and Data changes in v0.7.0]]
+- Earlier: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-core-document-cargofmt-in-docs|Core Document cargofmt in docs]]
 - Later: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-4-files-and-data-changes-in-1-11-3|4 Files and Data changes in 1.11.3]]
 <!-- chronolog:end -->
 

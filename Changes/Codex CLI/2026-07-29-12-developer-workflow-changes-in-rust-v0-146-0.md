@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 662921cec4c9ddae7db580c372e976cdb2454ae18947b709ea048d52acf4e4e7
+machine_hash: 6ee10ae237ae590d846d914ef2663d23833f0df7d12565dc9f3f587ce0ce1063
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,8 +61,8 @@ record:
   title: 12 Developer Workflow changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-27-62-developer-workflow-changes-in-v0-11-0|62 Developer
-  Workflow changes in v0.11.0]]'
+- '[[Changes/OpenCode/2026-07-27-desktop-improved-compatibility-with-the-newer-client-api-across-directory-projec|Desktop
+  Improved compatibility with the newer client API across directory, project…]]'
 - '[[Changes/Dify/2026-07-28-4-developer-workflow-changes-in-1-16-1|4 Developer Workflow
   changes in 1.16.1]]'
 - '[[Changes/Gemini CLI/2026-07-28-feat-evals-add-eval-coverage-report-command-by-ved015-in-https-github-com-google|feat(evals):

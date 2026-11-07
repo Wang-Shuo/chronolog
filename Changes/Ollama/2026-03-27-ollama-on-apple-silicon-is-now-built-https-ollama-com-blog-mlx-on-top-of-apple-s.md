@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8dad6176044b62be3f0692adfbeb9a52273791717325506513659a469dff781e
+machine_hash: 1b2a6510490e2d6176fc750385e627b82fda6b65352bbc4f686550c89b294d37
 product: ollama
 product_name: Ollama
 record:
@@ -46,10 +46,10 @@ record:
   title: Ollama on Apple silicon [is now built](https://ollama.com/blog/mlx) on top…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved
-  scroll performance with large transcripts by replacing WASM yoga-layout…]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-26-cli-no-longer-crashes-with-out-of-memory-errors-when-running-shell-commands-that|CLI
-  no longer crashes with out-of-memory errors when running shell commands…]]'
+- '[[Changes/OpenCode/2026-03-26-core-skip-snapshotting-files-larger-than-2mb-to-improve-performance|Core
+  Skip snapshotting files larger than 2MB to improve performance]]'
+- '[[Changes/OpenCode/2026-03-26-bypass-local-sse-event-streaming-in-worker-for-improved-performance|Bypass
+  local SSE event streaming in worker for improved performance]]'
 - '[[Changes/Dify/2026-03-27-2-reliability-and-performance-changes-in-1-13-3|2 Reliability
   and Performance changes in 1.13.3]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-27-v0-19-0-github-302442479-29abac08|ollama-2026-03-27-v0-19-0-github-302442479-29abac08]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 76be96e5fec0ea1c10e672113a7a948b6891081560690711f4313c98ad999569
+machine_hash: 30b78081d22cde4ba4935778532d19d4d34a35107c60951f9587c3fd4c38ff51
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Collaboration changes in rust-v0.85.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-25-refactor-create-shared-react-i18next-mock-to-reduce-duplication-by-lyzno1-in-htt|refactor:
-  create shared react-i18next mock to reduce duplication]]'
-- '[[Changes/Replit/2026-01-02-the-replit-team-is-spending-time-with-friends-and-family-to-celebrate-the-holida|Replit
-  updates — 2026-01-02]]'
+- '[[Changes/OpenCode/2026-01-04-core-handle-notfounderror-for-non-shared-sessions-in-sync|Core
+  Handle NotFoundError for non-shared sessions in sync]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-07-add-share-and-share-gist-flags-for-session-sharing-in-non-interactive-mode|Add
   --share and --share-gist flags for session sharing in non-interactive mode]]'
+- '[[Changes/OpenCode/2026-01-11-core-extract-external-directory-validation-to-shared-utility-to-reduce-code-dupl|Core
+  Extract external directory validation to shared utility to reduce code…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73|codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73]]'
 source_type: github_releases
 theme: collaboration
@@ -86,8 +86,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.85.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-01-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-07-add-share-and-share-gist-flags-for-session-sharing-in-non-interactive-mode|Add --share and --share-gist flags for session sharing in non-interactive mode]]
-- Later: 2026-01-16 · Claude · [[Changes/Claude/2026-01-16-claude-code-access-added-to-team-plan-standard-seats|Claude Code access added to Team plan Standard seats]]
+- Earlier: 2026-01-11 · OpenCode · [[Changes/OpenCode/2026-01-11-core-extract-external-directory-validation-to-shared-utility-to-reduce-code-dupl|Core Extract external directory validation to shared utility to reduce code…]]
+- Later: 2026-01-15 · Granola · [[Changes/Granola/2026-01-15-granola-now-works-seamlessly-for-the-tens-of-millions-of-people-who-work-on-team|Sign in with Microsoft is here]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

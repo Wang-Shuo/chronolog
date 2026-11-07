@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee5a38d6233edbf4eba53a9b2a39e17f47394dc9a3f1f70f09bdb2f43ef83d98
+machine_hash: cdd78da22c4b0ad64c76197543aac7c4e877f69fbb10841d90788564a196f907
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,9 +42,10 @@ record:
   title: 'feat(core): Only summarize long tool output for shell command'
   type: change
 related_changes:
-- '[[Changes/Replit/2025-09-12-agents-automations-beta|Agents & Automations (beta)]]'
 - '[[Changes/Replit/2025-09-12-agent-3-launch|Agent 3 Launch]]'
 - '[[Changes/ElevenLabs/2025-09-15-agents-platform|Agents Platform]]'
+- '[[Changes/Gamma/2025-09-16-gamma-agent-your-ai-design-partner-that-does-it-all|Gamma
+  Agent: Your AI design partner that does it all]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-17-v0-5-3-github-248106224-41cde85c|gemini-cli-2025-09-17-v0-5-3-github-248106224-41cde85c]]'
 source_type: github_releases
 theme: agent-mode
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-09-15 · ElevenLabs · [[Changes/ElevenLabs/2025-09-15-agents-platform|Agents Platform]]
+- Earlier: 2025-09-16 · Gamma · [[Changes/Gamma/2025-09-16-gamma-agent-your-ai-design-partner-that-does-it-all|Gamma Agent: Your AI design partner that does it all]]
 - Later: 2025-09-18 · Codex CLI · [[Changes/Codex CLI/2025-09-18-2-agent-mode-changes-in-rust-v0-39-0|2 Agent Mode changes in rust-v0.39.0]]
 <!-- chronolog:end -->
 

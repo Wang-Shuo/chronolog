@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c6daaeca11ca3fb828ac7b36197e4923812a24faafc04699145b83e9d5ab91fc
+machine_hash: 920f4a079740dd2a60224bf4f136cef50ec63494c56fb8ce434ad7adf7653769
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -55,8 +55,8 @@ record:
   title: 6 Model Support changes in v0.24.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-retrieving-models-handles-network-errors-from-firewalled-routes-gracefully-raise|Retrieving
-  models handles network errors from firewalled routes gracefully, raises…]]'
+- '[[Changes/OpenCode/2026-01-13-3-model-support-changes-in-v1-1-16|3 Model Support
+  changes in v1.1.16]]'
 - '[[Changes/Cline/2026-01-14-add-gpt-5-2-codex-openai-model-support|Add gpt-5.2-codex
   OpenAI model support]]'
 - '[[Changes/Codex CLI/2026-01-14-8-model-support-changes-in-rust-v0-81-0|8 Model

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0e0221490d27b0f9873216c5e0f541fb00c90d97896f1a6d6fa23872c0792f67
+machine_hash: 383ed2c6ceaa9480d12c35d717b40d332b536c6b96e6d969dc4ae8d9ae7894df
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,11 @@ record:
   title: 2 Editor Experience changes in v0.84.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-15-swe-1-mini|SWE-1-mini]]'
 - '[[Changes/Open WebUI/2025-05-19-2-editor-experience-changes-in-v0-6-10|2 Editor
   Experience changes in v0.6.10]]'
 - '[[Changes/Replit/2025-05-23-visual-editor-rollout|Visual Editor rollout]]'
+- '[[Changes/Midjourney/2025-05-29-we-ve-upgraded-the-ai-moderation-in-the-editor|We’ve
+  upgraded the AI moderation in the editor]]'
 source_release: '[[Releases/Aider/aider-2025-05-30-v0-84-0-github-222180237-d0574ad6|aider-2025-05-30-v0-84-0-github-222180237-d0574ad6]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,7 +84,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.84.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-05-23 · Replit · [[Changes/Replit/2025-05-23-visual-editor-rollout|Visual Editor rollout]]
+- Earlier: 2025-05-29 · Midjourney · [[Changes/Midjourney/2025-05-29-we-ve-upgraded-the-ai-moderation-in-the-editor|We’ve upgraded the AI moderation in the editor]]
 - Later: 2025-05-30 · Replit · [[Changes/Replit/2025-05-30-unified-github-tab-refresh|Unified GitHub tab refresh]]
 <!-- chronolog:end -->
 

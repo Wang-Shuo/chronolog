@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b950f7849070cfc70acd5a3437f0790727b3a2661b4af15cff5d00ba8a932490
+machine_hash: ce8c7c090ede7e86a99c8a1405808142a528f589ec0057841dbf89e9c37e785a
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.261
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global
-  rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]'
 - '[[Changes/Claude Code/2026-09-03-improved-deleting-a-background-session-whose-worktree-has-unpushed-commits-the-m|Improved
   deleting a background session whose worktree has unpushed commits]]'
 - '[[Changes/Codex CLI/2026-09-03-5-developer-workflow-changes-in-rust-v0-153-0|5
   Developer Workflow changes in rust-v0.153.0]]'
+- '[[Changes/OpenClaw/2026-09-03-11-developer-workflow-changes-in-v2026-9-1|11 Developer
+  Workflow changes in v2026.9.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: developer-workflow
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-5-developer-workflow-changes-in-rust-v0-153-0|5 Developer Workflow changes in rust-v0.153.0]]
+- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-11-developer-workflow-changes-in-v2026-9-1|11 Developer Workflow changes in v2026.9.1]]
 - Later: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-detect-the-herdr-terminal-multiplexer-instead-of-mistaking-it-for-tmux-so-the-ki|Detect the herdr terminal multiplexer instead of mistaking it for tmux, so the Kitty…]]
 <!-- chronolog:end -->
 

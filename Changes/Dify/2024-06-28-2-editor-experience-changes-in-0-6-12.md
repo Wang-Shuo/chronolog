@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3dbc0f7f903e198dcd6838d80c68d53f08c141849196cf6a6376a3594a4c18d6
+machine_hash: 3aa93f2f851c693e4307945fd7867d5fe762104c1b252d7db0c44943e34fa7ba
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Editor Experience changes in 0.6.12
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-04-properly-override-git-editor-env-for-commits-if-it-is-already-set|Properly
-  override GIT_EDITOR env for commits if it is already set]]'
 - '[[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on
   Cursor Prediction with a new UI]]'
 - "[[Changes/Open WebUI/2024-06-10-editable-search-query-prompt-you-can-now-edit-the-search-query-generation-prompt|\U0001F50D
   Editable Search Query Prompt]]"
+- '[[Changes/Gamma/2024-06-18-want-your-ai-images-to-have-a-consistent-look-and-feel-you-can-now-add-and-edit|AI
+  image style keywords are now editable in the theme editor]]'
 source_release: '[[Releases/Dify/dify-2024-06-28-0-6-12-github-163007249-ac67daf7|dify-2024-06-28-0-6-12-github-163007249-ac67daf7]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,7 +90,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.12
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-06-10 · Open WebUI · [[Changes/Open WebUI/2024-06-10-editable-search-query-prompt-you-can-now-edit-the-search-query-generation-prompt|🔍 Editable Search Query Prompt]]
+- Earlier: 2024-06-18 · Gamma · [[Changes/Gamma/2024-06-18-want-your-ai-images-to-have-a-consistent-look-and-feel-you-can-now-add-and-edit|AI image style keywords are now editable in the theme editor]]
 - Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience changes in 0.7.0]]
 <!-- chronolog:end -->
 

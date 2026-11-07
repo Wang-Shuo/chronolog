@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 90dd1f46bfa6e834f8d3d9c4599f0eb5a20e12977d961abc0b44312a38173092
+machine_hash: 70a72e6d5634d13115559d34971cdebe513f68a51ae2f593735bbca6e62fc893
 product: lovable
 product_name: Lovable
 record:
@@ -49,10 +49,10 @@ record:
   title: Search your settings
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-5-interface-experience-changes-in-v1-0-69|5
-  Interface Experience changes in v1.0.69]]'
 - '[[Changes/Lovable/2026-07-07-reorder-folders-shared-with-you|Reorder folders shared
   with you]]'
+- '[[Changes/OpenCode/2026-07-07-restore-model-details-tooltips-in-the-model-picker|Restore
+  model details tooltips in the model picker]]'
 - '[[Changes/v0/2026-07-07-3-interface-experience-changes-in-grouped-tool-approvals-richer-mcp|3
   Interface Experience changes in Grouped tool approvals, richer MCP…]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-08-2026-07-08-6cd655f7|lovable-2026-07-08-2026-07-08-6cd655f7]]'

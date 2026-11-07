@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 49d00d029b3d90e3a2974ff19070e2725dc7f98cf8bc2777ee4ff365f470bc24
+machine_hash: 202c8ed430a883d8a64d1fb0cdb202aa8eea37851420f2c7d29d7825c84d3737
 product: replit
 product_name: Replit
 record:
@@ -43,8 +43,7 @@ record:
   title: GPT-Codex-5.3 support in AI Integrations
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-11-apps-and-integrations-changes-in-v0-0-422|11
-  Apps and Integrations changes in v0.0.422]]'
+- '[[Changes/OpenCode/2026-03-05-sdk-update-sdk-package-json|SDK Update SDK package.json]]'
 - '[[Changes/Claude Code/2026-03-06-reduced-remote-control-poll-rate-to-once-per-10-minutes-while-connected-was-1-2s|Reduced
   Remote Control /poll rate to once per 10 minutes while connected…]]'
 - '[[Changes/Cline/2026-03-06-handle-streamable-http-mcp-reconnects-more-reliably-after-disconnects|Handle

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24046d7e57113df2c492264a69ad399376eb08f6b584f692ce04ec22922f6514
+machine_hash: f6c93790ca50fe02ee550b337bee10d4f6677638fb7c4ed1e967cbe937b06758
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: Canvas windows open and refresh in the background instead of stealing focus…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-21-ci-bump-agent-canvas-chart-image-tag-on-release-by-aivong-openhands-in-https-git|ci:
-  bump agent-canvas chart image tag on release]]'
 - '[[Changes/Dify/2026-08-25-5-files-and-data-changes-in-1-17-0|5 Files and Data changes
   in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-9-files-and-data-changes-in-v0-11-1|9 Files and
   Data changes in v0.11.1]]'
+- '[[Changes/Google Antigravity/2026-08-26-added-support-for-viewing-specific-page-ranges-startpage-and-endpage-in-multi-pa|Added
+  support for viewing specific page ranges (StartPage and EndPage) in multi-page…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'
 source_type: github_releases
 theme: file-data
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-9-files-and-data-changes-in-v0-11-1|9 Files and Data changes in v0.11.1]]
-- Later: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-2-files-and-data-changes-in-v1-16-0|2 Files and Data changes in v1.16.0]]
+- Earlier: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-added-support-for-viewing-specific-page-ranges-startpage-and-endpage-in-multi-pa|Added support for viewing specific page ranges (StartPage and EndPage) in multi-page…]]
+- Later: 2026-08-27 · Midjourney · [[Changes/Midjourney/2026-08-27-changing-specific-areas-of-your-images-inpainting-or-expand-your-canvas-outpaint|Changing specific areas of your images (inpainting) or expand your canvas (outpainting)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

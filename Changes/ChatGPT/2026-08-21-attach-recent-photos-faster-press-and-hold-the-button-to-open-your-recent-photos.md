@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 70cd732fbb946a5896fd7c08ff39c66fe5f501d8cabd813e8d57a005d43b008e
+machine_hash: e14f2d59be75b2c20dcc65202f31ba8256ae4ef397592425c223f975b6f5b0cd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,11 +44,12 @@ record:
   title: Attach recent photos faster
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-19-faster-preview-loading|Faster preview loading]]'
-- '[[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved
-  startup responsiveness]]'
 - '[[Changes/Codex CLI/2026-08-20-2-reliability-and-performance-changes-in-rust-v0-149-0|2
   Reliability and Performance changes in rust-v0.149.0]]'
+- '[[Changes/Google Antigravity/2026-08-20-remote-control-faster-project-switching-and-more|Remote
+  Control, faster project switching, and more]]'
+- '[[Changes/Google Antigravity/2026-08-20-improved-performance-across-the-app-faster-startup-and-project-switching-faster|Improved
+  performance across the app]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce|chatgpt-2026-08-21-updates-to-chatgpt-on-ios-148662ce]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -75,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-2-reliability-and-performance-changes-in-rust-v0-149-0|2 Reliability and Performance changes in rust-v0.149.0]]
-- Later: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-elevenagents-a7877c|ElevenAgents]]
+- Earlier: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-improved-performance-across-the-app-faster-startup-and-project-switching-faster|Improved performance across the app]]
+- Later: 2026-08-21 · Midjourney · [[Changes/Midjourney/2026-08-21-performance|Performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

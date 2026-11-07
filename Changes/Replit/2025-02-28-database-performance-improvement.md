@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5968ef2bd8cb419854c4d75b7ea4ae83c25b1c55334de5841ba23f384aa69acb
+machine_hash: 82f5d41b1d5958842163af6d10abcd978e4bd169edf0539f741810af8dc2e152
 product: replit
 product_name: Replit
 record:
@@ -44,9 +44,9 @@ record:
   title: Database performance improvement
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text
-  selection improvements: you can now select text across horizontal rulers]]'
 - '[[Changes/ElevenLabs/2025-02-25-text-to-speech|Text to Speech]]'
+- '[[Changes/Gamma/2025-02-26-we-ve-added-a-new-way-to-share-your-work-faster-and-more-efficiently-you-can-now|Export
+  to Google Slides]]'
 - '[[Changes/Open WebUI/2025-02-27-general-stability-enhancements-backend-and-frontend-refactoring-improves-perform|⚙️
   General Stability Enhancements]]'
 source_release: '[[Releases/Replit/replit-2025-02-28-2025-02-28-81625fa9|replit-2025-02-28-2025-02-28-81625fa9]]'

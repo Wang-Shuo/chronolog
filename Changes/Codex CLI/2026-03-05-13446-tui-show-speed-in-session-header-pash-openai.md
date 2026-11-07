@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d61d2d63522b972ef9daeab03845be72d43753c3fcb490a6411d4b01509ea685
+machine_hash: 754e33f81e87bc1066428aa2e08519400b7c1d9207245ec4eced609cd0bc3d1b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,7 +40,8 @@ record:
   title: '#13446 [tui] Show speed in session header @pash-openai'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-modals-load-faster|Modals load faster]]'
+- '[[Changes/OpenCode/2026-03-03-2-reliability-and-performance-changes-in-v1-2-16|2
+  Reliability and Performance changes in v1.2.16]]'
 - '[[Changes/Claude Code/2026-03-05-9-reliability-and-performance-changes-in-v2-1-69|9
   Reliability and Performance changes in v2.1.69]]'
 - '[[Changes/Codex CLI/2026-03-05-12935-speed-up-subagent-startup-daveaitel-openai|♯12935

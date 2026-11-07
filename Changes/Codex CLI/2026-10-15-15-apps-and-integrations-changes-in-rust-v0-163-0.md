@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86c0ba12791a5cc52ae9c8ba53c0629d3eb20da89e085dfed07c5259b17aef16
+machine_hash: 2a0a35a8d0312609acd2a617f36602ea93816501152ed58dbabdd7057e775d79
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -150,7 +150,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-2-apps-and-integrations-changes-in-v0-12-1|2 Apps and Integrations changes in v0.12.1]]
-- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved use of plugins and tools to carry out tasks]]
+- Later: 2026-10-15 · Runway · [[Changes/Runway/2026-10-15-remove-backgrounds-automatically-in-runway-mcp-with-birefnet-v2-it-detects-the-f|BiRefNet v2 Background Removal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

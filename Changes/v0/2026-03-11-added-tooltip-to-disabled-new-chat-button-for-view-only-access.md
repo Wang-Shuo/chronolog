@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e1f1d0223a13a67579c5126a20d750005b356ef2a44b42ab862e769df025ac5f
+machine_hash: c6fdbc14abc590b13be5844be983ecb317c14a9a34689804e3b244d6dbeefbb1
 product: v0
 product_name: v0
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-2-interface-experience-changes-in-v1-0-4|2 Interface Experience changes in v1.0.4]]
-- Later: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-or-using-openclaw-s-onboarding|Or using OpenClaw’s onboarding]]
+- Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-2-interface-experience-changes-in-v1-2-25|2 Interface Experience changes in v1.2.25]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

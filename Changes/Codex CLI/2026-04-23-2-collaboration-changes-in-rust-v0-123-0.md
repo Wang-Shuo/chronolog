@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1a2fde6dd91a3ce76327038436b07c1e283edd58fcf34cb8b5cb1aaa78cf815e
+machine_hash: 2e367d89e1f6c49df2712ebcbc3d6e2bcb234a7aee7544b1ba31cee9806d6910
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: 2 Collaboration changes in rust-v0.123.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717
-  codex Refactor marketplace add into shared core flow @xli-oai]]'
+- '[[Changes/OpenCode/2026-04-18-core-stopped-share-sync-attempts-for-sessions-that-were-never-shared|Core
+  Stopped share sync attempts for sessions that were never shared]]'
 - '[[Changes/Codex CLI/2026-04-20-18398-refactor-use-cloneable-async-channels-for-shared-receivers-bolinfest|♯18398
   refactor: use cloneable async channels for shared receivers @bolinfest]]'
 - "[[Changes/Open WebUI/2026-04-21-shared-chat-access-controls-you-can-now-control-who-has-access-to-a-shared-chat|\U0001F517

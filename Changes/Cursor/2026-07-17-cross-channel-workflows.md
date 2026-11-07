@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: dc4e7f0a9c8e6af90a2d27967f5c198b66ea25153e47ca8667acedb1124b1463
+machine_hash: e352cda0dec42c70cade001006f36df9052ea40f6819c5ad05f45a77df60fdff
 product: cursor
 product_name: Cursor
 record:
@@ -46,9 +46,10 @@ record:
   title: Cross-channel workflows
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-side-chats|Side chats]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-10-press-tab-to-switch-the-context-window-in-model|Press
-  Tab to switch the context window in /model]]'
+- '[[Changes/OpenClaw/2026-07-13-69-context-window-changes-in-v2026-7-1|69 Context
+  Window changes in v2026.7.1]]'
+- '[[Changes/OpenCode/2026-07-13-desktop-aligned-context-token-counts-with-usage-totals|Desktop
+  Aligned context token counts with usage totals]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-2-context-window-changes-in-v1-0-71|2 Context
   Window changes in v1.0.71]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'

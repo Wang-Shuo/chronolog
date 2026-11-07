@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a063e49dc1098aafe2a37051ccfcd9a4ab2159d5ef5d7654635a8a32a3c7e3f7
+machine_hash: f4201d6ace38985bbe0a37a4770afab907438e4e0c974463010162e9b06e8d76
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,7 +43,8 @@ record:
   title: '#39953 Support voice-aware configuration and version-skew builds @copyberry'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-24-python-sdk|Python SDK]]'
+- '[[Changes/Google Antigravity/2026-08-24-embedded-terminals-git-version-control-and-audio-attachments|Embedded
+  Terminals, Git Version Control, and Audio Attachments]]'
 - '[[Changes/Dify/2026-08-25-audio-asr-now-accepts-audio-x-m4a-and-audio-mime-types-are-validated-more-accura|Audio
   ASR now accepts audio/x-m4a, and audio MIME types are validated more…]]'
 - '[[Changes/Open WebUI/2026-08-25-4-voice-and-audio-changes-in-v0-11-1|4 Voice and

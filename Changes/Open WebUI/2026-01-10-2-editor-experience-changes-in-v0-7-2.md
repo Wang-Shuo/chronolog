@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f148966b29091207e9f476e993a90318894d7a549956e3b76e4da3804ff02e9
+machine_hash: bbca2abdcc11350154e69c4d0abd9f091c448ed0b7cba9e524118ebfb08f5992
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.2
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-editor-experience-changes-in-v0-7-0|3 Editor Experience changes in v0.7.0]]
-- Later: 2026-01-12 · v0 · [[Changes/v0/2026-01-12-blocked-sending-new-messages-when-pending-edits-exist|Blocked sending new messages when pending edits exist]]
+- Later: 2026-01-11 · OpenCode · [[Changes/OpenCode/2026-01-11-desktop-make-mouse-hover-and-click-work-on-prompt-input-autocomplete|Desktop Make mouse hover and click work on prompt input autocomplete]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

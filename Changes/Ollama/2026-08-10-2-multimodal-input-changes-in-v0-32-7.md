@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24d3b557ab45f5b8244431d77cb269ec3a9c81f6b730c7311678e20b30a1dfda
+machine_hash: 33ed172fe078145d9d187bb2c947192c733ab7431f569b85319bc3a3492ec9d6
 product: ollama
 product_name: Ollama
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Multimodal Input changes in v0.32.7
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-07-27-media-types-an-extraction-engine-may-handle-administrators-can-now-list-which-im|\U0001F5BC️
-  Media types an extraction engine may handle. Administrators can now list…]]"
+- '[[Changes/Runway/2026-07-28-pass-in-any-video-with-a-text-prompt-describing-an-entity-to-cut-it-out-as-a-tra|SAM3
+  Video Segmentation]]'
 - '[[Changes/OpenHands/2026-08-05-ci-require-frontend-screenshot-video-and-checked-human-tested-box-by-all-hands-b|ci:
   require frontend screenshot/video and checked human-tested box]]'
 - '[[Changes/Ollama/2026-08-10-ollama-s-mlx-engine-provides-state-of-the-art-performance-on-apple-silicon-for-t|Ollama''s

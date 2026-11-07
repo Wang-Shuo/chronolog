@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ebd7e009dff1124b8ffdbe1b23c7982a08d8d60771d2339a443a9b4bcc6132f5
+machine_hash: 094cb54fd9b4ed7e18e0341dc2eb656b57ecc51222fd64594cfd10224fe79d2f
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
     Design…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-53389-use-cached-login-credentials-for-guardian-decisions-swastik-oai|♯53389
-  Use cached login credentials for Guardian decisions @swastik-oai]]'
+- '[[Changes/Google Antigravity/2026-10-15-when-your-sign-in-expires-during-a-session-antigravity-now-shows-an-authenticati|When
+  your sign-in expires during a session, Antigravity now shows an Authentication…]]'
 - '[[Changes/Lovable/2026-10-15-use-lovable-from-claude-through-your-company-s-sso|Use
   Lovable from Claude through your company''s SSO]]'
 - '[[Changes/Lovable/2026-10-15-login-pages-include-sign-in-with-lovable-by-default|Login

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aab437ee0b7278928c83db0748927b5b7d19edd9a534dbfeb025c7263ffe85bc
+machine_hash: 273a83c36e5f28690fb43c30760ac6dbe5ac1be081f260304351dad9fde14506
 product: openhands
 product_name: OpenHands
 record:
@@ -124,7 +124,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.9.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-elevenagents-f45a54|ElevenAgents]]
-- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-agent-mode-changes-in-v2-1-203|2 Agent Mode changes in v2.1.203]]
+- Later: 2026-07-06 · Runway · [[Changes/Runway/2026-07-06-agent-can-now-read-pdfs-you-upload-pulling-their-content-directly-into-generatio|PDF Input for Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

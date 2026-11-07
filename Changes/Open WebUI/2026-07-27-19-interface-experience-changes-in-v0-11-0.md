@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 22690eb2547adfe812f45fdb29458c652d9b107f3d011c6c44c3deab8625c640
+machine_hash: 7e2180f7168abb0a0d833110d883eb04fa19b1e03b7a4ac7f86ae75cf3ee6088
 product: open-webui
 product_name: Open WebUI
 record:
@@ -175,12 +175,12 @@ record:
   title: 19 Interface Experience changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-21-2-interface-experience-changes-in-slash-commands-the-shopify|2
-  Interface Experience changes in Slash commands, the Shopify…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-23-add-model-plan-or-model-plan-to-pick-a-model-used-while-in-plan-mode-pass-a-mode|Add
   /model plan (or /model --plan) to pick a model used while in plan mode]]'
 - '[[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface
   Experience changes in v2.1.219]]'
+- '[[Changes/OpenCode/2026-07-24-core-fix-minimax-m3-thinking-variant-selection|Core
+  Fix MiniMax M3 thinking variant selection]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases
 theme: interface-experience
@@ -267,8 +267,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface Experience changes in v2.1.219]]
-- Later: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing Free users in India can upgrade their plan from the dashboard]]
+- Earlier: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-core-fix-minimax-m3-thinking-variant-selection|Core Fix MiniMax M3 thinking variant selection]]
+- Later: 2026-07-27 · OpenCode · [[Changes/OpenCode/2026-07-27-desktop-remove-the-extra-titlebar-inset-in-fullscreen-on-macos|Desktop Remove the extra titlebar inset in fullscreen on macOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6cfc3f152ced292b57af16efa7da75012ad094be2ddaa095ff9bfb682533c8ee
+machine_hash: 9982ca27ca5d6a1f6c38147ef85c32b4b303f03127a3fd2cbd3223b49d86c1ec
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-6-editor-experience-changes-in-rust-v0-156-0|6 Editor Experience changes in rust-v0.156.0]]
-- Later: 2026-09-25 · Lovable · [[Changes/Lovable/2026-09-25-open-cited-web-sources-from-an-answer|Open cited web sources from an answer]]
+- Later: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-prompt-actions-in-interactive-widgets-and-html-artifacts-now-fill-in-and-focus-t|Prompt actions in interactive widgets and HTML artifacts now fill in and focus…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8bbe97648fc8ea71d17a90ecf52374ac33b590c918e549f869da964fd884613e
+machine_hash: 0da45a9650c360c88171f9371602e7c7750bf33b111580007bcace481f28a62e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Enable Copilot Spaces tools in GitHub MCP Server
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-25-12-apps-and-integrations-changes-in-1-11-2|12 Apps and
-  Integrations changes in 1.11.2]]'
 - '[[Changes/Replit/2025-12-26-replit-rewind-2025|Replit Rewind 2025]]'
 - '[[Changes/Replit/2025-12-26-replit-chatgpt-app|Replit ChatGPT App]]'
+- '[[Changes/OpenCode/2025-12-29-core-install-local-plugin-dependencies-from-package-json|Core
+  Install local plugin dependencies from package.json]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-12-30-v0-0-373-github-273424977-1bfbdae6|github-copilot-cli-2025-12-30-v0-0-373-github-273424977-1bfbdae6]]'
 source_type: github_releases
 theme: apps-integrations
@@ -75,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-26 · Replit · [[Changes/Replit/2025-12-26-replit-chatgpt-app|Replit ChatGPT App]]
-- Later: 2025-12-30 · OpenHands · [[Changes/OpenHands/2025-12-30-added-forgejo-integration-by-johba37-in-https-github-com-openhands-openhands-pul|Added Forgejo integration]]
+- Earlier: 2025-12-29 · OpenCode · [[Changes/OpenCode/2025-12-29-core-install-local-plugin-dependencies-from-package-json|Core Install local plugin dependencies from package.json]]
+- Later: 2025-12-30 · OpenCode · [[Changes/OpenCode/2025-12-30-core-expose-server-url-to-plugins|Core Expose server URL to plugins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

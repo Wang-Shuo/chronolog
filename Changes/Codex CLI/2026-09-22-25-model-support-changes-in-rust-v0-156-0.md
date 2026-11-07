@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4bd693948f9e888f766ad25cfc7c36d6e50a2d8f2fb07194174b9ba620db375
+machine_hash: 4244d42447d7fa9b477d1b949663aea5d5eb15fd31b9e3c165b4db7e05ed0f00
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -199,7 +199,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.156.0
 ## Nearby in Model Support
 
 - Earlier: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-3-model-support-changes-in-v4-1-20|3 Model Support changes in v4.1.20]]
-- Later: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-test-strengthen-llm-profile-configuration-by-aivong-openhands-in-https-github-co|test: strengthen LLM profile configuration]]
+- Later: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-you-can-now-attach-microsoft-office-documents-word-excel-and-powerpoint-to-a-pro|You can now attach Microsoft Office documents (Word, Excel, and PowerPoint)…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

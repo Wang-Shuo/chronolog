@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6158b3bd7171d9a90985d241e253b4c462ba9abbb48102b2ab5f1ee49c58036
+machine_hash: 9cac58ee29a465b60e0eba01e90eea408d1d1a66e210ccb60483643fb37c4fa9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -70,8 +70,8 @@ record:
   title: 16 Memory and Personalization changes in rust-v0.129.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-12-memory-and-personalization-changes-in-rust-v0-128-0|12
-  Memory and Personalization changes in rust-v0.128.0]]'
+- '[[Changes/OpenCode/2026-05-04-core-prevent-large-diffs-from-using-unbounded-memory|Core
+  Prevent large diffs from using unbounded memory]]'
 - '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory
   sources and more personalized responses in ChatGPT]]'
 - '[[Changes/Gemini CLI/2026-05-05-feat-memory-persist-auto-memory-scratchpad-for-skill-extraction-by-sandytao520-i|feat(memory):

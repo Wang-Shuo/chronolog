@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7105f51a3cd060da0dfbecb5bf61b6cf4dfd777f762badbc13632998db4585a
+machine_hash: cf99fdeee1c7b85772228600e4c383263d34db8de8d066a0f20cfd0b63673e69
 product: open-webui
 product_name: Open WebUI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.2
 ## Nearby in Model Support
 
 - Earlier: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-knowledge-and-content-app-connectors-fireflies-gemini-enterprise-wordpress|Knowledge and content app connectors: Fireflies, Gemini Enterprise, WordPress]]
-- Later: 2026-04-24 · Replit · [[Changes/Replit/2026-04-24-security-agent-reviews-your-whole-codebase|Security Agent reviews your whole codebase]]
+- Later: 2026-04-24 · OpenCode · [[Changes/OpenCode/2026-04-24-2-model-support-changes-in-v1-14-24-1|2 Model Support changes in v1.14.24 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

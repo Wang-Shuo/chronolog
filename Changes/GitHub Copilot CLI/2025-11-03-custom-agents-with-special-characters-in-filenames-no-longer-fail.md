@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50cb8454c3efbd510993c16b2ec9c62dd1d8e2d924ede70fe0ce3134ad1c7eb9
+machine_hash: 51e9581fda951a1e64434bb825f1ec89f7ad652e1b45306f1940f6ef1a7ca4c4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,11 +41,12 @@ record:
   title: Custom agents with special characters in filenames no longer fail
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]]'
 - '[[Changes/Gemini CLI/2025-10-29-chore-subagents-remove-legacy-subagent-code-by-abhipatel12-in-https-github-com-g|chore(subagents):
   Remove legacy subagent code]]'
 - '[[Changes/Codex CLI/2025-10-30-3-agent-mode-changes-in-rust-v0-52-0|3 Agent Mode
   changes in rust-v0.52.0]]'
+- '[[Changes/Gamma/2025-11-03-now-when-you-edit-an-ai-generated-image-with-agent-those-changes-are-automatical|Now
+  when you edit an AI-generated image with Agent, those changes are automatically…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-03-v0-0-354-github-259401997-a713a92b|github-copilot-cli-2025-11-03-v0-0-354-github-259401997-a713a92b]]'
 source_type: github_releases
 theme: agent-mode
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-3-agent-mode-changes-in-rust-v0-52-0|3 Agent Mode changes in rust-v0.52.0]]
+- Earlier: 2025-11-03 · Gamma · [[Changes/Gamma/2025-11-03-now-when-you-edit-an-ai-generated-image-with-agent-those-changes-are-automatical|Now when you edit an AI-generated image with Agent, those changes are automatically…]]
 - Later: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-add-regression-tests-for-shell-command-parsing-by-cornmander-in-https-github-com|Add regression tests for shell command parsing]]
 <!-- chronolog:end -->
 

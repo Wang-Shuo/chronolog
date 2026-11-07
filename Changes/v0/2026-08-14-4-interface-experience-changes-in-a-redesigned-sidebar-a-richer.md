@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0ef7dd6301d4af9d3d5ac2419d13ff65c5dde6e28cb2762bd4674c1a5cd3110
+machine_hash: 6d67001d6c1fd8edddc7513530af2f19bc89c9e43a9da8723d6e1fd4339b40d9
 product: v0
 product_name: v0
 record:
@@ -53,8 +53,8 @@ record:
   title: 4 Interface Experience changes in A redesigned sidebar, a richer…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode
-  Added session groups in the sidebar]]'
+- '[[Changes/Google Antigravity/2026-08-12-persistent-sidebar-folders-crash-fixes-and-ui-enhancements|Persistent
+  Sidebar Folders, Crash Fixes, and UI Enhancements]]'
 - '[[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved
   fullscreen streaming]]'
 - '[[Changes/Replit/2026-08-14-choose-a-workspace-region|Choose a workspace region]]'

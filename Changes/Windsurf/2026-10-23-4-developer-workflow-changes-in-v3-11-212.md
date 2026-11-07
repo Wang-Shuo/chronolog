@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b58ea8e41cb6f88acd262dd1a2b19ecd4aa1cef8ca6a7b5a787f8898b56bec20
+machine_hash: 04b935a013a26867f7b7b980dc96956ef104d9b1cb958b6b3510c429e7c451d6
 product: windsurf
 product_name: Windsurf
 record:
@@ -101,7 +101,7 @@ Source: https://docs.devin.ai/desktop/changelog#v3-11-212
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-respect-xforward-headers-enabled-standalone-api-default-remains-false-bundled-co| /  RESPECT_XFORWARD_HEADERS_ENABLED  /  Standalone API default remains false]]
-- Later: 2026-10-24 · Windsurf · [[Changes/Windsurf/2026-10-24-2-developer-workflow-changes-in-v3-11-216|2 Developer Workflow changes in v3.11.216]]
+- Later: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-3-developer-workflow-changes-in-v2026-10-7|3 Developer Workflow changes in v2026.10.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 451648ed8fed131b2395c123f2f4290ab282788349afa1d43127cc6b21d3f58f
+machine_hash: 814e07daecd47e32cfe4551aa426a8fd0379231087198bf72eda89f4854f3daa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
     the prompt
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-feat-web-locate-workflow-nodes-by-node-id-in-the-workflow-editor-by-ruanimal-in|feat(web):
-  locate workflow nodes by node_id in the workflow editor]]'
+- '[[Changes/Google Antigravity/2026-07-28-added-preview-temporary-tabs-to-the-auxiliary-pane-allowing-files-to-open-in-a-t|Added
+  preview (temporary) tabs to the auxiliary pane, allowing files to open…]]'
 - '[[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor
   Experience changes in rust-v0.146.0]]'
 - '[[Changes/OpenHands/2026-07-29-feat-allow-overwriting-a-secret-value-from-the-edit-form-by-hieptl-in-https-gith|feat:

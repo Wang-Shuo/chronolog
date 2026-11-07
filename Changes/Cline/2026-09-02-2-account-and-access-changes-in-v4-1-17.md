@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fbba149eee62d244c060afbdfe3f5046d9b9e452915aac3eb5527aada832fe6f
+machine_hash: 2ef800990dbe9c3993dbd0f41ea6bbba8c333b24d60f599249c37358f40e05c1
 product: cline
 product_name: Cline
 record:
@@ -48,12 +48,12 @@ record:
   title: 2 Account and Access changes in v4.1.17
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-disconnect-oauth-only-where-there-is-oauth-the-disconnect-control-on-a-tool-serv|\U0001F50C
-  Disconnect OAuth only where there is OAuth. The disconnect control on a tool…]]"
-- '[[Changes/Claude Code/2026-09-01-2-account-and-access-changes-in-v2-1-257|2 Account
-  and Access changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-2-account-and-access-changes-in-rust-v0-152-0|2
   Account and Access changes in rust-v0.152.0]]'
+- '[[Changes/OpenClaw/2026-09-01-2-account-and-access-changes-in-v2026-8-2|2 Account
+  and Access changes in v2026.8.2]]'
+- '[[Changes/OpenCode/2026-09-01-azure-cli-sign-in-now-asks-for-the-resource-name-directly-instead-of-querying-az|Azure
+  CLI sign-in now asks for the resource name directly instead of querying Azure…]]'
 source_release: '[[Releases/Cline/cline-2026-09-02-v4-1-17-github-381000681-694bbda2|cline-2026-09-02-v4-1-17-github-381000681-694bbda2]]'
 source_type: github_releases
 theme: account-access
@@ -91,7 +91,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.17
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-2-account-and-access-changes-in-rust-v0-152-0|2 Account and Access changes in rust-v0.152.0]]
+- Earlier: 2026-09-01 · OpenCode · [[Changes/OpenCode/2026-09-01-azure-cli-sign-in-now-asks-for-the-resource-name-directly-instead-of-querying-az|Azure CLI sign-in now asks for the resource name directly instead of querying Azure…]]
 - Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-42128-https-github-com-openai-codex-pull-42128-prepare-mcp-connections-for-coord|♯42128((source link) Prepare MCP connections…]]
 <!-- chronolog:end -->
 

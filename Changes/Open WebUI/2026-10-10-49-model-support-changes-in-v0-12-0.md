@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1555540d404831e2b7cd26f0ee5477ad69c494783320a53a45a9bf878674f64b
+machine_hash: cf6f18237379a32525caa6b3f9eab9e3a03bc5860a5c620c007a3d8cc96fea44
 product: open-webui
 product_name: Open WebUI
 record:
@@ -339,8 +339,8 @@ record:
   title: 49 Model Support changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-08-4-model-support-changes-in-v0-40-2|4 Model Support
-  changes in v0.40.2]]'
+- '[[Changes/OpenClaw/2026-10-08-4-model-support-changes-in-v2026-9-9|4 Model Support
+  changes in v2026.9.9]]'
 - '[[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e):
   launch the same-model profile test from the BETA profile]]'
 - '[[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude
@@ -490,7 +490,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 ## Nearby in Model Support
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude Tag Changed Claude in Slack to show the footer with the session link, model…]]
-- Later: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-2-model-support-changes-in-v1-0-96|2 Model Support changes in v1.0.96]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-18-model-support-changes-in-v2026-10-1|18 Model Support changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

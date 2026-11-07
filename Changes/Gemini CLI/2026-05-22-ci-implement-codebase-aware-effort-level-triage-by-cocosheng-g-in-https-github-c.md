@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c64eb9e6cd424d05aa07a1c056351fbe5ca73a110df2e629c2cf802a6cefde33
+machine_hash: 236a2851f03f0199b0089616af06273d788e19167ac9ddc088d17fb49bae8e77
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 'ci: implement codebase-aware effort level triage'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-3-editor-experience-changes-in-rust-v0-132-0|3 Editor
-  Experience changes in rust-v0.132.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-20-2-editor-experience-changes-in-v1-0-51|2
-  Editor Experience changes in v1.0.51]]'
+- '[[Changes/OpenCode/2026-05-20-core-collapsed-single-child-directories-in-the-diff-viewer-file-tree|Core
+  Collapsed single-child directories in the diff viewer file tree]]'
+- '[[Changes/OpenCode/2026-05-20-added-a-diff-viewer-in-the-tui-for-reviewing-changes|Added
+  a diff viewer in the TUI for reviewing changes]]'
 - '[[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff
   detail view can now be scrolled with the keyboard…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a|gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff detail view can now be scrolled with the keyboard…]]
-- Later: 2026-05-22 · Replit · [[Changes/Replit/2026-05-22-layout-controls-in-the-visual-editor|Layout controls in the Visual Editor]]
+- Later: 2026-05-22 · Google Antigravity · [[Changes/Google Antigravity/2026-05-22-2-editor-experience-changes-in-hub-v2-0-6-antigravity-ide-integration|2 Editor Experience changes in HUB v2.0.6 — Antigravity IDE integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

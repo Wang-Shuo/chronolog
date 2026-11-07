@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2be8ba3ac291d6d6988edf95372bbb2a9653de87c7db576e01b75a0b5202c5da
+machine_hash: 231c35118e3d5ace5d2e01564c336ada23a96a9997ec7ed488eb2a885bff2835
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-10 · Lovable · [[Changes/Lovable/2026-09-10-sync-your-project-with-bitbucket-cloud|Sync your project with Bitbucket Cloud]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-3-editor-experience-changes-in-v2-1-271|3 Editor Experience changes in v2.1.271]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-5-editor-experience-changes-in-v2026-9-4|5 Editor Experience changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

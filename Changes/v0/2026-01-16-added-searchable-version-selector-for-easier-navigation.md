@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f73f7fd782f39c0237aa971a8029f2c218ab097fb43993a2533f314ca7b421f
+machine_hash: 0ea00318c0247a46621ccc405e2c1ed2b72d4dfc4053ff6a0f21e87d17e87f02
 product: v0
 product_name: v0
 record:
@@ -41,10 +41,10 @@ record:
   title: Added searchable version selector for easier navigation
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-01-16-better-dashboard-organization-and-navigation|Better
-  dashboard organization and navigation]]'
 - '[[Changes/Lovable/2026-01-16-lovable-now-offers-a-more-native-mobile-experience-across-the-app-with-sheets-re|Lovable
   now offers a more native mobile experience across the app, with sheets…]]'
+- '[[Changes/OpenCode/2026-01-16-6-interface-experience-changes-in-v1-1-24|6 Interface
+  Experience changes in v1.1.24]]'
 - '[[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding
   a status indicator above the chat until the conversation is ready]]'
 source_release: '[[Releases/v0/v0-2026-01-16-2026-01-16-d287c407|v0-2026-01-16-2026-01-16-d287c407]]'
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-16 · OpenHands · [[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding a status indicator above the chat until the conversation is ready]]
-- Later: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved backspace to delete pasted text as a single token instead of one character…]]
+- Later: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-2-interface-experience-changes-in-v1-1-26|2 Interface Experience changes in v1.1.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

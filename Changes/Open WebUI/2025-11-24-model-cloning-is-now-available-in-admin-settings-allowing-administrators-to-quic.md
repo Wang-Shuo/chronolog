@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: eedac8f2543dd9e422afbf1a7e1a9c2b77ffc9c596702bd0c9bc8af9208790e3
+machine_hash: 3e0a4a7eda931b12dc2552e400c24b5aafa1b91cb5b09527c5b2242bbc6eb436
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,9 +58,9 @@ record:
   title: "\U0001F916 Model cloning is now available in admin settings, allowing administrators…"
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-21-gpt-5-1-codex-and-codex-mini|GPT-5.1 Codex and Codex
-  Mini]]'
 - '[[Changes/Claude/2025-11-24-claude-opus-4-5-launch|Claude Opus 4.5 launch]]'
+- '[[Changes/Gamma/2025-11-24-nano-banana-pro-now-available-in-gamma-it-s-the-first-model-that-can-perfectly-h|New
+  image model: Nano Banana Pro]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-24-opus-4-5-gpt-4-1-and-gpt-5-mini-are-now-available-in-github-copilot-cli|Opus
   4.5, GPT-4.1 and GPT-5-Mini are now available in GitHub Copilot CLI]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-11-24-v0-6-37-github-264669867-8b715894|open-webui-2025-11-24-v0-6-37-github-264669867-8b715894]]'

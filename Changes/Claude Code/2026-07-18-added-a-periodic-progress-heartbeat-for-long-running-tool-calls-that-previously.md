@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00cc8670fd937c584b5c2e4b64b482a0ad651507d15636b580e2fb1d95b4b834
+machine_hash: 2029eaa028e26d3b5e11490e8830369bbbea828f2919ddab2e8ed6175a517a37
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     went…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3
-  Reliability and Performance changes in v2.1.208]]'
+- '[[Changes/Google Antigravity/2026-07-16-startup-stability-fix|Startup stability
+  fix]]'
 - '[[Changes/Dify/2026-07-17-3-reliability-and-performance-changes-in-1-16-0|3 Reliability
   and Performance changes in 1.16.0]]'
 - '[[Changes/Windsurf/2026-07-17-devin-cloud|Devin Cloud]]'

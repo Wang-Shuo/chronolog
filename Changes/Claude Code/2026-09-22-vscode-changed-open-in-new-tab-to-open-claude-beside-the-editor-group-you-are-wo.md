@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 681b49d46de3727e264e4f0981c243cf34a4541148694e10cec4e38765fa5440
+machine_hash: b0dd0f4314cec6c183d5f61e39cbbb38dc3132854e0ebeffe6bc97271ac42936
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     you…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
-  Experience changes in v2.1.277]]'
+- '[[Changes/OpenClaw/2026-09-19-21-editor-experience-changes-in-v2026-9-5|21 Editor
+  Experience changes in v2026.9.5]]'
 - '[[Changes/Lovable/2026-09-20-organize-project-files-into-collections|Organize project
   files into collections]]'
 - '[[Changes/Open WebUI/2026-09-21-21-editor-experience-changes-in-v0-11-4|21 Editor

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf9dc430d026fb2f4f8dad8cfce952ca22e353316ec83a780289bf0d7474f974
+machine_hash: 87d96b97d12cb7248614f40c64c498d972a30f860c7bba1c3aa5bc51e1a56a82
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,7 +44,8 @@ record:
   title: '**⚙️ General Reliability Enhancements**'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-02-25-text-to-speech|Text to Speech]]'
+- '[[Changes/Gamma/2025-02-26-we-ve-added-a-new-way-to-share-your-work-faster-and-more-efficiently-you-can-now|Export
+  to Google Slides]]'
 - '[[Changes/Open WebUI/2025-02-27-general-stability-enhancements-backend-and-frontend-refactoring-improves-perform|⚙️
   General Stability Enhancements]]'
 - '[[Changes/Replit/2025-02-28-database-performance-improvement|Database performance

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91f2dcf45bcdd8474765318a4f817cb241fe3937151d8a71c81b144ad465184e
+machine_hash: 14fa32bb0ea8f68697adeea534bcf3e55702c5016f89bd398dc66e90d567cd1a
 product: ollama
 product_name: Ollama
 record:
@@ -42,12 +42,12 @@ record:
   title: '`ollama launch claude` no longer shows a warning about Claude connectors'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-09-managed-plugin-setup-retries-hourly-or-after-policy-changes-instead-of-on-every|Managed
-  plugin setup retries hourly or after policy changes instead of on every…]]'
 - '[[Changes/Lovable/2026-10-09-generate-a-secret-that-another-app-also-needs|Generate
   a secret that another app also needs]]'
 - '[[Changes/Open WebUI/2026-10-10-7-apps-and-integrations-changes-in-v0-12-0|7 Apps
   and Integrations changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-96-apps-and-integrations-changes-in-v2026-10-1|96
+  Apps and Integrations changes in v2026.10.1]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-11-v0-40-3-github-409273105-d625cd19|ollama-2026-10-11-v0-40-3-github-409273105-d625cd19]]'
 source_type: github_releases
 theme: apps-integrations
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-7-apps-and-integrations-changes-in-v0-12-0|7 Apps and Integrations changes in v0.12.0]]
+- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-96-apps-and-integrations-changes-in-v2026-10-1|96 Apps and Integrations changes in v2026.10.1]]
 - Later: 2026-10-12 · ElevenLabs · [[Changes/ElevenLabs/2026-10-12-sdk-releases|SDK releases]]
 <!-- chronolog:end -->
 

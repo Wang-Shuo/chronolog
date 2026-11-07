@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3eb1b9ed73be9684b22147371ab6fe7edf9572493abce79f411622142ea9a934
+machine_hash: 334a0a5f00d181ff310e24a88c1b98c8963197eabfb7637c84970fe31f256b51
 product: dify
 product_name: Dify
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.3.0
 ## Nearby in Editor Experience
 
 - Earlier: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-add-ability-to-edit-past-messages-with-options-to-restore-your-workspace-back-to|Add ability to edit past messages, with options to restore your workspace back…]]
-- Later: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-introduced-a-new-changes-tab-to-show-modifications-made-by-openhands-by-amanape|Introduced a new Changes tab to show modifications made by OpenHands]]
+- Later: 2025-04-23 · Midjourney · [[Changes/Midjourney/2025-04-23-lots-of-editor-improvements|Lots of editor improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

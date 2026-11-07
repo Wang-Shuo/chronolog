@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2623a600c380f7e22b85bf29b196a43855d2cf9e87f454d8900ddf53613389fc
+machine_hash: 531082801f045253a61c87076b9c71392d6f43cd91bb02f23ea16b8bdd183e9b
 product: v0
 product_name: v0
 record:
@@ -43,12 +43,12 @@ record:
   title: Added model selection when retrying messages
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-03-restore-gpt-oss-native-file-editing-on-openai-compatible-models|Restore
-  GPT-OSS native file editing on OpenAI-compatible models]]'
 - '[[Changes/Gemini CLI/2026-03-03-3-model-support-changes-in-v0-32-0|3 Model Support
   changes in v0.32.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-2-model-support-changes-in-v0-0-421|2 Model
   Support changes in v0.0.421]]'
+- '[[Changes/OpenCode/2026-03-03-core-avoid-gemini-combiner-schema-sibling-injection|Core
+  Avoid Gemini combiner schema sibling injection]]'
 source_release: '[[Releases/v0/v0-2026-03-03-2026-03-03-489f9d67|v0-2026-03-03-2026-03-03-489f9d67]]'
 source_type: v0_changelog
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-2-model-support-changes-in-v0-0-421|2 Model Support changes in v0.0.421]]
+- Earlier: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-core-avoid-gemini-combiner-schema-sibling-injection|Core Avoid Gemini combiner schema sibling injection]]
 - Later: 2026-03-04 · Claude Code · [[Changes/Claude Code/2026-03-04-3-model-support-changes-in-v2-1-68|3 Model Support changes in v2.1.68]]
 <!-- chronolog:end -->
 

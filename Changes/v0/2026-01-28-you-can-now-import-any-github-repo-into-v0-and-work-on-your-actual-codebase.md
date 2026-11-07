@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7539f4fbfa166db422e289b3394f2b4d2442945d53a7c7108c8e899400e13920
+machine_hash: 369283d018468b0f0245d371b1a6372b70fc9c924f8e5a4e7e37ffa5cfa562a8
 product: v0
 product_name: v0
 record:
@@ -46,12 +46,12 @@ record:
   title: Import any GitHub repo into v0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-27-3-editor-experience-changes-in-v0-0-396|3
-  Editor Experience changes in v0.0.396]]'
 - '[[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|Improved
   Claude to prefer file operation tools (Read, Edit, Write) over bash…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-directories-now-appear-in-mention-autocomplete|Directories
   now appear in @mention autocomplete]]'
+- '[[Changes/OpenCode/2026-01-28-3-editor-experience-changes-in-v1-1-37|3 Editor Experience
+  changes in v1.1.37]]'
 source_release: '[[Releases/v0/v0-2026-01-28-2026-01-28-github-import-84bd738b|v0-2026-01-28-2026-01-28-github-import-84bd738b]]'
 source_type: v0_changelog
 theme: editor-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-directories-now-appear-in-mention-autocomplete|Directories now appear in @mention autocomplete]]
+- Earlier: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-3-editor-experience-changes-in-v1-1-37|3 Editor Experience changes in v1.1.37]]
 - Later: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-2-editor-experience-changes-in-v0-0-399|2 Editor Experience changes in v0.0.399]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3606f4344ca9327a49549099e7716fac31f238bb9c1bc50f7bf116514ba95ed3
+machine_hash: 0d63171353c69fb99b12d5f79b636d0fac9d4419bf8a6f1c9a3210a2d428f8aa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: Extensions are now available as an experimental feature
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-08-2-apps-and-integrations-changes-in-rust-v0-112-0|2
-  Apps and Integrations changes in rust-v0.112.0]]'
+- '[[Changes/OpenCode/2026-03-08-core-fix-broken-mcp-toggling-in-tui|Core Fix broken
+  MCP toggling in TUI]]'
 - '[[Changes/ElevenLabs/2026-03-09-sdk-releases|SDK Releases]]'
 - '[[Changes/ElevenLabs/2026-03-09-music|Music]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137|github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137]]'

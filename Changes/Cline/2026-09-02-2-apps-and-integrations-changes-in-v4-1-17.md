@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9735853c301b2a0dda0b3f5b5ee100a24b3ff37140cd013b73cce7bbe4bc52d7
+machine_hash: 1566752160289958b947efc4caac8372589a01ee5cac8bdc91cf39307f26a5a5
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in v4.1.17
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-16-apps-and-integrations-changes-in-rust-v0-152-0|16
-  Apps and Integrations changes in rust-v0.152.0]]'
 - '[[Changes/Lovable/2026-09-01-connect-a-tool-from-a-pasted-api-key|Connect a tool
   from a pasted API key]]'
+- '[[Changes/OpenClaw/2026-09-01-9-apps-and-integrations-changes-in-v2026-8-2|9 Apps
+  and Integrations changes in v2026.8.2]]'
 - '[[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5
   Apps and Integrations changes in v2.1.259]]'
 source_release: '[[Releases/Cline/cline-2026-09-02-v4-1-17-github-381000681-694bbda2|cline-2026-09-02-v4-1-17-github-381000681-694bbda2]]'
@@ -88,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.17
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5 Apps and Integrations changes in v2.1.259]]
-- Later: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende-012cbd|Zendesk & OneNote Plugins in ChatGPT and Codex Beta]]
+- Later: 2026-09-02 · Suno · [[Changes/Suno/2026-09-02-copy-and-duplicate-plugins|Copy and duplicate plugins]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

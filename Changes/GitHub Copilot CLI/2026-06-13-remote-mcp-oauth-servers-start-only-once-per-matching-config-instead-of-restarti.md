@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1315eef514b2033f27bd6647398042da3c92691e3af81a86e1153bc3cb0af7b8
+machine_hash: 9c7994598cd6ef137e86c48dbd25bc33c745692e5784b072dcfd9b669a25ab03
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -56,12 +56,12 @@ record:
   title: Remote MCP OAuth servers start only once per matching config instead of restarting…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-2-account-and-access-changes-in-rust-v0-138-0|2
-  Account and Access changes in rust-v0.138.0]]'
 - '[[Changes/v0/2026-06-08-2-account-and-access-changes-in-changelog-update|2 Account
   and Access changes in Changelog update]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-mcp-oauth-re-authentication-correctly-uses-the-saved-oauth-client-id-for-remote|MCP
   OAuth re-authentication correctly uses the saved OAuth client ID for remote servers]]'
+- '[[Changes/OpenCode/2026-06-12-core-added-connector-based-authentication-flows-and-support-for-stored-provider|Core
+  Added connector-based authentication flows and support for stored provider…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: account-access
@@ -104,8 +104,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-mcp-oauth-re-authentication-correctly-uses-the-saved-oauth-client-id-for-remote|MCP OAuth re-authentication correctly uses the saved OAuth client ID for remote servers]]
-- Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-5-account-and-access-changes-in-rust-v0-140-0|5 Account and Access changes in rust-v0.140.0]]
+- Earlier: 2026-06-12 · OpenCode · [[Changes/OpenCode/2026-06-12-core-added-connector-based-authentication-flows-and-support-for-stored-provider|Core Added connector-based authentication flows and support for stored provider…]]
+- Later: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-added-external-browser-oauth-for-the-snowflake-cortex-provider|Added external browser OAuth for the Snowflake Cortex provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

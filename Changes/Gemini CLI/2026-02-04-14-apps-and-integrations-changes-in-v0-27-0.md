@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a98c64b59ba10cd4c54e6c875e3c3d81d00ff7fffb27c71ed1b37ebb9017b07
+machine_hash: 8291d68b9651242d6eb51ebb943c21717b7ce1e1819233fd6560fdffd02d70de
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -75,10 +75,10 @@ record:
   title: 14 Apps and Integrations changes in v0.27.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-03-3-apps-and-integrations-changes-in-v0-0-401|3
-  Apps and Integrations changes in v0.0.401]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-4-apps-and-integrations-changes-in-v0-0-402|4
   Apps and Integrations changes in v0.0.402]]'
+- '[[Changes/OpenCode/2026-02-03-2-apps-and-integrations-changes-in-v1-1-49|2 Apps
+  and Integrations changes in v1.1.49]]'
 - '[[Changes/Codex CLI/2026-02-04-5-apps-and-integrations-changes-in-rust-v0-95-0|5
   Apps and Integrations changes in rust-v0.95.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835|gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835]]'
@@ -145,7 +145,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.27.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-5-apps-and-integrations-changes-in-rust-v0-95-0|5 Apps and Integrations changes in rust-v0.95.0]]
-- Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-skills-defined-in-claude-skills-within-additional-directories-add-dir-are-now-lo|Skills defined in .claude/skills/ within additional directories (--add-dir)…]]
+- Later: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-2-apps-and-integrations-changes-in-v1-1-50|2 Apps and Integrations changes in v1.1.50]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

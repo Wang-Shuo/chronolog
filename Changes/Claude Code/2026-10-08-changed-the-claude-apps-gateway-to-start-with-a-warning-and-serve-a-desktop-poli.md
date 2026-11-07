@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c5924cc7bed2198a08b7f18f790330e27c3c61b71d3b866e20d5bc1a697f932c
+machine_hash: b50b43d3eeaa1217771c80a1df3c2e332b5955e9597b60bdea31fdd61c084006
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,10 +57,10 @@ record:
     policy…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-sandboxed-commands-on-windows-write-temporary-files-to-the-granted-temp-director|Sandboxed
-  commands on Windows write temporary files to the granted temp directory…]]'
 - '[[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep
   your computer awake]]'
+- '[[Changes/Google Antigravity/2026-10-07-on-windows-and-linux-selecting-the-antigravity-icon-in-the-top-left-corner-of-th|On
+  Windows and Linux, selecting the Antigravity icon in the top-left corner…]]'
 - '[[Changes/Ollama/2026-10-07-manifest-avoid-symlinks-on-windows-by-dhiltgen-in-https-github-com-ollama-ollama|manifest:
   avoid symlinks on Windows]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'

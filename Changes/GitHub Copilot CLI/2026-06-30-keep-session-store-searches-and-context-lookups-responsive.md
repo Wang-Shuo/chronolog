@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4d63a98e425a3757fe4b7e7e0a2a28ab674158a6adfdaea77a4cc5d9af9318a
+machine_hash: 9a995a50ed7c931f69c4d6d69358d87d6af1945754aa9a4cca66cb05b1daf139
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Keep session-store searches and context lookups responsive
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-2-context-window-changes-in-rust-v0-142-2|2 Context
-  Window changes in rust-v0.142.2]]'
 - '[[Changes/Dify/2026-06-25-3-context-window-changes-in-1-15-0|3 Context Window changes
   in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-improved-readability-of-context-pills-by-truncating-long-labels-and-adding-hover|Improved
+  readability of context pills by truncating long labels and adding hover…]]'
 - '[[Changes/Open WebUI/2026-06-29-3-context-window-changes-in-v0-10-0|3 Context Window
   changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-3-context-window-changes-in-v0-10-0|3 Context Window changes in v0.10.0]]
-- Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents and context compaction now inherit the session's extended thinking…]]
+- Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-20-context-window-changes-in-v2026-6-11|20 Context Window changes in v2026.6.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

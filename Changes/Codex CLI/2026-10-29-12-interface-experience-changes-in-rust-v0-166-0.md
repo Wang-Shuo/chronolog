@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d1593c3957789ae9a1fcd232164b7386cff9e0988bd3ea09a90bf8f3ac2358e
+machine_hash: 08d96136a47b92b857eb1e7117f5889d9a88d16853717222bab8406165a93fe5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,7 +67,8 @@ record:
   title: 12 Interface Experience changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-27-redesigned-sidebar|Redesigned sidebar]]'
+- '[[Changes/OpenCode/2026-10-27-10-interface-experience-changes-in-v2-2-0|10 Interface
+  Experience changes in v2.2.0]]'
 - '[[Changes/OpenHands/2026-10-27-3-interface-experience-changes-in-v1-34-0|3 Interface
   Experience changes in v1.34.0]]'
 - '[[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]'
@@ -139,7 +140,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-28 · Lovable · [[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]
-- Later: 2026-10-29 · Lovable · [[Changes/Lovable/2026-10-29-bring-your-app-or-website-to-lovable|Bring your app or website to Lovable]]
+- Later: 2026-10-29 · Google Antigravity · [[Changes/Google Antigravity/2026-10-29-there-s-no-longer-a-separate-conversation-history-page-search-your-conversations|There's no longer a separate Conversation History page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

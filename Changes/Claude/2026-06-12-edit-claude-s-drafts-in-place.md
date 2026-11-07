@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d80ed7f496cd6b949c606c8465b9c225630cfb064100060e172b8196ec2dd82e
+machine_hash: 67b227ca09fb033cdb086898102a75706c844a1bd9fe44bb2a7e734d27ed89b9
 product: claude
 product_name: Claude
 record:
@@ -49,12 +49,12 @@ record:
   title: Edit Claude’s drafts in place
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-3-apps-and-integrations-changes-in-v2-1-172|3
-  Apps and Integrations changes in v2.1.172]]'
 - '[[Changes/Cline/2026-06-11-2-apps-and-integrations-changes-in-v3-89-2|2 Apps and
   Integrations changes in v3.89.2]]'
 - '[[Changes/Cline/2026-06-11-restore-the-anthropic-provider-on-vs-code-1-123-and-later-where-the-updated-node|Restore
   the Anthropic provider on VS Code 1.123 and later, where the updated Node 24…]]'
+- '[[Changes/Google Antigravity/2026-06-11-2-apps-and-integrations-changes-in-hub-v2-1-4-quota-screen-redesign|2
+  Apps and Integrations changes in HUB v2.1.4 — Quota Screen Redesign…]]'
 source_release: '[[Releases/Claude/claude-2026-06-12-2026-06-12-d92f034f|claude-2026-06-12-2026-06-12-d92f034f]]'
 source_type: claude_changelog
 theme: apps-integrations
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-11 · Cline · [[Changes/Cline/2026-06-11-restore-the-anthropic-provider-on-vs-code-1-123-and-later-where-the-updated-node|Restore the Anthropic provider on VS Code 1.123 and later, where the updated Node 24…]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8 Apps and Integrations changes in v1.0.62]]
+- Earlier: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-2-apps-and-integrations-changes-in-hub-v2-1-4-quota-screen-redesign|2 Apps and Integrations changes in HUB v2.1.4 — Quota Screen Redesign…]]
+- Later: 2026-06-12 · OpenCode · [[Changes/OpenCode/2026-06-12-added-cwd-support-for-local-mcp-servers-so-they-can-start-from-a-workspace-relat|Added cwd support for local MCP servers so they can start from a workspace-relative…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

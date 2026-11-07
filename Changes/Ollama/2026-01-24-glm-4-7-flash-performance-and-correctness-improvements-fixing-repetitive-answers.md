@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 981fca44c72c8081bf164a6d77c417f84c1d39f9390a69a531a055bef50694d4
+machine_hash: 1d0ecaab095b1a4c689f27ab56b144d5f83a86295b55b5a356cf0be47c6809f6
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,11 @@ record:
     answers…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-21-reduced-memory-usage-for-glm-4-7-flash-models|Reduced
-  memory usage for GLM-4.7-Flash models]]'
 - '[[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability
   and Performance changes in 2.4]]'
 - '[[Changes/Windsurf/2026-01-23-improved-overall-stability-and-reliability|Improved
   overall stability and reliability]]'
+- '[[Changes/Google Antigravity/2026-01-24-performance-improvements|Performance Improvements]]'
 source_release: '[[Releases/Ollama/ollama-2026-01-24-v0-15-1-github-279657149-3499bc0e|ollama-2026-01-24-v0-15-1-github-279657149-3499bc0e]]'
 source_type: github_releases
 theme: reliability-performance
@@ -75,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-23 · Windsurf · [[Changes/Windsurf/2026-01-23-improved-overall-stability-and-reliability|Improved overall stability and reliability]]
-- Later: 2026-01-27 · Cline · [[Changes/Cline/2026-01-27-throttle-diff-view-updates-during-streaming-to-reduce-ui-flickering-and-improve|Throttle diff view updates during streaming to reduce UI flickering and improve…]]
+- Earlier: 2026-01-24 · Google Antigravity · [[Changes/Google Antigravity/2026-01-24-performance-improvements|Performance Improvements]]
+- Later: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-desktop-performance-improvements-in-the-app-package|Desktop Performance improvements in the app package]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

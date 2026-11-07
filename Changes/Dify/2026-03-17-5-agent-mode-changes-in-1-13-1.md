@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a6a27870bc3327ec08fee157acd5e6d1be4ff0b69cc5a539db39903e4c2b3e0
+machine_hash: 5b908d3161ba71cfaef0461d6d815d621368f78aa551fad21759a47929008096
 product: dify
 product_name: Dify
 record:
@@ -50,8 +50,8 @@ record:
   title: 5 Agent Mode changes in 1.13.1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-16-5-agent-mode-changes-in-v1-0-6|5 Agent
-  Mode changes in v1.0.6]]'
+- '[[Changes/OpenCode/2026-03-16-core-ensure-that-compaction-message-is-tracked-as-agent-initiated|Core
+  Ensure that compaction message is tracked as agent initiated]]'
 - '[[Changes/Claude/2026-03-17-control-cowork-from-your-phone-with-a-persistent-thread-research-preview-for-pro|Control
   Cowork from your phone with a persistent thread (research preview for Pro/Max)]]'
 - '[[Changes/Claude Code/2026-03-17-2-agent-mode-changes-in-v2-1-77|2 Agent Mode changes

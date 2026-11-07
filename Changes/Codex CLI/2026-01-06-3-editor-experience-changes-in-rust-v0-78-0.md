@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 92a918b53203522353adfc026364c12e60849770a2819b10488c0a5f5f65dd37
+machine_hash: 05cc518ca56aeef8ffb8e173b7fc7b057bb521556143e0b7860e49825abccc06
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Editor Experience changes in rust-v0.78.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-30-tab-completion-for-path-arguments-in-slash-commands-like-cwd-and-add-dir|Tab
-  completion for path arguments in slash commands like /cwd and /add-dir]]'
-- '[[Changes/OpenHands/2025-12-30-added-refresh-button-to-the-changes-tab-by-hieptl-in-https-github-com-openhands|Added
-  refresh button to the Changes tab]]'
+- '[[Changes/OpenCode/2026-01-04-2-editor-experience-changes-in-v1-1-1|2 Editor Experience
+  changes in v1.1.1]]'
+- '[[Changes/OpenCode/2026-01-05-terminal-expand-directory-on-tab-select-on-enter-in-tui-autocomplete|Terminal
+  Expand directory on Tab, select on Enter in TUI autocomplete]]'
 - '[[Changes/Cline/2026-01-06-added-experimental-support-for-background-edits-allows-editing-files-in-backgrou|Added
   experimental support for Background Edits…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'

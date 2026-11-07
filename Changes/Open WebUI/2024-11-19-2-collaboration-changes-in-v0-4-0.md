@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 75e05d5f32b236bf5e891708c833764d8e85e48b96adbda1846c0d028593e0fd
+machine_hash: 11bdf85a96798cda6ba9863e408abcf295adc9bb62fa92b35dc9b61e510ffcbb
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Collaboration changes in v0.4.0
   type: change
 related_changes:
-- '[[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New
-  README and got a cool domain for the project (source link) (wip)]]'
 - "[[Changes/Open WebUI/2024-10-24-folders-support-for-chats-organize-your-chats-better-by-grouping-them-into-folde|\U0001F4C1
   Folders Support for Chats: Organize your chats better by grouping them into folders]]"
 - '[[Changes/Aider/2024-11-01-anonymous-opt-in-analytics-https-aider-chat-docs-more-analytics-html-with-no-per|Anonymous,
   opt-in analytics((source link) with no…]]'
+- '[[Changes/Gamma/2024-11-06-until-now-there-hasn-t-been-a-way-to-share-custom-themes-anyone-outside-your-wor|Theme
+  sharing link]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f|open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f]]'
 source_type: github_releases
 theme: collaboration
@@ -95,7 +95,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.4.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-11-01 · Aider · [[Changes/Aider/2024-11-01-anonymous-opt-in-analytics-https-aider-chat-docs-more-analytics-html-with-no-per|Anonymous, opt-in analytics((source link) with no…]]
+- Earlier: 2024-11-06 · Gamma · [[Changes/Gamma/2024-11-06-until-now-there-hasn-t-been-a-way-to-share-custom-themes-anyone-outside-your-wor|Theme sharing link]]
 - Later: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip suggesting files that share names with files already in chat]]
 <!-- chronolog:end -->
 

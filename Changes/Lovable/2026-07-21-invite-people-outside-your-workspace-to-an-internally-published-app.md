@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 92a1bc90b8b834c988eae56fdf47af7356e6698e494d79949c1bb73a49ae37a7
+machine_hash: 9aa7fe3e3cb4439347b8b80d5d8731abfbd24f399d60b550adb2b317c8238207
 product: lovable
 product_name: Lovable
 record:
@@ -64,9 +64,10 @@ record:
   title: Invite people outside your workspace to an internally published app
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-17-devin-local|Devin Local]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-the-sessions-sidebar-is-now-navigable-with-the-keyboard-and-mouse-arrows-open-an|The
   Sessions sidebar is now navigable with the keyboard and mouse…]]'
+- '[[Changes/OpenCode/2026-07-20-desktop-preserve-command-drafts-in-the-command-menu|Desktop
+  Preserve command drafts in the command menu]]'
 - '[[Changes/Codex CLI/2026-07-21-18-interface-experience-changes-in-rust-v0-145-0|18
   Interface Experience changes in rust-v0.145.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-21-2026-07-21-009a4b0a|lovable-2026-07-21-2026-07-21-009a4b0a]]'

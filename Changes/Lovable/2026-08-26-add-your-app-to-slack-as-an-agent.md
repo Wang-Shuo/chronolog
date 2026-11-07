@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ede51dfa2d50e83ffcddd3a97eea099f65146377a2b25af508a96364f104d981
+machine_hash: b551a3c51d6908955b37390b198e6297f0535c69865986347cf24dd7c3a238d5
 product: lovable
 product_name: Lovable
 record:
@@ -57,12 +57,12 @@ record:
   title: Add your app to Slack as an agent
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-25-8-agent-mode-changes-in-v0-57-0|8 Agent Mode changes
-  in v0.57.0]]'
 - "[[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|\U0001F91D
   Files for delegated tasks. A task handed to a sub-agent can now carry…]]"
 - '[[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent
   Mode changes in rust-v0.150.0]]'
+- '[[Changes/Google Antigravity/2026-08-26-3-agent-mode-changes-in-hub-v2-11-0-generative-ui-and-ui|3
+  Agent Mode changes in HUB v2.11.0 — Generative UI and UI…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-26-2026-08-26-bad08262|lovable-2026-08-26-2026-08-26-bad08262]]'
 source_type: lovable_changelog
 theme: agent-mode
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent Mode changes in rust-v0.150.0]]
+- Earlier: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-3-agent-mode-changes-in-hub-v2-11-0-generative-ui-and-ui|3 Agent Mode changes in HUB v2.11.0 — Generative UI and UI…]]
 - Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-3-agent-mode-changes-in-v2-1-248|3 Agent Mode changes in v2.1.248]]
 <!-- chronolog:end -->
 

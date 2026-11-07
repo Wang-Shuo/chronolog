@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2badfd4bc919b5fd2a49bf737dd09648b0dcf033f3d21f163ed3530ea94ac04
+machine_hash: 08626aa66988b1ef5ab035f2c13e38b006dadc61ed7ea619296d240964d597cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.300
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-3-mobile-and-desktop-changes-in-v0-12-0|3 Mobile
-  and Desktop changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-12-2-mobile-and-desktop-changes-in-v2026-10-2|2 Mobile
+  and Desktop changes in v2026.10.2]]'
 - '[[Changes/Windsurf/2026-10-12-devin-desktop|Devin Desktop]]'
 - '[[Changes/Gemini/2026-10-13-code-prototype-and-build-with-google-antigravity-in-the-gemini-macos-app|Code,
   prototype, and build with Google Antigravity in the Gemini macOS app]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 76a11dcda182739ae56205636cb01a31da670abe2d6c523d14928be5f5bcf101
+machine_hash: 30979ecb2a07cd14398b60908a38638a51bea2161cd491a09bb14715298dc32b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -154,12 +154,12 @@ record:
   title: 16 Model Support changes in v0.12.4
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-operations-archive-storage-supports-configurable-s3-addressing-style-the-api-ima|Operations:
-  archive storage supports configurable S3 addressing style]]'
 - '[[Changes/Ollama/2026-10-23-the-model-includes-a-dflash-draft-for-speculative-decoding|The
   model includes a DFlash draft for speculative decoding]]'
 - '[[Changes/Ollama/2026-10-24-d3-https-ollama-com-library-d3-brings-vllm-semantic-router-s-decision-models-to|d3((source
   link) brings vLLM Semantic Router''s decision models…]]'
+- '[[Changes/OpenClaw/2026-10-24-2-model-support-changes-in-v2026-10-7|2 Model Support
+  changes in v2026.10.7]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'
 source_type: github_releases
 theme: model-support
@@ -233,7 +233,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-24 · Ollama · [[Changes/Ollama/2026-10-24-d3-https-ollama-com-library-d3-brings-vllm-semantic-router-s-decision-models-to|d3((source link) brings vLLM Semantic Router's decision models…]]
+- Earlier: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-2-model-support-changes-in-v2026-10-7|2 Model Support changes in v2026.10.7]]
 - Later: 2026-10-26 · ChatGPT · [[Changes/ChatGPT/2026-10-26-gpt-6-1-terra-is-rolling-out-in-chatgpt-work-and-codex-it-supports-a-range-of-ta|GPT-6.1 Terra]]
 <!-- chronolog:end -->
 

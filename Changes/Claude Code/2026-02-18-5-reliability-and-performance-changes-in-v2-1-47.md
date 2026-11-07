@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 15847474dd10a3c8c890f4611ddcee72942bc182dd927c7b3b6f59354ef88285
+machine_hash: 493bcc3be2ede2bef8cbc9f3d69bc25eef5d486f07de00fb082d0435c1893264
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,10 +55,10 @@ record:
   title: 5 Reliability and Performance changes in v2.1.47
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-2-reliability-and-performance-changes-in-2-5|2 Reliability
-  and Performance changes in 2.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-2-reliability-and-performance-changes-in-v0-0-411|2
   Reliability and Performance changes in v0.0.411]]'
+- '[[Changes/Midjourney/2026-02-17-this-rating-party-is-focused-on-prompts-that-ask-to-generate-text|This
+  rating party is focused on prompts that ask to generate text]]'
 - "[[Changes/Open WebUI/2026-02-17-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931|claude-code-2026-02-18-v2-1-47-github-287886320-98b6e931]]'

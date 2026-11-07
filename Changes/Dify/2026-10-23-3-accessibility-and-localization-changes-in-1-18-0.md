@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 66fb59a4dc1d7c1f2b61130a4f98c7a8eaee2fd2b8a2351b81bc4a12fdee02af
+machine_hash: 5c3214438f0258e2871ed625eb02e0efb75e57279fa1e33127d508b6ced8bcb2
 product: dify
 product_name: Dify
 record:
@@ -53,8 +53,8 @@ record:
   title: 3 Accessibility and Localization changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-vscode-added-a-screen-reader-announcement-message-queued-when-you-send-a-message|VSCode
-  Added a screen reader announcement, "Message queued.", when you send…]]'
+- '[[Changes/OpenClaw/2026-10-10-2-accessibility-and-localization-changes-in-v2026-10-1|2
+  Accessibility and Localization changes in v2026.10.1]]'
 - '[[Changes/Claude Code/2026-10-20-vscode-added-a-running-start-up-hooks-spinner-status-with-a-screen-reader-announ|VSCode
   Added a "Running start-up hooks" spinner status, with a screen reader…]]'
 - '[[Changes/Claude Code/2026-10-21-changed-the-axscreenreader-setting-and-claude-ax-screen-reader-in-a-settings-env|Changed

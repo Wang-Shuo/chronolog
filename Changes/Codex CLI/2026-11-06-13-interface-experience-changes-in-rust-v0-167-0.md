@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 70c470e0439c262118f88dbf445387a4b32ec19231949970afbad86b82b9d8e7
+machine_hash: 0af95377b5009f7b02dcfc2e13c84abf9732da40aaf7d9090ea5ba778fd628fc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -69,8 +69,8 @@ record:
   title: 13 Interface Experience changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-11-03-4-interface-experience-changes-in-v0-13-0|4 Interface
-  Experience changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-13-interface-experience-changes-in-v2026-10-10|13
+  Interface Experience changes in v2026.10.10]]'
 - '[[Changes/OpenHands/2026-11-03-12-interface-experience-changes-in-v1-35-0|12 Interface
   Experience changes in v1.35.0]]'
 - '[[Changes/Dify/2026-11-04-2-interface-experience-changes-in-1-19-0|2 Interface

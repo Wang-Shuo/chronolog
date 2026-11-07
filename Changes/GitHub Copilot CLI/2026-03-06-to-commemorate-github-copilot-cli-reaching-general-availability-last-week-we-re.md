@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 23937803534fc373a9d713eec734fd71a16cf5c5958c6da1a0cf1833fc30d000
+machine_hash: f5092dd9cfe0d39db52bdc794b59d27f5a0115a4cda484c2abfbed1b87ce9938
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-06 · Cline · [[Changes/Cline/2026-03-06-hooks-added-a-notification-hook-for-attention-and-completion-boundaries|Hooks: Added a Notification hook for attention and completion boundaries]]
-- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-open-terminal-html-editing-users-can-now-edit-html-source-files-in-open-terminal|✏️ Open Terminal HTML editing. Users can now edit HTML source files in Open…]]
+- Later: 2026-03-06 · OpenCode · [[Changes/OpenCode/2026-03-06-desktop-load-tab-when-opening-file|Desktop Load tab when opening file]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

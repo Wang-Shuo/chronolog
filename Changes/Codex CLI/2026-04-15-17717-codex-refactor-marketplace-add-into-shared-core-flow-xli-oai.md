@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 840ddca9a49ca3101f9ce24444312b00c2227388ec49b4d3046edd5bf93d5980
+machine_hash: 02bb9be3b51c582ede84c479f284b1f7269fba1c658035dceded1cc83c6cde3a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-04-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-13-2-collaboration-changes-in-v1-0-25|2 Collaboration changes in v1.0.25]]
-- Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-18398-refactor-use-cloneable-async-channels-for-shared-receivers-bolinfest|♯18398 refactor: use cloneable async channels for shared receivers @bolinfest]]
+- Later: 2026-04-18 · OpenCode · [[Changes/OpenCode/2026-04-18-core-stopped-share-sync-attempts-for-sessions-that-were-never-shared|Core Stopped share sync attempts for sessions that were never shared]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89ae7b769073d7cde7cd41ab5879d12c48364539b69c609d4dfb938d5031d499
+machine_hash: 48fb53f42329492a5f6da93c823a8104e570f56912623083b055ef751bcc2429
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.27
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed
-  Bash commands to show timeout duration alongside elapsed time]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-29-add-lsp-language-server-protocol-tool-for-code-intelligence-requires-staff-flag|Add
   LSP (Language Server Protocol) tool for code intelligence (requires staff flag)]]'
+- '[[Changes/OpenCode/2026-01-29-3-developer-workflow-changes-in-v1-1-42|3 Developer
+  Workflow changes in v1.1.42]]'
 - '[[Changes/v0/2026-01-29-added-server-logs-for-better-debugging|Added server logs
   for better debugging]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 309036cdf2aba790a8efef529cb449bfa303c19db4edee27beb211b539785128
+machine_hash: 0f7ffe447ffb15a114a58d7ff0ed856d206199fffe8b18eae2fef89feaae3ce6
 product: openhands
 product_name: OpenHands
 record:
@@ -44,11 +44,12 @@ record:
   title: 2 Mobile and Desktop changes in v1.36.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-android-sdk|Android SDK]]'
-- "[[Changes/Open WebUI/2026-11-03-image-drops-from-photo-apps-images-dropped-into-chats-and-channels-are-now-recog|\U0001F5BC️
-  Image drops from photo apps. Images dropped into chats and channels are now…]]"
+- '[[Changes/OpenClaw/2026-11-03-4-mobile-and-desktop-changes-in-v2026-10-10|4 Mobile
+  and Desktop changes in v2026.10.10]]'
 - '[[Changes/OpenHands/2026-11-03-2-mobile-and-desktop-changes-in-v1-35-0|2 Mobile
   and Desktop changes in v1.35.0]]'
+- '[[Changes/OpenClaw/2026-11-05-keeps-accepted-talk-work-running-when-you-end-talk-on-an-android-phone-connected|Keeps
+  accepted Talk work running when you end Talk on an Android phone connected…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c|openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -85,7 +86,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-2-mobile-and-desktop-changes-in-v1-35-0|2 Mobile and Desktop changes in v1.35.0]]
+- Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-keeps-accepted-talk-work-running-when-you-end-talk-on-an-android-phone-connected|Keeps accepted Talk work running when you end Talk on an Android phone connected…]]
 - Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-2-mobile-and-desktop-changes-in-rust-v0-167-0|2 Mobile and Desktop changes in rust-v0.167.0]]
 <!-- chronolog:end -->
 

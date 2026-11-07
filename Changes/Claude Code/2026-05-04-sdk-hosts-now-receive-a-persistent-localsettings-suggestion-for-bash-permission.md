@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: edf9d6f0a93c310ff971910cd3f269560caf74fcbb49a622b4da58258aed8e32
+machine_hash: a0b7b91fc55d6be4120b46f2db0bb280a514f4c6af0eb423a1a9ca24b73abcf6
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: SDK hosts now receive a persistent `localSettings` suggestion for Bash permission…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety
-  and Privacy changes in v2.1.126]]'
 - '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off:
   users can discover and opt in]]'
 - '[[Changes/OpenHands/2026-05-01-added-sandbox-kvm-enabled-environment-variable-to-enable-passing-dev-kvm-to-sand|Added
   SANDBOX_KVM_ENABLED environment variable to enable passing /dev/kvm to sandbox…]]'
+- '[[Changes/OpenCode/2026-05-02-core-agents-can-use-the-global-temp-directory-without-extra-permission-prompts|Core
+  Agents can use the global temp directory without extra permission prompts]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
 theme: safety-privacy
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-01 · OpenHands · [[Changes/OpenHands/2026-05-01-added-sandbox-kvm-enabled-environment-variable-to-enable-passing-dev-kvm-to-sand|Added SANDBOX_KVM_ENABLED environment variable to enable passing /dev/kvm to sandbox…]]
+- Earlier: 2026-05-02 · OpenCode · [[Changes/OpenCode/2026-05-02-core-agents-can-use-the-global-temp-directory-without-extra-permission-prompts|Core Agents can use the global temp directory without extra permission prompts]]
 - Later: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-feat-cli-secure-env-loading-and-enforce-workspace-trust-in-headless-mode-by-ehed|feat(cli): secure .env loading and enforce workspace trust in headless mode]]
 <!-- chronolog:end -->
 

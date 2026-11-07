@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3beffe79ca62120644c7a8c712ce0b42467c5311b37962f749567e397b6f1c26
+machine_hash: 6ceaa3cbb6cf849278f3a02c3d5e9f7e5445bba2ce37a2596317e94462384c96
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     sidebar…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-03-open-the-dashboard-sidebar-from-inside-the-editor|Open
-  the dashboard sidebar from inside the editor]]'
+- '[[Changes/OpenClaw/2026-09-03-14-interface-experience-changes-in-v2026-9-1|14 Interface
+  Experience changes in v2026.9.1]]'
 - '[[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface
   Experience changes in v2.1.261]]'
 - '[[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874

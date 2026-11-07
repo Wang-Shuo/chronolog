@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a534b324776735098963449f379a44195f2e33f959c9957f08cc7684b09bc845
+machine_hash: 1965236e3687788560825229cf866d5a0c94f31d86aef5a5e9435dc1737e743d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -55,12 +55,12 @@ record:
   title: ElevenLabs CLI
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-5-developer-workflow-changes-in-rust-v0-153-0|5
-  Developer Workflow changes in rust-v0.153.0]]'
-- '[[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer
-  Workflow changes in v2.1.261]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-detect-the-herdr-terminal-multiplexer-instead-of-mistaking-it-for-tmux-so-the-ki|Detect
   the herdr terminal multiplexer instead of mistaking it for tmux, so the Kitty…]]'
+- '[[Changes/OpenClaw/2026-09-05-16-developer-workflow-changes-in-v2026-9-2|16 Developer
+  Workflow changes in v2026.9.2]]'
+- '[[Changes/OpenClaw/2026-09-05-you-can-now-put-the-part-of-a-task-you-are-working-on-in-the-main-view-and-keep|Put
+  the part of a task you are working on in the main view and keep the conversation…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-07-2026-09-07-cf030a1d|elevenlabs-2026-09-07-2026-09-07-cf030a1d]]'
 source_type: elevenlabs_changelog
 theme: developer-workflow
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-detect-the-herdr-terminal-multiplexer-instead-of-mistaking-it-for-tmux-so-the-ki|Detect the herdr terminal multiplexer instead of mistaking it for tmux, so the Kitty…]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-you-can-now-put-the-part-of-a-task-you-are-working-on-in-the-main-view-and-keep|Put the part of a task you are working on in the main view and keep the conversation…]]
 - Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer Workflow changes in v2.1.265]]
 <!-- chronolog:end -->
 

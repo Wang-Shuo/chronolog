@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc97fee3d45243ea8044ff70709b4010f78616ff9728c535b9c7810015b29dec
+machine_hash: 8eeb30bac32ef4786e7b192240a95b75034527c46ac48408a09d9706edb77946
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Safety and Privacy changes in v2.1.248
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-2-safety-and-privacy-changes-in-v2-1-247|2 Safety
-  and Privacy changes in v2.1.247]]'
 - '[[Changes/Codex CLI/2026-08-26-12-safety-and-privacy-changes-in-rust-v0-150-0|12
   Safety and Privacy changes in rust-v0.150.0]]'
+- '[[Changes/Google Antigravity/2026-08-26-2-safety-and-privacy-changes-in-hub-v2-11-0-generative-ui-and-ui|2
+  Safety and Privacy changes in HUB v2.11.0 — Generative UI and UI…]]'
 - '[[Changes/Lovable/2026-08-26-log-out-everywhere|Log out everywhere]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases

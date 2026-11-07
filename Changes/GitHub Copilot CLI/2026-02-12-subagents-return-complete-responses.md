@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 896a58522b5b5c77a461638f5c01e66d164f20e0f894a1cf249df61c541b2f34
+machine_hash: fe324b63ea7ab265df4d05eba693044b350517811eae317ad7604db3e17a2155
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-12 · Cursor · [[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c|Long-running Agents in Research Preview]]
-- Later: 2026-02-13 · Replit · [[Changes/Replit/2026-02-13-agent-production-sql-database-access|Agent production SQL database access]]
+- Later: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-support-claude-agent-sdk-style-structured-outputs-in-the-opencode-sdk|Support Claude agent SDK-style structured outputs in the OpenCode SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

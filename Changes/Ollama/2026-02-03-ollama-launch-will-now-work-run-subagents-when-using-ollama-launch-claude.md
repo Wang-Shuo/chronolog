@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52fe9cf217112958948be4f992437ccb983c861b4b1cdf54f14fed27421a1e02
+machine_hash: a9fcb4cba1da4fda7fae3fe4563312939670d267a51f936cb53fe806bb66006e
 product: ollama
 product_name: Ollama
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-support-agents-skills-directory-for-auto-loading-skills|Support .agents/skills directory for auto-loading skills]]
-- Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-4-agent-mode-changes-in-rust-v0-95-0|4 Agent Mode changes in rust-v0.95.0]]
+- Later: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-4-agent-mode-changes-in-v1-1-49|4 Agent Mode changes in v1.1.49]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

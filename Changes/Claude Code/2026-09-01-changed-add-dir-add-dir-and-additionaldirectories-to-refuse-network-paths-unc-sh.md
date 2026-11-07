@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e0d5f15cdb8cdc5b6340aa419857f2f27298de5708aa5ae1255f2a62ecbd1d8
+machine_hash: 66d26c402ead06b098869002009250e92959ebaad94d618dd30457c765998028
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,11 +47,11 @@ record:
     paths…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT
-  Work and Codex can now use tools that supported websites provide directly…]]'
 - '[[Changes/ElevenLabs/2026-08-31-android-sdk|Android SDK]]'
 - "[[Changes/Open WebUI/2026-08-31-code-interpreter-starts-on-windows-the-built-in-code-interpreter-now-serves-its|\U0001F40D
   Code interpreter starts on Windows. The built-in code interpreter now serves…]]"
+- '[[Changes/OpenClaw/2026-08-31-installation-and-onboarding-a-clearer-path-from-download-to-a-first-useful-conve|Installation
+  and Onboarding - A clearer path from download to a first useful…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-code-interpreter-starts-on-windows-the-built-in-code-interpreter-now-serves-its|🐍 Code interpreter starts on Windows. The built-in code interpreter now serves…]]
-- Later: 2026-09-02 · Lovable · [[Changes/Lovable/2026-09-02-download-the-mobile-app-from-your-settings|Download the mobile app from your settings]]
+- Earlier: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-installation-and-onboarding-a-clearer-path-from-download-to-a-first-useful-conve|Installation and Onboarding - A clearer path from download to a first useful…]]
+- Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-3-mobile-and-desktop-changes-in-v2026-8-2|3 Mobile and Desktop changes in v2026.8.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

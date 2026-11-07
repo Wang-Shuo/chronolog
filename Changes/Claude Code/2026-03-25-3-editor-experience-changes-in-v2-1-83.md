@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4df483b0a4ae3a9039d744a7abfddb4f32f3766c0868abfdf92da0d8bc5d305
+machine_hash: 16cdcb0394e6ffff810dc6cbd64c2313c5700ec61169e92ab383e33c490dd4c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Editor Experience changes in v2.1.83
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-18-mouse-scroll-works-correctly-in-tmux-after-returning-from-an-external-editor|Mouse
-  scroll works correctly in tmux after returning from an external editor]]'
-- '[[Changes/Claude Code/2026-03-19-improved-permissions-tab-and-arrow-keys-now-switch-tabs-from-within-a-list|Improved
-  /permissions — Tab and arrow keys now switch tabs from within a list]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-elicitation-form-shows-shift-tab-hint-for-navigating-between-fields-in-reverse|Elicitation
   form shows Shift+Tab hint for navigating between fields in reverse]]'
+- '[[Changes/OpenCode/2026-03-22-3-editor-experience-changes-in-v1-3-0|3 Editor Experience
+  changes in v1.3.0]]'
+- '[[Changes/OpenCode/2026-03-24-changed-command-palette-shortcut-to-cmd-k-with-cmd-p-still-working-as-fallback|Changed
+  command palette shortcut to Cmd+K (with Cmd+P still working as fallback)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-elicitation-form-shows-shift-tab-hint-for-navigating-between-fields-in-reverse|Elicitation form shows Shift+Tab hint for navigating between fields in reverse]]
+- Earlier: 2026-03-24 · OpenCode · [[Changes/OpenCode/2026-03-24-changed-command-palette-shortcut-to-cmd-k-with-cmd-p-still-working-as-fallback|Changed command palette shortcut to Cmd+K (with Cmd+P still working as fallback)]]
 - Later: 2026-03-25 · Ollama · [[Changes/Ollama/2026-03-25-microsoft-visual-studio-code-now-directly-integrates-with-ollama-via-github-copi|Microsoft Visual Studio Code now directly integrates with Ollama via GitHub Copilot]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8c886668e30d36e0dd14f89eb3e98efeac6cea00a5392b10f1449c62e37d264c
+machine_hash: b008bae5ca94e632a9bb09946b31a5a46997b61625482844ac88d7d505131210
 product: lovable
 product_name: Lovable
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-safety-and-privacy-changes-in-v1-0-60|2 Safety and Privacy changes in v1.0.60]]
-- Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla|Hardened cross-session messaging]]
+- Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-2-safety-and-privacy-changes-in-v1-16-2|2 Safety and Privacy changes in v1.16.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

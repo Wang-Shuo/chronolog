@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2a0263e83a0f1f480be63638ff5d008ceaa58fd795f12e0c520af91280ad6b9
+machine_hash: 88ed5291d6ce280d4db22d7792ac3699a4cd4ae691fd7eb23712e5e60e82091d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -143,7 +143,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|🤝 Files for delegated tasks. A task handed to a sub-agent can now carry…]]
-- Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-add-your-app-to-slack-as-an-agent|Add your app to Slack as an agent]]
+- Later: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-3-agent-mode-changes-in-hub-v2-11-0-generative-ui-and-ui|3 Agent Mode changes in HUB v2.11.0 — Generative UI and UI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

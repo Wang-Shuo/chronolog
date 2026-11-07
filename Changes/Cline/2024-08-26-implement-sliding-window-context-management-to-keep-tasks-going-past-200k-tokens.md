@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 76cad5b9970413f15cf2c9ad08f23e4bdeac3d9ac0a0b7b0562d40e3b044c460
+machine_hash: 73225f9bdaabc8fbeb2fcd80b438dbdebdb9c8c6f48195091b361bbad79c2ee1
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,12 @@ record:
     tokens
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-10-add-read-only-files-to-the-chat-context-with-read-and-read-including-from-outsid|Add
-  read-only files to the chat context with /read and --read, including…]]'
-- '[[Changes/Aider/2024-08-13-bug-fix-for-chat-history-size-in-tokens|Bug fix for
-  chat history size in /tokens]]'
 - '[[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We''ve
   also trained a new Cursor Tab model that''s smarter and more context-aware]]'
+- '[[Changes/Gamma/2024-08-24-plus-token-limit-increased-from-5-000-to-10-000-tokens-per-generation|Plus:
+  Token limit increased from 5,000 to 10,000 tokens per generation]]'
+- '[[Changes/Gamma/2024-08-24-pro-token-limit-increased-from-10-000-to-25-000-tokens-per-generation|Pro:
+  Token limit increased from 10,000 to 25,000 tokens per generation]]'
 source_release: '[[Releases/Cline/cline-2024-08-26-v1-4-0-github-171881713-4922216c|cline-2024-08-26-v1-4-0-github-171881713-4922216c]]'
 source_type: github_releases
 theme: context-window
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-we-ve-also-trained-a-new-cursor-tab-model-that-s-smarter-and-more-context-aware-56db10|We've also trained a new Cursor Tab model that's smarter and more context-aware]]
+- Earlier: 2024-08-24 · Gamma · [[Changes/Gamma/2024-08-24-pro-token-limit-increased-from-10-000-to-25-000-tokens-per-generation|Pro: Token limit increased from 10,000 to 25,000 tokens per generation]]
 - Later: 2024-08-27 · Aider · [[Changes/Aider/2024-08-27-keep-your-prompt-cache-from-expiring-https-aider-chat-docs-usage-caching-html-pr|Keep your prompt cache…]]
 <!-- chronolog:end -->
 

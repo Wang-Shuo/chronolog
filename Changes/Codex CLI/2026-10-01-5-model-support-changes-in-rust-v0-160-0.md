@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7888bbca7a2a9fb5dabc8e95f6107a9c7d563a2b2250cf210f4edc0b68d99c3b
+machine_hash: 0af9ab73b10c436fc4f850b3297cbffa0dbc47b2094834f078b4d9e3d82226df
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 5 Model Support changes in rust-v0.160.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-30-6-model-support-changes-in-v4-1-22|6 Model Support changes
-  in v4.1.22]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-30-2-model-support-changes-in-v1-0-90|2 Model
-  Support changes in v1.0.90]]'
+- '[[Changes/OpenClaw/2026-09-30-22-model-support-changes-in-v2026-9-7|22 Model Support
+  changes in v2026.9.7]]'
+- '[[Changes/OpenCode/2026-09-30-send-namespaced-session-and-parent-session-identity-headers-with-model-requests|Send
+  namespaced session and parent-session identity headers with model requests]]'
 - '[[Changes/Claude Code/2026-10-01-4-model-support-changes-in-v2-1-287|4 Model Support
   changes in v2.1.287]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'
@@ -110,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.160.0
 ## Nearby in Model Support
 
 - Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-4-model-support-changes-in-v2-1-287|4 Model Support changes in v2.1.287]]
-- Later: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed the client-side auto mode classifier to ignore…]]
+- Later: 2026-10-01 · Suno · [[Changes/Suno/2026-10-01-meet-the-first-model-to-create-a-speech-and-its-soundtrack-together-in-one-take|Introducing Speech (beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

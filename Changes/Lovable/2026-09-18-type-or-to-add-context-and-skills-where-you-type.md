@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1b0a1698177bb2a1ed7de699eabed3de483aa7501918e08361505fa0ca4bdb53
+machine_hash: 453a46b8321ffccaaa27b388f20c870d1923ebf88db41522507ab74223741852
 product: lovable
 product_name: Lovable
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-20-context-window-changes-in-rust-v0-155-0|20 Context Window changes in rust-v0.155.0]]
-- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-3-context-window-changes-in-v0-11-4|3 Context Window changes in v0.11.4]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-20-context-window-changes-in-v2026-9-5|20 Context Window changes in v2026.9.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

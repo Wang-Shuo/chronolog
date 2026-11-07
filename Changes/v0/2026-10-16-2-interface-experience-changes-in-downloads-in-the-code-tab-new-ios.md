@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b19684c2d6640598183555561a1ce59caa490ce291ad4eb13136c30f4915482
+machine_hash: f4bec0f5091954ffee5b60741c369ce43821cb4e6ccb2c2f21bec42d806c770c
 product: v0
 product_name: v0
 record:
@@ -48,10 +48,10 @@ record:
   title: 2 Interface Experience changes in Downloads in the Code tab, new iOS…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface
-  Experience changes in v2.1.301]]'
 - '[[Changes/Codex CLI/2026-10-15-8-interface-experience-changes-in-rust-v0-163-0|8
   Interface Experience changes in rust-v0.163.0]]'
+- '[[Changes/Google Antigravity/2026-10-15-in-the-full-screen-viewer-the-comma-and-period-keys-now-step-a-video-back-or-for|In
+  the full-screen viewer, the comma and period keys now step a video back…]]'
 - '[[Changes/Open WebUI/2026-10-16-4-interface-experience-changes-in-v0-12-3|4 Interface
   Experience changes in v0.12.3]]'
 source_release: '[[Releases/v0/v0-2026-10-16-2026-10-16-3443a38d|v0-2026-10-16-2026-10-16-3443a38d]]'
@@ -93,7 +93,7 @@ Source: https://v0.app/changelog#2026-10-16
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-4-interface-experience-changes-in-v0-12-3|4 Interface Experience changes in v0.12.3]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-interface-experience-changes-in-v1-0-100|2 Interface Experience changes in v1.0.100]]
+- Later: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-openclaw-2026-10-5-refreshes-the-sidebar-adds-saved-versions-and-undo-to-skill-w|OpenClaw 2026.10.5 refreshes the sidebar, adds saved versions and Undo to Skill…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

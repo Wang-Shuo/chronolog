@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 10659ba18f606b22a965fa9df433c542ff299292c2c4631bdb5053a729906b0c
+machine_hash: 9aa2df75c2988255deefedab20718539c2fe4435ccdbfbd6f54a0efebfe94c10
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     across…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved
-  startup: bare claude starts sooner on macOS]]'
 - '[[Changes/Codex CLI/2026-08-20-7-mobile-and-desktop-changes-in-rust-v0-149-0|7
   Mobile and Desktop changes in rust-v0.149.0]]'
+- '[[Changes/OpenCode/2026-08-20-desktop-kept-saved-server-details-editable-in-the-server-dialog|Desktop
+  Kept saved server details editable in the server dialog]]'
 - '[[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote
   sessions: images uploaded from mobile now include their saved file path…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-7-mobile-and-desktop-changes-in-rust-v0-149-0|7 Mobile and Desktop changes in rust-v0.149.0]]
+- Earlier: 2026-08-20 · OpenCode · [[Changes/OpenCode/2026-08-20-desktop-kept-saved-server-details-editable-in-the-server-dialog|Desktop Kept saved server details editable in the server dialog]]
 - Later: 2026-08-21 · Ollama · [[Changes/Ollama/2026-08-21-developers-can-now-easily-configure-claude-desktop-to-seamlessly-work-with-ollam|Developers can now easily configure Claude Desktop to seamlessly work with Ollama…]]
 <!-- chronolog:end -->
 

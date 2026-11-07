@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d67ee9d0512b1691c5e7645162ed5e9d91ea2c702cea5a1c2487ece5ffc11682
+machine_hash: 5497718f9583276ec3079bec67a111a8c9df4a088ee213ee16d9da6745f3d5eb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     (GHE)…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-13-logout-shows-a-warning-when-signed-in-via-gh-cli-pat-api-key-or-environment-vari|/logout
-  shows a warning when signed in via gh CLI, PAT, API key, or environment…]]'
-- '[[Changes/Gemini CLI/2026-04-14-docs-update-mcp-server-oauth-redirect-port-documentation-by-adamfweidman-in-http|docs:
-  update MCP server OAuth redirect port documentation]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-14-enterprise-login-accepts-hostnames-without-a-url-scheme-e-g-github-example-com|Enterprise
   login accepts hostnames without a URL scheme (e.g. ''github.example.com'')]]'
+- '[[Changes/OpenCode/2026-04-15-2-account-and-access-changes-in-v1-4-4|2 Account
+  and Access changes in v1.4.4]]'
+- '[[Changes/OpenCode/2026-04-16-core-workspaces-now-receive-your-auth-context-so-provider-sign-in-carries-across|Core
+  Workspaces now receive your auth context, so provider sign-in carries across…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-17-v1-0-32-github-310570906-80c72acc|github-copilot-cli-2026-04-17-v1-0-32-github-310570906-80c72acc]]'
 source_type: github_releases
 theme: account-access
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-14-enterprise-login-accepts-hostnames-without-a-url-scheme-e-g-github-example-com|Enterprise login accepts hostnames without a URL scheme (e.g. 'github.example.com')]]
+- Earlier: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-core-workspaces-now-receive-your-auth-context-so-provider-sign-in-carries-across|Core Workspaces now receive your auth context, so provider sign-in carries across…]]
 - Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-17-account-and-access-changes-in-v0-9-0|17 Account and Access changes in v0.9.0]]
 <!-- chronolog:end -->
 

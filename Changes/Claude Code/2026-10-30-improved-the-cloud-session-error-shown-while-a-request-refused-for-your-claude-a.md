@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa471d6d17026812a7721475f14be74dadceb87a13f49c019626351b1c6d2c2e
+machine_hash: 63b130f43b72ceae9a3dad33d0e7dc1de9ba054d4f12e7ad9eb327bce66bde2f
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved the cloud session error shown while a request refused for your claude.ai…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-28-set-up-two-factor-authentication-from-the-dashboard-banner|Set
-  up two-factor authentication from the dashboard banner]]'
-- '[[Changes/Codex CLI/2026-10-29-8-account-and-access-changes-in-rust-v0-166-0|8
-  Account and Access changes in rust-v0.166.0]]'
+- '[[Changes/Google Antigravity/2026-10-29-plugins-that-connect-to-an-account-now-have-an-accounts-tab-on-their-page-where|Plugins
+  that connect to an account now have an Accounts tab on their page, where you…]]'
 - '[[Changes/Lovable/2026-10-29-log-in-with-one-click-using-google|Log in with one
   click using Google]]'
+- '[[Changes/OpenClaw/2026-10-29-google-sign-in-client-secrets-are-now-masked-in-console-and-log-tail-output-raw|Google
+  sign-in client secrets are now masked in console and log-tail output]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: account-access
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-29 · Lovable · [[Changes/Lovable/2026-10-29-log-in-with-one-click-using-google|Log in with one click using Google]]
-- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode Added sign-in to a Claude apps gateway from the chat panel, with no…]]
+- Earlier: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-google-sign-in-client-secrets-are-now-masked-in-console-and-log-tail-output-raw|Google sign-in client secrets are now masked in console and log-tail output]]
+- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-use-claude-code-in-opencode|Use Claude Code in OpenCode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

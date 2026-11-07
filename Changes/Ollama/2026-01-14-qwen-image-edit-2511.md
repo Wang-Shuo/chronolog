@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86ac0c83e2a5538c9e1c82d19bcdb2abd2d215fc2079671b1fc6c91ae2f0ea91
+machine_hash: ad59c7e1613d21fe660470efe5cd1ef52c6885eca94cc5b0057221606b1ee60d
 product: ollama
 product_name: Ollama
 record:
@@ -41,8 +41,8 @@ record:
   title: Qwen-Image-Edit-2511
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-send-messages-while-copilot-is-thinking-to-steer-or-queue|Send
-  messages while Copilot is thinking to steer or queue]]'
+- '[[Changes/OpenCode/2026-01-13-core-improved-edit-and-write-tool-feedback-to-prevent-confusion-about-whether-ch|Core
+  Improved edit and write tool feedback to prevent confusion about whether…]]'
 - '[[Changes/Codex CLI/2026-01-14-2-editor-experience-changes-in-rust-v0-81-0|2 Editor
   Experience changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-4-editor-experience-changes-in-v0-24-0|4 Editor
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-4-editor-experience-changes-in-v0-24-0|4 Editor Experience changes in v0.24.0]]
-- Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|Added external editor support (Ctrl+G) in AskUserQuestion "Other" input field]]
+- Later: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-add-error-message-to-prompt-users-to-reauthenticate-with-copilot|Add error message to prompt users to reauthenticate with Copilot]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

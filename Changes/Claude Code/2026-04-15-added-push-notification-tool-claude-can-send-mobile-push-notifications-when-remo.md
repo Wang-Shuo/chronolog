@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: abe4a6a32c1eaa1d3a64d85f06bc5c1918d1a339369eea60c8d670ae7c5fa303
+machine_hash: 94fbb3aedf3025a90161ea74356cd43c5ecd58ff4f6101f5182438b11071a0e2
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Added push notification tool
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-09-openclaw-channel-setup-connect-whatsapp-telegram-discord-and-other-messaging-cha|OpenClaw
-  channel setup]]'
+- '[[Changes/OpenCode/2026-04-09-2-mobile-and-desktop-changes-in-v1-4-2-1|2 Mobile
+  and Desktop changes in v1.4.2 + 1]]'
 - '[[Changes/Codex CLI/2026-04-10-6-mobile-and-desktop-changes-in-rust-v0-119-0|6
   Mobile and Desktop changes in rust-v0.119.0]]'
 - '[[Changes/Cursor/2026-04-13-on-macos-text-is-now-rendered-with-anti-aliasing-producing-sharper-character-edg|On

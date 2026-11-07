@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 832e40db0df97314a4ed14e9abce6b8db36a6ccd9d4b1b8aa69621641a235645
+machine_hash: 524aee7b2e9058878087bfc1ace2849705b213bb638469b64bea729804d33140
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -72,10 +72,10 @@ record:
   title: GPT-6.1 Terra
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-23-the-model-includes-a-dflash-draft-for-speculative-decoding|The
-  model includes a DFlash draft for speculative decoding]]'
 - '[[Changes/Ollama/2026-10-24-d3-https-ollama-com-library-d3-brings-vllm-semantic-router-s-decision-models-to|d3((source
   link) brings vLLM Semantic Router''s decision models…]]'
+- '[[Changes/OpenClaw/2026-10-24-2-model-support-changes-in-v2026-10-7|2 Model Support
+  changes in v2026.10.7]]'
 - '[[Changes/Open WebUI/2026-10-25-16-model-support-changes-in-v0-12-4|16 Model Support
   changes in v0.12.4]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-26-gpt-6-1-terra-d321b573|chatgpt-2026-10-26-gpt-6-1-terra-d321b573]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f4c65e27a0f034bbeb9db53e00767837151bb67350ac2bd556b90a760568b2b
+machine_hash: be2acc18ace55c0de41bf61764c41befead0f7228211463459a815958d2a9167
 product: dify
 product_name: Dify
 record:
@@ -53,8 +53,8 @@ record:
   title: '**Langfuse Trace Readability**'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized
-  Cline to work with the Claude 4 family of models, resulting in improved…]]'
+- '[[Changes/Manus/2025-06-26-we-now-offer-two-specialized-modes-for-all-manus-paid-subscribers-choose-between|Introducing
+  Agent preference]]'
 - '[[Changes/Aider/2025-06-27-3-reliability-and-performance-changes-in-v0-85-0|3 Reliability
   and Performance changes in v0.85.0]]'
 - '[[Changes/Ollama/2025-06-27-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The

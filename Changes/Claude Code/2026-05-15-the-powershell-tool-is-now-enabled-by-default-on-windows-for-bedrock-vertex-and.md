@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d1e10db1d862a5e6b29a87ea7243e6014ba72bdd1ef04f866832e7af130adf4b
+machine_hash: 2e420f73c9ec455c35fe34068f6fc08daf3baba8a5341826e1f72b10bcddc311
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: The PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More
-  images in answers for Free users]]'
-- '[[Changes/Ollama/2026-05-13-laguna-xs-2-is-not-yet-supported-on-windows-linux|laguna-xs.2
-  is not yet supported on Windows/Linux]]'
+- '[[Changes/Suno/2026-05-13-suno-is-now-available-on-apple-carplay-and-android-auto|Suno
+  is now available on Apple CarPlay and Android Auto]]'
 - '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated
   images will continue to appear in the Images tab]]'
+- '[[Changes/Suno/2026-05-14-the-mobile-app-just-got-better|The mobile app just got
+  better]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated images will continue to appear in the Images tab]]
-- Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-3-mobile-and-desktop-changes-in-claude-opus-4-7-fast-agent-browser|3 Mobile and Desktop changes in Claude Opus 4.7 Fast, agent browser…]]
+- Earlier: 2026-05-14 · Suno · [[Changes/Suno/2026-05-14-the-mobile-app-just-got-better|The mobile app just got better]]
+- Later: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-desktop-fixed-archived-sessions-being-reprocessed-when-their-archive-state-did-n|Desktop Fixed archived sessions being reprocessed when their archive state did not change]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

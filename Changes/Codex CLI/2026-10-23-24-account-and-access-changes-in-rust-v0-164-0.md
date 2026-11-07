@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd2ed5f0911c2746a3d38139e83f131a485fe95ce7856460366420b8f0790b34
+machine_hash: f441ab971298dd20c535e4eb5a5f477a983e66d741a0cef88dacabea79e0d68a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,12 +97,12 @@ record:
   title: 24 Account and Access changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-vscode-changed-the-message-shown-when-a-session-does-not-start-in-time-and-no-ho|VSCode
-  Changed the message shown when a session does not start in time and no hook…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-4-account-and-access-changes-in-v1-0-101|4
   Account and Access changes in v1.0.101]]'
 - '[[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account
   and Access changes in v2.1.307]]'
+- '[[Changes/OpenClaw/2026-10-22-mcp-sign-in-errors-now-give-a-safe-reason-and-tell-you-how-to-sign-in-or-fix-you|MCP
+  sign-in errors now give a safe reason and tell you how to sign in or fix…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
 source_type: github_releases
 theme: account-access
@@ -193,7 +193,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account and Access changes in v2.1.307]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-mcp-sign-in-errors-now-give-a-safe-reason-and-tell-you-how-to-sign-in-or-fix-you|MCP sign-in errors now give a safe reason and tell you how to sign in or fix…]]
 - Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-6-account-and-access-changes-in-1-18-0|6 Account and Access changes in 1.18.0]]
 <!-- chronolog:end -->
 

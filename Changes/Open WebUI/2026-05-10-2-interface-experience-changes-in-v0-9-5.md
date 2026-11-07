@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ca2ab2c00be5fd35e08bb182e9310f20ca46ccd52db7e67335363fe79a4479f
+machine_hash: bfdc44fb19611481538d0cb7c4ff26666e5d23c68b60dc205083a751a39c29d8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,12 +49,12 @@ record:
   title: 2 Interface Experience changes in v0.9.5
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-20665-make-environment-providers-own-default-selection-starr-openai|♯20665
-  Make environment providers own default selection @starr-openai]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project
   info remains visible in slash command picker when no results match]]'
 - '[[Changes/Open WebUI/2026-05-09-8-interface-experience-changes-in-v0-9-3|8 Interface
   Experience changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-09-3-interface-experience-changes-in-v1-14-44-2|3 Interface
+  Experience changes in v1.14.44 + 2]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-10-v0-9-5-github-320167431-c515d0a2|open-webui-2026-05-10-v0-9-5-github-320167431-c515d0a2]]'
 source_type: github_releases
 theme: interface-experience
@@ -95,7 +95,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-8-interface-experience-changes-in-v0-9-3|8 Interface Experience changes in v0.9.3]]
+- Earlier: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-3-interface-experience-changes-in-v1-14-44-2|3 Interface Experience changes in v1.14.44 + 2]]
 - Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added transcript view navigation]]
 <!-- chronolog:end -->
 

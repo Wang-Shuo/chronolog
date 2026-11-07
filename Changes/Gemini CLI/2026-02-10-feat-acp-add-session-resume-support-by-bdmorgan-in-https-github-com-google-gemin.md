@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 15cb0e6f49feac80d934487019a40ce262bc8e8d6bf2d6d830320260a2d8ae89
+machine_hash: 139f4ad5752ae339e311f0364f2d1fc0197aacbba434246ba47043888f61345b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 'feat(acp): add session resume support'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-docs-update-project-context-and-pr-creator-workflow-by-ntaylormullen-in-https-gi|docs:
-  update project context and pr-creator workflow]]'
 - '[[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added
   --from-pr flag to resume sessions linked to a specific GitHub PR number or URL]]'
+- '[[Changes/OpenCode/2026-02-03-desktop-add-project-context-menu-on-right-click|Desktop
+  Add project context menu on right-click]]'
 - '[[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added
   session resume hint on exit, showing how to continue your conversation later]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186|gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added session resume hint on exit, showing how to continue your conversation later]]
-- Later: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-exit-from-alt-screen-no-longer-replays-full-session-history|Exit from alt-screen no longer replays full session history]]
+- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-desktop-add-cmd-keybinds-for-session-history-navigation|Desktop Add Cmd+/ keybinds for session history navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

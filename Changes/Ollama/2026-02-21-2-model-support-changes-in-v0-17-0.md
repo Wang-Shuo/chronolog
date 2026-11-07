@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3d35364175b7dff5df2e7752c81b3d7c82c548981b2f3e8bcff99c52a6e0d71
+machine_hash: fe82b7faf508af59c44155cdcf021a11e1f1c0c7add7c80e0589c9f8363dd6f3
 product: ollama
 product_name: Ollama
 record:
@@ -46,12 +46,11 @@ record:
   title: 2 Model Support changes in v0.17.0
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-02-19-gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks|Gemini
-  3.1 Pro: A smarter model for your most complex tasks]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-19-2-model-support-changes-in-v0-0-412|2 Model
-  Support changes in v0.0.412]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-2-model-support-changes-in-v0-0-413|2 Model
   Support changes in v0.0.413]]'
+- '[[Changes/Midjourney/2026-02-20-please-note|Please Note]]'
+- '[[Changes/OpenCode/2026-02-20-core-remove-unnecessary-deep-clones-from-session-loop-and-llm-stream|Core
+  Remove unnecessary deep clones from session loop and LLM stream]]'
 source_release: '[[Releases/Ollama/ollama-2026-02-21-v0-17-0-github-288945124-1246b4e7|ollama-2026-02-21-v0-17-0-github-288945124-1246b4e7]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +85,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-2-model-support-changes-in-v0-0-413|2 Model Support changes in v0.0.413]]
+- Earlier: 2026-02-20 · OpenCode · [[Changes/OpenCode/2026-02-20-core-remove-unnecessary-deep-clones-from-session-loop-and-llm-stream|Core Remove unnecessary deep clones from session loop and LLM stream]]
 - Later: 2026-02-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-23-plan-approval-menu-shows-model-curated-actions-with-a-recommended-option-highlig|Plan approval menu shows model-curated actions with a recommended option highlighted…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4920a6ed838f01478c38ce87764eb6db7d7a7df4867f9daa4862a44374fe4417
+machine_hash: 797d2bef0381b1709340a7b5775c6d948aca41a0bdbbc181e8ec8fbedeab9353
 product: open-webui
 product_name: Open WebUI
 record:
@@ -70,12 +70,12 @@ record:
   title: 5 Apps and Integrations changes in v0.12.4
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-2-apps-and-integrations-changes-in-v1-32-0|2 Apps
-  and Integrations changes in v1.32.0]]'
 - '[[Changes/Replit/2026-10-23-keep-your-apps-running-when-credits-run-out|Keep your
   apps running when credits run out]]'
 - '[[Changes/Windsurf/2026-10-23-5-apps-and-integrations-changes-in-v3-11-212|5 Apps
   and Integrations changes in v3.11.212]]'
+- '[[Changes/OpenClaw/2026-10-24-7-apps-and-integrations-changes-in-v2026-10-7|7 Apps
+  and Integrations changes in v2026.10.7]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'
 source_type: github_releases
 theme: apps-integrations
@@ -127,7 +127,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-5-apps-and-integrations-changes-in-v3-11-212|5 Apps and Integrations changes in v3.11.212]]
+- Earlier: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-7-apps-and-integrations-changes-in-v2026-10-7|7 Apps and Integrations changes in v2026.10.7]]
 - Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3 Apps and Integrations changes in v2.1.311]]
 <!-- chronolog:end -->
 

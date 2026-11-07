@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c109491f0a8a66b90b9f0dbd2efd3980d5d1f632f02282ec27010ff437beec9e
+machine_hash: db2b617c10c2e5c8d3b7d998dfdbe0b96442d40502ab86ab5710a33ee451991f
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,10 @@ record:
   title: Improved streaming performance
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-large-tool-calls-stream-faster-through-anthropic-compatible-clients-when-a-strea|\U0001F9E0
-  Large tool calls stream faster through Anthropic-compatible…]]"
-- "[[Changes/Open WebUI/2026-08-31-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
-  General improvements. Various improvements were implemented across…]]"
-- '[[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved
-  prompt input responsiveness by reducing per-keystroke rendering work]]'
+- '[[Changes/Suno/2026-09-02-chat-improvements|Chat improvements]]'
+- '[[Changes/Suno/2026-09-02-wavetable-fidelity|Wavetable fidelity]]'
+- '[[Changes/OpenClaw/2026-09-03-on-linux-managed-local-model-and-embedding-services-are-preferred-as-the-out-of|On
+  Linux, managed local model and embedding services are preferred…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved prompt input responsiveness by reducing per-keystroke rendering work]]
+- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-on-linux-managed-local-model-and-embedding-services-are-preferred-as-the-out-of|On Linux, managed local model and embedding services are preferred…]]
 - Later: 2026-09-05 · Ollama · [[Changes/Ollama/2026-09-05-this-release-also-improves-structured-output-performance-on-apple-silicon-adds-s|This release also improves structured output performance on Apple Silicon, adds…]]
 <!-- chronolog:end -->
 

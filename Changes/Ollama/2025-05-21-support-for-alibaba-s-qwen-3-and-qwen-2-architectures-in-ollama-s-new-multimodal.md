@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e6e03ffd6abf9b15c9f83d0b843d79c0c1b7be7077d6f13a96a151dbaf130083
+machine_hash: 5c36ad43424b744fdbe6479c43dbdaecd557e96b094d2da07f102e382de09c49
 product: ollama
 product_name: Ollama
 record:
@@ -53,12 +53,12 @@ record:
   title: Support for Alibaba's Qwen 3 and Qwen 2 architectures in Ollama's new [multimodal…
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-04-26-add-support-for-meta-s-llama-4-https-ollama-com-library-llama4-multimodal-models|Add
-  support for Meta''s Llama 4((source link) multimodal models]]'
 - '[[Changes/Ollama/2025-05-13-2-multimodal-input-changes-in-v0-7-0|2 Multimodal Input
   changes in v0.7.0]]'
 - '[[Changes/Dify/2025-05-15-feat-api-add-image-multimodal-support-for-llmnode-by-quantumghost-in-https-githu|feat(api):
   Add image multimodal support for LLMNode]]'
+- '[[Changes/Runway/2025-05-16-gen-4-image-is-now-available-via-the-runway-api-allowing-anyone-to-integrate-its|Gen-4
+  Image in Runway API]]'
 source_release: '[[Releases/Ollama/ollama-2025-05-21-v0-7-1-github-220192658-4b7cc997|ollama-2025-05-21-v0-7-1-github-220192658-4b7cc997]]'
 source_type: github_releases
 theme: multimodal
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-feat-api-add-image-multimodal-support-for-llmnode-by-quantumghost-in-https-githu|feat(api): Add image multimodal support for LLMNode]]
-- Later: 2025-06-30 · ElevenLabs · [[Changes/ElevenLabs/2025-06-30-elevencreative-studio|ElevenCreative Studio]]
+- Earlier: 2025-05-16 · Runway · [[Changes/Runway/2025-05-16-gen-4-image-is-now-available-via-the-runway-api-allowing-anyone-to-integrate-its|Gen-4 Image in Runway API]]
+- Later: 2025-06-03 · Manus · [[Changes/Manus/2025-06-03-manus-transforms-your-prompts-into-complete-stories-structured-sequenced-and-rea|Introducing Manus video generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

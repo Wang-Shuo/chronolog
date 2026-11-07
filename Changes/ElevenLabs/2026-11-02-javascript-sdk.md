@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 12179f2d6429e9ce11aed79813fd54f6365e002a3f0cba5f5f0bd5dbdc09e5c1
+machine_hash: 7f66774ba5af806208cb4b360d969e168b21cc1a3d7d140729f92e2cdf467a4a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -107,8 +107,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-read-aloud-with-kokoro-js-read-aloud-now-speaks-with-the-chosen-kokoro-voice-whe|🔊 Read Aloud with Kokoro.js. Read Aloud now speaks with the chosen Kokoro voice…]]
-- Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-4-voice-and-audio-changes-in-v0-13-0|4 Voice and Audio changes in v0.13.0]]
+- Earlier: 2026-10-29 · Suno · [[Changes/Suno/2026-10-29-auto-stretch-for-added-audio|Auto-stretch for Added Audio]]
+- Later: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-voice-mode-remote-agents-redesigned-automations-and-jupyter-notebook-viewer|Voice mode, remote agents, redesigned Automations, and Jupyter notebook viewer]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e81624c3d915925f8f34bfbbfc9fa6225cd5d5801531a3b70b51b693df255d1f
+machine_hash: 44904001d4241e4214492ab1cb2315244ad996a50e0b60b525c046fab4ccb64d
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.7
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed
-  permission bypass via shell line continuation that could allow blocked…]]'
-- '[[Changes/Dify/2026-01-13-5-safety-and-privacy-changes-in-1-11-3|5 Safety and Privacy
-  changes in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-provide-inline-feedback-when-rejecting-tool-permission-requests-so-agents-don-t|Provide
   inline feedback when rejecting tool permission requests so agents don''t have…]]'
+- '[[Changes/OpenCode/2026-01-13-terminal-add-fullscreen-view-to-permission-prompt|Terminal
+  Add fullscreen view to permission prompt]]'
+- '[[Changes/OpenCode/2026-01-13-2-safety-and-privacy-changes-in-v1-1-16|2 Safety
+  and Privacy changes in v1.1.16]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-provide-inline-feedback-when-rejecting-tool-permission-requests-so-agents-don-t|Provide inline feedback when rejecting tool permission requests so agents don't have…]]
+- Earlier: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-2-safety-and-privacy-changes-in-v1-1-16|2 Safety and Privacy changes in v1.1.16]]
 - Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-5-safety-and-privacy-changes-in-rust-v0-81-0|5 Safety and Privacy changes in rust-v0.81.0]]
 <!-- chronolog:end -->
 

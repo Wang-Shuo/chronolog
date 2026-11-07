@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4564958f0bc589d8c46a3c28ef8b0daf5a4a371a89f0cc839d484517530c529c
+machine_hash: d2eae326156747591677866d72e81ba9f1963cd8abb00cb1f49fe5f369003f62
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Safety and Privacy changes in v2.1.77
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-9-safety-and-privacy-changes-in-rust-v0-115-0|9
-  Safety and Privacy changes in rust-v0.115.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-extension-tools-now-work-with-the-permissions-system-use-skippermission-per-tool|Extension
   tools now work with the permissions system, use skipPermission per-tool…]]'
+- '[[Changes/OpenCode/2026-03-16-core-delete-legacy-permission-module|Core Delete
+  legacy permission module]]'
 - '[[Changes/Claude Code/2026-03-17-2-safety-and-privacy-changes-in-v2-1-78|2 Safety
   and Privacy changes in v2.1.78]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'

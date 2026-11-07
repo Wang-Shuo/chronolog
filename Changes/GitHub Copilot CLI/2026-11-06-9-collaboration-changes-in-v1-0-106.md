@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 288c9e78abd17bba24c8ace54ae76c058d8dc29535f04dbc49eea40cbbbd0b1a
+machine_hash: f06138512a4c2516cb40133383fe6223ed1683351029f6038ed1d368d5a3dfaa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -71,12 +71,12 @@ record:
   title: 9 Collaboration changes in v1.0.106
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-11-03-new-chats-stay-in-sync-a-chat-started-from-the-home-page-keeps-syncing-with-the|\U0001F503
-  New chats stay in sync. A chat started from the home page keeps syncing…]]"
 - '[[Changes/OpenHands/2026-11-03-2-collaboration-changes-in-v1-35-0|2 Collaboration
   changes in v1.35.0]]'
 - '[[Changes/Dify/2026-11-04-4-collaboration-changes-in-1-19-0|4 Collaboration changes
   in 1.19.0]]'
+- '[[Changes/OpenClaw/2026-11-05-allows-authorized-native-commands-to-restore-archived-source-sessions-and-report|Allows
+  authorized native commands to restore archived source sessions, and reports…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: collaboration
@@ -142,7 +142,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-4-collaboration-changes-in-1-19-0|4 Collaboration changes in 1.19.0]]
+- Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-allows-authorized-native-commands-to-restore-archived-source-sessions-and-report|Allows authorized native commands to restore archived source sessions, and reports…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

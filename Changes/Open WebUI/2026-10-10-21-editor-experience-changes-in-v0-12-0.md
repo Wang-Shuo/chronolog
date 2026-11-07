@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e10292e9168dc9243158f3daf9d67dbb6022022f61a06f1a3b685ecd059f2555
+machine_hash: 5f9835fd847291ed49a245d8c37edd181cad670399ab7f5bd3828b23d63d3766
 product: open-webui
 product_name: Open WebUI
 record:
@@ -164,10 +164,9 @@ record:
   title: 21 Editor Experience changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-changed-tab-stops-to-count-from-where-a-text-starts-instead-of-from-the-screen-s|Changed
-  tab stops to count from where a text starts instead of from the screen''s left edge]]'
 - '[[Changes/Codex CLI/2026-10-08-50216-use-the-shared-text-editor-for-command-center-task-renaming-bc-openai|♯50216
   Use the shared text editor for command-center task renaming @bc-openai]]'
+- '[[Changes/Midjourney/2026-10-08-thinking-mode|THINKING MODE]]'
 - '[[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor
   Experience changes in v2.1.296]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
@@ -259,7 +258,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor Experience changes in v2.1.296]]
-- Later: 2026-10-12 · Lovable · [[Changes/Lovable/2026-10-12-edit-images-directly-in-the-files-tab|Edit images directly in the Files tab]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-10-editor-experience-changes-in-v2026-10-1|10 Editor Experience changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c163a88d35b66b90d80db2e795f73538f9da2e1ee7f5079126ec1a1f9e893305
+machine_hash: a5f3cb4a97feab2e8bdf7e0820fa2b2424b5acf4d0374496d3f37ea07679c2a5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -108,7 +108,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.4
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-2-reliability-and-performance-changes-in-1-18-0|2 Reliability and Performance changes in 1.18.0]]
-- Later: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-faster-prompt-processing-on-apple-silicon-for-gemma-4-flint-and-laguna-models|Faster prompt processing on Apple silicon for Gemma 4, Flint and Laguna models]]
+- Later: 2026-10-26 · Google Antigravity · [[Changes/Google Antigravity/2026-10-26-2-reliability-and-performance-changes-in-ide-v2-6-0-gemini-4-argon-refreshed|2 Reliability and Performance changes in IDE v2.6.0 — Gemini 4 Argon, Refreshed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

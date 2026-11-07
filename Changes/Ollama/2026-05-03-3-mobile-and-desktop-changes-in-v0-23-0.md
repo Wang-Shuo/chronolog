@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38f763290faa13da79cded9fb0697c067c8218c849c70ce2204ea405e953ab28
+machine_hash: a91e80b07c23c624511b50252b38730e7c4f0e9d954f633a276b143727a375df
 product: ollama
 product_name: Ollama
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Mobile and Desktop changes in v0.23.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-04-24-preview-on-an-ios-simulator-or-android-emulator|Preview
-  on an iOS Simulator or Android Emulator]]'
+- '[[Changes/OpenCode/2026-04-28-desktop-per-workspace-icon-overrides-now-stay-applied-for-subdirectories-in-the|Desktop
+  Per-workspace icon overrides now stay applied for subdirectories in the same repo]]'
 - '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
   agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
 - '[[Changes/Codex CLI/2026-04-30-3-mobile-and-desktop-changes-in-rust-v0-128-0|3

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ae2a5729c71cf3427e275768bd37ce1b125bc9b812195b088136a1f4a4eefd0f
+machine_hash: 160589af74b0f5e04208305315678f645514b60e94f6e4b349ad91f15c3f43ac
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: Multiple agents that can work on different parts of a task in parallel
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode
-  changes in v2.1.300]]'
 - '[[Changes/Ollama/2026-10-14-a-compact-sibling-nemotron-3-5-bolt-https-ollama-com-library-nemotron-3-5-bolt-d|A
   compact sibling, Nemotron 3.5…]]'
 - '[[Changes/Codex CLI/2026-10-15-14-agent-mode-changes-in-rust-v0-163-0|14 Agent
   Mode changes in rust-v0.163.0]]'
+- '[[Changes/Google Antigravity/2026-10-15-you-can-now-type-compact-to-summarize-a-long-conversation-so-far-and-free-up-roo|Type
+  /compact to summarize a long conversation so far and free up room for the agent…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a|chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a]]'
 source_type: chatgpt_changelog
 theme: agent-mode
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-14-agent-mode-changes-in-rust-v0-163-0|14 Agent Mode changes in rust-v0.163.0]]
+- Earlier: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-you-can-now-type-compact-to-summarize-a-long-conversation-so-far-and-free-up-roo|Type /compact to summarize a long conversation so far and free up room for the agent…]]
 - Later: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-6-agent-mode-changes-in-v2-1-302|6 Agent Mode changes in v2.1.302]]
 <!-- chronolog:end -->
 

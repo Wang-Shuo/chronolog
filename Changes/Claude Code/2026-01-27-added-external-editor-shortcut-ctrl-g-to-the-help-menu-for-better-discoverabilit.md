@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 85f3c0fb7f7b52a81fca4e0fb01082443027228038b0aaa9da3831bc25b031b2
+machine_hash: 3b946f2b285c5b72998db01773d28fcc9b185557929b07f03dde2a2ce9261e5c
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,10 @@ record:
   title: Added external editor shortcut (Ctrl+G) to the help menu for better discoverability
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-22-add-diff-command-to-review-changes-made-during-the-current-session|Add
-  /diff command to review changes made during the current session]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-24-improve-task-completion-with-clearer-detached-process-guidance|Improve
-  task completion with clearer detached process guidance]]'
+- '[[Changes/OpenCode/2026-01-25-3-editor-experience-changes-in-v1-1-35|3 Editor Experience
+  changes in v1.1.35]]'
+- '[[Changes/Gamma/2026-01-26-you-can-now-use-color-gradients-on-card-backgrounds|Gradient
+  card backgrounds]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-26-add-commenting-to-diff-mode-for-line-specific-feedback|Add
   commenting to /diff mode for line-specific feedback]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'

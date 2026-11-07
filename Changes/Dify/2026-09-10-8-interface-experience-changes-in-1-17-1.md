@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad18e514d784e383fc61fdaa750f57b391f0eac7f09c6df7c108990df6ebaa9d
+machine_hash: bfbb9c5891a23e9767b0046ae480cb7fb8343c51960a8a21e342e0bdbb93c63a
 product: dify
 product_name: Dify
 record:
@@ -75,8 +75,8 @@ record:
   title: 8 Interface Experience changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4
-  Interface Experience changes in rust-v0.154.0]]'
+- '[[Changes/Google Antigravity/2026-09-09-5-interface-experience-changes-in-hub-v2-13-0-introducing-new-documents|5
+  Interface Experience changes in HUB v2.13.0 — Introducing new Documents…]]'
 - '[[Changes/Lovable/2026-09-09-redesigned-chat-actions-menu-in-projects|Redesigned
   Chat actions menu in projects]]'
 - '[[Changes/Claude Code/2026-09-10-2-interface-experience-changes-in-v2-1-268|2 Interface

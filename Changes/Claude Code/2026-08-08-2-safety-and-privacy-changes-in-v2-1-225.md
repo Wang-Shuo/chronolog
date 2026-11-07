@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e48ebaca9202dcb246c3f0f12f4912b080cba0265d61037bae3d1e9294ff6397
+machine_hash: 50c6cd2b106a0fe2015f3697f545b2214af4c40300e56140393aba409155eb76
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Safety and Privacy changes in v2.1.225
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-9-safety-and-privacy-changes-in-rust-v0-147-0|9
-  Safety and Privacy changes in rust-v0.147.0]]'
+- '[[Changes/Google Antigravity/2026-08-07-steps-waiting-on-your-input-now-show-the-icon-for-the-tool-involved-including-in|Steps
+  waiting on your input now show the icon for the tool involved, including…]]'
 - '[[Changes/Lovable/2026-08-07-trust-center-for-your-published-app|Trust Center for
   your published app]]'
 - '[[Changes/Replit/2026-08-07-security-scan-while-you-build|Security scan while you

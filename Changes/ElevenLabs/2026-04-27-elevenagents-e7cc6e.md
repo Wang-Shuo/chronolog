@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 27b7c7c4ee12e3dc280fbe1ba25e5891c8a7ec60dc2ec0271a934a20ddf4c947
+machine_hash: 36df4936d7cbbcc88c9d43e0d4a0e698561832d20c8bca1a3746ec286846b923
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -121,8 +121,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Replit/2026-04-24-cve-auto-protect-patches-critical-vulnerabilities-automatically|CVE
-  Auto-Protect patches critical vulnerabilities automatically]]'
+- '[[Changes/OpenCode/2026-04-26-core-sent-an-opencode-version-user-agent-header-with-http-requests|Core
+  Sent an opencode/version User-Agent header with HTTP requests]]'
 - '[[Changes/ElevenLabs/2026-04-27-swift-sdk|Swift SDK]]'
 - '[[Changes/ElevenLabs/2026-04-27-packages|Packages]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-27-2026-04-27-7b6333fc|elevenlabs-2026-04-27-2026-04-27-7b6333fc]]'
@@ -226,8 +226,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-24 · Replit · [[Changes/Replit/2026-04-24-cve-auto-protect-patches-critical-vulnerabilities-automatically|CVE Auto-Protect patches critical vulnerabilities automatically]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-2-agent-mode-changes-in-v2-1-121|2 Agent Mode changes in v2.1.121]]
+- Earlier: 2026-04-26 · OpenCode · [[Changes/OpenCode/2026-04-26-core-sent-an-opencode-version-user-agent-header-with-http-requests|Core Sent an opencode/version User-Agent header with HTTP requests]]
+- Later: 2026-04-27 · OpenCode · [[Changes/OpenCode/2026-04-27-core-added-a-configurable-default-shell-for-terminals-and-agent-shell-commands-w|Core Added a configurable default shell for terminals and agent shell commands…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

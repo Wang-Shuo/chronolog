@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 285b646d0e9cff493515b93f40d574a978630b936dabc6297ae3dd403dfc79c9
+machine_hash: 946d2560ee3e228bd028cc1afc8fee9304d0efaf7db7812a8752634ccd498681
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -72,9 +72,10 @@ record:
   title: 13 Agent Mode changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-19-agents-platform-97d485|Agents Platform]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-19-mcp-server-management-when-swapping-between-custom-agents-with-agent|MCP
-  server management when swapping between custom agents with /agent]]'
+- '[[Changes/OpenCode/2026-01-19-core-restore-persisted-model-and-agent-when-loading-acp-session|Core
+  Restore persisted model and agent when loading ACP session]]'
+- '[[Changes/OpenCode/2026-01-20-2-agent-mode-changes-in-v1-1-28|2 Agent Mode changes
+  in v1.1.28]]'
 - '[[Changes/Codex CLI/2026-01-21-2-agent-mode-changes-in-rust-v0-88-0|2 Agent Mode
   changes in rust-v0.88.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397|gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397]]'

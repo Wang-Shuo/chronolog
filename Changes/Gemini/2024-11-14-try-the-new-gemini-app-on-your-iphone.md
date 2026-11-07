@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 31f92fa902fd20cbe8ca525df878bf46eb1073056424b62cabaa2f009061ddb9
+machine_hash: e1c07eb3f3a40ab690d01c515b255cc5d7d86020db161a1cb53f9df8fc7e88b5
 product: gemini
 product_name: Gemini
 record:
@@ -56,12 +56,11 @@ record:
   title: Try the new Gemini app on your iPhone
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-24-temporary-file-handling-on-windows-fixed-an-issue-causing-errors-when-accessing|\U0001F5D1️
-  Temporary File Handling On Windows]]"
-- '[[Changes/Dify/2024-09-30-2-mobile-and-desktop-changes-in-0-9-0|2 Mobile and Desktop
-  changes in 0.9.0]]'
 - "[[Changes/Open WebUI/2024-10-07-apple-touch-icon-support-optimizes-the-display-of-icons-for-web-bookmarks-on-app|\U0001F34F
   Apple Touch Icon Support]]"
+- '[[Changes/Suno/2024-10-16-download-suno-on-ios|Download Suno on iOS]]'
+- '[[Changes/Suno/2024-11-07-the-wait-is-almost-over-we-re-thrilled-to-announce-that-suno-is-coming-to-androi|Suno
+  on Android is finally open to pre-registration!]]'
 source_release: '[[Releases/Gemini/gemini-2024-11-14-2024-11-14-ef982cd1|gemini-2024-11-14-2024-11-14-ef982cd1]]'
 source_type: gemini_changelog
 theme: mobile-desktop
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-apple-touch-icon-support-optimizes-the-display-of-icons-for-web-bookmarks-on-app|🍏 Apple Touch Icon Support]]
+- Earlier: 2024-11-07 · Suno · [[Changes/Suno/2024-11-07-the-wait-is-almost-over-we-re-thrilled-to-announce-that-suno-is-coming-to-androi|Suno on Android is finally open to pre-registration!]]
 - Later: 2024-11-19 · ChatGPT · [[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced Voice for ChatGPT Web]]
 <!-- chronolog:end -->
 

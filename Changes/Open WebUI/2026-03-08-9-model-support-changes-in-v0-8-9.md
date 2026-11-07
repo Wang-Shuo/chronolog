@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a730d71f3812ce16a1f30c5bd296db761e430e7ffe990cc78266182cb6fe280
+machine_hash: d9c36b3f034b50f3556948fb376db7b137b57a84465f5fb4286042a5a5a43587
 product: open-webui
 product_name: Open WebUI
 record:
@@ -93,10 +93,10 @@ record:
   title: 9 Model Support changes in v0.8.9
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-03-05-allow-thinking-levels-such-as-medium-to-correctly-interpreted-in-ollama-s-api-fo|Allow
-  thinking levels such as "medium" to correctly interpreted in Ollama''s API…]]'
-- '[[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added
-  GPT-5.4 models for ChatGPT subscription users]]'
+- '[[Changes/OpenCode/2026-03-06-add-gpt-5-4-to-codex-allowed-models-list|Add GPT-5.4
+  to Codex allowed models list]]'
+- '[[Changes/OpenCode/2026-03-07-desktop-model-sticks-to-session-after-being-changed|Desktop
+  Model sticks to session after being changed]]'
 - '[[Changes/Codex CLI/2026-03-08-13617-update-models-json-aibrahim-oai|♯13617 Update
   models.json @aibrahim-oai]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb|open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb]]'

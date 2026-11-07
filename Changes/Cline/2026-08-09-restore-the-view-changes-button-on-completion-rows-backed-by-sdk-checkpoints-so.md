@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 02ae27da78baaa68ed8e783b4970d1341436eec7d43c34bd9db6ab962fb8aeab
+machine_hash: 311836eddfa7c58a0e8d55c808d70faccf3fd385488030e162744e8d17bd58e5
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Restore the "View Changes" button on completion rows, backed by SDK checkpoints…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-changed-emoji-autocomplete-to-accept-common-alternate-shortcodes-like-thumbsup-t|Changed
-  emoji autocomplete to accept common alternate shortcodes like :thumbsup:…]]'
-- '[[Changes/Ollama/2026-08-04-tui-fixes-pipe-delimited-prose-no-longer-renders-as-a-table-enter-accepts-the-hi|TUI
-  fixes: pipe-delimited prose no longer renders as a table, Enter accepts…]]'
 - '[[Changes/OpenHands/2026-08-05-chore-deps-bump-monaco-editor-from-0-55-1-to-0-56-0-in-the-monaco-group-across-1|chore(deps):
   bump monaco-editor from 0.55.1 to 0.56.0 in the monaco group across 1…]]'
+- '[[Changes/Google Antigravity/2026-08-07-2-editor-experience-changes-in-hub-v2-6-0-faster-long-conversations|2
+  Editor Experience changes in HUB v2.6.0 — Faster long conversations…]]'
+- '[[Changes/Runway/2026-08-07-leave-feedback-directly-on-an-image-or-video-with-the-new-comments-tab-pin-comme|Comments
+  on Assets]]'
 source_release: '[[Releases/Cline/cline-2026-08-09-v4-1-7-github-367373350-886ff444|cline-2026-08-09-v4-1-7-github-367373350-886ff444]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-chore-deps-bump-monaco-editor-from-0-55-1-to-0-56-0-in-the-monaco-group-across-1|chore(deps): bump monaco-editor from 0.55.1 to 0.56.0 in the monaco group across 1…]]
+- Earlier: 2026-08-07 · Runway · [[Changes/Runway/2026-08-07-leave-feedback-directly-on-an-image-or-video-with-the-new-comments-tab-pin-comme|Comments on Assets]]
 - Later: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-2-editor-experience-changes-in-v1-0-79|2 Editor Experience changes in v1.0.79]]
 <!-- chronolog:end -->
 

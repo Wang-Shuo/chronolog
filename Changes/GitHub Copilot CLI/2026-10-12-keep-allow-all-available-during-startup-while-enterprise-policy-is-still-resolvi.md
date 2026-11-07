@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23b6f3bcccaa792fdecfe19ebf1de6dd24ed01c784c94d21b4e9bf231cb37ab6
+machine_hash: c19e3f83845ffec18ee40be8f37ed08089c6f87b3e658f474febd6155ddcaa5e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     resolving
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-09-enterprise-credit-balances-now-appear-as-numbers|Enterprise
-  credit balances now appear as numbers]]'
-- '[[Changes/Lovable/2026-10-09-publish-every-app-in-your-workspace-under-your-own-domain|Publish
-  every app in your workspace under your own domain]]'
+- '[[Changes/Runway/2026-10-09-workspace-admins-can-now-set-a-credit-cap-on-any-project-giving-each-team-or-cli|Project
+  Credit Caps]]'
 - '[[Changes/Open WebUI/2026-10-10-5-enterprise-and-administration-changes-in-v0-12-0|5
   Enterprise and Administration changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-5-enterprise-and-administration-changes-in-v2026-10-1|5
+  Enterprise and Administration changes in v2026.10.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14|github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-5-enterprise-and-administration-changes-in-v0-12-0|5 Enterprise and Administration changes in v0.12.0]]
-- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-translated-model-prompt-suggestions-editing-the-prompt-suggestions-of-a-model-th|💬 Translated model prompt suggestions. Editing the prompt suggestions of a model…]]
+- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-5-enterprise-and-administration-changes-in-v2026-10-1|5 Enterprise and Administration changes in v2026.10.1]]
+- Later: 2026-10-12 · Google Antigravity · [[Changes/Google Antigravity/2026-10-12-when-antigravity-gets-a-specific-reason-for-an-error-such-as-a-model-your-admini|When Antigravity gets a specific reason for an error, such as a model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 879330ca2df8ddb139314928edbe6c0e927b2856508d4e99fbe40c1996ce9686
+machine_hash: bb121cfdad91876ce0bec58b547ca2e8f2e4a3e2ca8d4c48e702380e2935404d
 product: cline
 product_name: Cline
 record:
@@ -48,10 +48,10 @@ record:
     list…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-21-restore-tool-calling-for-custom-openai-compatible-models-whose-stored-capability|Restore
-  tool calling for custom OpenAI-Compatible models whose stored capability…]]'
-- '[[Changes/Cline/2026-08-21-3-model-support-changes-in-v4-1-11|3 Model Support changes
-  in v4.1.11]]'
+- '[[Changes/OpenCode/2026-08-21-continue-responses-when-a-model-reports-an-unknown-finish-reason-instead-of-stop|Continue
+  responses when a model reports an unknown finish reason instead of stopping early]]'
+- '[[Changes/OpenCode/2026-08-21-core-route-vertex-ai-eu-and-us-multi-region-gemini-requests-through-rep-endpoint|Core
+  Route Vertex AI eu and us multi-region Gemini requests through REP endpoints]]'
 - '[[Changes/OpenHands/2026-08-21-perf-batch-streamingdeltaevents-so-the-ui-keeps-up-with-fast-models-by-vascosch9|perf:
   batch StreamingDeltaEvents so the UI keeps up with fast models]]'
 source_release: '[[Releases/Cline/cline-2026-08-22-v4-1-13-github-375030518-eeba0b7b|cline-2026-08-22-v4-1-13-github-375030518-eeba0b7b]]'

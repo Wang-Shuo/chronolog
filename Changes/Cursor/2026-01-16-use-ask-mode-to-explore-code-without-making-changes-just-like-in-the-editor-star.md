@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 795e5cdc11af241f992ce4d62c600a1838779d3eeabdb87554d509c62623cff3
+machine_hash: 235e58a576178d71e1c7e7ecfbf4ebc6509316b086ff3e739f1586c0c90abec7
 product: cursor
 product_name: Cursor
 record:
@@ -44,7 +44,8 @@ record:
   title: Ask mode in CLI
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-14-qwen-image-edit-2511|Qwen-Image-Edit-2511]]'
+- '[[Changes/OpenCode/2026-01-15-add-error-message-to-prompt-users-to-reauthenticate-with-copilot|Add
+  error message to prompt users to reauthenticate with Copilot]]'
 - '[[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|Added
   external editor support (Ctrl+G) in AskUserQuestion "Other" input field]]'
 - '[[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2378b6cbb5dc3a576fe5a6d4ad44c363511a5a1361fc6ac6b47b455ad6e2b1d4
+machine_hash: 4058074e91983854e43fdeb1ef09b1aff7c28b56464026b448e9ee24bd9ebd3c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,11 @@ record:
     restarting
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-03-3-apps-and-integrations-changes-in-v0-32-0|3 Apps
-  and Integrations changes in v0.32.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-03-7-apps-and-integrations-changes-in-v0-0-421|7
-  Apps and Integrations changes in v0.0.421]]'
+- '[[Changes/OpenCode/2026-03-03-2-apps-and-integrations-changes-in-v1-2-16|2 Apps
+  and Integrations changes in v1.2.16]]'
 - '[[Changes/Cline/2026-03-04-updated-hooks-docs|Updated hooks docs]]'
+- '[[Changes/OpenCode/2026-03-04-rework-workspace-integration-and-adaptor-interface|Rework
+  workspace integration and adaptor interface]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-updated-hooks-docs|Updated hooks docs]]
+- Earlier: 2026-03-04 · OpenCode · [[Changes/OpenCode/2026-03-04-rework-workspace-integration-and-adaptor-interface|Rework workspace integration and adaptor interface]]
 - Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-7-apps-and-integrations-changes-in-rust-v0-110-0|7 Apps and Integrations changes in rust-v0.110.0]]
 <!-- chronolog:end -->
 

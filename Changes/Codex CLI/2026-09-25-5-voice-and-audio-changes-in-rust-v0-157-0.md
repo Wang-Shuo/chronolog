@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99e36c007c81049d6ff9175dacb956c6fb9d714401fe85591fcf7bfaabb082bc
+machine_hash: 6d0dbd7a40225d410e7d9cc11353c7d4746df8f0564cf8d60432cc0a371fab04
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 5 Voice and Audio changes in rust-v0.157.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-5-voice-and-audio-changes-in-v0-11-4|5 Voice and
-  Audio changes in v0.11.4]]'
-- '[[Changes/Codex CLI/2026-09-22-17-voice-and-audio-changes-in-rust-v0-156-0|17 Voice
-  and Audio changes in rust-v0.156.0]]'
+- '[[Changes/Google Antigravity/2026-09-22-right-clicking-an-image-caption-or-an-enlarged-image-no-longer-pops-open-the-thu|Right-clicking
+  an image caption or an enlarged image no longer pops open…]]'
 - '[[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use
   plugins in Voice and get work done by speaking]]'
+- '[[Changes/OpenClaw/2026-09-23-18-voice-and-audio-changes-in-v2026-9-6|18 Voice
+  and Audio changes in v2026.9.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3|codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3]]'
 source_type: github_releases
 theme: voice
@@ -105,7 +105,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.157.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-23 · ChatGPT · [[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use plugins in Voice and get work done by speaking]]
+- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-18-voice-and-audio-changes-in-v2026-9-6|18 Voice and Audio changes in v2026.9.6]]
 - Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-47975-prevent-stale-voice-answers-from-reappearing-during-speech-recovery-etraut|♯47975 Prevent stale voice answers from reappearing during speech recovery @etraut-openai]]
 <!-- chronolog:end -->
 

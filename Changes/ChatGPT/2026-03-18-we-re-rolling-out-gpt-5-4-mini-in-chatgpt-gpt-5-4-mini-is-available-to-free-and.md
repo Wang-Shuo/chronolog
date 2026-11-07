@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a7ac2877b62be9c1b6be3cc0b533021abc0ac52681eafa23bf0c93a832ed6c85
+machine_hash: 491cccc2b52b37998f80f687eb53da5558f6344d65efb412e86e2f092905939e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,10 +71,9 @@ record:
   title: GPT-5.4 mini in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-5-model-support-changes-in-v0-34-0|5 Model Support
-  changes in v0.34.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-17-2-model-support-changes-in-v1-0-7|2 Model
-  Support changes in v1.0.7]]'
+- '[[Changes/Midjourney/2026-03-17-v8-is-an-incredible-model|V8 is an incredible model]]'
+- '[[Changes/Midjourney/2026-03-17-today-we-re-letting-the-community-test-an-early-version-of-our-v8-model-on-alpha|Today
+  we’re letting the community test an early version of our V8 model…]]'
 - '[[Changes/Ollama/2026-03-17-4-model-support-changes-in-v0-18-1|4 Model Support
   changes in v0.18.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3|chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3]]'

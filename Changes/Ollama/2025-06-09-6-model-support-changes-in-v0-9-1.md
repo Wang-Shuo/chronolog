@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e8f8ed5c15efb8d899918f840d1f05c8f5afc22063c81397a615e9a0c7a5c60
+machine_hash: 9a008644f0cc9cf358c4b899ca1f354a8650d754a18497080de38d5b03afc1ac
 product: ollama
 product_name: Ollama
 record:
@@ -53,11 +53,11 @@ record:
   title: 6 Model Support changes in v0.9.1
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-05-3-model-support-changes-in-v3-17-10|3 Model Support
-  changes in v3.17.10]]'
 - '[[Changes/Cline/2025-06-05-add-support-for-gemini-2-5-pro-preview-06-05-model-to-vertex-ai-and-google-gemin|Add
   support for Gemini 2.5 Pro Preview 06-05 model to Vertex AI and Google Gemini…]]'
 - '[[Changes/ElevenLabs/2025-06-08-text-to-speech|Text to Speech]]'
+- '[[Changes/Manus/2025-06-09-veo3-allows-for-that-extra-visual-finesse-in-comparison-to-our-default-model-the|Veo3
+  allows for that extra visual finesse in comparison to our default model]]'
 source_release: '[[Releases/Ollama/ollama-2025-06-09-v0-9-1-github-224087817-76ffb3c8|ollama-2025-06-09-v0-9-1-github-224087817-76ffb3c8]]'
 source_type: github_releases
 theme: model-support
@@ -101,7 +101,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.9.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-08 · ElevenLabs · [[Changes/ElevenLabs/2025-06-08-text-to-speech|Text to Speech]]
+- Earlier: 2025-06-09 · Manus · [[Changes/Manus/2025-06-09-veo3-allows-for-that-extra-visual-finesse-in-comparison-to-our-default-model-the|Veo3 allows for that extra visual finesse in comparison to our default model]]
 - Later: 2025-06-10 · ChatGPT · [[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT launches OpenAI o3-pro—available now for Pro users and in our API]]
 <!-- chronolog:end -->
 

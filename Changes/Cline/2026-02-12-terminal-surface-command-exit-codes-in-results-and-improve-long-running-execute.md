@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0af80353491d2c36f28910427e02a540b9befd8e25ee33924b7f04af24a452fd
+machine_hash: 2e9bb1a4e35621e85150ea0868124f6af086ef245cbfadce31b6dc27733942bc
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: 'Terminal: surface command exit codes in results and improve long-running…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-9-developer-workflow-changes-in-rust-v0-99-0|9 Developer
-  Workflow changes in rust-v0.99.0]]'
-- '[[Changes/Dify/2026-02-11-please-use-the-following-command-instead-for-details-please-read-this-https-gith|
-  Please use the following command instead]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-3-developer-workflow-changes-in-v0-0-407|3
   Developer Workflow changes in v0.0.407]]'
+- '[[Changes/OpenCode/2026-02-11-5-developer-workflow-changes-in-v1-1-58|5 Developer
+  Workflow changes in v1.1.58]]'
+- '[[Changes/OpenCode/2026-02-11-2-developer-workflow-changes-in-v1-1-57|2 Developer
+  Workflow changes in v1.1.57]]'
 source_release: '[[Releases/Cline/cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c|cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-3-developer-workflow-changes-in-v0-0-407|3 Developer Workflow changes in v0.0.407]]
+- Earlier: 2026-02-11 · OpenCode · [[Changes/OpenCode/2026-02-11-2-developer-workflow-changes-in-v1-1-57|2 Developer Workflow changes in v1.1.57]]
 - Later: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-11412-tui-show-non-file-layer-content-in-debug-config-bolinfest|♯11412 tui: show non-file layer content in /debug-config @bolinfest]]
 <!-- chronolog:end -->
 

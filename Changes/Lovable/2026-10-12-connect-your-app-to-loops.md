@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a91cfcb247b456838e453bd6ad2ed286452af24b01991845421e7f93d37a1210
+machine_hash: bdc72ee578e841d230ca542ac7fde3cc2490c3cc880c271dc461ccc2cbe23dde
 product: lovable
 product_name: Lovable
 record:
@@ -60,11 +60,11 @@ record:
   title: Connect your app to Loops
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-7-apps-and-integrations-changes-in-v0-12-0|7 Apps
-  and Integrations changes in v0.12.0]]'
 - '[[Changes/Ollama/2026-10-11-ollama-launch-claude-no-longer-shows-a-warning-about-claude-connectors-by-hoyyev|ollama
   launch claude no longer shows a warning about Claude connectors]]'
 - '[[Changes/ElevenLabs/2026-10-12-sdk-releases|SDK releases]]'
+- '[[Changes/Google Antigravity/2026-10-12-3-apps-and-integrations-changes-in-hub-v2-23-0-permissions-picker|3
+  Apps and Integrations changes in HUB v2.23.0 — Permissions picker…]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-12-2026-10-12-16e5a6a0|lovable-2026-10-12-2026-10-12-16e5a6a0]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-12 · ElevenLabs · [[Changes/ElevenLabs/2026-10-12-sdk-releases|SDK releases]]
-- Later: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-3-apps-and-integrations-changes-in-v1-27-0|3 Apps and Integrations changes in v1.27.0]]
+- Earlier: 2026-10-12 · Google Antigravity · [[Changes/Google Antigravity/2026-10-12-3-apps-and-integrations-changes-in-hub-v2-23-0-permissions-picker|3 Apps and Integrations changes in HUB v2.23.0 — Permissions picker…]]
+- Later: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-5-apps-and-integrations-changes-in-v2026-10-2|5 Apps and Integrations changes in v2026.10.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

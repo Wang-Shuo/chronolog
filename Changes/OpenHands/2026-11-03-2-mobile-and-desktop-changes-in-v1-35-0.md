@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 034f5d783785a223377e6e475ffea55595bf126bae8fcb4b07f3cb79f9c2609e
+machine_hash: 87930ff3d4fb74e86789434a4457e48b3e71c7dc7fd3253dd445fafd682cadd3
 product: openhands
 product_name: OpenHands
 record:
@@ -45,11 +45,11 @@ record:
   title: 2 Mobile and Desktop changes in v1.35.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile
-  and Desktop changes in v2.1.314]]'
 - '[[Changes/ElevenLabs/2026-11-02-android-sdk|Android SDK]]'
 - "[[Changes/Open WebUI/2026-11-03-image-drops-from-photo-apps-images-dropped-into-chats-and-channels-are-now-recog|\U0001F5BC️
   Image drops from photo apps. Images dropped into chats and channels are now…]]"
+- '[[Changes/OpenClaw/2026-11-03-4-mobile-and-desktop-changes-in-v2026-10-10|4 Mobile
+  and Desktop changes in v2026.10.10]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -90,8 +90,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-image-drops-from-photo-apps-images-dropped-into-chats-and-channels-are-now-recog|🖼️ Image drops from photo apps. Images dropped into chats and channels are now…]]
-- Later: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-2-mobile-and-desktop-changes-in-v1-36-0|2 Mobile and Desktop changes in v1.36.0]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-4-mobile-and-desktop-changes-in-v2026-10-10|4 Mobile and Desktop changes in v2026.10.10]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-keeps-accepted-talk-work-running-when-you-end-talk-on-an-android-phone-connected|Keeps accepted Talk work running when you end Talk on an Android phone connected…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

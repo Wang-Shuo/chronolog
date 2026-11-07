@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19efab8cad66b5e814ad348226525cbfe70858088b97594c5d01c48aa371ad38
+machine_hash: 6131dac2ed70aee79a99971a88eb144408501f8d31b5d8b1444262b1f7fb89d1
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Changed Anthropic telemetry export failures to log at debug level…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-73-developer-workflow-changes-in-v0-11-1|73 Developer
-  Workflow changes in v0.11.1]]'
-- '[[Changes/Claude Code/2026-08-26-changed-terminal-hyperlinks-in-rendered-markdown-link-targets-that-point-at-a-ne|Changed
-  terminal hyperlinks in rendered markdown]]'
 - '[[Changes/Codex CLI/2026-08-26-15-developer-workflow-changes-in-rust-v0-150-0|15
   Developer Workflow changes in rust-v0.150.0]]'
+- '[[Changes/Google Antigravity/2026-08-26-generative-ui-and-ui-improvements|Generative
+  UI and UI improvements]]'
+- '[[Changes/Google Antigravity/2026-08-26-disabled-the-git-push-action-in-repositories-without-a-configured-remote-and-add|Disabled
+  the Git Push action in repositories without a configured remote, and added…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-15-developer-workflow-changes-in-rust-v0-150-0|15 Developer Workflow changes in rust-v0.150.0]]
+- Earlier: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-disabled-the-git-push-action-in-repositories-without-a-configured-remote-and-add|Disabled the Git Push action in repositories without a configured remote, and added…]]
 - Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-5-developer-workflow-changes-in-v1-0-81|5 Developer Workflow changes in v1.0.81]]
 <!-- chronolog:end -->
 

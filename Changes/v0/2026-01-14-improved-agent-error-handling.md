@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 1ccbae2b45198efa9c0a8ce9131bf3b03d3e32dc7826b1157275977915c87c71
+machine_hash: a75d09f15d078e5058a1f45e02372737ba4646510491b2141dc4b46519f8ef72
 product: v0
 product_name: v0
 record:
@@ -42,12 +42,12 @@ record:
   title: Improved agent error handling
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e|Added
-  inline display of agent''s final response in task notifications, making…]]'
-- '[[Changes/Codex CLI/2026-01-14-2-agent-mode-changes-in-rust-v0-81-0|2 Agent Mode
-  changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-10-agent-mode-changes-in-v0-24-0|10 Agent Mode
   changes in v0.24.0]]'
+- '[[Changes/OpenCode/2026-01-14-do-not-allow-agent-to-ask-custom-less-questions|Do
+  not allow agent to ask custom-less questions]]'
+- '[[Changes/OpenCode/2026-01-14-3-agent-mode-changes-in-v1-1-19|3 Agent Mode changes
+  in v1.1.19]]'
 source_release: '[[Releases/v0/v0-2026-01-14-2026-01-14-cce49812|v0-2026-01-14-2026-01-14-cce49812]]'
 source_type: v0_changelog
 theme: agent-mode
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-10-agent-mode-changes-in-v0-24-0|10 Agent Mode changes in v0.24.0]]
+- Earlier: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-3-agent-mode-changes-in-v1-1-19|3 Agent Mode changes in v1.1.19]]
 - Later: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-9275-feat-add-agent-roles-to-collab-tools-jif-oai|♯9275 feat: add agent roles to collab tools @jif-oai]]
 <!-- chronolog:end -->
 

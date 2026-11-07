@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be57fa0c64db41a9f30dc4675acaff0a936773a44b8aed3db3218fe31e336a91
+machine_hash: d8ea5da38c5519697cf07f0b2421ff6cbc763c6603341bf2bd2ffabe1d9dcd38
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,12 +44,12 @@ record:
   title: "**\U0001F50A Local TTS Voice Selection**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-28-voice-audition-by-charli117-in-https-github-com-langgenius-dify-pull-2504|Voice
-  audition]]'
-- '[[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio
-  changes in 0.6.5]]'
+- '[[Changes/Midjourney/2024-04-27-room-plans-hopefully-next-week|Room plans (hopefully
+  next week)]]'
 - '[[Changes/Dify/2024-05-09-2-voice-and-audio-changes-in-0-6-7|2 Voice and Audio
   changes in 0.6.7]]'
+- '[[Changes/Suno/2024-05-24-v4-is-cooking-in-the-meantime-we-are-rolling-out-early-access-to-v3-5-which-is-n|v4
+  is cooking]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-03-v0-2-3-github-158679765-ed3bd89e|open-webui-2024-06-03-v0-2-3-github-158679765-ed3bd89e]]'
 source_type: github_releases
 theme: voice
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-05-09 · Dify · [[Changes/Dify/2024-05-09-2-voice-and-audio-changes-in-0-6-7|2 Voice and Audio changes in 0.6.7]]
+- Earlier: 2024-05-24 · Suno · [[Changes/Suno/2024-05-24-v4-is-cooking-in-the-meantime-we-are-rolling-out-early-access-to-v3-5-which-is-n|v4 is cooking]]
 - Later: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-detect-supported-audio-sample-rates-for-voice|Detect supported audio sample rates for /voice]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d1596d3aa0a132fb625d45172ddb3fe83ec09e1bb4041cd5efd99c4bee257b19
+machine_hash: 1b9cf5debd36df41f4a6eed36f20fe50301bd7a848b7835d4eca2a02336f50c0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Image Generation changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-3-image-generation-changes-in-rust-v0-143-0|3 Image
-  Generation changes in rust-v0.143.0]]'
-- '[[Changes/Lovable/2026-07-08-images-lovable-generates-are-labeled-as-ai-generated|Images
-  Lovable generates are labeled as AI-generated]]'
 - '[[Changes/Codex CLI/2026-07-09-31596-use-the-image-generation-extension-by-default-won-openai|♯31596
   Use the image generation extension by default @won-openai]]'
+- '[[Changes/Runway/2026-07-10-nano-banana-2-lite-is-now-available-in-tool-mode-on-mobile-with-support-for-up-t|Nano
+  Banana 2 Lite]]'
+- '[[Changes/OpenClaw/2026-07-13-7-image-generation-changes-in-v2026-7-1|7 Image Generation
+  changes in v2026.7.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
 source_type: github_releases
 theme: image-generation
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31596-use-the-image-generation-extension-by-default-won-openai|♯31596 Use the image generation extension by default @won-openai]]
+- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-7-image-generation-changes-in-v2026-7-1|7 Image Generation changes in v2026.7.1]]
 - Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-shared-image-checkpoint-changes-only-administrators-can-now-change-the-instance|🖌️ Shared image checkpoint changes. Only administrators can now change…]]
 <!-- chronolog:end -->
 

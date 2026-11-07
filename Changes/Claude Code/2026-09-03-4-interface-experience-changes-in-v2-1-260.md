@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 177490b1ca831886591c2ee4648610484b1fd313d6d14ce929ea5ae11acd384b
+machine_hash: cf91b4de804129e1d4aad676465f8adf865f46c3276e7df3b44b45d98d2b15af
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Interface Experience changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-01-empty-project-groups-no-longer-show-in-the-sidebar|Empty
-  project groups no longer show in the sidebar]]'
-- '[[Changes/v0/2026-09-01-if-you-prefer-the-typical-git-workflow-you-can-still-create-and-merge-pull-reque|If
-  you prefer the typical Git workflow, you can still create and merge pull requests…]]'
 - '[[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode
   Added an Active quick filter and a status filter menu…]]'
+- '[[Changes/Google Antigravity/2026-09-02-dragging-to-select-a-region-of-an-image-for-a-comment-now-updates-the-selection|Dragging
+  to select a region of an image for a comment now updates the selection…]]'
+- '[[Changes/Google Antigravity/2026-09-02-quoting-boost-and-improved-settings|Quoting,
+  /boost, and improved Settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: interface-experience
@@ -101,7 +101,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode Added an Active quick filter and a status filter menu…]]
+- Earlier: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-quoting-boost-and-improved-settings|Quoting, /boost, and improved Settings]]
 - Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-3-interface-experience-changes-in-rust-v0-153-0|3 Interface Experience changes in rust-v0.153.0]]
 <!-- chronolog:end -->
 

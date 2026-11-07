@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac1100cc8566f8e4370f4a004901832c481a70206e413045beda21f6f014dbbc
+machine_hash: 18302cb135670f533544dc333cccd1a72a6c3b606aa5d7b21dd64b49cb5ef9e8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,9 +45,10 @@ record:
     skills sharing…"
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-02-12-enterprise-team-improvements|Enterprise & Team Improvements]]'
 - '[[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner
   “Select All” behavior (Cmd+A)]]'
+- '[[Changes/Midjourney/2026-02-14-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v8-with-you-soon|Thank
+  you so much for your help!]]'
 - "[[Changes/Open WebUI/2026-02-14-sync-modal-unexpected-appearance-fixed-an-issue-where-the-sync-modal-would-appea|\U0001F41B
   Sync modal unexpected appearance. Fixed an issue where the Sync Modal would…]]"
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-16-v0-8-2-github-286715828-a462c4be|open-webui-2026-02-16-v0-8-2-github-286715828-a462c4be]]'
@@ -87,7 +88,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-sync-modal-unexpected-appearance-fixed-an-issue-where-the-sync-modal-would-appea|🐛 Sync modal unexpected appearance. Fixed an issue where the Sync Modal would…]]
-- Later: 2026-02-23 · ElevenLabs · [[Changes/ElevenLabs/2026-02-23-music|Music]]
+- Later: 2026-02-17 · Midjourney · [[Changes/Midjourney/2026-02-17-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v8-with-you-soon|Thank you so much for your help!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7343a33aa370bb2ae538847ea23bf9b4679fe8b699cb8fe06519d988b336594a
+machine_hash: 3edbba693c7d3c8a7e2ebe7a50c49baeca02f3a32ea30c0ecb0364a218c94a6e
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(files): add a Download button to the Files tab (OHE-3834)'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-svg-assets-svg-uploads-to-assets-stay-svg-and-render-as-vectors-including-in-the|SVG
-  assets: SVG uploads to Assets stay SVG and render as vectors, including…]]'
-- '[[Changes/Lovable/2026-11-02-project-monitoring-catches-errors-in-your-visitors-browsers|Project
-  monitoring catches errors in your visitors'' browsers]]'
+- '[[Changes/Google Antigravity/2026-11-03-the-overview-panel-s-review-row-and-the-review-tab-header-now-show-total-added-a|The
+  Overview panel''s Review row and the Review tab header now show total added…]]'
 - '[[Changes/Open WebUI/2026-11-03-4-editor-experience-changes-in-v0-13-0|4 Editor
   Experience changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-3-editor-experience-changes-in-v2026-10-10|3 Editor
+  Experience changes in v2026.10.10]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-4-editor-experience-changes-in-v0-13-0|4 Editor Experience changes in v0.13.0]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-3-editor-experience-changes-in-v2026-10-10|3 Editor Experience changes in v2026.10.10]]
 - Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-3-editor-experience-changes-in-1-19-0|3 Editor Experience changes in 1.19.0]]
 <!-- chronolog:end -->
 

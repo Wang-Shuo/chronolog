@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ffaadc74e4530d882e5794f95596b3aa193f14d1cf33921733e3c9ee92416d32
+machine_hash: 9afed2f5120c6c40fedf726d7af2f120d0f624daeb759d73a161dc9af612439d
 product: lovable
 product_name: Lovable
 record:
@@ -49,8 +49,8 @@ record:
   title: Connect your app to Pledge
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-15-apps-and-integrations-changes-in-rust-v0-163-0|15
-  Apps and Integrations changes in rust-v0.163.0]]'
+- '[[Changes/Runway/2026-10-15-remove-backgrounds-automatically-in-runway-mcp-with-birefnet-v2-it-detects-the-f|BiRefNet
+  v2 Background Removal]]'
 - '[[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved
   use of plugins and tools to carry out tasks]]'
 - '[[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3 Apps and Integrations changes in v2.1.302]]
-- Later: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-integration-icons-no-longer-fail-to-load-in-project-settings|Integration icons no longer fail to load in project settings]]
+- Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-maintenance-warnings-completed-plugin-upgrades-stop-leaving-stale-unfinished-war|Maintenance warnings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

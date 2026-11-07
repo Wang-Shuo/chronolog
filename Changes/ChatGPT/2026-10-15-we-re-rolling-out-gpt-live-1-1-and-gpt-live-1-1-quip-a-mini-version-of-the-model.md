@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 431330535b07d49e52dc8c1808625e9bc4057960cb0c73f044f93ad0233cbb5b
+machine_hash: b454754afd157fc91396908da65e573781f5dcdf3588e8e484af9a710e50d796
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,10 +64,10 @@ record:
     model…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-14-voice-on-android-chrome-voice-calls-and-dictation-on-android-chrome-no-longer-go|\U0001F4F1
-  Voice on Android Chrome. Voice calls and dictation on Android Chrome no longer…]]"
 - '[[Changes/Open WebUI/2026-10-14-10-voice-and-audio-changes-in-v0-12-1|10 Voice
   and Audio changes in v0.12.1]]'
+- '[[Changes/Runway/2026-10-14-fish-audio-drama-3-is-now-available-in-runway-mcp-turn-scripts-into-expressive-v|Fish
+  Audio Drama 3]]'
 - '[[Changes/ChatGPT/2026-10-15-for-more-information-see-chatgpt-voice|For more information,
   see: ChatGPT Voice]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-15-gpt-live-1-1-and-new-voices-in-chatgpt-3e3f7f0c|chatgpt-2026-10-15-gpt-live-1-1-and-new-voices-in-chatgpt-3e3f7f0c]]'
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-10-voice-and-audio-changes-in-v0-12-1|10 Voice and Audio changes in v0.12.1]]
+- Earlier: 2026-10-14 · Runway · [[Changes/Runway/2026-10-14-fish-audio-drama-3-is-now-available-in-runway-mcp-turn-scripts-into-expressive-v|Fish Audio Drama 3]]
 - Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-voice-and-audio-changes-in-rust-v0-163-0|4 Voice and Audio changes in rust-v0.163.0]]
 <!-- chronolog:end -->
 

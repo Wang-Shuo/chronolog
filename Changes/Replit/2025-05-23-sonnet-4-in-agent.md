@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: cadbafedb48ab770ad0cb39955dbe9fa61df98d7fc9eed172ac27d0127716bf1
+machine_hash: 161aaa3d7124abe6d7d3e0a54859762f108675da4818c24f9eacc43dbea0cfe7
 product: replit
 product_name: Replit
 record:
@@ -53,11 +53,11 @@ record:
   title: Sonnet 4 in Agent
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-22-add-support-for-claude-4-models-sonnet-4-and-opus-4-in-aws-bedrock-and-vertex-ai|Add
-  support for Claude 4 models (Sonnet 4 and Opus 4) in AWS Bedrock and Vertex AI…]]'
 - '[[Changes/Cline/2025-05-22-2-model-support-changes-in-v3-17-1|2 Model Support changes
   in v3.17.1]]'
 - '[[Changes/Windsurf/2025-05-22-byok-anthropic-key|BYOK (Anthropic Key)]]'
+- '[[Changes/Midjourney/2025-05-23-we-re-getting-ready-to-make-our-v7-model-the-default-model-but-a-lot-of-us-still|We''re
+  getting ready to make our V7 model the ''default'' model but a lot of us still…]]'
 source_release: '[[Releases/Replit/replit-2025-05-23-2025-05-23-071101e9|replit-2025-05-23-2025-05-23-071101e9]]'
 source_type: replit_changelog
 theme: model-support
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-05-22 · Windsurf · [[Changes/Windsurf/2025-05-22-byok-anthropic-key|BYOK (Anthropic Key)]]
+- Earlier: 2025-05-23 · Midjourney · [[Changes/Midjourney/2025-05-23-we-re-getting-ready-to-make-our-v7-model-the-default-model-but-a-lot-of-us-still|We're getting ready to make our V7 model the 'default' model but a lot of us still…]]
 - Later: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-3-model-support-changes-in-v0-6-11|3 Model Support changes in v0.6.11]]
 <!-- chronolog:end -->
 

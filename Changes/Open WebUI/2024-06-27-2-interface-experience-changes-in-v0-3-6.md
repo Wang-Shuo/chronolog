@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c55b14f60c440935db578a33d916d4c655a905c8c24b42cc12af76904ce6c5a3
+machine_hash: 836805cde98dc5ebc8d556612ca52028b7585b51f43850c75578a3e6d85a8668
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,10 +48,10 @@ record:
   title: 2 Interface Experience changes in v0.3.6
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-04-repo-map-is-now-optimized-based-on-text-of-chat-history-as-well-as-files-added-t|Repo
-  map is now optimized based on text of chat history as well as files added to chat]]'
-- '[[Changes/Open WebUI/2024-06-10-various-ui-styling-issues-fixed-numerous-user-interface-styling-problems-for-a-m|✨
-  Various UI Styling Issues]]'
+- '[[Changes/Midjourney/2024-06-12-report-bug-can-now-be-found-under-the-help-menu|''Report
+  Bug'' can now be found under the ''Help'' menu]]'
+- '[[Changes/Midjourney/2024-06-12-the-sidebar-is-simpler-rank-images-and-rank-ideas-can-now-be-found-under-the-tas|The
+  sidebar is simpler]]'
 - '[[Changes/Dify/2024-06-14-update-tooltip-by-guchenhe-in-https-github-com-langgenius-dify-pull-5235|update
   tooltip]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-27-v0-3-6-github-162865914-133d7851|open-webui-2024-06-27-v0-3-6-github-162865914-133d7851]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: caeddbfa047b81e54a632d66386bac7fa349041e1f1242df384bae1af0e0dfdb
+machine_hash: 5dba0351edbc5e7dcca5049a4e5238662d9be20ebd0f55e7e7624293bb04e1a3
 product: windsurf
 product_name: Windsurf
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-chore-speed-up-git-checkout-by-removing-fetch-depth-0-to-avoid-pulling-all-tags|chore: speed up git checkout by removing fetch-depth 0 to avoid pulling all tags…]]
-- Later: 2025-05-02 · Replit · [[Changes/Replit/2025-05-02-app-type-selector-fully-launched|App type selector fully launched]]
+- Later: 2025-05-01 · Suno · [[Changes/Suno/2025-05-01-faster-creation-speed-is-substantially-improved-for-your-creative-process|Faster creation — Speed is substantially improved for your creative process]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

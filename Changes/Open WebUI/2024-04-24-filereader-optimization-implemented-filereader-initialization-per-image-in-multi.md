@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8644df662f91b0ab0d3d13f0434384f81e3083d8e1373af753c83fcaab77cf46
+machine_hash: 8bb584a196cf37abea568196675104f7af3c49aa8f26da61894fab51a3fde3d8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,7 @@ record:
   title: "**\U0001F4DC FileReader Optimization**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++
-  UX: Suggestion previews now have syntax highlighting, which we find makes…]]'
+- '[[Changes/Suno/2024-04-12-2-click-edit-profile|2️⃣ Click Edit Profile]]'
 - '[[Changes/Dify/2024-04-16-3-editor-experience-changes-in-0-6-3|3 Editor Experience
   changes in 0.6.3]]'
 - '[[Changes/Aider/2024-04-24-allow-repo-map-for-whole-edit-format|Allow repo map

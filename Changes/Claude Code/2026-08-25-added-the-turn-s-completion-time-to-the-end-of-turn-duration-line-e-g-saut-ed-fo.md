@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e145aa8098c157181db337075542d617a12e27fa851876a56bb8b87191d65543
+machine_hash: 7717790e3bf0ad446031f7dbc3d33e6e8dc51dc89cacf5e5b6a136ac69f3b4fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,7 @@ record:
   title: Added the turn's completion time to the end-of-turn duration line…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-21-show-the-diff-edit-view-for-multi-line-edits-in-files-with-crlf-line-endings|Show
-  the diff edit view for multi-line edits in files with CRLF line endings]]'
+- '[[Changes/Midjourney/2026-08-21-editor|Editor]]'
 - '[[Changes/Cline/2026-08-23-restore-task-completion-telemetry-for-interactive-sessions-a-share-of-interactiv|Restore
   task completion telemetry for interactive sessions]]'
 - '[[Changes/ElevenLabs/2026-08-24-elevenlabs-cli|ElevenLabs CLI]]'

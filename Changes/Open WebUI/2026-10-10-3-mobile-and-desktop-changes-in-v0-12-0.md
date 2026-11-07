@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ea074c94a8cdc988cfb68a8dc12b81d1b06e0e751172032c9a0303442788301
+machine_hash: 8bb797587398a2f74340ef04f8ea6bde91d027f0e579fb5a98ec2b68a5a4c8c0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,10 +56,10 @@ record:
   title: 3 Mobile and Desktop changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed
-  the Claude apps gateway to start with a warning and serve a desktop policy…]]'
 - '[[Changes/Codex CLI/2026-10-08-50384-allow-opting-into-16-kib-arm64-code-pages-for-macos-signing-chess-oai|♯50384
   Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai]]'
+- '[[Changes/OpenClaw/2026-10-08-3-mobile-and-desktop-changes-in-v2026-9-9|3 Mobile
+  and Desktop changes in v2026.9.9]]'
 - '[[Changes/Replit/2026-10-09-replit-desktop-windows-preview-with-microsoft-and-nvidia|Replit
   Desktop Windows preview with Microsoft and NVIDIA]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
@@ -115,7 +115,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-09 · Replit · [[Changes/Replit/2026-10-09-replit-desktop-windows-preview-with-microsoft-and-nvidia|Replit Desktop Windows preview with Microsoft and NVIDIA]]
-- Later: 2026-10-12 · Windsurf · [[Changes/Windsurf/2026-10-12-devin-desktop|Devin Desktop]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-15-mobile-and-desktop-changes-in-v2026-10-1|15 Mobile and Desktop changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

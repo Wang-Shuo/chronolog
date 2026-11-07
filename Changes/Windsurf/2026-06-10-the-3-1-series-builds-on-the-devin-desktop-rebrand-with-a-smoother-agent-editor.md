@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e40a169ab964db3bffdcc89ab90523952164b5925da1bebfb08040129d45ae42
+machine_hash: 00842d6ecd714c8216ccca10e0091639eba4acbe1fc13b7de8436b85eb4bf427
 product: windsurf
 product_name: Windsurf
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-10 · OpenHands · [[Changes/OpenHands/2026-06-10-removed-app-tab-from-conversation-by-neubig-in-https-github-com-openhands-openha|Removed App tab from conversation]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-2-editor-experience-changes-in-v1-0-62|2 Editor Experience changes in v1.0.62]]
+- Later: 2026-06-12 · Gamma · [[Changes/Gamma/2026-06-12-the-editor-got-a-reliability-sweep|The editor got a reliability sweep]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

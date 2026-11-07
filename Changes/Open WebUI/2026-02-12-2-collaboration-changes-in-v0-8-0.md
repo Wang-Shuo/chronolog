@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98d26025ee7cd67410c10641ff96f5954a06e171a69984d4ad68bc07e38dc9ed
+machine_hash: fd455387354a9e2aaf6818b8da8ccbecbc7887269fa2143d765097f23e2a8480
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,7 +46,8 @@ record:
   title: 2 Collaboration changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-02-06-for-teams|For Teams]]'
+- '[[Changes/OpenCode/2026-02-10-core-correct-data-api-usage-and-data-format-for-importing-share-urls|Core
+  Correct /data API usage and data format for importing share URLs]]'
 - '[[Changes/Codex CLI/2026-02-11-11294-chore-put-crypto-provider-logic-in-a-shared-crate-bolinfest|♯11294
   chore: put crypto provider logic in a shared crate @bolinfest]]'
 - '[[Changes/Cline/2026-02-12-telemetry-route-posthog-networking-through-proxy-aware-shared-fetch-and-ensure-t|Telemetry:

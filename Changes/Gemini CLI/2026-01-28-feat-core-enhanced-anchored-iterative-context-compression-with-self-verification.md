@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b9e9cf3b08bf6f83b2eb49c775fcfadbf6a0af8f9f0c4676ad9f68cb863a0108
+machine_hash: f460ca7abeafe3609eb6363b397f7ba2bef96a8805d0bb2e3dfbaa62a5c20432
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat(core): enhanced anchored iterative context compression with self-verification'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-24-3-context-window-changes-in-v0-0-394|3
-  Context Window changes in v0.0.394]]'
+- '[[Changes/OpenCode/2026-01-25-3-context-window-changes-in-v1-1-35|3 Context Window
+  changes in v1.1.35]]'
 - '[[Changes/Cline/2026-01-27-strip-notebook-cell-outputs-when-extracting-text-content-from-jupyter-notebooks|Strip
   notebook cell outputs when extracting text content from Jupyter notebooks…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-27-simplify-compaction-timeline-entries|Simplify
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-01-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-27-simplify-compaction-timeline-entries|Simplify compaction timeline entries]]
-- Later: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-compaction-messages-show-clearer-command-hints-to-view-checkpoint-summaries|Compaction messages show clearer command hints to view checkpoint summaries]]
+- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-core-handle-venice-cache-creation-tokens|Core Handle Venice cache creation tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

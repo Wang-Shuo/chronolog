@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8b0367bce35f51294e2277a0a200505bc93201cda0ea49199e6b174561497df4
+machine_hash: f45c07988f3de0c6ce4c5d43469e0178960e85038b708dbf979e9de1c52233d0
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,10 +42,10 @@ record:
   title: Stability & Performance
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3
-  Reliability and Performance changes in v2.1.70]]'
 - '[[Changes/Open WebUI/2026-03-08-13-reliability-and-performance-changes-in-v0-8-9|13
   Reliability and Performance changes in v0.8.9]]'
+- '[[Changes/Google Antigravity/2026-03-09-stability-and-ui-improvements|Stability
+  and UI improvements]]'
 - '[[Changes/Open WebUI/2026-03-09-2-reliability-and-performance-changes-in-v0-8-10|2
   Reliability and Performance changes in v0.8.10]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-03-09-v1-9577-24-77454302|windsurf-2026-03-09-v1-9577-24-77454302]]'

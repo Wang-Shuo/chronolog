@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 180766ac1f8659e40d2bdca56592adefb755003c57379b99f219f0946238dfe4
+machine_hash: d0c89d157a408c6f9d5b811e02b0ad0cab670125659975f8f005622eee906373
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Interface Experience changes in v1.0.37
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-23-improved-reliability-of-the-openclaw-onboarding-flow-in-ollama-launch|Improved
-  reliability of the OpenClaw onboarding flow in ollama launch]]'
+- '[[Changes/OpenCode/2026-04-23-desktop-keep-project-avatar-previews-consistent-between-the-sidebar-and-edit-dia|Desktop
+  Keep project avatar previews consistent between the sidebar and edit dialog]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-24-subcommand-picker-shows-a-selection-indicator-next-to-the-highlighted-item|Subcommand
   picker shows a selection indicator (❯) next to the highlighted item]]'
 - '[[Changes/Lovable/2026-04-24-dashboard-organization-and-navigation|Dashboard organization

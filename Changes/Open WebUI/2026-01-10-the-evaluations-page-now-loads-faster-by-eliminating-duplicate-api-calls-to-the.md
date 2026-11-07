@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20651c0c104f33acecc71fd10060ee3469b9021b641213cc8dfe346bc231d85e
+machine_hash: e0b4be521c59522d63c3ea580d2131372e66dc7a3abcc43ee5f78c9d132f82f3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
     API calls…"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-9-reliability-and-performance-changes-in-v0-7-0|9
-  Reliability and Performance changes in v0.7.0]]'
 - '[[Changes/Open WebUI/2026-01-09-improved-reliability-for-low-spec-and-sqlite-deployments-fixed-page-timeouts-by|⚡
   Improved reliability for low-spec and SQLite deployments. Fixed page timeouts…]]'
+- '[[Changes/OpenCode/2026-01-09-desktop-implement-chunked-message-loading-and-lazy-diff-loading-for-improved-per|Desktop
+  Implement chunked message loading and lazy diff loading for improved performance]]'
 - '[[Changes/Ollama/2026-01-10-for-older-models-ollama-will-avoid-an-integer-underflow-on-low-vram-systems-duri|For
   older models, Ollama will avoid an integer underflow on low VRAM systems during…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-10-v0-7-2-github-275747448-c26f5316|open-webui-2026-01-10-v0-7-2-github-275747448-c26f5316]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-10 · Ollama · [[Changes/Ollama/2026-01-10-for-older-models-ollama-will-avoid-an-integer-underflow-on-low-vram-systems-duri|For older models, Ollama will avoid an integer underflow on low VRAM systems during…]]
-- Later: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-4-reliability-and-performance-changes-in-1-11-3|4 Reliability and Performance changes in 1.11.3]]
+- Later: 2026-01-10 · OpenCode · [[Changes/OpenCode/2026-01-10-terminal-fix-instance-disposal-to-prevent-memory-leaks-and-dangling-references|Terminal Fix instance disposal to prevent memory leaks and dangling references]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

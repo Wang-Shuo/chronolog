@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b83c4da6d132bbcc3a04459bce2d4a78f1e6d8ceaef1fd15eacaa7caca90d482
+machine_hash: 452a3515368b4b03a7864b4f07cfb99ef3a5b1b0daddbd240d9f71bb18871ccb
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,8 @@ record:
     generation now…"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-10-2-image-generation-changes-in-v0-9-5|2 Image Generation
-  changes in v0.9.5]]'
+- '[[Changes/Gamma/2026-05-15-brainstorm-generate-and-edit-images-in-chat|Brainstorm,
+  generate, and edit images in chat]]'
 - '[[Changes/Lovable/2026-05-18-improvements-and-bug-fixes|Improvements and bug fixes]]'
 - '[[Changes/Codex CLI/2026-06-01-3-image-generation-changes-in-rust-v0-136-0|3 Image
   Generation changes in rust-v0.136.0]]'

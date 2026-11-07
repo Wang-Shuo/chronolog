@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 332f02d8f7ae7f86261cff9e7f8a059cf5a94b0222f0f8f6e18f2d6b844c4ff9
+machine_hash: 367f3bd3ac388baf8030de70578e03d50df019783e75fba371d71865d32c86c0
 product: dify
 product_name: Dify
 record:
@@ -58,8 +58,8 @@ record:
   title: 5 Model Support changes in 0.8.3
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-14-update-this-feature-is-now-opt-in-in-v1-8-0-use-problems-in-the-textarea-automat|Update:
-  This feature is now opt-in in v1.8.0 (use @problems in the textarea)]]'
+- '[[Changes/Runway/2024-09-16-use-our-simple-to-integrate-api-to-access-our-latest-and-most-powerful-video-mod|Runway
+  API]]'
 - '[[Changes/Ollama/2024-09-17-6-model-support-changes-in-v0-3-11|6 Model Support
   changes in v0.3.11]]'
 - '[[Changes/Open WebUI/2024-09-19-2-model-support-changes-in-v0-3-22|2 Model Support

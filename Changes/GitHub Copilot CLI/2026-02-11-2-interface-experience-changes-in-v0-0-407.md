@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2163dbcb0a1665ca8df8be6c556aed7f65128a79d3a4b793e4cf8ff30a9f128b
+machine_hash: 7e8c9667ff57205f89db8fa9cb356b97ff1fa0cc96523e3dda4aab5b40199140
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v0.0.407
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-10-improved-terminal-rendering-performance|Improved
-  terminal rendering performance]]'
-- '[[Changes/Gemini CLI/2026-02-10-2-interface-experience-changes-in-v0-28-0|2 Interface
-  Experience changes in v0.28.0]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-don-t-close-sidebar-on-session-change|Desktop
+  Don''t close sidebar on session change]]'
+- '[[Changes/OpenCode/2026-02-10-4-interface-experience-changes-in-v1-1-54|4 Interface
+  Experience changes in v1.1.54]]'
 - '[[Changes/Codex CLI/2026-02-11-8-interface-experience-changes-in-rust-v0-99-0|8
   Interface Experience changes in rust-v0.99.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-11-v0-0-407-github-285416009-ed3cb109|github-copilot-cli-2026-02-11-v0-0-407-github-285416009-ed3cb109]]'
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.407
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-8-interface-experience-changes-in-rust-v0-99-0|8 Interface Experience changes in rust-v0.99.0]]
-- Later: 2026-02-11 · v0 · [[Changes/v0/2026-02-11-added-branch-picker-for-vercel-deployments|Added branch picker for Vercel deployments]]
+- Later: 2026-02-11 · OpenCode · [[Changes/OpenCode/2026-02-11-desktop-fixed-sidebar-remounting-issue|Desktop Fixed sidebar remounting issue]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a210c80e5c7c69a24400167ea259757ec736e1a1dac6d3066777c363789fbae
+machine_hash: e04e43af9b4b8c7d3833bb245adcab371534a368e8503b8eb24aa777fdcc69aa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.165.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-a-dropped-connection-during-sign-in-no-longer-signs-you-out-devin-desktop-retrie|A dropped connection during sign-in no longer signs you out]]
-- Later: 2026-10-28 · Lovable · [[Changes/Lovable/2026-10-28-set-up-two-factor-authentication-from-the-dashboard-banner|Set up two-factor authentication from the dashboard banner]]
+- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-5-account-and-access-changes-in-v2026-10-8|5 Account and Access changes in v2026.10.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

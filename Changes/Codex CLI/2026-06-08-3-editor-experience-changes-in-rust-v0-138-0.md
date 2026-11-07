@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd17f744d754e92cc2f1c7b3e93633320f68ce3d935ff6e600a5545c22917c8b
+machine_hash: a3c3e1b9d8789a84618587f942ae8c07acb273252e1494e330bd67788b44fdce
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Editor Experience changes in rust-v0.138.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-3-editor-experience-changes-in-v1-0-60|3
-  Editor Experience changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-2-editor-experience-changes-in-v1-16-0|2 Editor Experience
+  changes in v1.16.0]]'
 - '[[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit
   messages with attachments]]'
 - '[[Changes/Claude Code/2026-06-08-background-sessions-now-preserve-ide-chrome-bare-remote-control-and-other-flags|Background

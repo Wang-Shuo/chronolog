@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 326fb01aac16406af784eb69ad162c714f21f414e8f1c5eebcf698caa507fb14
+machine_hash: 152e078e0eb97f355a617ce870adb7bb8f62cd67678153f0c364ee09602629e7
 product: cline
 product_name: Cline
 record:
@@ -75,8 +75,8 @@ record:
     of room
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-added-x-claude-code-request-class-x-claude-code-agent-type-x-claude-code-prev-to|Added
-  x-claude-code-request-class, x-claude-code-agent-type…]]'
+- '[[Changes/Runway/2026-09-15-you-can-now-mention-agent-directly-in-comments-on-any-asset-page-collaborate-and|Agent
+  in Asset Comments]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-3-context-window-changes-in-v1-0-85|3 Context
   Window changes in v1.0.85]]'
 - '[[Changes/OpenHands/2026-09-16-test-cover-conversation-context-menu-by-aivong-openhands-in-https-github-com-ope|test:

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c14c248cebf9944207305f6a8c667889877032e2607074e3825de17d6baa918b
+machine_hash: 61685239a648c1a391cc6294dfbe6b950d0d91607943b1df89c443329a97dafd
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -123,7 +123,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-2-agent-mode-changes-in-1-11-0|2 Agent Mode changes in 1.11.0]]
-- Later: 2025-12-16 · OpenHands · [[Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands|New OpenHands 1.0.0 using the new…]]
+- Later: 2025-12-15 · Manus · [[Changes/Manus/2025-12-15-we-ve-just-released-a-major-upgrade-with-a-new-flagship-agent-manus-1-6-max-plus|Welcome Manus 1.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d897357449571b66a054c44f75fed22d912d8e283c22b6297a09e800d17749bb
+machine_hash: 649b9b0d9b25d94913c48e6decfba8307b8db2148a7ed1c84cbdc8949f3d84d5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Editor Experience changes in v1.0.78
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-30-change-the-owner-of-several-projects-at-once|Change
-  the owner of several projects at once]]'
+- '[[Changes/OpenCode/2026-08-01-2-editor-experience-changes-in-v1-18-11|2 Editor
+  Experience changes in v1.18.11]]'
 - '[[Changes/Windsurf/2026-08-01-the-edit-write-apply-patch-and-notebook-edit-tools-in-devin-local-now-refuse-to|The
   edit, write, apply_patch, and notebook_edit tools in Devin Local now…]]'
 - '[[Changes/Cline/2026-08-02-keep-settings-edits-that-are-made-before-the-provider-config-finishes-loading-ba|Keep

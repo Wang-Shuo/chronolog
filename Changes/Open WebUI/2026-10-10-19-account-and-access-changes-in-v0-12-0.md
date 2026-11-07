@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a38a08cfe4384f7dfc88ec64e07f00ca2a8b7803e1bee9af1cf3e2c217854114
+machine_hash: 0097f4fd2d370844d8eb212caa72cd34f7c4deec463d4f61783c17e914e1aec7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -158,8 +158,8 @@ record:
   title: 19 Account and Access changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-2-account-and-access-changes-in-rust-v0-162-0|2
-  Account and Access changes in rust-v0.162.0]]'
+- '[[Changes/OpenClaw/2026-10-08-2-account-and-access-changes-in-v2026-9-9|2 Account
+  and Access changes in v2026.9.9]]'
 - '[[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved
   the errors for a refused cloud session]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-09-use-native-microsoft-entra-broker-authentication-on-macos-when-available-with-br|Use
@@ -249,7 +249,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-09-use-native-microsoft-entra-broker-authentication-on-macos-when-available-with-br|Use native Microsoft Entra broker authentication on macOS when available…]]
-- Later: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-2-account-and-access-changes-in-v1-0-96|2 Account and Access changes in v1.0.96]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-18-account-and-access-changes-in-v2026-10-1|18 Account and Access changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2ee33dd4c4c1fd2d13d27ba4fd8570b402f4c632f9185192e2ef7a6417486f8
+machine_hash: d1c164541c43298040e45facee690379e4b01fc47ebba815a0504406e1c66327
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,11 +41,11 @@ record:
   title: Clear queued tool images when vision is disabled
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-25-music-5f1ccf|Music]]'
 - "[[Changes/Open WebUI/2026-06-01-youtube-short-link-transcripts-pasting-a-youtu-be-short-link-into-a-chat-now-loa|\U0001F4FA
   YouTube short link transcripts. Pasting a \"youtu.be\" short link into a chat…]]"
 - '[[Changes/Ollama/2026-06-03-gemma-4-12b-https-ollama-com-library-gemma4-12b-high-performance-multimodal-inte|Gemma
   4 12B((source link)]]'
+- '[[Changes/Runway/2026-06-18-trim-stitch-reorder-and-export-a-final-video-all-in-one-place|Studio]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: multimodal
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-gemma-4-12b-https-ollama-com-library-gemma4-12b-high-performance-multimodal-inte|Gemma 4 12B((source link)]]
-- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-media-types-an-extraction-engine-may-handle-administrators-can-now-list-which-im|🖼️ Media types an extraction engine may handle. Administrators can now list…]]
+- Earlier: 2026-06-18 · Runway · [[Changes/Runway/2026-06-18-trim-stitch-reorder-and-export-a-final-video-all-in-one-place|Studio]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-19-multimodal-input-changes-in-v2026-7-1|19 Multimodal Input changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

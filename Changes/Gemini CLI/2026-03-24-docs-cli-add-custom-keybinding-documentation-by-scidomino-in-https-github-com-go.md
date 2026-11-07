@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4663662e211b8e018f5fc2a3635be0d2472e541965a63b56390f317b18215c8c
+machine_hash: 7fb67a3bc717add85d716084561d32a2f2cf046f85ae60356fe5e314336b20f2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: 'docs(cli): add custom keybinding documentation'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-2-interface-experience-changes-in-rust-v0-116-0|2
-  Interface Experience changes in rust-v0.116.0]]'
 - '[[Changes/v0/2026-03-20-improved-git-sync-workflow-with-simplified-pr-menu|Improved
   git sync workflow with simplified PR menu]]'
 - '[[Changes/v0/2026-03-20-added-element-screenshot-attachment-for-design-mode-element-selection|Added
   element screenshot attachment for design mode element selection]]'
+- '[[Changes/OpenCode/2026-03-22-3-interface-experience-changes-in-v1-3-0|3 Interface
+  Experience changes in v1.3.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621|gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-20 · v0 · [[Changes/v0/2026-03-20-added-element-screenshot-attachment-for-design-mode-element-selection|Added element screenshot attachment for design mode element selection]]
-- Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface Experience changes in v2.1.83]]
+- Earlier: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-3-interface-experience-changes-in-v1-3-0|3 Interface Experience changes in v1.3.0]]
+- Later: 2026-03-24 · OpenCode · [[Changes/OpenCode/2026-03-24-restored-keyboard-project-switching-in-open-sidebar-with-proper-enter-key-activa|Restored keyboard project switching in open sidebar with proper Enter key activation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 147f2f4588f9d2422d561076b9ff7821888ce153a03832e75eafc7b0177337dc
+machine_hash: ada527d16d165413b1855214f9305a7d2e0fb086d898a3d2018dec57661bc49c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,10 @@ record:
   title: Shared folders and ownership
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-exporting-a-resumed-session-with-share-or-share-gist-writes-the-whole-transcript|Exporting
-  a resumed session with --share or --share-gist writes the whole transcript…]]'
 - '[[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share
   a prompt]]'
+- '[[Changes/OpenClaw/2026-09-08-4-collaboration-changes-in-v2026-9-3|4 Collaboration
+  changes in v2026.9.3]]'
 - '[[Changes/ChatGPT/2026-09-09-4-collaboration-changes-in-share-files-and-folders|4
   Collaboration changes in Share files and folders…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d]]'
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-4-collaboration-changes-in-v2026-9-3|4 Collaboration changes in v2026.9.3]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 312602a085287c19b0b5f3b247c371175a544044fc531491b4a835325420c705
+machine_hash: 07fbfbbb2efb9db99236f7710d9d0cc96a4e79498a15f157f98e56528d1c2a1c
 product: v0
 product_name: v0
 record:
@@ -46,11 +46,12 @@ record:
   title: 2 Interface Experience changes in Claude Opus 4.7 Fast, agent browser…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-3-interface-experience-changes-in-3-4|3 Interface Experience
-  changes in 3.4]]'
-- '[[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support
   j/k keys for up/down navigation in the /diff view]]'
+- '[[Changes/OpenCode/2026-05-14-restored-markdown-rendering-for-session-output-by-default|Restored
+  markdown rendering for session output by default]]'
+- '[[Changes/OpenCode/2026-05-15-auto-hide-the-menu-bar-on-linux-and-windows|Auto-hide
+  the menu bar on Linux and Windows]]'
 source_release: '[[Releases/v0/v0-2026-05-15-2026-05-15-d142aa2e|v0-2026-05-15-2026-05-15-d142aa2e]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -91,8 +92,8 @@ Source: https://v0.app/changelog#2026-05-15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support j/k keys for up/down navigation in the /diff view]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-5-interface-experience-changes-in-rust-v0-131-0|5 Interface Experience changes in rust-v0.131.0]]
+- Earlier: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-auto-hide-the-menu-bar-on-linux-and-windows|Auto-hide the menu bar on Linux and Windows]]
+- Later: 2026-05-16 · OpenCode · [[Changes/OpenCode/2026-05-16-terminal-added-pinned-sessions-with-quick-switch-slots-in-the-session-picker|Terminal Added pinned sessions with quick-switch slots in the session picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

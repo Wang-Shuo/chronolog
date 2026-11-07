@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 87f7e88bd3257b591da6a2f8f457d311afd374ebc116eb77c5fee3178c2b897b
+machine_hash: adf0de52b6acc8771258b5161a1bda8161f438309b59a0a6c642adcf9aab2682
 product: open-webui
 product_name: Open WebUI
 record:
@@ -114,12 +114,12 @@ record:
   title: 17 Interface Experience changes in v0.8.11
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-20-added-element-screenshot-attachment-for-design-mode-element-selection|Added
-  element screenshot attachment for design mode element selection]]'
-- '[[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli):
-  add custom keybinding documentation]]'
 - '[[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface
   Experience changes in v2.1.83]]'
+- '[[Changes/Gamma/2026-03-25-gamma-has-supported-code-blocks-for-a-while-but-the-code-inside-them-was-just-pl|Syntax
+  highlighting for code blocks]]'
+- '[[Changes/Google Antigravity/2026-03-25-improved-sidebar-design|Improved sidebar
+  design]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69|open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69]]'
 source_type: github_releases
 theme: interface-experience
@@ -197,7 +197,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface Experience changes in v2.1.83]]
+- Earlier: 2026-03-25 · Google Antigravity · [[Changes/Google Antigravity/2026-03-25-improved-sidebar-design|Improved sidebar design]]
 - Later: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]]
 <!-- chronolog:end -->
 

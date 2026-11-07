@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9b512a93df40e406d3707a65d609cee6ea40daefd89782c1949ea46ba478f12
+machine_hash: 7ba20adb5d9495b57bc2fe6b08c9d1d9ada12c8069eb271f6c476bc565f9ed45
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
     cache reuse
   type: change
 related_changes:
-- '[[Changes/v0/2026-06-08-press-cmd-k-to-open-a-new-context-aware-command-palette-and-jump-to-chats-projec|Press
-  Cmd+K to open a new context-aware command palette and jump to chats, projects…]]'
-- '[[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context
-  Window changes in rust-v0.139.0]]'
+- '[[Changes/OpenCode/2026-06-10-core-sessions-can-recover-once-from-provider-context-overflow-errors-instead-of|Core
+  Sessions can recover once from provider context-overflow errors instead…]]'
+- '[[Changes/Google Antigravity/2026-06-11-ask-side-questions-using-btw-while-in-a-conversation-type-btw-in-the-input-and-s|Ask
+  side questions using /btw]]'
 - '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode
   Added usage attribution to the Account & usage dialog (/usage) showing…]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-12-v0-30-8-github-338327728-6353d110|ollama-2026-06-12-v0-30-8-github-338327728-6353d110]]'

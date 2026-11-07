@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0044efc7be92e87dc92bb19a5d3c863184ba3e682b6dda944e08cf7c0422d9d4
+machine_hash: 23bb7c680eb3a7d708c1352cab10f652995089c8800e52007ae880efefca0004
 product: ollama
 product_name: Ollama
 record:
@@ -52,10 +52,10 @@ record:
   title: 4 Reliability and Performance changes in v0.18.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-faster-shell-commands-on-windows-by-skipping-powershell-profile-loading|Faster
-  shell commands on Windows by skipping PowerShell profile loading]]'
 - '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
   actionable suggestions to /context command]]'
+- '[[Changes/OpenCode/2026-03-12-desktop-trim-session-render-work-in-app-for-improved-performance|Desktop
+  Trim session render work in app for improved performance]]'
 - '[[Changes/v0/2026-03-12-improved-code-server-loading-speed-for-fresh-vms|Improved
   code-server loading speed for fresh VMs]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-14-v0-18-0-github-296861801-d01e9dff|ollama-2026-03-14-v0-18-0-github-296861801-d01e9dff]]'

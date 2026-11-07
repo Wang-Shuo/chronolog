@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f0748e7db2d01d85f66298b8f4652cf390912b2144dcc656bd363cb09c03239
+machine_hash: 6d52886f54036f4b95356fad6816fae938e5c580d4d297eb37dff0db6339db7d
 product: aider
 product_name: Aider
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Model Support changes in v0.69.0
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-12-11-priority-access-with-gemini-advanced-your-personal-research-assistant-saves-you|Priority
-  access with Gemini Advanced]]'
 - '[[Changes/Gemini/2024-12-11-introducing-gemini-2-0-flash-as-an-experimental-model-in-gemini|Introducing
   Gemini 2.0 Flash as an experimental model in Gemini]]'
+- '[[Changes/Midjourney/2024-12-11-in-the-future-we-plan-for-the-characters-worlds-and-other-materials-you-create-i|In
+  the future, we plan for the characters, worlds, and other materials you create…]]'
 - '[[Changes/Ollama/2024-12-11-exaone-3-5-https-ollama-com-library-exaone3-5-a-collection-of-instruction-tuned|EXAONE
   3.5((source link) a collection…]]'
 source_release: '[[Releases/Aider/aider-2024-12-13-v0-69-0-github-190706820-c74597ab|aider-2024-12-13-v0-69-0-github-190706820-c74597ab]]'

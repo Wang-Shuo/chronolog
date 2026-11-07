@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc46dec7af4db0a7604d701e240f6ef1b1d9f285f705a9e0fc7dd45d03483263
+machine_hash: 350a3cfa076c5acfbaee600717854f676c4eba0194693097b51eba16c2dd1661
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#31191 Handle completion separators and popup dismissal @charliemarsh-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-2-editor-experience-changes-in-v1-0-69|2
-  Editor Experience changes in v1.0.69]]'
+- '[[Changes/OpenCode/2026-07-07-desktop-keep-session-tab-titles-available-after-reloads-while-session-data-is-st|Desktop
+  Keep session tab titles available after reloads while session data is still…]]'
 - '[[Changes/Codex CLI/2026-07-08-3-editor-experience-changes-in-rust-v0-143-0|3 Editor
   Experience changes in rust-v0.143.0]]'
 - '[[Changes/Lovable/2026-07-08-pause-a-lovable-cloud-project|Pause a Lovable Cloud

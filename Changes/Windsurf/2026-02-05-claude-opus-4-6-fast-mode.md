@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d899cd77a47a5b2612801e028d4ea9f7c698455214e0cd90a04d7019e9672907
+machine_hash: dd0f883f7de340558078afd7a1671d87d8d762344bf0ff7f18cf24ce019b48e7
 product: windsurf
 product_name: Windsurf
 record:
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-2-model-support-changes-in-v0-0-403|2 Model Support changes in v0.0.403]]
+- Earlier: 2026-02-05 · OpenCode · [[Changes/OpenCode/2026-02-05-core-update-transforms-for-gpt-5-3|Core Update transforms for GPT-5.3]]
 - Later: 2026-02-06 · Replit · [[Changes/Replit/2026-02-06-custom-openai-key-support|Custom OpenAI key support]]
 <!-- chronolog:end -->
 

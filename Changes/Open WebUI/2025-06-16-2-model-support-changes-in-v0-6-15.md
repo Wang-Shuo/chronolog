@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07e5ee321d015dfaab208e9a989c114552c9043763258121b447f298f5ff4e19
+machine_hash: aacd5d8626327f454e696fdd9c25787634b2ddb51c242a62a15021c8d1c65445
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,13 +48,11 @@ record:
   title: 2 Model Support changes in v0.6.15
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In
-  some cases, a “chain of thought” reasoning will show up unexpectedly for simple
-  queries]]'
-- '[[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded
-  Model Support for Custom GPTs]]'
-- '[[Changes/Dify/2025-06-16-3-model-support-changes-in-1-4-3|3 Model Support changes
-  in 1.4.3]]'
+- '[[Changes/Midjourney/2025-06-16-this-will-help-teach-our-model-what-combinations-of-motion-and-compositions-peop|This
+  will help teach our model what combinations of motion and compositions people…]]'
+- '[[Changes/Midjourney/2025-06-16-background|Background]]'
+- '[[Changes/Midjourney/2025-06-16-we-did-surveys-before-releasing-our-first-image-model-and-we-still-lost-money-ou|We
+  did surveys before releasing our first image model and we still lost money our…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-06-16-v0-6-15-github-225589258-f1066959|open-webui-2025-06-16-v0-6-15-github-225589258-f1066959]]'
 source_type: github_releases
 theme: model-support
@@ -98,8 +96,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-3-model-support-changes-in-1-4-3|3 Model Support changes in 1.4.3]]
-- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-fixed-cli-displaying-incorrect-default-model-for-anthropic-provider-by-neubig-in|Fixed CLI displaying incorrect default model for Anthropic provider by @neubig…]]
+- Earlier: 2025-06-16 · Midjourney · [[Changes/Midjourney/2025-06-16-we-did-surveys-before-releasing-our-first-image-model-and-we-still-lost-money-ou|We did surveys before releasing our first image model and we still lost money our…]]
+- Later: 2025-06-17 · Midjourney · [[Changes/Midjourney/2025-06-17-after-months-of-testing-v7-and-the-release-of-omni-reference-and-the-recent-upda|After months of testing V7 and the release of Omni-reference and the recent update…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

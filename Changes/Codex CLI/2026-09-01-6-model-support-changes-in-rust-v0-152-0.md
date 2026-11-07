@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5de9a27d0af28d049af629e9858d68d2df12101daf4191c9d08334963160ef56
+machine_hash: a2901c8fbf05e7efffdd9a053677c4304b183d2906387e350f813d165ce0418e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: 6 Model Support changes in rust-v0.152.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-31-10-model-support-changes-in-v0-11-2|10 Model Support
-  changes in v0.11.2]]'
+- '[[Changes/Runway/2026-08-31-ruby-is-now-available-as-its-own-model-in-the-tool-mode-model-selector-with-a-de|Runway
+  Ruby in Tool Mode]]'
 - '[[Changes/Claude/2026-09-01-claude-fable-5-1-and-claude-mythos-5-1-launch|Claude
   Fable 5.1 and Claude Mythos 5.1 launch]]'
 - '[[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support

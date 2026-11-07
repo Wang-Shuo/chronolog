@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc0444d7de7b2b7b6417eb9b09cfb0527442f12f454faf5b64dedc8da4d71231
+machine_hash: 72d4f6e50bf25a3d8b1fb85378440ee242cbb7531c1f612da21d30ccae0207b3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -134,7 +134,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-29 · Lovable · [[Changes/Lovable/2026-10-29-save-files-to-favorites|Save files to Favorites]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor Experience changes in v2.1.314]]
+- Later: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-failed-updates-of-a-git-checkout-now-preserve-detected-edits-and-untracked-files|Failed updates of a Git checkout now preserve detected edits and untracked files…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

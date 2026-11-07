@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bfc1ed28fd34c7e3f0d4d27327ae54cfb49eab259b6657c9e1957db2e625cf43
+machine_hash: 53ee977680b743e6c3911975e5267a66b666468aa2fe602f21f3a8ca7a6c6833
 product: lovable
 product_name: Lovable
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-13 · Gemini · [[Changes/Gemini/2026-10-13-introducing-gemini-4-argon-our-frontier-model-for-complex-tasks|Introducing Gemini 4 Argon: our frontier model for complex tasks]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support changes in v2.1.299]]
+- Later: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-3-model-support-changes-in-v2026-10-3|3 Model Support changes in v2026.10.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

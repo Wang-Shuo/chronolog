@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c7345b85132324e63d9ba5315a7ef9eb1aa53058a2ba2d7cd1f9ae89d3a9a48
+machine_hash: 4fb8eb1177a0ad7a32775a755bdd0fa93f611f2a08b414468e4a70f9543837f1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-06-13 · Replit · [[Changes/Replit/2025-06-13-organization-app-sharing-improvement|Organization app sharing improvement]]
-- Later: 2025-06-26 · Lovable · [[Changes/Lovable/2025-06-26-spotlight|Spotlight]]
+- Later: 2025-06-19 · Midjourney · [[Changes/Midjourney/2025-06-19-heya-everybody-glad-you-re-enjoying-creating-and-sharing-videos-we-re-noticing-t|Heya everybody! Glad you're enjoying creating and sharing videos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

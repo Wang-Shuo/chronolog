@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 9496efaefb5084098819dd135fbe5deebf92d518808f8403f654a460738ee364
+machine_hash: 1f605e6f348b8b3929dcca874f8e1d1d423fde0a7e8a5dc4fadf495ba2172d02
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     question''s…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-improved-fullscreen-mode-to-keep-the-full-pre-compaction-history-in-scrollback-a|Improved
-  fullscreen mode to keep the full pre-compaction history in scrollback…]]'
-- '[[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6
-  Interface Experience changes in rust-v0.147.0]]'
+- '[[Changes/Google Antigravity/2026-08-07-2-interface-experience-changes-in-hub-v2-6-0-faster-long-conversations|2
+  Interface Experience changes in HUB v2.6.0 — Faster long conversations…]]'
+- '[[Changes/OpenCode/2026-08-07-desktop-language-names-now-stay-native-in-the-locale-picker|Desktop
+  Language names now stay native in the locale picker]]'
 - '[[Changes/OpenHands/2026-08-07-feat-reorder-customize-navigation-by-devinvinson-in-https-github-com-openhands-o|feat:
   reorder Customize navigation]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049|claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049]]'

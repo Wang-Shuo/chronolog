@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c35eed22cb4329df52beec713bf9b5a7a3d14e1b508061113f0fad9ed87b9f9
+machine_hash: df3a5a69fbb7243a8ecf45fc3d7dd7f09cb031d2cf5c9d8044314b71eb7773e3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
   title: "**\U0001F5C2️ Deduplication for Retrieved Documents**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas
-  sharing]]'
 - "[[Changes/Open WebUI/2025-02-13-jupyter-notebook-support-in-code-interpreter-now-you-can-configure-code-interpre|\U0001F40D
   Jupyter Notebook Support in Code Interpreter]]"
+- "[[Changes/Gamma/2025-02-26-sharing-your-ideas-just-got-easier-you-can-now-post-directly-to-linkedin-from-ga|Post
+  directly to LinkedIn \U0001F680]]"
 - '[[Changes/Ollama/2025-02-27-granite-3-2-vision-https-ollama-com-library-granite3-2-vision-a-compact-and-effi|Granite-3.2-Vision((source
   link) A compact…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-27-v0-5-17-github-202772600-cff31e12|open-webui-2025-02-27-v0-5-17-github-202772600-cff31e12]]'

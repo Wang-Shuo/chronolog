@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d69e359ad8134d496619b4df14e4167d894ecbe7e53909cb2f97cbd717ace121
+machine_hash: f63d2d63a6a1c2f66fe763ad535c9f61dd18a2db38b7e8a820ccbfa8e0a2ecef
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,7 +58,8 @@ record:
   title: 7 Apps and Integrations changes in rust-v0.110.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-04-updated-hooks-docs|Updated hooks docs]]'
+- '[[Changes/OpenCode/2026-03-04-rework-workspace-integration-and-adaptor-interface|Rework
+  workspace integration and adaptor interface]]'
 - '[[Changes/Claude Code/2026-03-05-added-reload-plugins-command-to-activate-pending-plugin-changes-without-restarti|Added
   /reload-plugins command to activate pending plugin changes without restarting]]'
 - '[[Changes/Claude Code/2026-03-05-7-apps-and-integrations-changes-in-v2-1-69|7 Apps

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f177cf2f06c5488a6e599e9a410a05b8bf0585f6909f604ab89835d4d8f0fbcf
+machine_hash: 0d45b91c11dc331cb1bb7c15a3120251d20a515ef26f85616665bf57456beb21
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Add core tool that adds all context from the core package
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-25-test-add-unit-tests-for-datasetconfig-component-with-comprehensive-coverage-of-r|test:
-  add unit tests for DatasetConfig component with comprehensive coverage…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-02-add-auto-compaction-at-95-token-limit-and-compact-command|Add
   auto-compaction at 95% token limit and /compact command]]'
+- '[[Changes/OpenCode/2026-01-04-2-context-window-changes-in-v1-1-1|2 Context Window
+  changes in v1.1.1]]'
 - '[[Changes/Codex CLI/2026-01-06-2-context-window-changes-in-rust-v0-78-0|2 Context
   Window changes in rust-v0.78.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-07-v0-23-0-github-274690353-5e923999|gemini-cli-2026-01-07-v0-23-0-github-274690353-5e923999]]'

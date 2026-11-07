@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8d352455d670bc5bcc50a3e00f0382c08e98f8cc8acf55ca8cd5039eca3adfd
+machine_hash: f87ec353aa76f9094d7d36cc8fc3580fa3898f5308c7aef0d04b53bcb055fa5b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.113
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-terminal-state-correctly-restored-after-a-crash-exit-on-windows|Terminal
-  state correctly restored after a crash exit on Windows]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-support-copilot-disable-terminal-title-environment-variable-to-opt-out-of-termin|Support
   COPILOT_DISABLE_TERMINAL_TITLE environment variable to opt out of terminal…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-undo-shows-an-explanatory-message-when-rewind-is-unavailable-e-g-not-in-a-git-re|/undo
   shows an explanatory message when rewind is unavailable…]]'
+- '[[Changes/OpenCode/2026-04-16-3-developer-workflow-changes-in-v1-4-7|3 Developer
+  Workflow changes in v1.4.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
 theme: developer-workflow
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.113
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-undo-shows-an-explanatory-message-when-rewind-is-unavailable-e-g-not-in-a-git-re|/undo shows an explanatory message when rewind is unavailable…]]
+- Earlier: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-3-developer-workflow-changes-in-v1-4-7|3 Developer Workflow changes in v1.4.7]]
 - Later: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-3-developer-workflow-changes-in-v1-0-32|3 Developer Workflow changes in v1.0.32]]
 <!-- chronolog:end -->
 

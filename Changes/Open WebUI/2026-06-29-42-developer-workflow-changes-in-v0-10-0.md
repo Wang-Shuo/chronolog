@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8bf83c1091ea4edb9f7f295e3b81d4588fe4c1bb6322f80f39f72d2851020e5
+machine_hash: 5532846adca4f2e65b9519dd2f3301f319e5a6c0cacd7dbe0c414482750a628b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -274,8 +274,8 @@ record:
   title: 42 Developer Workflow changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-06-25-feat-add-eval-inventory-cli-command-and-reporting-logic-by-ved015-in-https-githu|feat:
-  add eval:inventory CLI command and reporting logic]]'
+- '[[Changes/Google Antigravity/2026-06-25-updated-the-permissions-request-dialog-to-display-a-clear-description-of-the-act|Updated
+  the permissions request dialog to display a clear description of the action…]]'
 - '[[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow
   changes in v4.0.0]]'
 - '[[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer

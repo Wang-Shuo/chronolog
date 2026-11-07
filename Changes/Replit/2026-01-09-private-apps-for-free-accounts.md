@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6c671a9bc39a1f913b36fd173b86dd96428f433e70b0db896f1a51c162f8f5b9
+machine_hash: d82563371c89d572b8b7d416c453874a02093f3c4edd2e5059b48067fee7be0c
 product: replit
 product_name: Replit
 record:
@@ -43,12 +43,12 @@ record:
   title: Private apps for free accounts
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-2-apps-and-integrations-changes-in-v2-1-2|2 Apps
-  and Integrations changes in v2.1.2]]'
 - '[[Changes/Codex CLI/2026-01-09-2-apps-and-integrations-changes-in-rust-v0-80-0|2
   Apps and Integrations changes in rust-v0.80.0]]'
 - '[[Changes/Open WebUI/2026-01-09-3-apps-and-integrations-changes-in-v0-7-0|3 Apps
   and Integrations changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-09-2-apps-and-integrations-changes-in-v1-1-10|2 Apps
+  and Integrations changes in v1.1.10]]'
 source_release: '[[Releases/Replit/replit-2026-01-09-2026-01-09-e20af2fb|replit-2026-01-09-2026-01-09-e20af2fb]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-apps-and-integrations-changes-in-v0-7-0|3 Apps and Integrations changes in v0.7.0]]
+- Earlier: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-2-apps-and-integrations-changes-in-v1-1-10|2 Apps and Integrations changes in v1.1.10]]
 - Later: 2026-01-10 · Cline · [[Changes/Cline/2026-01-10-2-apps-and-integrations-changes-in-v3-49-0|2 Apps and Integrations changes in v3.49.0]]
 <!-- chronolog:end -->
 

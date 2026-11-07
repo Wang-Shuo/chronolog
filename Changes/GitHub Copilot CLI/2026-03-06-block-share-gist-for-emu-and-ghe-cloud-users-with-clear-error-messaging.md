@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a8037609ac910e9f842d45fb28cce5cff890adc059c9d43acb18b1b33902c80
+machine_hash: 13a4ce4a1d8b45a138f54513868ea83561404f59f21652fdf46070b421135c4a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Block /share gist for EMU and GHE Cloud users with clear error messaging
   type: change
 related_changes:
-- '[[Changes/v0/2026-02-25-added-team-setting-to-allow-v0-to-open-prs-on-behalf-of-members-without-github-a|Added
-  team setting to allow v0 to open PRs on behalf of members without GitHub accounts]]'
 - '[[Changes/Codex CLI/2026-02-26-2-collaboration-changes-in-rust-v0-106-0|2 Collaboration
   changes in rust-v0.106.0]]'
+- '[[Changes/Midjourney/2026-02-26-today-we-are-removing-the-rooms-feature-from-the-website|An
+  update on Rooms]]'
 - "[[Changes/Open WebUI/2026-03-01-individual-user-sharing-control-administrators-can-now-disable-individual-user-s|\U0001F510
   Individual user sharing control. Administrators can now disable individual…]]"
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e|github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-individual-user-sharing-control-administrators-can-now-disable-individual-user-s|🔐 Individual user sharing control. Administrators can now disable individual…]]
-- Later: 2026-03-09 · Open WebUI · [[Changes/Open WebUI/2026-03-09-teams-webhook-crash-fixed-a-typeerror-crash-in-the-teams-webhook-handler-when-us|📨 Teams webhook crash. Fixed a TypeError crash in the Teams webhook handler…]]
+- Later: 2026-03-08 · OpenCode · [[Changes/OpenCode/2026-03-08-core-allow-beta-channel-to-share-database-with-stable-channel|Core Allow beta channel to share database with stable channel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

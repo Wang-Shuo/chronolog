@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24881d32d413d77e571e0eb3b156d9787cd38a18ad344a7b6ab65a0614704f14
+machine_hash: 8de82225c8ebfd05b811caf745ae987b9f1f1e0686378ab7dfa438a56e13cbe8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,10 +56,10 @@ record:
   title: 3 Account and Access changes in v0.8.4
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-02-16-oauth-session-error-handling-corrupted-oauth-sessions-are-now-gracefully-handled|\U0001F510
-  OAuth session error handling. Corrupted OAuth sessions are now gracefully…]]"
 - '[[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved
   performance by caching authentication failures for HTTP and SSE MCP…]]'
+- '[[Changes/OpenCode/2026-02-19-3-account-and-access-changes-in-v1-2-7|3 Account
+  and Access changes in v1.2.7]]'
 - '[[Changes/ElevenLabs/2026-02-23-elevenagents-f6efef|ElevenAgents]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-23-v0-8-4-github-289302856-177fc54c|open-webui-2026-02-23-v0-8-4-github-289302856-177fc54c]]'
 source_type: github_releases

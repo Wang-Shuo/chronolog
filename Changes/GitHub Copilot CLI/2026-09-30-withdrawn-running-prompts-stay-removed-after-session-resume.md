@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf87fbc115e1fc24295abb650e21f09106a9d927f1da2b649142d0db84e0bede
+machine_hash: 604831db6e4e44d3be38f9f2c4a2639b837e2753b66008f1d83e10d089ff4e89
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Withdrawn running prompts stay removed after session resume
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-16-when-session-history-is-truncated-or-compacted-just-as-a-turn-finishes-the-worki|When
-  session history is truncated or compacted just as a turn finishes…]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-17-resume-sessions-even-when-transcript-files-contain-recoverable-corruption|Resume
-  sessions even when transcript files contain recoverable corruption]]'
+- '[[Changes/OpenClaw/2026-09-19-retained-conversation-history-continues-to-follow-current-sharing-permissions-af|Retained
+  conversation history continues to follow current sharing permissions after…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-22-session-resume-preserves-pending-conversation-events-when-saving-fails-and-expla|Session
   resume preserves pending conversation events when saving fails and explains…]]'
+- '[[Changes/OpenClaw/2026-09-23-plugin-requested-answer-revisions-wait-for-session-history-to-become-available-a|Plugin-requested
+  answer revisions wait for session history to become available…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d|github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-session-resume-preserves-pending-conversation-events-when-saving-fails-and-expla|Session resume preserves pending conversation events when saving fails and explains…]]
+- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-plugin-requested-answer-revisions-wait-for-session-history-to-become-available-a|Plugin-requested answer revisions wait for session history to become available…]]
 - Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-remote-session-resume-now-uses-your-configured-github-auth-for-resume-and-connec|Remote session resume now uses your configured GitHub auth for --resume and --connect]]
 <!-- chronolog:end -->
 

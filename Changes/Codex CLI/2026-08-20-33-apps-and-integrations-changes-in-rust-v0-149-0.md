@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b50f87f15b0cc1db596f1c2401511aa9f7a2d8757b1a56beb73b3e716b92a0db
+machine_hash: 7775c27be5766672af41291a43d43b6c01bf843ea3924ebd5258e7f65d00aa6c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -223,7 +223,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6 Apps and Integrations changes in v2.1.238]]
-- Later: 2026-08-20 · Lovable · [[Changes/Lovable/2026-08-20-sort-connectors-and-add-an-mcp-server-from-the-catalog-header|Sort connectors and add an MCP server from the catalog header]]
+- Later: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-refreshed-the-customizations-settings-screen-with-collapsible-sections-and-item|Refreshed the Customizations settings screen with collapsible sections and item…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

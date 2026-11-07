@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9b36f3a410fa3b38231c8472bb23d711820a5b0b5fe8316e9ea284f223c65fbc
+machine_hash: 8ab260be4d79e47e2e6168b954b6352a15184fa8fa460c399cbfffd6595d3df9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,10 +54,10 @@ record:
     keeps syncing…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-57226-allow-nfs-database-migration-with-shared-file-permissions-dkovalenko-oai|♯57226
-  Allow NFS database migration with shared file permissions @dkovalenko-oai]]'
 - "[[Changes/Open WebUI/2026-10-29-knowledge-base-api-responses-trimmed-adding-updating-or-removing-knowledge-base|\U0001F4C3
   Knowledge base API responses trimmed. Adding, updating or removing knowledge…]]"
+- '[[Changes/OpenClaw/2026-10-29-2-collaboration-changes-in-v2026-10-9|2 Collaboration
+  changes in v2026.10.9]]'
 - '[[Changes/Lovable/2026-10-30-see-progress-and-next-steps-when-you-publish|See progress
   and next steps when you publish]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'
@@ -107,7 +107,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-30 · Lovable · [[Changes/Lovable/2026-10-30-see-progress-and-next-steps-when-you-publish|See progress and next steps when you publish]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-2-collaboration-changes-in-v1-35-0|2 Collaboration changes in v1.35.0]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-6-collaboration-changes-in-v2026-10-10|6 Collaboration changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

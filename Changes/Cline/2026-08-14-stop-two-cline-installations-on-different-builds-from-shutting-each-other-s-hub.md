@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 18884161dc681ceac17c873e8cec0c0600b2c292c38e4633522526be18d0f0fb
+machine_hash: 20ee01e524ee2537799cee4d7373f2d86f6ffd2e99efdeb312588b2cc862dc7a
 product: cline
 product_name: Cline
 record:
@@ -49,12 +49,12 @@ record:
     Hub…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-11-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage):
-  implement main worker execution loop and egress action publisher]]'
 - '[[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted
   and clipboard images are read without blocking the event loop]]'
 - '[[Changes/OpenHands/2026-08-13-chore-bump-sdk-deps-software-agent-sdk-1-42-1-automation-1-7-1-typescript-client|chore:
   bump SDK deps…]]'
+- '[[Changes/Suno/2026-08-13-automation-change-your-effect-parameters-over-time-to-breathe-life-into-your-fin|Automation:
+  Change your effect parameters over time to breathe life into your final mix]]'
 source_release: '[[Releases/Cline/cline-2026-08-14-v4-1-10-github-370718211-daf3638f|cline-2026-08-14-v4-1-10-github-370718211-daf3638f]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-13 · OpenHands · [[Changes/OpenHands/2026-08-13-chore-bump-sdk-deps-software-agent-sdk-1-42-1-automation-1-7-1-typescript-client|chore: bump SDK deps…]]
+- Earlier: 2026-08-13 · Suno · [[Changes/Suno/2026-08-13-automation-change-your-effect-parameters-over-time-to-breathe-life-into-your-fin|Automation: Change your effect parameters over time to breathe life into your final mix]]
 - Later: 2026-08-17 · OpenHands · [[Changes/OpenHands/2026-08-17-feat-automations-add-a-git-sync-page-by-vascosch92-in-https-github-com-openhands|feat(automations): add a Git Sync page]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4444093db217038a25b8b212745a8b6c8e59d3774951460b5eee2c741ab6873d
+machine_hash: 92689be3e2e36e257f26b3beb2c245a803c6b167ffc929cb95f51adc19081d13
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,10 +51,10 @@ record:
   title: 3 Files and Data changes in v0.6.14
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-28-add-support-for-uploading-various-file-types-xml-json-txt-log-md-docx-ipynb-pdf|Add
-  support for uploading various file types…]]'
 - "[[Changes/Open WebUI/2025-05-28-datalab-marker-api-content-extraction-support-seamlessly-extract-content-from-fi|\U0001FAA7
   Datalab Marker API Content Extraction Support]]"
+- '[[Changes/Runway/2025-05-29-start-from-a-blank-canvas-or-draw-on-top-of-an-existing-image-to-add-new-element|Layout
+  Sketch for Gen-4 References]]'
 - '[[Changes/Cline/2025-06-03-add-support-for-uploading-csv-and-xlsx-files-for-data-analysis-and-processing|Add
   support for uploading CSV and XLSX files for data analysis and processing]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5|open-webui-2025-06-10-v0-6-14-github-224342009-f98351e5]]'

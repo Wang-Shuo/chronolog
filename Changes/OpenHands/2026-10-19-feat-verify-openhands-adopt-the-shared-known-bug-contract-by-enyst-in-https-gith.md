@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39fa536c995cae76a7595e9973e8f3d081d247fdab1a7e555fbd89aabf3ac165
+machine_hash: cf4b0b08e7cd31e146dd91fc8d67c836b6b543eea9f96453c918629141c2df5d
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: 'feat(verify-openhands): adopt the shared known-bug contract'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-16-2-collaboration-changes-in-v0-12-3|2 Collaboration
-  changes in v0.12.3]]'
 - '[[Changes/v0/2026-10-16-team-avatar-changes-show-immediately-in-the-scope-switcher-instead-of-a-cached-i|Team
   avatar changes show immediately in the scope switcher instead of a cached image]]'
+- '[[Changes/OpenClaw/2026-10-18-review-the-conversation-before-publishing-the-link-exposes-existing-and-future-u|Review
+  the conversation before publishing]]'
 - '[[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added
   a warning on Pro and Max plans when resuming an inactive conversation would…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-19-v1-28-0-github-417391290-d3015a14|openhands-2026-10-19-v1-28-0-github-417391290-d3015a14]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added a warning on Pro and Max plans when resuming an inactive conversation would…]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-8-collaboration-changes-in-rust-v0-164-0|8 Collaboration changes in rust-v0.164.0]]
+- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-session-share-now-shows-an-error-when-it-can-t-discover-receivers-instead-of-an|Session Share now shows an error when it can’t discover receivers, instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

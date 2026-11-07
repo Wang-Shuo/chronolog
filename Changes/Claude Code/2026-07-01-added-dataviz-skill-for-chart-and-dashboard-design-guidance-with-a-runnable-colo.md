@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82317bf74c6cac7b98132e6c7c9d5bb16c58d1529c2b918e4c4eb20e8e8dd3f3
+machine_hash: 7cfc4e6a62972736ae99dc4363f2c622486c4dd5d687e1beb94f273ff651ab73
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Added `/dataviz` skill for chart and dashboard design guidance with a runnable…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-9-apps-and-integrations-changes-in-v1-0-66|9
-  Apps and Integrations changes in v1.0.66]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-allow-tool-calls-to-continue-when-hooks-time-out|Allow
-  tool calls to continue when hooks time out]]'
+- '[[Changes/OpenClaw/2026-06-30-34-apps-and-integrations-changes-in-v2026-6-11|34
+  Apps and Integrations changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-8-apps-and-integrations-changes-in-v1-17-12|8 Apps
+  and Integrations changes in v1.17.12]]'
 - '[[Changes/Claude Code/2026-07-01-claude-in-chrome-is-now-generally-available|Claude
   in Chrome is now generally available]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-allow-tool-calls-to-continue-when-hooks-time-out|Allow tool calls to continue when hooks time out]]
+- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-8-apps-and-integrations-changes-in-v1-17-12|8 Apps and Integrations changes in v1.17.12]]
 - Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2 Apps and Integrations changes in v1.0.68]]
 <!-- chronolog:end -->
 

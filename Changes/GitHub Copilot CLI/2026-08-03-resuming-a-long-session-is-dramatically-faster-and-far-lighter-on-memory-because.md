@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 782013f028b0a4873f977e20919b8ea4c8c76254d1c629c6a10b785b49894e2a
+machine_hash: 3cb6820d4627edcb14367547a02017c48527eee07295d316578bbff01266d73b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -62,11 +62,12 @@ record:
     because…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-lightweight-recent-apps-endpoint-new-get-console-api-apps-recent-endpoint-reduce|Lightweight
-  recent apps endpoint]]'
-- '[[Changes/Windsurf/2026-07-29-devin-cloud|Devin Cloud]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-diff-scrolls-and-syntax-highlights-large-multi-file-diffs-faster|/diff
   scrolls and syntax-highlights large multi-file diffs faster]]'
+- '[[Changes/Runway/2026-07-30-when-you-hit-your-concurrency-limit-on-a-model-model-router-can-now-automaticall|Capacity
+  Fallbacks in Model Router]]'
+- '[[Changes/Google Antigravity/2026-07-31-2-reliability-and-performance-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
+  Reliability and Performance changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc|github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc]]'
 source_type: github_releases
 theme: reliability-performance
@@ -103,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-diff-scrolls-and-syntax-highlights-large-multi-file-diffs-faster|/diff scrolls and syntax-highlights large multi-file diffs faster]]
+- Earlier: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-2-reliability-and-performance-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2 Reliability and Performance changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
 - Later: 2026-08-04 · Ollama · [[Changes/Ollama/2026-08-04-qwen3-5-is-faster-on-apple-gpus-the-mlx-engine-now-uses-the-model-s-mtp-head-for|Qwen3.5 is faster on Apple GPUs]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7f007cbc099765689e6f07c94eca418f2acf185e281366f67c4851feb3c515aa
+machine_hash: cc74aa97a89cb26805789c8cad8b306a561e2866ee44dead13d77102d0b7861e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     gateway…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat:
-  enable LLM provider connections on cloud]]'
+- '[[Changes/Suno/2026-09-09-introducing-the-v6-family-of-music-models|Introducing
+  the v6 family of music models]]'
 - '[[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support
   changes in v2.1.268]]'
 - '[[Changes/Dify/2026-09-10-76-model-support-changes-in-1-17-1|76 Model Support changes

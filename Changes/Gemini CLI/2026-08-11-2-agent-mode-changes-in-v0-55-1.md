@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 600ed335cb1540eac9167132cf808b387fe789689fa27146284b4e426e1c1a52
+machine_hash: 40c984afacc1f5c57c6b466ea2af64f99723dea0749c49cf4b313b583be56e5e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.55.1
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed the outdated note about auto mode sessions costing slightly more…]]
-- Later: 2026-08-11 · Ollama · [[Changes/Ollama/2026-08-11-nvidia-nemotron-3-5-lightning-https-ollama-com-library-nemotron-3-5-lightning-is|NVIDIA Nemotron 3.5 Lightning((source link)]]
+- Later: 2026-08-11 · Google Antigravity · [[Changes/Google Antigravity/2026-08-11-ensured-that-local-web-servers-started-by-the-agent-are-reachable-from-your-host|Ensured that local web servers started by the agent are reachable from your host machine]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9a8787fefb884ae55664ce61425a90477160d1ce989fa8fba74c4d1dd3308687
+machine_hash: b6f92a10546199798026ae38c1b965ef5f661ef1f6c39025a0c8db6fec169ac0
 product: lovable
 product_name: Lovable
 record:
@@ -49,10 +49,10 @@ record:
   title: Only Free and Pro projects are eligible for LinkedIn skills
   type: change
 related_changes:
-- '[[Changes/Replit/2026-08-21-control-agent-models-across-workspaces|Control Agent
-  models across Workspaces]]'
-- '[[Changes/Lovable/2026-08-24-contact-enterprise-support-from-your-project|Contact
-  Enterprise support from your project]]'
+- '[[Changes/Runway/2026-08-24-org-admins-now-see-alerts-in-org-settings-when-workspaces-are-missing-sso-enforc|Org
+  Config Alerts]]'
+- '[[Changes/Runway/2026-08-24-org-admins-can-now-set-a-default-sso-configuration-that-automatically-applies-to|Default
+  SSO for New Workspaces]]'
 - '[[Changes/Dify/2026-08-25-2-enterprise-and-administration-changes-in-1-17-0|2 Enterprise
   and Administration changes in 1.17.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-25-2026-08-25-2f630735|lovable-2026-08-25-2026-08-25-2f630735]]'

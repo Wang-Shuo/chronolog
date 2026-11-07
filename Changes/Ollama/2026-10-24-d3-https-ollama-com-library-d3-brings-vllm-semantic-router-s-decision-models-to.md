@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d1c83648a44d3f47d4bee53c47c6003b7104aadf77ab49b896214510639758bd
+machine_hash: 251b0f7c8094265fd8b2fef1016ba220e55f9393c3559ce8c46032dc779d5316
 product: ollama
 product_name: Ollama
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-23 · Ollama · [[Changes/Ollama/2026-10-23-the-model-includes-a-dflash-draft-for-speculative-decoding|The model includes a DFlash draft for speculative decoding]]
-- Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-16-model-support-changes-in-v0-12-4|16 Model Support changes in v0.12.4]]
+- Later: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-2-model-support-changes-in-v2026-10-7|2 Model Support changes in v2026.10.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

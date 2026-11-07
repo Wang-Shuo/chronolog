@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6be1344a01bc2782601e0832e35e83fdd6af944d55eddb7eb87bfe99fc54e01
+machine_hash: 69ebbf957f1d730684af534544aaf44542c9c050815bdf0c61d1ed162f52e4bb
 product: openhands
 product_name: OpenHands
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Editor Experience changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on
-  Cursor Prediction with a new UI]]'
 - "[[Changes/Open WebUI/2024-06-10-editable-search-query-prompt-you-can-now-edit-the-search-query-generation-prompt|\U0001F50D
   Editable Search Query Prompt]]"
+- '[[Changes/Gamma/2024-06-18-want-your-ai-images-to-have-a-consistent-look-and-feel-you-can-now-add-and-edit|AI
+  image style keywords are now editable in the theme editor]]'
 - '[[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience
   changes in 0.6.12]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'

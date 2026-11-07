@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47a8bdf3ce5ffaf7b26b8ac1b27328bb5a749fff7d9d1f0582c1bf47221ec067
+machine_hash: 59b190766b67536ba9135da4b8a6b10c6513f4ec5700e0ab27e1d59a127dcb0f
 product: cline
 product_name: Cline
 record:
@@ -50,10 +50,10 @@ record:
     creates…'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-13-new-code-message-command-request-a-code-edit-while-in-ask-mode|New
-  /code message command request a code edit while in ask mode]]'
 - "[[Changes/Open WebUI/2024-08-14-deprecated-frontend-functions-removed-frontend-functions-that-were-migrated-to-b|\U0001F5D1️
   Deprecated Frontend Functions]]"
+- '[[Changes/Midjourney/2024-08-16-we-re-releasing-a-new-web-editor-today|We''re releasing
+  a new web editor today!]]'
 - '[[Changes/Dify/2024-08-19-3-editor-experience-changes-in-0-7-1|3 Editor Experience
   changes in 0.7.1]]'
 source_release: '[[Releases/Cline/cline-2024-08-31-v1-5-6-github-172889705-f40afa8f|cline-2024-08-31-v1-5-6-github-172889705-f40afa8f]]'

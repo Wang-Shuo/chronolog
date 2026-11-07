@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2486d486ce79a36543dc22f507ee72a7766275ce6638dd00978fd5c4428f85d0
+machine_hash: fed909c61ecf372c84d4ce2872e0c546da66d5e845b919a22277205617586b4e
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,7 @@ record:
   title: 2 Pricing Model changes in v2.1.284
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated
-  the claude-api skill]]'
+- '[[Changes/Midjourney/2026-09-24-polish-bugs|POLISH & BUGS]]'
 - '[[Changes/Codex CLI/2026-09-25-47086-format-analytics-credit-usage-with-consistent-decimal-precision-fcoury-oai|♯47086
   Format analytics credit usage with consistent decimal precision @fcoury-oai]]'
 - '[[Changes/OpenHands/2026-09-25-feat-scope-openai-subscription-caches-by-backend-by-uczltw6-in-https-github-com|feat:

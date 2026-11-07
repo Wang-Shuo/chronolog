@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58480667beddcfd12b1f8882cae062105b41ddd4076baf28e56f148672a989f3
+machine_hash: 3d0a2bf8ca2d0579c4eeeaa7d857b1e1c7c15eb0a5358ea95e7e292fb0f4dc2c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,11 +42,12 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.89.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-01-16-node-js-security-patch|Node.js security patch]]'
 - '[[Changes/Gemini/2026-01-20-gemini-introduces-personal-intelligence|Gemini introduces
   Personal Intelligence]]'
 - '[[Changes/Codex CLI/2026-01-21-3-safety-and-privacy-changes-in-rust-v0-88-0|3 Safety
   and Privacy changes in rust-v0.88.0]]'
+- '[[Changes/OpenCode/2026-01-21-core-implement-home-directory-expansion-for-permission-patterns-using-and-home-p|Core
+  Implement home directory expansion for permission patterns using ~ and $HOME prefixes]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3|codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3]]'
 source_type: github_releases
 theme: safety-privacy
@@ -86,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.89.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-3-safety-and-privacy-changes-in-rust-v0-88-0|3 Safety and Privacy changes in rust-v0.88.0]]
+- Earlier: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-core-implement-home-directory-expansion-for-permission-patterns-using-and-home-p|Core Implement home directory expansion for permission patterns using ~ and $HOME prefixes]]
 - Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified CLI permissions with the editor, including Run Everything, Auto-Run…]]
 <!-- chronolog:end -->
 

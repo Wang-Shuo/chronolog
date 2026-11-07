@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2eafea35357d371e6bade9af7f3e1f7ab819595a5b4246cff265b626846840ff
+machine_hash: 46fc061c0fb5f2ca36165f64d6935fa461b7edb754514eef83fa83b98379d164
 product: cline
 product_name: Cline
 record:
@@ -55,8 +55,8 @@ record:
     OpenRouter…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2
-  Interface Experience changes in rust-v0.76.0]]'
+- '[[Changes/OpenCode/2025-12-19-terminal-implement-smooth-scrolling-for-autocomplete-dropdown-navigation|Terminal
+  Implement smooth scrolling for autocomplete dropdown navigation]]'
 - '[[Changes/Replit/2025-12-19-status-dot-design-update|Status Dot Design Update]]'
 - '[[Changes/Open WebUI/2025-12-21-8-interface-experience-changes-in-v0-6-42|8 Interface
   Experience changes in v0.6.42]]'

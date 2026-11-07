@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 18fdb1c74aa8e5eaec4b6f8697ea2db98e7a592ee5c383ad42e4e31a6966ef72
+machine_hash: 3b5de4b4140b2b155dab5dc3dcf5f698a71174e1f17b3dd045f17ae45d9179de
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
     spawned…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-5-agent-mode-changes-in-v2-1-257|5 Agent Mode
-  changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-4-agent-mode-changes-in-rust-v0-152-0|4 Agent Mode
   changes in rust-v0.152.0]]'
+- '[[Changes/OpenClaw/2026-09-01-11-agent-mode-changes-in-v2026-8-2|11 Agent Mode
+  changes in v2026.8.2]]'
 - '[[Changes/Claude Code/2026-09-02-2-agent-mode-changes-in-v2-1-259|2 Agent Mode
   changes in v2.1.259]]'
 source_release: '[[Releases/Cline/cline-2026-09-02-v4-1-17-github-381000681-694bbda2|cline-2026-09-02-v4-1-17-github-381000681-694bbda2]]'

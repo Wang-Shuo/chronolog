@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: dd9a81807b3ce0418dd07006a419a36040ca01f9720d32cfe098e09302c6e9da
+machine_hash: 4735ac9dd1f45d2181e939ad74f7fd29412e1d1fe4788b3de1c633437b04d2f7
 product: windsurf
 product_name: Windsurf
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-6f8043|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
-- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-android-sdk|Android SDK]]
+- Later: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-2-mobile-and-desktop-changes-in-v2026-10-7|2 Mobile and Desktop changes in v2026.10.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

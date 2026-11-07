@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4fce77b209261c75648ae6769c75d84453895c7ce3c153d418f74f664c9e8279
+machine_hash: f592d8d126e39e2ceac968bb16557b48b2ebbba04faa3b249bf6cc03777ffcb7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -78,8 +78,8 @@ record:
   title: 10 Editor Experience changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-3-editor-experience-changes-in-1-15-0|3 Editor Experience
-  changes in 1.15.0]]'
+- '[[Changes/OpenCode/2026-06-25-2-editor-experience-changes-in-v1-17-11|2 Editor
+  Experience changes in v1.17.11]]'
 - '[[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add
   edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]'
 - '[[Changes/v0/2026-06-26-the-editor-no-longer-shows-a-false-start-error-when-a-preview-dev-server-or-inst|The

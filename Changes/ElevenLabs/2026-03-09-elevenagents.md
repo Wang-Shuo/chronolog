@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 407844e1d79b8c4470ef76ce49021b8940b01283aec9c3c38a4407c31297d8f4
+machine_hash: 0f6431de1f48abb9141714328f9c7c9f9fe2cc38436fe646fc2bd7cc0bbbc5da
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -87,8 +87,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added
-  GPT-5.4 models for ChatGPT subscription users]]'
+- '[[Changes/OpenCode/2026-03-07-desktop-model-sticks-to-session-after-being-changed|Desktop
+  Model sticks to session after being changed]]'
 - '[[Changes/Codex CLI/2026-03-08-13617-update-models-json-aibrahim-oai|♯13617 Update
   models.json @aibrahim-oai]]'
 - '[[Changes/Open WebUI/2026-03-08-9-model-support-changes-in-v0-8-9|9 Model Support
@@ -146,7 +146,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-9-model-support-changes-in-v0-8-9|9 Model Support changes in v0.8.9]]
-- Later: 2026-03-09 · Open WebUI · [[Changes/Open WebUI/2026-03-09-3-model-support-changes-in-v0-8-10|3 Model Support changes in v0.8.10]]
+- Later: 2026-03-09 · Google Antigravity · [[Changes/Google Antigravity/2026-03-09-added-support-for-reading-rules-from-agents-md-in-addition-to-gemini-md|Added support for reading rules from AGENTS.md in addition to GEMINI.md]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

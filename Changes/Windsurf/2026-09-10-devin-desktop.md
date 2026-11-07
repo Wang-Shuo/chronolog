@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: cc5b6cb7d90f42b3302b222d3759d4cc3e258ccc89a8a7e96c68fca61634a3ac
+machine_hash: 1b18a51fc8fd7efa64a9db0a33b74985656cc27f435d1370aa3229dd16827c3a
 product: windsurf
 product_name: Windsurf
 record:
@@ -69,8 +69,8 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6
-  Mobile and Desktop changes in rust-v0.154.0]]'
+- '[[Changes/Google Antigravity/2026-09-09-quote-or-add-selected-text-to-chat-using-cmd-l-or-cmd-i-on-macos-or-ctrl-l-and-c|Quote
+  or add selected text to chat using Cmd+L or Cmd+I on macOS, or Ctrl+L…]]'
 - '[[Changes/Dify/2026-09-10-skill-packages-built-on-windows-failed-with-a-misleading-error-a-skill-md-using|Skill
   packages built on Windows failed with a misleading error. A SKILL.md…]]'
 - '[[Changes/Windsurf/2026-09-10-introducing-fusion-in-devin-desktop-and-devin-cli-https-exafunction-github-io-pu|!Introducing

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 201adf92fbc3c87fec186c42707cc9b2be8413273fa943d954a3e1a4b1558a19
+machine_hash: 6451735fd7ec9f45abb2d477079706b03107ac36d94cc8e08109ecd0140d8a7a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Context Window changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-3-context-window-changes-in-v0-10-0|3 Context Window
-  changes in v0.10.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-keep-session-store-searches-and-context-lookups-responsive|Keep
-  session-store searches and context lookups responsive]]'
+- '[[Changes/OpenClaw/2026-06-30-20-context-window-changes-in-v2026-6-11|20 Context
+  Window changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-desktop-show-stored-token-and-cost-totals-in-the-session-context|Desktop
+  Show stored token and cost totals in the session context]]'
 - '[[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents
   and context compaction now inherit the session''s extended thinking…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583|github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583]]'

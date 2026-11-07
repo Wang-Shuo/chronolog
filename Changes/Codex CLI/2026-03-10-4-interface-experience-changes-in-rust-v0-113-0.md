@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af122481fff5604050b5d804e4d0d1e70b5ef790a6c08ff21fbc87d633ecaeb4
+machine_hash: 7e2044fb0ec1a0a77bcd16e729531cbe8d16ab7860083e8614e4142ae5455c18
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 4 Interface Experience changes in rust-v0.113.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-08-5-interface-experience-changes-in-v0-8-9|5 Interface
-  Experience changes in v0.8.9]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-09-show-loading-spinner-in-diff-mode-while-fetching-changes|Show
   loading spinner in diff mode while fetching changes]]'
+- '[[Changes/OpenCode/2026-03-09-desktop-fix-sidebar-workspace-container-sizing-to-prevent-content-overflow|Desktop
+  Fix sidebar workspace container sizing to prevent content overflow]]'
 - '[[Changes/Claude Code/2026-03-10-added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing|Added
   w key in /copy to write the focused selection directly to a file…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6|codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6]]'

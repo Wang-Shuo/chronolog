@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9fce20924598f1e1e84c7618aeb294bd8d0acc45297daca9cadfe0c45c16cea1
+machine_hash: 21bf02d864d3eda17da3a191c8ab145bed53783c7f953ef15f99af7a37982360
 product: dify
 product_name: Dify
 record:
@@ -55,8 +55,8 @@ record:
   title: 2 Memory and Personalization changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-long-running-sessions-on-linux-return-freed-memory-to-the-system-instead-of-hold|Long-running
-  sessions on Linux return freed memory to the system instead of holding…]]'
+- '[[Changes/OpenClaw/2026-09-08-10-memory-and-personalization-changes-in-v2026-9-3|10
+  Memory and Personalization changes in v2026.9.3]]'
 - '[[Changes/Codex CLI/2026-09-09-2-memory-and-personalization-changes-in-rust-v0-154-0|2
   Memory and Personalization changes in rust-v0.154.0]]'
 - '[[Changes/Claude Code/2026-09-10-2-memory-and-personalization-changes-in-v2-1-268|2
@@ -111,7 +111,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.1
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-memory-and-personalization-changes-in-v2-1-268|2 Memory and Personalization changes in v2.1.268]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-3-memory-and-personalization-changes-in-v1-0-85|3 Memory and Personalization changes in v1.0.85]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-14-memory-and-personalization-changes-in-v2026-9-4|14 Memory and Personalization changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

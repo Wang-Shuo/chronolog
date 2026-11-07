@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 493100650eb5a254aacd1a200d103d289345cb3e3246ada68ee6400f7446691e
+machine_hash: 85bfca985674ff37accf010b27e2d14aa2ad83c82089ff4317d25ea139d73159
 product: dify
 product_name: Dify
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat: support login by given mail'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-04-04-trusted-email-authentication-authenticate-using-a-trusted-email-header|\U0001F4E7
-  Trusted Email Authentication: Authenticate using a trusted email header]]"
+- '[[Changes/Suno/2024-04-12-1-sign-in-and-click-your-avatar-in-the-bottom-left-on-desktop-or-the-menu-icon-i|1️⃣
+  Sign in, and click your avatar in the bottom left on desktop or the menu icon…]]'
 - "[[Changes/Open WebUI/2024-05-08-auth-disable-option-introducing-the-ability-to-disable-authentication-set-webui|\U0001F512
   Auth Disable Option: Introducing the ability to disable authentication]]"
 - '[[Changes/Dify/2024-05-09-support-for-aliyun-oss-authentication-v4-by-s96ea-in-3886|Support

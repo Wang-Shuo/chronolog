@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b23a7cb0e8c5cd32645cb904dbd23dafa96e99f341467560d28765053f1385d
+machine_hash: c7e04c3f6d8cdec3781733e33ad836e769adcbd478debc928c37809388535035
 product: open-webui
 product_name: Open WebUI
 record:
@@ -639,7 +639,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-24935-force-terminal-buffer-rerender-after-exiting-external|SSR Agent Issue Fix (24935)]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-terminal-hyperlinks-in-rendered-markdown-link-targets-that-point-at-a-ne|Changed terminal hyperlinks in rendered markdown]]
+- Later: 2026-08-25 · OpenCode · [[Changes/OpenCode/2026-08-25-terminal-fixed-github-auth-for-immutable-oidc-subject-tokens|Terminal Fixed GitHub auth for immutable OIDC subject tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

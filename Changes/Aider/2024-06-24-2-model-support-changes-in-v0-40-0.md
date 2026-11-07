@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 518258fcf4acf8c8ab13fe1fe631e7107bd423e25eeb39f28171a398142e7f0c
+machine_hash: ddc6e40f8ebddad65172e59a35fc3e5ac416700166e95e3a6a074d15b404488f
 product: aider
 product_name: Aider
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Model Support changes in v0.40.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-06-15-2-model-support-changes-in-v0-1-45|2 Model Support
-  changes in v0.1.45]]'
+- '[[Changes/Midjourney/2024-06-17-we-re-starting-a-new-research-project-to-explore-the-origins-of-beauty-basically|We''re
+  starting a new research project to explore the origins of beauty.]]'
 - "[[Changes/Open WebUI/2024-06-17-markdown-support-in-model-descriptions-you-can-now-format-model-descriptions-wit|\U0001F4DD
   Markdown Support in Model Descriptions]]"
 - '[[Changes/Aider/2024-06-20-2-model-support-changes-in-v0-39-0|2 Model Support changes

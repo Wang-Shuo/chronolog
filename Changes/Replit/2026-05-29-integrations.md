@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5b18d80b35d5606ec3cc9c3c254e9ed94d55002672ad22af60690da0ec62f25a
+machine_hash: 66d1424dc47f71fff7e06af6f0a77cef561bfd907197db495f3f5550cea9a2fa
 product: replit
 product_name: Replit
 record:
@@ -39,10 +39,10 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-28-app-connectors-algolia-linkedin-and-microsoft-sharepoint|App
-  connectors: Algolia, LinkedIn, and Microsoft SharePoint]]'
 - '[[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4
   Apps and Integrations changes in v2.1.157]]'
+- '[[Changes/Gamma/2026-05-29-claude-and-chatgpt-connectors-just-got-smarter|Claude
+  and ChatGPT connectors just got smarter]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2
   Apps and Integrations changes in v1.0.56]]'
 source_release: '[[Releases/Replit/replit-2026-05-29-2026-05-29-e3cfe151|replit-2026-05-29-2026-05-29-e3cfe151]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2 Apps and Integrations changes in v1.0.56]]
-- Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-20-apps-and-integrations-changes-in-rust-v0-136-0|20 Apps and Integrations changes in rust-v0.136.0]]
+- Later: 2026-05-30 · OpenCode · [[Changes/OpenCode/2026-05-30-sessions-can-now-store-custom-metadata-through-the-api-and-sdk|Sessions can now store custom metadata through the API and SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

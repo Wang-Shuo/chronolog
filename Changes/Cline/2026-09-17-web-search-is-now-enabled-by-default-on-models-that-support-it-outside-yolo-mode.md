@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2845c5ed324689b5cda154b35ccccb323d19e298f799a054a2294b02ed9fa956
+machine_hash: aaa78bedb8b2ef4fe3f46a891354a65927f57e1d2236448a815941934d7721c0
 product: cline
 product_name: Cline
 record:
@@ -58,8 +58,8 @@ record:
     mode
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box,
-  Dropbox, and SharePoint now join Google Drive in ChatGPT Library]]'
+- '[[Changes/OpenClaw/2026-09-11-3-search-and-browsing-changes-in-v2026-9-4|3 Search
+  and Browsing changes in v2026.9.4]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-add-json-to-copilot-plugin-list-copilot-plugin-marketplace-list-and-copilot-plug|Add
   --json to copilot plugin list, copilot plugin marketplace list…]]'
 - '[[Changes/OpenHands/2026-09-16-2-search-and-browsing-changes-in-v1-19-0|2 Search

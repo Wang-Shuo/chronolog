@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf7582ef3b1dfff28b9c801cbbc21612defb1092979f660f8bdb82864b07e93e
+machine_hash: 15dba97075b7005581a3517418e1a9b7822139118d3b76d13109381fb8e88d5e
 product: ollama
 product_name: Ollama
 record:
@@ -53,10 +53,8 @@ record:
     up from three
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-improved-deep-research-reliability-on-long-research-briefs-by-removing-unused-re|Improved
-  /deep-research reliability on long research briefs by removing unused…]]'
-- '[[Changes/Cline/2026-09-24-on-windows-mention-search-results-now-show-the-right-file-names-nested-files-suc|On
-  Windows, @-mention search results now show the right file names]]'
+- '[[Changes/Midjourney/2026-09-24-style-previews|STYLE PREVIEWS]]'
+- '[[Changes/Midjourney/2026-09-24-search-archive|SEARCH & ARCHIVE]]'
 - '[[Changes/Codex CLI/2026-09-25-2-search-and-browsing-changes-in-rust-v0-157-0|2
   Search and Browsing changes in rust-v0.157.0]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-29-v0-35-1-github-399431834-a0bca098|ollama-2026-09-29-v0-35-1-github-399431834-a0bca098]]'
@@ -91,7 +89,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-2-search-and-browsing-changes-in-rust-v0-157-0|2 Search and Browsing changes in rust-v0.157.0]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-improved-sdk-sessions-so-a-message-sent-with-priority-now-no-longer-cancels-a-ru|Improved SDK sessions so a message sent with priority "now" no longer cancels…]]
+- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-4-search-and-browsing-changes-in-v2026-9-7|4 Search and Browsing changes in v2026.9.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

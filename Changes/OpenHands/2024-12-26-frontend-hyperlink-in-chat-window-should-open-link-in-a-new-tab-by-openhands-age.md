@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b3cbf207e8b439f377aa1579cc9550703e7c6271f6df3f4dacaee47bbead09b8
+machine_hash: 442e59f59ba0ae8b2dd4422c824073cd2215f62007cf3925640fa711c0f1e3d6
 product: openhands
 product_name: OpenHands
 record:

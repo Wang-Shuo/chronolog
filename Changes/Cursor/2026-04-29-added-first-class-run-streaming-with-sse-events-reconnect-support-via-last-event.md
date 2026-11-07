@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3c345943e1c2dc5668b044fa41286a4e92a3ceda7039b398ba3152cca4c3da19
+machine_hash: 50720f49b4a23f1cf946b4e1f9080fffe91650fee4a2a01dfa6c3fa0b79ad662
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: Added first-class run streaming with SSE events, reconnect support…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry:
-  added claude_code.at_mention log event for @-mention resolution]]'
 - '[[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer
   Workflow changes in v2.1.121]]'
 - '[[Changes/Gemini CLI/2026-04-28-3-developer-workflow-changes-in-v0-40-0|3 Developer
   Workflow changes in v0.40.0]]'
+- '[[Changes/OpenCode/2026-04-28-4-developer-workflow-changes-in-v1-14-29|4 Developer
+  Workflow changes in v1.14.29]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-3-developer-workflow-changes-in-v0-40-0|3 Developer Workflow changes in v0.40.0]]
+- Earlier: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-4-developer-workflow-changes-in-v1-14-29|4 Developer Workflow changes in v1.14.29]]
 - Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-developer-workflow-changes-in-1-14-0|2 Developer Workflow changes in 1.14.0]]
 <!-- chronolog:end -->
 

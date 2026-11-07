@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ef838a0b0c3da15d0e80580f282f033a19d204759640d9f4f4ed212a4d7e98b9
+machine_hash: e681f8e91782d01ff098dbe543d51e75f33f813e904bcf3b4d2c36206b789875
 product: claude
 product_name: Claude
 record:
@@ -51,8 +51,8 @@ record:
   title: Claude Opus 4.8 launch
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-27-new-openai-image-models-for-ai-features-in-your-app|New
-  OpenAI image models for AI features in your app]]'
+- '[[Changes/OpenCode/2026-05-27-3-model-support-changes-in-v1-15-11|3 Model Support
+  changes in v1.15.11]]'
 - '[[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|Retiring
   OpenAI o3 and GPT-4.5]]'
 - '[[Changes/ChatGPT/2026-05-28-we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style|GPT-5.5

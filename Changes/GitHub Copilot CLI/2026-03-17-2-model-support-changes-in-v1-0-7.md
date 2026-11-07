@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e328c8af6c05afbda21d74fd47d9c81ca43676eb1bd7f92f561db63c5e267cd
+machine_hash: 55ed05a4e2d5325a51fcae67548fd4d7fc5f1f78754b984e311e3738361dc6e0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.7
 ## Nearby in Model Support
 
 - Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-5-model-support-changes-in-v0-34-0|5 Model Support changes in v0.34.0]]
-- Later: 2026-03-17 · Ollama · [[Changes/Ollama/2026-03-17-4-model-support-changes-in-v0-18-1|4 Model Support changes in v0.18.1]]
+- Later: 2026-03-17 · Midjourney · [[Changes/Midjourney/2026-03-17-please-note|Please Note]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

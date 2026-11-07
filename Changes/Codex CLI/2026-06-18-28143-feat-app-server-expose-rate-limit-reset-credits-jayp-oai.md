@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 736f4ffb50ca2e31ad9cfcd56dbd551233ffa4896d2bfc7bc378e88ddb51a5e3
+machine_hash: b9fb3331df8bd4194a41b069333e8a741ea04cfb20ab3d60d55357463314dbf7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: '#28143 feat(app-server): expose rate-limit reset credits @jayp-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-add-billing-help-topic-with-an-overview-of-ai-credit-usage-features|Add
-  billing help topic with an overview of AI credit usage features]]'
 - '[[Changes/Replit/2026-06-05-billing|Billing]]'
 - '[[Changes/Windsurf/2026-06-06-simplified-model-picker-pricing-view-for-select-enterprise-customers|Simplified
   model picker pricing view for select enterprise customers]]'
+- '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
+  screen redesign]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: pricing-model
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-06 · Windsurf · [[Changes/Windsurf/2026-06-06-simplified-model-picker-pricing-view-for-select-enterprise-customers|Simplified model picker pricing view for select enterprise customers]]
+- Earlier: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota screen redesign]]
 - Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-one-credit-balance-and-clearer-usage-insights|One credit balance and clearer usage insights]]
 <!-- chronolog:end -->
 

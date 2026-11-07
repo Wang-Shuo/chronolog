@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 687e7a6b7c97968305b646aa7f65b6de89c8fd92f8fdc15eafac22d5ac39c0c3
+machine_hash: c0893a8864ccd1e94f5369e8b85dc0b0364095c202807f40c088617833326470
 product: cline
 product_name: Cline
 record:
@@ -43,9 +43,10 @@ record:
   title: A command that prints nothing no longer shows a raw JSON blob like…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-rollouts|Rollouts]]'
 - '[[Changes/Cursor/2026-09-23-when-a-pull-request-opens-rollouts-reads-the-diff-and-the-systems-it-touches-the|Monitoring
   plans]]'
+- '[[Changes/OpenClaw/2026-09-23-31-developer-workflow-changes-in-v2026-9-6|31 Developer
+  Workflow changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-24-changed-windows-wsl-managed-settings-so-an-admin-policy-that-is-present-but-inva|Changed
   Windows/WSL managed settings so an admin policy that is present but invalid…]]'
 source_release: '[[Releases/Cline/cline-2026-09-24-v4-1-21-github-395862160-2e42664e|cline-2026-09-24-v4-1-21-github-395862160-2e42664e]]'

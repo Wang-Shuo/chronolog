@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 52957f0e5e05e326bf8d7a62210c19a88968ceb1aa6a91d6e4f2c2c2961e6679
+machine_hash: 05e469033ff9255ad19262e4815500292912f64819d7c55d2b6c6cf4dcfcbe7d
 product: ollama
 product_name: Ollama
 record:
@@ -42,10 +42,10 @@ record:
   title: Honor GGUF model defined default parameters
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-6-model-support-changes-in-rust-v0-152-0|6 Model
-  Support changes in rust-v0.152.0]]'
-- '[[Changes/Codex CLI/2026-09-01-guardian-approval-review-now-honors-node-repl-policies-provided-through-model-me|Guardian
-  approval review now honors Node REPL policies provided through model metadata]]'
+- '[[Changes/OpenClaw/2026-09-01-4-model-support-changes-in-v2026-8-2|4 Model Support
+  changes in v2026.8.2]]'
+- '[[Changes/OpenCode/2026-09-01-2-model-support-changes-in-v1-18-26|2 Model Support
+  changes in v1.18.26]]'
 - '[[Changes/Cline/2026-09-02-3-model-support-changes-in-v4-1-17|3 Model Support changes
   in v4.1.17]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-02-v0-33-3-github-380898665-cefaaea2|ollama-2026-09-02-v0-33-3-github-380898665-cefaaea2]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-3-model-support-changes-in-v4-1-17|3 Model Support changes in v4.1.17]]
-- Later: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67|Introducing GPT-6 Astra]]
+- Later: 2026-09-02 · OpenCode · [[Changes/OpenCode/2026-09-02-core-limit-anthropic-thinking-block-binding-to-claude-5-1-models-so-older-deploy|Core Limit Anthropic thinking block binding to Claude 5.1+ models so older…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

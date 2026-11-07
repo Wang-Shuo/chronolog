@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 179fc8f94fad19503ef87c730d93f47120a582a7fb9a5707b21db57ec3aeb0cf
+machine_hash: f22fa813d086918ea8241325571463fc1c3de66aacb014e2dee8b58f9c425593
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     events…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-21-editor-experience-changes-in-v0-12-0|21 Editor
-  Experience changes in v0.12.0]]'
 - '[[Changes/Lovable/2026-10-12-edit-images-directly-in-the-files-tab|Edit images
   directly in the Files tab]]'
+- '[[Changes/OpenClaw/2026-10-12-managed-browser-tabs-at-the-shared-tab-limit-locally-managed-browser-cleanup-fav|Managed
+  browser tabs]]'
 - '[[Changes/Cline/2026-10-13-the-editor-tool-no-longer-receives-null-in-place-of-the-text-to-replace-from-som|The
   editor tool no longer receives null in place of the text to replace from some models]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'

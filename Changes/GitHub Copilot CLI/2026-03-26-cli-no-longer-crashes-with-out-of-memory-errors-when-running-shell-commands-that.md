@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75acf42a4dd208b29388c54049a68d9bbc8773d621a38f7f1ccaba9a9a131fab
+machine_hash: aa61959d9c517fcdc4d21e66fa53e8a4adb10eb86d1534ee0d717b04d1939521
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved scroll performance with large transcripts by replacing WASM yoga-layout…]]
-- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-2-reliability-and-performance-changes-in-1-13-3|2 Reliability and Performance changes in 1.13.3]]
+- Later: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-core-skip-snapshotting-files-larger-than-2mb-to-improve-performance|Core Skip snapshotting files larger than 2MB to improve performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

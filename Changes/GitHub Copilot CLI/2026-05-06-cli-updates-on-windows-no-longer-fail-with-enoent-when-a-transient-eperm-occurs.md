@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7dfdc6f4c49f3c266ea4c1b8aec18d7defaa3d001c1f17fd7d50a23f2e0fe639
+machine_hash: 7359fd9dc5e7d59c15f7efae97b6334617da49e00813e129c5731a9b9ef1211c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,11 +46,12 @@ record:
     occurs…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-03-3-mobile-and-desktop-changes-in-v0-23-0|3 Mobile and
-  Desktop changes in v0.23.0]]'
-- '[[Changes/ElevenLabs/2026-05-04-android-sdk|Android SDK]]'
+- '[[Changes/OpenCode/2026-05-04-2-mobile-and-desktop-changes-in-v1-14-34|2 Mobile
+  and Desktop changes in v1.14.34]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-package-extraction-no-longer-crashes-on-windows-when-antivirus-or-filesystem-loc|Package
   extraction no longer crashes on Windows when antivirus or filesystem locks…]]'
+- '[[Changes/OpenCode/2026-05-05-5-mobile-and-desktop-changes-in-v1-14-39-3|5 Mobile
+  and Desktop changes in v1.14.39 + 3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-06-v1-0-42-github-318458746-856bb0d7|github-copilot-cli-2026-05-06-v1-0-42-github-318458746-856bb0d7]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-package-extraction-no-longer-crashes-on-windows-when-antivirus-or-filesystem-loc|Package extraction no longer crashes on Windows when antivirus or filesystem locks…]]
+- Earlier: 2026-05-05 · OpenCode · [[Changes/OpenCode/2026-05-05-5-mobile-and-desktop-changes-in-v1-14-39-3|5 Mobile and Desktop changes in v1.14.39 + 3]]
 - Later: 2026-05-06 · Windsurf · [[Changes/Windsurf/2026-05-06-windows-updates|Windows updates]]
 <!-- chronolog:end -->
 

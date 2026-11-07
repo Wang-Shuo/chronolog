@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 4c981df4f10b0b1b9863f86d3b8a2f3cee4602e04687272ff7e3d96946b79bc3
+machine_hash: bff49cd000c053d6dca4244d574406f6db40f807df0ed40c90d209a48376db56
 product: replit
 product_name: Replit
 record:
@@ -62,8 +62,8 @@ record:
   title: Generate 3D models with the Tripo3D connector
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-3-pricing-model-changes-in-v1-0-52|3 Pricing
-  Model changes in v1.0.52]]'
+- '[[Changes/Midjourney/2026-05-27-search-on-the-create-and-organize-pages-now-works-for-signed-in-members-without|Search
+  on the Create and Organize pages now works for signed-in members without…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-3-pricing-model-changes-in-v1-0-55|3 Pricing
   Model changes in v1.0.55]]'
 - '[[Changes/Replit/2026-05-29-billing|Billing]]'

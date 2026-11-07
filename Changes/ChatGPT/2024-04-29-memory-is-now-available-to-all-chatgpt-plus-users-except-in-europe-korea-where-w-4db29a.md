@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: b9d24da824052ca539ef4163d33ebba524f69c8d1ec207f9a8f7066140c42f4f
+machine_hash: 3760ca84a6cf3983f8c8a13d05fc73c66d09c4f26bc1a9a77d120198abacabc0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,8 @@ record:
   title: Memory is now available to Plus users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory
-  and new controls for ChatGPT]]'
+- '[[Changes/Midjourney/2024-03-21-these-ratings-help-improve-our-algorithms-populate-the-explore-page-and-also-wil|These
+  ratings help improve our algorithms, populate the explore page, and also will…]]'
 - '[[Changes/Dify/2024-04-08-compared-to-the-regular-workflow-app-type-chatflow-adds-chat-specific-features-s|Compared
   to the regular Workflow app type, Chatflow adds chat-specific features such…]]'
 - '[[Changes/Dify/2024-04-25-you-can-now-enable-memory-in-the-llm-node-within-your-chatflow-and-customize-the|Enable

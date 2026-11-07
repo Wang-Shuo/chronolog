@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 504d81aa067c226992b7ab7de5ef30fca15cca220fd36fefe0170caeb9511145
+machine_hash: 90c30b826bb7bfd827e8d6b2a0f8309374dc4b79c3d5048223c34f5d42fa0de2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,11 @@ record:
   title: 6 Agent Mode changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-07-elevenagents|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-09-07-python-sdk|Python SDK]]'
 - '[[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved
   /workflows agent detail]]'
+- '[[Changes/OpenClaw/2026-09-08-16-agent-mode-changes-in-v2026-9-3|16 Agent Mode
+  changes in v2026.9.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
 source_type: github_releases
 theme: agent-mode
@@ -111,8 +112,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved /workflows agent detail]]
-- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-improved-auto-mode-denials-the-message-claude-receives-now-names-the-rule-that-b|Improved auto mode denials]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-16-agent-mode-changes-in-v2026-9-3|16 Agent Mode changes in v2026.9.3]]
+- Later: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-2-agent-mode-changes-in-hub-v2-13-0-introducing-new-documents|2 Agent Mode changes in HUB v2.13.0 — Introducing new Documents…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

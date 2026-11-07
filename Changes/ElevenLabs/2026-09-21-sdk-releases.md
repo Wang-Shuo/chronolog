@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7f2d28a5a604480e03ae5d2cc5ee75d1af6b08beb0c8bd357c12efe0e933766b
+machine_hash: 1cce822405ea9d299a01f8f6efac1148d63efdd4e89f9c9f7253dd477b3f68a4
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,12 +41,12 @@ record:
   title: SDK releases
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-resuming-an-active-session-without-plugin-directory-discovery-or-working-directo|Resuming
-  an active session without plugin-directory, discovery, or working-directory…]]'
-- '[[Changes/Lovable/2026-09-17-connect-your-app-to-the-lovable-api|Connect your app
-  to the Lovable API]]'
 - '[[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6
   Apps and Integrations changes in v2.1.277]]'
+- '[[Changes/OpenClaw/2026-09-19-you-can-now-ask-btw-side-questions-about-photos-attached-to-the-current-message|Ask
+  /btw side questions about photos attached to the current message when using…]]'
+- '[[Changes/OpenClaw/2026-09-19-52-apps-and-integrations-changes-in-v2026-9-5|52
+  Apps and Integrations changes in v2026.9.5]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-21-2026-09-21-6d2d4d80|elevenlabs-2026-09-21-2026-09-21-6d2d4d80]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6 Apps and Integrations changes in v2.1.277]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-52-apps-and-integrations-changes-in-v2026-9-5|52 Apps and Integrations changes in v2026.9.5]]
 - Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-8-apps-and-integrations-changes-in-v1-0-87|8 Apps and Integrations changes in v1.0.87]]
 <!-- chronolog:end -->
 

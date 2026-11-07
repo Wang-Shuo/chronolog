@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91ad18c33ed9bae378814b582b6ec5d69781812f1a826e0f39d787f28ffec9e0
+machine_hash: 22085c79b3c0fed3b485a084f0870820bc0f8d11f010b3d6cea5f01aa7845bd2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,10 +43,10 @@ record:
   title: '**⌨️ Prompt Input Behavior on Mobile**'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-03-10-2-mobile-and-desktop-changes-in-v0-1-29|2 Mobile and
-  Desktop changes in v0.1.29]]'
 - '[[Changes/Dify/2024-03-12-2-mobile-and-desktop-changes-in-0-5-9|2 Mobile and Desktop
   changes in 0.5.9]]'
+- '[[Changes/Midjourney/2024-03-21-ranking-goes-fastest-if-you-use-the-1-2-hotkeys-on-pc-or-use-it-on-mobile|Ranking
+  goes fastest if you use the 1/2 hotkeys on PC or use it on mobile]]'
 - '[[Changes/Ollama/2024-03-26-pasting-multi-line-strings-will-now-work-on-windows|Pasting
   multi-line strings will now work on Windows]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-04-28-v0-1-122-github-153113400-398d1a23|open-webui-2024-04-28-v0-1-122-github-153113400-398d1a23]]'

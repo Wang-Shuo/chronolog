@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f3098d06bc8b3460cbf98f23a18fc0d0be011fce650541dbbc381bb73841644b
+machine_hash: 9f8a07522ffcd3775177957793f2c494cf8afe262db0e9e93c2cc0b0eb0f288a
 product: dify
 product_name: Dify
 record:
@@ -60,9 +60,10 @@ record:
   title: 5 Automation and Scheduling changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-01-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2025-09-01-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2025-09-01-sound-effects|Sound Effects]]'
+- '[[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta|Gamma
+  API: Automate your creative workflow (Beta)]]'
 source_release: '[[Releases/Dify/dify-2025-09-22-1-9-0-github-249001568-ef530801|dify-2025-09-22-1-9-0-github-249001568-ef530801]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -112,7 +113,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-09-01 · ElevenLabs · [[Changes/ElevenLabs/2025-09-01-sound-effects|Sound Effects]]
+- Earlier: 2025-09-16 · Gamma · [[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta|Gamma API: Automate your creative workflow (Beta)]]
 - Later: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-3-automation-and-scheduling-changes-in-v0-6-0|3 Automation and Scheduling changes in v0.6.0]]
 <!-- chronolog:end -->
 

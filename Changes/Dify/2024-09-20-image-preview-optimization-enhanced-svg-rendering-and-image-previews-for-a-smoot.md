@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0267a37729500ffbc0ba07471ff3bb7d1cbc91971cd1b236ec92bac1ba88e5e9
+machine_hash: 02c6d4a27581c6dfe34133ab936bafd511e8af25d58b44c09f0d75ba5d58d672
 product: dify
 product_name: Dify
 record:
@@ -45,8 +45,8 @@ record:
   title: '**Image Preview Optimization**'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-09-07-2-interface-experience-changes-in-v0-3-20|2 Interface
-  Experience changes in v0.3.20]]'
+- '[[Changes/Gamma/2024-09-10-click-share-at-the-top-of-your-screen-or-in-the-menu-at-the-top-right-and-select|Click
+  Share at the top of your screen or in the ... menu at the top right…]]'
 - '[[Changes/Dify/2024-09-12-copy-shortcut-fixes|Copy Shortcut Fixes]]'
 - "[[Changes/Open WebUI/2024-09-19-iphone-compatibility-adjustments-added-padding-to-accommodate-the-iphone-navigat|\U0001F4F1
   iPhone Compatibility Adjustments]]"

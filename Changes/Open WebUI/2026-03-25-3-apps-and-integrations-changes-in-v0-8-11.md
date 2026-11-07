@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9abb9ca3bae6f7c5ad730032bb775768d94740451a6af8229e1371f778448d9d
+machine_hash: 49acef432101dfce5fc376b6b6cd0dcb691ba0d37a6c5895fb37e400e3c670fb
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,10 +55,10 @@ record:
   title: 3 Apps and Integrations changes in v0.8.11
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google
-  Drive app unification]]'
 - '[[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps
   and Integrations changes in v2.1.83]]'
+- '[[Changes/Google Antigravity/2026-03-25-linux-sandboxing-and-mcp-improvements|Linux
+  Sandboxing and MCP Improvements]]'
 - '[[Changes/Ollama/2026-03-25-openclaw-integration-improvements-for-gateway-checks|OpenClaw
   integration improvements for gateway checks]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69|open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69]]'

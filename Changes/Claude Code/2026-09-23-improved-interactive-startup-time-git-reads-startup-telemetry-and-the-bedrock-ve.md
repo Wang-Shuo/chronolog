@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8a0daf9991d054aa9bd988963abbe0fa3b87c122cd848506449856c142b1a042
+machine_hash: 1a03537861f97df05f6a7ca5b265789743bc18bf9d8ed0180fe1bb22baddcd6c
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: Improved interactive startup time
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-25-model-support-changes-in-rust-v0-156-0|25 Model
-  Support changes in rust-v0.156.0]]'
+- '[[Changes/Google Antigravity/2026-09-22-2-model-support-changes-in-hub-v2-17-0-plan-before-you-build|2
+  Model Support changes in HUB v2.17.0 — Plan before you build]]'
 - '[[Changes/OpenHands/2026-09-22-test-strengthen-llm-profile-configuration-by-aivong-openhands-in-https-github-co|test:
   strengthen LLM profile configuration]]'
 - '[[Changes/v0/2026-09-22-the-updated-model-picker-lets-you-browse-and-search-available-ai-gateway-models|More

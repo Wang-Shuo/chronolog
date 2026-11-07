@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78994867196db25ca08997c1f91fcf805cffded6e66ab1803e13dab997373157
+machine_hash: 31fe6d9a8c13f0d246aed9fc233fc51fc411b9b36b5794a4ff1bb4677db0adf1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 3 Developer Workflow changes in rust-v0.133.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-4-developer-workflow-changes-in-v1-0-51|4
-  Developer Workflow changes in v1.0.51]]'
+- '[[Changes/OpenCode/2026-05-20-3-developer-workflow-changes-in-v1-15-6|3 Developer
+  Workflow changes in v1.15.6]]'
 - '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-with-an-optional-effort-level-e-g-code-review-hi|Renamed
   /simplify to /code-review with an optional effort level…]]'
 - '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo|Renamed
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.133.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo|Renamed /simplify to /code-review]]
-- Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-feat-evals-add-shell-command-safety-evals-by-akh64bit-in-https-github-com-google|feat(evals): add shell command safety evals]]
+- Later: 2026-05-21 · OpenCode · [[Changes/OpenCode/2026-05-21-3-developer-workflow-changes-in-v1-15-7|3 Developer Workflow changes in v1.15.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

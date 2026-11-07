@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4e33d35ed66e342fbcd388a849872d7b61dd4929e6c51949e88633a4c8c405e7
+machine_hash: f4ff58bc124b09f490d41cec849c13d4401f0c001b740ff3d6e725ed8d037068
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,10 +46,10 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-26-2692-do-not-schedule-frames-for-tui-draw-events-in-backtrack|♯2692
-  do not schedule frames for Tui::Draw events in backtrack]]'
 - '[[Changes/Dify/2025-08-27-loop-exit-conditions-fixed-loop-exit-condition-to-accept-variables-from-nodes-in|Loop
   Exit Conditions]]'
+- '[[Changes/Gamma/2025-08-29-ready-to-get-started-try-one-of-these-popular-automations|Ready
+  to get started?]]'
 - '[[Changes/ElevenLabs/2025-09-01-python-sdk|Python SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-09-01-2025-09-01-b1665f28|elevenlabs-2025-09-01-2025-09-01-b1665f28]]'
 source_type: elevenlabs_changelog
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-loop-exit-conditions-fixed-loop-exit-condition-to-accept-variables-from-nodes-in|Loop Exit Conditions]]
-- Later: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-5-automation-and-scheduling-changes-in-1-9-0|5 Automation and Scheduling changes in 1.9.0]]
+- Earlier: 2025-08-29 · Gamma · [[Changes/Gamma/2025-08-29-ready-to-get-started-try-one-of-these-popular-automations|Ready to get started?]]
+- Later: 2025-09-16 · Gamma · [[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta|Gamma API: Automate your creative workflow (Beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

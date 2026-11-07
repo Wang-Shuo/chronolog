@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1ceeab99c558c014975192639884d02d46b6364e8287c2369ff3537fac19029
+machine_hash: 3e749bdf14401cbc7bd202cb1965cdb0c7ac6a1284d1112627efbf8a7ad106bd
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.153
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4
-  Apps and Integrations changes in v2.1.152]]'
 - '[[Changes/Gemini CLI/2026-05-27-docs-extensions-clarify-env-var-sanitization-policy-for-mcp-and-ext-by-galz10-in|docs(extensions):
   clarify env var sanitization policy for MCP and ext…]]'
+- '[[Changes/OpenCode/2026-05-27-3-apps-and-integrations-changes-in-v1-15-11|3 Apps
+  and Integrations changes in v1.15.11]]'
 - '[[Changes/Claude/2026-05-28-enterprise-plans-can-manage-connector-access-with-custom-roles|Enterprise
   plans can manage connector access with custom roles]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'

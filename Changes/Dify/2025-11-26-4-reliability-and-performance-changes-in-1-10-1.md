@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b355a910d4f979fa935247bc967956be542841c83579117fcffd4c42a20f0b7c
+machine_hash: f7ff681441c784ceb3b2d9b19fc6aca21cef861b8bbf5f1c30ae03b750bede9c
 product: dify
 product_name: Dify
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.10.1
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-11-25 · Open WebUI · [[Changes/Open WebUI/2025-11-25-a-critical-postgresql-user-listing-performance-issue-was-resolved-by-removing-a|🗄️ A critical PostgreSQL user listing performance issue was resolved by removing…]]
-- Later: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat: update Cerebras models and speed]]
+- Later: 2025-11-26 · Google Antigravity · [[Changes/Google Antigravity/2025-11-26-stability-and-bug-fixes|Stability and Bug Fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

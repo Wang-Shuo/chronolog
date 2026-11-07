@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 441d1a577668388b865f1191792c66d9864db68b38dcedd79c48a39108fcac66
+machine_hash: c28a74a8939e6803f4ad9e71a7a902e7a4ee36d424aea84965515c9ccba8c831
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Developer Workflow changes in v1.0.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-4-developer-workflow-changes-in-v1-0-4|4
-  Developer Workflow changes in v1.0.4]]'
 - '[[Changes/OpenHands/2026-03-11-2-developer-workflow-changes-in-1-5-0|2 Developer
   Workflow changes in 1.5.0]]'
 - '[[Changes/Claude Code/2026-03-12-vscode-improved-scroll-wheel-responsiveness-in-the-integrated-terminal-with-term|VSCode
   Improved scroll wheel responsiveness in the integrated terminal…]]'
+- '[[Changes/OpenCode/2026-03-12-11-developer-workflow-changes-in-v1-2-25|11 Developer
+  Workflow changes in v1.2.25]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6|github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -94,8 +94,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-vscode-improved-scroll-wheel-responsiveness-in-the-integrated-terminal-with-term|VSCode Improved scroll wheel responsiveness in the integrated terminal…]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-4-developer-workflow-changes-in-v2-1-76|4 Developer Workflow changes in v2.1.76]]
+- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-11-developer-workflow-changes-in-v1-2-25|11 Developer Workflow changes in v1.2.25]]
+- Later: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-4-developer-workflow-changes-in-v1-2-26|4 Developer Workflow changes in v1.2.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

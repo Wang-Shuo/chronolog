@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d242cb966e3036bb8c99d21f49efe74aaaf2d5f8711798592d2e0e48eb5e8ea1
+machine_hash: 42f4071da64bb5c402cee4c914a411ebc6f72675514153ec5a8b5162f0610459
 product: aider
 product_name: Aider
 record:
@@ -52,10 +52,10 @@ record:
   title: New settings for completion menu colors
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-09-24-2-interface-experience-changes-in-v0-3-24|2 Interface
-  Experience changes in v0.3.24]]'
 - "[[Changes/Open WebUI/2024-09-24-enhanced-latex-rendering-improved-rendering-for-latex-content-enhancing-clarity|\U0001F4CA
   Enhanced LaTeX Rendering]]"
+- '[[Changes/Suno/2024-09-24-2-right-click-or-go-into-the-more-actions-menu|2 - Right
+  click or go into the More Actions menu]]'
 - "[[Changes/Open WebUI/2024-09-25-katex-rendering-improvement-resolved-specific-corner-cases-in-katex-rendering-to|\U0001F527
   KaTeX Rendering Improvement]]"
 source_release: '[[Releases/Aider/aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f|aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f]]'

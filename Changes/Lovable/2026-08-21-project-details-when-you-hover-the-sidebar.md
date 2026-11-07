@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 17a5ed5d1a4f70c4d44b0c76247053d603349ba30f2224dafefaae3f8671f521
+machine_hash: af4770bc5da733f87b9daa7fc09992385803e2d1fb4f702962cf2876e7e2e173
 product: lovable
 product_name: Lovable
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface Experience changes in v2.1.239]]
-- Later: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-2-interface-experience-changes-in-v1-15-0|2 Interface Experience changes in v1.15.0]]
+- Later: 2026-08-21 · Midjourney · [[Changes/Midjourney/2026-08-21-folders-and-organizing|Folders and organizing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

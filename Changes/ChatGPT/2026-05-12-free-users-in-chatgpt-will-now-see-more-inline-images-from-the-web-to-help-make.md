@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bdbce2e392290de44c96ba79b0489792d9cef0871fbc7fdeadd23a0e2a08f74e
+machine_hash: 82ce074118d14ec697226ef73b73e4e673cd8f677b3e36725e16883eb3b3a751
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,10 +50,10 @@ record:
   title: More images in answers for Free users
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-3-mobile-and-desktop-changes-in-rust-v0-129-0|3
-  Mobile and Desktop changes in rust-v0.129.0]]'
-- '[[Changes/Ollama/2026-05-07-use-ollama-launch-claude-desktop-restore-to-restore-claude-desktop-to-its-normal|Use
-  ollama launch claude-desktop --restore to restore Claude Desktop to its normal state]]'
+- '[[Changes/OpenCode/2026-05-10-core-fixed-old-sessions-with-negative-token-counts-causing-message-loads-and-des|Core
+  Fixed old sessions with negative token counts causing message loads and Desktop…]]'
+- '[[Changes/OpenCode/2026-05-10-2-mobile-and-desktop-changes-in-v1-14-45|2 Mobile
+  and Desktop changes in v1.14.45]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall
   back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9|chatgpt-2026-05-12-more-images-in-answers-for-free-users-34680cb9]]'

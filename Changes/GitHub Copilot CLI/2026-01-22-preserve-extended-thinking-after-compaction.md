@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a41aa4de13880ef416158216ba819ebd3a3f298f8b20243ae3d0b8c8ae0b334
+machine_hash: 0d285d60fc242943becfbbde6b5b64ea298504b5a01bdd1ebfd216a188e38cde
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-agents-can-now-read-pdfs-which-you-can-attach-in-chats-as-context|Agents can now read PDFs, which you can attach in chats as context]]
-- Later: 2026-01-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-23-show-conversation-compaction-status-as-timeline-messages-instead-of-header-indic|Show conversation compaction status as timeline messages instead of header indicator]]
+- Later: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-2-context-window-changes-in-v1-1-32|2 Context Window changes in v1.1.32]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

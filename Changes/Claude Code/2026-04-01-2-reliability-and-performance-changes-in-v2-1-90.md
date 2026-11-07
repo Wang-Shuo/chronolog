@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb328d352bf8c37bf3c9affe27ac2b5f49fd3a06841ea750abe5e5f36be6fa64
+machine_hash: 05ce12d18327a2b4003c5de85c39a659ce8aca2c737eae52a3983c22b3ab519e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,7 +45,8 @@ record:
   title: 2 Reliability and Performance changes in v2.1.90
   type: change
 related_changes:
-- '[[Changes/Replit/2026-03-27-application-level-analytics|Application-level analytics]]'
+- '[[Changes/OpenCode/2026-03-29-core-improve-app-startup-performance|Core Improve
+  app startup performance]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-reliability-and-performance-changes-in-v1-0-13|2
   Reliability and Performance changes in v1.0.13]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-2-reliability-and-performance-changes-in-v1-0-14|2

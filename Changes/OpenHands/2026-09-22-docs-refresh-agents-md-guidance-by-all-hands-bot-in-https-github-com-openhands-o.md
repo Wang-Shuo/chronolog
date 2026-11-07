@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf997b8355d2477f0b3c797d5167adbc9f40b85a972e6afee6ffac8b0e706b6f
+machine_hash: 6794d54047523ccfc0d385b0a8540d9fa2550fac75865edece29bcfedcb6a728
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,11 @@ record:
   title: 'docs: refresh AGENTS.md guidance'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-22-2-agent-mode-changes-in-v4-1-20|2 Agent Mode changes
-  in v4.1.20]]'
-- '[[Changes/Codex CLI/2026-09-22-34-agent-mode-changes-in-rust-v0-156-0|34 Agent
-  Mode changes in rust-v0.156.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-22-2-agent-mode-changes-in-v1-0-88|2 Agent
-  Mode changes in v1.0.88]]'
+- '[[Changes/Google Antigravity/2026-09-22-2-agent-mode-changes-in-hub-v2-16-0-windows-subsystem|2
+  Agent Mode changes in HUB v2.16.0 — Windows Subsystem…]]'
+- '[[Changes/Google Antigravity/2026-09-22-4-agent-mode-changes-in-hub-v2-17-0-plan-before-you-build|4
+  Agent Mode changes in HUB v2.17.0 — Plan before you build]]'
+- '[[Changes/Google Antigravity/2026-09-22-plan-before-you-build|Plan before you build]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92|openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-2-agent-mode-changes-in-v1-0-88|2 Agent Mode changes in v1.0.88]]
+- Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-plan-before-you-build|Plan before you build]]
 - Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-10-agent-mode-changes-in-v2-1-281|10 Agent Mode changes in v2.1.281]]
 <!-- chronolog:end -->
 

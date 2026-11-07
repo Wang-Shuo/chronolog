@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 442f577b39ecc36bbaa6ff875418216529bbebadb752dcf00a3addeb1021a51c
+machine_hash: 42c3f9a23f96e98ad90c48a1e70bdf4a33ec0d3884b44cd346d25576b97b767f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -69,10 +69,10 @@ record:
   title: 14 Developer Workflow changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved
-  disk-full handling]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-22-clicking-a-completed-response-code-block-copies-its-original-code-when-enabled|Clicking
   a completed response code block copies its original code when enabled]]'
+- '[[Changes/OpenClaw/2026-10-22-7-developer-workflow-changes-in-v2026-10-6|7 Developer
+  Workflow changes in v2026.10.6]]'
 - '[[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code
   Review Improved the Code Review admin section to retry the first load…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
