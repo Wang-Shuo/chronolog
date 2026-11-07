@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d44df092f13feae92af1a9e70eb9b988a79bdbb64397e5970c7dc766d98a9ed5
+machine_hash: f80bb3bce36907100e4aac5f7f1fd599162e33b662c4a8a4768c3a9d09a068b9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Prompt frame no longer causes rendering issues on Windows and Ubuntu terminals
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-17414-fix-thread-list-cwd-filtering-for-windows-verbatim-paths-etraut-openai|♯17414
-  Fix thread/list cwd filtering for Windows verbatim paths @etraut-openai]]'
-- '[[Changes/Gemini/2026-04-15-meet-your-new-desktop-assistant-gemini-for-mac|Meet
-  your new desktop assistant: Gemini for Mac]]'
+- '[[Changes/OpenCode/2026-04-15-desktop-fixed-the-windows-desktop-backend-hanging-before-shutdown|Desktop
+  Fixed the Windows desktop backend hanging before shutdown]]'
+- '[[Changes/OpenCode/2026-04-15-2-mobile-and-desktop-changes-in-v1-4-6|2 Mobile and
+  Desktop changes in v1.4.6]]'
 - '[[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows:
   PowerShell tool is progressively rolling out]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-16-v1-0-31-github-310072149-bbc5ddf4|github-copilot-cli-2026-04-16-v1-0-31-github-310072149-bbc5ddf4]]'

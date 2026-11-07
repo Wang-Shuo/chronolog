@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 67cc0d6883f30e299b23555c80dbe54fde4fd286b28c1496371e7681f8f12a8f
+machine_hash: 2c33b432c1a85c3996ffeca484429404325ff9b7fa0eebba1f70d039bfe3f3c8
 product: lovable
 product_name: Lovable
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-6-account-and-access-changes-in-1-17-1|6 Account and Access changes in 1.17.1]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-changed-claude-apps-gateway-bedrock-vertex-ai-and-foundry-sessions-so-that-they|Changed Claude apps gateway, Bedrock, Vertex AI, and Foundry sessions so that they…]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-14-account-and-access-changes-in-v2026-9-4|14 Account and Access changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

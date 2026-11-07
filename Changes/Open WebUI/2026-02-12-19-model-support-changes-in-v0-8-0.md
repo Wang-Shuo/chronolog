@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ae3569fc51401ce398bef862c7f7c4ba19f7395d637be762245d690b96d5479
+machine_hash: d628b377953146b4d57ae5724772f1a2fe97f5d1a852dc6a388e178b855b3582
 product: open-webui
 product_name: Open WebUI
 record:
@@ -216,7 +216,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.0
 ## Nearby in Model Support
 
 - Earlier: 2026-02-12 · Ollama · [[Changes/Ollama/2026-02-12-3-model-support-changes-in-v0-16-0|3 Model Support changes in v0.16.0]]
-- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring GPT-4o and other legacy models]]
+- Later: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-2-model-support-changes-in-v1-1-60|2 Model Support changes in v1.1.60]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

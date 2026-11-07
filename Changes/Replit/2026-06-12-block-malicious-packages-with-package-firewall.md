@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ee0ec4cc707b51ea37f4718f9f93dbdbae3a64138bbf9c76c26ce57a2d2e3487
+machine_hash: f3403fb62300bc6b9a1e7ad346b633582246688945158096ef4668f3b73d2887
 product: replit
 product_name: Replit
 record:
@@ -49,11 +49,11 @@ record:
   title: Block malicious packages with Package Firewall
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-09-publish-from-chat|Publish from chat]]'
-- '[[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents
-  can now spawn their own sub-agents (up to 5 levels deep)]]'
 - '[[Changes/OpenHands/2026-06-10-2-agent-mode-changes-in-1-8-0|2 Agent Mode changes
   in 1.8.0]]'
+- '[[Changes/Google Antigravity/2026-06-11-3-agent-mode-changes-in-hub-v2-1-4-quota-screen-redesign|3
+  Agent Mode changes in HUB v2.1.4 — Quota Screen Redesign…]]'
+- '[[Changes/Gamma/2026-06-12-edit-on-the-go|Edit on the go]]'
 source_release: '[[Releases/Replit/replit-2026-06-12-2026-06-12-d92f034f|replit-2026-06-12-2026-06-12-d92f034f]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-10 · OpenHands · [[Changes/OpenHands/2026-06-10-2-agent-mode-changes-in-1-8-0|2 Agent Mode changes in 1.8.0]]
+- Earlier: 2026-06-12 · Gamma · [[Changes/Gamma/2026-06-12-edit-on-the-go|Edit on the go]]
 - Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-4-agent-mode-changes-in-v1-0-62|4 Agent Mode changes in v1.0.62]]
 <!-- chronolog:end -->
 

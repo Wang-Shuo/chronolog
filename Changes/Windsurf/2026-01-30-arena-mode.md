@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6a2d944ae9c36a8c9a41250554ea543d182ecff9e710a2bce50e1347f8f255d1
+machine_hash: fd4814c96a67a9bab0274208a35b5896fedc100bce1c303f638278cfebf387d7
 product: windsurf
 product_name: Windsurf
 record:
@@ -68,12 +68,12 @@ record:
   title: Arena Mode
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|LiteLLM:
-  Fixed thinking configuration not appearing for reasoning-capable models]]'
 - '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|LiteLLM:
   Fixed thinking configuration not appearing for reasoning-capable models]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-acp-server-supports-changing-models-during-a-session|ACP
   server supports changing models during a session]]'
+- '[[Changes/OpenCode/2026-01-30-desktop-free-model-layout-improvements-in-app|Desktop
+  Free model layout improvements in app]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-30-v1-9544-24-02c78afb|windsurf-2026-01-30-v1-9544-24-02c78afb]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-acp-server-supports-changing-models-during-a-session|ACP server supports changing models during a session]]
+- Earlier: 2026-01-30 · OpenCode · [[Changes/OpenCode/2026-01-30-desktop-free-model-layout-improvements-in-app|Desktop Free model layout improvements in app]]
 - Later: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-10118-codex-cli-show-model-capacity-guidance-on-429-ccy-oai|♯10118 CodexCLI Show model-capacity guidance on 429 @ccy-oai]]
 <!-- chronolog:end -->
 

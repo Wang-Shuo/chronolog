@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 911437d7b1f383763366b4469be1429da653cd920e54a863972ee9cb2b10c1ed
+machine_hash: ebf03a98b50652ba739b3bcf0a2aa42d7df5624c04a01f007317236ce8e2ae8c
 product: lovable
 product_name: Lovable
 record:
@@ -67,10 +67,10 @@ record:
   title: Images Lovable generates are labeled as AI-generated
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-22-better-standard-image-generation-while-building|Better
-  standard image generation while building]]'
 - "[[Changes/Open WebUI/2026-06-29-usable-chat-input-on-mobile-with-many-tools-when-skills-tools-terminal-web-searc|\U0001F4F1
   Usable chat input on mobile with many tools. When skills, tools, terminal, web…]]"
+- '[[Changes/OpenClaw/2026-06-30-generated-images-from-a-remote-codex-app-server-now-arrive-as-attachments-instea|Generated
+  images from a remote Codex app-server now arrive as attachments instead…]]'
 - '[[Changes/Codex CLI/2026-07-08-3-image-generation-changes-in-rust-v0-143-0|3 Image
   Generation changes in rust-v0.143.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-08-2026-07-08-6cd655f7|lovable-2026-07-08-2026-07-08-6cd655f7]]'

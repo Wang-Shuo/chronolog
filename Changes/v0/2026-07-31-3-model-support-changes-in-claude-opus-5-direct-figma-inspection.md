@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ea2a92d9931d90fba01dd1c89f9b0810144f2bbe53ff7bdff6a6e7b8242531a6
+machine_hash: a9e29700398a8d778075ecaa96493872a2aabfac1cbe40ad1a17ad09e6a59f72
 product: v0
 product_name: v0
 record:
@@ -47,7 +47,8 @@ record:
   title: 3 Model Support changes in Claude Opus 5, direct Figma inspection…
   type: change
 related_changes:
-- '[[Changes/DeepSeek API/2026-07-31-deepseek-v4-flash-update|DeepSeek-V4-Flash Update]]'
+- '[[Changes/Google Antigravity/2026-07-31-3-model-support-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|3
+  Model Support changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 - '[[Changes/Lovable/2026-07-31-opt-out-of-ai-model-training|Opt out of AI model training]]'
 - '[[Changes/Replit/2026-07-31-choose-agent-s-primary-model|Choose Agent''s primary
   model]]'
@@ -90,7 +91,7 @@ Source: https://v0.app/changelog#2026-07-31
 ## Nearby in Model Support
 
 - Earlier: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-choose-agent-s-primary-model|Choose Agent's primary model]]
-- Later: 2026-08-02 · Cline · [[Changes/Cline/2026-08-02-4-model-support-changes-in-v4-1-3|4 Model Support changes in v4.1.3]]
+- Later: 2026-08-01 · OpenCode · [[Changes/OpenCode/2026-08-01-core-fixed-provider-model-configs-that-use-interleaved-reasoning-fields-like-rea|Core Fixed provider model configs that use interleaved reasoning fields like…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4a9c216b24a4759da0c7e936be4fc895260135e21f562d7dcc543702ecfcfbf
+machine_hash: 7a0f5fb9218801958a6178e169299a298a0b756422b9deff7d5eb82df30f0670
 product: dify
 product_name: Dify
 record:
@@ -54,12 +54,12 @@ record:
   title: 7 Model Support changes in 0.6.3
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-04-10-update-rag-embedding-model-customize-rag-embedding-model-directly-in-document-se|\U0001F50D
-  Update RAG Embedding Model]]"
 - '[[Changes/Dify/2024-04-11-9-model-support-changes-in-0-6-2|9 Model Support changes
   in 0.6.2]]'
 - '[[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New
   GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]'
+- '[[Changes/Runway/2024-04-15-a-newly-designed-ai-training-page-lets-you-easily-find-all-custom-models-and-you|Redesigned
+  AI Training]]'
 source_release: '[[Releases/Dify/dify-2024-04-16-0-6-3-github-151300363-b9531748|dify-2024-04-16-0-6-3-github-151300363-b9531748]]'
 source_type: github_releases
 theme: model-support
@@ -106,7 +106,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]
+- Earlier: 2024-04-15 · Runway · [[Changes/Runway/2024-04-15-a-newly-designed-ai-training-page-lets-you-easily-find-all-custom-models-and-you|Redesigned AI Training]]
 - Later: 2024-04-16 · Open WebUI · [[Changes/Open WebUI/2024-04-16-2-model-support-changes-in-v0-1-119|2 Model Support changes in v0.1.119]]
 <!-- chronolog:end -->
 

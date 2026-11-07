@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7cd61fff9fa5afdb445f685a3da90ba23497812db308a3c834feeb2d567e5d59
+machine_hash: 3626fd2ce21361e5b060340d7718ea5e76bc9c0bda2e3b0ea4c8a7fa38560e3b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-18 · Codex CLI · [[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model Support changes in rust-v0.144.6]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-22-model-support-changes-in-rust-v0-145-0|22 Model Support changes in rust-v0.145.0]]
+- Later: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-3-model-support-changes-in-v1-18-4|3 Model Support changes in v1.18.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

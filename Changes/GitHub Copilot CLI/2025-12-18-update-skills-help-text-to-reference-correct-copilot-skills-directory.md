@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a9f6ff20c9d00c8ea6f0299a288d163cb3a0a769ffd069526ae2f6dc72bf82b
+machine_hash: a79d736307e465aa33ee15898e156c9b24188df808b01be6c55085373e80925b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Update skills help text to reference correct ~/.copilot/skills/ directory
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit
-  and review tasks in Pulse anytime after you create them]]'
+- '[[Changes/Google Antigravity/2025-12-17-performance-improvements-for-agent-manager-and-for-long-conversations-in-editor|Performance
+  improvements for Agent Manager and for long conversations in editor windows]]'
 - '[[Changes/Codex CLI/2025-12-18-7931-chore-persist-comments-in-edit|♯7931 chore:
   persist comments in edit]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-18-diff-display-uses-your-configured-git-pager-delta-diff-so-fancy|Diff

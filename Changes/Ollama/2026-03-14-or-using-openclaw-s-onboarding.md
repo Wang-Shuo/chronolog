@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9564dcd6a3ec30ec0d56462adb5bda6d303fa5d0a5479814afaf361440872654
+machine_hash: d5014600110c2cdf7a21f3f75129b82376a717474fa4558104b6a638859ed169
 product: ollama
 product_name: Ollama
 record:
@@ -41,12 +41,12 @@ record:
   title: Or using OpenClaw’s onboarding
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-11-feat-admin-enable-30-day-default-retention-for-chat-history-remove-warning-by-sk|feat(admin):
-  enable 30 day default retention for chat history & remove warning]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-11-2-interface-experience-changes-in-v1-0-4|2
-  Interface Experience changes in v1.0.4]]'
 - '[[Changes/v0/2026-03-11-added-tooltip-to-disabled-new-chat-button-for-view-only-access|Added
   tooltip to disabled New Chat button for view-only access]]'
+- '[[Changes/OpenCode/2026-03-12-2-interface-experience-changes-in-v1-2-25|2 Interface
+  Experience changes in v1.2.25]]'
+- '[[Changes/OpenCode/2026-03-13-6-interface-experience-changes-in-v1-2-26|6 Interface
+  Experience changes in v1.2.26]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-14-v0-18-0-github-296861801-d01e9dff|ollama-2026-03-14-v0-18-0-github-296861801-d01e9dff]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-11 · v0 · [[Changes/v0/2026-03-11-added-tooltip-to-disabled-new-chat-button-for-view-only-access|Added tooltip to disabled New Chat button for view-only access]]
+- Earlier: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-6-interface-experience-changes-in-v1-2-26|6 Interface Experience changes in v1.2.26]]
 - Later: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-14410-make-collab-model-metadata-accurate-on-completion-aibrahim-oai|♯14410 Make collab model metadata accurate on completion @aibrahim-oai]]
 <!-- chronolog:end -->
 

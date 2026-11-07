@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7e92c9e310e722e019e0d063f1c7fe453c7575d632565961fb8d289e966a4a11
+machine_hash: 21351b66a7ff74d4ad2a987dd1bec295751a4562027b5335aace3d17819be45b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-side-chats|Side chats]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-2-context-window-changes-in-v1-0-71|2 Context Window changes in v1.0.71]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-69-context-window-changes-in-v2026-7-1|69 Context Window changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

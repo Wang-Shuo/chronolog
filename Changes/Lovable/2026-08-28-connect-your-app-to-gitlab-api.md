@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6b8ce2f06c643664f03983f6760203a3c656a9d532e99f69639910086cb85bc5
+machine_hash: d822795ea5af03a66c288ed40247c850dc2ba5708899fc3a133789e2f5fa607a
 product: lovable
 product_name: Lovable
 record:
@@ -54,12 +54,12 @@ record:
   title: Connect your app to GitLab API
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-feat-land-the-canvas-extensions-frontend-load-pages-sidebar-customize-by-hieptl|feat:
-  land the Canvas Extensions frontend (load pages, sidebar, customize)]]'
 - '[[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect
   multiple Google accounts to ChatGPT]]'
 - '[[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4
   Apps and Integrations changes in v2.1.251]]'
+- '[[Changes/Gamma/2026-08-28-build-more-with-gamma-s-api-and-connectors|Build more
+  with Gamma’s API and connectors]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-28-2026-08-28-1fac4f32|lovable-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4 Apps and Integrations changes in v2.1.251]]
+- Earlier: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-build-more-with-gamma-s-api-and-connectors|Build more with Gamma’s API and connectors]]
 - Later: 2026-08-28 · Replit · [[Changes/Replit/2026-08-28-customize-connectors|Customize connectors]]
 <!-- chronolog:end -->
 

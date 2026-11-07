@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f1a8d6811447bc8d36461337d36467ce29cfda0e74b7624d7a9d554a595eb54b
+machine_hash: 8daabcc57d8f605decc88a03a1640c67b189b16e39493b0e10d2053aaa320c98
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Memory and Personalization changes in v0.1.18
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-feat-memory-make-directory-search-limit-on-memory-discovery-configurable-with-se|feat(memory):
-  make directory search limit on memory discovery configurable…]]'
+- '[[Changes/Midjourney/2025-07-30-personalized-feeds-for-images-and-video|Personalized
+  feeds for images and video]]'
 - '[[Changes/Gemini CLI/2025-08-02-2-memory-and-personalization-changes-in-v0-1-16|2
   Memory and Personalization changes in v0.1.16]]'
 - '[[Changes/Gemini CLI/2025-08-05-2-memory-and-personalization-changes-in-v0-1-17|2

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 9d7f57a9cef77cc440decac255b3afbb25c2394b02f2506083c6ed29733fa4da
+machine_hash: 7b09e0acbd8e3f0323a7ca87c43480e1cb434a6154bcf3f66bae57b15b5f2cd4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,10 +49,10 @@ record:
   title: Retiring GPT-4.5
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-4-model-support-changes-in-rust-v0-142-2|4 Model
-  Support changes in rust-v0.142.2]]'
 - '[[Changes/Dify/2026-06-25-17-model-support-changes-in-1-15-0|17 Model Support changes
   in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-improved-the-model-selector-dropdown-to-dynamically-resize-and-prevent-truncatio|Improved
+  the model selector dropdown to dynamically resize and prevent truncation…]]'
 - '[[Changes/Ollama/2026-06-25-3-model-support-changes-in-v0-30-11|3 Model Support
   changes in v0.30.11]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-26-retiring-gpt-4-5-41879baf|chatgpt-2026-06-26-retiring-gpt-4-5-41879baf]]'

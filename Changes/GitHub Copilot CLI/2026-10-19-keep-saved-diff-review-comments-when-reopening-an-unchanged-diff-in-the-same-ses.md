@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f1ba7b92ec03bfe338412c4e2e4749e810f6a25e235ea287cf68edac5ae03e77
+machine_hash: 56e4f05a255199a0a560574b366611975411f40367e0380452bbe7cd2c936d36
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     same…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-16-2-editor-experience-changes-in-v0-12-3|2 Editor
-  Experience changes in v0.12.3]]'
+- '[[Changes/OpenClaw/2026-10-16-chat-refresh-after-updates-chats-stuck-on-server-updated-can-refresh-back-to-the|Chat
+  refresh after updates]]'
 - '[[Changes/v0/2026-10-16-large-files-that-cannot-be-previewed-can-be-downloaded-from-the-code-tab-which-s|Large
   files that cannot be previewed can be downloaded from the Code tab…]]'
 - '[[Changes/Lovable/2026-10-17-request-a-higher-workspace-role|Request a higher workspace

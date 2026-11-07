@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 88319d8a3bd29e73af9f0fa9e7b5ff602727228cbdae189692b876b735d494ba
+machine_hash: 52b4b7915482a6a02a5b319b16a52e8aa6fdf3a3c0c07bbd2c8750d7f0452943
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Skills load correctly on Windows
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-22-add-msi-installer-for-windows|Add MSI installer
-  for Windows]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-28-homebrew-tools-work-correctly-on-macos-with-zsh-as-default-shell|Homebrew
-  tools work correctly on macOS with zsh as default shell]]'
+- '[[Changes/OpenCode/2026-01-28-73-mobile-and-desktop-changes-in-v1-1-37|73 Mobile
+  and Desktop changes in v1.1.37]]'
+- '[[Changes/OpenCode/2026-01-28-3-mobile-and-desktop-changes-in-v1-1-40-1|3 Mobile
+  and Desktop changes in v1.1.40 + 1]]'
 - '[[Changes/v0/2026-01-28-improved-git-workflow-ui-on-mobile-devices|Improved Git
   workflow UI on mobile devices]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6|github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-01-28 · v0 · [[Changes/v0/2026-01-28-improved-git-workflow-ui-on-mobile-devices|Improved Git workflow UI on mobile devices]]
-- Later: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-10011-really-fix-pwd-for-windows-codex-zip-iceweasel-oai|♯10011 really fix pwd for windows codex zip @iceweasel-oai]]
+- Later: 2026-01-29 · OpenCode · [[Changes/OpenCode/2026-01-29-7-mobile-and-desktop-changes-in-v1-1-41|7 Mobile and Desktop changes in v1.1.41]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

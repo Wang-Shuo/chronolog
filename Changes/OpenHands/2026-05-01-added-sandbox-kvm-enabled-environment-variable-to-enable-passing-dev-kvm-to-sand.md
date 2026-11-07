@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d7080069e30c340c2b5d0102f6ab67a1fb07d5434d1c1d7f410baaa3316c3f31
+machine_hash: 9dbf0d77c421e1aa4e7c7ec2d6587d207213d3afba51442d2a6ac6425b01825c
 product: openhands
 product_name: OpenHands
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off: users can discover and opt in]]
-- Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK hosts now receive a persistent localSettings suggestion for Bash permission…]]
+- Later: 2026-05-02 · OpenCode · [[Changes/OpenCode/2026-05-02-core-agents-can-use-the-global-temp-directory-without-extra-permission-prompts|Core Agents can use the global temp directory without extra permission prompts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

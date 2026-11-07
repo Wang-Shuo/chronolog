@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d65ae289d94e3933c0f4a3d57e6c03cba114efaf78d2c507ec8242a8083270e4
+machine_hash: 152200fb8af9b0f890bfe0406811120501d9bfba9b6123cd7bc69049677332bd
 product: replit
 product_name: Replit
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-07-significantly-reduced-token-consumption-round-trips-per-problem-and-time-to-resu|Significantly reduced token consumption, round trips per problem, and time to result]]
-- Later: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content creation: Apply project-specific instructions to keep tone and style…]]
+- Later: 2025-10-17 · Midjourney · [[Changes/Midjourney/2025-10-17-for-the-next-three-weekends-we-re-renting-a-big-catamaran-sailboat-to-take-midjo|Midjourney sailboat trips]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

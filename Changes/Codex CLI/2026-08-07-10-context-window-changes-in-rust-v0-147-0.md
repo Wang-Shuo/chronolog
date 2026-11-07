@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d226a80480d232649f284a4b3afb0bbd5d119dd34d6f1a18483f4db8fbe6bbfd
+machine_hash: d3f722365b1355bb3daf0d351d780bc7c7527bb2c0bd0b506d5af1b93ea2a672
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -128,7 +128,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.147.0
 ## Nearby in Context Window
 
 - Earlier: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-2-context-window-changes-in-v2-1-223|2 Context Window changes in v2.1.223]]
-- Later: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-2-context-window-changes-in-v4-1-7|2 Context Window changes in v4.1.7]]
+- Later: 2026-08-07 · OpenCode · [[Changes/OpenCode/2026-08-07-core-repeated-compaction-now-keeps-earlier-tool-call-history-in-summaries-instea|Core Repeated compaction now keeps earlier tool-call history in summaries instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

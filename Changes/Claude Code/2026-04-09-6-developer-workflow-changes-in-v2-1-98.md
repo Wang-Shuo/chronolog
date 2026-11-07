@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1337980043dd6e3a54da15e53914b556fd4055074e014e4feb5d4f6644b84877
+machine_hash: 51b16fba773a5f4948f2d50998b5f8aa46e5cda3519cf1e74226e124afa5a315
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,11 +56,11 @@ record:
   title: 6 Developer Workflow changes in v2.1.98
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-3-developer-workflow-changes-in-v2-1-97|3 Developer
-  Workflow changes in v2.1.97]]'
 - '[[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]'
 - '[[Changes/Gemini CLI/2026-04-08-3-developer-workflow-changes-in-v0-37-0|3 Developer
   Workflow changes in v0.37.0]]'
+- '[[Changes/OpenCode/2026-04-08-terminal-added-pdf-drag-and-drop-for-attachments|Terminal
+  Added PDF drag and drop for attachments]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: developer-workflow
@@ -108,8 +108,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.98
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-3-developer-workflow-changes-in-v0-37-0|3 Developer Workflow changes in v0.37.0]]
-- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-28-developer-workflow-changes-in-rust-v0-119-0|28 Developer Workflow changes in rust-v0.119.0]]
+- Earlier: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-terminal-added-pdf-drag-and-drop-for-attachments|Terminal Added PDF drag and drop for attachments]]
+- Later: 2026-04-09 · OpenCode · [[Changes/OpenCode/2026-04-09-4-developer-workflow-changes-in-v1-4-2-1|4 Developer Workflow changes in v1.4.2 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

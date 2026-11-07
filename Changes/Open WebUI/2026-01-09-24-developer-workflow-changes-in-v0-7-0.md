@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad3b0772c93a1600329f3a5dbba206daf10c0068c09c1918c2a6bcdf237ddf2b
+machine_hash: f8382476e8b1cc3cea81d918b245ca32cb7c70abe387f6f55c56cd60df6e7b8f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -244,7 +244,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-4-developer-workflow-changes-in-rust-v0-80-0|4 Developer Workflow changes in rust-v0.80.0]]
-- Later: 2026-01-12 · Claude Code · [[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]
+- Later: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-2-developer-workflow-changes-in-v1-1-10|2 Developer Workflow changes in v1.1.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

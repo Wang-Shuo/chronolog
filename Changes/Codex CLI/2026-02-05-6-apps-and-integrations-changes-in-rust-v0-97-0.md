@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38a68bcbdf79c93643748d4fcca2b93564eb133f35696807ed0ac114531d9ca9
+machine_hash: 17c25fb42aad649eb424a33762dd3c66df19065e5068373d83c234185fcb79a2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,10 +55,10 @@ record:
   title: 6 Apps and Integrations changes in rust-v0.97.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-5-apps-and-integrations-changes-in-rust-v0-95-0|5
-  Apps and Integrations changes in rust-v0.95.0]]'
 - '[[Changes/Gemini CLI/2026-02-04-14-apps-and-integrations-changes-in-v0-27-0|14
   Apps and Integrations changes in v0.27.0]]'
+- '[[Changes/OpenCode/2026-02-04-2-apps-and-integrations-changes-in-v1-1-50|2 Apps
+  and Integrations changes in v1.1.50]]'
 - '[[Changes/Claude Code/2026-02-05-skills-defined-in-claude-skills-within-additional-directories-add-dir-are-now-lo|Skills
   defined in .claude/skills/ within additional directories (--add-dir)…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-05-rust-v0-97-0-github-283219180-522ab2d0|codex-cli-2026-02-05-rust-v0-97-0-github-283219180-522ab2d0]]'

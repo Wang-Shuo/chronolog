@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94d82d95499229fea7d19087826f39f0ea48ee9514b6844340097f4a19dcb239
+machine_hash: 81d0eb4eeef8827bb4b8cfc62dcafde48d57eced6124bd2fba36cefc6cabdee3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -71,8 +71,8 @@ record:
   title: 7 Reliability and Performance changes in v0.6.42
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-17-improved-whatsnew-modal-responsiveness-and-cleaned-up-redundant-ui-elements|Improved
-  WhatsNew modal responsiveness and cleaned up redundant UI elements]]'
+- '[[Changes/Gamma/2025-12-17-for-faster-results-submit-your-url-through-google-search-console|For
+  faster results, submit your URL through Google Search Console]]'
 - '[[Changes/Codex CLI/2025-12-18-8216-speed-and-reliability-improvements-for-setting-reads-acls|♯8216
   speed and reliability improvements for setting reads ACLs]]'
 - '[[Changes/Codex CLI/2025-12-21-8295-coalesce-transcript-scroll-redraws-tui2-performance-https-github-com-openai|♯8295

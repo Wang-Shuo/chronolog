@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 9ad0e52c494c005543b4db4015bd46a9f9caf06f3e5e2ebfef6b3ef082ed515b
+machine_hash: 62403e1b10281ce5aac341b78bc26fac1dbc1764df8acfeda63891a8af78a61e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added maxEffortLevel setting (top-level or per model under modelSettings)]]
-- Later: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat: enable LLM provider connections on cloud]]
+- Later: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-2-model-support-changes-in-hub-v2-13-0-introducing-new-documents|2 Model Support changes in HUB v2.13.0 — Introducing new Documents…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

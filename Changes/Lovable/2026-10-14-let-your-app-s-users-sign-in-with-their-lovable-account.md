@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6a09ae6f7820ec7665fbbaefdffb8b2505232e621312f0ce922d1d4eff603e05
+machine_hash: 8e0675d5bb1df9f5d6cf05b062a08a60b7f80b259f2dddd25383a41508d95ae9
 product: lovable
 product_name: Lovable
 record:
@@ -52,10 +52,10 @@ record:
   title: Let your app's users sign in with their Lovable account
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-13-2-account-and-access-changes-in-v4-1-24|2 Account and
-  Access changes in v4.1.24]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-power-bi-and-bluebird-mcp-servers-accept-their-published-resource-scopes-during|Power
   BI and Bluebird MCP servers accept their published resource scopes during sign-in]]'
+- '[[Changes/OpenClaw/2026-10-13-2-account-and-access-changes-in-v2026-10-3|2 Account
+  and Access changes in v2026.10.3]]'
 - '[[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved
   the error shown when a cloud session is refused because your claude.ai…]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-14-2026-10-14-aff165c6|lovable-2026-10-14-2026-10-14-aff165c6]]'

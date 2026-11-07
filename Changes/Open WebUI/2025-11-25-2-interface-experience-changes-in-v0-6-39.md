@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec3e240ea33b4201153973cca7aaff4075f06ae4efa6921334e630f9e5a2ffbd
+machine_hash: 8051b22fb591c91646552a15e5a32845bf69bf67bf6fbebe11c7b7d7a7c5b86d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Interface Experience changes in v0.6.39
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set
-  origin allowlist from dashboard to restrict browser tools]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved
   timeline rendering of shell tool names]]'
 - '[[Changes/Open WebUI/2025-11-24-5-interface-experience-changes-in-v0-6-37|5 Interface
   Experience changes in v0.6.37]]'
+- '[[Changes/Gamma/2025-11-25-here-s-what-s-improved|Here''s what''s improved]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-11-25-v0-6-39-github-265081468-eef9ff80|open-webui-2025-11-25-v0-6-39-github-265081468-eef9ff80]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,7 +88,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.39
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-5-interface-experience-changes-in-v0-6-37|5 Interface Experience changes in v0.6.37]]
+- Earlier: 2025-11-25 · Gamma · [[Changes/Gamma/2025-11-25-here-s-what-s-improved|Here's what's improved]]
 - Later: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-4-interface-experience-changes-in-1-10-1|4 Interface Experience changes in 1.10.1]]
 <!-- chronolog:end -->
 

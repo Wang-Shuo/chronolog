@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 2bc18b47131b7aa3744d9b59ede8d29971d10fb06446aadeee0ae4fa8f84c350
+machine_hash: 15b1b6c08bf5aa60081e1b8b355d2b070440fec8e3ba873f8b6e380ca3c560df
 product: v0
 product_name: v0
 record:
@@ -43,10 +43,10 @@ record:
   title: Added scope selector in the buy credits dialog
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-25-3-pricing-model-changes-in-1-11-2|3 Pricing Model changes
-  in 1.11.2]]'
 - '[[Changes/Replit/2025-12-26-gift-cards|Gift cards]]'
 - '[[Changes/Replit/2025-12-26-credit-packs-holiday-sale|Credit packs holiday sale]]'
+- '[[Changes/OpenCode/2026-01-12-terminal-refactor-event-streaming-in-tui-to-use-sdk-instead-of-manual-rpc-subscr|Terminal
+  Refactor event streaming in TUI to use SDK instead of manual RPC subscription]]'
 source_release: '[[Releases/v0/v0-2026-01-14-2026-01-14-cce49812|v0-2026-01-14-2026-01-14-cce49812]]'
 source_type: v0_changelog
 theme: pricing-model
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-12-26 · Replit · [[Changes/Replit/2025-12-26-credit-packs-holiday-sale|Credit packs holiday sale]]
+- Earlier: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-terminal-refactor-event-streaming-in-tui-to-use-sdk-instead-of-manual-rpc-subscr|Terminal Refactor event streaming in TUI to use SDK instead of manual RPC subscription]]
 - Later: 2026-01-15 · v0 · [[Changes/v0/2026-01-15-updated-v0-max-pricing|Updated v0 Max pricing]]
 <!-- chronolog:end -->
 

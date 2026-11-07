@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 6556694bcc9c5307a284a901481cf1af776dea27231c7363fb13c262c083f6f7
+machine_hash: 1c556fde3bc504db1ee7857f431b851d957b773c5b58e769f07d79391f2f9a71
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,13 @@ record:
   title: Surface the underlying reason (e.g. GitHub API rate limit) when SDK auth-token…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-2-account-and-access-changes-in-v1-0-51|2
-  Account and Access changes in v1.0.51]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-2-account-and-access-changes-in-v1-0-52|2
   Account and Access changes in v1.0.52]]'
 - '[[Changes/Codex CLI/2026-05-26-2-account-and-access-changes-in-rust-v0-134-0|2
   Account and Access changes in rust-v0.134.0]]'
+- '[[Changes/OpenCode/2026-05-27-core-digitalocean-inference-now-uses-your-oauth-token-directly-instead-of-creati|Core
+  DigitalOcean inference now uses your OAuth token directly instead of creating a
+  MAK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d|github-copilot-cli-2026-06-01-v1-0-57-github-332702409-1dd8346d]]'
 source_type: github_releases
 theme: account-access
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-2-account-and-access-changes-in-rust-v0-134-0|2 Account and Access changes in rust-v0.134.0]]
+- Earlier: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-core-digitalocean-inference-now-uses-your-oauth-token-directly-instead-of-creati|Core DigitalOcean inference now uses your OAuth token directly instead of creating a MAK]]
 - Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-6-account-and-access-changes-in-v0-9-6|6 Account and Access changes in v0.9.6]]
 <!-- chronolog:end -->
 

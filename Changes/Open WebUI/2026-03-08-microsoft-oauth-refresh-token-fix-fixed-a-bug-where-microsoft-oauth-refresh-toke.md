@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 97c5b16285803b053ef3d663b89bc2ff6d5ef5c9a8f756fdb862af255d6d9d62
+machine_hash: 0a76696380fd7432a45527170fdb7163aba4fbcc8001afcaf487e830507ceb28
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,8 +50,8 @@ record:
     OAuth refresh…"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-display-request-id-in-authentication-and-authorization-error-messages-to-aid-tro|Display
-  request ID in authentication and authorization error messages to aid…]]'
+- '[[Changes/OpenCode/2026-03-05-terminal-add-options-to-auth-login-command-to-skip-interactive-questions|Terminal
+  Add options to auth login command to skip interactive questions]]'
 - '[[Changes/Claude Code/2026-03-06-vscode-added-native-mcp-server-management-dialog-use-mcp-in-the-chat-panel-to-en|VSCode
   Added native MCP server management dialog]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-06-mcp-servers-can-now-request-users-to-visit-a-url-for-out-of-band-interactions-su|MCP

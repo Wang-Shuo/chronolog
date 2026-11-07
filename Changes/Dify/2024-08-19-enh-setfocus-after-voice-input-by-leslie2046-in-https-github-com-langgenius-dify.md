@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e8778b3f1942a14e828fa55457eef45116529d05b009d2695dea6788065aafe3
+machine_hash: 903621673220198409ab454c6148f03284ff2475dbb67ce21b9493738bcb1e8b
 product: dify
 product_name: Dify
 record:
@@ -40,10 +40,10 @@ record:
   title: enh:setfocus after voice input
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS
-  Streaming Config]]'
 - "[[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|\U0001F5E3
   ElevenLabs Voice Adaptations]]"
+- '[[Changes/Runway/2024-08-09-retain-the-content-pace-and-tone-of-your-input-audio-while-changing-the-voice|Speech
+  to Speech]]'
 - '[[Changes/Dify/2024-08-14-chore-allow-download-audio-video-through-http-node-by-hjlarry-in-https-github-co|chore:
   allow download audio/video through HTTP node]]'
 source_release: '[[Releases/Dify/dify-2024-08-19-0-7-1-github-170870367-4677435e|dify-2024-08-19-0-7-1-github-170870367-4677435e]]'

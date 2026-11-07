@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ea6249e0e22db8627c0630cbb6ae1aee81e27f473913f7378d3652869732b82
+machine_hash: c37426c07fcaa5e9750a689a743497794db01339bf48a52b57ea7945ba69fdc7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,10 @@ record:
     information"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-03-31-webhook-support-now-compatible-with-google-chat-and-microsoft-teams|\U0001F4AC
-  Webhook Support: Now compatible with Google Chat and Microsoft Teams]]"
-- "[[Changes/Open WebUI/2024-04-04-local-chat-sharing-share-chat-links-seamlessly-between-users|\U0001F5E8️
-  Local Chat Sharing: Share chat links seamlessly between users]]"
+- '[[Changes/Gamma/2024-04-11-we-now-support-the-ability-to-set-default-permissions-on-all-gammas-you-create-s|Workspace
+  default permissions and default themes]]'
+- '[[Changes/Suno/2024-04-12-5-click-save-you-can-now-share-your-suno-creations-with-the-world-more-easily|5️⃣
+  Click Save]]'
 - "[[Changes/Open WebUI/2024-04-21-share-link-copy-button-fixed-bug-where-the-copy-button-wasn-t-copying-links-in-s|\U0001F517
   Share Link Copy Button]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-05-19-v0-1-125-github-156427993-5af04c15|open-webui-2024-05-19-v0-1-125-github-156427993-5af04c15]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-04-21 · Open WebUI · [[Changes/Open WebUI/2024-04-21-share-link-copy-button-fixed-bug-where-the-copy-button-wasn-t-copying-links-in-s|🔗 Share Link Copy Button]]
-- Later: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-2-collaboration-changes-in-v0-2-0|2 Collaboration changes in v0.2.0]]
+- Later: 2024-05-30 · Suno · [[Changes/Suno/2024-05-30-thanks-as-always-for-your-support-heart-team-suno|Thanks, as always, for your support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

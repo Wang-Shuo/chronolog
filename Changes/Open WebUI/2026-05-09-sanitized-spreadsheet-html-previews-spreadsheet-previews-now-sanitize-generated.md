@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf4ed45be6d05dc814b2ccd9452199fcdfcec4816e0034965bb9abdbeed097a6
+machine_hash: bffd14a3d134a727fae97797a1bf235c9bae08c04ffbe4d542b0e2ee711da932
 product: open-webui
 product_name: Open WebUI
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-21379-document-codex-git-commit-attribution-config-henzelmann-oai|♯21379 Document Codex git commit attribution config @henzelmann-oai]]
-- Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-document-indexing-skip-empty-documents-before-vector-embedding-and-validate-miss|Document indexing — skip empty documents before vector embedding and validate…]]
+- Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-fixed-the-http-api-openapi-document-route|Core Fixed the HTTP API OpenAPI document route]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

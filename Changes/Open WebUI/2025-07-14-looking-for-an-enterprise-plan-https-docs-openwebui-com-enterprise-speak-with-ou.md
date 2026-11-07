@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 380c7a133728b71273a625f012ea9e5c356303fd4cf70406c5e79478c4631273
+machine_hash: a96ff6cf9396227e1752c5b4a1ba06cce9d125d54c498ea504e0b79c9c5cd2d1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-teams-and-enterprise|Teams and Enterprise]]
-- Later: 2025-07-17 · Windsurf · [[Changes/Windsurf/2025-07-17-important-for-enterprise-customers-who-use-windsurf-across-lots-of-repos-now-you|Important for enterprise customers who use Windsurf across lots of repos]]
+- Later: 2025-07-16 · Midjourney · [[Changes/Midjourney/2025-07-16-we-re-starting-to-investigate-opening-up-an-enterprise-api-for-people-to-start-i|Enterprise API Survey]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

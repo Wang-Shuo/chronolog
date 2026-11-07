@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cdcddfab5fccc3e301880efeb5b693015b8d2282c2fecc437364afd88af70692
+machine_hash: 09874c573124717c6da12a51895cad5ef5a0fbc9d0a6f4886329261563e13df1
 product: lovable
 product_name: Lovable
 record:

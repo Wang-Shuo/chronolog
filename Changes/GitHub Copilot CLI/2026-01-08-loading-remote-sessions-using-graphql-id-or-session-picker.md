@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4009c3abd41503f89c06da1c0fdfb89a203623f0a991c3dc637b56544bb368af
+machine_hash: 9eae5a6461110e00aa3cc8436a0aeb1b201e8649939ff27e4c01067b5ceefdc9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Loading remote sessions using GraphQL ID or session picker
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-06-show-notification-instead-of-opening-sidebar-on-update|Show
-  notification instead of opening sidebar on update]]'
-- '[[Changes/Codex CLI/2026-01-06-9-interface-experience-changes-in-rust-v0-78-0|9
-  Interface Experience changes in rust-v0.78.0]]'
+- '[[Changes/OpenCode/2026-01-06-5-interface-experience-changes-in-v1-1-4|5 Interface
+  Experience changes in v1.1.4]]'
 - '[[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health
   appears as a new space in the ChatGPT sidebar]]'
+- '[[Changes/OpenCode/2026-01-07-desktop-fix-session-navigation-with-keyboard-shortcuts|Desktop
+  Fix session navigation with keyboard shortcuts]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-08-v0-0-376-github-275206322-ddd482cf|github-copilot-cli-2026-01-08-v0-0-376-github-275206322-ddd482cf]]'
 source_type: github_releases
 theme: interface-experience
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-07 · ChatGPT · [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface Experience changes in v2.1.3]]
+- Earlier: 2026-01-07 · OpenCode · [[Changes/OpenCode/2026-01-07-desktop-fix-session-navigation-with-keyboard-shortcuts|Desktop Fix session navigation with keyboard shortcuts]]
+- Later: 2026-01-08 · OpenCode · [[Changes/OpenCode/2026-01-08-2-interface-experience-changes-in-v1-1-7|2 Interface Experience changes in v1.1.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

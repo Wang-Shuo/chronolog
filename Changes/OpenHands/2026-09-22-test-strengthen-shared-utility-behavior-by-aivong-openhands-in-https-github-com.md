@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a809d958f0010c700133bd964b7ec72805abdd8d35fa69852c07fbc246533bd7
+machine_hash: 8b2a220572b3d6950019a62b0c0ea42a170fd44cbe22c21295a8e9c78924ee3a
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: 'test: strengthen shared utility behavior'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed
-  /ultrareview in non-interactive sessions to refuse when the repository has…]]'
+- '[[Changes/OpenClaw/2026-09-19-14-collaboration-changes-in-v2026-9-5|14 Collaboration
+  changes in v2026.9.5]]'
 - '[[Changes/Open WebUI/2026-09-21-4-collaboration-changes-in-v0-11-4|4 Collaboration
   changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-9-collaboration-changes-in-rust-v0-156-0|9 Collaboration

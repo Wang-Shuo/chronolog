@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b662219b11e542c8721645b1b859a65f8e63457b2add4f46ba885b67ff0cca5
+machine_hash: ec5d6d36b372dd31e47626dd43bd61b4335fdfe0254eeba979478c29a50430ca
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,10 +40,10 @@ record:
   title: Increased proxy authentication timeout
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-02-log-out-of-individual-sessions-or-all-sessions-from-active-sessions|Log
-  out of individual sessions or all sessions from Active sessions]]'
 - '[[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added
   a prompt before writing to shell startup files…]]'
+- '[[Changes/Google Antigravity/2026-06-02-enterprise-authentication-fix|Enterprise
+  Authentication Fix]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-mcp-oauth-re-authentication-no-longer-fails-with-an-address-in-use-error-when-a|MCP
   OAuth re-authentication no longer fails with an address-in-use error…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-06-v3-0-28-9d5b371b|windsurf-2026-06-06-v3-0-28-9d5b371b]]'

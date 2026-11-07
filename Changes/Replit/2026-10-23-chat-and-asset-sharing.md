@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 575ed3e8d6ef99787cfe16a7bea201b36658832e00ef6a5f88db6372371a05d1
+machine_hash: 363447d6f8d9adcc660b8ac382c56c5c868d1cf64140fd30970c2152dbb95ca9
 product: replit
 product_name: Replit
 record:
@@ -47,8 +47,8 @@ record:
   title: Chat and asset sharing
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands):
-  adopt the shared known-bug contract]]'
+- '[[Changes/OpenClaw/2026-10-22-session-share-now-shows-an-error-when-it-can-t-discover-receivers-instead-of-an|Session
+  Share now shows an error when it can’t discover receivers, instead…]]'
 - '[[Changes/Codex CLI/2026-10-23-8-collaboration-changes-in-rust-v0-164-0|8 Collaboration
   changes in rust-v0.164.0]]'
 - '[[Changes/Dify/2026-10-23-5-collaboration-changes-in-1-18-0|5 Collaboration changes

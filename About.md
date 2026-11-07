@@ -3,7 +3,7 @@ created: '2022-12-15'
 date: '2026-11-06'
 description: Where ChronoLog's data comes from, how official release notes become
   reviewed Change Cards, what is grouped or skipped, and how to report a problem.
-machine_hash: 4af970830ce5e8b3ca93c20a82993b0a2c806817841f4419c1fdbe40c08e2c83
+machine_hash: 9d3cf837630a62e107f859f5a7b4a41ef6cdffc472b35392706efc50da32c457
 modified: '2026-11-06'
 publication: active
 tags:
@@ -14,7 +14,7 @@ title: About the data
 # About the data
 
 <!-- chronolog:begin region="intro" -->
-ChronoLog tracks announced changes in 20 products: Aider, ChatGPT, Claude, Claude Code, Cline, Codex CLI, Cursor, DeepSeek API, Dify, ElevenLabs, Gemini, Gemini CLI, GitHub Copilot CLI, Lovable, Ollama, Open WebUI, OpenHands, Replit, Windsurf and v0. It reads official release notes only, turns each release into dated Change Cards and groups them by theme. Every record is reviewed before it is published.
+ChronoLog tracks announced changes in 29 products: Aider, ChatGPT, Claude, Claude Code, Cline, Codex CLI, Cursor, DeepSeek API, Dify, ElevenLabs, Gamma, Gemini, Gemini CLI, GitHub Copilot CLI, Google Antigravity, Granola, Lovable, Manus, Midjourney, Ollama, Open WebUI, OpenClaw, OpenCode, OpenHands, Replit, Runway, Suno, Windsurf and v0. It reads official release notes only, turns each release into dated Change Cards and groups them by theme. Every record is reviewed before it is published.
 <!-- chronolog:end -->
 
 ## Sources and coverage
@@ -79,6 +79,12 @@ ChronoLog tracks announced changes in 20 products: Aider, ChatGPT, Claude, Claud
 - Last successful fetch: 2026-11-06T13:13:19Z.
 - Known gaps: Every dated entry listed in the official changelog index, including voice, audio, agent and API updates. The default Markdown page contains only a recent window, so collection traverses the complete index. Documentation widgets and code examples are excluded.
 
+### Gamma
+- Official source: [Gamma changelog](https://ideas.gamma.app/changelog)
+- Archived releases: 78, dated 2024-02-14 → 2026-10-26
+- Last successful fetch: 2026-11-07T02:10:29Z.
+- Known gaps: All published entries returned by the official public changelog, traversing every cumulative page. Drafts, deleted entries and private feedback are excluded.
+
 ### Gemini
 - Official source: [Gemini release notes](https://gemini.google/us/release-notes/?hl=en)
 - Archived releases: 96, dated 2023-04-10 → 2026-10-13
@@ -97,11 +103,35 @@ ChronoLog tracks announced changes in 20 products: Aider, ChatGPT, Claude, Claud
 - Last successful fetch: 2026-11-06T10:43:36Z.
 - Known gaps: Stable versioned GitHub Copilot CLI releases only; prereleases are excluded. Copilot's IDE, web and other product surfaces have separate release histories.
 
+### Google Antigravity
+- Official source: [Google Antigravity changelog](https://antigravity.google/docs/changelog)
+- Archived releases: 70, dated 2025-11-18 → 2026-11-03
+- Last successful fetch: 2026-11-07T02:10:32Z.
+- Known gaps: Dated versions of the Antigravity App (hub) and original IDE on the official changelog. Separately versioned CLI, SDK, editor extensions and undated model-launch cards are outside this scope.
+
+### Granola
+- Official source: [Granola release notes](https://www.granola.ai/updates)
+- Archived releases: 25, dated 2024-05-22 → 2026-09-02
+- Last successful fetch: 2026-11-07T02:10:29Z.
+- Known gaps: Dated announcement summaries on the official updates index, including launch and company announcements listed there. Full blog article text and unlisted maintenance changes are outside this source's scope.
+
 ### Lovable
 - Official source: [Lovable changelog](https://docs.lovable.dev/changelog)
 - Archived releases: 156, dated 2024-12-03 → 2026-11-04
 - Last successful fetch: 2026-11-06T13:13:19Z.
 - Known gaps: Dated entries available in Lovable's official product changelog. Undated help articles, hosting widgets and code examples are excluded; endpoint coverage is not proof of lifetime coverage.
+
+### Manus
+- Official source: [Manus release notes](https://www.manus.im/updates)
+- Archived releases: 35, dated 2025-05-11 → 2026-09-29
+- Last successful fetch: 2026-11-07T02:13:16Z.
+- Known gaps: All updates exposed by the official public Updates page's notification feed. Entries use the feed's publication timestamp; entries without a public blog permalink link to the Updates index. Private account notifications are outside coverage.
+
+### Midjourney
+- Official source: [Midjourney release notes](https://updates.midjourney.com/)
+- Archived releases: 96, dated 2024-03-07 → 2026-10-08
+- Last successful fetch: 2026-11-07T02:10:18Z.
+- Known gaps: Posts listed in the official updates sitemap, including alpha tests and community announcements. Dates are article publication dates, not sitemap modification dates or dates mentioned in titles; older Discord-only announcements are outside coverage.
 
 ### Ollama
 - Official source: [Ollama GitHub releases](https://github.com/ollama/ollama/releases)
@@ -115,6 +145,18 @@ ChronoLog tracks announced changes in 20 products: Aider, ChatGPT, Claude, Claud
 - Last successful fetch: 2026-11-06T13:13:51Z.
 - Known gaps: Stable versioned Open WebUI releases from the official repository. Development builds, prereleases and external model-provider updates are excluded.
 
+### OpenClaw
+- Official source: [OpenClaw release notes](https://docs.openclaw.ai/releases)
+- Archived releases: 24, dated 2026-06-30 → 2026-11-05
+- Last successful fetch: 2026-11-07T02:13:27Z.
+- Known gaps: Curated release summaries linked from the official documentation release index, dated using published_at of the matching stable GitHub tag. Calendar-looking version numbers are not dates. Older technical changelog records and prereleases outside this index are excluded.
+
+### OpenCode
+- Official source: [OpenCode changelog](https://opencode.ai/changelog)
+- Archived releases: 201, dated 2025-12-19 → 2026-11-06
+- Last successful fetch: 2026-11-07T02:13:51Z.
+- Known gaps: Every version currently listed in the paginated official product changelog, including CLI and app changes. GitHub tags not listed in this curated endpoint are outside coverage.
+
 ### OpenHands
 - Official source: [OpenHands GitHub releases](https://github.com/OpenHands/OpenHands/releases)
 - Archived releases: 137, dated 2024-06-04 → 2026-11-05
@@ -126,6 +168,18 @@ ChronoLog tracks announced changes in 20 products: Aider, ChatGPT, Claude, Claud
 - Archived releases: 99, dated 2024-12-13 → 2026-10-30
 - Last successful fetch: 2026-11-06T13:15:09Z.
 - Known gaps: Dated weekly Replit changelog pages listed in the official sitemap, covering Agent and related development-platform features. This includes non-AI platform changes announced alongside Agent. Unindexed historical announcements are outside this source's scope.
+
+### Runway
+- Official source: [Runway changelog](https://runway.com/changelog)
+- Archived releases: 161, dated 2024-01-08 → 2026-10-27
+- Last successful fetch: 2026-11-07T02:10:02Z.
+- Known gaps: All dated descriptions currently available on the official changelog. Multiple announcements on one date remain separate; the source does not provide individual entry permalinks.
+
+### Suno
+- Official source: [Suno release notes](https://suno.com/release-notes)
+- Archived releases: 76, dated 2023-12-23 → 2026-11-06
+- Last successful fetch: 2026-11-07T02:10:01Z.
+- Known gaps: All dated entries currently published on the official release-notes index, including mobile, Studio and model announcements. Earlier changes absent from this endpoint are outside coverage.
 
 ### Windsurf
 - Official source: [Windsurf changelog](https://docs.devin.ai/desktop/changelog)
@@ -157,7 +211,7 @@ ChronoLog tracks announced changes in 20 products: Aider, ChatGPT, Claude, Claud
 
 ## Review status
 <!-- chronolog:begin region="status" -->
-20 products · 3,227 archived releases · 13,248 tracked changes · 25 themes. Pending theme review: 1,055. Silence alerts: 0. Every generated batch is reviewed in a pull request before it is published.
+29 products · 3,993 archived releases · 15,809 tracked changes · 29 themes. Pending theme review: 1,448. Silence alerts: 2. Every generated batch is reviewed in a pull request before it is published.
 <!-- chronolog:end -->
 
 ## Glossary

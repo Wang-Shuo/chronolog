@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86e9750cbac8a59a49d32bd9915e80849338dabdddead8f001389349c79830df
+machine_hash: 66ee37dd782691bc90fca82f1a87947dba9151701dd5bf93dbb88e3d57add0a3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,8 +56,8 @@ record:
   title: 4 Editor Experience changes in v0.8.11
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-elicitation-form-shows-shift-tab-hint-for-navigating-between-fields-in-reverse|Elicitation
-  form shows Shift+Tab hint for navigating between fields in reverse]]'
+- '[[Changes/OpenCode/2026-03-24-changed-command-palette-shortcut-to-cmd-k-with-cmd-p-still-working-as-fallback|Changed
+  command palette shortcut to Cmd+K (with Cmd+P still working as fallback)]]'
 - '[[Changes/Claude Code/2026-03-25-3-editor-experience-changes-in-v2-1-83|3 Editor
   Experience changes in v2.1.83]]'
 - '[[Changes/Ollama/2026-03-25-microsoft-visual-studio-code-now-directly-integrates-with-ollama-via-github-copi|Microsoft

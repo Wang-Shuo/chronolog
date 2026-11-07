@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 91188f7c2085518f23704bfd07d1294c5df2981aef29866b62e0d2db16b2be71
+machine_hash: 2707ecedebcf952d96cfc966b867143a5da174e310d84b118ffe166fd5138db0
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Context Window changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes
-  in 2.6]]'
+- '[[Changes/OpenCode/2026-03-03-core-recover-from-413-request-entity-too-large-errors-via-automatic-compaction|Core
+  Recover from 413 Request Entity Too Large errors via automatic compaction]]'
 - '[[Changes/Cline/2026-03-04-2-context-window-changes-in-v3-70-0|2 Context Window
   changes in v3.70.0]]'
 - '[[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT-5.4

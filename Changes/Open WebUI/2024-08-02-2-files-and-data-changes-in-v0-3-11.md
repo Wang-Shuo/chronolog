@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c646d9b7912b855eee1630c14ed5037a9e2509bbf0980adf26b508ee059dfdd5
+machine_hash: a9167904ab3b346539740922192f8a5d9275cca6a699082bc19e24fa70714271
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Files and Data changes in v0.3.11
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-07-17-2-files-and-data-changes-in-v0-3-10|2 Files and
-  Data changes in v0.3.10]]'
 - '[[Changes/Dify/2024-07-23-update-empty-document-caused-delete-exist-collection-by-johnjyong-in-https-githu|update
   empty document caused delete exist collection]]'
+- '[[Changes/Gamma/2024-07-23-import-pdf-to-convert-existing-documents|Import PDF
+  to convert existing documents]]'
 - '[[Changes/Ollama/2024-07-25-code-interpreter|Code interpreter]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87|open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87]]'
 source_type: github_releases

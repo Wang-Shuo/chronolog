@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9320316853a28e11786cf0edcb882b8fe5ab47b63c244594ce513e59fa1d1e1d
+machine_hash: 9648c97d0c2d4dd61adf1428f0332fe48453c965ae79c0726d2e18d35ba62e92
 product: lovable
 product_name: Lovable
 record:
@@ -49,12 +49,12 @@ record:
   title: Download your codebase from Git settings
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-11-remove-the-stale-double-check-completion-feature-tip|Remove
-  the stale "Double-Check Completion" feature tip]]'
 - '[[Changes/Cline/2026-08-13-use-the-editor-s-foreground-color-for-diff-block-text-so-diffs-stay-legible-in-t|Use
   the editor''s foreground color for diff block text, so diffs stay legible…]]'
 - '[[Changes/Lovable/2026-08-13-open-projects-from-links-in-the-command-palette|Open
   projects from links in the command palette]]'
+- '[[Changes/Suno/2026-08-13-midi-import-record-and-edit-midi-directly-on-the-timeline-play-using-a-midi-cont|MIDI:
+  Import, record and edit MIDI directly on the timeline, play using a MIDI…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-14-2026-08-14-e5550355|lovable-2026-08-14-2026-08-14-e5550355]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-13 · Lovable · [[Changes/Lovable/2026-08-13-open-projects-from-links-in-the-command-palette|Open projects from links in the command palette]]
+- Earlier: 2026-08-13 · Suno · [[Changes/Suno/2026-08-13-midi-import-record-and-edit-midi-directly-on-the-timeline-play-using-a-midi-cont|MIDI: Import, record and edit MIDI directly on the timeline, play using a MIDI…]]
 - Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-2-editor-experience-changes-in-a-redesigned-sidebar-a-richer|2 Editor Experience changes in A redesigned sidebar, a richer…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d1fea9619110ff4f1b8c8e7b40d66e6bb8442b3e87957eee40ea02e5665584f
+machine_hash: 2a2167d71560cd89d3d37986863ef86dde9561382c24737f6909b1740688c8d4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.401
 ## Nearby in Account and Access
 
 - Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-3-account-and-access-changes-in-1-12-0|3 Account and Access changes in 1.12.0]]
-- Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-2-account-and-access-changes-in-rust-v0-98-0|2 Account and Access changes in rust-v0.98.0]]
+- Later: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-terminal-enable-password-authentication-for-remote-session-attachment|Terminal Enable password authentication for remote session attachment]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

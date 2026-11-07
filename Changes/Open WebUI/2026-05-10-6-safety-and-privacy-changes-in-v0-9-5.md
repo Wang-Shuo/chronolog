@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aae969294aca70e8b4afebf88263462cf6f9d6da9bbad304c41245668a9b5ae2
+machine_hash: ee449481d439fce09addc7ce69aca0e9e821246d093d0e0bab89c614119bfafa
 product: open-webui
 product_name: Open WebUI
 record:
@@ -69,12 +69,12 @@ record:
   title: 6 Safety and Privacy changes in v0.9.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-08-pressing-ctrl-c-while-a-permission-prompt-is-pending-no-longer-causes-the-cli-to|Pressing
-  Ctrl+C while a permission prompt is pending no longer causes the CLI to hang]]'
 - '[[Changes/Replit/2026-05-08-workspace-security-center-2-0|Workspace Security Center
   2.0]]'
 - '[[Changes/Open WebUI/2026-05-09-3-safety-and-privacy-changes-in-v0-9-3|3 Safety
   and Privacy changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-09-core-rejected-invalid-permission-and-question-ids-in-the-http-api|Core
+  Rejected invalid permission and question IDs in the HTTP API]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-10-v0-9-5-github-320167431-c515d0a2|open-webui-2026-05-10-v0-9-5-github-320167431-c515d0a2]]'
 source_type: github_releases
 theme: safety-privacy
@@ -123,8 +123,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-3-safety-and-privacy-changes-in-v0-9-3|3 Safety and Privacy changes in v0.9.3]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed Skill(name ) permission rules]]
+- Earlier: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-rejected-invalid-permission-and-question-ids-in-the-http-api|Core Rejected invalid permission and question IDs in the HTTP API]]
+- Later: 2026-05-10 · OpenCode · [[Changes/OpenCode/2026-05-10-core-read-tool-permission-rules-now-match-worktree-relative-paths-so-read-allowl|Core Read tool permission rules now match worktree-relative paths, so read…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

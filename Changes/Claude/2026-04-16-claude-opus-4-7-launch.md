@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7dcc3e52076707fd8a0a78903263a76d2640bff03fa521a51976fc84885301a2
+machine_hash: f6f0d1d1b4199afe42b9f05206b05b07c02f9b45fab244090f6667dae56869b5
 product: claude
 product_name: Claude
 record:
@@ -52,10 +52,9 @@ record:
   title: Claude Opus 4.7 launch
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved
-  /model to warn before switching models mid-conversation, since the next…]]'
-- '[[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger
-  the model picker from anywhere to switch models without clearing your prompt first]]'
+- '[[Changes/Midjourney/2026-04-14-please-note|Please Note]]'
+- '[[Changes/Midjourney/2026-04-14-thanks-for-testing-our-v8-0-model-over-the-last-month-today-we-re-releasing-our|Thanks
+  for testing our V8.0 model over the last month!]]'
 - '[[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model
   Support changes in rust-v0.121.0]]'
 source_release: '[[Releases/Claude/claude-2026-04-16-2026-04-16-08a687e8|claude-2026-04-16-2026-04-16-08a687e8]]'

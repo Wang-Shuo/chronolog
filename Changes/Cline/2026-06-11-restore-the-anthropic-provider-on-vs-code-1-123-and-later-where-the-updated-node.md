@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5cc2e7c19367be9117c8beacf0592c7d58e4e2fb2a0ac5f1a0fbd73fac3988ae
+machine_hash: 6e5baba14e27f470ad093480c27a18d1485e2062b4e5e59ffad90522fea4177a
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
     Node 24…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-4-apps-and-integrations-changes-in-v1-0-61|4
-  Apps and Integrations changes in v1.0.61]]'
-- '[[Changes/Claude Code/2026-06-10-3-apps-and-integrations-changes-in-v2-1-172|3
-  Apps and Integrations changes in v2.1.172]]'
+- '[[Changes/OpenCode/2026-06-10-7-apps-and-integrations-changes-in-v1-17-0|7 Apps
+  and Integrations changes in v1.17.0]]'
+- '[[Changes/OpenCode/2026-06-10-2-apps-and-integrations-changes-in-v1-17-1|2 Apps
+  and Integrations changes in v1.17.1]]'
 - '[[Changes/Cline/2026-06-11-2-apps-and-integrations-changes-in-v3-89-2|2 Apps and
   Integrations changes in v3.89.2]]'
 source_release: '[[Releases/Cline/cline-2026-06-11-v3-89-1-github-337860725-e7ccb5b5|cline-2026-06-11-v3-89-1-github-337860725-e7ccb5b5]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-11 · Cline · [[Changes/Cline/2026-06-11-2-apps-and-integrations-changes-in-v3-89-2|2 Apps and Integrations changes in v3.89.2]]
-- Later: 2026-06-12 · Claude · [[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts in place]]
+- Later: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-2-apps-and-integrations-changes-in-hub-v2-1-4-quota-screen-redesign|2 Apps and Integrations changes in HUB v2.1.4 — Quota Screen Redesign…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

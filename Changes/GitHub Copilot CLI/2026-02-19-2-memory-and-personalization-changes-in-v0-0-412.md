@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb77a923af6316237da5ecb190f515c9a7e2ee403565c15ebcdca8754b9a3db7
+machine_hash: e934612709a4bb7a5b59276e5f90a41fb3b128380c4aa0fe5cf61047f2ca81e4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-2-memory-and-personalization-changes-in-v0-29-0|2 Memory and Personalization changes in v0.29.0]]
-- Later: 2026-02-20 · Replit · [[Changes/Replit/2026-02-20-background-memory-compression|Background memory compression]]
+- Later: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-core-make-read-tool-more-memory-efficient|Core Make read tool more memory efficient]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1fa79ab5e41141cb3863029508d6e0bb3e653fc8173271b84d49f9d1f697a536
+machine_hash: e98be83012602d6435f10f123a9466c9387de07448e11e3a2988ab4b6a020363
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     resume
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-09-get-a-warning-before-your-credits-run-out|Get a warning
-  before your credits run out]]'
 - '[[Changes/Lovable/2026-10-12-see-how-much-usage-your-free-allowances-cover|See
   how much usage your free allowances cover]]'
 - '[[Changes/Ollama/2026-10-12-ollama-launch-can-now-be-used-with-usage-credits-without-upgrading-to-a-paid-pla|ollama
   launch can now be used with usage credits without upgrading to a paid plan]]'
+- '[[Changes/OpenClaw/2026-10-12-2-pricing-model-changes-in-v2026-10-2|2 Pricing Model
+  changes in v2026.10.2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'
 source_type: github_releases
 theme: pricing-model
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-ollama-launch-can-now-be-used-with-usage-credits-without-upgrading-to-a-paid-pla|ollama launch can now be used with usage credits without upgrading to a paid plan]]
+- Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-2-pricing-model-changes-in-v2026-10-2|2 Pricing Model changes in v2026.10.2]]
 - Later: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-ask-lovable-what-drives-your-run-credit-usage|Ask Lovable what drives your run credit usage]]
 <!-- chronolog:end -->
 

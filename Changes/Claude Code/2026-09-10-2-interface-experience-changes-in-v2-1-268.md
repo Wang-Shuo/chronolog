@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a5fc0702106ccf65fb084a107bd22a061ec4b3d7a5c8753c8c3b097cfec599e
+machine_hash: 2677022257ffa7c54700741fe2c172897822bf011cabcf792bed0731be262f52
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Interface Experience changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved
-  the /diff panel]]'
 - '[[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4
   Interface Experience changes in rust-v0.154.0]]'
+- '[[Changes/Google Antigravity/2026-09-09-5-interface-experience-changes-in-hub-v2-13-0-introducing-new-documents|5
+  Interface Experience changes in HUB v2.13.0 — Introducing new Documents…]]'
 - '[[Changes/Lovable/2026-09-09-redesigned-chat-actions-menu-in-projects|Redesigned
   Chat actions menu in projects]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b622d17425d8d278a4b2696320b688ab74536362737997ab55e0bc14620609f8
+machine_hash: 103cfb5024583f8e3498ee70e383f8bb12447aa82cc6cf22ddcee9df7132f697
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.129.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins can now create a team marketplace without connecting a repository first]]
-- Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is now available in Microsoft Teams]]
+- Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-fixed-http-api-auth-responses-to-match-the-previous-wire-format-for-empty-a|Core Fixed HTTP API auth responses to match the previous wire format for empty…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4fdf54ba67f7400938ff21f77b726816ec87d1d6c83c98f92dfd8358d7ea589a
+machine_hash: 1638b3abb6fbf60b5e691351be4d2d7d78d99c52cf4ca5e37b4101697312a799
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,10 +50,10 @@ record:
   title: 2 Collaboration changes in v0.12.3
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|\U0001F4BE
-  Save hidden on others' messages. In a chat shared with Allow replies, editing…]]"
 - '[[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration
   changes in rust-v0.163.0]]'
+- '[[Changes/OpenCode/2026-10-15-session-sharing-has-been-discontinued|Session sharing
+  has been discontinued]]'
 - '[[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT
   Slides lets you create presentations and keep working on them with your team…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'

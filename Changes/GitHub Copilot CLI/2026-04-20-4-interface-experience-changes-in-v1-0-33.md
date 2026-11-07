@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6cf82a388c48e28c4de621e260d3dbcf4edf040429faada6267279cc81aeb931
+machine_hash: 5c1598a07b45ae6443c30709050f38773cfe221c253361631ad020b08404fc04
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Interface Experience changes in v1.0.33
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-17-2-interface-experience-changes-in-v1-0-32|2
-  Interface Experience changes in v1.0.32]]'
+- '[[Changes/OpenCode/2026-04-19-terminal-show-the-session-id-in-the-sidebar-on-non-production-channels|Terminal
+  Show the session ID in the sidebar on non-production channels]]'
 - '[[Changes/Claude Code/2026-04-20-3-interface-experience-changes-in-v2-1-116|3 Interface
   Experience changes in v2.1.116]]'
 - '[[Changes/Codex CLI/2026-04-20-2-interface-experience-changes-in-rust-v0-122-0|2

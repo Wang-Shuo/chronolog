@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 637a09a165a4b57243cdbc6758c1a8f2e419fe836086ef842dc72ae0db2599ff
+machine_hash: fbe84337c01c1e5b5c82102843070ebd29c7df7f60aa7be5e16467454ca74639
 product: lovable
 product_name: Lovable
 record:
@@ -52,9 +52,10 @@ record:
   title: Workspace admins and owners can transfer projects again
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-06-29-scim-sync-can-t-demote-an-admin-a-scim-provisioning-sync-that-marks-a-user-inact|\U0001F6DF
-  SCIM sync can't demote an admin. A SCIM provisioning sync that marks a user…]]"
-- '[[Changes/Lovable/2026-06-30-project-monitoring-beta|Project monitoring (Beta)]]'
+- '[[Changes/OpenClaw/2026-06-30-qqbot-group-admins-can-choose-how-broadly-slash-commands-are-available-and-priva|QQBot
+  group admins can choose how broadly slash commands are available…]]'
+- '[[Changes/OpenCode/2026-06-30-desktop-add-workspace-controls-when-starting-a-new-session|Desktop
+  Add workspace controls when starting a new session]]'
 - '[[Changes/Lovable/2026-07-01-restrict-who-can-download-project-code|Restrict who
   can download project code]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-03-2026-07-03-1318c060|lovable-2026-07-03-2026-07-03-1318c060]]'

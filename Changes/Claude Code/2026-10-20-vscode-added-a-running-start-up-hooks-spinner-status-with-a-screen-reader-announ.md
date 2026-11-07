@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf8fb436cb921b670b6852f32dd355fec494153c653c3280df61d8bd9b06e47b
+machine_hash: 4bace9175fe3b695470e4529aa0958e9c2d310d39454900a99a8a0db828c7724
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     reader…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-changed-screen-reader-mode-to-write-new-or-changed-lines-without-first-pausing-w|Changed
-  screen reader mode to write new or changed lines without first pausing…]]'
 - '[[Changes/Claude Code/2026-10-02-2-accessibility-and-localization-changes-in-v2-1-288|2
   Accessibility and Localization changes in v2.1.288]]'
 - '[[Changes/Claude Code/2026-10-05-vscode-added-a-screen-reader-announcement-message-queued-when-you-send-a-message|VSCode
   Added a screen reader announcement, "Message queued.", when you send…]]'
+- '[[Changes/OpenClaw/2026-10-10-2-accessibility-and-localization-changes-in-v2026-10-1|2
+  Accessibility and Localization changes in v2026.10.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-20-v2-1-305-github-418781864-90995baa|claude-code-2026-10-20-v2-1-305-github-418781864-90995baa]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-vscode-added-a-screen-reader-announcement-message-queued-when-you-send-a-message|VSCode Added a screen reader announcement, "Message queued.", when you send…]]
+- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-2-accessibility-and-localization-changes-in-v2026-10-1|2 Accessibility and Localization changes in v2026.10.1]]
 - Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-changed-the-axscreenreader-setting-and-claude-ax-screen-reader-in-a-settings-env|Changed the axScreenReader setting and CLAUDE_AX_SCREEN_READER in a settings…]]
 <!-- chronolog:end -->
 

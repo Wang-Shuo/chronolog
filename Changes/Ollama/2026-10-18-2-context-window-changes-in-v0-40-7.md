@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 03094cdccc3de240825503ebb0927e21347432a09f164178d1bc962f38d8c1d2
+machine_hash: 735494f0d14d8f30e4579c271485951ba9d4a3dc3962c83687f9ea334d8e6336
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Context Window changes in v0.40.7
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context
-  Window changes in v2.1.302]]'
 - '[[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto
   Compact and its strategy setting sit together again in Feature settings]]'
 - '[[Changes/Open WebUI/2026-10-16-2-context-window-changes-in-v0-12-3|2 Context Window
   changes in v0.12.3]]'
+- '[[Changes/OpenClaw/2026-10-16-manual-compaction-compact-gives-an-active-answer-up-to-60-seconds-to-finish-if-i|Manual
+  compaction. /compact gives an active answer up to 60 seconds to finish]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-18-v0-40-7-github-416126438-e146c3e4|ollama-2026-10-18-v0-40-7-github-416126438-e146c3e4]]'
 source_type: github_releases
 theme: context-window
@@ -82,7 +82,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.40.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-context-window-changes-in-v0-12-3|2 Context Window changes in v0.12.3]]
+- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-manual-compaction-compact-gives-an-active-answer-up-to-60-seconds-to-finish-if-i|Manual compaction. /compact gives an active answer up to 60 seconds to finish]]
 - Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context Window changes in v2.1.304]]
 <!-- chronolog:end -->
 

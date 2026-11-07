@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8c1983d596cc6c0defcc75e3f6617343770249ea59814e4d393a8803a12e0e8e
+machine_hash: 896c7c544409c5d66f8ac4553ab065425a9118aa45991e3585ca2edf71ac9bab
 product: lovable
 product_name: Lovable
 record:
@@ -46,12 +46,12 @@ record:
   title: Flexible plan management**
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT
-  launches ChatGPT Go, a new low-cost subscription plan]]'
 - '[[Changes/Gemini CLI/2025-08-18-update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https|Update
   quota-and-pricing.md to clarify billing]]'
 - '[[Changes/Replit/2025-08-29-organization-subscription-cancellation|Organization
   subscription cancellation]]'
+- '[[Changes/Suno/2025-08-29-help-shape-suno-s-future-by-using-listen-rank-a-new-feature-to-rate-clips-by-oth|Listen
+  and Rank, Earn Free Credits!]]'
 source_release: '[[Releases/Lovable/lovable-2025-09-01-2025-09-01-b1665f28|lovable-2025-09-01-2025-09-01-b1665f28]]'
 source_type: lovable_changelog
 theme: pricing-model
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-08-29 · Replit · [[Changes/Replit/2025-08-29-organization-subscription-cancellation|Organization subscription cancellation]]
+- Earlier: 2025-08-29 · Suno · [[Changes/Suno/2025-08-29-help-shape-suno-s-future-by-using-listen-rank-a-new-feature-to-rate-clips-by-oth|Listen and Rank, Earn Free Credits!]]
 - Later: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia]]
 <!-- chronolog:end -->
 

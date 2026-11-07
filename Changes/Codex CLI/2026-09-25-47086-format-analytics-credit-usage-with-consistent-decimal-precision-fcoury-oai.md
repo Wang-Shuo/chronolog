@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: c0ad25435579a009771341d8165a5495cadf0564cfb62bc01c09ca5024649af6
+machine_hash: 6c84b71c61fd81194bc2d9928bdad1e9c1e79547d11e0689ee1b3cf6fddbbbc8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: '#47086 Format analytics credit usage with consistent decimal precision @fcoury-oai'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-image-and-video-generation-now-appear-in-usage-details|Image
-  and video generation now appear in Usage details]]'
-- '[[Changes/Lovable/2026-09-23-see-the-estimated-monthly-cloud-cost-of-each-database-size|See
-  the estimated monthly Cloud cost of each database size]]'
+- '[[Changes/OpenClaw/2026-09-23-8-pricing-model-changes-in-v2026-9-6|8 Pricing Model
+  changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated
   the claude-api skill]]'
+- '[[Changes/Midjourney/2026-09-24-polish-bugs|POLISH & BUGS]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3|codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3]]'
 source_type: github_releases
 theme: pricing-model
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated the claude-api skill]]
+- Earlier: 2026-09-24 · Midjourney · [[Changes/Midjourney/2026-09-24-polish-bugs|POLISH & BUGS]]
 - Later: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-feat-scope-openai-subscription-caches-by-backend-by-uczltw6-in-https-github-com|feat: scope OpenAI subscription caches by backend]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d48e12fd2ca343c14e3468424f8409129f90f8c082aa4613137f17d0f8cb4146
+machine_hash: 2327cb52a00e08173b4707582692daf6c1553e09382e6fcee6c4a5d6bc258822
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Gemini 3.6 Flash for your app's AI features
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve
-  pasted prompt content when changing models through Ctrl+X /model]]'
+- '[[Changes/OpenCode/2026-07-20-3-model-support-changes-in-v1-18-4|3 Model Support
+  changes in v1.18.4]]'
 - '[[Changes/Codex CLI/2026-07-21-22-model-support-changes-in-rust-v0-145-0|22 Model
   Support changes in rust-v0.145.0]]'
 - '[[Changes/Gemini/2026-07-21-3-6-flash-an-upgraded-model-for-your-daily-life|3.6

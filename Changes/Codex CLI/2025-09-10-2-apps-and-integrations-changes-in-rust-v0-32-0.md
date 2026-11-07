@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c1802254e5d3f09c726cc34a18b34e041be870059b0bdfc68cf8fc9ee1daaa5
+machine_hash: e1cef2e71cb6777754ab2e3c0472a07e846e59b906e5a571a3fae8d5d45e7b79
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,7 +42,8 @@ record:
   title: 2 Apps and Integrations changes in rust-v0.32.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-08-sdk-releases|SDK Releases]]'
+- '[[Changes/Granola/2025-09-08-with-new-people-and-companies-views-plus-attio-and-zapier-integrations|Three
+  new features to help you build better customer relationships]]'
 - '[[Changes/Gemini CLI/2025-09-09-5-apps-and-integrations-changes-in-v0-4-0|5 Apps
   and Integrations changes in v0.4.0]]'
 - '[[Changes/Open WebUI/2025-09-09-a-provider-toggle-in-connection-settings-now-allows-users-to-manually-specify-az|☁️

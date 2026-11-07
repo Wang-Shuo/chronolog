@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b84c691b2d8aa86eb5304c2d6c7ad27dfa68f4937c9d9d36dcd2a2993b274bf5
+machine_hash: 5e475dd1997645a4f54504d4ba4a392e17920122ff1edac64b685ebfcdfc853c
 product: lovable
 product_name: Lovable
 record:
@@ -49,8 +49,8 @@ record:
   title: Connect your app to Apollo.io
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-2-apps-and-integrations-changes-in-v2-1-211|2
-  Apps and Integrations changes in v2.1.211]]'
+- '[[Changes/Suno/2026-07-15-tap-the-icon-and-find-suno-in-your-imessage-app-extensions|Tap
+  the + icon and find Suno in your iMessage app extensions]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16
   Apps and Integrations changes in v1.0.71]]'
 - '[[Changes/Lovable/2026-07-16-reuse-your-workspace-identity-in-the-apps-you-build|Reuse

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 51026743c9fbcb7f91ce7d5b4326decf9a53f9b534f30a9cd5b23217cd4ef89e
+machine_hash: 6ecb2db1c6c415703d288f33774f4b4c3ab40eeb1fbcac687b50c7a30998cfe6
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-09-08 · Codex CLI · [[Changes/Codex CLI/2025-09-08-4-apps-and-integrations-changes-in-rust-v0-31-0|4 Apps and Integrations changes in rust-v0.31.0]]
-- Later: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-5-apps-and-integrations-changes-in-v0-4-0|5 Apps and Integrations changes in v0.4.0]]
+- Later: 2025-09-08 · Granola · [[Changes/Granola/2025-09-08-with-new-people-and-companies-views-plus-attio-and-zapier-integrations|Three new features to help you build better customer relationships]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

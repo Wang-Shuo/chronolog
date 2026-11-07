@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 140edce442bd752ad8a6e5cd98add2c45fc16c9e7b728fe2df832caa675b7bb3
+machine_hash: 30d07b412f2c150bce10ab0deb6ce494a67901fe961602408fbf773c3b8a9dc2
 product: lovable
 product_name: Lovable
 record:
@@ -60,9 +60,9 @@ record:
   title: Filter audit logs by client
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-21-developers-can-now-easily-configure-claude-desktop-to-seamlessly-work-with-ollam|Developers
-  can now easily configure Claude Desktop to seamlessly work with Ollama…]]'
 - '[[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]'
+- '[[Changes/OpenCode/2026-08-24-desktop-keep-model-provider-headers-visible-while-scrolling-the-model-picker|Desktop
+  Keep model provider headers visible while scrolling the model picker]]'
 - '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:
   Fixed headless sessions not cleaning up stale entries…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-25-2026-08-25-2f630735|lovable-2026-08-25-2026-08-25-2f630735]]'

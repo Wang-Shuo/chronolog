@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 437abb0a18b16a70b00b23e25451b07fbba53815e8c275eab4f42c69a9bad5ef
+machine_hash: 0c87ae3b9e6e7a5222529df8dbc6d7481de3c570cf200ffc5e698876b08c8c77
 product: open-webui
 product_name: Open WebUI
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-04-08 · Cline · [[Changes/Cline/2025-04-08-use-your-local-chrome-browser-for-session-based-browsing-enabling-debugging-and|Use your local Chrome browser for session-based browsing, enabling debugging…]]
-- Later: 2025-05-05 · Open WebUI · [[Changes/Open WebUI/2025-05-05-optimized-faster-web-search-multi-threaded-queries-enjoy-dramatically-faster-web|🚀 Optimized Faster Web Search & Multi-Threaded Queries]]
+- Later: 2025-04-16 · Gamma · [[Changes/Gamma/2025-04-16-layout-suggestions-powered-by-ai|Layout Suggestions (Powered by AI)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

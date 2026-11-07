@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dcd075fc0f2359133d0d40c26938c0f67997a2f1510898efdf1873a0842b75fb
+machine_hash: 17563fc9122f3d18eb970f744604dae81198ac85cf309d414be30a7c773d7ec5
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,10 +52,10 @@ record:
   title: Added Shift+Tab keyboard shortcut in plan mode to quickly select…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health
-  appears as a new space in the ChatGPT sidebar]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-08-loading-remote-sessions-using-graphql-id-or-session-picker|Loading
   remote sessions using GraphQL ID or session picker]]'
+- '[[Changes/OpenCode/2026-01-08-2-interface-experience-changes-in-v1-1-7|2 Interface
+  Experience changes in v1.1.7]]'
 - '[[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface
   Experience changes in v2.1.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'

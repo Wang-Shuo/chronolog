@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f1549d1797b1d47a94e85a2644a28213633c05d543051df28942d1e7a8ba9bbc
+machine_hash: a4150957bdb28602ee23a1b59c7559621c5dbd56be9f1894fd739e935b664068
 product: v0
 product_name: v0
 record:
@@ -63,8 +63,8 @@ record:
     routed…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
-  changes in v2.1.251]]'
+- '[[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core
+  Bedrock reasoning responses no longer get cached into unreplayable empty messages]]'
 - '[[Changes/Replit/2026-08-28-intelligent-model-routing|Intelligent model routing]]'
 - '[[Changes/Replit/2026-08-28-intelligent-model-routing-for-enterprise|Intelligent
   model routing for Enterprise]]'

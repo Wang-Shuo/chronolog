@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a5f4b7ca961fc280477c2fdde09d259d00d52dbb090958c40698bb0fc8d662d1
+machine_hash: 2989d889774950202a5cd80e43f54754f962dcf85d0b5cbf21011a789a176552
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: Vision and prompt caching fixes
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-22-2-multimodal-input-changes-in-0-6-4|2 Multimodal Input
-  changes in 0.6.4]]'
-- "[[Changes/Open WebUI/2024-05-02-youtube-rag-pipeline-introduces-dedicated-rag-pipeline-for-youtube-videos-enabli|\U0001F4F9
-  Youtube RAG Pipeline]]"
+- '[[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3
+  Alpha Text to Video]]'
 - '[[Changes/Dify/2024-09-20-feat-add-hunyuan-vision-by-muzea-in-https-github-com-langgenius-dify-pull-8529|feat:
   add hunyuan-vision]]'
+- '[[Changes/Runway/2024-09-26-iterate-faster-than-ever-before-with-video-to-video-in-gen-3-alpha-turbo|Video
+  to Video in Gen-3 Alpha Turbo]]'
 source_release: '[[Releases/OpenHands/openhands-2024-09-30-0-9-7-github-177640625-2411194e|openhands-2024-09-30-0-9-7-github-177640625-2411194e]]'
 source_type: github_releases
 theme: multimodal
@@ -75,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-09-20 · Dify · [[Changes/Dify/2024-09-20-feat-add-hunyuan-vision-by-muzea-in-https-github-com-langgenius-dify-pull-8529|feat: add hunyuan-vision]]
-- Later: 2024-10-21 · Dify · [[Changes/Dify/2024-10-21-if-you-have-a-basic-chatbot-or-text-generator-app-with-the-vision-feature-enable| If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…]]
+- Earlier: 2024-09-26 · Runway · [[Changes/Runway/2024-09-26-iterate-faster-than-ever-before-with-video-to-video-in-gen-3-alpha-turbo|Video to Video in Gen-3 Alpha Turbo]]
+- Later: 2024-10-10 · Suno · [[Changes/Suno/2024-10-10-tips-for-effective-use|Tips for Effective Use]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

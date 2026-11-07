@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b582de6a0a56fcc1ed5206773e73e7acb8e9200dda363621786335a8d418dec5
+machine_hash: ee19fa876f4fa653f1efd476f9e08466d9b15c4ed62326db7d3419eb4df13cd8
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 2 Interface Experience changes in v2.1.248
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed
-  the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]'
 - '[[Changes/Codex CLI/2026-08-26-6-interface-experience-changes-in-rust-v0-150-0|6
   Interface Experience changes in rust-v0.150.0]]'
+- '[[Changes/Google Antigravity/2026-08-26-2-interface-experience-changes-in-hub-v2-11-0-generative-ui-and-ui|2
+  Interface Experience changes in HUB v2.11.0 — Generative UI and UI…]]'
 - '[[Changes/Lovable/2026-08-26-resources-removed-from-the-dashboard-sidebar|Resources
   removed from the dashboard sidebar]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'

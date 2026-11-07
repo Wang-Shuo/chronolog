@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0bc8b7ecac1aac8a526e95cbc72d4c387d4bd4765579e0921cc58f2680e0d8e0
+machine_hash: 3d8775a260c18ef798528686d460e8035396e3a7c986922c9fe37bdf88b92bce
 product: ollama
 product_name: Ollama
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-10-apps-and-integrations-changes-in-v1-0-60|10 Apps and Integrations changes in v1.0.60]]
-- Later: 2026-06-05 · Replit · [[Changes/Replit/2026-06-05-build-data-apps-on-microsoft-fabric|Build data apps on Microsoft Fabric]]
+- Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-2-apps-and-integrations-changes-in-v1-16-0|2 Apps and Integrations changes in v1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

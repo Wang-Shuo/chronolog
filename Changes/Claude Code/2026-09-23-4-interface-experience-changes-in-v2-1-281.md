@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 123871fe01fee6328b68397263025dd8d01bb6feb0b4feff2504f877ba0a46a1
+machine_hash: fd46f854b507c5af12f3a73d7fef3451ba3177df4d0bee0bd34c9fbcdb275b15
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: 4 Interface Experience changes in v2.1.281
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-13-interface-experience-changes-in-v0-11-4|13 Interface
-  Experience changes in v0.11.4]]'
-- '[[Changes/Claude Code/2026-09-22-5-interface-experience-changes-in-v2-1-280|5 Interface
-  Experience changes in v2.1.280]]'
 - '[[Changes/Codex CLI/2026-09-22-32-interface-experience-changes-in-rust-v0-156-0|32
   Interface Experience changes in rust-v0.156.0]]'
+- '[[Changes/Google Antigravity/2026-09-22-2-interface-experience-changes-in-hub-v2-16-0-windows-subsystem|2
+  Interface Experience changes in HUB v2.16.0 — Windows Subsystem…]]'
+- '[[Changes/Google Antigravity/2026-09-22-4-interface-experience-changes-in-hub-v2-17-0-plan-before-you-build|4
+  Interface Experience changes in HUB v2.17.0 — Plan before you build]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
 theme: interface-experience
@@ -103,7 +103,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-32-interface-experience-changes-in-rust-v0-156-0|32 Interface Experience changes in rust-v0.156.0]]
+- Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-4-interface-experience-changes-in-hub-v2-17-0-plan-before-you-build|4 Interface Experience changes in HUB v2.17.0 — Plan before you build]]
 - Later: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-one-project-menu-on-your-phone|One project menu on your phone]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: db4ba47a54f2c4472d4ce9a8ec39bfbe6986e82999a005e19d4b3005f3b91954
+machine_hash: 48e177586d82568e71f4b0fb95624afa1ec644d4bc719240c14a1237c0b46e27
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-slash-commands-unavailable-for-the-current-auth-setup-voice-mobile-chrome-upgrad|Slash commands unavailable for the current auth setup…]]
-- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16114-remove-tui-voice-transcription-feature-etraut-openai|♯16114 Remove TUI voice transcription feature @etraut-openai]]
+- Later: 2026-03-26 · Suno · [[Changes/Suno/2026-03-26-voices-record-or-upload-your-own-audio-and-suno-will-let-you-sing-on-your-creati|Voices Record or upload your own audio and Suno will let you sing on your creations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

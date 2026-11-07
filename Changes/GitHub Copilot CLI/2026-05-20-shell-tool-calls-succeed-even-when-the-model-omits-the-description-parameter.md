@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c41a19f78d1d67b350857f5c9f440ac51a444a04dc03113a9c4af8278d8843e9
+machine_hash: 28ceb4fd77f60dc1fbce256730c85ae32941692662f742e21f44697b42f85f62
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-23069-multiagent-trim-model-visible-description-cap-to-5-models-sayan-oai|♯23069 multiagent: trim model-visible description, cap to 5 models @sayan-oai]]
-- Later: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-18868-add-mitm-hook-config-model-evawong-oai|♯18868 Add MITM hook config model @evawong-oai]]
+- Later: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-2-model-support-changes-in-v1-15-6|2 Model Support changes in v1.15.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dbfe769209ae318897cd2516ff473927c8458d4bd09cbf3f48ab6adab9eb8606
+machine_hash: 5b485c8bc47c4f7715d43c8893a9c059110ac4f808e7f3d1268affd0125a887f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,8 +52,8 @@ record:
   title: Added `/apps` to browse connectors in TUI and `$` insertion for app prompts
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-30-3-apps-and-integrations-changes-in-v0-0-400|3
-  Apps and Integrations changes in v0.0.400]]'
+- '[[Changes/OpenCode/2026-01-30-2-apps-and-integrations-changes-in-v1-1-47-2|2 Apps
+  and Integrations changes in v1.1.47 + 2]]'
 - '[[Changes/Codex CLI/2026-01-31-smart-approvals-are-now-enabled-by-default-with-explicit-approval-prompts-for-mc|Smart
   approvals are now enabled by default, with explicit approval prompts for MCP…]]'
 - '[[Changes/Codex CLI/2026-01-31-14-apps-and-integrations-changes-in-rust-v0-93-0|14
@@ -100,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-3-apps-and-integrations-changes-in-v0-0-400|3 Apps and Integrations changes in v0.0.400]]
-- Later: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-sdk-releases|SDK Releases]]
+- Earlier: 2026-01-30 · OpenCode · [[Changes/OpenCode/2026-01-30-2-apps-and-integrations-changes-in-v1-1-47-2|2 Apps and Integrations changes in v1.1.47 + 2]]
+- Later: 2026-01-31 · OpenCode · [[Changes/OpenCode/2026-01-31-core-bump-ai-sdk-packages|Core Bump AI SDK packages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

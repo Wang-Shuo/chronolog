@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b96547c015772bdf8ca494a9debc580d523a0bd4001f5fa6ea1cfa6811d83463
+machine_hash: 45c41e816ab95e012faa77e018b4adad54931bf9e89f655c2719e1e0ef352a9a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,7 +43,8 @@ record:
   title: Dictation Updates
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-05-voices|Voices]]'
+- '[[Changes/OpenCode/2026-01-07-desktop-add-audio-input-and-camera-permissions-to-entitlements|Desktop
+  Add audio input and camera permissions to entitlements]]'
 - '[[Changes/Open WebUI/2026-01-09-3-voice-and-audio-changes-in-v0-7-0|3 Voice and
   Audio changes in v0.7.0]]'
 - "[[Changes/Open WebUI/2026-01-10-users-can-now-use-local-whisper-for-speech-to-text-when-stt-engine-is-left-empty|\U0001F399️

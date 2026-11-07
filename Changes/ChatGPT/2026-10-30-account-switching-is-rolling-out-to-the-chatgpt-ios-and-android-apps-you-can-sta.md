@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae0a1b0408fbf044e71dc6e61ee8fdc791ca2b1ce43801b8699a5e88806cc53e
+machine_hash: 69dbcb4418be0406fd5c2c31d1efccefc9060fe154ea21e91c951b2fd9c36454
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,8 @@ record:
   title: Account switching on iOS and Android
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-5-memory-and-personalization-changes-in-rust-v0-165-0|5
-  Memory and Personalization changes in rust-v0.165.0]]'
+- '[[Changes/OpenCode/2026-10-27-8-memory-and-personalization-changes-in-v2-2-0|8
+  Memory and Personalization changes in v2.2.0]]'
 - '[[Changes/Codex CLI/2026-10-29-2-memory-and-personalization-changes-in-rust-v0-166-0|2
   Memory and Personalization changes in rust-v0.166.0]]'
 - '[[Changes/Open WebUI/2026-10-29-2-memory-and-personalization-changes-in-v0-12-5|2

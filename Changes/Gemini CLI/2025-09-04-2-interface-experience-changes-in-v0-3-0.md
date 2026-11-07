@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 094b2a93c3ab242598ee337f7ef72242a3da499a6442791d57e9b821802efc44
+machine_hash: 0eb7a508a38162f51b74d7f15a360a955a9c06a149169e9a1b125da1e31fe384
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-major-readme-docs-refactor-and-navigation-2724|Major README/docs refactor and navigation (♯2724)]]
-- Later: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-3135-tui-add-session-resume-picker-resume-and-quick-resume-continue|♯3135 TUI: Add session resume picker (--resume) and quick resume (--continue)]]
+- Later: 2025-09-04 · Midjourney · [[Changes/Midjourney/2025-09-04-you-can-hover-over-styles-and-press-try-style-to-render-whatever-is-in-your-prom|You can hover over styles and press 'Try Style…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 479f93c4144190abd1edc300c1eb3129670ae1e908bfd8d9a6aef830057dbdc7
+machine_hash: b36224be289240589723797d60678621eb91841329eae8d549f4d43952984e98
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Safety and Privacy changes in v0.3.6
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-04-2-safety-and-privacy-changes-in-0-6-1|2 Safety and
-  Privacy changes in 0.6.1]]'
 - "[[Changes/Open WebUI/2024-06-12-mixed-content-with-https-issue-resolved-a-problem-where-mixed-content-http-and-h|\U0001F512
   Mixed Content with HTTPS Issue]]"
 - '[[Changes/Dify/2024-06-14-2-safety-and-privacy-changes-in-0-6-11|2 Safety and Privacy
   changes in 0.6.11]]'
+- '[[Changes/Runway/2024-06-14-creating-a-custom-voice-will-now-require-explicit-user-consent|Voice
+  Verification]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-27-v0-3-6-github-162865914-133d7851|open-webui-2024-06-27-v0-3-6-github-162865914-133d7851]]'
 source_type: github_releases
 theme: safety-privacy
@@ -90,7 +90,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-2-safety-and-privacy-changes-in-0-6-11|2 Safety and Privacy changes in 0.6.11]]
+- Earlier: 2024-06-14 · Runway · [[Changes/Runway/2024-06-14-creating-a-custom-voice-will-now-require-explicit-user-consent|Voice Verification]]
 - Later: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-feat-permission-and-security-fixes-by-chazzhou-in-https-github-com-langgenius-di|feat: permission and security fixes]]
 <!-- chronolog:end -->
 

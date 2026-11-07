@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c2a2a6b529366437c74622e88aa61a08a1227918518165645b4616df2c45413
+machine_hash: d738eb1908de51b25d5ea905bd88f765a287e0d094ff85893575f1718bc2ca40
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Search and Browsing changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-57542-add-model-gated-literature-search-to-standalone-web-search-rhan-oai|♯57542
-  Add model-gated literature search to standalone web search @rhan-oai]]'
 - '[[Changes/Ollama/2026-11-03-cloud-web-search-responses-on-api-chat-are-now-decoded-correctly-including-compr|Cloud
   web search responses on /api/chat are now decoded correctly, including…]]'
 - '[[Changes/Open WebUI/2026-11-03-2-search-and-browsing-changes-in-v0-13-0|2 Search
   and Browsing changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-web-search-now-honors-more-of-your-chosen-provider-settings-result-counts-and-ti|Web
+  search now honors more of your chosen provider settings, result counts…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: search-browsing
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-2-search-and-browsing-changes-in-v0-13-0|2 Search and Browsing changes in v0.13.0]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-web-search-now-honors-more-of-your-chosen-provider-settings-result-counts-and-ti|Web search now honors more of your chosen provider settings, result counts…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

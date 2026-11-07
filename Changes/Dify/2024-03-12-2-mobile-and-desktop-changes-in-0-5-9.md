@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db411097081c4c06a8c29a71b9f9f90e38d446cffe52e49e2288c10d08578141
+machine_hash: 67378e37cd7361dcf7a615eaef07afade6deaf74624ba309e8b7a545dff074dd
 product: dify
 product_name: Dify
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.9
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-03-10 · Ollama · [[Changes/Ollama/2024-03-10-2-mobile-and-desktop-changes-in-v0-1-29|2 Mobile and Desktop changes in v0.1.29]]
-- Later: 2024-03-26 · Ollama · [[Changes/Ollama/2024-03-26-pasting-multi-line-strings-will-now-work-on-windows|Pasting multi-line strings will now work on Windows]]
+- Later: 2024-03-21 · Midjourney · [[Changes/Midjourney/2024-03-21-ranking-goes-fastest-if-you-use-the-1-2-hotkeys-on-pc-or-use-it-on-mobile|Ranking goes fastest if you use the 1/2 hotkeys on PC or use it on mobile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

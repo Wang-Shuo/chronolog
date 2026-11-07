@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2271792735d49ba00c06297d8036d6a2e135363144958cf4119d426ff7a9196f
+machine_hash: 23486906fbd0c79c8980a6661d0638c88a05764ae03629b9a0c561fdad4b0d82
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,12 +60,12 @@ record:
   title: 7 Safety and Privacy changes in v2.1.98
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-07-vscode-added-a-warning-banner-when-settings-json-files-fail-to-parse-so-users-kn|VSCode
-  Added a warning banner when settings.json files fail to parse, so users…]]'
 - '[[Changes/Claude Code/2026-04-08-3-safety-and-privacy-changes-in-v2-1-97|3 Safety
   and Privacy changes in v2.1.97]]'
 - '[[Changes/Gemini CLI/2026-04-08-16-safety-and-privacy-changes-in-v0-37-0|16 Safety
   and Privacy changes in v0.37.0]]'
+- '[[Changes/OpenCode/2026-04-08-terminal-added-opencode-run-dangerously-skip-permissions-to-auto-approve-non-den|Terminal
+  Added opencode run --dangerously-skip-permissions to auto-approve…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: safety-privacy
@@ -115,7 +115,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.98
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-16-safety-and-privacy-changes-in-v0-37-0|16 Safety and Privacy changes in v0.37.0]]
+- Earlier: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-terminal-added-opencode-run-dangerously-skip-permissions-to-auto-approve-non-den|Terminal Added opencode run --dangerously-skip-permissions to auto-approve…]]
 - Later: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-permission-checks-and-other-hooks-now-work-correctly-when-using-anthropic-models|Permission checks and other hooks now work correctly when using Anthropic models…]]
 <!-- chronolog:end -->
 

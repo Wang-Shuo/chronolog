@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 309ee39911d8f346768e597383b1bed98d42a7961a449eb54b18463e945cc777
+machine_hash: 0735ce0f222baa4b033c8bab3d08da10d0a3c76b4db14774c1676585ee6e217b
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     CLI subcommands
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-12-2-account-and-access-changes-in-v3-58-0|2 Account and
-  Access changes in v3.58.0]]'
 - '[[Changes/Codex CLI/2026-02-12-11521-test-app-server-stabilize-app-list-thread-feature-flag-test-by-using-file|♯11521
   test(app-server): stabilize app/list thread feature-flag test by using…]]'
 - '[[Changes/Open WebUI/2026-02-12-6-account-and-access-changes-in-v0-8-0|6 Account
   and Access changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-12-desktop-normalize-oauth-error-messages|Desktop Normalize
+  OAuth error messages]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'
 source_type: github_releases
 theme: account-access
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-6-account-and-access-changes-in-v0-8-0|6 Account and Access changes in v0.8.0]]
+- Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-desktop-normalize-oauth-error-messages|Desktop Normalize OAuth error messages]]
 - Later: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-oauth-session-error-handling-corrupted-oauth-sessions-are-now-gracefully-handled|🔐 OAuth session error handling. Corrupted OAuth sessions are now gracefully…]]
 <!-- chronolog:end -->
 

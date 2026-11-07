@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8db2e57237fbbc06d3e1758d0b34e9438a4d2915ec3938254463c2510d6d72ac
+machine_hash: cfc909b603d77968907e3c0fd321c9d195aecd805b8df4f48c1f55c377fb9554
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,9 @@ record:
   title: Open projects in background tabs on desktop
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-17-devin-desktop|Devin Desktop]]'
 - '[[Changes/ElevenLabs/2026-07-20-android-sdk|Android SDK]]'
+- '[[Changes/OpenCode/2026-07-20-7-mobile-and-desktop-changes-in-v1-18-4|7 Mobile
+  and Desktop changes in v1.18.4]]'
 - '[[Changes/Codex CLI/2026-07-21-3-mobile-and-desktop-changes-in-rust-v0-145-0|3
   Mobile and Desktop changes in rust-v0.145.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-24-2026-07-24-b0f18b89|lovable-2026-07-24-2026-07-24-b0f18b89]]'
@@ -84,7 +85,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-mobile-and-desktop-changes-in-rust-v0-145-0|3 Mobile and Desktop changes in rust-v0.145.0]]
-- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-2-mobile-and-desktop-changes-in-v0-11-0|2 Mobile and Desktop changes in v0.11.0]]
+- Later: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-15-mobile-and-desktop-changes-in-v1-18-5|15 Mobile and Desktop changes in v1.18.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

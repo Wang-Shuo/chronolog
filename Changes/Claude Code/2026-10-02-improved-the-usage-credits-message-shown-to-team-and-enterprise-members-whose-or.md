@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: ec2ddf5ad55c9b00746967c5e22f31c75fc19c198dba689f58acca4ea2cabfc8
+machine_hash: 49242c95b5aa75784bb99e6b00ecbd7aed51c1a0fe6f1726b16a1404048588b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,10 @@ record:
     whose…
   type: change
 related_changes:
-- '[[Changes/v0/2026-09-29-chatgpt-plus-and-pro-subscribers-can-now-use-their-chatgpt-subscription-to-build|ChatGPT
-  Plus and Pro subscribers can now use their ChatGPT subscription to build in v0]]'
 - '[[Changes/v0/2026-09-29-what-happens-if-i-reach-my-chatgpt-usage-limit|What happens
   if I reach my ChatGPT usage limit?]]'
+- '[[Changes/OpenClaw/2026-09-30-3-pricing-model-changes-in-v2026-9-7|3 Pricing Model
+  changes in v2026.9.7]]'
 - '[[Changes/Codex CLI/2026-10-01-49079-update-and-centralize-tui-subscription-labels-etraut-openai|♯49079
   Update and centralize TUI subscription labels @etraut-openai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49079-update-and-centralize-tui-subscription-labels-etraut-openai|♯49079 Update and centralize TUI subscription labels @etraut-openai]]
-- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan usage reflects the current billing period after quota resets]]
+- Later: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-9-pricing-model-changes-in-v2026-9-8|9 Pricing Model changes in v2026.9.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

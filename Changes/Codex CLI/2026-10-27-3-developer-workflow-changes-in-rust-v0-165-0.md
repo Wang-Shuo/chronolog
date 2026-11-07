@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41c3621a69df06746c1c0b5920f0991c9b3bf9601ff54d30846ce672202d90ee
+machine_hash: 07cd4943e38bc2e70eb0d4bacece5b82f862672aff23b3c863196eb6fa8e7998
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.165.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-2-developer-workflow-changes-in-v3-11-228|2 Developer Workflow changes in v3.11.228]]
-- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-chore-bump-shell-quote-and-dompurify-dependencies-by-devinvinson-in-https-github|chore: bump shell-quote and DOMPurify dependencies]]
+- Later: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-long-commands-in-the-background-command-view-are-now-syntax-highlighted-and-coll|Long commands in the background command view are now syntax highlighted…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

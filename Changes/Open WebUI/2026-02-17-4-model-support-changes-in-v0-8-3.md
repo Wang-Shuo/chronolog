@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3708a5b37305a1aab1c1437b9479f83d74eb911e5716d2f3e494273d57aaf93a
+machine_hash: 49d0a42d51d72a0fc15aa994a23ba5a9a2cd186a2c95ea2d2198d6a561a6eb15
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,12 +56,11 @@ record:
   title: 4 Model Support changes in v0.8.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-17-11-model-support-changes-in-rust-v0-102-0|11 Model
-  Support changes in rust-v0.102.0]]'
 - '[[Changes/Codex CLI/2026-02-17-11699-chore-rm-remote-models-fflag-sayan-oai|♯11699
   chore: rm remote models fflag @sayan-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-2-model-support-changes-in-v0-0-411|2 Model
   Support changes in v0.0.411]]'
+- '[[Changes/Midjourney/2026-02-17-please-note|Please Note]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-17-v0-8-3-github-287117379-ddae610a|open-webui-2026-02-17-v0-8-3-github-287117379-ddae610a]]'
 source_type: github_releases
 theme: model-support
@@ -103,7 +102,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-2-model-support-changes-in-v0-0-411|2 Model Support changes in v0.0.411]]
+- Earlier: 2026-02-17 · Midjourney · [[Changes/Midjourney/2026-02-17-please-note|Please Note]]
 - Later: 2026-02-18 · Codex CLI · [[Changes/Codex CLI/2026-02-18-2-model-support-changes-in-rust-v0-104-0|2 Model Support changes in rust-v0.104.0]]
 <!-- chronolog:end -->
 

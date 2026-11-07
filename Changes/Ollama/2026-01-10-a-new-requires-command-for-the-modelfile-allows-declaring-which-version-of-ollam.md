@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e461a1687a4a8d024702fce81c18a3aa35a2185fdce57bbcae71b0a4aa6d3762
+machine_hash: 0fb5a8c6378de521e75dee510e2350fb7b0580ea9abf44d9bd9e677421453107
 product: ollama
 product_name: Ollama
 record:
@@ -44,10 +44,10 @@ record:
   title: A new `REQUIRES` command for the `Modelfile` allows declaring which version…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-4-model-support-changes-in-rust-v0-80-0|4 Model
-  Support changes in rust-v0.80.0]]'
 - '[[Changes/Open WebUI/2026-01-09-11-model-support-changes-in-v0-7-0|11 Model Support
   changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-09-core-fix-model-dialog-search-issues-in-favorites-recents-list-and-prevent-deprec|Core
+  Fix model dialog search issues in favorites/recents list and prevent deprecated…]]'
 - '[[Changes/Cline/2026-01-10-removing-minimax-2-1-from-free-model-list-as-the-free-trial-has-ended|Removing
   Minimax-2.1 from free model list as the free trial has ended]]'
 source_release: '[[Releases/Ollama/ollama-2026-01-10-v0-14-0-github-275351986-b7215a01|ollama-2026-01-10-v0-14-0-github-275351986-b7215a01]]'

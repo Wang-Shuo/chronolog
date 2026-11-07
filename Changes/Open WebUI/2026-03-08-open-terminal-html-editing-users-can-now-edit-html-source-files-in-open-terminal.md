@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39829172607bffaa3b4cb0a4db0b756376dd1d6f93e2744889291ddffa7d3151
+machine_hash: 59375256683070ab216747ce236ef75014ea561dc3f51946b91a07f13e1c016b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,12 +56,12 @@ record:
     Open…
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-05-added-diff-code-tab-toggle-with-hover-expand-functionality|Added
-  diff/code tab toggle with hover-expand functionality]]'
-- '[[Changes/Cline/2026-03-06-hooks-added-a-notification-hook-for-attention-and-completion-boundaries|Hooks:
-  Added a Notification hook for attention and completion boundaries]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-06-to-commemorate-github-copilot-cli-reaching-general-availability-last-week-we-re|To
-  commemorate GitHub Copilot CLI reaching general availability last week, we''re…]]'
+- '[[Changes/OpenCode/2026-03-06-desktop-load-tab-when-opening-file|Desktop Load tab
+  when opening file]]'
+- '[[Changes/OpenCode/2026-03-07-preserve-original-line-endings-in-edit-tool|Preserve
+  original line endings in edit tool]]'
+- '[[Changes/OpenCode/2026-03-07-2-editor-experience-changes-in-v1-2-21|2 Editor Experience
+  changes in v1.2.21]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb|open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb]]'
 source_type: github_releases
 theme: editor-experience
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-to-commemorate-github-copilot-cli-reaching-general-availability-last-week-we-re|To commemorate GitHub Copilot CLI reaching general availability last week, we're…]]
+- Earlier: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-2-editor-experience-changes-in-v1-2-21|2 Editor Experience changes in v1.2.21]]
 - Later: 2026-03-09 · ElevenLabs · [[Changes/ElevenLabs/2026-03-09-elevencreative-studio-cd704d|ElevenCreative Studio]]
 <!-- chronolog:end -->
 

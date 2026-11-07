@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8069c0dda4f05484896184f3d70eee3cf781d6f9b6a91a3d867661ff554c2d32
+machine_hash: c3aa093b27af1a7699f5b87aa8143d16351a07a5252b65683ad18ab97116c168
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -135,7 +135,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.162.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added a line on stderr, when it is a terminal, that says what a claude -p run…]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer Workflow changes in v2.1.296]]
+- Later: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-3-developer-workflow-changes-in-v2026-9-9|3 Developer Workflow changes in v2026.9.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

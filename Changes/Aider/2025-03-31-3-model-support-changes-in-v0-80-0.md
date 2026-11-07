@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 943511f3dfa988fe7701115045e2f6fb03795f7a97ad47c8f2071e3496d0c39e
+machine_hash: ca2b373035f8330392cdd7c712450e7358e5a974036da02de1741a9a1427bed5
 product: aider
 product_name: Aider
 record:
@@ -47,12 +47,11 @@ record:
   title: 3 Model Support changes in v0.80.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-early-testers-say-that-the-model-seems-to-better-understand-the-implied-intent-b|“Fuzzy”
-  improvements]]'
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-has-further-improved-its-capability-to-tackle-complex-technical-and-codin|Smarter
   problem-solving in STEM and coding]]'
 - '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced
   instruction-following and formatting accuracy]]'
+- '[[Changes/Midjourney/2025-03-30-please-note|Please Note]]'
 source_release: '[[Releases/Aider/aider-2025-03-31-v0-80-0-github-209238246-56764716|aider-2025-03-31-v0-80-0-github-209238246-56764716]]'
 source_type: github_releases
 theme: model-support
@@ -91,7 +90,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.80.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-27 · ChatGPT · [[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced instruction-following and formatting accuracy]]
+- Earlier: 2025-03-30 · Midjourney · [[Changes/Midjourney/2025-03-30-please-note|Please Note]]
 - Later: 2025-03-31 · ElevenLabs · [[Changes/ElevenLabs/2025-03-31-text-to-speech|Text to speech]]
 <!-- chronolog:end -->
 

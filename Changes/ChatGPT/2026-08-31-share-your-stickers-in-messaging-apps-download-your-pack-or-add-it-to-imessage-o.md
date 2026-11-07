@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10e4b0160ecbe4eabf2c37ffd17be076dbfcbda1f9040a181fff1481f914ff41
+machine_hash: e631e91e6da762784d7b8401299412e13d4e8e020bcf5228c0540bb1bb8afbd7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,10 @@ record:
   title: Share your stickers in messaging apps
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed
-  builds on Windows create their scratch caches on first run, so cargo, go…]]'
-- '[[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat:
-  add linux desktop installer build (CI + deb maintainer fix)]]'
+- '[[Changes/Gamma/2026-08-28-gamma-is-now-on-ios-and-android|Gamma is now on iOS
+  and Android]]'
+- '[[Changes/OpenCode/2026-08-28-desktop-archived-sessions-disappear-from-the-home-list-immediately|Desktop
+  Archived sessions disappear from the Home list immediately]]'
 - '[[Changes/v0/2026-08-28-the-native-mobile-app-gained-message-queuing-tappable-links-shared-chat-author-a|The
   native mobile app gained message queuing, tappable links, shared-chat author…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6|chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6]]'

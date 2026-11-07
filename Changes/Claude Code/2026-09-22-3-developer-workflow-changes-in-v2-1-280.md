@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 952455fa119233c5036813935113c6524c58ec914ae06116a5f7d79e10740aac
+machine_hash: 68b7abd553f3b4224a57b1e70aae074bfc5a299d3ef05746f93c6090d52323b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Developer Workflow changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved
-  /ultrareview when there''s nothing to review]]'
+- '[[Changes/OpenClaw/2026-09-19-29-developer-workflow-changes-in-v2026-9-5|29 Developer
+  Workflow changes in v2026.9.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5
   Developer Workflow changes in v1.0.87]]'
 - '[[Changes/Open WebUI/2026-09-21-39-developer-workflow-changes-in-v0-11-4|39 Developer

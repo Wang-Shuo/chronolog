@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2c737a4753152adf13561bd6a9ec8d367d95fad75f70431c99d0851263c839f
+machine_hash: e0c604b969efa4ac75b3412385a36f03ec93d1f9bb679357ff445f7906017b80
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
   title: Improved visual consistency in slash command dialogs and `/login`, `/upgrade`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels
-  now works with console (API key) authentication]]'
+- '[[Changes/OpenCode/2026-05-04-2-account-and-access-changes-in-v1-14-34|2 Account
+  and Access changes in v1.14.34]]'
 - '[[Changes/ChatGPT/2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i|ChatGPT
   for Excel and Google Sheets]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-cli-starts-faster-by-rendering-the-ui-immediately-while-authentication-resolves|CLI

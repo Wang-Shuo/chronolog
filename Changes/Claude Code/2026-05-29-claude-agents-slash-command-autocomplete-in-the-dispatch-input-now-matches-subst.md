@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 57ec0a7966f59ae62cfd964c63e40b0b93fce00b7c63488d8bae967cf8ff9a6a
+machine_hash: 9a228d54c13620d3cdef8a0c89ffeba5f536f958867814fe63a5beb64007cffe
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
     substrings'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-vscode-auto-mode-no-longer-requires-the-bypass-permissions-setting-to-appear-in|VSCode
-  Auto mode no longer requires the bypass-permissions setting to appear…]]'
 - '[[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface
   Experience changes in v2.1.153]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-7-interface-experience-changes-in-v1-0-55|7
   Interface Experience changes in v1.0.55]]'
+- '[[Changes/OpenCode/2026-05-28-terminal-kept-session-navigation-working-while-prompt-modes-are-open|Terminal
+  Kept session navigation working while prompt modes are open]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
 theme: interface-experience
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-7-interface-experience-changes-in-v1-0-55|7 Interface Experience changes in v1.0.55]]
+- Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-terminal-kept-session-navigation-working-while-prompt-modes-are-open|Terminal Kept session navigation working while prompt modes are open]]
 - Later: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-reasoning-effort-picker-respects-model-capabilities-options-not-supported-by-the|Reasoning effort picker respects model capabilities]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ce9c62d546bf050653ba18ea62857b944cc44b8cd5c09b075174353f0de0e3e0
+machine_hash: 1a40e1f8c1222bc1881363ba78c6f9d0e6c217691d3d64ddece452669074572e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Add support for GHE Cloud (\*.ghe.com) remote custom agents
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification
-  questions from the agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-22-2-agent-mode-changes-in-v0-0-389|2 Agent
   Mode changes in v0.0.389]]'
+- '[[Changes/OpenCode/2026-01-22-mark-subagent-sessions-as-agent-initiated-to-exclude-them-from-quota-limits|Mark
+  subagent sessions as agent-initiated to exclude them from quota limits]]'
 - '[[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added
   env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-23-v0-0-393-github-279409619-34c2559f|github-copilot-cli-2026-01-23-v0-0-393-github-279409619-34c2559f]]'

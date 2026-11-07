@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 02e8d8a6e47308de19bd60cc474de7b1a4479e779b5c50154eb5383142998371
+machine_hash: 9b51a21ad2f2cee12f0471be1adbe20d7a83dff2f5efdece3b6f998f5c57fad9
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,10 @@ record:
     Copilot
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-improved-permissions-tab-and-arrow-keys-now-switch-tabs-from-within-a-list|Improved
-  /permissions — Tab and arrow keys now switch tabs from within a list]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-20-elicitation-form-shows-shift-tab-hint-for-navigating-between-fields-in-reverse|Elicitation
-  form shows Shift+Tab hint for navigating between fields in reverse]]'
+- '[[Changes/OpenCode/2026-03-22-3-editor-experience-changes-in-v1-3-0|3 Editor Experience
+  changes in v1.3.0]]'
+- '[[Changes/OpenCode/2026-03-24-changed-command-palette-shortcut-to-cmd-k-with-cmd-p-still-working-as-fallback|Changed
+  command palette shortcut to Cmd+K (with Cmd+P still working as fallback)]]'
 - '[[Changes/Claude Code/2026-03-25-3-editor-experience-changes-in-v2-1-83|3 Editor
   Experience changes in v2.1.83]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-25-v0-18-3-github-300946692-78775bca|ollama-2026-03-25-v0-18-3-github-300946692-78775bca]]'

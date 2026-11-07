@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed32433b711298cbe084192ea426b7d3d5b38bad11b38fc68338cbc616ec8bba
+machine_hash: 7339972940ec561620b68dab3d93e905bc9e1db8b492c83552e4b3023afb8cbc
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Developer Workflow changes in 2.4
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-21-new-ollama-launch-command-for-claude-code-codex-opencode-and-droid|New
-  ollama launch command for Claude Code, Codex, OpenCode, and Droid]]'
+- '[[Changes/OpenCode/2026-01-21-2-developer-workflow-changes-in-v1-1-30|2 Developer
+  Workflow changes in v1.1.30]]'
 - '[[Changes/Claude Code/2026-01-22-added-new-task-management-system-including-new-capabilities-like-dependency-trac|Added
   new task management system, including new capabilities like dependency tracking]]'
 - '[[Changes/Codex CLI/2026-01-22-4-developer-workflow-changes-in-rust-v0-89-0|4 Developer

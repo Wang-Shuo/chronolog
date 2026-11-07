@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee6f9f962bddff0524963a77d8ad0c8aa8c245cf985b6d027e9e38af3e0c3805
+machine_hash: dd277fd098e060ba9fddbfca47c85dbd78f6b2e8f04582134a0156a3c33aa5df
 product: ollama
 product_name: Ollama
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-4-interface-experience-changes-in-v1-0-35|4 Interface Experience changes in v1.0.35]]
-- Later: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-subcommand-picker-shows-a-selection-indicator-next-to-the-highlighted-item|Subcommand picker shows a selection indicator (❯) next to the highlighted item]]
+- Later: 2026-04-23 · OpenCode · [[Changes/OpenCode/2026-04-23-desktop-keep-project-avatar-previews-consistent-between-the-sidebar-and-edit-dia|Desktop Keep project avatar previews consistent between the sidebar and edit dialog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

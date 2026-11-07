@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 423fa2bbd85df9a634cb8e5bad6dfb03e5f3f561d29bd1cb67375dd97fa0dad5
+machine_hash: eb329dfac06cb90547f9971c9ab1e994d4382e3b2fedddc544a19b5fa7d6ba34
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
     @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-8-search-and-browsing-changes-in-v0-10-0|8 Search
-  and Browsing changes in v0.10.0]]'
+- '[[Changes/OpenClaw/2026-06-30-more-official-channel-provider-and-web-search-plugins-can-now-be-installed-or-re|More
+  official channel, provider, and web-search plugins can now be installed…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-browse-resume-and-switch-between-sessions-from-the-agents-screen|Browse,
   resume, and switch between sessions from the agents screen]]'
 - "[[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|\U0001F512
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|🔒 Web search domain filtering. Domain allow and block rules for web search…]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-add-plugins-marketplace-browse-and-update-commands|Add plugins marketplace browse and update commands]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-8-search-and-browsing-changes-in-v2026-7-1|8 Search and Browsing changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78fb8082f459949051a6335dfbc710951d41ad5a9d83c82981b82e323b8b79fc
+machine_hash: 5caf6905266bbe8c6005ccb1d010786d28358da59251ee40cf36ab3459931992
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Automation and Scheduling changes in v1.11.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-03-feat-drive-the-automation-ui-from-the-interface-manifest-by-hieptl-in-https-gith|feat:
-  drive the automation UI from the interface manifest]]'
 - '[[Changes/OpenHands/2026-08-05-3-automation-and-scheduling-changes-in-v1-10-0|3
   Automation and Scheduling changes in v1.10.0]]'
 - '[[Changes/Codex CLI/2026-08-07-36228-support-enterprise-automation-account-plans-copyberry|♯36228
   Support Enterprise automation account plans @copyberry]]'
+- '[[Changes/Google Antigravity/2026-08-07-conversations-started-by-background-automations-no-longer-disappear-from-the-sid|Conversations
+  started by background automations no longer disappear from the sidebar list]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-07-v1-11-0-github-366925866-b56d8fd7|openhands-2026-08-07-v1-11-0-github-366925866-b56d8fd7]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -84,7 +84,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-36228-support-enterprise-automation-account-plans-copyberry|♯36228 Support Enterprise automation account plans @copyberry]]
+- Earlier: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-conversations-started-by-background-automations-no-longer-disappear-from-the-sid|Conversations started by background automations no longer disappear from the sidebar list]]
 - Later: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage): implement main worker execution loop and egress action publisher]]
 <!-- chronolog:end -->
 

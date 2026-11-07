@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f142e4ec6fb771c0410c78f731135338faf76de34d249dec34c120f2950cb4b3
+machine_hash: 8c52df68e85265a4c3cf36299abbe23ab9066be41b14e7fbf4555922bb54c430
 product: open-webui
 product_name: Open WebUI
 record:
@@ -64,9 +64,10 @@ record:
   title: 5 Voice and Audio changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-elevenagents-dab1d0|ElevenAgents]]'
 - '[[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice
   and Audio changes in rust-v0.155.0]]'
+- '[[Changes/OpenClaw/2026-09-19-15-voice-and-audio-changes-in-v2026-9-5|15 Voice
+  and Audio changes in v2026.9.5]]'
 - '[[Changes/ElevenLabs/2026-09-21-text-to-speech|Text to Speech]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'
 source_type: github_releases

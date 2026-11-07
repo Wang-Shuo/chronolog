@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b7befb3fee09af3181692a19e0f25166f2d27abff73e804a7bbc42ac5f26fdb4
+machine_hash: 6f2c6a3cf374216056b75dafe39b12b449ddb72e46a78042f9d277403006d1f7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#28257 Support staging OAuth client ID overrides @apanasenko-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-16-2-account-and-access-changes-in-v1-0-63|2
-  Account and Access changes in v1.0.63]]'
 - '[[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved
   the MCP OAuth browser page to match Claude Code''s visual style…]]'
 - '[[Changes/Lovable/2026-06-17-choose-your-interface-language|Choose your interface
   language]]'
+- '[[Changes/OpenCode/2026-06-17-2-account-and-access-changes-in-v1-17-8|2 Account
+  and Access changes in v1.17.8]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: account-access
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-17 · Lovable · [[Changes/Lovable/2026-06-17-choose-your-interface-language|Choose your interface language]]
+- Earlier: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-2-account-and-access-changes-in-v1-17-8|2 Account and Access changes in v1.17.8]]
 - Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-anonymous-users-opening-a-shared-or-public-chat-are-no-longer-redirected-to-sign|Anonymous users opening a shared or public chat are no longer redirected to sign…]]
 <!-- chronolog:end -->
 

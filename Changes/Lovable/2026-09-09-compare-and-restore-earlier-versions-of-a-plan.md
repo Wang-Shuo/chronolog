@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d5bcd3cafc82e415cc1ea2366d00c613e23b83b4e3458ada4c97942967b1de15
+machine_hash: d1996b17cbad77d9a4b03995dd5cc017bdb52f7123f6ac30485c29d126c9ed23
 product: lovable
 product_name: Lovable
 record:
@@ -47,10 +47,10 @@ record:
   title: Compare and restore earlier versions of a plan
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-26-see-how-each-app-page-appears-in-search-results-and-link-previews|See
-  how each app page appears in search results and link previews]]'
-- '[[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed
-  /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]]'
+- '[[Changes/OpenClaw/2026-09-05-4-search-and-browsing-changes-in-v2026-9-2|4 Search
+  and Browsing changes in v2026.9.2]]'
+- '[[Changes/OpenClaw/2026-09-08-3-search-and-browsing-changes-in-v2026-9-3|3 Search
+  and Browsing changes in v2026.9.3]]'
 - '[[Changes/Codex CLI/2026-09-09-experimental-worktree-support-lets-you-create-isolated-checkouts-for-new-or-fork|Experimental
   worktree support lets you create isolated checkouts for new or forked…]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-09-2026-09-09-1af9b744|lovable-2026-09-09-2026-09-09-1af9b744]]'

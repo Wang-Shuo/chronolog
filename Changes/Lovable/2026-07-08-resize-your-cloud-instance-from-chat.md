@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a2eb4675b327b12cd2ae7377d11776f15b3f3031420e6c03aab8c00f3a360dc9
+machine_hash: 08301e55577929546e0a2fadb06d4836030fe31c079714812149467da4409fc5
 product: lovable
 product_name: Lovable
 record:
@@ -63,8 +63,8 @@ record:
   title: Resize your Cloud instance from chat
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-07-reorder-folders-shared-with-you|Reorder folders shared
-  with you]]'
+- '[[Changes/OpenCode/2026-07-07-restore-model-details-tooltips-in-the-model-picker|Restore
+  model details tooltips in the model picker]]'
 - '[[Changes/v0/2026-07-07-3-interface-experience-changes-in-grouped-tool-approvals-richer-mcp|3
   Interface Experience changes in Grouped tool approvals, richer MCP…]]'
 - '[[Changes/Lovable/2026-07-08-search-your-settings|Search your settings]]'

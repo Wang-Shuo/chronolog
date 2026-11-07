@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ce49892d994f4af9b5768607f5aa9b4ef8d7e03c4b25be343b39e19352c6255
+machine_hash: 09fbdf7be88c78aed3b25438905ea11d7397e9fd3d308ebbc4f153aa66fe3570
 product: dify
 product_name: Dify
 record:
@@ -41,10 +41,10 @@ record:
   title: We are glad to share that we're launching Dify **v1.0.0**
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-03-the-team-took-some-time-to-recharge-but-updates-keep-coming|The
-  team took some time to recharge, but updates keep coming]]'
 - "[[Changes/Open WebUI/2025-01-05-clone-shared-chats-effortlessly-clone-shared-chats-to-save-time-and-streamline-c|\U0001F504
   Clone Shared Chats]]"
+- '[[Changes/Gamma/2025-01-23-gamma-now-offers-social-formats-in-addition-to-standard-presentations-and-docume|Introducing
+  social content]]'
 - "[[Changes/Open WebUI/2025-02-18-download-button-for-svg-diagrams-svg-diagrams-generated-within-chat-can-now-be-d|\U0001F4E5
   Download Button for SVG Diagrams]]"
 source_release: '[[Releases/Dify/dify-2025-02-28-1-0-0-github-202962689-d5695ce1|dify-2025-02-28-1-0-0-github-202962689-d5695ce1]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-02-18 · Open WebUI · [[Changes/Open WebUI/2025-02-18-download-button-for-svg-diagrams-svg-diagrams-generated-within-chat-can-now-be-d|📥 Download Button for SVG Diagrams]]
-- Later: 2025-03-13 · Gemini · [[Changes/Gemini/2025-03-13-gems-your-custom-ai-experts-are-now-available-to-more-gemini-users-at-no-cost|Gems, your custom AI experts, are now available to more Gemini users at no cost]]
+- Later: 2025-03-05 · Gamma · [[Changes/Gamma/2025-03-05-add-a-comment-for-feedback-or-collaboration|💬 Add a Comment for feedback or collaboration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

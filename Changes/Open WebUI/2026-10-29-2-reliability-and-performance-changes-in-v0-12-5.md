@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 595b09a526a587ae834cf868215803c65035c9ad040e3f2d21f5af32d6b4454b
+machine_hash: 8f00706703c5ecfed7ff16cc138989b2965ae3ff91a6edc706a3ff2932aaa98b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,12 +48,12 @@ record:
   title: 2 Reliability and Performance changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-2-reliability-and-performance-changes-in-1-18-0|2 Reliability
-  and Performance changes in 1.18.0]]'
-- '[[Changes/Open WebUI/2026-10-25-3-reliability-and-performance-changes-in-v0-12-4|3
-  Reliability and Performance changes in v0.12.4]]'
+- '[[Changes/Google Antigravity/2026-10-27-improved-performance-while-responses-stream-in-and-when-switching-between-conver|Improved
+  performance while responses stream in and when switching between conversations]]'
 - '[[Changes/Ollama/2026-10-27-faster-prompt-processing-on-apple-silicon-for-gemma-4-flint-and-laguna-models|Faster
   prompt processing on Apple silicon for Gemma 4, Flint and Laguna models]]'
+- '[[Changes/OpenCode/2026-10-27-6-reliability-and-performance-changes-in-v2-2-0|6
+  Reliability and Performance changes in v2.2.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
 source_type: github_releases
 theme: reliability-performance
@@ -102,8 +102,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-faster-prompt-processing-on-apple-silicon-for-gemma-4-flint-and-laguna-models|Faster prompt processing on Apple silicon for Gemma 4, Flint and Laguna models]]
-- Later: 2026-10-29 · Windsurf · [[Changes/Windsurf/2026-10-29-reduced-memory-usage-for-large-devin-local-sessions|Reduced memory usage for large Devin Local sessions]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-6-reliability-and-performance-changes-in-v2-2-0|6 Reliability and Performance changes in v2.2.0]]
+- Later: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-core-improve-snapshot-performance-by-coalescing-captures-and-avoiding-repeated-i|Core Improve snapshot performance by coalescing captures and avoiding repeated…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

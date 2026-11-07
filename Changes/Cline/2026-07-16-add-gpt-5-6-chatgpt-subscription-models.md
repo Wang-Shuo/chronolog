@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0497cedfcfa8e160033b0e11fed20c8b7cf81669a7ddf8461b01eb64b9c87c8
+machine_hash: d8560e804492e759f55f07f646d99d6f5a082dd85050b365f9ce1b355f21da8a
 product: cline
 product_name: Cline
 record:
@@ -51,12 +51,12 @@ record:
   title: Add GPT-5.6 ChatGPT subscription models
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-11-add-more-models-to-the-gcp-vertex-provider-plus-a-free-form-entry-option-in-the|Add
-  more models to the GCP Vertex provider, plus a free-form entry option…]]'
-- '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved
-  the Bash/PowerShell tool message when a command hits its timeout…]]'
+- '[[Changes/OpenCode/2026-07-14-desktop-fixed-spacing-between-model-provider-sections-in-settings|Desktop
+  Fixed spacing between model provider sections in Settings]]'
 - '[[Changes/Lovable/2026-07-15-gpt-5-6-and-gemini-text-to-speech-models-for-your-app-s-ai-features|GPT-5.6
   and Gemini text-to-speech models for your app''s AI features]]'
+- '[[Changes/OpenCode/2026-07-15-core-improved-default-reasoning-depth-for-meta-models|Core
+  Improved default reasoning depth for Meta models]]'
 source_release: '[[Releases/Cline/cline-2026-07-16-v4-0-9-github-355403212-daac39d3|cline-2026-07-16-v4-0-9-github-355403212-daac39d3]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-15 · Lovable · [[Changes/Lovable/2026-07-15-gpt-5-6-and-gemini-text-to-speech-models-for-your-app-s-ai-features|GPT-5.6 and Gemini text-to-speech models for your app's AI features]]
+- Earlier: 2026-07-15 · OpenCode · [[Changes/OpenCode/2026-07-15-core-improved-default-reasoning-depth-for-meta-models|Core Improved default reasoning depth for Meta models]]
 - Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-3-model-support-changes-in-v1-0-71|3 Model Support changes in v1.0.71]]
 <!-- chronolog:end -->
 

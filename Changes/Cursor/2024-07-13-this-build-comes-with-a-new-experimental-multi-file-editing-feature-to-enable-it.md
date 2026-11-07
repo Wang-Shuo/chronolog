@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 879047877c66ac3fa4094ff500dd412ac34607aed8c081e7ae7126532babd016
+machine_hash: 515db5193a6f16849f432ea10525cf878f6cf9a0f818fca69b252e65ac95235f
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,8 @@ record:
   title: Composer (beta)
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-10-editable-search-query-prompt-you-can-now-edit-the-search-query-generation-prompt|\U0001F50D
-  Editable Search Query Prompt]]"
+- '[[Changes/Gamma/2024-06-18-want-your-ai-images-to-have-a-consistent-look-and-feel-you-can-now-add-and-edit|AI
+  image style keywords are now editable in the theme editor]]'
 - '[[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience
   changes in 0.6.12]]'
 - '[[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience changes in 0.7.0]]
-- Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-vs-code-1-91-1-cursor-is-now-based-on-vs-code-1-91-1|VS Code 1.91.1: Cursor is now based on VS Code 1.91.1]]
+- Later: 2024-07-16 · Gamma · [[Changes/Gamma/2024-07-16-right-click-to-edit|Right-click to edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

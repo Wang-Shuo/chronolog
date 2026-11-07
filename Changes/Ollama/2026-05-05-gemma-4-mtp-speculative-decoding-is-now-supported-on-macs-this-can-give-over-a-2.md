@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 75447c63e8eac60e49d18b601d9a0492f666d3fd3ba7f95c09a556d1a391f70b
+machine_hash: 9f240eef22ba1fdd65a78c6eafa53c74a9c63a43396ea5a02e40bf870b430786
 product: ollama
 product_name: Ollama
 record:
@@ -55,8 +55,8 @@ record:
   title: Gemma 4 MTP speculative decoding is now supported on Macs
   type: change
 related_changes:
-- '[[Changes/Dify/2026-04-29-3-reliability-and-performance-changes-in-1-14-0|3 Reliability
-  and Performance changes in 1.14.0]]'
+- '[[Changes/OpenCode/2026-04-29-core-reduced-memory-growth-in-long-running-bash-tool-usage|Core
+  Reduced memory growth in long-running bash tool usage]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve
   CLI startup speed by loading custom CA certificates asynchronously]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-improve-stability-on-windows-by-working-around-a-v8-crash-in-node-24-x|Improve

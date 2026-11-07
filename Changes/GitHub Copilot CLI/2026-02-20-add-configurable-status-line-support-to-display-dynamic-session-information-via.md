@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 909fa328225d863a318becb18d124e8d570dcb5aee066aa468e6d3f1860b8942
+machine_hash: 2ccfc00be85e7238b747cc0ffefe1a63d28456dab2afc73ca18198a3e7b31173
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: Add configurable status line support to display dynamic session information…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-this-release-introduces-the-ability-to-hand-off-plans-from-the-cli-to-the-cloud|Cursor
-  introduces the ability to hand off plans from the CLI to the cloud, in-line…]]'
-- '[[Changes/Gemini CLI/2026-02-18-ui-update-subdue-footer-colors-and-animate-progress-indicator-by-keithguerin-in|ui:
-  update & subdue footer colors and animate progress indicator]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-6-interface-experience-changes-in-v0-0-412|6
   Interface Experience changes in v0.0.412]]'
+- '[[Changes/Google Antigravity/2026-02-19-up-down-arrow-key-navigation-for-input-box-history|Up/down
+  arrow key navigation for input box history]]'
+- '[[Changes/OpenCode/2026-02-19-core-don-t-fetch-models-dev-on-completion|Core Don''t
+  fetch models.dev on completion]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1|github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-6-interface-experience-changes-in-v0-0-412|6 Interface Experience changes in v0.0.412]]
+- Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-core-don-t-fetch-models-dev-on-completion|Core Don't fetch models.dev on completion]]
 - Later: 2026-02-23 · Lovable · [[Changes/Lovable/2026-02-23-drag-and-drop-reordering-of-pinned-tools-in-the-project-navigation-bar-has-been|Drag and drop reordering of pinned tools in the project navigation bar has been…]]
 <!-- chronolog:end -->
 

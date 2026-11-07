@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f6e631196725492c35f2394c88fcdad17bac0fe0450a15d1b0a1b774e4bad204
+machine_hash: 411a7cbafb8308e7ba66ec80919c09596d3659398753afcb4ebc1f639cd33354
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,10 @@ record:
   title: Documents in the project chat show their name and type
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-2-files-and-data-changes-in-v1-26-0|2 Files and
-  Data changes in v1.26.0]]'
 - '[[Changes/Open WebUI/2026-10-10-6-files-and-data-changes-in-v0-12-0|6 Files and
   Data changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-2-files-and-data-changes-in-v2026-10-1|2 Files and
+  Data changes in v2026.10.1]]'
 - '[[Changes/Claude Code/2026-10-14-2-files-and-data-changes-in-v2-1-299|2 Files and
   Data changes in v2.1.299]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-15-2026-10-15-46556c18|lovable-2026-10-15-2026-10-15-46556c18]]'

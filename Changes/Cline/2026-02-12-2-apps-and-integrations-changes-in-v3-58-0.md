@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81fcea85e1fce4c2e89339ac28e6be74a29a9ab1831d178c499b385661db4267
+machine_hash: a7bf92ca7c6bb32ae1a534046402846e5e6d1209c3c9c24f9473f2cc38588375
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Apps and Integrations changes in v3.58.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-13-apps-and-integrations-changes-in-rust-v0-99-0|13
-  Apps and Integrations changes in rust-v0.99.0]]'
 - '[[Changes/Dify/2026-02-11-10-apps-and-integrations-changes-in-1-13-0|10 Apps and
   Integrations changes in 1.13.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-3-apps-and-integrations-changes-in-v0-0-407|3
   Apps and Integrations changes in v0.0.407]]'
+- '[[Changes/OpenCode/2026-02-11-sdk-encode-non-ascii-directory-paths-in-v1-sdk-http-headers|SDK
+  Encode non-ASCII directory paths in v1 SDK HTTP headers]]'
 source_release: '[[Releases/Cline/cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c|cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.58.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-3-apps-and-integrations-changes-in-v0-0-407|3 Apps and Integrations changes in v0.0.407]]
+- Earlier: 2026-02-11 · OpenCode · [[Changes/OpenCode/2026-02-11-sdk-encode-non-ascii-directory-paths-in-v1-sdk-http-headers|SDK Encode non-ASCII directory paths in v1 SDK HTTP headers]]
 - Later: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-5-apps-and-integrations-changes-in-rust-v0-100-0|5 Apps and Integrations changes in rust-v0.100.0]]
 <!-- chronolog:end -->
 

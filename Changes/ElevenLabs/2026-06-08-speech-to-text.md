@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: e41e5e2bfb4ff698f73426ec3c8e4a295e3b089c816241736229ee3d4f4e9e6b
+machine_hash: b6938e9c7e46d05747e0e95fffa1502b10389ee139579c56bd140f337ad4c92c
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,8 +48,8 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-02-add-the-voice-command-to-dictate-prompts-using-local-speech-to-text-models|Add
-  the /voice command to dictate prompts using local speech-to-text models]]'
+- '[[Changes/Suno/2026-06-04-share-audio-from-ios-voice-memos-the-app-will-automatically-attach-as-audio-in-t|Share
+  audio from iOS Voice Memos]]'
 - '[[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Voice
   input]]'
 - '[[Changes/Cursor/2026-06-05-with-design-mode-in-the-cursor-browser-you-can-click-draw-or-describe-changes-by|With

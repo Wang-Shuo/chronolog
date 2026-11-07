@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e60f92806ba3717e1fcad33c1d70cb6d0928bb87debd4eb989d927d6550eca44
+machine_hash: 029a9979a88daee23b65c7693ba817c246a33e04019253a4bf29df59e979c9df
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,11 @@ record:
   title: Upload files and access model selector on mobile
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-06-10-3-model-support-changes-in-v0-6-14|3 Model Support
-  changes in v0.6.14]]'
-- '[[Changes/OpenHands/2025-06-10-prevented-llm-settings-reset-when-page-loses-focus-during-initial-setup-by-llama|Prevented
-  LLM settings reset when page loses focus during initial setup]]'
-- '[[Changes/Dify/2025-06-11-4-model-support-changes-in-1-4-2|4 Model Support changes
-  in 1.4.2]]'
+- '[[Changes/Midjourney/2025-06-11-hi-everybody-we-re-putting-the-finishing-touches-on-our-v1-video-model-and-we-ne|Hi
+  everybody!]]'
+- '[[Changes/Midjourney/2025-06-11-please-note|Please Note]]'
+- '[[Changes/Midjourney/2025-06-11-thank-you-so-much-for-your-help-we-can-t-wait-to-share-the-v1-video-model-with-y|Thank
+  you so much for your help!]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-4-model-support-changes-in-1-4-2|4 Model Support changes in 1.4.2]]
+- Earlier: 2025-06-11 · Midjourney · [[Changes/Midjourney/2025-06-11-thank-you-so-much-for-your-help-we-can-t-wait-to-share-the-v1-video-model-with-y|Thank you so much for your help!]]
 - Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-creators-can-now-choose-from-the-full-set-of-chatgpt-models-gpt-4o-o3-o4-mini-an-ad1adf|Creators can now choose from the full set of ChatGPT models…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 69fa9d5e8e8474513029274b59d19889b514922a00141427322e1fdc0e498c5f
+machine_hash: 8f62f7bcfb5a76d3b7be783bf26859e5427b0534ebeb731d62db71f343715ac7
 product: cline
 product_name: Cline
 record:
@@ -56,8 +56,8 @@ record:
   title: Open in the editor…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-23-vs-code-1-91-1-cursor-is-now-based-on-vs-code-1-91-1|VS
-  Code 1.91.1: Cursor is now based on VS Code 1.91.1]]'
+- '[[Changes/Gamma/2024-07-23-we-ve-added-16-new-themes-to-gamma-with-a-focus-on-professional-designs-that-kee|Gamma
+  adds 16 new themes to Gamma, with a focus on professional designs that keep…]]'
 - '[[Changes/OpenHands/2024-07-27-validate-to-replace-in-edit-file-by-replace-agentskill-by-li-boxuan-in-https-git|Validate
   to_replace in edit_file_by_replace AgentSkill]]'
 - '[[Changes/Cline/2024-07-28-updated-view-id-for-tab-panels-for-better-internal-caching|Updated

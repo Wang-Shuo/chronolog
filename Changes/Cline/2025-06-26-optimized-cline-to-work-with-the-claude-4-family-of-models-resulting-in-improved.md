@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3b6c189feaac96a99335eded98c7d9e81a7f175d18108a4732b11c44c31a2204
+machine_hash: 4da29998e42f56f269659fb7284c83cc0e1a43dbf7285ee836715d0132166757
 product: cline
 product_name: Cline
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-06-24 · OpenHands · [[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled users to provide feedback on agent performance even when the agent…]]
-- Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-3-reliability-and-performance-changes-in-v0-85-0|3 Reliability and Performance changes in v0.85.0]]
+- Later: 2025-06-26 · Manus · [[Changes/Manus/2025-06-26-we-now-offer-two-specialized-modes-for-all-manus-paid-subscribers-choose-between|Introducing Agent preference]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

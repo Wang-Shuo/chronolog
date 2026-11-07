@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a45c9905d57c97efe609951091e67f035a9def0daacd4869c7aeedd82c69bed3
+machine_hash: 4eafde56ce10e890189ec12020d40757d3b8e729848b00f1ed7534a074c2ad9f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -77,11 +77,11 @@ record:
   title: 17 Apps and Integrations changes in rust-v0.141.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|Added
-  /config key=value syntax to set any setting from the prompt…]]'
 - '[[Changes/Lovable/2026-06-17-build-in-lovable-from-claude|Build in Lovable from
   Claude]]'
 - '[[Changes/Lovable/2026-06-17-app-connector-lightspeed|App connector: Lightspeed]]'
+- '[[Changes/OpenCode/2026-06-17-4-apps-and-integrations-changes-in-v1-17-8|4 Apps
+  and Integrations changes in v1.17.8]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: apps-integrations
@@ -152,7 +152,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.141.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-17 · Lovable · [[Changes/Lovable/2026-06-17-app-connector-lightspeed|App connector: Lightspeed]]
+- Earlier: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-4-apps-and-integrations-changes-in-v1-17-8|4 Apps and Integrations changes in v1.17.8]]
 - Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-inspect-your-app-s-ai-activity|Inspect your app's AI activity]]
 <!-- chronolog:end -->
 

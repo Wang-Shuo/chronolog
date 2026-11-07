@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9733b283f4855fa3f0bfd1fe6a9719ce2a7c339686ec6ebb131172bc311fc9d
+machine_hash: 30887360fd6fcd633a3e1064cba71a348ca27d9a2b0d4d690b1fea0cc8eb40d5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -63,10 +63,10 @@ record:
   title: 7 Apps and Integrations changes in v1.0.83
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-added-reload-plugins-to-headless-sessions-so-it-appears-in-the-claude-code-deskt|Added
-  /reload-plugins to headless sessions, so it appears in the Claude Code…]]'
 - '[[Changes/Codex CLI/2026-09-03-18-apps-and-integrations-changes-in-rust-v0-153-0|18
   Apps and Integrations changes in rust-v0.153.0]]'
+- '[[Changes/OpenClaw/2026-09-03-26-apps-and-integrations-changes-in-v2026-9-1|26
+  Apps and Integrations changes in v2026.9.1]]'
 - '[[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode
   Added an Add server form and a Remove action to the MCP servers dialog…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
@@ -122,7 +122,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.83
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode Added an Add server form and a Remove action to the MCP servers dialog…]]
-- Later: 2026-09-07 · ElevenLabs · [[Changes/ElevenLabs/2026-09-07-sdk-releases|SDK releases]]
+- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-35-apps-and-integrations-changes-in-v2026-9-2|35 Apps and Integrations changes in v2026.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

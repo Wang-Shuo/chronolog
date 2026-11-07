@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fcac1f3240768d7a426937e44889dbb167daeaae14d2f1134dbca1333f14e226
+machine_hash: f2d147cda237a37401c29dfeef1abdb56d570b8d10f872b31806d1502a21db72
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,7 +47,8 @@ record:
   title: 2 Reliability and Performance changes in v2.1.235
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]'
+- '[[Changes/Google Antigravity/2026-08-13-improved-responsiveness-and-reduced-hanging-issues-when-sending-messages-to-the-ee025c|Improved
+  responsiveness and reduced hanging issues when sending messages to the agent]]'
 - '[[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added
   opt-in memory cgroup support for Bash tool commands on Linux…]]'
 - '[[Changes/Ollama/2026-08-14-for-apple-silicon-devices-ollama-has-in-particular-optimized-for-maximum-perform|For

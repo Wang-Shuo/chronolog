@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dad0bbc51c37fa93cab130ed7596a2c231f4429aaf5d5e8e2d42cb821f1b51de
+machine_hash: e3a6dd1a7b9fa1c7a525f167f748cbb70bc32b21f8e1319f1efede8cb408ed6f
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Add vision capability to moonshot v1
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-05-21-support-for-alibaba-s-qwen-3-and-qwen-2-architectures-in-ollama-s-new-multimodal|Support
-  for Alibaba''s Qwen 3 and Qwen 2 architectures in Ollama''s new multimodal…]]'
+- '[[Changes/Midjourney/2025-06-19-pro-and-mega-tiers-can-help-us-test-video-relax-mode-right-now-unlimited-generat|Pro
+  and Mega tiers can help us test "video relax mode" right now…]]'
 - '[[Changes/ElevenLabs/2025-06-30-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/Gemini CLI/2025-07-11-feature-commands-refactor-slash-command-vision-for-the-future-by-abhipatel12-in|feature(commands)
   - Refactor Slash Command + Vision For the Future]]'
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-feature-commands-refactor-slash-command-vision-for-the-future-by-abhipatel12-in|feature(commands) - Refactor Slash Command + Vision For the Future]]
-- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core): Parse Multimodal MCP Tool responses]]
+- Later: 2025-07-25 · Midjourney · [[Changes/Midjourney/2025-07-25-to-get-a-higher-quality-mp4-click-one-of-the-virtual-upscale-buttons-on-a-video|To get a higher-quality .mp4, click one of the virtual upscale buttons on a video]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

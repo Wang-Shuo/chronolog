@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 73d8c630c7a23a6fa8a13c65c0094e67cf5b30db2aee21a1790487b9f123f6dc
+machine_hash: 30d43c6bfcf35a2b9cbd078503c458f4af545ae81400232bda4ace43122560fa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,10 +54,10 @@ record:
     such…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-12383-add-new-scopes-to-login-adaley-openai|♯12383
-  add new scopes to login @adaley-openai]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-display-request-id-in-authentication-and-authorization-error-messages-to-aid-tro|Display
   request ID in authentication and authorization error messages to aid…]]'
+- '[[Changes/OpenCode/2026-03-05-terminal-add-options-to-auth-login-command-to-skip-interactive-questions|Terminal
+  Add options to auth login command to skip interactive questions]]'
 - '[[Changes/Claude Code/2026-03-06-vscode-added-native-mcp-server-management-dialog-use-mcp-in-the-chat-panel-to-en|VSCode
   Added native MCP server management dialog]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e|github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e]]'

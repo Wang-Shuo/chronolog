@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d15b36cfd805d41f48fc45910226cf68f84e84a336748cf8fcc8a0d46bdfd841
+machine_hash: 58f66112b3c1197b891b029096285e6f3f088e60e4f352ee2aa2badbea17a82c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Add `/changelog` command to view release notes
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-05-2-developer-workflow-changes-in-rust-v0-97-0|2 Developer
-  Workflow changes in rust-v0.97.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-05-2-developer-workflow-changes-in-v0-0-404|2
-  Developer Workflow changes in v0.0.404]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-05-plugins-can-bundle-lsp-server-configurations|Plugins
   can bundle LSP server configurations]]'
+- '[[Changes/OpenCode/2026-02-05-terminal-allow-mouse-escape-via-esc-labels-in-dialogs|Terminal
+  Allow mouse escape via "esc" labels in dialogs]]'
+- '[[Changes/OpenCode/2026-02-05-9-developer-workflow-changes-in-v1-1-52|9 Developer
+  Workflow changes in v1.1.52]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-07-v0-0-406-github-284060687-b4a44242|github-copilot-cli-2026-02-07-v0-0-406-github-284060687-b4a44242]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-plugins-can-bundle-lsp-server-configurations|Plugins can bundle LSP server configurations]]
+- Earlier: 2026-02-05 · OpenCode · [[Changes/OpenCode/2026-02-05-9-developer-workflow-changes-in-v1-1-52|9 Developer Workflow changes in v1.1.52]]
 - Later: 2026-02-10 · Claude Code · [[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved heredoc delimiter parsing to prevent command smuggling]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c73b04d47c7c3fb7aca458225020ede526942131964dc7cc7be1c5d711eb3da
+machine_hash: 594790d25ec9a9219b66377668c6576d2a6dfa8d9a1437e428b5af3cec7b801d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 5 Context Window changes in rust-v0.134.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-improved-feedback-reports-to-include-the-conversation-that-happened-before-conte|Improved
-  /feedback reports to include the conversation that happened before…]]'
 - '[[Changes/Gemini CLI/2026-05-22-3-context-window-changes-in-v0-43-0|3 Context Window
   changes in v0.43.0]]'
+- '[[Changes/OpenCode/2026-05-22-core-improve-diff-viewer-empty-states-and-context-handling|Core
+  Improve diff viewer empty states and context handling]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-4-context-window-changes-in-v1-0-52|4 Context
   Window changes in v1.0.52]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e|codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e]]'

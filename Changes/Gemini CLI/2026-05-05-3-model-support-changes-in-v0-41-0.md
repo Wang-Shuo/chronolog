@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5792c305a46af167172beebdf4bc7d636323ff23f4f78b213786f305d9c9dfac
+machine_hash: aedf678be34f805fcdbd468631be9bc7fab9d595087d1fd0887b15de93b9bfb0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,9 +47,9 @@ record:
   title: 3 Model Support changes in v0.41.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated
-  /model picker]]'
 - '[[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]]'
+- '[[Changes/OpenCode/2026-05-04-core-fix-azure-anthropic-model-resolution-when-using-the-anthropic-sdk|Core
+  Fix Azure Anthropic model resolution when using the Anthropic SDK]]'
 - '[[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|GPT-5.5
   Instant in ChatGPT]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6|gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6]]'

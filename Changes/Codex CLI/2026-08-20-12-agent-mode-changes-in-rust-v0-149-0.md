@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b60ebb6501ffd6f5b4558106770b5bf8d5bda7d75aa8e5c057f62de4ab6c527
+machine_hash: a5c40852db2a64a64da99c4ce2591b384bc630e57866c9020ffbc4037e94c918
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -138,7 +138,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-19 · Cursor · [[Changes/Cursor/2026-08-19-goal|/goal]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode changes in v2.1.239]]
+- Later: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-3-agent-mode-changes-in-hub-v2-9-1-remote-control-faster|3 Agent Mode changes in HUB v2.9.1 — Remote Control, faster…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

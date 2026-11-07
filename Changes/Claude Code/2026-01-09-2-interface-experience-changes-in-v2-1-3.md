@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 852f49d5bc434fbe9c0d92a417382f6b44ef77dfc6eb609843f2b6b5f2a511a6
+machine_hash: 11a252e419c2e286fb7a0d6cf2034a2a02d1d789fc9ccdea9a4bde5a20b507b2
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Interface Experience changes in v2.1.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-06-9-interface-experience-changes-in-rust-v0-78-0|9
-  Interface Experience changes in rust-v0.78.0]]'
-- '[[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health
-  appears as a new space in the ChatGPT sidebar]]'
+- '[[Changes/OpenCode/2026-01-07-desktop-fix-session-navigation-with-keyboard-shortcuts|Desktop
+  Fix session navigation with keyboard shortcuts]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-08-loading-remote-sessions-using-graphql-id-or-session-picker|Loading
   remote sessions using GraphQL ID or session picker]]'
+- '[[Changes/OpenCode/2026-01-08-2-interface-experience-changes-in-v1-1-7|2 Interface
+  Experience changes in v1.1.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,7 +84,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-08-loading-remote-sessions-using-graphql-id-or-session-picker|Loading remote sessions using GraphQL ID or session picker]]
+- Earlier: 2026-01-08 · OpenCode · [[Changes/OpenCode/2026-01-08-2-interface-experience-changes-in-v1-1-7|2 Interface Experience changes in v1.1.7]]
 - Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added Shift+Tab keyboard shortcut in plan mode to quickly select…]]
 <!-- chronolog:end -->
 

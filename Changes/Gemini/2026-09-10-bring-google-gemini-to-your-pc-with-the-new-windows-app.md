@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 706ca5315c332e40d08f0bc23fc5ab6866b2ff79c6ef55fee40808057c80949b
+machine_hash: 998e2f0d97509a47c96a2b307d36980290e84342556883b435dddbd8bc36ae41
 product: gemini
 product_name: Gemini
 record:
@@ -62,8 +62,8 @@ record:
   title: Bring Google Gemini to your PC with the new Windows app
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-31-2-files-and-data-changes-in-v0-11-2|2 Files and
-  Data changes in v0.11.2]]'
+- '[[Changes/Google Antigravity/2026-09-09-introducing-new-documents-section-and-several-ux-enhancements-for-organization-a|Introducing
+  new Documents section and several UX enhancements for organization and control]]'
 - '[[Changes/OpenHands/2026-09-09-4-files-and-data-changes-in-v1-17-0|4 Files and
   Data changes in v1.17.0]]'
 - '[[Changes/Dify/2026-09-10-13-files-and-data-changes-in-1-17-1|13 Files and Data

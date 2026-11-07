@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ed42736770f69d0b198c5465d5d3234f85a648fb5254c26a95a5cf6e51bf7977
+machine_hash: 61745f3a4e1da1f2dfa45f77fc8c57b6e6c058ea49d00cf7a4d24fe1c2d94097
 product: ollama
 product_name: Ollama
 record:
@@ -64,12 +64,12 @@ record:
   title: '[NVIDIA Nemotron 3.5 Lightning](https://ollama.com/library/nemotron-3.5-lightning)…'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-10-for-a-lighter-weight-coding-agent-try-pi-https-pi-dev|For
-  a lighter-weight coding agent, try Pi((source link)]]'
 - '[[Changes/Claude Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th|Removed
   the outdated note about auto mode sessions costing slightly more…]]'
 - '[[Changes/Gemini CLI/2026-08-11-2-agent-mode-changes-in-v0-55-1|2 Agent Mode changes
   in v0.55.1]]'
+- '[[Changes/Google Antigravity/2026-08-11-ensured-that-local-web-servers-started-by-the-agent-are-reachable-from-your-host|Ensured
+  that local web servers started by the agent are reachable from your host machine]]'
 source_release: '[[Releases/Ollama/ollama-2026-08-11-v0-32-9-github-368563479-b7bcf66d|ollama-2026-08-11-v0-32-9-github-368563479-b7bcf66d]]'
 source_type: github_releases
 theme: agent-mode
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-2-agent-mode-changes-in-v0-55-1|2 Agent Mode changes in v0.55.1]]
-- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]
+- Earlier: 2026-08-11 · Google Antigravity · [[Changes/Google Antigravity/2026-08-11-ensured-that-local-web-servers-started-by-the-agent-are-reachable-from-your-host|Ensured that local web servers started by the agent are reachable from your host machine]]
+- Later: 2026-08-11 · Runway · [[Changes/Runway/2026-08-11-agent-sessions-now-live-inside-projects-so-you-can-start-a-session-directly-from|Projects + Brand Kits in Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

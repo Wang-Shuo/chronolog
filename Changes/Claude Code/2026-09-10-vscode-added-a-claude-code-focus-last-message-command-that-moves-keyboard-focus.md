@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8330297b9339701934e53312cda745c01666e4c48c9d48bd9ccbe85f9ace12ce
+machine_hash: 150c8cffb25d6572c9fa9d8f635065442ad0b33e51500ff6bf166f7b190c520c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: '[VSCode] Added a "Claude Code'
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-3-accessibility-and-localization-changes-in-1-17-0|3
-  Accessibility and Localization changes in 1.17.0]]'
-- '[[Changes/Open WebUI/2026-08-25-improved-ui-accessibility-a-closed-sidebar-is-no-longer-reachable-by-keyboard-or|♿
-  Improved UI accessibility. A closed sidebar is no longer reachable by keyboard…]]'
-- "[[Changes/Open WebUI/2026-08-31-high-contrast-mode-is-now-accessibility-mode-the-interface-setting-previously-ca|\U0001F3F7️
-  High Contrast Mode is now Accessibility Mode. The interface setting…]]"
+- '[[Changes/Granola/2026-09-02-granola-now-supports-32-languages|More languages are
+  here!]]'
+- '[[Changes/OpenClaw/2026-09-03-3-accessibility-and-localization-changes-in-v2026-9-1|3
+  Accessibility and Localization changes in v2026.9.1]]'
+- '[[Changes/OpenClaw/2026-09-08-slack-delivers-valid-structured-sections-intact-even-when-their-accessibility-te|Slack
+  delivers valid structured sections intact even when their accessibility text…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-high-contrast-mode-is-now-accessibility-mode-the-interface-setting-previously-ca|🏷️ High Contrast Mode is now Accessibility Mode. The interface setting…]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-slack-delivers-valid-structured-sections-intact-even-when-their-accessibility-te|Slack delivers valid structured sections intact even when their accessibility text…]]
 - Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-3-accessibility-and-localization-changes-in-1-17-1|3 Accessibility and Localization changes in 1.17.1]]
 <!-- chronolog:end -->
 

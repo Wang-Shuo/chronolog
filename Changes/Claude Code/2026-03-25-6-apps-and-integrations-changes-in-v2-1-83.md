@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99ead536c19afa1748dd3f336ff4777e9cad58393a5c750d5b273942681defb3
+machine_hash: ce586c79319e657e22a025b4962e371448222de7beb97cbaaf5706203f5fdc56
 product: claude-code
 product_name: Claude Code
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-25 · ChatGPT · [[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google Drive app unification]]
-- Later: 2026-03-25 · Ollama · [[Changes/Ollama/2026-03-25-openclaw-integration-improvements-for-gateway-checks|OpenClaw integration improvements for gateway checks]]
+- Later: 2026-03-25 · Google Antigravity · [[Changes/Google Antigravity/2026-03-25-linux-sandboxing-and-mcp-improvements|Linux Sandboxing and MCP Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

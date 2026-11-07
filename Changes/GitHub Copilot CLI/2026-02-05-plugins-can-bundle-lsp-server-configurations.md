@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7b8831d93aa7a69597a9cd21d12f49dcfa8a411aa688da88d084bff23f80ab48
+machine_hash: 5f056d051bd44cc92b8cc28972b3b572fa0b93967dabad0c7123bebc2b81eb04
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,8 +49,8 @@ record:
   title: Plugins can bundle LSP server configurations
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-04-11-developer-workflow-changes-in-v0-27-0|11 Developer
-  Workflow changes in v0.27.0]]'
+- '[[Changes/OpenCode/2026-02-04-terminal-restore-direct-osc52-support|Terminal Restore
+  direct OSC52 support]]'
 - '[[Changes/Codex CLI/2026-02-05-2-developer-workflow-changes-in-rust-v0-97-0|2 Developer
   Workflow changes in rust-v0.97.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-05-2-developer-workflow-changes-in-v0-0-404|2
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-2-developer-workflow-changes-in-v0-0-404|2 Developer Workflow changes in v0.0.404]]
-- Later: 2026-02-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-07-add-changelog-command-to-view-release-notes|Add /changelog command to view release notes]]
+- Later: 2026-02-05 · OpenCode · [[Changes/OpenCode/2026-02-05-terminal-allow-mouse-escape-via-esc-labels-in-dialogs|Terminal Allow mouse escape via "esc" labels in dialogs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

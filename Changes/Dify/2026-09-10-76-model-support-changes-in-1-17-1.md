@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3180bb0d7c5947008f11eb7959502514c843c61f951313458d4b2ee068379534
+machine_hash: b26733ecbc7cd231cf6ef96cf9981143838f0599e0272f40aeb1af94e433c86a
 product: dify
 product_name: Dify
 record:
@@ -296,10 +296,10 @@ record:
   title: 76 Model Support changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-gpt-6-astra-is-now-available-in-the-model-picker-and-amazon-bedrock-catalogs-428|GPT-6-Astra
-  is now available in the model picker and Amazon Bedrock catalogs]]'
-- '[[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat:
-  enable LLM provider connections on cloud]]'
+- '[[Changes/Suno/2026-09-09-the-v6-family-of-models-enables-new-possibilities|The
+  v6 family of models enables new possibilities]]'
+- '[[Changes/Suno/2026-09-09-introducing-the-v6-family-of-music-models|Introducing
+  the v6 family of music models]]'
 - '[[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support
   changes in v2.1.268]]'
 source_release: '[[Releases/Dify/dify-2026-09-10-1-17-1-github-386157159-e472b6fe|dify-2026-09-10-1-17-1-github-386157159-e472b6fe]]'

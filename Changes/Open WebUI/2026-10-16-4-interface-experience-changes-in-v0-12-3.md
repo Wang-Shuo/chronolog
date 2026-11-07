@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab637984b472695a6fc410add921f1bdfc9cf7a042d2db13c12f027efccb0588
+machine_hash: c20d7e62294669dc98250f3f01ee0f7893cb182967dd47648a40bdf8b749ae34
 product: open-webui
 product_name: Open WebUI
 record:
@@ -68,12 +68,12 @@ record:
   title: 4 Interface Experience changes in v0.12.3
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-14-2-interface-experience-changes-in-v0-12-2|2 Interface
-  Experience changes in v0.12.2]]'
 - '[[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface
   Experience changes in v2.1.301]]'
 - '[[Changes/Codex CLI/2026-10-15-8-interface-experience-changes-in-rust-v0-163-0|8
   Interface Experience changes in rust-v0.163.0]]'
+- '[[Changes/Google Antigravity/2026-10-15-in-the-full-screen-viewer-the-comma-and-period-keys-now-step-a-video-back-or-for|In
+  the full-screen viewer, the comma and period keys now step a video back…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'
 source_type: github_releases
 theme: interface-experience
@@ -123,7 +123,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-8-interface-experience-changes-in-rust-v0-163-0|8 Interface Experience changes in rust-v0.163.0]]
+- Earlier: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-in-the-full-screen-viewer-the-comma-and-period-keys-now-step-a-video-back-or-for|In the full-screen viewer, the comma and period keys now step a video back…]]
 - Later: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-2-interface-experience-changes-in-downloads-in-the-code-tab-new-ios|2 Interface Experience changes in Downloads in the Code tab, new iOS…]]
 <!-- chronolog:end -->
 

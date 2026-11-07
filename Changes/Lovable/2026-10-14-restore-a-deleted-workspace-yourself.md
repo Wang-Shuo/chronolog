@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 6f7e7f99402c1ad90fcbda2618fccacbb399f784c99e70da321fa58488d2ca9a
+machine_hash: ca4c79cefcf61c845c0d3f45fb415824229535c52aa8babc761f9718d0b0c660
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Restore a deleted workspace yourself
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-12-ollama-launch-can-now-be-used-with-usage-credits-without-upgrading-to-a-paid-pla|ollama
-  launch can now be used with usage credits without upgrading to a paid plan]]'
+- '[[Changes/OpenClaw/2026-10-12-2-pricing-model-changes-in-v2026-10-2|2 Pricing Model
+  changes in v2026.10.2]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show
   billed AI Credits in /usage for token-billed sessions, including after resume]]'
 - '[[Changes/Lovable/2026-10-14-ask-lovable-what-drives-your-run-credit-usage|Ask

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f38ccbca31694420da82a6256edefe8c9b5793c05ce271ae293fd000adbc477
+machine_hash: ebb5a3e2d89120372ee3148aa61caba43a7488f1f67a80e1ef8d653e050ced2a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,11 +48,12 @@ record:
   title: 5 Interface Experience changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-full-screen-tabs-faa5d2|Full-screen tabs]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-13-support-j-k-keys-for-up-down-navigation-in-the-diff-view|Support
-  j/k keys for up/down navigation in the /diff view]]'
+- '[[Changes/OpenCode/2026-05-15-auto-hide-the-menu-bar-on-linux-and-windows|Auto-hide
+  the menu bar on Linux and Windows]]'
 - '[[Changes/v0/2026-05-15-2-interface-experience-changes-in-claude-opus-4-7-fast-agent-browser|2
   Interface Experience changes in Claude Opus 4.7 Fast, agent browser…]]'
+- '[[Changes/OpenCode/2026-05-16-terminal-added-pinned-sessions-with-quick-switch-slots-in-the-session-picker|Terminal
+  Added pinned sessions with quick-switch slots in the session picker]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: interface-experience
@@ -102,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-2-interface-experience-changes-in-claude-opus-4-7-fast-agent-browser|2 Interface Experience changes in Claude Opus 4.7 Fast, agent browser…]]
+- Earlier: 2026-05-16 · OpenCode · [[Changes/OpenCode/2026-05-16-terminal-added-pinned-sessions-with-quick-switch-slots-in-the-session-picker|Terminal Added pinned sessions with quick-switch slots in the session picker]]
 - Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-github-button-in-editor-top-navigation-the-github-https-docs-lovable-dev-integra|GitHub button in editor top…]]
 <!-- chronolog:end -->
 

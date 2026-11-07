@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90872137489b0698a8ef5facaa3edb03b852cf0a6aa4c903d7e942c04cf652a5
+machine_hash: 1b588bbabb267ed3f35021cc943e7a7e6ed6f6ba4d0b28f16d3e6fbbac97adcc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -72,8 +72,8 @@ record:
     European…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-05-09-sanitized-spreadsheet-html-previews-spreadsheet-previews-now-sanitize-generated|\U0001F6E1️
-  Sanitized spreadsheet HTML previews. Spreadsheet previews now sanitize…]]"
+- '[[Changes/OpenCode/2026-05-09-core-fixed-the-http-api-openapi-document-route|Core
+  Fixed the HTTP API OpenAPI document route]]'
 - '[[Changes/Dify/2026-05-12-document-indexing-skip-empty-documents-before-vector-embedding-and-validate-miss|Document
   indexing — skip empty documents before vector embedding and validate…]]'
 - '[[Changes/ElevenLabs/2026-05-13-elevenagents-6f8d80|ElevenAgents]]'

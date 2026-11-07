@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a45172c4c27fce0a14196ddb64a290b37eff92b354c02f81cb103587d41dcc61
+machine_hash: 01db8951ca99b0a1506e943912ba1d94dab551bf9c65a3fa97c94acce76f7295
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     fullscreen mode
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project
-  and repo pickers]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4
-  Interface Experience changes in v1.0.70]]'
 - '[[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved
   agent view]]'
+- '[[Changes/Google Antigravity/2026-07-13-added-support-for-attaching-and-rendering-plain-text-txt-files-in-conversations|Added
+  support for attaching and rendering plain text (.txt) files in conversations…]]'
+- '[[Changes/OpenClaw/2026-07-13-64-interface-experience-changes-in-v2026-7-1|64 Interface
+  Experience changes in v2026.7.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved agent view]]
+- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-64-interface-experience-changes-in-v2026-7-1|64 Interface Experience changes in v2026.7.1]]
 - Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface Experience changes in v2.1.210]]
 <!-- chronolog:end -->
 

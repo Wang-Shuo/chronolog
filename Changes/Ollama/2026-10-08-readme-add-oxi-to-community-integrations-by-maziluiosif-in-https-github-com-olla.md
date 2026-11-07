@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78a42db4f58d49ecdb9c9cde89059a2c417b2c0c61992e9f041662de620cacd6
+machine_hash: e8f5c15913cb40bba20cc737a76dea0eb450fd1b02f212c6aa1641e2a0f7ce7b
 product: ollama
 product_name: Ollama
 record:
@@ -41,8 +41,8 @@ record:
   title: 'README: add oxi to community integrations'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-08-2-apps-and-integrations-changes-in-v1-0-94|2
-  Apps and Integrations changes in v1.0.94]]'
+- '[[Changes/Google Antigravity/2026-10-08-construct-and-display-custom-user-interfaces-inside-the-side-panel-as-part-of-in|Construct
+  and display custom user interfaces inside the side panel as part…]]'
 - '[[Changes/Lovable/2026-10-08-app-chat-connectors-zendesk-neon-motherduck-oracle-autonomous-ai-database-ibm-db|App
   + chat connectors]]'
 - '[[Changes/Lovable/2026-10-08-chat-connectors-loom|Chat connectors: Loom]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-08 · Lovable · [[Changes/Lovable/2026-10-08-chat-connectors-loom|Chat connectors: Loom]]
-- Later: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-feat-apps-add-authenticated-backend-view-helper-by-neubig-in-https-github-com-op|feat(apps): add authenticated backend view helper]]
+- Later: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-10-apps-and-integrations-changes-in-v2026-9-9|10 Apps and Integrations changes in v2026.9.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

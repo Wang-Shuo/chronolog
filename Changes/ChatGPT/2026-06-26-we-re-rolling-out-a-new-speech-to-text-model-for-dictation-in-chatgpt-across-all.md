@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3e8a74f5665c11e7ac06ac6c82ef0a1c9baa5c22327086db598064610ca8b416
+machine_hash: fdd13056096fcd3def835835a42c01e64ee7e71e74f3b01316c62af7abbaa3c7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,11 +73,12 @@ record:
   title: Improved dictation in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-18-add-voice-to-your-app-with-text-to-speech-and-speech-to-text|Add
-  voice to your app with text-to-speech and speech-to-text]]'
-- '[[Changes/Replit/2026-06-19-voice-mode|Voice Mode]]'
 - '[[Changes/Dify/2026-06-25-refactor-inject-session-into-audio-tts-by-myshkin451-in-https-github-com-langgen|refactor:
   inject session into audio TTS]]'
+- '[[Changes/Google Antigravity/2026-06-25-added-support-for-rendering-and-playing-audio-files-mp3-wav-ogg-m4a-within-the-s|Added
+  support for rendering and playing audio files (.mp3, .wav, .ogg, .m4a) within…]]'
+- '[[Changes/Google Antigravity/2026-06-25-antigravity-guide-audio-support-search-improvements-and-performance-fixes|Antigravity
+  Guide, audio support, search improvements, and performance fixes]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-26-improved-dictation-in-chatgpt-19d2c1ea|chatgpt-2026-06-26-improved-dictation-in-chatgpt-19d2c1ea]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -104,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-refactor-inject-session-into-audio-tts-by-myshkin451-in-https-github-com-langgen|refactor: inject session into audio TTS]]
+- Earlier: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-antigravity-guide-audio-support-search-improvements-and-performance-fixes|Antigravity Guide, audio support, search improvements, and performance fixes]]
 - Later: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved voice mode on Linux]]
 <!-- chronolog:end -->
 

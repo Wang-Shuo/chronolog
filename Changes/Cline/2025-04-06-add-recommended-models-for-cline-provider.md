@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64f89f0648b51041281157cd0d5d99090a8b8a919c376da86c8761dd52c3b37a
+machine_hash: de9aa07d01c570b38d8301d0d99d86fb7def62aca63beb1055adafc675138016
 product: cline
 product_name: Cline
 record:
@@ -40,8 +40,7 @@ record:
   title: Add recommended models for Cline provider
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-04-add-gemini-2-5-pro-preview-03-25-to-google-provider|Add
-  Gemini 2.5 Pro Preview 03-25 to Google Provider]]'
+- '[[Changes/Midjourney/2025-04-04-please-note|Please Note]]'
 - '[[Changes/Replit/2025-04-04-3d-model-generation-milestone|3D model generation milestone]]'
 - "[[Changes/Open WebUI/2025-04-05-conditional-export-button-visibility-ui-now-gracefully-hides-export-buttons-when|\U0001F6AB
   Conditional Export Button Visibility]]"

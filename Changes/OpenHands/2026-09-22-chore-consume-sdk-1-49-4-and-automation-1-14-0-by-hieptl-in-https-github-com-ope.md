@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3aaff83dde4ffb402b53d44a2ab8435a30df215420a3a576deab1e78f5366a0
+machine_hash: 1d2bb652a03fe168daa331fe495c00dc1c1fb8dd36a538076807f7dbe87c05ab
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: 'chore: consume SDK 1.49.4 and Automation 1.14.0'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-17-feat-automations-select-saved-agent-profiles-by-neubig-in-https-github-com-openh|feat(automations):
-  select saved agent profiles]]'
+- '[[Changes/OpenClaw/2026-09-19-14-automation-and-scheduling-changes-in-v2026-9-5|14
+  Automation and Scheduling changes in v2026.9.5]]'
 - '[[Changes/Open WebUI/2026-09-21-4-automation-and-scheduling-changes-in-v0-11-4|4
   Automation and Scheduling changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-45849-preserve-the-app-server-shutdown-signal-future-across-loop-iterations-jger|♯45849

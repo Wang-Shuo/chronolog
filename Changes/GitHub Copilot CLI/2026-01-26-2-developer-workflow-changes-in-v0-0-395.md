@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84f370ad4e494ca92b3a62de1a5013a347638064bc75d2fd5334a226ec14eb56
+machine_hash: 243aab61bd23ed1f5a15855a54961271bf253d18ef97c4c39dbd59fe908566cf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,11 +41,12 @@ record:
   title: 2 Developer Workflow changes in v0.0.395
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-23-added-post-setup-worktree-https-docs-windsurf-com-windsurf-cascade-worktrees-set|Added…]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-24-2-developer-workflow-changes-in-v0-0-394|2
-  Developer Workflow changes in v0.0.394]]'
 - '[[Changes/Codex CLI/2026-01-25-2-developer-workflow-changes-in-rust-v0-90-0|2 Developer
   Workflow changes in rust-v0.90.0]]'
+- '[[Changes/OpenCode/2026-01-25-terminal-prevent-crash-when-theme-search-returns-no-results|Terminal
+  Prevent crash when theme search returns no results]]'
+- '[[Changes/OpenCode/2026-01-25-6-developer-workflow-changes-in-v1-1-35|6 Developer
+  Workflow changes in v1.1.35]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-26-v0-0-395-github-280018620-9ba72686|github-copilot-cli-2026-01-26-v0-0-395-github-280018620-9ba72686]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +82,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.395
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-2-developer-workflow-changes-in-rust-v0-90-0|2 Developer Workflow changes in rust-v0.90.0]]
+- Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-6-developer-workflow-changes-in-v1-1-35|6 Developer Workflow changes in v1.1.35]]
 - Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-3-developer-workflow-changes-in-v2-1-20|3 Developer Workflow changes in v2.1.20]]
 <!-- chronolog:end -->
 

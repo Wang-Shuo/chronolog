@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ffc33fdbb33c7e0ce3ecc99bca91e6fd514909b62128b2640f09f4d247b5e1f8
+machine_hash: 9ae63c5184191439a33797085d87c5c623cd9fb40d5161120125431d2b15af58
 product: ollama
 product_name: Ollama
 record:
@@ -39,8 +39,8 @@ record:
   title: Added latest models to Ollama App
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-04-new-critic-agent-automatically-reviews-plans-and-complex-implementations-using-a|New
-  Critic agent automatically reviews plans and complex implementations using…]]'
+- '[[Changes/OpenCode/2026-04-06-support-azure-model-options-on-both-chat-and-responses-paths|Support
+  Azure model options on both chat and responses paths]]'
 - '[[Changes/Windsurf/2026-04-06-adaptive-model-router|Adaptive Model Router]]'
 - '[[Changes/Windsurf/2026-04-06-introducing-adaptive|Introducing Adaptive]]'
 source_release: '[[Releases/Ollama/ollama-2026-04-07-v0-20-3-github-305897915-6931c2d0|ollama-2026-04-07-v0-20-3-github-305897915-6931c2d0]]'

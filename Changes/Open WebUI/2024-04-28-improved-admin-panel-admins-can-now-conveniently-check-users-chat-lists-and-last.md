@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b02e1ad4a3f98baffc6668f4360cf9d90b6819114847cc6a9489abfc10b02c50
+machine_hash: 3c3730c257747b6537fcd3e722741e5e922b70b8030fbfe3ea60172ede382603
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,10 @@ record:
   title: "**\U0001F468\U0001F4BC Improved Admin Panel**"
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-02-21-enterprise-grade-data-protections-for-workspace-customers-is-now-available-in-ge|Enterprise-grade
-  data protections for Workspace customers is now available in Gemini]]'
-- '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-  improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+- '[[Changes/Runway/2024-03-22-we-released-a-metrics-dashboard-providing-enterprise-admins-metrics-to-help-eval|Workspace
+  analytics]]'
+- '[[Changes/Runway/2024-04-05-admins-can-now-configure-sso-for-new-users-to-request-access-instead-of-auto-add|Request
+  SSO access instead of auto-adding users]]'
 - '[[Changes/Dify/2024-04-22-feat-enterprise-sso-by-garfielddai-in-https-github-com-langgenius-dify-pull-3602|Feat/enterprise
   sso]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-04-28-v0-1-122-github-153113400-398d1a23|open-webui-2024-04-28-v0-1-122-github-153113400-398d1a23]]'

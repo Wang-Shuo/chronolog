@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 87d26386b57945743c05e257d6d919052003cae4d200b86d53d88682c9c0681d
+machine_hash: 6b99dd1460c62b69b414b98e3f97f53748659a7f3308d97d71e83f7fa3ae39a0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -242,7 +242,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-2-developer-workflow-changes-in-v1-0-44|2 Developer Workflow changes in v1.0.44]]
-- Later: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-2-developer-workflow-changes-in-v0-9-5|2 Developer Workflow changes in v0.9.5]]
+- Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-3-developer-workflow-changes-in-v1-14-44-2|3 Developer Workflow changes in v1.14.44 + 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

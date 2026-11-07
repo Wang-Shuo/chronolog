@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0c13dce978dd631413d03f38b9f1bc1ed1d7f60bf09e040eeb879b6723062053
+machine_hash: a8516249175360cb628897928f98ef76ab0b41c4a1e419adff78ab84c53da27e
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: New `/code <message>` command request a code edit while in `ask` mode
   type: change
 related_changes:
-- '[[Changes/Cline/2024-08-01-shows-diff-view-of-new-or-edited-files-right-in-the-editor|Shows
-  diff view of new or edited files right in the editor]]'
 - '[[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor
   Tab (previously called Copilot++) defaults to chunked streaming]]'
+- '[[Changes/Gamma/2024-08-02-we-just-launched-a-new-step-by-step-theme-builder-it-s-easier-and-more-fun-to-us|We
+  just launched a new step-by-step theme builder!]]'
 - '[[Changes/Aider/2024-08-10-diff-now-shows-diffs-of-all-changes-resulting-from-your-request-including-lint-a|/diff
   now shows diffs of all changes resulting from your request, including lint…]]'
 source_release: '[[Releases/Aider/aider-2024-08-13-v0-50-0-github-170044522-4391dc3d|aider-2024-08-13-v0-50-0-github-170044522-4391dc3d]]'

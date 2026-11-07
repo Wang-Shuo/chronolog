@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0521fd3c412112750288bcbf65aa335389769167ab5ffad8f1142f934c183dc7
+machine_hash: 2b418f6fcbfe8850f88a6a2f08df93440a1b26270da3be9ca749ba7d58a5005d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#14003 Stabilize split PTY output on Windows @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-opening-links-on-windows-correctly-handles-urls-with-query-parameters|Opening
-  links on Windows correctly handles URLs with & query parameters]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-06-diff-mode-displays-cleanly-on-windows-with-crlf-line-endings|Diff
-  mode displays cleanly on Windows with CRLF line endings]]'
-- '[[Changes/Codex CLI/2026-03-08-12702-improve-macos-seatbelt-network-and-unix-socket-handling-viyatb-oai|♯12702
-  Improve macOS Seatbelt network and unix socket handling @viyatb-oai]]'
+- '[[Changes/OpenCode/2026-03-08-10-mobile-and-desktop-changes-in-v1-2-22|10 Mobile
+  and Desktop changes in v1.2.22]]'
+- '[[Changes/OpenCode/2026-03-09-3-mobile-and-desktop-changes-in-v1-2-24|3 Mobile
+  and Desktop changes in v1.2.24]]'
+- '[[Changes/OpenCode/2026-03-09-5-mobile-and-desktop-changes-in-v1-2-23|5 Mobile
+  and Desktop changes in v1.2.23]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-11-rust-v0-114-0-github-295424880-aad043c8|codex-cli-2026-03-11-rust-v0-114-0-github-295424880-aad043c8]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-12702-improve-macos-seatbelt-network-and-unix-socket-handling-viyatb-oai|♯12702 Improve macOS Seatbelt network and unix socket handling @viyatb-oai]]
-- Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-2-mobile-and-desktop-changes-in-v1-0-5|2 Mobile and Desktop changes in v1.0.5]]
+- Earlier: 2026-03-09 · OpenCode · [[Changes/OpenCode/2026-03-09-5-mobile-and-desktop-changes-in-v1-2-23|5 Mobile and Desktop changes in v1.2.23]]
+- Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-10-mobile-and-desktop-changes-in-v1-2-25|10 Mobile and Desktop changes in v1.2.25]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: df806d8e15ba213eae8fbfb19d84a0717593496bb3a9692663c3cd79c1096bae
+machine_hash: e03cf467ebf9dd2a97b6a114d2b7306d1cc2964d8bc732e7f390927a01c71754
 product: lovable
 product_name: Lovable
 record:
@@ -52,12 +52,12 @@ record:
   title: Organize project files into collections
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-2-editor-experience-changes-in-rust-v0-155-0|2 Editor
-  Experience changes in rust-v0.155.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-2-editor-experience-changes-in-v1-0-86|2
   Editor Experience changes in v1.0.86]]'
 - '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
   Experience changes in v2.1.277]]'
+- '[[Changes/OpenClaw/2026-09-19-21-editor-experience-changes-in-v2026-9-5|21 Editor
+  Experience changes in v2026.9.5]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-20-2026-09-20-6151474c|lovable-2026-09-20-2026-09-20-6151474c]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor Experience changes in v2.1.277]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-21-editor-experience-changes-in-v2026-9-5|21 Editor Experience changes in v2026.9.5]]
 - Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-21-editor-experience-changes-in-v0-11-4|21 Editor Experience changes in v0.11.4]]
 <!-- chronolog:end -->
 

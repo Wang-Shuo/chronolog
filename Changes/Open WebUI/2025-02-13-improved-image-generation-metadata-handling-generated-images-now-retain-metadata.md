@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0db172d169b72d52708385383c675f9fa1fbe1383b9d47739228d3f1a00855f
+machine_hash: 099fb9f0c047ea8f8029fcae60e9e6d3a1454fb9667a19da38c2580bd4364a95
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,7 @@ record:
   title: "**\U0001F680 Improved Image Generation Metadata Handling**"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-12-27-image-generation-error-resolved-a-persistent-issue-causing-errors-with-get-autom|\U0001F3A8
-  Image Generation Error]]"
+- '[[Changes/Runway/2025-01-17-our-most-advanced-base-model-for-image-generation-offering-unprecedented-stylist|Frames]]'
 - "[[Changes/Open WebUI/2025-01-22-web-search-image-generation-permissions-easily-disable-web-search-and-image-gene|\U0001F50D
   Web Search & Image Generation Permissions]]"
 - '[[Changes/Gemini/2025-02-03-imagen-3-just-got-an-upgrade|Imagen 3 just got an upgrade]]'

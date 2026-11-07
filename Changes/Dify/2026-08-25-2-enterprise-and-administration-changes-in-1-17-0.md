@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 12d2749cb9efba4e80d47e82e1a50dd20e52491021d41a6dd0a3a35bec3e19cc
+machine_hash: 934596075310dff9b6c89dd8e2dd9702c09dd726d27b33e5667fb4339c58cae3
 product: dify
 product_name: Dify
 record:
@@ -42,11 +42,12 @@ record:
   title: 2 Enterprise and Administration changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-08-21-teams-and-enterprise|Teams and Enterprise]]'
-- '[[Changes/Replit/2026-08-21-control-agent-models-across-workspaces|Control Agent
-  models across Workspaces]]'
 - '[[Changes/Lovable/2026-08-24-contact-enterprise-support-from-your-project|Contact
   Enterprise support from your project]]'
+- '[[Changes/Runway/2026-08-24-org-admins-now-see-alerts-in-org-settings-when-workspaces-are-missing-sso-enforc|Org
+  Config Alerts]]'
+- '[[Changes/Runway/2026-08-24-org-admins-can-now-set-a-default-sso-configuration-that-automatically-applies-to|Default
+  SSO for New Workspaces]]'
 source_release: '[[Releases/Dify/dify-2026-08-25-1-17-0-github-376348099-66c16161|dify-2026-08-25-1-17-0-github-376348099-66c16161]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -96,7 +97,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-24 · Lovable · [[Changes/Lovable/2026-08-24-contact-enterprise-support-from-your-project|Contact Enterprise support from your project]]
+- Earlier: 2026-08-24 · Runway · [[Changes/Runway/2026-08-24-org-admins-can-now-set-a-default-sso-configuration-that-automatically-applies-to|Default SSO for New Workspaces]]
 - Later: 2026-08-25 · Lovable · [[Changes/Lovable/2026-08-25-only-free-and-pro-projects-are-eligible-for-linkedin-skills|Only Free and Pro projects are eligible for LinkedIn skills]]
 <!-- chronolog:end -->
 

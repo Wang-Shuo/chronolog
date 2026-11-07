@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: d4127d98ae4014aa5fef96537464a362a72c198710b53363088fb1883f446526
+machine_hash: f8be60c26291e618712deccef665b13c056674aa1523b21fd2dfa40b2c1e083b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: Retiring GPT-4o and other legacy models
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-27-new-ollama-launch-clawdbot-command-for-launching-clawdbot-using-ollama-models|New
-  ollama launch clawdbot command for launching Clawdbot using Ollama models]]'
 - '[[Changes/Cline/2026-01-28-2-model-support-changes-in-v3-55-0|2 Model Support changes
   in v3.55.0]]'
 - '[[Changes/Gemini CLI/2026-01-28-4-model-support-changes-in-v0-26-0|4 Model Support
   changes in v0.26.0]]'
+- '[[Changes/OpenCode/2026-01-28-8-model-support-changes-in-v1-1-37|8 Model Support
+  changes in v1.1.37]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16|chatgpt-2026-01-29-retiring-gpt-4o-and-other-legacy-models-71b41b16]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-4-model-support-changes-in-v0-26-0|4 Model Support changes in v0.26.0]]
-- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models|LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
+- Earlier: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-8-model-support-changes-in-v1-1-37|8 Model Support changes in v1.1.37]]
+- Later: 2026-01-29 · OpenCode · [[Changes/OpenCode/2026-01-29-ensure-variants-for-copilot-models-work-with-maxtokens-being-set|Ensure variants for Copilot models work with maxTokens being set]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

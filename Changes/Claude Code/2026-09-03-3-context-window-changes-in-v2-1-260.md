@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a974399cde613d6b2bb4ba65776a86f5445db89c24bf207e14d7c97c9931e8f3
+machine_hash: bca8badbb44f2768138d4b8ce2c17d5f441eb7da00763a677b8eb2f1fba93b3b
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Context Window changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring
-  your browser into Work and Codex]]'
-- '[[Changes/Codex CLI/2026-09-01-9-context-window-changes-in-rust-v0-152-0|9 Context
-  Window changes in rust-v0.152.0]]'
+- '[[Changes/OpenClaw/2026-09-01-3-context-window-changes-in-v2026-8-2|3 Context Window
+  changes in v2026.8.2]]'
+- '[[Changes/Google Antigravity/2026-09-02-you-can-now-highlight-portions-of-antigravity-responses-to-quote-as-context-for|Highlight
+  portions of Antigravity responses to quote as context for follow-up prompts]]'
 - '[[Changes/Ollama/2026-09-02-report-cached-prompt-tokens|Report cached prompt tokens]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases

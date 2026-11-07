@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35ba410637a9fdbe12ec1095b915b89c91fe1650e55fb03cabb8b2e186e7dcc0
+machine_hash: 5bfdd97f7f7d03967586e343b09b26b441442d8907ca87098f6d201e2ee6f140
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,8 +57,7 @@ record:
   title: 4 Memory and Personalization changes in v0.8.11
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-docs-document-tool-exclusion-from-memory-via-deny-policy-by-abhijit-2592-in-http|docs:
-  document tool exclusion from memory via deny policy]]'
+- '[[Changes/Midjourney/2026-03-17-other-tips-and-tricks|Other Tips and Tricks]]'
 - '[[Changes/Codex CLI/2026-03-19-4-memory-and-personalization-changes-in-rust-v0-116-0|4
   Memory and Personalization changes in rust-v0.116.0]]'
 - '[[Changes/Gemini CLI/2026-03-24-refactor-core-align-jit-memory-placement-with-tiered-context-model-by-sandytao52|refactor(core):

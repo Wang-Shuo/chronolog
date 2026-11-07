@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68d6399d8c6fc9689682c9736f511e37e87aa7d8679f8f5a0576888d2dee4c47
+machine_hash: 145c8d1b215ba4298705035a5e948b3e3aed7263690c234165c090bfec4aa71d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -150,7 +150,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-2-developer-workflow-changes-in-v2-1-301|2 Developer Workflow changes in v2.1.301]]
-- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-20-developer-workflow-changes-in-v0-12-3|20 Developer Workflow changes in v0.12.3]]
+- Later: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-mark-all-as-read-is-now-available-from-the-command-palette-whenever-you-have-unr|Mark All as Read is now available from the command palette whenever you have unread…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

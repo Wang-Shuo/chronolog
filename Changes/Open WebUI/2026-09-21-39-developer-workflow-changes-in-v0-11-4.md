@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dccffca104ef3e5ee94f8afdc3cd3e1c0cbf0f603cabb525ab47a62c79e501c0
+machine_hash: 7fbd3e4da6ade7b9919becf2a9f2ce99caca0fe96a580342d20234201d8bcb5c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -274,10 +274,10 @@ record:
   title: 39 Developer Workflow changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-the-status-row-now-says-it-is-waiting-for-background-shells-instead-of-working-w|The
-  status row now says it is waiting for background shells, instead…]]'
-- '[[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved
-  /ultrareview when there''s nothing to review]]'
+- '[[Changes/Google Antigravity/2026-09-18-a-command-that-is-killed-when-the-app-restarts-is-now-reported-as-canceled-inste|A
+  command that is killed when the app restarts is now reported as canceled instead…]]'
+- '[[Changes/OpenClaw/2026-09-19-29-developer-workflow-changes-in-v2026-9-5|29 Developer
+  Workflow changes in v2026.9.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5
   Developer Workflow changes in v1.0.87]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'

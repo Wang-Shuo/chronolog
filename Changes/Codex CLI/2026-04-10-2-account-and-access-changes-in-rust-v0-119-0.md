@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ea0fb0a5a5d3b3af01ee860d39194c4b48996197b9a721bf29ec3607a608ca84
+machine_hash: 4b205dae6750b7b17cc8ec5b343b9747f18b0b10a7a6c5aa29e81dcdf1c07946
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Account and Access changes in rust-v0.119.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-07-enterprise-github-url-input-in-the-login-flow-now-accepts-keyboard-input-and-sub|Enterprise
-  GitHub URL input in the login flow now accepts keyboard input and submits…]]'
+- '[[Changes/OpenCode/2026-04-08-core-improved-opencode-login-transport-error-messages|Core
+  Improved opencode login transport error messages]]'
 - '[[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added
   interactive Google Vertex AI setup wizard accessible from the login screen…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-09-support-bearer-token-authentication-for-byok-anthropic-models|Support
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-support-bearer-token-authentication-for-byok-anthropic-models|Support bearer token authentication for BYOK Anthropic models]]
-- Later: 2026-04-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-13-logout-shows-a-warning-when-signed-in-via-gh-cli-pat-api-key-or-environment-vari|/logout shows a warning when signed in via gh CLI, PAT, API key, or environment…]]
+- Later: 2026-04-10 · OpenCode · [[Changes/OpenCode/2026-04-10-extensions-added-configurable-oauth-redirect-uris-for-remote-mcp-servers|Extensions Added configurable OAuth redirect URIs for remote MCP servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 785a58347f006a97da19526c84b067b8357e46b161574d47196006dfc2519647
+machine_hash: 99a3b478565b7322222f4e7a925f25cfae55ddf5221486d9b8bb30095844574d
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,10 @@ record:
   title: New models from OpenAI and Anthropic
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-4-model-support-changes-in-v2-1-287|4 Model Support
-  changes in v2.1.287]]'
 - '[[Changes/Codex CLI/2026-10-01-5-model-support-changes-in-rust-v0-160-0|5 Model
   Support changes in rust-v0.160.0]]'
+- '[[Changes/Suno/2026-10-01-meet-the-first-model-to-create-a-speech-and-its-soundtrack-together-in-one-take|Introducing
+  Speech (beta)]]'
 - '[[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed
   the client-side auto mode classifier to ignore…]]'
 source_release: '[[Releases/Replit/replit-2026-10-02-2026-10-02-3eeb4015|replit-2026-10-02-2026-10-02-3eeb4015]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed the client-side auto mode classifier to ignore…]]
-- Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-2-model-support-changes-in-v2-1-290|2 Model Support changes in v2.1.290]]
+- Later: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-2-model-support-changes-in-v2026-9-8|2 Model Support changes in v2026.9.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

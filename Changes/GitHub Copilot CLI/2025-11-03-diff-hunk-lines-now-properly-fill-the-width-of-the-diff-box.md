@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a63d12f105ee58291ff98ddf4dcbe457a57516cdece1caadef06ae8e583bd3c
+machine_hash: 91899032f69936ab721920b1042dd2dc6fd002ab493982295808d105c039eb85
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Diff hunk lines now properly fill the width of the diff box
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-5-editor-experience-changes-in-v0-11-0|5 Editor
-  Experience changes in v0.11.0]]'
 - '[[Changes/Codex CLI/2025-10-30-chore-config-editor-in-https-github-com-openai-codex-pull-5878|chore:
   config editor in (source link)]]'
 - '[[Changes/v0/2025-10-30-you-can-now-edit-images-using-nano-banana-in-v0-turn-on-design-mode-select-an-im|Image
   Editing with Nano Banana]]'
+- '[[Changes/Gamma/2025-11-03-ever-made-the-perfect-edit-to-an-ai-image-only-to-lose-track-of-it-we-heard-you|Ever
+  made the perfect edit to an AI image, only to lose track of it?]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-03-v0-0-354-github-259401997-a713a92b|github-copilot-cli-2025-11-03-v0-0-354-github-259401997-a713a92b]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-10-30 · v0 · [[Changes/v0/2025-10-30-you-can-now-edit-images-using-nano-banana-in-v0-turn-on-design-mode-select-an-im|Image Editing with Nano Banana]]
+- Earlier: 2025-11-03 · Gamma · [[Changes/Gamma/2025-11-03-ever-made-the-perfect-edit-to-an-ai-image-only-to-lose-track-of-it-we-heard-you|Ever made the perfect edit to an AI image, only to lose track of it?]]
 - Later: 2025-11-04 · Windsurf · [[Changes/Windsurf/2025-11-04-editor-stability|Editor Stability]]
 <!-- chronolog:end -->
 

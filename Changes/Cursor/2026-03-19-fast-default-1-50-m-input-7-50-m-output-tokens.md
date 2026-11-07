@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 130920ae213c8f9e9098a522612759ae02a3de981781fe6bcc629f4ac6ff875f
+machine_hash: 84bba8a65fbd794ba90f38187c2d9daca467ffec6c424033f986a906db32d106
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,7 @@ record:
   title: 'Fast (default): $1.50/M input, $7.50/M output tokens'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-2-pricing-model-changes-in-v0-34-0|2 Pricing Model
-  changes in v0.34.0]]'
+- '[[Changes/Midjourney/2026-03-17-modes-and-pricing|Modes and Pricing]]'
 - '[[Changes/Cline/2026-03-19-add-missing-fireworks-serverless-models-and-pricing|Add
   missing Fireworks serverless models and pricing]]'
 - '[[Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens|Standard:

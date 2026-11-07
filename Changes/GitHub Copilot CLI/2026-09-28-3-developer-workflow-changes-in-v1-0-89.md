@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b27da3f38d0b3f5c37fa2b820afd1a4f64c4950057b7de11fca85ba3d965a655
+machine_hash: e66735bc88d669bfdb202d19c7294a88e82f63808ce475fe75b00d1c091d1629
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.89
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-flows-ffc074|Flows]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-3-developer-workflow-changes-in-v2-1-285|3 Developer Workflow changes in v2.1.285]]
+- Later: 2026-09-28 · Google Antigravity · [[Changes/Google Antigravity/2026-09-28-terminal-command-steps-in-the-conversation-now-stay-collapsed-by-default-while-r|Terminal command steps in the conversation now stay collapsed by default…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c0585a81797549a5e1140940491edf0c3a229d78af2ea07cb0aabfc3f0e41d4
+machine_hash: ac9b9b968bd47da98d172d379a3298261438b8aff941c3d53e1cd01612453c28
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 4 Agent Mode changes in rust-v0.144.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode
-  changes in v2.1.205]]'
 - '[[Changes/Codex CLI/2026-07-08-10-agent-mode-changes-in-rust-v0-143-0|10 Agent
   Mode changes in rust-v0.143.0]]'
+- '[[Changes/Runway/2026-07-08-agent-can-now-build-custom-skills-for-you-ask-it-to-create-one-from-scratch-or-t|Custom
+  Agent Skills]]'
 - '[[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT
   Work is an agent for longer, more involved tasks]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96|codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96]]'
@@ -103,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal|ChatGPT Work is an agent for longer, more involved tasks]]
-- Later: 2026-07-09 · OpenHands · [[Changes/OpenHands/2026-07-09-feat-enterprise-agent-profiles-on-the-cloud-saas-backend-15044-by-simonrosenberg|feat(enterprise): Agent Profiles on the cloud/SaaS backend (♯15044)]]
+- Later: 2026-07-09 · OpenCode · [[Changes/OpenCode/2026-07-09-desktop-updated-sub-agent-task-rows-to-match-the-v2-session-design-more-closely|Desktop Updated sub-agent task rows to match the v2 session design more closely]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

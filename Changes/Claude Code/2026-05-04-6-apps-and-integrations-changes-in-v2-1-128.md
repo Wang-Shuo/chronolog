@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a674d0211f197ec6e912ed34b6c088948434a5100c79716fb370db612d82e03
+machine_hash: a80bcaf15c83b43afe1346e37d5f0a0eee69b9b02a35f38a8804a7f8aa77210e
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,8 +56,8 @@ record:
   title: 6 Apps and Integrations changes in v2.1.128
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6
-  Apps and Integrations changes in v1.0.40]]'
+- '[[Changes/OpenCode/2026-05-01-core-invalid-remote-mcp-urls-now-fail-with-a-clear-error-instead-of-breaking-set|Core
+  Invalid remote MCP URLs now fail with a clear error instead of breaking setup]]'
 - '[[Changes/OpenHands/2026-05-01-2-apps-and-integrations-changes-in-1-7-0|2 Apps
   and Integrations changes in 1.7.0]]'
 - '[[Changes/Replit/2026-05-01-replit-app-monitoring-keeps-an-eye-on-your-published-apps|Replit

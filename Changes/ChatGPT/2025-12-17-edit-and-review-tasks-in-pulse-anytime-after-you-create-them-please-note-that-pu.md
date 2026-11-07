@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b85798b20bb112e21f5d0c7d837a7d6901cd2ccfff7fa1717903a4f86286ed05
+machine_hash: b547634460d77dbd31b686f054b07386dc020c3e860cade99135027c83b57e84
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-3-editor-experience-changes-in-v0-21-0|3 Editor Experience changes in v0.21.0]]
-- Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-7931-chore-persist-comments-in-edit|♯7931 chore: persist comments in edit]]
+- Later: 2025-12-17 · Google Antigravity · [[Changes/Google Antigravity/2025-12-17-performance-improvements-for-agent-manager-and-for-long-conversations-in-editor|Performance improvements for Agent Manager and for long conversations in editor windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

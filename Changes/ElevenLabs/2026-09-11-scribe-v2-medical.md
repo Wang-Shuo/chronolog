@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b76494e51b5c023ee418a1909773feec8ae9f39394fff903e3c50e7b012e28ad
+machine_hash: 893e7a5e8fdce49bc49ed4a6fbe9e39e6eb18d64a9876f9a07e649d42a1d8d31
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]
-- Later: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|Changes to automatic switching to thinking in ChatGPT (Plus and Pro)]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-20-model-support-changes-in-v2026-9-4|20 Model Support changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

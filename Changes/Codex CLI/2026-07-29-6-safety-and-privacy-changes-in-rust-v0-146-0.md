@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 480a93de0ac7e11bf9066106de536883220d719cf4b4a0c5a5945c42d554e664
+machine_hash: d2fd68bd8001ae2f42278cb6d4559aaf16e234225181719eae2140359a2e29a9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 6 Safety and Privacy changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-27-13-safety-and-privacy-changes-in-v0-11-0|13 Safety
-  and Privacy changes in v0.11.0]]'
 - '[[Changes/Dify/2026-07-28-11-safety-and-privacy-changes-in-1-16-1|11 Safety and
   Privacy changes in 1.16.1]]'
 - '[[Changes/Gemini CLI/2026-07-28-fix-a2a-server-enforce-workspace-trust-and-task-isolation-to-prevent-rce-by-luis|fix(a2a-server):
   enforce workspace trust and task isolation to prevent RCE]]'
+- '[[Changes/Google Antigravity/2026-07-28-3-safety-and-privacy-changes-in-hub-v2-4-3-preview-tabs-mcp|3
+  Safety and Privacy changes in HUB v2.4.3 — Preview tabs, MCP…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: safety-privacy
@@ -111,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-28 · Gemini CLI · [[Changes/Gemini CLI/2026-07-28-fix-a2a-server-enforce-workspace-trust-and-task-isolation-to-prevent-rce-by-luis|fix(a2a-server): enforce workspace trust and task isolation to prevent RCE]]
+- Earlier: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-3-safety-and-privacy-changes-in-hub-v2-4-3-preview-tabs-mcp|3 Safety and Privacy changes in HUB v2.4.3 — Preview tabs, MCP…]]
 - Later: 2026-07-29 · Lovable · [[Changes/Lovable/2026-07-29-fewer-false-alarms-in-dependency-scans|Fewer false alarms in dependency scans]]
 <!-- chronolog:end -->
 

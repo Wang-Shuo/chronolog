@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 024edfbd79fd00469fc09cd33b0614eb5066428b58584fc2d439ca24733320fa
+machine_hash: 5bdaef4afa8858f925ed67215b06fc7e30a3c923744136f1ed569bf8dfdba4fa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: '#14410 Make collab model metadata accurate on completion @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-2-interface-experience-changes-in-v1-0-4|2
-  Interface Experience changes in v1.0.4]]'
-- '[[Changes/v0/2026-03-11-added-tooltip-to-disabled-new-chat-button-for-view-only-access|Added
-  tooltip to disabled New Chat button for view-only access]]'
+- '[[Changes/OpenCode/2026-03-12-2-interface-experience-changes-in-v1-2-25|2 Interface
+  Experience changes in v1.2.25]]'
+- '[[Changes/OpenCode/2026-03-13-6-interface-experience-changes-in-v1-2-26|6 Interface
+  Experience changes in v1.2.26]]'
 - '[[Changes/Ollama/2026-03-14-or-using-openclaw-s-onboarding|Or using OpenClaw’s
   onboarding]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db|codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db]]'

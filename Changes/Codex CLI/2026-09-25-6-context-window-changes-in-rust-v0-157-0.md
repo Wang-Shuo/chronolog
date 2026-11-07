@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cac7d786e4504043102867db062ed5fb70a68c6174d4bbeb41fd57fadeedec2c
+machine_hash: 253cbdab1ccf0df2bcd3a169c04a33ef74d8aa947ab642cfaf316d513b44f950
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: 6 Context Window changes in rust-v0.157.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context
-  Window changes in rust-v0.156.0]]'
+- '[[Changes/OpenClaw/2026-09-23-25-context-window-changes-in-v2026-9-6|25 Context
+  Window changes in v2026.9.6]]'
 - '[[Changes/Cline/2026-09-24-long-replies-on-local-models-llama-cpp-ollama-lm-studio-that-hit-the-output-toke|Long
   replies on local models (llama.cpp, Ollama, LM Studio) that hit…]]'
 - '[[Changes/Claude Code/2026-09-25-2-context-window-changes-in-v2-1-283|2 Context

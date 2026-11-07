@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a071814040941a1226d4d50ddc40a02d922812ac46d83844c45b5b96d3f01b47
+machine_hash: 1f940853667a7d07f214397e0a54728a9c95fdd522f0001047f7464b22452956
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Reliability and Performance changes in v0.3.14
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-08-14-2-reliability-and-performance-changes-in-v0-3-13|2
-  Reliability and Performance changes in v0.3.13]]'
+- '[[Changes/Runway/2024-08-14-generate-7x-faster-for-half-the-price-of-the-original-gen-3-alpha-while-still-ma|Gen-3
+  Alpha Turbo]]'
 - '[[Changes/Aider/2024-08-20-improved-editing-performance-on-jupyter-notebook-ipynb-files|Improved
   editing performance on Jupyter Notebook .ipynb files]]'
 - '[[Changes/Ollama/2024-08-20-2-reliability-and-performance-changes-in-v0-3-7|2 Reliability

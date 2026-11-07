@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ee01bf4bbca0ceaa35fe5364f8211c399adc483e0662868f738efdcff7d0a89
+machine_hash: dbe3786e85b72d8037f1bd8cbcc5adcc0ddc18e2345b52866521122d34317678
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Developer Workflow changes in v2.3.9
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-14-ollama-0-24-includes-support-for-the-codex-app-openai-s-desktop-experience-for-w|Ollama
-  0.24 includes support for the Codex App, OpenAI''s desktop experience…]]'
-- '[[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer
-  Workflow changes in v2.1.143]]'
-- '[[Changes/v0/2026-05-15-bash-terminal-output-no-longer-flashes-empty-rows-while-commands-are-running|Bash
-  terminal output no longer flashes empty rows while commands are running]]'
+- '[[Changes/OpenCode/2026-05-16-reduced-unnecessary-prompting-around-shell-task-and-todo-flows|Reduced
+  unnecessary prompting around shell, task, and todo flows]]'
+- '[[Changes/OpenCode/2026-05-16-5-developer-workflow-changes-in-v1-15-1|5 Developer
+  Workflow changes in v1.15.1]]'
+- '[[Changes/OpenCode/2026-05-16-terminal-newly-pinned-sessions-now-stay-at-the-end-of-the-pinned-list-instead-of|Terminal
+  Newly pinned sessions now stay at the end of the pinned list instead…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-05-16-v2-3-9-a0bc6994|windsurf-2026-05-16-v2-3-9-a0bc6994]]'
 source_type: windsurf_changelog
 theme: developer-workflow
@@ -79,8 +79,8 @@ Source: https://docs.devin.ai/desktop/changelog#v2-3-9
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-bash-terminal-output-no-longer-flashes-empty-rows-while-commands-are-running|Bash terminal output no longer flashes empty rows while commands are running]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-12-developer-workflow-changes-in-rust-v0-131-0|12 Developer Workflow changes in rust-v0.131.0]]
+- Earlier: 2026-05-16 · OpenCode · [[Changes/OpenCode/2026-05-16-terminal-newly-pinned-sessions-now-stay-at-the-end-of-the-pinned-list-instead-of|Terminal Newly pinned sessions now stay at the end of the pinned list instead…]]
+- Later: 2026-05-17 · OpenCode · [[Changes/OpenCode/2026-05-17-core-fixed-custom-lsp-servers-not-sending-refresh-events-after-they-initialize|Core Fixed custom LSP servers not sending refresh events after they initialize]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

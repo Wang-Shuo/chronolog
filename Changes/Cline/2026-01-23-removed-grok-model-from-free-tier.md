@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 729ff78c81a487457acf5a85b7ccf86929199be82efc8c5d65a06d57bcd87629
+machine_hash: 274895e87e133681464b25ad9e96155773432d36e8dd4cafd54e86c9138d4cee
 product: cline
 product_name: Cline
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-add-models-as-alias-for-model-command|Add /models as alias for /model command]]
-- Later: 2026-01-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-24-directory-path-uses-consistent-muted-text-color-with-git-branch-and-model-displa|Directory path uses consistent muted text color with git branch and model display]]
+- Later: 2026-01-23 · OpenCode · [[Changes/OpenCode/2026-01-23-core-added-support-for-openai-based-gitlab-duo-models|Core Added support for OpenAI-based GitLab Duo models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

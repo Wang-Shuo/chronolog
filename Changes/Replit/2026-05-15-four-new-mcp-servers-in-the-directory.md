@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 706c38d50ecc397922084360d39c609e7accbf5f60d3b00eaa9c4df706a2fbf0
+machine_hash: 4b29d1dd4371c8c86d6f7bd5e99b48a4139f7b880ad6092fb630f0aaaf8ccaa1
 product: replit
 product_name: Replit
 record:
@@ -60,8 +60,8 @@ record:
   title: Four new MCP servers in the directory
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3
-  Apps and Integrations changes in v2.1.143]]'
+- '[[Changes/OpenCode/2026-05-15-2-apps-and-integrations-changes-in-v1-15-0|2 Apps
+  and Integrations changes in v1.15.0]]'
 - '[[Changes/Replit/2026-05-15-integrations|Integrations]]'
 - '[[Changes/Replit/2026-05-15-nine-new-connectors-ready-to-use-out-of-the-box|Nine
   new connectors ready to use out of the box]]'
@@ -109,7 +109,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3 Apps and Integrations changes in v2.1.143]]
+- Earlier: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-2-apps-and-integrations-changes-in-v1-15-0|2 Apps and Integrations changes in v1.15.0]]
 - Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-the-built-with-v0-badge-respects-branding-settings-on-deployed-apps-and-the-prev|The "built with v0" badge respects branding settings on deployed apps…]]
 <!-- chronolog:end -->
 

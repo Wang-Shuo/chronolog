@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0d094a7b432ee09194ad93a0af17d90ccd764860701f70b1657bf8d0118bf76
+machine_hash: 526d0d16dceee8e8964be80e746d14379484c42635a23a230369cdb9332c0fe0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-updated-mcp-oauth-to-support-client-id-metadata-document-cimd-sep-991-for-server|Updated MCP OAuth to support Client ID Metadata Document (CIMD / SEP-991)…]]
-- Later: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-mcp-oauth-authentication-works-with-mcp-servers-like-the-atlassian-rovo-mcp-serv|MCP OAuth authentication works with MCP servers like the Atlassian Rovo MCP Server…]]
+- Later: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-4-account-and-access-changes-in-v1-3-0|4 Account and Access changes in v1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

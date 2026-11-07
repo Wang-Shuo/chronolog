@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 651cb0a77717134dd1d970312611bfbeb10402c30578fa25355a209ee1a2b2bd
+machine_hash: fa17c27e03fab13e8d696bd167ca92c236bca56bec208ccea003efea284cad9a
 product: lovable
 product_name: Lovable
 record:
@@ -43,12 +43,12 @@ record:
   title: Resources removed from the dashboard sidebar
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-24-interface-experience-changes-in-v0-11-1|24 Interface
-  Experience changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed
   the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]'
 - '[[Changes/Codex CLI/2026-08-26-6-interface-experience-changes-in-rust-v0-150-0|6
   Interface Experience changes in rust-v0.150.0]]'
+- '[[Changes/Google Antigravity/2026-08-26-2-interface-experience-changes-in-hub-v2-11-0-generative-ui-and-ui|2
+  Interface Experience changes in HUB v2.11.0 — Generative UI and UI…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-26-2026-08-26-bad08262|lovable-2026-08-26-2026-08-26-bad08262]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-6-interface-experience-changes-in-rust-v0-150-0|6 Interface Experience changes in rust-v0.150.0]]
+- Earlier: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-2-interface-experience-changes-in-hub-v2-11-0-generative-ui-and-ui|2 Interface Experience changes in HUB v2.11.0 — Generative UI and UI…]]
 - Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface Experience changes in v2.1.248]]
 <!-- chronolog:end -->
 

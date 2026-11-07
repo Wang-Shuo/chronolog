@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf79f6628573539409f5393866ea12aeb23a964c570ea3b3357e704b9d7d477a
+machine_hash: fa5d2cc3ee7a0e42d1acd920fad4b93232990bb5a8c792e389e06fdfd0e11571
 product: openhands
 product_name: OpenHands
 record:
@@ -43,9 +43,9 @@ record:
   title: Optimize memory usage in FileEditObservation
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-02-07-from-python-to-go-https-lovable-dev-blog-from-python-to-go-for-stability-respons|From
-  Python to Go((source link) for stability…]]'
 - '[[Changes/Replit/2025-02-07-improved-database-viewer|Improved database viewer]]'
+- '[[Changes/Gamma/2025-02-11-finding-the-perfect-layout-just-got-easier-you-can-now-search-within-the-insert|Search
+  in the Insert Menu!]]'
 - "[[Changes/Open WebUI/2025-02-13-connection-settings-stability-addressed-connection-settings-issues-that-were-cau|\U0001F511
   Connection Settings Stability]]"
 source_release: '[[Releases/OpenHands/openhands-2025-02-13-0-24-0-github-200146983-89f4a101|openhands-2025-02-13-0-24-0-github-200146983-89f4a101]]'

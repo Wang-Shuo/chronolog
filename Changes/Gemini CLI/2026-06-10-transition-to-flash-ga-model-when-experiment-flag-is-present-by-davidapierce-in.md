@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: eca7610c2337fb8fd462bf51aeafaabfafe5a2a41b2f60d862baf27aaf9d9991
+machine_hash: b74b174cde7d102cf734f3d6110049cbf813ec05a964bfb9d6be24284d0cbe36
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]]
-- Later: 2026-06-10 · OpenHands · [[Changes/OpenHands/2026-06-10-added-llm-profiles-by-vascosch92-in-https-github-com-openhands-openhands-pull-14|Added LLM profiles]]
+- Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-4-model-support-changes-in-v1-17-0|4 Model Support changes in v1.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

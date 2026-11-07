@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21521683fdf59b03a16e4f15377a8e327d2b7353ad8b38365f352acd71368325
+machine_hash: ffcaaa47c596ed8c211f4957a1b406194d2f0497c519d2e1c815af348a5e16eb
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Accessibility and Localization changes in v2.1.288
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-46040-default-tui-animations-off-when-a-screen-reader-is-detected-etraut-openai|♯46040
-  Default TUI animations off when a screen reader is detected @etraut-openai]]'
 - '[[Changes/Claude Code/2026-09-23-improved-screen-reader-output-in-mcp-a-disabled-server-is-read-as-off-instead-of|Improved
   screen-reader output in /mcp]]'
+- '[[Changes/OpenClaw/2026-09-23-localization-maintenance-removes-entries-whose-interface-text-has-already-been-r|Localization
+  maintenance removes entries whose interface text has already been…]]'
 - '[[Changes/Claude Code/2026-10-01-changed-screen-reader-mode-to-write-new-or-changed-lines-without-first-pausing-w|Changed
   screen reader mode to write new or changed lines without first pausing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'

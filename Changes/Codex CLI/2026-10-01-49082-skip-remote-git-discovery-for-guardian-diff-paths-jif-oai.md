@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef5666459186d72348ce669caa3987ca89bac3d0e324fc347f5ece8fb2f4e3cd
+machine_hash: a0606fe13ed5abf548ca64d6e28c372210ec01233e1867d6a1fa265c85753a6d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#49082 Skip remote Git discovery for Guardian diff paths @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-3-editor-experience-changes-in-rust-v0-159-0|3 Editor
-  Experience changes in rust-v0.159.0]]'
 - '[[Changes/Claude Code/2026-09-30-improved-the-external-editor-ctrl-g-editors-that-take-a-line-number-now-open-on|Improved
   the external editor (Ctrl+G)]]'
+- '[[Changes/OpenClaw/2026-09-30-9-editor-experience-changes-in-v2026-9-7|9 Editor
+  Experience changes in v2026.9.7]]'
 - '[[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode
   Changed the Claude in Chrome "Enabled by default" switch to also connect…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode Changed the Claude in Chrome "Enabled by default" switch to also connect…]]
-- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-2-editor-experience-changes-in-v1-0-92|2 Editor Experience changes in v1.0.92]]
+- Later: 2026-10-02 · Midjourney · [[Changes/Midjourney/2026-10-02-editing|EDITING]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

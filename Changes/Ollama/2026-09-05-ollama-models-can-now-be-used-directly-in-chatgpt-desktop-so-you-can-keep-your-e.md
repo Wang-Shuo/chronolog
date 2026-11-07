@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7942d3d3f6303b2a367ee53315f8985128062659259275825e80624c9cb05683
+machine_hash: da68c43397ea9bf03a5130fcedaceb1ebe04f3f5b95c2ac034a1e74216920795
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +44,12 @@ record:
   title: Ollama models can now be used directly in ChatGPT Desktop, so you can keep…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-improved-the-model-picker-and-the-vs-code-model-pill-to-show-a-model-s-name-inst|Improved
-  the /model picker and the VS Code model pill to show a model''s name…]]'
-- '[[Changes/Codex CLI/2026-09-04-3-model-support-changes-in-rust-v0-153-3|3 Model
-  Support changes in rust-v0.153.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-3-model-support-changes-in-v1-0-83|3 Model
   Support changes in v1.0.83]]'
+- '[[Changes/OpenCode/2026-09-04-core-fixes-issue-of-gpt-6-astra-not-showing-up-for-openai-subscription-users|Core
+  Fixes issue of gpt-6-astra not showing up for openai subscription users]]'
+- '[[Changes/OpenCode/2026-09-04-allow-codex-oauth-model-filtering-to-recognize-integer-gpt-versions-like-gpt-6|Allow
+  Codex OAuth model filtering to recognize integer GPT versions like gpt-6]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-05-v0-34-0-github-383028723-ab16dad6|ollama-2026-09-05-v0-34-0-github-383028723-ab16dad6]]'
 source_type: github_releases
 theme: model-support
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-3-model-support-changes-in-v1-0-83|3 Model Support changes in v1.0.83]]
-- Later: 2026-09-08 · Lovable · [[Changes/Lovable/2026-09-08-gpt-6-astra-gemini-3-8-flash-and-gemini-3-5-transcribe-for-your-app-s-ai-feature|GPT-6 Astra, Gemini 3.8 Flash, and Gemini 3.5 Transcribe for your app's AI features]]
+- Earlier: 2026-09-04 · OpenCode · [[Changes/OpenCode/2026-09-04-allow-codex-oauth-model-filtering-to-recognize-integer-gpt-versions-like-gpt-6|Allow Codex OAuth model filtering to recognize integer GPT versions like gpt-6]]
+- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-17-model-support-changes-in-v2026-9-2|17 Model Support changes in v2026.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

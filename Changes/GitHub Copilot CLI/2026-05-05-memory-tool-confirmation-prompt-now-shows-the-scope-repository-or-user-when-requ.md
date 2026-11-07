@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6b9df989ff955b18bf49719d685b83f372d2f5c68c83d93218d62444bcd7661
+machine_hash: 5017cbf7fe287fa5bb1c2522ff45dd88eec26f44b3031551dba3534d48136ccd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: Memory tool confirmation prompt now shows the scope (repository or user)…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-05-01-added-sandbox-kvm-enabled-environment-variable-to-enable-passing-dev-kvm-to-sand|Added
-  SANDBOX_KVM_ENABLED environment variable to enable passing /dev/kvm to sandbox…]]'
+- '[[Changes/OpenCode/2026-05-02-core-agents-can-use-the-global-temp-directory-without-extra-permission-prompts|Core
+  Agents can use the global temp directory without extra permission prompts]]'
 - '[[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK
   hosts now receive a persistent localSettings suggestion for Bash permission…]]'
 - '[[Changes/Gemini CLI/2026-05-05-feat-cli-secure-env-loading-and-enforce-workspace-trust-in-headless-mode-by-ehed|feat(cli):

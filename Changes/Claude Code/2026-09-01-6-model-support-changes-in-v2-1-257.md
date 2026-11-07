@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6a3baf5cba51ebb855ab44674b57271ef3318d65336b1ce9cf23000a4284f6b9
+machine_hash: d4a4944ff28ce300566d79c2600fc97f9de67d0cb8844307d2d4e66a721e2ebb
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,10 +59,10 @@ record:
   title: 6 Model Support changes in v2.1.257
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-31-priority-processing-now-works-with-gemini-chat-models|Priority
-  processing now works with Gemini chat models]]'
-- '[[Changes/Open WebUI/2026-08-31-10-model-support-changes-in-v0-11-2|10 Model Support
-  changes in v0.11.2]]'
+- '[[Changes/OpenClaw/2026-08-31-models-and-providers-chat-and-the-models-page-open-from-the-catalog-openclaw-alr|Models
+  and Providers - Chat and the Models page open from the catalog OpenClaw…]]'
+- '[[Changes/Runway/2026-08-31-ruby-is-now-available-as-its-own-model-in-the-tool-mode-model-selector-with-a-de|Runway
+  Ruby in Tool Mode]]'
 - '[[Changes/Claude/2026-09-01-claude-fable-5-1-and-claude-mythos-5-1-launch|Claude
   Fable 5.1 and Claude Mythos 5.1 launch]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'

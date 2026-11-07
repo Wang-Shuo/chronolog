@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a749b71bec15b4a607abaa8bbdd64d429254f6429a579b0acfed860f0fea950
+machine_hash: 9999c71282e1284df5b8d61f38e5526f53986c8271bf305f843613eeaac5cd8e
 product: claude-code
 product_name: Claude Code
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-28 · ChatGPT · [[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect multiple Google accounts to ChatGPT]]
-- Later: 2026-08-28 · Lovable · [[Changes/Lovable/2026-08-28-connect-your-app-to-gitlab-api|Connect your app to GitLab API]]
+- Later: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-build-more-with-gamma-s-api-and-connectors|Build more with Gamma’s API and connectors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2869f1e7dce104575518c71aaaeae6123b1acc2c786380414023a9ed2d627e48
+machine_hash: f364ef8468273b0ef9c5baee39441a64e18b4365e6178d565b8d0fb8cd0e910b
 product: windsurf
 product_name: Windsurf
 record:
@@ -61,12 +61,12 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A
-  clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex]]'
 - '[[Changes/ChatGPT/2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a|ChatGPT
   updates the ChatGPT desktop app to make it easier to choose between Chat…]]'
 - '[[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue
   Work across devices]]'
+- '[[Changes/OpenCode/2026-07-16-3-mobile-and-desktop-changes-in-v1-18-3|3 Mobile
+  and Desktop changes in v1.18.3]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-17-v3-5-17-c6033639|windsurf-2026-07-17-v3-5-17-c6033639]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-16 · ChatGPT · [[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue Work across devices]]
+- Earlier: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-3-mobile-and-desktop-changes-in-v1-18-3|3 Mobile and Desktop changes in v1.18.3]]
 - Later: 2026-07-20 · ElevenLabs · [[Changes/ElevenLabs/2026-07-20-android-sdk|Android SDK]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eee5d59caf87389a1d4164415e78bbdfabd1013358f5b569ed9b4c9f95ad24ad
+machine_hash: 73c9ea281a2f7649ac2b3038c691aeed9b7c1ed9a14e3d02ff12e0852992bb87
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,8 +55,8 @@ record:
     across…"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-3-reliability-and-performance-changes-in-v2-1-314|3
-  Reliability and Performance changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-desktop-fixed-timeline-growth-zoom-end-scrolling-highlighting-and-dom-observer-p|Desktop
+  Fixed timeline growth, zoom-end scrolling, highlighting, and DOM-observer…]]'
 - '[[Changes/ElevenLabs/2026-11-02-fixes-history-items-for-v4-generations-keep-clone-strength-and-speed-in-their-sa|Fixes:
   History items for v4 generations keep clone_strength and speed…]]'
 - '[[Changes/Ollama/2026-11-03-faster-top-k-sampling-on-mlx-for-large-vocabularies|Faster
@@ -107,7 +107,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-faster-top-k-sampling-on-mlx-for-large-vocabularies|Faster top-k sampling on MLX for large vocabularies]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-3-reliability-and-performance-changes-in-v1-0-106|3 Reliability and Performance changes in v1.0.106]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-incognito-conversations-now-keep-openclaw-conversation-contents-in-memory-instea|Incognito conversations now keep OpenClaw conversation contents in memory instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

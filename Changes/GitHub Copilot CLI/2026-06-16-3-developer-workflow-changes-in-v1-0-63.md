@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 209730f88c454d8bd1d6f5e5b415afe58b938c05952d996f306e20d41e9003e8
+machine_hash: aade00dd697fc8b3a20951f5a959049c7154493c11694fb61eff1e005d410e7d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Developer Workflow changes in v1.0.63
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-6-developer-workflow-changes-in-v1-0-62|6
-  Developer Workflow changes in v1.0.62]]'
+- '[[Changes/OpenCode/2026-06-14-core-acp-shell-tool-calls-now-show-the-command-and-working-directory-from-the-st|Core
+  ACP shell tool calls now show the command and working directory from the start]]'
 - '[[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved
   /doctor with consistent flat tree layout across all sections, clearer…]]'
 - '[[Changes/Codex CLI/2026-06-15-6-developer-workflow-changes-in-rust-v0-140-0|6

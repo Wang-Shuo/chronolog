@@ -1,0 +1,107 @@
+---
+card_id: google-antigravity-2026-06-22-50deca
+date: '2026-06-22'
+description: 'Google Antigravity · 2026-06-22 · Safety and Privacy: Fixed Agent Permission
+  Issue: Fixed the bug where changes to the agent security mode were not persisted.'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1163
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: safety-privacy
+  tracked_products_count: 29
+evolves_from: []
+extractor_version: fallback-v5
+impact: paradigm-shift
+kind: fix
+machine_hash: bbb4406dd16a45c34ffb897d5409cb946638c9c3553845b3ca4baa80c244216e
+product: google-antigravity
+product_name: Google Antigravity
+record:
+  ai_generated: true
+  card_id: google-antigravity-2026-06-22-50deca
+  comparison: ''
+  confidence: low
+  date: '2026-06-22'
+  description: 'Google Antigravity — IDE v2.1.1 — Model quota screen and agent security
+    fixes: Fixed Agent Permission Issue: Fixed the bug where changes to the agent
+    security mode were not persisted.'
+  evidence:
+  - quote: 'Fixed Agent Permission Issue: Fixed the bug where changes to the agent
+      security mode were not persisted.'
+    source_release: https://antigravity.google/releases?tab=ide&version=2.1.1
+  extractor_version: fallback-v5
+  impact: paradigm-shift
+  kind: fix
+  product: google-antigravity
+  product_name: Google Antigravity
+  slug: fixed-agent-permission-issue-fixed-the-bug-where-changes-to-the-agent-security-m
+  source_release: google-antigravity-2026-06-22-rel-ide-2-1-1-6777845b
+  source_type: antigravity_changelog
+  theme: safety-privacy
+  theme_matches:
+  - matched_terms:
+    - agent
+    score: 50
+    theme: agent-mode
+  - matched_terms:
+    - security
+    score: 50
+    theme: safety-privacy
+  theme_resolution: manual-semantic-rule-v2
+  title: Fixed Agent Permission Issue
+  type: change
+related_changes:
+- '[[Changes/v0/2026-06-19-responding-to-an-agent-prompt-for-an-environment-variable-permission-question-or|Responding
+  to an agent prompt for an environment variable, permission, question…]]'
+- '[[Changes/Claude Code/2026-06-22-2-safety-and-privacy-changes-in-v2-1-186|2 Safety
+  and Privacy changes in v2.1.186]]'
+- '[[Changes/Codex CLI/2026-06-22-12-safety-and-privacy-changes-in-rust-v0-142-0|12
+  Safety and Privacy changes in rust-v0.142.0]]'
+source_release: '[[Releases/Google Antigravity/google-antigravity-2026-06-22-rel-ide-2-1-1-6777845b|google-antigravity-2026-06-22-rel-ide-2-1-1-6777845b]]'
+source_type: antigravity_changelog
+theme: safety-privacy
+title: Fixed Agent Permission Issue
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Fixed Agent Permission Issue
+
+**Google Antigravity** · 2026-06-22 · [[Themes/safety-privacy|Safety and Privacy]] · Fix · [Official source](https://antigravity.google/releases?tab=ide&version=2.1.1) · from [[Releases/Google Antigravity/google-antigravity-2026-06-22-rel-ide-2-1-1-6777845b|IDE v2.1.1 — Model quota screen and agent security fixes]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Fixed Agent Permission Issue: Fixed the bug where changes to the agent security mode were not persisted.
+>
+> Source: https://antigravity.google/releases?tab=ide&version=2.1.1
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Google Antigravity/2026-06-22-2-apps-and-integrations-changes-in-ide-v2-1-1-model-quota-screen|2 Apps and Integrations changes in IDE v2.1.1 — Model quota screen…]] · Apps and Integrations
+- [[Changes/Google Antigravity/2026-06-22-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota screen redesign]] · Pricing Model
+- [[Changes/Google Antigravity/2026-06-22-new-entries-in-the-sensitive-paths-list-vscode-and-cache-are-now-recognized-as-s|New entries in the sensitive paths list]] · Agent Mode
+- [[Changes/Google Antigravity/2026-06-22-model-quota-screen-and-agent-security-fixes|Model quota screen and agent security fixes]] · Safety and Privacy
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-12-safety-and-privacy-changes-in-rust-v0-142-0|12 Safety and Privacy changes in rust-v0.142.0]]
+- Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-safety-and-privacy-changes-in-v2-1-187|2 Safety and Privacy changes in v2.1.187]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20google-antigravity-2026-06-22-50deca&body=Card%3A%20Changes%2FGoogle%20Antigravity%2F2026-06-22-fixed-agent-permission-issue-fixed-the-bug-where-changes-to-the-agent-security-m.md%0ACard%20ID%3A%20google-antigravity-2026-06-22-50deca%0ASource%3A%20https%3A%2F%2Fantigravity.google%2Freleases%3Ftab%3Dide%26version%3D2.1.1%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

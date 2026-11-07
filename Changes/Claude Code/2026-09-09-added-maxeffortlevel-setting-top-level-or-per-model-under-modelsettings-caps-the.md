@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 821a867157dcbdbf78df4092377be4dee2842c091e3c1196aa93b16199cf6868
+machine_hash: 0c45757fa7f38601e4dd2fca14a845198268cbe18ed67f09c20536be9c6ebfb7
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Added `maxEffortLevel` setting (top-level or per model under `modelSettings`)
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-05-ollama-models-can-now-be-used-directly-in-chatgpt-desktop-so-you-can-keep-your-e|Ollama
-  models can now be used directly in ChatGPT Desktop, so you can keep…]]'
 - '[[Changes/Lovable/2026-09-08-gpt-6-astra-gemini-3-8-flash-and-gemini-3-5-transcribe-for-your-app-s-ai-feature|GPT-6
   Astra, Gemini 3.8 Flash, and Gemini 3.5 Transcribe for your app''s AI features]]'
+- '[[Changes/OpenClaw/2026-09-08-15-model-support-changes-in-v2026-9-3|15 Model Support
+  changes in v2026.9.3]]'
 - '[[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT
   Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'

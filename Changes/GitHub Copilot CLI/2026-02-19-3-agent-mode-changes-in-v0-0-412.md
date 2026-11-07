@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a7cd72bfee1ea33c2227a6033e232166b0852e4dd560156a956ea8a94b1a5f2
+machine_hash: eff493ef9fbcaf3fbf2f940fe9c796751a4535229a63cfe390ea9bee1a0eee14
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-8-agent-mode-changes-in-v0-29-0|8 Agent Mode changes in v0.29.0]]
-- Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes in v2.1.50]]
+- Later: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-core-migrate-agent-ts-from-bun-file-to-filesystem-module|Core Migrate agent.ts from Bun.file() to Filesystem module]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

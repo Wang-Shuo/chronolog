@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: b625b261f2d1799c22b33037430e5e6fbb81f0df5c78b268281cbacdc0eee67e
+machine_hash: 05c014a4979fd12bc56c1739fea02e65f7a6bd0ab9ca697bbb059e0fef787089
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -65,7 +65,8 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]'
+- '[[Changes/OpenClaw/2026-10-18-2-agent-mode-changes-in-v2026-10-5|2 Agent Mode changes
+  in v2026.10.5]]'
 - '[[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode
   changes in v2.1.304]]'
 - '[[Changes/Claude Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s|Added

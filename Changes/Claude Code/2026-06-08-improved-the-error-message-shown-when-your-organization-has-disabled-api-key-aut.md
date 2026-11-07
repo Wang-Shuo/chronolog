@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4628531589647b1dca777ccf51f03494e8405cbf3f640d41370001e58ef57755
+machine_hash: 0a204c031cb670011bcfdf5e677d6d763167e32f5d7a596888c261b12b35ecee
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     key…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added
-  a prompt before writing to shell startup files…]]'
+- '[[Changes/Google Antigravity/2026-06-02-enterprise-authentication-fix|Enterprise
+  Authentication Fix]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-mcp-oauth-re-authentication-no-longer-fails-with-an-address-in-use-error-when-a|MCP
   OAuth re-authentication no longer fails with an address-in-use error…]]'
 - '[[Changes/Windsurf/2026-06-06-increased-proxy-authentication-timeout|Increased

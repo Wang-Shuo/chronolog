@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 769cfefea1580907968d662c1109e6c47674773dfaa7a10a2a37283470338373
+machine_hash: 3ed37e84f540d1b3b22511ef64f06cb1b528d0d56a639a7a1db7c1cf35729bd1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 6 Developer Workflow changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer
-  Workflow changes in v2.1.172]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-13-6-developer-workflow-changes-in-v1-0-62|6
-  Developer Workflow changes in v1.0.62]]'
+- '[[Changes/OpenCode/2026-06-13-2-developer-workflow-changes-in-v1-17-6-1|2 Developer
+  Workflow changes in v1.17.6 + 1]]'
+- '[[Changes/OpenCode/2026-06-14-core-acp-shell-tool-calls-now-show-the-command-and-working-directory-from-the-st|Core
+  ACP shell tool calls now show the command and working directory from the start]]'
 - '[[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved
   /doctor with consistent flat tree layout across all sections, clearer…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'

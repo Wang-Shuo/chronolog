@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a99ea5334600f34a938b899c6f9719cf38b5f5ccb716f37929efdf18d6ce83c9
+machine_hash: dc55861a425cbf028c6c22856eafa31bd0559ea8a685968d53c20e14cb4750e9
 product: windsurf
 product_name: Windsurf
 record:
@@ -62,11 +62,11 @@ record:
   title: Devin Local
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-2-agent-mode-changes-in-v2-1-152|2 Agent Mode
-  changes in v2.1.152]]'
 - '[[Changes/Gemini CLI/2026-05-27-4-agent-mode-changes-in-v0-44-0|4 Agent Mode changes
   in v0.44.0]]'
 - '[[Changes/Lovable/2026-05-27-subagents|Subagents]]'
+- '[[Changes/OpenCode/2026-05-27-core-experimental-background-agents-now-push-updates-without-polling|Core
+  Experimental background agents now push updates without polling]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-05-27-v2-3-15-208045a3|windsurf-2026-05-27-v2-3-15-208045a3]]'
 source_type: windsurf_changelog
 theme: agent-mode
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-27 · Lovable · [[Changes/Lovable/2026-05-27-subagents|Subagents]]
+- Earlier: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-core-experimental-background-agents-now-push-updates-without-polling|Core Experimental background agents now push updates without polling]]
 - Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-4-agent-mode-changes-in-v2-1-154|4 Agent Mode changes in v2.1.154]]
 <!-- chronolog:end -->
 

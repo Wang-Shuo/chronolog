@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29b3561c61f19c10550e8e16e5eb44de8591fe499d0f12460e5e7dd6fab83245
+machine_hash: 562166d2b5ae07cdb6b4a1214b5090c989636a2e374884c39b0ac16e6716d6e0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,12 +57,12 @@ record:
   title: 3 Context Window changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-3-context-window-changes-in-v1-0-64|3 Context
-  Window changes in v1.0.64]]'
 - '[[Changes/Codex CLI/2026-06-25-2-context-window-changes-in-rust-v0-142-2|2 Context
   Window changes in rust-v0.142.2]]'
 - '[[Changes/Dify/2026-06-25-3-context-window-changes-in-1-15-0|3 Context Window changes
   in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-improved-readability-of-context-pills-by-truncating-long-labels-and-adding-hover|Improved
+  readability of context pills by truncating long labels and adding hover…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'
 source_type: github_releases
 theme: context-window
@@ -117,7 +117,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-3-context-window-changes-in-1-15-0|3 Context Window changes in 1.15.0]]
+- Earlier: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-improved-readability-of-context-pills-by-truncating-long-labels-and-adding-hover|Improved readability of context pills by truncating long labels and adding hover…]]
 - Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-keep-session-store-searches-and-context-lookups-responsive|Keep session-store searches and context lookups responsive]]
 <!-- chronolog:end -->
 

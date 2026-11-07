@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0360b814117d6db660d31def99e0a4c1c634704de8c973c6a72a433891764d92
+machine_hash: f1a6330f8826ec8601b7889084ebdf2acd403a4483b2092fab796fbb1b3a5ebc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,10 +57,10 @@ record:
   title: 9 Collaboration changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-44354-extract-shared-footer-hint-wrapping-in-the-tui-copyberry|♯44354
-  Extract shared footer hint wrapping in the TUI @copyberry]]'
 - '[[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed
   /ultrareview in non-interactive sessions to refuse when the repository has…]]'
+- '[[Changes/OpenClaw/2026-09-19-14-collaboration-changes-in-v2026-9-5|14 Collaboration
+  changes in v2026.9.5]]'
 - '[[Changes/Open WebUI/2026-09-21-4-collaboration-changes-in-v0-11-4|4 Collaboration
   changes in v0.11.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'

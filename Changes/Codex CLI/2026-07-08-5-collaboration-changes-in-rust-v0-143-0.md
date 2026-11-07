@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 43a24ae3796e06217b2cfeb3ef57a7fe9cafa8a82b3a741c46ca66b4b7554e89
+machine_hash: 63b779a578202861c70b1d52fed1bd03b373d0943507109ba6d107acb7edff1b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 5 Collaboration changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration
-  changes in v1.0.66]]'
+- '[[Changes/OpenClaw/2026-06-30-5-collaboration-changes-in-v2026-6-11|5 Collaboration
+  changes in v2026.6.11]]'
 - '[[Changes/Lovable/2026-07-07-the-last-owner-cannot-leave-a-shared-folder|The last
   owner cannot leave a shared folder]]'
 - '[[Changes/v0/2026-07-07-3-collaboration-changes-in-grouped-tool-approvals-richer-mcp|3

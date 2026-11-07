@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cdcd653de34f1ddadb36bad413e124947faa34e44f5e8635a33626d1d2273c6e
+machine_hash: a996bae22a1d048e02a15ef64d4dc5e0e523dcfee1c1c6ee2c83c4c559f276a6
 product: lovable
 product_name: Lovable
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-3-interface-experience-changes-in-rust-v0-152-0|3 Interface Experience changes in rust-v0.152.0]]
-- Later: 2026-09-01 · v0 · [[Changes/v0/2026-09-01-if-you-prefer-the-typical-git-workflow-you-can-still-create-and-merge-pull-reque|If you prefer the typical Git workflow, you can still create and merge pull requests…]]
+- Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-3-interface-experience-changes-in-v2026-8-2|3 Interface Experience changes in v2026.8.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

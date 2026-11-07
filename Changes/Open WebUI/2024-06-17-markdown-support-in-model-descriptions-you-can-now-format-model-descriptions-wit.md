@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5f44bf95cd90284813156c66736f3dbd4fe757648286bd0a5b40594db5a2cd80
+machine_hash: d8f6e8ef1cf4dc602dfe1c46a052f3b5ff462473fecbdd7985c5e262adcbb2fc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,11 +46,12 @@ record:
   title: "**\U0001F4DD Markdown Support in Model Descriptions**"
   type: change
 related_changes:
-- '[[Changes/DeepSeek API/2024-06-14-deepseek-coder|deepseek-coder]]'
 - '[[Changes/Dify/2024-06-14-11-model-support-changes-in-0-6-11|11 Model Support changes
   in 0.6.11]]'
 - '[[Changes/Ollama/2024-06-15-2-model-support-changes-in-v0-1-45|2 Model Support
   changes in v0.1.45]]'
+- '[[Changes/Midjourney/2024-06-17-we-re-starting-a-new-research-project-to-explore-the-origins-of-beauty-basically|We''re
+  starting a new research project to explore the origins of beauty.]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-17-v0-3-5-github-160767704-89fd917e|open-webui-2024-06-17-v0-3-5-github-160767704-89fd917e]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-06-15 · Ollama · [[Changes/Ollama/2024-06-15-2-model-support-changes-in-v0-1-45|2 Model Support changes in v0.1.45]]
+- Earlier: 2024-06-17 · Midjourney · [[Changes/Midjourney/2024-06-17-we-re-starting-a-new-research-project-to-explore-the-origins-of-beauty-basically|We're starting a new research project to explore the origins of beauty.]]
 - Later: 2024-06-20 · Aider · [[Changes/Aider/2024-06-20-2-model-support-changes-in-v0-39-0|2 Model Support changes in v0.39.0]]
 <!-- chronolog:end -->
 

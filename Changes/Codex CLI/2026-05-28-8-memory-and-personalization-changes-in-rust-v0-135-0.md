@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d929306e353d1a56549927f63c9643fbb410a0419270476f61cfeb87f4b62ba0
+machine_hash: 3ce54824effbd7b0325cb2b2a8803a41a58012c987a72ca2a4e81e1cbbed8779
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: 8 Memory and Personalization changes in rust-v0.135.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-2-memory-and-personalization-changes-in-v0-43-0|2
-  Memory and Personalization changes in v0.43.0]]'
 - '[[Changes/Codex CLI/2026-05-26-22915-3-of-4-tui-route-feature-and-memory-toggles-through-app-server-etraut-open|♯22915
   3 of 4 tui: route feature and memory toggles through app server @etraut-openai]]'
 - '[[Changes/Gemini CLI/2026-05-27-chore-clean-up-launched-memory-features-by-sandytao520-in-https-github-com-googl|chore:
   clean up launched memory features]]'
+- '[[Changes/Midjourney/2026-05-27-activating-a-niji-6-or-v6-personalization-profile-no-longer-immediately-deselect|Activating
+  a Niji 6 or V6 Personalization profile no longer immediately deselects it]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-28-rust-v0-135-0-github-331012967-2f52956b|codex-cli-2026-05-28-rust-v0-135-0-github-331012967-2f52956b]]'
 source_type: github_releases
 theme: memory
@@ -111,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.135.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-chore-clean-up-launched-memory-features-by-sandytao520-in-https-github-com-googl|chore: clean up launched memory features]]
+- Earlier: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-activating-a-niji-6-or-v6-personalization-profile-no-longer-immediately-deselect|Activating a Niji 6 or V6 Personalization profile no longer immediately deselects it]]
 - Later: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-vote-memory-tool-calls-are-throttled-per-response-and-per-interaction-to-prevent|vote_memory tool calls are throttled per response and per interaction to prevent…]]
 <!-- chronolog:end -->
 

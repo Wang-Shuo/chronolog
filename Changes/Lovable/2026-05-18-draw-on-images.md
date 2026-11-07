@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: dd76d81370d17105e710c6406cf739749263d039b4c95f65ec73e632e7a58627
+machine_hash: 80d0abef6086b602aa24a4cd1a2bc1fef830b0a233360e1ce8cb490c94624f3e
 product: lovable
 product_name: Lovable
 record:
@@ -60,10 +60,10 @@ record:
   title: Draw on images
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved
-  reactive compaction]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context
-  shows correct token limits for all models instead of always showing 128k]]'
+- '[[Changes/OpenCode/2026-05-15-core-fixed-repeated-auto-compaction-in-sessions-after-compaction-reordered-messa|Core
+  Fixed repeated auto-compaction in sessions after compaction reordered messages]]'
+- '[[Changes/OpenCode/2026-05-16-terminal-fixed-async-commands-losing-the-active-instance-context-which-could-bre|Terminal
+  Fixed async commands losing the active instance context, which could break…]]'
 - '[[Changes/Codex CLI/2026-05-18-7-context-window-changes-in-rust-v0-131-0|7 Context
   Window changes in rust-v0.131.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-18-2026-05-18-640aaf83|lovable-2026-05-18-2026-05-18-640aaf83]]'

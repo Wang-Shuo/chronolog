@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 110c0e10ead42afc0ef369eebbb6ace7b60ca99768d262fe5a27bf15944dc153
+machine_hash: 051a4c0bef6821f464b4eca6bd92f4a54558b858579ddadfa1027b2bb3eb4f00
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,7 @@ record:
     [on|off]`)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In
-  the Sessions tab, rows you can dismiss now take x then x again to confirm]]'
+- '[[Changes/Midjourney/2026-09-24-editing|EDITING]]'
 - '[[Changes/Lovable/2026-09-25-open-cited-web-sources-from-an-answer|Open cited web
   sources from an answer]]'
 - '[[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore

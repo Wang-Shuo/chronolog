@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c299853d9a96c9dc6c3331c8ebe87a262fbc696f5b7f87504f3b15ba041b0385
+machine_hash: 2bdec6d1973b41705c5e6e99c2d0f42283da475307c1323d26a1ed06ada73f9b
 product: cursor
 product_name: Cursor
 record:
@@ -47,8 +47,7 @@ record:
   title: 2 Model Support changes in CLI Improvements and Mermaid ASCII…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-17-2-model-support-changes-in-v0-0-411|2 Model
-  Support changes in v0.0.411]]'
+- '[[Changes/Midjourney/2026-02-17-please-note|Please Note]]'
 - '[[Changes/Open WebUI/2026-02-17-4-model-support-changes-in-v0-8-3|4 Model Support
   changes in v0.8.3]]'
 - '[[Changes/Codex CLI/2026-02-18-2-model-support-changes-in-rust-v0-104-0|2 Model

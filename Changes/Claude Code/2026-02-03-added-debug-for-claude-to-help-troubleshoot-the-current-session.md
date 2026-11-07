@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 788dc554cafbc805c5f96d09f67ac3922032615a445e10d9caca5669b7f31d82
+machine_hash: 320c45b89dc12686e703997642e74425461f19b53912bea3e08a900731d2e1b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Added `/debug` for Claude to help troubleshoot the current session
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-30-3-developer-workflow-changes-in-v0-0-400|3
-  Developer Workflow changes in v0.0.400]]'
 - '[[Changes/Codex CLI/2026-01-31-6-developer-workflow-changes-in-rust-v0-93-0|6 Developer
   Workflow changes in rust-v0.93.0]]'
+- '[[Changes/OpenCode/2026-01-31-core-handle-redirected-statement-treesitter-node-in-bash-permissions|Core
+  Handle redirected statement treesitter node in bash permissions]]'
 - '[[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer
   Workflow changes in v2.1.30]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-6-developer-workflow-changes-in-rust-v0-93-0|6 Developer Workflow changes in rust-v0.93.0]]
+- Earlier: 2026-01-31 · OpenCode · [[Changes/OpenCode/2026-01-31-core-handle-redirected-statement-treesitter-node-in-bash-permissions|Core Handle redirected statement treesitter node in bash permissions]]
 - Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-2-developer-workflow-changes-in-1-12-0|2 Developer Workflow changes in 1.12.0]]
 <!-- chronolog:end -->
 

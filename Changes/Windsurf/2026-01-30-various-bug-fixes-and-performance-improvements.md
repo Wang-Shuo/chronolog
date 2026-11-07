@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d91bcbff91b763e96f0ed9838c80a1dcfa608dcd3c9fbb50a18a705f282d89ef
+machine_hash: d9da505cdcfc6653e1b27075d3675b01c46f4eda1e2aa445fa26f7c176fab236
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,12 +40,12 @@ record:
   title: Various bug fixes and performance improvements
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-23-improved-overall-stability-and-reliability|Improved
-  overall stability and reliability]]'
-- '[[Changes/Ollama/2026-01-24-glm-4-7-flash-performance-and-correctness-improvements-fixing-repetitive-answers|GLM-4.7-Flash
-  performance and correctness improvements, fixing repetitive answers…]]'
+- '[[Changes/OpenCode/2026-01-25-3-reliability-and-performance-changes-in-v1-1-35|3
+  Reliability and Performance changes in v1.1.35]]'
 - '[[Changes/Cline/2026-01-27-throttle-diff-view-updates-during-streaming-to-reduce-ui-flickering-and-improve|Throttle
   diff view updates during streaming to reduce UI flickering and improve…]]'
+- '[[Changes/OpenCode/2026-01-28-3-reliability-and-performance-changes-in-v1-1-37|3
+  Reliability and Performance changes in v1.1.37]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-30-v1-9544-24-02c78afb|windsurf-2026-01-30-v1-9544-24-02c78afb]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-27 · Cline · [[Changes/Cline/2026-01-27-throttle-diff-view-updates-during-streaming-to-reduce-ui-flickering-and-improve|Throttle diff view updates during streaming to reduce UI flickering and improve…]]
+- Earlier: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-3-reliability-and-performance-changes-in-v1-1-37|3 Reliability and Performance changes in v1.1.37]]
 - Later: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-3-reliability-and-performance-changes-in-rust-v0-93-0|3 Reliability and Performance changes in rust-v0.93.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ec6921459ace05ff1b9db2bc59d7355122fe1e9a5af0eb7457dd7973fe9688f6
+machine_hash: 9f4b79ad51390c02be7f535d90006606280d476326f2ac5b46c2c93b97e4945f
 product: windsurf
 product_name: Windsurf
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-feat-add-type-field-to-pipelinerecommendedplugin-model-add-query-param-type-to-r|feat: Add "type" field to PipelineRecommendedPlugin model]]
-- Later: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-model-picker-shows-clearer-message-with-settings-link-when-models-are-unavailabl|Model picker shows clearer message with settings link when models are unavailable]]
+- Later: 2025-12-30 · OpenCode · [[Changes/OpenCode/2025-12-30-core-add-extract-reasoning-middleware|Core Add extract reasoning middleware]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

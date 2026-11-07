@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 08dfbcf074dda39cf053c2e848e898da18538bdf64cc431298d170a055bb6f8c
+machine_hash: efe48d2f4007fcca987ec0900f8565a1647878a04573e764c6e8f0a3d0b8fbce
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,7 +48,8 @@ record:
   title: 2 Reliability and Performance changes in v0.6.6
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]'
+- '[[Changes/Suno/2025-05-01-faster-creation-speed-is-substantially-improved-for-your-creative-process|Faster
+  creation — Speed is substantially improved for your creative process]]'
 - '[[Changes/Replit/2025-05-02-app-type-selector-fully-launched|App type selector
   fully launched]]'
 - '[[Changes/Ollama/2025-05-03-2-reliability-and-performance-changes-in-v0-6-8|2 Reliability

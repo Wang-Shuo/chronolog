@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83119d14dadfb7e6a223cd00e756ab569542a01ab767d2bc00adfba1f1508447
+machine_hash: 77fbcf7cc8f6947e60af6fcdfbf9519ce38585e86399eaa00234d1423e0c90f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     clearer…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-6-developer-workflow-changes-in-v1-0-61|6
-  Developer Workflow changes in v1.0.61]]'
-- '[[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer
-  Workflow changes in v2.1.172]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-6-developer-workflow-changes-in-v1-0-62|6
   Developer Workflow changes in v1.0.62]]'
+- '[[Changes/OpenCode/2026-06-13-2-developer-workflow-changes-in-v1-17-6-1|2 Developer
+  Workflow changes in v1.17.6 + 1]]'
+- '[[Changes/OpenCode/2026-06-14-core-acp-shell-tool-calls-now-show-the-command-and-working-directory-from-the-st|Core
+  ACP shell tool calls now show the command and working directory from the start]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-6-developer-workflow-changes-in-v1-0-62|6 Developer Workflow changes in v1.0.62]]
+- Earlier: 2026-06-14 · OpenCode · [[Changes/OpenCode/2026-06-14-core-acp-shell-tool-calls-now-show-the-command-and-working-directory-from-the-st|Core ACP shell tool calls now show the command and working directory from the start]]
 - Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-6-developer-workflow-changes-in-rust-v0-140-0|6 Developer Workflow changes in rust-v0.140.0]]
 <!-- chronolog:end -->
 

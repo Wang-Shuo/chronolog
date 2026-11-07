@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a3665855a9731af3b15565aee5eacc669a3da530055983eb66307d1c07cb5f6f
+machine_hash: 8c00b9391e0ff59b089d341b3ae7a067152e55779c38f0fe7bd983458e09d4a0
 product: dify
 product_name: Dify
 record:
@@ -57,10 +57,10 @@ record:
   title: 3 Editor Experience changes in 1.19.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-11-02-project-monitoring-catches-errors-in-your-visitors-browsers|Project
-  monitoring catches errors in your visitors'' browsers]]'
 - '[[Changes/Open WebUI/2026-11-03-4-editor-experience-changes-in-v0-13-0|4 Editor
   Experience changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-3-editor-experience-changes-in-v2026-10-10|3 Editor
+  Experience changes in v2026.10.10]]'
 - '[[Changes/OpenHands/2026-11-03-feat-files-add-a-download-button-to-the-files-tab-ohe-3834-by-hieptl-in-https-gi|feat(files):
   add a Download button to the Files tab (OHE-3834)]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'

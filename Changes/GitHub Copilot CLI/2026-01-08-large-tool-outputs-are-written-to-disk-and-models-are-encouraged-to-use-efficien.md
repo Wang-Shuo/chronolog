@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a08d3a4ab73a934380229be2a0aabb16a581a46b2d93d270f1244cb232bb10c1
+machine_hash: 61e54ab35b49f41cfcbfcc5e654384c78ae2ad0bd0142bc2344a7dcb341b0d1c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model list and selection]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged slash commands and skills, simplifying the mental model with no change in behavior]]
+- Later: 2026-01-08 · OpenCode · [[Changes/OpenCode/2026-01-08-2-model-support-changes-in-v1-1-7|2 Model Support changes in v1.1.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

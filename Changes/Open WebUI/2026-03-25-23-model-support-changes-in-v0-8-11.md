@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c44c72eda13f029f52a54d00c6d3541407c4da6bdd5a0f6451c8fddb83845db7
+machine_hash: 82e2ee62a39a3f0e71a69f3eb64fb49fc5d7050a26afd19371c8cd5bc399a0d9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -152,10 +152,10 @@ record:
   title: 23 Model Support changes in v0.8.11
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-23-ensure-models-appear-in-picker-correctly-display-model-names-where-possible|Ensure
-  models appear in picker correctly, display model names where possible]]'
 - '[[Changes/Gemini CLI/2026-03-24-7-model-support-changes-in-v0-35-0|7 Model Support
   changes in v0.35.0]]'
+- '[[Changes/Google Antigravity/2026-03-25-added-support-for-reading-rules-from-agents-md-in-addition-to-gemini-md|Added
+  support for reading rules from AGENTS.md in addition to GEMINI.md]]'
 - '[[Changes/Ollama/2026-03-25-if-you-have-ollama-installed-any-local-or-cloud-model-from-ollama-can-be-selecte|If
   you have Ollama installed, any local or cloud model from Ollama can be selected…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69|open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69]]'

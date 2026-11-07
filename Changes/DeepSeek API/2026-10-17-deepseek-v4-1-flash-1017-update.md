@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 91a7b27f8cc965952de88cdf257fdeb72571b7fb85e0a0736707546008741179
+machine_hash: f96dbd58e73604ba5c0e93a3f75bf15f6624e79518e02c2286260e9e85e573c7
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -95,8 +95,8 @@ record:
   title: DeepSeek-V4.1-Flash-1017 Update
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-16-3-model-support-changes-in-v0-12-3|3 Model Support
-  changes in v0.12.3]]'
+- '[[Changes/OpenCode/2026-10-16-core-configure-model-reasoning-options-to-generate-reasoning-variants-replacing|Core
+  Configure model reasoning options to generate reasoning variants, replacing…]]'
 - '[[Changes/Replit/2026-10-16-claude-haiku-5-5-in-the-model-selector|Claude Haiku
   5.5 in the model selector]]'
 - '[[Changes/v0/2026-10-16-gemini-4-requests-no-longer-fail-when-run-at-higher-effort-levels|Gemini

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7bd0927e5310680a1a096fbe2101cf3098ead3dc0f1f8059349e44fd2a99107d
+machine_hash: ffdbd80ad0b5eb69472defcdd514f69c41aabf36c2482813960b6aedcd66c210
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -63,10 +63,10 @@ record:
   title: 10 Apps and Integrations changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps
-  and Integrations changes in v2.1.14]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-20-enable-all-github-mcp-tools-flag-now-enables-read-write-github-mcp-tools|--enable-all-github-mcp-tools
-  flag now enables read-write GitHub MCP tools]]'
+- '[[Changes/OpenCode/2026-01-20-core-ensure-truncation-handling-applies-to-mcp-servers|Core
+  Ensure truncation handling applies to MCP servers]]'
+- '[[Changes/OpenCode/2026-01-20-preserve-tool-input-from-running-state-for-mcp-tool-results|Preserve
+  tool input from running state for MCP tool results]]'
 - '[[Changes/Codex CLI/2026-01-21-3-apps-and-integrations-changes-in-rust-v0-88-0|3
   Apps and Integrations changes in rust-v0.88.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397|gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397]]'

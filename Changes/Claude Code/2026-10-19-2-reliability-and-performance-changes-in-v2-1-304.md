@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a1b2537f51815eef9bd8fb8f0114699779789850c4d08b4ca3b5d2d9851636e
+machine_hash: a4c1cb7bd0a90958fc0060a71578c6a2b63be1671b738526889f97262432adc1
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,11 @@ record:
   title: 2 Reliability and Performance changes in v2.1.304
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]'
 - '[[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]'
 - "[[Changes/Open WebUI/2026-10-16-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
+- '[[Changes/OpenClaw/2026-10-16-node-worker-memory-limits-node-workers-can-honor-their-configured-javascript-hea|Node
+  worker memory limits]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
 source_type: github_releases
 theme: reliability-performance
@@ -89,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
+- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-node-worker-memory-limits-node-workers-can-honor-their-configured-javascript-hea|Node worker memory limits]]
 - Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2 Reliability and Performance changes in v2.1.309]]
 <!-- chronolog:end -->
 

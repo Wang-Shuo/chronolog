@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14e25621988df63efdcf9b85421a57c10f295672851280f47f6936010895bbc8
+machine_hash: f0b6a862be3b358356fe7506e1aaf108120e098a7d73e80fc4ba8a0c022679e7
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: '> Please use the following command instead'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-14-add-create-pull-request-skill|Add create-pull-request
-  skill]]'
-- '[[Changes/Codex CLI/2026-01-14-5-developer-workflow-changes-in-rust-v0-81-0|5 Developer
-  Workflow changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-feat-add-folder-suggestions-to-dir-add-command-by-jackwotherspoon-in-https-githu|feat:
   add folder suggestions to /dir add command]]'
+- '[[Changes/OpenCode/2026-01-14-terminal-ensure-external-directory-and-bash-tool-invocations-render-working-dire|Terminal
+  Ensure external directory and Bash tool invocations render working…]]'
+- '[[Changes/OpenCode/2026-01-14-5-developer-workflow-changes-in-v1-1-20|5 Developer
+  Workflow changes in v1.1.20]]'
 source_release: '[[Releases/Dify/dify-2026-01-15-1-11-4-github-276958085-bf7e8274|dify-2026-01-15-1-11-4-github-276958085-bf7e8274]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-feat-add-folder-suggestions-to-dir-add-command-by-jackwotherspoon-in-https-githu|feat: add folder suggestions to /dir add command]]
-- Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added session URL attribution to commits and PRs created from web sessions]]
+- Earlier: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-5-developer-workflow-changes-in-v1-1-20|5 Developer Workflow changes in v1.1.20]]
+- Later: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-2-developer-workflow-changes-in-v1-1-21|2 Developer Workflow changes in v1.1.21]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

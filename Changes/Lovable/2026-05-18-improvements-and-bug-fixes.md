@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2fd46423d76ce95f9f5e99c0b204e8ddfdbf2c3f55dcc13623620b7709d79bd
+machine_hash: 541221589a8a844aac50c41b2058953bd3f1756e69df208cd4c9f23991cdf3d6
 product: lovable
 product_name: Lovable
 record:
@@ -77,12 +77,12 @@ record:
   title: Improvements and bug fixes
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-19443-add-gpt-image-2-to-bundled-openai-docs-skill-kkahadze-oai|♯19443
-  Add gpt-image-2 to bundled OpenAI Docs skill @kkahadze-oai]]'
 - '[[Changes/Ollama/2026-05-07-cleaner-image-generation-layout-in-the-mlx-runner|Cleaner
   image generation layout in the MLX runner]]'
 - '[[Changes/Open WebUI/2026-05-10-2-image-generation-changes-in-v0-9-5|2 Image Generation
   changes in v0.9.5]]'
+- '[[Changes/Gamma/2026-05-15-brainstorm-generate-and-edit-images-in-chat|Brainstorm,
+  generate, and edit images in chat]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-18-2026-05-18-640aaf83|lovable-2026-05-18-2026-05-18-640aaf83]]'
 source_type: lovable_changelog
 theme: image-generation
@@ -141,7 +141,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-2-image-generation-changes-in-v0-9-5|2 Image Generation changes in v0.9.5]]
+- Earlier: 2026-05-15 · Gamma · [[Changes/Gamma/2026-05-15-brainstorm-generate-and-edit-images-in-chat|Brainstorm, generate, and edit images in chat]]
 - Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-3-image-generation-changes-in-rust-v0-136-0|3 Image Generation changes in rust-v0.136.0]]
 <!-- chronolog:end -->
 

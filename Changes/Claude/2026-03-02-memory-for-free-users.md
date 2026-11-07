@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 3a1e16aea730fcf97f90115871c6566a65a4bdbf21f7d21365f3a384a2c994fd
+machine_hash: d9e5338b5200115662715742b6f2994899f9156c6f141030a806823b463bd541
 product: claude
 product_name: Claude
 record:
@@ -47,10 +47,10 @@ record:
   title: Memory for free users
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-26-claude-automatically-saves-useful-context-to-auto-memory-manage-with-memory|Claude
-  automatically saves useful context to auto-memory]]'
-- '[[Changes/Codex CLI/2026-02-26-3-memory-and-personalization-changes-in-rust-v0-106-0|3
-  Memory and Personalization changes in rust-v0.106.0]]'
+- '[[Changes/Midjourney/2026-02-26-we-ve-got-a-new-personalization-interface-on-web|We''ve
+  got a new personalization interface on web]]'
+- '[[Changes/Midjourney/2026-02-26-this-lets-you-make-personalization-profiles-by-clicking-and-scrolling-through-a|This
+  lets you make personalization profiles by clicking and scrolling through a list…]]'
 - '[[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project
   configs & auto memory now shared across git worktrees of the same repository]]'
 source_release: '[[Releases/Claude/claude-2026-03-02-2026-03-02-97fa6f5d|claude-2026-03-02-2026-03-02-97fa6f5d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eac936b1717f3fe86170b04e0fec932bf44b49db97d5973f451db490fb34c55a
+machine_hash: c38bc882b97c156968861be5cb933b3c311d011bd84262bc270afbd38ef97929
 product: claude-code
 product_name: Claude Code
 record:
@@ -75,10 +75,10 @@ record:
   title: 10 Developer Workflow changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-13-deleting-a-slash-command-from-the-input-keeps-the-spacing-of-the-text-around-it|Deleting
-  a slash command from the input keeps the spacing of the text around it]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-background-shell-wait-status-no-longer-animates-when-no-foreground-work-is-runni|Background-shell
   wait status no longer animates when no foreground work is running]]'
+- '[[Changes/OpenClaw/2026-10-13-5-developer-workflow-changes-in-v2026-10-3|5 Developer
+  Workflow changes in v2026.10.3]]'
 - '[[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added
   a dir prop on a mod''s Text for right-to-left text]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'

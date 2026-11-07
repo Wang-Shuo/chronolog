@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44d73872898ed7b649de8d26a72b0784f6b6cf900cc97448cbbd9ae9ef0b01f7
+machine_hash: ef26dd51e9f64b1ffdab8a65b44a7ec2535294dbe727e4b6eca8c6f2379f2fb6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in v0.40.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-27-2-model-support-changes-in-v1-0-37|2 Model
-  Support changes in v1.0.37]]'
+- '[[Changes/Midjourney/2026-04-27-we-re-preparing-some-major-aesthetic-updates-for-v8-1-8-2-and-we-want-your-help|We''re
+  preparing some major aesthetic updates for v8.1/8.2 and we want your help…]]'
 - '[[Changes/ChatGPT/2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model|Easier
   model selection in ChatGPT]]'
 - '[[Changes/Claude Code/2026-04-28-opentelemetry-added-stop-reason-gen-ai-response-finish-reasons-and-user-system-p|OpenTelemetry:

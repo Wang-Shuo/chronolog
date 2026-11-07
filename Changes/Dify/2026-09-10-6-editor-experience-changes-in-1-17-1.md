@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2e1b54d0d3eae880fd599e0dd31471450a2edc93c0317d5f6d0b5656a71ed51
+machine_hash: 94c935488e2eac6c4a9ba9fc67b3655aaefa668c104aae354e376627c8849190
 product: dify
 product_name: Dify
 record:
@@ -58,8 +58,8 @@ record:
   title: 6 Editor Experience changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746
-  Handle pending network reviews after process completion @copyberry]]'
+- '[[Changes/Google Antigravity/2026-09-09-2-editor-experience-changes-in-hub-v2-13-0-introducing-new-documents|2
+  Editor Experience changes in HUB v2.13.0 — Introducing new Documents…]]'
 - '[[Changes/Lovable/2026-09-09-explore-changes-with-drafts|Explore changes with drafts]]'
 - '[[Changes/Claude Code/2026-09-10-added-browser-tab-icons-for-published-artifacts-chosen-by-claude-to-match-each-p|Added
   browser-tab icons for published artifacts, chosen by Claude to match each page]]'

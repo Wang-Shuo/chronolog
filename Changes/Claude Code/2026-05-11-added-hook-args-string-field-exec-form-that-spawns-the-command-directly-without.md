@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 70ab2f84be0af4d05ca3be452f4cade2a8a58d729f028b7e86531c1828c4c6d1
+machine_hash: bf6731bffb80d94f279d7cd8045e37b1f5a75eb79777f7e68e00d41eb18ff8de
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 'Added hook `args: string[]` field (exec form) that spawns the command directly…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-08-2-developer-workflow-changes-in-v1-0-44|2
-  Developer Workflow changes in v1.0.44]]'
-- '[[Changes/Open WebUI/2026-05-09-22-developer-workflow-changes-in-v0-9-3|22 Developer
-  Workflow changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-09-3-developer-workflow-changes-in-v1-14-44-2|3 Developer
+  Workflow changes in v1.14.44 + 2]]'
 - '[[Changes/Open WebUI/2026-05-10-2-developer-workflow-changes-in-v0-9-5|2 Developer
   Workflow changes in v0.9.5]]'
+- '[[Changes/OpenCode/2026-05-10-2-developer-workflow-changes-in-v1-14-45|2 Developer
+  Workflow changes in v1.14.45]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-2-developer-workflow-changes-in-v0-9-5|2 Developer Workflow changes in v0.9.5]]
+- Earlier: 2026-05-10 · OpenCode · [[Changes/OpenCode/2026-05-10-2-developer-workflow-changes-in-v1-14-45|2 Developer Workflow changes in v1.14.45]]
 - Later: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-2-developer-workflow-changes-in-v1-0-45|2 Developer Workflow changes in v1.0.45]]
 <!-- chronolog:end -->
 

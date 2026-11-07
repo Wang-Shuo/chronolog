@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb550560ecffce1e41ba357fa00e498dd01efe49bcb687c03368b149e4fac812
+machine_hash: 23ab149cea2e39bf1613a123b5ef26e51f21e9ec8a6faf5e2c5299a3a6d7c3bf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#14493 memories: focus write prompts on user preferences @andi-oai'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-11-feat-implement-slash-command-handling-in-acp-for-memory-init-extensions-and-rest|feat:
-  Implement slash command handling in ACP for /memory,/init,/extensions…]]'
 - '[[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added
   autoMemoryDirectory setting to configure a custom directory for auto-memory…]]'
+- '[[Changes/OpenCode/2026-03-12-core-multiple-jdtls-lsps-eating-memory-in-java-monorepos|Core
+  Multiple jdtls LSPs eating memory in Java monorepos]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-memory-storage-errors-now-indicate-when-repository-doesn-t-exist-or-you-lack-wri|Memory
   storage errors now indicate when repository doesn''t exist or you lack write access]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db|codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4d937917c5ccdbfce1e99e0b0e0dfc5b40a3794b0b888f43bf07cc6483754a17
+machine_hash: 698fd5b610f5679bbb3fe22a640d5443d89f6f1c7bfef2eda8fbc8dc75de4a35
 product: cursor
 product_name: Cursor
 record:
@@ -93,7 +93,7 @@ Source: https://cursor.com/changelog/2-3
 ## Nearby in Interface Experience
 
 - Earlier: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-model-picker-favorites-ordering-star-toggle-and-keyboard-navigation-for-openrout|Model picker favorites ordering, star toggle, and keyboard navigation for OpenRouter…]]
-- Later: 2026-01-06 · Cline · [[Changes/Cline/2026-01-06-show-notification-instead-of-opening-sidebar-on-update|Show notification instead of opening sidebar on update]]
+- Later: 2026-01-04 · OpenCode · [[Changes/OpenCode/2026-01-04-core-add-tui-session-selection-api-endpoint-for-navigation|Core Add TUI session selection API endpoint for navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

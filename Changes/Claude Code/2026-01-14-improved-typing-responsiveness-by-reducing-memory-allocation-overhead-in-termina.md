@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a2632bf21119233c9ddedcc3ee1ff9e6652b07817615c87119967a0e676ec1a3
+machine_hash: 14fe4fb5c07608cde72eabdc0447a30e4ff2f1bda79a0d58500739a3c113676c
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-13 · Windsurf · [[Changes/Windsurf/2026-01-13-2-reliability-and-performance-changes-in-v1-13-6|2 Reliability and Performance changes in v1.13.6]]
-- Later: 2026-01-14 · Windsurf · [[Changes/Windsurf/2026-01-14-2-reliability-and-performance-changes-in-v1-13-8|2 Reliability and Performance changes in v1.13.8]]
+- Later: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-terminal-track-all-timeouts-in-footer-component-to-prevent-memory-leaks|Terminal Track all timeouts in Footer component to prevent memory leaks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

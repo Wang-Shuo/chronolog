@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac7de01472507df2dc5abdd156064b142b6b6d6bd39f5a1cbd1ca78bec8e194d
+machine_hash: a60159f107e1d8045cb238f8d110a739795dd47ec3de008ff5c15884524e3f6f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Account and Access changes in v0.0.407
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-02-05-a-new-banner-encouraging-email-and-password-users-to-enable-two-factor-authentic|A
-  new banner encouraging email and password users to enable two-factor…]]'
 - '[[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode:
   Added support for remote sessions, allowing OAuth users to browse and resume…]]'
 - '[[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core):
   mock fetch in OAuth transport fallback tests]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-include-basic-authentication-in-app|Desktop
+  Include basic authentication in app]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-11-v0-0-407-github-285416009-ed3cb109|github-copilot-cli-2026-02-11-v0-0-407-github-285416009-ed3cb109]]'
 source_type: github_releases
 theme: account-access
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.407
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core): mock fetch in OAuth transport fallback tests]]
+- Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-desktop-include-basic-authentication-in-app|Desktop Include basic authentication in app]]
 - Later: 2026-02-11 · v0 · [[Changes/v0/2026-02-11-added-sso-page-for-team-specific-authentication|Added SSO page for team-specific authentication]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6d9e2179e27efcb6c7ccc12205211e225ff02517be0f939d141035dde4228bc
+machine_hash: fd332a691c73b65a6b6fefdc691d190fd0691073b73c517b7e7916ec385c6a2a
 product: dify
 product_name: Dify
 record:
@@ -50,11 +50,9 @@ record:
   title: 3 Model Support changes in 1.4.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-once-connected-try-it-in-any-channel-with-cursor-and-write-a-prompt-use-the-comm|Once
-  connected, try it in any channel with @Cursor and write a prompt]]'
-- '[[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In
-  some cases, a “chain of thought” reasoning will show up unexpectedly for simple
-  queries]]'
+- '[[Changes/Midjourney/2025-06-13-please-note|Please Note]]'
+- '[[Changes/Midjourney/2025-06-13-these-videos-are-even-more-wonky-and-messed-up-than-the-last-bunch-it-turns-out|These
+  videos are even more wonky and messed up than the last bunch]]'
 - '[[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded
   Model Support for Custom GPTs]]'
 source_release: '[[Releases/Dify/dify-2025-06-16-1-4-3-github-225472835-d7a5d7fa|dify-2025-06-16-1-4-3-github-225472835-d7a5d7fa]]'
@@ -99,7 +97,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.4.3
 ## Nearby in Model Support
 
 - Earlier: 2025-06-16 · ChatGPT · [[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded Model Support for Custom GPTs]]
-- Later: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-2-model-support-changes-in-v0-6-15|2 Model Support changes in v0.6.15]]
+- Later: 2025-06-16 · Midjourney · [[Changes/Midjourney/2025-06-16-hi-everybody-we-re-getting-closer-to-a-video-model-release-but-we-still-need-you|Hi everybody]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 530a3edd738759dc52b3a96661be3edfdb53c28ac98025ea6585e3193d03703a
+machine_hash: 64c7d8864b0761dafc1982d93a29cf47694973f71383765f5be29bed68198f76
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 4 Automation and Scheduling changes in v0.1.15
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-19-2-automation-and-scheduling-changes-in-v0-1-13|2
-  Automation and Scheduling changes in v0.1.13]]'
-- '[[Changes/Cline/2025-07-22-automate-announcement-display-for-major-minor-releases-by-kvyb-in-https-github-c|automate
-  announcement display for major.minor releases]]'
 - '[[Changes/Gemini CLI/2025-07-25-4-automation-and-scheduling-changes-in-v0-1-14|4
   Automation and Scheduling changes in v0.1.14]]'
+- '[[Changes/Midjourney/2025-07-25-to-make-a-looping-video-use-loop-in-the-prompt|To
+  make a looping video, use --loop in the prompt]]'
+- '[[Changes/Granola/2025-07-28-granola-is-now-connected-with-zapier-so-you-can-connect-your-notes-to-over-8-000|Your
+  meeting notes, now connected with 8,000+ apps]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb|gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -102,7 +102,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-4-automation-and-scheduling-changes-in-v0-1-14|4 Automation and Scheduling changes in v0.1.14]]
+- Earlier: 2025-07-28 · Granola · [[Changes/Granola/2025-07-28-granola-is-now-connected-with-zapier-so-you-can-connect-your-notes-to-over-8-000|Your meeting notes, now connected with 8,000+ apps]]
 - Later: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-5-automation-and-scheduling-changes-in-v0-1-16|5 Automation and Scheduling changes in v0.1.16]]
 <!-- chronolog:end -->
 

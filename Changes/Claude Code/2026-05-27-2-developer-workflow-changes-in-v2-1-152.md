@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b17c6e686f9dbd847ccaf5db119093caeadce48c0b56c9315717dafa841997ef
+machine_hash: c462853f592c25b63a2e694d8d112a5db6fe2a7948eb3f099bb8f37cd53d59bf
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.152
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-21-3-developer-workflow-changes-in-rust-v0-133-0|3
-  Developer Workflow changes in rust-v0.133.0]]'
 - '[[Changes/Gemini CLI/2026-05-22-feat-evals-add-shell-command-safety-evals-by-akh64bit-in-https-github-com-google|feat(evals):
   add shell command safety evals]]'
+- '[[Changes/OpenCode/2026-05-22-3-developer-workflow-changes-in-v1-15-9|3 Developer
+  Workflow changes in v1.15.9]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-24-bash-shell-sessions-no-longer-hang-when-ps0-or-prompt-command-is-set-in-the-envi|Bash
   shell sessions no longer hang when PS0 or PROMPT_COMMAND is set in the environment]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'

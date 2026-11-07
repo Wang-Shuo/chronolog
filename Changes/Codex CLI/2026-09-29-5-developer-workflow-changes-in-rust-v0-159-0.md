@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dddbd013a7e8147fa4dd9c419c0cb607b89db531140cb821582deaba55885694
+machine_hash: 007988a29bd34e87c3f25ea9d5e3ab9c385562845a2effd20d4965527175eb6a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,9 +47,10 @@ record:
   title: 5 Developer Workflow changes in rust-v0.159.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-28-flows-ffc074|Flows]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-28-3-developer-workflow-changes-in-v1-0-89|3
-  Developer Workflow changes in v1.0.89]]'
+- '[[Changes/Google Antigravity/2026-09-28-terminal-command-steps-in-the-conversation-now-stay-collapsed-by-default-while-r|Terminal
+  command steps in the conversation now stay collapsed by default…]]'
+- '[[Changes/OpenCode/2026-09-28-core-debug-configuration-output-now-redacts-credentials-and-sensitive-headers|Core
+  Debug configuration output now redacts credentials and sensitive headers]]'
 - '[[Changes/Claude Code/2026-09-29-3-developer-workflow-changes-in-v2-1-285|3 Developer
   Workflow changes in v2.1.285]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516|codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516]]'

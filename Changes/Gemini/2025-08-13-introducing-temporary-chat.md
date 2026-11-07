@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 39ea1a75701325b6ffb1cec4c3e26005b4bf14dfac7d85fc9cbd4af82d49aff1
+machine_hash: 0c19ce750f35dd33956b44a7ea9e7f9172806b529145105b1f06a0bcff6f1a7b
 product: gemini
 product_name: Gemini
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-08-13 · Cline · [[Changes/Cline/2025-08-13-move-browser-settings-menu-to-tailwind-by-celestial-vault-in-https-github-com-cl|move browser settings menu to tailwind]]
-- Later: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-3-interface-experience-changes-in-v0-1-21|3 Interface Experience changes in v0.1.21]]
+- Later: 2025-08-13 · Midjourney · [[Changes/Midjourney/2025-08-13-we-ve-separated-out-moodboards-into-their-own-page-and-made-them-accessible-in-t|We've separated out Moodboards into their own page and made them accessible…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

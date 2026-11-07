@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 85097ccea3cffba69e31d6c73425ca2601cf418f45d2195189c137c16d5d8fc8
+machine_hash: bc655d77ec924f732ad77813f6b0f69505ba652982166a59a2af3930ec8c5331
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,8 +67,8 @@ record:
   title: 13 Agent Mode changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen|Changed
-  the /claude-api skill to build Managed Agents subagent teams…]]'
+- '[[Changes/OpenClaw/2026-10-22-3-agent-mode-changes-in-v2026-10-6|3 Agent Mode changes
+  in v2026.10.6]]'
 - '[[Changes/OpenHands/2026-10-22-chore-bump-agent-server-to-1-57-0-by-all-hands-bot-in-https-github-com-openhands|chore:
   bump agent-server to 1.57.0]]'
 - '[[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode

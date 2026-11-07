@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 79aa26aa4fa8d31d258eff90402d0015dcf2f8a40fd8066e936cfecad887974e
+machine_hash: 7f708e50b1549a4d248e0f7ac7fe3a893aee0c9438f1aca6429f5b1201531220
 product: dify
 product_name: Dify
 record:
@@ -213,10 +213,10 @@ record:
   title: 64 Agent Mode changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-15-let-ai-assistants-use-your-published-app|Let AI assistants
-  use your published app]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent
   Mode changes in v1.0.71]]'
+- '[[Changes/OpenCode/2026-07-16-desktop-fixed-custom-agent-selector-visibility-when-custom-agents-are-available|Desktop
+  Fixed custom agent selector visibility when custom agents are available]]'
 - '[[Changes/Claude Code/2026-07-17-7-agent-mode-changes-in-v2-1-212|7 Agent Mode
   changes in v2.1.212]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'

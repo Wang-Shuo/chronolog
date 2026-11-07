@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f662a6a9ae7808cf17e51359caff9a42430bae054d31956de1c86cb110260090
+machine_hash: 96c6a75def9e4661889739e3ff49b40a3b228002ae79347ab93b66c86894f309
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Find in page, clipboard, and location in the desktop app
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-06-lovable-desktop-app-is-now-on-windows|Lovable Desktop
-  app is now on Windows]]'
+- '[[Changes/OpenCode/2026-07-06-14-mobile-and-desktop-changes-in-v1-17-14|14 Mobile
+  and Desktop changes in v1.17.14]]'
 - '[[Changes/Claude/2026-07-07-claude-cowork-on-web-and-mobile|Claude Cowork on web
   and mobile]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-3-mobile-and-desktop-changes-in-v1-0-69|3
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-3-mobile-and-desktop-changes-in-v1-0-69|3 Mobile and Desktop changes in v1.0.69]]
-- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-2-mobile-and-desktop-changes-in-rust-v0-143-0|2 Mobile and Desktop changes in rust-v0.143.0]]
+- Later: 2026-07-07 · OpenCode · [[Changes/OpenCode/2026-07-07-4-mobile-and-desktop-changes-in-v1-17-15|4 Mobile and Desktop changes in v1.17.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

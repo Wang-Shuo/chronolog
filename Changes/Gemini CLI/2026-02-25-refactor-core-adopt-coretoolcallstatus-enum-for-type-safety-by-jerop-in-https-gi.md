@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d10d78e5023cf8c9c8946630fd902153467907311aaed9e8781f49bcded8d10d
+machine_hash: c0c213a3022d5e47eca7c6522fe5d19c3d7698384d5532c27a4bd0e5ab921515
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 'refactor(core): adopt `CoreToolCallStatus` enum for type safety'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-23-3-safety-and-privacy-changes-in-v0-8-4|3 Safety
-  and Privacy changes in v0.8.4]]'
 - '[[Changes/Claude Code/2026-02-24-3-safety-and-privacy-changes-in-v2-1-51|3 Safety
   and Privacy changes in v2.1.51]]'
+- '[[Changes/OpenCode/2026-02-24-core-normalize-paths-at-permission-boundaries-on-windows|Core
+  Normalize paths at permission boundaries on Windows]]'
 - '[[Changes/Codex CLI/2026-02-25-9-safety-and-privacy-changes-in-rust-v0-105-0|9
   Safety and Privacy changes in rust-v0.105.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'

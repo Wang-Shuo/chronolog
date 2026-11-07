@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 077dd03ac1360ac0728d21f18838fc9ca7e82652c4fe6515fe8fc121f22d4d18
+machine_hash: 0999e5c270fa7f8e26defa18f5908439ba80e47b39c6d64f91a6b5baadc6347a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,10 +57,10 @@ record:
     now change…"
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-08-images-lovable-generates-are-labeled-as-ai-generated|Images
-  Lovable generates are labeled as AI-generated]]'
-- '[[Changes/Codex CLI/2026-07-09-31596-use-the-image-generation-extension-by-default-won-openai|♯31596
-  Use the image generation extension by default @won-openai]]'
+- '[[Changes/Runway/2026-07-10-nano-banana-2-lite-is-now-available-in-tool-mode-on-mobile-with-support-for-up-t|Nano
+  Banana 2 Lite]]'
+- '[[Changes/OpenClaw/2026-07-13-7-image-generation-changes-in-v2026-7-1|7 Image Generation
+  changes in v2026.7.1]]'
 - '[[Changes/Codex CLI/2026-07-21-3-image-generation-changes-in-rust-v0-145-0|3 Image
   Generation changes in rust-v0.145.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'

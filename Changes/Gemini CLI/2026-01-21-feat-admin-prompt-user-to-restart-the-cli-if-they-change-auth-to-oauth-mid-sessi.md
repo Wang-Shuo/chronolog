@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2831de65efcd9f0a803c13e4b0af70a61b95dea1a73c7880fd3247318446d163
+machine_hash: 5e83c38393d172e41b723c7dba13032fc6988a6a9c99387e7b111cec8318dcd3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,11 +46,12 @@ record:
     mid-session…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-16-2-account-and-access-changes-in-v0-0-384|2
-  Account and Access changes in v0.0.384]]'
-- '[[Changes/Lovable/2026-01-16-two-factor-authentication-2fa|Two-factor authentication
-  (2FA)]]'
+- '[[Changes/OpenCode/2026-01-16-core-add-oauth-redirect-uri-configuration-for-mcp-servers|Core
+  Add OAuth redirect URI configuration for MCP servers]]'
+- '[[Changes/OpenCode/2026-01-19-3-account-and-access-changes-in-v1-1-26|3 Account
+  and Access changes in v1.1.26]]'
+- '[[Changes/OpenCode/2026-01-20-core-register-oauth-callback-before-opening-browser-in-mcp|Core
+  Register OAuth callback before opening browser in MCP]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397|gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397]]'
 source_type: github_releases
 theme: account-access
@@ -88,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-two-factor-authentication-2fa|Two-factor authentication (2FA)]]
-- Later: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode Added ability for OAuth users to browse and resume remote Claude sessions…]]
+- Earlier: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-core-register-oauth-callback-before-opening-browser-in-mcp|Core Register OAuth callback before opening browser in MCP]]
+- Later: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-desktop-improve-provider-oauth-error-handling-in-app|Desktop Improve provider OAuth error handling in app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

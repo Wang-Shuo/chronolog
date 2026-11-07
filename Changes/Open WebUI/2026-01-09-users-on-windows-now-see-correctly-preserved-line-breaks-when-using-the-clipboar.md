@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59dbbdbfe2d1bb464f82c2f10905fea897a34c2f5a101156bc4c80681c4d34e7
+machine_hash: a7a8b8d8a4dc2f2f7a5093e1462d0c94beccb05d84ea103148e2f9cc64efb906
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,8 +49,8 @@ record:
     using…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-06-8743-macos-load-config-requirements-from-mdm-gt-oai|♯8743
-  (MacOS) Load config requirements from MDM @gt-oai]]'
+- '[[Changes/OpenCode/2026-01-08-2-mobile-and-desktop-changes-in-v1-1-7|2 Mobile and
+  Desktop changes in v1.1.7]]'
 - '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added
   support for Windows Package Manager (winget) installations with automatic…]]'
 - '[[Changes/Codex CLI/2026-01-09-2-mobile-and-desktop-changes-in-rust-v0-80-0|2 Mobile
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-2-mobile-and-desktop-changes-in-rust-v0-80-0|2 Mobile and Desktop changes in rust-v0.80.0]]
-- Later: 2026-01-12 · Claude · [[Changes/Claude/2026-01-12-health-and-fitness-data-on-claude-mobile|Health and fitness data on Claude Mobile]]
+- Later: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-4-mobile-and-desktop-changes-in-v1-1-10|4 Mobile and Desktop changes in v1.1.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

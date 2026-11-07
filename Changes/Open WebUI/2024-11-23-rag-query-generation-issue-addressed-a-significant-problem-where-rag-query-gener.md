@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9cd808520defae9e8d62e802cac2ff3efee90c8ef3894b8b5cecce0ee8ab9dd
+machine_hash: 57669f1ccd7b564ef6fed6b923ac087d015d052095ec92359bc002957d954eb3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-11-22 · Open WebUI · [[Changes/Open WebUI/2024-11-22-faster-model-retrieval-implemented-caching-optimizations-for-faster-model-loadin|⚡ Faster Model Retrieval]]
-- Later: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance improvements]]
+- Later: 2024-11-23 · Runway · [[Changes/Runway/2024-11-23-you-can-now-use-act-one-in-gen-3-alpha-turbo-for-faster-more-affordable-generati|Act-One in Gen-3 Alpha Turbo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

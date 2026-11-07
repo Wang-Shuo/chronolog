@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b13731375424b5c2338e4017f85ea7a07635e2a4b5cf47aa21c4f89b26085137
+machine_hash: 303df399d2a9a497e2c0f0130ae96f92947b22976201b74e23bcdde49a2da953
 product: v0
 product_name: v0
 record:
@@ -56,12 +56,12 @@ record:
   title: 4 Account and Access changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-2-account-and-access-changes-in-rust-v0-150-0|2
-  Account and Access changes in rust-v0.150.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-2-account-and-access-changes-in-v1-0-81|2
   Account and Access changes in v1.0.81]]'
 - '[[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed
   analytics to no longer turn off before sign-in solely because managed…]]'
+- '[[Changes/OpenCode/2026-08-28-2-account-and-access-changes-in-v1-18-25-1|2 Account
+  and Access changes in v1.18.25 + 1]]'
 source_release: '[[Releases/v0/v0-2026-08-28-2026-08-28-1fac4f32|v0-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: v0_changelog
 theme: account-access
@@ -108,7 +108,7 @@ Source: https://v0.app/changelog#2026-08-28
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed analytics to no longer turn off before sign-in solely because managed…]]
+- Earlier: 2026-08-28 · OpenCode · [[Changes/OpenCode/2026-08-28-2-account-and-access-changes-in-v1-18-25-1|2 Account and Access changes in v1.18.25 + 1]]
 - Later: 2026-08-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-29-show-the-specific-authentication-failure-such-as-401-bad-credentials-instead-of|Show the specific authentication failure (such as 401 Bad credentials) instead…]]
 <!-- chronolog:end -->
 

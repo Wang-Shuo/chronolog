@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73aeca649807210999050a80924d07e513b512b41a0726cff5e484a639aafb2c
+machine_hash: c4cfb097d02b3789f7e79eb98093269de05d5133dd77cecd5e284a1654079b10
 product: dify
 product_name: Dify
 record:
@@ -53,12 +53,12 @@ record:
   title: 4 Model Support changes in 1.19.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-11-03-2-model-support-changes-in-v0-40-15|2 Model Support
-  changes in v0.40.15]]'
 - '[[Changes/Ollama/2026-11-03-2-model-support-changes-in-v0-40-14|2 Model Support
   changes in v0.40.14]]'
 - '[[Changes/Open WebUI/2026-11-03-4-model-support-changes-in-v0-13-0|4 Model Support
   changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-17-model-support-changes-in-v2026-10-10|17 Model
+  Support changes in v2026.10.10]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'
 source_type: github_releases
 theme: model-support
@@ -111,7 +111,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-4-model-support-changes-in-v0-13-0|4 Model Support changes in v0.13.0]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-17-model-support-changes-in-v2026-10-10|17 Model Support changes in v2026.10.10]]
 - Later: 2026-11-04 · Gemini CLI · [[Changes/Gemini CLI/2026-11-04-feat-cli-add-models-command-and-list-models-flag-for-model-discovery-by-urielefr|feat(cli): add models command and --list-models flag for model discovery]]
 <!-- chronolog:end -->
 

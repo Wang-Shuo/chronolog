@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d78920493200f4756f4a0bd50e5e05b78b5bd2940ac3e11f3064d13537b3aba9
+machine_hash: 0c5420b97913c65423a127b8558fa322e69433774d0b974a4e5a2241ef7aed71
 product: cursor
 product_name: Cursor
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-test-strengthen-shared-utility-behavior-by-aivong-openhands-in-https-github-com|test: strengthen shared utility behavior]]
-- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-47411-apply-shared-network-policy-throughout-embedded-codex-startup-acrognale-oa|♯47411 Apply shared network policy throughout embedded Codex startup @acrognale-oai]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-16-collaboration-changes-in-v2026-9-6|16 Collaboration changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

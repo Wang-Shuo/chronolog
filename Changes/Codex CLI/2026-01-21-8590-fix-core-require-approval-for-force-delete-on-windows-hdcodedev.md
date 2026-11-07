@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2dc0aaa22452546c06203e65b4edc631939cce80a0c55192dc228f40a223dd14
+machine_hash: 39bb62ec72d317544ed59d0cf9939f498eded40737b0786eb8e6cac52f64180b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,11 +43,12 @@ record:
   title: '#8590 fix(core): require approval for force delete on Windows @hdcodedev'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-15-reduce-flaky-rust-release-pipelines-notably-on-windows-by-increasing-the-release|Reduce
-  flaky Rust release pipelines (notably on Windows) by increasing the release…]]'
-- '[[Changes/Claude/2026-01-16-cowork-research-preview-expanded-to-pro-plans|Cowork
-  research preview expanded to Pro plans]]'
-- '[[Changes/Replit/2026-01-16-mobile-apps-on-replit|Mobile Apps on Replit]]'
+- '[[Changes/Midjourney/2026-01-20-improved-layout-for-mobile-and-tablets-with-long-prompts|Improved
+  layout for mobile and tablets with long prompts]]'
+- '[[Changes/OpenCode/2026-01-20-13-mobile-and-desktop-changes-in-v1-1-27|13 Mobile
+  and Desktop changes in v1.1.27]]'
+- '[[Changes/OpenCode/2026-01-20-30-mobile-and-desktop-changes-in-v1-1-28|30 Mobile
+  and Desktop changes in v1.1.28]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -85,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-16 · Replit · [[Changes/Replit/2026-01-16-mobile-apps-on-replit|Mobile Apps on Replit]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows notifications now have accept/reject buttons like MacOS]]
+- Earlier: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-30-mobile-and-desktop-changes-in-v1-1-28|30 Mobile and Desktop changes in v1.1.28]]
+- Later: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-3-mobile-and-desktop-changes-in-v1-1-30|3 Mobile and Desktop changes in v1.1.30]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

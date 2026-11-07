@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2891ab8c4bc6d8c7ddee0e0e09fb37f1ae83d98212ab01fdc3b09b9c8fcc938e
+machine_hash: eaac3570f8f01fd10596cf992931b73395a034d9fd76f0cf8b2e0b2aadaa73b9
 product: lovable
 product_name: Lovable
 record:
@@ -55,10 +55,10 @@ record:
   title: Dashboard organization and navigation
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-4-interface-experience-changes-in-v1-0-35|4
-  Interface Experience changes in v1.0.35]]'
 - '[[Changes/Ollama/2026-04-23-improved-reliability-of-the-openclaw-onboarding-flow-in-ollama-launch|Improved
   reliability of the OpenClaw onboarding flow in ollama launch]]'
+- '[[Changes/OpenCode/2026-04-23-desktop-keep-project-avatar-previews-consistent-between-the-sidebar-and-edit-dia|Desktop
+  Keep project avatar previews consistent between the sidebar and edit dialog]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-24-subcommand-picker-shows-a-selection-indicator-next-to-the-highlighted-item|Subcommand
   picker shows a selection indicator (❯) next to the highlighted item]]'
 source_release: '[[Releases/Lovable/lovable-2026-04-24-2026-04-24-4062672c|lovable-2026-04-24-2026-04-24-4062672c]]'

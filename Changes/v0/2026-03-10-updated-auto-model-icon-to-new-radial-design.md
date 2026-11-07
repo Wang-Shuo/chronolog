@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5747660d228c0af14ea4158c9e1131fb7ab82ff6dd9444d2e16c7e99547c87f2
+machine_hash: b7b1136f5005ed1ac880f21864762b97f6e2c902e75e101481998239f51db8ed
 product: v0
 product_name: v0
 record:
@@ -43,9 +43,10 @@ record:
   title: Updated auto model icon to new radial design
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-09-elevenagents|ElevenAgents]]'
-- '[[Changes/Open WebUI/2026-03-09-3-model-support-changes-in-v0-8-10|3 Model Support
-  changes in v0.8.10]]'
+- '[[Changes/OpenCode/2026-03-09-disable-fallback-to-free-nano-for-small-model-requests|Disable
+  fallback to free nano for small model requests]]'
+- '[[Changes/OpenCode/2026-03-09-core-add-copilot-gpt-5-4-xhigh-support|Core Add Copilot
+  GPT-5.4 xhigh support]]'
 - '[[Changes/Codex CLI/2026-03-10-14123-pass-on-save-info-to-model-ui-tweaks-won-openai|♯14123
   pass on save info to model + ui tweaks @won-openai]]'
 source_release: '[[Releases/v0/v0-2026-03-10-2026-03-10-6ec3223f|v0-2026-03-10-2026-03-10-6ec3223f]]'

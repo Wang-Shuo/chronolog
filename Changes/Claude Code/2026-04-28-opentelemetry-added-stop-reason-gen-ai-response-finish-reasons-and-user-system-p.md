@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9074f6ac532a480f4d765b3790a8351b3b2cab6461bff761b5e6561b579b509f
+machine_hash: 6f9d855e6abe0cfb24b9d5b8329846e59c1faac82f098e97ddb51bb5f81ff05b
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 'OpenTelemetry: added `stop_reason`, `gen_ai.response.finish_reasons`…'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-04-24-security-agent-reviews-your-whole-codebase|Security
-  Agent reviews your whole codebase]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-2-model-support-changes-in-v1-0-37|2 Model
   Support changes in v1.0.37]]'
+- '[[Changes/Midjourney/2026-04-27-we-re-preparing-some-major-aesthetic-updates-for-v8-1-8-2-and-we-want-your-help|We''re
+  preparing some major aesthetic updates for v8.1/8.2 and we want your help…]]'
 - '[[Changes/ChatGPT/2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model|Easier
   model selection in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'

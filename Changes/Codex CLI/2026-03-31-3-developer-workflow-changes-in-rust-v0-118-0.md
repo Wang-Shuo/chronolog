@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a29f841cffb4eef38d02c11e70e5f0cd9fe8767cd53daf49d474964127c8382
+machine_hash: 2fa1feef31bca3f4f0f04ac6ffdefbb0865044963d34ba642ff36bca01f13e85
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Developer Workflow changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added
-  X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]'
-- '[[Changes/Open WebUI/2026-03-27-5-developer-workflow-changes-in-v0-8-12|5 Developer
-  Workflow changes in v0.8.12]]'
+- '[[Changes/OpenCode/2026-03-29-10-developer-workflow-changes-in-v1-3-6-2|10 Developer
+  Workflow changes in v1.3.6 + 2]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-developer-workflow-changes-in-v1-0-13|2
   Developer Workflow changes in v1.0.13]]'
+- '[[Changes/OpenCode/2026-03-30-2-developer-workflow-changes-in-v1-3-9-1|2 Developer
+  Workflow changes in v1.3.9 + 1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.118.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-developer-workflow-changes-in-v1-0-13|2 Developer Workflow changes in v1.0.13]]
+- Earlier: 2026-03-30 · OpenCode · [[Changes/OpenCode/2026-03-30-2-developer-workflow-changes-in-v1-3-9-1|2 Developer Workflow changes in v1.3.9 + 1]]
 - Later: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-4-developer-workflow-changes-in-v1-0-14|4 Developer Workflow changes in v1.0.14]]
 <!-- chronolog:end -->
 

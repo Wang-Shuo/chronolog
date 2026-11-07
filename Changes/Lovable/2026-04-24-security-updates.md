@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1fcc831a4ac7009c298d748ff528f1a5ca5981f4afb8b29cba3d3aad87a187a1
+machine_hash: 0619c2639f0bd9bd2f107c72d4c4c6eda5e2d41464f5248293744a7b3a794dde
 product: lovable
 product_name: Lovable
 record:
@@ -138,7 +138,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-9-safety-and-privacy-changes-in-rust-v0-125-0|9 Safety and Privacy changes in rust-v0.125.0]]
-- Later: 2026-04-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-27-location-based-permission-persistence-is-now-enabled-by-default-so-approvals-car|Location-based permission persistence is now enabled by default, so approvals carry…]]
+- Later: 2026-04-25 · OpenCode · [[Changes/OpenCode/2026-04-25-core-lsp-permission-prompts-now-include-request-details-like-the-operation-file|Core LSP permission prompts now include request details like the operation, file…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eef17ac5a200290acfe3d1f936d6cee3d5884df5061cbaee9b66ee0d484d7718
+machine_hash: 5a9d93f63251be3736930d1b996fb8b1dc1186b8edb684499d705b134df63c93
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Automation and Scheduling changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-07-chore-core-remove-legacy-fallback-flags-and-migrate-loop-detection-by-adamfweidm|chore(core):
-  remove legacy fallback flags and migrate loop detection]]'
 - '[[Changes/Replit/2026-01-09-automation-preview-for-agent-users|Automation preview
   for Agent users]]'
 - '[[Changes/Dify/2026-01-13-chore-deps-bump-scheduler-from-0-26-0-to-0-27-0-in-web-by-dependabot-bot-in-http|chore(deps):
   bump scheduler from 0.26.0 to 0.27.0 in /web…]]'
+- '[[Changes/OpenCode/2026-01-19-core-add-scheduler-and-cleanup-module|Core Add scheduler
+  and cleanup module]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397|gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -92,7 +92,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.25.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-chore-deps-bump-scheduler-from-0-26-0-to-0-27-0-in-web-by-dependabot-bot-in-http|chore(deps): bump scheduler from 0.26.0 to 0.27.0 in /web…]]
+- Earlier: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-core-add-scheduler-and-cleanup-module|Core Add scheduler and cleanup module]]
 - Later: 2026-01-23 · Replit · [[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent automations]]
 <!-- chronolog:end -->
 

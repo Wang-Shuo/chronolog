@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f99188c070dfce249e3862f7a16b90cb8013575496e02d4569c504e6552e8bf
+machine_hash: 09ec7720b0b563aa0b360171904c07fca5b283a0d39dd769e81f63f619e673a3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,11 +50,12 @@ record:
   title: 'feat(core): Parse Multimodal MCP Tool responses'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-30-elevencreative-studio|ElevenCreative Studio]]'
-- '[[Changes/Gemini CLI/2025-07-11-feature-commands-refactor-slash-command-vision-for-the-future-by-abhipatel12-in|feature(commands)
-  - Refactor Slash Command + Vision For the Future]]'
-- '[[Changes/Cline/2025-07-16-add-vision-capability-to-moonshot-v1-by-saoudrizwan-in-https-github-com-cline-cl|Add
-  vision capability to moonshot v1]]'
+- '[[Changes/Midjourney/2025-07-25-to-get-a-higher-quality-mp4-click-one-of-the-virtual-upscale-buttons-on-a-video|To
+  get a higher-quality .mp4, click one of the virtual upscale buttons on a video]]'
+- '[[Changes/Midjourney/2025-07-25-to-animate-an-image-from-outside-of-midjourney-enter-the-image-url-at-the-start|To
+  animate an image from outside of Midjourney, enter the image url at the start…]]'
+- '[[Changes/Midjourney/2025-07-25-if-you-have-remix-mode-enabled-you-can-provide-a-prompt-for-the-video|If
+  you have remix mode enabled, you can provide a prompt for the video]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990|gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990]]'
 source_type: github_releases
 theme: multimodal
@@ -96,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-07-16 · Cline · [[Changes/Cline/2025-07-16-add-vision-capability-to-moonshot-v1-by-saoudrizwan-in-https-github-com-cline-cl|Add vision capability to moonshot v1]]
-- Later: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core): Parse Multimodal MCP Tool responses]]
+- Earlier: 2025-07-25 · Midjourney · [[Changes/Midjourney/2025-07-25-if-you-have-remix-mode-enabled-you-can-provide-a-prompt-for-the-video|If you have remix mode enabled, you can provide a prompt for the video]]
+- Later: 2025-08-07 · Midjourney · [[Changes/Midjourney/2025-08-07-how-to-enable-hd-video-mode|How to enable HD Video mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

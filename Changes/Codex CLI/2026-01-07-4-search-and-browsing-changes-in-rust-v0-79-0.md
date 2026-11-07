@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b61d77ddfafd16b6684ffc557217a3a71c926f2f0b6b10cf6594760afcd8f84
+machine_hash: 2a6c790cf482b46fa4e1117c0eb8aeabf788eb085748fec54dd958360d6c6f24
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Search and Browsing changes in rust-v0.79.0
   type: change
 related_changes:
-- '[[Changes/Replit/2025-11-26-better-search-rankings-for-custom-domains|Better search
-  rankings for Custom Domains]]'
 - "[[Changes/Open WebUI/2025-12-02-web-search-domain-filtering-was-corrected-to-properly-block-results-when-any-res|\U0001F6E1️
   Web search domain filtering was corrected to properly block results when any…]]"
+- '[[Changes/Gamma/2025-12-17-want-your-site-to-show-up-in-search-results-now-you-can-enable-indexing-to-help|Want
+  your site to show up in search results?]]'
 - '[[Changes/Open WebUI/2025-12-21-3-search-and-browsing-changes-in-v0-6-42|3 Search
   and Browsing changes in v0.6.42]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364|codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364]]'

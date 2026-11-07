@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 083d5ade4fe4225f205f510341942b455372ec4b25cf4931cf1135a8db563f1f
+machine_hash: dd2ad7bd8db01c16bcfa4aabf3cd9e82622c1de8f740d85f2caccbf12c80903d
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in v0.1.28
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-21-support-for-bert-and-nomic-bert-embedding-models|Support
-  for bert and nomic-bert embedding models]]'
 - '[[Changes/Ollama/2024-02-22-gemma-https-ollama-com-library-gemma-is-a-new-top-performing-family-of-lightweig|Gemma((source
   link) is a new, top-performing family…]]'
+- '[[Changes/Suno/2024-02-22-v3-is-coming-soon-and-we-believe-it-has-the-potential-to-redefine-the-state-of-t|V3
+  is coming soon, and we believe it has the potential to redefine…]]'
 - '[[Changes/Dify/2024-02-28-3-model-support-changes-in-0-5-7|3 Model Support changes
   in 0.5.7]]'
 source_release: '[[Releases/Ollama/ollama-2024-03-01-v0-1-28-github-144318153-27e5c7be|ollama-2024-03-01-v0-1-28-github-144318153-27e5c7be]]'

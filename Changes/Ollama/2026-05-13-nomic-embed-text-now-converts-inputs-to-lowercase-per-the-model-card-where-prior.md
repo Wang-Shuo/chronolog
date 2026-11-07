@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7ea384ed16f6bfc7ff532bc1cec0c7edb7b17d5f6c668fb1a286a2de3917f42f
+machine_hash: a885c08cee1eab120fac1a14fdc27fe86c041550f34850a15b1e38413ccedfa8
 product: ollama
 product_name: Ollama
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-enable-openrouter-prompt-cache-control-for-qwen-models|Enable OpenRouter prompt cache control for Qwen models]]
-- Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support changes in v2.1.142]]
+- Later: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-added-the-v2-model-and-provider-listing-api|Added the v2 model and provider listing API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

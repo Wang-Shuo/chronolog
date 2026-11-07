@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 22e179560581c573e37b12c75c904339d7b052a99f6446ae0f0179f7b1d97a1b
+machine_hash: 172e246eb2160d5c158e4b086cdda24a5d9bda3bd5ff2285ae115fff77a1a635
 product: dify
 product_name: Dify
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-04-22 · Gemini · [[Changes/Gemini/2025-04-22-create-and-share-videos-with-veo-2-in-gemini-advanced|Create and share videos with Veo 2 in Gemini Advanced]]
-- Later: 2025-04-25 · Lovable · [[Changes/Lovable/2025-04-25-lovable-2-0|Lovable 2.0]]
+- Later: 2025-04-23 · Midjourney · [[Changes/Midjourney/2025-04-23-sharing-some-updates-that-we-ve-made-over-the-past-two-weeks|Sharing some updates that we've made over the past two weeks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9b4c14eb8c21e31d598708a06ddc782fc19a421c6568d68b65da65b6f2e3046
+machine_hash: fe1c58d1b09ebba175c48b8c57fd225fc77127c6ee42212de1da43062878f9b3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#9512 Fix resume picker when user event appears after head @jdsalasca'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-3-interface-experience-changes-in-v0-25-0|3 Interface
-  Experience changes in v0.25.0]]'
 - '[[Changes/Codex CLI/2026-01-22-improved-slash-command-selection-by-prioritizing-exact-and-prefix-matches-over-f|Improved
   slash-command selection by prioritizing exact and prefix matches over fuzzy…]]'
 - '[[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience
   changes in 2.4]]'
+- '[[Changes/OpenCode/2026-01-22-2-interface-experience-changes-in-v1-1-32|2 Interface
+  Experience changes in v1.1.32]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c|codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience changes in 2.4]]
+- Earlier: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-2-interface-experience-changes-in-v1-1-32|2 Interface Experience changes in v1.1.32]]
 - Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-interface-experience-changes-in-v2-1-20|2 Interface Experience changes in v2.1.20]]
 <!-- chronolog:end -->
 

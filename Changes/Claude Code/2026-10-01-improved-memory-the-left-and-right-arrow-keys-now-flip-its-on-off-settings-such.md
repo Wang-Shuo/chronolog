@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 57db41576a1e1fbd0c502b8cbff934b11ecac69332ccc13578fd7ac450312932
+machine_hash: 7679cccdb8c90eff8ea65d4b0ba7176e7e0f72bd5c0509ef49096a20c763952c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
     such…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|Sign
-  in to other products with ChatGPT]]'
 - '[[Changes/Claude Code/2026-09-29-changed-memory-so-that-auto-memory-can-no-longer-be-turned-on-from-a-background|Changed
   /memory so that Auto-memory can no longer be turned on from a background…]]'
+- '[[Changes/OpenClaw/2026-09-30-15-memory-and-personalization-changes-in-v2026-9-7|15
+  Memory and Personalization changes in v2026.9.7]]'
 - '[[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually
   try on clothing and accessories]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'

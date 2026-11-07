@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0c088ee2a23bad08cf37becf5ed34a7421a06d8b85185a8db226031ff5615af
+machine_hash: 6afc4b3d27a52a1416e52840431ef8267d07a439d61aca106cc7c29da71a683e
 product: v0
 product_name: v0
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Interface Experience changes in Grouped tool approvals, richer MCP…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-removed-a-redundant-navigation-hint-from-the-claude-agents-footer|Removed
-  a redundant navigation hint from the claude agents footer]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-5-interface-experience-changes-in-v1-0-69|5
   Interface Experience changes in v1.0.69]]'
 - '[[Changes/Lovable/2026-07-07-reorder-folders-shared-with-you|Reorder folders shared
   with you]]'
+- '[[Changes/OpenCode/2026-07-07-restore-model-details-tooltips-in-the-model-picker|Restore
+  model details tooltips in the model picker]]'
 source_release: '[[Releases/v0/v0-2026-07-07-2026-07-07-3495f67b|v0-2026-07-07-2026-07-07-3495f67b]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -94,7 +94,7 @@ Source: https://v0.app/changelog#2026-07-07
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-reorder-folders-shared-with-you|Reorder folders shared with you]]
+- Earlier: 2026-07-07 · OpenCode · [[Changes/OpenCode/2026-07-07-restore-model-details-tooltips-in-the-model-picker|Restore model details tooltips in the model picker]]
 - Later: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-search-your-settings|Search your settings]]
 <!-- chronolog:end -->
 

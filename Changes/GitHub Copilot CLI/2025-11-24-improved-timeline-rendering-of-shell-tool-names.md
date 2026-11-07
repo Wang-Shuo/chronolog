@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: babc6c636aa8261202b1dca5c916fed5ef4fbff1ffb7d241d24f7dbfc4aa7091
+machine_hash: 4505080a9493334d710d8e77ccf3f92317a40a2cabeb9ed335034776177c5ae2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Improved timeline rendering of shell tool names
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-handle-don-t-trust-directory-selection-in-onboarding-4941-viniciusmotta8|Handle
-  "Don''t Trust" directory selection in onboarding (♯4941) — @viniciusmotta8]]'
 - '[[Changes/Gemini CLI/2025-11-20-bug-ui-make-it-clear-when-users-need-to-enter-selection-mode-and-fix-clear-issue|bug(ui)
   make it clear when users need to enter selection mode and fix clear issue]]'
+- '[[Changes/Midjourney/2025-11-20-animate-manually-button-bumps-you-back-to-prompt-bar|Animate
+  manually button bumps you back to prompt bar]]'
 - '[[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set
   origin allowlist from dashboard to restrict browser tools]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb|github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb]]'

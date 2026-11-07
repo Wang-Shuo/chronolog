@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 65e84b8080597f1f2e3416fdcdaf7aeec2d1c366f305c9e6e300196456e75e80
+machine_hash: 24779b19c22393e810f727a837957253abdd14f732076cf66c7e6493b55c6d7f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,10 +48,10 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-10-custom-agent-model-field-now-accepts-display-names-and-vendor-suffixes-from-vs-c|Custom
-  agent model field now accepts display names and vendor suffixes from VS Code…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-display-reasoning-token-usage-in-the-per-model-token-breakdown-when-nonzero|Display
   reasoning token usage in the per-model token breakdown when nonzero]]'
+- '[[Changes/OpenCode/2026-04-10-core-added-fast-mode-variants-for-supported-claude-and-gpt-models|Core
+  Added fast mode variants for supported Claude and GPT models]]'
 - '[[Changes/ElevenLabs/2026-04-13-python-sdk|Python SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-13-2026-04-13-a9d3ca3b|elevenlabs-2026-04-13-2026-04-13-a9d3ca3b]]'
 source_type: elevenlabs_changelog
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-display-reasoning-token-usage-in-the-per-model-token-breakdown-when-nonzero|Display reasoning token usage in the per-model token breakdown when nonzero]]
+- Earlier: 2026-04-10 · OpenCode · [[Changes/OpenCode/2026-04-10-core-added-fast-mode-variants-for-supported-claude-and-gpt-models|Core Added fast mode variants for supported Claude and GPT models]]
 - Later: 2026-04-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-13-the-config-dir-flag-is-now-respected-when-selecting-the-active-model|The --config-dir flag is now respected when selecting the active model]]
 <!-- chronolog:end -->
 

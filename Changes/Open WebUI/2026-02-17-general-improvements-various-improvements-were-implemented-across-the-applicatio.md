@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 850b045c2bcd300d1da1af08659fd89502b7b49f4f9eb54410cc1e207d48ac2f
+machine_hash: f0ca49610a5d4669513070e47bfa10c38ce16bb4c5141ff73048c60bd7c525d3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,12 +55,12 @@ record:
     across…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-17-removed-the-remote-models-feature-flag-to-prevent-fallback-model-metadata-when-i|Removed
-  the remote_models feature flag to prevent fallback model metadata…]]'
 - '[[Changes/Cursor/2026-02-17-2-reliability-and-performance-changes-in-2-5|2 Reliability
   and Performance changes in 2.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-2-reliability-and-performance-changes-in-v0-0-411|2
   Reliability and Performance changes in v0.0.411]]'
+- '[[Changes/Midjourney/2026-02-17-this-rating-party-is-focused-on-prompts-that-ask-to-generate-text|This
+  rating party is focused on prompts that ask to generate text]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-17-v0-8-3-github-287117379-ddae610a|open-webui-2026-02-17-v0-8-3-github-287117379-ddae610a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-2-reliability-and-performance-changes-in-v0-0-411|2 Reliability and Performance changes in v0.0.411]]
+- Earlier: 2026-02-17 · Midjourney · [[Changes/Midjourney/2026-02-17-this-rating-party-is-focused-on-prompts-that-ask-to-generate-text|This rating party is focused on prompts that ask to generate text]]
 - Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-5-reliability-and-performance-changes-in-v2-1-47|5 Reliability and Performance changes in v2.1.47]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 33520a26d72dd753ef5c36689bb7369260fb1847a25cbe426cc8006281fbb2b8
+machine_hash: b643ee0ed7241621340d9763180470fb5fb19fe7e10ebe58e45d37946b600d59
 product: replit
 product_name: Replit
 record:
@@ -49,10 +49,10 @@ record:
   title: Choose a workspace region
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-11-make-the-auto-approve-menu-the-single-source-of-truth-for-unattended-runs-and-re|Make
-  the auto-approve menu the single source of truth for unattended runs and remove…]]'
-- '[[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode
-  Added session groups in the sidebar]]'
+- '[[Changes/Google Antigravity/2026-08-12-2-interface-experience-changes-in-ide-v2-5-2-queued-messages-file|2
+  Interface Experience changes in IDE v2.5.2 — Queued Messages, File…]]'
+- '[[Changes/Google Antigravity/2026-08-12-persistent-sidebar-folders-crash-fixes-and-ui-enhancements|Persistent
+  Sidebar Folders, Crash Fixes, and UI Enhancements]]'
 - '[[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved
   fullscreen streaming]]'
 source_release: '[[Releases/Replit/replit-2026-08-14-2026-08-14-e5550355|replit-2026-08-14-2026-08-14-e5550355]]'

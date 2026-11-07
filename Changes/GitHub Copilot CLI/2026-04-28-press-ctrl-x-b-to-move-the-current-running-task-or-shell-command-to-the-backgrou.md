@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16530898658c26a5c80856f036762ead4b111a93b9ba5cabb44dfdbbc38221ae
+machine_hash: a79659d49a97992cb7222033f7252baa859210c3f59aa41a36f692209f6a0439
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,7 +43,8 @@ record:
     background
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-27-elevenagents-e7cc6e|ElevenAgents]]'
+- '[[Changes/OpenCode/2026-04-27-core-added-a-configurable-default-shell-for-terminals-and-agent-shell-commands-w|Core
+  Added a configurable default shell for terminals and agent shell commands…]]'
 - '[[Changes/Claude Code/2026-04-28-2-agent-mode-changes-in-v2-1-121|2 Agent Mode
   changes in v2.1.121]]'
 - '[[Changes/Gemini CLI/2026-04-28-3-agent-mode-changes-in-v0-40-0|3 Agent Mode changes

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d835a2b93ac9e00b21add7e0e4bb13ca1edcdf36e7593f680a525474b60bc548
+machine_hash: dd7637559b01b94c916c4a9275e8cc3a218b9b7d21ae9668c073ebf340af5034
 product: v0
 product_name: v0
 record:
@@ -41,12 +41,12 @@ record:
   title: Added modals for Library and Projects navigation
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-27-reorder-model-picker-list-for-better-organization|Reorder
-  model picker list for better organization]]'
-- '[[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved
-  read/search progress indicators to show "Reading…" while in progress…]]'
 - '[[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove
   missing sidebar item]]'
+- '[[Changes/OpenCode/2026-01-28-desktop-enable-ctrl-n-and-ctrl-p-for-popover-navigation-in-desktop-app|Desktop
+  Enable ctrl+n and ctrl+p for popover navigation in desktop app]]'
+- '[[Changes/OpenCode/2026-01-28-7-interface-experience-changes-in-v1-1-37|7 Interface
+  Experience changes in v1.1.37]]'
 source_release: '[[Releases/v0/v0-2026-01-28-2026-01-28-27ea870c|v0-2026-01-28-2026-01-28-27ea870c]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove missing sidebar item]]
+- Earlier: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-7-interface-experience-changes-in-v1-1-37|7 Interface Experience changes in v1.1.37]]
 - Later: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface Experience changes in v2.1.23]]
 <!-- chronolog:end -->
 

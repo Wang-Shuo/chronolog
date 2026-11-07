@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83323437907a75eb4fdc3d171dffed866bb415c578084fea920b7a9a37a8b940
+machine_hash: 0ae2ec9266a2b79bbce43a99a3f3e28279aec68689179766a36c62b97ea4fc34
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,12 +59,11 @@ record:
     share menu
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-25-2-reliability-and-performance-changes-in-v0-30-0|2
-  Reliability and Performance changes in v0.30.0]]'
-- '[[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved
-  memory usage in multi-agent sessions by releasing completed subagent task state]]'
-- '[[Changes/Codex CLI/2026-02-26-2-reliability-and-performance-changes-in-rust-v0-106-0|2
-  Reliability and Performance changes in rust-v0.106.0]]'
+- '[[Changes/Google Antigravity/2026-02-26-browser-fix|Browser Fix]]'
+- '[[Changes/Midjourney/2026-02-26-this-should-be-both-faster-more-accurate-and-more-fun|This
+  should be both faster, more accurate, and more fun]]'
+- '[[Changes/Midjourney/2026-02-26-this-should-noticeably-increase-the-general-speed-and-performance-across-the-ent|This
+  should noticeably increase the general speed and performance across the entire…]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c|chatgpt-2026-02-27-chatgpt-web-and-android-updates-edit-image-prompts-share-faster-abef696c]]'
 source_type: chatgpt_changelog
@@ -101,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-2-reliability-and-performance-changes-in-rust-v0-106-0|2 Reliability and Performance changes in rust-v0.106.0]]
+- Earlier: 2026-02-26 · Midjourney · [[Changes/Midjourney/2026-02-26-this-should-noticeably-increase-the-general-speed-and-performance-across-the-ent|This should noticeably increase the general speed and performance across the entire…]]
 - Later: 2026-02-27 · Replit · [[Changes/Replit/2026-02-27-agent-performance-improvements|Agent performance improvements]]
 <!-- chronolog:end -->
 

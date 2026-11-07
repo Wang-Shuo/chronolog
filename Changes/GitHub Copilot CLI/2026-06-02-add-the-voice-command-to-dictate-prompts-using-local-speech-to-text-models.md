@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1cab58f9df11c9911dc86c3bd7c3ec0d29ce25e60f2930182169a85c6101a2a3
+machine_hash: c5a61054aa02a57e0006e36db65a75c30715cc59cbba08dfe58e143f2ff0b7e1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-voice-and-audio-changes-in-v0-9-6|4 Voice and Audio changes in v0.9.6]]
-- Later: 2026-06-05 · Cursor · [[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Voice input]]
+- Later: 2026-06-04 · Suno · [[Changes/Suno/2026-06-04-share-audio-from-ios-voice-memos-the-app-will-automatically-attach-as-audio-in-t|Share audio from iOS Voice Memos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

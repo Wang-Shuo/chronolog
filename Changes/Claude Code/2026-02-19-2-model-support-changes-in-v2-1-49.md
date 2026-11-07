@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f18b052a7a742119f334cef252e814102fc9a5aacc234b26b77b5d05be6de36
+machine_hash: 9619eeac217873101dcc9e584699ccc962cc893048d716da5c10d34c44a728c8
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Model Support changes in v2.1.49
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-2-model-support-changes-in-cli-improvements-and-mermaid-ascii|2
-  Model Support changes in CLI Improvements and Mermaid ASCII…]]'
 - '[[Changes/Gemini CLI/2026-02-18-11-model-support-changes-in-v0-29-0|11 Model Support
   changes in v0.29.0]]'
+- '[[Changes/Midjourney/2026-02-18-please-note|Please Note]]'
 - '[[Changes/OpenHands/2026-02-18-add-minimax-m2-5-model-support-by-neubig-in-https-github-com-openhands-openhands|Add
   MiniMax-M2.5 model support]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'

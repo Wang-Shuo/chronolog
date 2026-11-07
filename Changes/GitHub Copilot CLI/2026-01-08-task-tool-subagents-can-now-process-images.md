@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30f4563ff23d72c9aee17e32bda229beb5324610d644b52606b210cd89978caa
+machine_hash: 31749705dfb933c56de6b792910ef12cc679066c2b4d315e94a921ed52b2ebaa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Task tool subagents can now process images
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-07-4-agent-mode-changes-in-rust-v0-79-0|4 Agent Mode
-  changes in rust-v0.79.0]]'
 - '[[Changes/Gemini CLI/2026-01-07-3-agent-mode-changes-in-v0-23-0|3 Agent Mode changes
   in v0.23.0]]'
+- '[[Changes/OpenCode/2026-01-07-3-agent-mode-changes-in-v1-1-6|3 Agent Mode changes
+  in v1.1.6]]'
 - '[[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New
   agent command is now the primary CLI entrypoint. cursor-agent remains…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-08-v0-0-376-github-275206322-ddd482cf|github-copilot-cli-2026-01-08-v0-0-376-github-275206322-ddd482cf]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New agent command is now the primary CLI entrypoint. cursor-agent remains…]]
-- Later: 2026-01-08 · v0 · [[Changes/v0/2026-01-08-improved-how-large-inputs-are-stored-in-the-agent-s-filesystem-for-better-recall|Improved how large inputs are stored in the agent's filesystem for better recall]]
+- Later: 2026-01-08 · OpenCode · [[Changes/OpenCode/2026-01-08-core-simplify-task-tool-subagent-filtering|Core Simplify task tool subagent filtering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

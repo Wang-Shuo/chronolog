@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a64ebaca107669ef43ba6049659186c88f3f7619796cd9d4fa430eab8f44e2b
+machine_hash: faff8edab54d98349cc502de4d0a17dbebf5b15f8dd710b51193c002e34d7506
 product: openhands
 product_name: OpenHands
 record:
@@ -69,12 +69,12 @@ record:
   title: 12 Interface Experience changes in v1.35.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-2-interface-experience-changes-in-elevenlabs-updates-2026-11-02|2
-  Interface Experience changes in ElevenLabs updates — 2026-11-02]]'
 - '[[Changes/Ollama/2026-11-03-picker-shows-ollama-s-actual-model-names|picker shows
   Ollama''s actual model names]]'
 - '[[Changes/Open WebUI/2026-11-03-4-interface-experience-changes-in-v0-13-0|4 Interface
   Experience changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-13-interface-experience-changes-in-v2026-10-10|13
+  Interface Experience changes in v2026.10.10]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: interface-experience
@@ -135,7 +135,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-4-interface-experience-changes-in-v0-13-0|4 Interface Experience changes in v0.13.0]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-13-interface-experience-changes-in-v2026-10-10|13 Interface Experience changes in v2026.10.10]]
 - Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-interface-experience-changes-in-1-19-0|2 Interface Experience changes in 1.19.0]]
 <!-- chronolog:end -->
 

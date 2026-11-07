@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 18b51eb55c17fdf84ddb5062a261056edcbde2ce43d500f96ec908f2dd302069
+machine_hash: edf9f0097bdd5603a66b5b6d185aa3a2246751b7b768bb7dff5d7c2043f228b7
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,11 +56,12 @@ record:
   title: Changed `/context` token counting to use a local estimate when the token-counting…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-02-report-cached-prompt-tokens|Report cached prompt tokens]]'
 - '[[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context
   Window changes in v2.1.260]]'
 - '[[Changes/Codex CLI/2026-09-03-6-context-window-changes-in-rust-v0-153-0|6 Context
   Window changes in rust-v0.153.0]]'
+- '[[Changes/OpenClaw/2026-09-03-11-context-window-changes-in-v2026-9-1|11 Context
+  Window changes in v2026.9.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: context-window
@@ -98,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-6-context-window-changes-in-rust-v0-153-0|6 Context Window changes in rust-v0.153.0]]
-- Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved prompt-cache stability]]
+- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-11-context-window-changes-in-v2026-9-1|11 Context Window changes in v2026.9.1]]
+- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-15-context-window-changes-in-v2026-9-2|15 Context Window changes in v2026.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

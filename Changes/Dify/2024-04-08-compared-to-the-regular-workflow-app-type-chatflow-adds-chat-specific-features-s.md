@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5d4548a1f2880962e36267c1231c141883ac2268e1f7cdc26ef4811dc1992cf9
+machine_hash: 039ab8c59a23c44f55a29c29025918d0149895a627c756b657a55eda516284a4
 product: dify
 product_name: Dify
 record:
@@ -48,12 +48,12 @@ record:
     such…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom
-  instructions are now available to users in the EU & UK]]'
-- '[[Changes/Dify/2024-01-05-feat-optimize-memory-invoke-error-output-by-takatost-in-https-github-com-langgen|feat:
-  optimize memory & invoke error output]]'
 - '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory
   and new controls for ChatGPT]]'
+- '[[Changes/Midjourney/2024-03-13-our-team-is-also-working-on-new-special-features-like-model-personalization-that|Our
+  team is also working on new special features like model personalization…]]'
+- '[[Changes/Midjourney/2024-03-21-these-ratings-help-improve-our-algorithms-populate-the-explore-page-and-also-wil|These
+  ratings help improve our algorithms, populate the explore page, and also will…]]'
 source_release: '[[Releases/Dify/dify-2024-04-08-0-6-0-github-150191925-0ce534e4|dify-2024-04-08-0-6-0-github-150191925-0ce534e4]]'
 source_type: github_releases
 theme: memory
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2024-02-13 · ChatGPT · [[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory and new controls for ChatGPT]]
+- Earlier: 2024-03-21 · Midjourney · [[Changes/Midjourney/2024-03-21-these-ratings-help-improve-our-algorithms-populate-the-explore-page-and-also-wil|These ratings help improve our algorithms, populate the explore page, and also will…]]
 - Later: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-you-can-now-enable-memory-in-the-llm-node-within-your-chatflow-and-customize-the|Enable memory in the LLM node within your chatflow, and customize the query prompt…]]
 <!-- chronolog:end -->
 

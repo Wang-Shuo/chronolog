@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: baef183f6a56f38c9f5f1b800ad22584bbfe1019cf1c559ab6b41355c22263f5
+machine_hash: 99b5fba4d67fc8eddbea15077b8cdd44d66dcee11dbbd787406b119c0fd4d8c5
 product: dify
 product_name: Dify
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Automation and Scheduling changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-31-3-automation-and-scheduling-changes-in-v0-11-2|3
-  Automation and Scheduling changes in v0.11.2]]'
-- '[[Changes/Codex CLI/2026-09-01-41457-source-proactive-multi-agent-instructions-from-the-model-catalog-copyberry|♯41457
-  Source proactive multi-agent instructions from the model catalog @copyberry]]'
+- '[[Changes/OpenClaw/2026-09-05-8-automation-and-scheduling-changes-in-v2026-9-2|8
+  Automation and Scheduling changes in v2026.9.2]]'
+- '[[Changes/OpenClaw/2026-09-08-7-automation-and-scheduling-changes-in-v2026-9-3|7
+  Automation and Scheduling changes in v2026.9.3]]'
 - '[[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9
   Automation and Scheduling changes in v1.17.0]]'
 source_release: '[[Releases/Dify/dify-2026-09-10-1-17-1-github-386157159-e472b6fe|dify-2026-09-10-1-17-1-github-386157159-e472b6fe]]'
@@ -107,7 +107,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.17.1
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9 Automation and Scheduling changes in v1.17.0]]
-- Later: 2026-09-11 · OpenHands · [[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3 Automation and Scheduling changes in v1.18.0]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-7-automation-and-scheduling-changes-in-v2026-9-4|7 Automation and Scheduling changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

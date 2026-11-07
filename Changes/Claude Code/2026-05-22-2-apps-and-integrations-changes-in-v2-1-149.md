@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2d24185c4b9ab709c2253dbe98551c648c7e054032473cbf7914974b496f9bf
+machine_hash: 93e430cd5a0ed14c7837d380771e9bc0abade17d1d47718f9e2e4e14340b03d7
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.149
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-4-apps-and-integrations-changes-in-v1-0-51|4
-  Apps and Integrations changes in v1.0.51]]'
-- '[[Changes/Codex CLI/2026-05-21-20-apps-and-integrations-changes-in-rust-v0-133-0|20
-  Apps and Integrations changes in rust-v0.133.0]]'
+- '[[Changes/Google Antigravity/2026-05-21-added-a-migration-flow-that-allows-users-to-import-settings-extensions-and-keybi|Added
+  a migration flow that allows users to import settings, extensions…]]'
 - '[[Changes/Lovable/2026-05-21-app-connectors-google-maps-platform-semrush-and-tiktok|App
   connectors: Google Maps Platform, Semrush, and TikTok]]'
+- '[[Changes/OpenCode/2026-05-21-sdk-v2-global-event-streams-now-include-account-add-remove-and-switch-events|SDK
+  V2 global event streams now include account add, remove, and switch events]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.149
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-app-connectors-google-maps-platform-semrush-and-tiktok|App connectors: Google Maps Platform, Semrush, and TikTok]]
+- Earlier: 2026-05-21 · OpenCode · [[Changes/OpenCode/2026-05-21-sdk-v2-global-event-streams-now-include-account-add-remove-and-switch-events|SDK V2 global event streams now include account add, remove, and switch events]]
 - Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-docs-extensions-refactor-releasing-guide-and-add-update-mechanisms-by-ruomengz-i|docs(extensions): refactor releasing guide and add update mechanisms]]
 <!-- chronolog:end -->
 

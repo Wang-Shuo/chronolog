@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11c513fa03d325e0fe30a47e8f55685f3fb2f51d17d13dee1e26b4e11209a377
+machine_hash: e832bcb3d5fbeec27e570f1c3860e745ccac1671a7120771eeca3bc93eef3084
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
     dialog…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-16-lovable-writes-and-runs-tests-for-the-rules-you-change|Lovable
-  writes and runs tests for the rules you change]]'
 - '[[Changes/Lovable/2026-10-16-require-approval-or-block-publishing-with-workspace-policies|Require
   approval or block publishing with workspace policies]]'
 - '[[Changes/Open WebUI/2026-10-16-2-safety-and-privacy-changes-in-v0-12-3|2 Safety
   and Privacy changes in v0.12.3]]'
+- '[[Changes/OpenClaw/2026-10-16-2-safety-and-privacy-changes-in-v2026-10-4|2 Safety
+  and Privacy changes in v2026.10.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
 source_type: github_releases
 theme: safety-privacy
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-safety-and-privacy-changes-in-v0-12-3|2 Safety and Privacy changes in v0.12.3]]
+- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-2-safety-and-privacy-changes-in-v2026-10-4|2 Safety and Privacy changes in v2026.10.4]]
 - Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-6-safety-and-privacy-changes-in-v1-0-100|6 Safety and Privacy changes in v1.0.100]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f85eaa17a325256e894c3d2cd71343efec28dcb3f50498cee1ece461105dcc7f
+machine_hash: 1a702d047abdb8ea4313bbcd9c0056f3e03c5488c7f5fb989507b71fb3d36db4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Collaboration changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-21-4-collaboration-changes-in-slash-commands-the-shopify|4
-  Collaboration changes in Slash commands, the Shopify…]]'
 - '[[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin
   controls: per-team and per-group enablement, mode restrictions, default mode…]]'
+- '[[Changes/Midjourney/2026-07-23-as-a-kid-all-i-wanted-was-a-cool-place-to-work-on-cool-projects-with-cool-people|Midjourney’s
+  First Acquisition]]'
 - '[[Changes/ElevenLabs/2026-07-27-studio|Studio]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases

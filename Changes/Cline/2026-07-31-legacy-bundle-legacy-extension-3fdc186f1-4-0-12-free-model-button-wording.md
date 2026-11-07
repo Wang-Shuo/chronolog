@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c38d36f865f9922d42ae3b3e168753390d65c2da2a5d95b4dde498ed07864c3e
+machine_hash: 10c4dc333ec7ab4b1beb0e4e63da5df4d3441456c585dc7638ef852ccf75b9d5
 product: cline
 product_name: Cline
 record:
@@ -45,11 +45,11 @@ record:
     wording)'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-allow-reasoning-effort-to-be-omitted-so-the-server-can-select-the-default|Allow
-  reasoning effort to be omitted so the server can select the default]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-model-support-changes-in-v1-0-76|2 Model
-  Support changes in v1.0.76]]'
 - '[[Changes/Lovable/2026-07-30-opus-5|Opus 5]]'
+- '[[Changes/OpenCode/2026-07-30-discover-available-modal-models-automatically|Discover
+  available Modal models automatically]]'
+- '[[Changes/OpenCode/2026-07-30-desktop-hide-the-model-variant-selector-until-model-data-finishes-loading|Desktop
+  Hide the model variant selector until model data finishes loading]]'
 source_release: '[[Releases/Cline/cline-2026-07-31-v4-1-0-github-362842844-bb117e78|cline-2026-07-31-v4-1-0-github-362842844-bb117e78]]'
 source_type: github_releases
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-30 · Lovable · [[Changes/Lovable/2026-07-30-opus-5|Opus 5]]
+- Earlier: 2026-07-30 · OpenCode · [[Changes/OpenCode/2026-07-30-desktop-hide-the-model-variant-selector-until-model-data-finishes-loading|Desktop Hide the model variant selector until model data finishes loading]]
 - Later: 2026-07-31 · DeepSeek API · [[Changes/DeepSeek API/2026-07-31-deepseek-v4-flash-update|DeepSeek-V4-Flash Update]]
 <!-- chronolog:end -->
 

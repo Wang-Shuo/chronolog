@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67a7414745f8cbfde7b085830490b2c3e892a55f09281bcd15f01ae9ed776232
+machine_hash: b5c3733a5dcae020394e194bb3aee41c3a13b1d77f9c1d429d23ce81cb357d49
 product: open-webui
 product_name: Open WebUI
 record:
@@ -41,10 +41,10 @@ record:
   title: "**\U0001F9E0 Editable Memories**: Adds the capability to modify memories"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory
-  is now available to Plus users]]'
-- "[[Changes/Open WebUI/2024-05-19-experimental-memory-feature-manually-input-personal-information-you-want-llms-to|\U0001F9E0
-  Experimental Memory Feature]]"
+- '[[Changes/Midjourney/2024-06-12-how-do-i-use-model-personalization|How do I use
+  Model Personalization?]]'
+- '[[Changes/Midjourney/2024-06-12-we-re-releasing-an-early-test-version-of-model-personalization-today-here-s-how|We''re
+  releasing an early test version of model personalization today]]'
 - '[[Changes/Dify/2024-06-14-2-memory-and-personalization-changes-in-0-6-11|2 Memory
   and Personalization changes in 0.6.11]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-17-v0-3-5-github-160767704-89fd917e|open-webui-2024-06-17-v0-3-5-github-160767704-89fd917e]]'

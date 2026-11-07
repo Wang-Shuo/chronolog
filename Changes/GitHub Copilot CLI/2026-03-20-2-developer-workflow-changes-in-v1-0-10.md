@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 401be46dbc3d2b5ccf603f7557afa8e1d6f97d0eca4d4af079d4ba5c9f511f1a
+machine_hash: b180e7df9f99b71b85068016d9c0ec093030463baa3a7a149cc8b28bf4549f8b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.10
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-4-developer-workflow-changes-in-v2-1-81|4 Developer Workflow changes in v2.1.81]]
-- Later: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-2-developer-workflow-changes-in-v1-0-11|2 Developer Workflow changes in v1.0.11]]
+- Later: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-2-developer-workflow-changes-in-v1-3-0|2 Developer Workflow changes in v1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

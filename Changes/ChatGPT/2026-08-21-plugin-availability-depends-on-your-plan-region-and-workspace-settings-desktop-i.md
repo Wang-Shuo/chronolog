@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 42454a6b12b87cf1acc0b205e944ff40c2f1745e1b7eeeac25acea837050ad80
+machine_hash: 8fbda67583182181bfe415b920e1bc9ad965de9760cd09124caf59b275447579
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +43,8 @@ record:
   title: Plugin availability depends on your plan, region, and workspace settings
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33
-  Apps and Integrations changes in rust-v0.149.0]]'
+- '[[Changes/Google Antigravity/2026-08-20-refreshed-the-customizations-settings-screen-with-collapsible-sections-and-item|Refreshed
+  the Customizations settings screen with collapsible sections and item…]]'
 - '[[Changes/Lovable/2026-08-20-sort-connectors-and-add-an-mcp-server-from-the-catalog-header|Sort
   connectors and add an MCP server from the catalog header]]'
 - '[[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated

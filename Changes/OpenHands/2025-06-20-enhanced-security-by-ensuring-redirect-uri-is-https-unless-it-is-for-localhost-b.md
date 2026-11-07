@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3304621c3976aa3bc38f9a3c7d43437eed080ba12b286fd2660df5562b38f2de
+machine_hash: 9ba0d40f57d7c7a8b854a84611a71bca809b5d19f3d04f6582f9f174c4127276
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: Enhanced security by ensuring redirect URI is HTTPS unless it is for localhost
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-06-16-2-safety-and-privacy-changes-in-v0-6-15|2 Safety
-  and Privacy changes in v0.6.15]]'
+- '[[Changes/Manus/2025-06-20-open-the-browser-in-a-session-log-in-manually-once-we-encrypt-save-your-login-st|Introducing
+  Manus Cloud Browser]]'
 - '[[Changes/OpenHands/2025-06-20-daytona-runtime-sandbox-handling-by-idagelic-in-https-github-com-all-hands-ai-op|Daytona
   Runtime sandbox handling]]'
 - '[[Changes/OpenHands/2025-06-20-support-for-dev-container-networking-without-host-mode-by-llamantino-in-https-gi|Support

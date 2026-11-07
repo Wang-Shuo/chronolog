@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 57f3509bf88ddf488604ffef11af40af4a03c53595b9a3af06f5ea549ed25e43
+machine_hash: d1b9dac45c28c4b20b1136bada68795ad5e9735bc6c2e6dda4db6a40e1f2a7d6
 product: claude
 product_name: Claude
 record:
@@ -48,10 +48,10 @@ record:
   title: Cowork research preview on Claude Desktop (macOS only) for Max plans
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-2-mobile-and-desktop-changes-in-rust-v0-80-0|2 Mobile
-  and Desktop changes in rust-v0.80.0]]'
-- "[[Changes/Open WebUI/2026-01-09-users-on-windows-now-see-correctly-preserved-line-breaks-when-using-the-clipboar|\U0001F4CB
-  Users on Windows now see correctly preserved line breaks when using…]]"
+- '[[Changes/OpenCode/2026-01-09-4-mobile-and-desktop-changes-in-v1-1-8|4 Mobile and
+  Desktop changes in v1.1.8]]'
+- '[[Changes/OpenCode/2026-01-11-5-mobile-and-desktop-changes-in-v1-1-13|5 Mobile
+  and Desktop changes in v1.1.13]]'
 - '[[Changes/Claude/2026-01-12-health-and-fitness-data-on-claude-mobile|Health and
   fitness data on Claude Mobile]]'
 source_release: '[[Releases/Claude/claude-2026-01-12-2026-01-12-102f5bca|claude-2026-01-12-2026-01-12-102f5bca]]'
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-users-on-windows-now-see-correctly-preserved-line-breaks-when-using-the-clipboar|📋 Users on Windows now see correctly preserved line breaks when using…]]
-- Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-mobile-and-desktop-changes-in-rust-v0-81-0|2 Mobile and Desktop changes in rust-v0.81.0]]
+- Earlier: 2026-01-11 · OpenCode · [[Changes/OpenCode/2026-01-11-5-mobile-and-desktop-changes-in-v1-1-13|5 Mobile and Desktop changes in v1.1.13]]
+- Later: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-3-mobile-and-desktop-changes-in-v1-1-15|3 Mobile and Desktop changes in v1.1.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

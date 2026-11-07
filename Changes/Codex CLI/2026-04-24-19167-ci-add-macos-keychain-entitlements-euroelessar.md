@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c93c710fa5219defff4b339aa119e37460bf9f3dc4eeaf9262e212321492de6
+machine_hash: 082f6d7714c27c6503e6b4425244861f2e64f55975381392240cefba514f000a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: '#19167 ci: add macOS keychain entitlements @euroelessar'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-22-fixed-model-picker-showing-stale-model-after-switching-chats-in-the-macos-app|Fixed
-  model picker showing stale model after switching chats in the macOS app]]'
 - '[[Changes/Gemini CLI/2026-04-23-use-macos-latest-large-runner-where-applicable-by-scidomino-in-https-github-com|use
   macos-latest-large runner where applicable]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-tool-availability-detection-works-correctly-on-windows|Tool
   availability detection works correctly on Windows]]'
+- '[[Changes/OpenCode/2026-04-23-3-mobile-and-desktop-changes-in-v1-14-22-1|3 Mobile
+  and Desktop changes in v1.14.22 + 1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c|codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-tool-availability-detection-works-correctly-on-windows|Tool availability detection works correctly on Windows]]
+- Earlier: 2026-04-23 · OpenCode · [[Changes/OpenCode/2026-04-23-3-mobile-and-desktop-changes-in-v1-14-22-1|3 Mobile and Desktop changes in v1.14.22 + 1]]
 - Later: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-lovable-desktop-app|Lovable desktop app]]
 <!-- chronolog:end -->
 

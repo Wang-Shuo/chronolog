@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a30c5289c114a05eef5ff0aa9b4d0d24346cf24b9664a8ea3b8e70b77a935725
+machine_hash: 7361bbfc9794c117296f318b0c29c6a75a3e1a36b00916419d0012c219297dc5
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved UI rendering performance with React Compiler
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-14-2-reliability-and-performance-changes-in-v1-13-8|2
-  Reliability and Performance changes in v1.13.8]]'
-- '[[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing
-  and UX]]'
 - '[[Changes/Ollama/2026-01-16-glm-4-7-flash-https-ollama-com-library-glm-4-7-flash-as-the-strongest-model-in-t|GLM-4.7-Flash((source
   link) As the strongest model…]]'
+- '[[Changes/Midjourney/2026-01-20-improved-scroll-anchoring-and-grid-performance|Improved
+  scroll anchoring and grid performance]]'
+- '[[Changes/OpenCode/2026-01-20-terminal-fix-message-history-cleanup-to-prevent-memory-leaks-in-tui|Terminal
+  Fix message history cleanup to prevent memory leaks in TUI]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b|claude-code-2026-01-21-v2-1-15-github-278799996-0b5b2e8b]]'
 source_type: github_releases
 theme: reliability-performance
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-16 · Ollama · [[Changes/Ollama/2026-01-16-glm-4-7-flash-https-ollama-com-library-glm-4-7-flash-as-the-strongest-model-in-t|GLM-4.7-Flash((source link) As the strongest model…]]
+- Earlier: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-terminal-fix-message-history-cleanup-to-prevent-memory-leaks-in-tui|Terminal Fix message history cleanup to prevent memory leaks in TUI]]
 - Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-9543-fix-memory-leak-issue-jif-oai|♯9543 fix: memory leak issue @jif-oai]]
 <!-- chronolog:end -->
 

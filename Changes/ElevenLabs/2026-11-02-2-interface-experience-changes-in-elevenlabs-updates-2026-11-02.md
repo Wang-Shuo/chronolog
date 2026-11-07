@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 06eca56f5b736d865d71ec6c74a721921acef71e1eff1ec353c678d121e949dd
+machine_hash: 8695ddcc0a11d233b226a88e2dbe400c22107fa49281560ff82f143f28b97b3d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Interface Experience changes in ElevenLabs updates — 2026-11-02
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-12-interface-experience-changes-in-rust-v0-166-0|12
-  Interface Experience changes in rust-v0.166.0]]'
-- '[[Changes/Lovable/2026-10-29-bring-your-app-or-website-to-lovable|Bring your app
-  or website to Lovable]]'
-- '[[Changes/Open WebUI/2026-10-29-2-interface-experience-changes-in-v0-12-5|2 Interface
-  Experience changes in v0.12.5]]'
+- '[[Changes/OpenCode/2026-10-30-desktop-restored-copying-user-messages-from-an-open-actions-menu|Desktop
+  Restored copying user messages from an open actions menu]]'
+- '[[Changes/OpenCode/2026-10-30-desktop-kept-the-current-and-command-menu-selection-stable-while-results-update|Desktop
+  Kept the current @ and command-menu selection stable while results update…]]'
+- '[[Changes/OpenCode/2026-10-30-desktop-added-the-missing-top-inset-to-the-search-field-in-the-recently-closed-m|Desktop
+  Added the missing top inset to the search field in the recently closed menu]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'
 source_type: elevenlabs_changelog
 theme: interface-experience
@@ -110,8 +110,8 @@ Source: https://elevenlabs.io/docs/changelog/2026/11/2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-interface-experience-changes-in-v0-12-5|2 Interface Experience changes in v0.12.5]]
-- Later: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-picker-shows-ollama-s-actual-model-names|picker shows Ollama's actual model names]]
+- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-desktop-added-the-missing-top-inset-to-the-search-field-in-the-recently-closed-m|Desktop Added the missing top inset to the search field in the recently closed menu]]
+- Later: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-5-interface-experience-changes-in-hub-v2-29-0-voice-mode-remote|5 Interface Experience changes in HUB v2.29.0 — Voice mode, remote…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

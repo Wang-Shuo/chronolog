@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 887fc6da3b54f383d1d6547012de115f3c2567d94a3369e6a55397e7dbd6fc76
+machine_hash: d874353626778a01029bd5d768115582955be3c227535ccd86cf83e05f9d4380
 product: open-webui
 product_name: Open WebUI
 record:
@@ -193,10 +193,10 @@ record:
   title: 27 Developer Workflow changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added
-  a line on stderr, when it is a terminal, that says what a claude -p run…]]'
 - '[[Changes/Codex CLI/2026-10-08-12-developer-workflow-changes-in-rust-v0-162-0|12
   Developer Workflow changes in rust-v0.162.0]]'
+- '[[Changes/OpenClaw/2026-10-08-3-developer-workflow-changes-in-v2026-9-9|3 Developer
+  Workflow changes in v2026.9.9]]'
 - '[[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer
   Workflow changes in v2.1.296]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
@@ -300,7 +300,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer Workflow changes in v2.1.296]]
-- Later: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-interactive-sessions-in-git-repositories-reach-the-input-prompt-sooner|Interactive sessions in git repositories reach the input prompt sooner]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-11-developer-workflow-changes-in-v2026-10-1|11 Developer Workflow changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

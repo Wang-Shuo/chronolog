@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8332f8cb7fb7f7f224cf420f4a77bbc12b70c656715c2a2c3c0d1b21102a5b9e
+machine_hash: 934ef740c201d8c4150ef4ad57a546e240e481ea41bda1a75444fb70613f5369
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,10 +50,10 @@ record:
   title: 2 Automation and Scheduling changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-27-icloud-users-can-now-connect-mail-and-calendar-to-chatgpt-to-find-emails-catch-u|iCloud
-  users can now connect Mail and Calendar to ChatGPT to find emails, catch up…]]'
 - '[[Changes/Gemini CLI/2026-10-27-refactor-core-cli-emit-tool-call-groups-from-the-scheduler-and-drop-the-ui-looka|refactor(core,cli):
   emit tool call groups from the scheduler and drop the UI lookahead]]'
+- '[[Changes/OpenClaw/2026-10-27-4-automation-and-scheduling-changes-in-v2026-10-8|4
+  Automation and Scheduling changes in v2026.10.8]]'
 - '[[Changes/OpenHands/2026-10-27-6-automation-and-scheduling-changes-in-v1-34-0|6
   Automation and Scheduling changes in v1.34.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
@@ -105,7 +105,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-6-automation-and-scheduling-changes-in-v1-34-0|6 Automation and Scheduling changes in v1.34.0]]
-- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2 Automation and Scheduling changes in v2.1.316]]
+- Later: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-sdk-add-client-experimental-schedule-create-list-get-pause-resume-delete-for-man|SDK Add…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

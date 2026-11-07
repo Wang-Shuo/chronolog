@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f1e1d986b1e844e632911668e76d2d1c79f939ced575b40c1705b46df7abcc99
+machine_hash: 7026d17fd6e73cf6e8108c958b2e82cafe8bb2e9c51dbe734b98fc742d880704
 product: v0
 product_name: v0
 record:
@@ -58,12 +58,12 @@ record:
   title: Claude Opus 4.7 Fast is available as a new model option under…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support
-  changes in v2.1.142]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model
-  Support changes in v1.0.48]]'
+- '[[Changes/OpenCode/2026-05-14-3-model-support-changes-in-v1-14-50|3 Model Support
+  changes in v1.14.50]]'
 - '[[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support
   changes in v2.1.143]]'
+- '[[Changes/OpenCode/2026-05-15-2-model-support-changes-in-v1-14-51|2 Model Support
+  changes in v1.14.51]]'
 source_release: '[[Releases/v0/v0-2026-05-15-2026-05-15-d142aa2e|v0-2026-05-15-2026-05-15-d142aa2e]]'
 source_type: v0_changelog
 theme: model-support
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support changes in v2.1.143]]
+- Earlier: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-2-model-support-changes-in-v1-14-51|2 Model Support changes in v1.14.51]]
 - Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-4-model-support-changes-in-rust-v0-131-0|4 Model Support changes in rust-v0.131.0]]
 <!-- chronolog:end -->
 

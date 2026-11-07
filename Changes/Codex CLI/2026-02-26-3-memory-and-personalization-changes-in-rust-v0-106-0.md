@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3242efc71da351fa3add9319a8ad6f336589b456a871a92b3db70362bcbee032
+machine_hash: e52c377b74f35b44cf2c006b939ccee7d07b356a5acc8ed4b700516fca0dce5a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.106.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-claude-automatically-saves-useful-context-to-auto-memory-manage-with-memory|Claude automatically saves useful context to auto-memory]]
-- Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project configs & auto memory now shared across git worktrees of the same repository]]
+- Later: 2026-02-26 · Midjourney · [[Changes/Midjourney/2026-02-26-we-ve-added-personalization-and-moodboards-to-niji-7-our-anime-image-model|Midjourney adds Personalization and Moodboards to niji 7 (our anime image model)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

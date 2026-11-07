@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9571e34d629ddcff29deed1f46fcc10987ec15dff4bf88fb5416029ff989e318
+machine_hash: 2998534065de80db4b68ffa53925ac8e8e79fed2f888ae295115c48a87fa3587
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,11 +44,12 @@ record:
   title: Improvements to search response quality in Voice
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-19-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice
   Updates]]'
 - '[[Changes/Replit/2026-01-23-audio-support-in-ai-integrations|Audio support in AI
   integrations]]'
+- '[[Changes/OpenCode/2026-01-25-desktop-add-state-to-pause-existing-audio-for-demo-menus-and-add-support-for-aud|Desktop
+  Add state to pause existing audio for demo menus and add support for audio…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-26-improvements-to-search-response-quality-in-voice-f8293292|chatgpt-2026-01-26-improvements-to-search-response-quality-in-voice-f8293292]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -75,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-01-23 · Replit · [[Changes/Replit/2026-01-23-audio-support-in-ai-integrations|Audio support in AI integrations]]
+- Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-desktop-add-state-to-pause-existing-audio-for-demo-menus-and-add-support-for-aud|Desktop Add state to pause existing audio for demo menus and add support for audio…]]
 - Later: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-music|Music]]
 <!-- chronolog:end -->
 

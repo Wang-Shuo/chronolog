@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9dbf0be2c9f89516f31d56a715a1106d77fe2e3b5c92a32c09d1f7f6ac8427c
+machine_hash: 0bce887a49a24bde0d83a2f64fd29f03c8cb231fc9fffd0aa8eb01ab48129e1a
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Accessibility and Localization changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-23-ui-accessibility-improvements-screen-reader-users-can-now-navigate-the-interface|♿
-  UI accessibility improvements. Screen reader users can now navigate…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-09-table-disables-borders-in-screen-reader-mode-to-prevent-announcing-decorative-ch|Table
   disables borders in screen reader mode to prevent announcing decorative characters]]'
+- '[[Changes/OpenCode/2026-03-13-desktop-synchronize-internationalization-translations|Desktop
+  Synchronize internationalization translations]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-17-improve-color-contrast-across-cli-themes-for-better-readability-and-accessibilit|Improve
   color contrast across CLI themes for better readability and accessibility]]'
 source_release: '[[Releases/Dify/dify-2026-04-29-1-14-0-github-314986233-63073e86|dify-2026-04-29-1-14-0-github-314986233-63073e86]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4196ee59bb5b5b07e078dd26b310495c9b875b4a578d20b33b2966322b5c207
+machine_hash: 652442707070ba7142a84b5e6df943854713a9874a49b63d94c98f840b6725c7
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -45,10 +45,10 @@ record:
     default'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-12-added-support-for-multimodal-embeddings-through-llama-server|Added
-  support for multimodal embeddings through llama-server]]'
 - '[[Changes/ElevenLabs/2026-10-19-video-to-music|Video to Music]]'
 - '[[Changes/ElevenLabs/2026-10-19-music|Music]]'
+- '[[Changes/OpenClaw/2026-10-22-linux-camera-discovery-now-reports-an-unreadable-device-folder-as-an-error-inste|Linux
+  camera discovery now reports an unreadable device folder as an error instead…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-26-2026-10-26-ca7c552d|elevenlabs-2026-10-26-2026-10-26-ca7c552d]]'
 source_type: elevenlabs_changelog
 theme: multimodal
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-music|Music]]
-- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-video-clip-background-removal-video-clips-have-a-remove-background-action-and-ri|Video clip background removal]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-linux-camera-discovery-now-reports-an-unreadable-device-folder-as-an-error-inste|Linux camera discovery now reports an unreadable device folder as an error instead…]]
+- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-oversized-macos-camera-clips-and-screen-recordings-now-return-an-error-instead-o|Oversized macOS camera clips and screen recordings now return an error instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

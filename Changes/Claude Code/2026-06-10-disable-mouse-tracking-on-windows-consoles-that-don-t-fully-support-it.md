@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1ee8fa75f0648c74db0ea0d4ce8a4c33878cd4551a01dd2bc91ac2bfc6360d3e
+machine_hash: f09b1aebd3c2b480350a51702f2ec3ac673fa774fbd9d1796ad93e4fa31516ab
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-4-mobile-and-desktop-changes-in-rust-v0-138-0|4 Mobile and Desktop changes in rust-v0.138.0]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-git-commands-no-longer-flash-a-console-window-on-windows|Git commands no longer flash a console window on Windows]]
+- Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-2-mobile-and-desktop-changes-in-v1-17-1|2 Mobile and Desktop changes in v1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

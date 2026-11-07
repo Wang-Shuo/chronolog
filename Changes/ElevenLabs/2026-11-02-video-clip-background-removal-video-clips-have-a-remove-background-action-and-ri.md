@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a998f389559ed4ca0ddae7c8c831a451717f084ad3bfa4dd5b46f1807c6a968
+machine_hash: 10471e590b53780a962ae616dfc888ec80fc170ffea405e76aef2e625199663f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,10 +46,12 @@ record:
   title: '**Video clip background removal**'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-19-video-to-music|Video to Music]]'
-- '[[Changes/ElevenLabs/2026-10-19-music|Music]]'
+- '[[Changes/OpenClaw/2026-10-22-linux-camera-discovery-now-reports-an-unreadable-device-folder-as-an-error-inste|Linux
+  camera discovery now reports an unreadable device folder as an error instead…]]'
 - '[[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video
   to music: Studio''s video to music workflow uses Music v2.5 by default]]'
+- '[[Changes/OpenClaw/2026-10-27-oversized-macos-camera-clips-and-screen-recordings-now-return-an-error-instead-o|Oversized
+  macOS camera clips and screen recordings now return an error instead…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'
 source_type: elevenlabs_changelog
 theme: multimodal
@@ -104,8 +106,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-video-to-music-studio-s-video-to-music-workflow-uses-music-v2-5-by-default|Video to music: Studio's video to music workflow uses Music v2.5 by default]]
-- Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-stop-serializing-the-entire-prompt-history-into-every-agent-llm-gateway-response|Stop serializing the entire prompt history into every Agent LLM gateway response chunk]]
+- Earlier: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-oversized-macos-camera-clips-and-screen-recordings-now-return-an-error-instead-o|Oversized macOS camera clips and screen recordings now return an error instead…]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-generated-images-music-and-video-can-wait-behind-a-busy-chat-without-reporting-f|Generated images, music and video can wait behind a busy chat without reporting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

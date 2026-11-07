@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ef8795323b62110347e771484637e35c8f90644131bbf7f93c0d91334ddc968
+machine_hash: 50d4b80ceeaf6ad762e411c7da2323c91d75a179067071947222ea4726e264ff
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-22915-3-of-4-tui-route-feature-and-memory-toggles-through-app-server-etraut-open|♯22915 3 of 4 tui: route feature and memory toggles through app server @etraut-openai]]
-- Later: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-8-memory-and-personalization-changes-in-rust-v0-135-0|8 Memory and Personalization changes in rust-v0.135.0]]
+- Later: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-activating-a-niji-6-or-v6-personalization-profile-no-longer-immediately-deselect|Activating a Niji 6 or V6 Personalization profile no longer immediately deselects it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

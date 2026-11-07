@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4be42942acf47ef143f8d4e6779a27561235c52b74dbcd9b5d0cff6db0e8cd9
+machine_hash: ecc386389e00bacaf6b2d655a5a20bbbef5b3b26176c65a50b4407e8fff9e315
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Reliability and Performance changes in v1.13.6
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-01-10-the-evaluations-page-now-loads-faster-by-eliminating-duplicate-api-calls-to-the|\U0001F4CA
-  The Evaluations page now loads faster by eliminating duplicate API calls…]]"
+- '[[Changes/OpenCode/2026-01-10-terminal-fix-instance-disposal-to-prevent-memory-leaks-and-dangling-references|Terminal
+  Fix instance disposal to prevent memory leaks and dangling references]]'
 - '[[Changes/Dify/2026-01-13-4-reliability-and-performance-changes-in-1-11-3|4 Reliability
   and Performance changes in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-sessions-with-large-conversation-history-load-faster-on-startup|Sessions

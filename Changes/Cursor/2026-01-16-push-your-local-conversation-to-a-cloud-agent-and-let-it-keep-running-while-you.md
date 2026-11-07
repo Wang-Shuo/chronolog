@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 44c5078eb56d773dca484bc7138af957ec63eb751b683ed8889af8eb48dc157c
+machine_hash: bbb131f59dce423541e0c700864388a768ff75065f3b43286829f2c433cdedae
 product: cursor
 product_name: Cursor
 record:
@@ -47,9 +47,10 @@ record:
   title: Handoff to Cloud Agents
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-14-improved-agent-error-handling|Improved agent error handling]]'
-- '[[Changes/Codex CLI/2026-01-15-9275-feat-add-agent-roles-to-collab-tools-jif-oai|♯9275
-  feat: add agent roles to collab tools @jif-oai]]'
+- '[[Changes/OpenCode/2026-01-15-ensure-agent-exists-before-processing-title-in-session-summary|Ensure
+  agent exists before processing title in session summary]]'
+- '[[Changes/OpenCode/2026-01-15-core-ensure-frontmatter-can-process-same-content-as-other-agents|Core
+  Ensure frontmatter can process same content as other agents]]'
 - '[[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|Added
   plansDirectory setting to customize where plan files are stored]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'

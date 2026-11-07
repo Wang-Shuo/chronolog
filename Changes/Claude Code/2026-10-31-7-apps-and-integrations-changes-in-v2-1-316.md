@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7287803f546bf129f41f767a72d2f0afe8e7f398a924ab64b46fb171cc00af1c
+machine_hash: b5df8fe9075e1960927aa73a2ec6243076886e045320e1fd8447dbd08f67904b
 product: claude-code
 product_name: Claude Code
 record:
@@ -67,12 +67,12 @@ record:
   title: 7 Apps and Integrations changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-22-apps-and-integrations-changes-in-rust-v0-166-0|22
-  Apps and Integrations changes in rust-v0.166.0]]'
-- '[[Changes/Open WebUI/2026-10-29-2-apps-and-integrations-changes-in-v0-12-5|2 Apps
-  and Integrations changes in v0.12.5]]'
-- '[[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3
-  Apps and Integrations changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-publish-interactive-artifacts|Publish Interactive
+  Artifacts]]'
+- '[[Changes/OpenCode/2026-10-30-managed-policy-integration-use-covers-integrations-only|Managed
+  policy: integration.use covers integrations only]]'
+- '[[Changes/OpenCode/2026-10-30-tui-plugins-require-opentui-0-8|TUI plugins require
+  OpenTUI 0.8]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -122,7 +122,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3 Apps and Integrations changes in v2.1.314]]
+- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-tui-plugins-require-opentui-0-8|TUI plugins require OpenTUI 0.8]]
 - Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-channel-integrations-asynchronous-channels-such-as-slack-telegram-intercom-gmail|Channel integrations: Asynchronous channels such as Slack, Telegram, Intercom…]]
 <!-- chronolog:end -->
 

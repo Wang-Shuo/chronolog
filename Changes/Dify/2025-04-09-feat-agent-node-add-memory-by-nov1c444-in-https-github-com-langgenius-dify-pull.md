@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0940764341bdd71fc7c83f0934b48642db508c1b7ada92a647ef42c8ed20e133
+machine_hash: 7f2d32935be38e8ae0808ae26599cac2c145d5004510e7543216f48a8a675c5c
 product: dify
 product_name: Dify
 record:
@@ -51,11 +51,11 @@ record:
   title: 'feat: agent node add memory'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9:
-  Memory and performances fixes, composer/chat remembers your last mode…]]'
-- '[[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable
-  memory condensation from settings page]]'
+- '[[Changes/Midjourney/2025-03-31-we-re-now-in-round-3-of-the-v7-image-rating-party|We''re
+  now in ROUND 3 of the V7 image rating party]]'
 - '[[Changes/Windsurf/2025-04-02-improvements-to-memories|Improvements to Memories]]'
+- '[[Changes/Midjourney/2025-04-04-v7-is-the-first-model-to-have-model-personalization-turned-on-by-default|V7
+  is the first model to have model personalization turned on by default]]'
 source_release: '[[Releases/Dify/dify-2025-04-09-1-2-0-github-211219994-e78c941d|dify-2025-04-09-1-2-0-github-211219994-e78c941d]]'
 source_type: github_releases
 theme: memory
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-04-02 · Windsurf · [[Changes/Windsurf/2025-04-02-improvements-to-memories|Improvements to Memories]]
+- Earlier: 2025-04-04 · Midjourney · [[Changes/Midjourney/2025-04-04-v7-is-the-first-model-to-have-model-personalization-turned-on-by-default|V7 is the first model to have model personalization turned on by default]]
 - Later: 2025-04-16 · ChatGPT · [[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|Memory with Search]]
 <!-- chronolog:end -->
 

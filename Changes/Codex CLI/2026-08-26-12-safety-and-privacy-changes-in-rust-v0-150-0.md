@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2556f4cb7cef5eb9f6d68e30c39433662cc728741c154e909ef79abf10a27bc
+machine_hash: 33048aaf18bd7c47ded435f921822840819719133d8cc993de8f97c225027e06
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -139,7 +139,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-2-safety-and-privacy-changes-in-v2-1-247|2 Safety and Privacy changes in v2.1.247]]
-- Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-log-out-everywhere|Log out everywhere]]
+- Later: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-2-safety-and-privacy-changes-in-hub-v2-11-0-generative-ui-and-ui|2 Safety and Privacy changes in HUB v2.11.0 — Generative UI and UI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

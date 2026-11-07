@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3903b835097783f4eaa499520c889396c5c1024416c5646fd4629e6bbcedd796
+machine_hash: cdda370e2503b880dc303977f0e7b7beb0f18ff4b65df199c420a5a0cbcc788e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -136,7 +136,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6 Developer Workflow changes in rust-v0.137.0]]
-- Later: 2026-06-07 · Cline · [[Changes/Cline/2026-06-07-add-a-debug-section-in-settings-for-cline-testers|Add a debug section in settings for Cline testers]]
+- Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-core-terminal-themes-now-refresh-after-live-terminal-reloads-without-stale-color|Core Terminal themes now refresh after live terminal reloads without stale colors…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

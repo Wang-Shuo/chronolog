@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 970f7f75db1792799b7103c78b90bfded7fcc4ea9536328ca71b3c086b64d363
+machine_hash: 1d5f93aa2aa471e2957140e08e9987bcd0ad5a38b3a8271bbf90413c5af51f1a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,8 +58,8 @@ record:
   title: 10 Model Support changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-56-model-support-changes-in-v0-11-1|56 Model Support
-  changes in v0.11.1]]'
+- '[[Changes/OpenCode/2026-08-25-2-model-support-changes-in-v1-18-23|2 Model Support
+  changes in v1.18.23]]'
 - '[[Changes/Claude Code/2026-08-26-added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend|Added
   /claude-api cost-optimize to profile an existing project''s Claude API spend…]]'
 - '[[Changes/Cline/2026-08-26-credentials-embedded-in-git-remote-urls-are-now-redacted-from-the-workspace-info|Credentials

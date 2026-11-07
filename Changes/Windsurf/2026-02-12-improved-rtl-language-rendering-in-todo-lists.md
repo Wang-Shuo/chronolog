@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0892ff9aeed83c6f5569462d66787a974e10a825e2eff90a322b0e76a2cc254
+machine_hash: 78a9c9b9f0a33ae45685bb4adba6646c1d61a83d10362d068c2fc5941e49f610
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,12 @@ record:
   title: Improved RTL language rendering in todo lists
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-diff-uses-full-screen-in-alt-screen-mode|/diff
-  uses full screen in alt-screen mode]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-add-mouse-text-selection-in-alt-screen-mode|Add
   mouse text selection in --alt-screen mode]]'
 - '[[Changes/Open WebUI/2026-02-12-8-interface-experience-changes-in-v0-8-0|8 Interface
   Experience changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-12-core-windows-selection-behavior-and-manual-ctrl-c-handling|Core
+  Windows selection behavior and manual Ctrl+C handling]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-02-12-v1-9552-21-a7b8c5ab|windsurf-2026-02-12-v1-9552-21-a7b8c5ab]]'
 source_type: windsurf_changelog
 theme: interface-experience
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-8-interface-experience-changes-in-v0-8-0|8 Interface Experience changes in v0.8.0]]
+- Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-core-windows-selection-behavior-and-manual-ctrl-c-handling|Core Windows selection behavior and manual Ctrl+C handling]]
 - Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-quick-tools-in-the-composer-a-new-quick-tools-menu-in-the-message-composer-makes|Quick tools in the composer]]
 <!-- chronolog:end -->
 

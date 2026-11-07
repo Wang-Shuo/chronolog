@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55b83734f6111ee7c118745a107fcdd2b7e5883798c831c6f1a1d2194cd1594f
+machine_hash: 9cc1bec0ddd0290ac0e583013dcb50a2ef588d5599e48648529d0831569a8ec0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -63,8 +63,8 @@ record:
   title: 8 Model Support changes in v1.0.101
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-18-6-model-support-changes-in-v0-40-7|6 Model Support
-  changes in v0.40.7]]'
+- '[[Changes/OpenClaw/2026-10-18-4-model-support-changes-in-v2026-10-5|4 Model Support
+  changes in v2026.10.5]]'
 - '[[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support
   changes in v2.1.304]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-3-model-support-changes-in-v1-0-100|3 Model

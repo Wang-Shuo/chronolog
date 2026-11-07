@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: a4463326dbf7837659b8054fe7d074b08d2e24f8da26f68b083e3bbbb575f09a
+machine_hash: e5e0e8221a4d70056eedef61e30e99753c42c5b109f00a9e6fb94a6bc1014aee
 product: lovable
 product_name: Lovable
 record:
@@ -48,8 +48,8 @@ record:
   title: Lovable Desktop app is now on Windows
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-2-mobile-and-desktop-changes-in-v1-0-66|2
-  Mobile and Desktop changes in v1.0.66]]'
+- '[[Changes/OpenCode/2026-07-01-5-mobile-and-desktop-changes-in-v1-17-13|5 Mobile
+  and Desktop changes in v1.17.13]]'
 - '[[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit
   Desktop App]]'
 - '[[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-04 · Windsurf · [[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]
-- Later: 2026-07-07 · Claude · [[Changes/Claude/2026-07-07-claude-cowork-on-web-and-mobile|Claude Cowork on web and mobile]]
+- Later: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-14-mobile-and-desktop-changes-in-v1-17-14|14 Mobile and Desktop changes in v1.17.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

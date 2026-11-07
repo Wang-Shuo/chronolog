@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 32132834e2d68aaa4105e39f94ff633c35881e9d208fefc624dde7c950c6f4aa
+machine_hash: ad4c9ea182df37d1b8b2bf760369744ae91bca2bcebf8fdb9e560c8e9f467525
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -52,12 +52,12 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode
-  is now powered by Cursor Router]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-23-3-agent-mode-changes-in-v1-0-74|3 Agent
-  Mode changes in v1.0.74]]'
+- '[[Changes/Runway/2026-07-23-agent-can-now-build-and-run-entire-workflows-for-you-just-describe-what-you-want|Agent
+  Workflows]]'
 - '[[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode
   changes in v2.1.219]]'
+- '[[Changes/OpenCode/2026-07-24-desktop-keep-the-prompt-input-agent-toggle-in-sync|Desktop
+  Keep the prompt input agent toggle in sync]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-07-27-2026-07-27-29809f38|elevenlabs-2026-07-27-2026-07-27-29809f38]]'
 source_type: elevenlabs_changelog
 theme: agent-mode
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode changes in v2.1.219]]
+- Earlier: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-desktop-keep-the-prompt-input-agent-toggle-in-sync|Desktop Keep the prompt input agent toggle in sync]]
 - Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-sub-agents-administrators-can-now-enable-sub-agents-which-let-a-model-hand-parts|🤖 Sub-agents. Administrators can now enable sub-agents, which let a model hand…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 91c3720055d9af0b1cfda70c161f076809fc8728f5d73d92eb3edb98e8e081fa
+machine_hash: 741b891c4a69294e94c8eab16b67136455402ac8b32bbc8b26c1291e3c3d21a2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Model Support changes in v0.1.119
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-11-9-model-support-changes-in-0-6-2|9 Model Support changes
-  in 0.6.2]]'
 - '[[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New
   GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]'
+- '[[Changes/Runway/2024-04-15-a-newly-designed-ai-training-page-lets-you-easily-find-all-custom-models-and-you|Redesigned
+  AI Training]]'
 - '[[Changes/Dify/2024-04-16-7-model-support-changes-in-0-6-3|7 Model Support changes
   in 0.6.3]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-04-16-v0-1-119-github-151455027-5e225ace|open-webui-2024-04-16-v0-1-119-github-151455027-5e225ace]]'

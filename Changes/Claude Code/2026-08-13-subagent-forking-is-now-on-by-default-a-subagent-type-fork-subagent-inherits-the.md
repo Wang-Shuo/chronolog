@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 06bd3879bbec228969148b44d511bc6143ce4846b2d52372d48275a03715fb60
+machine_hash: 438e8be060beece22ed7451c05507a3c3c72bf1ddcfcef916bcaeffecb1eec16
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Subagent forking is now on by default
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-11-nvidia-nemotron-3-5-lightning-https-ollama-com-library-nemotron-3-5-lightning-is|NVIDIA
-  Nemotron 3.5 Lightning((source link)]]'
 - '[[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved
   workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]'
+- '[[Changes/Google Antigravity/2026-08-12-reduced-typing-lag-while-the-agent-streams-responses|Reduced
+  typing lag while the agent streams responses]]'
 - '[[Changes/Claude Code/2026-08-13-4-agent-mode-changes-in-v2-1-232|4 Agent Mode
   changes in v2.1.232]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]
+- Earlier: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-reduced-typing-lag-while-the-agent-streams-responses|Reduced typing lag while the agent streams responses]]
 - Later: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-2-agent-mode-changes-in-08-13-26|2 Agent Mode changes in 08.13.26]]
 <!-- chronolog:end -->
 

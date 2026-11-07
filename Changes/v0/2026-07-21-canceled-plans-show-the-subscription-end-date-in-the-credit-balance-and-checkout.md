@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 80ea24e9c1db42f99275d5d2143e569ae65d0ee965bff7b72ba75e7902e988e4
+machine_hash: 9062a95d20e2897934693243bb77f287ec24043082b260ece419c5f39162df4b
 product: v0
 product_name: v0
 record:
@@ -45,12 +45,12 @@ record:
     checkout…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-13-functions-usage-is-now-labeled-compute|Functions usage
-  is now labeled Compute]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing
-  Model changes in v1.0.71]]'
-- '[[Changes/Dify/2026-07-17-5-pricing-model-changes-in-1-16-0|5 Pricing Model changes
-  in 1.16.0]]'
+- '[[Changes/Runway/2026-07-20-nano-banana-2-is-now-available-in-runway-mcp-generate-images-at-1k-2k-or-4k-reso|Nano
+  Banana 2]]'
+- '[[Changes/Runway/2026-07-21-configure-allow-deny-lists-cost-caps-and-optimization-preferences-for-cost-laten|Model
+  Routers]]'
+- '[[Changes/Runway/2026-07-21-nano-banana-2-lite-is-now-available-through-runway-mcp-it-s-the-fastest-and-most|Nano
+  Banana 2 Lite]]'
 source_release: '[[Releases/v0/v0-2026-07-21-2026-07-21-009a4b0a|v0-2026-07-21-2026-07-21-009a4b0a]]'
 source_type: v0_changelog
 theme: pricing-model
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-5-pricing-model-changes-in-1-16-0|5 Pricing Model changes in 1.16.0]]
+- Earlier: 2026-07-21 · Runway · [[Changes/Runway/2026-07-21-nano-banana-2-lite-is-now-available-through-runway-mcp-it-s-the-fastest-and-most|Nano Banana 2 Lite]]
 - Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-server-managed-settings-so-benign-feature-and-cost-toggles-no-longer-tri|Changed server-managed settings so benign feature and cost toggles no longer trigger…]]
 <!-- chronolog:end -->
 

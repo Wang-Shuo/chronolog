@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 85b25c8212326fc6aced692accb9335139480ca60fa65c7513166a17a78fa593
+machine_hash: a8a0cabef0ee0add6e7b642651e500f8bcb066312d7c6a20f959f1625c3480f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,12 +52,12 @@ record:
   title: Share Sites with people outside your workspace
   type: change
 related_changes:
-- '[[Changes/v0/2026-08-28-4-collaboration-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
-  Collaboration changes in GPT-5.6 Sol, sign-in inside previews…]]'
-- '[[Changes/Open WebUI/2026-08-31-2-collaboration-changes-in-v0-11-2|2 Collaboration
-  changes in v0.11.2]]'
+- '[[Changes/OpenClaw/2026-08-31-browser-and-computer-use-signed-in-browser-sessions-through-an-isolated-managed|Browser
+  and Computer Use - Signed-in browser sessions through an isolated managed…]]'
 - '[[Changes/Codex CLI/2026-09-01-5-collaboration-changes-in-rust-v0-152-0|5 Collaboration
   changes in rust-v0.152.0]]'
+- '[[Changes/OpenClaw/2026-09-01-4-collaboration-changes-in-v2026-8-2|4 Collaboration
+  changes in v2026.8.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a|chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-5-collaboration-changes-in-rust-v0-152-0|5 Collaboration changes in rust-v0.152.0]]
+- Earlier: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-4-collaboration-changes-in-v2026-8-2|4 Collaboration changes in v2026.8.2]]
 - Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-6-collaboration-changes-in-rust-v0-153-0|6 Collaboration changes in rust-v0.153.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac4cb75b1c230cd702fa3a13389ec2f944bdbc300f3f650a3067fcd1f7fa55ed
+machine_hash: a2c564c27751a860b031c8894eb657f977d61d1163dbb42e172c787e8f976180
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.66
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-30 · Gemini · [[Changes/Gemini/2026-06-30-hand-off-the-heavy-lifting-to-gemini-spark-now-available-in-the-macos-app|Hand off the heavy lifting to Gemini Spark, now available in the macOS app]]
-- Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit Desktop App]]
+- Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-15-mobile-and-desktop-changes-in-v2026-6-11|15 Mobile and Desktop changes in v2026.6.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

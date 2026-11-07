@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c3c8130c3a2f820cfbb83df0fddb6af8416cbc508aa64ba0468929fbe681167
+machine_hash: 20b6bba6ef5f609a8f68c0018c06928c81983387fe25174173ed4d376fedd600
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,11 +54,12 @@ record:
   title: Updated composer and tools menu
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]'
 - '[[Changes/Windsurf/2026-06-16-the-3-2-series-brings-devin-local-enhancements-and-continued-devin-desktop-polis|The
   3.2 series brings Devin Local enhancements and continued Devin Desktop polish]]'
 - '[[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile
   and Desktop changes in v2.1.181]]'
+- '[[Changes/OpenCode/2026-06-17-desktop-the-new-desktop-file-and-folder-picker-is-faster-and-easier-to-navigate|Desktop
+  The new desktop file and folder picker is faster and easier to navigate…]]'
 scope: Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -95,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile and Desktop changes in v2.1.181]]
+- Earlier: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-desktop-the-new-desktop-file-and-folder-picker-is-faster-and-easier-to-navigate|Desktop The new desktop file and folder picker is faster and easier to navigate…]]
 - Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On mobile, an expired session while sending opens the re-authenticate flow instead…]]
 <!-- chronolog:end -->
 

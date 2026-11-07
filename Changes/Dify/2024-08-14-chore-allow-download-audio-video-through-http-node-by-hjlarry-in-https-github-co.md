@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81a66c7db3fb463a0e5efc47baba1acb17017eb94893aca82550871bfac98fa7
+machine_hash: 5fba9f78a62488b2cc8edbe45bc3459207accfeb63e8917b99a8bdd2151d72a0
 product: dify
 product_name: Dify
 record:
@@ -41,12 +41,12 @@ record:
   title: 'chore: allow download audio/video through HTTP node'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-06-27-2-voice-and-audio-changes-in-v0-3-6|2 Voice and
-  Audio changes in v0.3.6]]'
 - '[[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS
   Streaming Config]]'
 - "[[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|\U0001F5E3
   ElevenLabs Voice Adaptations]]"
+- '[[Changes/Runway/2024-08-09-retain-the-content-pace-and-tone-of-your-input-audio-while-changing-the-voice|Speech
+  to Speech]]'
 source_release: '[[Releases/Dify/dify-2024-08-14-0-7-0-github-170141477-acb406bb|dify-2024-08-14-0-7-0-github-170141477-acb406bb]]'
 source_type: github_releases
 theme: voice
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|🗣 ElevenLabs Voice Adaptations]]
+- Earlier: 2024-08-09 · Runway · [[Changes/Runway/2024-08-09-retain-the-content-pace-and-tone-of-your-input-audio-while-changing-the-voice|Speech to Speech]]
 - Later: 2024-08-19 · Dify · [[Changes/Dify/2024-08-19-enh-setfocus-after-voice-input-by-leslie2046-in-https-github-com-langgenius-dify|enh:setfocus after voice input]]
 <!-- chronolog:end -->
 

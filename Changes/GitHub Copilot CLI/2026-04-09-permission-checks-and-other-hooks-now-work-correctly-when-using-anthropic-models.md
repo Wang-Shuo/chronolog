@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df484125833c414c26e15a295d459bb829ccda6d8c48897152da9bd6a0144091
+machine_hash: 653007375c1e93d58536ac4c11d705ad1aa6fe0f012a61a5292de9e63db6c9ed
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
     models…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-3-safety-and-privacy-changes-in-v2-1-97|3 Safety
-  and Privacy changes in v2.1.97]]'
 - '[[Changes/Gemini CLI/2026-04-08-16-safety-and-privacy-changes-in-v0-37-0|16 Safety
   and Privacy changes in v0.37.0]]'
+- '[[Changes/OpenCode/2026-04-08-terminal-added-opencode-run-dangerously-skip-permissions-to-auto-approve-non-den|Terminal
+  Added opencode run --dangerously-skip-permissions to auto-approve…]]'
 - '[[Changes/Claude Code/2026-04-09-7-safety-and-privacy-changes-in-v2-1-98|7 Safety
   and Privacy changes in v2.1.98]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d|github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-7-safety-and-privacy-changes-in-v2-1-98|7 Safety and Privacy changes in v2.1.98]]
-- Later: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-fixed-a-command-injection-vulnerability-in-the-posix-which-fallback-used-by-lsp|Fixed a command injection vulnerability in the POSIX which fallback used by LSP…]]
+- Later: 2026-04-09 · OpenCode · [[Changes/OpenCode/2026-04-09-core-add-permission-prompts-for-gitlab-duo-workflow-tool-calls-instead-of-auto-r|Core Add permission prompts for GitLab Duo Workflow tool calls instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

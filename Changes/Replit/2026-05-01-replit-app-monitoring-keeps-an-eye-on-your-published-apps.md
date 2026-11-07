@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d76249839b9e5d216dcc8bb55a5b345331841184c4b1c78ff2cfdca3c72fddfe
+machine_hash: 66c99e9ceb5bb42862a5bc6195a9676a3d7dfc80b06fec780017bbaeced95c57
 product: replit
 product_name: Replit
 record:
@@ -54,10 +54,10 @@ record:
   title: Replit App Monitoring keeps an eye on your published apps
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37
-  Apps and Integrations changes in rust-v0.128.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6
   Apps and Integrations changes in v1.0.40]]'
+- '[[Changes/OpenCode/2026-05-01-core-invalid-remote-mcp-urls-now-fail-with-a-clear-error-instead-of-breaking-set|Core
+  Invalid remote MCP URLs now fail with a clear error instead of breaking setup]]'
 - '[[Changes/OpenHands/2026-05-01-2-apps-and-integrations-changes-in-1-7-0|2 Apps
   and Integrations changes in 1.7.0]]'
 source_release: '[[Releases/Replit/replit-2026-05-01-2026-05-01-1a235a49|replit-2026-05-01-2026-05-01-1a235a49]]'

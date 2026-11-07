@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49b39f3d0a855a65722a6bcc02b2e77fcf9b78b184772a8da6dfe2ee903cfda3
+machine_hash: 0815e8a0c1fc63c90bc89e1e0bdc704db1b63d3634d3d0de244ba7ec750ce9fe
 product: dify
 product_name: Dify
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Account and Access changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-25-11-account-and-access-changes-in-v0-8-11|11 Account
-  and Access changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP
   OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…]]'
 - '[[Changes/Codex CLI/2026-03-26-4-account-and-access-changes-in-rust-v0-117-0|4
   Account and Access changes in rust-v0.117.0]]'
+- '[[Changes/OpenCode/2026-03-26-2-account-and-access-changes-in-v1-3-3|2 Account
+  and Access changes in v1.3.3]]'
 source_release: '[[Releases/Dify/dify-2026-03-27-1-13-3-github-302258183-3ff73e84|dify-2026-03-27-1-13-3-github-302258183-3ff73e84]]'
 source_type: github_releases
 theme: account-access
@@ -93,7 +93,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-4-account-and-access-changes-in-rust-v0-117-0|4 Account and Access changes in rust-v0.117.0]]
+- Earlier: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-2-account-and-access-changes-in-v1-3-3|2 Account and Access changes in v1.3.3]]
 - Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-mcp-server-oauth-authentication-works-when-the-cli-runs-in-acp-mode|MCP server OAuth authentication works when the CLI runs in ACP mode]]
 <!-- chronolog:end -->
 

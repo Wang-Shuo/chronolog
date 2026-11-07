@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ce442e684343b9b120ddf9be26d673b651ec8ad1543236c5a28e5b728051a96
+machine_hash: 2d235541351b1df18d467a9f3e03a588102e3a2d6d714f0d7f3e88ec2fa0395a
 product: dify
 product_name: Dify
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-web-search-functionality-corrected-an-issue-where-the-web-search-option-was-not|🔍 Web Search Functionality]]
-- Later: 2024-11-04 · OpenHands · [[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow CodeAct agent to perform web browsing by itself…]]
+- Later: 2024-10-23 · Gamma · [[Changes/Gamma/2024-10-23-browse-your-entire-workspace-s-images-while-editing-any-gamma|Browse your entire workspace’s images while editing any gamma]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

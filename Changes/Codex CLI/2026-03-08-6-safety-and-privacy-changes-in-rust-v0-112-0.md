@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 01553a89fc6ecc9b35e80f38248141a7e4d809b31ff3de9a791ae498e5230917
+machine_hash: 99de25008633e827b0965cb0620cddf94c8b83d120fc914e51a845647f44693d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,12 +57,12 @@ record:
   title: 6 Safety and Privacy changes in rust-v0.112.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-4-safety-and-privacy-changes-in-rust-v0-110-0|4
-  Safety and Privacy changes in rust-v0.110.0]]'
 - '[[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When
   invoked, the agent spins up a cloud sandbox and follows your instructions using…]]'
 - '[[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed
   false-positive permission prompts for compound bash commands containing…]]'
+- '[[Changes/OpenCode/2026-03-07-core-enable-auto-accept-keybind-regardless-of-permission-config|Core
+  Enable auto-accept keybind regardless of permission config]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5|codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5]]'
 source_type: github_releases
 theme: safety-privacy
@@ -107,7 +107,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.112.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed false-positive permission prompts for compound bash commands containing…]]
+- Earlier: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-core-enable-auto-accept-keybind-regardless-of-permission-config|Core Enable auto-accept keybind regardless of permission config]]
 - Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-open-terminal-permission-fix-open-terminal-is-now-visible-without-requiring-allo|🖥️ Open Terminal permission fix. Open Terminal is now visible without requiring…]]
 <!-- chronolog:end -->
 

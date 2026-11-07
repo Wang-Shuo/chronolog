@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0bcc9ef615e9cb61e397e6e0df533008c0308a4edb4111fe56de27faf073312
+machine_hash: 9d2a3519cdf3d487dd3bd8917f50e232d3a0a5b44dcd11f1ad647b170c0cc79f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-ui-update-subdue-footer-colors-and-animate-progress-indicator-by-keithguerin-in|ui: update & subdue footer colors and animate progress indicator]]
-- Later: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-add-configurable-status-line-support-to-display-dynamic-session-information-via|Add configurable status line support to display dynamic session information…]]
+- Later: 2026-02-19 · Google Antigravity · [[Changes/Google Antigravity/2026-02-19-up-down-arrow-key-navigation-for-input-box-history|Up/down arrow key navigation for input box history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

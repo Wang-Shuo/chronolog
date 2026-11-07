@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 471c7422e3c8d271001125087dbc2724921adeaade604da7a4c9d4bd056156b5
+machine_hash: a260364aedf7067d890b963b2443ceeb6a4d8913d932eedd095eca907305bfcd
 product: cline
 product_name: Cline
 record:
@@ -49,8 +49,8 @@ record:
   title: 2 Model Support changes in v4.0.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-17-model-support-changes-in-1-15-0|17 Model Support changes
-  in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-improved-the-model-selector-dropdown-to-dynamically-resize-and-prevent-truncatio|Improved
+  the model selector dropdown to dynamically resize and prevent truncation…]]'
 - '[[Changes/Ollama/2026-06-25-3-model-support-changes-in-v0-30-11|3 Model Support
   changes in v0.30.11]]'
 - '[[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|Retiring

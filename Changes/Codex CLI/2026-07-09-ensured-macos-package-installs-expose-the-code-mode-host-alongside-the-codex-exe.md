@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e45e8fb6767bb069f1073757f9dee0d6a961d8cc44eeb1ca332ced3904d4b00
+machine_hash: 908426ebac8a8262ec5d41a37177147e0f4e7279dc1062f75b87d73c21314ebe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31356-ci-run-v8-source-builds-on-windows-2025-anp-oai|♯31356 ci: run V8 source builds on Windows 2025 @anp-oai]]
-- Later: 2026-07-14 · ChatGPT · [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search across chats, projects, and files is now supercharged]]
+- Later: 2026-07-09 · OpenCode · [[Changes/OpenCode/2026-07-09-2-mobile-and-desktop-changes-in-v1-17-18-1|2 Mobile and Desktop changes in v1.17.18 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

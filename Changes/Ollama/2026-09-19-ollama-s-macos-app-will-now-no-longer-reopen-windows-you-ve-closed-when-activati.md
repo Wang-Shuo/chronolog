@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3483f359c5e137dafa24168ba6e661108017ff8af581cbf8b862318c3ed3a005
+machine_hash: db3bc6d1c8b1dd57087978b6e9725a31bee2e90c54ed545f4048da445b480926
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
     it
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-on-windows-opening-a-repository-that-contains-a-file-named-rg-exe-git-exe-or-pow|On
-  Windows, opening a repository that contains a file named rg.exe, git.exe…]]'
 - '[[Changes/Codex CLI/2026-09-17-2-mobile-and-desktop-changes-in-rust-v0-155-0|2
   Mobile and Desktop changes in rust-v0.155.0]]'
 - '[[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude
   Code on the web Changed the admin Claude Code setting labeled…]]'
+- '[[Changes/Google Antigravity/2026-09-19-file-and-network-sandboxing-on-windows-are-now-supported|File
+  and network sandboxing on Windows are now supported]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-19-v0-34-3-github-391835331-b8a80fbd|ollama-2026-09-19-v0-34-3-github-391835331-b8a80fbd]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude Code on the web Changed the admin Claude Code setting labeled…]]
-- Later: 2026-09-21 · ChatGPT · [[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit scores in Finances]]
+- Earlier: 2026-09-19 · Google Antigravity · [[Changes/Google Antigravity/2026-09-19-file-and-network-sandboxing-on-windows-are-now-supported|File and network sandboxing on Windows are now supported]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-23-mobile-and-desktop-changes-in-v2026-9-5|23 Mobile and Desktop changes in v2026.9.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd275593a1f017c46db84e92b771654cdf11f3090f32a49c0b5c077f61cb0a6f
+machine_hash: b696ba01f9477bc29ca9f9f2b4e6e75565e7c4f65fb22744d8b10cc45790dcb8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Memory and Personalization changes in v0.1.16
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-25-feat-memory-make-directory-search-limit-on-memory-discovery-configurable-with-se|feat(memory):
-  make directory search limit on memory discovery configurable…]]'
 - '[[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize
   responses based on your past chats if memory is on, using examples…]]'
 - '[[Changes/Gemini CLI/2025-07-30-feat-memory-make-directory-search-limit-on-memory-discovery-configurable-with-se|feat(memory):
   make directory search limit on memory discovery configurable…]]'
+- '[[Changes/Midjourney/2025-07-30-personalized-feeds-for-images-and-video|Personalized
+  feeds for images and video]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7|gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7]]'
 source_type: github_releases
 theme: memory
@@ -94,7 +94,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.16
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-feat-memory-make-directory-search-limit-on-memory-discovery-configurable-with-se|feat(memory): make directory search limit on memory discovery configurable…]]
+- Earlier: 2025-07-30 · Midjourney · [[Changes/Midjourney/2025-07-30-personalized-feeds-for-images-and-video|Personalized feeds for images and video]]
 - Later: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-2-memory-and-personalization-changes-in-v0-1-17|2 Memory and Personalization changes in v0.1.17]]
 <!-- chronolog:end -->
 

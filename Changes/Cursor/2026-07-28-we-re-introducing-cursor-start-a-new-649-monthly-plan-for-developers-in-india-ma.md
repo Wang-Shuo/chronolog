@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 579af560233c9be9fd67cda586d79c2e2f3205a55dbffca6caa25d7f3927a340
+machine_hash: 31016e7bff130fcc2e8c6af40e608025d3f8a6514847f17f6224a89f7651e478
 product: cursor
 product_name: Cursor
 record:

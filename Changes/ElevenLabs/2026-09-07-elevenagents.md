@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: aea3fe602f7fedbf2be1f1d2e450d1cd5cd7e491f49dbb2b30e7884a2370b47e
+machine_hash: 7fea9d29eb6eae5b63b82156543912369d0cb82495932b15894d9c011a9f0f9b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -73,10 +73,10 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-stopping-a-timed-out-shell-command-now-lets-queued-messages-run-and-sessions-ret|Stopping
-  a timed-out shell command now lets queued messages run and sessions return…]]'
-- '[[Changes/Replit/2026-09-04-understand-app-usage-with-project-analytics|Understand
-  app usage with Project Analytics]]'
+- '[[Changes/OpenClaw/2026-09-05-swarm-is-now-available-to-eligible-agents-without-a-separate-enablement-step-so|Swarm
+  is now available to eligible agents without a separate enablement step…]]'
+- '[[Changes/OpenClaw/2026-09-05-34-agent-mode-changes-in-v2026-9-2|34 Agent Mode
+  changes in v2026.9.2]]'
 - '[[Changes/ElevenLabs/2026-09-07-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-07-2026-09-07-cf030a1d|elevenlabs-2026-09-07-2026-09-07-cf030a1d]]'
 source_type: elevenlabs_changelog
@@ -122,7 +122,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-04 · Replit · [[Changes/Replit/2026-09-04-understand-app-usage-with-project-analytics|Understand app usage with Project Analytics]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-34-agent-mode-changes-in-v2026-9-2|34 Agent Mode changes in v2026.9.2]]
 - Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved /workflows agent detail]]
 <!-- chronolog:end -->
 

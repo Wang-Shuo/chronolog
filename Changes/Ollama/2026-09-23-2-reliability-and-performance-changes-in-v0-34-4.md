@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4399cf9300ff1ac2c0841342df28349d7de4af6ea428ba945a97e0c7ce1babf
+machine_hash: 285427f0f7f4aab30980426111c0d5d39aa4128467549b8ecceb2ecc7cc011c6
 product: ollama
 product_name: Ollama
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Reliability and Performance changes in v0.34.4
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-09-21-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
-  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960
   Tag memory usage telemetry with the memory version @jif-oai]]'
+- '[[Changes/Google Antigravity/2026-09-22-discovering-skills-and-other-customizations-is-now-dramatically-faster-on-large|Discovering
+  skills and other customizations is now dramatically faster on large…]]'
 - '[[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-23-v0-34-4-github-394248783-e7bd9dae|ollama-2026-09-23-v0-34-4-github-394248783-e7bd9dae]]'
 source_type: github_releases
@@ -82,7 +82,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.34.4
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]
-- Later: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2 Reliability and Performance changes in v2.1.283]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-5-reliability-and-performance-changes-in-v2026-9-6|5 Reliability and Performance changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

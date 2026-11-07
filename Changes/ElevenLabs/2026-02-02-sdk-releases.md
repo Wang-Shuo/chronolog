@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b6bf1fc40dadbc51276f263a6cf0253f4f28ea0951d1bae4f63796def92580a7
+machine_hash: f494c3ee898d0b9d3b387a45db57fa510ccc70efd4021a06128acd9ca849aab9
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,12 +41,11 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-smart-approvals-are-now-enabled-by-default-with-explicit-approval-prompts-for-mc|Smart
-  approvals are now enabled by default, with explicit approval prompts for MCP…]]'
 - '[[Changes/Codex CLI/2026-01-31-14-apps-and-integrations-changes-in-rust-v0-93-0|14
   Apps and Integrations changes in rust-v0.93.0]]'
 - '[[Changes/Codex CLI/2026-01-31-added-apps-to-browse-connectors-in-tui-and-insertion-for-app-prompts-9728|Added
   /apps to browse connectors in TUI and $ insertion for app prompts]]'
+- '[[Changes/OpenCode/2026-01-31-core-bump-ai-sdk-packages|Core Bump AI SDK packages]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-02-2026-02-02-2180766f|elevenlabs-2026-02-02-2026-02-02-2180766f]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-added-apps-to-browse-connectors-in-tui-and-insertion-for-app-prompts-9728|Added /apps to browse connectors in TUI and $ insertion for app prompts]]
+- Earlier: 2026-01-31 · OpenCode · [[Changes/OpenCode/2026-01-31-core-bump-ai-sdk-packages|Core Bump AI SDK packages]]
 - Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-14-apps-and-integrations-changes-in-1-12-0|14 Apps and Integrations changes in 1.12.0]]
 <!-- chronolog:end -->
 

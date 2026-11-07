@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 208ccb215c32a5b2ae1592050d963ec25a13c341e524ac2563d17cdfff03de07
+machine_hash: 6e6230274444690b55a2c25d4afa167e62e652c3ced770b2c9a5ef83d437d64f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -69,9 +69,8 @@ record:
   title: 6 Model Support changes in v0.8.1
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-13-ui-ux-fixes-with-minimax-model-family|UI/UX fixes with
-  minimax model family]]'
 - '[[Changes/Replit/2026-02-13-claude-opus-4-5-support|Claude Opus 4.5 support]]'
+- '[[Changes/Midjourney/2026-02-14-please-note|Please Note]]'
 - '[[Changes/Ollama/2026-02-14-2-model-support-changes-in-v0-16-2|2 Model Support
   changes in v0.16.2]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77|open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77]]'
@@ -123,7 +122,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.1
 ## Nearby in Model Support
 
 - Earlier: 2026-02-14 · Ollama · [[Changes/Ollama/2026-02-14-2-model-support-changes-in-v0-16-2|2 Model Support changes in v0.16.2]]
-- Later: 2026-02-16 · ElevenLabs · [[Changes/ElevenLabs/2026-02-16-new-schemas|New Schemas]]
+- Later: 2026-02-14 · OpenCode · [[Changes/OpenCode/2026-02-14-core-update-ai-sdk-packages-and-use-adaptive-reasoning-for-claude-opus-4-6-on-ve|Core Update AI SDK packages and use adaptive reasoning for Claude Opus 4.6…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

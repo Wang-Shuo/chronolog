@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a5330914f8fd3c313f1075e238c9b76d067ec0a4b0798c0ce65b4a3ef63fff4
+machine_hash: 98b5ab2d7bc90cea46ec3c391ef3e9302b7b3460995a4ad94fabaea8552c4fcb
 product: open-webui
 product_name: Open WebUI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-2-interface-experience-changes-in-0-6-13|2 Interface Experience changes in 0.6.13]]
-- Later: 2024-07-17 · Open WebUI · [[Changes/Open WebUI/2024-07-17-styling-refactor-various-styling-updates-for-a-cleaner-and-more-cohesive-user-in|🎨 Styling Refactor]]
+- Later: 2024-07-09 · Runway · [[Changes/Runway/2024-07-09-a-newly-designed-navigation-sidebar-makes-it-easier-to-access-commonly-used-tool|Redesigned Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

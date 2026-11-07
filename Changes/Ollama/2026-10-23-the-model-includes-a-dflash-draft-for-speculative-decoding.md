@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 44b0aec72feeec4cc34fe60578daeef5e43d1e6328b8b197162d8788de4cd311
+machine_hash: 8442cbd38fda4ef504c3a40c189949167b43dfad5a96684c456ea27043032678
 product: ollama
 product_name: Ollama
 record:
@@ -43,8 +43,8 @@ record:
   title: The model includes a DFlash draft for speculative decoding
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-22-gemini-2-5-chat-models-are-retired-for-your-app-s-ai-features|Gemini
-  2.5 chat models are retired for your app''s AI features]]'
+- '[[Changes/OpenClaw/2026-10-22-4-model-support-changes-in-v2026-10-6|4 Model Support
+  changes in v2026.10.6]]'
 - '[[Changes/Codex CLI/2026-10-23-9-model-support-changes-in-rust-v0-164-0|9 Model
   Support changes in rust-v0.164.0]]'
 - '[[Changes/Dify/2026-10-23-operations-archive-storage-supports-configurable-s3-addressing-style-the-api-ima|Operations:

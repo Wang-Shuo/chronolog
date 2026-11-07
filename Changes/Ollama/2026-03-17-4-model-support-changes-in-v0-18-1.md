@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2c329bf92aedd60b93fc12722be7ff7d8cee75b9b9eb2cf036936f0c66d3322f
+machine_hash: 2ce04c17e837b785d029de2dd8b25ce5fa41375566a2f2a9ae1f6c4ff2c27336
 product: ollama
 product_name: Ollama
 record:
@@ -48,12 +48,10 @@ record:
   title: 4 Model Support changes in v0.18.1
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-17-18-model-support-changes-in-1-13-1|18 Model Support changes
-  in 1.13.1]]'
-- '[[Changes/Gemini CLI/2026-03-17-5-model-support-changes-in-v0-34-0|5 Model Support
-  changes in v0.34.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-17-2-model-support-changes-in-v1-0-7|2 Model
-  Support changes in v1.0.7]]'
+- '[[Changes/Midjourney/2026-03-17-please-note|Please Note]]'
+- '[[Changes/Midjourney/2026-03-17-v8-is-an-incredible-model|V8 is an incredible model]]'
+- '[[Changes/Midjourney/2026-03-17-today-we-re-letting-the-community-test-an-early-version-of-our-v8-model-on-alpha|Today
+  we’re letting the community test an early version of our V8 model…]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-17-v0-18-1-github-297703079-c31fed11|ollama-2026-03-17-v0-18-1-github-297703079-c31fed11]]'
 source_type: github_releases
 theme: model-support
@@ -95,7 +93,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.18.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-2-model-support-changes-in-v1-0-7|2 Model Support changes in v1.0.7]]
+- Earlier: 2026-03-17 · Midjourney · [[Changes/Midjourney/2026-03-17-today-we-re-letting-the-community-test-an-early-version-of-our-v8-model-on-alpha|Today we’re letting the community test an early version of our V8 model…]]
 - Later: 2026-03-18 · ChatGPT · [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4 mini in ChatGPT]]
 <!-- chronolog:end -->
 

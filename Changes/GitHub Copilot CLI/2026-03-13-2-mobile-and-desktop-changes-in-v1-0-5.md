@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18a36d21d20a6e74abd9710159aff37689921e28a9974595c67580ce1b49c465
+machine_hash: ac108525eee5353f3ed3dd6204b72c6d8c6e8a7acef0efe5737cf1c1a71b5eaf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Mobile and Desktop changes in v1.0.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-06-diff-mode-displays-cleanly-on-windows-with-crlf-line-endings|Diff
-  mode displays cleanly on Windows with CRLF line endings]]'
-- '[[Changes/Codex CLI/2026-03-08-12702-improve-macos-seatbelt-network-and-unix-socket-handling-viyatb-oai|♯12702
-  Improve macOS Seatbelt network and unix socket handling @viyatb-oai]]'
+- '[[Changes/OpenCode/2026-03-09-5-mobile-and-desktop-changes-in-v1-2-23|5 Mobile
+  and Desktop changes in v1.2.23]]'
 - '[[Changes/Codex CLI/2026-03-11-14003-stabilize-split-pty-output-on-windows-aibrahim-oai|♯14003
   Stabilize split PTY output on Windows @aibrahim-oai]]'
+- '[[Changes/OpenCode/2026-03-12-10-mobile-and-desktop-changes-in-v1-2-25|10 Mobile
+  and Desktop changes in v1.2.25]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6|github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -92,8 +92,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-11 · Codex CLI · [[Changes/Codex CLI/2026-03-11-14003-stabilize-split-pty-output-on-windows-aibrahim-oai|♯14003 Stabilize split PTY output on Windows @aibrahim-oai]]
-- Later: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-2-mobile-and-desktop-changes-in-rust-v0-115-0|2 Mobile and Desktop changes in rust-v0.115.0]]
+- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-10-mobile-and-desktop-changes-in-v1-2-25|10 Mobile and Desktop changes in v1.2.25]]
+- Later: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-9-mobile-and-desktop-changes-in-v1-2-26|9 Mobile and Desktop changes in v1.2.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

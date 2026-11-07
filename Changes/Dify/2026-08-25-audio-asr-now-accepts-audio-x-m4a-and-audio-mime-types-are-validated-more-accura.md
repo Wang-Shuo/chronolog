@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 156e33e6fd1c194f07a7fdbd96a3b7791536e29c936d7a262c80fbce8c41f0c6
+machine_hash: 0d4316f10dea85efdde6d72465c04e1a1d9ab1ca7e5ea4da6d2c061c21d888b1
 product: dify
 product_name: Dify
 record:
@@ -42,11 +42,11 @@ record:
   title: Audio ASR now accepts `audio/x-m4a`, and audio MIME types are validated more…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl
-  builds: native image paste, clipboard, and audio-capture add-ons now…]]'
 - '[[Changes/Cline/2026-08-21-stop-offering-image-voice-and-other-non-chat-models-in-chat-model-pickers|Stop
   offering image, voice, and other non-chat models in chat model pickers]]'
 - '[[Changes/ElevenLabs/2026-08-24-python-sdk|Python SDK]]'
+- '[[Changes/Google Antigravity/2026-08-24-embedded-terminals-git-version-control-and-audio-attachments|Embedded
+  Terminals, Git Version Control, and Audio Attachments]]'
 source_release: '[[Releases/Dify/dify-2026-08-25-1-17-0-github-376348099-66c16161|dify-2026-08-25-1-17-0-github-376348099-66c16161]]'
 source_type: github_releases
 theme: voice
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-python-sdk|Python SDK]]
+- Earlier: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-embedded-terminals-git-version-control-and-audio-attachments|Embedded Terminals, Git Version Control, and Audio Attachments]]
 - Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-4-voice-and-audio-changes-in-v0-11-1|4 Voice and Audio changes in v0.11.1]]
 <!-- chronolog:end -->
 

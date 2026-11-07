@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 304c98cd3c7e9038d32f353f25470905c4f66294464f3476b7b36186e77937a9
+machine_hash: efc6947d7f1e432cd28de9216b252e2b93fe4e44301b4c1e8945cd5441f975e7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-07-09 · Lovable · [[Changes/Lovable/2026-07-09-enterprise-member-profiles-are-now-private-by-default|Enterprise member profiles are now private by default]]
-- Later: 2026-07-14 · Claude · [[Changes/Claude/2026-07-14-hipaa-configuration-for-your-claude-organizations-is-now-self-serve|HIPAA configuration for your Claude organizations is now self-serve]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-4-enterprise-and-administration-changes-in-v2026-7-1|4 Enterprise and Administration changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

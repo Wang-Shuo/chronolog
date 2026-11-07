@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a10c1e0b2aaa302aa738bc59c66f659a0419fde4882f256762b71353732e8888
+machine_hash: 84d847f54b4cdfd987c4f42c98559f880cae984123dba5e236a46f124bdf93b4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +44,8 @@ record:
   title: For the next month, dots usage won’t count toward eligible Pro, Business…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
-  open Git Sync to org admins on cloud backends]]'
+- '[[Changes/OpenClaw/2026-09-23-2-enterprise-and-administration-changes-in-v2026-9-6|2
+  Enterprise and Administration changes in v2026.9.6]]'
 - '[[Changes/Lovable/2026-09-24-see-which-credit-limit-applies-to-each-member-in-the-people-export|See
   which credit limit applies to each member in the People export]]'
 - '[[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude Tag Improved "Notify members now" in admin settings]]
-- Later: 2026-10-01 · Lovable · [[Changes/Lovable/2026-10-01-restrict-an-api-key-to-approved-ip-addresses|Restrict an API key to approved IP addresses]]
+- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-2-enterprise-and-administration-changes-in-v2026-9-7|2 Enterprise and Administration changes in v2026.9.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

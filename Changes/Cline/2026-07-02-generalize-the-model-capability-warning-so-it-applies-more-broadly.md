@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b186fad0e5514bae60f2546fa7bd342f8a636611d6376ec465b61f1b698c443c
+machine_hash: 82a7b8de31c981f7650cbeab455a49102cd4cb7b6e2f331b81b302e40f4a77da
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Generalize the model capability warning so it applies more broadly
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support
-  changes in v2.1.198]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add
   support for the kimi-k2.7-code model]]'
 - '[[Changes/Open WebUI/2026-07-01-5-model-support-changes-in-v0-10-2|5 Model Support
   changes in v0.10.2]]'
+- '[[Changes/OpenCode/2026-07-01-core-force-reasoning-mode-for-openai-compatible-reasoning-models-so-reasoning-se|Core
+  Force reasoning mode for OpenAI-compatible reasoning models so reasoning…]]'
 source_release: '[[Releases/Cline/cline-2026-07-02-v4-0-6-github-348214539-8e3994c2|cline-2026-07-02-v4-0-6-github-348214539-8e3994c2]]'
 source_type: github_releases
 theme: model-support
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-5-model-support-changes-in-v0-10-2|5 Model Support changes in v0.10.2]]
+- Earlier: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-core-force-reasoning-mode-for-openai-compatible-reasoning-models-so-reasoning-se|Core Force reasoning mode for OpenAI-compatible reasoning models so reasoning…]]
 - Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]
 <!-- chronolog:end -->
 

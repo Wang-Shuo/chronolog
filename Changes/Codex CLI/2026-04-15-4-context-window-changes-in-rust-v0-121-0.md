@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4a33c8e9543c00b9da337d656ed904e84333bed667772d78f2019b1f61aac6c
+machine_hash: a8da36ef324d2750cf131580a05b8d28b08250d69237427fa7c733545d990c84
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.121.0
 ## Nearby in Context Window
 
 - Earlier: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e|Added option to show Claude's last response as commented context in the Ctrl+G…]]
-- Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-add-statusline-command-with-footer-alias-to-customize-which-items-appear-in-the|Add /statusline command (with /footer alias) to customize which items appear…]]
+- Later: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-2-context-window-changes-in-v1-4-4|2 Context Window changes in v1.4.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

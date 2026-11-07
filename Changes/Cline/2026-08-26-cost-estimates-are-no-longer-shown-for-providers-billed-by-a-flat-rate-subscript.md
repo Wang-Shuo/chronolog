@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 2f3971396f1748efe5101a8221824d0aa34c07f7a8347dc9f9f7ed19ad1b865d
+machine_hash: c61dfc342c2dd952349c8c0eb0acd9c9dedf96da2f681250b296e10cdb9db6a8
 product: cline
 product_name: Cline
 record:
@@ -61,7 +61,8 @@ record:
   title: Cost estimates are no longer shown for providers billed by a flat-rate subscription…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-24-swift-sdk|Swift SDK]]'
+- '[[Changes/OpenCode/2026-08-24-removed-outdated-opencode-go-first-month-discount-messaging-and-pricing|Removed
+  outdated OpenCode Go first-month discount messaging and pricing]]'
 - '[[Changes/Dify/2026-08-25-7-pricing-model-changes-in-1-17-0|7 Pricing Model changes
   in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-2-pricing-model-changes-in-v0-11-1|2 Pricing Model

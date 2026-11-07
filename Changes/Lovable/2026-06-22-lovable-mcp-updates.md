@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1c9e46aa69470320f10b89c813d5770b612bc2183d7c2dd351ad7396a8fed782
+machine_hash: 2a1027fca8849e65797312bf39751a63e1184f25a1d6a1b349237af890eb47a2
 product: lovable
 product_name: Lovable
 record:
@@ -47,9 +47,10 @@ record:
   title: Lovable MCP updates
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-22-sdk-releases|SDK Releases]]'
 - '[[Changes/ElevenLabs/2026-06-22-mcp-server|MCP Server]]'
 - '[[Changes/ElevenLabs/2026-06-22-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Google Antigravity/2026-06-22-2-apps-and-integrations-changes-in-ide-v2-1-1-model-quota-screen|2
+  Apps and Integrations changes in IDE v2.1.1 — Model quota screen…]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-22-2026-06-22-645b32b5|lovable-2026-06-22-2026-06-22-645b32b5]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-22 · ElevenLabs · [[Changes/ElevenLabs/2026-06-22-javascript-sdk|JavaScript SDK]]
+- Earlier: 2026-06-22 · Google Antigravity · [[Changes/Google Antigravity/2026-06-22-2-apps-and-integrations-changes-in-ide-v2-1-1-model-quota-screen|2 Apps and Integrations changes in IDE v2.1.1 — Model quota screen…]]
 - Later: 2026-06-23 · Claude · [[Changes/Claude/2026-06-23-delegate-work-to-claude-in-slack-with-claude-tag|Delegate work to Claude in Slack with Claude Tag]]
 <!-- chronolog:end -->
 

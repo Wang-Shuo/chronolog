@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 877e9665656e2b820a1808fb33dff42054d5171d320a9d543b7501a3196a7193
+machine_hash: 130ca562e767f963b444e73a73c8b4cc10197e1eec827131b233648548ad0eff
 product: cline
 product_name: Cline
 record:
@@ -43,7 +43,8 @@ record:
     mode
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]'
+- '[[Changes/Gamma/2025-02-05-exciting-news-for-smart-layouts-gamma-just-got-even-smarter-we-ve-added-more-cir|Circle
+  Smart Layouts Have Arrived]]'
 - "[[Changes/Open WebUI/2025-02-05-redesigned-chat-input-ui-enjoy-a-sleeker-and-more-intuitive-message-input-with-i|\U0001F4AC
   Redesigned Chat Input UI]]"
 - '[[Changes/Aider/2025-02-06-https-aider-chat-history-html|(source link)]]'

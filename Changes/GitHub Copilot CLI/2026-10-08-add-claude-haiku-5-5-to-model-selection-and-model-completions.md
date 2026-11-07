@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e25c2c3f745a18ef20657eb03111cf2bef57706265d4c125b05704a294b83d71
+machine_hash: aa89210fc37e892a95828029b82279aafd37b8495e6830984e491bdbea462c3b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-11-model-support-changes-in-rust-v0-162-0|11 Model Support changes in rust-v0.162.0]]
-- Later: 2026-10-08 · Ollama · [[Changes/Ollama/2026-10-08-4-model-support-changes-in-v0-40-2|4 Model Support changes in v0.40.2]]
+- Later: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-we-re-finding-in-tests-that-this-helps-make-the-model-better-at-prompt-accuracy|We're finding in tests that this helps make the model better at prompt accuracy…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51dd0ea8a6df8d095258521709c02443f84f763f8a7b8354b91734b5d2a90590
+machine_hash: 9ddd49cc6ad6159c8aecba2059722e632862b28979aed931f9d9762b2e0d34cc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-3-account-and-access-changes-in-v0-8-6|3 Account and Access changes in v0.8.6]]
-- Later: 2026-03-04 · v0 · [[Changes/v0/2026-03-04-added-sign-in-dialog-on-public-chats-for-logged-out-users|Added sign-in dialog on public chats for logged-out users]]
+- Later: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-normalize-trailing-slashes-in-auth-login-urls|Normalize trailing slashes in auth login URLs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

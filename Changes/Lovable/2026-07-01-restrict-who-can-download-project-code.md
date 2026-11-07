@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8d3707b282f5004ed09a58210553c185a5dd2e38e34126d96965ec5241486b3b
+machine_hash: 728f45fe8d989343d91d4803b02344d1b7e90ef578be1949ad8d0a6515cff781
 product: lovable
 product_name: Lovable
 record:
@@ -52,11 +52,11 @@ record:
   title: Restrict who can download project code
   type: change
 related_changes:
-- '[[Changes/Replit/2026-06-26-multiple-workspaces-for-scim-customers|Multiple workspaces
-  for SCIM customers]]'
-- "[[Changes/Open WebUI/2026-06-29-scim-sync-can-t-demote-an-admin-a-scim-provisioning-sync-that-marks-a-user-inact|\U0001F6DF
-  SCIM sync can't demote an admin. A SCIM provisioning sync that marks a user…]]"
 - '[[Changes/Lovable/2026-06-30-project-monitoring-beta|Project monitoring (Beta)]]'
+- '[[Changes/OpenClaw/2026-06-30-qqbot-group-admins-can-choose-how-broadly-slash-commands-are-available-and-priva|QQBot
+  group admins can choose how broadly slash commands are available…]]'
+- '[[Changes/OpenCode/2026-06-30-desktop-add-workspace-controls-when-starting-a-new-session|Desktop
+  Add workspace controls when starting a new session]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-01-2026-07-01-070e4e1f|lovable-2026-07-01-2026-07-01-070e4e1f]]'
 source_type: lovable_changelog
 theme: enterprise-admin
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-06-30 · Lovable · [[Changes/Lovable/2026-06-30-project-monitoring-beta|Project monitoring (Beta)]]
+- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-desktop-add-workspace-controls-when-starting-a-new-session|Desktop Add workspace controls when starting a new session]]
 - Later: 2026-07-03 · Lovable · [[Changes/Lovable/2026-07-03-workspace-admins-and-owners-can-transfer-projects-again|Workspace admins and owners can transfer projects again]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4a59a7f8051f2967497d37fdc0f77f8c92c7d8bfebcab329f8e72387a1d7529
+machine_hash: 293ec9866362f652926a6272eee7dec92abc7308d892945aa62dfbc5890f7faf
 product: v0
 product_name: v0
 record:
@@ -41,10 +41,10 @@ record:
   title: Improved front-end performance across the application
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-13-2-reliability-and-performance-changes-in-v1-13-6|2
-  Reliability and Performance changes in v1.13.6]]'
 - '[[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved
   typing responsiveness by reducing memory allocation overhead in terminal…]]'
+- '[[Changes/OpenCode/2026-01-14-terminal-track-all-timeouts-in-footer-component-to-prevent-memory-leaks|Terminal
+  Track all timeouts in Footer component to prevent memory leaks]]'
 - '[[Changes/v0/2026-01-14-improved-chat-performance-and-responsiveness|Improved chat
   performance and responsiveness]]'
 source_release: '[[Releases/v0/v0-2026-01-14-2026-01-14-cce49812|v0-2026-01-14-2026-01-14-cce49812]]'

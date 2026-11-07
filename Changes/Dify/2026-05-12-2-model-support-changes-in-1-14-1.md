@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dcf153bb7991aa28eb3545602f473c21e2967f8d4699365c251cd03eed2031e0
+machine_hash: 47bca439220edd4e170c2b73299fbd3ef36e66b81b4969587b210d1755cdb158
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in 1.14.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction
-  prompt now asks the model to preserve sensitive user instructions]]'
 - '[[Changes/Cursor/2026-05-11-high-bugbot-spends-more-time-reasoning-reviews-are-more-expensive-and-take-longe|High:
   Bugbot spends more time reasoning]]'
 - '[[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom:
   Describe in natural language when Bugbot should use default or high effort]]'
+- '[[Changes/OpenCode/2026-05-11-2-model-support-changes-in-v1-14-48-1|2 Model Support
+  changes in v1.14.48 + 1]]'
 source_release: '[[Releases/Dify/dify-2026-05-12-1-14-1-github-321018473-9e9e1d9e|dify-2026-05-12-1-14-1-github-321018473-9e9e1d9e]]'
 source_type: github_releases
 theme: model-support
@@ -96,7 +96,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.14.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom: Describe in natural language when Bugbot should use default or high effort]]
+- Earlier: 2026-05-11 · OpenCode · [[Changes/OpenCode/2026-05-11-2-model-support-changes-in-v1-14-48-1|2 Model Support changes in v1.14.48 + 1]]
 - Later: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-5-model-support-changes-in-v0-42-0|5 Model Support changes in v0.42.0]]
 <!-- chronolog:end -->
 

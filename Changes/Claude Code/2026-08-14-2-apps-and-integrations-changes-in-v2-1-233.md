@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56eb02125c7cfd98b74b6bec40336a6499411e076a6cd5fdcd0d2b67c91b0a91
+machine_hash: 00a06581d523f9984230448b1ffbd3ff27762c4be8f632cfb5cf27fbb99b037e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.233
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-4-apps-and-integrations-changes-in-v2-1-232|4
-  Apps and Integrations changes in v2.1.232]]'
-- '[[Changes/Cline/2026-08-13-these-land-through-sdk-v0-0-74-and-therefore-apply-to-windows-running-the-sdk-bu|These
-  land through SDK v0.0.74 and therefore apply to windows running the SDK…]]'
 - '[[Changes/Lovable/2026-08-13-build-dashboards-from-your-snowflake-semantic-views|Build
   dashboards from your Snowflake semantic views]]'
+- '[[Changes/Runway/2026-08-13-ideogram-s-latest-image-model-is-now-available-in-runway-mcp-as-ideogram-4-for-t|Ideogram
+  4.0]]'
+- '[[Changes/Suno/2026-08-13-chat-bar-generate-instruments-and-vocals-create-new-and-totally-unique-plugins-a|Chat
+  bar: Generate instruments and vocals, create new and totally unique plugins…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.233
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-13 · Lovable · [[Changes/Lovable/2026-08-13-build-dashboards-from-your-snowflake-semantic-views|Build dashboards from your Snowflake semantic views]]
+- Earlier: 2026-08-13 · Suno · [[Changes/Suno/2026-08-13-chat-bar-generate-instruments-and-vocals-create-new-and-totally-unique-plugins-a|Chat bar: Generate instruments and vocals, create new and totally unique plugins…]]
 - Later: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-everything-in-this-release-lands-through-the-sdk-bundle-so-it-applies-to-windows|Everything in this release lands through the SDK bundle, so it applies to windows…]]
 <!-- chronolog:end -->
 

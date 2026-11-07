@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 63394828456a86f1c9c7fc6e3a57497f16f0550c74a739e14894de4b462501f6
+machine_hash: 1acfe31b126f275447461953a2fe021ff31d002d1331c2f768b8fca0385f5b74
 product: dify
 product_name: Dify
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-01-09 · Replit · [[Changes/Replit/2026-01-09-automation-preview-for-agent-users|Automation preview for Agent users]]
-- Later: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-2-automation-and-scheduling-changes-in-v0-25-0|2 Automation and Scheduling changes in v0.25.0]]
+- Later: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-core-add-scheduler-and-cleanup-module|Core Add scheduler and cleanup module]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

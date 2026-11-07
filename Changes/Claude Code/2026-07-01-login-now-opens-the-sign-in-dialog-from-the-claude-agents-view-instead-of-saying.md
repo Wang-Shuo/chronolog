@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b7322e4c9dd921743d263078dbdfafff87247a133e5bb796578677a5fb2afd9
+machine_hash: cc2a9f386e9dc3e907c7a1ab181db54442799b27423ccb2730d7963fee874ea6
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: '`/login` now opens the sign-in dialog from the `claude agents` view instead…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-9-account-and-access-changes-in-v0-10-0|9 Account
-  and Access changes in v0.10.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-mcp-oauth-against-microsoft-entra-servers-behind-a-tenant-vanity-domain-e-g-copi|MCP
-  OAuth against Microsoft Entra servers behind a tenant vanity domain…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-6-account-and-access-changes-in-v1-0-66|6
   Account and Access changes in v1.0.66]]'
+- '[[Changes/OpenClaw/2026-06-30-2-account-and-access-changes-in-v2026-6-11|2 Account
+  and Access changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-3-account-and-access-changes-in-v1-17-12|3 Account
+  and Access changes in v1.17.12]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
 theme: account-access
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-6-account-and-access-changes-in-v1-0-66|6 Account and Access changes in v1.0.66]]
+- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-3-account-and-access-changes-in-v1-17-12|3 Account and Access changes in v1.17.12]]
 - Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-account-and-access-changes-in-v0-10-2|2 Account and Access changes in v0.10.2]]
 <!-- chronolog:end -->
 

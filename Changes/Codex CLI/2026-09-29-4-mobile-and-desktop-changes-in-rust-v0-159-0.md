@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd9a46866cc5510f3441a32d40bc59f0e19c3b7dd42385c082def656e2d6131d
+machine_hash: fc68b2370f7d0b15d8db7e71588c6be73bb8a2e88cf6dd56d618287c17c79377
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Mobile and Desktop changes in rust-v0.159.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-3-mobile-and-desktop-changes-in-rust-v0-158-0|3
-  Mobile and Desktop changes in rust-v0.158.0]]'
+- '[[Changes/Google Antigravity/2026-09-28-press-option-command-p-on-macos-or-alt-shift-p-on-windows-and-linux-to-pin-or-un|Press
+  Option+Command+P on macOS or Alt+Shift+P on Windows and Linux to pin or unpin…]]'
 - '[[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site
   owners and editors on Plus and Pro can select Edit site from a published Site…]]'
 - '[[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile

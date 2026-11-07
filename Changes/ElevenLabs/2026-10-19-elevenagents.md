@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 27bd89f94c2e690a73d9821cda098e961f4f0d674c20075498af7e2b5418cfa1
+machine_hash: f72d46b99d2750cf78ef6c9c4bbba3e6bbfc06014d9c0d6a2c385c35b1807ff7
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -79,8 +79,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-16-gpt-transcribe-for-your-app-s-speech-to-text-features|GPT
-  Transcribe for your app''s speech-to-text features]]'
+- '[[Changes/OpenClaw/2026-10-16-discord-voice-changes-you-can-change-voices-and-continue-asking-for-agent-checks|Discord
+  voice changes]]'
 - '[[Changes/ElevenLabs/2026-10-19-speech-to-text|Speech to Text]]'
 - '[[Changes/ElevenLabs/2026-10-19-eleven-realtime|Eleven Realtime]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-19-2026-10-19-dd219c14|elevenlabs-2026-10-19-2026-10-19-dd219c14]]'
@@ -129,7 +129,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-gpt-transcribe-for-your-app-s-speech-to-text-features|GPT Transcribe for your app's speech-to-text features]]
+- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-discord-voice-changes-you-can-change-voices-and-continue-asking-for-agent-checks|Discord voice changes]]
 - Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-voice-dictation-no-longer-inserts-language-markers-like-en-us-into-transcript-te|Voice dictation no longer inserts language markers like en-US into transcript text]]
 <!-- chronolog:end -->
 

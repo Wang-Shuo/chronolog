@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 251c0ad84a30446929862435fbb93465091ef44d13aa71e2108322d53c46784b
+machine_hash: ad57f4ef504bf7198e641706851511c485f536436f96dbdbd04cf32e95256d98
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,12 +41,12 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Replit/2026-03-06-revenuecat-integration-now-generally-available|RevenueCat
-  integration now generally available]]'
 - '[[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps
   and Integrations changes in v2.1.71]]'
 - '[[Changes/Codex CLI/2026-03-08-2-apps-and-integrations-changes-in-rust-v0-112-0|2
   Apps and Integrations changes in rust-v0.112.0]]'
+- '[[Changes/OpenCode/2026-03-08-core-fix-broken-mcp-toggling-in-tui|Core Fix broken
+  MCP toggling in TUI]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-03-09-2026-03-09-ae721d55|elevenlabs-2026-03-09-2026-03-09-ae721d55]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-2-apps-and-integrations-changes-in-rust-v0-112-0|2 Apps and Integrations changes in rust-v0.112.0]]
+- Earlier: 2026-03-08 · OpenCode · [[Changes/OpenCode/2026-03-08-core-fix-broken-mcp-toggling-in-tui|Core Fix broken MCP toggling in TUI]]
 - Later: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-extensions-are-now-available-as-an-experimental-feature-ask-copilot-to-write-cus|Extensions are now available as an experimental feature]]
 <!-- chronolog:end -->
 

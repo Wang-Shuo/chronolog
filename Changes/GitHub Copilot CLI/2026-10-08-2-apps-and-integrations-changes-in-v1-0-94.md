@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9eae5c9c0f119d7174962be009d37c9764619810e7a10bf035dfebf8445c9c7
+machine_hash: 4ae87ed4f3c72f32ce9e40c781b2324743e33cbc118dac63ce0a2484e6ea550f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.94
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-20-apps-and-integrations-changes-in-rust-v0-162-0|20 Apps and Integrations changes in rust-v0.162.0]]
-- Later: 2026-10-08 · Lovable · [[Changes/Lovable/2026-10-08-app-chat-connectors-zendesk-neon-motherduck-oracle-autonomous-ai-database-ibm-db|App + chat connectors]]
+- Later: 2026-10-08 · Google Antigravity · [[Changes/Google Antigravity/2026-10-08-construct-and-display-custom-user-interfaces-inside-the-side-panel-as-part-of-in|Construct and display custom user interfaces inside the side panel as part…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

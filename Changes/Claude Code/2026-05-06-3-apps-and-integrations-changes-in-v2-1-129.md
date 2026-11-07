@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7ef28df21f47840c696632afac55c0e070bd333781ee5a730fe6a483a2588ae
+machine_hash: 2ed156731b4fb8a624951ea80c1dc7b5e6cdb3a471e459b77760e21305830d8a
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,7 +49,8 @@ record:
   title: 3 Apps and Integrations changes in v2.1.129
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-04-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/OpenCode/2026-05-04-core-show-real-server-error-messages-in-the-cli-and-sdk-instead-of-bare|Core
+  Show real server error messages in the CLI and SDK instead of bare {}]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-2-apps-and-integrations-changes-in-v1-0-41|2
   Apps and Integrations changes in v1.0.41]]'
 - '[[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added

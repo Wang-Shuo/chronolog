@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b26e0f745e6b910c5e333638e5dff2a71620ebac4ede61f86eefe215859f19bb
+machine_hash: d572bf31aaec064bd3f416a526cb52b13575730063bb3654947495fe59565bdb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,7 +41,8 @@ record:
   title: 2 Collaboration changes in rust-v0.158.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-team-rules|Team rules]]'
+- '[[Changes/Midjourney/2026-09-24-a-few-updates-to-share-with-you-today|A few updates
+  to share with you today]]'
 - '[[Changes/Codex CLI/2026-09-25-47411-apply-shared-network-policy-throughout-embedded-codex-startup-acrognale-oa|♯47411
   Apply shared network policy throughout embedded Codex startup @acrognale-oai]]'
 - '[[Changes/Claude Code/2026-09-28-2-collaboration-changes-in-v2-1-284|2 Collaboration

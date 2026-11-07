@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 31d3059b2af398dc4bce96623ddbba250562e174c9dff7eda3ee6e303c918c47
+machine_hash: 314f414c836e187ec14497a1a58e771633dc7de55334f5d60cf44b6b44aeb458
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -45,10 +45,10 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
-  a warning when the requested model is deprecated or automatically updated…]]'
 - '[[Changes/v0/2026-06-19-removed-the-enhance-prompt-button-from-the-composer-since-the-models-ask-clarify|Removed
   the Enhance Prompt button from the composer, since the models ask clarifying…]]'
+- '[[Changes/OpenCode/2026-06-21-2-model-support-changes-in-v1-17-9|2 Model Support
+  changes in v1.17.9]]'
 - '[[Changes/Codex CLI/2026-06-22-3-model-support-changes-in-rust-v0-142-0|3 Model
   Support changes in rust-v0.142.0]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-06-22-2026-06-22-645b32b5|elevenlabs-2026-06-22-2026-06-22-645b32b5]]'

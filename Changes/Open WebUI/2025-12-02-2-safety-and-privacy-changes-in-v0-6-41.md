@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2cbaa3974abc3aa4819c77f7840981c0176aeb76f6240364d585863099458c1
+machine_hash: 17b4abc0dc4b5fba11b84b2bc79dd85ec2f68eb36fcb3e06bb43822fda67e710
 product: open-webui
 product_name: Open WebUI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.41
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-12-02 · Gemini CLI · [[Changes/Gemini CLI/2025-12-02-improve-code-coverage-for-cli-src-ui-privacy-package-by-megha1188-in-https-githu|Improve code coverage for cli/src/ui/privacy package]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-3-safety-and-privacy-changes-in-rust-v0-66-0|3 Safety and Privacy changes in rust-v0.66.0]]
+- Later: 2025-12-08 · Google Antigravity · [[Changes/Google Antigravity/2025-12-08-various-security-fixes|Various security fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

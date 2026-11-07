@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e60137fe3f6b56c52d7678f4774b296c4e902b633c77f0337a5834b94e9317c6
+machine_hash: 6754feec929935a58b36a3aac22ed4f7f8b468ddd273900fa5819b51e910514f
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Added `managed-settings.d/` drop-in directory alongside `managed-settings.json`…
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-16-added-support-for-linking-team-skills-to-design-systems|Added
-  support for linking team skills to design systems]]'
 - '[[Changes/Dify/2026-03-17-refactor-web-split-share-text-generation-and-add-high-coverage-tests-by-codingon|refactor(web):
   split share text-generation and add high-coverage tests]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration
   changes in v1.0.10]]'
+- '[[Changes/OpenCode/2026-03-22-2-collaboration-changes-in-v1-3-0|2 Collaboration
+  changes in v1.3.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
 theme: collaboration
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration changes in v1.0.10]]
+- Earlier: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-2-collaboration-changes-in-v1-3-0|2 Collaboration changes in v1.3.0]]
 - Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-shared-chat-viewing-crash-shared-chats-can-now-be-viewed-by-unauthenticated-user|🐛 Shared chat viewing crash. Shared chats can now be viewed by unauthenticated…]]
 <!-- chronolog:end -->
 

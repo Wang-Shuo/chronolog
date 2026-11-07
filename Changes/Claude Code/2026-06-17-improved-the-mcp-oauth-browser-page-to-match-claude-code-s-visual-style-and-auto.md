@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2630c5e45f54470ff21725af1f8406e6b6395e24fd0320a3dd7af993911da62e
+machine_hash: e1e1915517cd74f6c0c7d2bf8226cdd29c6297a285298eabf056730724b0ba9d
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,8 +52,8 @@ record:
   title: Improved the MCP OAuth browser page to match Claude Code's visual style…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-remote-mcp-oauth-servers-start-only-once-per-matching-config-instead-of-restarti|Remote
-  MCP OAuth servers start only once per matching config instead of restarting…]]'
+- '[[Changes/OpenCode/2026-06-13-added-external-browser-oauth-for-the-snowflake-cortex-provider|Added
+  external browser OAuth for the Snowflake Cortex provider]]'
 - '[[Changes/Codex CLI/2026-06-15-5-account-and-access-changes-in-rust-v0-140-0|5
   Account and Access changes in rust-v0.140.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-2-account-and-access-changes-in-v1-0-63|2

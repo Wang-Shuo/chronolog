@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 266a717a2ee88c29bc649b8b0a2243681994c47cfa92b2652ee298ce9cfce949
+machine_hash: d56e8cf693d923fff2e363c2380ec868e28aa7dab01f1fc24d4a87f8d73e9891
 product: dify
 product_name: Dify
 record:
@@ -53,10 +53,10 @@ record:
   title: 3 Automation and Scheduling changes in 1.19.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2
-  Automation and Scheduling changes in v2.1.316]]'
 - '[[Changes/Open WebUI/2026-11-03-2-automation-and-scheduling-changes-in-v0-13-0|2
   Automation and Scheduling changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-4-automation-and-scheduling-changes-in-v2026-10-10|4
+  Automation and Scheduling changes in v2026.10.10]]'
 - '[[Changes/OpenHands/2026-11-03-6-automation-and-scheduling-changes-in-v1-35-0|6
   Automation and Scheduling changes in v1.35.0]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'
@@ -110,7 +110,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-6-automation-and-scheduling-changes-in-v1-35-0|6 Automation and Scheduling changes in v1.35.0]]
-- Later: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-11-automation-and-scheduling-changes-in-v1-36-0|11 Automation and Scheduling changes in v1.36.0]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-keeps-the-windows-scheduled-task-available-during-update-recovery-until-the-gate|Keeps the Windows scheduled task available during update recovery until the Gateway…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

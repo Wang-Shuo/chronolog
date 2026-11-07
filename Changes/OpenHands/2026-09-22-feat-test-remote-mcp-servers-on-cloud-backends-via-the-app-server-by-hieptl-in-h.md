@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4290a8451f2ee4e2d16d7f5669a136c8eb25e20ee37b617268f4edf666c679f7
+machine_hash: a2bf43e2090ce006f55b9c1b1e7d77412db98bcbff8b43662145afea32185982
 product: openhands
 product_name: OpenHands
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-test-cover-mcp-config-utilities-by-aivong-openhands-in-https-github-com-openhand|test: cover MCP config utilities]]
-- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-17-apps-and-integrations-changes-in-v2-1-281|17 Apps and Integrations changes in v2.1.281]]
+- Later: 2026-09-22 · Runway · [[Changes/Runway/2026-09-22-agents-in-runway-mcp-can-now-find-your-brand-kits-and-use-those-assets-as-refere|Brand Kits in Runway MCP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

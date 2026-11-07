@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2123d0098eefe57826747cce65ea16babeaab7cdb7a743cd63501523792addd
+machine_hash: f63005fa0e958b568c7e9d61719f939808821dd2b44313da3c6524a637c94e18
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,11 +48,11 @@ record:
   title: 3 Safety and Privacy changes in v2.1.210
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-5-safety-and-privacy-changes-in-v1-0-70|5
-  Safety and Privacy changes in v1.0.70]]'
-- '[[Changes/Claude Code/2026-07-11-2-safety-and-privacy-changes-in-v2-1-207|2 Safety
-  and Privacy changes in v2.1.207]]'
+- '[[Changes/Google Antigravity/2026-07-13-refined-command-permission-prompting-with-strict-literal-matching-relaxed-redire|Refined
+  command permission prompting with strict literal matching, relaxed…]]'
 - '[[Changes/Lovable/2026-07-13-redesigned-settings|Redesigned settings]]'
+- '[[Changes/OpenClaw/2026-07-13-59-safety-and-privacy-changes-in-v2026-7-1|59 Safety
+  and Privacy changes in v2026.7.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7|claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7]]'
 source_type: github_releases
 theme: safety-privacy
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.210
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-13 · Lovable · [[Changes/Lovable/2026-07-13-redesigned-settings|Redesigned settings]]
+- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-59-safety-and-privacy-changes-in-v2026-7-1|59 Safety and Privacy changes in v2026.7.1]]
 - Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask|Fixed multi-second per-turn slowdowns in sessions with many permission deny/ask rules]]
 <!-- chronolog:end -->
 

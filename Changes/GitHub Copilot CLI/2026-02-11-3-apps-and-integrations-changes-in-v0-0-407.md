@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e53b0edbfd48cc39dc11499451a7b684cdb895f37af81f4543da3735c60e9e5b
+machine_hash: 38ceeb876693fdafeef22b4c61e51b7bd183c378fc3464894b45eb83331de979
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Apps and Integrations changes in v0.0.407
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-7-apps-and-integrations-changes-in-v0-28-0|7 Apps
-  and Integrations changes in v0.28.0]]'
+- '[[Changes/OpenCode/2026-02-10-core-add-directory-parameter-to-plugin-client-for-multi-project-support|Core
+  Add directory parameter to plugin client for multi-project support]]'
 - '[[Changes/Codex CLI/2026-02-11-13-apps-and-integrations-changes-in-rust-v0-99-0|13
   Apps and Integrations changes in rust-v0.99.0]]'
 - '[[Changes/Dify/2026-02-11-10-apps-and-integrations-changes-in-1-13-0|10 Apps and
@@ -95,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.407
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-10-apps-and-integrations-changes-in-1-13-0|10 Apps and Integrations changes in 1.13.0]]
-- Later: 2026-02-12 · Cline · [[Changes/Cline/2026-02-12-2-apps-and-integrations-changes-in-v3-58-0|2 Apps and Integrations changes in v3.58.0]]
+- Later: 2026-02-11 · OpenCode · [[Changes/OpenCode/2026-02-11-sdk-encode-non-ascii-directory-paths-in-v1-sdk-http-headers|SDK Encode non-ASCII directory paths in v1 SDK HTTP headers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

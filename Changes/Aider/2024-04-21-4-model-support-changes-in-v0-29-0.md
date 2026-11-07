@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df90eb80ac6afd0c2eb573382e508390d2774d74b83fb5b47938ecf73070247b
+machine_hash: 6185ae3e3fdf1c9089f428a34f61c20a34f9789d0ff7beaf6615d9a57407fcbb
 product: aider
 product_name: Aider
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Model Support changes in v0.29.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New
-  GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]'
+- '[[Changes/Runway/2024-04-15-a-newly-designed-ai-training-page-lets-you-easily-find-all-custom-models-and-you|Redesigned
+  AI Training]]'
 - '[[Changes/Dify/2024-04-16-7-model-support-changes-in-0-6-3|7 Model Support changes
   in 0.6.3]]'
 - '[[Changes/Open WebUI/2024-04-16-2-model-support-changes-in-v0-1-119|2 Model Support

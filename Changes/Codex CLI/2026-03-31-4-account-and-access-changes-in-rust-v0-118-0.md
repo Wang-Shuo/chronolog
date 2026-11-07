@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f2db536965091891ec0257b025c5cde2e917f1dbc22ae2da2bcde7d288042e82
+machine_hash: 2f95c6658c182c5337739f87cb610b2af478a79d95bed189c0122ac6489674bd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Account and Access changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-4-account-and-access-changes-in-rust-v0-117-0|4
-  Account and Access changes in rust-v0.117.0]]'
+- '[[Changes/OpenCode/2026-03-26-2-account-and-access-changes-in-v1-3-3|2 Account
+  and Access changes in v1.3.3]]'
 - '[[Changes/Dify/2026-03-27-2-account-and-access-changes-in-1-13-3|2 Account and
   Access changes in 1.13.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-mcp-server-oauth-authentication-works-when-the-cli-runs-in-acp-mode|MCP

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 700b4532530b61af9f6030765f2d5672d14f3f929b3fbcc1ad6fb80a578e7e70
+machine_hash: 27620dcbf16200e78dc38f23d01e884f8e20cefca87969b69a126ca21b4a12ea
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Agent Mode changes in 08.13.26
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved
-  workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]'
+- '[[Changes/Google Antigravity/2026-08-12-reduced-typing-lag-while-the-agent-streams-responses|Reduced
+  typing lag while the agent streams responses]]'
 - '[[Changes/Claude Code/2026-08-13-4-agent-mode-changes-in-v2-1-232|4 Agent Mode
   changes in v2.1.232]]'
 - '[[Changes/Claude Code/2026-08-13-subagent-forking-is-now-on-by-default-a-subagent-type-fork-subagent-inherits-the|Subagent

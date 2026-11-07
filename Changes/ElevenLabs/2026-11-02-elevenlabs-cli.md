@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a0d3d83421f4303aeaebbdca52ae8c519e86f1cd02be0991144289f252fb386d
+machine_hash: 2e6cc4b0f3f1decc1ad5d1a371c88f45d0e1883814cb2dd3c02cd637f061e3b3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -136,7 +136,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-agent-mode-changes-in-v2-1-316|2 Agent Mode changes in v2.1.316]]
-- Later: 2026-11-03 · Lovable · [[Changes/Lovable/2026-11-03-lovable-follows-agents-md-files-in-your-project-s-subfolders|Lovable follows AGENTS.md files in your project's subfolders]]
+- Later: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-remote-agents-are-starting-to-roll-out-to-google-ai-ultra-and-pro-subscribers-co|Remote agents are starting to roll out to Google AI Ultra and Pro subscribers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

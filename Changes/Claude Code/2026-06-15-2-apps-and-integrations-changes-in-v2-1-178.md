@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ef2b7ad451af308157e3143ca0325015dad75123d287a046ab293f8b20354fb
+machine_hash: 82f7062e604cfe05875bbfe0eeff93aaa0f7ab4fd4b2ef224c3b09d1bb2ba69d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.178
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-11-restore-the-anthropic-provider-on-vs-code-1-123-and-later-where-the-updated-node|Restore
-  the Anthropic provider on VS Code 1.123 and later, where the updated Node 24…]]'
-- '[[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts
-  in place]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8
-  Apps and Integrations changes in v1.0.62]]'
+- '[[Changes/OpenCode/2026-06-13-4-apps-and-integrations-changes-in-v1-17-6-1|4 Apps
+  and Integrations changes in v1.17.6 + 1]]'
+- '[[Changes/OpenCode/2026-06-14-4-apps-and-integrations-changes-in-v1-17-7|4 Apps
+  and Integrations changes in v1.17.7]]'
+- '[[Changes/OpenCode/2026-06-14-mcp-servers-can-now-receive-the-current-workspace-as-a-client-root|MCP
+  servers can now receive the current workspace as a client root]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.178
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8 Apps and Integrations changes in v1.0.62]]
+- Earlier: 2026-06-14 · OpenCode · [[Changes/OpenCode/2026-06-14-mcp-servers-can-now-receive-the-current-workspace-as-a-client-root|MCP servers can now receive the current workspace as a client root]]
 - Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-35-apps-and-integrations-changes-in-rust-v0-140-0|35 Apps and Integrations changes in rust-v0.140.0]]
 <!-- chronolog:end -->
 

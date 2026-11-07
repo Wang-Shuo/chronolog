@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 12ddb399de656edafcfd77e45f51074f1c7e96fc27b1cc3fc858353644728088
+machine_hash: 330f48ed605c61d6871a0742b9bfe6ec85f2b704898c97db32a29230fdb0e26c
 product: windsurf
 product_name: Windsurf
 record:

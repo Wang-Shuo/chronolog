@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4134ef955eb15fe67c9edc784b8e1004b32d682d028674db746d1219820a0fca
+machine_hash: ee05fc08b8b9641189463864b344b0897d23daaa6aaaea03f13684f24c255aa0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,11 @@ record:
   title: 3 Editor Experience changes in rust-v0.132.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-fewer-spurious-tool-errors-during-search-head-tail-file-views-now-satisfy-the-re|Fewer
-  spurious tool errors during search]]'
-- '[[Changes/Dify/2026-05-19-feat-messagelogmodal-refactor-modal-structure-and-improve-tab-handling-by-coding|feat(MessageLogModal):
-  refactor modal structure and improve tab handling]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-file-diffs-are-correctly-reported-to-acp-clients-for-all-edit-tool-types|File
   diffs are correctly reported to ACP clients for all edit tool types]]'
+- '[[Changes/Google Antigravity/2026-05-19-first-release|First Release]]'
+- '[[Changes/Google Antigravity/2026-05-19-first-release-of-the-antigravity-ide|First
+  release of the Antigravity IDE]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'
 source_type: github_releases
 theme: editor-experience
@@ -96,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.132.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-file-diffs-are-correctly-reported-to-acp-clients-for-all-edit-tool-types|File diffs are correctly reported to ACP clients for all edit tool types]]
+- Earlier: 2026-05-19 · Google Antigravity · [[Changes/Google Antigravity/2026-05-19-first-release-of-the-antigravity-ide|First release of the Antigravity IDE]]
 - Later: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-2-editor-experience-changes-in-v1-0-51|2 Editor Experience changes in v1.0.51]]
 <!-- chronolog:end -->
 

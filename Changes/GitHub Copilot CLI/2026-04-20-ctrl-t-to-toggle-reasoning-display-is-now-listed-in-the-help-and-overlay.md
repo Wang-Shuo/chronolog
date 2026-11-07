@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7d2592ebd2a3c226095b9f41dabd3c583b9a4b4ce4dbec74bf4262909de48d68
+machine_hash: 6adf9eff6a3a8134c04a6fd707d1aee544d18204d1de4910d21ab89b6428d7cc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: ctrl+t to toggle reasoning display is now listed in the /help and ? overlay
   type: change
 related_changes:
-- '[[Changes/Claude/2026-04-17-claude-design-by-anthropic-labs|Claude Design by Anthropic
-  Labs]]'
 - '[[Changes/Replit/2026-04-17-claude-opus-4-7-powers-power-mode|Claude Opus 4.7 powers
   Power mode]]'
+- '[[Changes/OpenCode/2026-04-19-core-use-display-summarized-by-default-for-anthropic-bedrock-opus-4-7-requests|Core
+  Use display: summarized by default for Anthropic Bedrock Opus 4.7 requests]]'
 - '[[Changes/Codex CLI/2026-04-20-6-model-support-changes-in-rust-v0-122-0|6 Model
   Support changes in rust-v0.122.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-20-v1-0-33-github-311308778-029d953b|github-copilot-cli-2026-04-20-v1-0-33-github-311308778-029d953b]]'

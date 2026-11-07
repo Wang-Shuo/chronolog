@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 84f12e41dbd54e0e6c96044c85ee17bc5ebfd8ab2809fcac4632e1a4a2757ad2
+machine_hash: 57b1fc2c6b6e78f387c3a9c57bf32567031a77da0aee4551a0faec329fc3a572
 product: lovable
 product_name: Lovable
 record:
@@ -50,12 +50,12 @@ record:
   title: Redesigned More menu
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-2-interface-experience-changes-in-v1-0-100|2
-  Interface Experience changes in v1.0.100]]'
 - '[[Changes/OpenHands/2026-10-19-test-e2e-bound-and-diagnose-sidebar-modified-click-tab-waits-by-enyst-in-https-g|test(e2e):
   bound and diagnose sidebar modified-click tab waits]]'
 - '[[Changes/Claude Code/2026-10-20-improved-a-mod-s-image-to-draw-its-picture-in-iterm2-3-5-and-later-with-fullscre|Improved
   a mod''s Image to draw its picture in iTerm2 3.5 and later with fullscreen…]]'
+- '[[Changes/Google Antigravity/2026-10-20-2-interface-experience-changes-in-hub-v2-25-0-plugin-sidebar-badges|2
+  Interface Experience changes in HUB v2.25.0 — Plugin sidebar badges…]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-20-2026-10-20-0d2d0ef5|lovable-2026-10-20-2026-10-20-0d2d0ef5]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-improved-a-mod-s-image-to-draw-its-picture-in-iterm2-3-5-and-later-with-fullscre|Improved a mod's Image to draw its picture in iTerm2 3.5 and later with fullscreen…]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved a mod's Image to draw inside tmux with allow-passthrough…]]
+- Earlier: 2026-10-20 · Google Antigravity · [[Changes/Google Antigravity/2026-10-20-2-interface-experience-changes-in-hub-v2-25-0-plugin-sidebar-badges|2 Interface Experience changes in HUB v2.25.0 — Plugin sidebar badges…]]
+- Later: 2026-10-22 · Google Antigravity · [[Changes/Google Antigravity/2026-10-22-the-more-actions-menu-on-conversations-in-the-sidebar-now-includes-pin-and-archi|The more-actions menu on conversations in the sidebar now includes Pin and Archive…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

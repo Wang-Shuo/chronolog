@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7db732580a72be2060b17d1d8dd54208003e1ce0a37887f36720536da806dfd5
+machine_hash: e2c0da92028c11ca0d1633ca3f718d2ec8d00af58442c764737679f761b3faf0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: MCP servers now start correctly for custom agents
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-15-4-apps-and-integrations-changes-in-1-11-4|4 Apps and
-  Integrations changes in 1.11.4]]'
+- '[[Changes/OpenCode/2026-01-15-core-honor-per-server-mcp-timeouts|Core Honor per-server
+  MCP timeouts]]'
 - '[[Changes/Codex CLI/2026-01-16-accepting-an-mcp-elicitation-now-sends-an-empty-json-payload-instead-of-null-to|Accepting
   an MCP elicitation now sends an empty JSON payload instead of null…]]'
 - '[[Changes/Codex CLI/2026-01-16-3-apps-and-integrations-changes-in-rust-v0-87-0|3
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-3-apps-and-integrations-changes-in-rust-v0-87-0|3 Apps and Integrations changes in rust-v0.87.0]]
-- Later: 2026-01-19 · ElevenLabs · [[Changes/ElevenLabs/2026-01-19-modified-schemas|Modified Schemas]]
+- Later: 2026-01-16 · OpenCode · [[Changes/OpenCode/2026-01-16-core-reinstall-plugins-when-cache-module-is-missing|Core Reinstall plugins when cache module is missing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

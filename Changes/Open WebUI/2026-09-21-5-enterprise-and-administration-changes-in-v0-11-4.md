@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db6597d80efa018cc03ee50ae57c7168d338760e54a4d7d5422f1d08697e31ea
+machine_hash: 69be31d70d8295e6a755e67d5f34a3aea4c35ceb487b1f13b9b93b7c335db3a6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -69,10 +69,10 @@ record:
   title: 5 Enterprise and Administration changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude
-  Tag Improved Claude''s notices in Enterprise Grid channels shared across…]]'
-- '[[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2
-  Enterprise and Administration changes in v2.1.277]]'
+- '[[Changes/OpenClaw/2026-09-19-2-enterprise-and-administration-changes-in-v2026-9-5|2
+  Enterprise and Administration changes in v2026.9.5]]'
+- '[[Changes/OpenClaw/2026-09-19-you-can-now-install-the-cli-on-freebsd-with-install-cli-sh-using-system-node-and|Install
+  the CLI on FreeBSD with install-cli.sh using system Node and npm]]'
 - '[[Changes/Lovable/2026-09-21-set-a-default-design-system-for-each-group|Set a default
   design system for each group]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'

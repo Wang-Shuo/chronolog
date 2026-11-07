@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6bc5e9f26eed1435274f14bbc9cd9b8f8d638ed46f084af4ea59f84b2a7218a2
+machine_hash: 4b519cc7ab4a1baeb88c520e450d53f2bd73bab64a09efc3c57f33808dc0522c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: 'feat: support login as an option on shell-tool-mcp by @bolinfest in #7120'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-11-25-breaking-docling-configuration-has-been-consolidated-from-individual-environment|\U0001F527
-  BREAKING: Docling configuration has been consolidated from individual environment…]]"
 - '[[Changes/Dify/2025-11-26-feat-implement-rfc-compliant-oauth-discovery-with-dynamic-scope-selection-for-mc|feat:
   implement RFC-compliant OAuth discovery with dynamic scope selection for MCP…]]'
+- '[[Changes/Google Antigravity/2025-11-26-added-better-error-states-for-onboarding-users-during-authentication-flow|Added
+  better error states for onboarding users during authentication flow]]'
 - '[[Changes/Lovable/2025-11-26-temporary-education-logins|Temporary education logins]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'
 source_type: github_releases

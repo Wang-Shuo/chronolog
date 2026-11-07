@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cfbf6e9bdce8891e5a722c1d00812604b1158fd11b3409a87af04a8f829a2ca8
+machine_hash: 7a8fd31c89193807dfb245cdc6e47aedf8ede7943b5de6083b438f64d9d08536
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Mobile and Desktop changes in v2.1.260
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-31-code-interpreter-starts-on-windows-the-built-in-code-interpreter-now-serves-its|\U0001F40D
-  Code interpreter starts on Windows. The built-in code interpreter now serves…]]"
 - '[[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed
   --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]'
+- '[[Changes/OpenClaw/2026-09-01-3-mobile-and-desktop-changes-in-v2026-8-2|3 Mobile
+  and Desktop changes in v2026.8.2]]'
 - '[[Changes/Lovable/2026-09-02-download-the-mobile-app-from-your-settings|Download
   the mobile app from your settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'

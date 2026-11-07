@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3ac458d0353fc6b1cee5023f3c474a958d885d48d604ca8fac8270694a912e7c
+machine_hash: 629fa6f25dec8606ed6f24494fa073348902d113307827177b1769c15f15810f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: Site tools use WebMCP and require a supported account, model, and webpage
   type: change
 related_changes:
-- '[[Changes/Replit/2026-08-28-intelligent-model-routing-for-enterprise|Intelligent
-  model routing for Enterprise]]'
 - '[[Changes/v0/2026-08-28-gpt-5-6-sol-and-a-faster-sol-fast-tier-are-available-in-the-model-picker-routed|GPT-5.6
   Sol and a faster Sol Fast tier are available in the model picker, routed…]]'
 - '[[Changes/Codex CLI/2026-08-29-3-model-support-changes-in-rust-v0-151-0|3 Model
   Support changes in rust-v0.151.0]]'
+- '[[Changes/Midjourney/2026-08-29-we-ve-updated-our-v8-2-edit-model-for-better-image-quality-if-you-ve-had-any-iss|Edit
+  Image Quality Update]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-29 · Codex CLI · [[Changes/Codex CLI/2026-08-29-3-model-support-changes-in-rust-v0-151-0|3 Model Support changes in rust-v0.151.0]]
+- Earlier: 2026-08-29 · Midjourney · [[Changes/Midjourney/2026-08-29-we-ve-updated-our-v8-2-edit-model-for-better-image-quality-if-you-ve-had-any-iss|Edit Image Quality Update]]
 - Later: 2026-08-31 · Lovable · [[Changes/Lovable/2026-08-31-priority-processing-now-works-with-gemini-chat-models|Priority processing now works with Gemini chat models]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a2020649ee6d12834f7e3b17522fb4d6ed38ca285824b9b81af6ce3c0e33d0b5
+machine_hash: 83aaefdd6b96eb8c495a5b59f02ba9ba4e220e30a997ed9f2cbbedb3600b1313
 product: cursor
 product_name: Cursor
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-3-agent-mode-changes-in-v2-1-292|3 Agent Mode changes in v2.1.292]]
-- Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-4-agent-mode-changes-in-v1-25-0|4 Agent Mode changes in v1.25.0]]
+- Later: 2026-10-06 · OpenCode · [[Changes/OpenCode/2026-10-06-added-canonical-redirects-and-json-and-markdown-data-formats-for-agent-readable|Added canonical redirects and JSON and Markdown data formats for agent-readable stats]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

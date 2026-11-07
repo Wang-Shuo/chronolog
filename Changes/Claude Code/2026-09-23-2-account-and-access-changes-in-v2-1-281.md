@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 065b3631116a699ffb77354dfe3f14ee9ba7dd15774cb0779cd82d691d679688
+machine_hash: b4a4a7718e1871a54103935075c6ce27ada8e7e82721ab7cdda233e6f26bd6ff
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-3-account-and-access-changes-in-v1-0-88|3 Account and Access changes in v1.0.88]]
-- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-5-account-and-access-changes-in-rust-v0-157-0|5 Account and Access changes in rust-v0.157.0]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-17-account-and-access-changes-in-v2026-9-6|17 Account and Access changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

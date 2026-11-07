@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b659d7884d185d6b78038e6e7edc0a7d912a52d33f057f669698efdf2e0f9b4
+machine_hash: 885ca0350d18b9916e1525a147f9ea5498d4e1bf94ac9c2a30ed5fdba4640532
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Developer Workflow changes in v1.0.11
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-19-2-developer-workflow-changes-in-v1-0-9|2
-  Developer Workflow changes in v1.0.9]]'
 - '[[Changes/Claude Code/2026-03-20-4-developer-workflow-changes-in-v2-1-81|4 Developer
   Workflow changes in v2.1.81]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-developer-workflow-changes-in-v1-0-10|2
   Developer Workflow changes in v1.0.10]]'
+- '[[Changes/OpenCode/2026-03-22-2-developer-workflow-changes-in-v1-3-0|2 Developer
+  Workflow changes in v1.3.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619|github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-2-developer-workflow-changes-in-v1-0-10|2 Developer Workflow changes in v1.0.10]]
+- Earlier: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-2-developer-workflow-changes-in-v1-3-0|2 Developer Workflow changes in v1.3.0]]
 - Later: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-feat-skills-improve-async-pr-review-workflow-and-logging-by-mattkorwel-in-https|feat(skills): improve async-pr-review workflow and logging]]
 <!-- chronolog:end -->
 

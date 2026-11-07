@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a9aeb059fe115cbea78102e757af2be376cdd20491c94c92d2e34caecdb483d
+machine_hash: 1ecbb7a92c42d1115660f56311817ed96ec0929f3f3a95987575bd1d9c8e1b84
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,10 +50,10 @@ record:
   title: 2 Collaboration changes in v0.11.2
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-5-collaboration-changes-in-1-17-0|5 Collaboration changes
-  in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-6-collaboration-changes-in-v0-11-1|6 Collaboration
   changes in v0.11.1]]'
+- '[[Changes/Gamma/2026-08-28-we-ve-shipped-a-lot-since-our-last-update-here-are-five-highlights-that-make-it|We’ve
+  shipped a lot since our last update]]'
 - '[[Changes/v0/2026-08-28-4-collaboration-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
   Collaboration changes in GPT-5.6 Sol, sign-in inside previews…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-31-v0-11-2-github-379534902-6de0950b|open-webui-2026-08-31-v0-11-2-github-379534902-6de0950b]]'
@@ -98,7 +98,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.2
 ## Nearby in Collaboration
 
 - Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-4-collaboration-changes-in-gpt-5-6-sol-sign-in-inside-previews|4 Collaboration changes in GPT-5.6 Sol, sign-in inside previews…]]
-- Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-5-collaboration-changes-in-rust-v0-152-0|5 Collaboration changes in rust-v0.152.0]]
+- Later: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-browser-and-computer-use-signed-in-browser-sessions-through-an-isolated-managed|Browser and Computer Use - Signed-in browser sessions through an isolated managed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2743b1f61cb4d3bbefb5eebe74ffb8d1412c0b26f59ebc8358caebc380a0f250
+machine_hash: 4cd7c09181518cd2999bb54697d68979ea4cc38ceb27619d55794bed4ab90343
 product: claude
 product_name: Claude
 record:
@@ -51,12 +51,12 @@ record:
   title: Claude Design by Anthropic Labs
   type: change
 related_changes:
-- '[[Changes/Cline/2026-04-16-add-claude-opus-4-7-model-support|Add Claude Opus 4.7
-  model support]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-16-add-support-for-claude-opus-4-7|Add support
-  for Claude Opus 4.7]]'
 - '[[Changes/Ollama/2026-04-16-gemma-4-on-mlx-added-support-for-running-gemma-4-via-mlx-on-apple-silicon-includ|Gemma
   4 on MLX. Added support for running Gemma 4 via MLX on Apple Silicon…]]'
+- '[[Changes/OpenCode/2026-04-16-github-copilot-gpt-5-mini-now-uses-low-reasoning-effort-for-better-request-compa|GitHub
+  Copilot gpt-5-mini now uses low reasoning effort for better request compatibility]]'
+- '[[Changes/OpenCode/2026-04-16-4-model-support-changes-in-v1-4-7|4 Model Support
+  changes in v1.4.7]]'
 source_release: '[[Releases/Claude/claude-2026-04-17-2026-04-17-97599a7a|claude-2026-04-17-2026-04-17-97599a7a]]'
 source_type: claude_changelog
 theme: model-support
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-16 · Ollama · [[Changes/Ollama/2026-04-16-gemma-4-on-mlx-added-support-for-running-gemma-4-via-mlx-on-apple-silicon-includ|Gemma 4 on MLX. Added support for running Gemma 4 via MLX on Apple Silicon…]]
-- Later: 2026-04-17 · Replit · [[Changes/Replit/2026-04-17-claude-opus-4-7-powers-power-mode|Claude Opus 4.7 powers Power mode]]
+- Earlier: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-4-model-support-changes-in-v1-4-7|4 Model Support changes in v1.4.7]]
+- Later: 2026-04-17 · OpenCode · [[Changes/OpenCode/2026-04-17-core-limited-github-copilot-opus-4-7-models-to-medium-reasoning-effort-to-avoid|Core Limited GitHub Copilot Opus 4.7 models to medium reasoning effort to avoid…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

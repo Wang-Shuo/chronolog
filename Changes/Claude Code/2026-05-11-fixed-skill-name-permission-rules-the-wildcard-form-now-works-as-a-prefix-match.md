@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: e0f27cd5d12e3306f271e3db1d5b44286f30aa1289c24a2e552500b3cef063b7
+machine_hash: da8e58a34a6714147d88ffd06f39cd01ee12f4c45392016deba40d0eaee9c3e7
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Fixed `Skill(name *)` permission rules
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-08-workspace-security-center-2-0|Workspace Security Center
-  2.0]]'
-- '[[Changes/Open WebUI/2026-05-09-3-safety-and-privacy-changes-in-v0-9-3|3 Safety
-  and Privacy changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-09-core-rejected-invalid-permission-and-question-ids-in-the-http-api|Core
+  Rejected invalid permission and question IDs in the HTTP API]]'
 - '[[Changes/Open WebUI/2026-05-10-6-safety-and-privacy-changes-in-v0-9-5|6 Safety
   and Privacy changes in v0.9.5]]'
+- '[[Changes/OpenCode/2026-05-10-core-read-tool-permission-rules-now-match-worktree-relative-paths-so-read-allowl|Core
+  Read tool permission rules now match worktree-relative paths, so read…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-6-safety-and-privacy-changes-in-v0-9-5|6 Safety and Privacy changes in v0.9.5]]
+- Earlier: 2026-05-10 · OpenCode · [[Changes/OpenCode/2026-05-10-core-read-tool-permission-rules-now-match-worktree-relative-paths-so-read-allowl|Core Read tool permission rules now match worktree-relative paths, so read…]]
 - Later: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-sessions-with-extension-permission-prompts-can-be-resumed-without-a-session-file|Sessions with extension permission prompts can be resumed without…]]
 <!-- chronolog:end -->
 

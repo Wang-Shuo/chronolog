@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: ccce676be90605f37faa96440e8942d35a9cff1d8ff708c978b015b5e654b1b9
+machine_hash: 36094d7d03a5eb01c689b2dc8d0a4b9c68eedcbcc613d67a03a230e50f22cdc6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     may be lost
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom:
-  Describe in natural language when Bugbot should use default or high effort]]'
+- '[[Changes/OpenCode/2026-05-11-2-model-support-changes-in-v1-14-48-1|2 Model Support
+  changes in v1.14.48 + 1]]'
 - '[[Changes/Dify/2026-05-12-2-model-support-changes-in-1-14-1|2 Model Support changes
   in 1.14.1]]'
 - '[[Changes/Gemini CLI/2026-05-12-5-model-support-changes-in-v0-42-0|5 Model Support

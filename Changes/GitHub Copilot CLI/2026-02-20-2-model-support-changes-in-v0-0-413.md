@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e150f93c682099735b5046e14b47bd279c893c3777e9826abdf107d5ae6efc5
+machine_hash: b2acf0c1c74ce062a6c5ef048c0a6d1af134f75674196e23d1b914b3c0dec98e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,12 @@ record:
   title: 2 Model Support changes in v0.0.413
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-19-gemini-3-1-pro-preview|Gemini-3.1 Pro Preview]]'
-- '[[Changes/Gemini/2026-02-19-gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks|Gemini
-  3.1 Pro: A smarter model for your most complex tasks]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-19-2-model-support-changes-in-v0-0-412|2 Model
-  Support changes in v0.0.412]]'
+- '[[Changes/Google Antigravity/2026-02-19-2-model-support-changes-in-ide-v1-18-3-settings-artifacts|2
+  Model Support changes in IDE v1.18.3 — Settings, Artifacts…]]'
+- '[[Changes/OpenCode/2026-02-19-support-adaptive-thinking-for-claude-sonnet-4-6|Support
+  adaptive thinking for Claude Sonnet 4.6]]'
+- '[[Changes/OpenCode/2026-02-19-3-model-support-changes-in-v1-2-7|3 Model Support
+  changes in v1.2.7]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1|github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1]]'
 source_type: github_releases
 theme: model-support
@@ -84,8 +85,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.413
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-2-model-support-changes-in-v0-0-412|2 Model Support changes in v0.0.412]]
-- Later: 2026-02-21 · Ollama · [[Changes/Ollama/2026-02-21-2-model-support-changes-in-v0-17-0|2 Model Support changes in v0.17.0]]
+- Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-3-model-support-changes-in-v1-2-7|3 Model Support changes in v1.2.7]]
+- Later: 2026-02-20 · Midjourney · [[Changes/Midjourney/2026-02-20-please-note|Please Note]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

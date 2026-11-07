@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8dc4f267e6213f9db1d555c949aff2c177d7b271856541ca1404aaf2e51008d
+machine_hash: bf9857cb0c59b658b58092c0b78ad819dca1e0dabf704a9f3b232529572df255
 product: cline
 product_name: Cline
 record:
@@ -56,10 +56,10 @@ record:
   title: 3 Model Support changes in v4.1.24
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-12-2-model-support-changes-in-v1-0-96|2 Model
-  Support changes in v1.0.96]]'
 - '[[Changes/Ollama/2026-10-12-3-model-support-changes-in-v0-40-4|3 Model Support
   changes in v0.40.4]]'
+- '[[Changes/OpenClaw/2026-10-12-9-model-support-changes-in-v2026-10-2|9 Model Support
+  changes in v2026.10.2]]'
 - '[[Changes/OpenHands/2026-10-12-3-model-support-changes-in-v1-27-0|3 Model Support
   changes in v1.27.0]]'
 source_release: '[[Releases/Cline/cline-2026-10-13-v4-1-24-github-411804449-05899922|cline-2026-10-13-v4-1-24-github-411804449-05899922]]'

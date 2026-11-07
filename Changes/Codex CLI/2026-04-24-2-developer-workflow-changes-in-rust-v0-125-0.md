@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc1fd9b235e3da285054c79c1d8bb2232c8f12cdae6bedcffb0e34ea70eaff83
+machine_hash: 3cd079107d89c76462237d36e7d5ef9b09c811887a6bfdde78145cdb5842c20f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Developer Workflow changes in rust-v0.125.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-23-3-developer-workflow-changes-in-v0-39-0|3 Developer
-  Workflow changes in v0.39.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-23-4-developer-workflow-changes-in-v1-0-35|4
-  Developer Workflow changes in v1.0.35]]'
+- '[[Changes/OpenCode/2026-04-23-support-pull-diagnostics-from-lsp-servers-that-use-them|Support
+  pull diagnostics from LSP servers that use them]]'
+- '[[Changes/OpenCode/2026-04-23-4-developer-workflow-changes-in-v1-14-22-1|4 Developer
+  Workflow changes in v1.14.22 + 1]]'
 - '[[Changes/Cline/2026-04-24-log-discovered-heap-snapshots-on-abnormal-exits-for-easier-oom-debugging|log
   discovered heap snapshots on abnormal exits for easier OOM debugging]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c|codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c]]'

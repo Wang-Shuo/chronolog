@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29a80ac0443111bc1cc2c43fed98277cf2aca54ad3e86543d7a56145cb31732a
+machine_hash: e4b087c7d19373aacd38bed6ce8d915e9eb6835b17cad8715617005e55028868
 product: aider
 product_name: Aider
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Editor Experience changes in v0.60.0
   type: change
 related_changes:
-- '[[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No
-  more staring at loading spinners: Responses are now streamed into the editor…]]'
 - '[[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS
   Code 1.93.1: Cursor is now based on VS Code 1.93.1]]'
+- '[[Changes/Suno/2024-10-10-2-navigate-to-replace-section-go-to-edit-replace-section|2
+  - Navigate to Replace Section: Go to Edit  Replace Section]]'
 - '[[Changes/Dify/2024-10-14-prompt-editor-optimization-clearer-and-more-efficient-prompt-editing-with-reset|Prompt
   Editor Optimization: Clearer and more efficient prompt editing with reset…]]'
 source_release: '[[Releases/Aider/aider-2024-10-22-v0-60-0-github-181319954-34f01211|aider-2024-10-22-v0-60-0-github-181319954-34f01211]]'
@@ -82,7 +82,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.60.0
 ## Nearby in Editor Experience
 
 - Earlier: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-prompt-editor-optimization-clearer-and-more-efficient-prompt-editing-with-reset|Prompt Editor Optimization: Clearer and more efficient prompt editing with reset…]]
-- Later: 2024-11-04 · Aider · [[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run aider --apply-clipboard-edits file-to-edit.js]]
+- Later: 2024-10-23 · Midjourney · [[Changes/Midjourney/2024-10-23-today-we-re-testing-our-new-external-image-editor-image-retexturing-and-next-gen|today we’re testing our new external image editor , image retexturing , and next-gen…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

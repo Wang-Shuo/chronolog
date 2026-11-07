@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca6ab188e24b7d8974c8edb17a12816483620ccec4f0c1fadd243fc5202fe373
+machine_hash: e9ad048bc566da14b3fbfeba04fc484811207b8ed38480e1a10abc8a38a124ff
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Changed managed settings
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-31-open-in-v0-and-git-deployment-lookups-prompt-for-saml-re-authentication-instead|Open
-  in v0 and Git deployment lookups prompt for SAML re-authentication instead…]]'
 - '[[Changes/Windsurf/2026-08-01-devin-desktop-for-windows-loads-root-and-intermediate-certificates-from-the-wind|Devin
   Desktop for Windows loads root and intermediate certificates from the Windows…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-2-account-and-access-changes-in-v1-0-78|2
   Account and Access changes in v1.0.78]]'
+- '[[Changes/OpenCode/2026-08-05-core-simplified-xai-login-to-a-single-device-code-flow-that-works-better-in-head|Core
+  Simplified xAI login to a single device-code flow that works better in headless…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: account-access
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-2-account-and-access-changes-in-v1-0-78|2 Account and Access changes in v1.0.78]]
+- Earlier: 2026-08-05 · OpenCode · [[Changes/OpenCode/2026-08-05-core-simplified-xai-login-to-a-single-device-code-flow-that-works-better-in-head|Core Simplified xAI login to a single device-code flow that works better in headless…]]
 - Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-8-account-and-access-changes-in-rust-v0-147-0|8 Account and Access changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 

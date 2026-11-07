@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14ed0af03ef3eb3708f3ae7bd77ee2fdf7421b5ea83d85edfc22caaf7ed968b2
+machine_hash: c8b28f64e862ad1476b5aef67f196f1b759b0d55de552aeef4afbe47eccfe706
 product: open-webui
 product_name: Open WebUI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.1
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-reduce-memory-usage-from-encoding-streaming-chunks|Reduce memory usage from encoding streaming chunks]]
-- Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved memory usage for shell commands that produce large output]]
+- Later: 2026-02-14 · OpenCode · [[Changes/OpenCode/2026-02-14-core-filter-sessions-at-database-level-to-improve-session-list-loading-performan|Core Filter sessions at database level to improve session list loading performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd6d1f269f558286ef6b821dfbe5bf6aeae77a0e771f2849e163dc897676c51a
+machine_hash: a6f61b5409e5fd44115f28a04d0b9a219be472e25dc347e9bbd24df3e1e32f24
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-improved-permissions-tab-and-arrow-keys-now-switch-tabs-from-within-a-list|Improved /permissions — Tab and arrow keys now switch tabs from within a list]]
-- Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-3-editor-experience-changes-in-v2-1-83|3 Editor Experience changes in v2.1.83]]
+- Later: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-3-editor-experience-changes-in-v1-3-0|3 Editor Experience changes in v1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

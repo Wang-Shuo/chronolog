@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da47cc89d12dcaa0ce2e14f6ce3e0fd8fc80f04c6a2f5be6b38e6d4edceba53a
+machine_hash: e0c7b803f84fc763755f32d577f5988e80b0330728b97d5a3b101633709d7ce8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Agent Mode changes in rust-v0.59.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-13-6510-feat-shell-command-tool-29364f3a9|♯6510 — feat:
-  shell_command tool (29364f3a9)]]'
 - '[[Changes/Dify/2025-11-13-these-trigger-features-are-only-available-for-workflows-chatflow-agent-and-basic|These
   trigger features are only available for Workflows]]'
 - '[[Changes/Gemini/2025-11-18-gemini-agent-is-now-available-on-the-web-to-google-ai-ultra-subscribers-18-in-th|Gemini
   Agent is now available on the web, to Google AI Ultra subscribers 18+ in the US]]'
+- '[[Changes/Google Antigravity/2025-11-18-google-antigravity|Google Antigravity]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'
 source_type: github_releases
 theme: agent-mode
@@ -92,8 +91,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.59.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-18 · Gemini · [[Changes/Gemini/2025-11-18-gemini-agent-is-now-available-on-the-web-to-google-ai-ultra-subscribers-18-in-th|Gemini Agent is now available on the web, to Google AI Ultra subscribers 18+ in the US]]
-- Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]
+- Earlier: 2025-11-18 · Google Antigravity · [[Changes/Google Antigravity/2025-11-18-google-antigravity|Google Antigravity]]
+- Later: 2025-11-20 · Google Antigravity · [[Changes/Google Antigravity/2025-11-20-agent-can-now-create-scratch-directories-if-no-workspaces-are-open|Agent can now create scratch directories if no workspaces are open]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

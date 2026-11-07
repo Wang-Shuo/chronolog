@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: expansion
-machine_hash: 6917436d2560fda5fd5395de4cd0b08772761e080d332d4fc3d9043652ad58f1
+machine_hash: f849cb5090d2ab9c960f4b9a129bca426dec355efd9c67e3db737a0d862eba5b
 product: gemini
 product_name: Gemini
 record:
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-these-trigger-features-are-only-available-for-workflows-chatflow-agent-and-basic|These trigger features are only available for Workflows]]
-- Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0|2 Agent Mode changes in rust-v0.59.0]]
+- Later: 2025-11-18 · Google Antigravity · [[Changes/Google Antigravity/2025-11-18-google-antigravity|Google Antigravity]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

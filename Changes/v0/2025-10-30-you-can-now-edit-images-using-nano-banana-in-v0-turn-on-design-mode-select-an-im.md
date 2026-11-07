@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 015a90660d7a4b4a81060ef0a8de92e1d4003bd8b68e339c9e50299fffc13ada
+machine_hash: 269de015b4f2cdd3ce0bc77e6817dca5d2bd46346b67b63b7a38329415bcad25
 product: v0
 product_name: v0
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-chore-config-editor-in-https-github-com-openai-codex-pull-5878|chore: config editor in (source link)]]
-- Later: 2025-11-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-03-diff-hunk-lines-now-properly-fill-the-width-of-the-diff-box|Diff hunk lines now properly fill the width of the diff box]]
+- Later: 2025-11-03 · Gamma · [[Changes/Gamma/2025-11-03-ever-made-the-perfect-edit-to-an-ai-image-only-to-lose-track-of-it-we-heard-you|Ever made the perfect edit to an AI image, only to lose track of it?]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: efd0805a05e10ed3114159367c5788f7d8fd46cec6c3472713619a648a7b55d2
+machine_hash: 9ef97b71c9acc93a257f51f6ec3b5859cf86dd843a4758145596ad5ae347c6a0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Account and Access changes in rust-v0.98.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added
-  pre-configured OAuth client credentials for MCP servers that don''t support…]]'
 - '[[Changes/Dify/2026-02-03-3-account-and-access-changes-in-1-12-0|3 Account and
   Access changes in 1.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-2-account-and-access-changes-in-v0-0-401|2
   Account and Access changes in v0.0.401]]'
+- '[[Changes/OpenCode/2026-02-03-terminal-enable-password-authentication-for-remote-session-attachment|Terminal
+  Enable password authentication for remote session attachment]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-05-rust-v0-98-0-github-283440153-81972c92|codex-cli-2026-02-05-rust-v0-98-0-github-283440153-81972c92]]'
 source_type: github_releases
 theme: account-access
@@ -87,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.98.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-2-account-and-access-changes-in-v0-0-401|2 Account and Access changes in v0.0.401]]
+- Earlier: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-terminal-enable-password-authentication-for-remote-session-attachment|Terminal Enable password authentication for remote session attachment]]
 - Later: 2026-02-05 · Lovable · [[Changes/Lovable/2026-02-05-seamless-google-and-apple-authentication|Seamless Google and Apple authentication]]
 <!-- chronolog:end -->
 

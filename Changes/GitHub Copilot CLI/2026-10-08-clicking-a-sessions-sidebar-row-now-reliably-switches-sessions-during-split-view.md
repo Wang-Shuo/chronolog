@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf5706c896c5c8cb652bdef4ae6650df2c4dff6c1bddbc025454f7b309bfac39
+machine_hash: 6dd6728d638185f636662f184a4c93f2f9ed3034fdd150080f3b3be3ef82bae2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-8-interface-experience-changes-in-rust-v0-162-0|8 Interface Experience changes in rust-v0.162.0]]
-- Later: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-test-e2e-open-commits-from-the-tabs-pane-s-own-menu-by-enyst-in-https-github-com|test(e2e): open Commits from the tabs pane's own menu]]
+- Later: 2026-10-08 · Google Antigravity · [[Changes/Google Antigravity/2026-10-08-sidebar-drag-and-drop-ui-extensions-and-localized-conversation-timestamps|Sidebar drag-and-drop, UI Extensions, and localized conversation timestamps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

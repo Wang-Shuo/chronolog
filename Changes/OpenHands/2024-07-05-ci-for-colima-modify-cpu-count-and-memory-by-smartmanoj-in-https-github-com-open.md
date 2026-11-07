@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e56f6fdddcef6bbeca6ae80f67dd1a2e1a0cce3f562fa364c87d63547163df7f
+machine_hash: 1beccc0b502b143a3dde884be4a6bfb426daa3b647de1b47c4d54ec08b0f7bc0
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: 'CI: For colima, modify CPU count and memory'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-19-experimental-memory-feature-manually-input-personal-information-you-want-llms-to|\U0001F9E0
-  Experimental Memory Feature]]"
+- '[[Changes/Midjourney/2024-06-12-we-re-releasing-an-early-test-version-of-model-personalization-today-here-s-how|We''re
+  releasing an early test version of model personalization today]]'
 - '[[Changes/Dify/2024-06-14-2-memory-and-personalization-changes-in-0-6-11|2 Memory
   and Personalization changes in 0.6.11]]'
 - "[[Changes/Open WebUI/2024-06-17-editable-memories-adds-the-capability-to-modify-memories|\U0001F9E0

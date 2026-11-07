@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6aef8f150814ab5d61b5a8ff7efde81671e1aead85f3afc5de1ae11eb5743b76
+machine_hash: 628e9e11cac62c3a46fc3af09f095b2b164c6d92d84a34c257726e18e6be25c3
 product: lovable
 product_name: Lovable
 record:
@@ -61,10 +61,9 @@ record:
   title: Restore Lovable work after a push to your Git repository replaces it
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode
-  Changed the Claude in Chrome "Enabled by default" switch to also connect…]]'
-- '[[Changes/Codex CLI/2026-10-01-49082-skip-remote-git-discovery-for-guardian-diff-paths-jif-oai|♯49082
-  Skip remote Git discovery for Guardian diff paths @jif-oai]]'
+- '[[Changes/Midjourney/2026-10-02-editing|EDITING]]'
+- '[[Changes/OpenClaw/2026-10-03-browser-tabs-after-updates-if-you-leave-openclaw-s-bundled-web-interface-open-du|Browser
+  tabs after updates]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-2-editor-experience-changes-in-v1-0-92|2
   Editor Experience changes in v1.0.92]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-05-2026-10-05-4039c076|lovable-2026-10-05-2026-10-05-4039c076]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a60054d21f1c1e36c42560b03add6067519cb99e2fc6ca5e2f7adb1db7deb4b0
+machine_hash: aaab51aba8a83e38786991d93e4bc1d987c08b21ff5ca6d4436183400b520f43
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -198,7 +198,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-24-apps-and-integrations-changes-in-v0-1-17|24 Apps and Integrations changes in v0.1.17]]
-- Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-7-apps-and-integrations-changes-in-v0-6-19|7 Apps and Integrations changes in v0.6.19]]
+- Later: 2025-08-08 · Gamma · [[Changes/Gamma/2025-08-08-we-ve-just-launched-our-generate-api-in-beta-for-gamma-pro-users-now-you-can-cre|We’ve just launched our Generate API in beta for Gamma Pro users! Now you can…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cfd72d538ef446f665be56b3be4e68775e73e5e11b00808d035249b7f852bcc1
+machine_hash: 51c08a1f5e40f03a1b13013734bcf9fd763b03c3b4bcc0e478eaf31df15f3a6a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Memory and Personalization changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-4-memory-and-personalization-changes-in-rust-v0-164-0|4
-  Memory and Personalization changes in rust-v0.164.0]]'
-- '[[Changes/Dify/2026-10-23-3-memory-and-personalization-changes-in-1-18-0|3 Memory
-  and Personalization changes in 1.18.0]]'
 - '[[Changes/Codex CLI/2026-10-27-5-memory-and-personalization-changes-in-rust-v0-165-0|5
   Memory and Personalization changes in rust-v0.165.0]]'
+- '[[Changes/OpenClaw/2026-10-27-4-memory-and-personalization-changes-in-v2026-10-8|4
+  Memory and Personalization changes in v2026.10.8]]'
+- '[[Changes/OpenCode/2026-10-27-8-memory-and-personalization-changes-in-v2-2-0|8
+  Memory and Personalization changes in v2.2.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: memory
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-5-memory-and-personalization-changes-in-rust-v0-165-0|5 Memory and Personalization changes in rust-v0.165.0]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-8-memory-and-personalization-changes-in-v2-2-0|8 Memory and Personalization changes in v2.2.0]]
 - Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-memory-and-personalization-changes-in-v0-12-5|2 Memory and Personalization changes in v0.12.5]]
 <!-- chronolog:end -->
 

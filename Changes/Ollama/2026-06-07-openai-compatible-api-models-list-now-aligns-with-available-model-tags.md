@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0bda36ef300b28eb71e57db4d3ade58e0f840595812090b9907e7b5a4d18b92a
+machine_hash: d2ee8cb7b15689089274598c6192148c2e51219e961fab510da0b9bb08891d3f
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
   title: OpenAI-compatible API models list now aligns with available model tags
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-05-3-model-support-changes-in-v3-88-0|3 Model Support changes
-  in v3.88.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-model-support-changes-in-v1-0-60|2 Model
-  Support changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-4-model-support-changes-in-v1-16-0|4 Model Support
+  changes in v1.16.0]]'
+- '[[Changes/OpenCode/2026-06-05-2-model-support-changes-in-v1-16-2|2 Model Support
+  changes in v1.16.2]]'
 - '[[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support
   changes in v2.1.166]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-07-v0-30-7-github-335267984-96c79b41|ollama-2026-06-07-v0-30-7-github-335267984-96c79b41]]'

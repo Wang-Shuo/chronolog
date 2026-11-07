@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2c9211625d5cecbb461d68acafd83e09e2f5181e7751e3d9a9c4193d9283e0a0
+machine_hash: 674b44ca99b987f27933e53e360571342b9cff2ea58775fb3429fcb2009fdd76
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -62,12 +62,11 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved
-  startup responsiveness]]'
-- '[[Changes/Codex CLI/2026-08-20-2-reliability-and-performance-changes-in-rust-v0-149-0|2
-  Reliability and Performance changes in rust-v0.149.0]]'
+- '[[Changes/Google Antigravity/2026-08-20-improved-performance-across-the-app-faster-startup-and-project-switching-faster|Improved
+  performance across the app]]'
 - '[[Changes/ChatGPT/2026-08-21-attach-recent-photos-faster-press-and-hold-the-button-to-open-your-recent-photos|Attach
   recent photos faster]]'
+- '[[Changes/Midjourney/2026-08-21-performance|Performance]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-08-24-2026-08-24-b7c01132|elevenlabs-2026-08-24-2026-08-24-b7c01132]]'
 source_type: elevenlabs_changelog
 theme: reliability-performance
@@ -105,8 +104,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-attach-recent-photos-faster-press-and-hold-the-button-to-open-your-recent-photos|Attach recent photos faster]]
-- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-improved-bash-tool-latency-on-bash-shells-by-replaying-snapshot-functions-withou|Improved Bash tool latency on bash shells by replaying snapshot functions without…]]
+- Earlier: 2026-08-21 · Midjourney · [[Changes/Midjourney/2026-08-21-performance|Performance]]
+- Later: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-improved-git-responsiveness-and-reduced-background-cpu-usage-on-large-repositori|Improved Git responsiveness and reduced background CPU usage on large repositories…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6766adea2b59dbcfce37c0790f4a403676f948c38a518145229bc1d048e17f6e
+machine_hash: 6763d1771e10b0339fe32cda836250b5e543515eda80855659e798a97d86fee6
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Added a `dir` prop on a mod's `Text` for right-to-left text
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-12-decision-models-can-now-be-used-directly-from-the-terminal-with-ollama-run-ask-y|Decision
-  models can now be used directly from the terminal with ollama run]]'
 - '[[Changes/Cline/2026-10-13-deleting-a-slash-command-from-the-input-keeps-the-spacing-of-the-text-around-it|Deleting
   a slash command from the input keeps the spacing of the text around it]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-background-shell-wait-status-no-longer-animates-when-no-foreground-work-is-runni|Background-shell
   wait status no longer animates when no foreground work is running]]'
+- '[[Changes/OpenClaw/2026-10-13-5-developer-workflow-changes-in-v2026-10-3|5 Developer
+  Workflow changes in v2026.10.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: developer-workflow
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-background-shell-wait-status-no-longer-animates-when-no-foreground-work-is-runni|Background-shell wait status no longer animates when no foreground work is running]]
+- Earlier: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-5-developer-workflow-changes-in-v2026-10-3|5 Developer Workflow changes in v2026.10.3]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-10-developer-workflow-changes-in-v2-1-299|10 Developer Workflow changes in v2.1.299]]
 <!-- chronolog:end -->
 

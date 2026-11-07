@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8d166574cc2079c942622e5cee1d9bb8b41fb1f5d24f5b4b59a60f189c578da
+machine_hash: 844cee026dffe479ffd605d827bfaf9ef4ab60027d28da7ce09cfb0f6bd9a3c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
     locking…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-added-a-discard-unsaved-changes-confirmation-before-the-n|Claude
-  Code on the web Added a "Discard unsaved changes?" confirmation before…]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-16-9-editor-experience-changes-in-v1-0-85|9
-  Editor Experience changes in v1.0.85]]'
+- '[[Changes/Midjourney/2026-09-16-lots-more-changes-on-alpha-midjourney-com-same-goal-as-before-make-the-site-easi|lots
+  more changes on alpha.midjourney.com !]]'
+- '[[Changes/Midjourney/2026-09-16-prompt-bar-pills-typing-a-single-backtick-no-longer-freezes-the-tab-typing-no-a|PROMPT
+  BAR & PILLS Typing a single backtick no longer freezes the tab]]'
 - '[[Changes/Claude Code/2026-09-17-10-editor-experience-changes-in-v2-1-275|10 Editor
   Experience changes in v2.1.275]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'

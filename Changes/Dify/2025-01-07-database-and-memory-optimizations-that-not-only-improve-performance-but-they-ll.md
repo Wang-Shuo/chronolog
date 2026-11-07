@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4d15b2af2835308893c82396163512fa0752c30ee74d57ba447d2a577096039
+machine_hash: 0d51430979ca522fd4b357017019cecc9e7e83edbba9fc637863413472f6b59a
 product: dify
 product_name: Dify
 record:
@@ -54,12 +54,10 @@ record:
   title: Database and memory optimizations that not only improve performance but they'll…
   type: change
 related_changes:
-- '[[Changes/Dify/2024-08-14-enhancing-llm-memory-with-conversation-variables-and-variable-assigners-https-di|Enhancing
-  LLM Memory with Conversation Variables and Variable…]]'
-- '[[Changes/Dify/2024-10-23-custom-icon-restoration-we-ve-reintroduced-the-flexibility-and-personalization-o|Custom
-  Icon Restoration]]'
-- '[[Changes/Dify/2024-11-26-llm-memory-processing-corrected-errors-in-llm-memory-handling-11103-and-11106|LLM
-  Memory Processing: Corrected errors in LLM memory handling]]'
+- '[[Changes/Midjourney/2024-12-16-flagship-features|Flagship features]]'
+- '[[Changes/Midjourney/2024-12-16-more-features-information|More Features / Information]]'
+- '[[Changes/Midjourney/2024-12-16-we-re-releasing-an-early-version-of-our-new-model-personalization-infrastructure|we’re
+  releasing an early version of our new model personalization infrastructure today]]'
 source_release: '[[Releases/Dify/dify-2025-01-07-0-15-0-github-193455309-4fc86c99|dify-2025-01-07-0-15-0-github-193455309-4fc86c99]]'
 source_type: github_releases
 theme: memory
@@ -96,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2024-11-26 · Dify · [[Changes/Dify/2024-11-26-llm-memory-processing-corrected-errors-in-llm-memory-handling-11103-and-11106|LLM Memory Processing: Corrected errors in LLM memory handling]]
+- Earlier: 2024-12-16 · Midjourney · [[Changes/Midjourney/2024-12-16-we-re-releasing-an-early-version-of-our-new-model-personalization-infrastructure|we’re releasing an early version of our new model personalization infrastructure today]]
 - Later: 2025-01-07 · OpenHands · [[Changes/OpenHands/2025-01-07-developer-mode-now-defaults-to-storing-data-on-the-filesystem-instead-of-in-memo|Developer mode now defaults to storing data on the filesystem instead of in-memory…]]
 <!-- chronolog:end -->
 

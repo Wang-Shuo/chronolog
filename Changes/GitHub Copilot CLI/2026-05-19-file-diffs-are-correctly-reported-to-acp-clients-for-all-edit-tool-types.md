@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 691dce688ebaca1eafd492f0711cae5ddb766c82a298ae6f7b943671251439c4
+machine_hash: adfd1e924d7d720cc1830a0a5b11ecb47fed2ac97715f460e2ca43306082851e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-feat-messagelogmodal-refactor-modal-structure-and-improve-tab-handling-by-coding|feat(MessageLogModal): refactor modal structure and improve tab handling]]
-- Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-3-editor-experience-changes-in-rust-v0-132-0|3 Editor Experience changes in rust-v0.132.0]]
+- Later: 2026-05-19 · Google Antigravity · [[Changes/Google Antigravity/2026-05-19-first-release|First Release]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

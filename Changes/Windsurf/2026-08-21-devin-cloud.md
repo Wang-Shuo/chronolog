@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b7416f1894afb3f6aaf1a4c881b4f4611f88b4f7ef7181b96750ad11e622bc98
+machine_hash: d247299061de33143d63b8879f845a4ad07e579848bf4ec6889914164777fdb7
 product: windsurf
 product_name: Windsurf
 record:
@@ -54,10 +54,9 @@ record:
   title: Devin Cloud
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface
-  Experience changes in v2.1.239]]'
-- '[[Changes/Lovable/2026-08-21-project-details-when-you-hover-the-sidebar|Project
-  details when you hover the sidebar]]'
+- '[[Changes/Midjourney/2026-08-21-folders-and-organizing|Folders and organizing]]'
+- '[[Changes/OpenCode/2026-08-21-core-preserve-cerebras-max-completion-tokens-without-applying-an-extra-output-ca|Core
+  Preserve Cerebras max_completion_tokens without applying an extra output cap]]'
 - '[[Changes/OpenHands/2026-08-21-2-interface-experience-changes-in-v1-15-0|2 Interface
   Experience changes in v1.15.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-08-21-v3-8-20-0d306190|windsurf-2026-08-21-v3-8-20-0d306190]]'
@@ -97,7 +96,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-2-interface-experience-changes-in-v1-15-0|2 Interface Experience changes in v1.15.0]]
-- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-9-interface-experience-changes-in-1-17-0|9 Interface Experience changes in 1.17.0]]
+- Later: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-4-interface-experience-changes-in-hub-v2-10-0-embedded-terminals-git|4 Interface Experience changes in HUB v2.10.0 — Embedded Terminals, Git…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

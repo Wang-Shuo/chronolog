@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2011007c178ee7f6918cbdc9033a2ad59ac3e2b9ab1fc7237b9441fb4ffbce9d
+machine_hash: cd7cb6409437a6f7cee870c823b36acb153fde54939669b4e45a884fb6ab2d53
 product: lovable
 product_name: Lovable
 record:
@@ -50,9 +50,10 @@ record:
   title: Lovable × Shopify Integration**
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-05-sdk-releases|SDK Releases]]'
 - '[[Changes/ElevenLabs/2025-11-05-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2025-11-05-mcp-tool-configuration|MCP Tool Configuration]]'
+- '[[Changes/Gamma/2025-11-05-official-make-com-integration-https-www-make-com-en-integrations-gamma-app-for-n|Official
+  Make. com integration((source link)]]'
 source_release: '[[Releases/Lovable/lovable-2025-11-05-2025-11-05-d6fd95df|lovable-2025-11-05-2025-11-05-d6fd95df]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-05 · ElevenLabs · [[Changes/ElevenLabs/2025-11-05-mcp-tool-configuration|MCP Tool Configuration]]
+- Earlier: 2025-11-05 · Gamma · [[Changes/Gamma/2025-11-05-official-make-com-integration-https-www-make-com-en-integrations-gamma-app-for-n|Official Make. com integration((source link)]]
 - Later: 2025-11-06 · Cline · [[Changes/Cline/2025-11-06-8-apps-and-integrations-changes-in-v3-36-0|8 Apps and Integrations changes in v3.36.0]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fcf0886d21331529e7ec4c351e846d71d093c379aa118a50233acb52c28a1db8
+machine_hash: 1685c78b736a80460051fe643e63a5e00022a1dd3fa94cef251eb5869f7edffa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -56,12 +56,12 @@ record:
   title: 6 Developer Workflow changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-4-developer-workflow-changes-in-1-17-1|4 Developer Workflow
-  changes in 1.17.1]]'
-- '[[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added
-  OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]'
 - '[[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer
   Workflow changes in v2.1.273]]'
+- '[[Changes/Google Antigravity/2026-09-15-new-permissions-system-terminal-and-git-version-control-for-enterprise|New
+  Permissions System & Terminal and Git version control for Enterprise]]'
+- '[[Changes/Google Antigravity/2026-09-15-the-command-palette-now-opens-over-a-dimmed-backdrop-with-enter-and-exit-animati|The
+  command palette now opens over a dimmed backdrop with enter and exit animations…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: developer-workflow
@@ -118,7 +118,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer Workflow changes in v2.1.273]]
+- Earlier: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-the-command-palette-now-opens-over-a-dimmed-backdrop-with-enter-and-exit-animati|The command palette now opens over a dimmed backdrop with enter and exit animations…]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-5-developer-workflow-changes-in-v1-19-0|5 Developer Workflow changes in v1.19.0]]
 <!-- chronolog:end -->
 

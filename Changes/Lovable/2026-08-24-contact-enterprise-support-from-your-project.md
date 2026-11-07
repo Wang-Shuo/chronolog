@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: eb479ea82b67bbc9ac0b48be45db5d1d20b7e2dc4ed3a1f265dc0586517ab7f1
+machine_hash: 22c37fa398f7cdb29cfe84e27245e07f31eb6c5f608f6c15cccdc3dd2b95a825
 product: lovable
 product_name: Lovable
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-control-agent-models-across-workspaces|Control Agent models across Workspaces]]
-- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-2-enterprise-and-administration-changes-in-1-17-0|2 Enterprise and Administration changes in 1.17.0]]
+- Later: 2026-08-24 · Runway · [[Changes/Runway/2026-08-24-org-admins-now-see-alerts-in-org-settings-when-workspaces-are-missing-sso-enforc|Org Config Alerts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

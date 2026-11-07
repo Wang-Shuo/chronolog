@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: edd24000c2f684ff79e373623107e6d0c5fe1d580e5e1ca20b66b2f0fa069902
+machine_hash: 8771fa603039ca3135a17c8fc172d4ad03f6a1d6e84384a979ce003d9cf2399f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: Number-key selection in the question dialog works for choices 10 and beyond
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-43846-include-completed-commentary-in-the-copy-picker-copyberry|♯43846
-  Include completed commentary in the /copy picker @copyberry]]'
-- '[[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode
-  Added a Sign out row to the panel menu, with /logout in the typed command menu]]'
+- '[[Changes/Google Antigravity/2026-09-18-3-interface-experience-changes-in-hub-v2-15-0-custom-agent-controls|3
+  Interface Experience changes in HUB v2.15.0 — Custom agent controls…]]'
 - '[[Changes/Lovable/2026-09-18-redesigned-project-cards|Redesigned project cards]]'
+- '[[Changes/OpenClaw/2026-09-19-32-interface-experience-changes-in-v2026-9-5|32 Interface
+  Experience changes in v2026.9.5]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-redesigned-project-cards|Redesigned project cards]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-32-interface-experience-changes-in-v2026-9-5|32 Interface Experience changes in v2026.9.5]]
 - Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-13-interface-experience-changes-in-v0-11-4|13 Interface Experience changes in v0.11.4]]
 <!-- chronolog:end -->
 

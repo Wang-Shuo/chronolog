@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5263b17ab06c596a3026d20cefd542853d94e26b7d2dbd940cfdd674d7055e64
+machine_hash: 5b02976ba91d477537f34a65f53ab82b856e2fa6906a14ab0f4c357d6877320f
 product: lovable
 product_name: Lovable
 record:
@@ -54,8 +54,8 @@ record:
   title: Lovable signs in to test pages behind your app's login
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-3-account-and-access-changes-in-v1-0-83|3
-  Account and Access changes in v1.0.83]]'
+- '[[Changes/OpenClaw/2026-09-05-20-account-and-access-changes-in-v2026-9-2|20 Account
+  and Access changes in v2026.9.2]]'
 - '[[Changes/Lovable/2026-09-07-send-app-emails-from-tanstack-start-projects-without-cloud|Send
   app emails from TanStack Start projects without Cloud]]'
 - '[[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account and Access changes in v2.1.265]]
-- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-5-account-and-access-changes-in-rust-v0-154-0|5 Account and Access changes in rust-v0.154.0]]
+- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-8-account-and-access-changes-in-v2026-9-3|8 Account and Access changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

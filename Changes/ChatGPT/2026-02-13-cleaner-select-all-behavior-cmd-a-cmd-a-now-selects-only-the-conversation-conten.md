@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e4ac55217f5b4bb1a6110e6b5fab8d9f0c9f538d77857ca5117bbe51182f7006
+machine_hash: 48dede7b78f7e3e2411ae0279c5d5c00d84c577d709f0bf0e9b5a67c10db11ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-02-12 · Windsurf · [[Changes/Windsurf/2026-02-12-enterprise-team-improvements|Enterprise & Team Improvements]]
-- Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-sync-modal-unexpected-appearance-fixed-an-issue-where-the-sync-modal-would-appea|🐛 Sync modal unexpected appearance. Fixed an issue where the Sync Modal would…]]
+- Later: 2026-02-14 · Midjourney · [[Changes/Midjourney/2026-02-14-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v8-with-you-soon|Thank you so much for your help!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

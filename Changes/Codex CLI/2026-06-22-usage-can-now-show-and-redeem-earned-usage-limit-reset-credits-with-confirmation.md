@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 546eafc79067ea75fd8e1705c1cf8ec249bb4d296f36b8bf50b5564886c8ab14
+machine_hash: 6bffe95a894b43b8d934bc4934f105407506534b739f09a88a7a2fac755f1e90
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-ask-lovable-about-your-workspace-s-credit-usage|Ask Lovable about your workspace’s credit usage]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-display-cache-write-pricing-for-models-that-omit-it|Display cache-write pricing for models that omit it]]
+- Later: 2026-06-22 · Google Antigravity · [[Changes/Google Antigravity/2026-06-22-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota screen redesign]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

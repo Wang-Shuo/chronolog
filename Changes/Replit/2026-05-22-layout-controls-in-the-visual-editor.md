@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8974ab803a8b4032d231b8ca6dc58aaa9b4260cc9207fe3e1cc8dd529b82ccc3
+machine_hash: 12e55478eeb76af714225f64d40aadf1501c9b9abe6189d093ddad54c7b6d411
 product: replit
 product_name: Replit
 record:
@@ -54,12 +54,12 @@ record:
   title: Layout controls in the Visual Editor
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-2-editor-experience-changes-in-v1-0-51|2
-  Editor Experience changes in v1.0.51]]'
-- '[[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff
-  detail view can now be scrolled with the keyboard…]]'
-- '[[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci:
-  implement codebase-aware effort level triage]]'
+- '[[Changes/Google Antigravity/2026-05-22-2-editor-experience-changes-in-hub-v2-0-6-antigravity-ide-integration|2
+  Editor Experience changes in HUB v2.0.6 — Antigravity IDE integration]]'
+- '[[Changes/OpenCode/2026-05-22-redesigned-the-diff-viewer-with-a-file-tree-and-refreshed-layout|Redesigned
+  the diff viewer with a file tree and refreshed layout]]'
+- '[[Changes/OpenCode/2026-05-22-2-editor-experience-changes-in-v1-15-9|2 Editor Experience
+  changes in v1.15.9]]'
 source_release: '[[Releases/Replit/replit-2026-05-22-2026-05-22-243c68d8|replit-2026-05-22-2026-05-22-243c68d8]]'
 source_type: replit_changelog
 theme: editor-experience
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci: implement codebase-aware effort level triage]]
+- Earlier: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-2-editor-experience-changes-in-v1-15-9|2 Editor Experience changes in v1.15.9]]
 - Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-automatically-prune-old-process-log-files-from-copilot-logs-at-startup-to-preven|Automatically prune old process log files from ~/.copilot/logs/ at startup…]]
 <!-- chronolog:end -->
 

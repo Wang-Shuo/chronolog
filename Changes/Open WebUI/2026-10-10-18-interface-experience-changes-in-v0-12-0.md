@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80a8839c37edda1ec2996fbda0aadb00ef7a53f446a709ea48b3e50fb1c22857
+machine_hash: 7d15a4e53f38e285ed10f5922bd458e93f53e24bb7155b7b364208105c85d5f2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -136,8 +136,8 @@ record:
   title: 18 Interface Experience changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-08-clicking-a-sessions-sidebar-row-now-reliably-switches-sessions-during-split-view|Clicking
-  a Sessions sidebar row now reliably switches sessions during split-view…]]'
+- '[[Changes/OpenClaw/2026-10-08-4-interface-experience-changes-in-v2026-9-9|4 Interface
+  Experience changes in v2026.9.9]]'
 - '[[Changes/OpenHands/2026-10-08-test-e2e-open-commits-from-the-tabs-pane-s-own-menu-by-enyst-in-https-github-com|test(e2e):
   open Commits from the tabs pane''s own menu]]'
 - '[[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved
@@ -225,7 +225,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved fullscreen mode]]
-- Later: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat: add compact section navigation on tablets]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-20-interface-experience-changes-in-v2026-10-1|20 Interface Experience changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9eb85ed84140b14ed3e2be31dfedb7ed96ae377b2664d538c301353db6ccd46f
+machine_hash: 152a963660eb0d299a24d6d9ca780aba4b02d0e87c9cd1dffba8fd50501094a6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -126,7 +126,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.27.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-constrained-requirement-values-now-include-source-provenance-enabling-source-awa|Constrained requirement values now include source provenance, enabling source-aware…]]
-- Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-2-developer-workflow-changes-in-rust-v0-97-0|2 Developer Workflow changes in rust-v0.97.0]]
+- Later: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-6-developer-workflow-changes-in-v1-1-50|6 Developer Workflow changes in v1.1.50]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

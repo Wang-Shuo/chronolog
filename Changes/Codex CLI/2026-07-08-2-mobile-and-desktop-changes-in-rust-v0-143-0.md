@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71b43d49c5b3557da9962772ed20f7fa89e54ffaabbb96776a60b2e40f6e7127
+machine_hash: 5c58e4d9b86d0cefe16a0388f0e58818d01a7acd05e357cda1c9179cc9a538fa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/Claude/2026-07-07-claude-cowork-on-web-and-mobile|Claude Cowork on web
-  and mobile]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-07-3-mobile-and-desktop-changes-in-v1-0-69|3
-  Mobile and Desktop changes in v1.0.69]]'
-- '[[Changes/Lovable/2026-07-07-find-in-page-clipboard-and-location-in-the-desktop-app|Find
-  in page, clipboard, and location in the desktop app]]'
+- '[[Changes/OpenCode/2026-07-07-4-mobile-and-desktop-changes-in-v1-17-15|4 Mobile
+  and Desktop changes in v1.17.15]]'
+- '[[Changes/Suno/2026-07-07-open-the-app-and-try-it-now-available-on-the-latest-version-of-the-ios-and-andro|Open
+  the app and try it now]]'
+- '[[Changes/Suno/2026-07-07-on-our-mobile-app-there-s-a-new-way-to-create-a-soccer-anthem|On
+  our mobile app, there''s a new way to create a soccer anthem]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-find-in-page-clipboard-and-location-in-the-desktop-app|Find in page, clipboard, and location in the desktop app]]
+- Earlier: 2026-07-07 · Suno · [[Changes/Suno/2026-07-07-on-our-mobile-app-there-s-a-new-way-to-create-a-soccer-anthem|On our mobile app, there's a new way to create a soccer anthem]]
 - Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To create a Site, start in ChatGPT Work on the web or in Work or Codex…]]
 <!-- chronolog:end -->
 

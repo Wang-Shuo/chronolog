@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47311a47a735f3a9071745c97bafa343b520be2bd633c55058d2a45e906c1c6a
+machine_hash: 01590190fd059691b50085bf19272809af82166adb27d51f79dc53771f62060b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -85,8 +85,8 @@ record:
   title: 9 Automation and Scheduling changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work
-  can also keep projects moving through Scheduled Tasks that run once, repeat…]]'
+- '[[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with|Channel
+  setup warnings are now available as structured Doctor lint findings…]]'
 - '[[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation
   and Scheduling changes in 1.16.0]]'
 - '[[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage):

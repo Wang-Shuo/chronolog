@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b46479950c4c573254edefec5472a9cfa232da47eccb08d88d3db705f322594b
+machine_hash: d3cc66fb69b2d62d9048e78918fa2ceb92e8adce502a6b05c234ac58b0dbc441
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Editor Experience changes in v0.22.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode
-  Added tab icon badges showing pending permissions (blue) and unread…]]'
 - '[[Changes/Open WebUI/2025-12-21-3-editor-experience-changes-in-v0-6-42|3 Editor
   Experience changes in v0.6.42]]'
 - '[[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate
   error messages during streaming for Diff Edit tool when Parallel Tool…]]'
+- '[[Changes/Gamma/2025-12-22-ever-wish-your-logo-looked-just-as-good-on-cards-with-light-and-dark-backgrounds|Adaptive
+  theme logos]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-22-v0-22-0-github-272264073-a982fd82|gemini-cli-2025-12-22-v0-22-0-github-272264073-a982fd82]]'
 source_type: github_releases
 theme: editor-experience
@@ -96,7 +96,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.22.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate error messages during streaming for Diff Edit tool when Parallel Tool…]]
+- Earlier: 2025-12-22 · Gamma · [[Changes/Gamma/2025-12-22-ever-wish-your-logo-looked-just-as-good-on-cards-with-light-and-dark-backgrounds|Adaptive theme logos]]
 - Later: 2025-12-23 · Lovable · [[Changes/Lovable/2025-12-23-mention-code-files-in-chat|Mention code files in chat]]
 <!-- chronolog:end -->
 

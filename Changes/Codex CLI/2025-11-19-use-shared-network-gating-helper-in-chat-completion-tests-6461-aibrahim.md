@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a1bf65ffd6df8b0c90ac605bf3d48e454c01c141f6545514164ce4900b86e88a
+machine_hash: e0b7bd3e47a00fd0a2d2b513737dc2004b0aad563d1292c0d0181a325187b474
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-11-14 · Gemini CLI · [[Changes/Gemini CLI/2025-11-14-add-expected-replacements-to-smart-edit-tool-by-scidomino-in-https-github-com-go|Add expected_replacements to smart-edit tool]]
-- Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience changes in 2.1]]
+- Later: 2025-11-20 · Midjourney · [[Changes/Midjourney/2025-11-20-the-hide-filter-has-changed-to-trash-now-when-you-trash-a-creation-it-won-t-be-v|The “Hide” filter has changed to “Trash”]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

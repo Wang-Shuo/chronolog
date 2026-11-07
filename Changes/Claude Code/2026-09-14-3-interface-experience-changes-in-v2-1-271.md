@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 934db945aa3b9ce9d237ddb38f25b1d85b45a5297cdd24c217a837bdee2259e8
+machine_hash: a2511ea19a9ea405dc0f1e4713a3820b7d44e070b10627d362c4f3961b18b6ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: 3 Interface Experience changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-8-interface-experience-changes-in-1-17-1|8 Interface
-  Experience changes in 1.17.1]]'
 - '[[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface
   Experience changes in v2.1.269]]'
 - '[[Changes/Lovable/2026-09-11-preview-a-remixable-project-without-signing-in|Preview
   a remixable project without signing in]]'
+- '[[Changes/OpenClaw/2026-09-11-5-interface-experience-changes-in-v2026-9-4|5 Interface
+  Experience changes in v2026.9.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: interface-experience
@@ -102,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-preview-a-remixable-project-without-signing-in|Preview a remixable project without signing in]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-5-interface-experience-changes-in-v2026-9-4|5 Interface Experience changes in v2026.9.4]]
 - Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude Code on the web Improved the routine detail page]]
 <!-- chronolog:end -->
 

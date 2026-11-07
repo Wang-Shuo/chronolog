@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 829fc22ef676548bec4c94264210053cd49207b93b3060e579ad3cbda9af9ae3
+machine_hash: 2ab6b0533b4c0b105f900c435a6d79d83e79434b66e6ec803f6326ab1c28f432
 product: dify
 product_name: Dify
 record:
@@ -64,8 +64,8 @@ record:
   title: 6 Account and Access changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account
-  and Access changes in v2.1.307]]'
+- '[[Changes/OpenClaw/2026-10-22-mcp-sign-in-errors-now-give-a-safe-reason-and-tell-you-how-to-sign-in-or-fix-you|MCP
+  sign-in errors now give a safe reason and tell you how to sign in or fix…]]'
 - '[[Changes/Codex CLI/2026-10-23-24-account-and-access-changes-in-rust-v0-164-0|24
   Account and Access changes in rust-v0.164.0]]'
 - '[[Changes/Codex CLI/2026-10-23-the-amazon-bedrock-setup-wizard-is-now-enabled-by-default-with-api-key-entry-gro|The

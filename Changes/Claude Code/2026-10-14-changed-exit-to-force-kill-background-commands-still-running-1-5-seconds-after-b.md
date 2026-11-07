@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c38364e512b47d70aa02aa88f6c2d4fbe4258ee6d9d30c96e322d0d255aaa198
+machine_hash: 90645d358d4d218483565651d16f0290bfd657a43692f3bce59c0d521972f0ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     after being…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-18-interface-experience-changes-in-v0-12-0|18 Interface
-  Experience changes in v0.12.0]]'
 - '[[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat:
   add compact section navigation on tablets]]'
+- '[[Changes/Google Antigravity/2026-10-13-this-release-fixes-the-license-picker-shown-during-onboarding-which-could-grow-t|This
+  release fixes the license picker shown during onboarding, which could grow…]]'
 - '[[Changes/Lovable/2026-10-13-search-for-individual-settings|Search for individual
   settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'

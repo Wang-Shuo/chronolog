@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 27e2a4eb8b7ee7868c206963d019a8e78ace5d9cfcfdc8a7b293e773390bf56f
+machine_hash: d17332e6a4cf1ca729214be7b8fd392dd2559d25f404c37668e7412e63db0338
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|Improved MCP error messages]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-7-apps-and-integrations-changes-in-1-9-0|7 Apps and Integrations changes in 1.9.0]]
+- Later: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-core-fixed-paginated-mcp-tool-catalogs-losing-tool-metadata-and-output-schema-va|Core Fixed paginated MCP tool catalogs losing tool metadata and output schema validation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

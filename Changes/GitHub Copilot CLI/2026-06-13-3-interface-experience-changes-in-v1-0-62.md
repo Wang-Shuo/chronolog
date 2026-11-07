@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 993c3903defd921917b0d24f550e769a82948b37fe4b23e862e50d35e6da05aa
+machine_hash: 599d22e3d9bbd3c5b9fedcb068344b912e52817a3e277d42c21afba2d4cc4891
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,7 +44,8 @@ record:
   title: 3 Interface Experience changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/Google Antigravity/2026-06-11-2-interface-experience-changes-in-hub-v2-1-4-quota-screen-redesign|2
+  Interface Experience changes in HUB v2.1.4 — Quota Screen Redesign…]]'
 - '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added
   footerLinksRegexes setting for regex-matched link badges in the footer row…]]'
 - '[[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added
@@ -98,7 +99,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.62
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]
-- Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-added-import-for-selectively-importing-setup-project-configuration-and-recent-ch|Added /import for selectively importing setup, project configuration, and recent…]]
+- Later: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-core-fixed-duplicate-renderable-ids-that-could-break-tui-rendering|Core Fixed duplicate renderable IDs that could break TUI rendering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

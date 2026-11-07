@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 9e230a90274e41757b6484c4b76db93814a1d88db09d1cba6abd3ff76d6dc599
+machine_hash: ab31524d7d8d1f709bce84c436d6b3da8b38d241fdc5265b1e893d79344ffa55
 product: claude-code
 product_name: Claude Code
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18 Safety and Privacy changes in rust-v0.149.0]]
-- Later: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-run-black-box-pen-tests|Run black-box pen tests]]
+- Later: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-core-answer-permission-requests-triggered-by-subagents-during-opencode-run|Core Answer permission requests triggered by subagents during opencode run]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

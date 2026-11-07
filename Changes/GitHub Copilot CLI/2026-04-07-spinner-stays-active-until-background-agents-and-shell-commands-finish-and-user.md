@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ec1c31614aee85438b726f32bdf5cb3f8e5b4f521c8ec79da7333c12aed20f8
+machine_hash: f17798c6455fdbc92d9f1cd6ca4c5bcc4cdfc479b99ff012d832996ef46a2370
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-spinner-no-longer-appears-stuck-when-a-long-running-async-shell-command-is-activ|Spinner no longer appears stuck when a long-running async shell command is active]]
-- Later: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes in v2.1.97]]
+- Later: 2026-04-07 · Google Antigravity · [[Changes/Google Antigravity/2026-04-07-new-agent-permissions-system-accessible-in-settings|New agent permissions system accessible in settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e311479b8f9a4d8057e707b505da1925bb452db4a951c1220fde36db0bfab4a5
+machine_hash: f98226e66141d55ebeac79872f0d3d87af182ffcb520bb567b6befe77d5be14d
 product: openhands
 product_name: OpenHands
 record:
@@ -51,10 +51,10 @@ record:
   title: 'test: cover conversation context menu'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-14-runaway-repeat-token-detection-now-requires-100-repeat-tokens-for-reduced-false|Runaway
-  repeat token detection now requires 100 repeat tokens for reduced false…]]'
 - '[[Changes/Claude Code/2026-09-15-added-x-claude-code-request-class-x-claude-code-agent-type-x-claude-code-prev-to|Added
   x-claude-code-request-class, x-claude-code-agent-type…]]'
+- '[[Changes/Runway/2026-09-15-you-can-now-mention-agent-directly-in-comments-on-any-asset-page-collaborate-and|Agent
+  in Asset Comments]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-3-context-window-changes-in-v1-0-85|3 Context
   Window changes in v1.0.85]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'

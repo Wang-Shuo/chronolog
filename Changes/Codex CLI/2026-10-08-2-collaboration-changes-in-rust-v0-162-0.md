@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 59fd0990d692497f9d6f43d3b999004da621b0e3bf4997717bed908f26bacff3
+machine_hash: a6afc97c30aea6092ff9085d9b84883e79d5531181bbfa4d12c35b256712aa73
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.162.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-2-collaboration-changes-in-rust-v0-161-0|2 Collaboration changes in rust-v0.161.0]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-13-collaboration-changes-in-v0-12-0|13 Collaboration changes in v0.12.0]]
+- Later: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-shared-folders|SHARED FOLDERS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

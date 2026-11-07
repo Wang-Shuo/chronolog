@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a895745e696f5b5c8a5cdf2cb65695f5ef0780ef1c14c78b55bfc296a96b5b5a
+machine_hash: 93d300d21aa0075cf500a5ffe1e82a6c41c7725878d2fdb0e3e53c832edd87c3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,7 +41,8 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Replit/2026-07-31-connect-more-mcp-servers|Connect more MCP servers]]'
+- '[[Changes/OpenCode/2026-08-01-stopped-mcp-sse-connections-from-getting-stuck-in-reconnect-loops-after-server-e|Stopped
+  MCP SSE connections from getting stuck in reconnect loops after server error…]]'
 - '[[Changes/Cursor/2026-08-03-cursor-can-now-read-write-and-act-across-your-google-workspace|Google
   Workspace Plugins]]'
 - '[[Changes/ElevenLabs/2026-08-03-mcp-server|MCP Server]]'

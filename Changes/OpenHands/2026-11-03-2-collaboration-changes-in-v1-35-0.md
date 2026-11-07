@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d49169f08a61c5bc3697687a31f268177eaf37a850083d93c029fb4b376153fc
+machine_hash: db0c832a83ace0c1ea4ee5b1f6e654b4cff3b53baab10abaaffa0612e35ec97c
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Collaboration changes in v1.35.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-29-knowledge-base-api-responses-trimmed-adding-updating-or-removing-knowledge-base|\U0001F4C3
-  Knowledge base API responses trimmed. Adding, updating or removing knowledge…]]"
 - '[[Changes/Lovable/2026-10-30-see-progress-and-next-steps-when-you-publish|See progress
   and next steps when you publish]]'
 - "[[Changes/Open WebUI/2026-11-03-new-chats-stay-in-sync-a-chat-started-from-the-home-page-keeps-syncing-with-the|\U0001F503
   New chats stay in sync. A chat started from the home page keeps syncing…]]"
+- '[[Changes/OpenClaw/2026-11-03-6-collaboration-changes-in-v2026-10-10|6 Collaboration
+  changes in v2026.10.10]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: collaboration
@@ -87,7 +87,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-new-chats-stay-in-sync-a-chat-started-from-the-home-page-keeps-syncing-with-the|🔃 New chats stay in sync. A chat started from the home page keeps syncing…]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-6-collaboration-changes-in-v2026-10-10|6 Collaboration changes in v2026.10.10]]
 - Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-4-collaboration-changes-in-1-19-0|4 Collaboration changes in 1.19.0]]
 <!-- chronolog:end -->
 

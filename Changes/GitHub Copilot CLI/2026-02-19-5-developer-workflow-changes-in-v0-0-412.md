@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 182c229990db277039e3e993653c7abc66fa5e2295e8ccaffeef24a0ee0dc292
+machine_hash: b1a0f98ab173617a6fb103721084fddcfd5bd298fa3742d9f587d5add2e00e59
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-19 · ChatGPT · [[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|Review code in split-screen views]]
-- Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer Workflow changes in v2.1.50]]
+- Later: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-20-developer-workflow-changes-in-v1-2-7|20 Developer Workflow changes in v1.2.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f176d40b305ce895fe42ea8de148d9588e5a0cf08dd2b4f581129ca4c0153db2
+machine_hash: ec486985596928b020ed3bf4791997fb2b92efbf32112ee070d59e1f0a978592
 product: replit
 product_name: Replit
 record:
@@ -51,12 +51,11 @@ record:
   title: Assistant Features
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-26-editor-returns-and-prefill-the-file-content-into-the-prompt-so-you-can-use-edito|/editor
-  returns and prefill the file content into the prompt, so you can use…]]'
 - '[[Changes/Open WebUI/2024-12-01-2-editor-experience-changes-in-v0-4-7|2 Editor
   Experience changes in v0.4.7]]'
 - '[[Changes/Aider/2024-12-06-2-editor-experience-changes-in-v0-67-0|2 Editor Experience
   changes in v0.67.0]]'
+- '[[Changes/Midjourney/2024-12-11-creating-with-others|Creating with Others]]'
 source_release: '[[Releases/Replit/replit-2024-12-13-2024-12-13-bc147372|replit-2024-12-13-2024-12-13-bc147372]]'
 source_type: replit_changelog
 theme: editor-experience
@@ -97,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-12-06 · Aider · [[Changes/Aider/2024-12-06-2-editor-experience-changes-in-v0-67-0|2 Editor Experience changes in v0.67.0]]
+- Earlier: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-creating-with-others|Creating with Others]]
 - Later: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent can reapply edits with a smarter apply model]]
 <!-- chronolog:end -->
 

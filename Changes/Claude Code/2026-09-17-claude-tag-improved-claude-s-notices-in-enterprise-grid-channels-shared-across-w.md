@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a5f14b8af004338dd77aecde044541e76bb303f95a4046a35d209dc6bc2d7357
+machine_hash: 1278be2684ab3bb6fb4dbcc41b3a30f5009c64dc709538c665ef2ae9575072ba
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     across…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-11-lock-workspace-membership-to-your-identity-provider|Lock
-  workspace membership to your identity provider]]'
-- '[[Changes/Lovable/2026-09-11-edit-an-sso-provider-s-connection-settings|Edit an
-  SSO provider''s connection settings]]'
+- '[[Changes/OpenClaw/2026-09-11-messages-arriving-while-openclaw-is-paused-now-wait-until-it-is-ready-again-and|Messages
+  arriving while OpenClaw is paused now wait until it is ready again…]]'
 - '[[Changes/Replit/2026-09-11-retrieve-prompt-text-for-compliance-workflows|Retrieve
   prompt text for compliance workflows]]'
+- '[[Changes/Google Antigravity/2026-09-15-enterprise-and-business-accounts-can-now-use-the-integrated-terminal-and-git-ver|Enterprise
+  and Business accounts can now use the integrated terminal and Git version…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-11 · Replit · [[Changes/Replit/2026-09-11-retrieve-prompt-text-for-compliance-workflows|Retrieve prompt text for compliance workflows]]
+- Earlier: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-enterprise-and-business-accounts-can-now-use-the-integrated-terminal-and-git-ver|Enterprise and Business accounts can now use the integrated terminal and Git version…]]
 - Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2 Enterprise and Administration changes in v2.1.277]]
 <!-- chronolog:end -->
 

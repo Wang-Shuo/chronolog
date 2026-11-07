@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a66ce5ade1051d7d3e096f48736a9b782ffdbdc8b1c993e9f8032738e01b917
+machine_hash: d1dd1d5f8ca90ad8534ac2b4f714829682d0a46bb87819c74619e2404910b0ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-27-feat-cli-add-macos-run-event-notifications-interactive-only-by-lyalindotcom-in-h|feat(cli):
-  add macOS run-event notifications (interactive only)]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-27-copy-hint-shows-cmd-c-in-ghostty-on-macos-and-right-click-as-an-alternative-for|Copy
-  hint shows cmd+c in Ghostty on macOS and right-click as an alternative for all…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-right-click-paste-no-longer-produces-garbled-text-on-windows|Right-click
   paste no longer produces garbled text on Windows]]'
+- '[[Changes/OpenCode/2026-03-03-31-mobile-and-desktop-changes-in-v1-2-16|31 Mobile
+  and Desktop changes in v1.2.16]]'
+- '[[Changes/OpenCode/2026-03-04-3-mobile-and-desktop-changes-in-v1-2-17|3 Mobile
+  and Desktop changes in v1.2.17]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-right-click-paste-no-longer-produces-garbled-text-on-windows|Right-click paste no longer produces garbled text on Windows]]
+- Earlier: 2026-03-04 · OpenCode · [[Changes/OpenCode/2026-03-04-3-mobile-and-desktop-changes-in-v1-2-17|3 Mobile and Desktop changes in v1.2.17]]
 - Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-13127-nit-disable-on-windows-jif-oai|♯13127 nit: disable on windows @jif-oai]]
 <!-- chronolog:end -->
 

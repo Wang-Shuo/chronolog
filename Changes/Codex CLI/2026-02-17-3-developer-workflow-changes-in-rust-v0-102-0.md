@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b47d32103d91947878f06f5dfcf907b5c38d88f5552f819ecf32cd551bb01f9
+machine_hash: daf8dca2956268a31e761a5d5d7fdd19b9108e5da4ffc082f3edc6efb9997aa3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 3 Developer Workflow changes in rust-v0.102.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-12-27-developer-workflow-changes-in-v0-8-0|27 Developer
-  Workflow changes in v0.8.0]]'
-- '[[Changes/Open WebUI/2026-02-14-2-developer-workflow-changes-in-v0-8-1|2 Developer
-  Workflow changes in v0.8.1]]'
+- '[[Changes/OpenCode/2026-02-15-add-db-command-for-database-inspection-and-querying|Add
+  db command for database inspection and querying]]'
 - '[[Changes/Open WebUI/2026-02-16-4-developer-workflow-changes-in-v0-8-2|4 Developer
   Workflow changes in v0.8.2]]'
+- '[[Changes/OpenCode/2026-02-16-4-developer-workflow-changes-in-v1-2-6|4 Developer
+  Workflow changes in v1.2.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0]]'
 source_type: github_releases
 theme: developer-workflow
@@ -93,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.102.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-4-developer-workflow-changes-in-v0-8-2|4 Developer Workflow changes in v0.8.2]]
+- Earlier: 2026-02-16 · OpenCode · [[Changes/OpenCode/2026-02-16-4-developer-workflow-changes-in-v1-2-6|4 Developer Workflow changes in v1.2.6]]
 - Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-commit-co-author-attribution-now-uses-a-codex-managed-prepare-commit-msg-hook-wi|Commit co-author attribution now uses a Codex-managed prepare-commit-msg hook…]]
 <!-- chronolog:end -->
 

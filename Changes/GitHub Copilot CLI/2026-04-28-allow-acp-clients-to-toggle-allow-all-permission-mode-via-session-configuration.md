@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce4f0425a0f03d94bbfe6e2fae204adcc3e151875a848821807833c16ea28bcb
+machine_hash: ff8ce48ec2a77cdb3a97e3cec2dd673f54cd1fb60c634fa84edd8face315a4ac
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,7 +43,8 @@ record:
   title: Allow ACP clients to toggle allow-all permission mode via session configuration
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-24-security-updates|Security updates]]'
+- '[[Changes/OpenCode/2026-04-25-core-lsp-permission-prompts-now-include-request-details-like-the-operation-file|Core
+  LSP permission prompts now include request details like the operation, file…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-location-based-permission-persistence-is-now-enabled-by-default-so-approvals-car|Location-based
   permission persistence is now enabled by default, so approvals carry…]]'
 - '[[Changes/Gemini CLI/2026-04-28-feat-sandbox-resolve-custom-seatbelt-profiles-from-home-gemini-first-by-mvanhorn|feat(sandbox):

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 70b806c7e094c89f1e10de9b57f4a561f93738381ff7f1f9956020a6c52b79a4
+machine_hash: 352c0380662f619731b33d27bb346a9212b29f4ffdd49f98898997c93747b3f9
 product: replit
 product_name: Replit
 record:
@@ -55,10 +55,10 @@ record:
   title: Intelligent model routing for Enterprise
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-2-model-support-changes-in-v1-16-0|2 Model Support
-  changes in v1.16.0]]'
 - '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
   changes in v2.1.251]]'
+- '[[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core
+  Bedrock reasoning responses no longer get cached into unreplayable empty messages]]'
 - '[[Changes/Replit/2026-08-28-intelligent-model-routing|Intelligent model routing]]'
 source_release: '[[Releases/Replit/replit-2026-08-28-2026-08-28-1fac4f32|replit-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: replit_changelog
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support changes in v2.1.251]]
+- Earlier: 2026-08-28 · OpenCode · [[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core Bedrock reasoning responses no longer get cached into unreplayable empty messages]]
 - Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-gpt-5-6-sol-and-a-faster-sol-fast-tier-are-available-in-the-model-picker-routed|GPT-5.6 Sol and a faster Sol Fast tier are available in the model picker, routed…]]
 <!-- chronolog:end -->
 

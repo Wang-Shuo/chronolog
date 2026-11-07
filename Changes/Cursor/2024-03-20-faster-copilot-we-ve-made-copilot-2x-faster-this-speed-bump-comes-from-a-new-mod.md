@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 286471fac6e2af694efd2ca1e5b72c2728ec51a76d04c8bb32b4be4b2aa9387b
+machine_hash: 0e449c781a74dffcbb92a796ecd9c08135da12f97fed7adf04bb629b7c289279
 product: cursor
 product_name: Cursor
 record:
@@ -63,12 +63,11 @@ record:
   title: 'Faster Copilot++: We''ve made Copilot++ ~2x faster!'
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-02-when-making-api-requests-the-new-keep-alive-parameter-can-be-used-to-control-how|When
-  making API requests, the new keep_alive parameter can be used to control how…]]'
-- '[[Changes/Dify/2024-02-13-pref-optimize-add-hit-count-query-performance-when-dataset-hit-by-takatost-in-ht|pref:
-  optimize add hit count query performance when dataset hit]]'
-- '[[Changes/Ollama/2024-02-22-performance-improvements-up-to-2x-when-running-gemma-https-ollama-com-library-ge|Performance
-  improvements (up to 2x) when running…]]'
+- '[[Changes/Runway/2024-02-26-motion-brush-now-automatically-detects-key-elements-of-an-input-image-making-it|Auto-detect
+  Motion Brush Areas]]'
+- '[[Changes/Midjourney/2024-03-07-how-to-use-it-how-does-it-work|How to use it /
+  how does it work]]'
+- '[[Changes/Midjourney/2024-03-07-what-is-it|What is it?]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -100,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-02-22 · Ollama · [[Changes/Ollama/2024-02-22-performance-improvements-up-to-2x-when-running-gemma-https-ollama-com-library-ge|Performance improvements (up to 2x) when running…]]
-- Later: 2024-04-09 · Dify · [[Changes/Dify/2024-04-09-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This update primarily focuses on enhancing system stability and improving user experience]]
+- Earlier: 2024-03-07 · Midjourney · [[Changes/Midjourney/2024-03-07-what-is-it|What is it?]]
+- Later: 2024-03-21 · Midjourney · [[Changes/Midjourney/2024-03-21-sv-3-a-new-version-of-sv1-with-better-performance-and-more-vibey-than-sv2|--sv 3 A new version of sv1 with better performance and more 'vibey' than sv2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

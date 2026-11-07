@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 056df2cb344ac49a15559e3eb3a21241a9001ab36e076778362ef9dc450f987e
+machine_hash: aa1312ba49b6764200610c950dca1b38de9a04e4ca0097e7de9801d918c7c154
 product: dify
 product_name: Dify
 record:
@@ -49,9 +49,9 @@ record:
   title: 4 Collaboration changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-31587-stabilize-shared-rollout-budget-test-jif-oai|♯31587
-  Stabilize shared rollout budget test @jif-oai]]'
 - '[[Changes/ElevenLabs/2026-07-13-workspaces|Workspaces]]'
+- '[[Changes/OpenClaw/2026-07-13-20-collaboration-changes-in-v2026-7-1|20 Collaboration
+  changes in v2026.7.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-2-collaboration-changes-in-v1-0-71|2 Collaboration
   changes in v1.0.71]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e85bcae16dae8d8319b600f0b740333ce02a4dc39adbd1ea8267f5b066f3a316
+machine_hash: eaeaa8fe62af3ac80ac660965256140c57c47bf899cc9650a9ef994abdb8817c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -86,10 +86,10 @@ record:
   title: 9 Model Support changes in v0.9.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-4-model-support-changes-in-rust-v0-129-0|4 Model
-  Support changes in rust-v0.129.0]]'
-- '[[Changes/Cursor/2026-05-07-added-support-for-general-model-names-for-subagent-configuration-i-e-set-model-o|Added
-  support for general model names for subagent configuration (i.e., set model]]'
+- '[[Changes/OpenCode/2026-05-07-extensions-acp-clients-now-restore-the-last-model-mode-and-effort-when-loading-s|Extensions
+  ACP clients now restore the last model, mode, and effort when loading…]]'
+- '[[Changes/OpenCode/2026-05-07-3-model-support-changes-in-v1-14-40|3 Model Support
+  changes in v1.14.40]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-3-model-support-changes-in-v1-0-44|3 Model
   Support changes in v1.0.44]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca|open-webui-2026-05-09-v0-9-3-github-319872270-bb8aabca]]'
@@ -152,7 +152,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.3
 ## Nearby in Model Support
 
 - Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-3-model-support-changes-in-v1-0-44|3 Model Support changes in v1.0.44]]
-- Later: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-3-model-support-changes-in-v0-9-5|3 Model Support changes in v0.9.5]]
+- Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-3-model-support-changes-in-v1-14-44-2|3 Model Support changes in v1.14.44 + 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

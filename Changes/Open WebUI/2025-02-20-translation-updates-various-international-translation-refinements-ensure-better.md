@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b479509627d8d1515566aa53d58910a160efcea6790963244c39cadd977b6850
+machine_hash: 67e0dcab788144474ee6f889ecfa5c21e49dc355dd0c45e232d05122c90ab848
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,12 +54,12 @@ record:
   title: "**\U0001F30D Translation Updates**"
   type: change
 related_changes:
-- '[[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds
-  keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]'
 - '[[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface
   Experience changes in 0.46.x]]'
 - '[[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface
   Experience changes in 0.25.0]]'
+- '[[Changes/Midjourney/2025-02-20-a-new-folders-menu-is-available-on-both-the-create-and-organize-pages|A
+  new Folders menu is available on both the Create and Organize pages]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-20-v0-5-15-github-201382514-b512c8e3|open-webui-2025-02-20-v0-5-15-github-201382514-b512c8e3]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-02-19 · OpenHands · [[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface Experience changes in 0.25.0]]
-- Later: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]
+- Earlier: 2025-02-20 · Midjourney · [[Changes/Midjourney/2025-02-20-a-new-folders-menu-is-available-on-both-the-create-and-organize-pages|A new Folders menu is available on both the Create and Organize pages]]
+- Later: 2025-03-05 · Gamma · [[Changes/Gamma/2025-03-05-making-edits-just-got-easier-you-can-now-right-click-on-any-inline-or-accent-ima|Making edits just got easier!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

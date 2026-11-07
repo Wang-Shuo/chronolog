@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1e7129c003ae4e44c7777a179b4cfa34e529332f191b0bd32619681c97945fec
+machine_hash: db22cef148e6c62ca01ca1d4de58ebb2a40aed91f4b7dddf22be420409319654
 product: cline
 product_name: Cline
 record:
@@ -49,9 +49,10 @@ record:
     toggle…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-20-sdk-releases|SDK Releases]]'
 - '[[Changes/Open WebUI/2026-04-21-4-apps-and-integrations-changes-in-v0-9-0|4 Apps
   and Integrations changes in v0.9.0]]'
+- '[[Changes/OpenCode/2026-04-21-2-apps-and-integrations-changes-in-v1-14-20|2 Apps
+  and Integrations changes in v1.14.20]]'
 - '[[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4
   Apps and Integrations changes in v2.1.117]]'
 source_release: '[[Releases/Cline/cline-2026-04-22-v3-80-0-github-312385304-eee3574e|cline-2026-04-22-v3-80-0-github-312385304-eee3574e]]'

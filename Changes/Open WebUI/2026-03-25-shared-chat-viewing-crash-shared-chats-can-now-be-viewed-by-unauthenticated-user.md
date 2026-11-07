@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f2067a0000b4503bca9e35ba21f9975a14053ab4aa4deb0a08bae14fbca8ad9
+machine_hash: fc5719b929fcd02e0d8a438ad49fe34957c885f459a6468ecaf95452140027ca
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,10 +49,10 @@ record:
     by unauthenticated…"
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-17-refactor-web-split-share-text-generation-and-add-high-coverage-tests-by-codingon|refactor(web):
-  split share text-generation and add high-coverage tests]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration
   changes in v1.0.10]]'
+- '[[Changes/OpenCode/2026-03-22-2-collaboration-changes-in-v1-3-0|2 Collaboration
+  changes in v1.3.0]]'
 - '[[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added
   managed-settings.d/ drop-in directory alongside managed-settings.json…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69|open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69]]'

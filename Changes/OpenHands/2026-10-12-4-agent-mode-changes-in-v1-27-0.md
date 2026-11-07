@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9fd42261b892558b85d877fa0814db68336a660a779a7b0662229c4e4bac327b
+machine_hash: 47946de2e8493a1390066a0ef2850344a9aba725e3a81161a4b5dca3b2b0978f
 product: openhands
 product_name: OpenHands
 record:
@@ -49,10 +49,12 @@ record:
   title: 4 Agent Mode changes in v1.27.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-7-agent-mode-changes-in-v0-12-0|7 Agent Mode changes
-  in v0.12.0]]'
-- '[[Changes/ElevenLabs/2026-10-12-elevenagents|ElevenAgents]]'
-- '[[Changes/ElevenLabs/2026-10-12-elevenagents-545be2|ElevenAgents]]'
+- '[[Changes/Google Antigravity/2026-10-12-you-can-now-attach-zip-archives-to-a-prompt-and-the-agent-unpacks-them-with-its|Attach
+  .zip archives to a prompt, and the agent unpacks them with its tools]]'
+- '[[Changes/Google Antigravity/2026-10-12-subagent-launches-now-show-as-a-one-line-row-with-a-live-status-icon-like-other|Subagent
+  launches now show as a one-line row with a live status icon, like other…]]'
+- '[[Changes/OpenClaw/2026-10-12-5-agent-mode-changes-in-v2026-10-2|5 Agent Mode changes
+  in v2026.10.2]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e|openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e]]'
 source_type: github_releases
 theme: agent-mode
@@ -94,7 +96,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.27.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-12 · ElevenLabs · [[Changes/ElevenLabs/2026-10-12-elevenagents-545be2|ElevenAgents]]
+- Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-5-agent-mode-changes-in-v2026-10-2|5 Agent Mode changes in v2026.10.2]]
 - Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-3-agent-mode-changes-in-v1-0-97|3 Agent Mode changes in v1.0.97]]
 <!-- chronolog:end -->
 

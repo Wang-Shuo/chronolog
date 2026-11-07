@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 826c83eca2c5ff30a3bf0f958bb01c6ed2013cda970cc2b9998e1f280e5d7a72
+machine_hash: 0a9e1e214108c5588cf7adacdfbab8e92ca7f9cbbc473be0edcbf58f5e59c809
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions):
-  name dialog viewport limits]]'
-- '[[Changes/Codex CLI/2026-10-29-22-apps-and-integrations-changes-in-rust-v0-166-0|22
-  Apps and Integrations changes in rust-v0.166.0]]'
-- '[[Changes/Open WebUI/2026-10-29-2-apps-and-integrations-changes-in-v0-12-5|2 Apps
-  and Integrations changes in v0.12.5]]'
+- '[[Changes/OpenClaw/2026-10-29-2-apps-and-integrations-changes-in-v2026-10-9|2 Apps
+  and Integrations changes in v2026.10.9]]'
+- '[[Changes/OpenCode/2026-10-29-3-apps-and-integrations-changes-in-v2-2-2|3 Apps
+  and Integrations changes in v2.2.2]]'
+- '[[Changes/OpenCode/2026-10-29-5-apps-and-integrations-changes-in-v2-2-1|5 Apps
+  and Integrations changes in v2.2.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: apps-integrations
@@ -97,8 +97,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-apps-and-integrations-changes-in-v0-12-5|2 Apps and Integrations changes in v0.12.5]]
-- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7 Apps and Integrations changes in v2.1.316]]
+- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-5-apps-and-integrations-changes-in-v2-2-1|5 Apps and Integrations changes in v2.2.1]]
+- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-4-apps-and-integrations-changes-in-v2-2-5|4 Apps and Integrations changes in v2.2.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

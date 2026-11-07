@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 533ac51fa57d7ac407faf155d905acf0117c4f2109806a214e73eb627f720041
+machine_hash: 6f2ff3de706372ab6c30419cd88f2942d559a77097f78f05dbf3efaa330bb756
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -43,10 +43,10 @@ record:
   title: Text to Speech
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved
-  memory usage for --resume (68% reduction for users with many sessions)…]]'
-- '[[Changes/Dify/2026-02-03-feat-use-xdist-to-make-make-test-faster-by-yihong0618-in-https-github-com-langge|feat:
-  use xdist to make make test faster]]'
+- '[[Changes/OpenCode/2026-02-04-desktop-faster-end-to-end-tests|Desktop Faster end-to-end
+  tests]]'
+- '[[Changes/OpenCode/2026-02-04-prevent-memory-leaks-from-abortcontroller-closures|Prevent
+  memory leaks from AbortController closures]]'
 - '[[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various
   bug fixes and performance improvements]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-09-2026-02-09-4b81b7a2|elevenlabs-2026-02-09-2026-02-09-4b81b7a2]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-05 · Windsurf · [[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
-- Later: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-3-reliability-and-performance-changes-in-1-13-0|3 Reliability and Performance changes in 1.13.0]]
+- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-core-memory-leak-fixed-in-platform-fetch-for-events|Core Memory leak fixed in platform fetch for events]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

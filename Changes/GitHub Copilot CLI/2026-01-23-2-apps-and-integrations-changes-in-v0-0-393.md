@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 465b55458eae959fb8244fc3233cbf63729ee993699060c750ca918c08db4239
+machine_hash: 06667c713f8a91cc5a9adac867bf0e53744880d1f93d278b7a4ff2451e61f28d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Apps and Integrations changes in v0.0.393
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-22-custom-agents-with-mcp-servers-avoid-unnecessary-restarts|Custom
-  agents with MCP servers avoid unnecessary restarts]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-22-2-apps-and-integrations-changes-in-v0-0-389|2
-  Apps and Integrations changes in v0.0.389]]'
+- '[[Changes/OpenCode/2026-01-22-core-add-chat-headers-hook-and-update-codex-and-copilot-plugins-to-use-it-thanks|Core
+  Add chat.headers hook and update codex and copilot plugins to use…]]'
+- '[[Changes/OpenCode/2026-01-22-core-print-mcp-stderr-to-opencode-log-file|Core Print
+  MCP stderr to OpenCode log file]]'
 - '[[Changes/Claude Code/2026-01-23-2-apps-and-integrations-changes-in-v2-1-19|2 Apps
   and Integrations changes in v2.1.19]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-23-v0-0-393-github-279409619-34c2559f|github-copilot-cli-2026-01-23-v0-0-393-github-279409619-34c2559f]]'

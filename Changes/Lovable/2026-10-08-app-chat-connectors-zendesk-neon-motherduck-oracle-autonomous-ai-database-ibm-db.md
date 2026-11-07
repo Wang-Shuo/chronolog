@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5975c4ad783bc08484c633c6e3c0c4a2e1db2a04a6c91e4cbc3a09e5cd9e6a75
+machine_hash: 4a47e8e647e11cad0b3c1775eaa955e004ebc27867e5a3a4eede63b315edf225
 product: lovable
 product_name: Lovable
 record:
@@ -84,12 +84,12 @@ record:
   title: App + chat connectors
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-14-apps-and-integrations-changes-in-v2-1-295|14
-  Apps and Integrations changes in v2.1.295]]'
 - '[[Changes/Codex CLI/2026-10-08-20-apps-and-integrations-changes-in-rust-v0-162-0|20
   Apps and Integrations changes in rust-v0.162.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-08-2-apps-and-integrations-changes-in-v1-0-94|2
   Apps and Integrations changes in v1.0.94]]'
+- '[[Changes/Google Antigravity/2026-10-08-construct-and-display-custom-user-interfaces-inside-the-side-panel-as-part-of-in|Construct
+  and display custom user interfaces inside the side panel as part…]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-08-2026-10-08-e997c19c|lovable-2026-10-08-2026-10-08-e997c19c]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -141,7 +141,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-08-2-apps-and-integrations-changes-in-v1-0-94|2 Apps and Integrations changes in v1.0.94]]
+- Earlier: 2026-10-08 · Google Antigravity · [[Changes/Google Antigravity/2026-10-08-construct-and-display-custom-user-interfaces-inside-the-side-panel-as-part-of-in|Construct and display custom user interfaces inside the side panel as part…]]
 - Later: 2026-10-08 · Ollama · [[Changes/Ollama/2026-10-08-readme-add-oxi-to-community-integrations-by-maziluiosif-in-https-github-com-olla|README: add oxi to community integrations]]
 <!-- chronolog:end -->
 

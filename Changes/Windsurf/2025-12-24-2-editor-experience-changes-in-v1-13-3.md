@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d7ed95c291a5fab92fdc1f6c6bd5e8b854a031f930a983c5564c3730934821df
+machine_hash: e76e7a719bb5fd95ec2c38328dc379a1c30d7d4009830e1922ed9517f720c5ed
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Editor Experience changes in v1.13.3
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate
-  error messages during streaming for Diff Edit tool when Parallel Tool…]]'
+- '[[Changes/Gamma/2025-12-22-ever-wish-your-logo-looked-just-as-good-on-cards-with-light-and-dark-backgrounds|Adaptive
+  theme logos]]'
 - '[[Changes/Gemini CLI/2025-12-22-4-editor-experience-changes-in-v0-22-0|4 Editor
   Experience changes in v0.22.0]]'
 - '[[Changes/Lovable/2025-12-23-mention-code-files-in-chat|Mention code files in chat]]'

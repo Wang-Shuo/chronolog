@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1eda9f97e1d38e0c3535679d0ac1ac3a97fdfef6927ebb46e6d66a02b0859185
+machine_hash: 305f89fcd9f44e03b869c463449ea7a28b0cdd7fc0bf1983f92ab4b7d0a596ff
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,10 +54,10 @@ record:
   title: Reasoning effort picker respects model capabilities
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface
-  Experience changes in v2.1.153]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-7-interface-experience-changes-in-v1-0-55|7
   Interface Experience changes in v1.0.55]]'
+- '[[Changes/OpenCode/2026-05-28-terminal-kept-session-navigation-working-while-prompt-modes-are-open|Terminal
+  Kept session navigation working while prompt modes are open]]'
 - '[[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude
   agents: slash-command autocomplete in the dispatch input now matches substrings]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448|github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448]]'

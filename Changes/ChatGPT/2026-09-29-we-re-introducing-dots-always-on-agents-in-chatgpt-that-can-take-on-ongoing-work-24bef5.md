@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 563f4699a16bd2fa3c372230d148973fc9ab98ef113e0a6f440b08b6785d5fa6
+machine_hash: 56c8cbfc431bfff0b48118c1fbd46331775b8ee7d4989faad815202e32adfea6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,11 +54,11 @@ record:
   title: ChatGPT introduces dots
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-11-agent-mode-changes-in-rust-v0-158-0|11 Agent
-  Mode changes in rust-v0.158.0]]'
 - '[[Changes/ElevenLabs/2026-09-28-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-queue-exit-commands-while-an-agent-response-is-still-running|Queue
   exit commands while an agent response is still running]]'
+- '[[Changes/Google Antigravity/2026-09-28-2-agent-mode-changes-in-hub-v2-18-1-manage-install-plugins|2
+  Agent Mode changes in HUB v2.18.1 — Manage & Install plugins…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|chatgpt-2026-09-29-meet-your-dot-8b9f914b]]'
 source_type: chatgpt_changelog
 theme: agent-mode
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-queue-exit-commands-while-an-agent-response-is-still-running|Queue exit commands while an agent response is still running]]
+- Earlier: 2026-09-28 · Google Antigravity · [[Changes/Google Antigravity/2026-09-28-2-agent-mode-changes-in-hub-v2-18-1-manage-install-plugins|2 Agent Mode changes in HUB v2.18.1 — Manage & Install plugins…]]
 - Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-2-agent-mode-changes-in-v2-1-285|2 Agent Mode changes in v2.1.285]]
 <!-- chronolog:end -->
 

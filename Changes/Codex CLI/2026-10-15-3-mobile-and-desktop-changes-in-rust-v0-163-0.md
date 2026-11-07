@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e1d15646321911ce2094b6f60a4702155add23a8c9b3f2f46f74a1b6d6ae1ac
+machine_hash: 7f118ab1d487d49a5e0597722fc5bb7b8f4cc9588f7e3d9f8015f6d22913b136
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-improved-artifacts-pages-claude-writes-now-paint-the-band-above-a-sticky-header|Improved artifacts: pages Claude writes now paint the band above a sticky header…]]
-- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present or export. Present directly from ChatGPT]]
+- Later: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-2-mobile-and-desktop-changes-in-hub-v2-24-0-redesigned-side-panel|2 Mobile and Desktop changes in HUB v2.24.0 — Redesigned side panel…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

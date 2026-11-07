@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73ee8ec208f27e4a4b4e0b9e1d7a7a7771d80d6b22242982b27a3ab44756cbe6
+machine_hash: 16af5b0d513184b00d0f84dc737905846df417aea4cd48fc4421cad9ae538807
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Account and Access changes in rust-v0.117.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-docs-core-add-authentication-guide-for-remote-subagents-by-adamfweidman-in-https|docs(core):
-  add authentication guide for remote subagents]]'
+- '[[Changes/Google Antigravity/2026-03-25-improved-mcp-authentication|Improved MCP
+  authentication]]'
 - '[[Changes/Open WebUI/2026-03-25-11-account-and-access-changes-in-v0-8-11|11 Account
   and Access changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP
@@ -109,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.117.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…]]
-- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-2-account-and-access-changes-in-1-13-3|2 Account and Access changes in 1.13.3]]
+- Later: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-2-account-and-access-changes-in-v1-3-3|2 Account and Access changes in v1.3.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

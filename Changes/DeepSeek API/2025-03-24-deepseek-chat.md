@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5f804f24e6d32ec702334225f8876eea930c685d45162a7f409b6a12c095fd37
+machine_hash: cdc5c856f270f4c73e2e3eedbd9b64498f88d528d62e611dae730b319ab48973
 product: deepseek-api
 product_name: DeepSeek API
 record:

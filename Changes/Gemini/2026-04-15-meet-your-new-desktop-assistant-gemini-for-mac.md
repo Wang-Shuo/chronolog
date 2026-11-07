@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a0aef0960bb4a1af5cede9bd7d2b8139e71aa65c49219e2f6afff7c3fc97bd21
+machine_hash: 2a7e97ca6db71965df33f4e9bae049cc932952bca5eb4cb120b510c5ec0f7a5e
 product: gemini
 product_name: Gemini
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-17414-fix-thread-list-cwd-filtering-for-windows-verbatim-paths-etraut-openai|♯17414 Fix thread/list cwd filtering for Windows verbatim paths @etraut-openai]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows: PowerShell tool is progressively rolling out]]
+- Later: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-2-mobile-and-desktop-changes-in-v1-4-5|2 Mobile and Desktop changes in v1.4.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

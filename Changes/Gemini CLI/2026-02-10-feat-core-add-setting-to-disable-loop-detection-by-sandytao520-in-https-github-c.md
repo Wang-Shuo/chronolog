@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 343fc4e3d5adceeae9b4d805fc27854290229e60ebb61c69f321967cef804f7b
+machine_hash: 07ddf36304d19024c0e57068273d1806a56b4a4a62dccfc3a890876e142af093
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 'feat(core): add setting to disable loop detection'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent
-  automations]]'
+- '[[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and|Sounds
+  is a new Create mode that lets you create individual one-shot samples…]]'
 - '[[Changes/Gemini CLI/2026-01-28-12-automation-and-scheduling-changes-in-v0-26-0|12
   Automation and Scheduling changes in v0.26.0]]'
 - '[[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3 Automation and Scheduling changes in v0.27.0]]
-- Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-async-pipeline-operations-pipeline-operations-now-run-asynchronously-instead-of|🔧 Async pipeline operations. Pipeline operations now run asynchronously instead…]]
+- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core SessionPrompt.shell() now triggers loop if messages are queued]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

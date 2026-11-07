@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38c58a6bac874086c87e9b1dd5e8842872016205f8a0c39b8a24e70fe4762cb6
+machine_hash: c870aa760435429532975f44d8cc6a2a977804bb8872c243df4ccea858bfde34
 product: open-webui
 product_name: Open WebUI
 record:
@@ -138,7 +138,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Collaboration
 
 - Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-5-collaboration-changes-in-1-17-0|5 Collaboration changes in 1.17.0]]
-- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-4-collaboration-changes-in-gpt-5-6-sol-sign-in-inside-previews|4 Collaboration changes in GPT-5.6 Sol, sign-in inside previews…]]
+- Later: 2026-08-28 · Gamma · [[Changes/Gamma/2026-08-28-we-ve-shipped-a-lot-since-our-last-update-here-are-five-highlights-that-make-it|We’ve shipped a lot since our last update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

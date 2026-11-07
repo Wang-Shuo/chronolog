@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ac6d295564b6703ef521eea6926bf5dbf7d30e2488f5a9a219048f443c094ec
+machine_hash: e209c3bc71fb7f69b5163578f9202611ca0216b71a36354081dc2fd6a3a0a029
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,8 +59,8 @@ record:
   title: 6 Context Window changes in rust-v0.153.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-9-context-window-changes-in-rust-v0-152-0|9 Context
-  Window changes in rust-v0.152.0]]'
+- '[[Changes/Google Antigravity/2026-09-02-you-can-now-highlight-portions-of-antigravity-responses-to-quote-as-context-for|Highlight
+  portions of Antigravity responses to quote as context for follow-up prompts]]'
 - '[[Changes/Ollama/2026-09-02-report-cached-prompt-tokens|Report cached prompt tokens]]'
 - '[[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context
   Window changes in v2.1.260]]'
@@ -117,7 +117,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.153.0
 ## Nearby in Context Window
 
 - Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context Window changes in v2.1.260]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-changed-context-token-counting-to-use-a-local-estimate-when-the-token-counting-a|Changed /context token counting to use a local estimate when the token-counting…]]
+- Later: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-11-context-window-changes-in-v2026-9-1|11 Context Window changes in v2026.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

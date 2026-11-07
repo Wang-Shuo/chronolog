@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8527c278dfd469335afc2ed37031a700a78b6557a468a449829053983aadcd85
+machine_hash: 9c4b28e4fd5c1aa95e3d9b7e0b09674dc0b7b7b4f53d1e543d194d9d6b298dac
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Voice and Audio changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-11-03-4-voice-and-audio-changes-in-v0-13-0|4 Voice and
-  Audio changes in v0.13.0]]'
 - '[[Changes/Dify/2026-11-04-2-voice-and-audio-changes-in-1-19-0|2 Voice and Audio
   changes in 1.19.0]]'
+- '[[Changes/OpenClaw/2026-11-05-7-voice-and-audio-changes-in-v2026-11-1|7 Voice and
+  Audio changes in v2026.11.1]]'
 - '[[Changes/Codex CLI/2026-11-06-4-voice-and-audio-changes-in-rust-v0-167-0|4 Voice
   and Audio changes in rust-v0.167.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'

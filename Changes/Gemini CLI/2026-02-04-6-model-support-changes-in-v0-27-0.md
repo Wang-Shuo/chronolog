@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8398ba268ee34c10659d50ffc89a23b34b28bb9ebb856e8b9c3e7d6b4b7737c9
+machine_hash: 86c0b1386a8f423cfb6053d2b336c90254cd1eb226aad7c1ff433b30ee399026
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -107,7 +107,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.27.0
 ## Nearby in Model Support
 
 - Earlier: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-2-model-support-changes-in-rust-v0-95-0|2 Model Support changes in rust-v0.95.0]]
-- Later: 2026-02-05 · Claude · [[Changes/Claude/2026-02-05-claude-opus-4-6-launch|Claude Opus 4.6 launch]]
+- Later: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-6-model-support-changes-in-v1-1-50|6 Model Support changes in v1.1.50]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

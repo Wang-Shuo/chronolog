@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 975452bfc87125bff16845c1a9fa80aa413ab6e8eb49196c8494d87a22559b8c
+machine_hash: f8507412e2c2bfa56188b0ab5807df1eaa153929372979fb6fb078a245c44bf8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Model Support changes in v1.0.62
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring
-  GPT-5.2 models]]'
 - '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added
   enforceAvailableModels managed setting]]'
 - '[[Changes/Ollama/2026-06-12-improved-recurrent-model-support-with-per-boundary-states-from-the-gated-delta-k|Improved
   recurrent model support with per-boundary states from the gated-delta kernels]]'
+- '[[Changes/OpenCode/2026-06-12-2-model-support-changes-in-v1-17-4|2 Model Support
+  changes in v1.17.4]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: model-support
@@ -100,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.62
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-12 · Ollama · [[Changes/Ollama/2026-06-12-improved-recurrent-model-support-with-per-boundary-states-from-the-gated-delta-k|Improved recurrent model support with per-boundary states from the gated-delta kernels]]
+- Earlier: 2026-06-12 · OpenCode · [[Changes/OpenCode/2026-06-12-2-model-support-changes-in-v1-17-4|2 Model Support changes in v1.17.4]]
 - Later: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug now requires a description before submitting, and no longer uses…]]
 <!-- chronolog:end -->
 

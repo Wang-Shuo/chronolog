@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 25bd6b84843c3a853757e2a8f9b7a73ac4c1de3b03eb47634fda36ff34ac97a3
+machine_hash: cf155481f763baddfd2cf9aa73d732ddcb0983bb2822644f87a100dba833b6ed
 product: cline
 product_name: Cline
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed --plugin-dir so local dev copies now override installed marketplace…]]
-- Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-4-apps-and-integrations-changes-in-v1-0-5|4 Apps and Integrations changes in v1.0.5]]
+- Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-2-apps-and-integrations-changes-in-v1-2-25|2 Apps and Integrations changes in v1.2.25]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

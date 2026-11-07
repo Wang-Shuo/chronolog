@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 51a3a6a718790f23c0f2d315b4091c9ac35302f513875627830b17a7ae89295f
+machine_hash: d67a216ccec1169f23011088b59008dcd05d3c67ae219274ccde64b6f6441708
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(cli): add macOS run-event notifications (interactive only)'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-23-skill-files-saved-with-a-utf-8-bom-common-on-windows-editors-now-load-correctly|Skill
-  files saved with a UTF-8 BOM (common on Windows editors) now load correctly…]]'
-- '[[Changes/Codex CLI/2026-02-25-2-mobile-and-desktop-changes-in-rust-v0-105-0|2
-  Mobile and Desktop changes in rust-v0.105.0]]'
+- '[[Changes/OpenCode/2026-02-25-2-mobile-and-desktop-changes-in-v1-2-14-1|2 Mobile
+  and Desktop changes in v1.2.14 + 1]]'
 - '[[Changes/Codex CLI/2026-02-26-2-mobile-and-desktop-changes-in-rust-v0-106-0|2
   Mobile and Desktop changes in rust-v0.106.0]]'
+- '[[Changes/OpenCode/2026-02-26-3-mobile-and-desktop-changes-in-v1-2-15|3 Mobile
+  and Desktop changes in v1.2.15]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-27-v0-31-0-github-291545882-debd3ec1|gemini-cli-2026-02-27-v0-31-0-github-291545882-debd3ec1]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-2-mobile-and-desktop-changes-in-rust-v0-106-0|2 Mobile and Desktop changes in rust-v0.106.0]]
+- Earlier: 2026-02-26 · OpenCode · [[Changes/OpenCode/2026-02-26-3-mobile-and-desktop-changes-in-v1-2-15|3 Mobile and Desktop changes in v1.2.15]]
 - Later: 2026-02-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-27-copy-hint-shows-cmd-c-in-ghostty-on-macos-and-right-click-as-an-alternative-for|Copy hint shows cmd+c in Ghostty on macOS and right-click as an alternative for all…]]
 <!-- chronolog:end -->
 

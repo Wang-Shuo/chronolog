@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e4a214aba4fc74a0380fb4c36f886d2a5b9716b84228e49005e27e8084dc078
+machine_hash: 46d621e5917fd3bd4237c56d1da7481a86b0b5873474550d30762fa7e17fc63c
 product: dify
 product_name: Dify
 record:
@@ -55,10 +55,10 @@ record:
   title: 4 Apps and Integrations changes in 1.11.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-10-apps-and-integrations-changes-in-rust-v0-81-0|10
-  Apps and Integrations changes in rust-v0.81.0]]'
-- '[[Changes/Gemini CLI/2026-01-14-9-apps-and-integrations-changes-in-v0-24-0|9 Apps
-  and Integrations changes in v0.24.0]]'
+- '[[Changes/OpenCode/2026-01-14-3-apps-and-integrations-changes-in-v1-1-19|3 Apps
+  and Integrations changes in v1.1.19]]'
+- '[[Changes/OpenCode/2026-01-14-sdk-add-missing-metadata-and-ask-definitions-to-toolcontext-type|SDK
+  Add missing metadata() and ask() definitions to ToolContext type]]'
 - '[[Changes/Codex CLI/2026-01-15-9207-propagate-mcp-disabled-reason-gt-oai|♯9207
   Propagate MCP disabled reason @gt-oai]]'
 source_release: '[[Releases/Dify/dify-2026-01-15-1-11-4-github-276958085-bf7e8274|dify-2026-01-15-1-11-4-github-276958085-bf7e8274]]'
@@ -100,7 +100,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.4
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-9207-propagate-mcp-disabled-reason-gt-oai|♯9207 Propagate MCP disabled reason @gt-oai]]
-- Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-accepting-an-mcp-elicitation-now-sends-an-empty-json-payload-instead-of-null-to|Accepting an MCP elicitation now sends an empty JSON payload instead of null…]]
+- Later: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-core-official-copilot-plugin|Core Official Copilot plugin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59e119f93b12b055722efaea651bc7dae30faed576676aa9a3b2c2018778c8ca
+machine_hash: eba294b1e8a3b3d4a1366c94063dc395cbe916c15f01fbb244bba11c08124f3a
 product: replit
 product_name: Replit
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-refactor-create-shared-react-i18next-mock-to-reduce-duplication-by-lyzno1-in-htt|refactor: create shared react-i18next mock to reduce duplication]]
-- Later: 2026-01-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-07-add-share-and-share-gist-flags-for-session-sharing-in-non-interactive-mode|Add --share and --share-gist flags for session sharing in non-interactive mode]]
+- Later: 2026-01-04 · OpenCode · [[Changes/OpenCode/2026-01-04-core-handle-notfounderror-for-non-shared-sessions-in-sync|Core Handle NotFoundError for non-shared sessions in sync]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

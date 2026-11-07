@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4676459165c9d9de71a4772d3599399ac765b43e7f2a85500b5befe7a814a5a3
+machine_hash: a7e6e6b94b325cab1c57c40872d2950085401277011853034405d5deefa4210a
 product: ollama
 product_name: Ollama
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-10-context-window-changes-in-rust-v0-162-0|10 Context Window changes in rust-v0.162.0]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context Window changes in v2.1.296]]
+- Later: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-model-retries-and-context-one-shot-model-requests-through-the-gateway-retain-the|Model retries and context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

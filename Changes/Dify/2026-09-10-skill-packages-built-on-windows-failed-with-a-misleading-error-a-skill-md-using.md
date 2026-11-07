@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f82978a5a27bad82365f6039c18eca6a0742f0a32e76113023aae6a04c3ea68c
+machine_hash: 0aaab4be1a90327916876c6af19ed900e5b99bb15c5e96f9725a5e53136fc0ee
 product: dify
 product_name: Dify
 record:
@@ -51,11 +51,11 @@ record:
   title: '**Skill packages built on Windows failed with a misleading error.** A `SKILL.md`…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn
-  a sketch into an image]]'
 - '[[Changes/Windsurf/2026-09-08-devin-desktop|Devin Desktop]]'
 - '[[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6
   Mobile and Desktop changes in rust-v0.154.0]]'
+- '[[Changes/Google Antigravity/2026-09-09-quote-or-add-selected-text-to-chat-using-cmd-l-or-cmd-i-on-macos-or-ctrl-l-and-c|Quote
+  or add selected text to chat using Cmd+L or Cmd+I on macOS, or Ctrl+L…]]'
 source_release: '[[Releases/Dify/dify-2026-09-10-1-17-1-github-386157159-e472b6fe|dify-2026-09-10-1-17-1-github-386157159-e472b6fe]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-mobile-and-desktop-changes-in-rust-v0-154-0|6 Mobile and Desktop changes in rust-v0.154.0]]
+- Earlier: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-quote-or-add-selected-text-to-chat-using-cmd-l-or-cmd-i-on-macos-or-ctrl-l-and-c|Quote or add selected text to chat using Cmd+L or Cmd+I on macOS, or Ctrl+L…]]
 - Later: 2026-09-10 · Windsurf · [[Changes/Windsurf/2026-09-10-introducing-fusion-in-devin-desktop-and-devin-cli-https-exafunction-github-io-pu|!Introducing Fusion in Devin Desktop and Devin…]]
 <!-- chronolog:end -->
 

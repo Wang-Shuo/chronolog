@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f0bbd4fdf5aba0ea7cfd9633d124bd584a0f8cd9ac8b32dec3cfc6beda298dff
+machine_hash: 5d7305e308a0cf064f37417eb1f95b53c24ca6e90aa08c6b695e42d19e0f8637
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,8 +57,10 @@ record:
     agent's…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-16-environments-api|Environments API]]'
-- '[[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]'
+- '[[Changes/OpenClaw/2026-10-16-2-agent-mode-changes-in-v2026-10-4|2 Agent Mode changes
+  in v2026.10.4]]'
+- '[[Changes/OpenClaw/2026-10-18-2-agent-mode-changes-in-v2026-10-5|2 Agent Mode changes
+  in v2026.10.5]]'
 - '[[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode
   changes in v2.1.304]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
@@ -98,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-16 · Cursor · [[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]
+- Earlier: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-2-agent-mode-changes-in-v2026-10-5|2 Agent Mode changes in v2026.10.5]]
 - Later: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-javascript-sdk|JavaScript SDK]]
 <!-- chronolog:end -->
 

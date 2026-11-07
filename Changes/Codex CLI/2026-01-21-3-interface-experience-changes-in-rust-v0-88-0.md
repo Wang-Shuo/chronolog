@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 75ea2d2b9486fe474a04e20760c36d36a82cdff8b3005fb227a5274597d62067
+machine_hash: 170b8773b52375c3a28509c91b62e40c40c50ddab5ac728633ffd533bb4e76de
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Interface Experience changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding
-  a status indicator above the chat until the conversation is ready]]'
-- '[[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added
-  searchable version selector for easier navigation]]'
+- '[[Changes/OpenCode/2026-01-19-2-interface-experience-changes-in-v1-1-26|2 Interface
+  Experience changes in v1.1.26]]'
 - '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
   backspace to delete pasted text as a single token instead of one character…]]'
+- '[[Changes/OpenCode/2026-01-20-3-interface-experience-changes-in-v1-1-28|3 Interface
+  Experience changes in v1.1.28]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'
 source_type: github_releases
 theme: interface-experience
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.88.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved backspace to delete pasted text as a single token instead of one character…]]
+- Earlier: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-3-interface-experience-changes-in-v1-1-28|3 Interface Experience changes in v1.1.28]]
 - Later: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-3-interface-experience-changes-in-v0-25-0|3 Interface Experience changes in v0.25.0]]
 <!-- chronolog:end -->
 

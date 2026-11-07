@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e0660632539941023ae0df7bcb2c440ba5e017c8684a6ad08e78772319ec8ac9
+machine_hash: 0e282547cb844d08b4bcf1308af3e72f2feb28d08da61120a5726aadfbeb4aa9
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -47,10 +47,9 @@ record:
   title: Supported LLM Models
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-23-3-model-support-changes-in-rust-v0-48-0|3 Model
-  Support changes in rust-v0.48.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-improved-prompting-for-sonnet-4-5-to-reduce-the-number-of-intermediate-markdown|Improved
   prompting for Sonnet 4.5 to reduce the number of intermediate markdown…]]'
+- '[[Changes/Runway/2025-10-24-create-your-own-custom-node-based-workflows-chaining-together-multiple-models-mo|Workflows]]'
 - '[[Changes/Cline/2025-10-27-3-model-support-changes-in-v3-34-1|3 Model Support changes
   in v3.34.1]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-10-27-2025-10-27-a0636583|elevenlabs-2025-10-27-2025-10-27-a0636583]]'

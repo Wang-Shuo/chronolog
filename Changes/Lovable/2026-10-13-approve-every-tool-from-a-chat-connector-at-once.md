@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a6c887ae69af596bf730c7263dd2299d192c4e648fe38fd7db12b0284eb1d49f
+machine_hash: 5a50e69e2958a74a455ff48781b06f3755915a15187b9709b5f41fd13e0a2827
 product: lovable
 product_name: Lovable
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-4-apps-and-integrations-changes-in-v1-0-97|4 Apps and Integrations changes in v1.0.97]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7 Apps and Integrations changes in v2.1.300]]
+- Later: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-7-apps-and-integrations-changes-in-v2026-10-3|7 Apps and Integrations changes in v2026.10.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

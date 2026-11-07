@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 420ba0535c113df988cbb1e6460a3aebae5d4889d9d7f6a6ff48031e6764d683
+machine_hash: c4af52db810c1485b40fb7245ac093b0e3a4086496ccc97f439abd425a12afc8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2024-04-22 · Dify · [[Changes/Dify/2024-04-22-2-multimodal-input-changes-in-0-6-4|2 Multimodal Input changes in 0.6.4]]
-- Later: 2024-09-20 · Dify · [[Changes/Dify/2024-09-20-feat-add-hunyuan-vision-by-muzea-in-https-github-com-langgenius-dify-pull-8529|feat: add hunyuan-vision]]
+- Later: 2024-07-01 · Runway · [[Changes/Runway/2024-07-01-gen-3-alpha-is-the-first-of-an-upcoming-series-of-models-trained-by-runway-on-a|Gen-3 Alpha Text to Video]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

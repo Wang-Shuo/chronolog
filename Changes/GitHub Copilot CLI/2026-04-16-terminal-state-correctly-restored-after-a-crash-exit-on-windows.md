@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c3dada421ccaca2367c45ad93b7770935b21f0d23983a8406eda047e14af37c
+machine_hash: d05d6504b932166046026d3bf24ea5d14945c7582495a78c23eabede706cc3f6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,8 +40,8 @@ record:
   title: Terminal state correctly restored after a crash exit on Windows
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-15-2-developer-workflow-changes-in-v1-0-27|2
-  Developer Workflow changes in v1.0.27]]'
+- '[[Changes/OpenCode/2026-04-15-2-developer-workflow-changes-in-v1-4-4|2 Developer
+  Workflow changes in v1.4.4]]'
 - '[[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer
   Workflow changes in v2.1.111]]'
 - '[[Changes/Claude Code/2026-04-16-added-ultrareview-for-running-comprehensive-code-review-in-the-cloud-using-paral|Added

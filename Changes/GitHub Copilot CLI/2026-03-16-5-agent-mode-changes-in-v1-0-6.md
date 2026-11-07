@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4999eb3a70336e4e1f6ebb065d603c66eade31ded9cb507ccf9daa51c0eb3ebc
+machine_hash: 8c885ba828e9415a046ff9283c26acc1d0a529031606a97ca064e7e794253146
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.6
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-elevenagents|ElevenAgents]]
-- Later: 2026-03-17 · Claude · [[Changes/Claude/2026-03-17-control-cowork-from-your-phone-with-a-persistent-thread-research-preview-for-pro|Control Cowork from your phone with a persistent thread (research preview for Pro/Max)]]
+- Later: 2026-03-16 · OpenCode · [[Changes/OpenCode/2026-03-16-core-ensure-that-compaction-message-is-tracked-as-agent-initiated|Core Ensure that compaction message is tracked as agent initiated]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

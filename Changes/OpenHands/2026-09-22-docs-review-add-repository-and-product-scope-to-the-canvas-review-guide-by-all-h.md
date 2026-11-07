@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26121e2ebee7517a17361b6c15a1b6b3db287e8c2dad6d4d2976aa541aced2cf
+machine_hash: 4e0a469528bb89d30590a6d8d3d603e5b4bcb2b0e393ab729f9e96df2dfcbaba
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 'docs(review): add repository and product scope to the Canvas review guide'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-10-files-and-data-changes-in-v0-11-4|10 Files and
-  Data changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-46027-document-and-test-wildcards-in-network-proxy-domain-patterns-viyatb-oai|♯46027
   Document and test ? wildcards in network proxy domain patterns @viyatb-oai]]'
+- '[[Changes/Google Antigravity/2026-09-22-fewer-link-cards-you-did-not-ask-for-the-agent-surfaces-a-link-card-in-the-conve|Fewer
+  link cards you did not ask for]]'
 - '[[Changes/OpenHands/2026-09-22-docs-codereview-clarify-agent-canvas-checkpoints-by-neubig-in-https-github-com-o|docs(codereview):
   clarify Agent Canvas checkpoints]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-22-v1-22-0-github-393931062-937a5827|openhands-2026-09-22-v1-22-0-github-393931062-937a5827]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-docs-codereview-clarify-agent-canvas-checkpoints-by-neubig-in-https-github-com-o|docs(codereview): clarify Agent Canvas checkpoints]]
-- Later: 2026-09-23 · OpenHands · [[Changes/OpenHands/2026-09-23-feat-tag-agent-canvas-telemetry-by-deployment-kind-oss-13530-by-malhotra5-in-htt|feat: tag Agent Canvas telemetry by deployment kind (OSS-13530)]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-6-files-and-data-changes-in-v2026-9-6|6 Files and Data changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

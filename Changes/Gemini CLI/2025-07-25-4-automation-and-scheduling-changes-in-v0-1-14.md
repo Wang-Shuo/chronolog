@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 058f10c8538b426cb3075bf95113f2d7d1dc06b1bccc73960e19a60da80100c1
+machine_hash: d59de102a8c2ff8ed26a493df8efa53d81b8474278deb8c8fd3aeb12dd9ccd87
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.14
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-automate-announcement-display-for-major-minor-releases-by-kvyb-in-https-github-c|automate announcement display for major.minor releases]]
-- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-4-automation-and-scheduling-changes-in-v0-1-15|4 Automation and Scheduling changes in v0.1.15]]
+- Later: 2025-07-25 · Midjourney · [[Changes/Midjourney/2025-07-25-to-make-a-looping-video-use-loop-in-the-prompt|To make a looping video, use --loop in the prompt]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

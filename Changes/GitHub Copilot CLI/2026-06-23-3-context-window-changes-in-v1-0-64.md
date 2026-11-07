@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 49b8eb2852a51ec55cb301d3b1eb1cc0ef1b95975f6cff4b4fe247d391cab31f
+machine_hash: f962064c34b52d658e9b312748383ff37683a8caaf3c00ebc3f3fcb07bc98800
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -107,7 +107,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.64
 ## Nearby in Context Window
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-10-context-window-changes-in-rust-v0-142-0|10 Context Window changes in rust-v0.142.0]]
-- Later: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-2-context-window-changes-in-rust-v0-142-2|2 Context Window changes in rust-v0.142.2]]
+- Later: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-core-waited-for-plugins-before-loading-reference-backed-config-and-system-contex|Core Waited for plugins before loading reference-backed config and system context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

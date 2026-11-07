@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3791b05ba7afbe822268391533f1386e4d39f1f637b1acdf2199ea91f77e1339
+machine_hash: 681b7e690575c86fd067807096b7d1de9e34de81aa7cb8c99bf0be8138add8ec
 product: open-webui
 product_name: Open WebUI
 record:
@@ -111,7 +111,8 @@ record:
   title: 16 Reliability and Performance changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-09-text-to-speech|Text to Speech]]'
+- '[[Changes/OpenCode/2026-02-10-2-reliability-and-performance-changes-in-v1-1-54|2
+  Reliability and Performance changes in v1.1.54]]'
 - '[[Changes/Dify/2026-02-11-3-reliability-and-performance-changes-in-1-13-0|3 Reliability
   and Performance changes in 1.13.0]]'
 - '[[Changes/Codex CLI/2026-02-12-improved-websocket-session-stability-by-continuing-ping-handling-when-idle-and-s|Improved
@@ -195,7 +196,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-improved-websocket-session-stability-by-continuing-ping-handling-when-idle-and-s|Improved websocket session stability by continuing ping handling when idle…]]
-- Later: 2026-02-12 · Windsurf · [[Changes/Windsurf/2026-02-12-addressed-multiple-memory-leaks|Addressed multiple memory leaks]]
+- Later: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-desktop-add-diff-virtualization-to-improve-performance-for-large-diffs|Desktop Add diff virtualization to improve performance for large diffs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

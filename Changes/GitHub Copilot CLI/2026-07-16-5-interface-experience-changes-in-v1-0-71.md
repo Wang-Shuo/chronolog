@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68c2dff2f8aeb00e03075458b8ba0df5f97bc2758ba6e4b7868d4b1cea86d0e0
+machine_hash: da90e1352fe16f67e52496edd78a0fc75c64350ad8b5edb91566e7913cf457ff
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,11 +49,10 @@ record:
   title: 5 Interface Experience changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added
-  mouse-click support for multi-select menus and "Other" input rows in fullscreen
-  mode]]'
 - '[[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface
   Experience changes in v2.1.210]]'
+- '[[Changes/OpenCode/2026-07-14-2-interface-experience-changes-in-v1-18-1-1|2 Interface
+  Experience changes in v1.18.1 + 1]]'
 - '[[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|Improved
   terminal layout and rendering performance]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
@@ -109,7 +108,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|Improved terminal layout and rendering performance]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing /resume in the agent view now opens a picker of past sessions]]
+- Later: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-added-an-up-arrow-shortcut-to-close-the-subagent-picker-when-the-first-item-is-s|Added an Up Arrow shortcut to close the subagent picker when the first item is selected]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

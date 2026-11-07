@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e00ae1248a9847ceaec0d63488591718151fc9dd8f034ebf377c3aa8f21764a
+machine_hash: 3480688d9fdf09424b960a6d6f8ca5f62f572d1117aa68688e9d8c38dd177959
 product: dify
 product_name: Dify
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-06-19 · Replit · [[Changes/Replit/2026-06-19-voice-mode|Voice Mode]]
-- Later: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|Improved dictation in ChatGPT]]
+- Later: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-added-support-for-rendering-and-playing-audio-files-mp3-wav-ogg-m4a-within-the-s|Added support for rendering and playing audio files (.mp3, .wav, .ogg, .m4a) within…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

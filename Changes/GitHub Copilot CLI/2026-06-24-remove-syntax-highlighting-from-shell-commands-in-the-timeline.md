@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6936097e40821ca119f641f04cd92467d59dbfbb37981a35b66d1e5c26337d24
+machine_hash: 5cef0cb9835e69bf01ea60cf8d41b5bc338cae22d9e8c8aaff3e2df7aad816cf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-23 · Windsurf · [[Changes/Windsurf/2026-06-23-cli-and-devin-local|CLI and Devin Local]]
-- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow changes in 1.15.0]]
+- Later: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-3-developer-workflow-changes-in-v1-17-10|3 Developer Workflow changes in v1.17.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

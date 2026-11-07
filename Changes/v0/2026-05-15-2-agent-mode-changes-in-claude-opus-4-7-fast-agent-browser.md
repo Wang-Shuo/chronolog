@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 835ae4de7caf4c4ce8a69716351d72a898cc71dbf8275dbbb17b82739ee588d2
+machine_hash: 01819116fccccb0e49410ecab4de2a870d1f4ef35e861a7e2a679d943723bb17
 product: v0
 product_name: v0
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Agent Mode changes in Claude Opus 4.7 Fast, agent browser…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-14-for-difficult-coding-and-agentic-tasks|For difficult
-  coding and agentic tasks]]'
 - '[[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode
   changes in v2.1.143]]'
+- '[[Changes/OpenCode/2026-05-15-added-experimental-background-subagents-so-tasks-can-keep-running-while-you-cont|Added
+  experimental background subagents so tasks can keep running while you continue…]]'
 - '[[Changes/Replit/2026-05-15-agent|Agent]]'
 source_release: '[[Releases/v0/v0-2026-05-15-2026-05-15-d142aa2e|v0-2026-05-15-2026-05-15-d142aa2e]]'
 source_type: v0_changelog
@@ -91,7 +91,7 @@ Source: https://v0.app/changelog#2026-05-15
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-15 · Replit · [[Changes/Replit/2026-05-15-agent|Agent]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-9-agent-mode-changes-in-rust-v0-131-0|9 Agent Mode changes in rust-v0.131.0]]
+- Later: 2026-05-16 · OpenCode · [[Changes/OpenCode/2026-05-16-terminal-fixed-opencode-run-agent-resolving-project-local-agents|Terminal Fixed opencode run --agent resolving project-local agents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

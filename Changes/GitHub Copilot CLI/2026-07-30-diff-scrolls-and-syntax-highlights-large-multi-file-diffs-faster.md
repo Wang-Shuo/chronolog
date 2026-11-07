@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c9ad116e919105a6a541da3f7753c6758ba8f2c616140576fb6f20467913d46
+machine_hash: 44a4a8285940005a418da408ad08cf0b9f0bacd3ad4fd552fc33bd347c5b7a9a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: /diff scrolls and syntax-highlights large multi-file diffs faster
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-27-12-reliability-and-performance-changes-in-v0-11-0|12
-  Reliability and Performance changes in v0.11.0]]'
 - '[[Changes/Dify/2026-07-28-lightweight-recent-apps-endpoint-new-get-console-api-apps-recent-endpoint-reduce|Lightweight
   recent apps endpoint]]'
+- '[[Changes/Google Antigravity/2026-07-28-3-reliability-and-performance-changes-in-hub-v2-4-3-preview-tabs-mcp|3
+  Reliability and Performance changes in HUB v2.4.3 — Preview tabs, MCP…]]'
 - '[[Changes/Windsurf/2026-07-29-devin-cloud|Devin Cloud]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'
 source_type: github_releases
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-29 · Windsurf · [[Changes/Windsurf/2026-07-29-devin-cloud|Devin Cloud]]
-- Later: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-resuming-a-long-session-is-dramatically-faster-and-far-lighter-on-memory-because|Resuming a long session is dramatically faster and far lighter on memory, because…]]
+- Later: 2026-07-30 · Runway · [[Changes/Runway/2026-07-30-when-you-hit-your-concurrency-limit-on-a-model-model-router-can-now-automaticall|Capacity Fallbacks in Model Router]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

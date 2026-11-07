@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 10fdfdbece81e36712c0972aa87c8bd7273bebc324c95920ed583b7372faa6bb
+machine_hash: 2d98a59c82886f7cc8bd24b1c21d848f9ce32da4a01ba64e46dad7ee1a81a36f
 product: lovable
 product_name: Lovable
 record:
@@ -61,10 +61,10 @@ record:
   title: Ask Lovable what drives your run credit usage
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-12-see-how-much-usage-your-free-allowances-cover|See
-  how much usage your free allowances cover]]'
 - '[[Changes/Ollama/2026-10-12-ollama-launch-can-now-be-used-with-usage-credits-without-upgrading-to-a-paid-pla|ollama
   launch can now be used with usage credits without upgrading to a paid plan]]'
+- '[[Changes/OpenClaw/2026-10-12-2-pricing-model-changes-in-v2026-10-2|2 Pricing Model
+  changes in v2026.10.2]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show
   billed AI Credits in /usage for token-billed sessions, including after resume]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-14-2026-10-14-aff165c6|lovable-2026-10-14-2026-10-14-aff165c6]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f43cf962c33822f3d779cff2512924dd5db57d1ca6fba7bfe7a7b2881168d006
+machine_hash: 445d2898ff38809457be3707fef6191e21890ef80073370dfbbfe5cbd12a5139
 product: claude
 product_name: Claude
 record:
@@ -47,12 +47,12 @@ record:
   title: Claude Opus 4.6 launch
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-added-websocket-side-rate-limit-signaling-via-a-new-codex-rate-limits-event-with|Added
-  websocket-side rate limit signaling via a new codex.rate_limits event…]]'
-- '[[Changes/Codex CLI/2026-02-04-2-model-support-changes-in-rust-v0-95-0|2 Model
-  Support changes in rust-v0.95.0]]'
 - '[[Changes/Gemini CLI/2026-02-04-6-model-support-changes-in-v0-27-0|6 Model Support
   changes in v0.27.0]]'
+- '[[Changes/OpenCode/2026-02-04-6-model-support-changes-in-v1-1-50|6 Model Support
+  changes in v1.1.50]]'
+- '[[Changes/OpenCode/2026-02-04-core-prevent-double-prefixing-of-bedrock-cross-region-inference-models|Core
+  Prevent double-prefixing of Bedrock cross-region inference models]]'
 source_release: '[[Releases/Claude/claude-2026-02-05-2026-02-05-46bfa67d|claude-2026-02-05-2026-02-05-46bfa67d]]'
 source_type: claude_changelog
 theme: model-support
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-6-model-support-changes-in-v0-27-0|6 Model Support changes in v0.27.0]]
+- Earlier: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-core-prevent-double-prefixing-of-bedrock-cross-region-inference-models|Core Prevent double-prefixing of Bedrock cross-region inference models]]
 - Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|Claude Opus 4.6 is now available!]]
 <!-- chronolog:end -->
 

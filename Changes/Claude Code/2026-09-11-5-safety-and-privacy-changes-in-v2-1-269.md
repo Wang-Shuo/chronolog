@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81f52cc5ef1c76fbf5509dd94b751e1ad67627bbb34188f399296a69a3b516ea
+machine_hash: a3eb3ceeb6a0b91c6709fd3579ff844afa6377f0e476df376f05c5bc84ecbbcc
 product: claude-code
 product_name: Claude Code
 record:
@@ -111,7 +111,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-10 · Windsurf · [[Changes/Windsurf/2026-09-10-devin-cloud|Devin Cloud]]
-- Later: 2026-09-12 · Claude Code · [[Changes/Claude Code/2026-09-12-fixed-read-only-git-commands-in-bash-unexpectedly-asking-for-permission-after-a|Fixed read-only git commands in Bash unexpectedly asking for permission after…]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-12-safety-and-privacy-changes-in-v2026-9-4|12 Safety and Privacy changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

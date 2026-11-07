@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5824dab3be8ba407842dca7c20bbce883a19b47359784f581870358b6d8569c0
+machine_hash: 3e7b6193383737ab243038678d84ed5f038b365393c3ae001fa6f0e589f95494
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Pricing Model changes in 0.6.9
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-01-3-pricing-model-changes-in-0-5-3|3 Pricing Model changes
-  in 0.5.3]]'
 - '[[Changes/Aider/2024-02-10-updated-all-openai-model-names-pricing-info|Updated
   all OpenAI model names, pricing info]]'
+- '[[Changes/Runway/2024-02-26-you-can-now-see-a-detailed-breakdown-of-credit-spend-across-all-generation-tools|Credit
+  spend history table in user settings]]'
 - '[[Changes/Dify/2024-04-08-add-segment-function-billing-check-for-saas-env-by-johnjyong-in-https-github-com|add
   segment function billing check for SAAS env]]'
 source_release: '[[Releases/Dify/dify-2024-05-27-0-6-9-github-157655872-c2725bb5|dify-2024-05-27-0-6-9-github-157655872-c2725bb5]]'

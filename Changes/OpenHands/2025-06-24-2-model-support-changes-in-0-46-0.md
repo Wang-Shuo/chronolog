@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0dce803506cc7bd22b4700bc31bbdc98467fe2dbba50db6ade1fbb725389591
+machine_hash: e39ec7056d94ab9aa7058b0258f9c5fdec622015dd262b6d47677fae22c9ab39
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in 0.46.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-06-16-2-model-support-changes-in-v0-6-15|2 Model Support
-  changes in v0.6.15]]'
+- '[[Changes/Midjourney/2025-06-19-heya-everyone-we-re-hearing-a-lot-of-people-are-running-out-of-fast-hours-with-o|Heya
+  everyone!]]'
 - '[[Changes/OpenHands/2025-06-20-fixed-cli-displaying-incorrect-default-model-for-anthropic-provider-by-neubig-in|Fixed
   CLI displaying incorrect default model for Anthropic provider by @neubig…]]'
 - '[[Changes/OpenHands/2025-06-20-deprecation-warnings-in-cli-and-during-llm-api-calls-by-xingyaoww-in-https-githu|Deprecation

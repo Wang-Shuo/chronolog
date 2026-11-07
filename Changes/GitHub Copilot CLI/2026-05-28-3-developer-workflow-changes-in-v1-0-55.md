@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f0ed0bca4d3903221d177e58dde64248a91d7a236d73e44f46b35b79b7ca8a76
+machine_hash: c5199419897a0a25940324a530fd0765e38edd896f8386c898f4d37133603fc2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.55
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-codex-doctor-now-reports-richer-environment-git-terminal-app-server-and-thread-i|codex doctor now reports richer environment, Git, terminal, app-server, and thread…]]
-- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer Workflow changes in v2.1.157]]
+- Later: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-4-developer-workflow-changes-in-v1-15-12|4 Developer Workflow changes in v1.15.12]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

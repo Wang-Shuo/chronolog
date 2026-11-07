@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6705d5f1cf1f93a7cc2b2bf9e72244cb38e00792550da890d96cb20ffef843ef
+machine_hash: eec6bebc715095287af850fd0e366f9aac2512c9062255b1e2fd266e3e4e8fad
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     repository
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-25-test-evals-mark-all-save-memory-evals-as-usually-passes-due-to-unreliability-by|test(evals):
-  mark all save_memory evals as USUALLY_PASSES due to unreliability]]'
-- '[[Changes/Claude Code/2026-02-26-claude-automatically-saves-useful-context-to-auto-memory-manage-with-memory|Claude
-  automatically saves useful context to auto-memory]]'
-- '[[Changes/Codex CLI/2026-02-26-3-memory-and-personalization-changes-in-rust-v0-106-0|3
-  Memory and Personalization changes in rust-v0.106.0]]'
+- '[[Changes/Midjourney/2026-02-26-we-ve-added-personalization-and-moodboards-to-niji-7-our-anime-image-model|Midjourney
+  adds Personalization and Moodboards to niji 7 (our anime image model)]]'
+- '[[Changes/Midjourney/2026-02-26-we-ve-got-a-new-personalization-interface-on-web|We''ve
+  got a new personalization interface on web]]'
+- '[[Changes/Midjourney/2026-02-26-this-lets-you-make-personalization-profiles-by-clicking-and-scrolling-through-a|This
+  lets you make personalization profiles by clicking and scrolling through a list…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'
 source_type: github_releases
 theme: memory
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-3-memory-and-personalization-changes-in-rust-v0-106-0|3 Memory and Personalization changes in rust-v0.106.0]]
+- Earlier: 2026-02-26 · Midjourney · [[Changes/Midjourney/2026-02-26-this-lets-you-make-personalization-profiles-by-clicking-and-scrolling-through-a|This lets you make personalization profiles by clicking and scrolling through a list…]]
 - Later: 2026-03-02 · Claude · [[Changes/Claude/2026-03-02-memory-for-free-users|Memory for free users]]
 <!-- chronolog:end -->
 

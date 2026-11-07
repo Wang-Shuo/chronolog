@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f4a40169f78f67e8c15ca23de1ea84479ed22bcde2a33361df6b71e730762f89
+machine_hash: cc095fc3a924aa9c13972c63a42525ee2187a98e2c22213843e83751e6614f18
 product: cursor
 product_name: Cursor
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-5-developer-workflow-changes-in-rust-v0-129-0|5 Developer Workflow changes in rust-v0.129.0]]
-- Later: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer Workflow changes in v2.1.136]]
+- Later: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-terminal-restored-custom-provider-setup-in-connect|Terminal Restored custom provider setup in /connect]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

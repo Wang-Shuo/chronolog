@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b75d021b04c093016556da5910c7f4782303439c19a72e8dbc2572b720055e71
+machine_hash: a33785520e42022093a4bc5554ea5dd2e3c929ef52e111e55500f19064cea021
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Apps and Integrations changes in v3.49.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-3-apps-and-integrations-changes-in-v0-7-0|3 Apps
-  and Integrations changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-09-2-apps-and-integrations-changes-in-v1-1-10|2 Apps
+  and Integrations changes in v1.1.10]]'
 - '[[Changes/Replit/2026-01-09-private-apps-for-free-accounts|Private apps for free
   accounts]]'
 - '[[Changes/Replit/2026-01-09-made-with-replit-badge|Made with Replit badge]]'
@@ -81,7 +81,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.49.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-09 · Replit · [[Changes/Replit/2026-01-09-made-with-replit-badge|Made with Replit badge]]
-- Later: 2026-01-12 · ElevenLabs · [[Changes/ElevenLabs/2026-01-12-mcp-server|MCP Server]]
+- Later: 2026-01-11 · OpenCode · [[Changes/OpenCode/2026-01-11-ensure-codex-built-in-plugin-is-always-available|Ensure Codex built-in plugin is always available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

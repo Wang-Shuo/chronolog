@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 48aed57e11e64ae0dffd512410f3d135c3bc09e3012d9be2c54ee4fad93ae192
+machine_hash: 928c8d1ef1824923b031345e8d1a1e3071ef8110d92db9fd19618d0ab8c70e5c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.79
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-10 · ElevenLabs · [[Changes/ElevenLabs/2026-08-10-android-sdk|Android SDK]]
-- Later: 2026-08-10 · Windsurf · [[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]
+- Later: 2026-08-10 · OpenCode · [[Changes/OpenCode/2026-08-10-2-mobile-and-desktop-changes-in-v1-18-16|2 Mobile and Desktop changes in v1.18.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

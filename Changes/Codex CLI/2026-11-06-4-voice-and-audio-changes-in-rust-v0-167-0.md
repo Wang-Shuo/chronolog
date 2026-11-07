@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8df935d8b05ef1047f8a1e13dd40a570aa0cdf3495e8ae7ad5bd202b37c8915
+machine_hash: 89f7a5334b33aed1d9bd26c38c7ca76785c76d5f409798c9824c7cda32dbd365
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,11 +46,12 @@ record:
   title: 4 Voice and Audio changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-realtime-entity-redaction|Realtime entity redaction]]'
-- '[[Changes/Open WebUI/2026-11-03-4-voice-and-audio-changes-in-v0-13-0|4 Voice and
-  Audio changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-6-voice-and-audio-changes-in-v2026-10-10|6 Voice
+  and Audio changes in v2026.10.10]]'
 - '[[Changes/Dify/2026-11-04-2-voice-and-audio-changes-in-1-19-0|2 Voice and Audio
   changes in 1.19.0]]'
+- '[[Changes/OpenClaw/2026-11-05-7-voice-and-audio-changes-in-v2026-11-1|7 Voice and
+  Audio changes in v2026.11.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: voice
@@ -99,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-voice-and-audio-changes-in-1-19-0|2 Voice and Audio changes in 1.19.0]]
+- Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-7-voice-and-audio-changes-in-v2026-11-1|7 Voice and Audio changes in v2026.11.1]]
 - Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-4-voice-and-audio-changes-in-v1-0-106|4 Voice and Audio changes in v1.0.106]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24d0079fc4f48f5bcfe7984deb0df6468d725c8c7e369865faba43216b2542bb
+machine_hash: b9320d9871c11a694f7b16c059d249eb9efbc1edebd1f5d8e6ba5ce92d032bef
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 9 Apps and Integrations changes in v0.24.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps
-  and Integrations changes in v2.1.6]]'
 - '[[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and
   Integrations changes in 1.11.3]]'
+- '[[Changes/OpenCode/2026-01-13-terminal-actually-modify-opencode-config-when-adding-mcp-servers-with-mcp-add-co|Terminal
+  Actually modify OpenCode config when adding MCP servers with mcp add command]]'
 - '[[Changes/Codex CLI/2026-01-14-10-apps-and-integrations-changes-in-rust-v0-81-0|10
   Apps and Integrations changes in rust-v0.81.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-14-v0-24-0-github-276723271-62398547|gemini-cli-2026-01-14-v0-24-0-github-276723271-62398547]]'
@@ -120,7 +120,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.24.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-10-apps-and-integrations-changes-in-rust-v0-81-0|10 Apps and Integrations changes in rust-v0.81.0]]
-- Later: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-9207-propagate-mcp-disabled-reason-gt-oai|♯9207 Propagate MCP disabled reason @gt-oai]]
+- Later: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-3-apps-and-integrations-changes-in-v1-1-19|3 Apps and Integrations changes in v1.1.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

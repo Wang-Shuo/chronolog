@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ab772b26b8442bc87aa8571fe319108552df5af576b7902a14ce0db2418a4b8
+machine_hash: 933a3af092130d5401dadad2e877b010338c0e7605eeefaa85d3c844ddb9b328
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Apps and Integrations changes in v1.0.52
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-docs-extensions-refactor-releasing-guide-and-add-update-mechanisms-by-ruomengz-i|docs(extensions):
-  refactor releasing guide and add update mechanisms]]'
+- '[[Changes/OpenCode/2026-05-22-core-return-mcp-server-not-found-errors-from-the-http-api|Core
+  Return MCP server not found errors from the HTTP API]]'
 - '[[Changes/Replit/2026-05-22-integrations|Integrations]]'
 - '[[Changes/Replit/2026-05-22-two-new-connectors-quiver-ai-and-browserbase|Two new
   connectors: Quiver AI and Browserbase]]'

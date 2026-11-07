@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5abdb9563d7dfea9a6a64d0cc1172ddd7f1565e29934fabe1f9d2628076f7947
+machine_hash: dc0013179138bbf183ad472a4979ea17435a35e77845f407059755e396eef388
 product: dify
 product_name: Dify
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Context Window changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-10-context-window-changes-in-rust-v0-142-0|10 Context
-  Window changes in rust-v0.142.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-3-context-window-changes-in-v1-0-64|3 Context
   Window changes in v1.0.64]]'
+- '[[Changes/OpenCode/2026-06-24-core-waited-for-plugins-before-loading-reference-backed-config-and-system-contex|Core
+  Waited for plugins before loading reference-backed config and system context]]'
 - '[[Changes/Codex CLI/2026-06-25-2-context-window-changes-in-rust-v0-142-2|2 Context
   Window changes in rust-v0.142.2]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'
@@ -101,7 +101,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 ## Nearby in Context Window
 
 - Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-2-context-window-changes-in-rust-v0-142-2|2 Context Window changes in rust-v0.142.2]]
-- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-3-context-window-changes-in-v0-10-0|3 Context Window changes in v0.10.0]]
+- Later: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-improved-readability-of-context-pills-by-truncating-long-labels-and-adding-hover|Improved readability of context pills by truncating long labels and adding hover…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

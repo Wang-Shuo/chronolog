@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 500c58eef41b78959f16d8ce43d2414dbf5a2ad75dd126472afb385e54284349
+machine_hash: 9dca7e934118575c5edf3fb507784e440388bc60704e043b3c577b9251a8866b
 product: v0
 product_name: v0
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-11-memory-and-personalization-changes-in-rust-v0-145-0|11 Memory and Personalization changes in rust-v0.145.0]]
-- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-7-memory-and-personalization-changes-in-v0-11-0|7 Memory and Personalization changes in v0.11.0]]
+- Later: 2026-07-24 · Midjourney · [[Changes/Midjourney/2026-07-24-personalization-will-understand-your-personal-taste-much-better-especially-if-yo|Personalization will "understand" your personal taste much better]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

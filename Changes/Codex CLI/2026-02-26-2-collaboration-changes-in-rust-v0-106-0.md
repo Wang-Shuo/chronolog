@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7866d6050d66332f9a77582378c87d3aefb86795d2dc88fec26d89594b9758be
+machine_hash: 355fbf1429164250555c87b2cc40d7358ef3743d73b99c992491fbd4636b5b45
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.106.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-02-25 · v0 · [[Changes/v0/2026-02-25-added-team-setting-to-allow-v0-to-open-prs-on-behalf-of-members-without-github-a|Added team setting to allow v0 to open PRs on behalf of members without GitHub accounts]]
-- Later: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-individual-user-sharing-control-administrators-can-now-disable-individual-user-s|🔐 Individual user sharing control. Administrators can now disable individual…]]
+- Later: 2026-02-26 · Midjourney · [[Changes/Midjourney/2026-02-26-today-we-are-removing-the-rooms-feature-from-the-website|An update on Rooms]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

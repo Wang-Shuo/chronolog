@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6a50725589741565e2a1ea90621369939a1c8a23b9e8c22794f7c70a5212815e
+machine_hash: 18f70a2cab6f18870c2fbf3e0f5a7146e836f984e96a2b64f1e1db9ff0691863
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -105,7 +105,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-23 · Cline · [[Changes/Cline/2026-08-23-2-apps-and-integrations-changes-in-v4-1-15|2 Apps and Integrations changes in v4.1.15]]
-- Later: 2026-08-24 · Lovable · [[Changes/Lovable/2026-08-24-add-an-mcp-registry-from-the-catalog-header|Add an MCP registry from the catalog header]]
+- Later: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-model-context-protocol-mcp-and-custom-tool-execution-steps-now-display-structure|Model Context Protocol (MCP) and custom tool execution steps now display structured…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

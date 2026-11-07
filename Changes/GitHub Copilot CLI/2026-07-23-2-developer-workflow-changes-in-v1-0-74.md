@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4d627c7f1fbb928ebd86c8d1ba3f5ac557bd5b1ee7366fa2cec441d255cdf2b8
+machine_hash: d6b99282a7b3c7a2c349838baf452fad78c35cf3140a5061671e2d2b23aac40a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.74
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed /code-review to run as a background subagent, so review work no longer…]]
-- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-62-developer-workflow-changes-in-v0-11-0|62 Developer Workflow changes in v0.11.0]]
+- Later: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-support-the-current-server-terminal-transport|Support the current server terminal transport]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b8aecf354097d37be1a41072ca07851f545dffc2d7380b625363a2631d50f6fb
+machine_hash: 24b9ded7959e312d9fb7b171d28ec4564bd14ddb0aea83bb01b3d68d520410a5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -73,8 +73,8 @@ record:
   title: 8 Interface Experience changes in v0.8.4
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-6-interface-experience-changes-in-v0-0-412|6
-  Interface Experience changes in v0.0.412]]'
+- '[[Changes/OpenCode/2026-02-19-core-don-t-fetch-models-dev-on-completion|Core Don''t
+  fetch models.dev on completion]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-add-configurable-status-line-support-to-display-dynamic-session-information-via|Add
   configurable status line support to display dynamic session information…]]'
 - '[[Changes/Lovable/2026-02-23-drag-and-drop-reordering-of-pinned-tools-in-the-project-navigation-bar-has-been|Drag

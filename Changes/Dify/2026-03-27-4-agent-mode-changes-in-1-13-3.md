@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1fc736eb41dc403dc0f5e18197753003e0d5e5c6e3aeb3b36e279d9616964555
+machine_hash: c63ec8bb7949e29667a1ca331fa9e324952737f1d88dc795e8584b608b3fdc6f
 product: dify
 product_name: Dify
 record:
@@ -51,10 +51,10 @@ record:
   title: 4 Agent Mode changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-19-agent-mode-changes-in-rust-v0-117-0|19 Agent
-  Mode changes in rust-v0.117.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-resume-session-restores-the-previously-selected-custom-agent|Resume
   session restores the previously selected custom agent]]'
+- '[[Changes/OpenCode/2026-03-26-desktop-fix-agent-normalization-in-desktop-app|Desktop
+  Fix agent normalization in desktop app]]'
 - '[[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto
   mode now shows "unavailable for your plan" when disabled by plan restrictions…]]'
 source_release: '[[Releases/Dify/dify-2026-03-27-1-13-3-github-302258183-3ff73e84|dify-2026-03-27-1-13-3-github-302258183-3ff73e84]]'

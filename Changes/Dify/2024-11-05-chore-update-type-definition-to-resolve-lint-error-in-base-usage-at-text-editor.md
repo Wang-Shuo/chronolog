@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fc8012e8d871ce6e02c1c84e4267fef535b125b4454727d372efe65c6d8a643
+machine_hash: 24465fe1d3108b34b02f9c488e3527cbd2eb3f2753f673d00428ce6b90119d1b
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,9 @@ record:
   title: 'chore: update type definition to resolve lint error in Base usage at text-editor.tsx'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-14-prompt-editor-optimization-clearer-and-more-efficient-prompt-editing-with-reset|Prompt
-  Editor Optimization: Clearer and more efficient prompt editing with reset…]]'
-- '[[Changes/Aider/2024-10-22-2-editor-experience-changes-in-v0-60-0|2 Editor Experience
-  changes in v0.60.0]]'
+- '[[Changes/Midjourney/2024-10-23-today-we-re-testing-our-new-external-image-editor-image-retexturing-and-next-gen|today
+  we’re testing our new external image editor , image retexturing , and next-gen…]]'
+- '[[Changes/Midjourney/2024-10-23-the-image-editor|The image editor]]'
 - '[[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run
   aider --apply-clipboard-edits file-to-edit.js]]'
 source_release: '[[Releases/Dify/dify-2024-11-05-0-11-0-github-183549613-86c3ffa3|dify-2024-11-05-0-11-0-github-183549613-86c3ffa3]]'
@@ -86,7 +85,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-11-04 · Aider · [[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run aider --apply-clipboard-edits file-to-edit.js]]
-- Later: 2024-11-19 · Gemini · [[Changes/Gemini/2024-11-19-priority-access-with-gemini-advanced-ask-gemini-to-remember-the-things-you-care|Priority access with Gemini Advanced]]
+- Later: 2024-11-07 · Midjourney · [[Changes/Midjourney/2024-11-07-we-re-doing-a-community-contest-for-images-made-with-the-new-editor-please-share|Editor Showcase]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

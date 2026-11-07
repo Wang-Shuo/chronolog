@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 894d4434ee14af766fbdf05c16826168467f9a963ab2a2dfd1c45198bfd96b07
+machine_hash: 621a3572c1852851d49653c8433056db08b99305b9c1aa700852a0df29afb333
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 4 Interface Experience changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-04-new-ways-to-open-project-settings|New ways to open
-  project settings]]'
 - '[[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit
   and comment]]'
+- '[[Changes/OpenClaw/2026-09-08-11-interface-experience-changes-in-v2026-9-3|11 Interface
+  Experience changes in v2026.9.3]]'
 - '[[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved
   the /diff panel]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved the /diff panel]]
-- Later: 2026-09-09 · Lovable · [[Changes/Lovable/2026-09-09-redesigned-chat-actions-menu-in-projects|Redesigned Chat actions menu in projects]]
+- Later: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-5-interface-experience-changes-in-hub-v2-13-0-introducing-new-documents|5 Interface Experience changes in HUB v2.13.0 — Introducing new Documents…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

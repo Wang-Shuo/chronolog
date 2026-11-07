@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 670ad685640752f6aa1f9f19ee48291dbc021111c5bd779453d33c31c05faa7b
+machine_hash: dc261096c0b5f6f20cff2ecc1e2d569d927b53a67fbe0bfa522ef5c2d1151d45
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in rust-v0.144.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-3-developer-workflow-changes-in-v1-0-70|3
-  Developer Workflow changes in v1.0.70]]'
-- '[[Changes/Codex CLI/2026-07-13-published-a-version-only-release-with-no-merged-pull-request-changes-since-rust|Published
-  a version-only release with no merged pull request changes since rust-v0.144.2]]'
+- '[[Changes/OpenCode/2026-07-13-2-developer-workflow-changes-in-v1-17-20-1|2 Developer
+  Workflow changes in v1.17.20 + 1]]'
 - '[[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent
   view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]'
+- '[[Changes/OpenCode/2026-07-14-desktop-fixed-terminal-tabs-stealing-focus-when-they-mount|Desktop
+  Fixed terminal tabs stealing focus when they mount]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-16-rust-v0-144-5-github-354839089-46560d9f|codex-cli-2026-07-16-rust-v0-144-5-github-354839089-46560d9f]]'
 source_type: github_releases
 theme: developer-workflow
@@ -78,7 +78,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]
+- Earlier: 2026-07-14 · OpenCode · [[Changes/OpenCode/2026-07-14-desktop-fixed-terminal-tabs-stealing-focus-when-they-mount|Desktop Fixed terminal tabs stealing focus when they mount]]
 - Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8 Developer Workflow changes in v1.0.71]]
 <!-- chronolog:end -->
 

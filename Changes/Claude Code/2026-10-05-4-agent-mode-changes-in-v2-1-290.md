@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 358f4a34d058d56bdd20080b6355040f6f0ab19cea1fe903a62bb645295f553d
+machine_hash: edd88a3dea54116c38abe7bcd69ac0edd19cf6a8df9e6d4b92c07e0b404a68bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,8 +54,8 @@ record:
   title: 4 Agent Mode changes in v2.1.290
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-4-agent-mode-changes-in-v2-1-288|4 Agent Mode
-  changes in v2.1.288]]'
+- '[[Changes/OpenClaw/2026-10-03-4-agent-mode-changes-in-v2026-9-8|4 Agent Mode changes
+  in v2026.9.8]]'
 - '[[Changes/Claude Code/2026-10-05-added-claude-api-managed-agents-onboard-url-to-set-up-the-managed-agents-pattern|Added
   /claude-api managed-agents-onboard url to set up the Managed Agents…]]'
 - '[[Changes/Claude Code/2026-10-05-added-claude-api-managed-agents-onboard-quickstart-name-to-build-a-console-quick|Added
@@ -107,7 +107,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-4-agent-mode-changes-in-v2-1-288|4 Agent Mode changes in v2.1.288]]
+- Earlier: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-4-agent-mode-changes-in-v2026-9-8|4 Agent Mode changes in v2026.9.8]]
 - Later: 2026-10-05 · ElevenLabs · [[Changes/ElevenLabs/2026-10-05-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 

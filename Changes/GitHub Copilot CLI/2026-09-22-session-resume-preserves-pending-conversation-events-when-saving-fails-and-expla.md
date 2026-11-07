@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ab1d61c6109231136352e5f6bcccd0dcefb15dc4d8f9b68000074904038bab2
+machine_hash: 45de2dedca04d5cd9caef9d14f92e2768a3f59e96024449d2d4421661fff1f21
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
     explains…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-42306-stabilize-the-detached-exec-server-session-resume-test-copyberry|♯42306
-  Stabilize the detached exec-server session resume test @copyberry]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-when-session-history-is-truncated-or-compacted-just-as-a-turn-finishes-the-worki|When
   session history is truncated or compacted just as a turn finishes…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-resume-sessions-even-when-transcript-files-contain-recoverable-corruption|Resume
   sessions even when transcript files contain recoverable corruption]]'
+- '[[Changes/OpenClaw/2026-09-19-retained-conversation-history-continues-to-follow-current-sharing-permissions-af|Retained
+  conversation history continues to follow current sharing permissions after…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-22-v1-0-88-github-394076851-2894d283|github-copilot-cli-2026-09-22-v1-0-88-github-394076851-2894d283]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-resume-sessions-even-when-transcript-files-contain-recoverable-corruption|Resume sessions even when transcript files contain recoverable corruption]]
-- Later: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-withdrawn-running-prompts-stay-removed-after-session-resume|Withdrawn running prompts stay removed after session resume]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-retained-conversation-history-continues-to-follow-current-sharing-permissions-af|Retained conversation history continues to follow current sharing permissions after…]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-plugin-requested-answer-revisions-wait-for-session-history-to-become-available-a|Plugin-requested answer revisions wait for session history to become available…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

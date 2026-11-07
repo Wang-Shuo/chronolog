@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 449eb5363a145f93622a98f0e7f9c28cfccb0a69271ca108214259f035854f86
+machine_hash: 883ccf86442cd34277cb29c10340f7879d258743528fb6bb83a24cd8ee823703
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
     edges
   type: change
 related_changes:
-- '[[Changes/Claude/2026-04-09-claude-cowork-generally-available|Claude Cowork generally
-  available]]'
 - '[[Changes/Ollama/2026-04-09-openclaw-channel-setup-connect-whatsapp-telegram-discord-and-other-messaging-cha|OpenClaw
   channel setup]]'
+- '[[Changes/OpenCode/2026-04-09-2-mobile-and-desktop-changes-in-v1-4-2-1|2 Mobile
+  and Desktop changes in v1.4.2 + 1]]'
 - '[[Changes/Codex CLI/2026-04-10-6-mobile-and-desktop-changes-in-rust-v0-119-0|6
   Mobile and Desktop changes in rust-v0.119.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'

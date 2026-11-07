@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e24e89b4d5d27c892a84ce5e0c6efa4dc9aed079388a8a27b4b01867ef61a77f
+machine_hash: 8c374efd15041185f211220fb4051a961f8c1b68be090e51ba71cb4fa89d78b7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,10 @@ record:
     and cloud runs
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-01-footer-text-selection-stays-on-the-same-visible-line-when-the-footer-grows-or-sh|Footer
-  text selection stays on the same visible line when the footer grows or shrinks]]'
-- '[[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added
-  $.ui.selection() for mods]]'
+- '[[Changes/Midjourney/2026-10-02-prompt-bar-pills|PROMPT BAR & PILLS]]'
 - '[[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]'
+- '[[Changes/OpenClaw/2026-10-03-session-assignment-moving-the-pointer-over-assign-to-and-then-pressing-enter-now|Session
+  assignment]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases
 theme: interface-experience
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-02 · Replit · [[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]
+- Earlier: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-session-assignment-moving-the-pointer-over-assign-to-and-then-pressing-enter-now|Session assignment]]
 - Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved the /focus tip]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ee5f91dfe1f2d8eeb965913beffbf4ac482eb5e3029d81633d933c9836368339
+machine_hash: 185a217795fb01331bc48675ec9f30c5082d2a2925a1fc1769aa27dc5c90b1df
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -73,10 +73,10 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-3-multimodal-input-changes-in-1-17-0|3 Multimodal Input
-  changes in 1.17.0]]'
 - '[[Changes/Open WebUI/2026-08-25-2-multimodal-input-changes-in-v0-11-1|2 Multimodal
   Input changes in v0.11.1]]'
+- '[[Changes/Runway/2026-08-28-runway-mcp-now-supports-upgrading-your-video-content-to-hdr-wherever-your-agents|HDR
+  Video Conversion on Runway MCP]]'
 - '[[Changes/ElevenLabs/2026-08-31-python-sdk|Python SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-08-31-2026-08-31-cce0450b|elevenlabs-2026-08-31-2026-08-31-cce0450b]]'
 source_type: elevenlabs_changelog
@@ -118,8 +118,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-2-multimodal-input-changes-in-v0-11-1|2 Multimodal Input changes in v0.11.1]]
-- Later: 2026-09-10 · DeepSeek API · [[Changes/DeepSeek API/2026-09-10-deepseek-v4-1-flash-release|DeepSeek-V4.1-Flash Release]]
+- Earlier: 2026-08-28 · Runway · [[Changes/Runway/2026-08-28-runway-mcp-now-supports-upgrading-your-video-content-to-hdr-wherever-your-agents|HDR Video Conversion on Runway MCP]]
+- Later: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-several-less-visible-repairs-keep-the-apps-from-failing-around-dependencies-and|Several less visible repairs keep the apps from failing around dependencies…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

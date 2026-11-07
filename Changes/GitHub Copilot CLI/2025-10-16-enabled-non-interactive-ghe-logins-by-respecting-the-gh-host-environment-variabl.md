@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7b3be69c7c33947937863697235bec99e460568f74623fdd084dc9d6380fce67
+machine_hash: ab99b8d32ccb4301c62489d3ef27c619738d227af67da5f33b9c7e6bf43339dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-feat-cli-fixes-cli-authentication-redirect-error-by-arafatkatze-in-https-github|feat(cli): Fixes CLI authentication redirect error]]
-- Later: 2025-10-17 · Codex CLI · [[Changes/Codex CLI/2025-10-17-prompt-mcp-login-when-adding-a-streamable-http-server-that-supports-oauth-5193|Prompt mcp login when adding a streamable HTTP server that supports oauth (♯5193)]]
+- Later: 2025-10-16 · Manus · [[Changes/Manus/2025-10-16-we-released-manus-1-5-https-manus-im-blog-manus-1-5-release-faster-higher-qualit|Introducing Manus 1.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 587c90b8d05596cd85d341bade1f93fc293786d230e14f206850e36039b4161f
+machine_hash: de9167ccb3c897f1e0a77ac3f32eee60fdc38a7d01c13963138460746d8745d6
 product: ollama
 product_name: Ollama
 record:
@@ -42,8 +42,8 @@ record:
   title: Ollama's macOS and Windows apps will now default to a context length based…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-3-context-window-changes-in-v0-29-0|3 Context Window
-  changes in v0.29.0]]'
+- '[[Changes/OpenCode/2026-02-19-core-emit-prompt-too-large-error-when-github-context-overflows|Core
+  Emit PROMPT_TOO_LARGE error when GitHub context overflows]]'
 - '[[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|Expanded
   context window for Thinking]]'
 - '[[Changes/Claude Code/2026-02-20-2-context-window-changes-in-v2-1-50|2 Context

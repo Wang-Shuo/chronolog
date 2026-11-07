@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3b12ab9c9a1c061910266a9ee1ff32bae3109eb2a37050a80353c963614a8358
+machine_hash: 5a7102136c21bd1a4f7910de78fe68430aa3731fcaaf7180081adf01ca635ac7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved MCP OAuth]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added a startup notice when MCP servers need authentication, pointing at /mcp]]
+- Later: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-core-bound-mcp-oauth-callbacks-to-ipv4-loopback-for-better-local-auth-reliabilit|Core Bound MCP OAuth callbacks to IPv4 loopback for better local auth reliability]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

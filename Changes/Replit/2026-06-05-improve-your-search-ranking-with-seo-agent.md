@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c5b893df75b011359013dfd4282caa42938895845fa4bde6e8b4ad2afb32176b
+machine_hash: fb4f3d747086a0aaf9bb461b2b79414cec87460c4c112307e1084432ffd960d3
 product: replit
 product_name: Replit
 record:
@@ -51,10 +51,10 @@ record:
   title: Improve your search ranking with SEO Agent
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select
-  elements]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent
-  Mode changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-core-added-skill-discovery-and-file-based-agent-loading|Core
+  Added skill discovery and file-based agent loading]]'
+- '[[Changes/OpenCode/2026-06-05-core-running-subagents-can-now-be-sent-to-the-background-so-you-can-keep-working|Core
+  Running subagents can now be sent to the background so you can keep working]]'
 - '[[Changes/Replit/2026-06-05-agent|Agent]]'
 source_release: '[[Releases/Replit/replit-2026-06-05-2026-06-05-95c49499|replit-2026-06-05-2026-06-05-95c49499]]'
 source_type: replit_changelog
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent Mode changes in v1.0.60]]
+- Earlier: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-core-running-subagents-can-now-be-sent-to-the-background-so-you-can-keep-working|Core Running subagents can now be sent to the background so you can keep working]]
 - Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-claude-agents-typing-a-url-into-the-list-now-filters-to-the-session-whose-first|claude agents: typing a URL into the list now filters to the session whose first…]]
 <!-- chronolog:end -->
 

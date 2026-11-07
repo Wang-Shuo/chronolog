@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b49d8a09061681aac2a5ba1a7a6fbee121d2c906a725160abcc3893bf34b97f
+machine_hash: 6be9f6f83eef5df3dc17a663d00c4c64ca915b7578716c89e5c07a07398b0617
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
   title: Continue Work across devices
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search
-  across chats, projects, and files is now supercharged]]'
+- '[[Changes/OpenCode/2026-07-15-3-mobile-and-desktop-changes-in-v1-18-2|3 Mobile
+  and Desktop changes in v1.18.2]]'
 - '[[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A
   clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex]]'
 - '[[Changes/ChatGPT/2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a|ChatGPT
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-14 · ChatGPT · [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search across chats, projects, and files is now supercharged]]
-- Later: 2026-07-17 · Windsurf · [[Changes/Windsurf/2026-07-17-devin-desktop|Devin Desktop]]
+- Earlier: 2026-07-15 · OpenCode · [[Changes/OpenCode/2026-07-15-3-mobile-and-desktop-changes-in-v1-18-2|3 Mobile and Desktop changes in v1.18.2]]
+- Later: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-3-mobile-and-desktop-changes-in-v1-18-3|3 Mobile and Desktop changes in v1.18.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

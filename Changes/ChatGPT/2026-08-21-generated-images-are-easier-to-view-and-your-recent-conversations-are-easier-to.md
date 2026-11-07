@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5b0dd1c9003d7a38e282e247e70cd8c7260baf036d8c859e4c8840cdfaaa3c5
+machine_hash: dd414714c0d4ccc15b21774a2152ce12041b149130492e68c89896190d7794fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,10 +53,10 @@ record:
     to browse
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed
-  Ctrl+L and Cmd+K in fullscreen to always just repaint]]'
 - '[[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3
   Interface Experience changes in rust-v0.149.0]]'
+- '[[Changes/Google Antigravity/2026-08-20-added-the-ability-to-collapse-top-level-sidebar-sections-the-ungrouped-list-now|Added
+  the ability to collapse top-level sidebar sections]]'
 - '[[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep
   recent chats easier to browse]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee|chatgpt-2026-08-21-updates-to-chatgpt-on-android-8e3bdeee]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3 Interface Experience changes in rust-v0.149.0]]
+- Earlier: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-added-the-ability-to-collapse-top-level-sidebar-sections-the-ungrouped-list-now|Added the ability to collapse top-level sidebar sections]]
 - Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface Experience changes in v2.1.239]]
 <!-- chronolog:end -->
 

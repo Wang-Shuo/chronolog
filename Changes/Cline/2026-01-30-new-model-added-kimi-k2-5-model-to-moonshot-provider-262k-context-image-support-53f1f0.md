@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f9d104217065f17496bb2960565b65feebe67b974758bdd39014cede8da1f2ce
+machine_hash: 47f98a431abb2db1cd132e7e51f74fdf1fb93a9ce073f05695d86d6466472380
 product: cline
 product_name: Cline
 record:
@@ -54,8 +54,8 @@ record:
   title: __New model:__ Added Kimi-K2.5 model to Moonshot provider…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-feat-core-enhanced-anchored-iterative-context-compression-with-self-verification|feat(core):
-  enhanced anchored iterative context compression with self-verification]]'
+- '[[Changes/OpenCode/2026-01-28-core-handle-venice-cache-creation-tokens|Core Handle
+  Venice cache creation tokens]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-29-compaction-messages-show-clearer-command-hints-to-view-checkpoint-summaries|Compaction
   messages show clearer command hints to view checkpoint summaries]]'
 - '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support|New

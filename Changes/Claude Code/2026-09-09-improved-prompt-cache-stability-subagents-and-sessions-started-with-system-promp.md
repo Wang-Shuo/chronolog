@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 97b6e1531acc852fb215358ab62e617bedfa2b35cea167a8625532f627bf362e
+machine_hash: b9615470f3009495bed4ab3c0f19b72a11f7849173a40cb981336397cc8fca99
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
   title: Improved prompt-cache stability
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-6-context-window-changes-in-rust-v0-153-0|6 Context
-  Window changes in rust-v0.153.0]]'
-- '[[Changes/Claude Code/2026-09-04-changed-context-token-counting-to-use-a-local-estimate-when-the-token-counting-a|Changed
-  /context token counting to use a local estimate when the token-counting…]]'
 - '[[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added
   /skill-doctor to show which loaded skills go unused and what they cost…]]'
+- '[[Changes/OpenClaw/2026-09-05-15-context-window-changes-in-v2026-9-2|15 Context
+  Window changes in v2026.9.2]]'
+- '[[Changes/OpenClaw/2026-09-08-12-context-window-changes-in-v2026-9-3|12 Context
+  Window changes in v2026.9.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
 theme: context-window
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added /skill-doctor to show which loaded skills go unused and what they cost…]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-12-context-window-changes-in-v2026-9-3|12 Context Window changes in v2026.9.3]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-17-context-window-changes-in-rust-v0-154-0|17 Context Window changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

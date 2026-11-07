@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7118ab82aff03e3374354e78857c95ceb9dfa2c17d190c65a817f13f0f08dfa8
+machine_hash: 9deef1e32a90a4ad62c46f9b900706bf2241c42f0ddbd6cbd8ed338f7bbeab5c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.89
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-9-safety-and-privacy-changes-in-rust-v0-158-0|9 Safety and Privacy changes in rust-v0.158.0]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-9-safety-and-privacy-changes-in-v2-1-285|9 Safety and Privacy changes in v2.1.285]]
+- Later: 2026-09-28 · Google Antigravity · [[Changes/Google Antigravity/2026-09-28-2-safety-and-privacy-changes-in-hub-v2-18-1-manage-install-plugins|2 Safety and Privacy changes in HUB v2.18.1 — Manage & Install plugins…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

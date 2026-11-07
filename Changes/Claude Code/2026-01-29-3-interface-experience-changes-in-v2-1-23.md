@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e5e9d6d2fbc2e3b2d1323cd479eb25c229717f0fc25432b03c2547a19ba614c3
+machine_hash: 398332c3162550a5473cd65de26dc5ddd4700dafbf971dfcdd5424a3205693cc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Interface Experience changes in v2.1.23
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved
-  read/search progress indicators to show "Reading…" while in progress…]]'
-- '[[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove
-  missing sidebar item]]'
+- '[[Changes/OpenCode/2026-01-28-desktop-enable-ctrl-n-and-ctrl-p-for-popover-navigation-in-desktop-app|Desktop
+  Enable ctrl+n and ctrl+p for popover navigation in desktop app]]'
+- '[[Changes/OpenCode/2026-01-28-7-interface-experience-changes-in-v1-1-37|7 Interface
+  Experience changes in v1.1.37]]'
 - '[[Changes/v0/2026-01-28-added-modals-for-library-and-projects-navigation|Added
   modals for Library and Projects navigation]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a]]'

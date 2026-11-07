@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff470349f9e53091d5950ddbcdf73b476a78c11949a8371cbc31b830056e82c4
+machine_hash: b90497bc49572b72c771658983e9f2ace32e0591b3417fcbe4b82b4ca2d30156
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 5 Apps and Integrations changes in v0.4.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-08-4-apps-and-integrations-changes-in-rust-v0-31-0|4
-  Apps and Integrations changes in rust-v0.31.0]]'
 - '[[Changes/ElevenLabs/2025-09-08-mcp-server|MCP Server]]'
 - '[[Changes/ElevenLabs/2025-09-08-sdk-releases|SDK Releases]]'
+- '[[Changes/Granola/2025-09-08-with-new-people-and-companies-views-plus-attio-and-zapier-integrations|Three
+  new features to help you build better customer relationships]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-09-v0-4-0-github-245990585-546fee8b|gemini-cli-2025-09-09-v0-4-0-github-245990585-546fee8b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -98,7 +98,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.4.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-08 · ElevenLabs · [[Changes/ElevenLabs/2025-09-08-sdk-releases|SDK Releases]]
+- Earlier: 2025-09-08 · Granola · [[Changes/Granola/2025-09-08-with-new-people-and-companies-views-plus-attio-and-zapier-integrations|Three new features to help you build better customer relationships]]
 - Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-a-provider-toggle-in-connection-settings-now-allows-users-to-manually-specify-az|☁️ A provider toggle in connection settings now allows users to manually specify…]]
 <!-- chronolog:end -->
 

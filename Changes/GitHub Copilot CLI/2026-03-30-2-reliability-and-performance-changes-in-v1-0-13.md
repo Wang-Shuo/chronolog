@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18fd0e837f73a9d8dee5c34c783a76ca8c759f4e99a51c65e60c8666a1a58b61
+machine_hash: 2db17946b3f54c705bc6f0f56904bb73af05c0c3d7c999ee0c06d30cde488054
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Reliability and Performance changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-2-reliability-and-performance-changes-in-1-13-3|2 Reliability
-  and Performance changes in 1.13.3]]'
 - '[[Changes/Ollama/2026-03-27-ollama-on-apple-silicon-is-now-built-https-ollama-com-blog-mlx-on-top-of-apple-s|Ollama
   on Apple silicon is now built((source link) on top…]]'
 - '[[Changes/Replit/2026-03-27-application-level-analytics|Application-level analytics]]'
+- '[[Changes/OpenCode/2026-03-29-core-improve-app-startup-performance|Core Improve
+  app startup performance]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'
 source_type: github_releases
 theme: reliability-performance
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-27 · Replit · [[Changes/Replit/2026-03-27-application-level-analytics|Application-level analytics]]
+- Earlier: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-core-improve-app-startup-performance|Core Improve app startup performance]]
 - Later: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-2-reliability-and-performance-changes-in-v1-0-14|2 Reliability and Performance changes in v1.0.14]]
 <!-- chronolog:end -->
 

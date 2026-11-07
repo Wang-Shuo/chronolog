@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 417bb78661b4cca01cbf9d5b55d9922d11c7441a97219b4ecea636ad6a5d3d69
+machine_hash: 8234932e4e08b6304f7c298a641fb23bd603fa08b5837fe1724493ce83aa82dc
 product: ollama
 product_name: Ollama
 record:
@@ -58,12 +58,12 @@ record:
   title: '[Granite-3.2-Vision](https://ollama.com/library/granite3.2-vision): A compact…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-05-code-interpreter-models-can-now-execute-code-in-real-time-to-refine-their-answer|\U0001F5A5️
-  Code Interpreter]]"
 - '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas
   sharing]]'
 - "[[Changes/Open WebUI/2025-02-13-jupyter-notebook-support-in-code-interpreter-now-you-can-configure-code-interpre|\U0001F40D
   Jupyter Notebook Support in Code Interpreter]]"
+- "[[Changes/Gamma/2025-02-26-sharing-your-ideas-just-got-easier-you-can-now-post-directly-to-linkedin-from-ga|Post
+  directly to LinkedIn \U0001F680]]"
 source_release: '[[Releases/Ollama/ollama-2025-02-27-v0-5-13-github-202859377-86cdb825|ollama-2025-02-27-v0-5-13-github-202859377-86cdb825]]'
 source_type: github_releases
 theme: file-data
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-jupyter-notebook-support-in-code-interpreter-now-you-can-configure-code-interpre|🐍 Jupyter Notebook Support in Code Interpreter]]
+- Earlier: 2025-02-26 · Gamma · [[Changes/Gamma/2025-02-26-sharing-your-ideas-just-got-easier-you-can-now-post-directly-to-linkedin-from-ga|Post directly to LinkedIn 🚀]]
 - Later: 2025-02-27 · Open WebUI · [[Changes/Open WebUI/2025-02-27-deduplication-for-retrieved-documents-documents-retrieved-during-searches-are-no|🗂️ Deduplication for Retrieved Documents]]
 <!-- chronolog:end -->
 

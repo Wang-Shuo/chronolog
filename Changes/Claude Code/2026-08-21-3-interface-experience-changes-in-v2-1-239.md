@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 85c60e9c2fcf73ffd3b3076d497b368f94def88df7a5959e01b8ee8ae98ebf2c
+machine_hash: d4427c43311222fe421836162581aeea411b750fcd67f85da63796df642c27ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Interface Experience changes in v2.1.239
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3
-  Interface Experience changes in rust-v0.149.0]]'
+- '[[Changes/Google Antigravity/2026-08-20-added-the-ability-to-collapse-top-level-sidebar-sections-the-ungrouped-list-now|Added
+  the ability to collapse top-level sidebar sections]]'
 - '[[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep
   recent chats easier to browse]]'
 - '[[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated

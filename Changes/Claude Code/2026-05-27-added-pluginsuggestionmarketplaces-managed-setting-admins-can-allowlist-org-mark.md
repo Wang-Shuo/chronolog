@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eabdc3f37e76a7ce2c5f5338e775ca53b79d961d35c9af09fba554de9897d06b
+machine_hash: 8cf06f25dff6bfcc7a6d43e49345b55ce033a5d01f0c9a11602301f21eb8d61e
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,8 +57,8 @@ record:
   title: Added `pluginSuggestionMarketplaces` managed setting
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-3-context-window-changes-in-v0-43-0|3 Context Window
-  changes in v0.43.0]]'
+- '[[Changes/OpenCode/2026-05-22-core-improve-diff-viewer-empty-states-and-context-handling|Core
+  Improve diff viewer empty states and context handling]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-4-context-window-changes-in-v1-0-52|4 Context
   Window changes in v1.0.52]]'
 - '[[Changes/Codex CLI/2026-05-26-5-context-window-changes-in-rust-v0-134-0|5 Context

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d34f965103f63425c154e3f6a517fcb526314960d55bbfea4db5023524032984
+machine_hash: 3572bdb12fb255ae716779729b4ebf4dc9013e0a470a23dec87888c9a0385e36
 product: replit
 product_name: Replit
 record:
@@ -57,12 +57,12 @@ record:
   title: Production deployment logs access
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-8-agent-mode-changes-in-v0-29-0|8 Agent Mode changes
-  in v0.29.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-19-3-agent-mode-changes-in-v0-0-412|3 Agent
-  Mode changes in v0.0.412]]'
+- '[[Changes/OpenCode/2026-02-19-core-migrate-agent-ts-from-bun-file-to-filesystem-module|Core
+  Migrate agent.ts from Bun.file() to Filesystem module]]'
 - '[[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes
   in v2.1.50]]'
+- '[[Changes/OpenCode/2026-02-20-core-remove-user-agent-header-assertion-from-llm-test-to-fix-failing-test|Core
+  Remove User-Agent header assertion from LLM test to fix failing test]]'
 source_release: '[[Releases/Replit/replit-2026-02-20-2026-02-20-4b4b553e|replit-2026-02-20-2026-02-20-4b4b553e]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes in v2.1.50]]
+- Earlier: 2026-02-20 · OpenCode · [[Changes/OpenCode/2026-02-20-core-remove-user-agent-header-assertion-from-llm-test-to-fix-failing-test|Core Remove User-Agent header assertion from LLM test to fix failing test]]
 - Later: 2026-02-23 · ElevenLabs · [[Changes/ElevenLabs/2026-02-23-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 

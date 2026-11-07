@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c9984bfe5caf3ba77cac9a71476641b9f4d7263cdfb2bb2b977e6966759a93f6
+machine_hash: 666ef705563fc805ad3a497a791808f458b86e100d78c82af7d76e087a8953d7
 product: lovable
 product_name: Lovable
 record:
@@ -56,10 +56,10 @@ record:
   title: Fewer false alarms in dependency scans
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-11-safety-and-privacy-changes-in-1-16-1|11 Safety and
-  Privacy changes in 1.16.1]]'
 - '[[Changes/Gemini CLI/2026-07-28-fix-a2a-server-enforce-workspace-trust-and-task-isolation-to-prevent-rce-by-luis|fix(a2a-server):
   enforce workspace trust and task isolation to prevent RCE]]'
+- '[[Changes/Google Antigravity/2026-07-28-3-safety-and-privacy-changes-in-hub-v2-4-3-preview-tabs-mcp|3
+  Safety and Privacy changes in HUB v2.4.3 — Preview tabs, MCP…]]'
 - '[[Changes/Codex CLI/2026-07-29-6-safety-and-privacy-changes-in-rust-v0-146-0|6
   Safety and Privacy changes in rust-v0.146.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-29-2026-07-29-599fab6b|lovable-2026-07-29-2026-07-29-599fab6b]]'

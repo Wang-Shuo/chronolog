@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a840b22c87cbeba121bbc3f5b43524f95565daff6a928af9bfd629e25a96be17
+machine_hash: 81e5bcd04b3e7995868e9b457b362c10b2551705569628c5910339a3a37bda4e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -44,10 +44,10 @@ record:
   title: Android SDK
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-16-we-ve-updated-the-chatgpt-desktop-app-to-make-it-easier-to-choose-between-chat-a|ChatGPT
-  updates the ChatGPT desktop app to make it easier to choose between Chat…]]'
 - '[[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue
   Work across devices]]'
+- '[[Changes/OpenCode/2026-07-16-3-mobile-and-desktop-changes-in-v1-18-3|3 Mobile
+  and Desktop changes in v1.18.3]]'
 - '[[Changes/Windsurf/2026-07-17-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-07-20-2026-07-20-b16c37ed|elevenlabs-2026-07-20-2026-07-20-b16c37ed]]'
 source_type: elevenlabs_changelog
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-17 · Windsurf · [[Changes/Windsurf/2026-07-17-devin-desktop|Devin Desktop]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-mobile-and-desktop-changes-in-rust-v0-145-0|3 Mobile and Desktop changes in rust-v0.145.0]]
+- Later: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-7-mobile-and-desktop-changes-in-v1-18-4|7 Mobile and Desktop changes in v1.18.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f8efbc48bd767b58447b3f7f25d2375f92ffdc4aa624e043ead7046c7cd48b55
+machine_hash: 21b5c7f2f571cd8f2f42073cd63bc8908c521901c9e9b03aaffe617fb1994446
 product: cline
 product_name: Cline
 record:
@@ -56,8 +56,8 @@ record:
     support…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-27-error-messages-consistently-reference-login-and-logout-commands|Error
-  messages consistently reference /login and /logout commands]]'
+- '[[Changes/OpenCode/2026-01-28-support-headless-authentication-for-chatgpt-codex|Support
+  headless authentication for ChatGPT/Codex]]'
 - '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|CLI
   authentication: Added Vercel AI Gateway and Cline API key provider support…]]'
 - '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4bce9f|CLI

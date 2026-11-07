@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ab760d7a9042d02a2c1844cc9f67e96107cbc0288ed355c1d7ac1f7473b36b2
+machine_hash: e627dcc63c8867880129d0f3af4b56878753fa34bead36a35701463ee69c3821
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,12 +57,12 @@ record:
   title: 8 Context Window changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-11-03-qwen3-and-qwen3-5-models-using-long-context-yarn-scaling|Qwen3
-  and Qwen3.5 models using long-context (YaRN) scaling]]'
-- "[[Changes/Open WebUI/2026-11-03-live-context-usage-estimates-the-context-indicator-now-accounts-for-output-arriv|\U0001F4CF
-  Live context usage estimates. The context indicator now accounts for output…]]"
+- '[[Changes/OpenClaw/2026-11-03-5-context-window-changes-in-v2026-10-10|5 Context
+  Window changes in v2026.10.10]]'
 - '[[Changes/Dify/2026-11-04-6-context-window-changes-in-1-19-0|6 Context Window changes
   in 1.19.0]]'
+- '[[Changes/OpenClaw/2026-11-05-3-context-window-changes-in-v2026-11-1|3 Context
+  Window changes in v2026.11.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: context-window
@@ -119,7 +119,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-6-context-window-changes-in-1-19-0|6 Context Window changes in 1.19.0]]
+- Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-3-context-window-changes-in-v2026-11-1|3 Context Window changes in v2026.11.1]]
 - Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-17-context-window-changes-in-v1-0-106|17 Context Window changes in v1.0.106]]
 <!-- chronolog:end -->
 

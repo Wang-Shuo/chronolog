@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24a4769102eb5f0fd9bb7a42090455a6dc71fab25f0cf27c2b11807014b31970
+machine_hash: e5823e018abf3dde80a81c103441c577aaa3c854a52fcfc9d168cedd7197e780
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Account and Access changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-05-12-refactor-auth-update-oauth-button-and-settings-modal-for-improved-state-manageme|refactor(auth):
-  update OAuth button and settings modal for improved state management…]]'
-- '[[Changes/v0/2026-05-12-added-support-for-oauth-authorized-mcp-servers-in-the-platform-api-with-referenc|Added
-  support for OAuth-authorized MCP servers in the platform API, with reference…]]'
 - '[[Changes/Claude Code/2026-05-13-bedrock-awscredentialexport-now-always-runs-when-configured-instead-of-being-ski|Bedrock:
   awsCredentialExport now always runs when configured instead of being…]]'
+- '[[Changes/OpenCode/2026-05-13-core-added-digitalocean-oauth-and-inference-router-support|Core
+  Added DigitalOcean OAuth and Inference Router support]]'
+- '[[Changes/OpenCode/2026-05-15-2-account-and-access-changes-in-v1-14-51|2 Account
+  and Access changes in v1.14.51]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: account-access
@@ -107,7 +107,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-bedrock-awscredentialexport-now-always-runs-when-configured-instead-of-being-ski|Bedrock: awsCredentialExport now always runs when configured instead of being…]]
+- Earlier: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-2-account-and-access-changes-in-v1-14-51|2 Account and Access changes in v1.14.51]]
 - Later: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-3-account-and-access-changes-in-v1-0-49|3 Account and Access changes in v1.0.49]]
 <!-- chronolog:end -->
 

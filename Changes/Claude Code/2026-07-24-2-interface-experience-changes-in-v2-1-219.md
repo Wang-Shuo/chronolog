@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cc7dab1aab77e7e9f3e306705bf5fe89e08d61db509486b649f7afb7d28ef743
+machine_hash: e9afedb6049f41c96dda684a1283ac3a03cc90f38f41f864ca2cdca62af48e61
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.219
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-add-model-plan-or-model-plan-to-pick-a-model-used-while-in-plan-mode-pass-a-mode|Add /model plan (or /model --plan) to pick a model used while in plan mode]]
-- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-19-interface-experience-changes-in-v0-11-0|19 Interface Experience changes in v0.11.0]]
+- Later: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-core-fix-minimax-m3-thinking-variant-selection|Core Fix MiniMax M3 thinking variant selection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

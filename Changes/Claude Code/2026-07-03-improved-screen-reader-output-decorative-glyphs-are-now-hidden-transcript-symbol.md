@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8dbadf2b1be580cb1a53ddffad97e229b274be360129a96ccef1dbc41be0597c
+machine_hash: 496befc6cf3b21c0c622f6778199d05945fe91bc6e69d093c0fac838170e1e62
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Improved screen-reader output
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-28770-connectors-ignore-synthetic-links-for-app-accessibility-adaley-openai|♯28770
-  connectors Ignore synthetic links for app accessibility @adaley-openai]]'
 - '[[Changes/Dify/2026-06-25-numerous-web-ui-and-accessibility-focus-ring-polish-fixes|Numerous
   web UI and accessibility/focus-ring polish fixes]]'
+- '[[Changes/Google Antigravity/2026-06-25-improved-accessibility-and-usability-of-the-artifact-review-dialog-including-con|Improved
+  accessibility and usability of the artifact review dialog, including…]]'
 - '[[Changes/Open WebUI/2026-06-29-better-screen-reader-labels-on-toggles-integration-and-switch-toggles-now-expose|♿
   Better screen-reader labels on toggles. Integration and switch toggles now…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-better-screen-reader-labels-on-toggles-integration-and-switch-toggles-now-expose|♿ Better screen-reader labels on toggles. Integration and switch toggles now…]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run|Added screen reader mode: opt-in plain-text rendering for screen reader users]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-10-accessibility-and-localization-changes-in-v2026-7-1|10 Accessibility and Localization changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7b574da5abc3148e3d01eca6c23c4a062819693d9d06a922c7d3d10b3538b84
+machine_hash: a2a096bbc2dba90bb9006e0ece6b48ed8877c78699c7d277bc97e427639b7563
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: '`/extra-usage` now works from Remote Control (mobile/web) clients'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows:
-  PowerShell tool is progressively rolling out]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-prompt-frame-no-longer-causes-rendering-issues-on-windows-and-ubuntu-terminals|Prompt
   frame no longer causes rendering issues on Windows and Ubuntu terminals]]'
 - '[[Changes/Ollama/2026-04-16-fixed-macos-cross-compiles-so-they-no-longer-trigger-generate-which-was-breaking|Fixed
   macOS cross-compiles so they no longer trigger generate…]]'
+- '[[Changes/OpenCode/2026-04-16-desktop-desktop-builds-now-show-a-beta-or-dev-badge-in-the-title-bar-when-applic|Desktop
+  Desktop builds now show a Beta or Dev badge in the title bar when applicable]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-16 · Ollama · [[Changes/Ollama/2026-04-16-fixed-macos-cross-compiles-so-they-no-longer-trigger-generate-which-was-breaking|Fixed macOS cross-compiles so they no longer trigger generate…]]
-- Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-2-mobile-and-desktop-changes-in-rust-v0-122-0|2 Mobile and Desktop changes in rust-v0.122.0]]
+- Earlier: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-desktop-desktop-builds-now-show-a-beta-or-dev-badge-in-the-title-bar-when-applic|Desktop Desktop builds now show a Beta or Dev badge in the title bar when applicable]]
+- Later: 2026-04-17 · OpenCode · [[Changes/OpenCode/2026-04-17-desktop-fixed-the-beta-desktop-app-so-the-file-tree-still-appears-when-enabled-i|Desktop Fixed the beta desktop app so the file tree still appears when enabled in settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

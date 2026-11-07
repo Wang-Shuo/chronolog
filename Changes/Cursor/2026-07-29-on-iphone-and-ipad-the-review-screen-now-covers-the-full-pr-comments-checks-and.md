@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5b8c7f59348fc1aaaebda260f6fcf87e234dae7232c6f6614c3732c45af7a4b1
+machine_hash: d376f349b0505d5936d74cc14c04198712a91b5b0e660624b90527e07070717a
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,8 @@ record:
   title: A full review surface
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-24-agent-mode-changes-in-1-16-1|24 Agent Mode changes
-  in 1.16.1]]'
+- '[[Changes/Google Antigravity/2026-07-28-2-agent-mode-changes-in-hub-v2-4-3-preview-tabs-mcp|2
+  Agent Mode changes in HUB v2.4.3 — Preview tabs, MCP…]]'
 - '[[Changes/OpenHands/2026-07-28-this-release-migration-was-performed-by-an-ai-agent-openhands-on-behalf-of-the-u|This
   release migration was performed by an AI agent (OpenHands) on behalf of the user]]'
 - '[[Changes/Codex CLI/2026-07-29-11-agent-mode-changes-in-rust-v0-146-0|11 Agent

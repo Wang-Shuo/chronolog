@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e36f4af64cf1556d453d2a776f73e665d5f4458518383b453de32a67a7e1e27a
+machine_hash: 5a79c0064063960f9d48f056c9c7b9ece6e1bb636ce15ed82f27feb73d2620d3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,11 +41,12 @@ record:
   title: MCP server type help text displays correct options
   type: change
 related_changes:
-- '[[Changes/Replit/2025-12-26-replit-chatgpt-app|Replit ChatGPT App]]'
-- '[[Changes/GitHub Copilot CLI/2025-12-30-enable-copilot-spaces-tools-in-github-mcp-server|Enable
-  Copilot Spaces tools in GitHub MCP Server]]'
-- '[[Changes/OpenHands/2025-12-30-added-forgejo-integration-by-johba37-in-https-github-com-openhands-openhands-pul|Added
-  Forgejo integration]]'
+- '[[Changes/OpenCode/2025-12-31-3-apps-and-integrations-changes-in-v1-0-219|3 Apps
+  and Integrations changes in v1.0.219]]'
+- '[[Changes/OpenCode/2025-12-31-default-to-ai-sdk-openai-compatible-when-no-npm-package-is-provided|Default
+  to ai-sdk/openai-compatible when no npm package is provided]]'
+- '[[Changes/OpenCode/2025-12-31-core-display-mcp-tag-for-prompts-in-autocomplete-but-not-in-prompt|Core
+  Display MCP tag for prompts in autocomplete but not in prompt]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-02-v0-0-374-github-273878901-f6c465a2|github-copilot-cli-2026-01-02-v0-0-374-github-273878901-f6c465a2]]'
 source_type: github_releases
 theme: apps-integrations
@@ -77,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-30 · OpenHands · [[Changes/OpenHands/2025-12-30-added-forgejo-integration-by-johba37-in-https-github-com-openhands-openhands-pul|Added Forgejo integration]]
-- Later: 2026-01-05 · ElevenLabs · [[Changes/ElevenLabs/2026-01-05-sdk-releases|SDK Releases]]
+- Earlier: 2025-12-31 · OpenCode · [[Changes/OpenCode/2025-12-31-core-display-mcp-tag-for-prompts-in-autocomplete-but-not-in-prompt|Core Display MCP tag for prompts in autocomplete but not in prompt]]
+- Later: 2026-01-04 · OpenCode · [[Changes/OpenCode/2026-01-04-18-apps-and-integrations-changes-in-v1-1-1|18 Apps and Integrations changes in v1.1.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

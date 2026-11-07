@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3e34d5655e22b29a0ab6cf99b17d34d52acc8454a5e6f1f202095195b983b82f
+machine_hash: 3b85ae2c37546ccd0676fa9b3cd3c9a79fa898bf3c338eaf4c10e06782a9fe40
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +48,12 @@ record:
   title: Redesigned Chat actions menu in projects
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-08-edit-and-comment-on-mobile-open-a-generated-image-full-screen-to-edit-it-or-add|Edit
-  and comment]]'
 - '[[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved
   the /diff panel]]'
 - '[[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4
   Interface Experience changes in rust-v0.154.0]]'
+- '[[Changes/Google Antigravity/2026-09-09-5-interface-experience-changes-in-hub-v2-13-0-introducing-new-documents|5
+  Interface Experience changes in HUB v2.13.0 — Introducing new Documents…]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-09-2026-09-09-1af9b744|lovable-2026-09-09-2026-09-09-1af9b744]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4 Interface Experience changes in rust-v0.154.0]]
+- Earlier: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-5-interface-experience-changes-in-hub-v2-13-0-introducing-new-documents|5 Interface Experience changes in HUB v2.13.0 — Introducing new Documents…]]
 - Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-interface-experience-changes-in-v2-1-268|2 Interface Experience changes in v2.1.268]]
 <!-- chronolog:end -->
 

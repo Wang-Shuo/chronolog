@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ed08742bbd71dbc4c9a1baeb22104eb8a8241fcf4f42cb307d64c2f396f67b66
+machine_hash: ee4300b96592f986c3535091fe45200c043c77fe9024cacbda4505a29a6f230d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: Agent no longer hangs on the first turn when the memory backend is unavailable
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-3-memory-and-personalization-changes-in-v0-36-0|3
-  Memory and Personalization changes in v0.36.0]]'
 - '[[Changes/Gemini CLI/2026-04-08-2-memory-and-personalization-changes-in-v0-37-0|2
   Memory and Personalization changes in v0.37.0]]'
+- '[[Changes/OpenCode/2026-04-08-core-reduced-typescript-lsp-memory-use-by-using-the-native-project-config|Core
+  Reduced TypeScript LSP memory use by using the native project config]]'
 - '[[Changes/Codex CLI/2026-04-10-2-memory-and-personalization-changes-in-rust-v0-119-0|2
   Memory and Personalization changes in rust-v0.119.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-10-v1-0-23-github-307566282-7106e30b|github-copilot-cli-2026-04-10-v1-0-23-github-307566282-7106e30b]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ec2e158246e8d707a1e8586de5a525f15e0ef68ea00084c22a8c8b8c8629e6d
+machine_hash: 68b3a41c173447abeb9aaefb0d116e251463b01cafddc879c87c2e86aedc1a93
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,9 +46,10 @@ record:
   title: 2 Reliability and Performance changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-07-faster-payments-dashboard|Faster payments dashboard]]'
 - '[[Changes/Lovable/2026-09-07-redesigned-cloud-advanced-settings-show-when-your-database-is-under-pressure|Redesigned
   Cloud Advanced settings show when your database is under pressure]]'
+- '[[Changes/OpenClaw/2026-09-08-4-reliability-and-performance-changes-in-v2026-9-3|4
+  Reliability and Performance changes in v2026.9.3]]'
 - '[[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved
   prompt input responsiveness]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'

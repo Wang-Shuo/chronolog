@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99944c80a62f29aaa6d9cc9bbbdcd60de6459cb0b8f380d013a03d4cedaa5cb3
+machine_hash: e10d4e773a2dd16840179ed2daa066fa1e1a5c738fc863494051a014d2a905ce
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
     (#5193)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-09-we-are-in-the-middle-of-significantly-improving-support-for-connecting-to-mcp-se|We
-  are in the middle of significantly improving support for connecting to MCP…]]'
 - '[[Changes/Cline/2025-10-16-feat-cli-fixes-cli-authentication-redirect-error-by-arafatkatze-in-https-github|feat(cli):
   Fixes CLI authentication redirect error]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-16-enabled-non-interactive-ghe-logins-by-respecting-the-gh-host-environment-variabl|Enabled
   non-interactive GHE logins by respecting the GH_HOST environment variable…]]'
+- '[[Changes/Manus/2025-10-16-we-released-manus-1-5-https-manus-im-blog-manus-1-5-release-faster-higher-qualit|Introducing
+  Manus 1.5]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-17-rust-v0-47-0-github-255378266-cdca7c8a|codex-cli-2025-10-17-rust-v0-47-0-github-255378266-cdca7c8a]]'
 source_type: github_releases
 theme: account-access
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-10-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-16-enabled-non-interactive-ghe-logins-by-respecting-the-gh-host-environment-variabl|Enabled non-interactive GHE logins by respecting the GH_HOST environment variable…]]
+- Earlier: 2025-10-16 · Manus · [[Changes/Manus/2025-10-16-we-released-manus-1-5-https-manus-im-blog-manus-1-5-release-faster-higher-qualit|Introducing Manus 1.5]]
 - Later: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-4-account-and-access-changes-in-1-9-2|4 Account and Access changes in 1.9.2]]
 <!-- chronolog:end -->
 

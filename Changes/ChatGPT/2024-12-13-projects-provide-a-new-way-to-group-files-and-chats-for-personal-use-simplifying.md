@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 316931ac659df3ed11a1fa32b5596d6bee3376cb137e4c730674ca87c206dd95
+machine_hash: 4e5da4c058463e95bc4104e5f3313961f03f60ae160df24a839f7a49fee630ee
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,8 +65,8 @@ record:
   title: Projects provide a new way to group files and chats for personal use, simplifying…
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-12-11-introducing-gemini-2-0-flash-as-an-experimental-model-in-gemini|Introducing
-  Gemini 2.0 Flash as an experimental model in Gemini]]'
+- '[[Changes/Midjourney/2024-12-11-in-the-future-we-plan-for-the-characters-worlds-and-other-materials-you-create-i|In
+  the future, we plan for the characters, worlds, and other materials you create…]]'
 - '[[Changes/Ollama/2024-12-11-exaone-3-5-https-ollama-com-library-exaone3-5-a-collection-of-instruction-tuned|EXAONE
   3.5((source link) a collection…]]'
 - '[[Changes/Aider/2024-12-13-2-model-support-changes-in-v0-69-0|2 Model Support changes

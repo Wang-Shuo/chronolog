@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fabf0cd33f4f723f1c1642e8aefb53f96e6b370c4b01e5287b101e7d20bfdf41
+machine_hash: b7718a5939d886dc2c87edd27902acd8624a0171eac023c7dbc35759ccbdca29
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Changed the `axScreenReader` setting and `CLAUDE_AX_SCREEN_READER` in a settings…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-2-accessibility-and-localization-changes-in-v2-1-288|2
-  Accessibility and Localization changes in v2.1.288]]'
 - '[[Changes/Claude Code/2026-10-05-vscode-added-a-screen-reader-announcement-message-queued-when-you-send-a-message|VSCode
   Added a screen reader announcement, "Message queued.", when you send…]]'
+- '[[Changes/OpenClaw/2026-10-10-2-accessibility-and-localization-changes-in-v2026-10-1|2
+  Accessibility and Localization changes in v2026.10.1]]'
 - '[[Changes/Claude Code/2026-10-20-vscode-added-a-running-start-up-hooks-spinner-status-with-a-screen-reader-announ|VSCode
   Added a "Running start-up hooks" spinner status, with a screen reader…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d]]'

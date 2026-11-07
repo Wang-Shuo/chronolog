@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb4e9ee4b35ed43ed0c519eb55d9e6d0463dbe9a3b9e933f71b067a27052a886
+machine_hash: 5fb99e80c0ad36e71eebc9f22659a178a21d1f336488da8f64c7f406b7f8ab08
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: __Hooks:__ Hook scripts now run from the workspace repository root instead…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-28-4-apps-and-integrations-changes-in-v0-26-0|4 Apps
-  and Integrations changes in v0.26.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-28-mcp-show-server-name-displays-server-details-and-available-tools|/mcp
-  show server-name displays server details and available tools]]'
+- '[[Changes/OpenCode/2026-01-28-core-add-worktree-to-plugin-tool-context|Core Add
+  worktree to plugin tool context]]'
+- '[[Changes/OpenCode/2026-01-29-core-include-provider-id-in-sdk-cache-key-to-prevent-cache-collisions|Core
+  Include provider ID in SDK cache key to prevent cache collisions]]'
 - '[[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|VSCode:
   Enabled Claude in Chrome integration]]'
 source_release: '[[Releases/Cline/cline-2026-01-30-v3-56-0-github-281356951-bdf900e3|cline-2026-01-30-v3-56-0-github-281356951-bdf900e3]]'

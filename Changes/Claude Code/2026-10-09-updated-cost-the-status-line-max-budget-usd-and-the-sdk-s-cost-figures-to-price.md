@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: da4eb11ce1c1262e65385d68a22aaf37e31a767d6938c01ee3eb486da76173de
+machine_hash: 4c6a2695e83a8d65bfe7a57cd43ee257d5ac971b23aaf7ad1a71a3a049467b60
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,11 @@ record:
   title: Updated `/cost`, the status line, `--max-budget-usd` and the SDK's cost figures…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved
-  the /usage-credits message shown to Team and Enterprise members whose…]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan
-  usage reflects the current billing period after quota resets]]'
 - '[[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set
   credit usage limits and alerts for your workspace]]'
+- '[[Changes/Midjourney/2026-10-08-polish-bugs|POLISH & BUGS]]'
+- '[[Changes/OpenClaw/2026-10-08-claude-haiku-5-5-you-can-select-haiku-5-5-through-the-anthropic-api-and-claude-c|Claude
+  Haiku 5.5. You can select Haiku 5.5 through the Anthropic API and Claude CLI]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: pricing-model
@@ -102,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-07 · Lovable · [[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set credit usage limits and alerts for your workspace]]
+- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-claude-haiku-5-5-you-can-select-haiku-5-5-through-the-anthropic-api-and-claude-c|Claude Haiku 5.5. You can select Haiku 5.5 through the Anthropic API and Claude CLI]]
 - Later: 2026-10-09 · Lovable · [[Changes/Lovable/2026-10-09-get-a-warning-before-your-credits-run-out|Get a warning before your credits run out]]
 <!-- chronolog:end -->
 

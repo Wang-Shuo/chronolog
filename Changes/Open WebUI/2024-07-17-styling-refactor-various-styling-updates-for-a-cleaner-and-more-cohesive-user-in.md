@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b569d52712034553266565fe651189272f32c57406b2bb25804405ad69a2779c
+machine_hash: 159b2d716293dbda86bfe0ef8cea0eca88363ce7e6cfb7cbe66eb27d6ef62e74
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,12 +42,12 @@ record:
   title: "**\U0001F3A8 Styling Refactor**"
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-07-02-2-interface-experience-changes-in-v0-2-0|2 Interface
-  Experience changes in v0.2.0]]'
 - '[[Changes/Dify/2024-07-08-2-interface-experience-changes-in-0-6-13|2 Interface
   Experience changes in 0.6.13]]'
 - '[[Changes/Open WebUI/2024-07-09-sideways-scrolling-in-settings-settings-tabs-container-now-supports-horizontal-s|↔️
   Sideways Scrolling in Settings]]'
+- '[[Changes/Runway/2024-07-09-a-newly-designed-navigation-sidebar-makes-it-easier-to-access-commonly-used-tool|Redesigned
+  Sidebar]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-07-17-v0-3-9-github-165813123-64bcd37a|open-webui-2024-07-17-v0-3-9-github-165813123-64bcd37a]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-sideways-scrolling-in-settings-settings-tabs-container-now-supports-horizontal-s|↔️ Sideways Scrolling in Settings]]
+- Earlier: 2024-07-09 · Runway · [[Changes/Runway/2024-07-09-a-newly-designed-navigation-sidebar-makes-it-easier-to-access-commonly-used-tool|Redesigned Sidebar]]
 - Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor adds a file picker, arrow key navigation, and a model toggle to Composer]]
 <!-- chronolog:end -->
 

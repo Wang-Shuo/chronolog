@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 25697e5f750fed42b4b0120076ac82f730a8f840dc6c26ca13028a95c8f897c1
+machine_hash: 71be78c6710b70f7b78a60870220faa90dc668ff78d461896615a47aa767f7ab
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -56,8 +56,8 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-10-the-3-1-series-builds-on-the-devin-desktop-rebrand-with-a-smoother-agent-editor|The
-  3.1 series builds on the Devin Desktop rebrand with a smoother Agent/Editor…]]'
+- '[[Changes/Gamma/2026-06-12-a-smoother-editing-and-presenting-experience|A smoother
+  editing and presenting experience]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-2-editor-experience-changes-in-v1-0-62|2
   Editor Experience changes in v1.0.62]]'
 - '[[Changes/Codex CLI/2026-06-15-2-editor-experience-changes-in-rust-v0-140-0|2 Editor

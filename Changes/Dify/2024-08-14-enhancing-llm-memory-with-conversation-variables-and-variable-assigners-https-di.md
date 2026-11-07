@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c54aeb4ac4093dbfeef6791d3917921429d2400312a81a67eacb9460df375e8c
+machine_hash: 23b97aeca41133d5cfbdda238ed9f2ec9a78d6b77b25b6793ced2b00a941f762
 product: dify
 product_name: Dify
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2024-08-11 · Cline · [[Changes/Cline/2024-08-11-adds-option-to-add-custom-instructions-to-the-end-of-the-system-prompt|Adds option to add custom instructions to the end of the system prompt]]
-- Later: 2024-10-23 · Dify · [[Changes/Dify/2024-10-23-custom-icon-restoration-we-ve-reintroduced-the-flexibility-and-personalization-o|Custom Icon Restoration]]
+- Later: 2024-09-06 · Midjourney · [[Changes/Midjourney/2024-09-06-personalization-for-the-niji-anime-model-is-available-today|Personalization for Niji]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

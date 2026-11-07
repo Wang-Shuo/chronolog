@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 955b2835d6a5bef32a56e09304b7098ba061cdb0edd67b4c9a51b4c73482bac4
+machine_hash: c07df365b9526b781593783352f55bfcb465c6d4ed8cc3cb0a00f93a0b78b46f
 product: cline
 product_name: Cline
 record:
@@ -54,12 +54,12 @@ record:
   title: 3 Model Support changes in v4.1.17
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support
-  changes in v2.1.257]]'
-- '[[Changes/Codex CLI/2026-09-01-6-model-support-changes-in-rust-v0-152-0|6 Model
-  Support changes in rust-v0.152.0]]'
 - '[[Changes/Codex CLI/2026-09-01-guardian-approval-review-now-honors-node-repl-policies-provided-through-model-me|Guardian
   approval review now honors Node REPL policies provided through model metadata]]'
+- '[[Changes/OpenClaw/2026-09-01-4-model-support-changes-in-v2026-8-2|4 Model Support
+  changes in v2026.8.2]]'
+- '[[Changes/OpenCode/2026-09-01-2-model-support-changes-in-v1-18-26|2 Model Support
+  changes in v1.18.26]]'
 source_release: '[[Releases/Cline/cline-2026-09-02-v4-1-17-github-381000681-694bbda2|cline-2026-09-02-v4-1-17-github-381000681-694bbda2]]'
 source_type: github_releases
 theme: model-support
@@ -99,7 +99,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.17
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-guardian-approval-review-now-honors-node-repl-policies-provided-through-model-me|Guardian approval review now honors Node REPL policies provided through model metadata]]
+- Earlier: 2026-09-01 · OpenCode · [[Changes/OpenCode/2026-09-01-2-model-support-changes-in-v1-18-26|2 Model Support changes in v1.18.26]]
 - Later: 2026-09-02 · Ollama · [[Changes/Ollama/2026-09-02-honor-gguf-model-defined-default-parameters|Honor GGUF model defined default parameters]]
 <!-- chronolog:end -->
 

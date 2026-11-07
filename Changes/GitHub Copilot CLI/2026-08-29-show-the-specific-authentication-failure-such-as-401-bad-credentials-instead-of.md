@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 746b17fbc83f7906ca746a7633763734a017f35bfc3b6d886703f3b552938124
+machine_hash: ab2833b25bc244565cfecd2168df56c36c08e69ce29b2f866b6f5ef9271e513e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Show the specific authentication failure (such as 401 Bad credentials) instead…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-2-account-and-access-changes-in-v1-0-81|2
-  Account and Access changes in v1.0.81]]'
 - '[[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed
   analytics to no longer turn off before sign-in solely because managed…]]'
+- '[[Changes/OpenCode/2026-08-28-2-account-and-access-changes-in-v1-18-25-1|2 Account
+  and Access changes in v1.18.25 + 1]]'
 - '[[Changes/v0/2026-08-28-4-account-and-access-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
   Account and Access changes in GPT-5.6 Sol, sign-in inside previews…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-29-v1-0-82-github-379131215-2ee28d74|github-copilot-cli-2026-08-29-v1-0-82-github-379131215-2ee28d74]]'

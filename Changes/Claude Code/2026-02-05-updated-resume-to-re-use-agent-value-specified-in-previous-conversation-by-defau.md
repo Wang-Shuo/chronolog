@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6fef1aa130e6abccfc2d71a3a89cd22845545bd71bb270068eb68393b74dd2c5
+machine_hash: 2ba657092b79748f15407e6dd64f31c3f3a6de52e13b5e9e721a71f24317ca94
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     by default
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-03-ollama-launch-will-now-work-run-subagents-when-using-ollama-launch-claude|ollama
-  launch will now work run subagents when using ollama launch claude]]'
-- '[[Changes/Codex CLI/2026-02-04-4-agent-mode-changes-in-rust-v0-95-0|4 Agent Mode
-  changes in rust-v0.95.0]]'
-- '[[Changes/Gemini CLI/2026-02-04-15-agent-mode-changes-in-v0-27-0|15 Agent Mode
-  changes in v0.27.0]]'
+- '[[Changes/OpenCode/2026-02-04-core-prioritize-opencode-config-dir-for-agents-md|Core
+  Prioritize OPENCODE_CONFIG_DIR for AGENTS.md]]'
+- '[[Changes/OpenCode/2026-02-04-document-the-built-in-agents|Document the built-in
+  agents]]'
+- '[[Changes/OpenCode/2026-02-04-2-agent-mode-changes-in-v1-1-50|2 Agent Mode changes
+  in v1.1.50]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-15-agent-mode-changes-in-v0-27-0|15 Agent Mode changes in v0.27.0]]
+- Earlier: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-2-agent-mode-changes-in-v1-1-50|2 Agent Mode changes in v1.1.50]]
 - Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-10649-fix-test-shell-command-interruption-flake-gt-oai|♯10649 Fix test_shell_command_interruption flake @gt-oai]]
 <!-- chronolog:end -->
 

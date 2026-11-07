@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 716737aa5d6b8a4ac8b605095efba329124578e57a2487990bf3818d76b3a5d3
+machine_hash: c50457142562985e3a6dc4257144215a563cc1f0433dc1f537154196d0306f6d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.65.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-04 · Cline · [[Changes/Cline/2025-12-04-added-subpages-and-content-to-hooks-by-jl-codes-in-https-github-com-cline-cline|added subpages and content to hooks]]
-- Later: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-sdk-releases|SDK Releases]]
+- Later: 2025-12-04 · Google Antigravity · [[Changes/Google Antigravity/2025-12-04-google-one-integration|Google One integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 678632e62675731df63bcc9a25815ca40fd66c9e478ea90a6537bc981c839273
+machine_hash: 7522c3355dacbeb607266b00d4174363a86ae3c4faa0932f51dbb19b2314eb09
 product: v0
 product_name: v0
 record:
@@ -79,10 +79,10 @@ record:
   title: More model choices, with Enterprise owner controls
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-22-3-model-support-changes-in-v4-1-20|3 Model Support changes
-  in v4.1.20]]'
-- '[[Changes/Codex CLI/2026-09-22-25-model-support-changes-in-rust-v0-156-0|25 Model
-  Support changes in rust-v0.156.0]]'
+- '[[Changes/Google Antigravity/2026-09-22-you-can-now-attach-microsoft-office-documents-word-excel-and-powerpoint-to-a-pro|You
+  can now attach Microsoft Office documents (Word, Excel, and PowerPoint)…]]'
+- '[[Changes/Google Antigravity/2026-09-22-2-model-support-changes-in-hub-v2-17-0-plan-before-you-build|2
+  Model Support changes in HUB v2.17.0 — Plan before you build]]'
 - '[[Changes/OpenHands/2026-09-22-test-strengthen-llm-profile-configuration-by-aivong-openhands-in-https-github-co|test:
   strengthen LLM profile configuration]]'
 source_release: '[[Releases/v0/v0-2026-09-22-2026-09-22-model-picker-d8bf5ce7|v0-2026-09-22-2026-09-22-model-picker-d8bf5ce7]]'

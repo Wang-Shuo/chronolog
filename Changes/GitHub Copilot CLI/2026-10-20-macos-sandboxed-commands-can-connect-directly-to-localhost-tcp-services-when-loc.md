@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 311972a56deb7b6f5a9a727a75453c830b1bdb97008cfb62b091b5cc450ed1ad
+machine_hash: 371c580cad03317072bbf634138794f7b1aa755f2475e486a2ca5663c358fd82
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     local…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-16-removed-tabs-in-the-desktop-app|Removed: tabs in the
-  desktop app]]'
+- '[[Changes/OpenClaw/2026-10-16-replies-on-macos-fixed-a-macos-reply-failure-that-restarted-the-channel-and-repe|Replies
+  on macOS]]'
 - '[[Changes/Lovable/2026-10-17-jump-to-your-last-chat-in-the-desktop-app|Jump to
   your last chat in the desktop app]]'
 - '[[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows:

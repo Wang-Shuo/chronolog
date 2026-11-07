@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 893c8d0fb4408d68f0ffc3bd375b66feaf8e182cc1458d664c1e32e9d740f0c0
+machine_hash: 3d1e7e605055e699ff8d6cb63484eada43d4df7c4d3913434a92c5b6d9893db3
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: __Hooks:__ Hook scripts now run from the workspace repository root instead…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-mcp-show-server-name-displays-server-details-and-available-tools|/mcp
-  show server-name displays server details and available tools]]'
+- '[[Changes/OpenCode/2026-01-29-core-include-provider-id-in-sdk-cache-key-to-prevent-cache-collisions|Core
+  Include provider ID in SDK cache key to prevent cache collisions]]'
 - '[[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|VSCode:
   Enabled Claude in Chrome integration]]'
 - '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys|Hooks:

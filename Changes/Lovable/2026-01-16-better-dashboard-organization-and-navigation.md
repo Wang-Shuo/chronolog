@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dbd128086e97ac4ce12ff482353f4d49d26fbbbf92992237ca7d863cc86619d2
+machine_hash: 720aedf58d1408047e454b9ce1b7a235035b30d338a8dbdf402d75a694bc0977
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,10 @@ record:
   title: Better dashboard organization and navigation
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-2-interface-experience-changes-in-rust-v0-81-0|2
-  Interface Experience changes in rust-v0.81.0]]'
 - '[[Changes/Codex CLI/2026-01-15-extend-the-rust-protocol-types-to-include-additional-metadata-on-text-elements-e|Extend
   the Rust protocol/types to include additional metadata on text elements…]]'
+- '[[Changes/OpenCode/2026-01-15-5-interface-experience-changes-in-v1-1-23|5 Interface
+  Experience changes in v1.1.23]]'
 - '[[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2
   Interface Experience changes in CLI Agent Modes and Cloud Handoff]]'
 source_release: '[[Releases/Lovable/lovable-2026-01-16-2026-01-16-d287c407|lovable-2026-01-16-2026-01-16-d287c407]]'
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2 Interface Experience changes in CLI Agent Modes and Cloud Handoff]]
-- Later: 2026-01-16 · OpenHands · [[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding a status indicator above the chat until the conversation is ready]]
+- Later: 2026-01-16 · OpenCode · [[Changes/OpenCode/2026-01-16-6-interface-experience-changes-in-v1-1-24|6 Interface Experience changes in v1.1.24]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

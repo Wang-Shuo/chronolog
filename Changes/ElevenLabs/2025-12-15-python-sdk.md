@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9f3c4b2110415a3e7c6d53f57fdaf1f4ec586dfbae307e6410fb5bf48a4c1659
+machine_hash: 37dcb0d01dc9c394903a60ee6cade5c2a051941d39e64ba5c6e74b65bbffc3e9
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-12-11 · ChatGPT · [[Changes/ChatGPT/2025-12-11-voice-will-continue-to-be-available-on-chatgpt-com-ios-android-and-windows-app|Voice will continue to be available on chatgpt.com, iOS, Android, and Windows app]]
-- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-2-voice-and-audio-changes-in-v0-6-42|2 Voice and Audio changes in v0.6.42]]
+- Later: 2025-12-17 · Google Antigravity · [[Changes/Google Antigravity/2025-12-17-native-audio-support-for-the-agent|Native audio support for the agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3af61abbeaa93bd6b6672d3c410534501c7022e6a4c46ed61cab8ca82efa0f5e
+machine_hash: 3fd799b1ef8a445ca08c7df2e1a6e5d69e380aea6801123d40a5b217542c63b9
 product: open-webui
 product_name: Open WebUI
 record:
@@ -144,7 +144,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-add-mouse-text-selection-in-alt-screen-mode|Add mouse text selection in --alt-screen mode]]
-- Later: 2026-02-12 · Windsurf · [[Changes/Windsurf/2026-02-12-improved-rtl-language-rendering-in-todo-lists|Improved RTL language rendering in todo lists]]
+- Later: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-core-windows-selection-behavior-and-manual-ctrl-c-handling|Core Windows selection behavior and manual Ctrl+C handling]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

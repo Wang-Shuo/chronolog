@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c6bcfade0d9f9307da9d5735c96b69c1dc26a476eef1999510ec7221afee86f
+machine_hash: ddabc6b674186bc42914dbb8e9d438872740f8a2b9ffe857ff481ee5b78c92b6
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-you-can-use-your-chatgpt-account-to-sign-in-to-participating-products-without-cr|Sign in to other products with ChatGPT]]
-- Later: 2026-10-01 · ChatGPT · [[Changes/ChatGPT/2026-10-01-virtually-try-on-clothing-and-accessories-a-try-on-button-will-appear-on-product|Virtually try on clothing and accessories]]
+- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-15-memory-and-personalization-changes-in-v2026-9-7|15 Memory and Personalization changes in v2026.9.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

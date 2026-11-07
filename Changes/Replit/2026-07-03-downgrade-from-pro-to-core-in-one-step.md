@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d26e57529c7fac33d3b5692355d20875725f9da89a3f389b1822f4f86ae87c9c
+machine_hash: 02d17afc6023f5503eaf722643e0bb3cdc398addb38bb9270b2b003b50bd1ca2
 product: replit
 product_name: Replit
 record:
@@ -49,12 +49,12 @@ record:
   title: Downgrade from Pro to Core in one step
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-2-pricing-model-changes-in-v0-10-0|2 Pricing Model
-  changes in v0.10.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-configure-subagent-concurrency-and-depth-limits-in-settings-usage-based-billing|Configure
-  subagent concurrency and depth limits in /settings (usage-based billing users)]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-require-session-limits-to-be-at-least-30-ai-credits|Require
   session limits to be at least 30 AI credits]]'
+- '[[Changes/OpenClaw/2026-06-30-when-a-codex-subscription-reaches-its-usage-limit-openclaw-now-moves-to-configur|When
+  a Codex subscription reaches its usage limit, OpenClaw now moves to configured…]]'
+- '[[Changes/OpenCode/2026-06-30-sdk-add-a-live-event-subscription-stream|SDK Add
+  a live event subscription stream]]'
 source_release: '[[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|replit-2026-07-03-2026-07-03-1318c060]]'
 source_type: replit_changelog
 theme: pricing-model
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-require-session-limits-to-be-at-least-30-ai-credits|Require session limits to be at least 30 AI credits]]
+- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-sdk-add-a-live-event-subscription-stream|SDK Add a live event subscription stream]]
 - Later: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-workspaces|Workspaces]]
 <!-- chronolog:end -->
 

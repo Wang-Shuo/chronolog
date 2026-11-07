@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0388e2b106fbdfeb3ee905951580e655c0309bc7a229a61cf27f347a4eee8b62
+machine_hash: fb43eca42141361bf76e4ee5b9054564cbb971cfafbe4d9eb7558a0660e1c5e6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,9 +42,10 @@ record:
   title: 2 Image Generation changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-28-flows|Flows]]'
 - '[[Changes/Open WebUI/2026-10-10-5-image-generation-changes-in-v0-12-0|5 Image Generation
   changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-image-generation-with-oauth-can-retry-using-a-supported-openai-chat-model-in-age|Image
+  generation with OAuth can retry using a supported OpenAI chat model…]]'
 - "[[Changes/Open WebUI/2026-10-16-clear-input-selections-shortcut-clearing-the-model-override-selected-tools-and-f|\U0001F9F9
   Clear Input Selections shortcut. Clearing the model override, selected tools…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'

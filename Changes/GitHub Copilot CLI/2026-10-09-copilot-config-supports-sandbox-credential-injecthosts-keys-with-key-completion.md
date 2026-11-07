@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14e944ab68431239a0a70f864b54fa536981dfffc5690951c810e490a1d96cb8
+machine_hash: 46625a1601d8af32ccf20e13ef6b4ef1a99d46567eddd475f0e59ab41bba2f1e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: copilot config supports sandbox credential injectHosts keys, with key completion…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-13-safety-and-privacy-changes-in-rust-v0-162-0|13
-  Safety and Privacy changes in rust-v0.162.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-08-2-safety-and-privacy-changes-in-v1-0-94|2
   Safety and Privacy changes in v1.0.94]]'
+- '[[Changes/OpenClaw/2026-10-08-windows-mxc-sandbox-the-optional-mxc-sandbox-can-start-and-run-tools-on-compatib|Windows
+  MXC sandbox]]'
 - '[[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety
   and Privacy changes in v2.1.296]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-09-v1-0-95-github-408085682-4bdfce3d|github-copilot-cli-2026-10-09-v1-0-95-github-408085682-4bdfce3d]]'

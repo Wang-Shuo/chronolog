@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6bc7f6abf1104b5c7d52176c49c9481192c8dd2af4065e5620e84a1a3458ca42
+machine_hash: 42aab7bac3715f7ae7fb7e6492637326cae268636c506bc25843ef0e7583c109
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 3 Safety and Privacy changes in v2.1.265
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-6-safety-and-privacy-changes-in-rust-v0-153-0|6
-  Safety and Privacy changes in rust-v0.153.0]]'
 - '[[Changes/Claude Code/2026-09-04-4-safety-and-privacy-changes-in-v2-1-261|4 Safety
   and Privacy changes in v2.1.261]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-5-safety-and-privacy-changes-in-v1-0-83|5
   Safety and Privacy changes in v1.0.83]]'
+- '[[Changes/OpenClaw/2026-09-05-24-safety-and-privacy-changes-in-v2026-9-2|24 Safety
+  and Privacy changes in v2026.9.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'
 source_type: github_releases
 theme: safety-privacy
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.265
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-5-safety-and-privacy-changes-in-v1-0-83|5 Safety and Privacy changes in v1.0.83]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-24-safety-and-privacy-changes-in-v2026-9-2|24 Safety and Privacy changes in v2026.9.2]]
 - Later: 2026-09-08 · Gemini CLI · [[Changes/Gemini CLI/2026-09-08-fix-core-enforce-fail-closed-workspace-trust-and-filter-mcpservers-in-restricted|fix(core): enforce fail-closed workspace trust and filter mcpServers in restricted mode]]
 <!-- chronolog:end -->
 

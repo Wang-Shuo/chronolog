@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8837b2762cfac0a998280c092e4a8dca77a288b6fd62abc26d9755f213a1ee78
+machine_hash: 4ffff7a88a9dd9f9ec7fe8cc4c55ed599212f0f12267340a71235214b66404b5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -81,10 +81,10 @@ record:
   title: 19 Agent Mode changes in rust-v0.117.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-agents-can-now-declare-initialprompt-in-frontmatter-to-auto-submit-a-first-turn|Agents
-  can now declare initialPrompt in frontmatter to auto-submit a first turn]]'
 - '[[Changes/Cursor/2026-03-25-cursor-now-supports-self-hosted-cloud-agents-that-keep-your-code-and-tool-execut-e411f3|Self-hosted
   Cloud Agents]]'
+- '[[Changes/Google Antigravity/2026-03-25-various-layout-and-ux-improvements-in-the-agent-manager|Various
+  layout and UX improvements in the agent manager]]'
 - '[[Changes/Claude Code/2026-03-26-2-agent-mode-changes-in-v2-1-84|2 Agent Mode changes
   in v2.1.84]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6|codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6e2b0ea3102e32b2de792bbd7211f336d18a37f1b2fbbf69e36193263fe237b5
+machine_hash: e21d3d7a124d7cc38dc0c2cd74939cb2c259059b7f8964460d9602d46deb4df6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Developer Workflow changes in v0.42.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-10-2-developer-workflow-changes-in-v0-9-5|2 Developer
-  Workflow changes in v0.9.5]]'
 - '[[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added
   hook args: string field (exec form) that spawns the command directly…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-11-2-developer-workflow-changes-in-v1-0-45|2
   Developer Workflow changes in v1.0.45]]'
+- '[[Changes/OpenCode/2026-05-11-terminal-file-and-directory-paths-now-render-relative-to-the-session-directory-w|Terminal
+  File and directory paths now render relative to the session directory…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3|gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3]]'
 source_type: github_releases
 theme: developer-workflow
@@ -89,7 +89,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-2-developer-workflow-changes-in-v1-0-45|2 Developer Workflow changes in v1.0.45]]
+- Earlier: 2026-05-11 · OpenCode · [[Changes/OpenCode/2026-05-11-terminal-file-and-directory-paths-now-render-relative-to-the-session-directory-w|Terminal File and directory paths now render relative to the session directory…]]
 - Later: 2026-05-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-12-long-lines-in-diff-view-wrap-at-terminal-width-instead-of-being-truncated|Long lines in diff view wrap at terminal width instead of being truncated]]
 <!-- chronolog:end -->
 

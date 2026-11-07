@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39711b5713181d0eb116a25f42a65d0ba03544fd52ec47fa2659142b5a460f0c
+machine_hash: a7d94825f4a8f1a604daa4c4a69c8a53aa7e5edb1bed83cdbb6c46a57aa3ffe7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -124,7 +124,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.24.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-agent-mode-changes-in-rust-v0-81-0|2 Agent Mode changes in rust-v0.81.0]]
-- Later: 2026-01-14 · v0 · [[Changes/v0/2026-01-14-improved-agent-error-handling|Improved agent error handling]]
+- Later: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-do-not-allow-agent-to-ask-custom-less-questions|Do not allow agent to ask custom-less questions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

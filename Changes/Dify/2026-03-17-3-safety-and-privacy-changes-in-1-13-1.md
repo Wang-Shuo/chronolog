@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 19514b74cfe9e45e8a73cde5035323b36b0ad050af9a728f917da3dd4bbe7b36
+machine_hash: 571a0f0a19e78904a07de2c8f476dc7c656e17ffda5d883314a0533ad7ecdd51
 product: dify
 product_name: Dify
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Safety and Privacy changes in 1.13.1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-16-extension-tools-now-work-with-the-permissions-system-use-skippermission-per-tool|Extension
-  tools now work with the permissions system, use skipPermission per-tool…]]'
+- '[[Changes/OpenCode/2026-03-16-core-delete-legacy-permission-module|Core Delete
+  legacy permission module]]'
 - '[[Changes/Claude Code/2026-03-17-2-safety-and-privacy-changes-in-v2-1-78|2 Safety
   and Privacy changes in v2.1.78]]'
 - '[[Changes/Claude Code/2026-03-17-3-safety-and-privacy-changes-in-v2-1-77|3 Safety

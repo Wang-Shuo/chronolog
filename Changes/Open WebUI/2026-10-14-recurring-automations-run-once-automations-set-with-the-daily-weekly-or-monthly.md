@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd3530a8c6d3b4f9eabf40d0a251f254a28eceac0aff856df22a0c6bb5a39cd5
+machine_hash: 7d39514126be38d8574d4fd003a4a7721217ebe6eaaf37f3b02eb37c854a6f70
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,10 +60,10 @@ record:
     Daily, Weekly…"
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-12-4-automation-and-scheduling-changes-in-v1-27-0|4
-  Automation and Scheduling changes in v1.27.0]]'
 - '[[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud|Supported
   PostgreSQL extensions on Lovable Cloud]]'
+- '[[Changes/OpenClaw/2026-10-13-windows-service-accounts-updates-recognize-different-task-scheduler-names-for-th|Windows
+  service accounts]]'
 - '[[Changes/Open WebUI/2026-10-14-automation-run-results-an-automation-run-is-now-recorded-as-successful-only-afte|⏰
   Automation run results. An automation run is now recorded as successful only…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'
@@ -110,7 +110,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-automation-run-results-an-automation-run-is-now-recorded-as-successful-only-afte|⏰ Automation run results. An automation run is now recorded as successful only…]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-reasoning-only-max-token-responses-no-longer-loop-indefinitely-and-now-end-with|Reasoning-only max-token responses no longer loop indefinitely and now end…]]
+- Later: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-you-can-now-pick-flash-lite-flash-or-pro-for-an-automation-when-you-create-or-ed|Pick Flash Lite, Flash, or Pro for an automation when you create or edit it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

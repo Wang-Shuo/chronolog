@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02357f5be8f5d8b7604a83b2e02245743b484187afe897319f8bbfef58071049
+machine_hash: 9aa28da2d453e069016703df46f0dde36fd2d376dd0d70f12ec496ad973321f3
 product: aider
 product_name: Aider
 record:

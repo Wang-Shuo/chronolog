@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 85a1a1b3f4a881caebbab3b0c1865304916eae1cda398f9043c350b759a99e07
+machine_hash: 0854fc5cd9bcf1a2cda8923dec96cff41fce10232ff3d5f2aa5b2518c87fa37f
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Pricing Model changes in Cursor Router
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-5-pricing-model-changes-in-1-16-0|5 Pricing Model changes
-  in 1.16.0]]'
+- '[[Changes/Runway/2026-07-21-nano-banana-2-lite-is-now-available-through-runway-mcp-it-s-the-fastest-and-most|Nano
+  Banana 2 Lite]]'
 - '[[Changes/v0/2026-07-21-canceled-plans-show-the-subscription-end-date-in-the-credit-balance-and-checkout|Canceled
   plans show the subscription end date in the credit balance, and checkout…]]'
 - '[[Changes/Claude Code/2026-07-22-changed-server-managed-settings-so-benign-feature-and-cost-toggles-no-longer-tri|Changed

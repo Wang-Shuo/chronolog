@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80ca2299b8bb85831ba8f6831cabf067897427fe8641906b26ccc407c63f3375
+machine_hash: 69a49417d2c52627058c217e83be4c829af487216a2360aff9146151c2c8fcd7
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Model Support changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-28-3-model-support-changes-in-v0-35-0|3 Model Support
-  changes in v0.35.0]]'
+- '[[Changes/OpenCode/2026-09-28-cloudflare-ai-gateway-models-now-honor-provider-response-and-stream-timeouts|Cloudflare
+  AI Gateway models now honor provider response and stream timeouts]]'
 - '[[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1
   Sol in ChatGPT Work and Codex]]'
 - '[[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible

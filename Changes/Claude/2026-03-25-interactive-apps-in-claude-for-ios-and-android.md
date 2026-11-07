@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b7a2e7df74f461693c0eb85efa4bad489350c2b5eae90d6c6a717ff779247577
+machine_hash: 2352edd188d45efdffbdc395644332f27f5f28d9a7adbbdbea319052ec392d84
 product: claude
 product_name: Claude
 record:
@@ -57,10 +57,10 @@ record:
   title: Interactive apps in Claude for iOS and Android
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-14986-temporarily-disable-private-desktop-until-it-works-with-elevated-ipc-path|♯14986
-  temporarily disable private desktop until it works with elevated IPC path…]]'
 - '[[Changes/Replit/2026-03-20-replit-pwa-on-microsoft-app-store|Replit PWA on Microsoft
   App Store]]'
+- '[[Changes/OpenCode/2026-03-22-5-mobile-and-desktop-changes-in-v1-3-0|5 Mobile and
+  Desktop changes in v1.3.0]]'
 - '[[Changes/ElevenLabs/2026-03-23-ios-sdk|iOS SDK]]'
 source_release: '[[Releases/Claude/claude-2026-03-25-2026-03-25-66fcc609|claude-2026-03-25-2026-03-25-66fcc609]]'
 source_type: claude_changelog

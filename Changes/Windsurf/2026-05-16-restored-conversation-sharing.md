@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f808522da976dda74caad3e3720ac1d397a55ed9f5c3a04cd3eb4b580fa14d4
+machine_hash: 3304b0e27f6d7ad432aa7bf8934143a3b441111e274b2c93d731eae9b26f7bb7
 product: windsurf
 product_name: Windsurf
 record:
@@ -38,8 +38,8 @@ record:
   title: Restored conversation sharing
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration
-  changes in rust-v0.129.0]]'
+- '[[Changes/OpenCode/2026-05-09-core-fixed-http-api-auth-responses-to-match-the-previous-wire-format-for-empty-a|Core
+  Fixed HTTP API auth responses to match the previous wire format for empty…]]'
 - '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
   now available in Microsoft Teams]]'
 - '[[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake

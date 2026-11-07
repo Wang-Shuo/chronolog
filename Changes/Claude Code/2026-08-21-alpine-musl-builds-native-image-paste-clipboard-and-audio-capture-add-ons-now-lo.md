@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0aa3849a34102ca18cdc8a24dc448d4d47eb4480065efba4e37dfbd4150ed17e
+machine_hash: 7148e615e3e36bfd489966cd8dddaf2dee3d16786101c0a2cd4c7024d201b2e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,11 @@ record:
     now…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch
-  between typing and dictation]]'
 - '[[Changes/ElevenLabs/2026-08-17-packages|Packages]]'
 - '[[Changes/Codex CLI/2026-08-20-39045-add-managed-gates-for-in-app-chat-and-dictation-copyberry|♯39045
   Add managed gates for in-app chat and dictation @copyberry]]'
+- '[[Changes/Google Antigravity/2026-08-20-large-binary-attachments-returned-by-connected-mcp-tools-images-pdfs-and-audio-a|Large
+  binary attachments returned by connected MCP tools]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: voice
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-39045-add-managed-gates-for-in-app-chat-and-dictation-copyberry|♯39045 Add managed gates for in-app chat and dictation @copyberry]]
+- Earlier: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-large-binary-attachments-returned-by-connected-mcp-tools-images-pdfs-and-audio-a|Large binary attachments returned by connected MCP tools]]
 - Later: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-stop-offering-image-voice-and-other-non-chat-models-in-chat-model-pickers|Stop offering image, voice, and other non-chat models in chat model pickers]]
 <!-- chronolog:end -->
 

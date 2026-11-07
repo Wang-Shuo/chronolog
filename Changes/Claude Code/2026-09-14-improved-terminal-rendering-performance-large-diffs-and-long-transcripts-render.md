@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23285f2797846c922377102174243b59513842d3f04f1893de1c0e0662bae575
+machine_hash: ebb7195909fa199cf88a6c0d1ffed75be4682faf3b4669e14c034b65e92084ba
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: Improved terminal rendering performance
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-reliability-and-performance-changes-in-v2-1-268|2
-  Reliability and Performance changes in v2.1.268]]'
 - '[[Changes/Dify/2026-09-10-a-plugin-could-exhaust-worker-memory-with-one-declared-number-the-blob-chunk-mer|A
   plugin could exhaust worker memory with one declared number. The blob chunk…]]'
 - '[[Changes/Claude Code/2026-09-11-improved-responsiveness-in-long-sessions-transcript-updates-no-longer-re-process|Improved
   responsiveness in long sessions]]'
+- '[[Changes/OpenClaw/2026-09-11-2-reliability-and-performance-changes-in-v2026-9-4|2
+  Reliability and Performance changes in v2026.9.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-improved-responsiveness-in-long-sessions-transcript-updates-no-longer-re-process|Improved responsiveness in long sessions]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-2-reliability-and-performance-changes-in-v2026-9-4|2 Reliability and Performance changes in v2026.9.4]]
 - Later: 2026-09-14 · Ollama · [[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2 Reliability and Performance changes in v0.34.1]]
 <!-- chronolog:end -->
 

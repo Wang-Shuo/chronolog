@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e2513e582bdb5a0cbde87b34ef1b1b5e02d92ca4cbf9ea3d56a979423cd28dee
+machine_hash: 062620cfbfe915f568d45f5ea22d344d66766ad428172337ab5160e5edea0f85
 product: openhands
 product_name: OpenHands
 record:
@@ -54,12 +54,12 @@ record:
   title: 'feat: tag Agent Canvas telemetry by deployment kind (OSS-13530)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-46027-document-and-test-wildcards-in-network-proxy-domain-patterns-viyatb-oai|♯46027
-  Document and test ? wildcards in network proxy domain patterns @viyatb-oai]]'
 - '[[Changes/OpenHands/2026-09-22-docs-codereview-clarify-agent-canvas-checkpoints-by-neubig-in-https-github-com-o|docs(codereview):
   clarify Agent Canvas checkpoints]]'
 - '[[Changes/OpenHands/2026-09-22-docs-review-add-repository-and-product-scope-to-the-canvas-review-guide-by-all-h|docs(review):
   add repository and product scope to the Canvas review guide]]'
+- '[[Changes/OpenClaw/2026-09-23-6-files-and-data-changes-in-v2026-9-6|6 Files and
+  Data changes in v2026.9.6]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-23-v1-23-0-github-394895769-626c8feb|openhands-2026-09-23-v1-23-0-github-394895769-626c8feb]]'
 source_type: github_releases
 theme: file-data
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-docs-review-add-repository-and-product-scope-to-the-canvas-review-guide-by-all-h|docs(review): add repository and product scope to the Canvas review guide]]
+- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-6-files-and-data-changes-in-v2026-9-6|6 Files and Data changes in v2026.9.6]]
 - Later: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved prompt-audit on Claude Code configuration]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65c87a753cdc82e5ac5847f3cd886d65077d3028b006e6385c507e5162e32808
+machine_hash: c75b30305e43c0efd08cafddd596daa6c56ace2bf473a98b9de391b40a06010f
 product: v0
 product_name: v0
 record:
@@ -44,12 +44,12 @@ record:
     author…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811
-  Restrict macOS preference reads to full-disk policies @copyberry]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed
-  builds on Windows create their scratch caches on first run, so cargo, go…]]'
 - '[[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat:
   add linux desktop installer build (CI + deb maintainer fix)]]'
+- '[[Changes/Gamma/2026-08-28-gamma-is-now-on-ios-and-android|Gamma is now on iOS
+  and Android]]'
+- '[[Changes/OpenCode/2026-08-28-desktop-archived-sessions-disappear-from-the-home-list-immediately|Desktop
+  Archived sessions disappear from the Home list immediately]]'
 source_release: '[[Releases/v0/v0-2026-08-28-2026-08-28-1fac4f32|v0-2026-08-28-2026-08-28-1fac4f32]]'
 source_type: v0_changelog
 theme: mobile-desktop
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat: add linux desktop installer build (CI + deb maintainer fix)]]
+- Earlier: 2026-08-28 · OpenCode · [[Changes/OpenCode/2026-08-28-desktop-archived-sessions-disappear-from-the-home-list-immediately|Desktop Archived sessions disappear from the Home list immediately]]
 - Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps]]
 <!-- chronolog:end -->
 

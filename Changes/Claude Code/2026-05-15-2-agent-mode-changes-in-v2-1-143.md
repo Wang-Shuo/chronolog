@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae6986e21ecf26c4bee07900811097d02df08f80f2fc2fe140972ba342459df5
+machine_hash: b55414730d961a215d4774cf65b02855a5068cd55950766098156301e61119d7
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-for-difficult-coding-and-agentic-tasks|For difficult coding and agentic tasks]]
-- Later: 2026-05-15 · Replit · [[Changes/Replit/2026-05-15-agent|Agent]]
+- Later: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-added-experimental-background-subagents-so-tasks-can-keep-running-while-you-cont|Added experimental background subagents so tasks can keep running while you continue…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

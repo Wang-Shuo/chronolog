@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c15861ead9eecb4294627bac5a24277a0c0fa9f9602f0b6c73c462aa0b7210b
+machine_hash: 59afe9800ee8773a0d9e4d19ea919cfa61ce8d4f31870a6b92bbe1213fcedc7a
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat: enable LLM provider connections on cloud'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added
-  maxEffortLevel setting (top-level or per model under modelSettings)]]'
-- '[[Changes/Codex CLI/2026-09-09-21-model-support-changes-in-rust-v0-154-0|21 Model
-  Support changes in rust-v0.154.0]]'
-- '[[Changes/Codex CLI/2026-09-09-gpt-6-astra-is-now-available-in-the-model-picker-and-amazon-bedrock-catalogs-428|GPT-6-Astra
-  is now available in the model picker and Amazon Bedrock catalogs]]'
+- '[[Changes/Google Antigravity/2026-09-09-2-model-support-changes-in-hub-v2-13-0-introducing-new-documents|2
+  Model Support changes in HUB v2.13.0 — Introducing new Documents…]]'
+- '[[Changes/OpenCode/2026-09-09-added-the-astra-system-prompt-for-gpt-6-models|Added
+  the Astra system prompt for GPT-6 models]]'
+- '[[Changes/OpenCode/2026-09-09-2-model-support-changes-in-v1-18-30|2 Model Support
+  changes in v1.18.30]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-09-v1-17-0-github-385787922-b4569793|openhands-2026-09-09-v1-17-0-github-385787922-b4569793]]'
 source_type: github_releases
 theme: model-support
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-gpt-6-astra-is-now-available-in-the-model-picker-and-amazon-bedrock-catalogs-428|GPT-6-Astra is now available in the model picker and Amazon Bedrock catalogs]]
-- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support changes in v2.1.268]]
+- Earlier: 2026-09-09 · OpenCode · [[Changes/OpenCode/2026-09-09-2-model-support-changes-in-v1-18-30|2 Model Support changes in v1.18.30]]
+- Later: 2026-09-09 · Suno · [[Changes/Suno/2026-09-09-the-v6-family-of-models-enables-new-possibilities|The v6 family of models enables new possibilities]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,0 +1,82 @@
+---
+card_id: opencode-2026-04-16-8b9a32
+date: '2026-04-16'
+description: 'OpenCode · 2026-04-16 · Other changes: 2 changes in v1.4.7 — Core Experimental
+  workspaces now wait for sync to finish before returning writes, reducing stale…'
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: e1b27197bb25df4e8b5aa32ec744954172e5e61b676c83cbeb9960e7ee7cbbe5
+product: opencode
+product_name: OpenCode
+record:
+  card_id: opencode-2026-04-16-8b9a32
+  comparison: ''
+  date: '2026-04-16'
+  description: 'OpenCode — v1.4.7: 2 other changes'
+  evidence:
+  - quote: Core Experimental workspaces now wait for sync to finish before returning
+      writes, reducing stale reads and missed updates.
+    source_release: https://opencode.ai/changelog/v1.4.7
+  - quote: Core Session restore can now replay a session into another workspace in
+      batches.
+    source_release: https://opencode.ai/changelog/v1.4.7
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: opencode
+  product_name: OpenCode
+  slug: 2-other-changes-in-v1-4-7
+  source_release: opencode-2026-04-16-v1-4-7-dcd33aa7
+  source_type: opencode_changelog
+  theme: uncategorized
+  title: 2 other changes in v1.4.7
+  type: change
+source_release: '[[Releases/OpenCode/opencode-2026-04-16-v1-4-7-dcd33aa7|opencode-2026-04-16-v1-4-7-dcd33aa7]]'
+source_type: opencode_changelog
+theme: uncategorized
+title: 2 other changes in v1.4.7
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 2 other changes in v1.4.7
+
+**OpenCode** · 2026-04-16 · Other changes · Digest · [Official source](https://opencode.ai/changelog/v1.4.7) · from [[Releases/OpenCode/opencode-2026-04-16-v1-4-7-dcd33aa7|v1.4.7]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> Core Experimental workspaces now wait for sync to finish before returning writes, reducing stale reads and missed updates.
+
+> Core Session restore can now replay a session into another workspace in batches.
+
+Source: https://opencode.ai/changelog/v1.4.7
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/OpenCode/2026-04-16-github-copilot-gpt-5-mini-now-uses-low-reasoning-effort-for-better-request-compa|GitHub Copilot gpt-5-mini now uses low reasoning effort for better request compatibility]] · Model Support
+- [[Changes/OpenCode/2026-04-16-core-fixed-github-copilot-overbilling-issue|Core Fixed Github Copilot overbilling issue]] · Editor Experience
+- [[Changes/OpenCode/2026-04-16-2-apps-and-integrations-changes-in-v1-4-7|2 Apps and Integrations changes in v1.4.7]] · Apps and Integrations
+- [[Changes/OpenCode/2026-04-16-desktop-desktop-builds-now-show-a-beta-or-dev-badge-in-the-title-bar-when-applic|Desktop Desktop builds now show a Beta or Dev badge in the title bar when applicable]] · Mobile and Desktop
+- [[Changes/OpenCode/2026-04-16-core-the-bash-tool-uses-less-memory-on-large-command-output|Core The bash tool uses less memory on large command output]] · Memory and Personalization
+- [[Changes/OpenCode/2026-04-16-core-workspaces-now-receive-your-auth-context-so-provider-sign-in-carries-across|Core Workspaces now receive your auth context, so provider sign-in carries across…]] · Account and Access
+- [[Changes/OpenCode/2026-04-16-3-developer-workflow-changes-in-v1-4-7|3 Developer Workflow changes in v1.4.7]] · Developer Workflow
+- [[Changes/OpenCode/2026-04-16-4-model-support-changes-in-v1-4-7|4 Model Support changes in v1.4.7]] · Model Support
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20opencode-2026-04-16-8b9a32&body=Card%3A%20Changes%2FOpenCode%2F2026-04-16-2-other-changes-in-v1-4-7.md%0ACard%20ID%3A%20opencode-2026-04-16-8b9a32%0ASource%3A%20https%3A%2F%2Fopencode.ai%2Fchangelog%2Fv1.4.7%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

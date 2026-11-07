@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 17cca3cd011ef75863169e1f7dea2a9a349c0fc27625a1cc7e056be09bac336f
+machine_hash: 6f613ce7826eb79b5917932393b8b2ba00ba3f6e1c52d788cd706413bc40cd89
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: Add support for Gemini 4 Argon
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-13-gemini-4-argon-for-your-app-s-ai-features|Gemini 4
-  Argon for your app''s AI features]]'
+- '[[Changes/OpenClaw/2026-10-13-3-model-support-changes-in-v2026-10-3|3 Model Support
+  changes in v2026.10.3]]'
 - '[[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support
   changes in v2.1.299]]'
 - '[[Changes/Claude Code/2026-10-14-improved-the-note-claude-3-models-get-about-an-mentioned-pdf-so-they-less-often|Improved

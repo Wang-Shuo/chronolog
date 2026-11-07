@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7465a776e23e18bcf62c991c4fd53cd398fddbb8af0f285126175f657f101a3d
+machine_hash: a355b84805b47ad9a6bcf820a9c19a1abfa67b27e9daad2af7f3a8e43ec0669e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,10 +63,10 @@ record:
   title: Data plugin in ChatGPT Work and Codex
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude
-  Tag Added a "Use a custom connector" link to the preset connection forms…]]'
 - '[[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19
   Apps and Integrations changes in rust-v0.154.0]]'
+- '[[Changes/OpenCode/2026-09-09-2-apps-and-integrations-changes-in-v1-18-30|2 Apps
+  and Integrations changes in v1.18.30]]'
 - '[[Changes/OpenHands/2026-09-09-docs-remove-duplicate-openhands-extensions-bullet-in-development-md-by-imitater|docs:
   remove duplicate OpenHands/extensions bullet in DEVELOPMENT.md]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-10-data-plugin-in-chatgpt-work-and-codex-a8ab26d9|chatgpt-2026-09-10-data-plugin-in-chatgpt-work-and-codex-a8ab26d9]]'

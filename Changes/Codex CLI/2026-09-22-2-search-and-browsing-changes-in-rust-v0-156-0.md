@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d50032b24a1fbfc9bd31c5afd3d4db929ab4def5a2998262fcb8c64781723452
+machine_hash: 899e10eaa2a0b16cf089096334588ae281d40c9d41e7bc38d2db8b5a43261393
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Search and Browsing changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-18-try-the-lovable-api-in-postman|Try the Lovable API
-  in Postman]]'
+- '[[Changes/OpenClaw/2026-09-19-6-search-and-browsing-changes-in-v2026-9-5|6 Search
+  and Browsing changes in v2026.9.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-consecutive-steering-prompts-in-the-same-mode-combine-into-one-pending-message-p|Consecutive
   steering prompts in the same mode combine into one pending message]]'
 - '[[Changes/Open WebUI/2026-09-21-6-search-and-browsing-changes-in-v0-11-4|6 Search

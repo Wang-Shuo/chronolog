@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a09137453b1add1e0c5a849794a134381496c5102f4302e49e7cd5860ce92061
+machine_hash: 24c0c1fb080f4c7be757bd05d314e0302abf0535b12dc2c8939c8896828a5aab
 product: dify
 product_name: Dify
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.2
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-wave-13-merry-shipmas|Wave 13: Merry Shipmas]]
-- Later: 2025-12-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-30-kill-command-filtering-now-allows-commands-when-kill-appears-as-an-argument|Kill command filtering now allows commands when 'kill' appears as an argument]]
+- Later: 2025-12-29 · OpenCode · [[Changes/OpenCode/2025-12-29-core-fix-eslint-lsp-server-auto-installation-failure-on-windows|Core Fix ESLint LSP server auto-installation failure on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

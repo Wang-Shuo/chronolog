@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4e7da44d11fedc11dfa86dd733d95507d99f5d5394d47236d37b336d47504cf6
+machine_hash: 7982ffdf286f3627f45f30144559245cbccd36ef013674bfc7a0d83361fb4dee
 product: replit
 product_name: Replit
 record:
@@ -44,12 +44,11 @@ record:
   title: LLM routing improvements
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-14-6-model-support-changes-in-v0-6-16|6 Model Support
-  changes in v0.6.16]]'
 - '[[Changes/Cline/2025-07-15-add-kimi-k2-as-trending-model-by-celestial-vault-in-https-github-com-cline-cline|Add
   kimi-k2 as trending model]]'
 - '[[Changes/OpenHands/2025-07-16-added-openhands-provider-for-llm-through-openhands-cloud-by-xingyaoww-in-https-g|Added
   OpenHands provider for LLM through OpenHands Cloud]]'
+- '[[Changes/Runway/2025-07-17-next-generation-motion-capture-model-with-major-improvements-in-generation-quali|Act-Two]]'
 source_release: '[[Releases/Replit/replit-2025-07-18-2025-07-18-829a891d|replit-2025-07-18-2025-07-18-829a891d]]'
 source_type: replit_changelog
 theme: model-support
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-16 · OpenHands · [[Changes/OpenHands/2025-07-16-added-openhands-provider-for-llm-through-openhands-cloud-by-xingyaoww-in-https-g|Added OpenHands provider for LLM through OpenHands Cloud]]
+- Earlier: 2025-07-17 · Runway · [[Changes/Runway/2025-07-17-next-generation-motion-capture-model-with-major-improvements-in-generation-quali|Act-Two]]
 - Later: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-as-of-https-github-com-openai-codex-pull-1594-we-now-stream-the-response-from-th|As of (source link) we now stream the response…]]
 <!-- chronolog:end -->
 

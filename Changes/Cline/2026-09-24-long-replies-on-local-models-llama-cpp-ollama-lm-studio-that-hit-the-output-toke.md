@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5fc364546f891c49c30d6d1901cdc6d63b625e1c38fe1a92b7b80f906688eee3
+machine_hash: 027054b994bc7d60e104f93c928f21a1e455ad4dd138583853289b56fa67dfbb
 product: cline
 product_name: Cline
 record:
@@ -58,12 +58,12 @@ record:
   title: Long replies on local models (llama.cpp, Ollama, LM Studio) that hit…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-09-21-3-context-window-changes-in-v0-11-4|3 Context Window
-  changes in v0.11.4]]'
 - '[[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window
   changes in v4.1.20]]'
 - '[[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context
   Window changes in rust-v0.156.0]]'
+- '[[Changes/OpenClaw/2026-09-23-25-context-window-changes-in-v2026-9-6|25 Context
+  Window changes in v2026.9.6]]'
 source_release: '[[Releases/Cline/cline-2026-09-24-v4-1-21-github-395862160-2e42664e|cline-2026-09-24-v4-1-21-github-395862160-2e42664e]]'
 source_type: github_releases
 theme: context-window
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context Window changes in rust-v0.156.0]]
+- Earlier: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-25-context-window-changes-in-v2026-9-6|25 Context Window changes in v2026.9.6]]
 - Later: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-2-context-window-changes-in-v2-1-283|2 Context Window changes in v2.1.283]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8cfcb6531084a25621788d90a0a3003f6d455a9866f99eb1a851deed2f4c4501
+machine_hash: 9cc070d595831e4bf2e7f10f1f5b96ac3395fd855414a8643a6e3989ea6b176a
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: 'chore: improve reference variable picker user experience'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE
-  (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]]'
 - "[[Changes/Open WebUI/2024-04-04-latex-chat-screen-overflow-fixed-screen-overflow-issue-with-latex-rendering|\U0001F4DC
   LaTeX Chat Screen Overflow: Fixed screen overflow issue with LaTeX rendering]]"
+- '[[Changes/Runway/2024-04-05-a-redesigned-gen-2-user-interface-that-makes-even-our-most-complex-tools-easier|Updated
+  Gen-2 UI]]'
 - '[[Changes/Cursor/2024-04-12-cursor-help-pane-beta-you-can-also-ask-cursor-about-cursor-the-cursor-help-pane|Cursor
   Help Pane (Beta): You can also ask Cursor about Cursor!]]'
 source_release: '[[Releases/Dify/dify-2024-04-16-0-6-3-github-151300363-b9531748|dify-2024-04-16-0-6-3-github-151300363-b9531748]]'

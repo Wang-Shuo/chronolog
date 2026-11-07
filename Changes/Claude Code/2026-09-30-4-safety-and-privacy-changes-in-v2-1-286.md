@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba3ec83de82f14afd0ef6c2ae0e36ed6dcf13f5acdc8469b4312c77a8d0e7d54
+machine_hash: a284a1407f229b4c0818f4fcfd4f0d2628a291312823cbc6c7d76e92b86aaa37
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: 4 Safety and Privacy changes in v2.1.286
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-28-2-safety-and-privacy-changes-in-v1-0-89|2
-  Safety and Privacy changes in v1.0.89]]'
+- '[[Changes/Google Antigravity/2026-09-28-2-safety-and-privacy-changes-in-hub-v2-18-1-manage-install-plugins|2
+  Safety and Privacy changes in HUB v2.18.1 — Manage & Install plugins…]]'
 - '[[Changes/Claude Code/2026-09-29-9-safety-and-privacy-changes-in-v2-1-285|9 Safety
   and Privacy changes in v2.1.285]]'
 - '[[Changes/Codex CLI/2026-09-29-3-safety-and-privacy-changes-in-rust-v0-159-0|3

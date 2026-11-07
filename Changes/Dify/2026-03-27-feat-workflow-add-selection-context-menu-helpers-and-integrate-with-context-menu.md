@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ca683a056ac429849aeb36e9f91a6347c87bc5141c22f6f8252899f07f13dcb
+machine_hash: e6225271163806b719997a43d38b1ba4e4160853aa2c03bf2326ae2bc8619a86
 product: dify
 product_name: Dify
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-3-context-window-changes-in-v2-1-86|3 Context Window changes in v2.1.86]]
-- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16286-auth-generalize-external-auth-tokens-for-bearer-only-sources-bolinfest|♯16286 auth: generalize external auth tokens for bearer-only sources @bolinfest]]
+- Later: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-2-context-window-changes-in-v1-3-6-2|2 Context Window changes in v1.3.6 + 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

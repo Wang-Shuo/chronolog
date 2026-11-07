@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d6f5d91d7ede8a2d18bf6a3cd36079cac92dd0e09e8dafdf742c269f427e3f7e
+machine_hash: 43b3b7d1224209e2ae145818967d036f617be3b7526b3e28a247fbd1184509ed
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Display reasoning token usage in the per-model token breakdown when nonzero
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|GPT-5.3
-  Instant mini in ChatGPT]]'
+- '[[Changes/OpenCode/2026-04-09-core-hide-unsupported-variants-for-big-pickle-models|Core
+  Hide unsupported variants for Big Pickle models]]'
 - '[[Changes/Codex CLI/2026-04-10-5-model-support-changes-in-rust-v0-119-0|5 Model
   Support changes in rust-v0.119.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-custom-agent-model-field-now-accepts-display-names-and-vendor-suffixes-from-vs-c|Custom
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-custom-agent-model-field-now-accepts-display-names-and-vendor-suffixes-from-vs-c|Custom agent model field now accepts display names and vendor suffixes from VS Code…]]
-- Later: 2026-04-13 · ElevenLabs · [[Changes/ElevenLabs/2026-04-13-python-sdk|Python SDK]]
+- Later: 2026-04-10 · OpenCode · [[Changes/OpenCode/2026-04-10-core-added-fast-mode-variants-for-supported-claude-and-gpt-models|Core Added fast mode variants for supported Claude and GPT models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

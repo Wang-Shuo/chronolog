@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 340225a1d8f67f508c6e4ce4a3642cb9e769a8fc54e208bbef043967e0694f35
+machine_hash: 68464aa58a91052b67d8c8d1ad8a4d1ba4cbb0731083b4a27ef8d5e42f3c3e5d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
   title: Share a prompt
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share
-  Sites with people outside your workspace]]'
-- '[[Changes/Codex CLI/2026-09-03-6-collaboration-changes-in-rust-v0-153-0|6 Collaboration
-  changes in rust-v0.153.0]]'
+- '[[Changes/OpenClaw/2026-09-03-7-collaboration-changes-in-v2026-9-1|7 Collaboration
+  changes in v2026.9.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-exporting-a-resumed-session-with-share-or-share-gist-writes-the-whole-transcript|Exporting
   a resumed session with --share or --share-gist writes the whole transcript…]]'
+- '[[Changes/OpenClaw/2026-09-05-9-collaboration-changes-in-v2026-9-2|9 Collaboration
+  changes in v2026.9.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-exporting-a-resumed-session-with-share-or-share-gist-writes-the-whole-transcript|Exporting a resumed session with --share or --share-gist writes the whole transcript…]]
-- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-4-collaboration-changes-in-share-files-and-folders|4 Collaboration changes in Share files and folders…]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-9-collaboration-changes-in-v2026-9-2|9 Collaboration changes in v2026.9.2]]
+- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-4-collaboration-changes-in-v2026-9-3|4 Collaboration changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

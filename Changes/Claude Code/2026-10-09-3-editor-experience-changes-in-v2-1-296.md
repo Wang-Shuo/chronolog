@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: beafbd1b4702514dc276c5e06316e236716a2f8a7f11c1922f2c84af9cfc014b
+machine_hash: a1a86a124f7e47dd1fe0d136bd4573280a2b65ceda6b4d373d61e4788e97b4d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,11 @@ record:
   title: 3 Editor Experience changes in v2.1.296
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-07-read-user-settings-only-from-copilot-settings-json-user-setting-keys-in-copilot|Read
-  user settings only from ~/.copilot/settings.json]]'
 - '[[Changes/Claude Code/2026-10-08-changed-tab-stops-to-count-from-where-a-text-starts-instead-of-from-the-screen-s|Changed
   tab stops to count from where a text starts instead of from the screen''s left edge]]'
 - '[[Changes/Codex CLI/2026-10-08-50216-use-the-shared-text-editor-for-command-center-task-renaming-bc-openai|♯50216
   Use the shared text editor for command-center task renaming @bc-openai]]'
+- '[[Changes/Midjourney/2026-10-08-thinking-mode|THINKING MODE]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: editor-experience
@@ -101,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-50216-use-the-shared-text-editor-for-command-center-task-renaming-bc-openai|♯50216 Use the shared text editor for command-center task renaming @bc-openai]]
+- Earlier: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-thinking-mode|THINKING MODE]]
 - Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-21-editor-experience-changes-in-v0-12-0|21 Editor Experience changes in v0.12.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a75b0c1bd4b0f102b1475f5469e4de0ba67e98e4f8a5bf6a3534828d0f407cee
+machine_hash: 771c1b70e1e56146db78c57862f2e37b0bbedfaac7303fb8d5699283220c4df3
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,10 @@ record:
   title: Gemini 3.5 Flash for AI features in your app
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-23069-multiagent-trim-model-visible-description-cap-to-5-models-sayan-oai|♯23069
-  multiagent: trim model-visible description, cap to 5 models @sayan-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-shell-tool-calls-succeed-even-when-the-model-omits-the-description-parameter|Shell
   tool calls succeed even when the model omits the description parameter]]'
+- '[[Changes/OpenCode/2026-05-20-2-model-support-changes-in-v1-15-6|2 Model Support
+  changes in v1.15.6]]'
 - '[[Changes/Codex CLI/2026-05-21-18868-add-mitm-hook-config-model-evawong-oai|♯18868
   Add MITM hook config model @evawong-oai]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-21-2026-05-21-42edfd96|lovable-2026-05-21-2026-05-21-42edfd96]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-18868-add-mitm-hook-config-model-evawong-oai|♯18868 Add MITM hook config model @evawong-oai]]
-- Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-2-model-support-changes-in-v0-43-0|2 Model Support changes in v0.43.0]]
+- Later: 2026-05-21 · OpenCode · [[Changes/OpenCode/2026-05-21-core-restored-openai-reasoning-streams|Core Restored OpenAI reasoning streams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

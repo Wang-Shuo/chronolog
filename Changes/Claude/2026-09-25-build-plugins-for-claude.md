@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f67a0ad1abc197d67190a710e284422108933c04c0ce145f5dcda54231a839de
+machine_hash: f0e1fd62f8721b03f089ab80339babd8b77f1e2549e01b67056e101671ede212
 product: claude
 product_name: Claude
 record:
@@ -48,8 +48,8 @@ record:
   title: Build plugins for Claude
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-typo-tolerant-connector-search|Typo-tolerant connector
-  search]]'
+- '[[Changes/Runway/2026-09-23-runway-mcp-is-now-available-on-cursor-s-marketplace-making-it-easy-to-bring-runw|Runway
+  MCP on Cursor]]'
 - '[[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8
   Apps and Integrations changes in v2.1.282]]'
 - '[[Changes/Lovable/2026-09-24-create-update-and-publish-storyblok-content-from-your-app|Create,

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e62bc977f3159ca44b1cc00e775f58ffaf6effd4ec56f6c58e6952a762466f6
+machine_hash: 1d37a4fe31176511f412e4525ef5f29e37b1da241d88520e8d07ab58508fcfbf
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,10 +52,10 @@ record:
   title: Status line commands now receive `COLUMNS` and `LINES` environment variables…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added
-  /reload-skills command to re-scan skill directories without restarting the session]]'
 - '[[Changes/Gemini CLI/2026-05-27-feat-core-expose-rag-snippets-to-local-log-file-for-debugging-by-spencer426-in-h|feat(core):
   expose RAG snippets to local log file for debugging]]'
+- '[[Changes/OpenCode/2026-05-27-3-developer-workflow-changes-in-v1-15-11|3 Developer
+  Workflow changes in v1.15.11]]'
 - '[[Changes/Claude Code/2026-05-28-simplify-now-runs-a-cleanup-only-review-reuse-simplification-efficiency-altitude|/simplify
   now runs a cleanup-only review…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'

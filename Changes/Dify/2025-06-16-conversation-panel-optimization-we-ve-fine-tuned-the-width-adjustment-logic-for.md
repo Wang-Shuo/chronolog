@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7049fdc5aeab4c45a522f47ce44e9fc916dfdf9b70ecc98cf1975a465c418d08
+machine_hash: 06d85090a0cc550f368d268a2d28295ff970e788c390c9bd79065d89af5e7535
 product: dify
 product_name: Dify
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-markdown-rendering-fixes-ensured-abbreviations-display-properly-in-react-markdow|Markdown Rendering Fixes]]
-- Later: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-4-interface-experience-changes-in-1-5-0|4 Interface Experience changes in 1.5.0]]
+- Later: 2025-06-16 · Midjourney · [[Changes/Midjourney/2025-06-16-basic-instructions|Basic Instructions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

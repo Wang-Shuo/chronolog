@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a096652a0ac0cd9f91056d53f1e05e3e3999c4780e71b8f05a79fcb440e04a0d
+machine_hash: 18b4f81ca439a0186b680b4f6851321aee7dd512b7da4bb179599bbf9327c7f4
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -42,12 +42,11 @@ record:
   title: '**Fixes**: History items for v4 generations keep `clone_strength` and `speed`…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-29-2-reliability-and-performance-changes-in-v0-12-5|2
-  Reliability and Performance changes in v0.12.5]]'
-- '[[Changes/Windsurf/2026-10-29-reduced-memory-usage-for-large-devin-local-sessions|Reduced
-  memory usage for large Devin Local sessions]]'
-- '[[Changes/Claude Code/2026-10-30-3-reliability-and-performance-changes-in-v2-1-314|3
-  Reliability and Performance changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-desktop-stability-fixes|Desktop Stability Fixes]]'
+- '[[Changes/OpenCode/2026-10-30-faster-long-sessions-in-desktop|Faster Long Sessions
+  in Desktop]]'
+- '[[Changes/OpenCode/2026-10-30-desktop-fixed-timeline-growth-zoom-end-scrolling-highlighting-and-dom-observer-p|Desktop
+  Fixed timeline growth, zoom-end scrolling, highlighting, and DOM-observer…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'
 source_type: elevenlabs_changelog
 theme: reliability-performance
@@ -102,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-reliability-and-performance-changes-in-v2-1-314|3 Reliability and Performance changes in v2.1.314]]
+- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-desktop-fixed-timeline-growth-zoom-end-scrolling-highlighting-and-dom-observer-p|Desktop Fixed timeline growth, zoom-end scrolling, highlighting, and DOM-observer…]]
 - Later: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-faster-top-k-sampling-on-mlx-for-large-vocabularies|Faster top-k sampling on MLX for large vocabularies]]
 <!-- chronolog:end -->
 

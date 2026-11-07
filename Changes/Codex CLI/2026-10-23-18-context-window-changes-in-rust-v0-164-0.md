@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5791d69dac0238d4ca7acc7c299c21ad17d3bc9b5a11d459ecfdb21f8fe71a86
+machine_hash: fcf081dd064f1af0b562a48959f9154a39ca01b7a70f69bffa1ddfc47e2e7990
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -84,12 +84,12 @@ record:
   title: 18 Context Window changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-21-flint-https-ollama-com-library-flint-brings-recursive-s-coding-model-to-ollama-i|Flint((source
-  link) brings Recursive''s coding model to Ollama]]'
 - '[[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated
   the /claude-api skill]]'
 - '[[Changes/Ollama/2026-10-22-ollama-launch-now-passes-cloud-models-context-lengths-and-capabilities-to-coding|ollama
   launch now passes cloud models'' context lengths and capabilities to coding…]]'
+- '[[Changes/OpenClaw/2026-10-22-4-context-window-changes-in-v2026-10-6|4 Context
+  Window changes in v2026.10.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
 source_type: github_releases
 theme: context-window
@@ -168,7 +168,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-22 · Ollama · [[Changes/Ollama/2026-10-22-ollama-launch-now-passes-cloud-models-context-lengths-and-capabilities-to-coding|ollama launch now passes cloud models' context lengths and capabilities to coding…]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-4-context-window-changes-in-v2026-10-6|4 Context Window changes in v2026.10.6]]
 - Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-context-window-changes-in-1-18-0|3 Context Window changes in 1.18.0]]
 <!-- chronolog:end -->
 

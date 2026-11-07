@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1dccbbcf5b9d13c27f0de4ac104c5830067e4869e1816b84b5dd9af28f4f0d7b
+machine_hash: fbe75d2669ca564f6c02abf351d4130d9d9365f016e6aa836874eaee765da28e
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -70,9 +70,10 @@ record:
   title: DeepSeek-V4-Flash Update
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-model-support-changes-in-v1-0-76|2 Model
-  Support changes in v1.0.76]]'
-- '[[Changes/Lovable/2026-07-30-opus-5|Opus 5]]'
+- '[[Changes/OpenCode/2026-07-30-discover-available-modal-models-automatically|Discover
+  available Modal models automatically]]'
+- '[[Changes/OpenCode/2026-07-30-desktop-hide-the-model-variant-selector-until-model-data-finishes-loading|Desktop
+  Hide the model variant selector until model data finishes loading]]'
 - '[[Changes/Cline/2026-07-31-legacy-bundle-legacy-extension-3fdc186f1-4-0-12-free-model-button-wording|Legacy
   bundle: legacy-extension @ 3fdc186f1 (4.0.12 + free-model button wording)]]'
 source_release: '[[Releases/DeepSeek API/deepseek-api-2026-07-31-2026-07-31-9665255c|deepseek-api-2026-07-31-2026-07-31-9665255c]]'
@@ -122,7 +123,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-31 · Cline · [[Changes/Cline/2026-07-31-legacy-bundle-legacy-extension-3fdc186f1-4-0-12-free-model-button-wording|Legacy bundle: legacy-extension @ 3fdc186f1 (4.0.12 + free-model button wording)]]
-- Later: 2026-07-31 · Lovable · [[Changes/Lovable/2026-07-31-opt-out-of-ai-model-training|Opt out of AI model training]]
+- Later: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-enterprise-sign-in-gemini-enterprise-accounts-and-workforce-identity-federation|Enterprise sign-in: Gemini Enterprise accounts and Workforce Identity Federation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

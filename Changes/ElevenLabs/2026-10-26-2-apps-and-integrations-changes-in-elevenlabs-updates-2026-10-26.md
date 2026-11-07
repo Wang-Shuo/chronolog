@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20d8db79457974d983eee31bd8fa1cbd4f8a1dd227b72857d937a138c28e6c22
+machine_hash: 55c9bac0b58d1df6ddc50f1452f68c447b7e6a6097dec930ddf09f2a9f4c19ef
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,8 +49,8 @@ record:
   title: 2 Apps and Integrations changes in ElevenLabs updates — 2026-10-26
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-5-apps-and-integrations-changes-in-v3-11-212|5 Apps
-  and Integrations changes in v3.11.212]]'
+- '[[Changes/OpenClaw/2026-10-24-7-apps-and-integrations-changes-in-v2026-10-7|7 Apps
+  and Integrations changes in v2026.10.7]]'
 - '[[Changes/Open WebUI/2026-10-25-5-apps-and-integrations-changes-in-v0-12-4|5 Apps
   and Integrations changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3
@@ -109,7 +109,7 @@ Source: https://elevenlabs.io/docs/changelog/2026/10/26
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3 Apps and Integrations changes in v2.1.311]]
-- Later: 2026-10-26 · Lovable · [[Changes/Lovable/2026-10-26-redesigned-connector-pages|Redesigned connector pages]]
+- Later: 2026-10-26 · Gamma · [[Changes/Gamma/2026-10-26-introducing-gamma-5|Introducing Gamma 5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

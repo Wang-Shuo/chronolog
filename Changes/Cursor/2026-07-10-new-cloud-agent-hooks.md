@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 48e122762016a2301c9b605a2a4fdfb53974736acb7a081f486b86445ce0330c
+machine_hash: e30daca7d2e4dc5e46a0e478414392a8244e7b7861c7eea96fc8e13475910e92
 product: cursor
 product_name: Cursor
 record:
@@ -54,8 +54,8 @@ record:
   title: New cloud agent hooks
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-4-agent-mode-changes-in-rust-v0-144-0|4 Agent Mode
-  changes in rust-v0.144.0]]'
+- '[[Changes/OpenCode/2026-07-09-desktop-updated-sub-agent-task-rows-to-match-the-v2-session-design-more-closely|Desktop
+  Updated sub-agent task rows to match the v2 session design more closely]]'
 - '[[Changes/OpenHands/2026-07-09-feat-enterprise-agent-profiles-on-the-cloud-saas-backend-15044-by-simonrosenberg|feat(enterprise):
   Agent Profiles on the cloud/SaaS backend (♯15044)]]'
 - '[[Changes/Claude Code/2026-07-10-2-agent-mode-changes-in-v2-1-206|2 Agent Mode

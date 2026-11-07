@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4df73631920f0b9a817ebd90b7014df109ce38977b7735c128e55b57139cf2ca
+machine_hash: 18056426bd3bf1f658811c68922d1ffd042940392051051fa008455c641453b2
 product: v0
 product_name: v0
 record:
@@ -41,12 +41,12 @@ record:
   title: Added sign-in dialog on public chats for logged-out users
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-manual-url-paste-fallback-during-mcp-oauth-authentication-if-the-automatic|Added
-  manual URL paste fallback during MCP OAuth authentication]]'
 - '[[Changes/Open WebUI/2026-03-01-3-account-and-access-changes-in-v0-8-6|3 Account
   and Access changes in v0.8.6]]'
 - '[[Changes/Codex CLI/2026-03-02-3-account-and-access-changes-in-rust-v0-107-0|3
   Account and Access changes in rust-v0.107.0]]'
+- '[[Changes/OpenCode/2026-03-03-normalize-trailing-slashes-in-auth-login-urls|Normalize
+  trailing slashes in auth login URLs]]'
 source_release: '[[Releases/v0/v0-2026-03-04-2026-03-04-a91c7249|v0-2026-03-04-2026-03-04-a91c7249]]'
 source_type: v0_changelog
 theme: account-access
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-3-account-and-access-changes-in-rust-v0-107-0|3 Account and Access changes in rust-v0.107.0]]
+- Earlier: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-normalize-trailing-slashes-in-auth-login-urls|Normalize trailing slashes in auth login URLs]]
 - Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-2-account-and-access-changes-in-v2-1-69|2 Account and Access changes in v2.1.69]]
 <!-- chronolog:end -->
 

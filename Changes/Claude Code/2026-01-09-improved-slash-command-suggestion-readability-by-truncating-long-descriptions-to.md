@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1db887cceb08479a374b564a6363fc008e97df76d1b86d4415cef0628bf4f4ab
+machine_hash: 9e7bac730e243f37829c256f0b25fd2e3691fe85da115de45c6c8ab2658f31ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     to 2 lines
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-07-render-paths-relative-to-the-current-working-directory-before-checking-git-roots|Render
-  paths relative to the current working directory before checking git roots…]]'
-- '[[Changes/Gemini CLI/2026-01-07-4-developer-workflow-changes-in-v0-23-0|4 Developer
-  Workflow changes in v0.23.0]]'
+- '[[Changes/OpenCode/2026-01-07-7-developer-workflow-changes-in-v1-1-6|7 Developer
+  Workflow changes in v1.1.6]]'
 - '[[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3
   Developer Workflow changes in New CLI Features and Improved CLI…]]'
+- '[[Changes/OpenCode/2026-01-08-9-developer-workflow-changes-in-v1-1-7|9 Developer
+  Workflow changes in v1.1.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3 Developer Workflow changes in New CLI Features and Improved CLI…]]
+- Earlier: 2026-01-08 · OpenCode · [[Changes/OpenCode/2026-01-08-9-developer-workflow-changes-in-v1-1-7|9 Developer Workflow changes in v1.1.7]]
 - Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer Workflow changes in v2.1.2]]
 <!-- chronolog:end -->
 

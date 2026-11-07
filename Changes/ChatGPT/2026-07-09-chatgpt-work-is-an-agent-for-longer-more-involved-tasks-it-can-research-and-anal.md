@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 1fcb1ff99c7b9a820c353effcc5c26c17bb3f878a37a2f7a109082435518aadd
+machine_hash: eeeb7a8bba7d51c23e0b45d3f3355d93897b69048151a8e3070f716e1bf08f45
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,12 +61,12 @@ record:
   title: ChatGPT Work is an agent for longer, more involved tasks
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-double-press-esc-now-interrupts-the-running-main-turn-flushing-queued-messages-o|Double-press
-  Esc now interrupts the running main turn (flushing queued messages)…]]'
 - '[[Changes/Claude Code/2026-07-08-3-agent-mode-changes-in-v2-1-205|3 Agent Mode
   changes in v2.1.205]]'
 - '[[Changes/Codex CLI/2026-07-08-10-agent-mode-changes-in-rust-v0-143-0|10 Agent
   Mode changes in rust-v0.143.0]]'
+- '[[Changes/Runway/2026-07-08-agent-can-now-build-custom-skills-for-you-ask-it-to-create-one-from-scratch-or-t|Custom
+  Agent Skills]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
 source_type: chatgpt_changelog
 theme: agent-mode
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-10-agent-mode-changes-in-rust-v0-143-0|10 Agent Mode changes in rust-v0.143.0]]
+- Earlier: 2026-07-08 · Runway · [[Changes/Runway/2026-07-08-agent-can-now-build-custom-skills-for-you-ask-it-to-create-one-from-scratch-or-t|Custom Agent Skills]]
 - Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-4-agent-mode-changes-in-rust-v0-144-0|4 Agent Mode changes in rust-v0.144.0]]
 <!-- chronolog:end -->
 

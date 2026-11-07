@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4bdfe6602f90615504eb9b211d2079ff68e2c05e0a7ebad30349ce652ee3a8eb
+machine_hash: 4c9cb7987f8e3637ecb2ea0baadb8c5a254b735c3292ed0410b9252466734d61
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-6-safety-and-privacy-changes-in-rust-v0-95-0|6 Safety and Privacy changes in rust-v0.95.0]]
-- Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-2-safety-and-privacy-changes-in-rust-v0-97-0|2 Safety and Privacy changes in rust-v0.97.0]]
+- Later: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-core-improve-skills-system-with-better-prompting-fix-permission-requests-after-s|Core Improve skills system with better prompting, fix permission requests after…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

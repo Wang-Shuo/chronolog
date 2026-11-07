@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2b6851bf62c08db4c2c13e6683ccb0900b781d470db6e9bbe84ed4583380f6cd
+machine_hash: 2d7b92a9452be898b891e1d8f02c6855c89527c7dc1fcce78ba1b688a945df42
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,10 +57,10 @@ record:
   title: 6 Safety and Privacy changes in rust-v0.153.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-41227-use-compatible-powershell-for-elevated-windows-sandbox-commands-copyberry|♯41227
-  Use compatible PowerShell for elevated Windows sandbox commands @copyberry]]'
 - '[[Changes/Claude Code/2026-09-02-4-safety-and-privacy-changes-in-v2-1-259|4 Safety
   and Privacy changes in v2.1.259]]'
+- '[[Changes/Google Antigravity/2026-09-02-permission-prompts-again-describe-the-specific-action-being-requested-instead-of|Permission
+  prompts again describe the specific action being requested instead…]]'
 - '[[Changes/Claude Code/2026-09-03-7-safety-and-privacy-changes-in-v2-1-260|7 Safety
   and Privacy changes in v2.1.260]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f|codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f]]'
@@ -116,7 +116,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.153.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-7-safety-and-privacy-changes-in-v2-1-260|7 Safety and Privacy changes in v2.1.260]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-4-safety-and-privacy-changes-in-v2-1-261|4 Safety and Privacy changes in v2.1.261]]
+- Later: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-10-safety-and-privacy-changes-in-v2026-9-1|10 Safety and Privacy changes in v2026.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

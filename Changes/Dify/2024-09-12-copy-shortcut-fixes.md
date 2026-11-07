@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c4a6e850a9cbda35c85d35c49e802a4aef22896a856343356dd5649101e2987
+machine_hash: 8e171d4d94f72572707a5ab623ea2750488b18a7251fc8d294039dcb66590855
 product: dify
 product_name: Dify
 record:
@@ -41,12 +41,12 @@ record:
   title: '**Copy Shortcut Fixes**'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-09-04-codeactagent-recovers-upon-a-llm-completion-exception-by-shubhamofbce-in-https-g|CodeActAgent
-  recovers upon a llm completion exception]]'
 - "[[Changes/Open WebUI/2024-09-05-ui-styling-refined-the-user-interface-styling-for-enhanced-visual-coherence-and|\U0001F3A8
   UI Styling]]"
 - '[[Changes/Open WebUI/2024-09-07-2-interface-experience-changes-in-v0-3-20|2 Interface
   Experience changes in v0.3.20]]'
+- '[[Changes/Gamma/2024-09-10-click-share-at-the-top-of-your-screen-or-in-the-menu-at-the-top-right-and-select|Click
+  Share at the top of your screen or in the ... menu at the top right…]]'
 source_release: '[[Releases/Dify/dify-2024-09-12-0-8-1-github-174827526-2c0e447a|dify-2024-09-12-0-8-1-github-174827526-2c0e447a]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-09-07 · Open WebUI · [[Changes/Open WebUI/2024-09-07-2-interface-experience-changes-in-v0-3-20|2 Interface Experience changes in v0.3.20]]
+- Earlier: 2024-09-10 · Gamma · [[Changes/Gamma/2024-09-10-click-share-at-the-top-of-your-screen-or-in-the-menu-at-the-top-right-and-select|Click Share at the top of your screen or in the ... menu at the top right…]]
 - Later: 2024-09-19 · Open WebUI · [[Changes/Open WebUI/2024-09-19-iphone-compatibility-adjustments-added-padding-to-accommodate-the-iphone-navigat|📱 iPhone Compatibility Adjustments]]
 <!-- chronolog:end -->
 

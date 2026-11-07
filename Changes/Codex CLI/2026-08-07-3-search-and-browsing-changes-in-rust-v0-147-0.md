@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a1ab0bd641f6a570068c2e58afbf06eb24ccc0f75075a09c37e3c59727b75db0
+machine_hash: 6944b1d69c8f30fb0f5c7ce28636b8170b207cfb50edfc866d0ae14523d04c0b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Search and Browsing changes in rust-v0.147.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-changed-deep-research-to-start-only-when-invoked-manually-claude-no-longer-launc|Changed
-  /deep-research to start only when invoked manually]]'
+- '[[Changes/OpenCode/2026-07-24-core-preserve-grep-symlink-paths-in-search-results|Core
+  Preserve grep symlink paths in search results]]'
 - '[[Changes/Open WebUI/2026-07-27-7-search-and-browsing-changes-in-v0-11-0|7 Search
   and Browsing changes in v0.11.0]]'
 - '[[Changes/Codex CLI/2026-07-29-2-search-and-browsing-changes-in-rust-v0-146-0|2

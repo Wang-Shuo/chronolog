@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5cb634eab89d8550a2288ca32b5515f33a940817611e57d3b7462ade91aa9e6d
+machine_hash: d77f04da1b77a52f1b93bb9bb1cb0e7ef382890b2105ddf3c65e63c073aedfdc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,10 +60,10 @@ record:
   title: 5 Reliability and Performance changes in v0.8.11
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-reduced-memory-usage-when-viewing-large-files-in-their-entirety|Reduced
-  memory usage when viewing large files in their entirety]]'
 - '[[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0
   Release Candidate]]'
+- '[[Changes/OpenCode/2026-03-24-2-reliability-and-performance-changes-in-v1-3-2-1|2
+  Reliability and Performance changes in v1.3.2 + 1]]'
 - '[[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3
   Reliability and Performance changes in v2.1.83]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69|open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69]]'

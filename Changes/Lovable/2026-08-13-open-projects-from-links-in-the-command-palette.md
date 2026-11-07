@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 65caf0b696763799d16889be8db3bafeeb145fc88f1b3e605a8668c5e370d657
+machine_hash: dc6a163c2baf866a8e7028d2d65d871009a2ad09ea5ae2b4b407b42feccb4609
 product: lovable
 product_name: Lovable
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-13 · Cline · [[Changes/Cline/2026-08-13-use-the-editor-s-foreground-color-for-diff-block-text-so-diffs-stay-legible-in-t|Use the editor's foreground color for diff block text, so diffs stay legible…]]
-- Later: 2026-08-14 · Lovable · [[Changes/Lovable/2026-08-14-download-your-codebase-from-git-settings|Download your codebase from Git settings]]
+- Later: 2026-08-13 · Suno · [[Changes/Suno/2026-08-13-midi-import-record-and-edit-midi-directly-on-the-timeline-play-using-a-midi-cont|MIDI: Import, record and edit MIDI directly on the timeline, play using a MIDI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

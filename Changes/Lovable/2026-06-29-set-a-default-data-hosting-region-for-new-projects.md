@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e7042ef4f792fdd277f2e6f2f17248363c47dac62e9c05d16c6f6e3b6a9a613b
+machine_hash: cdada0c3ed80374981564ad6f9d225c707ebcab8a944eed407131c9dedbc253e
 product: lovable
 product_name: Lovable
 record:
@@ -68,8 +68,8 @@ record:
   title: Set a default data hosting region for new projects
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-14-safety-and-privacy-changes-in-1-15-0|14 Safety and
-  Privacy changes in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-3-safety-and-privacy-changes-in-hub-v2-2-1-antigravity-guide-audio|3
+  Safety and Privacy changes in HUB v2.2.1 — Antigravity Guide, audio…]]'
 - '[[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed
   external plugins enabled only by project .claude/settings.json not requiring…]]'
 - '[[Changes/Claude Code/2026-06-29-security-claude-mcp-list-get-no-longer-spawn-mcp-json-servers-that-a-repo-self-a|Security:

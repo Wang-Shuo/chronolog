@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f4e0b1f9c865a9236edd95aca35f6c15f1583c328cd047e513ec1eddf18d59e1
+machine_hash: d309de5382878e9c5c3192f15e45d57c81ce7aaf29e9101b3b8b72b25dca72f6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -160,8 +160,8 @@ record:
   title: 28 Model Support changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-04-17-claude-opus-4-7-powers-power-mode|Claude Opus 4.7 powers
-  Power mode]]'
+- '[[Changes/OpenCode/2026-04-19-core-use-display-summarized-by-default-for-anthropic-bedrock-opus-4-7-requests|Core
+  Use display: summarized by default for Anthropic Bedrock Opus 4.7 requests]]'
 - '[[Changes/Codex CLI/2026-04-20-6-model-support-changes-in-rust-v0-122-0|6 Model
   Support changes in rust-v0.122.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-20-ctrl-t-to-toggle-reasoning-display-is-now-listed-in-the-help-and-overlay|ctrl+t

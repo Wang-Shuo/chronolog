@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a02ee0516b7361ef47108177e75f62bd2f0ea1d1599fcee95ff56006c3da9834
+machine_hash: 80595a9edb4e0eb4ec6669e47de2ec816586cb04402fde3a9518a1e812bcaf44
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: Added LLM model on conversation cards and header
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-2-model-support-changes-in-v2-1-126|2 Model Support
-  changes in v2.1.126]]'
 - '[[Changes/Cline/2026-05-01-2-model-support-changes-in-v3-82-0|2 Model Support changes
   in v3.82.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-2-model-support-changes-in-v1-0-40|2 Model
   Support changes in v1.0.40]]'
+- '[[Changes/OpenCode/2026-05-01-desktop-restoring-saved-messages-no-longer-crashes-the-app-when-a-model-is-missi|Desktop
+  Restoring saved messages no longer crashes the app when a model is missing]]'
 source_release: '[[Releases/OpenHands/openhands-2026-05-01-1-7-0-github-316415064-290087ee|openhands-2026-05-01-1-7-0-github-316415064-290087ee]]'
 source_type: github_releases
 theme: model-support
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-2-model-support-changes-in-v1-0-40|2 Model Support changes in v1.0.40]]
-- Later: 2026-05-03 · Ollama · [[Changes/Ollama/2026-05-03-the-ollama-app-now-surfaces-featured-models-from-server-driven-recommendations|The Ollama app now surfaces featured models from server-driven recommendations]]
+- Earlier: 2026-05-01 · OpenCode · [[Changes/OpenCode/2026-05-01-desktop-restoring-saved-messages-no-longer-crashes-the-app-when-a-model-is-missi|Desktop Restoring saved messages no longer crashes the app when a model is missing]]
+- Later: 2026-05-02 · OpenCode · [[Changes/OpenCode/2026-05-02-core-fixed-bedrock-sessions-that-include-reasoning-content-when-switching-models|Core Fixed Bedrock sessions that include reasoning content when switching models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

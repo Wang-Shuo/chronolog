@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 21f37bd3895a899a84f2c688f598d35075885bced1a95050b768daa46ce22c82
+machine_hash: 527f2109f5d8ea1a83ba77d3f6500ef523932a128b965798077d90b4992edce5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: '#47984 Add multi-agent spawn latency and failure metrics @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-23-2-reliability-and-performance-changes-in-v0-34-4|2
-  Reliability and Performance changes in v0.34.4]]'
+- '[[Changes/OpenClaw/2026-09-23-5-reliability-and-performance-changes-in-v2026-9-6|5
+  Reliability and Performance changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-25-2-reliability-and-performance-changes-in-v2-1-283|2
   Reliability and Performance changes in v2.1.283]]'
 - '[[Changes/Claude Code/2026-09-28-improved-startup-time-and-memory-use-by-building-only-the-parts-of-the-settings|Improved

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44faec32831f72c87bc7d83eb9b98a197bad17de22f6408e5726ec791f814d04
+machine_hash: 9f47e46ed19b174cab0c46ab6ece31e8e7642ace340038eb104a4b4d23970d78
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,7 @@ record:
   title: 2 Agent Mode changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode
-  changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-guided-claude-agent-setup|Guided Claude Agent Setup]]'
 - '[[Changes/Replit/2026-10-30-contribute-to-your-company-codebase-with-cloud-agents|Contribute
   to your company codebase with Cloud Agents]]'
 - '[[Changes/Replit/2026-10-30-message-and-create-chats-with-agent|Message and create

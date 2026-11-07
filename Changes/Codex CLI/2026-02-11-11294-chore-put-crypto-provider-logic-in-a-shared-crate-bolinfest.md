@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: daf826e1c97cd3d46334260b2e9eb3a8dd50efab0cb61d47d079b350abc02e37
+machine_hash: 05fff167ae22b2c9d683a1dd151865dd36e74f7db23dd43d5507931088d4f325
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: '#11294 chore: put crypto provider logic in a shared crate @bolinfest'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added
-  research preview agent teams feature for multi-agent collaboration…]]'
 - '[[Changes/Codex CLI/2026-02-05-2-collaboration-changes-in-rust-v0-98-0|2 Collaboration
   changes in rust-v0.98.0]]'
 - '[[Changes/Replit/2026-02-06-for-teams|For Teams]]'
+- '[[Changes/OpenCode/2026-02-10-core-correct-data-api-usage-and-data-format-for-importing-share-urls|Core
+  Correct /data API usage and data format for importing share URLs]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
 source_type: github_releases
 theme: collaboration
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-06 · Replit · [[Changes/Replit/2026-02-06-for-teams|For Teams]]
+- Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-core-correct-data-api-usage-and-data-format-for-importing-share-urls|Core Correct /data API usage and data format for importing share URLs]]
 - Later: 2026-02-12 · Cline · [[Changes/Cline/2026-02-12-telemetry-route-posthog-networking-through-proxy-aware-shared-fetch-and-ensure-t|Telemetry: route PostHog networking through proxy-aware shared fetch and ensure…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ec138fafd004ccb9a2b52255bb348b5e9febcab93a5b2e199e4e892096bbba84
+machine_hash: 9d16d2eb7998e5836bf6efd41d88af34a5e8bab3223ef5d62a44cde787274fe4
 product: lovable
 product_name: Lovable
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-2-account-and-access-changes-in-v1-0-70|2 Account and Access changes in v1.0.70]]
-- Later: 2026-07-15 · Lovable · [[Changes/Lovable/2026-07-15-email-alerts-for-sign-ins-from-a-new-device-and-country|Email alerts for sign-ins from a new device and country]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-69-account-and-access-changes-in-v2026-7-1|69 Account and Access changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

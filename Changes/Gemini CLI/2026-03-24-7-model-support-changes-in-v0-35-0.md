@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca3256825240e7dca005c21f7dccc052433f7222a71c4d5ada9b113d5cf1e48c
+machine_hash: 9a76967062be3c7e160a099c4553d60287ba217ea9ca2b9e4e539dac7533e04c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -58,8 +58,8 @@ record:
   title: 7 Model Support changes in v0.35.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-2-model-support-changes-in-v1-0-10|2 Model
-  Support changes in v1.0.10]]'
+- '[[Changes/OpenCode/2026-03-22-3-model-support-changes-in-v1-3-0|3 Model Support
+  changes in v1.3.0]]'
 - '[[Changes/ElevenLabs/2026-03-23-new-schemas|New Schemas]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-23-ensure-models-appear-in-picker-correctly-display-model-names-where-possible|Ensure
   models appear in picker correctly, display model names where possible]]'
@@ -117,7 +117,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.35.0
 ## Nearby in Model Support
 
 - Earlier: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-ensure-models-appear-in-picker-correctly-display-model-names-where-possible|Ensure models appear in picker correctly, display model names where possible]]
-- Later: 2026-03-25 · Ollama · [[Changes/Ollama/2026-03-25-if-you-have-ollama-installed-any-local-or-cloud-model-from-ollama-can-be-selecte|If you have Ollama installed, any local or cloud model from Ollama can be selected…]]
+- Later: 2026-03-25 · Google Antigravity · [[Changes/Google Antigravity/2026-03-25-added-support-for-reading-rules-from-agents-md-in-addition-to-gemini-md|Added support for reading rules from AGENTS.md in addition to GEMINI.md]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

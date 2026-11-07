@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bfc5a3572e03a69885eb9acb72c81a0098b852c0b451140501ce492216ba78ba
+machine_hash: 1124984ac2e6cf7200707aaca5a0c494c520536a0d824046d0f98a367096e9ed
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.130.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|Added
-  sandbox.bwrapPath and sandbox.socatPath managed settings (Linux/WSL)…]]'
 - '[[Changes/Codex CLI/2026-05-07-11-safety-and-privacy-changes-in-rust-v0-129-0|11
   Safety and Privacy changes in rust-v0.129.0]]'
+- '[[Changes/OpenCode/2026-05-07-desktop-allow-trusted-app-windows-to-write-to-the-clipboard-without-permission-f|Desktop
+  Allow trusted app windows to write to the clipboard without permission failures]]'
 - '[[Changes/Claude Code/2026-05-08-2-safety-and-privacy-changes-in-v2-1-136|2 Safety
   and Privacy changes in v2.1.136]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-08-rust-v0-130-0-github-319777370-eab676f9|codex-cli-2026-05-08-rust-v0-130-0-github-319777370-eab676f9]]'

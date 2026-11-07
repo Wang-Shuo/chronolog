@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 142cf3a2b689b50ada8ab0d70a2a1025e66e00b0c19bb243db187b0c21c45fd0
+machine_hash: 6294dd629e825d58a2d19753ded958ec7cbf0a3f20d53f063e68be3ea7682dc1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,10 +58,10 @@ record:
   title: 4 Reliability and Performance changes in v0.6.41
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-11-25-a-critical-postgresql-user-listing-performance-issue-was-resolved-by-removing-a|\U0001F5C4️
-  A critical PostgreSQL user listing performance issue was resolved by removing…]]"
 - '[[Changes/Dify/2025-11-26-4-reliability-and-performance-changes-in-1-10-1|4 Reliability
   and Performance changes in 1.10.1]]'
+- '[[Changes/Google Antigravity/2025-11-26-stability-and-bug-fixes|Stability and Bug
+  Fixes]]'
 - '[[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat:
   update Cerebras models and speed]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-12-02-v0-6-41-github-266904152-3dfc9f25|open-webui-2025-12-02-v0-6-41-github-266904152-3dfc9f25]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8124d93b44f8d5210e7e024f2a9371e59ce1e6ca8b721c1d18b1dc98766b438
+machine_hash: 3361647e2a4b7fe046024ce21f59b8c0997a8d8a10136184c3ca94c2ceba3508
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#12800 fix: enforce sandbox envelope for zsh fork execution @bolinfest'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-24-3-safety-and-privacy-changes-in-v2-1-51|3 Safety
-  and Privacy changes in v2.1.51]]'
+- '[[Changes/OpenCode/2026-02-24-core-normalize-paths-at-permission-boundaries-on-windows|Core
+  Normalize paths at permission boundaries on Windows]]'
 - '[[Changes/Codex CLI/2026-02-25-9-safety-and-privacy-changes-in-rust-v0-105-0|9
   Safety and Privacy changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-refactor-core-adopt-coretoolcallstatus-enum-for-type-safety-by-jerop-in-https-gi|refactor(core):

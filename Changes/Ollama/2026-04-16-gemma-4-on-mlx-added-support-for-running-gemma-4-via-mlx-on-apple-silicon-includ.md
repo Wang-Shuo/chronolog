@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b6c214773aa43f87051ecc4baf7a2c2b5f346029d444b3763c69de217bbaf382
+machine_hash: 239f4e530c690ed3fb400adbe6dbaadeedbe1a4ea9a6306359f2c7f29fcc6c42
 product: ollama
 product_name: Ollama
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-add-support-for-claude-opus-4-7|Add support for Claude Opus 4.7]]
-- Later: 2026-04-17 · Claude · [[Changes/Claude/2026-04-17-claude-design-by-anthropic-labs|Claude Design by Anthropic Labs]]
+- Later: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-github-copilot-gpt-5-mini-now-uses-low-reasoning-effort-for-better-request-compa|GitHub Copilot gpt-5-mini now uses low reasoning effort for better request compatibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

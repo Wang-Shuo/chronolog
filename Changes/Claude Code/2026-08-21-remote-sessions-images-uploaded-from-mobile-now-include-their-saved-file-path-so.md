@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a11e8d0e143ec77b964fe505051741b978e843b315e506f871e8aaeb5475431
+machine_hash: 669d55a233d4e541fa485f726ecebca3d6f5defaf5f632d0ab8a81c82c65b06d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     path…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep
-  pinned chats in sync]]'
 - '[[Changes/Claude Code/2026-08-20-improved-startup-bare-claude-starts-sooner-on-macos|Improved
   startup: bare claude starts sooner on macOS]]'
 - '[[Changes/Codex CLI/2026-08-20-7-mobile-and-desktop-changes-in-rust-v0-149-0|7
   Mobile and Desktop changes in rust-v0.149.0]]'
+- '[[Changes/OpenCode/2026-08-20-desktop-kept-saved-server-details-editable-in-the-server-dialog|Desktop
+  Kept saved server details editable in the server dialog]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-7-mobile-and-desktop-changes-in-rust-v0-149-0|7 Mobile and Desktop changes in rust-v0.149.0]]
+- Earlier: 2026-08-20 · OpenCode · [[Changes/OpenCode/2026-08-20-desktop-kept-saved-server-details-editable-in-the-server-dialog|Desktop Kept saved server details editable in the server dialog]]
 - Later: 2026-08-21 · Ollama · [[Changes/Ollama/2026-08-21-developers-can-now-easily-configure-claude-desktop-to-seamlessly-work-with-ollam|Developers can now easily configure Claude Desktop to seamlessly work with Ollama…]]
 <!-- chronolog:end -->
 

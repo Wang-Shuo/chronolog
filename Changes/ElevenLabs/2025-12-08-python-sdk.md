@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 137d78d122f68d55bfbd998f4c5cd2da3f1dcc5b9aa917ad4b6ad60ce947b1d6
+machine_hash: cb74fb76fa897c21c6285c85ed3c96025fa19f03e23364d0e510ad70e10b6f6c
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,8 +50,8 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-04-2-apps-and-integrations-changes-in-rust-v0-65-0|2
-  Apps and Integrations changes in rust-v0.65.0]]'
+- '[[Changes/Runway/2025-12-04-turn-your-workflows-into-apps-you-can-share-with-your-workspace|Publish
+  Workflows as Apps]]'
 - '[[Changes/ElevenLabs/2025-12-08-sdk-releases|SDK Releases]]'
 - '[[Changes/ElevenLabs/2025-12-08-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-12-08-2025-12-08-7be8ac95|elevenlabs-2025-12-08-2025-12-08-7be8ac95]]'
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-2-apps-and-integrations-changes-in-rust-v0-65-0|2 Apps and Integrations changes in rust-v0.65.0]]
+- Earlier: 2025-12-04 · Runway · [[Changes/Runway/2025-12-04-turn-your-workflows-into-apps-you-can-share-with-your-workspace|Publish Workflows as Apps]]
 - Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-3-apps-and-integrations-changes-in-rust-v0-66-0|3 Apps and Integrations changes in rust-v0.66.0]]
 <!-- chronolog:end -->
 

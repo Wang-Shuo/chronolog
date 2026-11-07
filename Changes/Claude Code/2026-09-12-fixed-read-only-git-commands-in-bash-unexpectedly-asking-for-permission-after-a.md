@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: e6a4f572e9c71a04a2202d09373c1989a1ef8775398438b13eeb1748806ecb8e
+machine_hash: 037db89e5d52277b32a646c39fc993cd50e95d465592e9d7e6a1c9ec5f217edb
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,11 @@ record:
   title: Fixed read-only git commands in Bash unexpectedly asking for permission after…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-16-safety-and-privacy-changes-in-1-17-1|16 Safety and
-  Privacy changes in 1.17.1]]'
 - '[[Changes/Windsurf/2026-09-10-devin-cloud|Devin Cloud]]'
 - '[[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety
   and Privacy changes in v2.1.269]]'
+- '[[Changes/OpenClaw/2026-09-11-12-safety-and-privacy-changes-in-v2026-9-4|12 Safety
+  and Privacy changes in v2026.9.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-12-v2-1-270-github-387670363-32c73094|claude-code-2026-09-12-v2-1-270-github-387670363-32c73094]]'
 source_type: github_releases
 theme: safety-privacy
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety and Privacy changes in v2.1.269]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-12-safety-and-privacy-changes-in-v2026-9-4|12 Safety and Privacy changes in v2026.9.4]]
 - Later: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-if-you-make-no-changes-to-your-plugins-settings-the-default-permission-setting-i|If you make no changes to your Plugins settings, the default permission setting…]]
 <!-- chronolog:end -->
 

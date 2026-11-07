@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 25129c1d03576e2652bea8874473350e085eb7bbfadc1503ff76f3ebd03f5b9c
+machine_hash: e511bef7dc18e2b2780ce445d3edd9d5ab4ebfd83cb036a815bc0964d43705fa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Custom instruction files preserve special characters like & and <placeholders>
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-08-2-memory-and-personalization-changes-in-v0-37-0|2
-  Memory and Personalization changes in v0.37.0]]'
+- '[[Changes/OpenCode/2026-04-08-core-reduced-typescript-lsp-memory-use-by-using-the-native-project-config|Core
+  Reduced TypeScript LSP memory use by using the native project config]]'
 - '[[Changes/Codex CLI/2026-04-10-2-memory-and-personalization-changes-in-rust-v0-119-0|2
   Memory and Personalization changes in rust-v0.119.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-agent-no-longer-hangs-on-the-first-turn-when-the-memory-backend-is-unavailable|Agent

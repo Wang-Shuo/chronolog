@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 384b31fe3680cfe19331eaf9cbe67dbf5463f328795801f82f339ba3a6c2f645
+machine_hash: d3d130696448f81f0b9a4b369555720dab8e4ca599ee938c95e7f7ec6da049b1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Context Window changes in rust-v0.142.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-bash-commands-now-trigger-claude-to-respond-to-the-output-automatically-set-resp|!
-  bash commands now trigger Claude to respond to the output automatically]]'
 - '[[Changes/Codex CLI/2026-06-22-10-context-window-changes-in-rust-v0-142-0|10 Context
   Window changes in rust-v0.142.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-3-context-window-changes-in-v1-0-64|3 Context
   Window changes in v1.0.64]]'
+- '[[Changes/OpenCode/2026-06-24-core-waited-for-plugins-before-loading-reference-backed-config-and-system-contex|Core
+  Waited for plugins before loading reference-backed config and system context]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c|codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c]]'
 source_type: github_releases
 theme: context-window
@@ -86,7 +86,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-3-context-window-changes-in-v1-0-64|3 Context Window changes in v1.0.64]]
+- Earlier: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-core-waited-for-plugins-before-loading-reference-backed-config-and-system-contex|Core Waited for plugins before loading reference-backed config and system context]]
 - Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-3-context-window-changes-in-1-15-0|3 Context Window changes in 1.15.0]]
 <!-- chronolog:end -->
 

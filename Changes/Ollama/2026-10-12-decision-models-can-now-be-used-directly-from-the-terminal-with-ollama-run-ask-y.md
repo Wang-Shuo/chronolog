@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94318805802f8a9f5cf234ffde400855d4e979cb09f5144224ca4197af38a42f
+machine_hash: 26376b63fe4cf0176fc666f5c684fe5b3368fc3ecb6364858c810bec3a3988b1
 product: ollama
 product_name: Ollama
 record:
@@ -53,10 +53,10 @@ record:
   title: Decision models can now be used directly from the terminal with `ollama run`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer
-  Workflow changes in v2.1.296]]'
-- '[[Changes/Open WebUI/2026-10-10-27-developer-workflow-changes-in-v0-12-0|27 Developer
-  Workflow changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-11-developer-workflow-changes-in-v2026-10-1|11 Developer
+  Workflow changes in v2026.10.1]]'
+- '[[Changes/OpenCode/2026-10-11-terminal-use-update-to-install-opencode-updates-or-upgrade-to-opencode-2-updates|Terminal
+  Use /update to install OpenCode updates or upgrade to OpenCode 2]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-interactive-sessions-in-git-repositories-reach-the-input-prompt-sooner|Interactive
   sessions in git repositories reach the input prompt sooner]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-12-v0-40-4-github-410905890-5db61c07|ollama-2026-10-12-v0-40-4-github-410905890-5db61c07]]'
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-interactive-sessions-in-git-repositories-reach-the-input-prompt-sooner|Interactive sessions in git repositories reach the input prompt sooner]]
-- Later: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-deleting-a-slash-command-from-the-input-keeps-the-spacing-of-the-text-around-it|Deleting a slash command from the input keeps the spacing of the text around it]]
+- Later: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-2-developer-workflow-changes-in-v2026-10-2|2 Developer Workflow changes in v2026.10.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

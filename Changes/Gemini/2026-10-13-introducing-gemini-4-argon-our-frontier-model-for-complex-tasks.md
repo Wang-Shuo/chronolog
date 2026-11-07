@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8347202d0267fc5b8fc1418eb9488b5a3d49c6bbbfccae527e26287265b53475
+machine_hash: 0327c6eec0ba316a5aa7767c7127c7305702f457b6abfcae4bdfeb6050452103
 product: gemini
 product_name: Gemini
 record:
@@ -60,8 +60,8 @@ record:
   title: 'Introducing Gemini 4 Argon: our frontier model for complex tasks'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-12-3-model-support-changes-in-v0-40-4|3 Model Support
-  changes in v0.40.4]]'
+- '[[Changes/OpenClaw/2026-10-12-9-model-support-changes-in-v2026-10-2|9 Model Support
+  changes in v2026.10.2]]'
 - '[[Changes/OpenHands/2026-10-12-3-model-support-changes-in-v1-27-0|3 Model Support
   changes in v1.27.0]]'
 - '[[Changes/Cline/2026-10-13-3-model-support-changes-in-v4-1-24|3 Model Support changes

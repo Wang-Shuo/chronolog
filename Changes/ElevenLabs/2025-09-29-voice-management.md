@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1f34344cdf1e3cdb4bebd808cded6d2551b075dd56748e127b2aa63df1d21bea
+machine_hash: c12143c89860ad36583571d6cb5ac83f2fd58dda312278c598cf8f9fa7e4e03a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -67,8 +67,8 @@ record:
   title: Voice Management
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-25-3-voice-and-audio-changes-in-v3-31-0|3 Voice and Audio
-  changes in v3.31.0]]'
+- '[[Changes/Suno/2025-09-25-create-infinite-stem-variations-instantly-generate-vocals-drums-synths-and-more|Create
+  infinite stem variations → Instantly generate vocals, drums, synths, and more…]]'
 - '[[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn
   off voice mode, to remove the option to use voice mode in ChatGPT]]'
 - '[[Changes/ElevenLabs/2025-09-29-speech-to-text|Speech to Text]]'

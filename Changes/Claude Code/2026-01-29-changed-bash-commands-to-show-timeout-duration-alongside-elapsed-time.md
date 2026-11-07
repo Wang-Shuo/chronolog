@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 424a787ae009b17efed8233868f430dfafbec034534b3b88f3c88c355df444fd
+machine_hash: f2a5965d0ea1adcafda2678f0b3f2baaefb2c11638636bec7c41528eb1b9dd9b
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Changed Bash commands to show timeout duration alongside elapsed time
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-skills-from-parent-directories-are-now-invocable-and-work-in-non-git-directories|Skills
-  from parent directories are now invocable and work in non-git directories]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-28-header-layout-adapts-better-to-narrow-terminal-widths|Header
-  layout adapts better to narrow terminal widths]]'
+- '[[Changes/OpenCode/2026-01-28-terminal-add-streaming-prop-to-markdown-element|Terminal
+  Add streaming prop to markdown element]]'
+- '[[Changes/OpenCode/2026-01-28-9-developer-workflow-changes-in-v1-1-37|9 Developer
+  Workflow changes in v1.1.37]]'
 - '[[Changes/v0/2026-01-28-added-toast-notification-when-pull-requests-are-merged|Added
   toast notification when pull requests are merged]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a]]'

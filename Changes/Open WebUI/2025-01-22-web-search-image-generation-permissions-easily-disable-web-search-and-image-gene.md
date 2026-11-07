@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b027d0052c4fca1b7baae57cd50379734f108f908c1fd250f32d23ffeff20b41
+machine_hash: 21eb8e43be30d614594b4c267f2192258188b438a7af340eb61d42393ce1fde6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,12 +58,11 @@ record:
   title: "**\U0001F50D Web Search & Image Generation Permissions**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused
-  view has an updated layout]]'
 - "[[Changes/Open WebUI/2024-12-26-image-generation-error-fixed-the-issue-causing-get-automatic1111-api-auth-errors|\U0001F5BC️
   Image Generation Error]]"
 - "[[Changes/Open WebUI/2024-12-27-image-generation-error-resolved-a-persistent-issue-causing-errors-with-get-autom|\U0001F3A8
   Image Generation Error]]"
+- '[[Changes/Runway/2025-01-17-our-most-advanced-base-model-for-image-generation-offering-unprecedented-stylist|Frames]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-01-22-v0-5-5-github-196189629-8d5ecf1d|open-webui-2025-01-22-v0-5-5-github-196189629-8d5ecf1d]]'
 source_type: github_releases
 theme: image-generation
@@ -97,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2024-12-27 · Open WebUI · [[Changes/Open WebUI/2024-12-27-image-generation-error-resolved-a-persistent-issue-causing-errors-with-get-autom|🎨 Image Generation Error]]
+- Earlier: 2025-01-17 · Runway · [[Changes/Runway/2025-01-17-our-most-advanced-base-model-for-image-generation-offering-unprecedented-stylist|Frames]]
 - Later: 2025-02-03 · Gemini · [[Changes/Gemini/2025-02-03-imagen-3-just-got-an-upgrade|Imagen 3 just got an upgrade]]
 <!-- chronolog:end -->
 

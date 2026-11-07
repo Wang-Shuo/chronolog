@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a683fd19196d3f452ad9068813d0edbe3222afccfc2fa270d1baac0605316826
+machine_hash: cf59ea585da6499a2ee6fb5d82347e8c19a02f8d66e7a59a7a2db371262a06e4
 product: cursor
 product_name: Cursor
 record:
@@ -49,9 +49,10 @@ record:
   title: Bugbot Learned Rules
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-2-developer-workflow-changes-in-3-0|2 Developer Workflow
-  changes in 3.0]]'
-- '[[Changes/Claude Code/2026-04-04-removed-tag-command|Removed /tag command]]'
+- '[[Changes/OpenCode/2026-04-04-5-developer-workflow-changes-in-v1-3-15-1|5 Developer
+  Workflow changes in v1.3.15 + 1]]'
+- '[[Changes/OpenCode/2026-04-06-5-developer-workflow-changes-in-v1-3-17-1|5 Developer
+  Workflow changes in v1.3.17 + 1]]'
 - '[[Changes/Claude Code/2026-04-08-3-developer-workflow-changes-in-v2-1-97|3 Developer
   Workflow changes in v2.1.97]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'

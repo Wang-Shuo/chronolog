@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fdaf69c63c860891db87e00ccfc77f848a93240fc2fb8167956a791892d09f68
+machine_hash: 3aa7bbc36ff69b02a5b77ad1c6d33c6a97b868e53e4efea371386a44ba898069
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-docs-update-project-context-and-pr-creator-workflow-by-ntaylormullen-in-https-gi|docs: update project context and pr-creator workflow]]
-- Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added session resume hint on exit, showing how to continue your conversation later]]
+- Later: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-desktop-add-project-context-menu-on-right-click|Desktop Add project context menu on right-click]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

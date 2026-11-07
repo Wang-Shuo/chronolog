@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d994d4d3316af23eecd165f476dbd19748c5ccf8a238498582cf5ce143d9c540
+machine_hash: 7e44df51f9146be7d95747c5ccc1dbe3306b1b411c1f708c85ada4853202392a
 product: ollama
 product_name: Ollama
 record:
@@ -40,10 +40,11 @@ record:
   title: Improved tool calling for Ministral models
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-30-arena-mode|Arena Mode]]'
 - '[[Changes/Windsurf/2026-01-30-wave-14-arena-mode|Wave 14: Arena Mode]]'
 - '[[Changes/Codex CLI/2026-01-31-10118-codex-cli-show-model-capacity-guidance-on-429-ccy-oai|♯10118
   CodexCLI Show model-capacity guidance on 429 @ccy-oai]]'
+- '[[Changes/OpenCode/2026-01-31-4-model-support-changes-in-v1-1-48|4 Model Support
+  changes in v1.1.48]]'
 source_release: '[[Releases/Ollama/ollama-2026-02-01-v0-15-3-github-281858496-8c279095|ollama-2026-02-01-v0-15-3-github-281858496-8c279095]]'
 source_type: github_releases
 theme: model-support
@@ -72,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-10118-codex-cli-show-model-capacity-guidance-on-429-ccy-oai|♯10118 CodexCLI Show model-capacity guidance on 429 @ccy-oai]]
+- Earlier: 2026-01-31 · OpenCode · [[Changes/OpenCode/2026-01-31-4-model-support-changes-in-v1-1-48|4 Model Support changes in v1.1.48]]
 - Later: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-10373-chore-core-gpt-5-2-codex-personality-template-dylan-hurd-oai|♯10373 chore(core) gpt-5.2-codex personality template @dylan-hurd-oai]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: fe7b7f1c87b1340d71d6680a7a6a356f902d869c8d4998ff5291008f3d054052
+machine_hash: f994e22219838134449b74eabbc669731f7d66b9c92d56ce3a55212bc582eb6c
 product: gemini
 product_name: Gemini
 record:
@@ -65,12 +65,12 @@ record:
   title: Access to Imagen 3 now available for Google Workspace customers
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-09-04-access-to-related-content-now-available-for-gemini-for-google-workspace-add-on-s|Access
-  to related content now available for Gemini for Google Workspace add-on subscribers]]'
 - '[[Changes/Dify/2024-09-10-2-pricing-model-changes-in-0-8-0|2 Pricing Model changes
   in 0.8.0]]'
 - '[[Changes/Cline/2024-09-12-openrouter-now-supports-prompt-caching-they-re-still-working-on-reporting-cache|OpenRouter
   now supports prompt caching!]]'
+- '[[Changes/Runway/2024-09-20-workspace-analytics-now-contains-graphs-that-provide-an-overview-of-credit-usage|Credit
+  Analytics]]'
 source_release: '[[Releases/Gemini/gemini-2024-10-21-2024-10-21-3e5cd197|gemini-2024-10-21-2024-10-21-3e5cd197]]'
 source_type: gemini_changelog
 theme: pricing-model
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-09-12 · Cline · [[Changes/Cline/2024-09-12-openrouter-now-supports-prompt-caching-they-re-still-working-on-reporting-cache|OpenRouter now supports prompt caching!]]
-- Later: 2024-12-03 · ElevenLabs · [[Changes/ElevenLabs/2024-12-03-api|API]]
+- Earlier: 2024-09-20 · Runway · [[Changes/Runway/2024-09-20-workspace-analytics-now-contains-graphs-that-provide-an-overview-of-credit-usage|Credit Analytics]]
+- Later: 2024-11-14 · Runway · [[Changes/Runway/2024-11-14-we-have-released-a-number-of-updates-to-the-runway-api-that-gives-users-more-fea|Runway API updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

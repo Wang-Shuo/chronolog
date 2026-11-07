@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 196668f9ed1113baa40b9e1a6ee0503a15c0847fdd39eb3e7283316f1b1ff2f9
+machine_hash: 55d746e37d733130d7dd9aef4f1668dab0d6af95dc4ae5571913baea01620890
 product: ollama
 product_name: Ollama
 record:
@@ -41,8 +41,8 @@ record:
   title: '**Batches**: generate embeddings for several documents in one request'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-07-23-update-empty-document-caused-delete-exist-collection-by-johnjyong-in-https-githu|update
-  empty document caused delete exist collection]]'
+- '[[Changes/Gamma/2024-07-23-import-pdf-to-convert-existing-documents|Import PDF
+  to convert existing documents]]'
 - '[[Changes/Ollama/2024-07-25-code-interpreter|Code interpreter]]'
 - '[[Changes/Open WebUI/2024-08-02-2-files-and-data-changes-in-v0-3-11|2 Files and
   Data changes in v0.3.11]]'

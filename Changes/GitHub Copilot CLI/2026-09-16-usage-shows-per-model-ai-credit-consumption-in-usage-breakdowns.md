@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 45c5c75091d1f200b418ab9ba83bb9c42e42c223e28b3bca0d50f67c6115afbe
+machine_hash: b39c429ee84bb8aaa7c7bb07c39777f75db8aa9f5d99077efc73d602a8096d32
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: /usage shows per-model AI Credit consumption in usage breakdowns
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-4-pricing-model-changes-in-1-17-1|4 Pricing Model changes
-  in 1.17.1]]'
 - '[[Changes/Lovable/2026-09-10-share-your-lovable-invite-link-from-your-phone|Share
   your Lovable invite link from your phone]]'
+- '[[Changes/OpenClaw/2026-09-11-3-pricing-model-changes-in-v2026-9-4|3 Pricing Model
+  changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added
   support for a multiplier above 1, up to 10, in the modelPricing managed…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a5593a3295319fa238c18d55007598bc6baeb9c7b7887019a945dd5a47c9c7b
+machine_hash: 04e5d9004f8f3be1a8565c2ea56e098e8e031d93c81d9937be9c2e343189036d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.162.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-07 · Lovable · [[Changes/Lovable/2026-10-07-faster-inline-text-edits|Faster inline text edits]]
-- Later: 2026-10-08 · Ollama · [[Changes/Ollama/2026-10-08-models-downloaded-with-earlier-versions-of-ollama-are-upgraded-in-the-background|Models downloaded with earlier versions of Ollama are upgraded in the background…]]
+- Later: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-we-re-trying-to-both-improve-performance-and-just-generally-investigate-this-dir|We're trying to both improve performance and just generally investigate…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1c96f436f3c86d57a9fcd4efd650e90927e2a5e209ae2edd1d6c668d02e96460
+machine_hash: 0fea19150cf24a3efc2701107df33eb664b7c7d2fb7379c4e179cfacd0ab49de
 product: cursor
 product_name: Cursor
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-5-safety-and-privacy-changes-in-v2-1-141|5 Safety and Privacy changes in v2.1.141]]
-- Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-added-new-claude-agents-flags-add-dir-settings-mcp-config-plugin-dir-permission|Added new claude agents flags]]
+- Later: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-preserve-layered-permission-rule-order-in-config-merges|Core Preserve layered permission rule order in config merges]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

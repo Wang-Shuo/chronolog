@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 69ef8b59f47d26943b8b18177de2e77caa24bdc08a5b86edaf1de7eb20a9ea33
+machine_hash: 7b86d1bd2f225e8289cc1c855dbe4fb7b6c1bf6e9fa64faa2e3c842b938369a7
 product: ollama
 product_name: Ollama
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing and UX]]
-- Later: 2026-01-21 · Claude Code · [[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved UI rendering performance with React Compiler]]
+- Later: 2026-01-20 · Midjourney · [[Changes/Midjourney/2026-01-20-improved-scroll-anchoring-and-grid-performance|Improved scroll anchoring and grid performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

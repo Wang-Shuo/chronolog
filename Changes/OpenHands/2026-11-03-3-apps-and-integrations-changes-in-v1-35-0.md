@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd146cb9d6885fe5667a715b582c20e7eee581060201bf8895fc556b880ee81f
+machine_hash: dc5117f5fef17383603a6fcc783d55bde8855288abd5b968e292036289b01789
 product: openhands
 product_name: OpenHands
 record:
@@ -47,11 +47,12 @@ record:
   title: 3 Apps and Integrations changes in v1.35.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-channel-integrations-asynchronous-channels-such-as-slack-telegram-intercom-gmail|Channel
-  integrations: Asynchronous channels such as Slack, Telegram, Intercom…]]'
-- '[[Changes/Lovable/2026-11-02-connect-your-app-to-bamboohr|Connect your app to BambooHR]]'
+- '[[Changes/Google Antigravity/2026-11-03-2-apps-and-integrations-changes-in-hub-v2-29-0-voice-mode-remote|2
+  Apps and Integrations changes in HUB v2.29.0 — Voice mode, remote…]]'
 - "[[Changes/Open WebUI/2026-11-03-mcp-apps-in-chat-tools-from-mcp-servers-that-come-with-an-interactive-app-now-sh|\U0001F9E9
   MCP Apps in chat. Tools from MCP servers that come with an interactive app now…]]"
+- '[[Changes/OpenClaw/2026-11-03-21-apps-and-integrations-changes-in-v2026-10-10|21
+  Apps and Integrations changes in v2026.10.10]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -94,7 +95,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-mcp-apps-in-chat-tools-from-mcp-servers-that-come-with-an-interactive-app-now-sh|🧩 MCP Apps in chat. Tools from MCP servers that come with an interactive app now…]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-21-apps-and-integrations-changes-in-v2026-10-10|21 Apps and Integrations changes in v2026.10.10]]
 - Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and Integrations changes in 1.19.0]]
 <!-- chronolog:end -->
 

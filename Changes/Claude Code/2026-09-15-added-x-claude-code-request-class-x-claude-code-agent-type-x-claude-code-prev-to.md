@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 2480c9ec83d7bc84904da48bc20693b159208cedb2f8f75cdf416134a0f98c72
+machine_hash: e4ed550af254be809e470fb1972d7cd4a0ace44ac0280bc46feb41fd6c7f0d72
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,8 +60,8 @@ record:
   title: Added `x-claude-code-request-class`, `x-claude-code-agent-type`…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-11-preview-pdf-attachments-in-chat|Preview PDF attachments
-  in chat]]'
+- '[[Changes/OpenClaw/2026-09-11-2-context-window-changes-in-v2026-9-4|2 Context Window
+  changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved
   the spinner status during long thinking]]'
 - '[[Changes/Ollama/2026-09-14-runaway-repeat-token-detection-now-requires-100-repeat-tokens-for-reduced-false|Runaway
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-09-14 · Ollama · [[Changes/Ollama/2026-09-14-runaway-repeat-token-detection-now-requires-100-repeat-tokens-for-reduced-false|Runaway repeat token detection now requires 100 repeat tokens for reduced false…]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-3-context-window-changes-in-v1-0-85|3 Context Window changes in v1.0.85]]
+- Later: 2026-09-15 · Runway · [[Changes/Runway/2026-09-15-you-can-now-mention-agent-directly-in-comments-on-any-asset-page-collaborate-and|Agent in Asset Comments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

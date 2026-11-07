@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6f020e29da4511e1b0b92201e540df43ba237f6940baf91a3cd1a972cbc08188
+machine_hash: 1c818c813b0c807388c0fa1015d7be6be2f5c710cf0d4eb5fba9ba3b03c5ac00
 product: lovable
 product_name: Lovable
 record:
@@ -57,7 +57,8 @@ record:
   title: Let browser agents use your app
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-12-elevenagents-545be2|ElevenAgents]]'
+- '[[Changes/OpenClaw/2026-10-12-5-agent-mode-changes-in-v2026-10-2|5 Agent Mode changes
+  in v2026.10.2]]'
 - '[[Changes/OpenHands/2026-10-12-4-agent-mode-changes-in-v1-27-0|4 Agent Mode changes
   in v1.27.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-3-agent-mode-changes-in-v1-0-97|3 Agent

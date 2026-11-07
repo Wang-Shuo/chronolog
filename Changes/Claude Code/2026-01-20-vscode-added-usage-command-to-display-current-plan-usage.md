@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e8df89a9c64752a79cce8aee18f993e0261b6e40dcb5d885901dd87f5390f88
+machine_hash: 09604f81a1d410da0e0bf91792e053deaab630052c5fc0954ecc41baa68d93d7
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: '[VSCode] Added `/usage` command to display current plan usage'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-19-2-developer-workflow-changes-in-v0-0-385|2
-  Developer Workflow changes in v0.0.385]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-add-resume-command-to-switch-sessions|Add
   /resume command to switch sessions]]'
+- '[[Changes/OpenCode/2026-01-19-16-developer-workflow-changes-in-v1-1-26|16 Developer
+  Workflow changes in v1.1.26]]'
 - '[[Changes/v0/2026-01-19-improved-pull-request-creation-with-option-to-push-latest-changes|Improved
   pull request creation with option to push latest changes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'

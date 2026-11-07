@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e6854a3720bff2e48608e403fd10dc88ad6e5d89f8ec4947fdea5668b5a03171
+machine_hash: c18c3ffa7c77ec1511e7caf0466c47271e5367db9f1865395e85865fa1c718ea
 product: v0
 product_name: v0
 record:
@@ -40,12 +40,12 @@ record:
   title: Improved pull request creation with option to push latest changes
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-16-2-developer-workflow-changes-in-v0-0-384|2
-  Developer Workflow changes in v0.0.384]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-2-developer-workflow-changes-in-v0-0-385|2
   Developer Workflow changes in v0.0.385]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-add-resume-command-to-switch-sessions|Add
   /resume command to switch sessions]]'
+- '[[Changes/OpenCode/2026-01-19-16-developer-workflow-changes-in-v1-1-26|16 Developer
+  Workflow changes in v1.1.26]]'
 source_release: '[[Releases/v0/v0-2026-01-19-2026-01-19-0e264fd7|v0-2026-01-19-2026-01-19-0e264fd7]]'
 source_type: v0_changelog
 theme: developer-workflow
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-add-resume-command-to-switch-sessions|Add /resume command to switch sessions]]
+- Earlier: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-16-developer-workflow-changes-in-v1-1-26|16 Developer Workflow changes in v1.1.26]]
 - Later: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode Added /usage command to display current plan usage]]
 <!-- chronolog:end -->
 

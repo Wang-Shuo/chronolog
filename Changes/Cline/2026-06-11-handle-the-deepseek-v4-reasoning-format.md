@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 53cd3bc3f552ce31073d79136e989ffa99bda7cfdf30ec2ddc4d8b6d1ff039dc
+machine_hash: b59d1ae36db4b8e439ed79e2caa89abd5a77ab757f7866bb64460fd1bd5d1001
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Handle the DeepSeek V4 reasoning format
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support
-  changes in v2.1.172]]'
 - '[[Changes/Gemini CLI/2026-06-10-transition-to-flash-ga-model-when-experiment-flag-is-present-by-davidapierce-in|Transition
   to flash GA model when experiment flag is present]]'
+- '[[Changes/OpenCode/2026-06-10-4-model-support-changes-in-v1-17-0|4 Model Support
+  changes in v1.17.0]]'
 - '[[Changes/OpenHands/2026-06-10-added-llm-profiles-by-vascosch92-in-https-github-com-openhands-openhands-pull-14|Added
   LLM profiles]]'
 source_release: '[[Releases/Cline/cline-2026-06-11-v3-89-1-github-337860725-e7ccb5b5|cline-2026-06-11-v3-89-1-github-337860725-e7ccb5b5]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-10 · OpenHands · [[Changes/OpenHands/2026-06-10-added-llm-profiles-by-vascosch92-in-https-github-com-openhands-openhands-pull-14|Added LLM profiles]]
-- Later: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring GPT-5.2 models]]
+- Later: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-support-for-pdf-attachments-to-messages-to-gemini-models-drag-and-drop-pdfs-from|Support for PDF attachments to messages to Gemini models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

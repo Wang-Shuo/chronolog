@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 316d4b0c63fdfd26683b0f77418924cd5eb076b3c32c8bd7965aa9773f3f7675
+machine_hash: 85f196d1aa1dc0fee6b8bcc8358225f64591b38391b81fe4fc3e3f2661c8fb55
 product: ollama
 product_name: Ollama
 record:
@@ -62,8 +62,8 @@ record:
     NVIDIA’s…'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-22-ollama-launch-now-passes-cloud-models-context-lengths-and-capabilities-to-coding|ollama
-  launch now passes cloud models'' context lengths and capabilities to coding…]]'
+- '[[Changes/OpenClaw/2026-10-22-4-context-window-changes-in-v2026-10-6|4 Context
+  Window changes in v2026.10.6]]'
 - '[[Changes/Codex CLI/2026-10-23-18-context-window-changes-in-rust-v0-164-0|18 Context
   Window changes in rust-v0.164.0]]'
 - '[[Changes/Dify/2026-10-23-3-context-window-changes-in-1-18-0|3 Context Window changes
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-context-window-changes-in-1-18-0|3 Context Window changes in 1.18.0]]
-- Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-4-context-window-changes-in-v0-12-4|4 Context Window changes in v0.12.4]]
+- Later: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-4-context-window-changes-in-v2026-10-7|4 Context Window changes in v2026.10.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

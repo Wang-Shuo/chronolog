@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd0bb6054eee2904471e9401425e3b31d8ce4b02cdb149fb55972ebeb16cd001
+machine_hash: c70d4dd5dea966e3e7beeb6ad9f08018c90d1e3762dcbfa2c98b8c9175a9be61
 product: dify
 product_name: Dify
 record:
@@ -53,12 +53,12 @@ record:
   title: Targeting Automation and Batch Processing
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
-  data clean schedule]]'
 - '[[Changes/Dify/2024-01-04-alter-schedule-timedelta-by-johnjyong-in-https-github-com-langgenius-dify-pull-1|alter
   schedule timedelta]]'
 - '[[Changes/Dify/2024-01-19-as-per-the-planned-schedule-these-deprecated-envs-are-being-removed|As
   per the planned schedule, these deprecated envs are being removed]]'
+- '[[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey
+  @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]'
 source_release: '[[Releases/Dify/dify-2024-04-08-0-6-0-github-150191925-0ce534e4|dify-2024-04-08-0-6-0-github-150191925-0ce534e4]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2024-01-19 · Dify · [[Changes/Dify/2024-01-19-as-per-the-planned-schedule-these-deprecated-envs-are-being-removed|As per the planned schedule, these deprecated envs are being removed]]
+- Earlier: 2024-03-13 · Midjourney · [[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]
 - Later: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-pipelines-support-open-webui-now-includes-a-plugin-framework-for-enhanced-custom|🔧 Pipelines Support]]
 <!-- chronolog:end -->
 

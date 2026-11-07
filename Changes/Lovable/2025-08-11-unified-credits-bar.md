@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 4a063e0fa589174d1a8f1f44164943c59c6c3e6ada2ae7bd6e8e26c1e3091073
+machine_hash: 15ac98466182f0cdd96e66ca4c61aec3e0adeebf1a61189bf4d0b49051593de3
 product: lovable
 product_name: Lovable
 record:
@@ -47,11 +47,9 @@ record:
   title: Unified credits bar**
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-15-removing-reasoning-ux-for-grok-4-models-and-correct-pricing-by-arafatkatze-in-ht|Removing
-  reasoning UX for Grok 4 models and correct pricing]]'
-- '[[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding
-  redirectUrl to credits purchasing experience]]'
 - '[[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]'
+- '[[Changes/Midjourney/2025-08-07-about-hd-video-mode|About HD Video Mode]]'
+- '[[Changes/Midjourney/2025-08-07-please-note|Please note]]'
 source_release: '[[Releases/Lovable/lovable-2025-08-11-2025-08-11-96795da2|lovable-2025-08-11-2025-08-11-96795da2]]'
 source_type: lovable_changelog
 theme: pricing-model
@@ -90,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]
+- Earlier: 2025-08-07 · Midjourney · [[Changes/Midjourney/2025-08-07-please-note|Please note]]
 - Later: 2025-08-15 · Claude · [[Changes/Claude/2025-08-15-ability-to-change-monthly-team-plan-billing-to-annual|Ability to change monthly Team plan billing to annual]]
 <!-- chronolog:end -->
 

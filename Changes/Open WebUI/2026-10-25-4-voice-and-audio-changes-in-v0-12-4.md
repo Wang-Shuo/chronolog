@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 59eec8e3cf24fdcb7d2bbb02cb4cc09b0bec309ae6ca2752efa4fcfa87f22566
+machine_hash: a8028ca9e19516eab864cd215dfcd7bb2037a81fb9f47ffb7cce6965d6ff5bf7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,8 +63,8 @@ record:
   title: 4 Voice and Audio changes in v0.12.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode
-  Added a log warning that says what to do when dictation or the extension''s…]]'
+- '[[Changes/OpenClaw/2026-10-22-3-voice-and-audio-changes-in-v2026-10-6|3 Voice and
+  Audio changes in v2026.10.6]]'
 - '[[Changes/Codex CLI/2026-10-23-3-voice-and-audio-changes-in-rust-v0-164-0|3 Voice
   and Audio changes in rust-v0.164.0]]'
 - '[[Changes/Ollama/2026-10-24-ollama-can-now-generate-speech-https-docs-ollama-com-capabilities-speech-on-maco|Ollama

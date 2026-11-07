@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eee421454e9000be153f402d9af4e41b8b49eb2c53811cd7caef6810d2c851dd
+machine_hash: d671c32022f0da52d8883a1c43f3fb43889958d82788f7b6bcb02652db94eef6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -57,10 +57,10 @@ record:
   title: 4 Interface Experience changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-29-2-interface-experience-changes-in-v0-12-5|2 Interface
-  Experience changes in v0.12.5]]'
 - '[[Changes/ElevenLabs/2026-11-02-2-interface-experience-changes-in-elevenlabs-updates-2026-11-02|2
   Interface Experience changes in ElevenLabs updates — 2026-11-02]]'
+- '[[Changes/Google Antigravity/2026-11-03-5-interface-experience-changes-in-hub-v2-29-0-voice-mode-remote|5
+  Interface Experience changes in HUB v2.29.0 — Voice mode, remote…]]'
 - '[[Changes/Ollama/2026-11-03-picker-shows-ollama-s-actual-model-names|picker shows
   Ollama''s actual model names]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'
@@ -117,7 +117,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.13.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-picker-shows-ollama-s-actual-model-names|picker shows Ollama's actual model names]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-12-interface-experience-changes-in-v1-35-0|12 Interface Experience changes in v1.35.0]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-13-interface-experience-changes-in-v2026-10-10|13 Interface Experience changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

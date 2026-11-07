@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: ad287dfe63b124ca7242e05c3c6541af168dc0b21b6554a5385ebf43a81a2dc2
+machine_hash: 9c5b3eb919c03c194423cb2433d9b136e3efa9062386221ae9bb9e2f45323f26
 product: replit
 product_name: Replit
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-3-safety-and-privacy-changes-in-1-11-2|3 Safety and Privacy changes in 1.11.2]]
-- Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-3-safety-and-privacy-changes-in-rust-v0-78-0|3 Safety and Privacy changes in rust-v0.78.0]]
+- Later: 2026-01-04 · OpenCode · [[Changes/OpenCode/2026-01-04-13-safety-and-privacy-changes-in-v1-1-1|13 Safety and Privacy changes in v1.1.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 11ea83f48fb60034bd19a5ffa7a52b5695363e8484b17be38356eddc02a49131
+machine_hash: 0e148270b0800e13f1f90d4752674b7639a70f43ba9006682a17c01d15aecc8a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -60,10 +60,10 @@ record:
   title: 7 Model Support changes in v0.36.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-5-model-support-changes-in-rust-v0-118-0|5 Model
-  Support changes in rust-v0.118.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-3-model-support-changes-in-v1-0-14|3 Model
   Support changes in v1.0.14]]'
+- '[[Changes/OpenCode/2026-03-31-add-a-dedicated-system-prompt-for-kimi-models|Add
+  a dedicated system prompt for Kimi models]]'
 - '[[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage
   now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1|gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1]]'

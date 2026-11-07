@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a836d3a17fdbd9c47694dc9922181cb10708f93b555ca937bb8fe9c4c93772c0
+machine_hash: 1074ffc7de81b1618657a7093d0444318ef71b84bc4eefe509958f5727ae2de1
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,10 +50,10 @@ record:
   title: ElevenCreative Studio
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-06-hooks-added-a-notification-hook-for-attention-and-completion-boundaries|Hooks:
-  Added a Notification hook for attention and completion boundaries]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-06-to-commemorate-github-copilot-cli-reaching-general-availability-last-week-we-re|To
-  commemorate GitHub Copilot CLI reaching general availability last week, we''re…]]'
+- '[[Changes/OpenCode/2026-03-07-preserve-original-line-endings-in-edit-tool|Preserve
+  original line endings in edit tool]]'
+- '[[Changes/OpenCode/2026-03-07-2-editor-experience-changes-in-v1-2-21|2 Editor Experience
+  changes in v1.2.21]]'
 - '[[Changes/Open WebUI/2026-03-08-open-terminal-html-editing-users-can-now-edit-html-source-files-in-open-terminal|✏️
   Open Terminal HTML editing. Users can now edit HTML source files in Open…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-03-09-2026-03-09-ae721d55|elevenlabs-2026-03-09-2026-03-09-ae721d55]]'

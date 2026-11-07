@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38145bcb80be4d4e3e9da2def52b99c809f01507f9e9eea23c70a6f3f06e48e5
+machine_hash: 799c4c1c33fd4eebe7e29b40f5a90aa49825ac8f1189762001f8045db63f99f6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved startup responsiveness]]
-- Later: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-attach-recent-photos-faster-press-and-hold-the-button-to-open-your-recent-photos|Attach recent photos faster]]
+- Later: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-remote-control-faster-project-switching-and-more|Remote Control, faster project switching, and more]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

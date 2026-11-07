@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 53d8edf1012fef047aace22e3de9e707bb1c7a655189bd625a95df1597dce66d
+machine_hash: 2186a56bf9a80ce1057f828f9f1b626203481458b8b61fdb2b8cd99a3af41039
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,9 +60,9 @@ record:
   title: 4 Voice and Audio changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-21-stop-offering-image-voice-and-other-non-chat-models-in-chat-model-pickers|Stop
-  offering image, voice, and other non-chat models in chat model pickers]]'
 - '[[Changes/ElevenLabs/2026-08-24-python-sdk|Python SDK]]'
+- '[[Changes/Google Antigravity/2026-08-24-embedded-terminals-git-version-control-and-audio-attachments|Embedded
+  Terminals, Git Version Control, and Audio Attachments]]'
 - '[[Changes/Dify/2026-08-25-audio-asr-now-accepts-audio-x-m4a-and-audio-mime-types-are-validated-more-accura|Audio
   ASR now accepts audio/x-m4a, and audio MIME types are validated more…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'

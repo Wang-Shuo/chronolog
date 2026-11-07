@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 96ec0a2659fa7af40869998225dd0d614cb4f04e5090e450470660f81010c283
+machine_hash: 75b4d9331f9ed6e7424bd91f3fb219f22b0aca4fa8ac3bef72fd6f2447d6cd41
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
     environment
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo|Renamed
-  /simplify to /code-review]]'
-- '[[Changes/Codex CLI/2026-05-21-3-developer-workflow-changes-in-rust-v0-133-0|3
-  Developer Workflow changes in rust-v0.133.0]]'
+- '[[Changes/OpenCode/2026-05-21-3-developer-workflow-changes-in-v1-15-7|3 Developer
+  Workflow changes in v1.15.7]]'
 - '[[Changes/Gemini CLI/2026-05-22-feat-evals-add-shell-command-safety-evals-by-akh64bit-in-https-github-com-google|feat(evals):
   add shell command safety evals]]'
+- '[[Changes/OpenCode/2026-05-22-3-developer-workflow-changes-in-v1-15-9|3 Developer
+  Workflow changes in v1.15.9]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-24-v1-0-53-github-328572559-02bf22bd|github-copilot-cli-2026-05-24-v1-0-53-github-328572559-02bf22bd]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-feat-evals-add-shell-command-safety-evals-by-akh64bit-in-https-github-com-google|feat(evals): add shell command safety evals]]
+- Earlier: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-3-developer-workflow-changes-in-v1-15-9|3 Developer Workflow changes in v1.15.9]]
 - Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer Workflow changes in v2.1.152]]
 <!-- chronolog:end -->
 

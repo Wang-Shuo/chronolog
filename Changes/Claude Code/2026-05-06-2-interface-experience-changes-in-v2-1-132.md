@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 65581e01ee1c4d5c0665e4d0329596e9f6ccf920384ce4c88bbb3a8383ff47ed
+machine_hash: a4c3076b0c5425bac85b140747b99f49aadeaaf19db7a9cbb88e0e2f18cbf8f1
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.132
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-01-3-interface-experience-changes-in-v1-0-40|3
-  Interface Experience changes in v1.0.40]]'
 - '[[Changes/Claude Code/2026-05-04-bare-color-no-args-now-picks-a-random-session-color|Bare
   /color (no args) now picks a random session color]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-2-interface-experience-changes-in-v1-0-41|2
   Interface Experience changes in v1.0.41]]'
+- '[[Changes/OpenCode/2026-05-05-core-preserve-diff-patch-boundaries-so-session-diffs-keep-rendering-correctly-wh|Core
+  Preserve diff patch boundaries so session diffs keep rendering correctly…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.132
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-2-interface-experience-changes-in-v1-0-41|2 Interface Experience changes in v1.0.41]]
+- Earlier: 2026-05-05 · OpenCode · [[Changes/OpenCode/2026-05-05-core-preserve-diff-patch-boundaries-so-session-diffs-keep-rendering-correctly-wh|Core Preserve diff patch boundaries so session diffs keep rendering correctly…]]
 - Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-3-interface-experience-changes-in-v2-1-129|3 Interface Experience changes in v2.1.129]]
 <!-- chronolog:end -->
 

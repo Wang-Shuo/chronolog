@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32849517a00ffabc59913087d8036e6f60fc372290e3a03bdf2d3a6f6dce04a6
+machine_hash: 584459794e6402786b03079cf3c6eb7e4de322b2a5c2c28267cb39805af8a470
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: Add `--json` to `copilot plugin list`, `copilot plugin marketplace list`…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-experimental-worktree-support-lets-you-create-isolated-checkouts-for-new-or-fork|Experimental
-  worktree support lets you create isolated checkouts for new or forked…]]'
 - '[[Changes/Lovable/2026-09-09-compare-and-restore-earlier-versions-of-a-plan|Compare
   and restore earlier versions of a plan]]'
 - '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box,
   Dropbox, and SharePoint now join Google Drive in ChatGPT Library]]'
+- '[[Changes/OpenClaw/2026-09-11-3-search-and-browsing-changes-in-v2026-9-4|3 Search
+  and Browsing changes in v2026.9.4]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: search-browsing
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-3-search-and-browsing-changes-in-v2026-9-4|3 Search and Browsing changes in v2026.9.4]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-2-search-and-browsing-changes-in-v1-19-0|2 Search and Browsing changes in v1.19.0]]
 <!-- chronolog:end -->
 

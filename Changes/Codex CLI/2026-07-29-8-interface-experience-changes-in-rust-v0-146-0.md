@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c29a2f1ae79f1f84a7691e5056e2bee5f4b03ed26db5488b3b6db7c26e57f3e0
+machine_hash: 32cb3bd8f68c201b12c516f051bfbff29a0111760b9bd4716266b4243f91738a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,12 +57,12 @@ record:
   title: 8 Interface Experience changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-07-27-19-interface-experience-changes-in-v0-11-0|19 Interface
-  Experience changes in v0.11.0]]'
-- '[[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing
-  Free users in India can upgrade their plan from the dashboard]]'
 - '[[Changes/Dify/2026-07-28-10-interface-experience-changes-in-1-16-1|10 Interface
   Experience changes in 1.16.1]]'
+- '[[Changes/Google Antigravity/2026-07-28-added-a-keyboard-shortcut-cmd-l-ctrl-l-to-quickly-quote-selected-text-into-the-c|Added
+  a keyboard shortcut (Cmd+L / Ctrl+L) to quickly quote selected text…]]'
+- '[[Changes/OpenCode/2026-07-28-desktop-fixed-a-solid-cleanup-crash-that-could-break-navigation-in-the-desktop-a|Desktop
+  Fixed a Solid cleanup crash that could break navigation in the desktop app]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: interface-experience
@@ -122,7 +122,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-10-interface-experience-changes-in-1-16-1|10 Interface Experience changes in 1.16.1]]
+- Earlier: 2026-07-28 · OpenCode · [[Changes/OpenCode/2026-07-28-desktop-fixed-a-solid-cleanup-crash-that-could-break-navigation-in-the-desktop-a|Desktop Fixed a Solid cleanup crash that could break navigation in the desktop app]]
 - Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4 Interface Experience changes in v1.0.76]]
 <!-- chronolog:end -->
 

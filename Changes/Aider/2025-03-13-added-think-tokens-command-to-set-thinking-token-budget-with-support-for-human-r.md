@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a4f8ac97c0cd1bcc0f35d6e3606b096e0e3585613a00a57ba356aaf93fb3f5f5
+machine_hash: 4c6ee09a4575396bf2d731c37c48ef5b5eadb8afb932653765d304d50a103233
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
   title: Added `/think-tokens` command to set thinking token budget with support…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-27-instant-document-upload-with-bypass-embedding-retrieval-admins-can-now-enable-by|\U0001F680
-  Instant Document Upload with Bypass Embedding & Retrieval]]"
 - "[[Changes/Open WebUI/2025-02-27-open-webui-now-works-over-lan-in-insecure-context-resolved-an-issue-preventing-o|\U0001F310
   Open WebUI Now Works Over LAN in Insecure Context]]"
+- '[[Changes/Gamma/2025-03-05-good-news-gamma-s-ai-just-leveled-up-paid-users-now-get-more-detailed-outlines-i|AI
+  outlines for Plus and Pro users]]'
 - '[[Changes/OpenHands/2025-03-07-2-context-window-changes-in-0-28-0|2 Context Window
   changes in 0.28.0]]'
 source_release: '[[Releases/Aider/aider-2025-03-13-v0-77-0-github-205707771-facc801d|aider-2025-03-13-v0-77-0-github-205707771-facc801d]]'

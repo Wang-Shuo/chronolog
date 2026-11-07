@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 209c077ee0e66a29012aac333c8f7ae5ee6fee74871ad98dc56d64c40d2d3639
+machine_hash: 053c6103d8fb0b8bfab42140b0ddc5aeae83a8da9b036d7c2c300f3658efe44d
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
     dialog…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-4-apps-and-integrations-changes-in-v2-1-260|4
-  Apps and Integrations changes in v2.1.260]]'
 - '[[Changes/Claude Code/2026-09-03-added-reload-plugins-to-headless-sessions-so-it-appears-in-the-claude-code-deskt|Added
   /reload-plugins to headless sessions, so it appears in the Claude Code…]]'
 - '[[Changes/Codex CLI/2026-09-03-18-apps-and-integrations-changes-in-rust-v0-153-0|18
   Apps and Integrations changes in rust-v0.153.0]]'
+- '[[Changes/OpenClaw/2026-09-03-26-apps-and-integrations-changes-in-v2026-9-1|26
+  Apps and Integrations changes in v2026.9.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: apps-integrations
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-18-apps-and-integrations-changes-in-rust-v0-153-0|18 Apps and Integrations changes in rust-v0.153.0]]
+- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-26-apps-and-integrations-changes-in-v2026-9-1|26 Apps and Integrations changes in v2026.9.1]]
 - Later: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-7-apps-and-integrations-changes-in-v1-0-83|7 Apps and Integrations changes in v1.0.83]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 459943e421d0e31599178dc784f0767432f7c35d4be37d821cd542c179139004
+machine_hash: f9a015cfc580825134fdd22658a649c97568e0198b904561d14b219a462c7b5b
 product: replit
 product_name: Replit
 record:
@@ -56,12 +56,11 @@ record:
   title: Contribute to your company codebase with Cloud Agents
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-7-agent-mode-changes-in-rust-v0-166-0|7 Agent Mode
-  changes in rust-v0.166.0]]'
-- "[[Changes/Open WebUI/2026-10-29-photos-for-sub-agents-models-can-now-hand-a-photo-attached-in-the-chat-to-a-sub|\U0001F916
-  Photos for sub-agents. Models can now hand a photo attached in the chat…]]"
+- '[[Changes/OpenCode/2026-10-29-core-add-opt-in-scheduled-prompts-through-schedule-agent-tools-and-experimental|Core
+  Add opt-in scheduled prompts through /schedule , agent tools…]]'
 - '[[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode
   changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-guided-claude-agent-setup|Guided Claude Agent Setup]]'
 source_release: '[[Releases/Replit/replit-2026-10-30-2026-10-30-8c94fa6c|replit-2026-10-30-2026-10-30-8c94fa6c]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode changes in v2.1.314]]
+- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-guided-claude-agent-setup|Guided Claude Agent Setup]]
 - Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-agent-mode-changes-in-v2-1-316|2 Agent Mode changes in v2.1.316]]
 <!-- chronolog:end -->
 

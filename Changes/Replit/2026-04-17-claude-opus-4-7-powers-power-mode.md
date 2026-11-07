@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 10c34c299801fcf642a423fb9abf59bf27ef19fdf936a0e46653487c111fb792
+machine_hash: 288aa184ff0aea7ccd68d019ed502fd37cb98bc1e0bde871758f748654e01998
 product: replit
 product_name: Replit
 record:
@@ -47,12 +47,12 @@ record:
   title: Claude Opus 4.7 powers Power mode
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-add-support-for-claude-opus-4-7|Add support
-  for Claude Opus 4.7]]'
-- '[[Changes/Ollama/2026-04-16-gemma-4-on-mlx-added-support-for-running-gemma-4-via-mlx-on-apple-silicon-includ|Gemma
-  4 on MLX. Added support for running Gemma 4 via MLX on Apple Silicon…]]'
-- '[[Changes/Claude/2026-04-17-claude-design-by-anthropic-labs|Claude Design by Anthropic
-  Labs]]'
+- '[[Changes/OpenCode/2026-04-17-core-limited-github-copilot-opus-4-7-models-to-medium-reasoning-effort-to-avoid|Core
+  Limited GitHub Copilot Opus 4.7 models to medium reasoning effort to avoid…]]'
+- '[[Changes/OpenCode/2026-04-17-added-llm-gateway-as-a-provider|Added LLM Gateway
+  as a provider]]'
+- '[[Changes/OpenCode/2026-04-17-core-normalized-provider-metadata-defaults-so-models-still-load-when-catalog-dat|Core
+  Normalized provider metadata defaults so models still load when catalog data…]]'
 source_release: '[[Releases/Replit/replit-2026-04-17-2026-04-17-97599a7a|replit-2026-04-17-2026-04-17-97599a7a]]'
 source_type: replit_changelog
 theme: model-support
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-17 · Claude · [[Changes/Claude/2026-04-17-claude-design-by-anthropic-labs|Claude Design by Anthropic Labs]]
-- Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-6-model-support-changes-in-rust-v0-122-0|6 Model Support changes in rust-v0.122.0]]
+- Earlier: 2026-04-17 · OpenCode · [[Changes/OpenCode/2026-04-17-core-normalized-provider-metadata-defaults-so-models-still-load-when-catalog-dat|Core Normalized provider metadata defaults so models still load when catalog data…]]
+- Later: 2026-04-19 · OpenCode · [[Changes/OpenCode/2026-04-19-core-use-display-summarized-by-default-for-anthropic-bedrock-opus-4-7-requests|Core Use display: summarized by default for Anthropic Bedrock Opus 4.7 requests]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

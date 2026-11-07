@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f95cc7cd4f50bfddb49afbae4f34691251b49f0025bee1db11ebe3986b858c2a
+machine_hash: 1efac73f6845c8c0f0ab1356a49623d00efb1eb33953f8b994315671d200ff2e
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-feat-implement-slash-command-handling-in-acp-for-memory-init-extensions-and-rest|feat: Implement slash command handling in ACP for /memory,/init,/extensions…]]
-- Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-memory-storage-errors-now-indicate-when-repository-doesn-t-exist-or-you-lack-wri|Memory storage errors now indicate when repository doesn't exist or you lack write access]]
+- Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-core-multiple-jdtls-lsps-eating-memory-in-java-monorepos|Core Multiple jdtls LSPs eating memory in Java monorepos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

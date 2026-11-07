@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28274d39cfd45f9e2af9cdc0be491f990fd3aedb29e74fd89776fe6962a6814e
+machine_hash: d11db1f0f71623804bf8d358cd5ce888a9990dcb69560ed5893359d6138af112
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Account and Access changes in v2.1.265
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account
-  and Access changes in v2.1.261]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-3-account-and-access-changes-in-v1-0-83|3
-  Account and Access changes in v1.0.83]]'
+- '[[Changes/OpenCode/2026-09-04-desktop-use-the-desktop-client-id-during-opencode-account-device-authentication|Desktop
+  Use the desktop client ID during OpenCode account device authentication]]'
+- '[[Changes/OpenClaw/2026-09-05-20-account-and-access-changes-in-v2026-9-2|20 Account
+  and Access changes in v2026.9.2]]'
 - '[[Changes/Lovable/2026-09-07-send-app-emails-from-tanstack-start-projects-without-cloud|Send
   app emails from TanStack Start projects without Cloud]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'

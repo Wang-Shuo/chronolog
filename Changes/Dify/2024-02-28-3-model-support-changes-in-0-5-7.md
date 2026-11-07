@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b8192a456ca4f7aab627dd0f0cc24cb6d452092855bb960caee37f7bd7a33b45
+machine_hash: 1704f687bd48a57e70cb04f5f2c303b612d08a0a58d68bc859db22269726e1a7
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Model Support changes in 0.5.7
   type: change
 related_changes:
-- '[[Changes/Ollama/2024-02-14-ollama-is-now-available-on-windows-in-preview-download-it-here-https-github-com|Ollama
-  is now available on Windows in preview]]'
 - '[[Changes/Ollama/2024-02-21-support-for-bert-and-nomic-bert-embedding-models|Support
   for bert and nomic-bert embedding models]]'
 - '[[Changes/Ollama/2024-02-22-gemma-https-ollama-com-library-gemma-is-a-new-top-performing-family-of-lightweig|Gemma((source
   link) is a new, top-performing family…]]'
+- '[[Changes/Suno/2024-02-22-v3-is-coming-soon-and-we-believe-it-has-the-potential-to-redefine-the-state-of-t|V3
+  is coming soon, and we believe it has the potential to redefine…]]'
 source_release: '[[Releases/Dify/dify-2024-02-28-0-5-7-github-143968174-dc5f7626|dify-2024-02-28-0-5-7-github-143968174-dc5f7626]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-02-22 · Ollama · [[Changes/Ollama/2024-02-22-gemma-https-ollama-com-library-gemma-is-a-new-top-performing-family-of-lightweig|Gemma((source link) is a new, top-performing family…]]
+- Earlier: 2024-02-22 · Suno · [[Changes/Suno/2024-02-22-v3-is-coming-soon-and-we-believe-it-has-the-potential-to-redefine-the-state-of-t|V3 is coming soon, and we believe it has the potential to redefine…]]
 - Later: 2024-03-01 · Ollama · [[Changes/Ollama/2024-03-01-2-model-support-changes-in-v0-1-28|2 Model Support changes in v0.1.28]]
 <!-- chronolog:end -->
 

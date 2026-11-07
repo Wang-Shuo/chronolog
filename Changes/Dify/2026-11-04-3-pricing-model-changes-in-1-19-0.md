@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 406219a935db67db0b06f484d2a3cefa7c97ce418966df61fd07716ba4c08ebf
+machine_hash: 6f053a11037ff97e9a6ea275e314f768dfa175c90f2975f5cee9cbffe8e523e1
 product: dify
 product_name: Dify
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 ## Nearby in Pricing Model
 
 - Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-context-compaction-and-prompt-caching-when-the-same-model-handles-the-conversati|🧠 Context compaction and prompt caching. When the same model handles…]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-5-pricing-model-changes-in-v1-0-106|5 Pricing Model changes in v1.0.106]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-avoids-restoring-cold-archived-conversations-just-to-refresh-usage-and-cost-repo|Avoids restoring cold archived conversations just to refresh usage and cost reports…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

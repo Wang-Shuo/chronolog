@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8fe914076c890a40df8cc2b1f07c8fac66a2227ca140e02164885383150e8ffa
+machine_hash: eb67138d3a10ffd79cbaa323ec62be5b22d78443351b87b3ad795d5cd06ec79e
 product: dify
 product_name: Dify
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Reliability and Performance changes in 0.9.1
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-24-periodic-cleanup-error-resolved-fixed-a-critical-runtimeerror-related-to-the-per|\U0001F504
-  Periodic Cleanup Error Resolved]]"
 - '[[Changes/Open WebUI/2024-09-24-2-reliability-and-performance-changes-in-v0-3-24|2
   Reliability and Performance changes in v0.3.24]]'
 - "[[Changes/Open WebUI/2024-09-24-event-loop-error-resolution-addressed-a-critical-error-where-a-missing-running-e|\U0001F504
   Event Loop Error Resolution]]"
+- '[[Changes/Runway/2024-09-27-edit-generations-by-trimming-reversing-and-adjusting-video-speed|Generative
+  Video time editing]]'
 source_release: '[[Releases/Dify/dify-2024-09-30-0-9-1-github-177627506-02de3b97|dify-2024-09-30-0-9-1-github-177627506-02de3b97]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +85,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.9.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-event-loop-error-resolution-addressed-a-critical-error-where-a-missing-running-e|🔄 Event Loop Error Resolution]]
+- Earlier: 2024-09-27 · Runway · [[Changes/Runway/2024-09-27-edit-generations-by-trimming-reversing-and-adjusting-video-speed|Generative Video time editing]]
 - Later: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-4-reliability-and-performance-changes-in-0-9-0|4 Reliability and Performance changes in 0.9.0]]
 <!-- chronolog:end -->
 

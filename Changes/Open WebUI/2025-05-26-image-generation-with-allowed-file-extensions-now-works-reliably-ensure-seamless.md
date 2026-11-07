@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd6f82484f5d6cb335e3dd8c9e35ce28262adbee597b68221f2ce761ed4af4b0
+machine_hash: dc70d7d26272dbf2f7a9d0ba6547045c871e262994f99702404f5cf48622d371
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: "\U0001F5BC️ **Image Generation with Allowed File Extensions Now Works Reliably**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|ChatGPT
-  Image Library]]'
 - "[[Changes/Open WebUI/2025-05-06-openai-image-generation-issues-resolved-resolved-broken-image-output-when-using|\U0001F58C️
   OpenAI Image Generation Issues Resolved]]"
+- '[[Changes/Manus/2025-05-16-manus-doesn-t-just-generate-images-it-understands-your-intent-plans-a-solution-a|Manus
+  image generation]]'
 - '[[Changes/Gemini/2025-05-20-image-generation-just-got-an-upgrade|Image generation
   just got an upgrade]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc|open-webui-2025-05-26-v0-6-11-github-221095369-94c4d4cc]]'
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-05-20 · Gemini · [[Changes/Gemini/2025-05-20-image-generation-just-got-an-upgrade|Image generation just got an upgrade]]
-- Later: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-better-handling-storage-of-interpreter-generated-images-code-interpreter-generat|🏞️ Better Handling & Storage of Interpreter-Generated Images]]
+- Later: 2025-05-29 · Midjourney · [[Changes/Midjourney/2025-05-29-midjourney-v7-image-generation-is-now-40-faster|Midjourney V7 image generation is now ~40% faster!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

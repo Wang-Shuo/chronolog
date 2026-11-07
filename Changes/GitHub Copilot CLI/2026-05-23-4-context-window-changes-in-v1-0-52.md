@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6e161d5ab24a9b105d9e4ba2b135439e18f1003060d35a6c74c2df61ed0edacb
+machine_hash: a0a49297743e6b5ea375b728075e4d9b32aacaff2937c0f4c72b017c50ff1276
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: 4 Context Window changes in v1.0.52
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-21-5-context-window-changes-in-rust-v0-133-0|5 Context
-  Window changes in rust-v0.133.0]]'
 - '[[Changes/Claude Code/2026-05-22-improved-feedback-reports-to-include-the-conversation-that-happened-before-conte|Improved
   /feedback reports to include the conversation that happened before…]]'
 - '[[Changes/Gemini CLI/2026-05-22-3-context-window-changes-in-v0-43-0|3 Context Window
   changes in v0.43.0]]'
+- '[[Changes/OpenCode/2026-05-22-core-improve-diff-viewer-empty-states-and-context-handling|Core
+  Improve diff viewer empty states and context handling]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'
 source_type: github_releases
 theme: context-window
@@ -102,7 +102,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.52
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-3-context-window-changes-in-v0-43-0|3 Context Window changes in v0.43.0]]
+- Earlier: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-core-improve-diff-viewer-empty-states-and-context-handling|Core Improve diff viewer empty states and context handling]]
 - Later: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-5-context-window-changes-in-rust-v0-134-0|5 Context Window changes in rust-v0.134.0]]
 <!-- chronolog:end -->
 

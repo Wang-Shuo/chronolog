@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24592c149c34897094d57f750b6e0871288767c4aa387fb64ffc348b67837835
+machine_hash: beb6d227c7528eb663c0fe9da103259bfda04eb56ea6de7022efbb23942ebcb2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: '#47411 Apply shared network policy throughout embedded Codex startup @acrognale-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-9-collaboration-changes-in-rust-v0-156-0|9 Collaboration
-  changes in rust-v0.156.0]]'
-- '[[Changes/OpenHands/2026-09-22-test-strengthen-shared-utility-behavior-by-aivong-openhands-in-https-github-com|test:
-  strengthen shared utility behavior]]'
 - '[[Changes/Cursor/2026-09-23-team-rules|Team rules]]'
+- '[[Changes/OpenClaw/2026-09-23-16-collaboration-changes-in-v2026-9-6|16 Collaboration
+  changes in v2026.9.6]]'
+- '[[Changes/Midjourney/2026-09-24-a-few-updates-to-share-with-you-today|A few updates
+  to share with you today]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3|codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3]]'
 source_type: github_releases
 theme: collaboration
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-team-rules|Team rules]]
+- Earlier: 2026-09-24 · Midjourney · [[Changes/Midjourney/2026-09-24-a-few-updates-to-share-with-you-today|A few updates to share with you today]]
 - Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-2-collaboration-changes-in-v2-1-284|2 Collaboration changes in v2.1.284]]
 <!-- chronolog:end -->
 

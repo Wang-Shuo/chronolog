@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1c7691299cbf6c5c1199fe11b159d1499b582868243e1c4cbda6020ced7c1a85
+machine_hash: 4cce47d08b94f02d74be4fe3ebe81e8411ab4395ce2cfb6165dc8c80fd0f5fbd
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: Skip diff error UI handling during streaming to prevent flickering
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-24-improve-task-completion-with-clearer-detached-process-guidance|Improve
-  task completion with clearer detached process guidance]]'
+- '[[Changes/Gamma/2026-01-26-you-can-now-use-color-gradients-on-card-backgrounds|Gradient
+  card backgrounds]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-26-add-commenting-to-diff-mode-for-line-specific-feedback|Add
   commenting to /diff mode for line-specific feedback]]'
 - '[[Changes/Claude Code/2026-01-27-added-external-editor-shortcut-ctrl-g-to-the-help-menu-for-better-discoverabilit|Added

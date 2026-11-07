@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 80ecacd6014d4ad7a471e98e5b0e1a5c7fa2b3381c45aaec18cb8877a3860148
+machine_hash: 161a2330e187d7556001a59c1c670c50c82950ee7b8ebf8ca0245008cac4790f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-12-09 · Dify · [[Changes/Dify/2024-12-09-document-extractor-handles-pptx-files-full-support-for-pptx-file-types-is-back-a|Document Extractor Handles PPTX Files]]
-- Later: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]]
+- Later: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-hi-all-today-we-re-launching-a-research-preview-of-a-new-worldbuilding-tool-patc|Hi all! Today we’re launching a research preview of a new worldbuilding tool: Patchwork]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

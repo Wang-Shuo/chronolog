@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e3628af47494a37f717cba8c1b6ca38cc795a51512b54b85bfc0acbda3fec60
+machine_hash: c461df5c0dac930fa862effaa7230952ff2d17a6515af0eac801e603d1c9f814
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +44,8 @@ record:
     directly…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat:
-  add linux desktop installer build (CI + deb maintainer fix)]]'
+- '[[Changes/OpenCode/2026-08-28-desktop-archived-sessions-disappear-from-the-home-list-immediately|Desktop
+  Archived sessions disappear from the Home list immediately]]'
 - '[[Changes/v0/2026-08-28-the-native-mobile-app-gained-message-queuing-tappable-links-shared-chat-author-a|The
   native mobile app gained message queuing, tappable links, shared-chat author…]]'
 - '[[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share

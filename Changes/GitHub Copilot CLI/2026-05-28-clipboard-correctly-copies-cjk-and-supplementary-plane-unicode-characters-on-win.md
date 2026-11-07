@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 389a27e6216401640d4272be4dacfe97df88fbda63d3e840e29e0c1ce21d4575
+machine_hash: 14a0b103c583c31969662425b32e0c68a58eae22a756a1b5c1f786cba8171235
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
     on Windows
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-26-2-mobile-and-desktop-changes-in-rust-v0-134-0|2
-  Mobile and Desktop changes in rust-v0.134.0]]'
 - '[[Changes/Gemini CLI/2026-05-27-auto-detect-pnpm-global-installation-path-for-macos-and-windows-by-tisonkun-in-h|Auto
   detect pnpm global installation path for macOS and Windows]]'
+- '[[Changes/OpenCode/2026-05-27-6-mobile-and-desktop-changes-in-v1-15-11|6 Mobile
+  and Desktop changes in v1.15.11]]'
 - '[[Changes/Codex CLI/2026-05-28-5-mobile-and-desktop-changes-in-rust-v0-135-0|5
   Mobile and Desktop changes in rust-v0.135.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856|github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-5-mobile-and-desktop-changes-in-rust-v0-135-0|5 Mobile and Desktop changes in rust-v0.135.0]]
-- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-startup-on-non-unicode-consoles-open-webui-no-longer-crashes-at-startup-when-the|🥾 Startup on non-Unicode consoles. Open WebUI no longer crashes at startup…]]
+- Later: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-desktop-improved-the-home-empty-state-and-fixed-v2-font-usage|Desktop Improved the home empty state and fixed V2 font usage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a2153e62f20d5a521459bd21a64ddfe0f55bba32161fa01591583eaafa8e586
+machine_hash: 7896c127d132ea6725babac3c1c7fc46e5247a864366af90fe5cddb018813847
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.76.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-8084-chore-ci-drop-homebrew-origin-main-workaround-for-macos-runners|♯8084 chore(ci): drop Homebrew origin/main workaround for macOS runners]]
-- Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-8743-macos-load-config-requirements-from-mdm-gt-oai|♯8743 (MacOS) Load config requirements from MDM @gt-oai]]
+- Later: 2025-12-19 · OpenCode · [[Changes/OpenCode/2025-12-19-4-mobile-and-desktop-changes-in-v1-0-170|4 Mobile and Desktop changes in v1.0.170]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

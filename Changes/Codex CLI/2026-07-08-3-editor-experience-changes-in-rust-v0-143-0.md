@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f7f11710c8ce721db0db9b49468b6e6b60ad2e3ed703478eba509d4e8666eafe
+machine_hash: be37d7f710da538ef8fdadae3fbbbe201f544a9c801f2115cbfa9cd1db7e5594
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,11 +44,12 @@ record:
   title: 3 Editor Experience changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]'
 - '[[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed
   left arrow to no longer close the background tasks, diff, and workflow…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-2-editor-experience-changes-in-v1-0-69|2
   Editor Experience changes in v1.0.69]]'
+- '[[Changes/OpenCode/2026-07-07-desktop-keep-session-tab-titles-available-after-reloads-while-session-data-is-st|Desktop
+  Keep session tab titles available after reloads while session data is still…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
 source_type: github_releases
 theme: editor-experience
@@ -98,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-2-editor-experience-changes-in-v1-0-69|2 Editor Experience changes in v1.0.69]]
+- Earlier: 2026-07-07 · OpenCode · [[Changes/OpenCode/2026-07-07-desktop-keep-session-tab-titles-available-after-reloads-while-session-data-is-st|Desktop Keep session tab titles available after reloads while session data is still…]]
 - Later: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-pause-a-lovable-cloud-project|Pause a Lovable Cloud project]]
 <!-- chronolog:end -->
 

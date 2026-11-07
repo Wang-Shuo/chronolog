@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04355c073f489be117a7e82e8b59e77dc875c48cc4241dc964d226ad011b50e2
+machine_hash: ed775310869c893c70f4a8bc4e85a3f8ab625234851f9c1c63ed139809a0feca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,10 @@ record:
     to use
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6
-  Apps and Integrations changes in v2.1.238]]'
 - '[[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33
   Apps and Integrations changes in rust-v0.149.0]]'
+- '[[Changes/Google Antigravity/2026-08-20-refreshed-the-customizations-settings-screen-with-collapsible-sections-and-item|Refreshed
+  the Customizations settings screen with collapsible sections and item…]]'
 - '[[Changes/Lovable/2026-08-20-sort-connectors-and-add-an-mcp-server-from-the-catalog-header|Sort
   connectors and add an MCP server from the catalog header]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b|chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b]]'

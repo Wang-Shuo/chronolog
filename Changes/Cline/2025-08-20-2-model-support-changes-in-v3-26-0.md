@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 928f81a8245c120ad9fce984bb31e1503b47baecc64f3a56dfed13201b1e924c
+machine_hash: 9d8614255af7176ee87b8ccaa7ff830f921405a8a6d851f65b9e4d25a5b7b7d2
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v3.26.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-15-add-support-for-200k-context-for-claude-sonnet-4-using-openrouter-cline-by-saoud|Add
-  support for 200k context for claude sonnet 4 using openrouter/cline]]'
 - '[[Changes/Ollama/2025-08-15-ollama-flash-attention-1-will-also-enable-flash-attention-for-pure-cpu-models|OLLAMA_FLASH_ATTENTION=1
   will also enable flash attention for pure-CPU models]]'
 - '[[Changes/Gemini CLI/2025-08-18-4-model-support-changes-in-v0-1-22|4 Model Support
   changes in v0.1.22]]'
+- '[[Changes/Runway/2025-08-19-added-support-for-select-third-party-models-within-chat-mode-and-gen-4-image-tur|More
+  Ways to Create]]'
 source_release: '[[Releases/Cline/cline-2025-08-20-v3-26-0-github-241074389-d79f2faa|cline-2025-08-20-v3-26-0-github-241074389-d79f2faa]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.26.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-4-model-support-changes-in-v0-1-22|4 Model Support changes in v0.1.22]]
+- Earlier: 2025-08-19 · Runway · [[Changes/Runway/2025-08-19-added-support-for-select-third-party-models-within-chat-mode-and-gen-4-image-tur|More Ways to Create]]
 - Later: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-4-model-support-changes-in-rust-v0-23-0|4 Model Support changes in rust-v0.23.0]]
 <!-- chronolog:end -->
 

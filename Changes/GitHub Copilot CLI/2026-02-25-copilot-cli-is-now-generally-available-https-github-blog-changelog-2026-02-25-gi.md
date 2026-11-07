@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9cfdacfacd8d26d3c778510784017900b046b630608a3899decf4a4ea8ae9bc4
+machine_hash: 8dbbaf7ee653770cab75fb3b7b4af3b4531eb945ffe633faf1836ef629143e34
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: "\U0001F389 Copilot CLI is now [generally…"
   type: change
 related_changes:
-- '[[Changes/v0/2026-02-23-added-file-deletion-in-the-editor|Added file deletion in
-  the editor]]'
+- '[[Changes/OpenCode/2026-02-24-desktop-wait-for-loadfile-to-complete-before-opening-file-tab|Desktop
+  Wait for loadFile to complete before opening file tab]]'
 - '[[Changes/Codex CLI/2026-02-25-2-editor-experience-changes-in-rust-v0-105-0|2 Editor
   Experience changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-feat-plan-hide-plan-write-and-edit-operations-on-plans-in-plan-mode-by-jerop-in|feat(plan):

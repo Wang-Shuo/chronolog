@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 001c42a88d58efea09688342dad353c8a9535b2ecccc7cddeef50f3b58504549
+machine_hash: dfe4e747fee3b50d3afd4e59e04615c4d751fdcdc30d7089c5201b90732cd1d0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: CLI starts faster by rendering the UI immediately while authentication resolves…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-01-2-account-and-access-changes-in-v1-0-40|2
-  Account and Access changes in v1.0.40]]'
 - '[[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels
   now works with console (API key) authentication]]'
+- '[[Changes/OpenCode/2026-05-04-2-account-and-access-changes-in-v1-14-34|2 Account
+  and Access changes in v1.14.34]]'
 - '[[Changes/ChatGPT/2026-05-05-chatgpt-for-excel-and-google-sheets-is-now-available-globally-bringing-chatgpt-i|ChatGPT
   for Excel and Google Sheets]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863|github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863]]'

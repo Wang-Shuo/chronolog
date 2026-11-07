@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bdc829ca8c2e8df02e37fc8c24b3e5ecd2273c8f6f77aceef412daa5c38c0b76
+machine_hash: c7103b958da573b49d0bcf9a538e55b3b86277a29e3f4af6b8393d0a74ec71c9
 product: claude
 product_name: Claude
 record:
@@ -53,8 +53,10 @@ record:
   title: Write tools for the Microsoft 365 connector
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-06-sdk-releases|SDK Releases]]'
-- '[[Changes/ElevenLabs/2026-07-06-elevenagents|ElevenAgents]]'
+- '[[Changes/OpenCode/2026-07-06-core-fixed-paginated-mcp-tool-catalogs-losing-tool-metadata-and-output-schema-va|Core
+  Fixed paginated MCP tool catalogs losing tool metadata and output schema validation]]'
+- '[[Changes/OpenCode/2026-07-06-added-a-code-mode-mcp-adapter-for-running-confined-orchestration-scripts-against|Added
+  a code mode MCP adapter for running confined orchestration scripts against…]]'
 - '[[Changes/OpenHands/2026-07-06-7-apps-and-integrations-changes-in-1-9-0|7 Apps
   and Integrations changes in 1.9.0]]'
 source_release: '[[Releases/Claude/claude-2026-07-07-2026-07-07-3495f67b|claude-2026-07-07-2026-07-07-3495f67b]]'

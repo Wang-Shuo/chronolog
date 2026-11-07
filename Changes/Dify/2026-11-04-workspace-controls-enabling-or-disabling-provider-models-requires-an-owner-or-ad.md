@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 960c77fbb9c1f5b1a5becc367b228b9a34502e7b5936b9154b767f34fba31639
+machine_hash: c6879529459c8f03cb7636ffcfa3b79b46e24bc3319c6dbf0249535ec01d3d06
 product: dify
 product_name: Dify
 record:
@@ -57,12 +57,12 @@ record:
     owner…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-3-enterprise-and-administration-changes-in-v2-1-314|3
-  Enterprise and Administration changes in v2.1.314]]'
 - '[[Changes/Windsurf/2026-10-30-members-an-enterprise-admin-has-listed-for-anthropic-s-cyber-verification-progra|Members
   an enterprise admin has listed for Anthropic''s Cyber Verification Program…]]'
 - '[[Changes/Claude Code/2026-10-31-2-enterprise-and-administration-changes-in-v2-1-316|2
   Enterprise and Administration changes in v2.1.316]]'
+- '[[Changes/OpenClaw/2026-11-03-you-can-now-guide-the-same-running-conversation-from-the-control-ui-or-an-admini|Guide
+  the same running conversation from the Control UI or an administrator-linked…]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-enterprise-and-administration-changes-in-v2-1-316|2 Enterprise and Administration changes in v2.1.316]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-you-can-now-guide-the-same-running-conversation-from-the-control-ui-or-an-admini|Guide the same running conversation from the Control UI or an administrator-linked…]]
 - Later: 2026-11-05 · Claude · [[Changes/Claude/2026-11-05-new-security-and-admin-controls-for-enterprise-plans|New security and admin controls for Enterprise plans]]
 <!-- chronolog:end -->
 

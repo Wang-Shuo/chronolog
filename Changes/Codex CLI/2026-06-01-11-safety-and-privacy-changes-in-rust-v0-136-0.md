@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f7794e4ab83faf3e39540bd4b1171827e6cd0e299a659cf61df987fbe32d401d
+machine_hash: ece8aa47223ec147a4dc370d03f15bfff0ef7828d2f05cd88b54ae3c039628a8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -66,10 +66,10 @@ record:
   title: 11 Safety and Privacy changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-2-safety-and-privacy-changes-in-v2-1-153|2 Safety
-  and Privacy changes in v2.1.153]]'
 - '[[Changes/Codex CLI/2026-05-28-7-safety-and-privacy-changes-in-rust-v0-135-0|7
   Safety and Privacy changes in rust-v0.135.0]]'
+- '[[Changes/OpenCode/2026-05-28-core-handled-acp-next-permission-prompts-correctly|Core
+  Handled acp-next permission prompts correctly]]'
 - '[[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety
   and Privacy changes in v2.1.157]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'

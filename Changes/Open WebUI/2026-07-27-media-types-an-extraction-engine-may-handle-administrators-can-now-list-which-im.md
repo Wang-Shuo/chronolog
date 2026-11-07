@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc63d81d00bfcfc13240abfa0fa1a6c0fccdb5591a52a6f97efa7b51075abe09
+machine_hash: 80015b922e7354dfeca3ca49b20ad8b482913330c8613e06cda353480932703f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,12 +54,12 @@ record:
     can now list…"
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-06-01-youtube-short-link-transcripts-pasting-a-youtu-be-short-link-into-a-chat-now-loa|\U0001F4FA
-  YouTube short link transcripts. Pasting a \"youtu.be\" short link into a chat…]]"
-- '[[Changes/Ollama/2026-06-03-gemma-4-12b-https-ollama-com-library-gemma4-12b-high-performance-multimodal-inte|Gemma
-  4 12B((source link)]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear
   queued tool images when vision is disabled]]'
+- '[[Changes/OpenClaw/2026-07-13-19-multimodal-input-changes-in-v2026-7-1|19 Multimodal
+  Input changes in v2026.7.1]]'
+- '[[Changes/Runway/2026-07-14-aleph-2-0-is-now-available-through-the-runway-mcp-ask-your-agent-to-edit-videos|Aleph
+  2.0 in MCP]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases
 theme: multimodal
@@ -109,8 +109,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear queued tool images when vision is disabled]]
-- Later: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-ci-require-frontend-screenshot-video-and-checked-human-tested-box-by-all-hands-b|ci: require frontend screenshot/video and checked human-tested box]]
+- Earlier: 2026-07-14 · Runway · [[Changes/Runway/2026-07-14-aleph-2-0-is-now-available-through-the-runway-mcp-ask-your-agent-to-edit-videos|Aleph 2.0 in MCP]]
+- Later: 2026-07-28 · Runway · [[Changes/Runway/2026-07-28-pass-in-any-video-with-a-text-prompt-describing-an-entity-to-cut-it-out-as-a-tra|SAM3 Video Segmentation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 23e19ade65c840d0130c642d788b1f00e1add28ca6ef01b4c514a77808d4c536
+machine_hash: c07e36ceac065a3d8c6ad1894d31cbe759b6913f10ccef1e42149e953921a10f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Account and Access changes in v1.0.78
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-add-a-browser-based-web-oauth-login-flow-now-the-default-for-copilot-login-on-lo|Add
-  a browser-based (web) OAuth login flow, now the default for copilot login…]]'
+- '[[Changes/Google Antigravity/2026-07-31-2-account-and-access-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
+  Account and Access changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 - '[[Changes/v0/2026-07-31-open-in-v0-and-git-deployment-lookups-prompt-for-saml-re-authentication-instead|Open
   in v0 and Git deployment lookups prompt for SAML re-authentication instead…]]'
 - '[[Changes/Windsurf/2026-08-01-devin-desktop-for-windows-loads-root-and-intermediate-certificates-from-the-wind|Devin
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.78
 ## Nearby in Account and Access
 
 - Earlier: 2026-08-01 · Windsurf · [[Changes/Windsurf/2026-08-01-devin-desktop-for-windows-loads-root-and-intermediate-certificates-from-the-wind|Devin Desktop for Windows loads root and intermediate certificates from the Windows…]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-changed-managed-settings-the-approval-prompt-no-longer-re-appears-after-re-login|Changed managed settings]]
+- Later: 2026-08-05 · OpenCode · [[Changes/OpenCode/2026-08-05-core-simplified-xai-login-to-a-single-device-code-flow-that-works-better-in-head|Core Simplified xAI login to a single device-code flow that works better in headless…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c36c45062f88dd29584a5c099b8e44de9d9ac103c2ae126beae39dff3c5950aa
+machine_hash: cc5bdf3ce784bf2d4b1740ce2e9cc5f473035eae2ce1d4832b87f8499ab82751
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,13 +70,13 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Later: 2024-03-18 · Open WebUI · [[Changes/Open WebUI/2024-03-18-localization-you-can-now-change-the-ui-language-in-settings-general-we-support-u|🌍 Localization: You can now change the UI language in Settings  General]]
+- Later: 2024-03-05 · Suno · [[Changes/Suno/2024-03-05-miscellaneous-accessibility-fixes|Miscellaneous accessibility fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 20 tracked products.
+- Earliest same-theme entry among the 29 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

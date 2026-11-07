@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: b4456ef274b87fa13d8513fe9688e98373e8d420949c96fb81ac30d4236e601f
+machine_hash: 460bb004ba2561d28b105a34eaf96742266f4c435705751f86eb9b3553cc6b1f
 product: replit
 product_name: Replit
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-14986-temporarily-disable-private-desktop-until-it-works-with-elevated-ipc-path|♯14986 temporarily disable private desktop until it works with elevated IPC path…]]
-- Later: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-ios-sdk|iOS SDK]]
+- Later: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-5-mobile-and-desktop-changes-in-v1-3-0|5 Mobile and Desktop changes in v1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

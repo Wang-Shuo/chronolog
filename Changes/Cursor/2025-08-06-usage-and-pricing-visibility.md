@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: f7a6a8dc419ef4926ff6eed6cc4f2d5cab96dbbc934ca46e1dfb7c6803197f9a
+machine_hash: eab71683ee8c421dca33c82b9cbeaba4b70609631b6b5947388a0811902665b2
 product: cursor
 product_name: Cursor
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding redirectUrl to credits purchasing experience]]
-- Later: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-unified-credits-bar|Unified credits bar]]
+- Later: 2025-08-07 · Midjourney · [[Changes/Midjourney/2025-08-07-about-hd-video-mode|About HD Video Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

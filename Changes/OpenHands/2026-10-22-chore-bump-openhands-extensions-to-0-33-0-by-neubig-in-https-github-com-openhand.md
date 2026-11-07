@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8153248ff44bb0676953070a5f1600b9b3d45cf2dbf3d4d09b837217ca89c392
+machine_hash: 32abd8ca773fcb9f9fc002ee6ed174487e0ec682bfe9e1aeb1565dce4b4d67cd
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 'chore: bump @openhands/extensions to 0.33.0'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-21-2-apps-and-integrations-changes-in-v1-0-102|2
-  Apps and Integrations changes in v1.0.102]]'
-- '[[Changes/Claude Code/2026-10-22-2-apps-and-integrations-changes-in-v2-1-309|2
-  Apps and Integrations changes in v2.1.309]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-22-reuse-cached-local-mcp-tool-snapshots-across-registered-git-worktrees-in-one-rep|Reuse
   cached local MCP tool snapshots across registered Git worktrees in one repository]]'
+- '[[Changes/Google Antigravity/2026-10-22-3-apps-and-integrations-changes-in-hub-v2-26-0-notifications-settings|3
+  Apps and Integrations changes in HUB v2.26.0 — Notifications settings…]]'
+- '[[Changes/OpenClaw/2026-10-22-10-apps-and-integrations-changes-in-v2026-10-6|10
+  Apps and Integrations changes in v2026.10.6]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-22-v1-30-0-github-420204793-c18c6270|openhands-2026-10-22-v1-30-0-github-420204793-c18c6270]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-22-reuse-cached-local-mcp-tool-snapshots-across-registered-git-worktrees-in-one-rep|Reuse cached local MCP tool snapshots across registered Git worktrees in one repository]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-10-apps-and-integrations-changes-in-v2026-10-6|10 Apps and Integrations changes in v2026.10.6]]
 - Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2 Apps and Integrations changes in v2.1.310]]
 <!-- chronolog:end -->
 

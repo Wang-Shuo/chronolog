@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b199df3214cc482b8b53496d40d3c3149449260e109ed4d729fc798e662497a
+machine_hash: 9ac7eff4c23b00cc6a6917d59214383221d3f00ae234f782fcbbb6f8cdeeb1c2
 product: openhands
 product_name: OpenHands
 record:
@@ -42,11 +42,12 @@ record:
   title: 'refactor(automations): express the activity track height in CSS'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-19-3-automation-and-scheduling-changes-in-v1-28-0|3
-  Automation and Scheduling changes in v1.28.0]]'
-- '[[Changes/Cursor/2026-10-20-channels|Channels]]'
 - '[[Changes/OpenHands/2026-10-20-feat-home-dismiss-recommended-automations-rail-from-home-and-application-setting|feat(home):
   dismiss recommended automations rail from Home and Application settings]]'
+- '[[Changes/Google Antigravity/2026-10-22-the-conversations-palette-cmd-p-on-macos-ctrl-p-on-windows-and-linux-now-include|The
+  Conversations palette (Cmd+P on macOS, Ctrl+P on Windows and Linux) now includes…]]'
+- '[[Changes/OpenClaw/2026-10-22-5-automation-and-scheduling-changes-in-v2026-10-6|5
+  Automation and Scheduling changes in v2026.10.6]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-22-v1-30-1-github-420407032-fb2ceba2|openhands-2026-10-22-v1-30-1-github-420407032-fb2ceba2]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-feat-home-dismiss-recommended-automations-rail-from-home-and-application-setting|feat(home): dismiss recommended automations rail from Home and Application settings]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-5-automation-and-scheduling-changes-in-v2026-10-6|5 Automation and Scheduling changes in v2026.10.6]]
 - Later: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-feat-automations-hide-the-github-token-secret-field-on-self-hosted-instances-whe|feat(automations): hide the GitHub token secret field on self-hosted instances…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 371e24b1dccddeb0a680b00e9d5f7301b975741e8930dc4ba50e8b89905ae516
+machine_hash: 1d8a7b8d87ee060f356a9d56a1862b459858c9717fe2aaa6c07363040b358fa1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,11 +63,12 @@ record:
     selected tools…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-3-image-generation-changes-in-rust-v0-158-0|3 Image
-  Generation changes in rust-v0.158.0]]'
-- '[[Changes/ElevenLabs/2026-09-28-flows|Flows]]'
+- '[[Changes/Midjourney/2026-10-08-we-re-testing-a-new-thinking-mode-for-image-generation-on-our-alpha-website-alph|We''re
+  testing a new "Thinking Mode" for image generation on our Alpha website…]]'
 - '[[Changes/Open WebUI/2026-10-10-5-image-generation-changes-in-v0-12-0|5 Image Generation
   changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-image-generation-with-oauth-can-retry-using-a-supported-openai-chat-model-in-age|Image
+  generation with OAuth can retry using a supported OpenAI chat model…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d|open-webui-2026-10-16-v0-12-3-github-414903453-58a8a82d]]'
 source_type: github_releases
 theme: image-generation
@@ -110,7 +111,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-5-image-generation-changes-in-v0-12-0|5 Image Generation changes in v0.12.0]]
+- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-image-generation-with-oauth-can-retry-using-a-supported-openai-chat-model-in-age|Image generation with OAuth can retry using a supported OpenAI chat model…]]
 - Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-2-image-generation-changes-in-rust-v0-164-0|2 Image Generation changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 

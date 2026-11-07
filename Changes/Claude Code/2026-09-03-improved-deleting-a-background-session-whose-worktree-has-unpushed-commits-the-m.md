@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12cc83a3e4f3353572a7df534c496eac621d791da90ace76eca80baa0269162b
+machine_hash: 9951d9a8e1b6d2bd1028274af0c8834740df85b3350adf9991c48ece051e3ef6
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved deleting a background session whose worktree has unpushed commits
   type: change
 related_changes:
-- '[[Changes/v0/2026-09-01-your-repository-remains-the-source-of-truth-required-checks-reviews-merge-restri|Your
-  repository remains the source of truth]]'
 - '[[Changes/Claude Code/2026-09-02-improved-terminal-resize-and-first-render-performance-for-long-responses-by-reus|Improved
   terminal resize and first-render performance for long responses by reusing…]]'
 - '[[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global
   rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]'
+- '[[Changes/Google Antigravity/2026-09-02-terminal-split-layouts-are-now-preserved-across-window-reloads|Terminal
+  split layouts are now preserved across window reloads]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]
+- Earlier: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-terminal-split-layouts-are-now-preserved-across-window-reloads|Terminal split layouts are now preserved across window reloads]]
 - Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-5-developer-workflow-changes-in-rust-v0-153-0|5 Developer Workflow changes in rust-v0.153.0]]
 <!-- chronolog:end -->
 

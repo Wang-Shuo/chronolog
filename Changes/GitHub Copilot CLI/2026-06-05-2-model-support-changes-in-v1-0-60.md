@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a4d6d9ca08200872e19d33779ded53be5311ca326fb0c5b0fd9cdd6708afe71
+machine_hash: b9dacc2faa7ef22247404194932e524eb500d1268ca7e7bbe42ab7b622471bc2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 ## Nearby in Model Support
 
 - Earlier: 2026-06-05 · Cline · [[Changes/Cline/2026-06-05-3-model-support-changes-in-v3-88-0|3 Model Support changes in v3.88.0]]
-- Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support changes in v2.1.166]]
+- Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-4-model-support-changes-in-v1-16-0|4 Model Support changes in v1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

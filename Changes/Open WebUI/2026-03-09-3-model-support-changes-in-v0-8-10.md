@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ebae217719abe18fc8891bdaa188f51004936acb12ad6f7025000b49f0c7853
+machine_hash: cf9871b3551c47954158d1a7a3166d1e80aed6866fd8687c00ed75a925462b51
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,11 +51,11 @@ record:
   title: 3 Model Support changes in v0.8.10
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-08-13617-update-models-json-aibrahim-oai|♯13617 Update
-  models.json @aibrahim-oai]]'
 - '[[Changes/Open WebUI/2026-03-08-9-model-support-changes-in-v0-8-9|9 Model Support
   changes in v0.8.9]]'
 - '[[Changes/ElevenLabs/2026-03-09-elevenagents|ElevenAgents]]'
+- '[[Changes/Google Antigravity/2026-03-09-added-support-for-reading-rules-from-agents-md-in-addition-to-gemini-md|Added
+  support for reading rules from AGENTS.md in addition to GEMINI.md]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-09-v0-8-10-github-294485945-5852a771|open-webui-2026-03-09-v0-8-10-github-294485945-5852a771]]'
 source_type: github_releases
 theme: model-support
@@ -96,8 +96,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.10
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-09 · ElevenLabs · [[Changes/ElevenLabs/2026-03-09-elevenagents|ElevenAgents]]
-- Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-14123-pass-on-save-info-to-model-ui-tweaks-won-openai|♯14123 pass on save info to model + ui tweaks @won-openai]]
+- Earlier: 2026-03-09 · Google Antigravity · [[Changes/Google Antigravity/2026-03-09-added-support-for-reading-rules-from-agents-md-in-addition-to-gemini-md|Added support for reading rules from AGENTS.md in addition to GEMINI.md]]
+- Later: 2026-03-09 · OpenCode · [[Changes/OpenCode/2026-03-09-disable-fallback-to-free-nano-for-small-model-requests|Disable fallback to free nano for small model requests]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d5b1504c430bc2ddc6ffefde47409d24ea4ece1e29ffae70df51ad964c23407d
+machine_hash: 7dea2b307a324af528852832a2397280e138755223735792ff556cd22e53dd3d
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,10 +43,10 @@ record:
   title: Introducing Adaptive
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-02-26b-mixture-of-experts-model-with-4b-active-parameters|26B
-  (Mixture of Experts model with 4B active parameters)]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-04-new-critic-agent-automatically-reviews-plans-and-complex-implementations-using-a|New
-  Critic agent automatically reviews plans and complex implementations using…]]'
+- '[[Changes/OpenCode/2026-04-06-core-expose-session-model-and-mode-config-options-through-acp|Core
+  Expose session model and mode config options through ACP]]'
+- '[[Changes/OpenCode/2026-04-06-support-azure-model-options-on-both-chat-and-responses-paths|Support
+  Azure model options on both chat and responses paths]]'
 - '[[Changes/Windsurf/2026-04-06-adaptive-model-router|Adaptive Model Router]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-06-v1-9600-38-86c634e8|windsurf-2026-04-06-v1-9600-38-86c634e8]]'
 source_type: windsurf_changelog
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-04-new-critic-agent-automatically-reviews-plans-and-complex-implementations-using-a|New Critic agent automatically reviews plans and complex implementations using…]]
+- Earlier: 2026-04-06 · OpenCode · [[Changes/OpenCode/2026-04-06-support-azure-model-options-on-both-chat-and-responses-paths|Support Azure model options on both chat and responses paths]]
 - Later: 2026-04-07 · Ollama · [[Changes/Ollama/2026-04-07-added-latest-models-to-ollama-app|Added latest models to Ollama App]]
 <!-- chronolog:end -->
 

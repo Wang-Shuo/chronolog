@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b74a82c577d146c1f9e6ac2305dd587e56eeff41cc1d8664e3abb25efbcfdcda
+machine_hash: 6634d7e29de4134198bae55d36b3148ba4f6da0e9398ac13e6d93189cb3c96ff
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: Ensure models appear in picker correctly, display model names where possible
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-2-model-support-changes-in-rust-v0-116-0|2 Model
-  Support changes in rust-v0.116.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-model-support-changes-in-v1-0-10|2 Model
   Support changes in v1.0.10]]'
+- '[[Changes/OpenCode/2026-03-22-3-model-support-changes-in-v1-3-0|3 Model Support
+  changes in v1.3.0]]'
 - '[[Changes/ElevenLabs/2026-03-23-new-schemas|New Schemas]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619|github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619]]'
 source_type: github_releases

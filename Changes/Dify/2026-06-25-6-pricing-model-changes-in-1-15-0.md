@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 65eb7664bd095753a92d3c71fb68bd9e47b9587b73d0d9ed825cb876a38695e4
+machine_hash: 4645af73872c3a37a4113ac353c6660efff2908848e7d9395a69db1f08655f66
 product: dify
 product_name: Dify
 record:
@@ -53,10 +53,10 @@ record:
   title: 6 Pricing Model changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-18-ask-lovable-about-your-workspace-s-credit-usage|Ask
-  Lovable about your workspace’s credit usage]]'
 - '[[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage
   can now show and redeem earned usage-limit reset credits…]]'
+- '[[Changes/Google Antigravity/2026-06-22-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
+  screen redesign]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-display-cache-write-pricing-for-models-that-omit-it|Display
   cache-write pricing for models that omit it]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'

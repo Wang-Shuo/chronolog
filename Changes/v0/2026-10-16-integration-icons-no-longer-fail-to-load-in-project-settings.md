@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3b28121165466966c06a54af8122d6519e4a6bea3031ce73349391ab90daa8a9
+machine_hash: 6b2a4c8eeaeefd40eb549e2814f2d943067730e9da28cf57c50679a634d38eee
 product: v0
 product_name: v0
 record:
@@ -43,11 +43,11 @@ record:
   title: Integration icons no longer fail to load in project settings
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved
-  use of plugins and tools to carry out tasks]]'
 - '[[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3
   Apps and Integrations changes in v2.1.302]]'
 - '[[Changes/Lovable/2026-10-16-connect-your-app-to-pledge|Connect your app to Pledge]]'
+- '[[Changes/OpenClaw/2026-10-16-maintenance-warnings-completed-plugin-upgrades-stop-leaving-stale-unfinished-war|Maintenance
+  warnings]]'
 source_release: '[[Releases/v0/v0-2026-10-16-2026-10-16-3443a38d|v0-2026-10-16-2026-10-16-3443a38d]]'
 source_type: v0_changelog
 theme: apps-integrations
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-connect-your-app-to-pledge|Connect your app to Pledge]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8 Apps and Integrations changes in v2.1.304]]
+- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-maintenance-warnings-completed-plugin-upgrades-stop-leaving-stale-unfinished-war|Maintenance warnings]]
+- Later: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-3-apps-and-integrations-changes-in-v2026-10-5|3 Apps and Integrations changes in v2026.10.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58763fc0fd534066e0e6615bd9e11e7a4a0abe2c7afe77b81de6ee0ba3933e45
+machine_hash: 29046d6f8ef914019277232266a76ff6fa942f76ab078b31928cb61362e53d61
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,9 @@ record:
   title: 3 Interface Experience changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface
-  Experience changes in 1.13.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2
   Interface Experience changes in v1.0.13]]'
+- '[[Changes/Google Antigravity/2026-03-30-onboarding-fix|Onboarding Fix]]'
 - '[[Changes/OpenHands/2026-03-30-added-the-new-slash-command-to-the-slash-command-menu-by-karanjaxyz-in-https-git|Added
   the /new slash command to the slash command menu]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'

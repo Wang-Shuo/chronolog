@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9a1a6be46f7f66c1eff0a3888463b64f4236426aa42e3e1a505b15b9885fc5c
+machine_hash: 8cff1ba388d00aabea9ced9279ec5e5a07f4d2893fe94f2619c0e2db8a1318da
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,10 +40,10 @@ record:
   title: '#57503 Fix macOS standalone release pruning @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-26-on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co|On
-  macOS, banners at the top of the window no longer interfere with the window controls]]'
-- '[[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You
-  can learn more about how ChatGPT uses connected apps here]]'
+- '[[Changes/OpenCode/2026-10-27-restored-the-todo-tool-in-desktop-via-opt-in|Restored
+  the Todo tool in desktop via opt-in]]'
+- '[[Changes/OpenCode/2026-10-27-refreshed-the-desktop-app-experience|Refreshed the
+  desktop app experience]]'
 - '[[Changes/OpenHands/2026-10-27-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The
   app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile and Desktop changes in v2.1.314]]
+- Later: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-10-mobile-and-desktop-changes-in-v2-2-2|10 Mobile and Desktop changes in v2.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e5d4a2ae19ac6dce069d6f118efe800497b18b316d6e94b81712ada28939c7be
+machine_hash: d7f069480044f19b8943f30b5784644b1199cebc375d22689da26cb117757942
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Context Window changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-3-context-window-changes-in-1-18-0|3 Context Window changes
-  in 1.18.0]]'
 - '[[Changes/Ollama/2026-10-23-nemotron-3-5-bolt-e4b-https-ollama-com-library-nemotron-3-5-bolt-is-nvidia-s-sma|Nemotron
   3.5 Bolt E4B((source link) is NVIDIA’s…]]'
+- '[[Changes/OpenClaw/2026-10-24-4-context-window-changes-in-v2026-10-7|4 Context
+  Window changes in v2026.10.7]]'
 - '[[Changes/Open WebUI/2026-10-25-4-context-window-changes-in-v0-12-4|4 Context Window
   changes in v0.12.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'

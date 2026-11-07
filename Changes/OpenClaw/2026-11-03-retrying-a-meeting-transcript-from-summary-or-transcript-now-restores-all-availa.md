@@ -1,0 +1,117 @@
+---
+card_id: openclaw-2026-11-03-d5cf82
+date: '2026-11-03'
+description: 'OpenClaw · 2026-11-03 · Meeting Notes: Retrying a meeting transcript
+  from Summary or Transcript now restores all available pages. Capture settings return
+  you…'
+diffusion:
+  first_in_tracked: '[[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New
+    in Granola: 29 meeting note templates, out of the box]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 757
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: meeting-notes
+  tracked_products_count: 29
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: da3bf69b369cfc38a07a3f04a4ff45363e4e96b642c8f14f97955bcb445ac8ca
+product: openclaw
+product_name: OpenClaw
+record:
+  card_id: openclaw-2026-11-03-d5cf82
+  comparison: ''
+  date: '2026-11-03'
+  description: 'OpenClaw — v2026.10.10: Retrying a meeting transcript from Summary
+    or Transcript now restores all available pages. Capture settings return you to
+    the selected meeting and filters, and periodic captions can continue after the
+    joining command disconnects.'
+  evidence:
+  - quote: Retrying a meeting transcript from Summary or Transcript now restores all
+      available pages. Capture settings return you to the selected meeting and filters,
+      and periodic captions can continue after the joining command disconnects.
+    source_release: https://docs.openclaw.ai/releases/2026.10.10
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: openclaw
+  product_name: OpenClaw
+  slug: retrying-a-meeting-transcript-from-summary-or-transcript-now-restores-all-availa
+  source_release: openclaw-2026-11-03-v2026-10-10-c26ff355
+  source_type: openclaw_changelog
+  theme: meeting-notes
+  title: Retrying a meeting transcript from Summary or Transcript now restores all
+    available pages
+  type: change
+related_changes:
+- '[[Changes/Granola/2025-12-04-a-celebration-of-your-year-as-told-by-your-meeting-notes|Granola
+  Crunched]]'
+- '[[Changes/Granola/2026-02-04-granola-mcp-connects-your-meeting-notes-to-claude-chatgpt-cursor-and-other-ai-to|Introducing
+  Granola MCP]]'
+- '[[Changes/Granola/2026-05-20-open-a-meeting-note-and-get-a-short-brief-who-you-re-meeting-what-you-discussed|New:
+  Briefs prepare you for your next meeting as you join]]'
+source_release: '[[Releases/OpenClaw/openclaw-2026-11-03-v2026-10-10-c26ff355|openclaw-2026-11-03-v2026-10-10-c26ff355]]'
+source_type: openclaw_changelog
+theme: meeting-notes
+title: Retrying a meeting transcript from Summary or Transcript now restores all available
+  pages
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Retrying a meeting transcript from Summary or Transcript now restores all available pages
+
+**OpenClaw** · 2026-11-03 · [[Themes/meeting-notes|Meeting Notes]] · [Official source](https://docs.openclaw.ai/releases/2026.10.10) · from [[Releases/OpenClaw/openclaw-2026-11-03-v2026-10-10-c26ff355|v2026.10.10]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Retrying a meeting transcript from Summary or Transcript now restores all available pages. Capture settings return you to the selected meeting and filters, and periodic captions can continue after the joining command disconnects.
+>
+> Source: https://docs.openclaw.ai/releases/2026.10.10
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/OpenClaw/2026-11-03-generated-images-music-and-video-can-wait-behind-a-busy-chat-without-reporting-f|Generated images, music and video can wait behind a busy chat without reporting…]] · Multimodal Input
+- [[Changes/OpenClaw/2026-11-03-you-can-now-guide-the-same-running-conversation-from-the-control-ui-or-an-admini|Guide the same running conversation from the Control UI or an administrator-linked…]] · Enterprise and Administration
+- [[Changes/OpenClaw/2026-11-03-2-files-and-data-changes-in-v2026-10-10|2 Files and Data changes in v2026.10.10]] · Files and Data
+- [[Changes/OpenClaw/2026-11-03-6-account-and-access-changes-in-v2026-10-10|6 Account and Access changes in v2026.10.10]] · Account and Access
+- [[Changes/OpenClaw/2026-11-03-image-generation-and-editing-now-reject-invalid-size-and-shape-options-before-co|Image generation and editing now reject invalid size and shape options before…]] · Image Generation
+- [[Changes/OpenClaw/2026-11-03-9-agent-mode-changes-in-v2026-10-10|9 Agent Mode changes in v2026.10.10]] · Agent Mode
+- [[Changes/OpenClaw/2026-11-03-13-interface-experience-changes-in-v2026-10-10|13 Interface Experience changes in v2026.10.10]] · Interface Experience
+- [[Changes/OpenClaw/2026-11-03-you-can-now-work-directly-in-a-folder-on-another-computer-connected-to-openclaw|Work directly in a folder on another computer connected to OpenClaw]] · Agent Mode
+- [[Changes/OpenClaw/2026-11-03-5-context-window-changes-in-v2026-10-10|5 Context Window changes in v2026.10.10]] · Context Window
+- [[Changes/OpenClaw/2026-11-03-15-memory-and-personalization-changes-in-v2026-10-10|15 Memory and Personalization changes in v2026.10.10]] · Memory and Personalization
+- [[Changes/OpenClaw/2026-11-03-4-automation-and-scheduling-changes-in-v2026-10-10|4 Automation and Scheduling changes in v2026.10.10]] · Automation and Scheduling
+- [[Changes/OpenClaw/2026-11-03-3-editor-experience-changes-in-v2026-10-10|3 Editor Experience changes in v2026.10.10]] · Editor Experience
+- [[Changes/OpenClaw/2026-11-03-web-search-now-honors-more-of-your-chosen-provider-settings-result-counts-and-ti|Web search now honors more of your chosen provider settings, result counts…]] · Search and Browsing
+- [[Changes/OpenClaw/2026-11-03-6-collaboration-changes-in-v2026-10-10|6 Collaboration changes in v2026.10.10]] · Collaboration
+- [[Changes/OpenClaw/2026-11-03-6-voice-and-audio-changes-in-v2026-10-10|6 Voice and Audio changes in v2026.10.10]] · Voice and Audio
+- [[Changes/OpenClaw/2026-11-03-7-safety-and-privacy-changes-in-v2026-10-10|7 Safety and Privacy changes in v2026.10.10]] · Safety and Privacy
+- [[Changes/OpenClaw/2026-11-03-4-mobile-and-desktop-changes-in-v2026-10-10|4 Mobile and Desktop changes in v2026.10.10]] · Mobile and Desktop
+- [[Changes/OpenClaw/2026-11-03-18-developer-workflow-changes-in-v2026-10-10|18 Developer Workflow changes in v2026.10.10]] · Developer Workflow
+- [[Changes/OpenClaw/2026-11-03-21-apps-and-integrations-changes-in-v2026-10-10|21 Apps and Integrations changes in v2026.10.10]] · Apps and Integrations
+- [[Changes/OpenClaw/2026-11-03-17-model-support-changes-in-v2026-10-10|17 Model Support changes in v2026.10.10]] · Model Support
+- [[Changes/OpenClaw/2026-11-03-incognito-conversations-now-keep-openclaw-conversation-contents-in-memory-instea|Incognito conversations now keep OpenClaw conversation contents in memory instead…]] · Reliability and Performance
+- [[Changes/OpenClaw/2026-11-03-83-other-changes-in-v2026-10-10|83 other changes in v2026.10.10]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Meeting Notes
+
+- Earlier: 2026-05-20 · Granola · [[Changes/Granola/2026-05-20-open-a-meeting-note-and-get-a-short-brief-who-you-re-meeting-what-you-discussed|New: Briefs prepare you for your next meeting as you join]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2024-10-07 · Granola · [[Changes/Granola/2024-10-07-new-in-granola-29-meeting-note-templates-out-of-the-box-from-project-kick-offs-t|New in Granola: 29 meeting note templates, out of the box]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20openclaw-2026-11-03-d5cf82&body=Card%3A%20Changes%2FOpenClaw%2F2026-11-03-retrying-a-meeting-transcript-from-summary-or-transcript-now-restores-all-availa.md%0ACard%20ID%3A%20openclaw-2026-11-03-d5cf82%0ASource%3A%20https%3A%2F%2Fdocs.openclaw.ai%2Freleases%2F2026.10.10%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

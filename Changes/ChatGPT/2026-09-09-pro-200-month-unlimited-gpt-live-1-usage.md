@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: cf0755c146e83ab355b24bd3bf49f6f14f0549c1b24e98ab05728e1e48498568
+machine_hash: 7af7dd8e2742c417a9e2f017aa8c5563f431adb7a0eff0992272a390ed01c341
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: 'Pro ($200/month): Unlimited GPT-Live-1 usage'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-02-cost-estimates-no-longer-appear-in-task-history-for-subscription-billed-tasks-cl|Cost
-  estimates no longer appear in task history for subscription-billed tasks…]]'
-- '[[Changes/Codex CLI/2026-09-03-41944-https-github-com-openai-codex-pull-41944-emit-turn-cost-telemetry-for-chat|♯41944((source
-  link) Emit turn cost telemetry…]]'
+- '[[Changes/OpenClaw/2026-09-05-3-pricing-model-changes-in-v2026-9-2|3 Pricing Model
+  changes in v2026.9.2]]'
 - '[[Changes/Lovable/2026-09-07-transfer-primary-ownership-of-your-workspace|Transfer
   primary ownership of your workspace]]'
+- '[[Changes/OpenClaw/2026-09-08-4-pricing-model-changes-in-v2026-9-3|4 Pricing Model
+  changes in v2026.9.3]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f|chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-transfer-primary-ownership-of-your-workspace|Transfer primary ownership of your workspace]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-4-pricing-model-changes-in-v2026-9-3|4 Pricing Model changes in v2026.9.3]]
 - Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-pricing-model-changes-in-v2-1-268|2 Pricing Model changes in v2.1.268]]
 <!-- chronolog:end -->
 

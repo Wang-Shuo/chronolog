@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 218c6f45f72cbc4c49581b78090fb8864e3d7b677f780c0f0d564224f3b5ee2d
+machine_hash: dd0739e814e3e2252e1d2b142e0653f2be8dfa9e4021c93fa3efa034a3a3ef06
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Account and Access changes in v1.0.52
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-3-account-and-access-changes-in-v1-0-49|3
-  Account and Access changes in v1.0.49]]'
-- '[[Changes/Codex CLI/2026-05-20-2-account-and-access-changes-in-rust-v0-132-0|2
-  Account and Access changes in rust-v0.132.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-20-2-account-and-access-changes-in-v1-0-51|2
-  Account and Access changes in v1.0.51]]'
+- '[[Changes/OpenCode/2026-05-21-2-account-and-access-changes-in-v1-15-7|2 Account
+  and Access changes in v1.15.7]]'
+- '[[Changes/OpenCode/2026-05-21-added-grok-oauth-sign-in|Added Grok OAuth sign-in]]'
+- '[[Changes/OpenCode/2026-05-22-core-let-mcp-oauth-configs-set-a-callback-port-and-include-configured-scopes-in|Core
+  Let MCP OAuth configs set a callback port and include configured scopes…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'
 source_type: github_releases
 theme: account-access
@@ -91,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.52
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-2-account-and-access-changes-in-v1-0-51|2 Account and Access changes in v1.0.51]]
+- Earlier: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-core-let-mcp-oauth-configs-set-a-callback-port-and-include-configured-scopes-in|Core Let MCP OAuth configs set a callback port and include configured scopes…]]
 - Later: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-2-account-and-access-changes-in-rust-v0-134-0|2 Account and Access changes in rust-v0.134.0]]
 <!-- chronolog:end -->
 

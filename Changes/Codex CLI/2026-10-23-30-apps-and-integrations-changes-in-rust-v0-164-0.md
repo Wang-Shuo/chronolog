@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 985ca89ce79a61af42c94a6746809a75a1fd6df3771ab97aca2bdb1fb043d4e7
+machine_hash: 906d0aa18f5581cb5c68cfdc3f6b4aee2c4edff47d5771792b14f32efa5a5683
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,8 +106,8 @@ record:
   title: 30 Apps and Integrations changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-22-reuse-cached-local-mcp-tool-snapshots-across-registered-git-worktrees-in-one-rep|Reuse
-  cached local MCP tool snapshots across registered Git worktrees in one repository]]'
+- '[[Changes/OpenClaw/2026-10-22-10-apps-and-integrations-changes-in-v2026-10-6|10
+  Apps and Integrations changes in v2026.10.6]]'
 - '[[Changes/OpenHands/2026-10-22-chore-bump-openhands-extensions-to-0-33-0-by-neubig-in-https-github-com-openhand|chore:
   bump @openhands/extensions to 0.33.0]]'
 - '[[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2

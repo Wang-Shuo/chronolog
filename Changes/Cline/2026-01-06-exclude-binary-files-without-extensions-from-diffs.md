@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f461fbd5f1b5602ba76d7a83dcb078952a28ec208838b6a02a5fc52936597ab
+machine_hash: 1de677676a82f2bc3f7f7067909cae52c88ac99a6a9632b3673bed2bdffb4135
 product: cline
 product_name: Cline
 record:
@@ -42,11 +42,11 @@ record:
   title: Exclude binary files without extensions from diffs
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-12-30-added-forgejo-integration-by-johba37-in-https-github-com-openhands-openhands-pul|Added
-  Forgejo integration]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-02-mcp-server-type-help-text-displays-correct-options|MCP
-  server type help text displays correct options]]'
+- '[[Changes/OpenCode/2026-01-04-18-apps-and-integrations-changes-in-v1-1-1|18 Apps
+  and Integrations changes in v1.1.1]]'
 - '[[Changes/ElevenLabs/2026-01-05-sdk-releases|SDK Releases]]'
+- '[[Changes/OpenCode/2026-01-05-terminal-add-description-for-mcp-command-in-documentation|Terminal
+  Add description for MCP command in documentation]]'
 source_release: '[[Releases/Cline/cline-2026-01-06-v3-47-0-github-274645512-af25fb1a|cline-2026-01-06-v3-47-0-github-274645512-af25fb1a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-05 · ElevenLabs · [[Changes/ElevenLabs/2026-01-05-sdk-releases|SDK Releases]]
+- Earlier: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-terminal-add-description-for-mcp-command-in-documentation|Terminal Add description for MCP command in documentation]]
 - Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-8694-mcp-sanitize-mcp-tool-names-to-ensure-they-are-compatible-with-the-response|♯8694 MCP Sanitize MCP tool names to ensure they are compatible with the Responses…]]
 <!-- chronolog:end -->
 

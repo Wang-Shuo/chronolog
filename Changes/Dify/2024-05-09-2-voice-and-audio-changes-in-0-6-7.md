@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d737aca2abdad74bebcb902583058488e2ad8ae3e6c762a9ded29db1dfe56ea8
+machine_hash: f30c9f8109216cc493faf9ae82097da08d076e13f975c3cbc4d4abc7d50cecf9
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Voice and Audio changes in 0.6.7
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-19-5-voice-and-audio-changes-in-0-5-6|5 Voice and Audio
-  changes in 0.5.6]]'
-- '[[Changes/Dify/2024-02-28-voice-audition-by-charli117-in-https-github-com-langgenius-dify-pull-2504|Voice
-  audition]]'
 - '[[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio
   changes in 0.6.5]]'
+- '[[Changes/Midjourney/2024-04-27-a-few-cool-features-in-rooms|A few cool features
+  in rooms]]'
+- '[[Changes/Midjourney/2024-04-27-room-plans-hopefully-next-week|Room plans (hopefully
+  next week)]]'
 source_release: '[[Releases/Dify/dify-2024-05-09-0-6-7-github-154885497-ccce31f0|dify-2024-05-09-0-6-7-github-154885497-ccce31f0]]'
 source_type: github_releases
 theme: voice
@@ -86,8 +86,8 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-04-25 · Dify · [[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio changes in 0.6.5]]
-- Later: 2024-06-03 · Open WebUI · [[Changes/Open WebUI/2024-06-03-local-tts-voice-selection-fixed-the-issue-where-the-selected-local-text-to-speec|🔊 Local TTS Voice Selection]]
+- Earlier: 2024-04-27 · Midjourney · [[Changes/Midjourney/2024-04-27-room-plans-hopefully-next-week|Room plans (hopefully next week)]]
+- Later: 2024-05-24 · Suno · [[Changes/Suno/2024-05-24-v4-is-cooking-in-the-meantime-we-are-rolling-out-early-access-to-v3-5-which-is-n|v4 is cooking]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

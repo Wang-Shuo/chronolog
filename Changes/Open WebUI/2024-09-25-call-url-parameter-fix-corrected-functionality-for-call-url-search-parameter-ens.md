@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12c4a5ac99c05117ba221109765c9f495950336dfd6156875541f2363fc9699a
+machine_hash: fff74cba5a438ede888f657e0545cb2864f09663f7b4b13fa7f82f8ce3c0f429
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,8 +45,8 @@ record:
   title: "**\U0001F4DE 'Call' URL Parameter Fix**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-10-3-voice-and-audio-changes-in-0-8-0|3 Voice and Audio
-  changes in 0.8.0]]'
+- '[[Changes/Suno/2024-09-12-2-transform-audio-uploads-try-uploading-a-clip-of-your-singing-humming-or-playin|2
+  - Transform Audio Uploads]]'
 - "[[Changes/Open WebUI/2024-09-19-customizable-playback-speed-playback-speed-control-is-now-available-in-call-mode|\U0001F39A️
   Customizable Playback Speed]]"
 - "[[Changes/Open WebUI/2024-09-24-enhanced-audio-support-now-includes-support-for-audio-x-m4a-files-broadening-com|\U0001F3B5

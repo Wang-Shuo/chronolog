@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 873465e81d3f94596668069aea02b8470a65a5b86b7c4119a01d821a4b23ff07
+machine_hash: f4242a78480da6dba4a6c14462bf484f4daae5b80bc6ebcd7d59f8942412aef8
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Agent Mode changes in v2.1.89
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto
-  mode now shows "unavailable for your plan" when disabled by plan restrictions…]]'
 - '[[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in
   1.13.3]]'
 - '[[Changes/Codex CLI/2026-03-31-4-agent-mode-changes-in-rust-v0-118-0|4 Agent Mode
   changes in rust-v0.118.0]]'
+- '[[Changes/OpenCode/2026-03-31-core-subagent-tool-calls-stay-clickable-while-they-are-pending|Core
+  Subagent tool calls stay clickable while they are pending]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: agent-mode
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-4-agent-mode-changes-in-rust-v0-118-0|4 Agent Mode changes in rust-v0.118.0]]
+- Earlier: 2026-03-31 · OpenCode · [[Changes/OpenCode/2026-03-31-core-subagent-tool-calls-stay-clickable-while-they-are-pending|Core Subagent tool calls stay clickable while they are pending]]
 - Later: 2026-04-01 · Cline · [[Changes/Cline/2026-04-01-exclude-new-task-tool-from-system-prompt-in-yolo-headless-mode|Exclude new_task tool from system prompt in yolo/headless mode]]
 <!-- chronolog:end -->
 

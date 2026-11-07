@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 68ac18213c1f76b1b9524fffd1c09b865af99058a48903869381e55e13d14b82
+machine_hash: ebad39b63eda3b12cd926812b13a7fe7965a232913c6f692387061802f1dd2d2
 product: openhands
 product_name: OpenHands
 record:
@@ -54,11 +54,12 @@ record:
   title: 'feat: add LLM provider-connections UI (local agent-server)'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-19-goal|/goal]]'
-- '[[Changes/Codex CLI/2026-08-20-12-agent-mode-changes-in-rust-v0-149-0|12 Agent
-  Mode changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode
   changes in v2.1.239]]'
+- '[[Changes/OpenCode/2026-08-21-surface-failed-subagent-tool-calls-with-a-resumable-task-id|Surface
+  failed subagent tool calls with a resumable task_id]]'
+- '[[Changes/OpenCode/2026-08-21-core-surface-resumable-subagent-failures-instead-of-returning-an-empty-result|Core
+  Surface resumable subagent failures instead of returning an empty result]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc|openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc]]'
 source_type: github_releases
 theme: agent-mode
@@ -92,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode changes in v2.1.239]]
+- Earlier: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-core-surface-resumable-subagent-failures-instead-of-returning-an-empty-result|Core Surface resumable subagent failures instead of returning an empty result]]
 - Later: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-agent|Agent]]
 <!-- chronolog:end -->
 

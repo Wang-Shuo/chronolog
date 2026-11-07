@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7edc25933daf9d08c7ff93b872295e589f926885c0551cb460954399a792adff
+machine_hash: 55db5cb2ad539f41954a71de25ec68d062b66648016c0668c8b46a65c7bc2872
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,10 @@ record:
   title: Interaction improvements
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|Improved
-  terminal layout and rendering performance]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5
   Interface Experience changes in v1.0.71]]'
+- '[[Changes/OpenCode/2026-07-16-added-an-up-arrow-shortcut-to-close-the-subagent-picker-when-the-first-item-is-s|Added
+  an Up Arrow shortcut to close the subagent picker when the first item is selected]]'
 - '[[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing
   /resume in the agent view now opens a picker of past sessions]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'

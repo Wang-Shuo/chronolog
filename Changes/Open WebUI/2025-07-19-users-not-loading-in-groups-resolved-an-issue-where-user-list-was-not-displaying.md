@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0a7056feb3bc70f622de3026098d5bfd65eb59bf64441c1285cd48d5e490ab1
+machine_hash: 287254f3c12de4f4f0cfb0ae00a82ab584c11c825cc78ee7c02fe9ab0fff6426
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,9 +45,10 @@ record:
   title: "\U0001F691 **Users Not Loading in Groups**"
   type: change
 related_changes:
-- '[[Changes/Replit/2025-07-04-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Open WebUI/2025-07-14-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
+- '[[Changes/Midjourney/2025-07-16-we-re-starting-to-investigate-opening-up-an-enterprise-api-for-people-to-start-i|Enterprise
+  API Survey]]'
 - '[[Changes/Windsurf/2025-07-17-important-for-enterprise-customers-who-use-windsurf-across-lots-of-repos-now-you|Important
   for enterprise customers who use Windsurf across lots of repos]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-07-19-v0-6-18-github-233704023-a1d3a9c0|open-webui-2025-07-19-v0-6-18-github-233704023-a1d3a9c0]]'

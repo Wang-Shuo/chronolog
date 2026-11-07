@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 04907dee473cf01599f0f1c86d6441da01941beeab158d910948b5035293672f
+machine_hash: e85d95b73429d2a3e630a540d6caacbca0d49d87a65a5ffbf2ba3126d149eba7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,7 +47,7 @@ record:
   title: ChatGPT launches ChatGPT Go, a new low-cost subscription plan
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]'
+- '[[Changes/Midjourney/2025-08-07-please-note|Please note]]'
 - '[[Changes/Lovable/2025-08-11-unified-credits-bar|Unified credits bar]]'
 - '[[Changes/Claude/2025-08-15-ability-to-change-monthly-team-plan-billing-to-annual|Ability
   to change monthly Team plan billing to annual]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40cefb81d1a315d952de7a08c2510941d9fc93cd24079238e784f7a816bb718a
+machine_hash: 76d3842d2aac0ce2b2fa2d7f9c0a2080290311c363b4a55935944a1ecd2c6587
 product: v0
 product_name: v0
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Agent Mode changes in Platform API v2, MCP chat tools…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-38-agent-mode-changes-in-1-15-0|38 Agent Mode changes
-  in 1.15.0]]'
+- '[[Changes/Runway/2026-06-25-make-marketing-that-drives-revenue-runway-agent-creates-entire-campaigns-analyze|Agent
+  2.0]]'
 - '[[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved
   claude agents completed list to fill available vertical space]]'
 - '[[Changes/Cline/2026-06-26-temporarily-disable-subagents-in-the-vs-code-extension-while-the-sdk-backed-expe|Temporarily

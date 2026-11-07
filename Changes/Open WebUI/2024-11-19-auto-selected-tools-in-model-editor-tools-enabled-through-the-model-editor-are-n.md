@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fb71b8fa75219a231135bb075835a18366cc5a7b0da38789d8ff822bc750f013
+machine_hash: 36b8245ecf381e380646c4aea8bbe4c4e50d7aefe591fe3dea746f903d61fed4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,10 +59,10 @@ record:
   title: "**\U0001F527 Auto-Selected Tools in Model Editor**"
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run
-  aider --apply-clipboard-edits file-to-edit.js]]'
 - '[[Changes/Dify/2024-11-05-chore-update-type-definition-to-resolve-lint-error-in-base-usage-at-text-editor|chore:
   update type definition to resolve lint error in Base usage at text-editor.tsx]]'
+- '[[Changes/Midjourney/2024-11-07-we-re-doing-a-community-contest-for-images-made-with-the-new-editor-please-share|Editor
+  Showcase]]'
 - '[[Changes/Gemini/2024-11-19-priority-access-with-gemini-advanced-ask-gemini-to-remember-the-things-you-care|Priority
   access with Gemini Advanced]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f|open-webui-2024-11-19-v0-4-0-github-186297307-d3ef790f]]'

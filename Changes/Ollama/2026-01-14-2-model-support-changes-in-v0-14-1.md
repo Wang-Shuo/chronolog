@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1576ca62f9aacca86dd2c74943f3ccf760f79099439a803237154385589357a
+machine_hash: 63b97d4f153284bfdaac2d13adfa13169b81f2ffafc6519b2af419397772eb7f
 product: ollama
 product_name: Ollama
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.14.1
 ## Nearby in Model Support
 
 - Earlier: 2026-01-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-14-add-support-for-gpt-5-2-codex-model|Add support for GPT-5.2-Codex model]]
-- Later: 2026-01-14 · Windsurf · [[Changes/Windsurf/2026-01-14-1-13-8-gpt-5-2-codex-model-changelog-banner|1.13.8 GPT-5.2 Codex model changelog banner]]
+- Later: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-2-model-support-changes-in-v1-1-19|2 Model Support changes in v1.1.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

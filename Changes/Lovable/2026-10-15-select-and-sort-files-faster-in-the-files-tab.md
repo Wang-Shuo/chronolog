@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 903696b3e49d2c6849b4987c1e3fc562a06dcc401e34d1abe4cea1af5f397b2f
+machine_hash: c84d45271cdf35304555a33264e746ec539600454f78c4c0c1a44bbbb3645859
 product: lovable
 product_name: Lovable
 record:
@@ -59,8 +59,8 @@ record:
   title: Select and sort files faster in the Files tab
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-6-files-and-data-changes-in-v0-12-0|6 Files and
-  Data changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-2-files-and-data-changes-in-v2026-10-1|2 Files and
+  Data changes in v2026.10.1]]'
 - '[[Changes/Claude Code/2026-10-14-2-files-and-data-changes-in-v2-1-299|2 Files and
   Data changes in v2.1.299]]'
 - '[[Changes/Lovable/2026-10-15-documents-in-the-project-chat-show-their-name-and-type|Documents

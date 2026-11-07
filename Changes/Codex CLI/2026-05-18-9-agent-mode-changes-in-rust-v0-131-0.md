@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0cec6dd58347e8869e7a48358d6884e8813d10b32885477bcd90630f0b4d58a3
+machine_hash: 91f568e4e405ef1ba395b2535edaad0e6267733266d1c323137e7f8d9074f5ff
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,11 +58,12 @@ record:
   title: 9 Agent Mode changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode
-  changes in v2.1.143]]'
-- '[[Changes/Replit/2026-05-15-agent|Agent]]'
 - '[[Changes/v0/2026-05-15-2-agent-mode-changes-in-claude-opus-4-7-fast-agent-browser|2
   Agent Mode changes in Claude Opus 4.7 Fast, agent browser…]]'
+- '[[Changes/OpenCode/2026-05-16-terminal-fixed-opencode-run-agent-resolving-project-local-agents|Terminal
+  Fixed opencode run --agent resolving project-local agents]]'
+- '[[Changes/OpenCode/2026-05-17-core-hid-background-subagent-task-instructions-unless-experimental-background-mo|Core
+  Hid background subagent task instructions unless experimental background mode…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: agent-mode
@@ -120,7 +121,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-2-agent-mode-changes-in-claude-opus-4-7-fast-agent-browser|2 Agent Mode changes in Claude Opus 4.7 Fast, agent browser…]]
+- Earlier: 2026-05-17 · OpenCode · [[Changes/OpenCode/2026-05-17-core-hid-background-subagent-task-instructions-unless-experimental-background-mo|Core Hid background subagent task instructions unless experimental background mode…]]
 - Later: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5 is now available in Cursor]]
 <!-- chronolog:end -->
 

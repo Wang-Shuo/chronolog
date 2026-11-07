@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0be1350bf8c18f89289d2dba1292951dcad840e26558a26ebe2a7963937715dd
+machine_hash: 68c3655f5adefed45eeac7c0ae654cf18c2f3faf66133dc5fc8ceb808990ee55
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -39,12 +39,12 @@ record:
   title: '#13617 Update models.json @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-add-support-for-gpt-5-4-model|Add support
-  for GPT-5.4 model]]'
-- '[[Changes/Ollama/2026-03-05-allow-thinking-levels-such-as-medium-to-correctly-interpreted-in-ollama-s-api-fo|Allow
-  thinking levels such as "medium" to correctly interpreted in Ollama''s API…]]'
 - '[[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added
   GPT-5.4 models for ChatGPT subscription users]]'
+- '[[Changes/OpenCode/2026-03-06-add-gpt-5-4-to-codex-allowed-models-list|Add GPT-5.4
+  to Codex allowed models list]]'
+- '[[Changes/OpenCode/2026-03-07-desktop-model-sticks-to-session-after-being-changed|Desktop
+  Model sticks to session after being changed]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5|codex-cli-2026-03-08-rust-v0-112-0-github-294459110-d90013b5]]'
 source_type: github_releases
 theme: model-support
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-06 · Cline · [[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added GPT-5.4 models for ChatGPT subscription users]]
+- Earlier: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-desktop-model-sticks-to-session-after-being-changed|Desktop Model sticks to session after being changed]]
 - Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-9-model-support-changes-in-v0-8-9|9 Model Support changes in v0.8.9]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da5b452fe4cfc99e3964ef657a7265ea40ebacefb051ef7947d3eea096312915
+machine_hash: a1a3f09a09b284ae9bd86f4013ce17e3462af8b40d8dc1e3a8002f726956fb12
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Safety and Privacy changes in v2.1.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-06-3-safety-and-privacy-changes-in-rust-v0-78-0|3 Safety
-  and Privacy changes in rust-v0.78.0]]'
-- '[[Changes/Codex CLI/2026-01-07-allow-global-exec-flags-model-json-sandbox-toggles-etc-to-be-passed-after-codex|Allow
-  global exec flags (model/json/sandbox toggles, etc.) to be passed after…]]'
+- '[[Changes/OpenCode/2026-01-07-desktop-permission-auto-accept-should-hide-when-not-needed|Desktop
+  Permission auto-accept should hide when not needed]]'
+- '[[Changes/OpenCode/2026-01-08-2-safety-and-privacy-changes-in-v1-1-7|2 Safety and
+  Privacy changes in v1.1.7]]'
 - '[[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-2|2 Safety
   and Privacy changes in v2.1.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'

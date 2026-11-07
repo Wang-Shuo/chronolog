@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 77431a8ac72875a8f825ba9808ee530c7d5e8597ea84d073fc4241fe738e479d
+machine_hash: ea7b8909f34031dbb30868dcd1c3a767c2aed4d36ea0685d761547f80202e9c2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
   title: 2 Apps and Integrations changes in v2.1.312
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3
-  Apps and Integrations changes in v2.1.311]]'
 - '[[Changes/ElevenLabs/2026-10-26-2-apps-and-integrations-changes-in-elevenlabs-updates-2026-10-26|2
   Apps and Integrations changes in ElevenLabs updates — 2026-10-26]]'
+- '[[Changes/Gamma/2026-10-26-introducing-gamma-5|Introducing Gamma 5]]'
 - '[[Changes/Lovable/2026-10-26-redesigned-connector-pages|Redesigned connector pages]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'
 source_type: github_releases

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 289e4fbe06fcf21bcc24d64363d15b6b448c0d558a68a662af16a5efbd3e5f62
+machine_hash: e2a2c0ad4944a387394f9aba894ae887d3401d8920362bc6c899dbd09324297a
 product: lovable
 product_name: Lovable
 record:
@@ -60,10 +60,10 @@ record:
   title: Set credit usage limits and alerts for your workspace
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49079-update-and-centralize-tui-subscription-labels-etraut-openai|♯49079
-  Update and centralize TUI subscription labels @etraut-openai]]'
 - '[[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved
   the /usage-credits message shown to Team and Enterprise members whose…]]'
+- '[[Changes/OpenClaw/2026-10-03-9-pricing-model-changes-in-v2026-9-8|9 Pricing Model
+  changes in v2026.9.8]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan
   usage reflects the current billing period after quota resets]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-07-2026-10-07-b6b5dd50|lovable-2026-10-07-2026-10-07-b6b5dd50]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan usage reflects the current billing period after quota resets]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]]
+- Later: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-polish-bugs|POLISH & BUGS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

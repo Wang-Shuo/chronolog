@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6062643ccc7ae5ad8bbfe2161201c2009a13d7f97bcdd76757d30b649ae43ac0
+machine_hash: 349854e7c2655143c19666f8ba156fbab6dd11450125a63525ff7e7b08c360c7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -68,12 +68,12 @@ record:
   title: 4 Context Window changes in v0.12.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-18-context-window-changes-in-rust-v0-164-0|18 Context
-  Window changes in rust-v0.164.0]]'
 - '[[Changes/Dify/2026-10-23-3-context-window-changes-in-1-18-0|3 Context Window changes
   in 1.18.0]]'
 - '[[Changes/Ollama/2026-10-23-nemotron-3-5-bolt-e4b-https-ollama-com-library-nemotron-3-5-bolt-is-nvidia-s-sma|Nemotron
   3.5 Bolt E4B((source link) is NVIDIA’s…]]'
+- '[[Changes/OpenClaw/2026-10-24-4-context-window-changes-in-v2026-10-7|4 Context
+  Window changes in v2026.10.7]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'
 source_type: github_releases
 theme: context-window
@@ -123,7 +123,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-23 · Ollama · [[Changes/Ollama/2026-10-23-nemotron-3-5-bolt-e4b-https-ollama-com-library-nemotron-3-5-bolt-is-nvidia-s-sma|Nemotron 3.5 Bolt E4B((source link) is NVIDIA’s…]]
+- Earlier: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-4-context-window-changes-in-v2026-10-7|4 Context Window changes in v2026.10.7]]
 - Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-2-context-window-changes-in-v2-1-311|2 Context Window changes in v2.1.311]]
 <!-- chronolog:end -->
 

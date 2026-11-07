@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21bd4a7a738736cb6045208431864537fc7844729112f5fef8c61b7d1da14926
+machine_hash: 31c70ace7deb5fbc57c4ad4bccb5a6505231c48e5885acf7b575b93fdaaf570f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Interface Experience changes in v0.43.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-3-interface-experience-changes-in-rust-v0-132-0|3
-  Interface Experience changes in rust-v0.132.0]]'
+- '[[Changes/OpenCode/2026-05-20-2-interface-experience-changes-in-v1-15-6|2 Interface
+  Experience changes in v1.15.6]]'
 - '[[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt
   history no longer records consecutive duplicate entries]]'
 - '[[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|Markdown
@@ -93,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|Markdown output now renders GFM task list checkboxes (-   todo / - x done)…]]
-- Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-6-interface-experience-changes-in-v1-0-52|6 Interface Experience changes in v1.0.52]]
+- Later: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-terminal-keep-the-spinner-color-aligned-with-the-active-agent|Terminal Keep the spinner color aligned with the active agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

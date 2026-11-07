@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a1d3d77fd1a6fdb6f00bce08cbfc93acb3a965ca04ae1bf13e23343a7a219f05
+machine_hash: aeeb6c9348a1b463fcd79370e3f4827fe17bd477a7a9c42d959ddb9179f0bc23
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#27714 app-server: document thread and turn IDs are UUID7 @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-5-files-and-data-changes-in-v0-10-0|5 Files and
-  Data changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-match-the-terminal-text-color-to-the-github-theme-canvas|Match
   the terminal text color to the GitHub theme canvas]]'
+- '[[Changes/OpenClaw/2026-06-30-canvas-a2ui-now-serves-only-the-current-app-assets-after-each-build-so-outdated|Canvas
+  A2UI now serves only the current app assets after each build, so outdated…]]'
 - '[[Changes/OpenHands/2026-07-06-docs-bring-readme-md-over-from-agent-canvas-by-rbren-in-https-github-com-openhan|docs:
   Bring README.md over from Agent Canvas]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-docs-bring-readme-md-over-from-agent-canvas-by-rbren-in-https-github-com-openhan|docs: Bring README.md over from Agent Canvas]]
-- Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude in Chrome: hardened file-upload path validation]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-13-files-and-data-changes-in-v2026-7-1|13 Files and Data changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

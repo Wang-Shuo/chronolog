@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5c3a3c234eb2136191a8846da72a10c43b148ac02556347ee3be686abd1c0eb7
+machine_hash: 1133b872782d86ba2900bcf32e1507567944903c3b32a35eb7e7c170b1590048
 product: replit
 product_name: Replit
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-chat-toggles-now-control-built-in-tools-users-can-now-disable-web-search-image-g|⚙️ Chat toggles now control built-in tools. Users can now disable web search…]]
-- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-expanded-image-workflow-support-for-clients-including-client-side-handling-of-im|Expanded image workflow support for clients, including client-side handling…]]
+- Later: 2026-02-27 · Runway · [[Changes/Runway/2026-02-27-the-most-advanced-and-consistent-image-generation-and-editing-model-now-availabl|Nano Banana 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

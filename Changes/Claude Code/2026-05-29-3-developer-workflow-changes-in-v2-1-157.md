@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e5e8133cd75bc9f2fd89973ce73de834ee8bb7514f1c42bbe427ab191ca8367a
+machine_hash: 3b91b99a56772ce11b9729157fb27691e21eb00b99f019e42f220ed96154bd33
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.157
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|Status
-  line commands now receive COLUMNS and LINES environment variables…]]'
 - '[[Changes/Codex CLI/2026-05-28-codex-doctor-now-reports-richer-environment-git-terminal-app-server-and-thread-i|codex
   doctor now reports richer environment, Git, terminal, app-server, and thread…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-3-developer-workflow-changes-in-v1-0-55|3
   Developer Workflow changes in v1.0.55]]'
+- '[[Changes/OpenCode/2026-05-28-4-developer-workflow-changes-in-v1-15-12|4 Developer
+  Workflow changes in v1.15.12]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.157
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-3-developer-workflow-changes-in-v1-0-55|3 Developer Workflow changes in v1.0.55]]
+- Earlier: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-4-developer-workflow-changes-in-v1-15-12|4 Developer Workflow changes in v1.15.12]]
 - Later: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-4-developer-workflow-changes-in-v1-0-56|4 Developer Workflow changes in v1.0.56]]
 <!-- chronolog:end -->
 

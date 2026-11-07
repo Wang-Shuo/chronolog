@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 234aa90290dcd75e5a1eeea0430b05635c4ef7f76083baaba081b01e858685e3
+machine_hash: bc350acb10dc4c4edb8f02f54e5c06263b51aa7b6f93c6c02d42a08b1d732be1
 product: claude
 product_name: Claude
 record:
@@ -48,10 +48,10 @@ record:
   title: Claude for Excel improvements
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-2-model-support-changes-in-rust-v0-95-0|2 Model
-  Support changes in rust-v0.95.0]]'
-- '[[Changes/Gemini CLI/2026-02-04-6-model-support-changes-in-v0-27-0|6 Model Support
-  changes in v0.27.0]]'
+- '[[Changes/OpenCode/2026-02-04-6-model-support-changes-in-v1-1-50|6 Model Support
+  changes in v1.1.50]]'
+- '[[Changes/OpenCode/2026-02-04-core-prevent-double-prefixing-of-bedrock-cross-region-inference-models|Core
+  Prevent double-prefixing of Bedrock cross-region inference models]]'
 - '[[Changes/Claude/2026-02-05-claude-opus-4-6-launch|Claude Opus 4.6 launch]]'
 source_release: '[[Releases/Claude/claude-2026-02-05-2026-02-05-46bfa67d|claude-2026-02-05-2026-02-05-46bfa67d]]'
 source_type: claude_changelog
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-6-model-support-changes-in-v0-27-0|6 Model Support changes in v0.27.0]]
+- Earlier: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-core-prevent-double-prefixing-of-bedrock-cross-region-inference-models|Core Prevent double-prefixing of Bedrock cross-region inference models]]
 - Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|Claude Opus 4.6 is now available!]]
 <!-- chronolog:end -->
 

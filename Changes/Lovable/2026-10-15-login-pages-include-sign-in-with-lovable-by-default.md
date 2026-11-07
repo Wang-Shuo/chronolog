@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c499dd8b60d0807870a610ed082f73d2fba75d0d81328348d94590a95040d5f3
+machine_hash: 8f14af5661f3515739913a30687c8a629911bfc48e77727643d0928c76cbeb0e
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,10 @@ record:
   title: Login pages include Sign in with Lovable by default
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-14-3-account-and-access-changes-in-v0-12-1|3 Account
-  and Access changes in v0.12.1]]'
 - '[[Changes/Codex CLI/2026-10-15-53389-use-cached-login-credentials-for-guardian-decisions-swastik-oai|♯53389
   Use cached login credentials for Guardian decisions @swastik-oai]]'
+- '[[Changes/Google Antigravity/2026-10-15-when-your-sign-in-expires-during-a-session-antigravity-now-shows-an-authenticati|When
+  your sign-in expires during a session, Antigravity now shows an Authentication…]]'
 - '[[Changes/Lovable/2026-10-15-use-lovable-from-claude-through-your-company-s-sso|Use
   Lovable from Claude through your company''s SSO]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-15-2026-10-15-46556c18|lovable-2026-10-15-2026-10-15-46556c18]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-53389-use-cached-login-credentials-for-guardian-decisions-swastik-oai|♯53389 Use cached login credentials for Guardian decisions @swastik-oai]]
+- Earlier: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-when-your-sign-in-expires-during-a-session-antigravity-now-shows-an-authenticati|When your sign-in expires during a session, Antigravity now shows an Authentication…]]
 - Later: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added a notice to /design-sync and /design-login that standalone Claude Design…]]
 <!-- chronolog:end -->
 

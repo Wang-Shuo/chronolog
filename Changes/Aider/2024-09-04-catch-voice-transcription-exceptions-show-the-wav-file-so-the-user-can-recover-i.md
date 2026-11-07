@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a13e20e6620cdcc7f8f0e36aacbd7d6c35b17772676bfab7ac1ba1aaa35ab43
+machine_hash: 77d9e4f3ebdfc097ff5841463367bb0f42b89db9f9d2a51908a651aba0d8736a
 product: aider
 product_name: Aider
 record:
@@ -43,8 +43,8 @@ record:
     recover it
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|\U0001F5E3
-  ElevenLabs Voice Adaptations]]"
+- '[[Changes/Runway/2024-08-09-retain-the-content-pace-and-tone-of-your-input-audio-while-changing-the-voice|Speech
+  to Speech]]'
 - '[[Changes/Dify/2024-08-14-chore-allow-download-audio-video-through-http-node-by-hjlarry-in-https-github-co|chore:
   allow download audio/video through HTTP node]]'
 - '[[Changes/Dify/2024-08-19-enh-setfocus-after-voice-input-by-leslie2046-in-https-github-com-langgenius-dify|enh:setfocus

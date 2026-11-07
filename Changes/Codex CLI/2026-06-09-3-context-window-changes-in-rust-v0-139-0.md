@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 13dfc9c7404ab2d9468d5beb4a745c825bdf9d780ab5de85f9dfe596be296b6c
+machine_hash: 9eb44fa130400da111493e9ae122fafd360f9352a4c7d11fadf993604b557f67
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.139.0
 ## Nearby in Context Window
 
 - Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-press-cmd-k-to-open-a-new-context-aware-command-palette-and-jump-to-chats-projec|Press Cmd+K to open a new context-aware command palette and jump to chats, projects…]]
-- Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode Added usage attribution to the Account & usage dialog (/usage) showing…]]
+- Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-core-sessions-can-recover-once-from-provider-context-overflow-errors-instead-of|Core Sessions can recover once from provider context-overflow errors instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

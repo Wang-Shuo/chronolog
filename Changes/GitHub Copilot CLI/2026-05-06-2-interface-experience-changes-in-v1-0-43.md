@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 90e2cbfb732deb11b1f45ac0654fe9b61ac6feb03efb2e64596a3b3408141f11
+machine_hash: 7b48ae5c74e3442585c519e49a7887bbd5135d9d77bb99b1d6781bcaca358da3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Interface Experience changes in v1.0.43
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-05-2-interface-experience-changes-in-v1-0-41|2
-  Interface Experience changes in v1.0.41]]'
+- '[[Changes/OpenCode/2026-05-05-core-preserve-diff-patch-boundaries-so-session-diffs-keep-rendering-correctly-wh|Core
+  Preserve diff patch boundaries so session diffs keep rendering correctly…]]'
 - '[[Changes/Claude Code/2026-05-06-2-interface-experience-changes-in-v2-1-132|2 Interface
   Experience changes in v2.1.132]]'
 - '[[Changes/Claude Code/2026-05-06-3-interface-experience-changes-in-v2-1-129|3 Interface

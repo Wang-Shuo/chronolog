@@ -1,0 +1,96 @@
+---
+card_id: opencode-2026-02-12-9ae7e6
+date: '2026-02-12'
+description: 'OpenCode · 2026-02-12 · Context Window: Core Improve compaction check
+  logic'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1015
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: context-window
+  tracked_products_count: 29
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 454c73ea71004db0a26d1bb0ee6b0c307fadd3615b4a96f133684d969131e1da
+product: opencode
+product_name: OpenCode
+record:
+  card_id: opencode-2026-02-12-9ae7e6
+  comparison: ''
+  date: '2026-02-12'
+  description: 'OpenCode — v1.1.60: Core Improve compaction check logic'
+  evidence:
+  - quote: Core Improve compaction check logic
+    source_release: https://opencode.ai/changelog/v1.1.60
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: opencode
+  product_name: OpenCode
+  slug: core-improve-compaction-check-logic
+  source_release: opencode-2026-02-12-v1-1-60-7ecdd01a
+  source_type: opencode_changelog
+  theme: context-window
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Core Improve compaction check logic
+  type: change
+related_changes:
+- '[[Changes/Codex CLI/2026-02-12-3-context-window-changes-in-rust-v0-100-0|3 Context
+  Window changes in rust-v0.100.0]]'
+- '[[Changes/Open WebUI/2026-02-12-5-context-window-changes-in-v0-8-0|5 Context Window
+  changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-12-desktop-more-defensive-session-context-metrics-handling-in-app|Desktop
+  More defensive session context metrics handling in app]]'
+source_release: '[[Releases/OpenCode/opencode-2026-02-12-v1-1-60-7ecdd01a|opencode-2026-02-12-v1-1-60-7ecdd01a]]'
+source_type: opencode_changelog
+theme: context-window
+title: Core Improve compaction check logic
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Core Improve compaction check logic
+
+**OpenCode** · 2026-02-12 · [[Themes/context-window|Context Window]] · [Official source](https://opencode.ai/changelog/v1.1.60) · from [[Releases/OpenCode/opencode-2026-02-12-v1-1-60-7ecdd01a|v1.1.60]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Core Improve compaction check logic
+>
+> Source: https://opencode.ai/changelog/v1.1.60
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/OpenCode/2026-02-12-core-use-promise-all-for-mcp-listtools-calls-to-improve-performance|Core Use Promise.all for MCP listTools calls to improve performance]] · Apps and Integrations
+- [[Changes/OpenCode/2026-02-12-2-model-support-changes-in-v1-1-60|2 Model Support changes in v1.1.60]] · Model Support
+- [[Changes/OpenCode/2026-02-12-2-mobile-and-desktop-changes-in-v1-1-60|2 Mobile and Desktop changes in v1.1.60]] · Mobile and Desktop
+- [[Changes/OpenCode/2026-02-12-2-developer-workflow-changes-in-v1-1-60|2 Developer Workflow changes in v1.1.60]] · Developer Workflow
+- [[Changes/OpenCode/2026-02-12-support-claude-agent-sdk-style-structured-outputs-in-the-opencode-sdk|Support Claude agent SDK-style structured outputs in the OpenCode SDK]] · Agent Mode
+- [[Changes/OpenCode/2026-02-12-3-other-changes-in-v1-1-60|3 other changes in v1.1.60]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-desktop-more-defensive-session-context-metrics-handling-in-app|Desktop More defensive session context metrics handling in app]]
+- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach up to 20 files in a single message]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20opencode-2026-02-12-9ae7e6&body=Card%3A%20Changes%2FOpenCode%2F2026-02-12-core-improve-compaction-check-logic.md%0ACard%20ID%3A%20opencode-2026-02-12-9ae7e6%0ASource%3A%20https%3A%2F%2Fopencode.ai%2Fchangelog%2Fv1.1.60%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

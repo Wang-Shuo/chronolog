@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e9b0f4f0116a53d99a6052477339a474c1c3e7331f70b8430e62b65998d8ad5
+machine_hash: 3ed0e725a3c399d8a7ddd9b79969c61f5cb5fadb345ad97eea2d528c98596d8d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2 Instant Update]]
-- Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-15-model-support-changes-in-rust-v0-99-0|15 Model Support changes in rust-v0.99.0]]
+- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-6-model-support-changes-in-v1-1-54|6 Model Support changes in v1.1.54]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1ff7ab553924fbfbb7e37131980d99a8aec07b11623ff769364a89dc9d55aada
+machine_hash: 77ea4610a208ce37ca54415579d2a0c53a0ce6d179e857dd65a1457cb83c3374
 product: gemini
 product_name: Gemini
 record:
@@ -63,10 +63,10 @@ record:
   title: Plan ahead with scheduled actions
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-07-made-proactive-conversation-starters-for-cloud-resolver-configurable-on-a-per-us|Made
-  proactive conversation starters for Cloud Resolver configurable on a per-user basis]]'
 - '[[Changes/Dify/2025-05-15-refactor-workflow-revamp-logging-module-for-loop-iteration-nodes-by-auxpd-in-htt|refactor(workflow):
   revamp logging module for loop & iteration nodes]]'
+- '[[Changes/Manus/2025-06-13-let-manus-handle-routine-and-repetitive-work-reclaim-your-time-and-elevate-your|Introducing
+  Manus Scheduled Task]]'
 - '[[Changes/Open WebUI/2025-06-16-direct-tool-server-input-accepts-empty-strings-you-can-now-submit-direct-tool-se|⚙️
   Direct Tool Server Input Accepts Empty Strings]]'
 source_release: '[[Releases/Gemini/gemini-2025-06-19-2025-06-19-d0100f17|gemini-2025-06-19-2025-06-19-d0100f17]]'

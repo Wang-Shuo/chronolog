@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bbdbfb1986581cf17a7499bcd8cd14f30402864f43a62a81b57f8770d645e186
+machine_hash: 1f692e29598ff437ae40896e126c8744dbac04c6405bafef3784f1295ecdbb4d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,10 @@ record:
   title: 2 Interface Experience changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-one-project-menu-on-your-phone|One project menu on
-  your phone]]'
-- '[[Changes/Lovable/2026-09-23-redesigned-projects-page|Redesigned Projects page]]'
-- '[[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface
-  Experience changes in v2.1.282]]'
+- '[[Changes/Midjourney/2026-09-24-prompt-bar-pills|PROMPT BAR & PILLS]]'
+- '[[Changes/Midjourney/2026-09-24-we-re-experimenting-with-fast-models-in-the-interface-on-alpha-midjourney-com-th|We''re
+  experimenting with fast models in the interface on alpha.midjourney.com]]'
+- '[[Changes/Midjourney/2026-09-24-styles|STYLES]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface Experience changes in v2.1.282]]
+- Earlier: 2026-09-24 · Midjourney · [[Changes/Midjourney/2026-09-24-styles|STYLES]]
 - Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-9-interface-experience-changes-in-rust-v0-157-0|9 Interface Experience changes in rust-v0.157.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: cb6309cf48191122f4f67f6cb75ac015db5fe026324e3485fb8f85906036dbcf
+machine_hash: f38793877fe055a6943ed00bf81bddaf0e771208bd9b509358bb8bbc817193a7
 product: ollama
 product_name: Ollama
 record:
@@ -55,9 +55,9 @@ record:
     built…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-8-agent-mode-changes-in-elevenlabs-updates-2026-11-02|8
-  Agent Mode changes in ElevenLabs updates — 2026-11-02]]'
 - '[[Changes/ElevenLabs/2026-11-02-workspaces|Workspaces]]'
+- '[[Changes/Google Antigravity/2026-11-03-remote-agents-are-starting-to-roll-out-to-google-ai-ultra-and-pro-subscribers-co|Remote
+  agents are starting to roll out to Google AI Ultra and Pro subscribers]]'
 - '[[Changes/Lovable/2026-11-03-lovable-follows-agents-md-files-in-your-project-s-subfolders|Lovable
   follows AGENTS.md files in your project''s subfolders]]'
 source_release: '[[Releases/Ollama/ollama-2026-11-03-v0-40-15-github-433274277-e84f26a0|ollama-2026-11-03-v0-40-15-github-433274277-e84f26a0]]'

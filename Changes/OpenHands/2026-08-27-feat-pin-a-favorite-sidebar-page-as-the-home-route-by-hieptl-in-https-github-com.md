@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ecac6860f9be2981c1d4532f9a23c8c6eca973a3f3ca7e0a407fef19cced6eb4
+machine_hash: 170afb8ba3eebffb9e075b1998cdb2b1be17672496844f6c4cbefd7a81f9ce1d
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat: pin a favorite sidebar page as the home route'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-26-resources-removed-from-the-dashboard-sidebar|Resources
-  removed from the dashboard sidebar]]'
 - '[[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface
   Experience changes in v2.1.248]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-3-interface-experience-changes-in-v1-0-81|3
   Interface Experience changes in v1.0.81]]'
+- '[[Changes/Midjourney/2026-08-27-drag-images-into-the-prompt-bar-under-attach-to-prompt|Drag
+  images into the prompt bar under "attach to prompt”]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-27-v1-16-0-github-378032404-772fe69a|openhands-2026-08-27-v1-16-0-github-378032404-772fe69a]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-3-interface-experience-changes-in-v1-0-81|3 Interface Experience changes in v1.0.81]]
+- Earlier: 2026-08-27 · Midjourney · [[Changes/Midjourney/2026-08-27-drag-images-into-the-prompt-bar-under-attach-to-prompt|Drag images into the prompt bar under "attach to prompt”]]
 - Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-added-a-spend-limit-bar-to-usage-and-a-rate-limits-spend-limit-status-line-field|Added a Spend limit bar to /usage and a rate_limits.spend_limit status line…]]
 <!-- chronolog:end -->
 

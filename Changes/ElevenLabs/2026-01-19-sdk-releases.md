@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 78619e891e95b38a5005749cc67144c62f0c06de5dceaccfed329fe84e69b45d
+machine_hash: fa5a8ea70bb7698ba36f5147e5fe9f063e772b0510dd7dcb51fd4e33432eab6a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,10 +41,10 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-16-3-apps-and-integrations-changes-in-rust-v0-87-0|3
-  Apps and Integrations changes in rust-v0.87.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-16-mcp-servers-now-start-correctly-for-custom-agents|MCP
-  servers now start correctly for custom agents]]'
+- '[[Changes/OpenCode/2026-01-16-core-reinstall-plugins-when-cache-module-is-missing|Core
+  Reinstall plugins when cache module is missing]]'
+- '[[Changes/OpenCode/2026-01-16-3-apps-and-integrations-changes-in-v1-1-24|3 Apps
+  and Integrations changes in v1.1.24]]'
 - '[[Changes/ElevenLabs/2026-01-19-modified-schemas|Modified Schemas]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-01-19-2026-01-19-0e264fd7|elevenlabs-2026-01-19-2026-01-19-0e264fd7]]'
 source_type: elevenlabs_changelog
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-mcp-servers-now-start-correctly-for-custom-agents|MCP servers now start correctly for custom agents]]
-- Later: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps and Integrations changes in v2.1.14]]
+- Earlier: 2026-01-16 · OpenCode · [[Changes/OpenCode/2026-01-16-3-apps-and-integrations-changes-in-v1-1-24|3 Apps and Integrations changes in v1.1.24]]
+- Later: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-extensions-add-use-github-token-to-example|Extensions Add use_github_token to example]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

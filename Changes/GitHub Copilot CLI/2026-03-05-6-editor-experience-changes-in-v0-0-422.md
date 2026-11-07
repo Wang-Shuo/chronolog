@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc4e627f83758521ed87a7190edbc701bcbbba047e4268d4d27361a2125d277f
+machine_hash: 3543d20bed3a7447408a8f72e92ec7b38556ab83c1c106fce38614ff41d44860
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 6 Editor Experience changes in v0.0.422
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-03-feat-plan-support-opening-and-modifying-plan-in-external-editor-by-adib234-in-ht|feat(plan):
-  support opening and modifying plan in external editor]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-2-editor-experience-changes-in-v0-0-421|2
   Editor Experience changes in v0.0.421]]'
+- '[[Changes/OpenCode/2026-03-03-2-editor-experience-changes-in-v1-2-16|2 Editor Experience
+  changes in v1.2.16]]'
 - '[[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install
   the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-05-v0-0-422-github-293731015-4b06f61c|github-copilot-cli-2026-03-05-v0-0-422-github-293731015-4b06f61c]]'
@@ -107,7 +107,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.422
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-04 · Cursor · [[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]]
-- Later: 2026-03-05 · v0 · [[Changes/v0/2026-03-05-added-summary-header-to-diff-tab-showing-file-changes|Added summary header to diff tab showing file changes]]
+- Later: 2026-03-05 · OpenCode · [[Changes/OpenCode/2026-03-05-desktop-open-search-with-mod-f-even-when-editor-is-not-focused|Desktop Open search with Mod+F even when editor is not focused]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 39c00beb03ff7848c23b6ff5932632587cac7a6f24e38494a76a647bed4a3de1
+machine_hash: d7638f56b186f3c88f013415288cd7ce1f9d4a7699ef47013c1d5723928429ba
 product: lovable
 product_name: Lovable
 record:
@@ -75,10 +75,10 @@ record:
   title: Automatically delete abandoned projects
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-3-safety-and-privacy-changes-in-v2-1-210|3 Safety
-  and Privacy changes in v2.1.210]]'
 - '[[Changes/Claude Code/2026-07-14-fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask|Fixed
   multi-second per-turn slowdowns in sessions with many permission deny/ask rules]]'
+- '[[Changes/OpenCode/2026-07-14-desktop-kept-permission-auto-accept-state-separate-for-each-server|Desktop
+  Kept permission auto-accept state separate for each server]]'
 - '[[Changes/Claude Code/2026-07-15-2-safety-and-privacy-changes-in-v2-1-211|2 Safety
   and Privacy changes in v2.1.211]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-15-2026-07-15-41bc4811|lovable-2026-07-15-2026-07-15-41bc4811]]'

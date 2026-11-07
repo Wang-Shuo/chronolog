@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 36479ecccc794ff2a7406574cdb7a3e6cb5276ec7af138bcf052d8e85ff5f468
+machine_hash: 18b1c5f8c03b4fbe9cdac4ea64d78f0084167fe102f4fcf7a9de468e5f251d74
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -84,12 +84,12 @@ record:
   title: Packages v1.0.0 Release Candidate
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-03-19-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
-- '[[Changes/Cline/2026-03-20-latency-improvements-for-remote-workspaces|Latency improvements
-  for remote workspaces]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-reduced-memory-usage-when-viewing-large-files-in-their-entirety|Reduced
   memory usage when viewing large files in their entirety]]'
+- '[[Changes/Midjourney/2026-03-21-two-versions-of-sref-moodboards-now-available|Two
+  Versions of SREF / Moodboards now available]]'
+- '[[Changes/OpenCode/2026-03-22-providers-models-xai-responses-api-improved-xai-reasoning-models-performance-in|Providers
+  & Models xAI Responses API]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-03-23-2026-03-23-c7dac693|elevenlabs-2026-03-23-2026-03-23-c7dac693]]'
 source_type: elevenlabs_changelog
 theme: reliability-performance
@@ -146,8 +146,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-reduced-memory-usage-when-viewing-large-files-in-their-entirety|Reduced memory usage when viewing large files in their entirety]]
-- Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3 Reliability and Performance changes in v2.1.83]]
+- Earlier: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-providers-models-xai-responses-api-improved-xai-reasoning-models-performance-in|Providers & Models xAI Responses API]]
+- Later: 2026-03-24 · OpenCode · [[Changes/OpenCode/2026-03-24-2-reliability-and-performance-changes-in-v1-3-2-1|2 Reliability and Performance changes in v1.3.2 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bb99d4845165360f28eea274af799ff2e165681dd367b291f01a6f2716d0bb12
+machine_hash: 9a9f340f6b85159dd7529f8c925f95a1cc683c77ac97ec8c492a112de546f674
 product: windsurf
 product_name: Windsurf
 record:
@@ -105,7 +105,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-suppressed-console-windows-flashing-on-windows-when-codex-launches-background-pr|Suppressed console windows flashing on Windows when Codex launches background…]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile and Desktop changes in v2.1.287]]
+- Later: 2026-09-30 · Google Antigravity · [[Changes/Google Antigravity/2026-09-30-on-windows-and-linux-a-left-click-on-the-tray-icon-now-reopens-or-focuses-the-an|On Windows and Linux, a left-click on the tray icon now reopens or focuses…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

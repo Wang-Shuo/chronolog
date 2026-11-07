@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 57bde166bd28e4ba31c12a5ded8325db3f274461b209259233a8324a2a8d4ce7
+machine_hash: 18cf12a494320346e0a9ae7c5bcd902c7108ebabff1ac79a132549b5f5cee0e7
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,7 @@ record:
   title: When Rollouts detects a regression, it names the change it suspects and notifies…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-22-2-agent-mode-changes-in-v1-0-88|2 Agent
-  Mode changes in v1.0.88]]'
+- '[[Changes/Google Antigravity/2026-09-22-plan-before-you-build|Plan before you build]]'
 - '[[Changes/OpenHands/2026-09-22-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs:
   refresh AGENTS.md guidance]]'
 - '[[Changes/Claude Code/2026-09-23-10-agent-mode-changes-in-v2-1-281|10 Agent Mode
@@ -93,7 +92,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-10-agent-mode-changes-in-v2-1-281|10 Agent Mode changes in v2.1.281]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-2-agent-mode-changes-in-v2-1-282|2 Agent Mode changes in v2.1.282]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-41-agent-mode-changes-in-v2026-9-6|41 Agent Mode changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

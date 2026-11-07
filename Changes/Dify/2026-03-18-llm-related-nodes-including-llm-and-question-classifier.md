@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6ce182baa204e608e4fe8f9b5df0a0308d224c060a3ba7e3890e465fc2bf663
+machine_hash: 1ea209430f23ad0cd9961c2f2475b82dcfdc712e0b43120e87d937661866625a
 product: dify
 product_name: Dify
 record:
@@ -40,8 +40,8 @@ record:
   title: LLM-related nodes, including LLM and Question Classifier
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-17-2-model-support-changes-in-v1-0-7|2 Model
-  Support changes in v1.0.7]]'
+- '[[Changes/Midjourney/2026-03-17-today-we-re-letting-the-community-test-an-early-version-of-our-v8-model-on-alpha|Today
+  we’re letting the community test an early version of our V8 model…]]'
 - '[[Changes/Ollama/2026-03-17-4-model-support-changes-in-v0-18-1|4 Model Support
   changes in v0.18.1]]'
 - '[[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4

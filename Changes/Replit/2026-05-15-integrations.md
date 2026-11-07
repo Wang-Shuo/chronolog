@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d5a283b4528d9132df119239c4f61935e25c9a0ade900c3e870fb0ce23172afe
+machine_hash: 48e9ae89f3b5b0c39d0aecc9295918dbfafe541a0960ec80bf72d00311c5ed5c
 product: replit
 product_name: Replit
 record:
@@ -39,12 +39,12 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3
-  Apps and Integrations changes in v2.1.142]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-auto-disable-the-built-in-github-mcp-server-in-azure-devops-only-workspaces-when|Auto-disable
   the built-in github-mcp-server in Azure DevOps-only workspaces…]]'
 - '[[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3
   Apps and Integrations changes in v2.1.143]]'
+- '[[Changes/OpenCode/2026-05-15-2-apps-and-integrations-changes-in-v1-15-0|2 Apps
+  and Integrations changes in v1.15.0]]'
 source_release: '[[Releases/Replit/replit-2026-05-15-2026-05-15-d142aa2e|replit-2026-05-15-2026-05-15-d142aa2e]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3 Apps and Integrations changes in v2.1.143]]
+- Earlier: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-2-apps-and-integrations-changes-in-v1-15-0|2 Apps and Integrations changes in v1.15.0]]
 - Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-the-built-with-v0-badge-respects-branding-settings-on-deployed-apps-and-the-prev|The "built with v0" badge respects branding settings on deployed apps…]]
 <!-- chronolog:end -->
 

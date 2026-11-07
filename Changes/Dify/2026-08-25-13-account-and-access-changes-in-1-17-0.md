@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5931b5679fab0d2df481c2924a899b4bcef508de35e4802f36e4560f0be54c1
+machine_hash: 4994e63a8cd88e88c65b64f5d07c5b994f333d105ac20fd0220e26a2b65918f5
 product: dify
 product_name: Dify
 record:
@@ -80,8 +80,8 @@ record:
   title: 13 Account and Access changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-8-account-and-access-changes-in-rust-v0-149-0|8
-  Account and Access changes in rust-v0.149.0]]'
+- '[[Changes/OpenCode/2026-08-24-core-fixed-opencode-device-login-links-when-servers-return-relative-verification|Core
+  Fixed OpenCode device login links when servers return relative verification…]]'
 - '[[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som-99be54|ChatGPT
   Work can now complete tasks on signed-in websites]]'
 - '[[Changes/Claude Code/2026-08-25-improved-attribution-of-usage-telemetry-to-your-organization-for-workload-identi|Improved

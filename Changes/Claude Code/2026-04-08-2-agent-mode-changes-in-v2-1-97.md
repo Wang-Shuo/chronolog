@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97478ac0bcff4d699496868af6455c3cf94b76978f72d8f7e372fa03a536109e
+machine_hash: 9bf8e2550a4f8decc443bf2184fb010bdd2ba263ff3cbc48c97992be221bfe99
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Agent Mode changes in v2.1.97
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-07-elevenagents-e46dc6|ElevenAgents]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-07-spinner-no-longer-appears-stuck-when-a-long-running-async-shell-command-is-activ|Spinner
-  no longer appears stuck when a long-running async shell command is active]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-spinner-stays-active-until-background-agents-and-shell-commands-finish-and-user|Spinner
   stays active until background agents and shell commands finish, and user…]]'
+- '[[Changes/Google Antigravity/2026-04-07-new-agent-permissions-system-accessible-in-settings|New
+  agent permissions system accessible in settings]]'
+- '[[Changes/Google Antigravity/2026-04-07-agent-permissions|Agent Permissions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
 theme: agent-mode
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-spinner-stays-active-until-background-agents-and-shell-commands-finish-and-user|Spinner stays active until background agents and shell commands finish, and user…]]
+- Earlier: 2026-04-07 · Google Antigravity · [[Changes/Google Antigravity/2026-04-07-agent-permissions|Agent Permissions]]
 - Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-11-agent-mode-changes-in-v0-37-0|11 Agent Mode changes in v0.37.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5fff6bd7f27854ad12db73b4851cc05ded8b37c025a41bf9ff44e77b7f03058f
+machine_hash: bc2191b9459e7a1385803956de8c4eca7d7508af949680ef5bef8d290d41123b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Safety and Privacy changes in v1.0.87
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety
-  and Privacy changes in v2.1.277]]'
-- '[[Changes/Replit/2026-09-18-investigate-with-expanded-audit-logs|Investigate with
-  expanded audit logs]]'
+- '[[Changes/Google Antigravity/2026-09-19-windows-sandbox-support|Windows sandbox
+  support]]'
+- '[[Changes/OpenClaw/2026-09-19-39-safety-and-privacy-changes-in-v2026-9-5|39 Safety
+  and Privacy changes in v2026.9.5]]'
 - '[[Changes/ChatGPT/2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it-0d2f36|Privacy
   Center in ChatGPT]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'

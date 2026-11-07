@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b00130e16702290b356151481c399f2f4d0eb9e972e0790e365e79b8e15ea516
+machine_hash: de8831ec7bed4c1c8f1d7fcd83aaa073b2127373664fc6657d1984b18fdd840d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,9 +47,10 @@ record:
   title: 2 Reliability and Performance changes in v2.1.309
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]'
 - "[[Changes/Open WebUI/2026-10-16-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
+- '[[Changes/OpenClaw/2026-10-16-node-worker-memory-limits-node-workers-can-honor-their-configured-javascript-hea|Node
+  worker memory limits]]'
 - '[[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2
   Reliability and Performance changes in v2.1.304]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
@@ -93,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.309
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2 Reliability and Performance changes in v2.1.304]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved memory use of non-interactive sessions (-p, Agent SDK) during compaction…]]
+- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-restarting-the-same-official-docker-container-no-longer-copies-all-its-saved-sta|Restarting the same official Docker container no longer copies all its saved state…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

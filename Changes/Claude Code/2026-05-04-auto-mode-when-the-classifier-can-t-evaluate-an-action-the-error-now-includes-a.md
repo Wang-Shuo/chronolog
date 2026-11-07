@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4b130dded4dc0df287adcbdc46abde69fa65a08b91ac1b5d7eb8695df848b5d
+machine_hash: ad3b7a90e886672a9fbabb274d0318e14f0ae5680c2ee611e195f9e5d0336baa
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-01 · Replit · [[Changes/Replit/2026-05-01-agent|Agent]]
-- Later: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-feat-core-enhance-shell-command-validation-and-add-core-tools-allowlist-by-galz1|feat(core): enhance shell command validation and add core tools allowlist]]
+- Later: 2026-05-04 · OpenCode · [[Changes/OpenCode/2026-05-04-core-improve-shell-command-handling-for-bash-powershell-and-cmd-sessions|Core Improve shell command handling for Bash, PowerShell, and cmd sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

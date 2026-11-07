@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2f18bca5b2d8fd79e307eb56a53fb2dd0f2622d5da27bfaed96057a83d309b98
+machine_hash: 565f81d9aa1d321991aeb2872f96ef3defdb2b47539cec31f4ba3c836e77fa83
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,9 @@ record:
   title: As of https://github.com/openai/codex/pull/1594, we now stream the response…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-15-add-kimi-k2-as-trending-model-by-celestial-vault-in-https-github-com-cline-cline|Add
-  kimi-k2 as trending model]]'
 - '[[Changes/OpenHands/2025-07-16-added-openhands-provider-for-llm-through-openhands-cloud-by-xingyaoww-in-https-g|Added
   OpenHands provider for LLM through OpenHands Cloud]]'
+- '[[Changes/Runway/2025-07-17-next-generation-motion-capture-model-with-major-improvements-in-generation-quali|Act-Two]]'
 - '[[Changes/Replit/2025-07-18-llm-routing-improvements|LLM routing improvements]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65|codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65]]'
 source_type: github_releases

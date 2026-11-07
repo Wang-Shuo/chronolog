@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f4f81e467bdcebd88c4b5aa8169ebefd9ce5f2c134a4582a310b13a32da2f181
+machine_hash: 0d0641d01678d2c12c6697d34733d07b13764f5114a78e4a9032e02b08ec6cde
 product: dify
 product_name: Dify
 record:
@@ -59,12 +59,12 @@ record:
     is now…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-21-image-generation-enhancement-refactored-openai-image-generation-endpoint-to-be-a|\U0001F5BC️
-  Image Generation Enhancement]]"
 - "[[Changes/Open WebUI/2024-09-24-image-generation-functionality-resolved-an-issue-where-image-generation-was-not|\U0001F5BC️
   Image Generation Functionality]]"
 - '[[Changes/Dify/2024-10-14-2-image-generation-changes-in-0-9-2|2 Image Generation
   changes in 0.9.2]]'
+- '[[Changes/Gamma/2024-10-23-we-ve-created-a-new-centralized-hub-for-all-your-ai-generated-images-in-gamma-no|We''ve
+  created a new, centralized hub for all your AI-generated images in Gamma]]'
 source_release: '[[Releases/Dify/dify-2024-10-28-0-10-2-github-182221061-a0360387|dify-2024-10-28-0-10-2-github-182221061-a0360387]]'
 source_type: github_releases
 theme: image-generation
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-2-image-generation-changes-in-0-9-2|2 Image Generation changes in 0.9.2]]
+- Earlier: 2024-10-23 · Gamma · [[Changes/Gamma/2024-10-23-we-ve-created-a-new-centralized-hub-for-all-your-ai-generated-images-in-gamma-no|We've created a new, centralized hub for all your AI-generated images in Gamma]]
 - Later: 2024-11-18 · Dify · [[Changes/Dify/2024-11-18-2-image-generation-changes-in-0-11-2|2 Image Generation changes in 0.11.2]]
 <!-- chronolog:end -->
 

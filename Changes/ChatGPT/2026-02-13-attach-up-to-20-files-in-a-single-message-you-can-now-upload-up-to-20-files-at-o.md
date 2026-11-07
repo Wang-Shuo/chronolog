@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b7e80f6d40f128c55085d6450deb0a21fb7baa2d0fb050b721207612dc80a0e5
+machine_hash: 4495c677f6a9137de3556f40a0522c2f8eb395a23651b345386e32d21c4db1c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: Attach up to 20 files in a single message
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-11-expose-session-context-in-session-list-sdk-response|Expose
-  session context in session.list SDK response]]'
-- '[[Changes/Codex CLI/2026-02-12-3-context-window-changes-in-rust-v0-100-0|3 Context
-  Window changes in rust-v0.100.0]]'
 - '[[Changes/Open WebUI/2026-02-12-5-context-window-changes-in-v0-8-0|5 Context Window
   changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-12-desktop-more-defensive-session-context-metrics-handling-in-app|Desktop
+  More defensive session context metrics handling in app]]'
+- '[[Changes/OpenCode/2026-02-12-core-improve-compaction-check-logic|Core Improve
+  compaction check logic]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0]]'
 source_type: chatgpt_changelog
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-5-context-window-changes-in-v0-8-0|5 Context Window changes in v0.8.0]]
+- Earlier: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-core-improve-compaction-check-logic|Core Improve compaction check logic]]
 - Later: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal|Improved /rename to auto-generate session name from conversation context…]]
 <!-- chronolog:end -->
 

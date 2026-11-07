@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1aac5b01244bdd1c12db5b38dc0b56118066054fe8435b3974e42dfe81481e51
+machine_hash: 897ddcde9f326827ae28f18ec87221c85f541742d934757e29f9bb44c4ef0bb4
 product: lovable
 product_name: Lovable
 record:
@@ -52,8 +52,8 @@ record:
   title: Lovable writes and runs tests for the rules you change
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-18-safety-and-privacy-changes-in-rust-v0-163-0|18
-  Safety and Privacy changes in rust-v0.163.0]]'
+- '[[Changes/Google Antigravity/2026-10-15-the-review-permissions-dialog-now-wraps-long-commands-and-paths-so-you-can-read|The
+  Review permissions dialog now wraps long commands and paths, so you can read…]]'
 - '[[Changes/Claude Code/2026-10-16-2-safety-and-privacy-changes-in-v2-1-302|2 Safety
   and Privacy changes in v2.1.302]]'
 - '[[Changes/Cline/2026-10-16-cline-cloud-sessions-rolling-out-gradually-run-a-task-in-a-hosted-sandbox-on-a-g|Cline

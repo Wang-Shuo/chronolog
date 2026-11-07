@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b86eb81d21e0e2cdc317956d691adb62080c618c7979206d849458531a41c2a0
+machine_hash: 7f24e38725646e2c35fe88664df1216a37c19a0c09243cf8abc4482ec2e3ba77
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Developer Workflow changes in v1.0.32
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-support-copilot-disable-terminal-title-environment-variable-to-opt-out-of-termin|Support
-  COPILOT_DISABLE_TERMINAL_TITLE environment variable to opt out of terminal…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-undo-shows-an-explanatory-message-when-rewind-is-unavailable-e-g-not-in-a-git-re|/undo
   shows an explanatory message when rewind is unavailable…]]'
+- '[[Changes/OpenCode/2026-04-16-3-developer-workflow-changes-in-v1-4-7|3 Developer
+  Workflow changes in v1.4.7]]'
 - '[[Changes/Claude Code/2026-04-17-3-developer-workflow-changes-in-v2-1-113|3 Developer
   Workflow changes in v2.1.113]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-17-v1-0-32-github-310570906-80c72acc|github-copilot-cli-2026-04-17-v1-0-32-github-310570906-80c72acc]]'
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.32
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-3-developer-workflow-changes-in-v2-1-113|3 Developer Workflow changes in v2.1.113]]
-- Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-6-developer-workflow-changes-in-rust-v0-122-0|6 Developer Workflow changes in rust-v0.122.0]]
+- Later: 2026-04-17 · OpenCode · [[Changes/OpenCode/2026-04-17-2-developer-workflow-changes-in-v1-4-9|2 Developer Workflow changes in v1.4.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

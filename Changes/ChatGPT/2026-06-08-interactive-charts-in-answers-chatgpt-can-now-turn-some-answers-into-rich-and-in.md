@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac956dc1a3909d17563dba000b9e16ce1d1e4b7564ef9445b3d09436375e6724
+machine_hash: 798417c26e5b2e874ee49af01c5121e7c565e2cb4132edb5626e9107f1146c24
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6 release and analytics]]
-- Later: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add visual references when you generate media on Canvas]]
+- Later: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-and-pdf-support|Quota Screen Redesign and PDF Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 74869a51fac32ad1e368c05e4fbfb12ae2b3b23b6f98b4c3a373240d9d0cabd8
+machine_hash: 5a19de1f4b9ef1ea4afc302aad8d24e7a544298d52e76ee774e06bb59fd1be61
 product: replit
 product_name: Replit
 record:
@@ -50,7 +50,8 @@ record:
   title: Autonomy level control for Agent
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-15-agents-platform|Agents Platform]]'
+- '[[Changes/Gamma/2025-09-16-gamma-agent-your-ai-design-partner-that-does-it-all|Gamma
+  Agent: Your AI design partner that does it all]]'
 - '[[Changes/Gemini CLI/2025-09-17-feat-core-only-summarize-long-tool-output-for-shell-command-by-sandytao520-in-ht|feat(core):
   Only summarize long tool output for shell command]]'
 - '[[Changes/Codex CLI/2025-09-18-2-agent-mode-changes-in-rust-v0-39-0|2 Agent Mode

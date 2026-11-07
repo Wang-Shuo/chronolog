@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f89ecc093930a6ee5b44793ae29ba61abe8cb6e25eabbed87b104628195a8b76
+machine_hash: 0b47963bf18ff0837c73de333eaa88abfc2635643605e85623eb746f22cb8c51
 product: open-webui
 product_name: Open WebUI
 record:
@@ -64,12 +64,12 @@ record:
   title: 4 Editor Experience changes in v0.12.4
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-3-editor-experience-changes-in-1-18-0|3 Editor Experience
-  changes in 1.18.0]]'
 - '[[Changes/OpenHands/2026-10-23-chore-verify-openhands-time-network-responses-and-order-them-by-completion-by-en|chore(verify-openhands):
   time network responses and order them by completion]]'
 - '[[Changes/Windsurf/2026-10-23-in-ide-mode-a-chat-tab-whose-agent-could-not-start-a-session-says-why-and-offers|In
   IDE mode, a chat tab whose agent could not start a session says why and offers…]]'
+- '[[Changes/OpenClaw/2026-10-24-a-suspiciously-truncated-configuration-no-longer-replaces-the-healthy-recovery-c|A
+  suspiciously truncated configuration no longer replaces the healthy recovery copy…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'
 source_type: github_releases
 theme: editor-experience
@@ -119,7 +119,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-in-ide-mode-a-chat-tab-whose-agent-could-not-start-a-session-says-why-and-offers|In IDE mode, a chat tab whose agent could not start a session says why and offers…]]
+- Earlier: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-a-suspiciously-truncated-configuration-no-longer-replaces-the-healthy-recovery-c|A suspiciously truncated configuration no longer replaces the healthy recovery copy…]]
 - Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode Changed the session list side bar to load Web sessions when the Web tab…]]
 <!-- chronolog:end -->
 

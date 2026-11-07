@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5055bf9a11d412b8ef3272f9cbfd6f41217362ea834a1f128be3db20bc62faad
+machine_hash: ebce0327c43a727a01d0a39ae7a5073a2912481bebb8582ab6d0b5e86a5d5b3e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,11 +41,12 @@ record:
   title: Built-in subagents for exploring and managing tasks
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-22-send-the-model-and-cli-version-with-the-user-agent-by-gundermanc-in-https-github|Send
-  the model and CLI version with the user agent]]'
-- '[[Changes/Lovable/2025-12-23-tasks|Tasks]]'
-- '[[Changes/Dify/2025-12-25-2-agent-mode-changes-in-1-11-2|2 Agent Mode changes in
-  1.11.2]]'
+- '[[Changes/OpenCode/2025-12-31-core-add-debug-agent-subcommand-to-test-agents-in-isolation|Core
+  Add debug agent subcommand to test agents in isolation]]'
+- '[[Changes/OpenCode/2025-12-31-core-cleaner-view-for-subagents-hint-text|Core Cleaner
+  view for subagents hint text]]'
+- '[[Changes/OpenCode/2026-01-01-2-agent-mode-changes-in-v1-0-223-1|2 Agent Mode changes
+  in v1.0.223 + 1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-02-v0-0-374-github-273878901-f6c465a2|github-copilot-cli-2026-01-02-v0-0-374-github-273878901-f6c465a2]]'
 source_type: github_releases
 theme: agent-mode
@@ -77,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-2-agent-mode-changes-in-1-11-2|2 Agent Mode changes in 1.11.2]]
-- Later: 2026-01-05 · ElevenLabs · [[Changes/ElevenLabs/2026-01-05-agents-platform|Agents Platform]]
+- Earlier: 2026-01-01 · OpenCode · [[Changes/OpenCode/2026-01-01-2-agent-mode-changes-in-v1-0-223-1|2 Agent Mode changes in v1.0.223 + 1]]
+- Later: 2026-01-04 · OpenCode · [[Changes/OpenCode/2026-01-04-4-agent-mode-changes-in-v1-1-1|4 Agent Mode changes in v1.1.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

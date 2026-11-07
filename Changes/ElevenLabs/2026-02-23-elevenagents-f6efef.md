@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6d46f45a61832e4b9067a9edbbcebfa6189ca73cf4f2e96f688a9cdb34fe8403
+machine_hash: 6eaa4168e5580c49e231e36d9799f91ae74d3bc4e8a0d9c07e57b471409b78ea
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -109,12 +109,12 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added
-  claude auth login, claude auth status, and claude auth logout CLI subcommands]]'
 - "[[Changes/Open WebUI/2026-02-16-oauth-session-error-handling-corrupted-oauth-sessions-are-now-gracefully-handled|\U0001F510
   OAuth session error handling. Corrupted OAuth sessions are now gracefully…]]"
 - '[[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved
   performance by caching authentication failures for HTTP and SSE MCP…]]'
+- '[[Changes/OpenCode/2026-02-19-3-account-and-access-changes-in-v1-2-7|3 Account
+  and Access changes in v1.2.7]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-23-2026-02-23-19067983|elevenlabs-2026-02-23-2026-02-23-19067983]]'
 source_type: elevenlabs_changelog
 theme: account-access
@@ -177,7 +177,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved performance by caching authentication failures for HTTP and SSE MCP…]]
+- Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-3-account-and-access-changes-in-v1-2-7|3 Account and Access changes in v1.2.7]]
 - Later: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-3-account-and-access-changes-in-v0-8-4|3 Account and Access changes in v0.8.4]]
 <!-- chronolog:end -->
 

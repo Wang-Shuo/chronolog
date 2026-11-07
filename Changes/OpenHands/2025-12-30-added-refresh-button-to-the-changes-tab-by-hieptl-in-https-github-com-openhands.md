@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea5e750da5689f0995bf4d5138638529c3ed99c6c63f5d114cbfbbfa30dedbe4
+machine_hash: 78ec0efc2604825719bdfa19c23b8c72b5113a46d7efd0b2e3b9bbd5895dfee4
 product: openhands
 product_name: OpenHands
 record:
@@ -41,11 +41,12 @@ record:
   title: Added refresh button to the Changes tab
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-25-2-editor-experience-changes-in-1-11-2|2 Editor Experience
-  changes in 1.11.2]]'
-- '[[Changes/Windsurf/2025-12-27-tab-fixes-and-improvements|Tab fixes and improvements]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-30-tab-completion-for-path-arguments-in-slash-commands-like-cwd-and-add-dir|Tab
   completion for path arguments in slash commands like /cwd and /add-dir]]'
+- '[[Changes/OpenCode/2025-12-30-core-upgrade-opentui-to-v0-1-67-fixing-split-diff-alignment-and-markdown-jitter|Core
+  Upgrade OpenTUI to v0.1.67, fixing split diff alignment and markdown jitter]]'
+- '[[Changes/OpenCode/2025-12-30-core-upgrade-opentui-to-v0-1-66-fixing-split-diff-alignment|Core
+  Upgrade OpenTUI to v0.1.66 fixing split diff alignment]]'
 source_release: '[[Releases/OpenHands/openhands-2025-12-30-1-1-0-github-273438720-22c53f63|openhands-2025-12-30-1-1-0-github-273438720-22c53f63]]'
 source_type: github_releases
 theme: editor-experience
@@ -76,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-30-tab-completion-for-path-arguments-in-slash-commands-like-cwd-and-add-dir|Tab completion for path arguments in slash commands like /cwd and /add-dir]]
-- Later: 2026-01-06 · Cline · [[Changes/Cline/2026-01-06-added-experimental-support-for-background-edits-allows-editing-files-in-backgrou|Added experimental support for Background Edits…]]
+- Earlier: 2025-12-30 · OpenCode · [[Changes/OpenCode/2025-12-30-core-upgrade-opentui-to-v0-1-66-fixing-split-diff-alignment|Core Upgrade OpenTUI to v0.1.66 fixing split diff alignment]]
+- Later: 2026-01-04 · OpenCode · [[Changes/OpenCode/2026-01-04-2-editor-experience-changes-in-v1-1-1|2 Editor Experience changes in v1.1.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

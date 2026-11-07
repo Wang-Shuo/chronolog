@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6da32a9e98e3202825bee5c919730fee8f0b4ac51961b025fd6e2bda790545ec
+machine_hash: 0f2b4ec7f44005f78f4087abac9e978cbadb7c2072869cb449232370089598c1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,10 +43,9 @@ record:
   title: "**\U0001F58A️ Typing Indicators in Channels**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-11-19-2-collaboration-changes-in-v0-4-0|2 Collaboration
-  changes in v0.4.0]]'
 - '[[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip
   suggesting files that share names with files already in chat]]'
+- '[[Changes/Midjourney/2024-12-11-tips|Tips]]'
 - '[[Changes/Open WebUI/2024-12-25-2-collaboration-changes-in-v0-5-0|2 Collaboration
   changes in v0.5.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-12-27-v0-5-2-github-192450026-62830850|open-webui-2024-12-27-v0-5-2-github-192450026-62830850]]'

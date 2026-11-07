@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3446bce785bb2ecc41e6b54b3440b95176a011bf5db7528f0ac6514ca4d3a0e7
+machine_hash: 3cafe3798462d5465393320eb4d7e2a6cf36492576d01aa71fdc11191ac036b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,9 @@ record:
   title: 4 Apps and Integrations changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5
-  Apps and Integrations changes in v2.1.259]]'
 - '[[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and
   Integrations changes in v4.1.17]]'
+- '[[Changes/Suno/2026-09-02-copy-and-duplicate-plugins|Copy and duplicate plugins]]'
 - '[[Changes/ChatGPT/2026-09-03-today-we-added-the-zendesk-and-onenote-plugins-in-the-plugin-directory-the-zende-012cbd|Zendesk
   & OneNote Plugins in ChatGPT and Codex Beta]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'

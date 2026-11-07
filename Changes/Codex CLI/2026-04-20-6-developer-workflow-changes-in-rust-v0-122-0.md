@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c138803314af9e0187bd73af20e3e725f283ae1dd2a623acaf81856ec4eb94ee
+machine_hash: 5123de566958958da02fc7b422d1bda9886d52b9fde5f80ad912d6789f470466
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 6 Developer Workflow changes in rust-v0.122.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-undo-shows-an-explanatory-message-when-rewind-is-unavailable-e-g-not-in-a-git-re|/undo
-  shows an explanatory message when rewind is unavailable…]]'
-- '[[Changes/Claude Code/2026-04-17-3-developer-workflow-changes-in-v2-1-113|3 Developer
-  Workflow changes in v2.1.113]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-17-3-developer-workflow-changes-in-v1-0-32|3
-  Developer Workflow changes in v1.0.32]]'
+- '[[Changes/OpenCode/2026-04-17-2-developer-workflow-changes-in-v1-4-10|2 Developer
+  Workflow changes in v1.4.10]]'
+- '[[Changes/OpenCode/2026-04-17-3-developer-workflow-changes-in-v1-4-8|3 Developer
+  Workflow changes in v1.4.8]]'
+- '[[Changes/OpenCode/2026-04-19-terminal-add-a-full-session-option-when-forking-from-the-session-dialog|Terminal
+  Add a full-session option when forking from the session dialog]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -110,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-3-developer-workflow-changes-in-v1-0-32|3 Developer Workflow changes in v1.0.32]]
+- Earlier: 2026-04-19 · OpenCode · [[Changes/OpenCode/2026-04-19-terminal-add-a-full-session-option-when-forking-from-the-session-dialog|Terminal Add a full-session option when forking from the session dialog]]
 - Later: 2026-04-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-20-2-developer-workflow-changes-in-v1-0-33|2 Developer Workflow changes in v1.0.33]]
 <!-- chronolog:end -->
 

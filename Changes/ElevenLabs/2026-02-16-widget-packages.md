@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 829611b4d97e4940a2dc4027071916d78e42bc5a7ffc40c5019df5097f3a8b60
+machine_hash: ac6797b1d7460346a3b15434c172b5a91bc30711649a2ce0a0d0d6288b4c38a6
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -51,10 +51,10 @@ record:
   title: Widget Packages
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c|Long-running
-  Agents in Research Preview]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents
   return complete responses]]'
+- '[[Changes/OpenCode/2026-02-12-support-claude-agent-sdk-style-structured-outputs-in-the-opencode-sdk|Support
+  Claude agent SDK-style structured outputs in the OpenCode SDK]]'
 - '[[Changes/Replit/2026-02-13-agent-production-sql-database-access|Agent production
   SQL database access]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-02-16-2026-02-16-06b87f89|elevenlabs-2026-02-16-2026-02-16-06b87f89]]'

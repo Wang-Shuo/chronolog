@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9699837073952e9e1d41ad00f471487ecf3706d435fb3cf5363d70023bc4d45c
+machine_hash: e7c19b2b6e73a61738f9d5cf2153b0eb8465d595169e1c2b0cfa9bd5084313bd
 product: cline
 product_name: Cline
 record:
@@ -44,9 +44,10 @@ record:
   title: 3 Voice and Audio changes in v3.31.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-15-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2025-09-15-new-endpoints|New Endpoints]]'
 - '[[Changes/ElevenLabs/2025-09-15-text-to-speech|Text to Speech]]'
+- '[[Changes/Suno/2025-09-23-clearer-more-immersive-audio|Clearer, more immersive
+  audio]]'
 source_release: '[[Releases/Cline/cline-2025-09-25-v3-31-0-github-249851716-699f2598|cline-2025-09-25-v3-31-0-github-249851716-699f2598]]'
 source_type: github_releases
 theme: voice
@@ -84,8 +85,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.31.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-09-15 · ElevenLabs · [[Changes/ElevenLabs/2025-09-15-text-to-speech|Text to Speech]]
-- Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn off voice mode, to remove the option to use voice mode in ChatGPT]]
+- Earlier: 2025-09-23 · Suno · [[Changes/Suno/2025-09-23-clearer-more-immersive-audio|Clearer, more immersive audio]]
+- Later: 2025-09-25 · Suno · [[Changes/Suno/2025-09-25-create-infinite-stem-variations-instantly-generate-vocals-drums-synths-and-more|Create infinite stem variations → Instantly generate vocals, drums, synths, and more…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f47a317e98527249b02f78e0a1b91f26c4a096add7fe2096264ec8bfae5db9a
+machine_hash: a961c411a2b82cb0e225ca1a8128ead7dc838a819bdc58aa0ac5497e9cfd0b67
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 4 Model Support changes in v1.0.70
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-09-allow-selecting-cline-free-models-on-the-clinepass-provider-organized-into-subsc|Allow
-  selecting Cline free models on the ClinePass provider, organized…]]'
-- '[[Changes/Codex CLI/2026-07-09-8-model-support-changes-in-rust-v0-144-0|8 Model
-  Support changes in rust-v0.144.0]]'
+- '[[Changes/OpenCode/2026-07-09-3-model-support-changes-in-v1-17-18-1|3 Model Support
+  changes in v1.17.18 + 1]]'
+- '[[Changes/OpenCode/2026-07-09-2-model-support-changes-in-v1-17-16|2 Model Support
+  changes in v1.17.16]]'
 - '[[Changes/Claude Code/2026-07-10-improved-code-review-findings-quality-on-claude-opus-4-8-across-all-effort-level|Improved
   /code-review findings quality on claude-opus-4-8 across all effort levels]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35|github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35]]'

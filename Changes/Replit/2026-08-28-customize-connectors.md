@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e3758df281e3b8e36bb8a8d0a6ffe17ae2fd24b7a1469b71f7d4899125315388
+machine_hash: d72ba8d7330401f0562585935f451469a8994714198706cd7098871779f46866
 product: replit
 product_name: Replit
 record:
@@ -48,8 +48,8 @@ record:
   title: Customize connectors
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4
-  Apps and Integrations changes in v2.1.251]]'
+- '[[Changes/Gamma/2026-08-28-build-more-with-gamma-s-api-and-connectors|Build more
+  with Gamma’s API and connectors]]'
 - '[[Changes/Lovable/2026-08-28-connect-your-app-to-gitlab-api|Connect your app to
   GitLab API]]'
 - '[[Changes/Lovable/2026-08-28-connect-your-app-to-firebase-cloud-messaging|Connect

@@ -29,7 +29,7 @@ themes:
   # "rolling out to Plus and Team users on iOS" does not decide the theme.
   - slug: collaboration
     display_name: Collaboration
-    aliases: [collaboration, sharing, multiplayer]
+    aliases: [collaboration, sharing, multiplayer, shared-folders]
     context_aliases: [team, teams]
     category: workflow
     status: official
@@ -56,6 +56,26 @@ themes:
     aliases: [image-generation, generate-images, generated-images, dall-e, gpt-image, image-library]
     category: capability
     status: official
+  - slug: video-generation
+    display_name: Video Generation
+    aliases: [video-generation, generate-videos, generated-video, text-to-video, image-to-video, video-to-video, video-editing, motion-brush, camera-control]
+    category: capability
+    status: official
+  - slug: music-generation
+    display_name: Music Generation
+    aliases: [music-generation, generate-music, song-generation, songwriting, song-editor, stem-extraction, stem-separation, remix-song, song, songs, music, lyrics, stems, remaster]
+    category: capability
+    status: official
+  - slug: presentation-creation
+    display_name: Presentation Creation
+    aliases: [presentation, presentations, slide-deck, powerpoint, google-slides]
+    category: capability
+    status: official
+  - slug: meeting-notes
+    display_name: Meeting Notes
+    aliases: [meeting-notes, meeting-note, meeting-transcript, meeting-summary, meeting-summaries, meeting-brief, meeting-briefs]
+    category: workflow
+    status: official
   - slug: search-browsing
     display_name: Search and Browsing
     aliases: [web-search, browsing, browse, deep-research, search-results, shopping-research, search-api, search-engine]
@@ -81,7 +101,7 @@ themes:
   - slug: mobile-desktop
     display_name: Mobile and Desktop
     aliases: [windows-desktop, whatsapp, carplay]
-    context_aliases: [mobile, desktop, ios, android, macos, ipad, iphone]
+    context_aliases: [mobile, desktop, ios, android, macos, ipad, iphone, apple-watch]
     category: platform
     status: official
   - slug: interface-experience

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e67d3156c31c4eac74e500d3e5cb7658601ee96ad77d85e3198699ad29ad4193
+machine_hash: ef08210eefb7fdf940cd1e5820410803e72d35b4c3e5eeaac14fcb4a9cbdc1b0
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: Added LLM profiles
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-10-pro-standard-pro-plans-only|Pro Standard Pro plans
-  only]]'
 - '[[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support
   changes in v2.1.172]]'
 - '[[Changes/Gemini CLI/2026-06-10-transition-to-flash-ga-model-when-experiment-flag-is-present-by-davidapierce-in|Transition
   to flash GA model when experiment flag is present]]'
+- '[[Changes/OpenCode/2026-06-10-4-model-support-changes-in-v1-17-0|4 Model Support
+  changes in v1.17.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-06-10-1-8-0-github-337373027-9a0bbdca|openhands-2026-06-10-1-8-0-github-337373027-9a0bbdca]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-10 · Gemini CLI · [[Changes/Gemini CLI/2026-06-10-transition-to-flash-ga-model-when-experiment-flag-is-present-by-davidapierce-in|Transition to flash GA model when experiment flag is present]]
+- Earlier: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-4-model-support-changes-in-v1-17-0|4 Model Support changes in v1.17.0]]
 - Later: 2026-06-11 · Cline · [[Changes/Cline/2026-06-11-handle-the-deepseek-v4-reasoning-format|Handle the DeepSeek V4 reasoning format]]
 <!-- chronolog:end -->
 

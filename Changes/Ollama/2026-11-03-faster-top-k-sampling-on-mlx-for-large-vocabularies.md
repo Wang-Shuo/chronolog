@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 957878484be532ccd7ea9842b0be7f87a72498674a38ee64583c51e7e8c40890
+machine_hash: 2e636f679c4116537c1dec2f7f174e8e24cafcd0b548f0f43de3b7657a21ba92
 product: ollama
 product_name: Ollama
 record:
@@ -40,10 +40,10 @@ record:
   title: Faster top-k sampling on MLX for large vocabularies
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-29-reduced-memory-usage-for-large-devin-local-sessions|Reduced
-  memory usage for large Devin Local sessions]]'
-- '[[Changes/Claude Code/2026-10-30-3-reliability-and-performance-changes-in-v2-1-314|3
-  Reliability and Performance changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-faster-long-sessions-in-desktop|Faster Long Sessions
+  in Desktop]]'
+- '[[Changes/OpenCode/2026-10-30-desktop-fixed-timeline-growth-zoom-end-scrolling-highlighting-and-dom-observer-p|Desktop
+  Fixed timeline growth, zoom-end scrolling, highlighting, and DOM-observer…]]'
 - '[[Changes/ElevenLabs/2026-11-02-fixes-history-items-for-v4-generations-keep-clone-strength-and-speed-in-their-sa|Fixes:
   History items for v4 generations keep clone_strength and speed…]]'
 source_release: '[[Releases/Ollama/ollama-2026-11-03-v0-40-14-github-432169781-b3886e93|ollama-2026-11-03-v0-40-14-github-432169781-b3886e93]]'

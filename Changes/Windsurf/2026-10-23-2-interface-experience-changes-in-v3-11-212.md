@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d8abe0b1f5cb961bd4f63d7d862ce1dcc4c775e0eeec56bb19847691726b53a
+machine_hash: 00276ba84d847bea46a5e8cb08e422e70f70e4b8bf2ec27f5f94f3fc2390d075
 product: windsurf
 product_name: Windsurf
 record:
@@ -93,7 +93,7 @@ Source: https://docs.devin.ai/desktop/changelog#v3-11-212
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-refactor-sidebar-express-mobile-drawer-duration-in-css-by-enyst-in-https-github|refactor(sidebar): express mobile drawer duration in CSS]]
-- Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-13-interface-experience-changes-in-v0-12-4|13 Interface Experience changes in v0.12.4]]
+- Later: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-large-batches-of-child-agent-results-now-fit-within-a-bounded-completion-message|Large batches of child-agent results now fit within a bounded completion message…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

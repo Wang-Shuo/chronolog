@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cebb3aa71e55bc5aec7eb0ed1c42913427c09971c6b6b669810cc8150d2206c7
+machine_hash: 448e6ba61ca01dce544c16bc996cb3430ecf1acb17963fb786bdba754f5350de
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v2.1.97
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes
-  is now an interactive version picker]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-04-session-resume-picker-correctly-groups-sessions-by-branch-and-repository-on-firs|Session
   resume picker correctly groups sessions by branch and repository on first use]]'
+- '[[Changes/OpenCode/2026-04-04-desktop-added-keyboard-navigation-and-shortcuts-to-the-question-dock|Desktop
+  Added keyboard navigation and shortcuts to the question dock]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-slash-command-picker-no-longer-flickers-or-shifts-the-input-while-filtering|Slash
   command picker no longer flickers or shifts the input while filtering]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'

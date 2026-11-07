@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a64263b49861976440198af1e4169be09bca3337e0794aac22fa8fc1f845119
+machine_hash: 61ae4d7cbded8c943a4335e1721d598c7b76c7f20396505c10836a5c93143b9c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Accepting an MCP elicitation now sends an empty JSON payload instead of null…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-14-9-apps-and-integrations-changes-in-v0-24-0|9 Apps
-  and Integrations changes in v0.24.0]]'
-- '[[Changes/Codex CLI/2026-01-15-9207-propagate-mcp-disabled-reason-gt-oai|♯9207
-  Propagate MCP disabled reason @gt-oai]]'
 - '[[Changes/Dify/2026-01-15-4-apps-and-integrations-changes-in-1-11-4|4 Apps and
   Integrations changes in 1.11.4]]'
+- '[[Changes/OpenCode/2026-01-15-core-official-copilot-plugin|Core Official Copilot
+  plugin]]'
+- '[[Changes/OpenCode/2026-01-15-core-honor-per-server-mcp-timeouts|Core Honor per-server
+  MCP timeouts]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-16-rust-v0-86-0-github-277242575-5861dc84|codex-cli-2026-01-16-rust-v0-86-0-github-277242575-5861dc84]]'
 source_type: github_releases
 theme: apps-integrations
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-15 · Dify · [[Changes/Dify/2026-01-15-4-apps-and-integrations-changes-in-1-11-4|4 Apps and Integrations changes in 1.11.4]]
+- Earlier: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-core-honor-per-server-mcp-timeouts|Core Honor per-server MCP timeouts]]
 - Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-3-apps-and-integrations-changes-in-rust-v0-87-0|3 Apps and Integrations changes in rust-v0.87.0]]
 <!-- chronolog:end -->
 

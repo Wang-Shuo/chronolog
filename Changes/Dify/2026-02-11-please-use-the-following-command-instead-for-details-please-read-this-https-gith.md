@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 29f236cb79848b12a281037254de656e467ad442b8b1c47591ed36490b558832
+machine_hash: b903e69e9a082751c80993220abafd4cc38835647457add57e209870af25e393
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: '> Please use the following command instead'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-6-developer-workflow-changes-in-v0-28-0|6 Developer
-  Workflow changes in v0.28.0]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-disable-terminal-transparency|Desktop Disable
+  terminal transparency]]'
 - '[[Changes/v0/2026-02-10-added-support-for-nuxt-and-additional-frameworks-in-git-imports|Added
   support for Nuxt and additional frameworks in Git imports]]'
 - '[[Changes/Codex CLI/2026-02-11-9-developer-workflow-changes-in-rust-v0-99-0|9 Developer

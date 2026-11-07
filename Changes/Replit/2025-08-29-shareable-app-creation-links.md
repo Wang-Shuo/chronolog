@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b4883af3ddf7ea120005e6ade66ea43dc4e656e092d7bcc127d529ae2fb22100
+machine_hash: 3a0e0bbe5cffc5c1c7386413d1afd8194dca750bbc1eca4c2edf128d06eee7a8
 product: replit
 product_name: Replit
 record:
@@ -44,12 +44,12 @@ record:
   title: Shareable app creation links
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-08-28-configurable-file-upload-processing-mode-added-process-in-background-query-param|\U0001F4C1
-  Configurable File Upload Processing Mode]]"
 - '[[Changes/Codex CLI/2025-08-29-3-apps-and-integrations-changes-in-rust-v0-26-0|3
   Apps and Integrations changes in rust-v0.26.0]]'
 - '[[Changes/Codex CLI/2025-08-29-mcp-stability-drop-mutexes-earlier-and-avoid-lock-ordering-pitfalls|MCP
   stability: drop mutexes earlier and avoid lock ordering pitfalls]]'
+- '[[Changes/Gamma/2025-08-29-now-you-can-connect-gamma-to-8-000-apps-with-our-new-zapier-integration|Now
+  you can connect Gamma to 8,000+ apps with our new Zapier integration]]'
 source_release: '[[Releases/Replit/replit-2025-08-29-2025-08-29-e2004036|replit-2025-08-29-2025-08-29-e2004036]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-mcp-stability-drop-mutexes-earlier-and-avoid-lock-ordering-pitfalls|MCP stability: drop mutexes earlier and avoid lock ordering pitfalls]]
+- Earlier: 2025-08-29 · Gamma · [[Changes/Gamma/2025-08-29-now-you-can-connect-gamma-to-8-000-apps-with-our-new-zapier-integration|Now you can connect Gamma to 8,000+ apps with our new Zapier integration]]
 - Later: 2025-09-01 · ElevenLabs · [[Changes/ElevenLabs/2025-09-01-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 

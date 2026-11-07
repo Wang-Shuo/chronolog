@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1cab59f241c0777b93eb853c85c33857976c8155c681099b299902a19653b7f3
+machine_hash: f6421cc7bbbb70bfe581839c222d6146349484db3b3b0dd461efd1066bde8464
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-image-tools|Image tools]]
-- Later: 2026-04-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-06-slash-command-timeline-entries-now-include-the-command-name-e-g-review-plan-for|Slash command timeline entries now include the command name (e.g., "Review", "Plan")…]]
+- Later: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-core-kept-compaction-summaries-in-the-conversation-s-language|Core Kept compaction summaries in the conversation's language]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

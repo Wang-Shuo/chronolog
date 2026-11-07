@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a74a5282128b4f7489144f2a897c63720c4d55d38ff1fe5b7d1870b7e3074faa
+machine_hash: aa72d80a572e84c36d2699b0bb5b1a6ff56b684fc67bbde0b701ad3d670d2f69
 product: cline
 product_name: Cline
 record:
@@ -51,11 +51,12 @@ record:
   title: 4 Model Support changes in v4.1.3
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-31-opt-out-of-ai-model-training|Opt out of AI model training]]'
 - '[[Changes/Replit/2026-07-31-choose-agent-s-primary-model|Choose Agent''s primary
   model]]'
 - '[[Changes/v0/2026-07-31-3-model-support-changes-in-claude-opus-5-direct-figma-inspection|3
   Model Support changes in Claude Opus 5, direct Figma inspection…]]'
+- '[[Changes/OpenCode/2026-08-01-core-fixed-provider-model-configs-that-use-interleaved-reasoning-fields-like-rea|Core
+  Fixed provider model configs that use interleaved reasoning fields like…]]'
 source_release: '[[Releases/Cline/cline-2026-08-02-v4-1-3-github-363709138-84b1555e|cline-2026-08-02-v4-1-3-github-363709138-84b1555e]]'
 source_type: github_releases
 theme: model-support
@@ -95,7 +96,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-3-model-support-changes-in-claude-opus-5-direct-figma-inspection|3 Model Support changes in Claude Opus 5, direct Figma inspection…]]
+- Earlier: 2026-08-01 · OpenCode · [[Changes/OpenCode/2026-08-01-core-fixed-provider-model-configs-that-use-interleaved-reasoning-fields-like-rea|Core Fixed provider model configs that use interleaved reasoning fields like…]]
 - Later: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-the-allow-all-auto-safety-judge-model-is-no-longer-user-configurable-the-judge-m|The /allow-all auto safety-judge model is no longer user-configurable]]
 <!-- chronolog:end -->
 

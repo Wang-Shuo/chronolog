@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c1225841f06dfd446a349949756cfd41600909d3c68f347ebd54305f6869eb6
+machine_hash: ee62af2a0b97dbf3354ff5d2f3a23f539b675663b5bfdb15fdce6af45746e39d
 product: dify
 product_name: Dify
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-7-editor-experience-changes-in-v0-11-0|7 Editor Experience changes in v0.11.0]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor Experience changes in rust-v0.146.0]]
+- Later: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-added-preview-temporary-tabs-to-the-auxiliary-pane-allowing-files-to-open-in-a-t|Added preview (temporary) tabs to the auxiliary pane, allowing files to open…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

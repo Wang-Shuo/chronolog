@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf6120a7555ac278620394ca19f8b715347f162494c2d7097fdfb0019f31f02b
+machine_hash: 1925fc9e823704a7bb83087112d5c03374ffd55706c5e169d34fdcfa86fd3245
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -112,7 +112,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 ## Nearby in Model Support
 
 - Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-4-model-support-changes-in-v0-12-2|4 Model Support changes in v0.12.2]]
-- Later: 2026-10-15 · Lovable · [[Changes/Lovable/2026-10-15-gpt-6-1-sol-for-your-app-s-ai-features|GPT-6.1 Sol for your app's AI features]]
+- Later: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-if-you-use-antigravity-with-your-own-google-cloud-project-through-vertex-ai-the|If you use Antigravity with your own Google Cloud project through Vertex AI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

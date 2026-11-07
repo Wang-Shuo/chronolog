@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2bf65e3e501483d6408c5c250d9dcf65e75b5ba9d99deffd6e58dcae17b88ba4
+machine_hash: 0682ebd6523f3ead51f510776bb597aeaa249a0ab40d19477b12aafe7d3cac98
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Agent Mode changes in v0.43.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-remote-command-can-now-be-used-while-the-agent-is-working|/remote
-  command can now be used while the agent is working]]'
+- '[[Changes/OpenCode/2026-05-20-core-agent-and-command-names-now-resolve-correctly-from-relative-config-paths|Core
+  Agent and command names now resolve correctly from relative config paths]]'
 - '[[Changes/Claude Code/2026-05-21-auto-mode-no-longer-suppresses-askuserquestion-when-the-user-or-a-skill-explicit|Auto
   mode no longer suppresses AskUserQuestion when the user or a skill explicitly…]]'
 - '[[Changes/Codex CLI/2026-05-21-7-agent-mode-changes-in-rust-v0-133-0|7 Agent Mode

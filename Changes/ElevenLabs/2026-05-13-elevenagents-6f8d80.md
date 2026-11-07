@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 05a53d56b62a2ef942cfe5d0960bf293ac3afc2d9249a518b54862a3de67c5d3
+machine_hash: 47fb1b148fa6e57d62a3af3ea38487347721dd259572fe85d6f6e418230e2654
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -98,10 +98,10 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-21379-document-codex-git-commit-attribution-config-henzelmann-oai|♯21379
-  Document Codex git commit attribution config @henzelmann-oai]]'
 - "[[Changes/Open WebUI/2026-05-09-sanitized-spreadsheet-html-previews-spreadsheet-previews-now-sanitize-generated|\U0001F6E1️
   Sanitized spreadsheet HTML previews. Spreadsheet previews now sanitize…]]"
+- '[[Changes/OpenCode/2026-05-09-core-fixed-the-http-api-openapi-document-route|Core
+  Fixed the HTTP API OpenAPI document route]]'
 - '[[Changes/Dify/2026-05-12-document-indexing-skip-empty-documents-before-vector-embedding-and-validate-miss|Document
   indexing — skip empty documents before vector embedding and validate…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-05-13-2026-05-13-1809b47f|elevenlabs-2026-05-13-2026-05-13-1809b47f]]'

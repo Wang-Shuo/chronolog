@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8f93ec0213f6931b852852c6a2a8fcb9da68bca8a50c575f6587560aa9e81a9
+machine_hash: b31743afa9ff6592f90e6abc3cd271a0464f90c7bc9eb5356d23ad5c54c4d07d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved the error shown when a cloud session is refused because your claude.ai…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-12-2-account-and-access-changes-in-v1-0-96|2
-  Account and Access changes in v1.0.96]]'
 - '[[Changes/Cline/2026-10-13-2-account-and-access-changes-in-v4-1-24|2 Account and
   Access changes in v4.1.24]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-power-bi-and-bluebird-mcp-servers-accept-their-published-resource-scopes-during|Power
   BI and Bluebird MCP servers accept their published resource scopes during sign-in]]'
+- '[[Changes/OpenClaw/2026-10-13-2-account-and-access-changes-in-v2026-10-3|2 Account
+  and Access changes in v2026.10.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: account-access
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-power-bi-and-bluebird-mcp-servers-accept-their-published-resource-scopes-during|Power BI and Bluebird MCP servers accept their published resource scopes during sign-in]]
+- Earlier: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-2-account-and-access-changes-in-v2026-10-3|2 Account and Access changes in v2026.10.3]]
 - Later: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-let-your-app-s-users-sign-in-with-their-lovable-account|Let your app's users sign in with their Lovable account]]
 <!-- chronolog:end -->
 

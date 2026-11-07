@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 567d489b7378d1d052159e52e43737f66448ce84ffba57cf6fb3b25e4d8c730e
+machine_hash: cd5f3733b62717c22fca1981aa3687709b76030d6b719a22e5abfbb7e7e98606
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.30
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer
-  Workflow changes in v2.1.27]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-30-3-developer-workflow-changes-in-v0-0-400|3
-  Developer Workflow changes in v0.0.400]]'
+- '[[Changes/OpenCode/2026-01-30-core-i-need-to-see-the-actual-commit-message-to-summarize-it-could-you-please-pr|Core
+  I need to see the actual commit message to summarize it]]'
 - '[[Changes/Codex CLI/2026-01-31-6-developer-workflow-changes-in-rust-v0-93-0|6 Developer
   Workflow changes in rust-v0.93.0]]'
+- '[[Changes/OpenCode/2026-01-31-core-handle-redirected-statement-treesitter-node-in-bash-permissions|Core
+  Handle redirected statement treesitter node in bash permissions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
 theme: developer-workflow
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.30
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-6-developer-workflow-changes-in-rust-v0-93-0|6 Developer Workflow changes in rust-v0.93.0]]
+- Earlier: 2026-01-31 · OpenCode · [[Changes/OpenCode/2026-01-31-core-handle-redirected-statement-treesitter-node-in-bash-permissions|Core Handle redirected statement treesitter node in bash permissions]]
 - Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-2-developer-workflow-changes-in-1-12-0|2 Developer Workflow changes in 1.12.0]]
 <!-- chronolog:end -->
 

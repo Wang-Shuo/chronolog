@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: edd64d0e7824576d125ff2d7779e34e21560635da6982c99ab8d0b4a3de5ca2f
+machine_hash: 7ad7694f9e9e0f57c10e417c2da961a5be3e8036f682762e6cd4683591f904ff
 product: openhands
 product_name: OpenHands
 record:
@@ -41,11 +41,11 @@ record:
   title: 'feat(apps): add authenticated backend view helper'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-08-app-chat-connectors-zendesk-neon-motherduck-oracle-autonomous-ai-database-ibm-db|App
-  + chat connectors]]'
 - '[[Changes/Lovable/2026-10-08-chat-connectors-loom|Chat connectors: Loom]]'
 - '[[Changes/Ollama/2026-10-08-readme-add-oxi-to-community-integrations-by-maziluiosif-in-https-github-com-olla|README:
   add oxi to community integrations]]'
+- '[[Changes/OpenClaw/2026-10-08-10-apps-and-integrations-changes-in-v2026-9-9|10
+  Apps and Integrations changes in v2026.9.9]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-08-v1-26-0-github-407241649-7e646875|openhands-2026-10-08-v1-26-0-github-407241649-7e646875]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-08 · Ollama · [[Changes/Ollama/2026-10-08-readme-add-oxi-to-community-integrations-by-maziluiosif-in-https-github-com-olla|README: add oxi to community integrations]]
+- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-10-apps-and-integrations-changes-in-v2026-9-9|10 Apps and Integrations changes in v2026.9.9]]
 - Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3 Apps and Integrations changes in v2.1.296]]
 <!-- chronolog:end -->
 

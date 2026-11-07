@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8fb6c39fe008169d98ceb57bd8a8ac227aa4e9e4b936b8a95e103fd4d71e9ca9
+machine_hash: a050c3c4df046b742e6b783530c3f29c419551f96f9ce947db0ff4bfe355710e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -80,10 +80,10 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-agent-mode-changes-in-v1-0-76|2 Agent
-  Mode changes in v1.0.76]]'
 - '[[Changes/OpenHands/2026-07-30-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs:
   refresh AGENTS.md guidance]]'
+- '[[Changes/Google Antigravity/2026-07-31-reduced-typing-lag-while-the-agent-streams-responses|Reduced
+  typing lag while the agent streams responses]]'
 - '[[Changes/Replit/2026-07-31-agent|Agent]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-08-03-2026-08-03-8b25a66a|elevenlabs-2026-08-03-2026-08-03-8b25a66a]]'
 source_type: elevenlabs_changelog

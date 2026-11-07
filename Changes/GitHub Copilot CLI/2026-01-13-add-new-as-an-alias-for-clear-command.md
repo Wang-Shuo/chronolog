@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 48c7edb62891b8769ff3d0200dbf03f9bd28cc3914eec1bfb430b40667930b9e
+machine_hash: 501e05e18d991e1795fe7ef04dcab9757b615d5182569be211a3e3fdbfaf88dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-2-developer-workflow-changes-in-v0-0-380|2 Developer Workflow changes in v0.0.380]]
-- Later: 2026-01-14 · Cline · [[Changes/Cline/2026-01-14-add-create-pull-request-skill|Add create-pull-request skill]]
+- Later: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-4-developer-workflow-changes-in-v1-1-16|4 Developer Workflow changes in v1.1.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

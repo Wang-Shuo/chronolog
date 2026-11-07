@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ed9cc0a467ee477989d6304d640a6b1c0d5decd02c197fe180a8b5d990da18b
+machine_hash: 41d867bd37c58ab727507ff5f7f1012526627ffe7646d48cb623fd6f3f736c5f
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Developer Workflow changes in v3.11.216
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14
-  Developer Workflow changes in rust-v0.164.0]]'
 - '[[Changes/Dify/2026-10-23-respect-xforward-headers-enabled-standalone-api-default-remains-false-bundled-co|
   /  RESPECT_XFORWARD_HEADERS_ENABLED  /  Standalone API default remains false]]'
 - '[[Changes/Windsurf/2026-10-23-4-developer-workflow-changes-in-v3-11-212|4 Developer
   Workflow changes in v3.11.212]]'
+- '[[Changes/OpenClaw/2026-10-24-3-developer-workflow-changes-in-v2026-10-7|3 Developer
+  Workflow changes in v2026.10.7]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-24-v3-11-216-5e8fa8fb|windsurf-2026-10-24-v3-11-216-5e8fa8fb]]'
 source_type: windsurf_changelog
 theme: developer-workflow
@@ -85,7 +85,7 @@ Source: https://docs.devin.ai/desktop/changelog#v3-11-216
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-4-developer-workflow-changes-in-v3-11-212|4 Developer Workflow changes in v3.11.212]]
+- Earlier: 2026-10-24 · OpenClaw · [[Changes/OpenClaw/2026-10-24-3-developer-workflow-changes-in-v2026-10-7|3 Developer Workflow changes in v2026.10.7]]
 - Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-49-developer-workflow-changes-in-v0-12-4|49 Developer Workflow changes in v0.12.4]]
 <!-- chronolog:end -->
 

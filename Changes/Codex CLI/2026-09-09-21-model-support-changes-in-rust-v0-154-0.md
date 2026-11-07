@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a3d207a1a1d972685386deb43ba5357bce6048c813d3cd703981e2eb2a5d969
+machine_hash: 32e76b45d1ccc08703f35b40e32a0fae12b4cb1268183efc8335e870aea9014d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,8 +87,8 @@ record:
   title: 21 Model Support changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-08-gpt-6-astra-gemini-3-8-flash-and-gemini-3-5-transcribe-for-your-app-s-ai-feature|GPT-6
-  Astra, Gemini 3.8 Flash, and Gemini 3.5 Transcribe for your app''s AI features]]'
+- '[[Changes/OpenClaw/2026-09-08-15-model-support-changes-in-v2026-9-3|15 Model Support
+  changes in v2026.9.3]]'
 - '[[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT
   Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]'
 - '[[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added
@@ -179,7 +179,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Model Support
 
 - Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added maxEffortLevel setting (top-level or per model under modelSettings)]]
-- Later: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat: enable LLM provider connections on cloud]]
+- Later: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-2-model-support-changes-in-hub-v2-13-0-introducing-new-documents|2 Model Support changes in HUB v2.13.0 — Introducing new Documents…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

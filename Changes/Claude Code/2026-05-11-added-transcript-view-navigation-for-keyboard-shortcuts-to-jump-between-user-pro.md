@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e279adbfd345b8f76b6e15874f1f571f7c8c97f9eb1583072a39bff43d25f283
+machine_hash: ca58a7d7855460f7e869d8d6d43d93b8315fe287a2758ec3075a69ba3689a543
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Added transcript view navigation
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project
-  info remains visible in slash command picker when no results match]]'
 - '[[Changes/Open WebUI/2026-05-09-8-interface-experience-changes-in-v0-9-3|8 Interface
   Experience changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-09-3-interface-experience-changes-in-v1-14-44-2|3 Interface
+  Experience changes in v1.14.44 + 2]]'
 - '[[Changes/Open WebUI/2026-05-10-2-interface-experience-changes-in-v0-9-5|2 Interface
   Experience changes in v0.9.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'

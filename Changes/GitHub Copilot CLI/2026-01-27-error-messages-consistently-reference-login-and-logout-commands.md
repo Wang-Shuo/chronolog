@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d58fd8b8163ef1f8d670e5ade0998354808477a8d72f1598128527f40f90231c
+machine_hash: af6587df1bc7e9a55f9965a170c4d6ec1a9072ab03cef17532f21d72ab8f3f0b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Error messages consistently reference /login and /logout commands
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-browser-can-now-request-local-network-permissions-fixing-authentication-flows-wi|Browser
-  can now request local network permissions, fixing authentication flows…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-22-mcp-servers-can-now-authenticate-using-oauth-2-0-with-automatic-token-management|MCP
   servers can now authenticate using OAuth 2.0 with automatic token management…]]'
+- '[[Changes/OpenCode/2026-01-25-desktop-auto-open-oauth-links-for-codex-and-copilot|Desktop
+  Auto-open OAuth links for Codex and Copilot]]'
 - '[[Changes/Codex CLI/2026-01-27-2-account-and-access-changes-in-rust-v0-92-0|2 Account
   and Access changes in rust-v0.92.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-27-v0-0-396-github-280451648-9f8ebbe0|github-copilot-cli-2026-01-27-v0-0-396-github-280451648-9f8ebbe0]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-2-account-and-access-changes-in-rust-v0-92-0|2 Account and Access changes in rust-v0.92.0]]
-- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
+- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-support-headless-authentication-for-chatgpt-codex|Support headless authentication for ChatGPT/Codex]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

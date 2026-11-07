@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d4bd61dda7da147ab52d773ff5048f64ce4a071d4bfae83781d173a035d058f
+machine_hash: cfbe2a1250ef0ba5af6dff3eeb85b1a5023cedcf45a689b4916bd704bbce8ccf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,10 +55,10 @@ record:
   title: 8 Account and Access changes in rust-v0.147.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-08-01-devin-desktop-for-windows-loads-root-and-intermediate-certificates-from-the-wind|Devin
-  Desktop for Windows loads root and intermediate certificates from the Windows…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-2-account-and-access-changes-in-v1-0-78|2
   Account and Access changes in v1.0.78]]'
+- '[[Changes/OpenCode/2026-08-05-core-simplified-xai-login-to-a-single-device-code-flow-that-works-better-in-head|Core
+  Simplified xAI login to a single device-code flow that works better in headless…]]'
 - '[[Changes/Claude Code/2026-08-07-changed-managed-settings-the-approval-prompt-no-longer-re-appears-after-re-login|Changed
   managed settings]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2|codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2]]'

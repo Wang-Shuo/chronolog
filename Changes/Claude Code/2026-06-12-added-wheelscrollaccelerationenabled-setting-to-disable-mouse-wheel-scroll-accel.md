@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 563669e4e8cb222aba5cbd070b536753d71e6d1091f41fe55fc66bbc49f19954
+machine_hash: 261eae25c3270e202eca694b3efdabd8f525d544858211127dc5872004c8ec09
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,9 +42,9 @@ record:
   title: Added `wheelScrollAccelerationEnabled` setting to disable mouse-wheel scroll…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re
-  updating the model picker to make it easier to choose the balance of speed…]]'
 - '[[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/Google Antigravity/2026-06-11-2-interface-experience-changes-in-hub-v2-1-4-quota-screen-redesign|2
+  Interface Experience changes in HUB v2.1.4 — Quota Screen Redesign…]]'
 - '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added
   footerLinksRegexes setting for regex-matched link badges in the footer row…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d|claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d]]'

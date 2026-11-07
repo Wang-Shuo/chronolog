@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a4b638e7b85b868056a2cadecfd277f1e4f96d9394492da3ed82bb19fed5b2a3
+machine_hash: 418b4e1956c4249f66b42bf40df1f9024390c6bace367155f2f14269d6f46a25
 product: windsurf
 product_name: Windsurf
 record:
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791 bazel: refresh expired macOS SDK pin @anp-oai]]
-- Later: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709 PAC 4 - Add macOS system proxy resolver @canvrno-oai]]
+- Later: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-15-mobile-and-desktop-changes-in-v1-17-10|15 Mobile and Desktop changes in v1.17.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

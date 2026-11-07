@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 221638dc08d9e19ead07f5e6f2a25f434f367fbffbe9eed3af4ed1814610bd36
+machine_hash: a3ab942e367fa40b0718fdea562df6e5b6f1b57f2586abd9b9befd6113c3b80e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#10118 [Codex][CLI] Show model-capacity guidance on 429 @ccy-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-30-acp-server-supports-changing-models-during-a-session|ACP
-  server supports changing models during a session]]'
+- '[[Changes/OpenCode/2026-01-30-desktop-free-model-layout-improvements-in-app|Desktop
+  Free model layout improvements in app]]'
 - '[[Changes/Windsurf/2026-01-30-arena-mode|Arena Mode]]'
 - '[[Changes/Windsurf/2026-01-30-wave-14-arena-mode|Wave 14: Arena Mode]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8|codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-30 · Windsurf · [[Changes/Windsurf/2026-01-30-wave-14-arena-mode|Wave 14: Arena Mode]]
-- Later: 2026-02-01 · Ollama · [[Changes/Ollama/2026-02-01-improved-tool-calling-for-ministral-models|Improved tool calling for Ministral models]]
+- Later: 2026-01-31 · OpenCode · [[Changes/OpenCode/2026-01-31-4-model-support-changes-in-v1-1-48|4 Model Support changes in v1.1.48]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

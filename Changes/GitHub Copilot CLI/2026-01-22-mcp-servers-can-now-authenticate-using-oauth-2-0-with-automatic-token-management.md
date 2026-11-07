@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2145edb1f5347ef289d0b0a82792c2eacae9dcb71c0222b494c37f74427596ce
+machine_hash: 550e82671749d64837c03f66aca9c36ed0e5d99749300c2a0e973191e20926ef
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,8 +52,8 @@ record:
   title: MCP servers can now authenticate using OAuth 2.0 with automatic token management…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-feat-admin-prompt-user-to-restart-the-cli-if-they-change-auth-to-oauth-mid-sessi|feat(admin):
-  prompt user to restart the CLI if they change auth to oauth mid-session…]]'
+- '[[Changes/OpenCode/2026-01-21-desktop-improve-provider-oauth-error-handling-in-app|Desktop
+  Improve provider OAuth error handling in app]]'
 - '[[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode
   Added ability for OAuth users to browse and resume remote Claude sessions…]]'
 - '[[Changes/Cursor/2026-01-22-browser-can-now-request-local-network-permissions-fixing-authentication-flows-wi|Browser
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-browser-can-now-request-local-network-permissions-fixing-authentication-flows-wi|Browser can now request local network permissions, fixing authentication flows…]]
-- Later: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-2-account-and-access-changes-in-rust-v0-92-0|2 Account and Access changes in rust-v0.92.0]]
+- Later: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-desktop-auto-open-oauth-links-for-codex-and-copilot|Desktop Auto-open OAuth links for Codex and Copilot]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

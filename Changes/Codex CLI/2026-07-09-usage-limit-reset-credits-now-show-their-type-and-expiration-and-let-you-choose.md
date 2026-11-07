@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: c5637f2d2e2bb33971a36f253cd4de5881662e920b387277b5be8b0eaeac44a4
+machine_hash: 4e1736b1583c38f3c96dfdd5bb471bec44df01c83ff2d87f23beaab1f2bde962
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-07-09 · Cline · [[Changes/Cline/2026-07-09-add-a-clinepass-limit-reached-error-with-a-one-click-option-to-switch-to-cline-u|Add a ClinePass limit-reached error with a one-click option to switch to Cline…]]
-- Later: 2026-07-13 · Lovable · [[Changes/Lovable/2026-07-13-functions-usage-is-now-labeled-compute|Functions usage is now labeled Compute]]
+- Later: 2026-07-09 · OpenCode · [[Changes/OpenCode/2026-07-09-core-prevent-crashes-and-bad-pricing-data-when-github-copilot-returns-models-wit|Core Prevent crashes and bad pricing data when GitHub Copilot returns models…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

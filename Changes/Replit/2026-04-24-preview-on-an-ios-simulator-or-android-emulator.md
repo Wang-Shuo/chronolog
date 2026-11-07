@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d80598d2b99825a1ab3d4cfb233b747dd198b6c1f3f1c8ad0463441bac98d506
+machine_hash: 22f80f2ad1b8c991ce106759d27a318ad0b600b73256586e747db2faede964b7
 product: replit
 product_name: Replit
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-lovable-desktop-app|Lovable desktop app]]
-- Later: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]
+- Later: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-desktop-per-workspace-icon-overrides-now-stay-applied-for-subdirectories-in-the|Desktop Per-workspace icon overrides now stay applied for subdirectories in the same repo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

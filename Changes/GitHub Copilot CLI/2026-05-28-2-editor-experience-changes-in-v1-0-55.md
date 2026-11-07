@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2c8106c6adadea268b7f9a6f97db3f21c09f445bb70cbe179a3145aaab33b126
+machine_hash: 27aceb9f45998fcaee09606514386a0226d9656b32540cef5db8b46044e9d961
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.55
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-slash-command-completion-now-preserves-existing-draft-text-for-commands-that-acc|Slash-command completion now preserves existing draft text for commands that accept…]]
-- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-removed-the-ide-for-startup-hint-toast|Removed the "/ide for …" startup hint toast]]
+- Later: 2026-05-28 · OpenCode · [[Changes/OpenCode/2026-05-28-2-editor-experience-changes-in-v1-15-12|2 Editor Experience changes in v1.15.12]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

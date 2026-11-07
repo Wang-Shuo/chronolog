@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: bdd1292f166556e2fc91c54984f42abdc615e8726cfacf5f646a223946d309cf
+machine_hash: 5f00f13029091da5644dfe895bfaf03bebe8da6022ab491110ed8621c35ebf5e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-configure-subagent-concurrency-and-depth-limits-in-settings-usage-based-billing|Configure subagent concurrency and depth limits in /settings (usage-based billing users)]]
-- Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-downgrade-from-pro-to-core-in-one-step|Downgrade from Pro to Core in one step]]
+- Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-when-a-codex-subscription-reaches-its-usage-limit-openclaw-now-moves-to-configur|When a Codex subscription reaches its usage limit, OpenClaw now moves to configured…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

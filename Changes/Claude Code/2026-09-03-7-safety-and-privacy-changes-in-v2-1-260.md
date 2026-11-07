@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42c08518cf85ab82ff5b3aedd5c9f2f0f8103394171fd0506c55ae0457f69a46
+machine_hash: ae1d6a5a1252aff0810a222bef5eb5e0d8bd67e91860a0556ba35e693a2da592
 product: claude-code
 product_name: Claude Code
 record:
@@ -65,12 +65,12 @@ record:
   title: 7 Safety and Privacy changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-10-safety-and-privacy-changes-in-v2-1-257|10 Safety
-  and Privacy changes in v2.1.257]]'
-- '[[Changes/Codex CLI/2026-09-01-41227-use-compatible-powershell-for-elevated-windows-sandbox-commands-copyberry|♯41227
-  Use compatible PowerShell for elevated Windows sandbox commands @copyberry]]'
+- '[[Changes/OpenCode/2026-09-01-core-apply-patch-no-longer-emits-an-empty-move-path-in-permission-metadata|Core
+  apply_patch no longer emits an empty move path in permission metadata]]'
 - '[[Changes/Claude Code/2026-09-02-4-safety-and-privacy-changes-in-v2-1-259|4 Safety
   and Privacy changes in v2.1.259]]'
+- '[[Changes/Google Antigravity/2026-09-02-permission-prompts-again-describe-the-specific-action-being-requested-instead-of|Permission
+  prompts again describe the specific action being requested instead…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: safety-privacy
@@ -122,7 +122,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-4-safety-and-privacy-changes-in-v2-1-259|4 Safety and Privacy changes in v2.1.259]]
+- Earlier: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-permission-prompts-again-describe-the-specific-action-being-requested-instead-of|Permission prompts again describe the specific action being requested instead…]]
 - Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-6-safety-and-privacy-changes-in-rust-v0-153-0|6 Safety and Privacy changes in rust-v0.153.0]]
 <!-- chronolog:end -->
 

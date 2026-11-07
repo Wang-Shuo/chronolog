@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 145312ddfe0cc357101ff9e8f9170bc1bde7422bc399a2a317c412bd454b5f8d
+machine_hash: 16eab8158ed6066d885baf63f6845430420908fcb2db80574c176fe695f71e66
 product: ollama
 product_name: Ollama
 record:
@@ -44,10 +44,10 @@ record:
   title: Hermes Desktop is now available via `ollama launch hermes-desktop` with native…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-04-added-a-new-command-for-devin-desktop-to-rerun-the-migration-from-windsurf-this|Added
-  a new command for Devin Desktop to rerun the migration from Windsurf]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-mobile-and-desktop-changes-in-v1-0-60|2
-  Mobile and Desktop changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-3-mobile-and-desktop-changes-in-v1-16-2|3 Mobile
+  and Desktop changes in v1.16.2]]'
+- '[[Changes/OpenCode/2026-06-05-7-mobile-and-desktop-changes-in-v1-16-0|7 Mobile
+  and Desktop changes in v1.16.0]]'
 - '[[Changes/Windsurf/2026-06-06-hardened-migration-from-windsurf-on-windows-to-preserve-shortcut-icon|Hardened
   migration from Windsurf on Windows to preserve shortcut icon]]'
 source_release: '[[Releases/Ollama/ollama-2026-06-07-v0-30-7-github-335267984-96c79b41|ollama-2026-06-07-v0-30-7-github-335267984-96c79b41]]'

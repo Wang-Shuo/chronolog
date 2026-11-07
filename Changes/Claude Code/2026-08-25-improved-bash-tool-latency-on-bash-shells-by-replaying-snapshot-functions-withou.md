@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79f2a30accac6d769f7df3fe46093887de25c94fb597601736f5faff1e74ea83
+machine_hash: 6f38e8d4de8158b1fa8cbccf9bc9c38cf30dbe9c8fc28ecbb8b8adb403236580
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,10 @@ record:
     without…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-2-reliability-and-performance-changes-in-rust-v0-149-0|2
-  Reliability and Performance changes in rust-v0.149.0]]'
-- '[[Changes/ChatGPT/2026-08-21-attach-recent-photos-faster-press-and-hold-the-button-to-open-your-recent-photos|Attach
-  recent photos faster]]'
+- '[[Changes/Midjourney/2026-08-21-performance|Performance]]'
 - '[[Changes/ElevenLabs/2026-08-24-elevenagents-a7877c|ElevenAgents]]'
+- '[[Changes/Google Antigravity/2026-08-24-improved-git-responsiveness-and-reduced-background-cpu-usage-on-large-repositori|Improved
+  Git responsiveness and reduced background CPU usage on large repositories…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-elevenagents-a7877c|ElevenAgents]]
+- Earlier: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-improved-git-responsiveness-and-reduced-background-cpu-usage-on-large-repositori|Improved Git responsiveness and reduced background CPU usage on large repositories…]]
 - Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-workflow-runtime-stability|Workflow & Runtime Stability]]
 <!-- chronolog:end -->
 

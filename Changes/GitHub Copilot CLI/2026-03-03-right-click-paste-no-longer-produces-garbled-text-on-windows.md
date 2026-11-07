@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc9bf41307a5ac637b7b11ec5cb4b63e9b759d5d6211bfdfaa0efee089750024
+machine_hash: 66455d72fc94ccd69c6a7de7b4a86778fe308733ccafac96038b0af63d8aa8dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Right-click paste no longer produces garbled text on Windows
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-2-mobile-and-desktop-changes-in-rust-v0-106-0|2
-  Mobile and Desktop changes in rust-v0.106.0]]'
+- '[[Changes/OpenCode/2026-02-26-3-mobile-and-desktop-changes-in-v1-2-15|3 Mobile
+  and Desktop changes in v1.2.15]]'
 - '[[Changes/Gemini CLI/2026-02-27-feat-cli-add-macos-run-event-notifications-interactive-only-by-lyalindotcom-in-h|feat(cli):
   add macOS run-event notifications (interactive only)]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-27-copy-hint-shows-cmd-c-in-ghostty-on-macos-and-right-click-as-an-alternative-for|Copy
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-02-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-27-copy-hint-shows-cmd-c-in-ghostty-on-macos-and-right-click-as-an-alternative-for|Copy hint shows cmd+c in Ghostty on macOS and right-click as an alternative for all…]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile and Desktop changes in v2.1.69]]
+- Later: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-31-mobile-and-desktop-changes-in-v1-2-16|31 Mobile and Desktop changes in v1.2.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf6909704c9946c04f463557867fdca902e54e5854d374b885ac2df7ffb6ae46
+machine_hash: 5b4abea5c6e247f28f5f4325a8a833209762c137ea899fc0c104ace3ff906daf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#12758 feat: include available decisions in command approval requests @bolinfest'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-25-3-developer-workflow-changes-in-v0-30-0|3 Developer
-  Workflow changes in v0.30.0]]'
+- '[[Changes/OpenCode/2026-02-25-3-developer-workflow-changes-in-v1-2-14-1|3 Developer
+  Workflow changes in v1.2.14 + 1]]'
 - '[[Changes/v0/2026-02-25-added-repository-information-to-first-message-in-git-connected-chats|Added
   repository information to first message in git-connected chats]]'
 - '[[Changes/Claude Code/2026-02-26-improved-always-allow-prefix-suggestions-for-compound-bash-commands-e-g-cd-tmp-g|Improved

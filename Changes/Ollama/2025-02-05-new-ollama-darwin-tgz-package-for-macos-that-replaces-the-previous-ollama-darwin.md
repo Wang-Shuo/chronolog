@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e4f198c4b55b7cf1b50f665a0de24d59440892ef300fd5a7b0b491e98ae8a87f
+machine_hash: fac548efa852cfd6d7e21120eb810b017c26bd16867887f948b1f6c2d0845e53
 product: ollama
 product_name: Ollama
 record:
@@ -44,11 +44,11 @@ record:
   title: New `ollama-darwin.tgz` package for macOS that replaces the previous `ollama-darwin`…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More
-  personalization in Custom Instructions]]'
 - '[[Changes/Replit/2025-01-17-web-view-mobile-support|Web view mobile support]]'
 - "[[Changes/Open WebUI/2025-01-22-desktop-app-preparations-ongoing-work-to-support-the-upcoming-open-webui-desktop|\U0001F5A5️
   Desktop App Preparations]]"
+- '[[Changes/Midjourney/2025-01-25-you-can-now-describe-images-on-the-web|"describe"
+  images on the web]]'
 source_release: '[[Releases/Ollama/ollama-2025-02-05-v0-5-8-github-198400593-916a9e77|ollama-2025-02-05-v0-5-8-github-198400593-916a9e77]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-01-22 · Open WebUI · [[Changes/Open WebUI/2025-01-22-desktop-app-preparations-ongoing-work-to-support-the-upcoming-open-webui-desktop|🖥️ Desktop App Preparations]]
-- Later: 2025-02-07 · Replit · [[Changes/Replit/2025-02-07-replit-mobile|Replit Mobile]]
+- Earlier: 2025-01-25 · Midjourney · [[Changes/Midjourney/2025-01-25-you-can-now-describe-images-on-the-web|"describe" images on the web]]
+- Later: 2025-02-06 · Suno · [[Changes/Suno/2025-02-06-expand-your-favorite-track-moments-and-make-your-sound-hit-even-harder-covers-pe|🚨 Extend is live on iOS!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

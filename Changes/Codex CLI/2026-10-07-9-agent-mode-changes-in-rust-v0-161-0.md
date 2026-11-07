@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 33a056e0175a39bd9ed2de2316b1432ab9f8fd2189015a16c025edfb35183b5f
+machine_hash: 53094782661fc36fe2c11816103c4fa3b73771d6d294d3a77dc4240779f6d03a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,8 +57,8 @@ record:
   title: 9 Agent Mode changes in rust-v0.161.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput|Agents
-  keep running on your computer]]'
+- '[[Changes/OpenCode/2026-10-06-added-canonical-redirects-and-json-and-markdown-data-formats-for-agent-readable|Added
+  canonical redirects and JSON and Markdown data formats for agent-readable stats]]'
 - '[[Changes/OpenHands/2026-10-06-4-agent-mode-changes-in-v1-25-0|4 Agent Mode changes
   in v1.25.0]]'
 - '[[Changes/Claude Code/2026-10-07-2-agent-mode-changes-in-v2-1-293|2 Agent Mode

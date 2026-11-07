@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dab9d611e9a86e9d67583cced792dce4ef02d742fbefddd5ab74dbfae6f7a91f
+machine_hash: 7bc61c6d033ebe8191c1226b8bef68e716e7d1b01ecb08075c40291467189fae
 product: cursor
 product_name: Cursor
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-02 · Open WebUI · [[Changes/Open WebUI/2026-03-02-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-9-reliability-and-performance-changes-in-v2-1-69|9 Reliability and Performance changes in v2.1.69]]
+- Later: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-2-reliability-and-performance-changes-in-v1-2-16|2 Reliability and Performance changes in v1.2.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

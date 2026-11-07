@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68a7ab011c501d00637f9336628da9478df99492ee74fbfd8edc5e9f4f032299
+machine_hash: 280e46f3e8733c2f61b02e9377e36fa9aea035e5d5ec27984b9a117c838b34a5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,10 +56,10 @@ record:
   title: Large pastes are now handled as attachments
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-14829-stack-3-4-add-current-thread-context-to-realtime-startup-aibrahim-oai|♯14829
-  stack 3/4 Add current thread context to realtime startup @aibrahim-oai]]'
 - '[[Changes/Claude Code/2026-03-20-changed-plan-mode-to-hide-the-clear-context-option-by-default-restore-with-showc|Changed
   plan mode to hide the "clear context" option by default…]]'
+- '[[Changes/OpenCode/2026-03-22-2-context-window-changes-in-v1-3-0|2 Context Window
+  changes in v1.3.0]]'
 - '[[Changes/Gemini CLI/2026-03-24-2-context-window-changes-in-v0-35-0|2 Context Window
   changes in v0.35.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-25-large-pastes-are-now-handled-as-attachments-6bacf64e|chatgpt-2026-03-25-large-pastes-are-now-handled-as-attachments-6bacf64e]]'

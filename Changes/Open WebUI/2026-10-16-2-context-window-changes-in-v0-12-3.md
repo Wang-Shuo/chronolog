@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89108ff157486097d3730c03ddca12ad820022454c0be39ffef2b8b1ff631168
+machine_hash: 2f9ec822534a5911f08e1c83e215c657dcabaf826058d4c9d3868d58b2a48e00
 product: open-webui
 product_name: Open WebUI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 ## Nearby in Context Window
 
 - Earlier: 2026-10-16 · Cline · [[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto Compact and its strategy setting sit together again in Feature settings]]
-- Later: 2026-10-18 · Ollama · [[Changes/Ollama/2026-10-18-2-context-window-changes-in-v0-40-7|2 Context Window changes in v0.40.7]]
+- Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-manual-compaction-compact-gives-an-active-answer-up-to-60-seconds-to-finish-if-i|Manual compaction. /compact gives an active answer up to 60 seconds to finish]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

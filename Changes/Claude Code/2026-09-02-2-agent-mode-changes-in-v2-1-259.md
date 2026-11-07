@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3238f30586a70b02cb320719eecba25760f2d169ddf23c75a95e44607c4cceea
+machine_hash: 66d00d4c7b8c97eea3a4a0aa88a9f3ff92860e6418ccc7abafffb542e670fed3
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,12 @@ record:
   title: 2 Agent Mode changes in v2.1.259
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-31-elevenagents|ElevenAgents]]'
 - '[[Changes/Claude Code/2026-09-01-5-agent-mode-changes-in-v2-1-257|5 Agent Mode
   changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-4-agent-mode-changes-in-rust-v0-152-0|4 Agent Mode
   changes in rust-v0.152.0]]'
+- '[[Changes/OpenClaw/2026-09-01-11-agent-mode-changes-in-v2026-8-2|11 Agent Mode
+  changes in v2026.8.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
 theme: agent-mode
@@ -87,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.259
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-4-agent-mode-changes-in-rust-v0-152-0|4 Agent Mode changes in rust-v0.152.0]]
+- Earlier: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-11-agent-mode-changes-in-v2026-8-2|11 Agent Mode changes in v2026.8.2]]
 - Later: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-aborting-a-task-now-also-cancels-the-delegated-subagents-and-teammates-it-spawne|Aborting a task now also cancels the delegated subagents and teammates it spawned…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75c079b8321c4c2b838f0df208f3b9cf0f452db9f7ad13aa938b8f8e048c37f5
+machine_hash: 64a61f5f0d6e4c4c3f2419ae7decf999878f8b121fb2333577903f517903041c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 'feat(plan): hide plan write and edit operations on plans in Plan Mode'
   type: change
 related_changes:
-- '[[Changes/v0/2026-02-23-improved-payment-failure-handling-with-automatic-refresh-when-returning-to-the-t|Improved
-  payment failure handling with automatic refresh when returning to the tab]]'
 - '[[Changes/v0/2026-02-23-added-file-deletion-in-the-editor|Added file deletion in
   the editor]]'
+- '[[Changes/OpenCode/2026-02-24-desktop-wait-for-loadfile-to-complete-before-opening-file-tab|Desktop
+  Wait for loadFile to complete before opening file tab]]'
 - '[[Changes/Codex CLI/2026-02-25-2-editor-experience-changes-in-rust-v0-105-0|2 Editor
   Experience changes in rust-v0.105.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'

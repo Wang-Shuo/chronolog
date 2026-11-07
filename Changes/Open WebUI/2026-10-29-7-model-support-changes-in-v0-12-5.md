@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac8f1e454cba8fec0ff0e249c4ee73e88ce4c49d48dfd4e5e2d6ee08832949c7
+machine_hash: 51a8d11c2fd34b95fc2ab2b71dd4591fd8b6027b067fe1cbedd37705664ef2f7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -74,8 +74,8 @@ record:
   title: 7 Model Support changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-27-speculative-decoding-now-supports-dflash2-draft-models-on-mlx|Speculative
-  decoding now supports DFlash2 draft models on MLX]]'
+- '[[Changes/OpenCode/2026-10-27-add-configurable-prompt-cache-ttls-per-provider-model|Add
+  configurable prompt cache TTLs per provider/model]]'
 - '[[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings):
   use existing model-profile theme aliases]]'
 - '[[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model
@@ -139,7 +139,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.5
 ## Nearby in Model Support
 
 - Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model Support changes in rust-v0.166.0]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support changes in v2.1.314]]
+- Later: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-new-default-model-picker|New Default Model Picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c64c0dab2801ca5baec4c50a239824b0a7d068c11e507732f1be5c8b4262dd3
+machine_hash: 4611f20c6dbe390e056974952bb4b74e79f6eaf2a61bfe5cfac3c3b9e49fbeab
 product: open-webui
 product_name: Open WebUI
 record:
@@ -58,8 +58,8 @@ record:
     control on a tool…"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed
-  analytics to no longer turn off before sign-in solely because managed…]]'
+- '[[Changes/OpenCode/2026-08-28-2-account-and-access-changes-in-v1-18-25-1|2 Account
+  and Access changes in v1.18.25 + 1]]'
 - '[[Changes/v0/2026-08-28-4-account-and-access-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
   Account and Access changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-29-show-the-specific-authentication-failure-such-as-401-bad-credentials-instead-of|Show

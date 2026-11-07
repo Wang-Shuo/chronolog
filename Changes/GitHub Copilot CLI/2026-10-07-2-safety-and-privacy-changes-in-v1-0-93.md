@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 802c6b2da39cbc48fb5ebfaafd61b15061f9cdcf10d4560b025c3a4acb2a5f39
+machine_hash: 4d26e15edfc45688a8fbf3bdb9f59abaffaa12c55da8c8204ce8d6c3ffa5397b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.93
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-9-safety-and-privacy-changes-in-rust-v0-161-0|9 Safety and Privacy changes in rust-v0.161.0]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-5-safety-and-privacy-changes-in-v2-1-295|5 Safety and Privacy changes in v2.1.295]]
+- Later: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-on-macos-if-privacy-settings-block-antigravity-from-reading-a-file-or-folder-you|On macOS, if privacy settings block Antigravity from reading a file or folder you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

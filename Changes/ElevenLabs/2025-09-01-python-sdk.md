@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4f80f89704ec006e6ebf32b3e253d40fc5ef48ca5d0ded69de0e6fdebeb754a2
+machine_hash: 5f3655370eecf8023d5cacdef5fcd10f67cb6569941aa854f3a5428fad752c92
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,12 +46,12 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-8-automation-and-scheduling-changes-in-v0-1-21|8
-  Automation and Scheduling changes in v0.1.21]]'
 - '[[Changes/Codex CLI/2025-08-26-2692-do-not-schedule-frames-for-tui-draw-events-in-backtrack|♯2692
   do not schedule frames for Tui::Draw events in backtrack]]'
 - '[[Changes/Dify/2025-08-27-loop-exit-conditions-fixed-loop-exit-condition-to-accept-variables-from-nodes-in|Loop
   Exit Conditions]]'
+- '[[Changes/Gamma/2025-08-29-ready-to-get-started-try-one-of-these-popular-automations|Ready
+  to get started?]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-09-01-2025-09-01-b1665f28|elevenlabs-2025-09-01-2025-09-01-b1665f28]]'
 source_type: elevenlabs_changelog
 theme: automation-scheduling
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-loop-exit-conditions-fixed-loop-exit-condition-to-accept-variables-from-nodes-in|Loop Exit Conditions]]
-- Later: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-5-automation-and-scheduling-changes-in-1-9-0|5 Automation and Scheduling changes in 1.9.0]]
+- Earlier: 2025-08-29 · Gamma · [[Changes/Gamma/2025-08-29-ready-to-get-started-try-one-of-these-popular-automations|Ready to get started?]]
+- Later: 2025-09-16 · Gamma · [[Changes/Gamma/2025-09-16-gamma-api-automate-your-creative-workflow-beta|Gamma API: Automate your creative workflow (Beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

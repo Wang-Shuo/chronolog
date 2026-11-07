@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 157f7699aa9d1cf75d3084bd7b169d85b72885bb9691929a80437a3696c32977
+machine_hash: f777fc768cc8fb68553cf1e8af54bdfeb26a7e97372b2579c0f9f1d289a73271
 product: cursor
 product_name: Cursor
 record:
@@ -55,8 +55,8 @@ record:
   title: Model access controls
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-05-01-added-llm-model-on-conversation-cards-and-header-by-sjathin-in-https-github-com|Added
-  LLM model on conversation cards and header]]'
+- '[[Changes/OpenCode/2026-05-02-core-fixed-bedrock-sessions-that-include-reasoning-content-when-switching-models|Core
+  Fixed Bedrock sessions that include reasoning content when switching models]]'
 - '[[Changes/Ollama/2026-05-03-the-ollama-app-now-surfaces-featured-models-from-server-driven-recommendations|The
   Ollama app now surfaces featured models from server-driven recommendations]]'
 - '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated /model picker]]
-- Later: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-we-re-rolling-out-gpt-5-5-instant-as-chatgpt-s-new-default-model-it-replaces-gpt|GPT-5.5 Instant in ChatGPT]]
+- Later: 2026-05-04 · OpenCode · [[Changes/OpenCode/2026-05-04-core-fix-azure-anthropic-model-resolution-when-using-the-anthropic-sdk|Core Fix Azure Anthropic model resolution when using the Anthropic SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

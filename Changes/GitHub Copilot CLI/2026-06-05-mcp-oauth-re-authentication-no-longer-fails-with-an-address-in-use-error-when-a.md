@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2ad8333e48b8785a993d6c72c6bd7544f6a46f77bf559e9011b08f9963843a7
+machine_hash: 491b6bf1cc6903d4a01926c8dd0b26516a4450a4a7676fbfc89c8abc0fe6d8e1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: MCP OAuth re-authentication no longer fails with an address-in-use error…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-02-active-sessions-shows-sessions-known-through-session-management-including-chatgp|Active
-  sessions shows sessions known through session management, including ChatGPT…]]'
 - '[[Changes/ChatGPT/2026-06-02-log-out-of-individual-sessions-or-all-sessions-from-active-sessions|Log
   out of individual sessions or all sessions from Active sessions]]'
 - '[[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added
   a prompt before writing to shell startup files…]]'
+- '[[Changes/Google Antigravity/2026-06-02-enterprise-authentication-fix|Enterprise
+  Authentication Fix]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
 source_type: github_releases
 theme: account-access
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added a prompt before writing to shell startup files…]]
+- Earlier: 2026-06-02 · Google Antigravity · [[Changes/Google Antigravity/2026-06-02-enterprise-authentication-fix|Enterprise Authentication Fix]]
 - Later: 2026-06-06 · Windsurf · [[Changes/Windsurf/2026-06-06-increased-proxy-authentication-timeout|Increased proxy authentication timeout]]
 <!-- chronolog:end -->
 

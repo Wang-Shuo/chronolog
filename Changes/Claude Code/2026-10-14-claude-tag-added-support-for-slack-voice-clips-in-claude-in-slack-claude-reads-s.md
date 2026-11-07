@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cf28b3ac4fa6b7338ab1dca47ac718e446da5f5ee1ec7ac9c92c8ab4f82ea5c6
+machine_hash: bce8319527bbddac0ae66aee8fa97c90040616e58124a35d42e619fbbdb7575a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,9 +46,10 @@ record:
   title: '[Claude Tag] Added support for Slack voice clips in Claude in Slack'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-12-audio-effects|Audio effects]]'
 - '[[Changes/ElevenLabs/2026-10-12-voices-e71bd5|Voices]]'
 - '[[Changes/ElevenLabs/2026-10-12-speech-to-text-f7d11e|Speech to Text]]'
+- '[[Changes/OpenClaw/2026-10-12-dictation-holding-the-microphone-and-releasing-it-no-longer-stops-recording-prem|Dictation.
+  Holding the microphone and releasing it no longer stops recording prematurely]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: voice
@@ -88,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-12 · ElevenLabs · [[Changes/ElevenLabs/2026-10-12-speech-to-text-f7d11e|Speech to Text]]
+- Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-dictation-holding-the-microphone-and-releasing-it-no-longer-stops-recording-prem|Dictation. Holding the microphone and releasing it no longer stops recording prematurely]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-voice-on-android-chrome-voice-calls-and-dictation-on-android-chrome-no-longer-go|📱 Voice on Android Chrome. Voice calls and dictation on Android Chrome no longer…]]
 <!-- chronolog:end -->
 

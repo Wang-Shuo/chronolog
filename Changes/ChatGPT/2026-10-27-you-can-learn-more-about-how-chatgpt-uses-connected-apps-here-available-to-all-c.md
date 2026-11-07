@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 827863084f707bf491a2473d7ce9fa5e0ee8d35d9f091f0dc559124e0346e297
+machine_hash: e9cd27dabec8f589fac8121d04fd0b3c4e09b7ef2bab83d2154bbc633edc5f65
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co|On macOS, banners at the top of the window no longer interfere with the window controls]]
-- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
+- Later: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-you-can-now-reopen-side-panel-tabs-you-closed-at-their-previous-position-and-scr|Reopen side panel tabs you closed, at their previous position and scroll point…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

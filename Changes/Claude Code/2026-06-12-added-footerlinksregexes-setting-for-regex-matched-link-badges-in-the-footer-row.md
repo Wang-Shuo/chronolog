@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 97e176b484520835f230c187a7bdd5f57c3227b2cbfb9f22820f5be34b09ee41
+machine_hash: f487fb9a48fd9482eb17ad1a74c1e46870d359b68c68bb919b6cf73acf89e42a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,11 @@ record:
     row…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]'
-- '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re
-  updating the model picker to make it easier to choose the balance of speed…]]'
+- '[[Changes/OpenCode/2026-06-10-core-references-can-include-usage-descriptions-for-agents-show-up-in-the-new-doc|Core
+  References can include usage descriptions for agents, show up in the new docs…]]'
 - '[[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/Google Antigravity/2026-06-11-2-interface-experience-changes-in-hub-v2-1-4-quota-screen-redesign|2
+  Interface Experience changes in HUB v2.1.4 — Quota Screen Redesign…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6|claude-code-2026-06-12-v2-1-176-github-338777362-91e3deb6]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-10 · Windsurf · [[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]
+- Earlier: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-2-interface-experience-changes-in-hub-v2-1-4-quota-screen-redesign|2 Interface Experience changes in HUB v2.1.4 — Quota Screen Redesign…]]
 - Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]
 <!-- chronolog:end -->
 

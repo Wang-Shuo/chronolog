@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eedf3c81fca0e8b3fa9b13d8ada3c4fa735a267865c7d97d45ec6dc6accfc316
+machine_hash: abda8efe31cfecff084568dff0aba43e03b80ea13a86bc15f1b258bed9d9d9f7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Account and Access changes in rust-v0.160.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-30-if-a-new-task-fails-cline-sign-in-signing-in-and-submitting-a-revised-prompt-now|If
-  a new task fails Cline sign-in, signing in and submitting a revised prompt now…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-mcp-oauth-sign-in-to-servers-such-as-datadog-reuses-a-still-valid-cached-token|MCP
   OAuth sign-in to servers such as Datadog reuses a still-valid cached token]]'
+- '[[Changes/OpenClaw/2026-09-30-13-account-and-access-changes-in-v2026-9-7|13 Account
+  and Access changes in v2026.9.7]]'
 - '[[Changes/Claude Code/2026-10-01-added-url-prompts-from-mcp-servers-on-the-2025-11-25-protocol-for-example-to-sig|Added
   URL prompts from MCP servers on the 2025-11-25 protocol, for example to sign in]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'

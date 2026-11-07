@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 63021aa42aa20bdc42a734e31c2b902cf881e9be8fcd57bccbaef8c37d7437c2
+machine_hash: 68a83437d65df894d6ec07648ef2a8f9160f620910f0af98e922e9be6ffc3378
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -60,8 +60,8 @@ record:
   title: Workspaces
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-require-session-limits-to-be-at-least-30-ai-credits|Require
-  session limits to be at least 30 AI credits]]'
+- '[[Changes/OpenCode/2026-06-30-sdk-add-a-live-event-subscription-stream|SDK Add
+  a live event subscription stream]]'
 - '[[Changes/Replit/2026-07-03-downgrade-from-pro-to-core-in-one-step|Downgrade from
   Pro to Core in one step]]'
 - '[[Changes/Replit/2026-07-03-billing|Billing]]'

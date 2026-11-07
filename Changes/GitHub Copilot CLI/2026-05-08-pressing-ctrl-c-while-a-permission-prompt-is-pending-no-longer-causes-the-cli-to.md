@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e4b181e71fa357b903c337655712015f93fcd9574e59aa545887227182ad567
+machine_hash: f9ad3084304f0c1cbf93e8742581df5191d38b63c50c8a0cf0b0e965c72920b1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     CLI to hang
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-11-safety-and-privacy-changes-in-rust-v0-129-0|11
-  Safety and Privacy changes in rust-v0.129.0]]'
+- '[[Changes/OpenCode/2026-05-07-desktop-allow-trusted-app-windows-to-write-to-the-clipboard-without-permission-f|Desktop
+  Allow trusted app windows to write to the clipboard without permission failures]]'
 - '[[Changes/Claude Code/2026-05-08-2-safety-and-privacy-changes-in-v2-1-136|2 Safety
   and Privacy changes in v2.1.136]]'
 - '[[Changes/Codex CLI/2026-05-08-2-safety-and-privacy-changes-in-rust-v0-130-0|2

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 95aaccf010f06da7ffb56758e9a6e4a1760f298d8e162d0595208a64ef2c44aa
+machine_hash: 3c554d7b282bb4776426d823126be5561e8e2fc7748dc3e8eff88fb4e2e0af86
 product: lovable
 product_name: Lovable
 record:
@@ -57,10 +57,10 @@ record:
   title: Emails and confirmations for workspace role and membership changes
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-09-enterprise-member-profiles-are-now-private-by-default|Enterprise
-  member profiles are now private by default]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running
   sessions refresh enterprise managed settings hourly]]'
+- '[[Changes/OpenClaw/2026-07-13-4-enterprise-and-administration-changes-in-v2026-7-1|4
+  Enterprise and Administration changes in v2026.7.1]]'
 - '[[Changes/Claude/2026-07-14-hipaa-configuration-for-your-claude-organizations-is-now-self-serve|HIPAA
   configuration for your Claude organizations is now self-serve]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-14-2026-07-14-0c63f428|lovable-2026-07-14-2026-07-14-0c63f428]]'

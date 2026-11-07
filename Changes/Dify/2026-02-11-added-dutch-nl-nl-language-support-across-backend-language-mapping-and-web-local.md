@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8a8a9c2dd5d89db2f7c143db8c51d1f8c19a3c62f6ba9d5323b9a00d1bfbc5ae
+machine_hash: 739059213d6d45585530ecfb0184bc7acf175f4cd0577eed4db046ffe3016c3f
 product: dify
 product_name: Dify
 record:
@@ -46,12 +46,12 @@ record:
     web…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-28-added-support-for-full-width-zenkaku-number-input-from-japanese-ime-in-option-se|Added
-  support for full-width (zenkaku) number input from Japanese IME in option…]]'
-- '[[Changes/Dify/2026-02-03-chore-improve-accessibility-for-learn-more-link-by-khmandarrin-in-https-github-c|chore:
-  improve accessibility for learn more link]]'
+- '[[Changes/OpenCode/2026-02-03-desktop-use-static-language-names-in-thai-localization|Desktop
+  Use static language names in Thai localization]]'
 - '[[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added
   support for full-width (zenkaku) space input from Japanese IME in checkbox selection]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-always-show-project-menu-button-on-mobile-for-accessibility|Desktop
+  Always show project menu button on mobile for accessibility]]'
 source_release: '[[Releases/Dify/dify-2026-02-11-1-13-0-github-285073967-47691626|dify-2026-02-11-1-13-0-github-285073967-47691626]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added support for full-width (zenkaku) space input from Japanese IME in checkbox selection]]
+- Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-desktop-always-show-project-menu-button-on-mobile-for-accessibility|Desktop Always show project menu button on mobile for accessibility]]
 - Later: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-theme-preview-appears-above-theme-list-in-screen-reader-mode|Theme preview appears above theme list in screen reader mode]]
 <!-- chronolog:end -->
 

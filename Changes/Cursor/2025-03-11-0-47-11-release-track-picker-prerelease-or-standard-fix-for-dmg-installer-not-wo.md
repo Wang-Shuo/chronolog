@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67ad7700eac9721d9aa1a42e12bace9c307fcedf45c2754561da64b55888c84f
+machine_hash: 03a9db67d6464cf094b40388bdb60e1797dfd807f2fc1b5004399d88af9fde93
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
     not…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|\U0001F30D
-  Translation Updates]]"
+- '[[Changes/Gamma/2025-03-05-making-edits-just-got-easier-you-can-now-right-click-on-any-inline-or-accent-ima|Making
+  edits just got easier!]]'
 - '[[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Cursor/2025-03-11-keyboard-shortcuts-all-keyboard-shortcuts-are-now-available-in-the-keyboard-shor|Keyboard
   Shortcuts: All keyboard shortcuts are now available in the Keyboard…]]'

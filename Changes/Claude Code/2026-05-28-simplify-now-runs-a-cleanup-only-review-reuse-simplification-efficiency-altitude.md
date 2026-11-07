@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 125bea0316e94dbe36add14d55e8990e90e9a3bda48deb1c9b59b0f1397e8f7f
+machine_hash: aa27142274bbe17c37f19ff02a08b6411b2e045ec1c45a431e8addc5916a7beb
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: '`/simplify` now runs a cleanup-only review…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-2-developer-workflow-changes-in-v2-1-152|2 Developer
-  Workflow changes in v2.1.152]]'
 - '[[Changes/Claude Code/2026-05-27-added-reload-skills-command-to-re-scan-skill-directories-without-restarting-the|Added
   /reload-skills command to re-scan skill directories without restarting the session]]'
 - '[[Changes/Gemini CLI/2026-05-27-feat-core-expose-rag-snippets-to-local-log-file-for-debugging-by-spencer426-in-h|feat(core):
   expose RAG snippets to local log file for debugging]]'
+- '[[Changes/OpenCode/2026-05-27-3-developer-workflow-changes-in-v1-15-11|3 Developer
+  Workflow changes in v1.15.11]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-feat-core-expose-rag-snippets-to-local-log-file-for-debugging-by-spencer426-in-h|feat(core): expose RAG snippets to local log file for debugging]]
+- Earlier: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-3-developer-workflow-changes-in-v1-15-11|3 Developer Workflow changes in v1.15.11]]
 - Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|Status line commands now receive COLUMNS and LINES environment variables…]]
 <!-- chronolog:end -->
 

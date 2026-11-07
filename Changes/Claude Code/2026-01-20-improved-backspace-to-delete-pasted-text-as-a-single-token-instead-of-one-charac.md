@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8445ee6cfde41b41c8477f396255174ba945a40c0787e9cb031859c9bee957da
+machine_hash: b38ad410d4a8f60f80792a647cde81f52ef8d1cf8488f1ad80d2596a5efbbfcb
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     character…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-01-16-lovable-now-offers-a-more-native-mobile-experience-across-the-app-with-sheets-re|Lovable
-  now offers a more native mobile experience across the app, with sheets…]]'
 - '[[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding
   a status indicator above the chat until the conversation is ready]]'
 - '[[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added
   searchable version selector for easier navigation]]'
+- '[[Changes/OpenCode/2026-01-19-2-interface-experience-changes-in-v1-1-26|2 Interface
+  Experience changes in v1.1.26]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-16 · v0 · [[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added searchable version selector for easier navigation]]
-- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3 Interface Experience changes in rust-v0.88.0]]
+- Earlier: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-2-interface-experience-changes-in-v1-1-26|2 Interface Experience changes in v1.1.26]]
+- Later: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-3-interface-experience-changes-in-v1-1-28|3 Interface Experience changes in v1.1.28]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

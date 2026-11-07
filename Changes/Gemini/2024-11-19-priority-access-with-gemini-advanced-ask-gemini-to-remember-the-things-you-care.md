@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 18d0e81c7ef2bf8ba3efec9c5df169bf4cc9951419e91cbe94ce850b0df8d42d
+machine_hash: 619c4cba3682658681ec6b54b4b9d1621ad4828f61a54e16472b6f3dff9710df
 product: gemini
 product_name: Gemini
 record:
@@ -71,12 +71,12 @@ record:
   title: Priority access with Gemini Advanced
   type: change
 related_changes:
-- '[[Changes/Aider/2024-10-22-2-editor-experience-changes-in-v0-60-0|2 Editor Experience
-  changes in v0.60.0]]'
 - '[[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run
   aider --apply-clipboard-edits file-to-edit.js]]'
 - '[[Changes/Dify/2024-11-05-chore-update-type-definition-to-resolve-lint-error-in-base-usage-at-text-editor|chore:
   update type definition to resolve lint error in Base usage at text-editor.tsx]]'
+- '[[Changes/Midjourney/2024-11-07-we-re-doing-a-community-contest-for-images-made-with-the-new-editor-please-share|Editor
+  Showcase]]'
 source_release: '[[Releases/Gemini/gemini-2024-11-19-2024-11-19-4886b34b|gemini-2024-11-19-2024-11-19-4886b34b]]'
 source_type: gemini_changelog
 theme: editor-experience
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-11-05 · Dify · [[Changes/Dify/2024-11-05-chore-update-type-definition-to-resolve-lint-error-in-base-usage-at-text-editor|chore: update type definition to resolve lint error in Base usage at text-editor.tsx]]
+- Earlier: 2024-11-07 · Midjourney · [[Changes/Midjourney/2024-11-07-we-re-doing-a-community-contest-for-images-made-with-the-new-editor-please-share|Editor Showcase]]
 - Later: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-auto-selected-tools-in-model-editor-tools-enabled-through-the-model-editor-are-n|🔧 Auto-Selected Tools in Model Editor]]
 <!-- chronolog:end -->
 

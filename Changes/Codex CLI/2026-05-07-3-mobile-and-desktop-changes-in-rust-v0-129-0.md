@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d5c43f9b36e8389e492fc1c221616b984d4a1dcf2d861982c4ae33f8d9a27a7
+machine_hash: 687e71790d9fa3537981c437c5a1f070db5a38ee16439ac52319cc6cda68e590
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Mobile and Desktop changes in rust-v0.129.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-05-package-extraction-no-longer-crashes-on-windows-when-antivirus-or-filesystem-loc|Package
-  extraction no longer crashes on Windows when antivirus or filesystem locks…]]'
+- '[[Changes/OpenCode/2026-05-05-5-mobile-and-desktop-changes-in-v1-14-39-3|5 Mobile
+  and Desktop changes in v1.14.39 + 3]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-06-cli-updates-on-windows-no-longer-fail-with-enoent-when-a-transient-eperm-occurs|CLI
   updates on Windows no longer fail with ENOENT when a transient EPERM occurs…]]'
 - '[[Changes/Windsurf/2026-05-06-windows-updates|Windows updates]]'

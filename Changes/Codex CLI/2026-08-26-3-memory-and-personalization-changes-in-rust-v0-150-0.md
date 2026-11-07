@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2858b90d096d9cb4a9dd60c02902a09ea1f73585dffe8ca6846b2d7257c34e0
+machine_hash: 70ea2b588533801f331ce7ff285345ced0116559ff9802484399d611fef2866c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,7 @@ record:
   title: 3 Memory and Personalization changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-2-memory-and-personalization-changes-in-rust-v0-149-0|2
-  Memory and Personalization changes in rust-v0.149.0]]'
+- '[[Changes/Midjourney/2026-08-21-settings|Settings]]'
 - '[[Changes/Claude/2026-08-25-memory-in-claude-cowork-editable-topics-and-a-sensitive-topics-setting|Memory
   in Claude Cowork, editable topics, and a sensitive topics setting]]'
 - '[[Changes/Open WebUI/2026-08-25-8-memory-and-personalization-changes-in-v0-11-1|8

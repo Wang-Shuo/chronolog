@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de8201f227eb20447560046807fcfdc504410bc44ad31dc91e09fc87a03682c0
+machine_hash: 18351007aad735d9d5eccee6ead3087c6bbfbbadd9bd8e9f413639ca73383f2d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,11 +41,12 @@ record:
   title: '#16114 Remove TUI voice transcription feature @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-23-speech-to-text|Speech to Text]]'
 - '[[Changes/Claude Code/2026-03-26-slash-commands-unavailable-for-the-current-auth-setup-voice-mobile-chrome-upgrad|Slash
   commands unavailable for the current auth setup…]]'
 - '[[Changes/Codex CLI/2026-03-26-15579-increase-voice-space-hold-timeout-to-1s-aibrahim-oai|♯15579
   Increase voice space hold timeout to 1s @aibrahim-oai]]'
+- '[[Changes/Suno/2026-03-26-voices-record-or-upload-your-own-audio-and-suno-will-let-you-sing-on-your-creati|Voices
+  Record or upload your own audio and Suno will let you sing on your creations]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'
 source_type: github_releases
 theme: voice
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15579-increase-voice-space-hold-timeout-to-1s-aibrahim-oai|♯15579 Increase voice space hold timeout to 1s @aibrahim-oai]]
+- Earlier: 2026-03-26 · Suno · [[Changes/Suno/2026-03-26-voices-record-or-upload-your-own-audio-and-suno-will-let-you-sing-on-your-creati|Voices Record or upload your own audio and Suno will let you sing on your creations]]
 - Later: 2026-04-01 · ElevenLabs · [[Changes/ElevenLabs/2026-04-01-speech-to-text|Speech to Text]]
 <!-- chronolog:end -->
 

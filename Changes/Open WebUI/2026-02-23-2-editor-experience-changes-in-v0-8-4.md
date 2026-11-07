@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32abc1bcd70d403c2a6a0c411714676e264594e7e149b5bac893fe5726905342
+machine_hash: ddd44b791dae3be773977e31514759a471530c3642c5465d1ba5ed5d066f2a94
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,10 +50,10 @@ record:
   title: 2 Editor Experience changes in v0.8.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-simple-mode-claude-code-simple-now-includes-the-file-edit-tool-in-addition-to-th|Simple
-  mode (CLAUDE_CODE_SIMPLE) now includes the file edit tool in addition…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-3-editor-experience-changes-in-v0-0-412|3
   Editor Experience changes in v0.0.412]]'
+- '[[Changes/OpenCode/2026-02-19-2-editor-experience-changes-in-v1-2-7|2 Editor Experience
+  changes in v1.2.7]]'
 - '[[Changes/Lovable/2026-02-23-the-plan-mode-https-docs-lovable-dev-features-plan-mode-md-editor-now-uses-a-ren|The
   Plan mode((source link) editor now uses…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-23-v0-8-4-github-289302856-177fc54c|open-webui-2026-02-23-v0-8-4-github-289302856-177fc54c]]'

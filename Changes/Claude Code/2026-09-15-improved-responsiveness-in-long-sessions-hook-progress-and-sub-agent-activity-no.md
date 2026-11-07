@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f4c13333a826bb70331f498bc5f619806939772ed9e79b2d49f2d2ab775c0a60
+machine_hash: e10a735bbcafcc298f0367594c9465c724a4d043152d0f92ee264b46a501133f
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,8 +55,8 @@ record:
   title: Improved responsiveness in long sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-improved-responsiveness-in-long-sessions-transcript-updates-no-longer-re-process|Improved
-  responsiveness in long sessions]]'
+- '[[Changes/OpenClaw/2026-09-11-2-reliability-and-performance-changes-in-v2026-9-4|2
+  Reliability and Performance changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-improved-terminal-rendering-performance-large-diffs-and-long-transcripts-render|Improved
   terminal rendering performance]]'
 - '[[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-14 · Ollama · [[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2 Reliability and Performance changes in v0.34.1]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-speed-up-startup-when-resuming-an-existing-local-session-by-its-exact-uuid-with|Speed up startup when resuming an existing local session by its exact UUID with --resume]]
+- Later: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-removed-a-redundant-scan-of-your-skills-rules-and-other-customization-files-that|Removed a redundant scan of your skills, rules, and other customization files…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

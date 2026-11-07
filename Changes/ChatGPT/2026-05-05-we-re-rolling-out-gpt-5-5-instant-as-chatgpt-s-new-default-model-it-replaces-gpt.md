@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3ce820e5c653253f6f7797a30aa92db599c4a76e60452235d12c51ab805869f0
+machine_hash: 6afc7ea13fca09f96dea44ba5c14383b4ede81bd9ed66056cfe98f56de4254d7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,11 +79,11 @@ record:
   title: GPT-5.5 Instant in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-03-the-ollama-app-now-surfaces-featured-models-from-server-driven-recommendations|The
-  Ollama app now surfaces featured models from server-driven recommendations]]'
 - '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated
   /model picker]]'
 - '[[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]]'
+- '[[Changes/OpenCode/2026-05-04-core-fix-azure-anthropic-model-resolution-when-using-the-anthropic-sdk|Core
+  Fix Azure Anthropic model resolution when using the Anthropic SDK]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-05-gpt-5-5-instant-in-chatgpt-6a2694d3|chatgpt-2026-05-05-gpt-5-5-instant-in-chatgpt-6a2694d3]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]]
+- Earlier: 2026-05-04 · OpenCode · [[Changes/OpenCode/2026-05-04-core-fix-azure-anthropic-model-resolution-when-using-the-anthropic-sdk|Core Fix Azure Anthropic model resolution when using the Anthropic SDK]]
 - Later: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-3-model-support-changes-in-v0-41-0|3 Model Support changes in v0.41.0]]
 <!-- chronolog:end -->
 

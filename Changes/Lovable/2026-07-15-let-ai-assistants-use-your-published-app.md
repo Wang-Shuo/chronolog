@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 452a4fa7ff2c5f8708ea87c93724dca54dc8bdba029a7c273219bd3fb4fae5d4
+machine_hash: 28626ad43c59c40caba35ad17d014e84473b1f43f3cf0229876153aabbcd9272
 product: lovable
 product_name: Lovable
 record:
@@ -110,7 +110,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-2-agent-mode-changes-in-v2-1-211|2 Agent Mode changes in v2.1.211]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent Mode changes in v1.0.71]]
+- Later: 2026-07-15 · OpenCode · [[Changes/OpenCode/2026-07-15-core-stopped-subagents-from-launching-nested-subagents-by-default-with-a-configu|Core Stopped subagents from launching nested subagents by default…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

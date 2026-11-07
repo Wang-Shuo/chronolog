@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f26602ac5a062debc50a17c069d6a65187d61e6d17f151c8ea366a3e8209e145
+machine_hash: 47b56e3a6cdc565e6f321ce5f3c91b14bb9bf39201850e3740da4e8be747287d
 product: cursor
 product_name: Cursor
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-04-01 · Cursor · [[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long Context Chat (Beta)]]
-- Later: 2024-04-28 · Ollama · [[Changes/Ollama/2024-04-28-llama-3-gradient-1048k-https-ollama-com-library-llama3-gradient-a-llama-3-fine-t|Llama 3 Gradient 1048K((source link)]]
+- Later: 2024-04-27 · Midjourney · [[Changes/Midjourney/2024-04-27-some-high-level-plans-right-now-around-rooms-as-context|Some high level plans right now around rooms as context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

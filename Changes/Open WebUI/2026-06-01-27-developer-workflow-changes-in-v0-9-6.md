@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8af61d874ca1b7b1f01e1cc298ad9b6644d7de0538b0ca0742a5081eb6ce4dcd
+machine_hash: 2a07eb76ce3edd7140260c40826c46e61e061d79df4dff2e574b60cf14a522de
 product: open-webui
 product_name: Open WebUI
 record:
@@ -211,8 +211,8 @@ record:
   title: 27 Developer Workflow changes in v0.9.6
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-4-developer-workflow-changes-in-v1-0-56|4
-  Developer Workflow changes in v1.0.56]]'
+- '[[Changes/OpenCode/2026-05-30-terminal-wrapped-inline-tool-rows-now-stay-aligned-and-failed-inline-tools-can-e|Terminal
+  Wrapped inline tool rows now stay aligned, and failed inline tools can…]]'
 - '[[Changes/Codex CLI/2026-06-01-11-developer-workflow-changes-in-rust-v0-136-0|11
   Developer Workflow changes in rust-v0.136.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-lsp-show-lsp-test-and-lsp-reload-correctly-discover-project-lsp-config-when-the|/lsp

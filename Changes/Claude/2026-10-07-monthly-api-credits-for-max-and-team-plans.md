@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 548c362ab38ef6ca046999430c1c9b47758266fb7208428bd388d2cbe33176df
+machine_hash: 0c40bd3b91d2fc886c8f7d5b861fa8c51ae1398c3abdc63865b209a457a5c0e9
 product: claude
 product_name: Claude
 record:
@@ -48,8 +48,8 @@ record:
   title: Monthly API credits for Max and Team plans
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-2-collaboration-changes-in-rust-v0-159-0|2 Collaboration
-  changes in rust-v0.159.0]]'
+- '[[Changes/OpenClaw/2026-09-30-10-collaboration-changes-in-v2026-9-7|10 Collaboration
+  changes in v2026.9.7]]'
 - '[[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130
   Move content-filter guidance into the shared Responses retry handler @won-openai]]'
 - '[[Changes/v0/2026-10-06-personal-v0-accounts-are-now-team-workspaces-giving-everyone-access-to-v0-s-coll|Personal

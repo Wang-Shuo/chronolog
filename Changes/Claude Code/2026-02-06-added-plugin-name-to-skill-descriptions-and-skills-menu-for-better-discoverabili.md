@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c9a8240e7295ee55749c1c267a2ea7632ce150535570798ea7996bd5443bfe5
+machine_hash: a1cd3051a515f21d5aba6668713e2a10a92e8b3d3ee7e6d40485f5964f89d234
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: Added plugin name to skill descriptions and `/skills` menu for better discoverability
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-2-apps-and-integrations-changes-in-v0-0-404|2
-  Apps and Integrations changes in v0.0.404]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-05-2-apps-and-integrations-changes-in-v0-0-403|2
-  Apps and Integrations changes in v0.0.403]]'
-- '[[Changes/Lovable/2026-02-05-custom-mcp-servers-on-all-paid-plans|Custom MCP servers
-  on all paid plans]]'
+- '[[Changes/OpenCode/2026-02-05-6-apps-and-integrations-changes-in-v1-1-52|6 Apps
+  and Integrations changes in v1.1.52]]'
+- '[[Changes/OpenCode/2026-02-05-load-user-plugins-after-built-in-plugins|Load user
+  plugins after built-in plugins]]'
+- '[[Changes/OpenCode/2026-02-05-2-apps-and-integrations-changes-in-v1-1-53|2 Apps
+  and Integrations changes in v1.1.53]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-05 · Lovable · [[Changes/Lovable/2026-02-05-custom-mcp-servers-on-all-paid-plans|Custom MCP servers on all paid plans]]
+- Earlier: 2026-02-05 · OpenCode · [[Changes/OpenCode/2026-02-05-2-apps-and-integrations-changes-in-v1-1-53|2 Apps and Integrations changes in v1.1.53]]
 - Later: 2026-02-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-07-4-apps-and-integrations-changes-in-v0-0-406|4 Apps and Integrations changes in v0.0.406]]
 <!-- chronolog:end -->
 

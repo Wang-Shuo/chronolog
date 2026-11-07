@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ed31d3b57b72b474b3907282708a600f0d37fccc8f210eef20a64a979f5781a
+machine_hash: 5d3cb0d5f4d44abe9c009d10485dc761e3ea3e8b05e4304391f9fe825d8d7d4a
 product: aider
 product_name: Aider
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-05-10 · Aider · [[Changes/Aider/2024-05-10-refactored-prompting-to-unify-some-phrasing-across-edit-formats|Refactored prompting to unify some phrasing across edit formats]]
-- Later: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code 1.89 into Cursor]]
+- Later: 2024-05-24 · Midjourney · [[Changes/Midjourney/2024-05-24-how-does-it-work|How does it work?]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

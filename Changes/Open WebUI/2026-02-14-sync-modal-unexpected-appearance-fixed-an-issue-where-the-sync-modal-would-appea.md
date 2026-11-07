@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3eee7ead5ea479da156cb26777f58b5937b4677df8977c0123aee30c4c35ba06
+machine_hash: 2199e47a112e7b6e7d2d29898e3532d9649bf62dcb7b242bc3422aed9112aee5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,11 +47,11 @@ record:
     Sync Modal would…"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-12-2-collaboration-changes-in-v0-8-0|2 Collaboration
-  changes in v0.8.0]]'
 - '[[Changes/Windsurf/2026-02-12-enterprise-team-improvements|Enterprise & Team Improvements]]'
 - '[[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner
   “Select All” behavior (Cmd+A)]]'
+- '[[Changes/Midjourney/2026-02-14-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v8-with-you-soon|Thank
+  you so much for your help!]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77|open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77]]'
 source_type: github_releases
 theme: collaboration
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner “Select All” behavior (Cmd+A)]]
+- Earlier: 2026-02-14 · Midjourney · [[Changes/Midjourney/2026-02-14-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v8-with-you-soon|Thank you so much for your help!]]
 - Later: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-skills-sharing-permissions-administrators-can-now-control-skills-sharing-and-pub|🔐 Skills sharing permissions. Administrators can now control skills sharing…]]
 <!-- chronolog:end -->
 

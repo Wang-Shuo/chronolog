@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 50e70e360ce6ccb96efd19d6c207376fd76a63e8a3664d213ecc70a72d124787
+machine_hash: 9b55635886c681c5eb33996eb3c1ae0dbcc484828a4a1a19953f1f8465efb1d5
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-introducing-speech-engine|Introducing Speech Engine]]
+- Earlier: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-conversational-mode-has-been-improved-across-text-and-voice-input|Conversational mode has been improved across text and voice input]]
 - Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-voice-and-audio-changes-in-v0-9-6|4 Voice and Audio changes in v0.9.6]]
 <!-- chronolog:end -->
 

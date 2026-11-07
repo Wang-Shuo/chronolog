@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dc258c38a95facd1d75dc9e5b25259b45b6e2ffae603f7ba415f0b3a7babe779
+machine_hash: 0545546886c8d6ec3628ae60ad353dba78bb604662e96564a5cde8db361a7914
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,12 +57,12 @@ record:
     Server…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-app-server-tui-now-supports-device-code-chatgpt-sign-in-during-onboarding-and-ca|App-server
-  TUI now supports device-code ChatGPT sign-in during onboarding and can…]]'
-- '[[Changes/Claude Code/2026-03-20-updated-mcp-oauth-to-support-client-id-metadata-document-cimd-sep-991-for-server|Updated
-  MCP OAuth to support Client ID Metadata Document (CIMD / SEP-991)…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-login-device-flow-works-correctly-in-codespaces-and-remote-terminal-environments|/login
   device flow works correctly in Codespaces and remote terminal environments]]'
+- '[[Changes/OpenCode/2026-03-22-4-account-and-access-changes-in-v1-3-0|4 Account
+  and Access changes in v1.3.0]]'
+- '[[Changes/OpenCode/2026-03-22-removed-anthropic-oauth-plugin-see|Removed anthropic
+  oauth plugin, see]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619|github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619]]'
 source_type: github_releases
 theme: account-access
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-login-device-flow-works-correctly-in-codespaces-and-remote-terminal-environments|/login device flow works correctly in Codespaces and remote terminal environments]]
+- Earlier: 2026-03-22 · OpenCode · [[Changes/OpenCode/2026-03-22-removed-anthropic-oauth-plugin-see|Removed anthropic oauth plugin, see]]
 - Later: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-docs-core-add-authentication-guide-for-remote-subagents-by-adamfweidman-in-https|docs(core): add authentication guide for remote subagents]]
 <!-- chronolog:end -->
 

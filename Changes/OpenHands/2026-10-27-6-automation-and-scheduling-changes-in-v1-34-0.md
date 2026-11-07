@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c76a5332aba0b593eea9eb9971281003b9135aa7ce30991194a61f1ea3caf59c
+machine_hash: e2087bd6c6efc5a1af8defd316063a9dad9da1169f0cbbc9d41bdcf957e96a67
 product: openhands
 product_name: OpenHands
 record:
@@ -53,12 +53,12 @@ record:
   title: 6 Automation and Scheduling changes in v1.34.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-2-automation-and-scheduling-changes-in-v1-33-0|2
-  Automation and Scheduling changes in v1.33.0]]'
 - '[[Changes/ChatGPT/2026-10-27-icloud-users-can-now-connect-mail-and-calendar-to-chatgpt-to-find-emails-catch-u|iCloud
   users can now connect Mail and Calendar to ChatGPT to find emails, catch up…]]'
 - '[[Changes/Gemini CLI/2026-10-27-refactor-core-cli-emit-tool-call-groups-from-the-scheduler-and-drop-the-ui-looka|refactor(core,cli):
   emit tool call groups from the scheduler and drop the UI lookahead]]'
+- '[[Changes/OpenClaw/2026-10-27-4-automation-and-scheduling-changes-in-v2026-10-8|4
+  Automation and Scheduling changes in v2026.10.8]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892|openhands-2026-10-27-v1-34-0-github-425575573-3f638892]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -108,7 +108,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.34.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-27 · Gemini CLI · [[Changes/Gemini CLI/2026-10-27-refactor-core-cli-emit-tool-call-groups-from-the-scheduler-and-drop-the-ui-looka|refactor(core,cli): emit tool call groups from the scheduler and drop the UI lookahead]]
+- Earlier: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-4-automation-and-scheduling-changes-in-v2026-10-8|4 Automation and Scheduling changes in v2026.10.8]]
 - Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-automation-and-scheduling-changes-in-v0-12-5|2 Automation and Scheduling changes in v0.12.5]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f7b004265aa64adc7c2754940a7e42ba39cc46a31eb053a620936b780570317
+machine_hash: 51d31a8d899430e2f123ce247eadf30c000a80754e22ebf677b7ed1a1743f0c1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-12-04 · Ollama · [[Changes/Ollama/2024-12-04-2-reliability-and-performance-changes-in-v0-5-0|2 Reliability and Performance changes in v0.5.0]]
-- Later: 2024-12-09 · Dify · [[Changes/Dify/2024-12-09-improved-overall-code-quality-and-performance-by-removing-redundant-styles-in-co|Improved overall code quality and performance by removing redundant styles…]]
+- Later: 2024-12-07 · Runway · [[Changes/Runway/2024-12-07-control-handheld-shake-and-speed-in-your-generations-using-the-edit-video-featur|Handheld camera shake in Gen-3 Alpha and Gen-3 Alpha Turbo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

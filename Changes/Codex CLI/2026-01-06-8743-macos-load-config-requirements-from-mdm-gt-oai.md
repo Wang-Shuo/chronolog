@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 098b79968d3d270886e8804b0bcb7e8d91bc8baa6d49ee0171ebcfdf4f92e63e
+machine_hash: 6c62cb0f5cb7587f5a13a886b8abf4fe620f79cf111ebf30ba053068dd276c03
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,11 +41,12 @@ record:
   title: '#8743 (MacOS) Load config requirements from MDM @gt-oai'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-12-15-android-sdk|Android SDK]]'
-- '[[Changes/Codex CLI/2025-12-18-8084-chore-ci-drop-homebrew-origin-main-workaround-for-macos-runners|♯8084
-  chore(ci): drop Homebrew origin/main workaround for macOS runners]]'
-- '[[Changes/Codex CLI/2025-12-19-4-mobile-and-desktop-changes-in-rust-v0-76-0|4 Mobile
-  and Desktop changes in rust-v0.76.0]]'
+- '[[Changes/OpenCode/2026-01-04-13-mobile-and-desktop-changes-in-v1-1-1|13 Mobile
+  and Desktop changes in v1.1.1]]'
+- '[[Changes/OpenCode/2026-01-05-6-mobile-and-desktop-changes-in-v1-1-2|6 Mobile and
+  Desktop changes in v1.1.2]]'
+- '[[Changes/OpenCode/2026-01-05-6-mobile-and-desktop-changes-in-v1-1-3|6 Mobile and
+  Desktop changes in v1.1.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-12-19 · Codex CLI · [[Changes/Codex CLI/2025-12-19-4-mobile-and-desktop-changes-in-rust-v0-76-0|4 Mobile and Desktop changes in rust-v0.76.0]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added support for Windows Package Manager (winget) installations with automatic…]]
+- Earlier: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-6-mobile-and-desktop-changes-in-v1-1-3|6 Mobile and Desktop changes in v1.1.3]]
+- Later: 2026-01-06 · OpenCode · [[Changes/OpenCode/2026-01-06-3-mobile-and-desktop-changes-in-v1-1-4|3 Mobile and Desktop changes in v1.1.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

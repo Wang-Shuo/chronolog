@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0925b45b69c301f183dce2ec6ac59c2632e7755eff23f6a7b39216ef854645f
+machine_hash: 202d0390983314e746aa8f0cf5fc81dc2a5c0eb726e2c6b0b19a5814625cde26
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#49073 Surface realtime voice catalog failures in the TUI @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-48824-keep-voice-rtp-timestamps-aligned-to-20-ms-packets-bc-openai|♯48824
-  Keep voice RTP timestamps aligned to 20 ms packets @bc-openai]]'
 - '[[Changes/Gemini/2026-09-30-let-skills-in-gemini-tackle-your-most-repetitive-tasks|Let
   skills in Gemini tackle your most repetitive tasks]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding
   Space and Ctrl+X V explain when voice mode is off or still getting ready]]'
+- '[[Changes/OpenClaw/2026-09-30-12-voice-and-audio-changes-in-v2026-9-7|12 Voice
+  and Audio changes in v2026.9.7]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'
 source_type: github_releases
 theme: voice
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding Space and Ctrl+X V explain when voice mode is off or still getting ready]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-12-voice-and-audio-changes-in-v2026-9-7|12 Voice and Audio changes in v2026.9.7]]
 - Later: 2026-10-01 · Lovable · [[Changes/Lovable/2026-10-01-add-live-voice-conversations-to-your-app-with-gpt-live|Add live voice conversations to your app with GPT Live]]
 <!-- chronolog:end -->
 

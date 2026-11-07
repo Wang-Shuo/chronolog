@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 432054d43fa9251e23b3eb5de1415d51696b5a070ff6d2ad69ccb1f6ea00ec02
+machine_hash: 04acf01633230ee98af40a0a8c0885909943c3b621459329f4c43c955894bdd0
 product: replit
 product_name: Replit
 record:
@@ -48,12 +48,12 @@ record:
   title: Background memory compression
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-17-faster-model-filtering-model-access-control-filtering-no-longer-makes-a-redundan|⚡
-  Faster model filtering. Model access control filtering no longer makes…]]'
-- '[[Changes/Gemini CLI/2026-02-18-2-memory-and-personalization-changes-in-v0-29-0|2
-  Memory and Personalization changes in v0.29.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-2-memory-and-personalization-changes-in-v0-0-412|2
   Memory and Personalization changes in v0.0.412]]'
+- '[[Changes/OpenCode/2026-02-19-core-make-read-tool-more-memory-efficient|Core Make
+  read tool more memory efficient]]'
+- '[[Changes/Midjourney/2026-02-20-we-re-now-in-the-final-round-of-the-v8-image-rating-party|We''re
+  now in the FINAL ROUND of the V8 image rating party]]'
 source_release: '[[Releases/Replit/replit-2026-02-20-2026-02-20-4b4b553e|replit-2026-02-20-2026-02-20-4b4b553e]]'
 source_type: replit_changelog
 theme: memory
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-2-memory-and-personalization-changes-in-v0-0-412|2 Memory and Personalization changes in v0.0.412]]
+- Earlier: 2026-02-20 · Midjourney · [[Changes/Midjourney/2026-02-20-we-re-now-in-the-final-round-of-the-v8-image-rating-party|We're now in the FINAL ROUND of the V8 image rating party]]
 - Later: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-2-memory-and-personalization-changes-in-v0-8-4|2 Memory and Personalization changes in v0.8.4]]
 <!-- chronolog:end -->
 

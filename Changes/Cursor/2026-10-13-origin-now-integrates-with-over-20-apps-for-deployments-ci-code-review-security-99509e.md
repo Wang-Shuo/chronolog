@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b28c4012c9f336590e5391f294a3255dbe378948f0061d34d6c98987d1ff263
+machine_hash: de7645e88e0bbd539cd5ffd37b619871496edab930156fd82af043ab530f91cf
 product: cursor
 product_name: Cursor
 record:
@@ -58,10 +58,10 @@ record:
     security…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-12-3-safety-and-privacy-changes-in-v1-0-96|3
-  Safety and Privacy changes in v1.0.96]]'
 - '[[Changes/Ollama/2026-10-12-updated-readme-and-documentation-with-clearer-privacy-and-cloud-services-wording|Updated
   README and documentation with clearer privacy and cloud-services wording]]'
+- '[[Changes/OpenClaw/2026-10-12-plugin-approval-waits-affected-plugin-tools-can-wait-for-your-approval-for-the-e|Plugin
+  approval waits]]'
 - '[[Changes/OpenHands/2026-10-12-fix-telemetry-retry-automation-consent-sync-by-enyst-in-https-github-com-openhan|fix(telemetry):
   retry automation consent sync]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c]]'

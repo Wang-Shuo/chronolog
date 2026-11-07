@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f78fcabd9591129cf2960128aa5a81cedd954904c378fdb9a4f2fa4b1cc2b592
+machine_hash: 79f880011218b60021c7911afb56c3710a638261e94bb147d661b02a20e358bb
 product: cline
 product_name: Cline
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-2-interface-experience-changes-in-v0-1-15|2 Interface Experience changes in v0.1.15]]
-- Later: 2025-08-01 · Replit · [[Changes/Replit/2025-08-01-visual-editor-color-picker-improvement|Visual editor color picker improvement]]
+- Later: 2025-07-31 · Gamma · [[Changes/Gamma/2025-07-31-style-your-visuals|Style Your Visuals 🖌️]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

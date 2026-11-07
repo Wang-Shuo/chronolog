@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ecd4e98448baf1754017977c395c8ccbc3183611cfe792590aa06f84c3251c99
+machine_hash: 10c4fa3dded1ffa8af0cc39e8bff2625f0ee17c057282849991ce53b9b16f8a3
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Disable the MCP "Restart Server" button when a server is toggled off
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-18-chat-with-lovable-in-telegram|Chat with Lovable in
-  Telegram]]'
+- '[[Changes/OpenCode/2026-05-18-core-fix-plugin-tools-using-ask-so-tool-calls-complete-correctly|Core
+  Fix plugin tools using ask so tool calls complete correctly]]'
 - '[[Changes/Claude Code/2026-05-19-plugin-discover-and-browse-screens-now-show-a-plugin-s-commands-agents-skills-ho|/plugin
   Discover and Browse screens now show a plugin''s commands, agents, skills…]]'
 - '[[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3

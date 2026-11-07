@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 165fd54bc89c7990539aa478de8839c98530092d0ebd23e0e20a829f739ce041
+machine_hash: 9499119d2c222d076f71cc94a2ac03eb65bb0340f8e1fc83f9b40a83e688afe5
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Memory and Personalization changes in 0.6.11
   type: change
 related_changes:
-- '[[Changes/Dify/2024-04-25-you-can-now-enable-memory-in-the-llm-node-within-your-chatflow-and-customize-the|Enable
-  memory in the LLM node within your chatflow, and customize the query prompt…]]'
-- '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory
-  is now available to Plus users]]'
-- "[[Changes/Open WebUI/2024-05-19-experimental-memory-feature-manually-input-personal-information-you-want-llms-to|\U0001F9E0
-  Experimental Memory Feature]]"
+- '[[Changes/Midjourney/2024-06-12-please-note|PLEASE NOTE]]'
+- '[[Changes/Midjourney/2024-06-12-how-do-i-use-model-personalization|How do I use
+  Model Personalization?]]'
+- '[[Changes/Midjourney/2024-06-12-we-re-releasing-an-early-test-version-of-model-personalization-today-here-s-how|We''re
+  releasing an early test version of model personalization today]]'
 source_release: '[[Releases/Dify/dify-2024-06-14-0-6-11-github-160555165-620e243a|dify-2024-06-14-0-6-11-github-160555165-620e243a]]'
 source_type: github_releases
 theme: memory
@@ -91,7 +90,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2024-05-19 · Open WebUI · [[Changes/Open WebUI/2024-05-19-experimental-memory-feature-manually-input-personal-information-you-want-llms-to|🧠 Experimental Memory Feature]]
+- Earlier: 2024-06-12 · Midjourney · [[Changes/Midjourney/2024-06-12-we-re-releasing-an-early-test-version-of-model-personalization-today-here-s-how|We're releasing an early test version of model personalization today]]
 - Later: 2024-06-17 · Open WebUI · [[Changes/Open WebUI/2024-06-17-editable-memories-adds-the-capability-to-modify-memories|🧠 Editable Memories: Adds the capability to modify memories]]
 <!-- chronolog:end -->
 

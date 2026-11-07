@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7984ee54814484494dfb9cf8217675214492e35935adcdb1d2925eca6be952c8
+machine_hash: b5a5e1bb1e0b0508c02f22168aff19c5bd1368ac9506ffd23751f48019893e0b
 product: dify
 product_name: Dify
 record:
@@ -46,7 +46,8 @@ record:
   title: 2 Interface Experience changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-20-redesigned-more-menu|Redesigned More menu]]'
+- '[[Changes/Google Antigravity/2026-10-22-you-can-now-manage-notification-preferences-toggle-completion-sounds-and-adjust|Manage
+  notification preferences, toggle completion sounds, and adjust agent sound…]]'
 - '[[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved
   a mod''s Image to draw inside tmux with allow-passthrough…]]'
 - '[[Changes/Codex CLI/2026-10-23-9-interface-experience-changes-in-rust-v0-164-0|9

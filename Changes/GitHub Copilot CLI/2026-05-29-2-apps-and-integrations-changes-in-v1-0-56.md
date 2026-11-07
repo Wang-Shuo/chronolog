@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe2aca3299712e5b31ac3d92f674d157afcb8014efd7edbefd752f0171463dc2
+machine_hash: 16cdb01b13895f7324e94adcd34c62fe2048b2a5cef9c9ff9db1e35826ff6a9b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Apps and Integrations changes in v1.0.56
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-10-apps-and-integrations-changes-in-v1-0-55|10
-  Apps and Integrations changes in v1.0.55]]'
-- '[[Changes/Lovable/2026-05-28-app-connectors-algolia-linkedin-and-microsoft-sharepoint|App
-  connectors: Algolia, LinkedIn, and Microsoft SharePoint]]'
+- '[[Changes/OpenCode/2026-05-28-acp-integrations-can-now-send-prompts-slash-commands-and-usage-updates-through-a|ACP
+  integrations can now send prompts, slash commands, and usage updates through acp-next]]'
 - '[[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4
   Apps and Integrations changes in v2.1.157]]'
+- '[[Changes/Gamma/2026-05-29-claude-and-chatgpt-connectors-just-got-smarter|Claude
+  and ChatGPT connectors just got smarter]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448|github-copilot-cli-2026-05-29-v1-0-56-github-331744068-421e2448]]'
 source_type: github_releases
 theme: apps-integrations
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.56
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4 Apps and Integrations changes in v2.1.157]]
+- Earlier: 2026-05-29 · Gamma · [[Changes/Gamma/2026-05-29-claude-and-chatgpt-connectors-just-got-smarter|Claude and ChatGPT connectors just got smarter]]
 - Later: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-integrations|Integrations]]
 <!-- chronolog:end -->
 

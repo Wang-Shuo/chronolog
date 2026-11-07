@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4da83a0bc6e4c753d3a0c1c1c257e222b934da43975a901fbd1d606f9b4fb370
+machine_hash: 4b1185a8eb8c569f23fd841834f1b94b796f8bfa3aee05deab76828958505e75
 product: replit
 product_name: Replit
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-31 · Lovable · [[Changes/Lovable/2026-07-31-lovable-mcp-updates|Lovable MCP updates]]
-- Later: 2026-08-03 · Cursor · [[Changes/Cursor/2026-08-03-cursor-can-now-read-write-and-act-across-your-google-workspace|Google Workspace Plugins]]
+- Later: 2026-08-01 · OpenCode · [[Changes/OpenCode/2026-08-01-stopped-mcp-sse-connections-from-getting-stuck-in-reconnect-loops-after-server-e|Stopped MCP SSE connections from getting stuck in reconnect loops after server error…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

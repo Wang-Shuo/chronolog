@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49db05b914450e539056069076c62740a46583786183e2761002a55fd407c5f4
+machine_hash: 48db8fa61ed7e6e9ea4ba44e6292cbae982e92a98eb4ba814cd1aa090be7b25b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,10 +61,9 @@ record:
   title: Advanced Voice for ChatGPT Web
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-30-2-mobile-and-desktop-changes-in-0-9-0|2 Mobile and Desktop
-  changes in 0.9.0]]'
-- "[[Changes/Open WebUI/2024-10-07-apple-touch-icon-support-optimizes-the-display-of-icons-for-web-bookmarks-on-app|\U0001F34F
-  Apple Touch Icon Support]]"
+- '[[Changes/Suno/2024-10-16-download-suno-on-ios|Download Suno on iOS]]'
+- '[[Changes/Suno/2024-11-07-the-wait-is-almost-over-we-re-thrilled-to-announce-that-suno-is-coming-to-androi|Suno
+  on Android is finally open to pre-registration!]]'
 - '[[Changes/Gemini/2024-11-14-try-the-new-gemini-app-on-your-iphone|Try the new Gemini
   app on your iPhone]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264|chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264]]'

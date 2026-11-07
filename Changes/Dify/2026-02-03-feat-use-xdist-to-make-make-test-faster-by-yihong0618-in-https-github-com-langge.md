@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1cbcc7c02b159e69acb73185c05f94407ae9307dc38429153129a8c5bb3569ce
+machine_hash: 097c6ad8add0d78130894cec88318872a43ab9d6a15ca8aa1ef51769631e8fdf
 product: dify
 product_name: Dify
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved memory usage for --resume (68% reduction for users with many sessions)…]]
-- Later: 2026-02-05 · Windsurf · [[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
+- Later: 2026-02-03 · Google Antigravity · [[Changes/Google Antigravity/2026-02-03-2-reliability-and-performance-changes-in-ide-v1-16-5-bug-fixes|2 Reliability and Performance changes in IDE v1.16.5 — Bug Fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

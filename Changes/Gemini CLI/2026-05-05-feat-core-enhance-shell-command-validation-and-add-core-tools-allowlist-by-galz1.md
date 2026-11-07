@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55f68748b77529571907fd419c858e077ec4ba70969a8060aabe932a7774118b
+machine_hash: 4fa7b4f4f1fa02c2b28fe0934fa89cf7ee1c49bed9a6ac04c1e113e0af50b19a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: 'feat(core): enhance shell command validation and add core tools allowlist'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-01-create-full-slide-decks-with-agent|Create full Slide
-  Decks with Agent]]'
 - '[[Changes/Replit/2026-05-01-agent|Agent]]'
 - '[[Changes/Claude Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a|Auto
   mode: when the classifier can''t evaluate an action, the error now includes…]]'
+- '[[Changes/OpenCode/2026-05-04-core-improve-shell-command-handling-for-bash-powershell-and-cmd-sessions|Core
+  Improve shell command handling for Bash, PowerShell, and cmd sessions]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6|gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a|Auto mode: when the classifier can't evaluate an action, the error now includes…]]
+- Earlier: 2026-05-04 · OpenCode · [[Changes/OpenCode/2026-05-04-core-improve-shell-command-handling-for-bash-powershell-and-cmd-sessions|Core Improve shell command handling for Bash, PowerShell, and cmd sessions]]
 - Later: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-add-experimental-mcp-tasks-support-mcp-tools-with-tasksupport-required-run-as-no|Add experimental MCP Tasks support]]
 <!-- chronolog:end -->
 

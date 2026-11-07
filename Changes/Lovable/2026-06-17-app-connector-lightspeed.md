@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3675fd0dad860efa05c786b17f514f50c3e002034ea32627707c54308ecebd0f
+machine_hash: 9d525fc45cb9140f11e9dfc1538a4e8bdad4fa80b02b90f77b0c853e4880a980
 product: lovable
 product_name: Lovable
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|Added /config key=value syntax to set any setting from the prompt…]]
-- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17 Apps and Integrations changes in rust-v0.141.0]]
+- Later: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-4-apps-and-integrations-changes-in-v1-17-8|4 Apps and Integrations changes in v1.17.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

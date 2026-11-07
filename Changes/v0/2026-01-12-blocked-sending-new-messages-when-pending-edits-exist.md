@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f5b8ea884d6dda9b9588ece79e9c34928dc2528cd8871a8537897fac92a6ce9a
+machine_hash: 0ae23318fa1de7d95a50f82550528ea04b6bde5e0f8acb920eb1621207df1ed8
 product: v0
 product_name: v0
 record:
@@ -45,12 +45,12 @@ record:
   title: Blocked sending new messages when pending edits exist
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-8939-chore-move-app-server-tests-from-chat-completion-to-responses-celia-oai|♯8939
-  chore move app server tests from chat completion to responses @celia-oai]]'
 - '[[Changes/Open WebUI/2026-01-09-3-editor-experience-changes-in-v0-7-0|3 Editor
   Experience changes in v0.7.0]]'
 - '[[Changes/Open WebUI/2026-01-10-2-editor-experience-changes-in-v0-7-2|2 Editor
   Experience changes in v0.7.2]]'
+- '[[Changes/OpenCode/2026-01-11-desktop-make-mouse-hover-and-click-work-on-prompt-input-autocomplete|Desktop
+  Make mouse hover and click work on prompt input autocomplete]]'
 source_release: '[[Releases/v0/v0-2026-01-12-2026-01-12-102f5bca|v0-2026-01-12-2026-01-12-102f5bca]]'
 source_type: v0_changelog
 theme: editor-experience
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-10 · Open WebUI · [[Changes/Open WebUI/2026-01-10-2-editor-experience-changes-in-v0-7-2|2 Editor Experience changes in v0.7.2]]
+- Earlier: 2026-01-11 · OpenCode · [[Changes/OpenCode/2026-01-11-desktop-make-mouse-hover-and-click-work-on-prompt-input-autocomplete|Desktop Make mouse hover and click work on prompt input autocomplete]]
 - Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor Experience changes in v2.1.6]]
 <!-- chronolog:end -->
 

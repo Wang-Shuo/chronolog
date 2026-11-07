@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc3fdf7e67695c3009ae878d9990c202e21d71f1f751daf6e5982ab02ffd4055
+machine_hash: 0fc76176620a90773e957c5e766e842f9518a3a5db29e9bc541262b706c16a6a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: 2 Developer Workflow changes in v1.0.44
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|Cursor
-  introduces a new PR review experience, faster execution on plans through…]]'
+- '[[Changes/OpenCode/2026-05-07-2-developer-workflow-changes-in-v1-14-40|2 Developer
+  Workflow changes in v1.14.40]]'
 - '[[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer
   Workflow changes in v2.1.136]]'
 - '[[Changes/Codex CLI/2026-05-08-added-configurable-opentelemetry-trace-metadata-and-richer-review-feedback-analy|Added

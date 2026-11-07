@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b49fac0a2aea3ecea1932117353dcca97d73b57c0ceb537795d9695972b8bc8
+machine_hash: f336d3c076e8a12812864ed2064947ca877530b6b588b23c4df78808c8b20b2b
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Developer Workflow changes in v2.1.89
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-30-2-developer-workflow-changes-in-v1-0-13|2
-  Developer Workflow changes in v1.0.13]]'
 - '[[Changes/Codex CLI/2026-03-31-3-developer-workflow-changes-in-rust-v0-118-0|3
   Developer Workflow changes in rust-v0.118.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-4-developer-workflow-changes-in-v1-0-14|4
   Developer Workflow changes in v1.0.14]]'
+- '[[Changes/OpenCode/2026-03-31-2-developer-workflow-changes-in-v1-3-12-2|2 Developer
+  Workflow changes in v1.3.12 + 2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: developer-workflow
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.89
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-4-developer-workflow-changes-in-v1-0-14|4 Developer Workflow changes in v1.0.14]]
+- Earlier: 2026-03-31 · OpenCode · [[Changes/OpenCode/2026-03-31-2-developer-workflow-changes-in-v1-3-12-2|2 Developer Workflow changes in v1.3.12 + 2]]
 - Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-3-developer-workflow-changes-in-v0-36-0|3 Developer Workflow changes in v0.36.0]]
 <!-- chronolog:end -->
 

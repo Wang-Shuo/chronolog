@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3b939730de9ca36e78cd5774165d59534f8031397d7010a9d5832ee42824fbcf
+machine_hash: 11fe19a8a94a4b4064fc9ba2c23ff7d5511e6c53ab58135e4ce05a86d8803c2c
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,8 +43,8 @@ record:
     polish
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-git-commands-no-longer-flash-a-console-window-on-windows|Git
-  commands no longer flash a console window on Windows]]'
+- '[[Changes/OpenCode/2026-06-14-desktop-the-new-session-route-now-stays-scoped-to-its-own-draft-server-so-prompt|Desktop
+  The new session route now stays scoped to its own draft server, so prompts…]]'
 - '[[Changes/Codex CLI/2026-06-15-clarified-contributor-guidance-around-keeping-crate-apis-narrow-and-supporting-l|Clarified
   contributor guidance around keeping crate APIs narrow and supporting…]]'
 - '[[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]'

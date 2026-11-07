@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f45335c1ccd55f65c995040ff6e2d3ffbf1463aae4babf09e11128ecdb6cd05
+machine_hash: 5b5aa1e7ab4f807a3ad07ef1714084b794c134220afe0335e26bac8f923109fb
 product: dify
 product_name: Dify
 record:
@@ -51,10 +51,10 @@ record:
   title: '**LLM Memory Processing**: Corrected errors in LLM memory handling'
   type: change
 related_changes:
-- '[[Changes/Cline/2024-08-11-adds-option-to-add-custom-instructions-to-the-end-of-the-system-prompt|Adds
-  option to add custom instructions to the end of the system prompt]]'
 - '[[Changes/Dify/2024-08-14-enhancing-llm-memory-with-conversation-variables-and-variable-assigners-https-di|Enhancing
   LLM Memory with Conversation Variables and Variable…]]'
+- '[[Changes/Midjourney/2024-09-06-personalization-for-the-niji-anime-model-is-available-today|Personalization
+  for Niji]]'
 - '[[Changes/Dify/2024-10-23-custom-icon-restoration-we-ve-reintroduced-the-flexibility-and-personalization-o|Custom
   Icon Restoration]]'
 source_release: '[[Releases/Dify/dify-2024-11-26-0-12-1-github-187471517-1dd55641|dify-2024-11-26-0-12-1-github-187471517-1dd55641]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2024-10-23 · Dify · [[Changes/Dify/2024-10-23-custom-icon-restoration-we-ve-reintroduced-the-flexibility-and-personalization-o|Custom Icon Restoration]]
-- Later: 2025-01-07 · Dify · [[Changes/Dify/2025-01-07-database-and-memory-optimizations-that-not-only-improve-performance-but-they-ll|Database and memory optimizations that not only improve performance but they'll…]]
+- Later: 2024-12-16 · Midjourney · [[Changes/Midjourney/2024-12-16-flagship-features|Flagship features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

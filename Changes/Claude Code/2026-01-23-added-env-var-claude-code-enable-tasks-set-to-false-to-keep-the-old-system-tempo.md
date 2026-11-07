@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fb076f1027e6b13cddd80c4226af8e623de399f3b380985202d8a6f2930d002
+machine_hash: 422252a792a5c8412ce9d12146b9e2e4e8849b4ecbf0c33af1ea5396dd98f04b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
     system…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-subagents|Subagents]]'
 - '[[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification
   questions from the agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-22-2-agent-mode-changes-in-v0-0-389|2 Agent
   Mode changes in v0.0.389]]'
+- '[[Changes/OpenCode/2026-01-22-mark-subagent-sessions-as-agent-initiated-to-exclude-them-from-quota-limits|Mark
+  subagent sessions as agent-initiated to exclude them from quota limits]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-2-agent-mode-changes-in-v0-0-389|2 Agent Mode changes in v0.0.389]]
+- Earlier: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-mark-subagent-sessions-as-agent-initiated-to-exclude-them-from-quota-limits|Mark subagent sessions as agent-initiated to exclude them from quota limits]]
 - Later: 2026-01-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-23-add-support-for-ghe-cloud-ghe-com-remote-custom-agents|Add support for GHE Cloud (\.ghe.com) remote custom agents]]
 <!-- chronolog:end -->
 

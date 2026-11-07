@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf7ccc84577ee28fa12130079ea59432329673404e8c9a2283a76d5f4a1d8ace
+machine_hash: 5fcf88606f6300388baac318bcb2182b6ebef53d1f5beba7c92e7e01cd1dd7e5
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Improved the spinner status during long thinking
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-6-context-window-changes-in-1-17-1|6 Context Window changes
-  in 1.17.1]]'
 - '[[Changes/Lovable/2026-09-10-see-what-is-inside-a-zip-before-lovable-uses-it|See
   what is inside a ZIP before Lovable uses it]]'
 - '[[Changes/Lovable/2026-09-11-preview-pdf-attachments-in-chat|Preview PDF attachments
   in chat]]'
+- '[[Changes/OpenClaw/2026-09-11-2-context-window-changes-in-v2026-9-4|2 Context Window
+  changes in v2026.9.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: context-window
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-preview-pdf-attachments-in-chat|Preview PDF attachments in chat]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-2-context-window-changes-in-v2026-9-4|2 Context Window changes in v2026.9.4]]
 - Later: 2026-09-14 · Ollama · [[Changes/Ollama/2026-09-14-runaway-repeat-token-detection-now-requires-100-repeat-tokens-for-reduced-false|Runaway repeat token detection now requires 100 repeat tokens for reduced false…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7406bedd908bbe977f1aa42dc99dba3725331203c131ac794d6a0cf6276ee811
+machine_hash: e346ca940c24762f8ea0efe5d63f7d18d8e8e2b98cd24b9838e3463cad6deefb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
     timeout…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-docs-review-add-repository-and-product-scope-to-the-canvas-review-guide-by-all-h|docs(review):
-  add repository and product scope to the Canvas review guide]]'
+- '[[Changes/OpenClaw/2026-09-23-6-files-and-data-changes-in-v2026-9-6|6 Files and
+  Data changes in v2026.9.6]]'
 - '[[Changes/OpenHands/2026-09-23-feat-tag-agent-canvas-telemetry-by-deployment-kind-oss-13530-by-malhotra5-in-htt|feat:
   tag Agent Canvas telemetry by deployment kind (OSS-13530)]]'
 - '[[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved prompt-audit on Claude Code configuration]]
-- Later: 2026-10-01 · ChatGPT · [[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan notes and documents more easily with ChatGPT camera]]
+- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-3-files-and-data-changes-in-v2026-9-7|3 Files and Data changes in v2026.9.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

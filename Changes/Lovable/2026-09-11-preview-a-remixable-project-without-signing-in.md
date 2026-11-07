@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f69c2bd25f5009269c6ee377842182c1275b88bb10787ff4fced2952c2e73561
+machine_hash: 977b5c6e363f388c3235a8e29ff3fba6db937e1432502df33ed4400c4ee14a4d
 product: lovable
 product_name: Lovable
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface Experience changes in v2.1.269]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface Experience changes in v2.1.271]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-5-interface-experience-changes-in-v2026-9-4|5 Interface Experience changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e3269708bbfa03c99aacf36a80d609e5c22957188987c91a9b0b342c7e187e64
+machine_hash: 483956f74f9ab3af6cc7263a4e01834cfcb5f7dd3e597df2484b3c5bc1beca64
 product: lovable
 product_name: Lovable
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-2-apps-and-integrations-changes-in-v1-0-65|2 Apps and Integrations changes in v1.0.65]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2 Apps and Integrations changes in v2.1.193]]
+- Later: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-added-mcp-server-instructions-to-session-context|Added MCP server instructions to session context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

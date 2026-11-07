@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 15db76e8f7a55a8642e82617ac8c941961b2f7e8dce62551f0c41f923aa0b58a
+machine_hash: 76c2253bae684b954bc604b9180013dcff2c6c62ca9f124a4769b8c4482c7882
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,11 +44,11 @@ record:
   title: '**⚙️ General Stability Enhancements**'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-02-20-general-backend-frontend-stability-enhancements-extensive-refactoring-improves-r|⚙️
-  General Backend & Frontend Stability Enhancements]]'
 - '[[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text
   selection improvements: you can now select text across horizontal rulers]]'
 - '[[Changes/ElevenLabs/2025-02-25-text-to-speech|Text to Speech]]'
+- '[[Changes/Gamma/2025-02-26-we-ve-added-a-new-way-to-share-your-work-faster-and-more-efficiently-you-can-now|Export
+  to Google Slides]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-27-v0-5-17-github-202772600-cff31e12|open-webui-2025-02-27-v0-5-17-github-202772600-cff31e12]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-02-25 · ElevenLabs · [[Changes/ElevenLabs/2025-02-25-text-to-speech|Text to Speech]]
+- Earlier: 2025-02-26 · Gamma · [[Changes/Gamma/2025-02-26-we-ve-added-a-new-way-to-share-your-work-faster-and-more-efficiently-you-can-now|Export to Google Slides]]
 - Later: 2025-02-28 · Replit · [[Changes/Replit/2025-02-28-database-performance-improvement|Database performance improvement]]
 <!-- chronolog:end -->
 

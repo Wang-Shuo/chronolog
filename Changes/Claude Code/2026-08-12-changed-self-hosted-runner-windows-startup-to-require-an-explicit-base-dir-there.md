@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb51a89c86a6c1bce139a73d48e925197776ee3c7daa735bfb480f8d367ed3d2
+machine_hash: e261f5fdbcf34f13e5203bdf1fd5ff6521b0c706829805a6107a19e89d7ffae3
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,10 @@ record:
   title: Changed self-hosted runner Windows startup to require an explicit `--base-dir`
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-10-android-sdk|Android SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-2-mobile-and-desktop-changes-in-v1-0-79|2
   Mobile and Desktop changes in v1.0.79]]'
+- '[[Changes/OpenCode/2026-08-10-2-mobile-and-desktop-changes-in-v1-18-16|2 Mobile
+  and Desktop changes in v1.18.16]]'
 - '[[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
@@ -85,7 +86,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-10 · Windsurf · [[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]
-- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-gateway-the-desktop-overlay-now-accepts-every-released-desktop-setting-was-11-ha|Gateway: the desktop: overlay now accepts every released Desktop setting…]]
+- Later: 2026-08-12 · OpenCode · [[Changes/OpenCode/2026-08-12-desktop-updated-chinese-developer-terminology-to-use-more-widely-recognized-tran|Desktop Updated Chinese developer terminology to use more widely recognized translations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

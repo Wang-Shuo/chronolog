@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a875783e2c34f471924f35a33ee70cb262b051c8bdcf6f7cb903c3c2ff1bfa15
+machine_hash: 3f6df07a9eeb21ab0f8c8362b2caa195ad179bb97cc69c5e700e7c98bc53c519
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Codex can run independent read-only tools in parallel, including skill, memory…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-2-memory-and-personalization-changes-in-v0-12-0|2
-  Memory and Personalization changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-13-5-memory-and-personalization-changes-in-v2026-10-3|5
+  Memory and Personalization changes in v2026.10.3]]'
 - "[[Changes/Open WebUI/2026-10-14-memory-in-automations-automations-now-get-the-memory-tools-when-the-user-has-mem|\U0001F9E0
   Memory in automations. Automations now get the memory tools when the user has…]]"
 - "[[Changes/Open WebUI/2026-10-14-memory-reindex-rate-limits-reindexing-memories-from-the-admin-reindex-knowledge|\U0001F9EE

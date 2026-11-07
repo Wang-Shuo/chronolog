@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d28485430ae656ea80c9f2d9fa76f6e83c6d6fa6d8f790ef6aa4de90ed883e98
+machine_hash: 104255af61b8d98df60b9150eef5e5370e7c695ec77cd98d78e8cfdad15bf5c1
 product: lovable
 product_name: Lovable
 record:
@@ -56,8 +56,8 @@ record:
   title: A new banner encouraging email and password users to enable [two-factor…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-03-2-account-and-access-changes-in-v0-0-401|2
-  Account and Access changes in v0.0.401]]'
+- '[[Changes/OpenCode/2026-02-03-terminal-enable-password-authentication-for-remote-session-attachment|Terminal
+  Enable password authentication for remote session attachment]]'
 - '[[Changes/Codex CLI/2026-02-05-2-account-and-access-changes-in-rust-v0-98-0|2 Account
   and Access changes in rust-v0.98.0]]'
 - '[[Changes/Lovable/2026-02-05-seamless-google-and-apple-authentication|Seamless

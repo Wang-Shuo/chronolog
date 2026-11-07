@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 078f41e7d566192a82223ebb15077e076c31024824044a0775f48bd30943f8ae
+machine_hash: b39a2e6456fd3cec7566e38eae17da74817a4bc0d314fa4123a90dbe2a9bd692
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Apps and Integrations changes in v3.89.2
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-09-8-apps-and-integrations-changes-in-rust-v0-139-0|8
-  Apps and Integrations changes in rust-v0.139.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-09-4-apps-and-integrations-changes-in-v1-0-61|4
-  Apps and Integrations changes in v1.0.61]]'
 - '[[Changes/Claude Code/2026-06-10-3-apps-and-integrations-changes-in-v2-1-172|3
   Apps and Integrations changes in v2.1.172]]'
+- '[[Changes/OpenCode/2026-06-10-7-apps-and-integrations-changes-in-v1-17-0|7 Apps
+  and Integrations changes in v1.17.0]]'
+- '[[Changes/OpenCode/2026-06-10-2-apps-and-integrations-changes-in-v1-17-1|2 Apps
+  and Integrations changes in v1.17.1]]'
 source_release: '[[Releases/Cline/cline-2026-06-11-v3-89-2-github-337912456-c4740316|cline-2026-06-11-v3-89-2-github-337912456-c4740316]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,7 +81,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.89.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-3-apps-and-integrations-changes-in-v2-1-172|3 Apps and Integrations changes in v2.1.172]]
+- Earlier: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-2-apps-and-integrations-changes-in-v1-17-1|2 Apps and Integrations changes in v1.17.1]]
 - Later: 2026-06-11 · Cline · [[Changes/Cline/2026-06-11-restore-the-anthropic-provider-on-vs-code-1-123-and-later-where-the-updated-node|Restore the Anthropic provider on VS Code 1.123 and later, where the updated Node 24…]]
 <!-- chronolog:end -->
 

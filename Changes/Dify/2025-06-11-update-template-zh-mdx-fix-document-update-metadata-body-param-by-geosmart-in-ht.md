@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d173e862465970f5c6003a669a41f87a58a2b4fac0ae0baca66a6cabb563949
+machine_hash: 18ccec805b646524f94dce24585e08a5777ed422772f00f54c81c186e01db8ea
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: Update template.zh.mdx-fix document update metadata body param
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-05-28-datalab-marker-api-content-extraction-support-seamlessly-extract-content-from-fi|\U0001FAA7
-  Datalab Marker API Content Extraction Support]]"
+- '[[Changes/Runway/2025-05-29-start-from-a-blank-canvas-or-draw-on-top-of-an-existing-image-to-add-new-element|Layout
+  Sketch for Gen-4 References]]'
 - '[[Changes/Cline/2025-06-03-add-support-for-uploading-csv-and-xlsx-files-for-data-analysis-and-processing|Add
   support for uploading CSV and XLSX files for data analysis and processing]]'
 - '[[Changes/Open WebUI/2025-06-10-3-files-and-data-changes-in-v0-6-14|3 Files and

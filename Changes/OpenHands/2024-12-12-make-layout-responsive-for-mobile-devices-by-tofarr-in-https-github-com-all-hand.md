@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12acdcea022e2c07eac92c85a7b3218ca4cda19a23ee26dcb98a86e6ab5e17ca
+machine_hash: 56f08d75dc46d7f9dfb6f2bd8574bd9e1c462a89ab636f18513ddbb7f0b4bc0a
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: Make layout responsive for mobile devices
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-11-14-try-the-new-gemini-app-on-your-iphone|Try the new Gemini
-  app on your iPhone]]'
-- '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced
-  Voice for ChatGPT Web]]'
-- '[[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web
-  Experience]]'
+- '[[Changes/Runway/2024-11-25-use-act-one-in-the-runway-ios-mobile-app-to-generate-expressive-character-perfor|Act-One
+  in iOS]]'
+- '[[Changes/Suno/2024-12-06-exciting-news-try-v4-for-free-when-you-download-the-mobile-app-now-available-on|Exciting
+  news!]]'
+- '[[Changes/Suno/2024-12-06-this-is-the-first-version-of-suno-for-android-we-wanted-to-get-it-into-your-hand|This
+  is the first version of Suno for Android]]'
 source_release: '[[Releases/OpenHands/openhands-2024-12-12-0-15-2-github-190457676-246dd60a|openhands-2024-12-12-0-15-2-github-190457676-246dd60a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]]
+- Earlier: 2024-12-06 · Suno · [[Changes/Suno/2024-12-06-this-is-the-first-version-of-suno-for-android-we-wanted-to-get-it-into-your-hand|This is the first version of Suno for Android]]
 - Later: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-improved-environment-variable-setup-messages-on-windows|Improved environment variable setup messages on Windows]]
 <!-- chronolog:end -->
 

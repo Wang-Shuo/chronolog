@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ced0436b3811ca435bd0bab25f4b3d396e1f5870376ea45c429aa97fe62e691e
+machine_hash: 9063459b494fdf3e9bd9101d90c709e77b3100645816858729064d6cded7ca17
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Custom instruction file paths load correctly when using COPILOT_CUSTOM_INSTRUCTIONS_DIRS
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added
-  autoMemoryDirectory setting to configure a custom directory for auto-memory…]]'
+- '[[Changes/OpenCode/2026-03-12-core-multiple-jdtls-lsps-eating-memory-in-java-monorepos|Core
+  Multiple jdtls LSPs eating memory in Java monorepos]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-memory-storage-errors-now-indicate-when-repository-doesn-t-exist-or-you-lack-wri|Memory
   storage errors now indicate when repository doesn''t exist or you lack write access]]'
 - '[[Changes/Codex CLI/2026-03-16-14493-memories-focus-write-prompts-on-user-preferences-andi-oai|♯14493

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2c135a6bcffd610dcd4fddcc9974cf8c7a4b00421662245f920ef5fdb47042e0
+machine_hash: 7392d14debe34f91034e51904e6f997c5da7bcf3e64df3fc6a42407414353c20
 product: open-webui
 product_name: Open WebUI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.31
 ## Nearby in Editor Experience
 
 - Earlier: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-8-editor-experience-changes-in-v0-6-0|8 Editor Experience changes in v0.6.0]]
-- Later: 2025-09-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-26-2-editor-experience-changes-in-v0-0-328|2 Editor Experience changes in v0.0.328]]
+- Later: 2025-09-25 · Suno · [[Changes/Suno/2025-09-25-edit-in-a-multitrack-timeline-arrange-layer-and-refine-with-precision-control-bp|Edit in a multitrack timeline → Arrange, layer, and refine with precision]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

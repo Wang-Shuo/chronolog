@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fe1b9255e4c155cfd271ffb39ca942ee5b79fa50db411d6538359d3d9afee3ef
+machine_hash: 3732531f70512ba412ada87b15db292996689fa125bf7b4d6361a6c272f47b27
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: Syntax highlighting in /diff with support for 17 programming languages
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-09-improved-the-custom-design-system-editor-interface|Improved
-  the Custom Design System editor interface]]'
 - '[[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode:
   Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]'
 - '[[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document
   node limitation for shift+tab]]'
+- '[[Changes/OpenCode/2026-03-12-desktop-skip-editor-reconcile-during-ime-composition|Desktop
+  Skip editor reconcile during IME composition]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6|github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6]]'
 source_type: github_releases
 theme: editor-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document node limitation for shift+tab]]
+- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-desktop-skip-editor-reconcile-during-ime-composition|Desktop Skip editor reconcile during IME composition]]
 - Later: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-remaining-requests-widget-no-longer-shows-inaccurate-quota-data-for-copilot-free|Remaining requests widget no longer shows inaccurate quota data for Copilot Free users]]
 <!-- chronolog:end -->
 

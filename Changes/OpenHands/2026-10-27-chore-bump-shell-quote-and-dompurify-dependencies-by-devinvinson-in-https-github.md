@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d56e6611a16468f2a5c1b3ae29e88d429be84800ac0c308c6e1aa40871496d9
+machine_hash: 9f87c95b47e728e4e078915b3206161af2b77c15680c3d19a1df5aedb470a665
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 'chore: bump shell-quote and DOMPurify dependencies'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-26-starting-a-command-no-longer-moves-keyboard-focus-into-the-terminal-so-text-you|Starting
-  a command no longer moves keyboard focus into the terminal, so text you''re…]]'
-- '[[Changes/Windsurf/2026-10-26-2-developer-workflow-changes-in-v3-11-228|2 Developer
-  Workflow changes in v3.11.228]]'
-- '[[Changes/Codex CLI/2026-10-27-3-developer-workflow-changes-in-rust-v0-165-0|3
-  Developer Workflow changes in rust-v0.165.0]]'
+- '[[Changes/Google Antigravity/2026-10-27-long-commands-in-the-background-command-view-are-now-syntax-highlighted-and-coll|Long
+  commands in the background command view are now syntax highlighted…]]'
+- '[[Changes/OpenClaw/2026-10-27-2-developer-workflow-changes-in-v2026-10-8|2 Developer
+  Workflow changes in v2026.10.8]]'
+- '[[Changes/OpenCode/2026-10-27-13-developer-workflow-changes-in-v2-2-0|13 Developer
+  Workflow changes in v2.2.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892|openhands-2026-10-27-v1-34-0-github-425575573-3f638892]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-3-developer-workflow-changes-in-rust-v0-165-0|3 Developer Workflow changes in rust-v0.165.0]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-13-developer-workflow-changes-in-v2-2-0|13 Developer Workflow changes in v2.2.0]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-10-developer-workflow-changes-in-rust-v0-166-0|10 Developer Workflow changes in rust-v0.166.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d0c5b243e7dac934717b80c821c9389c2537e728a21ab3d9b21498c8a37946d
+machine_hash: 39adcd342f2a0e8ac50b4021854223f1d3aaec7effb2920f9a14a883a3c96ddb
 product: replit
 product_name: Replit
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also adds MCP support, team-configurable blocklists, fixes Composer stuck…]]
-- Later: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-code-interpreter-stability-with-custom-functions-addressed-failures-when-using-t|💻 Code Interpreter Stability with Custom Functions]]
+- Later: 2025-02-04 · Gamma · [[Changes/Gamma/2025-02-04-now-you-can-multi-select-from-the-filmstrip-and-take-action-cut-copy-duplicate-a|Updated Filmstrip Experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

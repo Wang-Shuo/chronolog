@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a4f551e4e02119f950a92089840ce46f17e1795be2843eeda87885ce84c8e87
+machine_hash: 966bef097c3b37c4f24e9cd5d1a1cbf2ee8c8fad427736875166bad7e9362eec
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Agent Mode changes in v2.1.77
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-16-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-5-agent-mode-changes-in-v1-0-6|5 Agent
   Mode changes in v1.0.6]]'
+- '[[Changes/OpenCode/2026-03-16-core-ensure-that-compaction-message-is-tracked-as-agent-initiated|Core
+  Ensure that compaction message is tracked as agent initiated]]'
 - '[[Changes/Claude/2026-03-17-control-cowork-from-your-phone-with-a-persistent-thread-research-preview-for-pro|Control
   Cowork from your phone with a persistent thread (research preview for Pro/Max)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'

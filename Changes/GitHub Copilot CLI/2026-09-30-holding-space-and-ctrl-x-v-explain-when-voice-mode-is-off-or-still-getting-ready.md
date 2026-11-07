@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a31980d35df79f4d8cc6b874173eab9b27837dc18d310580e27ab436121eadda
+machine_hash: dd4c828ddcf912a932e0baec4655e9c19cbc6071438bb9ea898efa23ee76f551
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     ready
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio
-  is deleted once your notes are ready and can’t be accessed or replayed]]'
 - '[[Changes/Codex CLI/2026-09-29-48824-keep-voice-rtp-timestamps-aligned-to-20-ms-packets-bc-openai|♯48824
   Keep voice RTP timestamps aligned to 20 ms packets @bc-openai]]'
+- '[[Changes/Runway/2026-09-29-elevenlabs-v4-is-now-supported-in-runway-letting-you-generate-audio-with-the-lat|ElevenLabs
+  V4]]'
 - '[[Changes/Gemini/2026-09-30-let-skills-in-gemini-tackle-your-most-repetitive-tasks|Let
   skills in Gemini tackle your most repetitive tasks]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d|github-copilot-cli-2026-09-30-v1-0-90-github-400456416-452b5a7d]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-30 · Gemini · [[Changes/Gemini/2026-09-30-let-skills-in-gemini-tackle-your-most-repetitive-tasks|Let skills in Gemini tackle your most repetitive tasks]]
-- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49073-surface-realtime-voice-catalog-failures-in-the-tui-etraut-openai|♯49073 Surface realtime voice catalog failures in the TUI @etraut-openai]]
+- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-12-voice-and-audio-changes-in-v2026-9-7|12 Voice and Audio changes in v2026.9.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

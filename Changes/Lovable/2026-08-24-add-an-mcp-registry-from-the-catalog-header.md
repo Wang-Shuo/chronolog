@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9bf65106ac252d2802a6554a71ce2e2aee2bd26209c5aa28704d7efde5528a04
+machine_hash: 188700dfd863b7bf8c9aafe607ba6c6a6ef38c24dddaeea880f3a20af90220b4
 product: lovable
 product_name: Lovable
 record:
@@ -51,10 +51,10 @@ record:
   title: Add an MCP registry from the catalog header
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-23-2-apps-and-integrations-changes-in-v4-1-15|2 Apps and
-  Integrations changes in v4.1.15]]'
 - '[[Changes/ElevenLabs/2026-08-24-sdk-releases|SDK Releases]]'
 - '[[Changes/ElevenLabs/2026-08-24-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Google Antigravity/2026-08-24-model-context-protocol-mcp-and-custom-tool-execution-steps-now-display-structure|Model
+  Context Protocol (MCP) and custom tool execution steps now display structured…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-24-2026-08-24-b7c01132|lovable-2026-08-24-2026-08-24-b7c01132]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-javascript-sdk|JavaScript SDK]]
+- Earlier: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-model-context-protocol-mcp-and-custom-tool-execution-steps-now-display-structure|Model Context Protocol (MCP) and custom tool execution steps now display structured…]]
 - Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-3-apps-and-integrations-changes-in-v2-1-246|3 Apps and Integrations changes in v2.1.246]]
 <!-- chronolog:end -->
 

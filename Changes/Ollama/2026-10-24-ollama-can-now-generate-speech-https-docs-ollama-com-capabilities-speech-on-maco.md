@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a68bd35883fe700c0454e9a72829fb0f6dc609b5afe28d77e31b399e56a9c990
+machine_hash: 771b65bb6af688661bcdb549b24c607ee4f502e4c3fe7919d5ccc5964e67bf8b
 product: ollama
 product_name: Ollama
 record:
@@ -59,10 +59,10 @@ record:
     on macOS
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice
-  and Audio changes in v2.1.307]]'
 - '[[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode
   Added a log warning that says what to do when dictation or the extension''s…]]'
+- '[[Changes/OpenClaw/2026-10-22-3-voice-and-audio-changes-in-v2026-10-6|3 Voice and
+  Audio changes in v2026.10.6]]'
 - '[[Changes/Codex CLI/2026-10-23-3-voice-and-audio-changes-in-rust-v0-164-0|3 Voice
   and Audio changes in rust-v0.164.0]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-24-v0-40-11-github-422414238-db17e15f|ollama-2026-10-24-v0-40-11-github-422414238-db17e15f]]'

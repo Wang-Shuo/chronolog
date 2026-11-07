@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0138e516215e468f68d8f0f1fb8dba61f75b337b96f66b115e10b2b32a00ee5
+machine_hash: e7421ad29db08955f54b0af8d3f016aa3731f66f6662846442bf3877aba62aa6
 product: v0
 product_name: v0
 record:
@@ -44,9 +44,9 @@ record:
   title: Inspect on Vercel and Analytics stay disabled until a deployment has an inspector…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-16-removed-the-explain-sparkle-button-from-the-editor-breadcrumbs|Removed
-  the Explain sparkle button from the editor breadcrumbs]]'
 - '[[Changes/Windsurf/2026-06-16-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/OpenCode/2026-06-17-desktop-added-a-home-tab-toggle-so-you-can-quickly-switch-between-home-and-your|Desktop
+  Added a Home tab toggle so you can quickly switch between Home and your last tab]]'
 - '[[Changes/Lovable/2026-06-18-require-the-workspace-editor-role-to-edit-projects|Require
   the workspace editor role to edit projects]]'
 source_release: '[[Releases/v0/v0-2026-06-19-2026-06-19-ff036602|v0-2026-06-19-2026-06-19-ff036602]]'

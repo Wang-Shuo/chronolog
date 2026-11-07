@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3d351a276a56f943a504070bff636e0952775ba35a6954d37d30bf24f0a17b55
+machine_hash: dd8de405ebbe0bcb1cdefa963fa7517cf60d0c8efa7f0417091183a4670ab901
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 'test(e2e): launch the same-model profile test from the BETA profile'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-11-model-support-changes-in-rust-v0-162-0|11 Model
-  Support changes in rust-v0.162.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-08-add-claude-haiku-5-5-to-model-selection-and-model-completions|Add
-  Claude Haiku 5.5 to model selection and --model completions]]'
+- '[[Changes/Midjourney/2026-10-08-we-re-finding-in-tests-that-this-helps-make-the-model-better-at-prompt-accuracy|We''re
+  finding in tests that this helps make the model better at prompt accuracy…]]'
 - '[[Changes/Ollama/2026-10-08-4-model-support-changes-in-v0-40-2|4 Model Support
   changes in v0.40.2]]'
+- '[[Changes/OpenClaw/2026-10-08-4-model-support-changes-in-v2026-9-9|4 Model Support
+  changes in v2026.9.9]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-08-v1-26-0-github-407241649-7e646875|openhands-2026-10-08-v1-26-0-github-407241649-7e646875]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-08 · Ollama · [[Changes/Ollama/2026-10-08-4-model-support-changes-in-v0-40-2|4 Model Support changes in v0.40.2]]
+- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-4-model-support-changes-in-v2026-9-9|4 Model Support changes in v2026.9.9]]
 - Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude Tag Changed Claude in Slack to show the footer with the session link, model…]]
 <!-- chronolog:end -->
 

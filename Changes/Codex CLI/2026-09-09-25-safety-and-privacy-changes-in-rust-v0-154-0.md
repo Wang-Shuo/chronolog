@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd44015ef00e72f23d49ce1f9e7c918070d624dc738dcffa576bd74fc6b1f281
+machine_hash: 8bcbac5882cebbca86ba1d9da02d9e570bebecb42dc0c5f1841f0574d436ddbc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -91,10 +91,10 @@ record:
   title: 25 Safety and Privacy changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-3-safety-and-privacy-changes-in-v2-1-265|3 Safety
-  and Privacy changes in v2.1.265]]'
 - '[[Changes/Gemini CLI/2026-09-08-fix-core-enforce-fail-closed-workspace-trust-and-filter-mcpservers-in-restricted|fix(core):
   enforce fail-closed workspace trust and filter mcpServers in restricted mode]]'
+- '[[Changes/OpenClaw/2026-09-08-14-safety-and-privacy-changes-in-v2026-9-3|14 Safety
+  and Privacy changes in v2026.9.3]]'
 - '[[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety
   and Privacy changes in v2.1.267]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
@@ -191,7 +191,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety and Privacy changes in v2.1.267]]
-- Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety and Privacy changes in v2.1.268]]
+- Later: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-3-safety-and-privacy-changes-in-hub-v2-13-0-introducing-new-documents|3 Safety and Privacy changes in HUB v2.13.0 — Introducing new Documents…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

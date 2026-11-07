@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf44ce264399df05b85a57d4e824715608037b65a51b7fd6f632ad8edffb6b6c
+machine_hash: d8a4b6e997b5112fb25bd1e73f47063563144ae6c496f7be7adbcdb0dae2107f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,11 @@ record:
   title: 4 Agent Mode changes in rust-v0.79.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-02-built-in-subagents-for-exploring-and-managing-tasks|Built-in
-  subagents for exploring and managing tasks]]'
-- '[[Changes/ElevenLabs/2026-01-05-agents-platform|Agents Platform]]'
 - '[[Changes/ElevenLabs/2026-01-05-agents-platform-bdcd71|Agents Platform]]'
+- '[[Changes/OpenCode/2026-01-05-core-transform-agent-improvements-and-optimizations|Core
+  Transform agent improvements and optimizations]]'
+- '[[Changes/OpenCode/2026-01-06-3-agent-mode-changes-in-v1-1-4|3 Agent Mode changes
+  in v1.1.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364|codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364]]'
 source_type: github_releases
 theme: agent-mode
@@ -94,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.79.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-05 · ElevenLabs · [[Changes/ElevenLabs/2026-01-05-agents-platform-bdcd71|Agents Platform]]
+- Earlier: 2026-01-06 · OpenCode · [[Changes/OpenCode/2026-01-06-3-agent-mode-changes-in-v1-1-4|3 Agent Mode changes in v1.1.4]]
 - Later: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-3-agent-mode-changes-in-v0-23-0|3 Agent Mode changes in v0.23.0]]
 <!-- chronolog:end -->
 

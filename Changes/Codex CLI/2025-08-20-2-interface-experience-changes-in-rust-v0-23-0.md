@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef57b02eacfe394f2c152288dfbfb0ff88befd9048ce8ab81db6f41ad0cd435e
+machine_hash: 125a25a47c998352105e779e937aacd0592cf463bd7517ebf694a2b5f01d5680
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,9 +44,9 @@ record:
   title: 2 Interface Experience changes in rust-v0.23.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-13-move-browser-settings-menu-to-tailwind-by-celestial-vault-in-https-github-com-cl|move
-  browser settings menu to tailwind]]'
 - '[[Changes/Gemini/2025-08-13-introducing-temporary-chat|Introducing Temporary Chat]]'
+- '[[Changes/Midjourney/2025-08-13-we-ve-separated-out-moodboards-into-their-own-page-and-made-them-accessible-in-t|We''ve
+  separated out Moodboards into their own page and made them accessible…]]'
 - '[[Changes/Gemini CLI/2025-08-14-3-interface-experience-changes-in-v0-1-21|3 Interface
   Experience changes in v0.1.21]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece|codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece]]'

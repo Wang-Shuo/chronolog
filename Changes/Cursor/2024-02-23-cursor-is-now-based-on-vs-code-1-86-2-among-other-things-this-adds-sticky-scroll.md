@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2222e8d4365f292dac854b16806a9f56e68508f2375b72ee60cf16272892dd14
+machine_hash: 5fb2c0486ac4d6603b50e8bdb67e05eca0916fedcc22345cdfd22e489b9cecce
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: VS Code 1.86.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I
-  to Heal]]'
 - '[[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|Copilot++
   quality of life improvements…]]'
 - '[[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI
   Previews: this is an experimental new code reading feature]]'
+- '[[Changes/Gamma/2024-02-14-contributor-block-edit-the-contributors-displayed-by-simply-toggling-on-off-indi|Contributor
+  Block]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-23-0-28-x-https-cursor-com-changelog-0-28-x-60ff5b5b|cursor-2024-02-23-0-28-x-https-cursor-com-changelog-0-28-x-60ff5b5b]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-02-09 · Cursor · [[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI Previews: this is an experimental new code reading feature]]
+- Earlier: 2024-02-14 · Gamma · [[Changes/Gamma/2024-02-14-contributor-block-edit-the-contributors-displayed-by-simply-toggling-on-off-indi|Contributor Block]]
 - Later: 2024-03-04 · Aider · [[Changes/Aider/2024-03-04-show-the-user-a-faq-link-if-edits-fail-to-apply|Show the user a FAQ link if edits fail to apply]]
 <!-- chronolog:end -->
 

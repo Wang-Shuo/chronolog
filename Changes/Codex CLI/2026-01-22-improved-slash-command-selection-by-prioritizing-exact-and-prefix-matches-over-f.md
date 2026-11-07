@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 459d554602af73751ec8d2d58abcac916573ebe4415446a4f85ff62f94b56d06
+machine_hash: fc9abbeee6d14ae11188d186b84ab71f7bbc4ba4a25cdfbf5c98a0cdfd54fc0b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
     over fuzzy…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
-  backspace to delete pasted text as a single token instead of one character…]]'
-- '[[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3
-  Interface Experience changes in rust-v0.88.0]]'
 - '[[Changes/Gemini CLI/2026-01-21-3-interface-experience-changes-in-v0-25-0|3 Interface
   Experience changes in v0.25.0]]'
+- '[[Changes/OpenCode/2026-01-21-2-interface-experience-changes-in-v1-1-29|2 Interface
+  Experience changes in v1.1.29]]'
+- '[[Changes/OpenCode/2026-01-21-desktop-fixed-navigation-issues-when-working-with-large-sessions-in-desktop-app|Desktop
+  Fixed navigation issues when working with large sessions in desktop app]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3|codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-3-interface-experience-changes-in-v0-25-0|3 Interface Experience changes in v0.25.0]]
+- Earlier: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-desktop-fixed-navigation-issues-when-working-with-large-sessions-in-desktop-app|Desktop Fixed navigation issues when working with large sessions in desktop app]]
 - Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience changes in 2.4]]
 <!-- chronolog:end -->
 

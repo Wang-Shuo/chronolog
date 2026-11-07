@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f1ed66dd1761c975efda09204ae0e22f370201a2980239411319e6159ebf7880
+machine_hash: ec31274c217d088feafbe45613d8a1c445fceb4c929ad09600043a219ef405a1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Safety and Privacy changes in v1.0.78
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-29-fix-revive-local-telemetry-consent-banner-by-malhotra5-in-https-github-com-openh|fix:
-  Revive local telemetry consent banner]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-5-safety-and-privacy-changes-in-v1-0-76|5
   Safety and Privacy changes in v1.0.76]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-safety-and-privacy-changes-in-v1-0-77|2
   Safety and Privacy changes in v1.0.77]]'
+- '[[Changes/Google Antigravity/2026-07-31-2-safety-and-privacy-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
+  Safety and Privacy changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc|github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc]]'
 source_type: github_releases
 theme: safety-privacy
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.78
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-safety-and-privacy-changes-in-v1-0-77|2 Safety and Privacy changes in v1.0.77]]
+- Earlier: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-2-safety-and-privacy-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2 Safety and Privacy changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
 - Later: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-improved-auto-mode-safety-messages-sent-to-other-agent-sessions-via-sendmessage|Improved auto mode safety]]
 <!-- chronolog:end -->
 

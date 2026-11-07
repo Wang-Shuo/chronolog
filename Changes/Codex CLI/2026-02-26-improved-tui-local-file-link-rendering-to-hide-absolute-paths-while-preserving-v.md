@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fa0b2dcfde758b1ed754129a3f0668ed96c824dee32da824dd4892e7e3b6b8ad
+machine_hash: 45b6bc42f4d8fcfa144c98f0bb366508f1c5aa11bfd79c7aaaf94bae0973a5d2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-added-copy-command-to-show-an-interactive-picker-when-code-blocks-are-present-al|Added /copy command to show an interactive picker when code blocks are present…]]
-- Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic scroll to latest message]]
+- Later: 2026-02-26 · OpenCode · [[Changes/OpenCode/2026-02-26-desktop-fixed-keyboard-navigation-for-previous-next-message|Desktop Fixed keyboard navigation for previous/next message]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

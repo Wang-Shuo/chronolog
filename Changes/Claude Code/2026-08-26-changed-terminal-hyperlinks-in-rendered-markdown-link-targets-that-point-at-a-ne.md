@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb10448b1ce5fae210b5807b6aca230e32270f19d16b91eedfd3d9f4e87201f8
+machine_hash: 0132401eca0656dcdd6637d6e40f48baa5597e78c755125a77c51b2ffaa4d717
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Changed terminal hyperlinks in rendered markdown
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-4-developer-workflow-changes-in-1-17-0|4 Developer Workflow
-  changes in 1.17.0]]'
 - '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-24935-force-terminal-buffer-rerender-after-exiting-external|SSR
   Agent Issue Fix (24935)]]'
 - '[[Changes/Open WebUI/2026-08-25-73-developer-workflow-changes-in-v0-11-1|73 Developer
   Workflow changes in v0.11.1]]'
+- '[[Changes/OpenCode/2026-08-25-terminal-fixed-github-auth-for-immutable-oidc-subject-tokens|Terminal
+  Fixed GitHub auth for immutable OIDC subject tokens]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-73-developer-workflow-changes-in-v0-11-1|73 Developer Workflow changes in v0.11.1]]
+- Earlier: 2026-08-25 · OpenCode · [[Changes/OpenCode/2026-08-25-terminal-fixed-github-auth-for-immutable-oidc-subject-tokens|Terminal Fixed GitHub auth for immutable OIDC subject tokens]]
 - Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-15-developer-workflow-changes-in-rust-v0-150-0|15 Developer Workflow changes in rust-v0.150.0]]
 <!-- chronolog:end -->
 

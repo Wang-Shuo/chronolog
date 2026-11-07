@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bb193a07eba226f5c9e528710500a48e998e84671faa358a17308d503cc12e2c
+machine_hash: 09fd11d3b6e6cf2dbaf23ab51a5dc2bbcf9b1cdee609e712e9c9b7e9a49e86e9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: Edit tool now displays diffs when expanded in timeline
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-20-added-history-based-autocomplete-in-bash-mode-type-a-partial-command-and-press-t|Added
-  history-based autocomplete in bash mode (!) - type a partial command…]]'
 - '[[Changes/Gemini CLI/2026-01-21-4-editor-experience-changes-in-v0-25-0|4 Editor
   Experience changes in v0.25.0]]'
+- '[[Changes/OpenCode/2026-01-21-desktop-tab-should-select-suggestion-in-the-app|Desktop
+  Tab should select suggestion in the app]]'
 - '[[Changes/Cursor/2026-01-22-2-editor-experience-changes-in-2-4|2 Editor Experience
   changes in 2.4]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-22-v0-0-392-github-279190318-a71e46b9|github-copilot-cli-2026-01-22-v0-0-392-github-279190318-a71e46b9]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 615bbfc5f57f33793743f0c8c141e99ae0a3a7b946f51d0ed1fbc951f324fc6d
+machine_hash: 713287613515e68d417a4bf59b72f394ef2b787614cc551fd551f1ff4b19f187
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Changed fast mode to report on the stream when usage credits run out mid-session…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|ChatGPT
-  for Academic Researchers]]'
+- '[[Changes/Google Antigravity/2026-07-31-allocated-and-auto-assigned-license-seats-against-ge-standard-ge-plus-organizati|Allocated
+  and auto-assigned license seats against GE-Standard & GE-Plus organization…]]'
 - '[[Changes/Replit/2026-07-31-billing|Billing]]'
 - '[[Changes/v0/2026-07-31-3-pricing-model-changes-in-claude-opus-5-direct-figma-inspection|3
   Pricing Model changes in Claude Opus 5, direct Figma inspection…]]'

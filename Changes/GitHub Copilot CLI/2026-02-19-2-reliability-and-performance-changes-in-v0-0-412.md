@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3644e2f9428331ba264b70e7392c128c24bcd0f2b0c162100fa58ae837831a7f
+machine_hash: d4bd01e1911ed9fbab8011db9ccbbea71e45b77c692794c7db941ddab1b6a66b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-2-reliability-and-performance-changes-in-v2-1-49|2 Reliability and Performance changes in v2.1.49]]
-- Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3 Reliability and Performance changes in v2.1.50]]
+- Later: 2026-02-19 · Google Antigravity · [[Changes/Google Antigravity/2026-02-19-improved-ui-responsiveness-for-chat-interactions-including-creating-conversation|Improved UI responsiveness for chat interactions, including creating conversations…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

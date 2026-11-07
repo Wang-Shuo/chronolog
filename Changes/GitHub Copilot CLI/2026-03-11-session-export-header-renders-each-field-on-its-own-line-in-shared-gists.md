@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72ba7a64b449d8378869b8279b367d045d9fe8b15d904f52f60d0772e85dc874
+machine_hash: 74d51dc6dedeeee889ebabbaa8c755337a8560ce5c9cbecf7d099cfbbdd21c47
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Session export header renders each field on its own line in shared gists
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-06-block-share-gist-for-emu-and-ghe-cloud-users-with-clear-error-messaging|Block
-  /share gist for EMU and GHE Cloud users with clear error messaging]]'
+- '[[Changes/OpenCode/2026-03-08-core-allow-beta-channel-to-share-database-with-stable-channel|Core
+  Allow beta channel to share database with stable channel]]'
 - "[[Changes/Open WebUI/2026-03-09-teams-webhook-crash-fixed-a-typeerror-crash-in-the-teams-webhook-handler-when-us|\U0001F4E8
   Teams webhook crash. Fixed a TypeError crash in the Teams webhook handler…]]"
 - '[[Changes/Codex CLI/2026-03-10-14117-feat-otel-centralize-otel-metric-names-and-shared-tag-builders-owenlin0|♯14117

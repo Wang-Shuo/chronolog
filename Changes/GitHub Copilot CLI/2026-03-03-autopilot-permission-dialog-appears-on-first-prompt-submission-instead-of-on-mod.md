@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b369547b5536a1ed24340c9609bebee7dc649fb815e2a4eb1f140dc011b5a89
+machine_hash: 18375d6bccf1a9d80b30d15a33a0c5796030e0626ba9006960de6dd691084982
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed team permission and access control inconsistencies across organization setups]]
-- Later: 2026-03-03 · v0 · [[Changes/v0/2026-03-03-fixed-integration-permission-checks-for-team-roles|Fixed integration permission checks for team roles]]
+- Later: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-2-safety-and-privacy-changes-in-v1-2-16|2 Safety and Privacy changes in v1.2.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

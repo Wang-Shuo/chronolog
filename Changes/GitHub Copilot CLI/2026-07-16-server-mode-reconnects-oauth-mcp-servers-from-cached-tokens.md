@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f3149d1a5e9d450a7514c1d7ac7b3465c02f6bab0d8e3d8634c8088e4efb614
+machine_hash: 0f62f439f9b2f221d0bb3ffea9ec297375a97bd7f131f56119f041ee07e27417
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,8 +55,8 @@ record:
   title: Server mode reconnects OAuth MCP servers from cached tokens
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-10-sign-in-to-lovable-from-your-identity-provider-s-portal|Sign
-  in to Lovable from your identity provider''s portal]]'
+- '[[Changes/OpenCode/2026-07-13-core-added-oauth-support-for-luna-responses-lite|Core
+  Added OAuth support for Luna Responses Lite]]'
 - '[[Changes/Lovable/2026-07-15-email-alerts-for-sign-ins-from-a-new-device-and-country|Email
   alerts for sign-ins from a new device and country]]'
 - '[[Changes/Lovable/2026-07-15-password-reset-is-unavailable-for-accounts-without-a-password|Password

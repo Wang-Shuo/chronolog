@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6b46bdae3c4e4f459202460d21775f83b6267eb4812b2eec97630a903e5fedd
+machine_hash: 50c9a70933b683128b018d7631e3c01173244df6cbfa7ecc91a4bfb09df24b1e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,9 +44,12 @@ record:
   title: Switch between typing and dictation
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-10-dubbing-v2-api|Dubbing v2 API]]'
-- '[[Changes/ElevenLabs/2026-08-10-javascript-sdk|JavaScript SDK]]'
-- '[[Changes/ElevenLabs/2026-08-10-voices|Voices]]'
+- '[[Changes/Runway/2026-08-10-tool-mode-and-edit-studio-now-let-you-export-gen-4-5-and-aleph-2-generations-as|ProRes
+  / PNG Sequence Export]]'
+- '[[Changes/Suno/2026-08-13-we-have-totally-overhauled-suno-studio-our-browser-based-generative-daw-with-fea|We
+  have totally overhauled Suno Studio, our browser-based generative DAW…]]'
+- '[[Changes/Suno/2026-08-13-audio-effects-dial-in-your-mix-with-high-quality-audio-effects-including-sidecha|Audio
+  effects: Dial in your mix with high-quality audio effects, including sidechain…]]'
 scope: Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-14-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -79,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-10 · ElevenLabs · [[Changes/ElevenLabs/2026-08-10-voices|Voices]]
+- Earlier: 2026-08-13 · Suno · [[Changes/Suno/2026-08-13-audio-effects-dial-in-your-mix-with-high-quality-audio-effects-including-sidecha|Audio effects: Dial in your mix with high-quality audio effects, including sidechain…]]
 - Later: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-packages|Packages]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 836c57aa08dcb516b2691f86a9b9274965286d9103f93f942d364354873564d4
+machine_hash: 786b500112dabcfa0bf7db8cacd5c330d0422189dd7d930e3ffefd2730c98dba
 product: ollama
 product_name: Ollama
 record:
@@ -55,10 +55,10 @@ record:
   title: '[Mistral-Large-3](https://ollama.com/library/mistral-large-3): A general-purpose…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core):
-  Parse Multimodal MCP Tool responses]]'
 - '[[Changes/Dify/2025-09-22-multimodal-embedding-support-richer-content-types-beyond-text|Multimodal
   Embedding: Support richer content types beyond text]]'
+- '[[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x
+  more styles]]'
 - '[[Changes/Open WebUI/2025-11-06-2-multimodal-input-changes-in-v0-6-35|2 Multimodal
   Input changes in v0.6.35]]'
 source_release: '[[Releases/Ollama/ollama-2025-11-27-v0-13-1-github-264480768-c0d77ba7|ollama-2025-11-27-v0-13-1-github-264480768-c0d77ba7]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e837d4b72c254b760e40fc3dc972afbcc29c0827fd18586f73ff64d6c3c0a814
+machine_hash: b03dcf6536bbea6335be77391747123055c67728a427e61773bd8249e14ab7cc
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,8 +52,8 @@ record:
   title: 6 Developer Workflow changes in v0.28.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-plugins-can-bundle-lsp-server-configurations|Plugins
-  can bundle LSP server configurations]]'
+- '[[Changes/OpenCode/2026-02-05-9-developer-workflow-changes-in-v1-1-52|9 Developer
+  Workflow changes in v1.1.52]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-07-add-changelog-command-to-view-release-notes|Add
   /changelog command to view release notes]]'
 - '[[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved
@@ -109,7 +109,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-10 · Claude Code · [[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved heredoc delimiter parsing to prevent command smuggling]]
-- Later: 2026-02-10 · v0 · [[Changes/v0/2026-02-10-added-support-for-nuxt-and-additional-frameworks-in-git-imports|Added support for Nuxt and additional frameworks in Git imports]]
+- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-13-developer-workflow-changes-in-v1-1-54|13 Developer Workflow changes in v1.1.54]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: adf61c70caebd902650e31f49d7dade103c1fea5ea5a79d33fc6ee747a5fd57f
+machine_hash: 2b8945ba8f110d0be694f14d369dcf514f387045d6f5b927016c0e0f1c0bfe3d
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -47,8 +47,8 @@ record:
   title: Android SDK
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-4-mobile-and-desktop-changes-in-rust-v0-147-0|4
-  Mobile and Desktop changes in rust-v0.147.0]]'
+- '[[Changes/Suno/2026-08-07-update-your-mobile-app-for-the-latest-updates|Update
+  your mobile app for the latest updates]]'
 - '[[Changes/Cline/2026-08-09-fall-back-to-the-session-cwd-or-desktop-for-mention-file-search-in-empty-windows|Fall
   back to the session cwd or Desktop for @-mention file search in empty windows]]'
 - '[[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|Restaurant

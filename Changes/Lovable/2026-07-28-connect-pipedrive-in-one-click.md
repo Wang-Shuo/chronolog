@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: daf7a8a34eebbb9b69052b1b2945a3b5e0a176f9d166a4dfc3f22ffc657afcfc
+machine_hash: 4cba77443a34e7651d072ca5edb6a43457ae1f0b25065fe011a64e52da8a8a17
 product: lovable
 product_name: Lovable
 record:
@@ -52,8 +52,8 @@ record:
   title: Connect Pipedrive in one click
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-10-apps-and-integrations-changes-in-1-16-1|10 Apps and
-  Integrations changes in 1.16.1]]'
+- '[[Changes/Google Antigravity/2026-07-28-preview-tabs-mcp-timeouts-file-attachments-and-performance-fixes|Preview
+  tabs, MCP timeouts, file attachments, and performance fixes]]'
 - '[[Changes/Lovable/2026-07-28-upgrade-an-older-project-to-tanstack-start|Upgrade
   an older project to TanStack Start]]'
 - '[[Changes/Lovable/2026-07-28-app-chat-connectors-google-analytics-and-xero|App
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-10-apps-and-integrations-changes-in-1-16-1|10 Apps and Integrations changes in 1.16.1]]
-- Later: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign in with ChatGPT]]
+- Earlier: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-preview-tabs-mcp-timeouts-file-attachments-and-performance-fixes|Preview tabs, MCP timeouts, file attachments, and performance fixes]]
+- Later: 2026-07-28 · OpenCode · [[Changes/OpenCode/2026-07-28-2-apps-and-integrations-changes-in-v1-18-8|2 Apps and Integrations changes in v1.18.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

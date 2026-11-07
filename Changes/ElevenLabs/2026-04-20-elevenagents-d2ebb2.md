@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 7853016ee13d2b3cc1b007205b27938174e2b61b5295e9f62d6bf3a507ba105d
+machine_hash: b017925eea6e0626870ab1f136628b65dc76a550f38c584f5d470f26da114d64
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -93,10 +93,10 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-9-memory-and-personalization-changes-in-rust-v0-121-0|9
-  Memory and Personalization changes in rust-v0.121.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-custom-instructions-and-skills-refresh-from-disk-after-clear-or-new|Custom
   instructions and skills refresh from disk after /clear or /new]]'
+- '[[Changes/OpenCode/2026-04-16-core-the-bash-tool-uses-less-memory-on-large-command-output|Core
+  The bash tool uses less memory on large command output]]'
 - '[[Changes/Codex CLI/2026-04-20-4-memory-and-personalization-changes-in-rust-v0-122-0|4
   Memory and Personalization changes in rust-v0.122.0]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-20-2026-04-20-9278926e|elevenlabs-2026-04-20-2026-04-20-9278926e]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e222b8b1236ece4683a0f8112bcf55c7a73e36dcf8242c073d5c068248176a89
+machine_hash: 71fc57c5606b517c5d6551fe1f78f2e22aa1a97897e54f3319e5d9ec56bd8a02
 product: windsurf
 product_name: Windsurf
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-05-06 · Open WebUI · [[Changes/Open WebUI/2025-05-06-notes-feature-access-fixed-for-non-admins-fixed-an-issue-preventing-non-admin-us|📝 Notes Feature Access Fixed for Non-Admins]]
-- Later: 2025-05-09 · Lovable · [[Changes/Lovable/2025-05-09-project-visibility-settings-have-returned-to-team-workspaces-but-will-be-disable|Project visibility settings have returned to team workspaces, but will be disabled for now]]
+- Later: 2025-05-07 · Midjourney · [[Changes/Midjourney/2025-05-07-we-re-preparing-to-do-a-new-community-idea-ranking-activity-later-this-week-befo|Share your ideas!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

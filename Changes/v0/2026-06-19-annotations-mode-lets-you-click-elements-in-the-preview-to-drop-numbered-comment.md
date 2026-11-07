@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ee9c1146fe79b6b8a4d5b10ec4acdb2e097478e7cd22e9f06beb5b321c460587
+machine_hash: 470560332ddd25143099e9289979d4fa44ca022ca9ca6d53db9a94b2694f6733
 product: v0
 product_name: v0
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-19 · Replit · [[Changes/Replit/2026-06-19-agent|Agent]]
-- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-agent-mode-changes-in-v2-1-186|2 Agent Mode changes in v2.1.186]]
+- Later: 2026-06-21 · OpenCode · [[Changes/OpenCode/2026-06-21-core-honor-configured-agent-step-limits-by-forcing-a-final-text-response-instead|Core Honor configured agent step limits by forcing a final text response instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

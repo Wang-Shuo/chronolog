@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 689e6fffdcc170d672c216c409122e9c8e8dceac8b46097cb1284d22743fcb1c
+machine_hash: 6e7d5272cc33c09fdff91e50652015bab5c3473d4af43440ec403fed2ac30b95
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Ask Lovable about your plan and subscription
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-39006-emit-api-key-turn-cost-telemetry-from-app-server-copyberry|♯39006
-  Emit API-key turn cost telemetry from app-server @copyberry]]'
+- '[[Changes/OpenCode/2026-08-20-2-pricing-model-changes-in-v1-18-19|2 Pricing Model
+  changes in v1.18.19]]'
 - '[[Changes/Claude Code/2026-08-21-persistent-retry-mode-claude-code-retry-watchdog-now-fails-immediately-on-organi|Persistent
   retry mode (CLAUDE_CODE_RETRY_WATCHDOG) now fails immediately…]]'
 - '[[Changes/Cline/2026-08-21-show-the-billed-cost-for-cline-gateway-usage|Show the

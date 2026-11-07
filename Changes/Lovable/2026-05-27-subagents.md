@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5bbc5a71d2a6e9d3a126cb0755333a0b170293222e4acb6e941c26ab643859a0
+machine_hash: 4c7bb9acf88250a3dccfa664aa458a97448fabc520291042b6dca6a87c1f7702
 product: lovable
 product_name: Lovable
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-4-agent-mode-changes-in-v0-44-0|4 Agent Mode changes in v0.44.0]]
-- Later: 2026-05-27 · Windsurf · [[Changes/Windsurf/2026-05-27-devin-local|Devin Local]]
+- Later: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-core-experimental-background-agents-now-push-updates-without-polling|Core Experimental background agents now push updates without polling]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

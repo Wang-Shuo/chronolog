@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 387f7d4fb6aff2a50578b3b8aa356f8ae62687957e1b97a176d4a11ad1cb4d65
+machine_hash: 2bbdaea38b4273a07e7db4a3b54fef49ab52e25e0451a2c56ff4b42c867fdc61
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,7 +43,8 @@ record:
   title: Improved the memory index over-limit warning to measure only loaded content…
   type: change
 related_changes:
-- '[[Changes/Claude/2026-07-10-updated-memory-for-claude|Updated memory for Claude]]'
+- '[[Changes/OpenClaw/2026-07-13-136-memory-and-personalization-changes-in-v2026-7-1|136
+  Memory and Personalization changes in v2026.7.1]]'
 - '[[Changes/Claude Code/2026-07-14-memory-writes-that-leave-a-memory-md-index-over-its-read-limit-now-produce-an-ex|Memory
   writes that leave a MEMORY.md index over its read limit now produce…]]'
 - '[[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased

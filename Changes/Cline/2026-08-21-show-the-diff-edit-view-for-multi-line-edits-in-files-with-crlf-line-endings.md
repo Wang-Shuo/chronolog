@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66488007609297c232721ff570db3d798b922823ece42123680bc9d2f420af76
+machine_hash: 692ef0ba8389cabbd6e3e464fe87f06738cbaf076504611db5953c795b146e64
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Show the diff edit view for multi-line edits in files with CRLF line endings
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828
-  Track running unified exec processes at turn completion @copyberry]]'
-- '[[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor
-  Experience changes in rust-v0.149.0]]'
+- '[[Changes/Google Antigravity/2026-08-20-hovering-over-a-file-s-comment-count-pill-now-previews-all-comments-on-that-file|Hovering
+  over a file''s comment count pill now previews all comments on that file…]]'
+- '[[Changes/Runway/2026-08-20-agents-can-now-list-workflows-in-your-workspace-open-one-in-the-web-app-editor-t|Workflow
+  Support in Runway MCP]]'
 - '[[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude
   in Chrome]]'
 source_release: '[[Releases/Cline/cline-2026-08-21-v4-1-11-github-374187578-938b5fa5|cline-2026-08-21-v4-1-11-github-374187578-938b5fa5]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude in Chrome]]
-- Later: 2026-08-23 · Cline · [[Changes/Cline/2026-08-23-restore-task-completion-telemetry-for-interactive-sessions-a-share-of-interactiv|Restore task completion telemetry for interactive sessions]]
+- Later: 2026-08-21 · Midjourney · [[Changes/Midjourney/2026-08-21-editor|Editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

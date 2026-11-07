@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 29821e2cdf7e0d08b82915792cfb878c0bc53aaa9089af28282e220460011e60
+machine_hash: 1ad4ee190409dbfbdc984965d232df87860fa252f3eb67f7cae230498da44dba
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.89
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-6-interface-experience-changes-in-rust-v0-158-0|6 Interface Experience changes in rust-v0.158.0]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved responsiveness when leaving the ctrl+o transcript view in long sessions…]]
+- Later: 2026-09-28 · Google Antigravity · [[Changes/Google Antigravity/2026-09-28-you-can-now-switch-the-sidebar-to-show-only-archived-conversations-from-the-disp|Switch the sidebar to show only archived conversations from the Display Options menu…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e373395066004434745c9d4d98c7bf7d0cc62867ea0df276d0e29199438c5713
+machine_hash: eac717c449127c53c85529518b5232fe588e5d0a970df4a89cd931f2ef96b543
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,11 +49,11 @@ record:
   title: 5 Model Support changes in rust-v0.119.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-08-5-model-support-changes-in-v0-37-0|5 Model Support
-  changes in v0.37.0]]'
 - '[[Changes/Windsurf/2026-04-08-adaptive-fix|Adaptive Fix]]'
 - '[[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|GPT-5.3
   Instant mini in ChatGPT]]'
+- '[[Changes/OpenCode/2026-04-09-core-hide-unsupported-variants-for-big-pickle-models|Core
+  Hide unsupported variants for Big Pickle models]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1|codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1]]'
 source_type: github_releases
 theme: model-support
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-09 · ChatGPT · [[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|GPT-5.3 Instant mini in ChatGPT]]
+- Earlier: 2026-04-09 · OpenCode · [[Changes/OpenCode/2026-04-09-core-hide-unsupported-variants-for-big-pickle-models|Core Hide unsupported variants for Big Pickle models]]
 - Later: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-custom-agent-model-field-now-accepts-display-names-and-vendor-suffixes-from-vs-c|Custom agent model field now accepts display names and vendor suffixes from VS Code…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8de4a96ea11e6c684ba54f952fd61a4ce264ea6aa34c40d744ff1d037f0ba06f
+machine_hash: e28b971df04a103818724c4e5dcb497bc02f2e2cd8642444958ec1f325879b06
 product: lovable
 product_name: Lovable
 record:
@@ -49,10 +49,10 @@ record:
   title: External collaborator visibility
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-02-14-sync-modal-unexpected-appearance-fixed-an-issue-where-the-sync-modal-would-appea|\U0001F41B
-  Sync modal unexpected appearance. Fixed an issue where the Sync Modal would…]]"
 - "[[Changes/Open WebUI/2026-02-16-skills-sharing-permissions-administrators-can-now-control-skills-sharing-and-pub|\U0001F510
   Skills sharing permissions. Administrators can now control skills sharing…]]"
+- '[[Changes/Midjourney/2026-02-17-thank-you-so-much-for-your-help-we-can-t-wait-to-share-v8-with-you-soon|Thank
+  you so much for your help!]]'
 - '[[Changes/ElevenLabs/2026-02-23-music|Music]]'
 source_release: '[[Releases/Lovable/lovable-2026-02-23-2026-02-23-19067983|lovable-2026-02-23-2026-02-23-19067983]]'
 source_type: lovable_changelog
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-02-23 · ElevenLabs · [[Changes/ElevenLabs/2026-02-23-music|Music]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-12028-remove-feature-flag-collaboration-modes-aibrahim-oai|♯12028 remove feature flag collaboration modes @aibrahim-oai]]
+- Later: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-core-acp-both-live-and-load-share-synthetic-pending-status-preceding-actual-data|Core ACP both live and load share synthetic pending status preceding actual data]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

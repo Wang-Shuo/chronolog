@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99fbc31cc477ada06134b6d4ad7e827f4e2b4446fc14aeff89f70a1bb0151fe2
+machine_hash: 96ac4f44aa89861c9dbe5b189af675ac8d1e2f8e176593ca83edf2ead17b79df
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
     @owenlin0'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-03-01-individual-user-sharing-control-administrators-can-now-disable-individual-user-s|\U0001F510
-  Individual user sharing control. Administrators can now disable individual…]]"
 - '[[Changes/GitHub Copilot CLI/2026-03-06-block-share-gist-for-emu-and-ghe-cloud-users-with-clear-error-messaging|Block
   /share gist for EMU and GHE Cloud users with clear error messaging]]'
+- '[[Changes/OpenCode/2026-03-08-core-allow-beta-channel-to-share-database-with-stable-channel|Core
+  Allow beta channel to share database with stable channel]]'
 - "[[Changes/Open WebUI/2026-03-09-teams-webhook-crash-fixed-a-typeerror-crash-in-the-teams-webhook-handler-when-us|\U0001F4E8
   Teams webhook crash. Fixed a TypeError crash in the Teams webhook handler…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6|codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6]]'

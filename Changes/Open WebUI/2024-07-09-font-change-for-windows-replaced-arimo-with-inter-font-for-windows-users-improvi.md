@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d025a01961fc45d1c23240bb1c667fe007bb156ad3e1e1aa2150a95593adfc29
+machine_hash: c87602a94c2bbf09d2523f039f51054c8d3ef879afebbdc41759cbdce924c557
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,10 +44,10 @@ record:
   title: "**\U0001F504 Font Change for Windows**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-06-28-docs-add-notes-for-running-postgres-docker-on-windows-wsl2-ubuntu-by-hikariming|docs:
-  Add notes for running Postgres Docker on Windows WSL2 Ubuntu …]]'
 - '[[Changes/OpenHands/2024-06-29-2-mobile-and-desktop-changes-in-0-7-0|2 Mobile and
   Desktop changes in 0.7.0]]'
+- '[[Changes/Suno/2024-07-01-we-re-excited-to-present-suno-on-ios|We’re excited to
+  present Suno on iOS]]'
 - '[[Changes/Dify/2024-07-08-ensure-sh-are-lf-style-so-that-they-can-be-used-directly-by-docker-for-windows-b|Ensure
   .sh are LF-style, so that they can be used directly by Docker for Windows]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-07-09-v0-3-8-github-164686549-1ca2b2b5|open-webui-2024-07-09-v0-3-8-github-164686549-1ca2b2b5]]'

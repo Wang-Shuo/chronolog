@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7bef92d6a0d0307289efdb52e41741d60f9d2ce837fb29eebeb66f2ba57a8a1
+machine_hash: b00e1584f287d39d4e67d6352c06ebcf3a88dfe1b9c3bc8a9ca2db5bca8d7fb3
 product: dify
 product_name: Dify
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Developer Workflow changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-16-2-developer-workflow-changes-in-rust-v0-144-5|2
-  Developer Workflow changes in rust-v0.144.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8
   Developer Workflow changes in v1.0.71]]'
+- '[[Changes/OpenCode/2026-07-16-desktop-fixed-startup-readiness-so-wsl-server-loading-is-included-before-the-des|Desktop
+  Fixed startup readiness so WSL server loading is included before the desktop…]]'
 - '[[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed
   Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a1e3570cc413a3f39993342d722e5249cd97d6c8500315cf7c63ed827e93c0c2
+machine_hash: 86abfdb2327b041924e06a528c650229754f85b5c5ee1bae21fc33d62559569d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Add autopilot mode for autonomous task completion (experimental)
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-28-you-can-now-import-any-github-repo-into-v0-and-work-on-your-actual-codebase|Import
-  any GitHub repo into v0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-29-2-editor-experience-changes-in-v0-0-399|2
   Editor Experience changes in v0.0.399]]'
+- '[[Changes/OpenCode/2026-01-29-revert-to-anthropic-completions-endpoint-to-avoid-rate-limiting-issues-with-copi|Revert
+  to Anthropic completions endpoint to avoid rate limiting issues with copilot]]'
 - '[[Changes/v0/2026-01-29-improved-preview-tab-interaction-in-the-vm-panel|Improved
   preview tab interaction in the VM panel]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24|github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24]]'

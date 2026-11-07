@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 15ec935bff6b66c6928abad415c17ac6e2b89826125436fad34e981e01777e9d
+machine_hash: 469b6971cd1df7fe3657fabc95092349272870d48909170288b288f307d8347e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -138,10 +138,10 @@ record:
   title: 47 Apps and Integrations changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-28-app-chat-connectors-google-analytics-and-xero|App
-  + chat connectors: Google Analytics and Xero]]'
-- '[[Changes/Lovable/2026-07-28-connect-pipedrive-in-one-click|Connect Pipedrive in
-  one click]]'
+- '[[Changes/OpenCode/2026-07-28-2-apps-and-integrations-changes-in-v1-18-8|2 Apps
+  and Integrations changes in v1.18.8]]'
+- '[[Changes/OpenCode/2026-07-28-core-restored-compatibility-with-legacy-mcp-sdk-clients|Core
+  Restored compatibility with legacy MCP SDK clients]]'
 - '[[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign
   in with ChatGPT]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'

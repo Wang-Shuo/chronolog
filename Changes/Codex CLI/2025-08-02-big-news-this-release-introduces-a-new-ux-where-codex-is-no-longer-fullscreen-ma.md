@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a9955dda2e4cb6a0ae073550f28b631a3fc26ed19e9534c138e673f4b20ca1df
+machine_hash: f9f49ebe3d588c667d54c26ff4d52aeabc3c5597188282cde3c8c52f9f1c2606
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,8 +57,7 @@ record:
     fullscreen…'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat:
-  adds navigation bar component and restructure app layout]]'
+- "[[Changes/Gamma/2025-07-31-style-your-visuals|Style Your Visuals \U0001F58C️]]"
 - '[[Changes/Replit/2025-08-01-visual-editor-color-picker-improvement|Visual editor
   color picker improvement]]'
 - '[[Changes/Replit/2025-08-01-theme-toggle-in-avatar-dropdown|Theme toggle in avatar

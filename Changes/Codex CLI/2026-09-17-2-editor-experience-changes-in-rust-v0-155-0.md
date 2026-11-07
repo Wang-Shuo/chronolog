@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c34e95545d31d7921d99f6d3fd9f21b7b49529d07b4243187b5bb7eae801846a
+machine_hash: e81e8031970a3cd2f7e47e65f8421fa4e03e7aa043feee3ef9c4e87a8b90a8d7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Editor Experience changes in rust-v0.155.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-16-9-editor-experience-changes-in-v1-0-85|9
-  Editor Experience changes in v1.0.85]]'
+- '[[Changes/Midjourney/2026-09-16-prompt-bar-pills-typing-a-single-backtick-no-longer-freezes-the-tab-typing-no-a|PROMPT
+  BAR & PILLS Typing a single backtick no longer freezes the tab]]'
 - '[[Changes/Claude Code/2026-09-17-10-editor-experience-changes-in-v2-1-275|10 Editor
   Experience changes in v2.1.275]]'
 - '[[Changes/Claude Code/2026-09-17-vscode-added-a-claudecode-lockeditorgroups-setting-to-stop-claude-from-locking-t|VSCode

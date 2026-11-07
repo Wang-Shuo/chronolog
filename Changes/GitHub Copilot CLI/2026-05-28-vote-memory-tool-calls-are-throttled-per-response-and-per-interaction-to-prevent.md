@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35c41edbef6234678f6c9899ab26618eb17e37b51973d5758cd8a5f7e3171f3d
+machine_hash: 53f3f8181f602e306c93127b20320af2614050d9d138f6ef6da51d767cd76d14
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     prevent…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-26-22915-3-of-4-tui-route-feature-and-memory-toggles-through-app-server-etraut-open|♯22915
-  3 of 4 tui: route feature and memory toggles through app server @etraut-openai]]'
 - '[[Changes/Gemini CLI/2026-05-27-chore-clean-up-launched-memory-features-by-sandytao520-in-https-github-com-googl|chore:
   clean up launched memory features]]'
+- '[[Changes/Midjourney/2026-05-27-activating-a-niji-6-or-v6-personalization-profile-no-longer-immediately-deselect|Activating
+  a Niji 6 or V6 Personalization profile no longer immediately deselects it]]'
 - '[[Changes/Codex CLI/2026-05-28-8-memory-and-personalization-changes-in-rust-v0-135-0|8
   Memory and Personalization changes in rust-v0.135.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856|github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856]]'

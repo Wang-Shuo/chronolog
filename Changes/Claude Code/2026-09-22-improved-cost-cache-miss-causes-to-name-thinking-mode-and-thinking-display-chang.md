@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 2608c02bd1e66bdfbbd590688e7631eca1b054a69346bd61d356c131154b8916
+machine_hash: 788aee462ac4ce2d129ca2ae6c99f118682557b8d862a9fad852b4f6ead31b92
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     changes
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-18-use-firecrawl-without-a-firecrawl-account|Use Firecrawl
-  without a Firecrawl account]]'
 - '[[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|Changed
   auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…]]'
+- '[[Changes/OpenClaw/2026-09-19-6-pricing-model-changes-in-v2026-9-5|6 Pricing Model
+  changes in v2026.9.5]]'
 - '[[Changes/ElevenLabs/2026-09-21-user|User]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases

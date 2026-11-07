@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e2166599bf1c48984e6987d82b955a5d5bcfacc282859039160bc3921914185
+machine_hash: 54e0105978799a7ef0d3177bcf282202b2dea0acdf90a8c6c641d818ba1218a2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
     where…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-added-readable-default-names-for-sessions-at-start-making-them-easier-to-identif|Added
-  readable default names for sessions at start, making them easier to identify…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-recover-corrupted-session-history-on-load|Recover
-  corrupted session history on load]]'
+- '[[Changes/OpenCode/2026-06-30-sdk-add-paged-durable-session-history|SDK Add paged
+  durable session history]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-keep-session-resume-working-when-token-timing-includes-fractional-milliseconds|Keep
   session resume working when token timing includes fractional milliseconds]]'
+- '[[Changes/OpenClaw/2026-07-13-5-projects-and-workspaces-changes-in-v2026-7-1|5
+  Projects and Workspaces changes in v2026.7.1]]'
 scope: macOS and Windows
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad]]'
 source_type: chatgpt_changelog
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-keep-session-resume-working-when-token-timing-includes-fractional-milliseconds|Keep session resume working when token timing includes fractional milliseconds]]
+- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-5-projects-and-workspaces-changes-in-v2026-7-1|5 Projects and Workspaces changes in v2026.7.1]]
 - Later: 2026-07-16 · Ollama · [[Changes/Ollama/2026-07-16-the-interactive-agent-now-receives-the-current-working-directory-for-better-proj|The interactive agent now receives the current working directory for better project…]]
 <!-- chronolog:end -->
 

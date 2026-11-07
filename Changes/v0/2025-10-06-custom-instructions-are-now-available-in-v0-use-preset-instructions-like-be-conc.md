@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 87ae24a412c6259ee9fd140d7245ecd5d270e07ac5e7efd080734186be1e1e98
+machine_hash: f3f0385c2a6bdb859c478502a12875c6be7aa91bea447f6242e7fcb46a0c790c
 product: v0
 product_name: v0
 record:
@@ -44,12 +44,12 @@ record:
   title: Custom Instructions
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New
-  /review commands…]]'
-- '[[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|Introducing
-  ChatGPT Pulse for Pro users]]'
 - '[[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn
   off memory, so ChatGPT won’t save and use memories when responding]]'
+- '[[Changes/Midjourney/2025-10-02-heya-everyone-we-re-doing-a-ranking-party-for-styles|Heya
+  everyone, we''re doing a ranking party for styles !]]'
+- '[[Changes/Midjourney/2025-10-02-ps-the-bottom-of-every-style-has-an-sref-code-and-a-button-the-top-1000-raters-g|PS:
+  The bottom of every style has an --sref code and a ❤️ button]]'
 source_release: '[[Releases/v0/v0-2025-10-06-2025-10-06-custom-instructions-f8946da3|v0-2025-10-06-2025-10-06-custom-instructions-f8946da3]]'
 source_type: v0_changelog
 theme: memory
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn off memory, so ChatGPT won’t save and use memories when responding]]
+- Earlier: 2025-10-02 · Midjourney · [[Changes/Midjourney/2025-10-02-ps-the-bottom-of-every-style-has-an-sref-code-and-a-button-the-top-1000-raters-g|PS: The bottom of every style has an --sref code and a ❤️ button]]
 - Later: 2025-10-08 · ChatGPT · [[Changes/ChatGPT/2025-10-08-longer-memory-for-more-personalized-responses-8c6877|Longer memory for more personalized responses]]
 <!-- chronolog:end -->
 

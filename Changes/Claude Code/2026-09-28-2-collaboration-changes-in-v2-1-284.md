@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6c618d3b96aa25bc73f4f41ce1df67f54a8d650c97c49869ffe7388dfae9c34
+machine_hash: cf01968100fc55a4e10b519bf71146ad84e6a0801cd8c6ac22a73f8f50c61cfe
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,9 +45,10 @@ record:
   title: 2 Collaboration changes in v2.1.284
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-test-strengthen-shared-utility-behavior-by-aivong-openhands-in-https-github-com|test:
-  strengthen shared utility behavior]]'
-- '[[Changes/Cursor/2026-09-23-team-rules|Team rules]]'
+- '[[Changes/OpenClaw/2026-09-23-16-collaboration-changes-in-v2026-9-6|16 Collaboration
+  changes in v2026.9.6]]'
+- '[[Changes/Midjourney/2026-09-24-a-few-updates-to-share-with-you-today|A few updates
+  to share with you today]]'
 - '[[Changes/Codex CLI/2026-09-25-47411-apply-shared-network-policy-throughout-embedded-codex-startup-acrognale-oa|♯47411
   Apply shared network policy throughout embedded Codex startup @acrognale-oai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'

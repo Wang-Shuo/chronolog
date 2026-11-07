@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8da6c98e0e673b5c5d59c0ca372591b88c7f46c9ca6e7a5e1b76d95e0d357518
+machine_hash: df29af42b0f983ddeb1611e29fd591673f0783ec71adce108c864ac65acc194e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -123,10 +123,10 @@ record:
   title: 15 Developer Workflow changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-29-35-developer-workflow-changes-in-v0-12-5|35 Developer
-  Workflow changes in v0.12.5]]'
-- '[[Changes/Claude Code/2026-10-30-4-developer-workflow-changes-in-v2-1-314|4 Developer
-  Workflow changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-choose-a-base-branch-quickly|Choose a Base Branch
+  Quickly]]'
+- '[[Changes/OpenCode/2026-10-30-8-developer-workflow-changes-in-v2-2-3|8 Developer
+  Workflow changes in v2.2.3]]'
 - '[[Changes/Claude Code/2026-10-31-2-developer-workflow-changes-in-v2-1-316|2 Developer
   Workflow changes in v2.1.316]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'
@@ -205,7 +205,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.13.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-developer-workflow-changes-in-v2-1-316|2 Developer Workflow changes in v2.1.316]]
-- Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-developer-workflow-changes-in-1-19-0|2 Developer Workflow changes in 1.19.0]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-18-developer-workflow-changes-in-v2026-10-10|18 Developer Workflow changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2af98cb6c96b7f65b10ae0cb4080a22eb5fb7f6220f8aae8e39e2d77a202131
+machine_hash: cf427a44e297d1e8447bd99e42aec0fe7c5caec171f55681147e96a4a451efe8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -68,10 +68,10 @@ record:
   title: 6 Account and Access changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-added-the-signed-in-account-to-claude-apps-gateway-sign-in-when-the-gateway-name|Added
-  the signed-in account to Claude apps gateway sign-in]]'
 - '[[Changes/Codex CLI/2026-09-17-6-account-and-access-changes-in-rust-v0-155-0|6
   Account and Access changes in rust-v0.155.0]]'
+- '[[Changes/OpenClaw/2026-09-19-28-account-and-access-changes-in-v2026-9-5|28 Account
+  and Access changes in v2026.9.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-managed-plugin-commands-load-organization-marketplace-policy-with-environment-gi|Managed
   plugin commands load organization marketplace policy with environment…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'

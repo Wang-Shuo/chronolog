@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e36ddec58c55c4d8316b313587c3ae97bb14ff027864959d39e8868c033bafbd
+machine_hash: f703ebc3f45dcb4abfe9a72fd53f2510237c55cef3e9215e9f45e69f05039c7a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     with `--resume`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-improved-terminal-rendering-performance-large-diffs-and-long-transcripts-render|Improved
-  terminal rendering performance]]'
 - '[[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2
   Reliability and Performance changes in v0.34.1]]'
 - '[[Changes/Claude Code/2026-09-15-improved-responsiveness-in-long-sessions-hook-progress-and-sub-agent-activity-no|Improved
   responsiveness in long sessions]]'
+- '[[Changes/Google Antigravity/2026-09-15-removed-a-redundant-scan-of-your-skills-rules-and-other-customization-files-that|Removed
+  a redundant scan of your skills, rules, and other customization files…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: reliability-performance
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-improved-responsiveness-in-long-sessions-hook-progress-and-sub-agent-activity-no|Improved responsiveness in long sessions]]
+- Earlier: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-removed-a-redundant-scan-of-your-skills-rules-and-other-customization-files-that|Removed a redundant scan of your skills, rules, and other customization files…]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added a visible warning when memory usage is critical, with steps to free memory…]]
 <!-- chronolog:end -->
 

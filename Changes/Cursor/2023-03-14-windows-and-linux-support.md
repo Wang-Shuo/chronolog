@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cb08e97241dbfc7c8d4bcf007ec3abab037fd20d503033d8413290c938b02be0
+machine_hash: ef02587982168d5f06e19bc545544295a236f56066231ac529a43cda33013e0e
 product: cursor
 product_name: Cursor
 record:
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 20 tracked products.
+- Earliest same-theme entry among the 29 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

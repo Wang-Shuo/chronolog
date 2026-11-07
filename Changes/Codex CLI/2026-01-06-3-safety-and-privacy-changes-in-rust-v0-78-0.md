@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c738a58e45f106f891b46b2aba8e3fdd10d99d778ae5768f99f3f7a6975def1a
+machine_hash: 2127cb321c9041e6deba103848cc21a8b192c896103fb82637a14c2f03422439
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,11 +45,12 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.78.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2025-12-23-public-preview-link-controls|Public preview link controls]]'
-- '[[Changes/Dify/2025-12-25-3-safety-and-privacy-changes-in-1-11-2|3 Safety and Privacy
-  changes in 1.11.2]]'
-- '[[Changes/Replit/2025-12-26-security-center-for-enterprise|Security Center for
-  Enterprise]]'
+- '[[Changes/OpenCode/2026-01-04-13-safety-and-privacy-changes-in-v1-1-1|13 Safety
+  and Privacy changes in v1.1.1]]'
+- '[[Changes/OpenCode/2026-01-05-core-fix-permission-evaluation-to-use-rule-based-matching-instead-of-wildcard-pa|Core
+  Fix permission evaluation to use rule-based matching instead of wildcard patterns]]'
+- '[[Changes/OpenCode/2026-01-05-core-preserve-permission-config-key-order-to-maintain-user-defined-permission-pr|Core
+  Preserve permission config key order to maintain user-defined permission precedence]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -93,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.78.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-12-26 · Replit · [[Changes/Replit/2025-12-26-security-center-for-enterprise|Security Center for Enterprise]]
+- Earlier: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-core-preserve-permission-config-key-order-to-maintain-user-defined-permission-pr|Core Preserve permission config key order to maintain user-defined permission precedence]]
 - Later: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-allow-global-exec-flags-model-json-sandbox-toggles-etc-to-be-passed-after-codex|Allow global exec flags (model/json/sandbox toggles, etc.) to be passed after…]]
 <!-- chronolog:end -->
 

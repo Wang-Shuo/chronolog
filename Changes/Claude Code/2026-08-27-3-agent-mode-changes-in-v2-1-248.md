@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73e19c0786a72defb1972645cf90795c45d754d843c90fc2a5b8a2bc4867f5bb
+machine_hash: 1bb399995316b342fb1d2b325458bd43f13dd62246d07a87e01c45e360bc3aef
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Agent Mode changes in v2.1.248
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|\U0001F91D
-  Files for delegated tasks. A task handed to a sub-agent can now carry…]]"
 - '[[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent
   Mode changes in rust-v0.150.0]]'
+- '[[Changes/Google Antigravity/2026-08-26-3-agent-mode-changes-in-hub-v2-11-0-generative-ui-and-ui|3
+  Agent Mode changes in HUB v2.11.0 — Generative UI and UI…]]'
 - '[[Changes/Lovable/2026-08-26-add-your-app-to-slack-as-an-agent|Add your app to
   Slack as an agent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'

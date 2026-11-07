@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 29f26dab3c21e21aba04e3a062aa5b1bcc84745485120c6c8b2ae390b4449ce4
+machine_hash: 452d37bf3e0b9d7c6743d78dd07474b81327c7da5cb5dfdd8e52862ce7b19998
 product: lovable
 product_name: Lovable
 record:
@@ -47,10 +47,10 @@ record:
   title: 'Chat connectors: Loom'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-20-apps-and-integrations-changes-in-rust-v0-162-0|20
-  Apps and Integrations changes in rust-v0.162.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-08-2-apps-and-integrations-changes-in-v1-0-94|2
   Apps and Integrations changes in v1.0.94]]'
+- '[[Changes/Google Antigravity/2026-10-08-construct-and-display-custom-user-interfaces-inside-the-side-panel-as-part-of-in|Construct
+  and display custom user interfaces inside the side panel as part…]]'
 - '[[Changes/Lovable/2026-10-08-app-chat-connectors-zendesk-neon-motherduck-oracle-autonomous-ai-database-ibm-db|App
   + chat connectors]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-08-2026-10-08-e997c19c|lovable-2026-10-08-2026-10-08-e997c19c]]'
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-08-2-apps-and-integrations-changes-in-v1-0-94|2 Apps and Integrations changes in v1.0.94]]
+- Earlier: 2026-10-08 · Google Antigravity · [[Changes/Google Antigravity/2026-10-08-construct-and-display-custom-user-interfaces-inside-the-side-panel-as-part-of-in|Construct and display custom user interfaces inside the side panel as part…]]
 - Later: 2026-10-08 · Ollama · [[Changes/Ollama/2026-10-08-readme-add-oxi-to-community-integrations-by-maziluiosif-in-https-github-com-olla|README: add oxi to community integrations]]
 <!-- chronolog:end -->
 

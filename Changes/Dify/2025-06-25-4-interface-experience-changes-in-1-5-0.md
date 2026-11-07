@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a495a16b6fc353930b95d1f35a6bbd2c34c6cf3a263ab701261d7eea64c7ac02
+machine_hash: d47245afd240a90e0fb15fa5d72c57257a98b765bfe48a85b15f6b59cd57ce97
 product: dify
 product_name: Dify
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Interface Experience changes in 1.5.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-06-10-new-menu-to-open-previous-conversations-to-quickly-switch-conversations|New
-  menu to open previous conversations to quickly switch conversations]]'
-- '[[Changes/Dify/2025-06-11-markdown-rendering-fixes-ensured-abbreviations-display-properly-in-react-markdow|Markdown
-  Rendering Fixes]]'
-- '[[Changes/Dify/2025-06-16-conversation-panel-optimization-we-ve-fine-tuned-the-width-adjustment-logic-for|Conversation
-  Panel Optimization]]'
+- '[[Changes/Midjourney/2025-06-17-if-you-wanna-switch-back-to-v6-1-go-under-the-web-settings-on-your-prompt-bar-or|If
+  you wanna switch back to V6.1 go under the web settings on your prompt bar…]]'
+- '[[Changes/Midjourney/2025-06-18-we-are-also-letting-you-animate-images-uploaded-from-outside-of-midjourney|We
+  are also letting you animate images uploaded from outside of Midjourney]]'
+- '[[Changes/Midjourney/2025-06-19-when-saving-an-video-to-share-please-right-click-your-video-and-press-save-for-s|When
+  saving an video to share, please right click your video and press…]]'
 source_release: '[[Releases/Dify/dify-2025-06-25-1-5-0-github-227620290-133307f4|dify-2025-06-25-1-5-0-github-227620290-133307f4]]'
 source_type: github_releases
 theme: interface-experience
@@ -99,7 +99,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.5.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-conversation-panel-optimization-we-ve-fine-tuned-the-width-adjustment-logic-for|Conversation Panel Optimization]]
+- Earlier: 2025-06-19 · Midjourney · [[Changes/Midjourney/2025-06-19-when-saving-an-video-to-share-please-right-click-your-video-and-press-save-for-s|When saving an video to share, please right click your video and press…]]
 - Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-2-interface-experience-changes-in-v0-85-0|2 Interface Experience changes in v0.85.0]]
 <!-- chronolog:end -->
 

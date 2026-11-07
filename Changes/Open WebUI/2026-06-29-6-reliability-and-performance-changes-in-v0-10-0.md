@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4480e27f3a236cd2bff6efe2737f980c742ac3de16c2cb81430a85cfdb28b8e5
+machine_hash: 5e7d0f299536b521551a720643a7a9bceaee42d6c4caf5d0725ba5b397c487bc
 product: open-webui
 product_name: Open WebUI
 record:
@@ -70,10 +70,10 @@ record:
   title: 6 Reliability and Performance changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-apps-can-display-richer-safety-buffering-ui-using-server-provided-visibility-and|Apps
-  can display richer safety-buffering UI using server-provided visibility…]]'
 - '[[Changes/Dify/2026-06-25-2-reliability-and-performance-changes-in-1-15-0|2 Reliability
   and Performance changes in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-optimized-file-watching-notifications-to-prevent-visual-flickering-and-improve-p|Optimized
+  file watching notifications to prevent visual flickering and improve…]]'
 - '[[Changes/Ollama/2026-06-25-llm-size-mmproj-offload-by-projector-memory-by-dhiltgen-in-https-github-com-olla|llm:
   size mmproj offload by projector memory]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01|open-webui-2026-06-29-v0-10-0-github-346459817-fd55ed01]]'

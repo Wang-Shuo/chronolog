@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b34d66e61efe419dc30faec4816f7c6f3db12cbc2534f5f88b3bbf7ad98a302
+machine_hash: 5682aba2494a7dc63b3a444e0995e70a3ca8ae95562c0f1671a26fbf6c78e8a3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -78,8 +78,8 @@ record:
   title: 17 Voice and Audio changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice
-  and Audio changes in rust-v0.155.0]]'
+- '[[Changes/OpenClaw/2026-09-19-15-voice-and-audio-changes-in-v2026-9-5|15 Voice
+  and Audio changes in v2026.9.5]]'
 - '[[Changes/ElevenLabs/2026-09-21-text-to-speech|Text to Speech]]'
 - '[[Changes/Open WebUI/2026-09-21-5-voice-and-audio-changes-in-v0-11-4|5 Voice and
   Audio changes in v0.11.4]]'
@@ -164,7 +164,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.156.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-5-voice-and-audio-changes-in-v0-11-4|5 Voice and Audio changes in v0.11.4]]
-- Later: 2026-09-23 · ChatGPT · [[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use plugins in Voice and get work done by speaking]]
+- Later: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-right-clicking-an-image-caption-or-an-enlarged-image-no-longer-pops-open-the-thu|Right-clicking an image caption or an enlarged image no longer pops open…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

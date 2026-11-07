@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fbf04f6a2181cb1587f176eb5c8e2f007467649f93d4f249a2121c85d6a57796
+machine_hash: 84505c5828d9d75421b6008efbcfc385f1995e7860c46f23ae9586667fbf6058
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -60,12 +60,12 @@ record:
   title: Text to Speech
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed
-  Fable to always appear in /model on the Anthropic API]]'
-- '[[Changes/Codex CLI/2026-09-18-2-model-support-changes-in-rust-v0-155-1|2 Model
-  Support changes in rust-v0.155.1]]'
+- '[[Changes/Runway/2026-09-18-kling-o3-4k-kling-3-0-standard-kling-o3-standard-and-kling-3-0-motion-control-ar|Kling
+  Models on Runway MCP]]'
 - '[[Changes/Ollama/2026-09-19-2-model-support-changes-in-v0-34-3|2 Model Support
   changes in v0.34.3]]'
+- '[[Changes/OpenClaw/2026-09-19-28-model-support-changes-in-v2026-9-5|28 Model Support
+  changes in v2026.9.5]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-21-2026-09-21-6d2d4d80|elevenlabs-2026-09-21-2026-09-21-6d2d4d80]]'
 source_type: elevenlabs_changelog
 theme: model-support
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-19 · Ollama · [[Changes/Ollama/2026-09-19-2-model-support-changes-in-v0-34-3|2 Model Support changes in v0.34.3]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-28-model-support-changes-in-v2026-9-5|28 Model Support changes in v2026.9.5]]
 - Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-enable-the-rubber-duck-agent-for-every-model-family-and-for-low-cost-tier-sessio|Enable the rubber-duck agent for every model family and for low-cost-tier session models]]
 <!-- chronolog:end -->
 

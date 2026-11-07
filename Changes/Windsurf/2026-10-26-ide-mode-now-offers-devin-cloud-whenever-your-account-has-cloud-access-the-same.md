@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: bea526d1f8d74ad31cadcf8460f3a5b7ca7f340eec461d2cc2067e8639a91a12
+machine_hash: c49a666ba9f10a5f10bde73f6d3442e05c97274c9a54361124de1ca7f3339d16
 product: windsurf
 product_name: Windsurf
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-23 · Replit · [[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]
-- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-conversation-label-the-share-toggle-share-with-org-users-in-team-orgs-ohe-3|feat(conversation): label the share toggle "Share with Org users" in team orgs (OHE-3765)]]
+- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-malformed-microsoft-teams-message-html-no-longer-causes-the-parsing-stalls-that|Malformed Microsoft Teams message HTML no longer causes the parsing stalls…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

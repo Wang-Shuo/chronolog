@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 328db50d51fdc634ad93091b85a3a569b439df6d61fc689ecb8c6e618fd02cb4
+machine_hash: 54b003534af0014c77a52e617bc01aae8ebbd2d34fbdcaf8adafa763f968f71a
 product: v0
 product_name: v0
 record:
@@ -42,8 +42,8 @@ record:
     accounts
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-02-23-external-collaborator-visibility|External collaborator
-  visibility]]'
+- '[[Changes/OpenCode/2026-02-24-core-acp-both-live-and-load-share-synthetic-pending-status-preceding-actual-data|Core
+  ACP both live and load share synthetic pending status preceding actual data]]'
 - '[[Changes/Codex CLI/2026-02-25-12028-remove-feature-flag-collaboration-modes-aibrahim-oai|♯12028
   remove feature flag collaboration modes @aibrahim-oai]]'
 - '[[Changes/Gemini CLI/2026-02-25-enable-in-cli-extension-management-commands-for-team-by-chrstnb-in-https-github|Enable

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bfbb19f3b23c36002370d623cbdb52368845a1bc73e9781c4192d629045b8288
+machine_hash: 249166f9f4f5297efb5847b8a4a681c725ffcea8f2a9e0656a95757c3ac78119
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'test: strengthen LLM profile configuration'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-5-model-support-changes-in-v2-1-280|5 Model Support
-  changes in v2.1.280]]'
-- '[[Changes/Cline/2026-09-22-3-model-support-changes-in-v4-1-20|3 Model Support changes
-  in v4.1.20]]'
 - '[[Changes/Codex CLI/2026-09-22-25-model-support-changes-in-rust-v0-156-0|25 Model
   Support changes in rust-v0.156.0]]'
+- '[[Changes/Google Antigravity/2026-09-22-you-can-now-attach-microsoft-office-documents-word-excel-and-powerpoint-to-a-pro|You
+  can now attach Microsoft Office documents (Word, Excel, and PowerPoint)…]]'
+- '[[Changes/Google Antigravity/2026-09-22-2-model-support-changes-in-hub-v2-17-0-plan-before-you-build|2
+  Model Support changes in HUB v2.17.0 — Plan before you build]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92|openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-25-model-support-changes-in-rust-v0-156-0|25 Model Support changes in rust-v0.156.0]]
+- Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-2-model-support-changes-in-hub-v2-17-0-plan-before-you-build|2 Model Support changes in HUB v2.17.0 — Plan before you build]]
 - Later: 2026-09-22 · v0 · [[Changes/v0/2026-09-22-the-updated-model-picker-lets-you-browse-and-search-available-ai-gateway-models|More model choices, with Enterprise owner controls]]
 <!-- chronolog:end -->
 

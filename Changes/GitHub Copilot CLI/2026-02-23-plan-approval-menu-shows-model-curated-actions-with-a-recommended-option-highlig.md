@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7a7d056da221795674a706f0318c93d517bf9d2978b4c89e1bae669623c51855
+machine_hash: 6b771cf1efe258aa8f2a49d3e2b8d59c19869431f435ab87a46b7781d053ea51
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -56,10 +56,9 @@ record:
     highlighted…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-2-model-support-changes-in-v0-0-412|2 Model
-  Support changes in v0.0.412]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-20-2-model-support-changes-in-v0-0-413|2 Model
-  Support changes in v0.0.413]]'
+- '[[Changes/Midjourney/2026-02-20-please-note|Please Note]]'
+- '[[Changes/OpenCode/2026-02-20-core-remove-unnecessary-deep-clones-from-session-loop-and-llm-stream|Core
+  Remove unnecessary deep clones from session loop and LLM stream]]'
 - '[[Changes/Ollama/2026-02-21-2-model-support-changes-in-v0-17-0|2 Model Support
   changes in v0.17.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-23-v0-0-415-github-289607575-3b8d8d7c|github-copilot-cli-2026-02-23-v0-0-415-github-289607575-3b8d8d7c]]'

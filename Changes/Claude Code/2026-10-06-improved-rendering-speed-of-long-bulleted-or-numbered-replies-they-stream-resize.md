@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd2f734265e7702f4c0dbddadc3f8ce7f325c109a7ecee56c0b756d7353aa2df
+machine_hash: e165705797ef7bfaac60328570a87d8f3a16f72b729c00d00eca600b6e3eeadc
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Improved rendering speed of long bulleted or numbered replies
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-fixed-the-powershell-tool-s-permission-check-skipping-deny-and-ask-rules-and-cac|Fixed
-  the PowerShell tool''s permission check skipping deny and ask rules…]]'
 - '[[Changes/Claude Code/2026-10-01-3-reliability-and-performance-changes-in-v2-1-287|3
   Reliability and Performance changes in v2.1.287]]'
+- '[[Changes/Runway/2026-10-02-agent-can-now-generate-with-seedance-2-5-draft-mode-creating-fast-480p-drafts-wi|Seedance
+  2.5 Draft Mode in Agent]]'
 - '[[Changes/Claude Code/2026-10-05-2-reliability-and-performance-changes-in-v2-1-290|2
   Reliability and Performance changes in v2.1.290]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d32b841dce7b8e1f13ab347b7fc91946dfd1d7ade543d357cae5abd254bcb3d1
+machine_hash: 91dcf104e462fd594d100f7f89d3368d2e7d1c95b401c1bc3cc8ae9a920a3ba3
 product: v0
 product_name: v0
 record:
@@ -44,8 +44,8 @@ record:
     setup
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-07-06-igpu-can-now-offload-vision-models-with-padding-to-fit-available-memory|iGPU
-  can now offload vision models with padding to fit available memory]]'
+- '[[Changes/OpenCode/2026-07-06-desktop-improved-large-review-pane-performance|Desktop
+  Improved large review pane performance]]'
 - '[[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2
   Reliability and Performance changes in v2.1.203]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-5-reliability-and-performance-changes-in-v1-0-69|5

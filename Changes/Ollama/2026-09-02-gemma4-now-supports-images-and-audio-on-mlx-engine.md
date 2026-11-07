@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 614d48abba7dbb55fcf1c4af8bd00839e51604da770c3baa7052e16052d10167
+machine_hash: f9025446aaf373d6b957610512e4397bfcfed5acc470e1963a024b7b01b37f61
 product: ollama
 product_name: Ollama
 record:
@@ -40,12 +40,12 @@ record:
   title: gemma4 now supports images and audio on MLX engine
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-content-from-a-live-voice-conversation-can-now-appear-on-your-iphone-s-lock-scre|Content
-  from a Live voice conversation can now appear on your iPhone’s Lock Screen…]]'
-- '[[Changes/ChatGPT/2026-08-31-follow-along-outside-the-app-live-activities-can-show-content-from-your-voice-co|Follow
-  along outside the app]]'
-- '[[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To
-  continue a Voice conversation outside ChatGPT, turn on Background conversations…]]'
+- '[[Changes/OpenClaw/2026-09-01-9-voice-and-audio-changes-in-v2026-8-2|9 Voice and
+  Audio changes in v2026.8.2]]'
+- '[[Changes/Google Antigravity/2026-09-02-added-drag-and-drop-and-improved-support-for-attaching-audio-files-to-conversati|Added
+  drag-and-drop and improved support for attaching audio files to conversations…]]'
+- '[[Changes/Google Antigravity/2026-09-02-you-can-now-send-a-message-with-the-send-button-while-dictation-is-still-running|Send
+  a message with the send button while dictation is still running, instead…]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-02-v0-33-3-github-380898665-cefaaea2|ollama-2026-09-02-v0-33-3-github-380898665-cefaaea2]]'
 source_type: github_releases
 theme: voice
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To continue a Voice conversation outside ChatGPT, turn on Background conversations…]]
+- Earlier: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-you-can-now-send-a-message-with-the-send-button-while-dictation-is-still-running|Send a message with the send button while dictation is still running, instead…]]
 - Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-5-voice-and-audio-changes-in-rust-v0-153-0|5 Voice and Audio changes in rust-v0.153.0]]
 <!-- chronolog:end -->
 

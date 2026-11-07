@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c889e2ae6e0e73370c84afadf04999589a21724c6673342cc0dcfb9e737d54b4
+machine_hash: 0a0432d320beba88ea00ee60ab4cf28e0d5e77bbbd5a07438c06ee9abcdf2031
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,9 @@ record:
   title: 2 Mobile and Desktop changes in v1.0.49
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-18-ios-sdk|iOS SDK]]'
 - '[[Changes/Lovable/2026-05-18-lovable-mobile-app|Lovable mobile app]]'
+- '[[Changes/OpenCode/2026-05-18-6-mobile-and-desktop-changes-in-v1-15-5|6 Mobile
+  and Desktop changes in v1.15.5]]'
 - '[[Changes/Gemini/2026-05-19-the-next-chapter-of-gemini-live|The next chapter of
   Gemini Live]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8|github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8]]'
@@ -91,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.49
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-the-next-chapter-of-gemini-live|The next chapter of Gemini Live]]
-- Later: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-improvements-and-bug-fixes|Improvements and bug fixes]]
+- Later: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-3-mobile-and-desktop-changes-in-v1-15-6|3 Mobile and Desktop changes in v1.15.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

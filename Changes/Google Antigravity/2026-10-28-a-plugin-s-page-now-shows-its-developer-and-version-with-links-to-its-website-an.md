@@ -1,0 +1,94 @@
+---
+card_id: google-antigravity-2026-10-28-135db7
+date: '2026-10-28'
+description: 'Google Antigravity · 2026-10-28 · Apps and Integrations: A plugin''s
+  page now shows its developer and version, with links to its website and repository.'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1315
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 29
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: eaa38d41598ff7585c93d57c5b4844df931d0ceea3b5e0067ab15ad7be1112ab
+product: google-antigravity
+product_name: Google Antigravity
+record:
+  card_id: google-antigravity-2026-10-28-135db7
+  comparison: ''
+  date: '2026-10-28'
+  description: 'Google Antigravity — HUB v2.28.1 — Conversation navigator and third
+    party tools notice: A plugin''s page now shows its developer and version, with
+    links to its website and repository.'
+  evidence:
+  - quote: A plugin's page now shows its developer and version, with links to its
+      website and repository.
+    source_release: https://antigravity.google/releases?tab=hub&version=2.28.1
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: google-antigravity
+  product_name: Google Antigravity
+  slug: a-plugin-s-page-now-shows-its-developer-and-version-with-links-to-its-website-an
+  source_release: google-antigravity-2026-10-28-rel-hub-2-28-1-7097502c
+  source_type: antigravity_changelog
+  theme: apps-integrations
+  title: A plugin's page now shows its developer and version, with links to its website…
+  type: change
+related_changes:
+- '[[Changes/OpenCode/2026-10-27-plugins-can-now-attach-and-update-keyed-session-instructions-with-ctx-session-in|Plugins
+  can now attach and update keyed session instructions…]]'
+- '[[Changes/OpenCode/2026-10-27-opencode-ai-root-is-now-the-promise-api|opencode/ai
+  root is now the Promise API]]'
+- '[[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions):
+  name dialog viewport limits]]'
+source_release: '[[Releases/Google Antigravity/google-antigravity-2026-10-28-rel-hub-2-28-1-7097502c|google-antigravity-2026-10-28-rel-hub-2-28-1-7097502c]]'
+source_type: antigravity_changelog
+theme: apps-integrations
+title: A plugin's page now shows its developer and version, with links to its website…
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# A plugin's page now shows its developer and version, with links to its website…
+
+**Google Antigravity** · 2026-10-28 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://antigravity.google/releases?tab=hub&version=2.28.1) · from [[Releases/Google Antigravity/google-antigravity-2026-10-28-rel-hub-2-28-1-7097502c|HUB v2.28.1 — Conversation navigator and third party tools notice]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> A plugin's page now shows its developer and version, with links to its website and repository.
+>
+> Source: https://antigravity.google/releases?tab=hub&version=2.28.1
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Google Antigravity/2026-10-28-conversation-navigator-and-third-party-tools-notice|Conversation navigator and third party tools notice]] · Apps and Integrations
+- [[Changes/Google Antigravity/2026-10-28-the-marketplace-tab-and-the-pages-of-plugins-from-third-party-developers-now-sho|The Marketplace tab and the pages of plugins from third party developers now show…]] · Safety and Privacy
+- [[Changes/Google Antigravity/2026-10-28-the-new-conversation-navigator-puts-a-rail-at-the-left-edge-of-each-conversation|The new conversation navigator puts a rail at the left edge of each conversation…]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions): name dialog viewport limits]]
+- Later: 2026-10-28 · Suno · [[Changes/Suno/2026-10-28-connect-suno-to-claude-chatgpt-claude-code-and-other-mcp-clients-then-create-mus|Connect Suno to Claude, ChatGPT, Claude Code and other MCP clients, then create…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20google-antigravity-2026-10-28-135db7&body=Card%3A%20Changes%2FGoogle%20Antigravity%2F2026-10-28-a-plugin-s-page-now-shows-its-developer-and-version-with-links-to-its-website-an.md%0ACard%20ID%3A%20google-antigravity-2026-10-28-135db7%0ASource%3A%20https%3A%2F%2Fantigravity.google%2Freleases%3Ftab%3Dhub%26version%3D2.28.1%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

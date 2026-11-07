@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 36fdcc4cd206aab56ab56837bbc66d0a1e0fee1088baade0b35d7ad3261a6c48
+machine_hash: 170378d8a4366a20d2e48dba885dd736679d01b6a5b2913bad2160db16555da7
 product: dify
 product_name: Dify
 record:
@@ -51,10 +51,10 @@ record:
   title: 4 Account and Access changes in 1.11.3
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-07-validate-oauth-resource-parameter-matches-mcp-server-url-by-galz10-in-https-gith|Validate
-  OAuth resource parameter matches MCP server URL]]'
-- '[[Changes/Open WebUI/2026-01-09-3-account-and-access-changes-in-v0-7-0|3 Account
-  and Access changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-12-rename-opencode-password-to-opencode-server-password-for-clearer-authentication|Rename
+  OPENCODE_PASSWORD to OPENCODE_SERVER_PASSWORD for clearer authentication…]]'
+- '[[Changes/OpenCode/2026-01-12-terminal-copy-oauth-url-when-device-code-is-unavailable|Terminal
+  Copy OAuth URL when device code is unavailable]]'
 - '[[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated
   "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]'
 source_release: '[[Releases/Dify/dify-2026-01-13-1-11-3-github-276298566-1fe35168|dify-2026-01-13-1-11-3-github-276298566-1fe35168]]'
@@ -103,7 +103,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.11.3
 ## Nearby in Account and Access
 
 - Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]
-- Later: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-changed-oauth-and-api-console-urls-from-console-anthropic-com-to-platform-claude|Changed OAuth and API Console URLs from console.anthropic.com to platform.claude.com]]
+- Later: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-desktop-provide-pty-socket-authentication-if-available-from-desktop|Desktop Provide PTY socket authentication if available from desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

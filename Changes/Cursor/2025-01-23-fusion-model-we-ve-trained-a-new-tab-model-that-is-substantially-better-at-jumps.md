@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 84a8718cb082b15a3bb7066906b0867465f914281f4e7f6b36b6476447b944d1
+machine_hash: 49be56dbec1c9190567d27077b4f5dbf6bdea2cad76cee8d819dca680f6b5b37
 product: cursor
 product_name: Cursor
 record:
@@ -62,12 +62,12 @@ record:
     at jumps…'
   type: change
 related_changes:
-- '[[Changes/Dify/2025-01-07-added-cheaper-and-long-context-models-for-qwen2-5-72b-instruct-and-a-variety-of|Added
-  cheaper and long context models for Qwen2.5-72B-Instruct, and a variety…]]'
 - '[[Changes/Ollama/2025-01-08-granite-3-1-moe-https-ollama-com-library-granite3-1-moe-1b-and-3b-long-context-m|Granite
   3.1 MoE((source link)]]'
 - '[[Changes/Aider/2025-01-10-increased-max-chat-history-tokens-limit-from-4k-to-8k|Increased
   max chat history tokens limit from 4k to 8k]]'
+- '[[Changes/Gamma/2025-01-22-we-ve-raised-the-limits-for-card-generation-on-our-plus-and-pro-plans-to-give-yo|Generate
+  up to 50 cards!]]'
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'
 source_type: cursor_changelog
 theme: context-window
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-increased-max-chat-history-tokens-limit-from-4k-to-8k|Increased max chat history tokens limit from 4k to 8k]]
+- Earlier: 2025-01-22 · Gamma · [[Changes/Gamma/2025-01-22-we-ve-raised-the-limits-for-card-generation-on-our-plus-and-pro-plans-to-give-yo|Generate up to 50 cards!]]
 - Later: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-new-context-window-progress-bar-in-the-task-header-to-understand-increased-cost|New Context Window progress bar in the task header to understand increased…]]
 <!-- chronolog:end -->
 

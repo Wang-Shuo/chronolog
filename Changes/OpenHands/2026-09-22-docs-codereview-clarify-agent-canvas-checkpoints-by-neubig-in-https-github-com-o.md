@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 199068167453f5ac96ec3680aec36f5106f8f86973e7c8914e2656a72042010d
+machine_hash: 5760dda7c5d3be162fa79be3028b5df902c7b0fc44bf68f0e861f67e843f37cf
 product: openhands
 product_name: OpenHands
 record:
@@ -53,12 +53,12 @@ record:
   title: 'docs(codereview): clarify Agent Canvas checkpoints'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude
-  Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]'
 - '[[Changes/Open WebUI/2026-09-21-10-files-and-data-changes-in-v0-11-4|10 Files and
   Data changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-46027-document-and-test-wildcards-in-network-proxy-domain-patterns-viyatb-oai|♯46027
   Document and test ? wildcards in network proxy domain patterns @viyatb-oai]]'
+- '[[Changes/Google Antigravity/2026-09-22-fewer-link-cards-you-did-not-ask-for-the-agent-surfaces-a-link-card-in-the-conve|Fewer
+  link cards you did not ask for]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92|openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92]]'
 source_type: github_releases
 theme: file-data
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-46027-document-and-test-wildcards-in-network-proxy-domain-patterns-viyatb-oai|♯46027 Document and test ? wildcards in network proxy domain patterns @viyatb-oai]]
+- Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-fewer-link-cards-you-did-not-ask-for-the-agent-surfaces-a-link-card-in-the-conve|Fewer link cards you did not ask for]]
 - Later: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-docs-review-add-repository-and-product-scope-to-the-canvas-review-guide-by-all-h|docs(review): add repository and product scope to the Canvas review guide]]
 <!-- chronolog:end -->
 

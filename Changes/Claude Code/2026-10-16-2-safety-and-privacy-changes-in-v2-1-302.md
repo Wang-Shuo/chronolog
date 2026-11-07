@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eed59f1300cd79b7f22ab8a972bbf0d0ef7c070e64f7109dd3df41e710abc818
+machine_hash: 8d6c8482bbb8c231aab4694cd1eb20a45ed13a58ddf5bea6ae259a46810e6088
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.302
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-14-rich-ui-embed-console-errors-rich-ui-tool-embeds-no-longer-log-a-security-error|\U0001F9E9
-  Rich UI embed console errors. Rich UI tool embeds no longer log a security…]]"
 - '[[Changes/Claude Code/2026-10-15-5-safety-and-privacy-changes-in-v2-1-301|5 Safety
   and Privacy changes in v2.1.301]]'
 - '[[Changes/Codex CLI/2026-10-15-18-safety-and-privacy-changes-in-rust-v0-163-0|18
   Safety and Privacy changes in rust-v0.163.0]]'
+- '[[Changes/Google Antigravity/2026-10-15-the-review-permissions-dialog-now-wraps-long-commands-and-paths-so-you-can-read|The
+  Review permissions dialog now wraps long commands and paths, so you can read…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-16-v2-1-302-github-415177347-763faf43|claude-code-2026-10-16-v2-1-302-github-415177347-763faf43]]'
 source_type: github_releases
 theme: safety-privacy
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.302
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-18-safety-and-privacy-changes-in-rust-v0-163-0|18 Safety and Privacy changes in rust-v0.163.0]]
+- Earlier: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-the-review-permissions-dialog-now-wraps-long-commands-and-paths-so-you-can-read|The Review permissions dialog now wraps long commands and paths, so you can read…]]
 - Later: 2026-10-16 · Cline · [[Changes/Cline/2026-10-16-cline-cloud-sessions-rolling-out-gradually-run-a-task-in-a-hosted-sandbox-on-a-g|Cline Cloud sessions, rolling out gradually]]
 <!-- chronolog:end -->
 

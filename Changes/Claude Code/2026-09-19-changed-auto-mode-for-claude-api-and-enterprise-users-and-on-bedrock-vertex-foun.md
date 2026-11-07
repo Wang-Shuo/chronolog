@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: b4cfec11963feb6e398fc173690f50d24de53681a4c48734879784d10da5a227
+machine_hash: 60e768bb046341019aed6a6687e7e0069e9341c6a53771e85a8b1b5f6f1d3c27
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-use-firecrawl-without-a-firecrawl-account|Use Firecrawl without a Firecrawl account]]
-- Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-user|User]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-6-pricing-model-changes-in-v2026-9-5|6 Pricing Model changes in v2026.9.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

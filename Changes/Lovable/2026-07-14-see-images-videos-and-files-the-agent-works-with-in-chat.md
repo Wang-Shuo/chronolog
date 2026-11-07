@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 63f8243b743ec818134085a349cf1d074784c0eed38fe5a8d9a019b9ecf9cf37
+machine_hash: 4431b71908979b93e30a601f8baab566c969078f503b8b6e8d3870a5f4163613
 product: lovable
 product_name: Lovable
 record:
@@ -53,7 +53,8 @@ record:
   title: See images, videos, and files the agent works with in chat
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-13-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/OpenClaw/2026-07-13-132-agent-mode-changes-in-v2026-7-1|132 Agent Mode
+  changes in v2026.7.1]]'
 - '[[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode
   changes in v2.1.208]]'
 - '[[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode

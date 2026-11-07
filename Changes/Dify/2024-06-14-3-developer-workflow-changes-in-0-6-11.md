@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 06e1b110284251e08ae55c7025b84d69d745b5bc7040005c32876786de1612dd
+machine_hash: b4d184a88d92dffd66f8ba9158b09183043a0c0b062c93872df5656e5bc58b70
 product: dify
 product_name: Dify
 record:

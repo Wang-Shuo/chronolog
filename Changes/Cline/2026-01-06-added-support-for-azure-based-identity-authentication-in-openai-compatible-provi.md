@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ae480580f67c410f95c6b97594297e1258f0326358420601bd13c9e9150bb3dc
+machine_hash: a90e7b3f2f8a38cb8e08b508068fe946f7fb77ba1c40f8ec663af22c7b5df6cd
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,12 @@ record:
     provider…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access
-  changes in 2.3]]'
-- '[[Changes/Dify/2025-12-25-chore-remove-unused-login-call-from-activation-flow-by-hjlarry-in-https-github-c|chore:
-  remove unused login call from activation flow]]'
+- '[[Changes/OpenCode/2025-12-29-terminal-make-authentication-urls-clickable-regardless-of-line-wrapping-in-termi|Terminal
+  Make authentication URLs clickable regardless of line wrapping in terminal…]]'
 - '[[Changes/OpenHands/2025-12-30-added-oauth-2-0-device-flow-for-cli-authentication-by-malhotra5-in-https-github|Added
   OAuth 2.0 Device Flow for CLI authentication]]'
+- '[[Changes/OpenCode/2026-01-05-core-add-configuration-options-and-authentication-precedence-for-bedrock|Core
+  Add configuration options and authentication precedence for Bedrock]]'
 source_release: '[[Releases/Cline/cline-2026-01-06-v3-47-0-github-274645512-af25fb1a|cline-2026-01-06-v3-47-0-github-274645512-af25fb1a]]'
 source_type: github_releases
 theme: account-access
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-12-30 · OpenHands · [[Changes/OpenHands/2025-12-30-added-oauth-2-0-device-flow-for-cli-authentication-by-malhotra5-in-https-github|Added OAuth 2.0 Device Flow for CLI authentication]]
-- Later: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-2-account-and-access-changes-in-rust-v0-79-0|2 Account and Access changes in rust-v0.79.0]]
+- Earlier: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-core-add-configuration-options-and-authentication-precedence-for-bedrock|Core Add configuration options and authentication precedence for Bedrock]]
+- Later: 2026-01-06 · OpenCode · [[Changes/OpenCode/2026-01-06-terminal-add-keyboard-shortcut-c-to-copy-device-code-in-oauth-flow|Terminal Add keyboard shortcut 'c' to copy device code in OAuth flow]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

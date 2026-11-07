@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9465ff823602a11366622b52d4fbe20d307be735c325c380335347cfc1aacc9f
+machine_hash: 2552cbbcfed24849fc2d098814d6a3a3a38be3c111bba05ce30dfe3e19c218d4
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(verify): stand in for DigitalOcean so Managed Agents can be verified'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The
-  status bar no longer disappears after you switch from Agent mode to IDE mode]]'
-- '[[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode
-  changes in v2.1.312]]'
-- '[[Changes/Codex CLI/2026-10-27-4-agent-mode-changes-in-rust-v0-165-0|4 Agent Mode
-  changes in rust-v0.165.0]]'
+- '[[Changes/Google Antigravity/2026-10-27-3-agent-mode-changes-in-hub-v2-28-0-built-in-browser|3
+  Agent Mode changes in HUB v2.28.0 — Built-in browser…]]'
+- '[[Changes/OpenClaw/2026-10-27-7-agent-mode-changes-in-v2026-10-8|7 Agent Mode changes
+  in v2026.10.8]]'
+- '[[Changes/OpenCode/2026-10-27-2-agent-mode-changes-in-v2-2-0|2 Agent Mode changes
+  in v2.2.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892|openhands-2026-10-27-v1-34-0-github-425575573-3f638892]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-4-agent-mode-changes-in-rust-v0-165-0|4 Agent Mode changes in rust-v0.165.0]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-2-agent-mode-changes-in-v2-2-0|2 Agent Mode changes in v2.2.0]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-7-agent-mode-changes-in-rust-v0-166-0|7 Agent Mode changes in rust-v0.166.0]]
 <!-- chronolog:end -->
 

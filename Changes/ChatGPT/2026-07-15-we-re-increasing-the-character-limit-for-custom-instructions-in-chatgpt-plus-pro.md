@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 038760b4c750c9b77ffb23abefa5d394f5f367018ca62881a2e8a15b0349d433
+machine_hash: 3cc2ce72302d1e541a3171db7e1f4f76c415ab47c296c09e5e4e0e504acc3a01
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,9 +46,9 @@ record:
   title: Increased custom instructions limit
   type: change
 related_changes:
-- '[[Changes/Claude/2026-07-09-a-new-way-to-reflect-with-claude|A new way to reflect
-  with Claude]]'
 - '[[Changes/Claude/2026-07-10-updated-memory-for-claude|Updated memory for Claude]]'
+- '[[Changes/OpenClaw/2026-07-13-136-memory-and-personalization-changes-in-v2026-7-1|136
+  Memory and Personalization changes in v2026.7.1]]'
 - '[[Changes/Claude Code/2026-07-14-memory-writes-that-leave-a-memory-md-index-over-its-read-limit-now-produce-an-ex|Memory
   writes that leave a MEMORY.md index over its read limit now produce…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-15-increased-custom-instructions-limit-dcba82c8|chatgpt-2026-07-15-increased-custom-instructions-limit-dcba82c8]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7ff0159f0471cb875e18477c24883dc6a4c099db15fa19ea14a9e3b32afe0fc
+machine_hash: f6e5820140f5fbdf0b1f095b417c9ef08fc8056ce28164cef5d7a6564eccca04
 product: open-webui
 product_name: Open WebUI
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-29 · Codex CLI · [[Changes/Codex CLI/2026-08-29-5-safety-and-privacy-changes-in-rust-v0-151-0|5 Safety and Privacy changes in rust-v0.151.0]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-fixed-remote-and-scheduled-sessions-failing-with-user-messages-must-have-non-emp|Fixed remote and scheduled sessions failing…]]
+- Later: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-2-safety-and-privacy-changes-in-v2026-8-1|2 Safety and Privacy changes in v2026.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

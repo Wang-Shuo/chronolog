@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 074d1730f0be17fc56c4bca03d7115e9b08583bd6b64dfe426217576d6db7533
+machine_hash: 4b6a074c9a07217ab8b30aea20c1991ef13b8b7f78878ac86ff3c39b42208150
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.76.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-2-developer-workflow-changes-in-v2-0-74|2 Developer Workflow changes in v2.0.74]]
-- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-11-developer-workflow-changes-in-v0-6-42|11 Developer Workflow changes in v0.6.42]]
+- Later: 2025-12-19 · OpenCode · [[Changes/OpenCode/2025-12-19-2-developer-workflow-changes-in-v1-0-170|2 Developer Workflow changes in v1.0.170]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

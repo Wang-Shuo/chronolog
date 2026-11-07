@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3dc068389d84b735ede4ca574e8fe3874124b85ccafdf82073ba3113486a1eef
+machine_hash: 3b647ee34173a6b2a98cc9b2495ce3fb4c3ba83f1db352cf3ad82a7ac4062cbb
 product: cline
 product_name: Cline
 record:
@@ -54,9 +54,10 @@ record:
   title: Stop offering image, voice, and other non-chat models in chat model pickers
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-17-packages|Packages]]'
 - '[[Changes/Codex CLI/2026-08-20-39045-add-managed-gates-for-in-app-chat-and-dictation-copyberry|♯39045
   Add managed gates for in-app chat and dictation @copyberry]]'
+- '[[Changes/Google Antigravity/2026-08-20-large-binary-attachments-returned-by-connected-mcp-tools-images-pdfs-and-audio-a|Large
+  binary attachments returned by connected MCP tools]]'
 - '[[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl
   builds: native image paste, clipboard, and audio-capture add-ons now…]]'
 source_release: '[[Releases/Cline/cline-2026-08-21-v4-1-11-github-374187578-938b5fa5|cline-2026-08-21-v4-1-11-github-374187578-938b5fa5]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b7f451b1e273490dcfb8f3868d99ba1e4a101af0c0edbdcd74386b70acc206a
+machine_hash: c3d0cd933477491f6b97df73f8b14bb9119a030d943057606e6c44b84c18f278
 product: open-webui
 product_name: Open WebUI
 record:
@@ -168,10 +168,10 @@ record:
   title: 21 Editor Experience changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-2-editor-experience-changes-in-v1-0-86|2
-  Editor Experience changes in v1.0.86]]'
 - '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
   Experience changes in v2.1.277]]'
+- '[[Changes/OpenClaw/2026-09-19-21-editor-experience-changes-in-v2026-9-5|21 Editor
+  Experience changes in v2026.9.5]]'
 - '[[Changes/Lovable/2026-09-20-organize-project-files-into-collections|Organize project
   files into collections]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'

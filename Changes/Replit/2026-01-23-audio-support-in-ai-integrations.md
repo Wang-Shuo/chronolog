@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 02079269406fe827fb39b60aba5db76db8e05833cac756b6b8167ce2570506a4
+machine_hash: 9e5365e6a761473e984ad2d98c977a313610c035a6e040fa66a892fa2f0afc77
 product: replit
 product_name: Replit
 record:
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-01-20 · ChatGPT · [[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice Updates]]
-- Later: 2026-01-26 · ChatGPT · [[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|Improvements to search response quality in Voice]]
+- Later: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-desktop-add-state-to-pause-existing-audio-for-demo-menus-and-add-support-for-aud|Desktop Add state to pause existing audio for demo menus and add support for audio…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

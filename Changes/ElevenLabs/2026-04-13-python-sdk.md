@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 368eb55f66a0f1e1e17ef45c4e86f95892c128b185d94cf89f4cb84b0aba155b
+machine_hash: 403245ac500139a436b5de6390b65cb4bdce844d6882a1b36d3a6065c44f069b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,12 +48,12 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-5-model-support-changes-in-rust-v0-119-0|5 Model
-  Support changes in rust-v0.119.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-custom-agent-model-field-now-accepts-display-names-and-vendor-suffixes-from-vs-c|Custom
   agent model field now accepts display names and vendor suffixes from VS Code…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-display-reasoning-token-usage-in-the-per-model-token-breakdown-when-nonzero|Display
   reasoning token usage in the per-model token breakdown when nonzero]]'
+- '[[Changes/OpenCode/2026-04-10-core-added-fast-mode-variants-for-supported-claude-and-gpt-models|Core
+  Added fast mode variants for supported Claude and GPT models]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-13-2026-04-13-a9d3ca3b|elevenlabs-2026-04-13-2026-04-13-a9d3ca3b]]'
 source_type: elevenlabs_changelog
 theme: model-support
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-display-reasoning-token-usage-in-the-per-model-token-breakdown-when-nonzero|Display reasoning token usage in the per-model token breakdown when nonzero]]
+- Earlier: 2026-04-10 · OpenCode · [[Changes/OpenCode/2026-04-10-core-added-fast-mode-variants-for-supported-claude-and-gpt-models|Core Added fast mode variants for supported Claude and GPT models]]
 - Later: 2026-04-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-13-the-config-dir-flag-is-now-respected-when-selecting-the-active-model|The --config-dir flag is now respected when selecting the active model]]
 <!-- chronolog:end -->
 

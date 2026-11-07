@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e60d35e17dae44bc0b123483bc2e11a6a039bdb94cc5431a9feb01b091f755da
+machine_hash: 0a4fad98560e55485cf00406d67974b0ed96d369ba11d8af2a1703fecc7ddb25
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
     fullscreen…
   type: change
 related_changes:
-- '[[Changes/v0/2026-10-16-2-interface-experience-changes-in-downloads-in-the-code-tab-new-ios|2
-  Interface Experience changes in Downloads in the Code tab, new iOS…]]'
+- '[[Changes/OpenClaw/2026-10-18-openclaw-2026-10-5-refreshes-the-sidebar-adds-saved-versions-and-undo-to-skill-w|OpenClaw
+  2026.10.5 refreshes the sidebar, adds saved versions and Undo to Skill…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-2-interface-experience-changes-in-v1-0-100|2
   Interface Experience changes in v1.0.100]]'
 - '[[Changes/OpenHands/2026-10-19-test-e2e-bound-and-diagnose-sidebar-modified-click-tab-waits-by-enyst-in-https-g|test(e2e):
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-test-e2e-bound-and-diagnose-sidebar-modified-click-tab-waits-by-enyst-in-https-g|test(e2e): bound and diagnose sidebar modified-click tab waits]]
-- Later: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-redesigned-more-menu|Redesigned More menu]]
+- Later: 2026-10-20 · Google Antigravity · [[Changes/Google Antigravity/2026-10-20-2-interface-experience-changes-in-hub-v2-25-0-plugin-sidebar-badges|2 Interface Experience changes in HUB v2.25.0 — Plugin sidebar badges…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

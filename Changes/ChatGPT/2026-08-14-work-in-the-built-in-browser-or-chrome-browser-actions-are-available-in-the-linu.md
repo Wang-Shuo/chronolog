@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b1286ebcc8bc61e1ce06f18470781352f95fb753ac8e80c83efc8959090682f
+machine_hash: ab65be4bc1beb6e216750f3895b1833f073b4c25451a244b16f68994bf04f6e8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,8 +54,8 @@ record:
   title: Work in the built-in browser or Chrome
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed
-  self-hosted runner Windows startup to require an explicit --base-dir]]'
+- '[[Changes/OpenCode/2026-08-12-desktop-updated-chinese-developer-terminology-to-use-more-widely-recognized-tran|Desktop
+  Updated Chinese developer terminology to use more widely recognized translations]]'
 - '[[Changes/Claude Code/2026-08-13-gateway-the-desktop-overlay-now-accepts-every-released-desktop-setting-was-11-ha|Gateway:
   the desktop: overlay now accepts every released Desktop setting…]]'
 - '[[Changes/Windsurf/2026-08-13-devin-desktop|Devin Desktop]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: fe5c9b1b9209e5c469149a9ff94111112dbf9e1831a9228418373eaabbb099b8
+machine_hash: 29708daabfa16021e6090d0d85a5e092ff9b279e8795230281df85e118c79faf
 product: claude
 product_name: Claude
 record:
@@ -52,11 +52,12 @@ record:
   title: Claude Sonnet 4.6 launch
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-14-6-model-support-changes-in-v0-8-1|6 Model Support
-  changes in v0.8.1]]'
-- '[[Changes/ElevenLabs/2026-02-16-new-schemas|New Schemas]]'
+- '[[Changes/Midjourney/2026-02-16-your-ratings-are-already-helping-the-v8-model-and-we-really-appreciate-your-time|Your
+  ratings are already helping the V8 model and we really appreciate your time…]]'
 - '[[Changes/Open WebUI/2026-02-16-4-model-support-changes-in-v0-8-2|4 Model Support
   changes in v0.8.2]]'
+- '[[Changes/OpenCode/2026-02-16-core-remove-unnecessary-per-message-title-llm-calls|Core
+  Remove unnecessary per-message title LLM calls]]'
 source_release: '[[Releases/Claude/claude-2026-02-17-2026-02-17-43a8d93d|claude-2026-02-17-2026-02-17-43a8d93d]]'
 source_type: claude_changelog
 theme: model-support
@@ -83,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-4-model-support-changes-in-v0-8-2|4 Model Support changes in v0.8.2]]
+- Earlier: 2026-02-16 · OpenCode · [[Changes/OpenCode/2026-02-16-core-remove-unnecessary-per-message-title-llm-calls|Core Remove unnecessary per-message title LLM calls]]
 - Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|Added support for Claude Sonnet 4.6]]
 <!-- chronolog:end -->
 

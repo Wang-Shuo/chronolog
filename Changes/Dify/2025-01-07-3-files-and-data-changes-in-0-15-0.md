@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5743e1e9dc43ae21ef7cb7c21a2c26669200b20689fe4953a8ade58dccbafff7
+machine_hash: 257d5c4dc977240e08dbf7aad6c6879eeebee9a1c2f8aceef9efbc8839ed4458
 product: dify
 product_name: Dify
 record:
@@ -47,9 +47,9 @@ record:
   title: 3 Files and Data changes in 0.15.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-09-document-extractor-handles-pptx-files-full-support-for-pptx-file-types-is-back-a|Document
-  Extractor Handles PPTX Files]]'
 - '[[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]'
+- '[[Changes/Midjourney/2024-12-11-hi-all-today-we-re-launching-a-research-preview-of-a-new-worldbuilding-tool-patc|Hi
+  all! Today we’re launching a research preview of a new worldbuilding tool: Patchwork]]'
 - '[[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]]'
 source_release: '[[Releases/Dify/dify-2025-01-07-0-15-0-github-193455309-4fc86c99|dify-2025-01-07-0-15-0-github-193455309-4fc86c99]]'
 source_type: github_releases

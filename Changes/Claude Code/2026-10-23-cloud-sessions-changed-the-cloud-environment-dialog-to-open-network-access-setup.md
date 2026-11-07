@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: db10b042f7206d1ffc3d46c1cc981ebd24fde76e4bcf32e8dadff5edc8d888be
+machine_hash: ca9d2215e7907c0dfbb1719a7d402504122ce3c7a0d1a02abbd6367da056e27c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     setup…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-21-fish-shell-completion-works-when-aliases-include-option-aliases-like-effort|Fish
-  shell completion works when aliases include option aliases like --effort]]'
 - '[[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor
   Experience changes in v2.1.309]]'
+- '[[Changes/OpenClaw/2026-10-22-shell-completion-now-finds-global-flags-after-subcommands-regenerate-your-saved|Shell
+  completion now finds global flags after subcommands]]'
 - '[[Changes/OpenHands/2026-10-22-refactor-diff-express-the-markdown-preview-cap-in-css-by-enyst-in-https-github-c|refactor(diff):
   express the Markdown preview cap in CSS]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 630fcb5175f1cdb07b9b97087f28a81276eb4abcb3a74d082808474167c0a2a6
+machine_hash: cb1be7e0bc201c04f00ef41012ee60b972767f0a286309a333d8b516714d72d7
 product: dify
 product_name: Dify
 record:
@@ -41,12 +41,12 @@ record:
   title: add segment function billing check for SAAS env
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-24-chore-enchance-view-billing-text-by-iamjoel-in-https-github-com-langgenius-dify|chore:
-  enchance view billing text]]'
 - '[[Changes/Dify/2024-02-01-3-pricing-model-changes-in-0-5-3|3 Pricing Model changes
   in 0.5.3]]'
 - '[[Changes/Aider/2024-02-10-updated-all-openai-model-names-pricing-info|Updated
   all OpenAI model names, pricing info]]'
+- '[[Changes/Runway/2024-02-26-you-can-now-see-a-detailed-breakdown-of-credit-spend-across-all-generation-tools|Credit
+  spend history table in user settings]]'
 source_release: '[[Releases/Dify/dify-2024-04-08-0-6-0-github-150191925-0ce534e4|dify-2024-04-08-0-6-0-github-150191925-0ce534e4]]'
 source_type: github_releases
 theme: pricing-model
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-02-10 · Aider · [[Changes/Aider/2024-02-10-updated-all-openai-model-names-pricing-info|Updated all OpenAI model names, pricing info]]
+- Earlier: 2024-02-26 · Runway · [[Changes/Runway/2024-02-26-you-can-now-see-a-detailed-breakdown-of-credit-spend-across-all-generation-tools|Credit spend history table in user settings]]
 - Later: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-2-pricing-model-changes-in-0-6-9|2 Pricing Model changes in 0.6.9]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8ba87b1b6c8baef4f5bc6d6aaea5556f51b9e8a68bbecce3f4043dae78ae248
+machine_hash: 4f2cf61b9aee3538a8a3ef1a5d3271e7d60e1830055702b529219eede61e60f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
     terminals
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-10-improved-slash-command-menu-blue-now-marks-only-the-selected-row-matched-charact|Improved
-  slash-command menu]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-10-2-interface-experience-changes-in-v1-0-79|2
-  Interface Experience changes in v1.0.79]]'
+- '[[Changes/OpenCode/2026-08-10-open-the-project-menu-with-a-right-click-in-home|Open
+  the project menu with a right-click in Home]]'
+- '[[Changes/OpenCode/2026-08-10-desktop-fall-back-to-listing-and-matching-local-directories-when-the-project-pic|Desktop
+  Fall back to listing and matching local directories when the project picker…]]'
 - '[[Changes/Windsurf/2026-08-10-devin-local|Devin Local]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases

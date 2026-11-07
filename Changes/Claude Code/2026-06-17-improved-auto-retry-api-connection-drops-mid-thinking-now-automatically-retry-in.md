@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5841924ff82b0567448e247d780328c64201b3bb14617622060529f06e5eea2e
+machine_hash: cc9572a17037eacb16e46b8a85b9e7827bef9b4e7a8d5b5de84737ad4cafb544
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|All tasks are faster and more reliable]]
-- Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier conversation sharing]]
+- Later: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-session-timelines-load-much-faster-and-avoid-flicker-or-scroll-jumps|Session timelines load much faster and avoid flicker or scroll jumps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

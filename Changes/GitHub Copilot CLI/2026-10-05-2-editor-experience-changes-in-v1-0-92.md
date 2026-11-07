@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c338e1208606717cc4da5ea407de552c256775b56702e3b2d95281bcd0ef0cac
+machine_hash: c86df3ff07833527c7e2275af5d308c06e3f33b1554b3664057d8437dfab55e0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Editor Experience changes in v1.0.92
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-improved-the-external-editor-ctrl-g-editors-that-take-a-line-number-now-open-on|Improved
-  the external editor (Ctrl+G)]]'
-- '[[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode
-  Changed the Claude in Chrome "Enabled by default" switch to also connect…]]'
 - '[[Changes/Codex CLI/2026-10-01-49082-skip-remote-git-discovery-for-guardian-diff-paths-jif-oai|♯49082
   Skip remote Git discovery for Guardian diff paths @jif-oai]]'
+- '[[Changes/Midjourney/2026-10-02-editing|EDITING]]'
+- '[[Changes/OpenClaw/2026-10-03-browser-tabs-after-updates-if-you-leave-openclaw-s-bundled-web-interface-open-du|Browser
+  tabs after updates]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'
 source_type: github_releases
 theme: editor-experience
@@ -93,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.92
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49082-skip-remote-git-discovery-for-guardian-diff-paths-jif-oai|♯49082 Skip remote Git discovery for Guardian diff paths @jif-oai]]
+- Earlier: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-browser-tabs-after-updates-if-you-leave-openclaw-s-bundled-web-interface-open-du|Browser tabs after updates]]
 - Later: 2026-10-05 · Lovable · [[Changes/Lovable/2026-10-05-restore-lovable-work-after-a-push-to-your-git-repository-replaces-it|Restore Lovable work after a push to your Git repository replaces it]]
 <!-- chronolog:end -->
 

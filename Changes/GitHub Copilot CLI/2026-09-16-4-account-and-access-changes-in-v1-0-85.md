@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 320f050b222e337e0de1cfc86d83b9cd4c8c5bbf8d5fb6be68ad6518170065b0
+machine_hash: 95d2cb361c61ed75f19c7228ab92ddc19b38050fe00f3f5e039ce822d1461a3c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Account and Access changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-changed-claude-apps-gateway-bedrock-vertex-ai-and-foundry-sessions-so-that-they|Changed
-  Claude apps gateway, Bedrock, Vertex AI, and Foundry sessions so that they…]]'
+- '[[Changes/OpenCode/2026-09-14-terminal-show-remote-config-authentication-errors-during-startup-and-exit-with-a|Terminal
+  Show remote config authentication errors during startup and exit…]]'
 - '[[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account
   and Access changes in v2.1.273]]'
 - '[[Changes/Ollama/2026-09-15-added-first-run-setup-when-running-ollama-with-options-to-sign-in-or-continue-lo|Added

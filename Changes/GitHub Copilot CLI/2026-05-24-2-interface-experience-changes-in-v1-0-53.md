@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f984f5d6aff8bd404cef6c51abee1f4b96f7620c64e855d33547b8f561bc7e6
+machine_hash: 9fdbae2d653cc64a05091dede160149ee83a7a529d5fe9c974771f39b569f905
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Interface Experience changes in v1.0.53
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|Markdown
-  output now renders GFM task list checkboxes (-   todo / - x done)…]]'
 - '[[Changes/Gemini CLI/2026-05-22-2-interface-experience-changes-in-v0-43-0|2 Interface
   Experience changes in v0.43.0]]'
+- '[[Changes/OpenCode/2026-05-22-terminal-keep-the-spinner-color-aligned-with-the-active-agent|Terminal
+  Keep the spinner color aligned with the active agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-6-interface-experience-changes-in-v1-0-52|6
   Interface Experience changes in v1.0.52]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-24-v1-0-53-github-328572559-02bf22bd|github-copilot-cli-2026-05-24-v1-0-53-github-328572559-02bf22bd]]'

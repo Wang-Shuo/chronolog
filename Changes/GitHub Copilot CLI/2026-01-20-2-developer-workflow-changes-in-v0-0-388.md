@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69fbe1e8d752089aedc229ce246d1cde8d1b62a02734d2c3c3a4d61808b26e8c
+machine_hash: d13d015445cf19e2b1a147cb111263fec8653e6443b2fc5e4a2691d01e077886
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: 2 Developer Workflow changes in v0.0.388
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-19-add-resume-command-to-switch-sessions|Add
-  /resume command to switch sessions]]'
+- '[[Changes/OpenCode/2026-01-19-16-developer-workflow-changes-in-v1-1-26|16 Developer
+  Workflow changes in v1.1.26]]'
 - '[[Changes/v0/2026-01-19-improved-pull-request-creation-with-option-to-push-latest-changes|Improved
   pull request creation with option to push latest changes]]'
 - '[[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode
@@ -82,7 +82,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.388
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode Added /usage command to display current plan usage]]
-- Later: 2026-01-21 · Claude Code · [[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|Added deprecation notification for npm installations - run claude install or see…]]
+- Later: 2026-01-20 · OpenCode · [[Changes/OpenCode/2026-01-20-2-developer-workflow-changes-in-v1-1-28|2 Developer Workflow changes in v1.1.28]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

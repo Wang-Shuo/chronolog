@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1abdd0c49be66fcd69ed0425a836d9021d000d12e145265f70db5aaeda505064
+machine_hash: 0a72c72329436d4be9a476302fa5ae488b865abe00c5d4dce178d7013dee4251
 product: open-webui
 product_name: Open WebUI
 record:
@@ -134,7 +134,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-2-apps-and-integrations-changes-in-v0-0-409|2 Apps and Integrations changes in v0.0.409]]
-- Later: 2026-02-13 · Replit · [[Changes/Replit/2026-02-13-bitbucket-integration-improvements|Bitbucket integration improvements]]
+- Later: 2026-02-12 · OpenCode · [[Changes/OpenCode/2026-02-12-core-use-promise-all-for-mcp-listtools-calls-to-improve-performance|Core Use Promise.all for MCP listTools calls to improve performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

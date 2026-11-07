@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c6df3a1cdcedae647c2004aee314a1a3448714a9eb8fd5968a219a5bfded3738
+machine_hash: 8f5afb71749abf9fd29ec36788a19b91a8eb90cd3eeece7a0c1b701e5f2fe00a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -111,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.117.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-2-safety-and-privacy-changes-in-v2-1-85|2 Safety and Privacy changes in v2.1.85]]
-- Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|Fixed official marketplace plugin scripts failing…]]
+- Later: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-core-respect-agent-permission-configuration-for-todowrite-tool|Core Respect agent permission configuration for todowrite tool]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

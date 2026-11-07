@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 516efb5b656273118157e053cb3f28ae3b250106ebc927d2840c75df311b7b3c
+machine_hash: 7bac37c1712d06c202307dc3f49649edef7e46f7af5aea4fa6e46cbf0db12b62
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Apps and Integrations changes in v2.1.119
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-21-4-apps-and-integrations-changes-in-v0-9-0|4 Apps
-  and Integrations changes in v0.9.0]]'
+- '[[Changes/OpenCode/2026-04-21-2-apps-and-integrations-changes-in-v1-14-20|2 Apps
+  and Integrations changes in v1.14.20]]'
 - '[[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4
   Apps and Integrations changes in v2.1.117]]'
 - '[[Changes/Cline/2026-04-22-wire-up-remote-globalskills-from-enterprise-remote-config-with-full-ui-toggle-su|Wire

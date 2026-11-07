@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1db46a75b46e317bc60b924d284bb4944a221549351a28e2bea75a314bd1ed60
+machine_hash: 6f8c3a22db3f163b4d7d45470754c9a9ff55a975d6d612a7b75b571dd137c99c
 product: openhands
 product_name: OpenHands
 record:
@@ -56,12 +56,12 @@ record:
   title: 6 Automation and Scheduling changes in v1.35.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-29-2-automation-and-scheduling-changes-in-v0-12-5|2
-  Automation and Scheduling changes in v0.12.5]]'
-- '[[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2
-  Automation and Scheduling changes in v2.1.316]]'
+- '[[Changes/Google Antigravity/2026-11-03-2-automation-and-scheduling-changes-in-hub-v2-29-0-voice-mode-remote|2
+  Automation and Scheduling changes in HUB v2.29.0 — Voice mode, remote…]]'
 - '[[Changes/Open WebUI/2026-11-03-2-automation-and-scheduling-changes-in-v0-13-0|2
   Automation and Scheduling changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-4-automation-and-scheduling-changes-in-v2026-10-10|4
+  Automation and Scheduling changes in v2026.10.10]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -110,7 +110,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-2-automation-and-scheduling-changes-in-v0-13-0|2 Automation and Scheduling changes in v0.13.0]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-4-automation-and-scheduling-changes-in-v2026-10-10|4 Automation and Scheduling changes in v2026.10.10]]
 - Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-3-automation-and-scheduling-changes-in-1-19-0|3 Automation and Scheduling changes in 1.19.0]]
 <!-- chronolog:end -->
 

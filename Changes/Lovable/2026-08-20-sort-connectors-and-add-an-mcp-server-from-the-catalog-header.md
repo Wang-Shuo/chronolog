@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4076f066dd210a9c44ff720f74bdc2b523ad8f1d853daec8cca4306d701ba122
+machine_hash: ea165face8af588d4983308843257cababbf4d592e195f913e17c8b33fe740d4
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +48,12 @@ record:
   title: Sort connectors and add an MCP server from the catalog header
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use
-  Apple Messages from Codex and ChatGPT Work]]'
 - '[[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6
   Apps and Integrations changes in v2.1.238]]'
 - '[[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33
   Apps and Integrations changes in rust-v0.149.0]]'
+- '[[Changes/Google Antigravity/2026-08-20-refreshed-the-customizations-settings-screen-with-collapsible-sections-and-item|Refreshed
+  the Customizations settings screen with collapsible sections and item…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-20-2026-08-20-3912560f|lovable-2026-08-20-2026-08-20-3912560f]]'
 source_type: lovable_changelog
 theme: apps-integrations
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33 Apps and Integrations changes in rust-v0.149.0]]
+- Earlier: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-refreshed-the-customizations-settings-screen-with-collapsible-sections-and-item|Refreshed the Customizations settings screen with collapsible sections and item…]]
 - Later: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated plugin recommendations make it easier to find tools people continue to use]]
 <!-- chronolog:end -->
 

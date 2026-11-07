@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81c513163d962a95ffdf9e238910df7b72d1ac7e6fe7e5e054f0f6cde366a99e
+machine_hash: bc8b9cfa9d724a47d165e9c12784f22863b9f2f20634a1175b8209bc7a3b8938
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,9 @@ record:
   title: 3 Agent Mode changes in v0.40.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-04-27-packages|Packages]]'
 - '[[Changes/ElevenLabs/2026-04-27-elevenagents-e7cc6e|ElevenAgents]]'
+- '[[Changes/OpenCode/2026-04-27-core-added-a-configurable-default-shell-for-terminals-and-agent-shell-commands-w|Core
+  Added a configurable default shell for terminals and agent shell commands…]]'
 - '[[Changes/Claude Code/2026-04-28-2-agent-mode-changes-in-v2-1-121|2 Agent Mode
   changes in v2.1.121]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5|gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5]]'

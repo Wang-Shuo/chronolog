@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9487163aaed520061f63ec97695eb5456770a0f62e8298aa27f222820c805ba4
+machine_hash: b21317780655e1562b1ddd6a39bfa39068e6bfaeb766b2453b5b610f2caa2212
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Context Window changes in v4.1.24
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-09-context-now-applies-to-new-and-resumed-acp-sessions-instead-of-silently-using-th|--context
-  now applies to new and resumed ACP sessions instead of silently using…]]'
-- '[[Changes/Replit/2026-10-09-work-across-projects-from-a-chat|Work across projects
-  from a chat]]'
 - '[[Changes/Open WebUI/2026-10-10-5-context-window-changes-in-v0-12-0|5 Context Window
   changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-12-context-window-changes-in-v2026-10-1|12 Context
+  Window changes in v2026.10.1]]'
+- '[[Changes/OpenClaw/2026-10-12-4-context-window-changes-in-v2026-10-2|4 Context
+  Window changes in v2026.10.2]]'
 source_release: '[[Releases/Cline/cline-2026-10-13-v4-1-24-github-411804449-05899922|cline-2026-10-13-v4-1-24-github-411804449-05899922]]'
 source_type: github_releases
 theme: context-window
@@ -88,8 +88,8 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.24
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-5-context-window-changes-in-v0-12-0|5 Context Window changes in v0.12.0]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]]
+- Earlier: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-4-context-window-changes-in-v2026-10-2|4 Context Window changes in v2026.10.2]]
+- Later: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-replies-after-native-compaction-the-next-message-waits-for-saved-conversation-hi|Replies after native compaction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

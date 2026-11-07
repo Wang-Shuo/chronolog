@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c995a14eaf8f7d92f1b343fd73f972b86e2064e1c3b7b963c7d0f709de7c12ae
+machine_hash: 9191440b415c6f22eacb99ce2dc98a38fb628d5554baf18c66b4b4219ab4eb69
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,11 +64,12 @@ record:
   title: Use plugins in Voice and get work done by speaking
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-21-text-to-speech|Text to Speech]]'
 - '[[Changes/Open WebUI/2026-09-21-5-voice-and-audio-changes-in-v0-11-4|5 Voice and
   Audio changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-17-voice-and-audio-changes-in-rust-v0-156-0|17 Voice
   and Audio changes in rust-v0.156.0]]'
+- '[[Changes/Google Antigravity/2026-09-22-right-clicking-an-image-caption-or-an-enlarged-image-no-longer-pops-open-the-thu|Right-clicking
+  an image caption or an enlarged image no longer pops open…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1|chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -99,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-17-voice-and-audio-changes-in-rust-v0-156-0|17 Voice and Audio changes in rust-v0.156.0]]
-- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-5-voice-and-audio-changes-in-rust-v0-157-0|5 Voice and Audio changes in rust-v0.157.0]]
+- Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-right-clicking-an-image-caption-or-an-enlarged-image-no-longer-pops-open-the-thu|Right-clicking an image caption or an enlarged image no longer pops open…]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-18-voice-and-audio-changes-in-v2026-9-6|18 Voice and Audio changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

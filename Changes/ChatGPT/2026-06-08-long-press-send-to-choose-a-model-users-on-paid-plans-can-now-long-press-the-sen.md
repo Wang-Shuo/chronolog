@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 27cc3362667d68cfc8f59dd9236ec290a8dde809147ee127378e0d58636e0355
+machine_hash: 036cdb44f9e1c1594923d779de1f56fd0ee972f0fef6c20cdaaccab0767a347e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
   title: Long-press send to choose a model
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-model-support-changes-in-v1-0-60|2 Model
-  Support changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-2-model-support-changes-in-v1-16-2|2 Model Support
+  changes in v1.16.2]]'
 - '[[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support
   changes in v2.1.166]]'
 - '[[Changes/Ollama/2026-06-07-openai-compatible-api-models-list-now-aligns-with-available-model-tags|OpenAI-compatible

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 127a287db04cb83366dc40f86a41eed7ffba134eb002ec2c6dbf93e214c7b17c
+machine_hash: 28bd20a767fb46873563b7bcb49b7ea0a6f1806e71155dbc520b8641633d6a56
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Collaboration changes in v0.2.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-04-04-local-chat-sharing-share-chat-links-seamlessly-between-users|\U0001F5E8️
-  Local Chat Sharing: Share chat links seamlessly between users]]"
 - "[[Changes/Open WebUI/2024-04-21-share-link-copy-button-fixed-bug-where-the-copy-button-wasn-t-copying-links-in-s|\U0001F517
   Share Link Copy Button]]"
 - "[[Changes/Open WebUI/2024-05-19-shared-chat-update-shared-chat-now-includes-creator-user-information|\U0001F464
   Shared Chat Update: Shared chat now includes creator user information]]"
+- '[[Changes/Suno/2024-05-30-thanks-as-always-for-your-support-heart-team-suno|Thanks,
+  as always, for your support]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44|open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44]]'
 source_type: github_releases
 theme: collaboration
@@ -86,7 +86,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.2.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-05-19 · Open WebUI · [[Changes/Open WebUI/2024-05-19-shared-chat-update-shared-chat-now-includes-creator-user-information|👤 Shared Chat Update: Shared chat now includes creator user information]]
+- Earlier: 2024-05-30 · Suno · [[Changes/Suno/2024-05-30-thanks-as-always-for-your-support-heart-team-suno|Thanks, as always, for your support]]
 - Later: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration changes in 0.6.1]]
 <!-- chronolog:end -->
 

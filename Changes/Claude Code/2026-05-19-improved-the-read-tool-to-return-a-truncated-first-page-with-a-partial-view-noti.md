@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35268129234868d5158eb631a22a577b70ccd27da092985bc9490fdddef8ba9b
+machine_hash: aadb70116d0c7808bec5016641150b1a148ba6827679b335169e27cfb4b68660
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
     notice…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context
-  shows correct token limits for all models instead of always showing 128k]]'
+- '[[Changes/OpenCode/2026-05-16-terminal-fixed-async-commands-losing-the-active-instance-context-which-could-bre|Terminal
+  Fixed async commands losing the active instance context, which could break…]]'
 - '[[Changes/Codex CLI/2026-05-18-7-context-window-changes-in-rust-v0-131-0|7 Context
   Window changes in rust-v0.131.0]]'
 - '[[Changes/Lovable/2026-05-18-draw-on-images|Draw on images]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56ced1bad31b101ea73fb23dba1aa09e739db07ea53ddf1c0b2290f9b0e92e36
+machine_hash: 4523a8c67f1c5b7cbbb56131dd063ed3102e5d18b4e29a97239cbf0076fcb3cb
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-2-account-and-access-changes-in-v1-0-81|2 Account and Access changes in v1.0.81]]
-- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-4-account-and-access-changes-in-gpt-5-6-sol-sign-in-inside-previews|4 Account and Access changes in GPT-5.6 Sol, sign-in inside previews…]]
+- Later: 2026-08-28 · OpenCode · [[Changes/OpenCode/2026-08-28-2-account-and-access-changes-in-v1-18-25-1|2 Account and Access changes in v1.18.25 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

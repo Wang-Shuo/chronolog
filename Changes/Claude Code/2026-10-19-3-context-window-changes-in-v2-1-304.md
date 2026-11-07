@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3fff1ca68f063d657fed3c814ad4c3701cb18b0ed8326095bb664816c559f00
+machine_hash: 289420d3c202cbf14cda900af3f30d1bafcc45c3be436756cecd40393384df33
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Context Window changes in v2.1.304
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto
-  Compact and its strategy setting sit together again in Feature settings]]'
 - '[[Changes/Open WebUI/2026-10-16-2-context-window-changes-in-v0-12-3|2 Context Window
   changes in v0.12.3]]'
+- '[[Changes/OpenClaw/2026-10-16-manual-compaction-compact-gives-an-active-answer-up-to-60-seconds-to-finish-if-i|Manual
+  compaction. /compact gives an active answer up to 60 seconds to finish]]'
 - '[[Changes/Ollama/2026-10-18-2-context-window-changes-in-v0-40-7|2 Context Window
   changes in v0.40.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'

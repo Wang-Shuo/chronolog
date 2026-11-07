@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 421e24bf0952ca554db8d7d5a43d9b41ba463890fe4757a12ca354374660d617
+machine_hash: ff10dca932c623d6ee0b3ebeedcc485e45d364f310fcd2c4b50ca9389696760c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,10 +63,10 @@ record:
   title: "**\U0001F527 Pipelines Support**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-04-alter-schedule-timedelta-by-johnjyong-in-https-github-com-langgenius-dify-pull-1|alter
-  schedule timedelta]]'
 - '[[Changes/Dify/2024-01-19-as-per-the-planned-schedule-these-deprecated-envs-are-being-removed|As
   per the planned schedule, these deprecated envs are being removed]]'
+- '[[Changes/Midjourney/2024-03-13-hey-everyone-here-we-need-to-halt-our-free-gpu-rewards-for-image-ranking-until-f|Hey
+  @everyone @here we need to halt our free-gpu rewards for image-ranking until…]]'
 - '[[Changes/Dify/2024-04-08-targeting-automation-and-batch-processing-this-is-ideal-for-translation-data-ana|Targeting
   Automation and Batch Processing]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44|open-webui-2024-06-02-v0-2-0-github-158484646-8756ba44]]'

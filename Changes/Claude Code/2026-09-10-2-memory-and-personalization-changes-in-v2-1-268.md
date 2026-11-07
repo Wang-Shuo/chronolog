@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 23ac9110ea0befeb599ff018898505bf6ab2d55eeda4d0105ae5f5cb0786a82e
+machine_hash: d18ba06e9320d07387c528125bc151f50d29b495d55f5360ec22fc5a2d0c6176
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Memory and Personalization changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-ship-mcp-2026-07-28-support-to-cli-sdk-ide-and-in-memory-clients|Ship
-  MCP 2026-07-28 support to CLI, SDK, IDE, and in-memory clients]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-long-running-sessions-on-linux-return-freed-memory-to-the-system-instead-of-hold|Long-running
-  sessions on Linux return freed memory to the system instead of holding…]]'
+- '[[Changes/OpenClaw/2026-09-05-21-memory-and-personalization-changes-in-v2026-9-2|21
+  Memory and Personalization changes in v2026.9.2]]'
+- '[[Changes/OpenClaw/2026-09-08-10-memory-and-personalization-changes-in-v2026-9-3|10
+  Memory and Personalization changes in v2026.9.3]]'
 - '[[Changes/Codex CLI/2026-09-09-2-memory-and-personalization-changes-in-rust-v0-154-0|2
   Memory and Personalization changes in rust-v0.154.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'

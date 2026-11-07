@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6324071708860debb926633f301cbc1bc54b1124a39c9309334a944fb840b66a
+machine_hash: 3e25030f7f913da51cec7a9ad0c4a999341663b3d6ead51e76a052335f88ea07
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -56,10 +56,10 @@ record:
   title: 5 Safety and Privacy changes in v1.0.83
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-7-safety-and-privacy-changes-in-v2-1-260|7 Safety
-  and Privacy changes in v2.1.260]]'
 - '[[Changes/Codex CLI/2026-09-03-6-safety-and-privacy-changes-in-rust-v0-153-0|6
   Safety and Privacy changes in rust-v0.153.0]]'
+- '[[Changes/OpenClaw/2026-09-03-10-safety-and-privacy-changes-in-v2026-9-1|10 Safety
+  and Privacy changes in v2026.9.1]]'
 - '[[Changes/Claude Code/2026-09-04-4-safety-and-privacy-changes-in-v2-1-261|4 Safety
   and Privacy changes in v2.1.261]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
@@ -111,7 +111,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.83
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-4-safety-and-privacy-changes-in-v2-1-261|4 Safety and Privacy changes in v2.1.261]]
-- Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-3-safety-and-privacy-changes-in-v2-1-265|3 Safety and Privacy changes in v2.1.265]]
+- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-24-safety-and-privacy-changes-in-v2026-9-2|24 Safety and Privacy changes in v2026.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7b5e25489ce9903793941ebc12d9e8133e8159b0ae78ae8280ef5947e54a814
+machine_hash: 44baf3cfc3e79223efd75d8bbd0e1cd52c5313e7306d32d28336dc04e0df0dc8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.51
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-9-apps-and-integrations-changes-in-rust-v0-132-0|9 Apps and Integrations changes in rust-v0.132.0]]
-- Later: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-20-apps-and-integrations-changes-in-rust-v0-133-0|20 Apps and Integrations changes in rust-v0.133.0]]
+- Later: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-3-apps-and-integrations-changes-in-v1-15-6|3 Apps and Integrations changes in v1.15.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

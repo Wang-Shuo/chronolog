@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19a08a9670ec1ce98cc1e276863f4e1e463c49339cfe0ec5e097d92f631a474a
+machine_hash: b361e0ea4efa0131deb8ff6da667d44f478d85b5e3f1e1723154cec27fe07f52
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,11 +41,11 @@ record:
   title: '[VSCode] `/context` now opens a native token usage dialog'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-24-2-context-window-changes-in-rust-v0-125-0|2 Context
-  Window changes in rust-v0.125.0]]'
 - '[[Changes/Lovable/2026-04-24-chat-history-search|Chat history search]]'
 - '[[Changes/Open WebUI/2026-04-24-3-context-window-changes-in-v0-9-2|3 Context Window
   changes in v0.9.2]]'
+- '[[Changes/OpenCode/2026-04-26-terminal-added-zed-editor-selection-support-for-editor-context|Terminal
+  Added Zed editor selection support for editor context]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
 theme: context-window
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-24 · Open WebUI · [[Changes/Open WebUI/2026-04-24-3-context-window-changes-in-v0-9-2|3 Context Window changes in v0.9.2]]
+- Earlier: 2026-04-26 · OpenCode · [[Changes/OpenCode/2026-04-26-terminal-added-zed-editor-selection-support-for-editor-context|Terminal Added Zed editor selection support for editor context]]
 - Later: 2026-04-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-28-add-compact-context-usage-and-env-slash-commands-for-acp-sessions|Add /compact, /context, /usage, and /env slash commands for ACP sessions]]
 <!-- chronolog:end -->
 

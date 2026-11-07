@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 18a459e0eb65ee596ab4e3570f6ec533f3767a665361495757cd7def86162c5d
+machine_hash: 54cc3bca3b964499ca05c46c33f97a377ceb3ab86662d90c7cc026d2e815b5c1
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -65,10 +65,10 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-25-2-agent-mode-changes-in-1-11-2|2 Agent Mode changes in
-  1.11.2]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-02-built-in-subagents-for-exploring-and-managing-tasks|Built-in
   subagents for exploring and managing tasks]]'
+- '[[Changes/OpenCode/2026-01-04-4-agent-mode-changes-in-v1-1-1|4 Agent Mode changes
+  in v1.1.1]]'
 - '[[Changes/ElevenLabs/2026-01-05-agents-platform|Agents Platform]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-01-05-2026-01-05-6c816c7e|elevenlabs-2026-01-05-2026-01-05-6c816c7e]]'
 source_type: elevenlabs_changelog
@@ -120,8 +120,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-built-in-subagents-for-exploring-and-managing-tasks|Built-in subagents for exploring and managing tasks]]
-- Later: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-4-agent-mode-changes-in-rust-v0-79-0|4 Agent Mode changes in rust-v0.79.0]]
+- Earlier: 2026-01-04 · OpenCode · [[Changes/OpenCode/2026-01-04-4-agent-mode-changes-in-v1-1-1|4 Agent Mode changes in v1.1.1]]
+- Later: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-core-transform-agent-improvements-and-optimizations|Core Transform agent improvements and optimizations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

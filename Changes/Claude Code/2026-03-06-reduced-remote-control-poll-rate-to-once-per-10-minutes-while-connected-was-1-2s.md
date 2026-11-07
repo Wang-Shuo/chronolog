@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e8b5177b0e5ea511d6c97acd6313c0df0110b73bc855356512f496545794037
+machine_hash: fe45b08b4a0320181b30dcd4ea71921d687cc550318a8d4fb17e4caf398dc71b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
   title: Reduced Remote Control `/poll` rate to once per 10 minutes while connected…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-7-apps-and-integrations-changes-in-rust-v0-110-0|7
-  Apps and Integrations changes in rust-v0.110.0]]'
 - '[[Changes/Codex CLI/2026-03-05-5-apps-and-integrations-changes-in-rust-v0-111-0|5
   Apps and Integrations changes in rust-v0.111.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-11-apps-and-integrations-changes-in-v0-0-422|11
   Apps and Integrations changes in v0.0.422]]'
+- '[[Changes/OpenCode/2026-03-05-sdk-update-sdk-package-json|SDK Update SDK package.json]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0|claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-11-apps-and-integrations-changes-in-v0-0-422|11 Apps and Integrations changes in v0.0.422]]
+- Earlier: 2026-03-05 · OpenCode · [[Changes/OpenCode/2026-03-05-sdk-update-sdk-package-json|SDK Update SDK package.json]]
 - Later: 2026-03-06 · Cline · [[Changes/Cline/2026-03-06-handle-streamable-http-mcp-reconnects-more-reliably-after-disconnects|Handle streamable HTTP MCP reconnects more reliably after disconnects]]
 <!-- chronolog:end -->
 

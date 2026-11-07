@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e9523b8db7064ecab03dd16ad6c907c4a1e140dad03afbd6626108be263aa5d
+machine_hash: 15ec130a8ab0b3e775f03281b33019c33e7be15e5e9c4e7ecf62e0a9518d98c3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Improve task completion with clearer detached process guidance
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-2-editor-experience-changes-in-2-4|2 Editor Experience
-  changes in 2.4]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-22-edit-tool-now-displays-diffs-when-expanded-in-timeline|Edit
   tool now displays diffs when expanded in timeline]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-22-add-diff-command-to-review-changes-made-during-the-current-session|Add
   /diff command to review changes made during the current session]]'
+- '[[Changes/OpenCode/2026-01-23-desktop-fixed-folder-suggestions-missing-last-part-in-path-completion|Desktop
+  Fixed folder suggestions missing last part in path completion]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-24-v0-0-394-github-279572493-a58f0a39|github-copilot-cli-2026-01-24-v0-0-394-github-279572493-a58f0a39]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-add-diff-command-to-review-changes-made-during-the-current-session|Add /diff command to review changes made during the current session]]
-- Later: 2026-01-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-26-add-commenting-to-diff-mode-for-line-specific-feedback|Add commenting to /diff mode for line-specific feedback]]
+- Earlier: 2026-01-23 · OpenCode · [[Changes/OpenCode/2026-01-23-desktop-fixed-folder-suggestions-missing-last-part-in-path-completion|Desktop Fixed folder suggestions missing last part in path completion]]
+- Later: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-3-editor-experience-changes-in-v1-1-35|3 Editor Experience changes in v1.1.35]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

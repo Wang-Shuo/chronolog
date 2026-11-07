@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f5629b47874795836abe77d1341071443cbbc60eb35c9a14d7778c51f76e824d
+machine_hash: e3762aa896c9f812ef03e4384856f428cb77800f0b7772b89350de9f3d3eaffb
 product: replit
 product_name: Replit
 record:

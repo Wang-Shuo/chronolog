@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a996e6c2d564668485613efbcdc8a14fa566e19e5cde86f18d35c5eabca986d
+machine_hash: 34a005b94586e2a4230bacbb897694d14e32d312fe516d71f7f9f5803ae05b5b
 product: ollama
 product_name: Ollama
 record:
@@ -43,8 +43,8 @@ record:
     publish…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-03-the-allow-all-auto-safety-judge-model-is-no-longer-user-configurable-the-judge-m|The
-  /allow-all auto safety-judge model is no longer user-configurable]]'
+- '[[Changes/Runway/2026-08-03-every-live-routed-request-is-now-recorded-so-you-can-see-which-model-your-model|Model
+  Router Routing History]]'
 - '[[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support
   changes in v2.1.221]]'
 - '[[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved

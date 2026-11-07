@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1bd5b5d5f008c273eed7b6bb101439587a4c0fd37c88d49dfa84e478e7030a8e
+machine_hash: 623702c390a0f063974ca96de78dfe918505cb27b7a0a0ce5c7c7847a9a66a87
 product: v0
 product_name: v0
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved chat sidebar width for better screen space
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-02-removed-tabs-from-chat-sidebar-and-reorganized-settings|Removed
-  tabs from chat sidebar and reorganized settings]]'
 - '[[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The
   content from your plan files are now included in autocomplete suggestions as you…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-2-interface-experience-changes-in-v0-0-421|2
   Interface Experience changes in v0.0.421]]'
+- '[[Changes/OpenCode/2026-03-03-5-interface-experience-changes-in-v1-2-16|5 Interface
+  Experience changes in v1.2.16]]'
 source_release: '[[Releases/v0/v0-2026-03-03-2026-03-03-489f9d67|v0-2026-03-03-2026-03-03-489f9d67]]'
 source_type: v0_changelog
 theme: interface-experience
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-2-interface-experience-changes-in-v0-0-421|2 Interface Experience changes in v0.0.421]]
-- Later: 2026-03-04 · v0 · [[Changes/v0/2026-03-04-improved-diff-navigation-with-clickable-file-stats-and-auto-scrolling|Improved diff navigation with clickable file stats and auto-scrolling]]
+- Earlier: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-5-interface-experience-changes-in-v1-2-16|5 Interface Experience changes in v1.2.16]]
+- Later: 2026-03-04 · OpenCode · [[Changes/OpenCode/2026-03-04-desktop-remove-diff-lines-from-sessions-in-sidebar|Desktop Remove diff lines from sessions in sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

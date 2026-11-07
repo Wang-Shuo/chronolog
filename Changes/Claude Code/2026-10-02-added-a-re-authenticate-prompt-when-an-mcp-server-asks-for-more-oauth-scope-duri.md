@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc1d02e17de4646b1da4f926692ad0e269cefd99baa26000139dcff2cdf004a6
+machine_hash: 27ce308069fe8f4120e667ed2972f6c62f7e5973c6499d6d72555caa9c06b6dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,8 +53,8 @@ record:
     during…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-30-mcp-oauth-sign-in-to-servers-such-as-datadog-reuses-a-still-valid-cached-token|MCP
-  OAuth sign-in to servers such as Datadog reuses a still-valid cached token]]'
+- '[[Changes/OpenClaw/2026-09-30-13-account-and-access-changes-in-v2026-9-7|13 Account
+  and Access changes in v2026.9.7]]'
 - '[[Changes/Claude Code/2026-10-01-added-url-prompts-from-mcp-servers-on-the-2025-11-25-protocol-for-example-to-sig|Added
   URL prompts from MCP servers on the 2025-11-25 protocol, for example to sign in]]'
 - '[[Changes/Codex CLI/2026-10-01-2-account-and-access-changes-in-rust-v0-160-0|2
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-2-account-and-access-changes-in-rust-v0-160-0|2 Account and Access changes in rust-v0.160.0]]
-- Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-3-account-and-access-changes-in-v2-1-290|3 Account and Access changes in v2.1.290]]
+- Later: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-2-account-and-access-changes-in-v2026-9-8|2 Account and Access changes in v2026.9.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 89acf72ebbcd0a25cc1cf3eabdb6b3b58d584d2471240e5e656b9ee3829470e9
+machine_hash: 7a9997b973a7a700a28ccd44a4665cf39b28bbb97a7328ce6a8b9e3569304c2d
 product: dify
 product_name: Dify
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.4.2
 ## Nearby in Model Support
 
 - Earlier: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-prevented-llm-settings-reset-when-page-loses-focus-during-initial-setup-by-llama|Prevented LLM settings reset when page loses focus during initial setup]]
-- Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]]
+- Later: 2025-06-11 · Midjourney · [[Changes/Midjourney/2025-06-11-hi-everybody-we-re-putting-the-finishing-touches-on-our-v1-video-model-and-we-ne|Hi everybody!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

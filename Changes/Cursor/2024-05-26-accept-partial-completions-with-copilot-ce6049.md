@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79788641d7f614b607064c233f54fe35e20d8e0b09de77ec3d2acd102b40d7ab
+machine_hash: 84fdb3bfec526777c002a0f7208b59aa9fbbb345d336865833cb03d872c48ce4
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,9 @@ record:
   title: Accept partial completions with Copilot++
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-10-refactored-prompting-to-unify-some-phrasing-across-edit-formats|Refactored
-  prompting to unify some phrasing across edit formats]]'
 - '[[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved
   reflection feedback to LLMs using the diff edit format]]'
+- '[[Changes/Midjourney/2024-05-24-how-does-it-work|How does it work?]]'
 - '[[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code
   1.89 into Cursor]]'
 source_release: '[[Releases/Cursor/cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc|cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc]]'
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-05-13 · Aider · [[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved reflection feedback to LLMs using the diff edit format]]
+- Earlier: 2024-05-24 · Midjourney · [[Changes/Midjourney/2024-05-24-how-does-it-work|How does it work?]]
 - Later: 2024-06-03 · Open WebUI · [[Changes/Open WebUI/2024-06-03-edit-titles-with-double-click-double-click-on-titles-to-rename-them-quickly-and|✏️ Edit Titles with Double Click]]
 <!-- chronolog:end -->
 

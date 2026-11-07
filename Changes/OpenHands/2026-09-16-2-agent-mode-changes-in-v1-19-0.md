@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 398fbd9c15075ff15623ae50645b837f72f075d0f00119daa6b445e9446bf409
+machine_hash: aa43f36b91fd1d78cb2e480f381320f34497272fe3f80b44901b343a2bc3e94d
 product: openhands
 product_name: OpenHands
 record:
@@ -43,9 +43,10 @@ record:
   title: 2 Agent Mode changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-elevenagents-d9e798|ElevenAgents]]'
 - '[[Changes/Claude Code/2026-09-15-changed-auto-mode-on-bedrock-vertex-and-foundry-to-use-the-local-classifier-by-d|Changed
   auto mode on Bedrock, Vertex and Foundry to use the local classifier…]]'
+- '[[Changes/Google Antigravity/2026-09-15-the-agent-s-temporary-scratch-files-are-no-longer-watched-synced-or-shown-in-the|The
+  agent''s temporary scratch files are no longer watched, synced, or shown…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-2-agent-mode-changes-in-v1-0-85|2 Agent
   Mode changes in v1.0.85]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'

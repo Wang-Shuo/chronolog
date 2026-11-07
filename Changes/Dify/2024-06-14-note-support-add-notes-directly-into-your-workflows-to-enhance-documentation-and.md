@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fd7e7f8a4017d71db9a725d12f543581ad6ad454a94a3f00e504bfd10c9828fd
+machine_hash: dc5957cf8dbd14b37fb592d351ae5c6b7c301e5474f843cab04e742752d165cf
 product: dify
 product_name: Dify
 record:
@@ -46,8 +46,8 @@ record:
   title: '**Note Support**: Add notes directly into your workflows to enhance documentation…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-19-shared-chat-update-shared-chat-now-includes-creator-user-information|\U0001F464
-  Shared Chat Update: Shared chat now includes creator user information]]"
+- '[[Changes/Suno/2024-05-30-thanks-as-always-for-your-support-heart-team-suno|Thanks,
+  as always, for your support]]'
 - '[[Changes/Open WebUI/2024-06-02-2-collaboration-changes-in-v0-2-0|2 Collaboration
   changes in v0.2.0]]'
 - '[[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration

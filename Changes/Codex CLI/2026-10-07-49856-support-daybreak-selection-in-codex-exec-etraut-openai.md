@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cc42ad7f8d39153c804fd923cea5862b0be7b03682d99c4773888483cb70274b
+machine_hash: 157d614865e864cc8b9239e0c04db6d9d6522d4ad4e0ef1fea4f9e395b0bd0e9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-feat-outline-the-back-navigation-control-on-settings-sub-pages-by-errmakov-in-ht|feat: outline the back navigation control on settings sub-pages]]
-- Later: 2026-10-07 · Ollama · [[Changes/Ollama/2026-10-07-cmd-remove-account-step-from-cli-onboarding-by-hoyyeva-in-https-github-com-ollam|cmd: remove account step from CLI onboarding]]
+- Later: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-archived-conversations-in-the-sidebar-now-keep-their-status-and-last-updated-tim|Archived conversations in the sidebar now keep their status and last-updated time…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

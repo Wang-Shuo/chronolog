@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 842d4d517b1fea3271f19c5c6c0c09fb882dbf8123b7f30f77cf95b8b798396f
+machine_hash: 15fce08d1cc63922f7cb3e8c4d722555f4b7b0119343dfa61c1eb5889cb391ca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,10 @@ record:
   title: To create a Site, start in ChatGPT Work on the web or in Work or Codex…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-3-mobile-and-desktop-changes-in-v1-0-69|3
-  Mobile and Desktop changes in v1.0.69]]'
-- '[[Changes/Lovable/2026-07-07-find-in-page-clipboard-and-location-in-the-desktop-app|Find
-  in page, clipboard, and location in the desktop app]]'
+- '[[Changes/Suno/2026-07-07-open-the-app-and-try-it-now-available-on-the-latest-version-of-the-ios-and-andro|Open
+  the app and try it now]]'
+- '[[Changes/Suno/2026-07-07-on-our-mobile-app-there-s-a-new-way-to-create-a-soccer-anthem|On
+  our mobile app, there''s a new way to create a soccer anthem]]'
 - '[[Changes/Codex CLI/2026-07-08-2-mobile-and-desktop-changes-in-rust-v0-143-0|2
   Mobile and Desktop changes in rust-v0.143.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd|chatgpt-2026-07-09-introducing-chatgpt-sites-in-public-beta-4d20edcd]]'

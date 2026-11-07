@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 036c24442a10949b1d48fe81ae1f71f4d399710a7ac1209bb9ac5158f9d86c16
+machine_hash: 678d4031dc40c29617395df7a985402d0ea127a4ddbc8fe362a2bdfdefc840b2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: Canvas actions can now return images to the model in invoke_canvas_action
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved
-  prompt-audit on Claude Code configuration]]'
 - '[[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added
   retries for transient file-upload failures and increased the upload timeout…]]'
+- '[[Changes/OpenClaw/2026-09-30-3-files-and-data-changes-in-v2026-9-7|3 Files and
+  Data changes in v2026.9.7]]'
 - '[[Changes/ChatGPT/2026-10-01-it-s-now-easier-to-bring-your-notes-and-documents-into-chatgpt-on-your-phone-cap|Scan
   notes and documents more easily with ChatGPT camera]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455|github-copilot-cli-2026-10-05-v1-0-92-github-404054639-a6ba3455]]'

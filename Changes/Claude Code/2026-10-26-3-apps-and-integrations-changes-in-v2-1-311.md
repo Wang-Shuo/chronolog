@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eda5292290da781acadb19eee9ac2d8084bd0d072de83492c452e8cfc0bf0b73
+machine_hash: 795565243b2e3bd9f1f5c41ee1792ef78e011793183b589e28ac44b7e0f096e9
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/Replit/2026-10-23-keep-your-apps-running-when-credits-run-out|Keep your
-  apps running when credits run out]]'
 - '[[Changes/Windsurf/2026-10-23-5-apps-and-integrations-changes-in-v3-11-212|5 Apps
   and Integrations changes in v3.11.212]]'
+- '[[Changes/OpenClaw/2026-10-24-7-apps-and-integrations-changes-in-v2026-10-7|7 Apps
+  and Integrations changes in v2026.10.7]]'
 - '[[Changes/Open WebUI/2026-10-25-5-apps-and-integrations-changes-in-v0-12-4|5 Apps
   and Integrations changes in v0.12.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'

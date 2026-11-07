@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 92d18ff8cc3117ab07ca39e3abf9bebd3df6791bef12dae33752527f7cb405c3
+machine_hash: 902ba6ac4f3d3018758e007106123a2efbac94b6aa64d83a9a2842713736bbde
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,10 +49,10 @@ record:
   title: 2 Memory and Personalization changes in v0.12.5
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-3-memory-and-personalization-changes-in-1-18-0|3 Memory
-  and Personalization changes in 1.18.0]]'
-- '[[Changes/Codex CLI/2026-10-27-5-memory-and-personalization-changes-in-rust-v0-165-0|5
-  Memory and Personalization changes in rust-v0.165.0]]'
+- '[[Changes/OpenClaw/2026-10-27-4-memory-and-personalization-changes-in-v2026-10-8|4
+  Memory and Personalization changes in v2026.10.8]]'
+- '[[Changes/OpenCode/2026-10-27-8-memory-and-personalization-changes-in-v2-2-0|8
+  Memory and Personalization changes in v2.2.0]]'
 - '[[Changes/Codex CLI/2026-10-29-2-memory-and-personalization-changes-in-rust-v0-166-0|2
   Memory and Personalization changes in rust-v0.166.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'

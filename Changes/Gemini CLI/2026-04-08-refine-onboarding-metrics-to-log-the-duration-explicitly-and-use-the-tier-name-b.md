@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae6ca9e0e2cc5b599a43bc46fbd6caddd7a612148813ad7cd0305081d5df4294
+machine_hash: f892cb95b58aed673ce4614b762a8332d8ef596b87683490e7a2b64207ef7c43
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
     name
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-04-session-resume-picker-correctly-groups-sessions-by-branch-and-repository-on-firs|Session
-  resume picker correctly groups sessions by branch and repository on first use]]'
+- '[[Changes/OpenCode/2026-04-04-desktop-added-keyboard-navigation-and-shortcuts-to-the-question-dock|Desktop
+  Added keyboard navigation and shortcuts to the question dock]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-slash-command-picker-no-longer-flickers-or-shifts-the-input-while-filtering|Slash
   command picker no longer flickers or shifts the input while filtering]]'
 - '[[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface Experience changes in v2.1.97]]
-- Later: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-slash-command-picker-appears-above-the-text-input-for-a-more-stable-layout|Slash command picker appears above the text input for a more stable layout]]
+- Later: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-terminal-added-a-keybinding-option-for-switch-model-variant|Terminal Added a keybinding option for "Switch model variant"]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1681471b49fc5b2c408563d299f4163df76ea7aaacc47c2bd22cead5cbbd8bd9
+machine_hash: d3d1d02f6f6fd946b8c4095316753282ca7b3b39c5b18cf2830773c1d0f53c4a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,8 +41,8 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include
-  the host plugin version in telemetry events]]'
+- '[[Changes/OpenCode/2026-07-24-core-use-the-correct-prompt-cache-keys-for-each-sdk|Core
+  Use the correct prompt cache keys for each SDK]]'
 - '[[Changes/Replit/2026-07-24-integrations|Integrations]]'
 - '[[Changes/Replit/2026-07-24-bring-more-slack-context-to-agent|Bring more Slack
   context to Agent]]'

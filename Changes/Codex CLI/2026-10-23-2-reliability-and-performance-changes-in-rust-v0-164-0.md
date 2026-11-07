@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b06e0eac2931483899e9760ef65919c079bc1c1cb182780b329962275482c6cd
+machine_hash: 866d9424f5fe974749a69f745578e5e2b1a2352c6b0a99391670cc43ec18a636
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Reliability and Performance changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2
-  Reliability and Performance changes in v2.1.304]]'
 - '[[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2
   Reliability and Performance changes in v2.1.309]]'
+- '[[Changes/OpenClaw/2026-10-22-restarting-the-same-official-docker-container-no-longer-copies-all-its-saved-sta|Restarting
+  the same official Docker container no longer copies all its saved state…]]'
 - '[[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved
   memory use of non-interactive sessions (-p, Agent SDK) during compaction…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'

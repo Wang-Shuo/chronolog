@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d26871db474a57840b5346f1fb552d8ac347da617dd4d7ad23caff9160646365
+machine_hash: b0958d7b46ffc69b5a48a9811fc1de749e117051f1b155e2cb63a5f97d4fcf64
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -66,10 +66,10 @@ record:
   title: 12 Apps and Integrations changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-3-apps-and-integrations-changes-in-v1-35-0|3 Apps
-  and Integrations changes in v1.35.0]]'
 - '[[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and
   Integrations changes in 1.19.0]]'
+- '[[Changes/OpenClaw/2026-11-05-5-apps-and-integrations-changes-in-v2026-11-1|5 Apps
+  and Integrations changes in v2026.11.1]]'
 - '[[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps
   and Integrations changes in v1.36.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'

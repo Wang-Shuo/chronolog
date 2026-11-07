@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e274b08114a88548ac3bfe8f2691d39d9b47318e8a77634b117df28a00d9292
+machine_hash: 24178de333ab315b71162f163f67edf9794381e7de9d8892b5f79b401ee52b93
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Pricing Model changes in v1.0.51
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|Standard:
-  $0.50/M input, $2.50/M output tokens]]'
+- '[[Changes/OpenCode/2026-05-18-core-reduce-missed-event-updates-caused-by-a-subscription-race|Core
+  Reduce missed /event updates caused by a subscription race]]'
 - '[[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr|Renamed
   "extra usage" to "usage credits" across CLI copy]]'
 - '[[Changes/Gemini/2026-05-19-introducing-a-new-100-google-ai-ultra-plan|Introducing

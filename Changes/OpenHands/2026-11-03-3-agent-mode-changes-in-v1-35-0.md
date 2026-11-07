@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41cfb85f09bfbed4f31495abe04c540e5cc8c4d1d1fc6a3c6f49408d6e5c4050
+machine_hash: 81349ccfe3d92e079e72109736e2ebe547ac39b9f6389d6a002ae373e8ebe5f3
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Agent Mode changes in v1.35.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-11-03-lovable-follows-agents-md-files-in-your-project-s-subfolders|Lovable
-  follows AGENTS.md files in your project''s subfolders]]'
-- '[[Changes/Ollama/2026-11-03-xiaomi-mimo-s-mimo-v2-6-https-ollama-com-library-mimo-v2-6-a-9b-model-built-for|Xiaomi
-  MiMo''s mimo-v2.6((source link) a 9B model built…]]'
 - "[[Changes/Open WebUI/2026-11-03-no-sub-agent-limits-by-default-the-sub-agent-limits-in-admin-settings-and-throug|\U0001F513
   No sub-agent limits by default. The sub-agent limits in Admin Settings…]]"
+- '[[Changes/OpenClaw/2026-11-03-9-agent-mode-changes-in-v2026-10-10|9 Agent Mode
+  changes in v2026.10.10]]'
+- '[[Changes/OpenClaw/2026-11-03-you-can-now-work-directly-in-a-folder-on-another-computer-connected-to-openclaw|Work
+  directly in a folder on another computer connected to OpenClaw]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: agent-mode
@@ -93,7 +93,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-no-sub-agent-limits-by-default-the-sub-agent-limits-in-admin-settings-and-throug|🔓 No sub-agent limits by default. The sub-agent limits in Admin Settings…]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-you-can-now-work-directly-in-a-folder-on-another-computer-connected-to-openclaw|Work directly in a folder on another computer connected to OpenClaw]]
 - Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-14-agent-mode-changes-in-1-19-0|14 Agent Mode changes in 1.19.0]]
 <!-- chronolog:end -->
 

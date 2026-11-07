@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6b171e600b869990d41c91680db3fc5faefcd80e75d7e836abe50737fe8fb90f
+machine_hash: c86f66f104bc15ece385e23e6b47005bf0378cf94a97c1be15dca2496311e105
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
   title: Changed Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-improved-the-model-fallback-notice-and-the-autocompact-thrashing-error-to-say-wh|Improved
-  the model fallback notice and the autocompact-thrashing error to say…]]'
 - '[[Changes/Cline/2026-09-30-reasoning-tokens-are-no-longer-counted-twice-in-token-usage-cost-is-unchanged|Reasoning
   tokens are no longer counted twice in token usage]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-compaction-now-returns-a-summary-even-when-instructions-ask-for-tool-use|Compaction
   now returns a summary even when instructions ask for tool use]]'
+- '[[Changes/OpenClaw/2026-09-30-4-context-window-changes-in-v2026-9-7|4 Context Window
+  changes in v2026.9.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: context-window
@@ -104,7 +104,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-compaction-now-returns-a-summary-even-when-instructions-ask-for-tool-use|Compaction now returns a summary even when instructions ask for tool use]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-4-context-window-changes-in-v2026-9-7|4 Context Window changes in v2026.9.7]]
 - Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-3-context-window-changes-in-rust-v0-160-0|3 Context Window changes in rust-v0.160.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c39e3336c6e01af7aaf552a7f313569be2372f875b7096f1f93255d12e9e966b
+machine_hash: 4f9ec5ecade7a27b3138e2caccf610405ae09f4fcfd4a14de6b7002a78b7cda8
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: Added `/goal` command
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-8-apps-and-integrations-changes-in-rust-v0-130-0|8
-  Apps and Integrations changes in rust-v0.130.0]]'
-- '[[Changes/Replit/2026-05-08-speaker-notes-and-presenter-view-in-slide-decks|Speaker
-  notes and Presenter view in Slide Decks]]'
-- '[[Changes/Open WebUI/2026-05-09-3-apps-and-integrations-changes-in-v0-9-3|3 Apps
-  and Integrations changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-10-tui-plugins-using-the-deprecated-api-command-api-keep-working-while-you-migrate|TUI
+  plugins using the deprecated api.command API keep working while you migrate…]]'
+- '[[Changes/OpenCode/2026-05-10-2-apps-and-integrations-changes-in-v1-14-45|2 Apps
+  and Integrations changes in v1.14.45]]'
+- '[[Changes/OpenCode/2026-05-10-3-apps-and-integrations-changes-in-v1-14-46|3 Apps
+  and Integrations changes in v1.14.46]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-3-apps-and-integrations-changes-in-v0-9-3|3 Apps and Integrations changes in v0.9.3]]
+- Earlier: 2026-05-10 · OpenCode · [[Changes/OpenCode/2026-05-10-3-apps-and-integrations-changes-in-v1-14-46|3 Apps and Integrations changes in v1.14.46]]
 - Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in|Get started by installing the integration in the Cursor dashboard]]
 <!-- chronolog:end -->
 

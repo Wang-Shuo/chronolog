@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 3accd5a69ee1d8997f797e0e959fc57ccce9c24c18c876fa5c94e01e5eab0d41
+machine_hash: b5706975cad8b209bb578da4153c84b150163a617a1be2c2ac7447f20e8b145b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -42,11 +42,12 @@ record:
   title: Subscription Management
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|Introducing
-  unified request-based pricing, Max Mode for all top models…]]'
-- '[[Changes/ElevenLabs/2025-05-19-billing|Billing]]'
-- '[[Changes/Gemini/2025-05-20-get-more-from-the-gemini-app-with-the-google-ai-pro-subscription|Get
-  more from the Gemini app with the Google AI Pro subscription]]'
+- '[[Changes/Midjourney/2025-06-16-we-also-need-your-help-figuring-out-how-to-price-this-release-we-are-extremely-c|We
+  also need your help figuring out how to price this release!]]'
+- '[[Changes/Midjourney/2025-06-16-this-first-survey-is-also-a-little-weird-but-it-s-focused-on-helping-us-figure-o|This
+  first survey is also a little weird but it''s focused on helping us figure out…]]'
+- '[[Changes/Midjourney/2025-06-16-we-re-doing-another-pricing-survey-today|We''re
+  doing another pricing survey today.]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-06-17-2025-06-17-95385721|elevenlabs-2025-06-17-2025-06-17-95385721]]'
 source_type: elevenlabs_changelog
 theme: pricing-model
@@ -81,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-05-20 · Gemini · [[Changes/Gemini/2025-05-20-get-more-from-the-gemini-app-with-the-google-ai-pro-subscription|Get more from the Gemini app with the Google AI Pro subscription]]
-- Later: 2025-06-27 · Replit · [[Changes/Replit/2025-06-27-organization-suspension-from-ubb-services|Organization suspension from UBB services]]
+- Earlier: 2025-06-16 · Midjourney · [[Changes/Midjourney/2025-06-16-we-re-doing-another-pricing-survey-today|We're doing another pricing survey today.]]
+- Later: 2025-06-19 · Midjourney · [[Changes/Midjourney/2025-06-19-so-we-want-to-give-you-some-quick-tips-on-how-to-get-the-best-possible-value-wit|So we want to give you some quick tips on how to get the best possible value…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

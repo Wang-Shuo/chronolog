@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f540df740adf1013f12dc3b9cbfae6971022cd1b03bf2f452a2ea54ace7a4309
+machine_hash: 78d97c5e2d08d798ef0538d11b0f7190f870d50e294937b44224d0f3c13d162a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Detached shell processes work on vanilla macOS installations
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-29-skills-load-correctly-on-windows|Skills
-  load correctly on Windows]]'
-- '[[Changes/Codex CLI/2026-01-31-10011-really-fix-pwd-for-windows-codex-zip-iceweasel-oai|♯10011
-  really fix pwd for windows codex zip @iceweasel-oai]]'
 - '[[Changes/Codex CLI/2026-02-04-2-mobile-and-desktop-changes-in-rust-v0-95-0|2 Mobile
   and Desktop changes in rust-v0.95.0]]'
+- '[[Changes/OpenCode/2026-02-04-desktop-tighten-up-session-padding-top-for-mobile|Desktop
+  Tighten up session padding-top for mobile]]'
+- '[[Changes/OpenCode/2026-02-04-8-mobile-and-desktop-changes-in-v1-1-50|8 Mobile
+  and Desktop changes in v1.1.50]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-05-v0-0-403-github-283262197-e3e99740|github-copilot-cli-2026-02-05-v0-0-403-github-283262197-e3e99740]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-2-mobile-and-desktop-changes-in-rust-v0-95-0|2 Mobile and Desktop changes in rust-v0.95.0]]
-- Later: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-new-endpoints|New Endpoints]]
+- Earlier: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-8-mobile-and-desktop-changes-in-v1-1-50|8 Mobile and Desktop changes in v1.1.50]]
+- Later: 2026-02-05 · OpenCode · [[Changes/OpenCode/2026-02-05-8-mobile-and-desktop-changes-in-v1-1-53|8 Mobile and Desktop changes in v1.1.53]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

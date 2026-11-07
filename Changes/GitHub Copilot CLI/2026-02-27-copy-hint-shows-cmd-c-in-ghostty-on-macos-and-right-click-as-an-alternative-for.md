@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ff5036bc267ee6b6159d1318b90ea32008e98ce83c168177f7922eb1f90b69a
+machine_hash: 11f04ef2fd5e3280c6af5a631fef82b88698a629df7bd0a32059185890283f7b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     for all…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-25-2-mobile-and-desktop-changes-in-rust-v0-105-0|2
-  Mobile and Desktop changes in rust-v0.105.0]]'
 - '[[Changes/Codex CLI/2026-02-26-2-mobile-and-desktop-changes-in-rust-v0-106-0|2
   Mobile and Desktop changes in rust-v0.106.0]]'
+- '[[Changes/OpenCode/2026-02-26-3-mobile-and-desktop-changes-in-v1-2-15|3 Mobile
+  and Desktop changes in v1.2.15]]'
 - '[[Changes/Gemini CLI/2026-02-27-feat-cli-add-macos-run-event-notifications-interactive-only-by-lyalindotcom-in-h|feat(cli):
   add macOS run-event notifications (interactive only)]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-27-v0-0-420-github-291473400-c25a1043|github-copilot-cli-2026-02-27-v0-0-420-github-291473400-c25a1043]]'

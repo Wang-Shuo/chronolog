@@ -1,6 +1,127 @@
 site:
   repository: https://github.com/Wang-Shuo/chronolog
 products:
+  - name: suno
+    display_name: Suno
+    feed_type: suno_changelog
+    url: https://suno.com/release-notes
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: All dated entries currently published on the official release-notes index, including mobile, Studio and model announcements. Earlier changes absent from this endpoint are outside coverage.
+    themes: [music-generation, voice, model-support, collaboration, pricing-model, mobile-desktop]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: runway
+    display_name: Runway
+    feed_type: runway_changelog
+    url: https://runway.com/changelog
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: All dated descriptions currently available on the official changelog. Multiple announcements on one date remain separate; the source does not provide individual entry permalinks.
+    themes: [video-generation, image-generation, voice, model-support, collaboration, pricing-model]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: midjourney
+    display_name: Midjourney
+    feed_type: midjourney_changelog
+    url: https://updates.midjourney.com/
+    index_url: https://updates.midjourney.com/sitemap-posts.xml
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Posts listed in the official updates sitemap, including alpha tests and community announcements. Dates are article publication dates, not sitemap modification dates or dates mentioned in titles; older Discord-only announcements are outside coverage.
+    themes: [image-generation, video-generation, model-support, interface-experience, pricing-model]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: gamma
+    display_name: Gamma
+    feed_type: gamma_changelog
+    url: https://ideas.gamma.app/changelog
+    api_url: https://ideas.gamma.app/api/changelog/getEntries
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: All published entries returned by the official public changelog, traversing every cumulative page. Drafts, deleted entries and private feedback are excluded.
+    themes: [presentation-creation, artifact-creation, image-generation, file-data, apps-integrations, collaboration]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: granola
+    display_name: Granola
+    feed_type: granola_changelog
+    url: https://www.granola.ai/updates
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Dated announcement summaries on the official updates index, including launch and company announcements listed there. Full blog article text and unlisted maintenance changes are outside this source's scope.
+    themes: [meeting-notes, voice, apps-integrations, collaboration, mobile-desktop, accessibility-localization]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: google-antigravity
+    display_name: Google Antigravity
+    feed_type: antigravity_changelog
+    url: https://antigravity.google/docs/changelog
+    surfaces: [hub, ide]
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Dated versions of the Antigravity App (hub) and original IDE on the official changelog. Separately versioned CLI, SDK, editor extensions and undated model-launch cards are outside this scope.
+    themes: [agent-mode, editor-experience, model-support, apps-integrations, developer-workflow, projects-workspaces]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: manus
+    display_name: Manus
+    feed_type: manus_changelog
+    url: https://www.manus.im/updates
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: All updates exposed by the official public Updates page's notification feed. Entries use the feed's publication timestamp; entries without a public blog permalink link to the Updates index. Private account notifications are outside coverage.
+    themes: [agent-mode, automation-scheduling, apps-integrations, artifact-creation, search-browsing, file-data]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: openclaw
+    display_name: OpenClaw
+    feed_type: openclaw_changelog
+    url: https://docs.openclaw.ai/releases
+    repo: openclaw/openclaw
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Curated release summaries linked from the official documentation release index, dated using published_at of the matching stable GitHub tag. Calendar-looking version numbers are not dates. Older technical changelog records and prereleases outside this index are excluded.
+    themes: [agent-mode, memory, apps-integrations, automation-scheduling, safety-privacy, mobile-desktop]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
+  - name: opencode
+    display_name: OpenCode
+    feed_type: opencode_changelog
+    url: https://opencode.ai/changelog
+    backfill: full
+    max_staleness_days: 2
+    known_gaps: Every version currently listed in the paginated official product changelog, including CLI and app changes. GitHub tags not listed in this curated endpoint are outside coverage.
+    themes: [agent-mode, model-support, developer-workflow, apps-integrations, editor-experience, mobile-desktop]
+    track_silence: true
+    silence_window: month
+    silence_periods: 2
+    silence_baseline_factor: 0.5
+    language: en
   - name: chatgpt
     display_name: ChatGPT
     feed_type: chatgpt_changelog

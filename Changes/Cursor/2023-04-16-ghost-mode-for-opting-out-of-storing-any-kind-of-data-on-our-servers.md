@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75333ebbcc893fe949170b4910c96b445fb6471277d3bc9276bf213ae39a2445
+machine_hash: c643da065d974dbeaf17383db7c1c393f89391c4031ad4a0178e63024d5ec2a0
 product: cursor
 product_name: Cursor
 record:
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 20 tracked products.
+- Earliest same-theme entry among the 29 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

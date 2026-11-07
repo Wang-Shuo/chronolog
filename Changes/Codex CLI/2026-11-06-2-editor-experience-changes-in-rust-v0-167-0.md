@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56521d336b1df6f6fd5007202d6d864d08afbe60f323962356fac6922a1d8321
+machine_hash: 5e98d40ac3876470d5de33f97deb3c9786301d3df0a205f0ca438b24fd0f91e0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Editor Experience changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-11-04-3-editor-experience-changes-in-1-19-0|3 Editor Experience
-  changes in 1.19.0]]'
 - '[[Changes/Gemini CLI/2026-11-04-feat-cli-bridge-the-ide-companion-into-container-sandboxes-over-exec-stdio-by-el|feat(cli):
   bridge the IDE companion into container sandboxes over exec stdio]]'
+- '[[Changes/OpenClaw/2026-11-05-reduces-prompt-cache-misses-across-completion-heartbeat-and-background-turns-by|Reduces
+  prompt-cache misses across completion, heartbeat and background turns…]]'
 - '[[Changes/OpenHands/2026-11-05-chore-deps-bump-monaco-editor-from-0-56-0-to-0-57-0-in-the-monaco-group-by-depen|chore(deps):
   bump monaco-editor from 0.56.0 to 0.57.0 in the monaco group…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 489da6c40446dc078b2c9bacdbb1002f0785fb3a34b06f0437588d2750162c85
+machine_hash: ad6739c7299ffb16c41b7e902650bb05eb9cd3333df0e65dbcd67d3b4949e019
 product: dify
 product_name: Dify
 record:
@@ -48,10 +48,10 @@ record:
   title: 5 Voice and Audio changes in 0.5.6
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-  are beginning to roll out new voice and image capabilities in ChatGPT]]'
 - '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT
   with voice is available to all users]]'
+- '[[Changes/Runway/2024-01-08-create-a-custom-voice-for-text-to-speech-or-lip-sync-videos-using-a-short-audio|Custom
+  Voices]]'
 - '[[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat
   to supercharge your ideas in the Gemini app]]'
 source_release: '[[Releases/Dify/dify-2024-02-19-0-5-6-github-142556067-45a96eb6|dify-2024-02-19-0-5-6-github-142556067-45a96eb6]]'
@@ -95,7 +95,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.5.6
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-02-08 · Gemini · [[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat to supercharge your ideas in the Gemini app]]
-- Later: 2024-02-28 · Dify · [[Changes/Dify/2024-02-28-voice-audition-by-charli117-in-https-github-com-langgenius-dify-pull-2504|Voice audition]]
+- Later: 2024-02-22 · Suno · [[Changes/Suno/2024-02-22-v3-alpha-has-better-audio-quality-and-increased-expressiveness-among-other-heavi|V3 Alpha has better audio quality and increased expressiveness among other heavily…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

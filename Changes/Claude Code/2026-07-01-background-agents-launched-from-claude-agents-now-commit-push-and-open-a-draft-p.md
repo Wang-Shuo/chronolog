@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 93de67654f8b49e09055e08562742c4890158801378629f83668e9c3a4593c58
+machine_hash: 2900825ed17b531e30056519fb0df2c911e66d3fb32db1fae2455f2e9b86a1d7
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
     a draft…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer
-  Workflow changes in v2.1.196]]'
-- '[[Changes/Open WebUI/2026-06-29-42-developer-workflow-changes-in-v0-10-0|42 Developer
-  Workflow changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-21-developer-workflow-changes-in-v1-0-66|21
   Developer Workflow changes in v1.0.66]]'
+- '[[Changes/OpenClaw/2026-06-30-9-developer-workflow-changes-in-v2026-6-11|9 Developer
+  Workflow changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-2-developer-workflow-changes-in-v1-17-12|2 Developer
+  Workflow changes in v1.17.12]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
 theme: developer-workflow
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-21-developer-workflow-changes-in-v1-0-66|21 Developer Workflow changes in v1.0.66]]
+- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-2-developer-workflow-changes-in-v1-17-12|2 Developer Workflow changes in v1.17.12]]
 - Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6 Developer Workflow changes in v1.0.68]]
 <!-- chronolog:end -->
 

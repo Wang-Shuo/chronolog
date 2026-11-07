@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 015646ab10d002f28d0d6a8fdfd73c7e8d46ac73f77e12ea08fecde798c8b4a3
+machine_hash: ea276d81507b3fb672f113bcc6e3c6a18410494eb1a13ea7e010692a1af5d6f5
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: Powered by Cloud Agents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved
-  /workflows agent detail]]'
 - '[[Changes/Codex CLI/2026-09-09-6-agent-mode-changes-in-rust-v0-154-0|6 Agent Mode
   changes in rust-v0.154.0]]'
+- '[[Changes/Google Antigravity/2026-09-09-2-agent-mode-changes-in-hub-v2-13-0-introducing-new-documents|2
+  Agent Mode changes in HUB v2.13.0 — Introducing new Documents…]]'
 - '[[Changes/Claude Code/2026-09-10-improved-auto-mode-denials-the-message-claude-receives-now-names-the-rule-that-b|Improved
   auto mode denials]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75|cursor-2026-09-10-cursor-projects-https-cursor-com-changelog-projects-105aab75]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1bc2003d496c1b04fe29aafba15592afc8f306b0544442f1d07562641e3570e
+machine_hash: bb46fd3758ccaccb2eb8681764c926207b86d4a424d034366616a70327a1afff
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 5 Developer Workflow changes in rust-v0.153.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-02-improved-terminal-resize-and-first-render-performance-for-long-responses-by-reus|Improved
-  terminal resize and first-render performance for long responses by reusing…]]'
 - '[[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global
   rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]'
+- '[[Changes/Google Antigravity/2026-09-02-terminal-split-layouts-are-now-preserved-across-window-reloads|Terminal
+  split layouts are now preserved across window reloads]]'
 - '[[Changes/Claude Code/2026-09-03-improved-deleting-a-background-session-whose-worktree-has-unpushed-commits-the-m|Improved
   deleting a background session whose worktree has unpushed commits]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f|codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f]]'
@@ -109,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.153.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-improved-deleting-a-background-session-whose-worktree-has-unpushed-commits-the-m|Improved deleting a background session whose worktree has unpushed commits]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-3-developer-workflow-changes-in-v2-1-261|3 Developer Workflow changes in v2.1.261]]
+- Later: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-11-developer-workflow-changes-in-v2026-9-1|11 Developer Workflow changes in v2026.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

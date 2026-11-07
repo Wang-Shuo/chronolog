@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c426d030fcc7eb02fb3d563643c51ce837d67f561caac714b351bd32f7417fb4
+machine_hash: a27a89ee8b2e3a48a3d73833d71ce8567808968f86a3eb0d408a3934f6a6dd03
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,7 @@ record:
   title: "\U0001F3F7️ **Multiple XML Tags in Messages Now Parsed Correctly**"
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-25-add-tooltips-to-bottom-row-menu|Add tooltips to bottom
-  row menu]]'
+- '[[Changes/Midjourney/2025-05-01-how-to-use-omni-reference|How to Use Omni-Reference]]'
 - '[[Changes/Cline/2025-05-03-add-support-for-latex-rendering|Add support for LaTeX
   rendering]]'
 - '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile

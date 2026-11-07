@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f69b0eb3ed46b9f9ea1d4c88cf90287a4ee819dddb19270f2cb7912f76ce1a8c
+machine_hash: 6ce067b88f3aa0077c66820d18eae3ab486e2edf36ee184eb1cccb11b751aaf9
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Apps and Integrations changes in v1.29.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-4-apps-and-integrations-changes-in-v1-0-101|4
-  Apps and Integrations changes in v1.0.101]]'
+- '[[Changes/Google Antigravity/2026-10-20-project-folders-managed-by-ui-plugins-now-display-a-dedicated-plugin-badge-in-th|Project
+  folders managed by UI plugins now display a dedicated plugin badge in the sidebar]]'
 - '[[Changes/Lovable/2026-10-20-let-lovable-create-your-supabase-project|Let Lovable
   create your Supabase project]]'
 - '[[Changes/Lovable/2026-10-20-app-chat-connectors-llamaparse-platform-and-n8n|App

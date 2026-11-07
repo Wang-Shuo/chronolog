@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c329e611b81923aab013ae59f563498f8fda739c2123441f647c6e5575084716
+machine_hash: f58e4d16800eb213f4e1e71ba3336e129749e256a4a6ecbfe6cd48fd12c7e3a4
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: Subscriptions
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-6-agent-mode-changes-in-rust-v0-154-0|6 Agent Mode
-  changes in rust-v0.154.0]]'
+- '[[Changes/Google Antigravity/2026-09-09-2-agent-mode-changes-in-hub-v2-13-0-introducing-new-documents|2
+  Agent Mode changes in HUB v2.13.0 — Introducing new Documents…]]'
 - '[[Changes/Claude Code/2026-09-10-improved-auto-mode-denials-the-message-claude-receives-now-names-the-rule-that-b|Improved
   auto mode denials]]'
 - '[[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s|Powered

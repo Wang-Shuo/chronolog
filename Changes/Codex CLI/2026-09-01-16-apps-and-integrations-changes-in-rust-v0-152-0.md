@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8306ee019ab32156a812e580561c5ae0f01c333c36f96e9963c87da5e469daa2
+machine_hash: 7dc3d01a31a75697a38e72763d0ee9d78c08ff71ad41ce89f3c04ed48ff1fda8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -74,8 +74,8 @@ record:
   title: 16 Apps and Integrations changes in rust-v0.152.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-08-31-create-a-connector-for-any-api|Create a connector
-  for any API]]'
+- '[[Changes/OpenClaw/2026-08-31-2-apps-and-integrations-changes-in-v2026-8-1|2 Apps
+  and Integrations changes in v2026.8.1]]'
 - '[[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|Healthcare
   Public Data in ChatGPT for Clinicians]]'
 - '[[Changes/Claude Code/2026-09-01-2-apps-and-integrations-changes-in-v2-1-257|2

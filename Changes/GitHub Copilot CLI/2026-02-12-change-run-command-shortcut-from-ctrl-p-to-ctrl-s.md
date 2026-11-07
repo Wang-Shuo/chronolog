@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 51c300d483b8aca7a89bdbe27c7aa61c784b5bac1b523fc552ac95d6a6630878
+machine_hash: a8e59c2a8e8026abb2d736580bdad862a3abadc0a6b27d01bc615579347ad266
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Change run command shortcut from ctrl+p to ctrl+s
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-11-3-developer-workflow-changes-in-v0-0-407|3
-  Developer Workflow changes in v0.0.407]]'
+- '[[Changes/OpenCode/2026-02-11-2-developer-workflow-changes-in-v1-1-57|2 Developer
+  Workflow changes in v1.1.57]]'
 - '[[Changes/Cline/2026-02-12-terminal-surface-command-exit-codes-in-results-and-improve-long-running-execute|Terminal:
   surface command exit codes in results and improve long-running…]]'
 - '[[Changes/Codex CLI/2026-02-12-11412-tui-show-non-file-layer-content-in-debug-config-bolinfest|♯11412

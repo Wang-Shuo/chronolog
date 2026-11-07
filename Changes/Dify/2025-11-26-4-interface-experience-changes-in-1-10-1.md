@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aaee6f1720584eb0a87422e3f81b1f77fda2a56b358af19eed0c96ae4a075d3c
+machine_hash: df58e47975b36bbb9ca3170d608c4b5bd2bcd2d2afd8b63c2a3105dc25c7aaf6
 product: dify
 product_name: Dify
 record:
@@ -51,10 +51,9 @@ record:
   title: 4 Interface Experience changes in 1.10.1
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved
-  timeline rendering of shell tool names]]'
 - '[[Changes/Open WebUI/2025-11-24-5-interface-experience-changes-in-v0-6-37|5 Interface
   Experience changes in v0.6.37]]'
+- '[[Changes/Gamma/2025-11-25-here-s-what-s-improved|Here''s what''s improved]]'
 - '[[Changes/Open WebUI/2025-11-25-2-interface-experience-changes-in-v0-6-39|2 Interface
   Experience changes in v0.6.39]]'
 source_release: '[[Releases/Dify/dify-2025-11-26-1-10-1-github-265397441-2aafa784|dify-2025-11-26-1-10-1-github-265397441-2aafa784]]'

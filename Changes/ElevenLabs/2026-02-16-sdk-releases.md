@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c1af5b87a06cb428b09a5ebf707da9adaf95e5ebf199ae35f521a46b5ec54e92
+machine_hash: aca2ef54c50f25d16f0e500ae3828321422a4967bbb45c3fa8a118e2d097ae3e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-2-apps-and-integrations-changes-in-v0-8-1|2 Apps and Integrations changes in v0.8.1]]
-- Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps and Integrations changes in v2.1.45]]
+- Later: 2026-02-16 · OpenCode · [[Changes/OpenCode/2026-02-16-core-bump-gitlab-provider-and-auth-plugin-for-mid-session-token-refresh|Core Bump GitLab provider and auth plugin for mid-session token refresh]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

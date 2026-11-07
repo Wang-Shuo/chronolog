@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ff6d202c4878201140a369ecd6136e07aaa24a23d35a2761cd1cd06fbc964df6
+machine_hash: 8ecaa4902660e1b82c4892edbb180805effc45ab4711d6b741e7b9b65f2f1ad2
 product: replit
 product_name: Replit
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-3-pricing-model-changes-in-1-11-2|3 Pricing Model changes in 1.11.2]]
-- Later: 2026-01-14 · v0 · [[Changes/v0/2026-01-14-added-scope-selector-in-the-buy-credits-dialog|Added scope selector in the buy credits dialog]]
+- Later: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-terminal-refactor-event-streaming-in-tui-to-use-sdk-instead-of-manual-rpc-subscr|Terminal Refactor event streaming in TUI to use SDK instead of manual RPC subscription]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 985ed335e82f42138db5746ccd8294149b41cdaeced05cd89c4a06bcddb7a7d2
+machine_hash: cb12ea97dcee72bd2d1fe752bf3f75aa1686f5e1844eacdc5393ba6d374dbf60
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-4-apps-and-integrations-changes-in-v0-26-0|4 Apps and Integrations changes in v0.26.0]]
-- Later: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|VSCode: Enabled Claude in Chrome integration]]
+- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-2-apps-and-integrations-changes-in-v1-1-40-1|2 Apps and Integrations changes in v1.1.40 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

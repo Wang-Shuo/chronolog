@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1f213d5b026b4de93c87c75a0150fc23b3ec06f713015425c74a55b7c6a1bf5d
+machine_hash: 55fa8688081a377c40e0b7105e22d43cccce66635f93257e9c7c5302e3e18385
 product: replit
 product_name: Replit
 record:

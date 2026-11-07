@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5dd683cf9227f7b26178390aaa3c2520229f85eca04e2db0258e9b57e64ab55d
+machine_hash: 4265396e3c69850c46fa44a7a4b1a1ad331f4ba56c78f826743bc67627c15f6c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,7 @@ record:
     model
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-24-improved-prompting-for-sonnet-4-5-to-reduce-the-number-of-intermediate-markdown|Improved
-  prompting for Sonnet 4.5 to reduce the number of intermediate markdown…]]'
+- '[[Changes/Runway/2025-10-24-create-your-own-custom-node-based-workflows-chaining-together-multiple-models-mo|Workflows]]'
 - '[[Changes/Cline/2025-10-27-3-model-support-changes-in-v3-34-1|3 Model Support changes
   in v3.34.1]]'
 - '[[Changes/ElevenLabs/2025-10-27-supported-llm-models|Supported LLM Models]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 93edd0d4efd2683c33250ef9fe76a38eba5955fe16981595c833b51a05dc1310
+machine_hash: 6a11ed83c0fb4492327e773e23dfa04ca582bf0d205e85d59b6366857fddabd6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#29086 Document raw response item compatibility @jif-oai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen
-  writing blocks for longer-form work]]'
+- '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-and-pdf-support|Quota
+  Screen Redesign and PDF Support]]'
 - '[[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add
   visual references when you generate media on Canvas]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-recover-from-unreadable-native-document-attachments-by-falling-back-to-file-path|Recover

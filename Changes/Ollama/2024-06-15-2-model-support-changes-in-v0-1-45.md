@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf0122990520256b8b13a7f8745cd4878ea0d112b91f6f80e50a8b4df8e8b305
+machine_hash: 2dc8ab32ace2f6bc5c37827c76b3ccc9ae4727326fd627c90cd257bc04d6369f
 product: ollama
 product_name: Ollama
 record:
@@ -84,7 +84,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.1.45
 ## Nearby in Model Support
 
 - Earlier: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-11-model-support-changes-in-0-6-11|11 Model Support changes in 0.6.11]]
-- Later: 2024-06-17 · Open WebUI · [[Changes/Open WebUI/2024-06-17-markdown-support-in-model-descriptions-you-can-now-format-model-descriptions-wit|📝 Markdown Support in Model Descriptions]]
+- Later: 2024-06-17 · Midjourney · [[Changes/Midjourney/2024-06-17-we-re-starting-a-new-research-project-to-explore-the-origins-of-beauty-basically|We're starting a new research project to explore the origins of beauty.]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

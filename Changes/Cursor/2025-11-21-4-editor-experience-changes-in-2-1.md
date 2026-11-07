@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 579955f6cd9384c90d5663431addae99e85eeec861a422156028572a863df507
+machine_hash: ce089729607739d032e01922b5e645dc0a2ae981a8b031fa833be5d47723b249
 product: cursor
 product_name: Cursor
 record:
@@ -48,11 +48,12 @@ record:
   title: 4 Editor Experience changes in 2.1
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-13-shortcuts|Shortcuts]]'
-- '[[Changes/Gemini CLI/2025-11-14-add-expected-replacements-to-smart-edit-tool-by-scidomino-in-https-github-com-go|Add
-  expected_replacements to smart-edit tool]]'
 - '[[Changes/Codex CLI/2025-11-19-use-shared-network-gating-helper-in-chat-completion-tests-6461-aibrahim|Use
   shared network gating helper in chat completion tests (♯6461) — @aibrahim]]'
+- '[[Changes/Midjourney/2025-11-20-the-hide-filter-has-changed-to-trash-now-when-you-trash-a-creation-it-won-t-be-v|The
+  “Hide” filter has changed to “Trash”]]'
+- '[[Changes/Midjourney/2025-11-20-the-mobile-editor-doesn-t-glitch|The mobile editor
+  doesn’t glitch]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -95,7 +96,7 @@ Source: https://cursor.com/changelog/2-1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-use-shared-network-gating-helper-in-chat-completion-tests-6461-aibrahim|Use shared network gating helper in chat completion tests (♯6461) — @aibrahim]]
+- Earlier: 2025-11-20 · Midjourney · [[Changes/Midjourney/2025-11-20-the-mobile-editor-doesn-t-glitch|The mobile editor doesn’t glitch]]
 - Later: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-tab-completion|Tab Completion]]
 <!-- chronolog:end -->
 

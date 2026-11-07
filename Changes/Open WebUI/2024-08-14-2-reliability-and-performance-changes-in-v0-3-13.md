@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c67cce360610850c1c3a0e6a5c4c73e8777a0311154b62b245d6d92d3dde3304
+machine_hash: 2f7eb83a97a11df15ebc724c6c2b5fdf161799165d4ba04e57ff05bfc87fd726
 product: open-webui
 product_name: Open WebUI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.13
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-08-13 · Ollama · [[Changes/Ollama/2024-08-13-ollama-will-now-import-gguf-files-faster-by-minimizing-file-copies|Ollama will now import GGUF files faster by minimizing file copies]]
-- Later: 2024-08-20 · Aider · [[Changes/Aider/2024-08-20-improved-editing-performance-on-jupyter-notebook-ipynb-files|Improved editing performance on Jupyter Notebook .ipynb files]]
+- Later: 2024-08-14 · Runway · [[Changes/Runway/2024-08-14-generate-7x-faster-for-half-the-price-of-the-original-gen-3-alpha-while-still-ma|Gen-3 Alpha Turbo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 850f86421510945b00d6c525d2a38b376a04f92bdc759dd9dee823be10ec0c33
+machine_hash: 41c0181e5502f791900bf93f37b61ae6cdce0f64a99b42142320e09ecff8589f
 product: windsurf
 product_name: Windsurf
 record:
@@ -73,12 +73,12 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote
-  sessions: images uploaded from mobile now include their saved file path…]]'
 - '[[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows:
   cross-session messaging is now available, so Claude Code sessions across…]]'
 - '[[Changes/Ollama/2026-08-21-developers-can-now-easily-configure-claude-desktop-to-seamlessly-work-with-ollam|Developers
   can now easily configure Claude Desktop to seamlessly work with Ollama…]]'
+- '[[Changes/OpenCode/2026-08-21-desktop-register-the-archive-session-command-in-both-desktop-layouts|Desktop
+  Register the archive session command in both desktop layouts]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-08-21-v3-8-20-0d306190|windsurf-2026-08-21-v3-8-20-0d306190]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -125,8 +125,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-21 · Ollama · [[Changes/Ollama/2026-08-21-developers-can-now-easily-configure-claude-desktop-to-seamlessly-work-with-ollam|Developers can now easily configure Claude Desktop to seamlessly work with Ollama…]]
-- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS: Fixed headless sessions not cleaning up stale entries…]]
+- Earlier: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-desktop-register-the-archive-session-command-in-both-desktop-layouts|Desktop Register the archive session command in both desktop layouts]]
+- Later: 2026-08-24 · OpenCode · [[Changes/OpenCode/2026-08-24-desktop-keep-model-provider-headers-visible-while-scrolling-the-model-picker|Desktop Keep model provider headers visible while scrolling the model picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,0 +1,95 @@
+---
+card_id: midjourney-2025-07-25-f656a5
+date: '2025-07-25'
+description: 'Midjourney · 2025-07-25 · Multimodal Input: If you have remix mode enabled,
+  you can provide a prompt for the video'
+diffusion:
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 675
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: multimodal
+  tracked_products_count: 29
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: ef44710584033b3dc90a9daa441102071e1edebdbb58db374fbc855192a2f3c1
+product: midjourney
+product_name: Midjourney
+record:
+  card_id: midjourney-2025-07-25-f656a5
+  comparison: ''
+  date: '2025-07-25'
+  description: 'Midjourney — Looping and End Frame for Video + Video in the Discord
+    Bot: If you have remix mode enabled, you can provide a prompt for the video'
+  evidence:
+  - quote: If you have remix mode enabled, you can provide a prompt for the video
+    source_release: https://updates.midjourney.com/looping-and-end-frame-for-video-video-in-the-discord-bot/
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: midjourney
+  product_name: Midjourney
+  slug: if-you-have-remix-mode-enabled-you-can-provide-a-prompt-for-the-video
+  source_release: midjourney-2025-07-25-https-updates-midjourney-com-looping-and-end-frame-for-video-vid-41d087fb
+  source_type: midjourney_changelog
+  theme: multimodal
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: If you have remix mode enabled, you can provide a prompt for the video
+  type: change
+related_changes:
+- '[[Changes/Cline/2025-07-16-add-vision-capability-to-moonshot-v1-by-saoudrizwan-in-https-github-com-cline-cl|Add
+  vision capability to moonshot v1]]'
+- '[[Changes/Midjourney/2025-07-25-to-get-a-higher-quality-mp4-click-one-of-the-virtual-upscale-buttons-on-a-video|To
+  get a higher-quality .mp4, click one of the virtual upscale buttons on a video]]'
+- '[[Changes/Midjourney/2025-07-25-to-animate-an-image-from-outside-of-midjourney-enter-the-image-url-at-the-start|To
+  animate an image from outside of Midjourney, enter the image url at the start…]]'
+source_release: '[[Releases/Midjourney/midjourney-2025-07-25-https-updates-midjourney-com-looping-and-end-frame-for-video-vid-41d087fb|midjourney-2025-07-25-https-updates-midjourney-com-looping-and-end-frame-for-video-vid-41d087fb]]'
+source_type: midjourney_changelog
+theme: multimodal
+title: If you have remix mode enabled, you can provide a prompt for the video
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# If you have remix mode enabled, you can provide a prompt for the video
+
+**Midjourney** · 2025-07-25 · [[Themes/multimodal|Multimodal Input]] · [Official source](https://updates.midjourney.com/looping-and-end-frame-for-video-video-in-the-discord-bot/) · from [[Releases/Midjourney/midjourney-2025-07-25-https-updates-midjourney-com-looping-and-end-frame-for-video-vid-41d087fb|Looping and End Frame for Video + Video in the Discord Bot]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> If you have remix mode enabled, you can provide a prompt for the video
+>
+> Source: https://updates.midjourney.com/looping-and-end-frame-for-video-video-in-the-discord-bot/
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Midjourney/2025-07-25-to-make-a-looping-video-use-loop-in-the-prompt|To make a looping video, use --loop in the prompt]] · Automation and Scheduling
+- [[Changes/Midjourney/2025-07-25-to-get-a-higher-quality-mp4-click-one-of-the-virtual-upscale-buttons-on-a-video|To get a higher-quality .mp4, click one of the virtual upscale buttons on a video]] · Multimodal Input
+- [[Changes/Midjourney/2025-07-25-you-can-now-create-looping-videos-2-you-can-now-make-videos-with-a-specific-star|Create looping videos 2) You can now make videos with a specific start and end…]] · Video Generation
+- [[Changes/Midjourney/2025-07-25-to-animate-an-image-from-outside-of-midjourney-enter-the-image-url-at-the-start|To animate an image from outside of Midjourney, enter the image url at the start…]] · Multimodal Input
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Multimodal Input
+
+- Earlier: 2025-07-16 · Cline · [[Changes/Cline/2025-07-16-add-vision-capability-to-moonshot-v1-by-saoudrizwan-in-https-github-com-cline-cl|Add vision capability to moonshot v1]]
+- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core): Parse Multimodal MCP Tool responses]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20midjourney-2025-07-25-f656a5&body=Card%3A%20Changes%2FMidjourney%2F2025-07-25-if-you-have-remix-mode-enabled-you-can-provide-a-prompt-for-the-video.md%0ACard%20ID%3A%20midjourney-2025-07-25-f656a5%0ASource%3A%20https%3A%2F%2Fupdates.midjourney.com%2Flooping-and-end-frame-for-video-video-in-the-discord-bot%2F%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

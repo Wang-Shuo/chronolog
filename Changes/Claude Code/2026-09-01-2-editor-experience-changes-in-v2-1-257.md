@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e016a6efda01b053b119a78f871bb05d0f59fa9c29783582c49f0e71e5c6e9f
+machine_hash: 7a973d0c04b213cb0697812994f7f964220186987343e20ddda0e3f0844ac4b6
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-chat-branches-stay-connected-after-reloads-a-reply-saved-under-an-earlier-messag|💥 Chat branches stay connected after reloads. A reply saved under an earlier…]]
-- Later: 2026-09-01 · v0 · [[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the code diff against the base branch]]
+- Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-5-editor-experience-changes-in-v2026-8-2|5 Editor Experience changes in v2026.8.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

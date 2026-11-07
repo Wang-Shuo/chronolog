@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d951e1d25562816c62298e057a66497e918bbb4b9b52da61ae6105d2704c6dc3
+machine_hash: e548751986bf642c0d00ffe9fd672d9f70467090993a0180fb3813d101240a8b
 product: cursor
 product_name: Cursor
 record:
@@ -57,11 +57,12 @@ record:
   title: The agents that run in the Cursor desktop app, CLI, and web app are now accessible…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-24-lovable-desktop-app|Lovable desktop app]]'
 - '[[Changes/Replit/2026-04-24-add-a-mobile-app-to-older-projects|Add a mobile app
   to older projects]]'
 - '[[Changes/Replit/2026-04-24-preview-on-an-ios-simulator-or-android-emulator|Preview
   on an iOS Simulator or Android Emulator]]'
+- '[[Changes/OpenCode/2026-04-28-desktop-per-workspace-icon-overrides-now-stay-applied-for-subdirectories-in-the|Desktop
+  Per-workspace icon overrides now stay applied for subdirectories in the same repo]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-24 · Replit · [[Changes/Replit/2026-04-24-preview-on-an-ios-simulator-or-android-emulator|Preview on an iOS Simulator or Android Emulator]]
+- Earlier: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-desktop-per-workspace-icon-overrides-now-stay-applied-for-subdirectories-in-the|Desktop Per-workspace icon overrides now stay applied for subdirectories in the same repo]]
 - Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-3-mobile-and-desktop-changes-in-rust-v0-128-0|3 Mobile and Desktop changes in rust-v0.128.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3c43cf6863f3bcffb10c902614fd7b6b311e69f2cdbf24193bb8d1f4da3f7114
+machine_hash: 0e00b99068d6794411b6d8515fadcd023794ebaa88365a635c5cd57b6bcc4924
 product: lovable
 product_name: Lovable
 record:
@@ -69,8 +69,8 @@ record:
   title: SEO and AI search
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg
-  and ←-detach now preserve --allow-dangerously-skip-permissions…]]'
+- '[[Changes/Gamma/2026-05-15-dark-mode-now-extends-to-the-theme-panel|Dark mode now
+  extends to the theme panel]]'
 - '[[Changes/v0/2026-05-15-reloading-the-preview-iframe-in-safari-shows-the-open-preview-in-new-tab-message|Reloading
   the preview iframe in Safari shows the "Open preview in new tab" message…]]'
 - '[[Changes/Codex CLI/2026-05-18-21954-fix-goal-update-and-add-goal-edit-command-in-tui-etraut-openai|♯21954

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f87321247d0e89b9bca4598a0550fbc9e7cec6fb6e5c65d74eaa1c863316146
+machine_hash: e3aa2496e98c1a34e048d599f87bf39a39a4fcccf8b05883bd7f963f7a70bf4e
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in v2.1.198
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-5-model-support-changes-in-v1-0-66|5 Model
-  Support changes in v1.0.66]]'
-- '[[Changes/Ollama/2026-06-30-tightened-gemma-4-moe-model-loading-in-the-mlx-engine|Tightened
-  Gemma 4 MoE model loading in the MLX engine]]'
+- '[[Changes/OpenClaw/2026-06-30-32-model-support-changes-in-v2026-6-11|32 Model Support
+  changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-4-model-support-changes-in-v1-17-12|4 Model Support
+  changes in v1.17.12]]'
 - '[[Changes/Claude/2026-07-01-model-entitlements-for-enterprise-plans-beta|Model
   entitlements for Enterprise plans (beta)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'

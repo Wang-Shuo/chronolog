@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cdf9de395a69d9b19035dc078689d0fb46d42b87a3311b45760ea3d6baf05861
+machine_hash: 0100e74aab6815642e1777b78b6fc17273c4d025613ad56d432f88a91206d871
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -74,12 +74,12 @@ record:
   title: 12 Automation and Scheduling changes in v0.26.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-13-chore-deps-bump-scheduler-from-0-26-0-to-0-27-0-in-web-by-dependabot-bot-in-http|chore(deps):
-  bump scheduler from 0.26.0 to 0.27.0 in /web…]]'
 - '[[Changes/Gemini CLI/2026-01-21-2-automation-and-scheduling-changes-in-v0-25-0|2
   Automation and Scheduling changes in v0.25.0]]'
 - '[[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent
   automations]]'
+- '[[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and|Sounds
+  is a new Create mode that lets you create individual one-shot samples…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-28-v0-26-0-github-280517876-a39d31c9|gemini-cli-2026-01-28-v0-26-0-github-280517876-a39d31c9]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -141,7 +141,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.26.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-01-23 · Replit · [[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent automations]]
+- Earlier: 2026-01-27 · Suno · [[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and|Sounds is a new Create mode that lets you create individual one-shot samples…]]
 - Later: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3 Automation and Scheduling changes in v0.27.0]]
 <!-- chronolog:end -->
 

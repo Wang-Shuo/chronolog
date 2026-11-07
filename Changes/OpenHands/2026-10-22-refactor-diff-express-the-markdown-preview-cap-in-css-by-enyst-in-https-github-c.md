@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5be86bf4313ee1dd15e1effc75ab49c6a716d1ee306d593716286b05da32e06c
+machine_hash: b944ac24efae714a259c33db5c244be2266bca57876215f764067135ae483f11
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 'refactor(diff): express the Markdown preview cap in CSS'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-19-refactor-theme-use-status-classes-for-icons-and-diff-counts-by-enyst-in-https-gi|refactor(theme):
-  use status classes for icons and diff counts]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-21-fish-shell-completion-works-when-aliases-include-option-aliases-like-effort|Fish
   shell completion works when aliases include option aliases like --effort]]'
 - '[[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor
   Experience changes in v2.1.309]]'
+- '[[Changes/OpenClaw/2026-10-22-shell-completion-now-finds-global-flags-after-subcommands-regenerate-your-saved|Shell
+  completion now finds global flags after subcommands]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-22-v1-30-1-github-420407032-fb2ceba2|openhands-2026-10-22-v1-30-1-github-420407032-fb2ceba2]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor Experience changes in v2.1.309]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-shell-completion-now-finds-global-flags-after-subcommands-regenerate-your-saved|Shell completion now finds global flags after subcommands]]
 - Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud sessions Changed the cloud environment dialog to open network access, setup…]]
 <!-- chronolog:end -->
 

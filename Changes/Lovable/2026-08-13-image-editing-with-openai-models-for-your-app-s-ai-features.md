@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: d366f0b2c1165dae91e8321cba4c083cd4430a8d0b16bbcddb7b36060ea19f7a
+machine_hash: f22b018229b899dbb036aef74db940ca71c360a81827c4629cae15e02c19381d
 product: lovable
 product_name: Lovable
 record:
@@ -54,10 +54,10 @@ record:
   title: Image editing with OpenAI models for your app's AI features
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-11-2-model-support-changes-in-v4-1-8|2 Model Support changes
-  in v4.1.8]]'
-- '[[Changes/Gemini CLI/2026-08-11-2-model-support-changes-in-v0-55-1|2 Model Support
-  changes in v0.55.1]]'
+- '[[Changes/OpenCode/2026-08-12-made-session-compaction-keep-complete-recent-turns-and-produce-clearer-summaries|Made
+  session compaction keep complete recent turns and produce clearer summaries…]]'
+- '[[Changes/OpenCode/2026-08-12-3-model-support-changes-in-v1-18-17|3 Model Support
+  changes in v1.18.17]]'
 - '[[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-13-2026-08-13-bf09d366|lovable-2026-08-13-2026-08-13-bf09d366]]'
 source_type: lovable_changelog
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-13 · DeepSeek API · [[Changes/DeepSeek API/2026-08-13-deepseek-v4-pro-update|DeepSeek-V4-Pro Update]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-2-model-support-changes-in-v2-1-233|2 Model Support changes in v2.1.233]]
+- Later: 2026-08-13 · OpenCode · [[Changes/OpenCode/2026-08-13-core-fix-xhigh-reasoning-effort-for-xai-models|Core Fix xhigh reasoning effort for xai models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

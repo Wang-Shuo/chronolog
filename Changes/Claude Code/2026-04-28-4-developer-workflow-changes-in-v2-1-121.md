@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 13f0d275900240b9787359200b10720d87dc9c671b83b7134194edb487888a25
+machine_hash: 88f7f6bbb99bd4e678335231708ee2e7ed1961f87d6bacfa505c8b717fc53a0f
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Developer Workflow changes in v2.1.121
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-24-2-developer-workflow-changes-in-rust-v0-125-0|2
-  Developer Workflow changes in rust-v0.125.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-24-2-developer-workflow-changes-in-v1-0-36|2
-  Developer Workflow changes in v1.0.36]]'
+- '[[Changes/OpenCode/2026-04-27-2-developer-workflow-changes-in-v1-14-28-1|2 Developer
+  Workflow changes in v1.14.28 + 1]]'
+- '[[Changes/OpenCode/2026-04-27-reduced-extra-terminal-noise-while-creating-tui-workspaces|Reduced
+  extra terminal noise while creating TUI workspaces]]'
 - '[[Changes/Claude Code/2026-04-28-opentelemetry-added-claude-code-at-mention-log-event-for-mention-resolution|OpenTelemetry:
   added claude_code.at_mention log event for @-mention resolution]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'

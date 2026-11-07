@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f30db162fa11d2d7db289e33e601d6fabba50f1c6a1c0ffe88ab62394323d9d
+machine_hash: 37f6d8aa9320f810ddc4eef7035a1c25a6d9dc6ea2af31e5b4685ec4a73fc1b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Editor Experience changes in v2.1.116
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A
-  clear error message is displayed when the configured editor cannot be launched]]'
-- '[[Changes/Ollama/2026-04-16-hermes-and-github-copilot-cli-in-ollama-launch-added-both-integrations-which-can|Hermes
-  and GitHub Copilot CLI in ollama launch. Added both integrations…]]'
+- '[[Changes/OpenCode/2026-04-16-core-fixed-github-copilot-overbilling-issue|Core
+  Fixed Github Copilot overbilling issue]]'
 - '[[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote
   Control clients can now query @-file autocomplete suggestions]]'
+- '[[Changes/OpenCode/2026-04-19-core-fix-github-copilot-anthropic-haiku-requests-by-disabling-unsupported-tool-s|Core
+  Fix GitHub Copilot Anthropic Haiku requests by disabling unsupported tool streaming]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,8 +88,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote Control clients can now query @-file autocomplete suggestions]]
-- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-5-editor-experience-changes-in-v0-9-0|5 Editor Experience changes in v0.9.0]]
+- Earlier: 2026-04-19 · OpenCode · [[Changes/OpenCode/2026-04-19-core-fix-github-copilot-anthropic-haiku-requests-by-disabling-unsupported-tool-s|Core Fix GitHub Copilot Anthropic Haiku requests by disabling unsupported tool streaming]]
+- Later: 2026-04-20 · OpenCode · [[Changes/OpenCode/2026-04-20-core-preserved-concurrent-edits-to-the-same-file-instead-of-letting-parallel-edi|Core Preserved concurrent edits to the same file instead of letting parallel edits…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

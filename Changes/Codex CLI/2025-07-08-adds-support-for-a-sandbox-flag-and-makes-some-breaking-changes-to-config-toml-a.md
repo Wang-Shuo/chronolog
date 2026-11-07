@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8293beeeaa8045a733836ef250e3547435ac566fab3beaea01c19349594dde39
+machine_hash: 07c72b514248a200d0fbc15a2e62629f6c9bb8a7cd459375fdf0c216e85baf8b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,11 +48,12 @@ record:
   title: Adds support for a `--sandbox` flag and makes some breaking changes to `config.toml`…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-30-workspaces|Workspaces]]'
 - '[[Changes/Gemini CLI/2025-07-01-esc-to-exit-privacy-screen-in-error-state-by-scidomino-in-https-github-com-googl|Esc
   to exit privacy screen in error state]]'
 - '[[Changes/Dify/2025-07-02-chore-upgrade-package-versions-for-security-reason-by-iamjoel-in-https-github-co|chore:
   upgrade package versions for security reason]]'
+- '[[Changes/Granola/2025-07-07-we-ve-shown-independent-auditors-that-our-security-practices-meet-soc2-type-2-st|Granola
+  is SOC2 compliant]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-08-rust-v0-3-0-github-230675391-50dc053d|codex-cli-2025-07-08-rust-v0-3-0-github-230675391-50dc053d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-07-02 · Dify · [[Changes/Dify/2025-07-02-chore-upgrade-package-versions-for-security-reason-by-iamjoel-in-https-github-co|chore: upgrade package versions for security reason]]
+- Earlier: 2025-07-07 · Granola · [[Changes/Granola/2025-07-07-we-ve-shown-independent-auditors-that-our-security-practices-meet-soc2-type-2-st|Granola is SOC2 compliant]]
 - Later: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-update-terms-of-service-and-privacy-notice-for-clarity-by-jkcinouye-in-https-git|Update Terms of Service and Privacy Notice for clarity]]
 <!-- chronolog:end -->
 

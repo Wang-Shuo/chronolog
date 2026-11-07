@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: de0e1f811273dc3f98dfab098027e9fae2af8c7ee57117b2461e58a742f92c76
+machine_hash: 6874bd4ddada3655f2001d4b6698ff4dc209b437802acf516dc62159c25a7a90
 product: claude
 product_name: Claude
 record:
@@ -49,10 +49,10 @@ record:
   title: Scheduled tasks in Cowork
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3
-  Automation and Scheduling changes in v0.27.0]]'
 - '[[Changes/Gemini CLI/2026-02-10-feat-core-add-setting-to-disable-loop-detection-by-sandytao520-in-https-github-c|feat(core):
   add setting to disable loop detection]]'
+- '[[Changes/OpenCode/2026-02-10-core-sessionprompt-shell-now-triggers-loop-if-messages-are-queued|Core
+  SessionPrompt.shell() now triggers loop if messages are queued]]'
 - "[[Changes/Open WebUI/2026-02-12-async-pipeline-operations-pipeline-operations-now-run-asynchronously-instead-of|\U0001F527
   Async pipeline operations. Pipeline operations now run asynchronously instead…]]"
 source_release: '[[Releases/Claude/claude-2026-02-25-2026-02-25-02405fc8|claude-2026-02-25-2026-02-25-02405fc8]]'

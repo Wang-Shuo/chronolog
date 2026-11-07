@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d60ca06d7f56a66eecd503d12fde1ba10f81e00a3779155e2c2fbe524a1669e0
+machine_hash: 853c7291e53af8fc250cf86559c466d84b25341ae365b266ec0e13529ec45ea6
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
   title: 2 Editor Experience changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-29-updated-visit-counting-in-analytics-and-insights|Updated
-  visit counting in Analytics and Insights]]'
-- '[[Changes/Lovable/2026-10-29-save-files-to-favorites|Save files to Favorites]]'
-- '[[Changes/Open WebUI/2026-10-29-6-editor-experience-changes-in-v0-12-5|6 Editor
-  Experience changes in v0.12.5]]'
+- '[[Changes/OpenCode/2026-10-29-core-send-image-edit-references-and-image-sizes-in-the-formats-expected-by-openr|Core
+  Send image-edit references and image sizes in the formats expected…]]'
+- '[[Changes/OpenCode/2026-10-29-2-editor-experience-changes-in-v2-2-2|2 Editor Experience
+  changes in v2.2.2]]'
+- '[[Changes/OpenCode/2026-10-29-unified-quotes-and-annotations|Unified Quotes and
+  Annotations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: editor-experience
@@ -91,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-6-editor-experience-changes-in-v0-12-5|6 Editor Experience changes in v0.12.5]]
-- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor Experience changes in v2.1.316]]
+- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-unified-quotes-and-annotations|Unified Quotes and Annotations]]
+- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-core-when-edit-can-t-find-oldstring-the-error-shows-the-file-s-closest-lines-or|Core When edit can't find oldString , the error shows the file's closest lines…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

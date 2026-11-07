@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47e8aece4bcbf8039d0a76e5b2f0f2460ab9b61ff126dccb7cb88391b6af9b07
+machine_hash: 7b53162d289b5233388a794a6d024e8a523913a346e7773ba531ae936ccf8096
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Changed Ctrl+C at the idle prompt of an attached background session to leave…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site
-  owners can also create recurring cloud schedules from Automations]]'
-- '[[Changes/Claude Code/2026-10-05-changed-background-sessions-whose-scheduled-task-is-gone-they-now-move-to-comple|Changed
-  background sessions whose scheduled task is gone]]'
 - '[[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5
   Automation and Scheduling changes in v1.25.0]]'
+- '[[Changes/Google Antigravity/2026-10-07-advanced-search-automations-and-grouped-agent-actions|Advanced
+  Search, Automations, and grouped agent actions]]'
+- '[[Changes/Google Antigravity/2026-10-07-scheduled-tasks-are-now-called-automations-you-can-run-a-scheduled-automation-ri|Scheduled
+  Tasks are now called Automations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5 Automation and Scheduling changes in v1.25.0]]
-- Later: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2 Automation and Scheduling changes in v1.26.0]]
+- Earlier: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-scheduled-tasks-are-now-called-automations-you-can-run-a-scheduled-automation-ri|Scheduled Tasks are now called Automations]]
+- Later: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-2-automation-and-scheduling-changes-in-v2026-9-9|2 Automation and Scheduling changes in v2026.9.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

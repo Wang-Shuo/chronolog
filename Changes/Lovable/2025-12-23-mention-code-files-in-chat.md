@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8c6778d50338dd397acc348a0e54731091e2970ae115380094dc61c576cd56b5
+machine_hash: 46b6a9c7ab8bbc76e71f55268efa2734a2c3152f298622b1ae2a601f1c7478af
 product: lovable
 product_name: Lovable
 record:
@@ -54,10 +54,10 @@ record:
   title: Mention code files in chat
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-12-21-3-editor-experience-changes-in-v0-6-42|3 Editor
-  Experience changes in v0.6.42]]'
 - '[[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate
   error messages during streaming for Diff Edit tool when Parallel Tool…]]'
+- '[[Changes/Gamma/2025-12-22-ever-wish-your-logo-looked-just-as-good-on-cards-with-light-and-dark-backgrounds|Adaptive
+  theme logos]]'
 - '[[Changes/Gemini CLI/2025-12-22-4-editor-experience-changes-in-v0-22-0|4 Editor
   Experience changes in v0.22.0]]'
 source_release: '[[Releases/Lovable/lovable-2025-12-23-2025-12-23-0131be4a|lovable-2025-12-23-2025-12-23-0131be4a]]'

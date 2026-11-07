@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c28316556a0f5c0a7b0380c1362f9e5e459e2fa4af990aea69a0e1733cc4a44
+machine_hash: 041437f842fca04d5d0378baeed78ec723c5eddec5cf773105fd37840d32b455
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,7 @@ record:
   title: Add unit tests for LLM init function
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall
-  back to main model if weak model is unable to generate a commit message]]'
+- '[[Changes/Midjourney/2024-07-30-other-important-notes|Other important notes]]'
 - '[[Changes/Ollama/2024-07-30-3-model-support-changes-in-v0-3-1|3 Model Support changes
   in v0.3.1]]'
 - '[[Changes/Aider/2024-07-31-added-strong-model-as-a-fallback-for-commit-messages-and-chat-summaries|Added

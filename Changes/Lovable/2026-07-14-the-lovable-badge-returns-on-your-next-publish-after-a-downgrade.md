@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ab8424e777b26a023d3996136586b0eafa6b218621b1d32a86471f3839ef3936
+machine_hash: 36900a7a5c2a9a796a484c1edaf2e422f95205a4f0464ecb5472a2b88cc7fde0
 product: lovable
 product_name: Lovable
 record:
@@ -49,8 +49,8 @@ record:
   title: The Lovable badge returns on your next publish after a downgrade
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running
-  sessions refresh enterprise managed settings hourly]]'
+- '[[Changes/OpenClaw/2026-07-13-4-enterprise-and-administration-changes-in-v2026-7-1|4
+  Enterprise and Administration changes in v2026.7.1]]'
 - '[[Changes/Claude/2026-07-14-hipaa-configuration-for-your-claude-organizations-is-now-self-serve|HIPAA
   configuration for your Claude organizations is now self-serve]]'
 - '[[Changes/Lovable/2026-07-14-emails-and-confirmations-for-workspace-role-and-membership-changes|Emails

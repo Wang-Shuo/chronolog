@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0f69a6ae44f5dd261105acb61fe5fe826db132548cef9101a52a5dba73f4645
+machine_hash: 36bd8226e19b3c511d6dbf9a8e91a78143f751329f2c5e7835651efcbe2ce7c4
 product: dify
 product_name: Dify
 record:
@@ -58,8 +58,8 @@ record:
     refinement…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-use-shared-network-gating-helper-in-chat-completion-tests-6461-aibrahim|Use
-  shared network gating helper in chat completion tests (♯6461) — @aibrahim]]'
+- '[[Changes/Midjourney/2025-11-20-the-mobile-editor-doesn-t-glitch|The mobile editor
+  doesn’t glitch]]'
 - '[[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience
   changes in 2.1]]'
 - '[[Changes/Windsurf/2025-11-21-tab-completion|Tab Completion]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3fdd9e58f0f2adff5669e0bce9ef3bd7daa5cc50b3c042176e2dc656f0f9cb80
+machine_hash: 0c5be853aaf200dacc5f90f1ee351a6f76818fe903c48dcfe89304ac5772d119
 product: dify
 product_name: Dify
 record:
@@ -69,10 +69,10 @@ record:
   title: 5 Collaboration changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added
-  a warning on Pro and Max plans when resuming an inactive conversation would…]]'
 - '[[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands):
   adopt the shared known-bug contract]]'
+- '[[Changes/OpenClaw/2026-10-22-session-share-now-shows-an-error-when-it-can-t-discover-receivers-instead-of-an|Session
+  Share now shows an error when it can’t discover receivers, instead…]]'
 - '[[Changes/Codex CLI/2026-10-23-8-collaboration-changes-in-rust-v0-164-0|8 Collaboration
   changes in rust-v0.164.0]]'
 source_release: '[[Releases/Dify/dify-2026-10-23-1-18-0-github-421489030-879b0613|dify-2026-10-23-1-18-0-github-421489030-879b0613]]'

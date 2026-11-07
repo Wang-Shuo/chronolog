@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14f60432d4c188f59172c8e6d64ea722a1dd87be0becd184a3e2cfa0046ee813
+machine_hash: f6afdb933a930dfe048bdc2e3a99dd38d2414b385002f330d1c6e426539152ab
 product: dify
 product_name: Dify
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Files and Data changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-27714-app-server-document-thread-and-turn-ids-are-uuid7-owenlin0|♯27714
-  app-server: document thread and turn IDs are UUID7 @owenlin0]]'
+- '[[Changes/OpenClaw/2026-07-13-13-files-and-data-changes-in-v2026-7-1|13 Files and
+  Data changes in v2026.7.1]]'
 - '[[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude
   in Chrome: hardened file-upload path validation]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-add-canvas-support-in-the-cli-for-extension-driven-interactions|Add

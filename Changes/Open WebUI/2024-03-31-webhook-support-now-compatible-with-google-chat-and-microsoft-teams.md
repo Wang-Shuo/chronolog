@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a4de59e6bd4c72487b2c3997bb4440ff56b33edb80f78898f1deecf47812901d
+machine_hash: f72530c2583e0ab7570524b3cfac8fd512a629f103e438bc4d55db21369b81a8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,11 +44,12 @@ record:
     Teams"
   type: change
 related_changes:
-- '[[Changes/Gemini/2023-10-23-your-shared-conversations-now-support-uploaded-images|Your
-  shared conversations now support uploaded images]]'
-- "[[Changes/Dify/2024-01-02-the-dify-team|The Dify Team \U0001F6E0️]]"
-- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
-  ChatGPT alongside your team]]'
+- '[[Changes/Suno/2024-01-27-we-will-start-onboarding-this-team-on-monday-1-29-you-can-expect-response-times|We
+  will start onboarding this team on Monday (1/29)]]'
+- '[[Changes/Suno/2024-03-05-you-can-share-playlists-using-their-link-only-people-with-access-to-the-link-can|You
+  can share playlists using their link]]'
+- '[[Changes/Gamma/2024-03-14-we-ve-gotten-a-lot-of-requests-for-speakers-notes-and-today-they-re-here-access|Card
+  notes and Presenter View]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-03-31-v0-1-116-github-149129164-4c8e7e16|open-webui-2024-03-31-v0-1-116-github-149129164-4c8e7e16]]'
 source_type: github_releases
 theme: collaboration
@@ -81,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use ChatGPT alongside your team]]
+- Earlier: 2024-03-14 · Gamma · [[Changes/Gamma/2024-03-14-we-ve-gotten-a-lot-of-requests-for-speakers-notes-and-today-they-re-here-access|Card notes and Presenter View]]
 - Later: 2024-04-04 · Open WebUI · [[Changes/Open WebUI/2024-04-04-local-chat-sharing-share-chat-links-seamlessly-between-users|🗨️ Local Chat Sharing: Share chat links seamlessly between users]]
 <!-- chronolog:end -->
 

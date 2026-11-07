@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ebe1faaa0f5d4c26dc7355471ddd703bba0d7cd73a5f1f9a53f6fe8628d502d
+machine_hash: 31844b8dbd8f1e0d2d5a53ec1b75b3d595c92e1c8dd914fd4da0bf5695c793ac
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: 4 Safety and Privacy changes in v2.1.259
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-fixed-remote-and-scheduled-sessions-failing-with-user-messages-must-have-non-emp|Fixed
-  remote and scheduled sessions failing…]]'
-- '[[Changes/Claude Code/2026-09-01-10-safety-and-privacy-changes-in-v2-1-257|10 Safety
-  and Privacy changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-41227-use-compatible-powershell-for-elevated-windows-sandbox-commands-copyberry|♯41227
   Use compatible PowerShell for elevated Windows sandbox commands @copyberry]]'
+- '[[Changes/OpenClaw/2026-09-01-7-safety-and-privacy-changes-in-v2026-8-2|7 Safety
+  and Privacy changes in v2026.8.2]]'
+- '[[Changes/OpenCode/2026-09-01-core-apply-patch-no-longer-emits-an-empty-move-path-in-permission-metadata|Core
+  apply_patch no longer emits an empty move path in permission metadata]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
 theme: safety-privacy
@@ -99,8 +99,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.259
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-41227-use-compatible-powershell-for-elevated-windows-sandbox-commands-copyberry|♯41227 Use compatible PowerShell for elevated Windows sandbox commands @copyberry]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-7-safety-and-privacy-changes-in-v2-1-260|7 Safety and Privacy changes in v2.1.260]]
+- Earlier: 2026-09-01 · OpenCode · [[Changes/OpenCode/2026-09-01-core-apply-patch-no-longer-emits-an-empty-move-path-in-permission-metadata|Core apply_patch no longer emits an empty move path in permission metadata]]
+- Later: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-permission-prompts-again-describe-the-specific-action-being-requested-instead-of|Permission prompts again describe the specific action being requested instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

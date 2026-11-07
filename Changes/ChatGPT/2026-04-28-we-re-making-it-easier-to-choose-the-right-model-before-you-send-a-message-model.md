@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3cae0225189b4bc290f3fcd917c3bba06329e869381df78e633aa0cb7f406a92
+machine_hash: 1d75d23a9ba7bb3936b8a55dfefb166f7e3e61990f32febc7e4d0c7f8c27438f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,12 +63,12 @@ record:
   title: Easier model selection in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-24-4-model-support-changes-in-v0-9-2|4 Model Support
-  changes in v0.9.2]]'
-- '[[Changes/Replit/2026-04-24-security-agent-reviews-your-whole-codebase|Security
-  Agent reviews your whole codebase]]'
+- '[[Changes/OpenCode/2026-04-26-core-fixed-openrouter-deepseek-reasoning-output-handling|Core
+  Fixed OpenRouter DeepSeek reasoning output handling]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-2-model-support-changes-in-v1-0-37|2 Model
   Support changes in v1.0.37]]'
+- '[[Changes/Midjourney/2026-04-27-we-re-preparing-some-major-aesthetic-updates-for-v8-1-8-2-and-we-want-your-help|We''re
+  preparing some major aesthetic updates for v8.1/8.2 and we want your help…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d|chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-27-2-model-support-changes-in-v1-0-37|2 Model Support changes in v1.0.37]]
+- Earlier: 2026-04-27 · Midjourney · [[Changes/Midjourney/2026-04-27-we-re-preparing-some-major-aesthetic-updates-for-v8-1-8-2-and-we-want-your-help|We're preparing some major aesthetic updates for v8.1/8.2 and we want your help…]]
 - Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-opentelemetry-added-stop-reason-gen-ai-response-finish-reasons-and-user-system-p|OpenTelemetry: added stop_reason, gen_ai.response.finish_reasons…]]
 <!-- chronolog:end -->
 

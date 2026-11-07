@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b5fd85280422841249b792220f5aeb60f4216a1ea816a760ed350725d22d0f4
+machine_hash: cafda23a2a194be4a61f3758d0d3a4f029249b72c02c70103a6a66648f92e0b2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -82,7 +82,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.153.2
 ## Nearby in Model Support
 
 - Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-1|2 Model Support changes in rust-v0.153.1]]
-- Later: 2026-09-03 · Lovable · [[Changes/Lovable/2026-09-03-gemini-omni-1-1-flash-for-your-app-s-ai-features|Gemini Omni 1.1 Flash for your app's AI features]]
+- Later: 2026-09-03 · Google Antigravity · [[Changes/Google Antigravity/2026-09-03-enterprise-users-can-now-select-and-use-gemini-3-8-flash-using-adc-for-agentic-t|Enterprise users can now select and use Gemini 3.8 Flash using ADC for agentic tasks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

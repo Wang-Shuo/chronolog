@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0032a970642d7100e963329e0278c0ac53039cfd62cf2606663142cd9af1f0a
+machine_hash: 9c6ef381b6617f45115118944f9e210ff9e01e7e29dd7c610afbac68ce3c3671
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -69,8 +69,8 @@ record:
   title: 9 Editor Experience changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor
-  Experience changes in v2.1.269]]'
+- '[[Changes/OpenClaw/2026-09-11-5-editor-experience-changes-in-v2026-9-4|5 Editor
+  Experience changes in v2026.9.4]]'
 - '[[Changes/Claude Code/2026-09-14-3-editor-experience-changes-in-v2-1-271|3 Editor
   Experience changes in v2.1.271]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-added-a-discard-unsaved-changes-confirmation-before-the-n|Claude
@@ -138,7 +138,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-added-a-discard-unsaved-changes-confirmation-before-the-n|Claude Code on the web Added a "Discard unsaved changes?" confirmation before…]]
-- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-10-editor-experience-changes-in-v2-1-275|10 Editor Experience changes in v2.1.275]]
+- Later: 2026-09-16 · Midjourney · [[Changes/Midjourney/2026-09-16-lots-more-changes-on-alpha-midjourney-com-same-goal-as-before-make-the-site-easi|lots more changes on alpha.midjourney.com !]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

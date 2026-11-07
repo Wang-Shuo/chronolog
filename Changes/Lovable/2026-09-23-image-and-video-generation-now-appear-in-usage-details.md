@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4c58fde1b2fb30517304f2594bf8bc3d0a20c86fc3f53d557d5dd724ca5a10c3
+machine_hash: 57c2424f3ca199ef968016deab4923d372201b6fcac8d9bad62899c579d6cc9d
 product: lovable
 product_name: Lovable
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-for-the-next-10-days-we-re-including-usage-credits-so-teams-can-try-rollouts-on|For the next 10 days, we're including usage credits so teams can try Rollouts…]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated the claude-api skill]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-8-pricing-model-changes-in-v2026-9-6|8 Pricing Model changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

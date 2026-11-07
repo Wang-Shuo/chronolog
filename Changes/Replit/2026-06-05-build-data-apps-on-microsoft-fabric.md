@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 511eb6a1402f35fe29ce366f8a0aa81d1872944b6012328c5d13dd5761a86046
+machine_hash: 0a2cc4582ddc3444e162d743a64cc88a1f45589dabe4f8629aa48a26298645c4
 product: replit
 product_name: Replit
 record:
@@ -51,12 +51,12 @@ record:
   title: Build data apps on Microsoft Fabric
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-mcp-tools-added-or-removed-by-a-server-mid-turn-are-now-available-immediately-in|MCP
-  tools added or removed by a server mid-turn are now available immediately…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-10-apps-and-integrations-changes-in-v1-0-60|10
   Apps and Integrations changes in v1.0.60]]'
 - '[[Changes/Ollama/2026-06-05-ollama-launch-omp-now-integrates-with-oh-my-pi-https-omp-sh-an-ai-coding-agent-w|ollama
   launch omp now integrates with Oh My Pi((source link) an AI coding…]]'
+- '[[Changes/OpenCode/2026-06-05-2-apps-and-integrations-changes-in-v1-16-0|2 Apps
+  and Integrations changes in v1.16.0]]'
 source_release: '[[Releases/Replit/replit-2026-06-05-2026-06-05-95c49499|replit-2026-06-05-2026-06-05-95c49499]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-05 · Ollama · [[Changes/Ollama/2026-06-05-ollama-launch-omp-now-integrates-with-oh-my-pi-https-omp-sh-an-ai-coding-agent-w|ollama launch omp now integrates with Oh My Pi((source link) an AI coding…]]
+- Earlier: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-2-apps-and-integrations-changes-in-v1-16-0|2 Apps and Integrations changes in v1.16.0]]
 - Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|Added glob pattern support in deny rule tool-name position ("" denies all tools)]]
 <!-- chronolog:end -->
 

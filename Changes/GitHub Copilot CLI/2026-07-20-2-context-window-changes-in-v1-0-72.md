@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4141bc427215a8a3dda8fa2663289936f2bb063bbd573c8ad5885fbae40ca1d
+machine_hash: a997b7dbc718327b694d30ddf8ad24e5f04e9afa36e56e3a8d27a856dbfae8a4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.72
 ## Nearby in Context Window
 
 - Earlier: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-context-now-shows-an-explicit-warning-when-the-conversation-exceeds-the-context|/context now shows an explicit warning when the conversation exceeds the context…]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-12-context-window-changes-in-rust-v0-145-0|12 Context Window changes in rust-v0.145.0]]
+- Later: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-desktop-rewrite-the-v2-prompt-input-for-more-reliable-command-context-shell-atta|Desktop Rewrite the v2 prompt input for more reliable command, context, shell…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

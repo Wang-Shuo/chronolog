@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c5d1da6d78c80fbd395f533316c5fdbfe6b7feb23f107fff5057fa1e89a181d
+machine_hash: e1a8a0fb50a2bad348b2d86fa54895d3aa5a5b3070f6d95c47fd526faabd4498
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes is now an interactive version picker]]
-- Later: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-slash-command-picker-no-longer-flickers-or-shifts-the-input-while-filtering|Slash command picker no longer flickers or shifts the input while filtering]]
+- Later: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-desktop-added-keyboard-navigation-and-shortcuts-to-the-question-dock|Desktop Added keyboard navigation and shortcuts to the question dock]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

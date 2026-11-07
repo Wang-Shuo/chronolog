@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 42bf07931803307d3146cee13e47a31708b1a6e60557805a5acebd510640eed2
+machine_hash: 5fdd168dd0bd6b824bb80be955b24a6e12c59f4065b3162ba5baee6bfa321390
 product: lovable
 product_name: Lovable
 record:
@@ -47,8 +47,9 @@ record:
   title: Aikido penetration testing is now available on all plans
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-22-mcp-server|MCP Server]]'
 - '[[Changes/ElevenLabs/2026-06-22-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Google Antigravity/2026-06-22-2-apps-and-integrations-changes-in-ide-v2-1-1-model-quota-screen|2
+  Apps and Integrations changes in IDE v2.1.1 — Model quota screen…]]'
 - '[[Changes/Lovable/2026-06-22-lovable-mcp-updates|Lovable MCP updates]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-22-2026-06-22-645b32b5|lovable-2026-06-22-2026-06-22-645b32b5]]'
 source_type: lovable_changelog
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-22 · ElevenLabs · [[Changes/ElevenLabs/2026-06-22-javascript-sdk|JavaScript SDK]]
+- Earlier: 2026-06-22 · Google Antigravity · [[Changes/Google Antigravity/2026-06-22-2-apps-and-integrations-changes-in-ide-v2-1-1-model-quota-screen|2 Apps and Integrations changes in IDE v2.1.1 — Model quota screen…]]
 - Later: 2026-06-23 · Claude · [[Changes/Claude/2026-06-23-delegate-work-to-claude-in-slack-with-claude-tag|Delegate work to Claude in Slack with Claude Tag]]
 <!-- chronolog:end -->
 

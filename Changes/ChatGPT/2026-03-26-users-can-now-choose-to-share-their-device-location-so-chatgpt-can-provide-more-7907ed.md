@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8343cbef627f05b629719d26fdce3907a25100ef61cd5dc28d2e44c93448ca8e
+machine_hash: c7792e87f5ae9a8301d8a9fe95ae27d45280f548e4a31b4bd6520bdf48ea9e45
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -85,8 +85,8 @@ record:
   title: Location Sharing
   type: change
 related_changes:
-- '[[Changes/Replit/2026-03-20-replit-pwa-on-microsoft-app-store|Replit PWA on Microsoft
-  App Store]]'
+- '[[Changes/OpenCode/2026-03-22-5-mobile-and-desktop-changes-in-v1-3-0|5 Mobile and
+  Desktop changes in v1.3.0]]'
 - '[[Changes/ElevenLabs/2026-03-23-ios-sdk|iOS SDK]]'
 - '[[Changes/Claude/2026-03-25-interactive-apps-in-claude-for-ios-and-android|Interactive
   apps in Claude for iOS and Android]]'

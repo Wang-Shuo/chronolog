@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 38b54337ced6e7706144b727c0e3d0004fdb0bcfe5640063c53ecdc87263661b
+machine_hash: 625cd053b24b0bb90827b3ed4584e00462e785d81c82e2d1b004bd018b10377c
 product: windsurf
 product_name: Windsurf
 record:
@@ -64,8 +64,8 @@ record:
   title: Devin Cloud
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-25-safety-and-privacy-changes-in-rust-v0-154-0|25
-  Safety and Privacy changes in rust-v0.154.0]]'
+- '[[Changes/Google Antigravity/2026-09-09-3-safety-and-privacy-changes-in-hub-v2-13-0-introducing-new-documents|3
+  Safety and Privacy changes in HUB v2.13.0 — Introducing new Documents…]]'
 - '[[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety
   and Privacy changes in v2.1.268]]'
 - '[[Changes/Dify/2026-09-10-16-safety-and-privacy-changes-in-1-17-1|16 Safety and

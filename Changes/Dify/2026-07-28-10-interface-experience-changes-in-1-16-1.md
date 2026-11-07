@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f602193817da532ce405cece6b57add3b1a712e182b2d1ce4adec875d3ebb2d0
+machine_hash: 687315fed221df33227e4b6c1566618415f71a9c231aab4c5226fe7e59320678
 product: dify
 product_name: Dify
 record:
@@ -65,10 +65,10 @@ record:
   title: 10 Interface Experience changes in 1.16.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface
-  Experience changes in v2.1.219]]'
 - '[[Changes/Open WebUI/2026-07-27-19-interface-experience-changes-in-v0-11-0|19 Interface
   Experience changes in v0.11.0]]'
+- '[[Changes/OpenCode/2026-07-27-desktop-remove-the-extra-titlebar-inset-in-fullscreen-on-macos|Desktop
+  Remove the extra titlebar inset in fullscreen on macOS]]'
 - '[[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing
   Free users in India can upgrade their plan from the dashboard]]'
 source_release: '[[Releases/Dify/dify-2026-07-28-1-16-1-github-360820489-855a9365|dify-2026-07-28-1-16-1-github-360820489-855a9365]]'
@@ -137,7 +137,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.1
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing Free users in India can upgrade their plan from the dashboard]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-8-interface-experience-changes-in-rust-v0-146-0|8 Interface Experience changes in rust-v0.146.0]]
+- Later: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-added-a-keyboard-shortcut-cmd-l-ctrl-l-to-quickly-quote-selected-text-into-the-c|Added a keyboard shortcut (Cmd+L / Ctrl+L) to quickly quote selected text…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

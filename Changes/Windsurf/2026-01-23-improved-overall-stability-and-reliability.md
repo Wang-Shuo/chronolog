@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3273e663f2da20ea21342224a7e1409f5b13dd3837fc80a91a26430871afe75c
+machine_hash: 21688d2c0fbf00b6e615e4f704b1ab01b7241ba7b7fb146da6e9b78ed565bba1
 product: windsurf
 product_name: Windsurf
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability and Performance changes in 2.4]]
-- Later: 2026-01-24 · Ollama · [[Changes/Ollama/2026-01-24-glm-4-7-flash-performance-and-correctness-improvements-fixing-repetitive-answers|GLM-4.7-Flash performance and correctness improvements, fixing repetitive answers…]]
+- Later: 2026-01-24 · Google Antigravity · [[Changes/Google Antigravity/2026-01-24-performance-improvements|Performance Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e3a1db4e30dd3a6dac6d69491d5476285e0be67ee399eeb12a2df7a2adc6004
+machine_hash: 083a5ca4dbd3abf421e07e2c4c5be4a2d68a002ce78f3bcf3d33c7a04aa9c479
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Developer Workflow changes in v0.36.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-3-developer-workflow-changes-in-rust-v0-118-0|3
-  Developer Workflow changes in rust-v0.118.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-4-developer-workflow-changes-in-v1-0-14|4
   Developer Workflow changes in v1.0.14]]'
+- '[[Changes/OpenCode/2026-03-31-2-developer-workflow-changes-in-v1-3-12-2|2 Developer
+  Workflow changes in v1.3.12 + 2]]'
 - '[[Changes/Claude Code/2026-04-01-4-developer-workflow-changes-in-v2-1-89|4 Developer
   Workflow changes in v2.1.89]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1|gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b80498d1322c1781266acbfb7ffa7011fde7e4356e7a8903e13d52547f0e9e8
+machine_hash: 297dc6412a20fb322d5e424a05e93bbb2f32ea36bcdd75e8c8548ea9b0ca9b07
 product: cline
 product_name: Cline
 record:
@@ -60,8 +60,9 @@ record:
   title: 8 Apps and Integrations changes in v3.36.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-11-05-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2025-11-05-mcp-tool-configuration|MCP Tool Configuration]]'
+- '[[Changes/Gamma/2025-11-05-official-make-com-integration-https-www-make-com-en-integrations-gamma-app-for-n|Official
+  Make. com integration((source link)]]'
 - '[[Changes/Lovable/2025-11-05-lovable-shopify-integration|Lovable × Shopify Integration]]'
 source_release: '[[Releases/Cline/cline-2025-11-06-v3-36-0-github-260111710-dee57321|cline-2025-11-06-v3-36-0-github-260111710-dee57321]]'
 source_type: github_releases

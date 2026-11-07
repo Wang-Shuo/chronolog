@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: fb46dcb149eb7bf81cc5408872233c46cc4d426ce456ded8db6f78bd1e5fe15d
+machine_hash: 322095dd3718a8433963c276daab832ae5f09d18c95c2754b362d282d4b47081
 product: cursor
 product_name: Cursor
 record:
@@ -78,7 +78,8 @@ record:
   title: Introducing unified request-based pricing, Max Mode for all top models…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-05-05-billing|Billing]]'
+- '[[Changes/Manus/2025-05-11-a-one-time-bonus-of-1-000-credits-for-all-users|A one-time
+  bonus of 1,000 credits for all users]]'
 - '[[Changes/ElevenLabs/2025-05-12-billing|Billing]]'
 - '[[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'

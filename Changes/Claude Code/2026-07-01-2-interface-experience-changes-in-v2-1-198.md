@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e372692b191dd6b7a6a8a05f1996beb1202d2c2636d1a204e6586ce17583e025
+machine_hash: e229ad1b3529206650dfd0023e29e3cef09caab6a0ae52afe261457897bdaf99
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.198
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-29-fully-remove-the-clinepass-feature-flag-so-clinepass-is-available-everywhere-in|Fully
-  remove the ClinePass feature flag so ClinePass is available everywhere in the UI]]'
 - '[[Changes/Open WebUI/2026-06-29-14-interface-experience-changes-in-v0-10-0|14 Interface
   Experience changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-3-interface-experience-changes-in-v1-0-66|3
   Interface Experience changes in v1.0.66]]'
+- '[[Changes/OpenClaw/2026-06-30-3-interface-experience-changes-in-v2026-6-11|3 Interface
+  Experience changes in v2026.6.11]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
 theme: interface-experience
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.198
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-3-interface-experience-changes-in-v1-0-66|3 Interface Experience changes in v1.0.66]]
+- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-3-interface-experience-changes-in-v2026-6-11|3 Interface Experience changes in v2026.6.11]]
 - Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2 Interface Experience changes in v1.0.68]]
 <!-- chronolog:end -->
 

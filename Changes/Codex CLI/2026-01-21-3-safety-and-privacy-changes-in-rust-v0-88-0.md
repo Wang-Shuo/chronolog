@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3969e46f88d619a24d51032ab0b1e43de7622020dd20d1094e7bcf4b19aae7b3
+machine_hash: d492e0e236b41ecc57f276bfcc8a3db479fca76f9cf8c01b8326f0d8cd9f3dc8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,9 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-01-16-security-center-v0-1|Security center (v0.1)]]'
 - '[[Changes/Replit/2026-01-16-node-js-security-patch|Node.js security patch]]'
+- '[[Changes/OpenCode/2026-01-19-terminal-add-mouse-support-for-permission-buttons-in-tui|Terminal
+  Add mouse support for permission buttons in TUI]]'
 - '[[Changes/Gemini/2026-01-20-gemini-introduces-personal-intelligence|Gemini introduces
   Personal Intelligence]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'
@@ -93,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.88.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-20 · Gemini · [[Changes/Gemini/2026-01-20-gemini-introduces-personal-intelligence|Gemini introduces Personal Intelligence]]
-- Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-2-safety-and-privacy-changes-in-rust-v0-89-0|2 Safety and Privacy changes in rust-v0.89.0]]
+- Later: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-core-implement-home-directory-expansion-for-permission-patterns-using-and-home-p|Core Implement home directory expansion for permission patterns using ~ and $HOME prefixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

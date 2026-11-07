@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4e6d191337f5c17e0ac44654d14786c1623733ed77d68c89639a9128b36688d2
+machine_hash: 17a064924511bfecf6d47f8d490c1516fc039931138a86ad4c2238a65ac44611
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-the-dify-team|The Dify Team 🛠️]]
-- Later: 2024-03-31 · Open WebUI · [[Changes/Open WebUI/2024-03-31-webhook-support-now-compatible-with-google-chat-and-microsoft-teams|💬 Webhook Support: Now compatible with Google Chat and Microsoft Teams]]
+- Later: 2024-01-26 · Runway · [[Changes/Runway/2024-01-26-share-custom-voices-with-a-workspace|Share Custom Voices with workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 80cc47787a27653fc194ae28bcfc46f606d55c9827cc6f3dca6661165987c745
+machine_hash: 005ef99f8de94c52d19897875994872ab04f99799f31b26be45d6a396009c81e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '#9275 feat: add agent roles to collab tools @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-2-agent-mode-changes-in-rust-v0-81-0|2 Agent Mode
-  changes in rust-v0.81.0]]'
-- '[[Changes/Gemini CLI/2026-01-14-10-agent-mode-changes-in-v0-24-0|10 Agent Mode
-  changes in v0.24.0]]'
+- '[[Changes/OpenCode/2026-01-14-do-not-allow-agent-to-ask-custom-less-questions|Do
+  not allow agent to ask custom-less questions]]'
+- '[[Changes/OpenCode/2026-01-14-3-agent-mode-changes-in-v1-1-19|3 Agent Mode changes
+  in v1.1.19]]'
 - '[[Changes/v0/2026-01-14-improved-agent-error-handling|Improved agent error handling]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73|codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73]]'
 source_type: github_releases
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-14 · v0 · [[Changes/v0/2026-01-14-improved-agent-error-handling|Improved agent error handling]]
-- Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|Added plansDirectory setting to customize where plan files are stored]]
+- Later: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-ensure-agent-exists-before-processing-title-in-session-summary|Ensure agent exists before processing title in session summary]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6b0e6c05730b27d032a03365e53645feba577513545d06828eb8dc0c0a188d79
+machine_hash: ae692bbfb2df8da31a319437cf9430a08b58c76eacac2c26e370e087855136f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,11 @@ record:
     no…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-8-account-and-access-changes-in-rust-v0-166-0|8
-  Account and Access changes in rust-v0.166.0]]'
-- '[[Changes/Lovable/2026-10-29-log-in-with-one-click-using-google|Log in with one
-  click using Google]]'
 - '[[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved
   the cloud session error shown while a request refused for your claude.ai…]]'
+- '[[Changes/OpenCode/2026-10-30-use-claude-code-in-opencode|Use Claude Code in OpenCode]]'
+- '[[Changes/OpenCode/2026-10-30-core-replaced-claude-code-s-misleading-login-instruction-with-claude-auth-login|Core
+  Replaced Claude Code’s misleading /login instruction with claude auth login]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
 source_type: github_releases
 theme: account-access
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved the cloud session error shown while a request refused for your claude.ai…]]
+- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-core-replaced-claude-code-s-misleading-login-instruction-with-claude-auth-login|Core Replaced Claude Code’s misleading /login instruction with claude auth login]]
 - Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-fixes-oauth-discovery-names-the-host-the-client-connected-to-so-mcp-clients-such|Fixes: OAuth discovery names the host the client connected to, so MCP clients…]]
 <!-- chronolog:end -->
 

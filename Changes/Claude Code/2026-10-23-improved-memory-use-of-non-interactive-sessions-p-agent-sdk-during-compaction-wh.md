@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9dab1c05d38d8e9fecddb23c0ff7be00207f19e06404a82ad12a30c0f4ac3f45
+machine_hash: 91ad65bfc1dd50b924b66367f61d2762eb4cc76995386907f192a6168595cbee
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
     compaction…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-16-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
-  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2
   Reliability and Performance changes in v2.1.304]]'
 - '[[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2
   Reliability and Performance changes in v2.1.309]]'
+- '[[Changes/OpenClaw/2026-10-22-restarting-the-same-official-docker-container-no-longer-copies-all-its-saved-sta|Restarting
+  the same official Docker container no longer copies all its saved state…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: reliability-performance
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2 Reliability and Performance changes in v2.1.309]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-restarting-the-same-official-docker-container-no-longer-copies-all-its-saved-sta|Restarting the same official Docker container no longer copies all its saved state…]]
 - Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-2-reliability-and-performance-changes-in-rust-v0-164-0|2 Reliability and Performance changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 

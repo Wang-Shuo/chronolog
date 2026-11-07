@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bf7be24c25d7d48e5300a9328a5c99ab6458afa11024785a56e5393ec36359cd
+machine_hash: 01569d89de1467740cb4a2b9b6670d70c7dcd50a8972afdaac0fe89f80600b48
 product: openhands
 product_name: OpenHands
 record:
@@ -46,12 +46,12 @@ record:
   title: 'feat(sidebar): start a new conversation in the row''s sandbox (OHE-3689)'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed
-  Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]'
-- '[[Changes/Codex CLI/2026-10-27-3-safety-and-privacy-changes-in-rust-v0-165-0|3
-  Safety and Privacy changes in rust-v0.165.0]]'
 - '[[Changes/Gemini CLI/2026-10-27-fix-ci-remove-unsupported-members-permission-in-unassign-inactive-assignees-work|fix(ci):
   remove unsupported members permission in unassign-inactive-assignees workflow]]'
+- '[[Changes/OpenClaw/2026-10-27-2-safety-and-privacy-changes-in-v2026-10-8|2 Safety
+  and Privacy changes in v2026.10.8]]'
+- '[[Changes/OpenCode/2026-10-27-2-safety-and-privacy-changes-in-v2-2-0|2 Safety and
+  Privacy changes in v2.2.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892|openhands-2026-10-27-v1-34-0-github-425575573-3f638892]]'
 source_type: github_releases
 theme: safety-privacy
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-27 · Gemini CLI · [[Changes/Gemini CLI/2026-10-27-fix-ci-remove-unsupported-members-permission-in-unassign-inactive-assignees-work|fix(ci): remove unsupported members permission in unassign-inactive-assignees workflow]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-2-safety-and-privacy-changes-in-v2-2-0|2 Safety and Privacy changes in v2.2.0]]
 - Later: 2026-10-28 · ChatGPT · [[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting your dot]]
 <!-- chronolog:end -->
 

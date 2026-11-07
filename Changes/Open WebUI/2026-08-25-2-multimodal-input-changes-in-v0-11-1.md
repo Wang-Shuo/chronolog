@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5edb62e29efdec2669c5310fdb88615583971ada222bb429f67e94d6cfa4135
+machine_hash: 2ae2a8317726e1cdb2c6108bc525079284fd1190c118169e7696ae647ef57758
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,7 +49,8 @@ record:
   title: 2 Multimodal Input changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-17-elevencreative-fd6a14|ElevenCreative]]'
+- '[[Changes/Runway/2026-08-18-compose-and-blend-images-and-video-together-with-new-compositing-workflow-nodes|Compositing
+  Nodes]]'
 - '[[Changes/DeepSeek API/2026-08-21-deepseek-v4-flash-vision-exp-release|DeepSeek-V4-Flash-Vision-Exp
   Release]]'
 - '[[Changes/Dify/2026-08-25-3-multimodal-input-changes-in-1-17-0|3 Multimodal Input
@@ -108,7 +109,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.1
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-3-multimodal-input-changes-in-1-17-0|3 Multimodal Input changes in 1.17.0]]
-- Later: 2026-08-31 · ElevenLabs · [[Changes/ElevenLabs/2026-08-31-python-sdk|Python SDK]]
+- Later: 2026-08-28 · Runway · [[Changes/Runway/2026-08-28-runway-mcp-now-supports-upgrading-your-video-content-to-hdr-wherever-your-agents|HDR Video Conversion on Runway MCP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

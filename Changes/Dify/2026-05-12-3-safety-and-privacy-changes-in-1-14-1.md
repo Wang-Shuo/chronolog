@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5c4bfc09f7033f0090e78135ab642e19426cc05efb8f78b97c5f8096ad64436f
+machine_hash: 801f2eb854978b36407aa124ab58ddc261c265dec74ee0117da1a00b82f364a7
 product: dify
 product_name: Dify
 record:
@@ -57,8 +57,8 @@ record:
   title: 3 Safety and Privacy changes in 1.14.1
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-10-6-safety-and-privacy-changes-in-v0-9-5|6 Safety
-  and Privacy changes in v0.9.5]]'
+- '[[Changes/OpenCode/2026-05-10-core-read-tool-permission-rules-now-match-worktree-relative-paths-so-read-allowl|Core
+  Read tool permission rules now match worktree-relative paths, so read…]]'
 - '[[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed
   Skill(name ) permission rules]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-11-sessions-with-extension-permission-prompts-can-be-resumed-without-a-session-file|Sessions

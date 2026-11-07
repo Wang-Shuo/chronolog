@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75bdd71a08a1e3d6ff00b17fd71e666e3215003e4db8ae50f16fc426dc093ac6
+machine_hash: 290b72b5997c78526c4d7a5bd920929f0f0921e53fbb51e8129420db154277aa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,9 +53,9 @@ record:
     128k
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind
-  menu: added "Summarize up to here" to compress earlier context while keeping…]]'
 - '[[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]'
+- '[[Changes/OpenCode/2026-05-13-core-keep-recent-turns-after-compaction-instead-of-folding-them-into-the-summary|Core
+  Keep recent turns after compaction instead of folding them into the summary]]'
 - '[[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved
   reactive compaction]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52|github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved reactive compaction]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-7-context-window-changes-in-rust-v0-131-0|7 Context Window changes in rust-v0.131.0]]
+- Later: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-core-fixed-repeated-auto-compaction-in-sessions-after-compaction-reordered-messa|Core Fixed repeated auto-compaction in sessions after compaction reordered messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

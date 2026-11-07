@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72b8423914b665588f734834635645fc24c2c6da7a134ca6ae33f945f07bc530
+machine_hash: 2371210464da1d19789db270e572841e9c86f56cf17265ce65c1d1856e474554
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,9 @@ record:
   title: feature(commands) - Refactor Slash Command + Vision For the Future
   type: change
 related_changes:
-- '[[Changes/Dify/2025-05-15-feat-api-add-image-multimodal-support-for-llmnode-by-quantumghost-in-https-githu|feat(api):
-  Add image multimodal support for LLMNode]]'
-- '[[Changes/Ollama/2025-05-21-support-for-alibaba-s-qwen-3-and-qwen-2-architectures-in-ollama-s-new-multimodal|Support
-  for Alibaba''s Qwen 3 and Qwen 2 architectures in Ollama''s new multimodal…]]'
+- '[[Changes/Midjourney/2025-06-18-high-motion|High motion]]'
+- '[[Changes/Midjourney/2025-06-19-pro-and-mega-tiers-can-help-us-test-video-relax-mode-right-now-unlimited-generat|Pro
+  and Mega tiers can help us test "video relax mode" right now…]]'
 - '[[Changes/ElevenLabs/2025-06-30-elevencreative-studio|ElevenCreative Studio]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb|gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb]]'
 source_type: github_releases

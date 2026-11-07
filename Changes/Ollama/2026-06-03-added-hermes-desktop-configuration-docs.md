@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6736eff761fd1ab4b7062ef6f28d15c4416da6f1670a5fbb2d1c1abb5d18a4e0
+machine_hash: 3efb4fa86036ed44b6407f5fb6376261925f4187398ee525dcb54e80977bff60
 product: ollama
 product_name: Ollama
 record:
@@ -40,8 +40,8 @@ record:
   title: Added Hermes Desktop configuration docs
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard
-  correctly copies CJK and supplementary-plane Unicode characters on Windows]]'
+- '[[Changes/OpenCode/2026-05-28-desktop-improved-the-home-empty-state-and-fixed-v2-font-usage|Desktop
+  Improved the home empty state and fixed V2 font usage]]'
 - "[[Changes/Open WebUI/2026-06-01-startup-on-non-unicode-consoles-open-webui-no-longer-crashes-at-startup-when-the|\U0001F97E
   Startup on non-Unicode consoles. Open WebUI no longer crashes at startup…]]"
 - '[[Changes/Windsurf/2026-06-02-windsurf-is-now-devin-desktop-https-devin-ai-blog-windsurf-is-now-devin-desktop|Windsurf

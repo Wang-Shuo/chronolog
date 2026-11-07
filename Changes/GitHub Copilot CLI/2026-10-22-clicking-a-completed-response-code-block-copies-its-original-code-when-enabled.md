@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 37552d23b50cbd39e1b80ee83dc6d148471447dce38b74fd6b3f158f5a8becec
+machine_hash: 5200c7463712e6584629f37e0004507536facd7f620daf8adce4ee1b1da3d83d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved disk-full handling]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code Review Improved the Code Review admin section to retry the first load…]]
+- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-7-developer-workflow-changes-in-v2026-10-6|7 Developer Workflow changes in v2026.10.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

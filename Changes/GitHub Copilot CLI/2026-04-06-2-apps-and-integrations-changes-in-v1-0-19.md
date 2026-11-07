@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a0e5c04e7a986e35588008d5239d095c528c776e0ea10a013b384b97346f9b3
+machine_hash: d126730673fa6cbd3543d26b4f28e7d5f651eced68243c2fb34f780271a28fab
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Apps and Integrations changes in v1.0.19
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-02-app-connectors-aikido-gitlab-and-aws-s3|App connectors:
-  Aikido, GitLab, and AWS S3]]'
 - '[[Changes/Lovable/2026-04-02-chat-connectors-hex-confidence-and-posthog|Chat connectors:
   Hex, Confidence, and PostHog]]'
 - '[[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote
   Control session names now use your hostname as the default prefix…]]'
+- '[[Changes/OpenCode/2026-04-04-3-apps-and-integrations-changes-in-v1-3-15-1|3 Apps
+  and Integrations changes in v1.3.15 + 1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-06-v1-0-19-github-305837484-a9d8ae9e|github-copilot-cli-2026-04-06-v1-0-19-github-305837484-a9d8ae9e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,8 +83,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote Control session names now use your hostname as the default prefix…]]
-- Later: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps and Integrations changes in v2.1.94]]
+- Earlier: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-3-apps-and-integrations-changes-in-v1-3-15-1|3 Apps and Integrations changes in v1.3.15 + 1]]
+- Later: 2026-04-06 · OpenCode · [[Changes/OpenCode/2026-04-06-extensions-fix-plugin-installs-from-npm-aliases-and-git-urls-including-windows-c|Extensions Fix plugin installs from npm aliases and git URLs, including Windows…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

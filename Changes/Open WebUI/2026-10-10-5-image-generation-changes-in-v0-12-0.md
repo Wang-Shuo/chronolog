@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 032535ee9ff808c9bbc516bacb85f3a79bedf569e9949d88464482b144485f53
+machine_hash: 6e284874828eb9e69876f6a6ddb36388ad726964fab34f981be2da5e94328b3e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -84,11 +84,11 @@ record:
   title: 5 Image Generation changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-47327-preserve-image-generation-request-ids-on-failure-chrisdong-oai|♯47327
-  Preserve image generation request IDs on failure @chrisdong-oai]]'
-- '[[Changes/Codex CLI/2026-09-28-3-image-generation-changes-in-rust-v0-158-0|3 Image
-  Generation changes in rust-v0.158.0]]'
 - '[[Changes/ElevenLabs/2026-09-28-flows|Flows]]'
+- '[[Changes/Runway/2026-10-02-ideogram-4-5-is-now-supported-in-runway-mcp-bringing-its-image-generation-capabi|Ideogram
+  4.5]]'
+- '[[Changes/Midjourney/2026-10-08-we-re-testing-a-new-thinking-mode-for-image-generation-on-our-alpha-website-alph|We''re
+  testing a new "Thinking Mode" for image generation on our Alpha website…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: image-generation
@@ -145,8 +145,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-flows|Flows]]
-- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-clear-input-selections-shortcut-clearing-the-model-override-selected-tools-and-f|🧹 Clear Input Selections shortcut. Clearing the model override, selected tools…]]
+- Earlier: 2026-10-08 · Midjourney · [[Changes/Midjourney/2026-10-08-we-re-testing-a-new-thinking-mode-for-image-generation-on-our-alpha-website-alph|We're testing a new "Thinking Mode" for image generation on our Alpha website…]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-image-generation-with-oauth-can-retry-using-a-supported-openai-chat-model-in-age|Image generation with OAuth can retry using a supported OpenAI chat model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4cbe56226f7f6952888304056701842b896ec747ce5d352273b7c556ccdf58a6
+machine_hash: c9d1a214734267a7f01a9d5abaa3d778d52f9b368ae5557ed10e0d52aa82b619
 product: v0
 product_name: v0
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Interface Experience changes in Slash commands, the Shopify…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-the-sessions-sidebar-is-now-navigable-with-the-keyboard-and-mouse-arrows-open-an|The
-  Sessions sidebar is now navigable with the keyboard and mouse…]]'
+- '[[Changes/OpenCode/2026-07-20-desktop-preserve-command-drafts-in-the-command-menu|Desktop
+  Preserve command drafts in the command menu]]'
 - '[[Changes/Codex CLI/2026-07-21-18-interface-experience-changes-in-rust-v0-145-0|18
   Interface Experience changes in rust-v0.145.0]]'
 - '[[Changes/Lovable/2026-07-21-invite-people-outside-your-workspace-to-an-internally-published-app|Invite

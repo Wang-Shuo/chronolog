@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a75e4c7669997f70277f4c33aad108ad3ded9fd8eac9172b7ff7c6aaf48a45d5
+machine_hash: 800a553fbdf4d348ae5c70a4df541c8b71ab881885470c4721b71a809a7897c9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Theme preview appears above theme list in screen reader mode
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-03-chore-improve-accessibility-for-learn-more-link-by-khmandarrin-in-https-github-c|chore:
-  improve accessibility for learn more link]]'
 - '[[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added
   support for full-width (zenkaku) space input from Japanese IME in checkbox selection]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-always-show-project-menu-button-on-mobile-for-accessibility|Desktop
+  Always show project menu button on mobile for accessibility]]'
 - '[[Changes/Dify/2026-02-11-added-dutch-nl-nl-language-support-across-backend-language-mapping-and-web-local|Added
   Dutch (nl-NL) language support across backend language mapping and web…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-12-v0-0-409-github-285888661-2d549ab0|github-copilot-cli-2026-02-12-v0-0-409-github-285888661-2d549ab0]]'

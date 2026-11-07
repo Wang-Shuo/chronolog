@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67f14534ec96d477195d191b1affabcf2fe885eb36c680076066a73747d12790
+machine_hash: 0b6b4c9ab9a75b4d441026cd6b7d84db8f58a2b5dbc79526602a59c71f08658a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.9
 ## Nearby in Context Window
 
 - Earlier: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-improve-explore-agent-precision-and-large-repository-support-with-better-context|Improve explore agent precision and large repository support with better context sharing]]
-- Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context Window changes in rust-v0.113.0]]
+- Later: 2026-03-09 · OpenCode · [[Changes/OpenCode/2026-03-09-core-send-context-1m-2025-08-07-beta-header-to-gitlab-to-enable-1m-context-windo|Core Send context-1m-2025-08-07 beta header to GitLab to enable 1M context window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51b82c93ae62fd427fb564daa6f60513263afe259115e5df76fa9f03df931f5c
+machine_hash: e1053634078dce3e2713b7ea0af9f1ca8ab42c758c0c983d98889d3a65d99f9b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Developer Workflow changes in rust-v0.90.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer
-  Workflow changes in v2.1.19]]'
+- '[[Changes/OpenCode/2026-01-23-terminal-add-weight-to-fuzzy-search-to-maintain-title-priority-in-tui|Terminal
+  Add weight to fuzzy search to maintain title priority in TUI]]'
 - '[[Changes/Windsurf/2026-01-23-added-post-setup-worktree-https-docs-windsurf-com-windsurf-cascade-worktrees-set|Added…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-24-2-developer-workflow-changes-in-v0-0-394|2
   Developer Workflow changes in v0.0.394]]'
@@ -87,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.90.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-24-2-developer-workflow-changes-in-v0-0-394|2 Developer Workflow changes in v0.0.394]]
-- Later: 2026-01-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-26-2-developer-workflow-changes-in-v0-0-395|2 Developer Workflow changes in v0.0.395]]
+- Later: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-terminal-prevent-crash-when-theme-search-returns-no-results|Terminal Prevent crash when theme search returns no results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

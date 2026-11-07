@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81ad44b9b4c98fb8ed9b30cfe5476c8e42f3ae92d03c7c0482e1865557005c68
+machine_hash: acc9ba4e693ca6cb0e5babd75bfeae0f55f402a127690a153eb087583a10e13e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,11 +49,12 @@ record:
   title: 4 Mobile and Desktop changes in rust-v0.100.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-detached-shell-processes-work-on-vanilla-macos-installations|Detached
-  shell processes work on vanilla macOS installations]]'
-- '[[Changes/ElevenLabs/2026-02-09-new-endpoints|New Endpoints]]'
-- '[[Changes/Codex CLI/2026-02-11-4-mobile-and-desktop-changes-in-rust-v0-99-0|4 Mobile
-  and Desktop changes in rust-v0.99.0]]'
+- '[[Changes/OpenCode/2026-02-11-2-mobile-and-desktop-changes-in-v1-1-59|2 Mobile
+  and Desktop changes in v1.1.59]]'
+- '[[Changes/OpenCode/2026-02-11-desktop-notifications-enabled-on-child-sessions|Desktop
+  Notifications enabled on child sessions]]'
+- '[[Changes/OpenCode/2026-02-11-5-mobile-and-desktop-changes-in-v1-1-57|5 Mobile
+  and Desktop changes in v1.1.57]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6|codex-cli-2026-02-12-rust-v0-100-0-github-285810603-4852bda6]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -100,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.100.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-4-mobile-and-desktop-changes-in-rust-v0-99-0|4 Mobile and Desktop changes in rust-v0.99.0]]
+- Earlier: 2026-02-11 · OpenCode · [[Changes/OpenCode/2026-02-11-5-mobile-and-desktop-changes-in-v1-1-57|5 Mobile and Desktop changes in v1.1.57]]
 - Later: 2026-02-12 · Ollama · [[Changes/Ollama/2026-02-12-installing-ollama-via-the-curl-install-script-on-macos-will-now-only-prompt-for|Installing Ollama via the curl install script on macOS will now only prompt…]]
 <!-- chronolog:end -->
 

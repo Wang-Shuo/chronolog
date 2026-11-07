@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2c84cdb37d41ac24eff85dac8061469b6273121e9c9b4aa329515267b2b20d3e
+machine_hash: 1e4342e7efbc2ce174b5c41f0103c913684be2939c999879a7f2e29f9970f622
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 ## Nearby in Context Window
 
 - Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage report in canvas]]
-- Later: 2026-06-06 · Windsurf · [[Changes/Windsurf/2026-06-06-improved-handling-of-file-context-in-devin-local-agent|Improved handling of file context in Devin Local agent]]
+- Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-core-sessions-now-persist-system-context-updates-during-long-running-conversatio|Core Sessions now persist system context updates during long-running conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

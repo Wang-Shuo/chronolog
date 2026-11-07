@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d8b4ab9303be5e39c05fd755949e36119a220359830a7d400dc400bdd3add028
+machine_hash: 7b44e5ab199ed93b4ed98921396e3735332f15d94a3cb5ea669b78b91098f20c
 product: lovable
 product_name: Lovable
 record:
@@ -57,12 +57,12 @@ record:
   title: Log out everywhere
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-25-7-safety-and-privacy-changes-in-v0-11-1|7 Safety
-  and Privacy changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-2-safety-and-privacy-changes-in-v2-1-247|2 Safety
   and Privacy changes in v2.1.247]]'
 - '[[Changes/Codex CLI/2026-08-26-12-safety-and-privacy-changes-in-rust-v0-150-0|12
   Safety and Privacy changes in rust-v0.150.0]]'
+- '[[Changes/Google Antigravity/2026-08-26-2-safety-and-privacy-changes-in-hub-v2-11-0-generative-ui-and-ui|2
+  Safety and Privacy changes in HUB v2.11.0 — Generative UI and UI…]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-26-2026-08-26-bad08262|lovable-2026-08-26-2026-08-26-bad08262]]'
 source_type: lovable_changelog
 theme: safety-privacy
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-12-safety-and-privacy-changes-in-rust-v0-150-0|12 Safety and Privacy changes in rust-v0.150.0]]
+- Earlier: 2026-08-26 · Google Antigravity · [[Changes/Google Antigravity/2026-08-26-2-safety-and-privacy-changes-in-hub-v2-11-0-generative-ui-and-ui|2 Safety and Privacy changes in HUB v2.11.0 — Generative UI and UI…]]
 - Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-4-safety-and-privacy-changes-in-v2-1-248|4 Safety and Privacy changes in v2.1.248]]
 <!-- chronolog:end -->
 

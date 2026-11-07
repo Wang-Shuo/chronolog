@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad19bbc0dd6127b49296969adf0294232c49ef18deddd2603bc9a8a559cb7105
+machine_hash: ca1bb280f1f425018b4335ec70f196064e2e635481c96b399024634efbf16e38
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Safety and Privacy changes in v2.1.310
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-8-safety-and-privacy-changes-in-v2-1-309|8 Safety
-  and Privacy changes in v2.1.309]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-22-3-safety-and-privacy-changes-in-v1-0-103|3
-  Safety and Privacy changes in v1.0.103]]'
 - '[[Changes/Lovable/2026-10-22-clearer-privacy-security-settings|Clearer Privacy
   & security settings]]'
+- '[[Changes/OpenClaw/2026-10-22-security-release-v2026-10-6-adds-remediations-for-the-emudhra-certificate-compro|Security
+  release: v2026.10.6 adds remediations for the eMudhra certificate compromise]]'
+- '[[Changes/OpenCode/2026-10-22-upgraded-the-bundled-bun-runtime-to-1-4-4|Upgraded
+  the bundled Bun runtime to 1.4.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: safety-privacy
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.310
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-22 · Lovable · [[Changes/Lovable/2026-10-22-clearer-privacy-security-settings|Clearer Privacy & security settings]]
+- Earlier: 2026-10-22 · OpenCode · [[Changes/OpenCode/2026-10-22-upgraded-the-bundled-bun-runtime-to-1-4-4|Upgraded the bundled Bun runtime to 1.4.4]]
 - Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-15-safety-and-privacy-changes-in-rust-v0-164-0|15 Safety and Privacy changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 

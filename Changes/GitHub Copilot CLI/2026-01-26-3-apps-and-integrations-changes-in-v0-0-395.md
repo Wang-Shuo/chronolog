@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 943c40c4f71d664116cf5bad8a882919c03887dfe9943a58909e19ba077a09e7
+machine_hash: 6a8ff13c26caafdd45cb0a3f2f8082c26d83135b623ed5872e0360f638bc29f3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Apps and Integrations changes in v0.0.395
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-24-plugin-skills-work-in-agent-responses|Plugin
-  skills work in agent responses]]'
 - '[[Changes/Codex CLI/2026-01-25-3-apps-and-integrations-changes-in-rust-v0-90-0|3
   Apps and Integrations changes in rust-v0.90.0]]'
+- '[[Changes/OpenCode/2026-01-25-2-apps-and-integrations-changes-in-v1-1-35|2 Apps
+  and Integrations changes in v1.1.35]]'
 - '[[Changes/ElevenLabs/2026-01-26-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-26-v0-0-395-github-280018620-9ba72686|github-copilot-cli-2026-01-26-v0-0-395-github-280018620-9ba72686]]'
 source_type: github_releases

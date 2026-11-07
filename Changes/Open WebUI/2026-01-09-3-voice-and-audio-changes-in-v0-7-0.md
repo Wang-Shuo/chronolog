@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ab42d5dc642d8e40752ba386ee988a137b72f05c6af9906c80b8f28e900c48c
+machine_hash: aa23559a78351e0b7272f2270374251b3da2b86fee898867fc8feeb94cb33dff
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,9 +54,10 @@ record:
   title: 3 Voice and Audio changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-05-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2026-01-05-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2026-01-05-voices|Voices]]'
+- '[[Changes/OpenCode/2026-01-07-desktop-add-audio-input-and-camera-permissions-to-entitlements|Desktop
+  Add audio input and camera permissions to entitlements]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c|open-webui-2026-01-09-v0-7-0-github-275585328-a4da522c]]'
 source_type: github_releases
 theme: voice
@@ -106,7 +107,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-01-05 · ElevenLabs · [[Changes/ElevenLabs/2026-01-05-voices|Voices]]
+- Earlier: 2026-01-07 · OpenCode · [[Changes/OpenCode/2026-01-07-desktop-add-audio-input-and-camera-permissions-to-entitlements|Desktop Add audio input and camera permissions to entitlements]]
 - Later: 2026-01-10 · Open WebUI · [[Changes/Open WebUI/2026-01-10-users-can-now-use-local-whisper-for-speech-to-text-when-stt-engine-is-left-empty|🎙️ Users can now use local Whisper for speech-to-text when STT_ENGINE is left empty…]]
 <!-- chronolog:end -->
 

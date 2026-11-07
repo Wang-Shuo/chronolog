@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d9d1e23b9a2b8a314bbc3c7290bf63e62cd74217f0d7ddb1e50ca781bf4b99a0
+machine_hash: a16110ca1d25c52804e3cba98dd223c8996fac941357238f64dbd8d984f7855d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2025-02-06 · ChatGPT · [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas sharing]]
-- Later: 2025-02-27 · Ollama · [[Changes/Ollama/2025-02-27-granite-3-2-vision-https-ollama-com-library-granite3-2-vision-a-compact-and-effi|Granite-3.2-Vision((source link) A compact…]]
+- Later: 2025-02-26 · Gamma · [[Changes/Gamma/2025-02-26-sharing-your-ideas-just-got-easier-you-can-now-post-directly-to-linkedin-from-ga|Post directly to LinkedIn 🚀]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

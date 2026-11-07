@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe7e48b1c3c88dba452eaac58a3034b3b98ebe4c5c2aff3d0c3b7c41808bdeb0
+machine_hash: 08f76b5ddd0e39368edd20c60fd82704941e4739ec001adbdc753280972ced39
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
     after…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-6-automation-and-scheduling-changes-in-v1-35-0|6
-  Automation and Scheduling changes in v1.35.0]]'
 - '[[Changes/Dify/2026-11-04-3-automation-and-scheduling-changes-in-1-19-0|3 Automation
   and Scheduling changes in 1.19.0]]'
+- '[[Changes/OpenClaw/2026-11-05-keeps-the-windows-scheduled-task-available-during-update-recovery-until-the-gate|Keeps
+  the Windows scheduled task available during update recovery until the Gateway…]]'
 - '[[Changes/OpenHands/2026-11-05-11-automation-and-scheduling-changes-in-v1-36-0|11
   Automation and Scheduling changes in v1.36.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'

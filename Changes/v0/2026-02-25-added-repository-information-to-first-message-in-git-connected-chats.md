@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77f1714511a368b5cfb9b7e46d387d05ece2857cfa3fc52592babcecfd5c6a67
+machine_hash: 857148edb6e4349ebef72bc14690574b9fd32bc27e6c086c3806f7c2102d6e20
 product: v0
 product_name: v0
 record:
@@ -42,12 +42,12 @@ record:
   title: Added repository information to first message in git-connected chats
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-24-status-line-automatically-switches-to-a-two-line-layout-on-narrow-terminals-keep|Status
-  line automatically switches to a two-line layout on narrow terminals, keeping…]]'
 - '[[Changes/Codex CLI/2026-02-25-15-developer-workflow-changes-in-rust-v0-105-0|15
   Developer Workflow changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-3-developer-workflow-changes-in-v0-30-0|3 Developer
   Workflow changes in v0.30.0]]'
+- '[[Changes/OpenCode/2026-02-25-3-developer-workflow-changes-in-v1-2-14-1|3 Developer
+  Workflow changes in v1.2.14 + 1]]'
 source_release: '[[Releases/v0/v0-2026-02-25-2026-02-25-02405fc8|v0-2026-02-25-2026-02-25-02405fc8]]'
 source_type: v0_changelog
 theme: developer-workflow
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-3-developer-workflow-changes-in-v0-30-0|3 Developer Workflow changes in v0.30.0]]
+- Earlier: 2026-02-25 · OpenCode · [[Changes/OpenCode/2026-02-25-3-developer-workflow-changes-in-v1-2-14-1|3 Developer Workflow changes in v1.2.14 + 1]]
 - Later: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-always-allow-prefix-suggestions-for-compound-bash-commands-e-g-cd-tmp-g|Improved "always allow" prefix suggestions for compound bash commands…]]
 <!-- chronolog:end -->
 

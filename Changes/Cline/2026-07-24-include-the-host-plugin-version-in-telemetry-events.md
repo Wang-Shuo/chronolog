@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 41635aef860e7598d866493952ff6511d89023c88788c5ab08e1bdfb0c0e17bb
+machine_hash: a312a689ec4ddd63f5309df806924717576d80fac1e54d8a7dae3e1884eb83ca
 product: cline
 product_name: Cline
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5 Apps and Integrations changes in v2.1.219]]
-- Later: 2026-07-24 · Replit · [[Changes/Replit/2026-07-24-integrations|Integrations]]
+- Later: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-core-use-the-correct-prompt-cache-keys-for-each-sdk|Core Use the correct prompt cache keys for each SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

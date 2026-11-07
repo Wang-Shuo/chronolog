@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f86364db585d96a324a19d16fcd4857039d1fa3776ab15b6275ee044fc7d413
+machine_hash: ce015bc09251011e55b654f0d0e3f3d370980a550550fde12614abefa4ac3734
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-7-developer-workflow-changes-in-rust-v0-141-0|7 Developer Workflow changes in rust-v0.141.0]]
-- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-changed-review-pr-to-use-the-same-review-engine-as-code-review-medium|Changed /review pr to use the same review engine as /code-review medium]]
+- Later: 2026-06-21 · OpenCode · [[Changes/OpenCode/2026-06-21-terminal-only-show-the-background-subagent-shortcut-when-the-server-supports-it|Terminal Only show the background subagent shortcut when the server supports it]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

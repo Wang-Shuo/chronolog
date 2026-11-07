@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 000018123824ac7c32dc40f7477373f16d4b8c2a319750743f1363000fa0a116
+machine_hash: 76d71ac1038ca5310a28f60a650a7363cae6dfb0a5cd0bc8b49a99d7649b3fc0
 product: v0
 product_name: v0
 record:
@@ -43,10 +43,10 @@ record:
   title: Gemini 4 requests no longer fail when run at higher effort levels
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-16-4-model-support-changes-in-v4-1-25|4 Model Support changes
-  in v4.1.25]]'
-- '[[Changes/Open WebUI/2026-10-16-3-model-support-changes-in-v0-12-3|3 Model Support
-  changes in v0.12.3]]'
+- '[[Changes/OpenClaw/2026-10-16-openai-reasoning-with-tools-fixed-tool-call-failures-and-reasoning-being-switche|OpenAI
+  reasoning with tools]]'
+- '[[Changes/OpenCode/2026-10-16-core-configure-model-reasoning-options-to-generate-reasoning-variants-replacing|Core
+  Configure model reasoning options to generate reasoning variants, replacing…]]'
 - '[[Changes/Replit/2026-10-16-claude-haiku-5-5-in-the-model-selector|Claude Haiku
   5.5 in the model selector]]'
 source_release: '[[Releases/v0/v0-2026-10-16-2026-10-16-3443a38d|v0-2026-10-16-2026-10-16-3443a38d]]'

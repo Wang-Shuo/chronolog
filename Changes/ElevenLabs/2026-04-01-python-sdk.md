@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e2a710bedffb9c07fb9648fed3018a3ff00bcd53909acf4bbb2b1ecaba3d0f0a
+machine_hash: 17d9462bc2c2c891ec7128fd6c93a1f2eb7c9bd1ea7fcaf698af10b4c97e009b
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,8 +46,8 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-15579-increase-voice-space-hold-timeout-to-1s-aibrahim-oai|♯15579
-  Increase voice space hold timeout to 1s @aibrahim-oai]]'
+- '[[Changes/Suno/2026-03-26-voices-record-or-upload-your-own-audio-and-suno-will-let-you-sing-on-your-creati|Voices
+  Record or upload your own audio and Suno will let you sing on your creations]]'
 - '[[Changes/Codex CLI/2026-03-31-16114-remove-tui-voice-transcription-feature-etraut-openai|♯16114
   Remove TUI voice transcription feature @etraut-openai]]'
 - '[[Changes/ElevenLabs/2026-04-01-speech-to-text|Speech to Text]]'

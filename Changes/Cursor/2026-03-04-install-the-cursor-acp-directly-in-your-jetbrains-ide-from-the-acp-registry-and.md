@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f116601295a339bf09d679871827c05b12336c18a515ca8da4e4644661ff48a6
+machine_hash: b90447e238a1c751bbd4157359e76a84941278e174826c45e66f4d5c7542e1ae
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent
-  workflows are faster and more predictable for multi-file edits and PR-heavy tasks]]'
 - '[[Changes/Gemini CLI/2026-03-03-feat-plan-support-opening-and-modifying-plan-in-external-editor-by-adib234-in-ht|feat(plan):
   support opening and modifying plan in external editor]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-2-editor-experience-changes-in-v0-0-421|2
   Editor Experience changes in v0.0.421]]'
+- '[[Changes/OpenCode/2026-03-03-2-editor-experience-changes-in-v1-2-16|2 Editor Experience
+  changes in v1.2.16]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8|cursor-2026-03-04-cursor-in-jetbrains-ides-https-cursor-com-changelog-03-04-26-59bae4c8]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-2-editor-experience-changes-in-v0-0-421|2 Editor Experience changes in v0.0.421]]
+- Earlier: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-2-editor-experience-changes-in-v1-2-16|2 Editor Experience changes in v1.2.16]]
 - Later: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-6-editor-experience-changes-in-v0-0-422|6 Editor Experience changes in v0.0.422]]
 <!-- chronolog:end -->
 

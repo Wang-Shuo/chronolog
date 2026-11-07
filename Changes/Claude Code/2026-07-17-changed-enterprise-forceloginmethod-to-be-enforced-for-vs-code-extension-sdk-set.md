@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 502a9a3f19bdc590011d05fb358a93c73640c1c7d2b04fdbdfadb3c1a2995aaa
+machine_hash: 76235b4fadb91bf07cda64a1720b261dc85cc6f2d531cd593985c210d51de82f
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     SDK…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent
-  view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]'
 - '[[Changes/Codex CLI/2026-07-16-2-developer-workflow-changes-in-rust-v0-144-5|2
   Developer Workflow changes in rust-v0.144.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8
   Developer Workflow changes in v1.0.71]]'
+- '[[Changes/OpenCode/2026-07-16-desktop-fixed-startup-readiness-so-wsl-server-loading-is-included-before-the-des|Desktop
+  Fixed startup readiness so WSL server loading is included before the desktop…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8 Developer Workflow changes in v1.0.71]]
+- Earlier: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-desktop-fixed-startup-readiness-so-wsl-server-loading-is-included-before-the-des|Desktop Fixed startup readiness so WSL server loading is included before the desktop…]]
 - Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-3-developer-workflow-changes-in-1-16-0|3 Developer Workflow changes in 1.16.0]]
 <!-- chronolog:end -->
 

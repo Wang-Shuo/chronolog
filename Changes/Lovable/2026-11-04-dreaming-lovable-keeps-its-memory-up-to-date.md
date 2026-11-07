@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d42798045c4cc20db294c0ab0fab5b88fa52d1afc9664d246758a1adbd615bc3
+machine_hash: 8d1453bbaa9c3623053763c849a1864ec3c9c07ea6c91370c5534845704678f1
 product: lovable
 product_name: Lovable
 record:
@@ -51,12 +51,12 @@ record:
   title: 'Dreaming: Lovable keeps its memory up to date'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-29-2-memory-and-personalization-changes-in-v0-12-5|2
-  Memory and Personalization changes in v0.12.5]]'
 - '[[Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta|Account
   switching on iOS and Android]]'
 - '[[Changes/Lovable/2026-10-30-lovable-remembers-what-you-tell-it|Lovable remembers
   what you tell it]]'
+- '[[Changes/OpenClaw/2026-11-03-15-memory-and-personalization-changes-in-v2026-10-10|15
+  Memory and Personalization changes in v2026.10.10]]'
 source_release: '[[Releases/Lovable/lovable-2026-11-04-2026-11-04-22f6b059|lovable-2026-11-04-2026-11-04-22f6b059]]'
 source_type: lovable_changelog
 theme: memory
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-30 · Lovable · [[Changes/Lovable/2026-10-30-lovable-remembers-what-you-tell-it|Lovable remembers what you tell it]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-2-memory-and-personalization-changes-in-rust-v0-167-0|2 Memory and Personalization changes in rust-v0.167.0]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-15-memory-and-personalization-changes-in-v2026-10-10|15 Memory and Personalization changes in v2026.10.10]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-5-memory-and-personalization-changes-in-v2026-11-1|5 Memory and Personalization changes in v2026.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

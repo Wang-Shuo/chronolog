@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6ffb5392f84184fe21492bf58c4fccb5676095e73f58688cc666b323c533613e
+machine_hash: 1ece34eebd40cb5753a5ec13007da697fceef33129a92bbaf61e128a36a372d7
 product: lovable
 product_name: Lovable
 record:
@@ -48,8 +48,8 @@ record:
   title: Guided publishing flow
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-3-safety-and-privacy-changes-in-v2-1-49|3 Safety
-  and Privacy changes in v2.1.49]]'
+- '[[Changes/OpenCode/2026-02-19-4-safety-and-privacy-changes-in-v1-2-7|4 Safety and
+  Privacy changes in v1.2.7]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-21-show-permission-elevation-dialog-when-accepting-a-plan-with-autopilot-to-prevent|Show
   permission elevation dialog when accepting a plan with autopilot to prevent…]]'
 - '[[Changes/ElevenLabs/2026-02-23-workspaces|Workspaces]]'

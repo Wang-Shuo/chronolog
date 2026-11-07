@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87a9abe4623c7561af828280168ec8330321a8b5a78e5b452eb79e4d8f41ce2f
+machine_hash: baa006960b7cbc1e325772292fab5ed09e0e3345b2a5366d3a6ff1f115c34e13
 product: ollama
 product_name: Ollama
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2: image paste from Windows clipboard now works via a PowerShell fallback…]]
-- Later: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-kimi-k2-6-with-vision-support|kimi-k2.6 (with vision support)]]
+- Later: 2026-05-13 · Runway · [[Changes/Runway/2026-05-13-work-with-an-ai-creative-partner-to-develop-and-produce-a-finished-video-describ|Runway Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

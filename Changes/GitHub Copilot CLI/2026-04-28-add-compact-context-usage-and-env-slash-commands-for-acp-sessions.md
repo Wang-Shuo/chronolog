@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a6dd963819ab42bd2e7da4c0ff44a8ae0db1246c85ae4e8514e4fabf7ac0e88
+machine_hash: 758614502b9c732235c2154761b9ed1f7ddf869106dc2e16d274bb1b1c263024
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,9 +41,10 @@ record:
   title: Add /compact, /context, /usage, and /env slash commands for ACP sessions
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-24-chat-history-search|Chat history search]]'
 - '[[Changes/Open WebUI/2026-04-24-3-context-window-changes-in-v0-9-2|3 Context Window
   changes in v0.9.2]]'
+- '[[Changes/OpenCode/2026-04-26-terminal-added-zed-editor-selection-support-for-editor-context|Terminal
+  Added Zed editor selection support for editor context]]'
 - '[[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode
   /context now opens a native token usage dialog]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-28-v1-0-39-github-314909937-07cfd993|github-copilot-cli-2026-04-28-v1-0-39-github-314909937-07cfd993]]'
@@ -78,7 +79,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode /context now opens a native token usage dialog]]
-- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-3-context-window-changes-in-1-14-0|3 Context Window changes in 1.14.0]]
+- Later: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-2-context-window-changes-in-v1-14-29|2 Context Window changes in v1.14.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

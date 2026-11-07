@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: baa9c64ac4ca11e49da08b4b3fc8114564ead183c8af8301f88d485ce627cad9
+machine_hash: 928e905d50e2cf97f207a7245fd3bcfed538c240bfc7829548e5c8734e50c089
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: The --config-dir flag is now respected when selecting the active model
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-10-display-reasoning-token-usage-in-the-per-model-token-breakdown-when-nonzero|Display
-  reasoning token usage in the per-model token breakdown when nonzero]]'
+- '[[Changes/OpenCode/2026-04-10-core-added-fast-mode-variants-for-supported-claude-and-gpt-models|Core
+  Added fast mode variants for supported Claude and GPT models]]'
 - '[[Changes/ElevenLabs/2026-04-13-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2026-04-13-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-13-v1-0-25-github-308357690-3753e85b|github-copilot-cli-2026-04-13-v1-0-25-github-308357690-3753e85b]]'

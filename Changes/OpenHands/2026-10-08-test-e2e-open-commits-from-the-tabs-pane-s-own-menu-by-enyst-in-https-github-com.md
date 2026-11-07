@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fcc3c23816fa06cf05988d38de2415eb6ceffcc3230f9f607090143d4b58443c
+machine_hash: 3b0b962cee5b99ed68e93c732b110508656276b701ab7ef7fe096cd3bd8a369e
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'test(e2e): open Commits from the tabs pane''s own menu'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-2-interface-experience-changes-in-v2-1-295|2 Interface
-  Experience changes in v2.1.295]]'
-- '[[Changes/Codex CLI/2026-10-08-8-interface-experience-changes-in-rust-v0-162-0|8
-  Interface Experience changes in rust-v0.162.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-08-clicking-a-sessions-sidebar-row-now-reliably-switches-sessions-during-split-view|Clicking
-  a Sessions sidebar row now reliably switches sessions during split-view…]]'
+- '[[Changes/Google Antigravity/2026-10-08-sidebar-drag-and-drop-ui-extensions-and-localized-conversation-timestamps|Sidebar
+  drag-and-drop, UI Extensions, and localized conversation timestamps]]'
+- '[[Changes/Google Antigravity/2026-10-08-you-can-now-drag-and-drop-conversations-between-sections-in-the-sidebar-to-organ|Drag
+  and drop conversations between sections in the sidebar to organize your projects]]'
+- '[[Changes/OpenClaw/2026-10-08-4-interface-experience-changes-in-v2026-9-9|4 Interface
+  Experience changes in v2026.9.9]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-08-v1-26-0-github-407241649-7e646875|openhands-2026-10-08-v1-26-0-github-407241649-7e646875]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-08-clicking-a-sessions-sidebar-row-now-reliably-switches-sessions-during-split-view|Clicking a Sessions sidebar row now reliably switches sessions during split-view…]]
+- Earlier: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-4-interface-experience-changes-in-v2026-9-9|4 Interface Experience changes in v2026.9.9]]
 - Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved fullscreen mode]]
 <!-- chronolog:end -->
 

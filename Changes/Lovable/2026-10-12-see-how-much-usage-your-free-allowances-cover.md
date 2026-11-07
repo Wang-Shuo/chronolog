@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: cd47d4cd54737f21cf029552d25c68519c08118d502701ffb2aa954d6942029d
+machine_hash: 49e4bcb6223a14d979d16f7af26eb74f1f13d7db5c1a4e6e0d9817e369fb4650
 product: lovable
 product_name: Lovable
 record:
@@ -52,12 +52,12 @@ record:
   title: See how much usage your free allowances cover
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set
-  credit usage limits and alerts for your workspace]]'
 - '[[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated
   /cost, the status line, --max-budget-usd and the SDK''s cost figures…]]'
 - '[[Changes/Lovable/2026-10-09-get-a-warning-before-your-credits-run-out|Get a warning
   before your credits run out]]'
+- '[[Changes/OpenClaw/2026-10-10-4-pricing-model-changes-in-v2026-10-1|4 Pricing Model
+  changes in v2026.10.1]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-12-2026-10-12-16e5a6a0|lovable-2026-10-12-2026-10-12-16e5a6a0]]'
 source_type: lovable_changelog
 theme: pricing-model
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-09 · Lovable · [[Changes/Lovable/2026-10-09-get-a-warning-before-your-credits-run-out|Get a warning before your credits run out]]
+- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-4-pricing-model-changes-in-v2026-10-1|4 Pricing Model changes in v2026.10.1]]
 - Later: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-ollama-launch-can-now-be-used-with-usage-credits-without-upgrading-to-a-paid-pla|ollama launch can now be used with usage credits without upgrading to a paid plan]]
 <!-- chronolog:end -->
 

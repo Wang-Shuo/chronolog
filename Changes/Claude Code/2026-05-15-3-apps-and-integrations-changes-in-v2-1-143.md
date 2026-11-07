@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40593078a20adb82bc4bdebd391b6414b512cceb8d3d65ca49b48012c2f9225f
+machine_hash: 883020064f8c1c2a3575a499a7237c870660b9ab1eb5228d569760f1eda1ae09
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-auto-disable-the-built-in-github-mcp-server-in-azure-devops-only-workspaces-when|Auto-disable the built-in github-mcp-server in Azure DevOps-only workspaces…]]
-- Later: 2026-05-15 · Replit · [[Changes/Replit/2026-05-15-integrations|Integrations]]
+- Later: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-2-apps-and-integrations-changes-in-v1-15-0|2 Apps and Integrations changes in v1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

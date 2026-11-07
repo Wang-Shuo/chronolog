@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f4087661d367f5f4f99a201054b2eaa33619aa1e7cdfbc1422f23e3b20bf49d
+machine_hash: eb6ec95e0873373ecc6c47af54bd94e79bdfa9edf196f4ade660aeaba63b95a8
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in v1.16.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-26-mlxrunner-avoid-metal-gpu-timeouts-when-loading-models-from-slow-storage|mlxrunner:
-  avoid Metal GPU timeouts when loading models from slow storage]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model
   Support changes in v1.0.81]]'
+- '[[Changes/Midjourney/2026-08-27-today-we-re-gonna-start-letting-everyone-test-our-first-v8-2-image-edit-model|Today
+  we’re gonna start letting everyone test our first V8.2 image edit model!]]'
 - '[[Changes/Ollama/2026-08-27-the-claude-desktop-proxy-no-longer-interrupts-in-flight-requests-when-the-model|The
   Claude Desktop proxy no longer interrupts in-flight requests when the model…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-27-v1-16-0-github-378032404-772fe69a|openhands-2026-08-27-v1-16-0-github-378032404-772fe69a]]'

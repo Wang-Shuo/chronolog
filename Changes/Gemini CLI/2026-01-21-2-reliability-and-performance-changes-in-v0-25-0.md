@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5c35a3af82ec4b53e498e8c46c62163ccca4280de5a0ce6ebbba4d576f8ce9e1
+machine_hash: 8af770895e1d7ad5dd5311bf8748353508c3829e6521857442ac559b9db58b0a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Reliability and Performance changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-16-glm-4-7-flash-https-ollama-com-library-glm-4-7-flash-as-the-strongest-model-in-t|GLM-4.7-Flash((source
-  link) As the strongest model…]]'
+- '[[Changes/OpenCode/2026-01-20-terminal-fix-message-history-cleanup-to-prevent-memory-leaks-in-tui|Terminal
+  Fix message history cleanup to prevent memory leaks in TUI]]'
 - '[[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved
   UI rendering performance with React Compiler]]'
 - '[[Changes/Codex CLI/2026-01-21-9543-fix-memory-leak-issue-jif-oai|♯9543 fix: memory

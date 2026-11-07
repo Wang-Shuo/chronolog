@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c904c86672f7a66706dc61e8e9d48432d8d0690625d54f33df9d06a99b0304f3
+machine_hash: 1a730433c1ac9a1c45c8062b26d8fc4b5e500dcadfd43856eb942b4d52d56b87
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Reliability and Performance changes in v2.1.146
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-18-speed-tab-the-standalone-speed-tab-has-been-removed-speed-and-lighthouse-checks|Speed
-  tab. The standalone Speed tab has been removed]]'
+- '[[Changes/OpenCode/2026-05-18-desktop-speed-up-large-session-timelines|Desktop
+  Speed up large session timelines]]'
 - '[[Changes/Dify/2026-05-19-knowledge-base-stability-fixed-knowledge-hit-testing-rendering-empty-knowledge-c|Knowledge-base
   stability — fixed knowledge hit-testing rendering, empty…]]'
 - '[[Changes/Codex CLI/2026-05-20-windows-installs-are-more-robust-codex-doctor-now-detects-npm-managed-installs-c|Windows

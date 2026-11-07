@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b30d7b597e0d871bc61c828a8c7b2a81e66c44c2605cff20bb27d319c98c11f
+machine_hash: 7666a45b6a1ca1bcd3efee090860acd3a1df81e35d5929545bd20d5d45f60894
 product: claude-code
 product_name: Claude Code
 record:
@@ -104,11 +104,12 @@ record:
   title: 17 Apps and Integrations changes in v2.1.281
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-22-connect-your-app-to-parallel|Connect your app to Parallel]]'
 - '[[Changes/OpenHands/2026-09-22-test-cover-mcp-config-utilities-by-aivong-openhands-in-https-github-com-openhand|test:
   cover MCP config utilities]]'
 - '[[Changes/OpenHands/2026-09-22-feat-test-remote-mcp-servers-on-cloud-backends-via-the-app-server-by-hieptl-in-h|feat:
   test remote MCP servers on cloud backends via the app server]]'
+- '[[Changes/Runway/2026-09-22-agents-in-runway-mcp-can-now-find-your-brand-kits-and-use-those-assets-as-refere|Brand
+  Kits in Runway MCP]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
 theme: apps-integrations
@@ -181,7 +182,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-feat-test-remote-mcp-servers-on-cloud-backends-via-the-app-server-by-hieptl-in-h|feat: test remote MCP servers on cloud backends via the app server]]
+- Earlier: 2026-09-22 · Runway · [[Changes/Runway/2026-09-22-agents-in-runway-mcp-can-now-find-your-brand-kits-and-use-those-assets-as-refere|Brand Kits in Runway MCP]]
 - Later: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-integrations|Integrations]]
 <!-- chronolog:end -->
 

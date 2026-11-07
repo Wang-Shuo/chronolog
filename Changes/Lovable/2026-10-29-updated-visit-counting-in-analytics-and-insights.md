@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 78cf8864ddb74218beb76fd45d4b249c9aad5099f2a5de1aa7276b916f3e569d
+machine_hash: 58f96ed7e3882cbadaa5518f89727a31add273faf9d0ff745265a6218422cec9
 product: lovable
 product_name: Lovable
 record:
@@ -56,8 +56,8 @@ record:
   title: Updated visit counting in Analytics and Insights
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud
-  sessions Added a Bash editor with colors, line numbers and a Copy button…]]'
+- '[[Changes/OpenCode/2026-10-27-5-editor-experience-changes-in-v2-2-0|5 Editor Experience
+  changes in v2.2.0]]'
 - '[[Changes/Windsurf/2026-10-28-in-devin-local-some-tool-requests-such-as-web-fetches-and-multi-file-edits-now-c|In
   Devin Local, some tool requests, such as web fetches and multi-file edits, now…]]'
 - '[[Changes/Codex CLI/2026-10-29-3-editor-experience-changes-in-rust-v0-166-0|3 Editor

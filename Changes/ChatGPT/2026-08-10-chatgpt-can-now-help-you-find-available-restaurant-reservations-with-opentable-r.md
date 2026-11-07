@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6b065a2f67a00e97ef9fa4007cb519643a128d14ba4ce52ee62366aa955db606
+machine_hash: 91f0dc4919bca23af75399e60c3325d7316192a5a1422c2183c8e9d9a848eb69
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,10 +58,10 @@ record:
   title: Restaurant reservations in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile
-  and Desktop changes in v2.1.224]]'
-- '[[Changes/Codex CLI/2026-08-07-4-mobile-and-desktop-changes-in-rust-v0-147-0|4
-  Mobile and Desktop changes in rust-v0.147.0]]'
+- '[[Changes/OpenCode/2026-08-07-added-much-broader-locale-coverage-across-the-desktop-app|Added
+  much broader locale coverage across the desktop app]]'
+- '[[Changes/Suno/2026-08-07-update-your-mobile-app-for-the-latest-updates|Update
+  your mobile app for the latest updates]]'
 - '[[Changes/Cline/2026-08-09-fall-back-to-the-session-cwd-or-desktop-for-mention-file-search-in-empty-windows|Fall
   back to the session cwd or Desktop for @-mention file search in empty windows]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578|chatgpt-2026-08-10-restaurant-reservations-in-chatgpt-07c9e578]]'

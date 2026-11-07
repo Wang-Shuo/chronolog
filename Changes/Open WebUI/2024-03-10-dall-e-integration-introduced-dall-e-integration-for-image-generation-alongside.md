@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7a2e072492cc5aa9a9c5bf3af8997684195ba80bed9451a88dfbd2f0407c30b6
+machine_hash: ae28c7b18d6ba273e88b3490700a27f1b7834996ef32d171e10fa994366e042f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 20 tracked products.
+- Earliest same-theme entry among the 29 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

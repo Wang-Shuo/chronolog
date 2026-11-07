@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1308c04b3a368123fa020a2f14020d5463a61907b13489e8d82f9a0d6e81f12a
+machine_hash: e17b032751631bf4d9361bea1e5241cf1a925960127d4a75894e91664c3b8d36
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -67,9 +67,10 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-07-workspaces|Workspaces]]'
-- '[[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice
-  and Audio changes in rust-v0.154.0]]'
+- '[[Changes/OpenClaw/2026-09-11-you-can-now-choose-deepgram-flux-to-turn-incoming-voice-notes-into-text-your-cla|Choose
+  Deepgram Flux to turn incoming voice notes into text your Claw can use…]]'
+- '[[Changes/OpenClaw/2026-09-11-8-voice-and-audio-changes-in-v2026-9-4|8 Voice and
+  Audio changes in v2026.9.4]]'
 - '[[Changes/ElevenLabs/2026-09-14-packages|Packages]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-14-2026-09-14-583c2a71|elevenlabs-2026-09-14-2026-09-14-583c2a71]]'
 source_type: elevenlabs_changelog
@@ -111,7 +112,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice and Audio changes in rust-v0.154.0]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-8-voice-and-audio-changes-in-v2026-9-4|8 Voice and Audio changes in v2026.9.4]]
 - Later: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice and Audio changes in rust-v0.155.0]]
 <!-- chronolog:end -->
 

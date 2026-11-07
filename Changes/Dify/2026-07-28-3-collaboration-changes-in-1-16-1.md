@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 492ffc5d531fdad92c8815306e05b9504343cd63ef308a60c9c25a041f098db5
+machine_hash: f059a293baad2be1d80c9c30b1505d039cd5b089fdc51ceca91eaa821dbca28e
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Collaboration changes in 1.16.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin
-  controls: per-team and per-group enablement, mode restrictions, default mode…]]'
+- '[[Changes/Midjourney/2026-07-23-as-a-kid-all-i-wanted-was-a-cool-place-to-work-on-cool-projects-with-cool-people|Midjourney’s
+  First Acquisition]]'
 - '[[Changes/ElevenLabs/2026-07-27-studio|Studio]]'
 - '[[Changes/Open WebUI/2026-07-27-2-collaboration-changes-in-v0-11-0|2 Collaboration
   changes in v0.11.0]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce3c2d991ea601b9089765b0fef261be7a414dc166a5d83bdb89f87f8bc3a2fe
+machine_hash: 7599fd72dcf64232421267ccd29b36c777644b90eb1ddf917dc3e1bb23235962
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,12 +63,12 @@ record:
   title: 12 Developer Workflow changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer
-  Workflow changes in v2.1.143]]'
-- '[[Changes/v0/2026-05-15-bash-terminal-output-no-longer-flashes-empty-rows-while-commands-are-running|Bash
-  terminal output no longer flashes empty rows while commands are running]]'
+- '[[Changes/OpenCode/2026-05-16-terminal-newly-pinned-sessions-now-stay-at-the-end-of-the-pinned-list-instead-of|Terminal
+  Newly pinned sessions now stay at the end of the pinned list instead…]]'
 - '[[Changes/Windsurf/2026-05-16-2-developer-workflow-changes-in-v2-3-9|2 Developer
   Workflow changes in v2.3.9]]'
+- '[[Changes/OpenCode/2026-05-17-core-fixed-custom-lsp-servers-not-sending-refresh-events-after-they-initialize|Core
+  Fixed custom LSP servers not sending refresh events after they initialize]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -132,8 +132,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-16 · Windsurf · [[Changes/Windsurf/2026-05-16-2-developer-workflow-changes-in-v2-3-9|2 Developer Workflow changes in v2.3.9]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-3-developer-workflow-changes-in-v2-1-144|3 Developer Workflow changes in v2.1.144]]
+- Earlier: 2026-05-17 · OpenCode · [[Changes/OpenCode/2026-05-17-core-fixed-custom-lsp-servers-not-sending-refresh-events-after-they-initialize|Core Fixed custom LSP servers not sending refresh events after they initialize]]
+- Later: 2026-05-18 · OpenCode · [[Changes/OpenCode/2026-05-18-5-developer-workflow-changes-in-v1-15-5|5 Developer Workflow changes in v1.15.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

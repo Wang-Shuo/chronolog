@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87552294c16bd4834df10de51fd52c62b39c3f09f798c7694e58de33dd5cbe30
+machine_hash: bfde4bafcdf5a0a9ad2e58a81c613a922a59a3162f612e89d786b5232d7f4b8a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,10 +54,10 @@ record:
     delete…"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-5-enterprise-and-administration-changes-in-v0-12-0|5
-  Enterprise and Administration changes in v0.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep
   /allow-all available during startup while enterprise policy is still resolving]]'
+- '[[Changes/Google Antigravity/2026-10-12-when-antigravity-gets-a-specific-reason-for-an-error-such-as-a-model-your-admini|When
+  Antigravity gets a specific reason for an error, such as a model…]]'
 - "[[Changes/Open WebUI/2026-10-14-translated-model-prompt-suggestions-editing-the-prompt-suggestions-of-a-model-th|\U0001F4AC
   Translated model prompt suggestions. Editing the prompt suggestions of a model…]]"
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d|open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d]]'

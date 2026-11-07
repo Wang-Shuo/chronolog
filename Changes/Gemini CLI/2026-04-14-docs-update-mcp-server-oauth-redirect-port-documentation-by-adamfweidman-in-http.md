@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e64ed921f55a1fbe4e41660dfdbe6e38ac4ceb0a3d08225823044c699492293
+machine_hash: 4419e00cbdb8c8b934446f64a74484bee81e7c8beeb15b92f12808509825485e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 'docs: update MCP server OAuth redirect port documentation'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-09-support-bearer-token-authentication-for-byok-anthropic-models|Support
-  bearer token authentication for BYOK Anthropic models]]'
 - '[[Changes/Codex CLI/2026-04-10-2-account-and-access-changes-in-rust-v0-119-0|2
   Account and Access changes in rust-v0.119.0]]'
+- '[[Changes/OpenCode/2026-04-10-extensions-added-configurable-oauth-redirect-uris-for-remote-mcp-servers|Extensions
+  Added configurable OAuth redirect URIs for remote MCP servers]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-13-logout-shows-a-warning-when-signed-in-via-gh-cli-pat-api-key-or-environment-vari|/logout
   shows a warning when signed in via gh CLI, PAT, API key, or environment…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-14-v0-38-0-github-309093275-47df3672|gemini-cli-2026-04-14-v0-38-0-github-309093275-47df3672]]'

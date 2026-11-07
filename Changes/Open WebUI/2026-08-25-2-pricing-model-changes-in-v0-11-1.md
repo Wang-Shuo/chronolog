@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4df88516e02a664385c422fe93b21ce22fc046dca80c50e692d67ef16d9ec899
+machine_hash: 3bd2d6214129721b597ed9d69572f2fb5d5f3f3fd4fa9e523e6c47b15978e9b8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,8 +49,9 @@ record:
   title: 2 Pricing Model changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/Replit/2026-08-21-work-in-free-mode|Work in Free Mode]]'
 - '[[Changes/ElevenLabs/2026-08-24-swift-sdk|Swift SDK]]'
+- '[[Changes/OpenCode/2026-08-24-removed-outdated-opencode-go-first-month-discount-messaging-and-pricing|Removed
+  outdated OpenCode Go first-month discount messaging and pricing]]'
 - '[[Changes/Dify/2026-08-25-7-pricing-model-changes-in-1-17-0|7 Pricing Model changes
   in 1.17.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c|open-webui-2026-08-25-v0-11-1-github-376725636-ce7e3a4c]]'

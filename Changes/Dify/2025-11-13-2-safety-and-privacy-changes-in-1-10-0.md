@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c4ad86ed378d95b9a38a07a1a15f68e79789609a9ad4cf391c6da49e2ba4f95
+machine_hash: fad08bf7b7a0a969f2541d39da3b357324a08d76e4fd87bb1d81108f7345561f
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Safety and Privacy changes in 1.10.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-07-2-safety-and-privacy-changes-in-rust-v0-56-0|2 Safety
-  and Privacy changes in rust-v0.56.0]]'
 - '[[Changes/Gemini CLI/2025-11-07-migrate-console-error-to-coreevents-debugger-for-sandbox-logger-chatrecordingser|migrate
   console.error to coreEvents/debugger for sandbox, logger, chatRecordingService]]'
+- '[[Changes/Manus/2025-11-12-the-moment-you-enable-payments-manus-spins-up-a-temporary-stripe-sandbox-so-you|Start
+  testing payments instantly with Stripe]]'
 - '[[Changes/Codex CLI/2025-11-13-6480-use-codex-linux-sandbox-in-unified-exec-6c36318bd|♯6480
   — Use codex-linux-sandbox in unified exec (6c36318bd)]]'
 source_release: '[[Releases/Dify/dify-2025-11-13-1-10-0-github-262130588-ef271481|dify-2025-11-13-1-10-0-github-262130588-ef271481]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 09af0dad832acf539013c794bf639329b53163f10f1e7fdfd0d487cc45feffb6
+machine_hash: dd1b968f13e4aa4f84a2140582bf68e18865ac97a6232242952683b5f1b5f88c
 product: lovable
 product_name: Lovable
 record:
@@ -159,7 +159,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-18 · ElevenLabs · [[Changes/ElevenLabs/2026-05-18-sdk-releases|SDK Releases]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-plugin-discover-and-browse-screens-now-show-a-plugin-s-commands-agents-skills-ho|/plugin Discover and Browse screens now show a plugin's commands, agents, skills…]]
+- Later: 2026-05-18 · OpenCode · [[Changes/OpenCode/2026-05-18-core-fix-plugin-tools-using-ask-so-tool-calls-complete-correctly|Core Fix plugin tools using ask so tool calls complete correctly]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84fee6d8debcb40f8c8e328409ff4f8ac21e63075aa68d6a518dae866fd8369d
+machine_hash: 50c1a340acf349d8c009ec86b115ce90455e692db1b498739bec3f81c56aa53e
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-4-apps-and-integrations-changes-in-v1-0-61|4 Apps and Integrations changes in v1.0.61]]
-- Later: 2026-06-11 · Cline · [[Changes/Cline/2026-06-11-2-apps-and-integrations-changes-in-v3-89-2|2 Apps and Integrations changes in v3.89.2]]
+- Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-7-apps-and-integrations-changes-in-v1-17-0|7 Apps and Integrations changes in v1.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

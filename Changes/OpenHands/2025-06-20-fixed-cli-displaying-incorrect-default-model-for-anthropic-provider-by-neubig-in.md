@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d465a3abb535cbc1a7d7e8a89c88d3a7ac17280f5188e51a09bbb12f8d163502
+machine_hash: c1768ddc698e5371594450fff5f6278b315cd502c71655f98debcb6e827c62b4
 product: openhands
 product_name: OpenHands
 record:
@@ -49,12 +49,12 @@ record:
     by @neubig…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded
-  Model Support for Custom GPTs]]'
-- '[[Changes/Dify/2025-06-16-3-model-support-changes-in-1-4-3|3 Model Support changes
-  in 1.4.3]]'
-- '[[Changes/Open WebUI/2025-06-16-2-model-support-changes-in-v0-6-15|2 Model Support
-  changes in v0.6.15]]'
+- '[[Changes/Midjourney/2025-06-18-in-order-to-do-this-we-need-building-blocks-we-need-visuals-our-first-image-mode|In
+  order to do this, we need building blocks]]'
+- '[[Changes/Midjourney/2025-06-18-as-you-know-our-focus-for-the-past-few-years-has-been-images-what-you-might-not|As
+  you know, our focus for the past few years has been images]]'
+- '[[Changes/Midjourney/2025-06-19-heya-everyone-we-re-hearing-a-lot-of-people-are-running-out-of-fast-hours-with-o|Heya
+  everyone!]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-44-0-github-226788383-62d9d16f|openhands-2025-06-20-0-44-0-github-226788383-62d9d16f]]'
 source_type: github_releases
 theme: model-support
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-2-model-support-changes-in-v0-6-15|2 Model Support changes in v0.6.15]]
+- Earlier: 2025-06-19 · Midjourney · [[Changes/Midjourney/2025-06-19-heya-everyone-we-re-hearing-a-lot-of-people-are-running-out-of-fast-hours-with-o|Heya everyone!]]
 - Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-deprecation-warnings-in-cli-and-during-llm-api-calls-by-xingyaoww-in-https-githu|Deprecation Warnings in CLI and during LLM API calls by @xingyaoww…]]
 <!-- chronolog:end -->
 

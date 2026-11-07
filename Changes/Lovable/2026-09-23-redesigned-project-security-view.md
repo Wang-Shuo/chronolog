@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ab528db4b3ff48d88e7e26b343e84a5d297d2235cbddcf91b0b989f9760156ea
+machine_hash: 8803cce14a3b3dd1cb69a15045670d3a99113820c12bc07ca1da6846a174d977
 product: lovable
 product_name: Lovable
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-findings|Findings]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-4-safety-and-privacy-changes-in-v2-1-282|4 Safety and Privacy changes in v2.1.282]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-50-safety-and-privacy-changes-in-v2026-9-6|50 Safety and Privacy changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e37a24549d04e186d41fa3f339bf072b57b9b134f2145b771fe738a8dc0f275
+machine_hash: c61c51e5945b44e63ea7868141db2a9261adc742c3a422a8be32f646ccbb5edc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Context Window changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-5-context-window-changes-in-v0-12-0|5 Context Window
-  changes in v0.12.0]]'
 - '[[Changes/Cline/2026-10-13-2-context-window-changes-in-v4-1-24|2 Context Window
   changes in v4.1.24]]'
+- '[[Changes/OpenClaw/2026-10-13-replies-after-native-compaction-the-next-message-waits-for-saved-conversation-hi|Replies
+  after native compaction]]'
 - '[[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added
   cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'

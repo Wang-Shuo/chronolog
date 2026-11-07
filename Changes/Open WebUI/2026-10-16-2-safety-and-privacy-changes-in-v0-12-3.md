@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3fc68cfa41caa4b59a66197e1c0b08ed1390804798a10ec54b1ea92c3e02a7c2
+machine_hash: eb806fad4a8ba21af3a524ddb3c492fd8b8f6ed203ce27ec8e94470225ca5c92
 product: open-webui
 product_name: Open WebUI
 record:
@@ -112,7 +112,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.3
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-require-approval-or-block-publishing-with-workspace-policies|Require approval or block publishing with workspace policies]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-added-decider-person-to-a-mod-s-tool-check-answer-only-the-permission-dialog-or|Added decider: "person" to a mod's tool.check answer: only the permission dialog…]]
+- Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-2-safety-and-privacy-changes-in-v2026-10-4|2 Safety and Privacy changes in v2026.10.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

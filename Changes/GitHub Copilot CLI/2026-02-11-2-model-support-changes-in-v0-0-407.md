@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 835be177ea5ef963c714c9137960ad2d840b7d1045210ca4e536abdd3c46afcf
+machine_hash: 6a820d208a985afcfa74399bc6245a71025b4cf3d4a5c9c84d4a9a15f167deeb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Model Support changes in v0.0.407
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-docs-document-gemini-cli-home-environment-variable-by-adamfweidman-in-https-gith|docs:
-  document GEMINI_CLI_HOME environment variable]]'
+- '[[Changes/OpenCode/2026-02-10-6-model-support-changes-in-v1-1-54|6 Model Support
+  changes in v1.1.54]]'
 - '[[Changes/Codex CLI/2026-02-11-15-model-support-changes-in-rust-v0-99-0|15 Model
   Support changes in rust-v0.99.0]]'
 - '[[Changes/Dify/2026-02-11-2-model-support-changes-in-1-13-0|2 Model Support changes

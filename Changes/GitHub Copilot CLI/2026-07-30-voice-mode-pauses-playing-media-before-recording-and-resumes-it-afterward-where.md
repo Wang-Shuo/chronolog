@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9e12e483060af89c4c6b50ff5f8a5534c4663fac694b093a2107edfc55cbb79
+machine_hash: 050f73008d77f7e0fa7881dd5edfe91502fdcf292634b78b572d6dcf20f2b317
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-29 · Gemini · [[Changes/Gemini/2026-07-29-create-and-edit-with-your-voice-anywhere-on-your-desktop-with-gemini-on-macos|Create and edit with your voice, anywhere on your desktop with Gemini on macOS]]
-- Later: 2026-08-03 · ElevenLabs · [[Changes/ElevenLabs/2026-08-03-speech-to-text|Speech to Text]]
+- Later: 2026-07-30 · Runway · [[Changes/Runway/2026-07-30-elevenlabs-v3-is-now-available-on-runway-dev-generate-expressive-text-to-speech|Eleven v3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

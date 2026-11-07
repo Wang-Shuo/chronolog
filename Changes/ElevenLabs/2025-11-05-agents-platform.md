@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 519987281c2eb318cd4803b14d5d7cd655013b025bb44a8057caf46f018293d0
+machine_hash: 98abd63a0edd70dd441061c5d187411e131ac02f6be4ef315b6d5bfc900be8a3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -51,8 +51,8 @@ record:
   title: Agents Platform
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-30-3-agent-mode-changes-in-rust-v0-52-0|3 Agent Mode
-  changes in rust-v0.52.0]]'
+- '[[Changes/Gamma/2025-11-03-now-when-you-edit-an-ai-generated-image-with-agent-those-changes-are-automatical|Now
+  when you edit an AI-generated image with Agent, those changes are automatically…]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-03-custom-agents-with-special-characters-in-filenames-no-longer-fail|Custom
   agents with special characters in filenames no longer fail]]'
 - '[[Changes/Gemini CLI/2025-11-04-add-regression-tests-for-shell-command-parsing-by-cornmander-in-https-github-com|Add

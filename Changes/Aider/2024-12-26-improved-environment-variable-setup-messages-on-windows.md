@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 753198ce449f8c9509ab9757e4e0282e6844a50f236b5ca31343d7cb4ed5cce0
+machine_hash: d3bef5fd431d4d33fe7cbe9dac10a561c9e0b4ab1190f779d27d12ca78f4c169
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: Improved environment variable setup messages on Windows
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced
-  Voice for ChatGPT Web]]'
-- '[[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web
-  Experience]]'
+- '[[Changes/Suno/2024-12-06-exciting-news-try-v4-for-free-when-you-download-the-mobile-app-now-available-on|Exciting
+  news!]]'
+- '[[Changes/Suno/2024-12-06-this-is-the-first-version-of-suno-for-android-we-wanted-to-get-it-into-your-hand|This
+  is the first version of Suno for Android]]'
 - '[[Changes/OpenHands/2024-12-12-make-layout-responsive-for-mobile-devices-by-tofarr-in-https-github-com-all-hand|Make
   layout responsive for mobile devices]]'
 source_release: '[[Releases/Aider/aider-2024-12-26-v0-70-0-github-192422417-0fd50011|aider-2024-12-26-v0-70-0-github-192422417-0fd50011]]'

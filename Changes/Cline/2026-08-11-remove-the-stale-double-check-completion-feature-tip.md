@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09cdc6b9f1f5ed7aae278b473a258148651c9f020104f6b751866d3cf7459b19
+machine_hash: dd39ed38ba8c217567d06240be0d858dd8e9abddc300b84f27e55a0458914803
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Remove the stale "Double-Check Completion" feature tip
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-05-chore-deps-bump-monaco-editor-from-0-55-1-to-0-56-0-in-the-monaco-group-across-1|chore(deps):
-  bump monaco-editor from 0.55.1 to 0.56.0 in the monaco group across 1…]]'
+- '[[Changes/Runway/2026-08-07-leave-feedback-directly-on-an-image-or-video-with-the-new-comments-tab-pin-comme|Comments
+  on Assets]]'
 - '[[Changes/Cline/2026-08-09-restore-the-view-changes-button-on-completion-rows-backed-by-sdk-checkpoints-so|Restore
   the "View Changes" button on completion rows, backed by SDK checkpoints…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-2-editor-experience-changes-in-v1-0-79|2

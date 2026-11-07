@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: abd40852bf3efdb0362bdba4b3d3747fa721af9c9a5b7f2940aae6779dd6e33c
+machine_hash: 4d553f4a7408aeed0024162d2736250b8145d85fb41406adc772f2f5c10163d6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,12 +63,12 @@ record:
   title: 10 Safety and Privacy changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-10-27-fix-ci-remove-unsupported-members-permission-in-unassign-inactive-assignees-work|fix(ci):
-  remove unsupported members permission in unassign-inactive-assignees workflow]]'
 - '[[Changes/OpenHands/2026-10-27-feat-sidebar-start-a-new-conversation-in-the-row-s-sandbox-ohe-3689-by-hieptl-in|feat(sidebar):
   start a new conversation in the row''s sandbox (OHE-3689)]]'
 - '[[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting
   your dot]]'
+- '[[Changes/Google Antigravity/2026-10-28-the-marketplace-tab-and-the-pages-of-plugins-from-third-party-developers-now-sho|The
+  Marketplace tab and the pages of plugins from third party developers now show…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -132,7 +132,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-28 · ChatGPT · [[Changes/ChatGPT/2026-10-28-texting-your-dot-is-starting-to-roll-out-in-beta-to-pro-users-in-the-u-s|Texting your dot]]
+- Earlier: 2026-10-28 · Google Antigravity · [[Changes/Google Antigravity/2026-10-28-the-marketplace-tab-and-the-pages-of-plugins-from-third-party-developers-now-sho|The Marketplace tab and the pages of plugins from third party developers now show…]]
 - Later: 2026-10-29 · Lovable · [[Changes/Lovable/2026-10-29-run-a-deep-scan-from-the-project-chat|Run a Deep scan from the project chat]]
 <!-- chronolog:end -->
 

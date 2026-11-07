@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f1732b6d18f7a26027ea91d51fa77e47f12ed69672a86a71e6281c05bd7cbc5
+machine_hash: 756f6de05005dcc92284bcb63640f74312f0031d54b5bbd3d9a77755ea7ee64b
 product: lovable
 product_name: Lovable
 record:
@@ -113,7 +113,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2 Reliability and Performance changes in v0.30.0]]
-- Later: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-knowledge-base-stability-fixed-knowledge-hit-testing-rendering-empty-knowledge-c|Knowledge-base stability — fixed knowledge hit-testing rendering, empty…]]
+- Later: 2026-05-18 · OpenCode · [[Changes/OpenCode/2026-05-18-desktop-speed-up-large-session-timelines|Desktop Speed up large session timelines]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

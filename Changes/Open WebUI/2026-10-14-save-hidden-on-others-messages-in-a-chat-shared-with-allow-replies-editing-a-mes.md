@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6021521c3c1b87947d89ea25034d43b1db2a444ccba1100bfc4ffc8c7b55014
+machine_hash: 86150ce61bcbbeadf25506a68c4574838e2db87195f0d6ec55d339d2b151d2dd
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,10 +49,10 @@ record:
     replies, editing…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-2-collaboration-changes-in-rust-v0-162-0|2 Collaboration
-  changes in rust-v0.162.0]]'
-- '[[Changes/Open WebUI/2026-10-10-13-collaboration-changes-in-v0-12-0|13 Collaboration
-  changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-12-collaboration-changes-in-v2026-10-1|12 Collaboration
+  changes in v2026.10.1]]'
+- '[[Changes/OpenClaw/2026-10-12-home-notifications-creating-many-chats-no-longer-fills-home-s-notification-queue|Home
+  notifications]]'
 - '[[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed
   local session transcripts to also record each API request''s system prompt…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'

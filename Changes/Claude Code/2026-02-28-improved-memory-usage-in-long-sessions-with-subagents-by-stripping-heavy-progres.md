@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5741da300cc6576611d4397a66867a04a19cb6aa5a8bee6c0ba23794983bb811
+machine_hash: 33e4b4dae0ff1aa345e47ffc60ef22569add5f72f4b3c17c649c31073e1f1b3a
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,8 +57,8 @@ record:
     progress…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-2-reliability-and-performance-changes-in-rust-v0-106-0|2
-  Reliability and Performance changes in rust-v0.106.0]]'
+- '[[Changes/Midjourney/2026-02-26-this-should-noticeably-increase-the-general-speed-and-performance-across-the-ent|This
+  should noticeably increase the general speed and performance across the entire…]]'
 - '[[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster
   sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]'
 - '[[Changes/Replit/2026-02-27-agent-performance-improvements|Agent performance improvements]]'

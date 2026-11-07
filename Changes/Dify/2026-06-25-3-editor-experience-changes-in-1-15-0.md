@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3664ee7f465402ad15a6c8df74eb3cda3bd2ed34b138dbd39d7c41f63c80eff8
+machine_hash: c3016d4eaee042c6beabe94674853ce3adbee60a44506cfa30f2d659dc461e8a
 product: dify
 product_name: Dify
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Editor Experience changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add
-  a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]'
 - '[[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled
   jobs in Lovable Cloud]]'
+- '[[Changes/OpenCode/2026-06-24-desktop-kept-draft-prompt-state-per-tab|Desktop Kept
+  draft prompt state per tab]]'
 - '[[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added
   live file path autocomplete to bash mode (!)]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'
@@ -103,7 +103,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added live file path autocomplete to bash mode (!)]]
-- Later: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]
+- Later: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-2-editor-experience-changes-in-hub-v2-2-1-antigravity-guide-audio|2 Editor Experience changes in HUB v2.2.1 — Antigravity Guide, audio…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

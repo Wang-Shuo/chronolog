@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d469a072920cc42545493e7dd1792010642593756ef17d3ba85f4fc2a3fd118c
+machine_hash: a8f72725462e99ed7289e14bba4b8f759f4158ed496d37bfaa39517209e6f142
 product: cursor
 product_name: Cursor
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-08-14 · Ollama · [[Changes/Ollama/2026-08-14-the-openai-compatible-responses-api-now-supports-web-search|The OpenAI-compatible Responses API now supports web search]]
-- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-5-search-and-browsing-changes-in-v0-11-1|5 Search and Browsing changes in v0.11.1]]
+- Later: 2026-08-20 · OpenCode · [[Changes/OpenCode/2026-08-20-core-enabled-web-search-when-using-the-opencode-go-provider|Core Enabled web search when using the OpenCode Go provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

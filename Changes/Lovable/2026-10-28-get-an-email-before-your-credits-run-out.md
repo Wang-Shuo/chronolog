@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d72012165d7f8f120e62e29dd3158f7cdd7bae9b92d2e0e73c87f088dd6d15cc
+machine_hash: c29327bf2afab373656b012128dee59edc7206e591d9fac39e11a260ac0304ea
 product: lovable
 product_name: Lovable
 record:
@@ -53,10 +53,9 @@ record:
   title: Get an email before your credits run out
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
-  payments in Vietnam]]'
-- '[[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2
-  Pricing Model changes in ElevenLabs updates — 2026-10-26]]'
+- '[[Changes/Gamma/2026-10-26-clearer-credit-balances|Clearer credit balances]]'
+- '[[Changes/OpenCode/2026-10-27-core-preserve-literal-0-and-arguments-text-in-custom-command-input|Core
+  Preserve literal $0 and $ARGUMENTS text in custom command input]]'
 - '[[Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi|API
   credits for eligible ChatGPT Pro and Business plans]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-28-2026-10-28-4c2babff|lovable-2026-10-28-2026-10-28-4c2babff]]'

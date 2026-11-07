@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0782c6a7937b731bc5c672e6a1be9a0282d16320b99b66cfde4e8bf7c0c263e
+machine_hash: 5918e9d3e14a6549909ab8f7c4a8a10700c902a0169980595c5bdc8889918f7c
 product: open-webui
 product_name: Open WebUI
 record:
@@ -59,8 +59,8 @@ record:
     and policy…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-5-safety-and-privacy-changes-in-rust-v0-117-0|5
-  Safety and Privacy changes in rust-v0.117.0]]'
+- '[[Changes/OpenCode/2026-03-26-core-respect-agent-permission-configuration-for-todowrite-tool|Core
+  Respect agent permission configuration for todowrite tool]]'
 - '[[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|Fixed
   official marketplace plugin scripts failing…]]'
 - '[[Changes/Dify/2026-03-27-6-safety-and-privacy-changes-in-1-13-3|6 Safety and Privacy

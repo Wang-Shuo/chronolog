@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5cae75643198991b41ff7e886489518f3cc8cebb6c3398ed56f4cd0122eb4e93
+machine_hash: f942b4d5957b28f8aa477ae36c68c59f8cfb444e271c5a02d1a383edc6f52e37
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,9 +50,9 @@ record:
     display correctly…"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-16-chat-toggles-now-control-built-in-tools-users-can-now-disable-web-search-image-g|⚙️
-  Chat toggles now control built-in tools. Users can now disable web search…]]'
 - '[[Changes/Replit/2026-02-20-video-stack|Video Stack]]'
+- '[[Changes/Runway/2026-02-27-the-most-advanced-and-consistent-image-generation-and-editing-model-now-availabl|Nano
+  Banana 2]]'
 - '[[Changes/Codex CLI/2026-03-05-expanded-image-workflow-support-for-clients-including-client-side-handling-of-im|Expanded
   image workflow support for clients, including client-side handling…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb|open-webui-2026-03-08-v0-8-9-github-294335564-7bdc11cb]]'

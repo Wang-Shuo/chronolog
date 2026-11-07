@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a8c79cfc85f3f0fc1d90860d77ae29708b42b10f5e0c491ebe14eddde8bb585
+machine_hash: 7221d6addf9c3ffdaa303475e1f3da96ad3bdce1393f8c495baf4585834d9539
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,12 +55,12 @@ record:
   title: 8 Collaboration changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-10-16-team-avatar-changes-show-immediately-in-the-scope-switcher-instead-of-a-cached-i|Team
-  avatar changes show immediately in the scope switcher instead of a cached image]]'
 - '[[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added
   a warning on Pro and Max plans when resuming an inactive conversation would…]]'
 - '[[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands):
   adopt the shared known-bug contract]]'
+- '[[Changes/OpenClaw/2026-10-22-session-share-now-shows-an-error-when-it-can-t-discover-receivers-instead-of-an|Session
+  Share now shows an error when it can’t discover receivers, instead…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
 source_type: github_releases
 theme: collaboration
@@ -119,7 +119,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands): adopt the shared known-bug contract]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-session-share-now-shows-an-error-when-it-can-t-discover-receivers-instead-of-an|Session Share now shows an error when it can’t discover receivers, instead…]]
 - Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-5-collaboration-changes-in-1-18-0|5 Collaboration changes in 1.18.0]]
 <!-- chronolog:end -->
 

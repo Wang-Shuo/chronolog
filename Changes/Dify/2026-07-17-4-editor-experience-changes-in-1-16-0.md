@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 127318968bd93ef746180e850ed7156cfd15073799a30c35a6695066262e8f94
+machine_hash: 2c7cee2497f77245f18504fd902627b6a1494667ded409ccb5a7205d64e43fca
 product: dify
 product_name: Dify
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Editor Experience changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-10-see-project-status-in-your-browser-tab|See project
-  status in your browser tab]]'
 - '[[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor
   Experience changes in v2.1.208]]'
+- '[[Changes/OpenCode/2026-07-15-added-mod-n-as-another-shortcut-for-opening-a-new-tab|Added
+  Mod+N as another shortcut for opening a new tab]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5
   Editor Experience changes in v1.0.71]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'

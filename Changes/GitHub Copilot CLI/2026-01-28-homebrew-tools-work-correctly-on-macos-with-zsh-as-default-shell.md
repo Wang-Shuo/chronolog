@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b768bd77ecdebd1f0f74aa9af6029f2481cf2e7a6f96bdc0fde5f34901a22890
+machine_hash: 1a705acad2fbdaa4bb235ced44a3fa51470a985ac28d4f136ba92d071fa1a0b1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Homebrew tools work correctly on macOS with zsh as default shell
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-21-8590-fix-core-require-approval-for-force-delete-on-windows-hdcodedev|♯8590
-  fix(core): require approval for force delete on Windows @hdcodedev]]'
-- '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows
-  notifications now have accept/reject buttons like MacOS]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-22-add-msi-installer-for-windows|Add MSI installer
-  for Windows]]'
+- '[[Changes/OpenCode/2026-01-23-9-mobile-and-desktop-changes-in-v1-1-34-1|9 Mobile
+  and Desktop changes in v1.1.34 + 1]]'
+- '[[Changes/OpenCode/2026-01-25-3-mobile-and-desktop-changes-in-v1-1-36|3 Mobile
+  and Desktop changes in v1.1.36]]'
+- '[[Changes/OpenCode/2026-01-25-66-mobile-and-desktop-changes-in-v1-1-35|66 Mobile
+  and Desktop changes in v1.1.35]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-28-v0-0-397-github-280804051-8969738d|github-copilot-cli-2026-01-28-v0-0-397-github-280804051-8969738d]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-add-msi-installer-for-windows|Add MSI installer for Windows]]
-- Later: 2026-01-28 · v0 · [[Changes/v0/2026-01-28-improved-git-workflow-ui-on-mobile-devices|Improved Git workflow UI on mobile devices]]
+- Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-66-mobile-and-desktop-changes-in-v1-1-35|66 Mobile and Desktop changes in v1.1.35]]
+- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-73-mobile-and-desktop-changes-in-v1-1-37|73 Mobile and Desktop changes in v1.1.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

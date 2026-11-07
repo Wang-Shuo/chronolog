@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0610109b1e376c1e9d4927ac9546ba101ed75747609f3fce57408a4beaff1e1d
+machine_hash: b4e00e34cde313b13315e2d54cf0123d698aff95c0fb38bbc2e1c208ac1cd45d
 product: lovable
 product_name: Lovable
 record:
@@ -60,10 +60,10 @@ record:
   title: Show an announcement banner to everyone in your workspace
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude
-  Tag Improved "Notify members now" in admin settings]]'
 - '[[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For
   the next month, dots usage won’t count toward eligible Pro, Business…]]'
+- '[[Changes/OpenClaw/2026-09-30-2-enterprise-and-administration-changes-in-v2026-9-7|2
+  Enterprise and Administration changes in v2026.9.7]]'
 - '[[Changes/Lovable/2026-10-01-restrict-an-api-key-to-approved-ip-addresses|Restrict
   an API key to approved IP addresses]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-02-2026-10-02-3eeb4015|lovable-2026-10-02-2026-10-02-3eeb4015]]'

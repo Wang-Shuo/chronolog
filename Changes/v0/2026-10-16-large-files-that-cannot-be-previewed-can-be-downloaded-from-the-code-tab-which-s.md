@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c9be030a7b92460f9e6859826e79644e2dfb469b9bc704ff835856a49a5bcfc
+machine_hash: 03afe3b1b41106b807a754342e1ce4e496f9547891476793bc31e6a0f12a1e1f
 product: v0
 product_name: v0
 record:
@@ -43,12 +43,12 @@ record:
   title: Large files that cannot be previewed can be downloaded from the Code tab…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-16-larger-document-previews-in-the-files-tab|Larger document
-  previews in the Files tab]]'
 - '[[Changes/Lovable/2026-10-16-formatted-markdown-previews-in-the-files-tab|Formatted
   Markdown previews in the Files tab]]'
 - '[[Changes/Open WebUI/2026-10-16-2-editor-experience-changes-in-v0-12-3|2 Editor
   Experience changes in v0.12.3]]'
+- '[[Changes/OpenClaw/2026-10-16-chat-refresh-after-updates-chats-stuck-on-server-updated-can-refresh-back-to-the|Chat
+  refresh after updates]]'
 source_release: '[[Releases/v0/v0-2026-10-16-2026-10-16-3443a38d|v0-2026-10-16-2026-10-16-3443a38d]]'
 source_type: v0_changelog
 theme: editor-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-editor-experience-changes-in-v0-12-3|2 Editor Experience changes in v0.12.3]]
+- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-chat-refresh-after-updates-chats-stuck-on-server-updated-can-refresh-back-to-the|Chat refresh after updates]]
 - Later: 2026-10-17 · Lovable · [[Changes/Lovable/2026-10-17-request-a-higher-workspace-role|Request a higher workspace role]]
 <!-- chronolog:end -->
 

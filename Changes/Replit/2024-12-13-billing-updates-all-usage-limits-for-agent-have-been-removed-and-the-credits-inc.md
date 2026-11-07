@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: policy
-machine_hash: 7bd5e59add8f7f3d12fc6032cf146a0edfcf6e1c91c6027e24d7bc9671e9820a
+machine_hash: f439e571a9617e00cf3d567401ce41b4068cee31278cf7e290aa69b019e63531
 product: replit
 product_name: Replit
 record:
@@ -57,8 +57,8 @@ record:
     credits…'
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-10-21-expanding-workspace-extensions-in-beta-for-google-workspace-customers-calendar-k|Expanding
-  Workspace extensions in Beta for Google Workspace customers]]'
+- '[[Changes/Runway/2024-11-14-we-have-released-a-number-of-updates-to-the-runway-api-that-gives-users-more-fea|Runway
+  API updates]]'
 - '[[Changes/ElevenLabs/2024-12-03-api|API]]'
 - '[[Changes/Lovable/2024-12-11-christmas-hackathon-https-hackathon-lovable-app-submit-to-win-3-000-in-prizes|Christmas
   Hackathon((source link) to win \$3,000+ in prizes]]'

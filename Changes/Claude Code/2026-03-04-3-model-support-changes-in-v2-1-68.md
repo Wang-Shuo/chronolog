@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a88e5cf1d8148dc56529b09cca47389c5f7444022c0bb3edfe961997800c1bd
+machine_hash: b083cfe296fff316bd84c223f66b06f6cef1b3fc450a161ea02bdecbc9fde67a
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Model Support changes in v2.1.68
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-03-3-model-support-changes-in-v0-32-0|3 Model Support
-  changes in v0.32.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-2-model-support-changes-in-v0-0-421|2 Model
   Support changes in v0.0.421]]'
+- '[[Changes/OpenCode/2026-03-03-core-avoid-gemini-combiner-schema-sibling-injection|Core
+  Avoid Gemini combiner schema sibling injection]]'
 - '[[Changes/v0/2026-03-03-added-model-selection-when-retrying-messages|Added model
   selection when retrying messages]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de|claude-code-2026-03-04-v2-1-68-github-292908895-c7aaa3de]]'

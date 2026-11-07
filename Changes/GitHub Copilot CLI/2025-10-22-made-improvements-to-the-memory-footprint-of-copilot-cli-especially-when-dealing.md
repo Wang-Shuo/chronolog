@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1798ec8c58e767921ae9a47dd9ab8b008468c22436b1bca9d0ab6729d46d46e7
+machine_hash: c8a9511ec17f61619d596e27eef9a92b5d454d6f69affe810b188c3d8632f35c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
     dealing…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-10-16-various-improvements-were-implemented-across-the-frontend-and-backend-to-enhance|\U0001F504
-  Various improvements were implemented across the frontend and backend to enhance…]]"
 - '[[Changes/Windsurf/2025-10-16-various-stability-improvements-and-minor-bug-fixes|Various
   stability improvements and minor bug fixes]]'
+- '[[Changes/Gamma/2025-10-21-need-to-create-similar-content-with-a-consistent-structure-and-formatting|Need
+  to create similar content with a consistent structure and formatting?]]'
 - '[[Changes/Dify/2025-10-22-5-reliability-and-performance-changes-in-1-9-2|5 Reliability
   and Performance changes in 1.9.2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-22-v0-0-348-github-256199917-0456772f|github-copilot-cli-2025-10-22-v0-0-348-github-256199917-0456772f]]'

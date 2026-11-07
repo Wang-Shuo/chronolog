@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 702bbe351efea438b31e68acbf452dfc18da1a0997b6b9787b789800aeafe1ef
+machine_hash: abe6f9ec9324c2754ba603c1a096aa4529ae8102fb481bb96da4b8fde26a846c
 product: lovable
 product_name: Lovable
 record:
@@ -48,7 +48,8 @@ record:
   title: See time and cost while Lovable works
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-08-21-devin-cloud|Devin Cloud]]'
+- '[[Changes/Google Antigravity/2026-08-24-4-interface-experience-changes-in-hub-v2-10-0-embedded-terminals-git|4
+  Interface Experience changes in HUB v2.10.0 — Embedded Terminals, Git…]]'
 - '[[Changes/Dify/2026-08-25-9-interface-experience-changes-in-1-17-0|9 Interface
   Experience changes in 1.17.0]]'
 - '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-23954-add-trailing-space-to-autocomplete-suggestions-by-jone|SSR

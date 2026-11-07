@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 84b455fc465b6560eb0d736f871ff52336a0cd7a8ac7ee0718405968fe26e022
+machine_hash: 9420b9d6a335ad170cd46bc76fecb70dd68bba456c5547aa3e114b15fefe5235
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 'chore: bump agent-server to 1.57.0'
   type: change
 related_changes:
-- '[[Changes/Claude/2026-10-21-claude-duet-research-preview-for-pro-and-max-plans|Claude
-  Duet research preview for Pro and Max plans]]'
 - '[[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved
   fork subagents launched together]]'
 - '[[Changes/Claude Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen|Changed
   the /claude-api skill to build Managed Agents subagent teams…]]'
+- '[[Changes/OpenClaw/2026-10-22-3-agent-mode-changes-in-v2026-10-6|3 Agent Mode changes
+  in v2026.10.6]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-22-v1-30-1-github-420407032-fb2ceba2|openhands-2026-10-22-v1-30-1-github-420407032-fb2ceba2]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen|Changed the /claude-api skill to build Managed Agents subagent teams…]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-3-agent-mode-changes-in-v2026-10-6|3 Agent Mode changes in v2026.10.6]]
 - Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode changes in v2.1.310]]
 <!-- chronolog:end -->
 

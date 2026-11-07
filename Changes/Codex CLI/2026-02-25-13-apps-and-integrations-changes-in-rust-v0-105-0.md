@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82bab02307023932c0c7c3296b82cc0c8c95b826d1607437540cfb4fb2e2cd5b
+machine_hash: 962d115ae5624166f0f8ad183d05c1c735995a3a05e7c5b1ce60ef14228e352f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,8 +67,8 @@ record:
   title: 13 Apps and Integrations changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-24-block-third-party-mcp-servers-when-the-copilot-mcp-policy-does-not-allow-them|Block
-  third-party MCP servers when the Copilot MCP policy does not allow them]]'
+- '[[Changes/OpenCode/2026-02-24-3-apps-and-integrations-changes-in-v1-2-11|3 Apps
+  and Integrations changes in v1.2.11]]'
 - '[[Changes/ChatGPT/2026-02-25-sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder|Sources
   from apps]]'
 - '[[Changes/Claude Code/2026-02-25-expand-remote-control-to-more-users|Expand Remote

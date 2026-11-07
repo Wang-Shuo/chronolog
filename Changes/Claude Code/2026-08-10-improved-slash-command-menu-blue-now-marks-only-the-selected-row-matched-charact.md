@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b05fd3d655c63997a40ee43975dab8302f1fcaf89c9cb1438fb4e898ffd98c60
+machine_hash: 798a59e8ea31936d5f163c6f34cda245170946b3ddbf71b8998a7461ddb12a6a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Improved slash-command menu
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-6-interface-experience-changes-in-rust-v0-147-0|6
-  Interface Experience changes in rust-v0.147.0]]'
+- '[[Changes/OpenCode/2026-08-07-desktop-language-names-now-stay-native-in-the-locale-picker|Desktop
+  Language names now stay native in the locale picker]]'
 - '[[Changes/OpenHands/2026-08-07-feat-reorder-customize-navigation-by-devinvinson-in-https-github-com-openhands-o|feat:
   reorder Customize navigation]]'
 - '[[Changes/Claude Code/2026-08-08-vscode-fixed-focus-view-folding-away-the-latest-to-do-list-a-pending-question-s|VSCode

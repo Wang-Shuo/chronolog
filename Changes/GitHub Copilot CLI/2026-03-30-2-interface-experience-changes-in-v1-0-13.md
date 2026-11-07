@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5d2f1682ec63ba408658b54fcfd6145a50076298f36545a3556ab6f8c3bb9c2
+machine_hash: ff3eb89aa849ada41670743233f10193f9daabfbf853e5649c083c7174900cd2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3
-  Interface Experience changes in v1.0.12]]'
 - '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
   /skills menu to sort alphabetically for easier scanning]]'
 - '[[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface
   Experience changes in 1.13.3]]'
+- '[[Changes/OpenCode/2026-03-29-2-interface-experience-changes-in-v1-3-6-2|2 Interface
+  Experience changes in v1.3.6 + 2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'
 source_type: github_releases
 theme: interface-experience
@@ -90,8 +90,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface Experience changes in 1.13.3]]
-- Later: 2026-03-30 · OpenHands · [[Changes/OpenHands/2026-03-30-added-the-new-slash-command-to-the-slash-command-menu-by-karanjaxyz-in-https-git|Added the /new slash command to the slash command menu]]
+- Earlier: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-2-interface-experience-changes-in-v1-3-6-2|2 Interface Experience changes in v1.3.6 + 2]]
+- Later: 2026-03-30 · Google Antigravity · [[Changes/Google Antigravity/2026-03-30-onboarding-fix|Onboarding Fix]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

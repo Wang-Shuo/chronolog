@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7679d45c058dc0e310e8cba661537e404a8715f5df8d111de4cb220e66d8baa2
+machine_hash: c7a9969ab8663c8dbdd4aa33c1df381a2df17449741026efb4daf541b2febb48
 product: lovable
 product_name: Lovable
 record:
@@ -54,12 +54,12 @@ record:
   title: Project files no longer copy automatically during a remix
   type: change
 related_changes:
-- '[[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the
-  code diff against the base branch]]'
-- '[[Changes/Claude Code/2026-09-03-improved-the-settings-error-for-rules-such-as-edit-c-dir-name-where-is-read-as-a|Improved
-  the settings error for rules such as Edit(C:\dir\(name)\), where…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-2-editor-experience-changes-in-v1-0-83|2
   Editor Experience changes in v1.0.83]]'
+- '[[Changes/OpenCode/2026-09-04-core-send-the-session-id-as-github-copilot-s-interaction-header-to-improve-reque|Core
+  Send the session ID as GitHub Copilot''s interaction header to improve request…]]'
+- '[[Changes/OpenClaw/2026-09-05-8-editor-experience-changes-in-v2026-9-2|8 Editor
+  Experience changes in v2026.9.2]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-08-2026-09-08-ea9aff6b|lovable-2026-09-08-2026-09-08-ea9aff6b]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-2-editor-experience-changes-in-v1-0-83|2 Editor Experience changes in v1.0.83]]
-- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746 Handle pending network reviews after process completion @copyberry]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-8-editor-experience-changes-in-v2026-9-2|8 Editor Experience changes in v2026.9.2]]
+- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-8-editor-experience-changes-in-v2026-9-3|8 Editor Experience changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

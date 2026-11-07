@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e270da5af41fccb6856d7fb92d3fff046618d4b7851755e061f6efba22ddeb37
+machine_hash: cf3ddfaf9ec1cf35555437c661b1b3b1610374ea27c2c652e0762ea1598bf575
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,8 +47,8 @@ record:
     models
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-31-3-model-support-changes-in-v1-0-14|3 Model
-  Support changes in v1.0.14]]'
+- '[[Changes/OpenCode/2026-03-31-add-a-dedicated-system-prompt-for-kimi-models|Add
+  a dedicated system prompt for Kimi models]]'
 - '[[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage
   now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]]'
 - '[[Changes/Gemini CLI/2026-04-01-7-model-support-changes-in-v0-36-0|7 Model Support

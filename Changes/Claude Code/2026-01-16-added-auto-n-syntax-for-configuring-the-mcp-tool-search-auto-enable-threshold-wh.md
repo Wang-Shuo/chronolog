@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4ad5fdf8e9406413345d0e89abdc2c4b58023f0589f4ba61856b93f367b8072
+machine_hash: aaa743e026998836c46451315857273f24232c4a08ff54657d89a9cfcae67503
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: Added `auto:N` syntax for configuring the MCP tool search auto-enable threshold…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-auto-compaction-runs-in-background-without-blocking-the-conversation|Auto-compaction
-  runs in background without blocking the conversation]]'
 - '[[Changes/Claude Code/2026-01-14-enabled-mcp-tool-search-auto-mode-by-default-for-all-users-when-mcp-tool-descrip|Enabled
   MCP tool search auto mode by default for all users]]'
 - '[[Changes/Gemini CLI/2026-01-14-2-context-window-changes-in-v0-24-0|2 Context Window
   changes in v0.24.0]]'
+- '[[Changes/OpenCode/2026-01-15-core-add-input-limit-for-compaction|Core Add input
+  limit for compaction]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: context-window
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-2-context-window-changes-in-v0-24-0|2 Context Window changes in v0.24.0]]
+- Earlier: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-core-add-input-limit-for-compaction|Core Add input limit for compaction]]
 - Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-2-context-window-changes-in-rust-v0-87-0|2 Context Window changes in rust-v0.87.0]]
 <!-- chronolog:end -->
 

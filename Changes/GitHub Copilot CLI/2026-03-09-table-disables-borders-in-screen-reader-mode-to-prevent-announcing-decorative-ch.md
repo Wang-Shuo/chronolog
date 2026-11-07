@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0022ae03a0d6f754190daf60d4d3e77556191fdcefe47c11c20b435d976e1e50
+machine_hash: 3885dd83601b2c56f973ef4307addbae22f5aa638a0d398581c7245bbc149a4e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     characters
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-17-11860-fixed-screen-reader-regression-in-cli-etraut-openai|♯11860
-  Fixed screen reader regression in CLI @etraut-openai]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-improve-quick-help-accessibility-screen-reader-friendly-tab-labels-reordered-lay|Improve
   quick help accessibility]]'
 - '[[Changes/Open WebUI/2026-02-23-ui-accessibility-improvements-screen-reader-users-can-now-navigate-the-interface|♿
   UI accessibility improvements. Screen reader users can now navigate…]]'
+- '[[Changes/OpenCode/2026-03-03-desktop-synchronize-internationalization-translations|Desktop
+  Synchronize internationalization translations]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137|github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-ui-accessibility-improvements-screen-reader-users-can-now-navigate-the-interface|♿ UI accessibility improvements. Screen reader users can now navigate…]]
-- Later: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-improve-color-contrast-across-cli-themes-for-better-readability-and-accessibilit|Improve color contrast across CLI themes for better readability and accessibility]]
+- Earlier: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-desktop-synchronize-internationalization-translations|Desktop Synchronize internationalization translations]]
+- Later: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-desktop-synchronize-internationalization-translations|Desktop Synchronize internationalization translations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

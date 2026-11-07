@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44b2dfa62de11e65f02d4cdb68629813bbd0c637b33ff77ba23e392db7ddb2a4
+machine_hash: d8b26bb944de73027d91491048833613af7e969701ffc54b6969223054ec5339
 product: v0
 product_name: v0
 record:
@@ -43,12 +43,12 @@ record:
   title: Review the code diff against the base branch
   type: change
 related_changes:
-- '[[Changes/v0/2026-08-28-2-editor-experience-changes-in-gpt-5-6-sol-sign-in-inside-previews|2
-  Editor Experience changes in GPT-5.6 Sol, sign-in inside previews…]]'
-- "[[Changes/Open WebUI/2026-08-31-chat-branches-stay-connected-after-reloads-a-reply-saved-under-an-earlier-messag|\U0001F4A5
-  Chat branches stay connected after reloads. A reply saved under an earlier…]]"
 - '[[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor
   Experience changes in v2.1.257]]'
+- '[[Changes/OpenClaw/2026-09-01-5-editor-experience-changes-in-v2026-8-2|5 Editor
+  Experience changes in v2026.8.2]]'
+- '[[Changes/OpenCode/2026-09-01-desktop-session-renames-now-save-reliably-from-the-title-editor-and-tab-context|Desktop
+  Session renames now save reliably from the title editor and tab context menu]]'
 source_release: '[[Releases/v0/v0-2026-09-01-2026-09-01-13cb07e2|v0-2026-09-01-2026-09-01-13cb07e2]]'
 source_type: v0_changelog
 theme: editor-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor Experience changes in v2.1.257]]
+- Earlier: 2026-09-01 · OpenCode · [[Changes/OpenCode/2026-09-01-desktop-session-renames-now-save-reliably-from-the-title-editor-and-tab-context|Desktop Session renames now save reliably from the title editor and tab context menu]]
 - Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-improved-the-settings-error-for-rules-such-as-edit-c-dir-name-where-is-read-as-a|Improved the settings error for rules such as Edit(C:\dir\(name)\), where…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 05ba7c7122499b5e37ef04b51fb815f92389967cdf57fd9e916aba42c64386d7
+machine_hash: 1d29aee0c2bc9cafdd857eaa0b6e9a3e373c33dc33c5abfafc2f00214644a72f
 product: lovable
 product_name: Lovable
 record:
@@ -45,10 +45,10 @@ record:
     in prizes'
   type: change
 related_changes:
-- '[[Changes/Gemini/2024-10-21-access-to-imagen-3-now-available-for-google-workspace-customers|Access
-  to Imagen 3 now available for Google Workspace customers]]'
 - '[[Changes/Gemini/2024-10-21-expanding-workspace-extensions-in-beta-for-google-workspace-customers-calendar-k|Expanding
   Workspace extensions in Beta for Google Workspace customers]]'
+- '[[Changes/Runway/2024-11-14-we-have-released-a-number-of-updates-to-the-runway-api-that-gives-users-more-fea|Runway
+  API updates]]'
 - '[[Changes/ElevenLabs/2024-12-03-api|API]]'
 source_release: '[[Releases/Lovable/lovable-2024-12-11-2024-12-11-83a5f0fa|lovable-2024-12-11-2024-12-11-83a5f0fa]]'
 source_type: lovable_changelog

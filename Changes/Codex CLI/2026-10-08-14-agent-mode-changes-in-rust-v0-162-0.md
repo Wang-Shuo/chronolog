@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2062f7f97a0788c1949a16b88143b03dc2cc92aca4696ef5c433543a4907c5cf
+machine_hash: 67c515c072c2e97fbc41984c92762f2cb41e023b0d73f5db61c14b9556dddb6d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -68,10 +68,10 @@ record:
   title: 14 Agent Mode changes in rust-v0.162.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-9-agent-mode-changes-in-rust-v0-161-0|9 Agent Mode
-  changes in rust-v0.161.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-clicking-a-truncated-compact-shell-command-expands-it|Clicking
   a truncated compact shell command expands it]]'
+- '[[Changes/Google Antigravity/2026-10-07-2-agent-mode-changes-in-hub-v2-21-1-advanced-search|2
+  Agent Mode changes in HUB v2.21.1 — Advanced Search…]]'
 - '[[Changes/Claude Code/2026-10-08-4-agent-mode-changes-in-v2-1-295|4 Agent Mode
   changes in v2.1.295]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db|codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db]]'
@@ -144,7 +144,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.162.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-4-agent-mode-changes-in-v2-1-295|4 Agent Mode changes in v2.1.295]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-agent-mode-changes-in-v2-1-296|3 Agent Mode changes in v2.1.296]]
+- Later: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-4-agent-mode-changes-in-v2026-9-9|4 Agent Mode changes in v2026.9.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

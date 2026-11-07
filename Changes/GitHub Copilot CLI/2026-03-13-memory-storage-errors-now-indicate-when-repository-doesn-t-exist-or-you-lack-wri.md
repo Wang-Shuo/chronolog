@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dfdc870e1cb1d92dc31735adf837c46f86433ae212e388d5d36a2ec1acd246fb
+machine_hash: ee57994a711db810c8b5aa1de04452cfa22334ed34f08d8929ff59dab52739c3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     write access
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-10-13734-feat-prune-old-memories-in-db-jif-oai|♯13734
-  feat: prune old memories in DB @jif-oai]]'
 - '[[Changes/Gemini CLI/2026-03-11-feat-implement-slash-command-handling-in-acp-for-memory-init-extensions-and-rest|feat:
   Implement slash command handling in ACP for /memory,/init,/extensions…]]'
 - '[[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added
   autoMemoryDirectory setting to configure a custom directory for auto-memory…]]'
+- '[[Changes/OpenCode/2026-03-12-core-multiple-jdtls-lsps-eating-memory-in-java-monorepos|Core
+  Multiple jdtls LSPs eating memory in Java monorepos]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6|github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6]]'
 source_type: github_releases
 theme: memory
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-added-automemorydirectory-setting-to-configure-a-custom-directory-for-auto-memor|Added autoMemoryDirectory setting to configure a custom directory for auto-memory…]]
+- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-core-multiple-jdtls-lsps-eating-memory-in-java-monorepos|Core Multiple jdtls LSPs eating memory in Java monorepos]]
 - Later: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-14493-memories-focus-write-prompts-on-user-preferences-andi-oai|♯14493 memories: focus write prompts on user preferences @andi-oai]]
 <!-- chronolog:end -->
 

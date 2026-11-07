@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0bf124a615b48f13dad7ab5e77b0f57535f50dd03034291bc8dfb7f98fe3a414
+machine_hash: 8253a08aa806ed49c8c46295e7e9ff22637d41d963a7133197e59465410f9e0c
 product: windsurf
 product_name: Windsurf
 record:
@@ -47,12 +47,12 @@ record:
     now…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-ctrl-g-opens-your-editor-to-edit-ask-user-freeform-answers-without-closing-the-p|Ctrl+G
-  opens your editor to edit ask_user freeform answers without closing the prompt]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-editor-experience-changes-in-v1-0-76|2
-  Editor Experience changes in v1.0.76]]'
 - '[[Changes/Lovable/2026-07-30-change-the-owner-of-several-projects-at-once|Change
   the owner of several projects at once]]'
+- '[[Changes/OpenCode/2026-07-30-2-editor-experience-changes-in-v1-18-10|2 Editor
+  Experience changes in v1.18.10]]'
+- '[[Changes/OpenCode/2026-08-01-2-editor-experience-changes-in-v1-18-11|2 Editor
+  Experience changes in v1.18.11]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-08-01-v3-6-27-9624899b|windsurf-2026-08-01-v3-6-27-9624899b]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-30 · Lovable · [[Changes/Lovable/2026-07-30-change-the-owner-of-several-projects-at-once|Change the owner of several projects at once]]
+- Earlier: 2026-08-01 · OpenCode · [[Changes/OpenCode/2026-08-01-2-editor-experience-changes-in-v1-18-11|2 Editor Experience changes in v1.18.11]]
 - Later: 2026-08-02 · Cline · [[Changes/Cline/2026-08-02-keep-settings-edits-that-are-made-before-the-provider-config-finishes-loading-ba|Keep settings edits that are made before the provider config finishes loading]]
 <!-- chronolog:end -->
 

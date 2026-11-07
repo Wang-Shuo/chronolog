@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d64fa3b6f8fb7d34424a967a90b94f2366d49a5952faeb4f2e48c9e2641e6c0
+machine_hash: 01dc7189cc2b277244cb8597b940f25df038e10b441d605337462252ad095f32
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: '[VSCode] Added Focus view'
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-31-3-interface-experience-changes-in-claude-opus-5-direct-figma-inspection|3
-  Interface Experience changes in Claude Opus 5, direct Figma inspection…]]'
+- '[[Changes/OpenCode/2026-08-01-desktop-open-the-legacy-directory-picker-at-your-home-folder-when-no-home-path-i|Desktop
+  Open the legacy directory picker at your home folder when no home path…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-2-interface-experience-changes-in-v1-0-78|2
   Interface Experience changes in v1.0.78]]'
 - '[[Changes/Lovable/2026-08-03-revise-a-plan-by-highlighting-the-part-you-want-changed|Revise

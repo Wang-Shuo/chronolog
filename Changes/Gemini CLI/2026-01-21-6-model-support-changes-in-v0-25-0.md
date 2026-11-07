@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ad12f3a9d564667798f67e1b0eaddd92c8f167fc330d2a563db4290ae7bd828
+machine_hash: 7db54868392b98a2ad3ca6b8ecc66bbbcc262553250572f5ffed0733851e046c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,8 +54,8 @@ record:
   title: 6 Model Support changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-19-model-switching-from-codex-to-opus-preserves-conversation-history-correctly|Model
-  switching from Codex to Opus preserves conversation history correctly]]'
+- '[[Changes/OpenCode/2026-01-19-4-model-support-changes-in-v1-1-26|4 Model Support
+  changes in v1.1.26]]'
 - '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling
   out age prediction]]'
 - '[[Changes/Codex CLI/2026-01-21-5-model-support-changes-in-rust-v0-88-0|5 Model

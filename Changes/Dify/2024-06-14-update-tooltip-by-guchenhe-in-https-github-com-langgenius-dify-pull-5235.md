@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d254c4550571b9837ae942744267cc9d20a55a6507f6cf939db95cda16c08eed
+machine_hash: 8795683996b2d49c301b2b1dae8c8bd0a553a0e197c4dab1640c6d3609ee8e75
 product: dify
 product_name: Dify
 record:
@@ -42,12 +42,12 @@ record:
   title: update tooltip
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-06-03-mermaid-rendering-support-we-ve-included-support-for-mermaid-rendering-this-allo|\U0001F30A
-  Mermaid Rendering Support: We've included support for Mermaid rendering]]"
-- '[[Changes/Aider/2024-06-04-repo-map-is-now-optimized-based-on-text-of-chat-history-as-well-as-files-added-t|Repo
-  map is now optimized based on text of chat history as well as files added to chat]]'
 - '[[Changes/Open WebUI/2024-06-10-various-ui-styling-issues-fixed-numerous-user-interface-styling-problems-for-a-m|✨
   Various UI Styling Issues]]'
+- '[[Changes/Midjourney/2024-06-12-report-bug-can-now-be-found-under-the-help-menu|''Report
+  Bug'' can now be found under the ''Help'' menu]]'
+- '[[Changes/Midjourney/2024-06-12-the-sidebar-is-simpler-rank-images-and-rank-ideas-can-now-be-found-under-the-tas|The
+  sidebar is simpler]]'
 source_release: '[[Releases/Dify/dify-2024-06-14-0-6-11-github-160555165-620e243a|dify-2024-06-14-0-6-11-github-160555165-620e243a]]'
 source_type: github_releases
 theme: interface-experience
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-06-10 · Open WebUI · [[Changes/Open WebUI/2024-06-10-various-ui-styling-issues-fixed-numerous-user-interface-styling-problems-for-a-m|✨ Various UI Styling Issues]]
+- Earlier: 2024-06-12 · Midjourney · [[Changes/Midjourney/2024-06-12-the-sidebar-is-simpler-rank-images-and-rank-ideas-can-now-be-found-under-the-tas|The sidebar is simpler]]
 - Later: 2024-06-27 · Open WebUI · [[Changes/Open WebUI/2024-06-27-2-interface-experience-changes-in-v0-3-6|2 Interface Experience changes in v0.3.6]]
 <!-- chronolog:end -->
 

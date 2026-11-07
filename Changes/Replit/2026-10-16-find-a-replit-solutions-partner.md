@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 28a79cc1cf109c240e619084393d800eb133de0d8736b82e69c2cc167ba2fc88
+machine_hash: d3c7765347566f8845b2b7a198aec670d4a55480e9944c792860642114152b3c
 product: replit
 product_name: Replit
 record:
@@ -48,8 +48,8 @@ record:
   title: Find a Replit Solutions Partner
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-4-search-and-browsing-changes-in-v0-12-0|4 Search
-  and Browsing changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-3-search-and-browsing-changes-in-v2026-10-1|3 Search
+  and Browsing changes in v2026.10.1]]'
 - "[[Changes/Open WebUI/2026-10-14-tools-picked-in-new-chats-tools-picked-from-the-integrations-menu-the-web-search|\U0001F9F0
   Tools picked in new chats. Tools picked from the Integrations menu, the Web…]]"
 - "[[Changes/Open WebUI/2026-10-16-built-in-tools-with-a-custom-tools-parameter-a-model-with-a-custom-parameter-nam|\U0001F9E9

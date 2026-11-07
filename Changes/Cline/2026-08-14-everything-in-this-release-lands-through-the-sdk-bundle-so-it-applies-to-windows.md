@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea0d12ed83401d20710172c7fe181c77ab96669374c74489bef70e5d29e0612a
+machine_hash: d3c52b8318f4eff77d8dda44ab840e3f2ab8d89297831c50cec903a363ebe3dc
 product: cline
 product_name: Cline
 record:
@@ -48,10 +48,10 @@ record:
     windows…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-13-these-land-through-sdk-v0-0-74-and-therefore-apply-to-windows-running-the-sdk-bu|These
-  land through SDK v0.0.74 and therefore apply to windows running the SDK…]]'
-- '[[Changes/Lovable/2026-08-13-build-dashboards-from-your-snowflake-semantic-views|Build
-  dashboards from your Snowflake semantic views]]'
+- '[[Changes/Runway/2026-08-13-ideogram-s-latest-image-model-is-now-available-in-runway-mcp-as-ideogram-4-for-t|Ideogram
+  4.0]]'
+- '[[Changes/Suno/2026-08-13-chat-bar-generate-instruments-and-vocals-create-new-and-totally-unique-plugins-a|Chat
+  bar: Generate instruments and vocals, create new and totally unique plugins…]]'
 - '[[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2
   Apps and Integrations changes in v2.1.233]]'
 source_release: '[[Releases/Cline/cline-2026-08-14-v4-1-10-github-370718211-daf3638f|cline-2026-08-14-v4-1-10-github-370718211-daf3638f]]'

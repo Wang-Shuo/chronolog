@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b6efe50b577f727252bf8e69dd1d85fd3464f68e0c4b5522d0ae20ed3452c9a
+machine_hash: 918d0981f2962db862754e3022ab6fdf16d2b6858200e626adba2fe905440110
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,11 +47,11 @@ record:
   title: 4 Mobile and Desktop changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-2-mobile-and-desktop-changes-in-rust-v0-95-0|2 Mobile
-  and Desktop changes in rust-v0.95.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-05-detached-shell-processes-work-on-vanilla-macos-installations|Detached
-  shell processes work on vanilla macOS installations]]'
 - '[[Changes/ElevenLabs/2026-02-09-new-endpoints|New Endpoints]]'
+- '[[Changes/OpenCode/2026-02-10-2-mobile-and-desktop-changes-in-v1-1-56-1|2 Mobile
+  and Desktop changes in v1.1.56 + 1]]'
+- '[[Changes/OpenCode/2026-02-10-38-mobile-and-desktop-changes-in-v1-1-54|38 Mobile
+  and Desktop changes in v1.1.54]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -102,8 +102,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-new-endpoints|New Endpoints]]
-- Later: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-4-mobile-and-desktop-changes-in-rust-v0-100-0|4 Mobile and Desktop changes in rust-v0.100.0]]
+- Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-38-mobile-and-desktop-changes-in-v1-1-54|38 Mobile and Desktop changes in v1.1.54]]
+- Later: 2026-02-11 · OpenCode · [[Changes/OpenCode/2026-02-11-2-mobile-and-desktop-changes-in-v1-1-59|2 Mobile and Desktop changes in v1.1.59]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

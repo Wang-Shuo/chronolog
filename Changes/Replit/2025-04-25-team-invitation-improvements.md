@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6ec28746728e4b601488adf5633a5f9fc9957ee04302bbc19145075da2e321e7
+machine_hash: 0ace3f72647e3cd645490fd0e2aeca4621df7babd9ad583ccfecd7832b8097b8
 product: replit
 product_name: Replit
 record:
@@ -44,10 +44,10 @@ record:
   title: Team invitation improvements
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-04-22-create-and-share-videos-with-veo-2-in-gemini-advanced|Create
-  and share videos with Veo 2 in Gemini Advanced]]'
 - '[[Changes/Dify/2025-04-23-workflow-export-delight-ever-wanted-to-share-your-workflow-effortlessly-you-can|Workflow
   Export Delight: Ever wanted to share your workflow effortlessly?]]'
+- '[[Changes/Midjourney/2025-04-23-sharing-some-updates-that-we-ve-made-over-the-past-two-weeks|Sharing
+  some updates that we''ve made over the past two weeks]]'
 - '[[Changes/Lovable/2025-04-25-lovable-2-0|Lovable 2.0]]'
 source_release: '[[Releases/Replit/replit-2025-04-25-2025-04-25-d2967d56|replit-2025-04-25-2025-04-25-d2967d56]]'
 source_type: replit_changelog

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 813528165dc501a124096e9c773cf9f28ae863cc78eeca229259874f7d92e91e
+machine_hash: 4064c81c2dde4175de889440d0df6c890ca8f149a735923c063748a7bf4b202b
 product: dify
 product_name: Dify
 record:
@@ -112,7 +112,8 @@ record:
   title: 27 Apps and Integrations changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-24-app-connector-calendly|App connector: Calendly]]'
+- '[[Changes/OpenCode/2026-06-24-9-apps-and-integrations-changes-in-v1-17-10|9 Apps
+  and Integrations changes in v1.17.10]]'
 - '[[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2
   Apps and Integrations changes in v2.1.193]]'
 - '[[Changes/Codex CLI/2026-06-25-9-apps-and-integrations-changes-in-rust-v0-142-2|9

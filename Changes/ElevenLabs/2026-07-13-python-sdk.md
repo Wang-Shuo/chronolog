@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 77b84ce954b24a975e6fb8cab33fa87d6c1f7167ca5dd5dab1229a9be050b6d4
+machine_hash: 96ec161bf2048977dd03d201525b952951e6cb5447526d8e76975c0cbce6f70e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -108,7 +108,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-13 · Codex CLI · [[Changes/Codex CLI/2026-07-13-2-agent-mode-changes-in-rust-v0-144-2|2 Agent Mode changes in rust-v0.144.2]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode changes in v2.1.208]]
+- Later: 2026-07-13 · Google Antigravity · [[Changes/Google Antigravity/2026-07-13-2-agent-mode-changes-in-hub-v2-3-0-queued-messages-plain|2 Agent Mode changes in HUB v2.3.0 — Queued messages, plain…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

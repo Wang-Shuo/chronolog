@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a77c6890277df7df839693079fcaed0cb8b15c69645990556b75819e2db70e7
+machine_hash: f2b47c52970e1b4ab2e31b3398bc986f2e0fe7f175a72540193995c8da8936e1
 product: cline
 product_name: Cline
 record:
@@ -40,10 +40,10 @@ record:
   title: Add tooltips to bottom row menu
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
-  accessible history]]'
 - '[[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add
   new slash command menu letting you type…]]'
+- '[[Changes/Gamma/2025-04-22-just-right-click-from-the-filmstrip-or-tap-the-menu-on-a-card-and-choose-copy-to|Just
+  right-click from the filmstrip or tap the ... menu on a card and choose…]]'
 - '[[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience
   changes in 1.3.0]]'
 source_release: '[[Releases/Cline/cline-2025-04-25-v3-13-3-github-214884660-e3a92d9b|cline-2025-04-25-v3-13-3-github-214884660-e3a92d9b]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience changes in 1.3.0]]
-- Later: 2025-05-03 · Cline · [[Changes/Cline/2025-05-03-add-support-for-latex-rendering|Add support for LaTeX rendering]]
+- Later: 2025-05-01 · Midjourney · [[Changes/Midjourney/2025-05-01-how-to-use-omni-reference|How to Use Omni-Reference]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

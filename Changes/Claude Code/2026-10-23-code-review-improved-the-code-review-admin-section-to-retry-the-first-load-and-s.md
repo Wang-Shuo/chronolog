@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6dab9fd1e3e237118a8432b7451c3fa0edb98829ae1a60a13caf3f3ba4ccc1d4
+machine_hash: cf6900b0aa957aa34918a9352420b81406cc80b35b1a8969da21139201307e15
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     load…'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-21-flint-is-an-apache-2-0-licensed-40b-parameter-mixture-of-experts-model-with-appr|Flint
-  is an Apache 2.0-licensed, 40B-parameter mixture-of-experts model…]]'
 - '[[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved
   disk-full handling]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-22-clicking-a-completed-response-code-block-copies-its-original-code-when-enabled|Clicking
   a completed response code block copies its original code when enabled]]'
+- '[[Changes/OpenClaw/2026-10-22-7-developer-workflow-changes-in-v2026-10-6|7 Developer
+  Workflow changes in v2026.10.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2|claude-code-2026-10-23-v2-1-310-github-422315867-36b541d2]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-22-clicking-a-completed-response-code-block-copies-its-original-code-when-enabled|Clicking a completed response code block copies its original code when enabled]]
+- Earlier: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-7-developer-workflow-changes-in-v2026-10-6|7 Developer Workflow changes in v2026.10.6]]
 - Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14 Developer Workflow changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0e30f2d78085fabc5bc78cb947d8261d04f3d8326ed0c9c621303d01efa41bd7
+machine_hash: aa011f3ffd3b4e02c3c3509cd75852b3066dcc0eb73816654d114c4b7b98e8ec
 product: replit
 product_name: Replit
 record:
@@ -46,8 +46,8 @@ record:
   title: Application-level analytics
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-cli-no-longer-crashes-with-out-of-memory-errors-when-running-shell-commands-that|CLI
-  no longer crashes with out-of-memory errors when running shell commands…]]'
+- '[[Changes/OpenCode/2026-03-26-bypass-local-sse-event-streaming-in-worker-for-improved-performance|Bypass
+  local SSE event streaming in worker for improved performance]]'
 - '[[Changes/Dify/2026-03-27-2-reliability-and-performance-changes-in-1-13-3|2 Reliability
   and Performance changes in 1.13.3]]'
 - '[[Changes/Ollama/2026-03-27-ollama-on-apple-silicon-is-now-built-https-ollama-com-blog-mlx-on-top-of-apple-s|Ollama
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-27 · Ollama · [[Changes/Ollama/2026-03-27-ollama-on-apple-silicon-is-now-built-https-ollama-com-blog-mlx-on-top-of-apple-s|Ollama on Apple silicon is now built((source link) on top…]]
-- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-reliability-and-performance-changes-in-v1-0-13|2 Reliability and Performance changes in v1.0.13]]
+- Later: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-core-improve-app-startup-performance|Core Improve app startup performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

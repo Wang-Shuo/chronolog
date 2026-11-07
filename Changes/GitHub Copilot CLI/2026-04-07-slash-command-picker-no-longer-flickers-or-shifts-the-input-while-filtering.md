@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc0bb2ba9e829d61f20764e84e0f0a83db9983e15dcc5dd6810e7f3a1799449e
+machine_hash: 19573c6164fdf15858d409e7c32afde06a7b4c046de28debc40512fa1b81c294
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Slash command picker no longer flickers or shifts the input while filtering
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-03-resume-session-picker-loads-significantly-faster-especially-with-large-session-h|/resume
-  session picker loads significantly faster, especially with large session histories]]'
 - '[[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes
   is now an interactive version picker]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-04-session-resume-picker-correctly-groups-sessions-by-branch-and-repository-on-firs|Session
   resume picker correctly groups sessions by branch and repository on first use]]'
+- '[[Changes/OpenCode/2026-04-04-desktop-added-keyboard-navigation-and-shortcuts-to-the-question-dock|Desktop
+  Added keyboard navigation and shortcuts to the question dock]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-07-v1-0-21-github-306305696-a61f8576|github-copilot-cli-2026-04-07-v1-0-21-github-306305696-a61f8576]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-04-session-resume-picker-correctly-groups-sessions-by-branch-and-repository-on-firs|Session resume picker correctly groups sessions by branch and repository on first use]]
+- Earlier: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-desktop-added-keyboard-navigation-and-shortcuts-to-the-question-dock|Desktop Added keyboard navigation and shortcuts to the question dock]]
 - Later: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-2-interface-experience-changes-in-v2-1-97|2 Interface Experience changes in v2.1.97]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: da3e748f46258b88cfddb94e3cd39898d1bdadab5d893b255725f9a7e1d834c0
+machine_hash: a30f79cd2032100e43421d869412a10ca22e1c250c3fbee97e1bea70f5af1477
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: "**\U0001F3B5 Enhanced Audio Support**"
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-09-new-chat-language-switch-to-set-the-spoken-language|New
-  --chat-language switch to set the spoken language]]'
 - '[[Changes/Dify/2024-09-10-3-voice-and-audio-changes-in-0-8-0|3 Voice and Audio
   changes in 0.8.0]]'
+- '[[Changes/Suno/2024-09-12-2-transform-audio-uploads-try-uploading-a-clip-of-your-singing-humming-or-playin|2
+  - Transform Audio Uploads]]'
 - "[[Changes/Open WebUI/2024-09-19-customizable-playback-speed-playback-speed-control-is-now-available-in-call-mode|\U0001F39A️
   Customizable Playback Speed]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-24-v0-3-24-github-176599575-c46b93e9|open-webui-2024-09-24-v0-3-24-github-176599575-c46b93e9]]'

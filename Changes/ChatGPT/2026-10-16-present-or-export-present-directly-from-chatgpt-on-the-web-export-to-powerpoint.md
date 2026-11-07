@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cacc7eb7e3ce69a70cac17705a83c457f1049dc8f836b67011a4eceb372b78f2
+machine_hash: 7d3a38c70a4f5f296104353538a559d001917741324697e97b7e05f625efe21d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,12 +60,12 @@ record:
   title: Present or export. Present directly from ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile
-  and Desktop changes in v2.1.300]]'
 - '[[Changes/Claude Code/2026-10-15-improved-artifacts-pages-claude-writes-now-paint-the-band-above-a-sticky-header|Improved
   artifacts: pages Claude writes now paint the band above a sticky header…]]'
 - '[[Changes/Codex CLI/2026-10-15-3-mobile-and-desktop-changes-in-rust-v0-163-0|3
   Mobile and Desktop changes in rust-v0.163.0]]'
+- '[[Changes/Google Antigravity/2026-10-15-2-mobile-and-desktop-changes-in-hub-v2-24-0-redesigned-side-panel|2
+  Mobile and Desktop changes in HUB v2.24.0 — Redesigned side panel…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16|chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-3-mobile-and-desktop-changes-in-rust-v0-163-0|3 Mobile and Desktop changes in rust-v0.163.0]]
+- Earlier: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-2-mobile-and-desktop-changes-in-hub-v2-24-0-redesigned-side-panel|2 Mobile and Desktop changes in HUB v2.24.0 — Redesigned side panel…]]
 - Later: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-removed-tabs-in-the-desktop-app|Removed: tabs in the desktop app]]
 <!-- chronolog:end -->
 

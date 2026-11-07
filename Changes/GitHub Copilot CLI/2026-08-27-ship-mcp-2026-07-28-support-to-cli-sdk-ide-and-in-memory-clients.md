@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b386d5fd20fcf382cd06daeecf97bc98eb95978dfadd3633795476f6d026cdad
+machine_hash: 32c6fbc12fd104560e648da6e1d0aacd2a8d312fd8fea07c1a30b6a3a7853abf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-08-27 · ChatGPT · [[Changes/ChatGPT/2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali|ChatGPT rolls out new controls in temporary chat]]
-- Later: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-long-running-sessions-on-linux-return-freed-memory-to-the-system-instead-of-hold|Long-running sessions on Linux return freed memory to the system instead of holding…]]
+- Later: 2026-08-27 · Midjourney · [[Changes/Midjourney/2026-08-27-using-personalization-moodboards-and-srefs-moodboards-srefs-may-work-best-with-s|Using personalization, moodboards and srefs…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

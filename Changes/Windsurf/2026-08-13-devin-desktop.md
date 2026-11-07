@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3a888c9b815c0e0ddc7b72a91b8beb00618972a41b1a76da5f3014eb2f1a8e74
+machine_hash: 70c2af5d77454b609482c6da025d660cfb1732753431e410d76ac5aa1684a5b1
 product: windsurf
 product_name: Windsurf
 record:
@@ -56,9 +56,10 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-08-10-devin-desktop|Devin Desktop]]'
 - '[[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed
   self-hosted runner Windows startup to require an explicit --base-dir]]'
+- '[[Changes/OpenCode/2026-08-12-desktop-updated-chinese-developer-terminology-to-use-more-widely-recognized-tran|Desktop
+  Updated Chinese developer terminology to use more widely recognized translations]]'
 - '[[Changes/Claude Code/2026-08-13-gateway-the-desktop-overlay-now-accepts-every-released-desktop-setting-was-11-ha|Gateway:
   the desktop: overlay now accepts every released Desktop setting…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-08-13-v3-7-25-ed4fb4e7|windsurf-2026-08-13-v3-7-25-ed4fb4e7]]'

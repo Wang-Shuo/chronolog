@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 402682f7939a17b234ef13591b78ddffc5cc3888b1f67f8fc5f0e664bc959635
+machine_hash: 683f340950bf42745bac3b0439127efc7c3b96128a5450137ed37da003000751
 product: cline
 product_name: Cline
 record:
@@ -52,12 +52,11 @@ record:
   title: Add missing Fireworks serverless models and pricing
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-11-improved-billing-page-with-credit-expiration-dates-after-coupon-redemption|Improved
-  billing page with credit expiration dates after coupon redemption]]'
 - '[[Changes/Dify/2026-03-17-test-add-comprehensive-unit-and-integration-tests-for-billing-components-by-codi|test:
   add comprehensive unit and integration tests for billing components]]'
 - '[[Changes/Gemini CLI/2026-03-17-2-pricing-model-changes-in-v0-34-0|2 Pricing Model
   changes in v0.34.0]]'
+- '[[Changes/Midjourney/2026-03-17-modes-and-pricing|Modes and Pricing]]'
 source_release: '[[Releases/Cline/cline-2026-03-19-v3-74-0-github-298757168-70068641|cline-2026-03-19-v3-74-0-github-298757168-70068641]]'
 source_type: github_releases
 theme: pricing-model
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-2-pricing-model-changes-in-v0-34-0|2 Pricing Model changes in v0.34.0]]
+- Earlier: 2026-03-17 · Midjourney · [[Changes/Midjourney/2026-03-17-modes-and-pricing|Modes and Pricing]]
 - Later: 2026-03-19 · Cursor · [[Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens|Standard: $0.50/M input, $2.50/M output tokens]]
 <!-- chronolog:end -->
 

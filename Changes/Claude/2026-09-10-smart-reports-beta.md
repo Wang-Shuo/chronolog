@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 317dc04ab1b88d75797d247b5c73110ea9b301a2a3571ac5e5d84c38109ede7b
+machine_hash: ebbec286b6a02968bfd8372155dc138cd625fd90b237419d7d05ba4a044cec2b
 product: claude
 product_name: Claude
 record:
@@ -59,10 +59,10 @@ record:
   title: Smart reports (beta)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise
-  admins can pin sign-in to approved GitHub organizations…]]'
-- '[[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect
-  your preview links]]'
+- '[[Changes/OpenClaw/2026-09-05-4-enterprise-and-administration-changes-in-v2026-9-2|4
+  Enterprise and Administration changes in v2026.9.2]]'
+- '[[Changes/OpenClaw/2026-09-08-ordinary-model-changes-now-apply-to-the-current-chat-by-default-including-admini|Ordinary
+  model changes now apply to the current chat by default, including…]]'
 - '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box,
   Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]'
 source_release: '[[Releases/Claude/claude-2026-09-10-2026-09-10-3c3f563a|claude-2026-09-10-2026-09-10-3c3f563a]]'

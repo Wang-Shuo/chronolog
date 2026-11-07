@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d95a4e7db37562cbbf9804374585ea6a54ada967779b5efc4a6e15194e31cd4
+machine_hash: ea9633fd0daced4fd23a75280915eb0ebd86846f0915b53ab70f8ef2816826b4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,9 @@ record:
   title: 2 Developer Workflow changes in v0.0.394
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-22-improve-session-command-visual-hierarchy-and-colors|Improve
-  /session command visual hierarchy and colors]]'
-- '[[Changes/Claude Code/2026-01-23-2-developer-workflow-changes-in-v2-1-19|2 Developer
-  Workflow changes in v2.1.19]]'
+- '[[Changes/Google Antigravity/2026-01-23-terminal-sandboxing|Terminal Sandboxing]]'
+- '[[Changes/OpenCode/2026-01-23-terminal-add-weight-to-fuzzy-search-to-maintain-title-priority-in-tui|Terminal
+  Add weight to fuzzy search to maintain title priority in TUI]]'
 - '[[Changes/Windsurf/2026-01-23-added-post-setup-worktree-https-docs-windsurf-com-windsurf-cascade-worktrees-set|Added…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-24-v0-0-394-github-279572493-a58f0a39|github-copilot-cli-2026-01-24-v0-0-394-github-279572493-a58f0a39]]'
 source_type: github_releases

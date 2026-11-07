@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ad83a873f1b5089be26fdddc6ba67c106aa6a12b8bc75353e9ba21b658888c22
+machine_hash: 036851dc4d8b0a34e70ba7cb0f6990b8b6313150eb37ed7e4ec71c950ac2edff
 product: lovable
 product_name: Lovable
 record:
@@ -52,8 +52,8 @@ record:
   title: Redesigned Projects page
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-32-interface-experience-changes-in-rust-v0-156-0|32
-  Interface Experience changes in rust-v0.156.0]]'
+- '[[Changes/Google Antigravity/2026-09-22-4-interface-experience-changes-in-hub-v2-17-0-plan-before-you-build|4
+  Interface Experience changes in HUB v2.17.0 — Plan before you build]]'
 - '[[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface
   Experience changes in v2.1.281]]'
 - '[[Changes/Lovable/2026-09-23-one-project-menu-on-your-phone|One project menu on
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface Experience changes in v2.1.281]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface Experience changes in v2.1.282]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-19-interface-experience-changes-in-v2026-9-6|19 Interface Experience changes in v2026.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

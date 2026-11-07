@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83b036d3f7f3b341fc068cdfebcc0eb4a5e6d7395e3f5b5411f80b7de551b836
+machine_hash: 9cffc598e9f16f6b15a6049d352ae3d673d84634b876799a22181b20a597b16b
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,12 @@ record:
     footer now…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-2-mobile-and-desktop-changes-in-rust-v0-115-0|2
-  Mobile and Desktop changes in rust-v0.115.0]]'
-- '[[Changes/ElevenLabs/2026-03-16-ios-sdk|iOS SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-3-mobile-and-desktop-changes-in-v1-0-6|3
   Mobile and Desktop changes in v1.0.6]]'
+- '[[Changes/Manus/2026-03-16-download-manus-desktop-to-unlock-my-computer-giving-manus-direct-access-to-your|Bring
+  Manus to Your Desktop]]'
+- '[[Changes/OpenCode/2026-03-16-2-mobile-and-desktop-changes-in-v1-2-27|2 Mobile
+  and Desktop changes in v1.2.27]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-3-mobile-and-desktop-changes-in-v1-0-6|3 Mobile and Desktop changes in v1.0.6]]
+- Earlier: 2026-03-16 · OpenCode · [[Changes/OpenCode/2026-03-16-2-mobile-and-desktop-changes-in-v1-2-27|2 Mobile and Desktop changes in v1.2.27]]
 - Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-docs-add-documentation-for-notifications-experimental-macos-by-jkcinouye-in-http|Docs: Add documentation for notifications (experimental)(macOS)]]
 <!-- chronolog:end -->
 

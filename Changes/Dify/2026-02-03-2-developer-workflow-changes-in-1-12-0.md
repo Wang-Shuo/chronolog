@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 48638c44ca1459f93b10551273079baebad6e6ba771e8667ad9a68c18f121dd3
+machine_hash: b720b5d60fb77b6b666484cb3241ba7d8f55e416438ad146361a39e276cb08ec
 product: dify
 product_name: Dify
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Developer Workflow changes in 1.12.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-6-developer-workflow-changes-in-rust-v0-93-0|6 Developer
-  Workflow changes in rust-v0.93.0]]'
+- '[[Changes/OpenCode/2026-01-31-core-handle-redirected-statement-treesitter-node-in-bash-permissions|Core
+  Handle redirected statement treesitter node in bash permissions]]'
 - '[[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer
   Workflow changes in v2.1.30]]'
 - '[[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|Added
@@ -97,7 +97,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.12.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|Added /debug for Claude to help troubleshoot the current session]]
-- Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced layout jitter in the terminal when the spinner appears and disappears during…]]
+- Later: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-revert-pull-request-that-was-mistakenly-merged|Revert pull request that was mistakenly merged]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

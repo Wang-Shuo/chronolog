@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95490b0f7b8ea29ef8ef09ec30e8b666be5c1e5c20392ecb8c6cde22f74f03a0
+machine_hash: b060f598c9d805d8bb134e6223207c81b261ed96baf8f2b6ca52fc05c36e8855
 product: v0
 product_name: v0
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Editor Experience changes in A redesigned sidebar, a richer…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-13-use-the-editor-s-foreground-color-for-diff-block-text-so-diffs-stay-legible-in-t|Use
-  the editor''s foreground color for diff block text, so diffs stay legible…]]'
 - '[[Changes/Lovable/2026-08-13-open-projects-from-links-in-the-command-palette|Open
   projects from links in the command palette]]'
+- '[[Changes/Suno/2026-08-13-midi-import-record-and-edit-midi-directly-on-the-timeline-play-using-a-midi-cont|MIDI:
+  Import, record and edit MIDI directly on the timeline, play using a MIDI…]]'
 - '[[Changes/Lovable/2026-08-14-download-your-codebase-from-git-settings|Download
   your codebase from Git settings]]'
 source_release: '[[Releases/v0/v0-2026-08-14-2026-08-14-e5550355|v0-2026-08-14-2026-08-14-e5550355]]'

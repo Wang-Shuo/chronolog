@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 12c44836ad522272afb37c8b40bca456db8ea05f2fbceda8c63f32c92e18ca72
+machine_hash: 822af59bb42236a9a06cd602d51f5dca436a02dede76bef9a39defff90e9d7a0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-05 · Cursor · [[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select elements]]
-- Later: 2026-06-05 · Replit · [[Changes/Replit/2026-06-05-agent|Agent]]
+- Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-core-added-skill-discovery-and-file-based-agent-loading|Core Added skill discovery and file-based agent loading]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e251e2ed0cdbfe47fca1872717505e0c1b6d9732453c83fc97e20577bf93548c
+machine_hash: fb77d05a75a1b2089c341d7892ea11c2ed06c401efb858542cc4cfa92cfa3c0a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Agent Mode changes in v2.1.239
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-19-subagents-on-their-own-machines|Subagents on their
-  own machines]]'
 - '[[Changes/Cursor/2026-08-19-goal|/goal]]'
 - '[[Changes/Codex CLI/2026-08-20-12-agent-mode-changes-in-rust-v0-149-0|12 Agent
   Mode changes in rust-v0.149.0]]'
+- '[[Changes/Google Antigravity/2026-08-20-3-agent-mode-changes-in-hub-v2-9-1-remote-control-faster|3
+  Agent Mode changes in HUB v2.9.1 — Remote Control, faster…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: agent-mode
@@ -92,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-12-agent-mode-changes-in-rust-v0-149-0|12 Agent Mode changes in rust-v0.149.0]]
-- Later: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-feat-add-llm-provider-connections-ui-local-agent-server-by-juanmichelini-in-http|feat: add LLM provider-connections UI (local agent-server)]]
+- Earlier: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-3-agent-mode-changes-in-hub-v2-9-1-remote-control-faster|3 Agent Mode changes in HUB v2.9.1 — Remote Control, faster…]]
+- Later: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-surface-failed-subagent-tool-calls-with-a-resumable-task-id|Surface failed subagent tool calls with a resumable task_id]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

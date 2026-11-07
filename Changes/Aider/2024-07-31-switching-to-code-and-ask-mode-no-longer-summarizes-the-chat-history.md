@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5bd0e630f4962217a729106c1437be79a66ad93362a519b7b4ecc5cfb03a768e
+machine_hash: 59378463448e7aeaf56f88315cc4b95a9dc79c68570e853fe4c739d18e2a8b82
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: Switching to code and ask mode no longer summarizes the chat history
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-07-09-sideways-scrolling-in-settings-settings-tabs-container-now-supports-horizontal-s|↔️
-  Sideways Scrolling in Settings]]'
 - "[[Changes/Open WebUI/2024-07-17-styling-refactor-various-styling-updates-for-a-cleaner-and-more-cohesive-user-in|\U0001F3A8
   Styling Refactor]]"
 - '[[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor
   adds a file picker, arrow key navigation, and a model toggle to Composer]]'
+- "[[Changes/Gamma/2024-07-23-we-ve-also-improved-our-gradient-picker|Gamma improves
+  our gradient picker \U0001F44D]]"
 source_release: '[[Releases/Aider/aider-2024-07-31-v0-47-0-github-168059187-28da6242|aider-2024-07-31-v0-47-0-github-168059187-28da6242]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor adds a file picker, arrow key navigation, and a model toggle to Composer]]
+- Earlier: 2024-07-23 · Gamma · [[Changes/Gamma/2024-07-23-we-ve-also-improved-our-gradient-picker|Gamma improves our gradient picker 👍]]
 - Later: 2024-08-01 · Gemini · [[Changes/Gemini/2024-08-01-gemini-is-available-to-teens-in-more-countries-and-languages|Gemini is available to teens in more countries and languages]]
 <!-- chronolog:end -->
 

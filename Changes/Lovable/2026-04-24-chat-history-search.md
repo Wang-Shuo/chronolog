@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d79d8d94ccdbda95cb4c5c4f39d926fa207d4e8cf58784f580f4f800ada2d7df
+machine_hash: f1c3135f23474bca4302f57c72a1f4bb96cd2fcab899cb2309ea38a680e8d2e9
 product: lovable
 product_name: Lovable
 record:
@@ -48,10 +48,10 @@ record:
   title: Chat history search
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-23-2-context-window-changes-in-rust-v0-124-0|2 Context
-  Window changes in rust-v0.124.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-2-context-window-changes-in-v1-0-35|2 Context
   Window changes in v1.0.35]]'
+- '[[Changes/OpenCode/2026-04-23-core-improve-session-compaction-so-long-threads-keep-more-useful-context-when-ol|Core
+  Improve session compaction so long threads keep more useful context when older…]]'
 - '[[Changes/Codex CLI/2026-04-24-2-context-window-changes-in-rust-v0-125-0|2 Context
   Window changes in rust-v0.125.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-04-24-2026-04-24-4062672c|lovable-2026-04-24-2026-04-24-4062672c]]'

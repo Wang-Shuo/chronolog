@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5cf05297c31f92385a2f5a7ddbe254909cf6f360da5a00e8badbb0fa39035318
+machine_hash: b1838fa8410f141f70a9fd5ce2831c28882148c663d3fac38044410491f9672f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,10 +54,10 @@ record:
   title: The /allow-all auto safety-judge model is no longer user-configurable
   type: change
 related_changes:
-- '[[Changes/Replit/2026-07-31-choose-agent-s-primary-model|Choose Agent''s primary
-  model]]'
 - '[[Changes/v0/2026-07-31-3-model-support-changes-in-claude-opus-5-direct-figma-inspection|3
   Model Support changes in Claude Opus 5, direct Figma inspection…]]'
+- '[[Changes/OpenCode/2026-08-01-core-fixed-provider-model-configs-that-use-interleaved-reasoning-fields-like-rea|Core
+  Fixed provider model configs that use interleaved reasoning fields like…]]'
 - '[[Changes/Cline/2026-08-02-4-model-support-changes-in-v4-1-3|4 Model Support changes
   in v4.1.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc|github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc]]'
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-02 · Cline · [[Changes/Cline/2026-08-02-4-model-support-changes-in-v4-1-3|4 Model Support changes in v4.1.3]]
-- Later: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support changes in v2.1.221]]
+- Later: 2026-08-03 · Runway · [[Changes/Runway/2026-08-03-every-live-routed-request-is-now-recorded-so-you-can-see-which-model-your-model|Model Router Routing History]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

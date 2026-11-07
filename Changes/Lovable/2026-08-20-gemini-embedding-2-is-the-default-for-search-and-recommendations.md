@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9d11193c8d56839b85cb46615f284dcbfbe908304486e8758a9a22c995bbb011
+machine_hash: d9fc06926331b47049ace962af4cca347b09b36bad0b6a37bc256626ab2bf1fe
 product: lovable
 product_name: Lovable
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-6-model-support-changes-in-rust-v0-149-0|6 Model Support changes in rust-v0.149.0]]
-- Later: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-restore-tool-calling-for-custom-openai-compatible-models-whose-stored-capability|Restore tool calling for custom OpenAI-Compatible models whose stored capability…]]
+- Later: 2026-08-20 · OpenCode · [[Changes/OpenCode/2026-08-20-added-native-openai-and-anthropic-passthroughs-for-cloudflare-ai-gateway-models|Added native OpenAI and Anthropic passthroughs for Cloudflare AI Gateway models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

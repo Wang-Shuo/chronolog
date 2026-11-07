@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 01379b71114449091c568f5686051255c3b405a188000b2b40a699e6b9cf16ad
+machine_hash: b1e54f72399362169da1616ef3876d2b0fa1125352cfc8c72e823f21f36e932a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -66,10 +66,10 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed
-  the client-side auto mode classifier to ignore…]]'
 - '[[Changes/Replit/2026-10-02-new-models-from-openai-and-anthropic|New models from
   OpenAI and Anthropic]]'
+- '[[Changes/OpenClaw/2026-10-03-2-model-support-changes-in-v2026-9-8|2 Model Support
+  changes in v2026.9.8]]'
 - '[[Changes/Claude Code/2026-10-05-2-model-support-changes-in-v2-1-290|2 Model Support
   changes in v2.1.290]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-05-2026-10-05-4039c076|elevenlabs-2026-10-05-2026-10-05-4039c076]]'

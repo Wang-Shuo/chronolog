@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 675c87849002d2b8cb21ebe4fbdd21af0e9db706ad9aec66b19a769ef750f53f
+machine_hash: 3ec1fd75662de4b7e325d22761f2d87ae744a1ca6f6b13e0d477d3bed3987a04
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: Expanded context window for Thinking
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-18-2-context-window-changes-in-rust-v0-104-0|2 Context
-  Window changes in rust-v0.104.0]]'
 - '[[Changes/Cursor/2026-02-18-cli-now-stores-conversation-transcripts-that-the-agent-can-use-as-context|CLI
   now stores conversation transcripts that the agent can use as context]]'
 - '[[Changes/Gemini CLI/2026-02-18-3-context-window-changes-in-v0-29-0|3 Context Window
   changes in v0.29.0]]'
+- '[[Changes/OpenCode/2026-02-19-core-emit-prompt-too-large-error-when-github-context-overflows|Core
+  Emit PROMPT_TOO_LARGE error when GitHub context overflows]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-20-expanded-context-window-for-thinking-31f2c4c2|chatgpt-2026-02-20-expanded-context-window-for-thinking-31f2c4c2]]'
 source_type: chatgpt_changelog
 theme: context-window
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-3-context-window-changes-in-v0-29-0|3 Context Window changes in v0.29.0]]
+- Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-core-emit-prompt-too-large-error-when-github-context-overflows|Core Emit PROMPT_TOO_LARGE error when GitHub context overflows]]
 - Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-2-context-window-changes-in-v2-1-50|2 Context Window changes in v2.1.50]]
 <!-- chronolog:end -->
 

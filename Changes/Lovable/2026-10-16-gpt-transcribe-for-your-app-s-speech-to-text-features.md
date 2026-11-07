@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2a4d91a2c2ec96ed9a636da9ed29db654b1002cd8f225500e5a9fda02fd15620
+machine_hash: df1173d2a585c0a9cf7d80c4460492e546855649ccf09ba6a2ed20d109de8c6c
 product: lovable
 product_name: Lovable
 record:
@@ -51,12 +51,12 @@ record:
   title: GPT Transcribe for your app's speech-to-text features
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-15-for-more-information-see-chatgpt-voice|For more information,
-  see: ChatGPT Voice]]'
 - '[[Changes/ChatGPT/2026-10-15-we-re-rolling-out-gpt-live-1-1-and-gpt-live-1-1-quip-a-mini-version-of-the-model|ChatGPT
   rolls out GPT-Live-1.1 and GPT-Live-1.1 Quip, a mini version of the model…]]'
 - '[[Changes/Codex CLI/2026-10-15-4-voice-and-audio-changes-in-rust-v0-163-0|4 Voice
   and Audio changes in rust-v0.163.0]]'
+- '[[Changes/Runway/2026-10-15-mirelo-sfx-2-0-is-now-available-in-runway-mcp-give-your-agent-a-clip-and-describ|Mirelo
+  SFX 2.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-16-2026-10-16-3443a38d|lovable-2026-10-16-2026-10-16-3443a38d]]'
 source_type: lovable_changelog
 theme: voice
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-voice-and-audio-changes-in-rust-v0-163-0|4 Voice and Audio changes in rust-v0.163.0]]
-- Later: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-speech-to-text|Speech to Text]]
+- Earlier: 2026-10-15 · Runway · [[Changes/Runway/2026-10-15-mirelo-sfx-2-0-is-now-available-in-runway-mcp-give-your-agent-a-clip-and-describ|Mirelo SFX 2.0]]
+- Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-discord-voice-changes-you-can-change-voices-and-continue-asking-for-agent-checks|Discord voice changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

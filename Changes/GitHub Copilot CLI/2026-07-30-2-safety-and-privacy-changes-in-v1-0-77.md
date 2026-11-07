@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ad40b466ffc7821746c98a3c0a350c8b4fb47ae3315c7d3ce9586bd475b9dbb
+machine_hash: 5e8bb07010ffc74f0f2a613b779818609210b9c7ada5c472a0d5d1f17dc1ed6f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.77
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-5-safety-and-privacy-changes-in-v1-0-76|5 Safety and Privacy changes in v1.0.76]]
-- Later: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-3-safety-and-privacy-changes-in-v1-0-78|3 Safety and Privacy changes in v1.0.78]]
+- Later: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-2-safety-and-privacy-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2 Safety and Privacy changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

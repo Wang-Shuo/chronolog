@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b7abbe8fbf7931d6e9b5bcdbe48bd0ad0c2341a021fc234323595a2ce35453b
+machine_hash: f0a5969024e03d5d9bfd94f64b22d856dd65c4f1ea7abbb6ff3752eac7d723b5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Account and Access changes in v1.0.63
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-mcp-oauth-re-authentication-correctly-uses-the-saved-oauth-client-id-for-remote|MCP
-  OAuth re-authentication correctly uses the saved OAuth client ID for remote servers]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-remote-mcp-oauth-servers-start-only-once-per-matching-config-instead-of-restarti|Remote
   MCP OAuth servers start only once per matching config instead of restarting…]]'
+- '[[Changes/OpenCode/2026-06-13-added-external-browser-oauth-for-the-snowflake-cortex-provider|Added
+  external browser OAuth for the Snowflake Cortex provider]]'
 - '[[Changes/Codex CLI/2026-06-15-5-account-and-access-changes-in-rust-v0-140-0|5
   Account and Access changes in rust-v0.140.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49|github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49]]'

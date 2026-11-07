@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d384ce84ba5c81079650a2ebd403c370f37e886e3e2412a3e0c0596aff9ba91
+machine_hash: de1a10dd89c6b08cf7c358b751d8330a70df5c43ebfd1b2d561eec403834ea82
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +45,8 @@ record:
     access…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share
-  a prompt]]'
+- '[[Changes/OpenClaw/2026-09-08-4-collaboration-changes-in-v2026-9-3|4 Collaboration
+  changes in v2026.9.3]]'
 - '[[Changes/ChatGPT/2026-09-09-4-collaboration-changes-in-share-files-and-folders|4
   Collaboration changes in Share files and folders…]]'
 - '[[Changes/ChatGPT/2026-09-09-shared-folders-and-ownership|Shared folders and ownership]]'
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-4-collaboration-changes-in-v2026-9-3|4 Collaboration changes in v2026.9.3]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

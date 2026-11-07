@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2dc7931e1e35bc3b2acee77d33c1a674b616a77cd96bdf4fa8684de53b8e6c9b
+machine_hash: cb0a8b7126c27ae2c2fbf56faf175970a7844e28e1b882e3f1265494447e903d
 product: v0
 product_name: v0
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved Git workflow UI on mobile devices
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows
-  notifications now have accept/reject buttons like MacOS]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-22-add-msi-installer-for-windows|Add MSI installer
-  for Windows]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-homebrew-tools-work-correctly-on-macos-with-zsh-as-default-shell|Homebrew
   tools work correctly on macOS with zsh as default shell]]'
+- '[[Changes/OpenCode/2026-01-28-73-mobile-and-desktop-changes-in-v1-1-37|73 Mobile
+  and Desktop changes in v1.1.37]]'
+- '[[Changes/OpenCode/2026-01-28-3-mobile-and-desktop-changes-in-v1-1-40-1|3 Mobile
+  and Desktop changes in v1.1.40 + 1]]'
 source_release: '[[Releases/v0/v0-2026-01-28-2026-01-28-27ea870c|v0-2026-01-28-2026-01-28-27ea870c]]'
 source_type: v0_changelog
 theme: mobile-desktop
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-homebrew-tools-work-correctly-on-macos-with-zsh-as-default-shell|Homebrew tools work correctly on macOS with zsh as default shell]]
+- Earlier: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-3-mobile-and-desktop-changes-in-v1-1-40-1|3 Mobile and Desktop changes in v1.1.40 + 1]]
 - Later: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-skills-load-correctly-on-windows|Skills load correctly on Windows]]
 <!-- chronolog:end -->
 

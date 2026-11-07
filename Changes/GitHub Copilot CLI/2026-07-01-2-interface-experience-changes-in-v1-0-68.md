@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f48423e163dd4cd266c28150292e5ec4b38bece8d9b681d99f5065c5908defe6
+machine_hash: a8efffb17125d11f2a4be30ff557b44a347d427c95cdd261a8dbf2558701fac4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Interface Experience changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-14-interface-experience-changes-in-v0-10-0|14 Interface
-  Experience changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-3-interface-experience-changes-in-v1-0-66|3
   Interface Experience changes in v1.0.66]]'
+- '[[Changes/OpenClaw/2026-06-30-3-interface-experience-changes-in-v2026-6-11|3 Interface
+  Experience changes in v2026.6.11]]'
 - '[[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface
   Experience changes in v2.1.198]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583|github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c42058ba866b2eba5ec228f09c60326fb7741f3ed181c5abf613df5596941353
+machine_hash: 7d1a165f5ddf746943320dd0d70a5d3871539d0376e6ef65eaaf57db28d01910
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     all tools)
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-06-05-ollama-launch-omp-now-integrates-with-oh-my-pi-https-omp-sh-an-ai-coding-agent-w|ollama
-  launch omp now integrates with Oh My Pi((source link) an AI coding…]]'
+- '[[Changes/OpenCode/2026-06-05-2-apps-and-integrations-changes-in-v1-16-0|2 Apps
+  and Integrations changes in v1.16.0]]'
 - '[[Changes/Replit/2026-06-05-build-data-apps-on-microsoft-fabric|Build data apps
   on Microsoft Fabric]]'
 - '[[Changes/Replit/2026-06-05-integrations|Integrations]]'

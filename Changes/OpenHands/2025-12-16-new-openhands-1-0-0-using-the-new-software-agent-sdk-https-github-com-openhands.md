@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 4d1023af4ed6226839b92ffdcb1529618a67ffd4f3a1f424af40ad3678491ac4
+machine_hash: 035beb04762c20e1d7ee02384e951261b3aa5e23321ae7be4cd027ece6583332
 product: openhands
 product_name: OpenHands
 record:
@@ -47,10 +47,10 @@ record:
   title: New OpenHands 1.0.0 using the [new…
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-11-2-agent-mode-changes-in-1-11-0|2 Agent Mode changes in
-  1.11.0]]'
 - '[[Changes/ElevenLabs/2025-12-15-agents-platform|Agents Platform]]'
 - '[[Changes/ElevenLabs/2025-12-15-agents-platform-ef857c|Agents Platform]]'
+- '[[Changes/Manus/2025-12-15-we-ve-just-released-a-major-upgrade-with-a-new-flagship-agent-manus-1-6-max-plus|Welcome
+  Manus 1.6]]'
 source_release: '[[Releases/OpenHands/openhands-2025-12-16-1-0-0-github-270799113-83836508|openhands-2025-12-16-1-0-0-github-270799113-83836508]]'
 source_type: github_releases
 theme: agent-mode
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-15 · ElevenLabs · [[Changes/ElevenLabs/2025-12-15-agents-platform-ef857c|Agents Platform]]
+- Earlier: 2025-12-15 · Manus · [[Changes/Manus/2025-12-15-we-ve-just-released-a-major-upgrade-with-a-new-flagship-agent-manus-1-6-max-plus|Welcome Manus 1.6]]
 - Later: 2025-12-16 · Windsurf · [[Changes/Windsurf/2025-12-16-agents-tool-execution|Agents & Tool Execution]]
 <!-- chronolog:end -->
 

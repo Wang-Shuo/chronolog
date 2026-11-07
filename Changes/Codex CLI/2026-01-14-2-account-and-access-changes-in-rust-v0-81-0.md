@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e6e768be10446db32566d54ef0012eaeb49ae837288c8e8faa5d439d6671c9d
+machine_hash: 1f77685a516401c85ed9c3ceaa37e5d6106c497dc6a74e030b498c7119bb7923
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Account and Access changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated
-  "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]'
 - '[[Changes/Dify/2026-01-13-4-account-and-access-changes-in-1-11-3|4 Account and
   Access changes in 1.11.3]]'
+- '[[Changes/OpenCode/2026-01-13-desktop-provide-pty-socket-authentication-if-available-from-desktop|Desktop
+  Provide PTY socket authentication if available from desktop]]'
 - '[[Changes/Claude Code/2026-01-14-changed-oauth-and-api-console-urls-from-console-anthropic-com-to-platform-claude|Changed
   OAuth and API Console URLs from console.anthropic.com to platform.claude.com]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40|codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40]]'
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.81.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-changed-oauth-and-api-console-urls-from-console-anthropic-com-to-platform-claude|Changed OAuth and API Console URLs from console.anthropic.com to platform.claude.com]]
-- Later: 2026-01-15 · Dify · [[Changes/Dify/2026-01-15-redirect-after-login-we-ve-sorted-out-the-login-redirects-to-bring-you-back-to-y|Redirect After Login]]
+- Later: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-core-skip-duplicate-system-prompt-for-codex-oauth-sessions|Core Skip duplicate system prompt for Codex OAuth sessions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

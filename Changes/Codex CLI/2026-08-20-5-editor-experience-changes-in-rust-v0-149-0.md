@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 384b86b40349cb68793390aa783224ef1d9212f8bf0aaf261f22e94f981f120c
+machine_hash: 3520186a13713e4b36976e3be96b4d1b93acd418b81009d3b5b8fbcd94a30bc8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -107,7 +107,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828 Track running unified exec processes at turn completion @copyberry]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude in Chrome]]
+- Later: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-hovering-over-a-file-s-comment-count-pill-now-previews-all-comments-on-that-file|Hovering over a file's comment count pill now previews all comments on that file…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

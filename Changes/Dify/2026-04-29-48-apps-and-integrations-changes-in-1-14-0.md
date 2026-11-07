@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35e54b5492827de4ee6a41e15544042689a26b076e035342d6f38c4134f43f0b
+machine_hash: b1ab7e6aa03cc8fc79c3bafe13ea1102db6816b6e8dd83de0aed88f9374521ba
 product: dify
 product_name: Dify
 record:
@@ -171,8 +171,8 @@ record:
   title: 48 Apps and Integrations changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-28-aligned-the-desktop-app-s-launch-page-with-ollama-launch-integrations|Aligned
-  the desktop app''s launch page with ollama launch integrations]]'
+- '[[Changes/OpenCode/2026-04-28-desktop-sync-state-loading-is-more-reliable-for-mcp-lsp-and-workspace-refreshes|Desktop
+  Sync state loading is more reliable for MCP, LSP, and workspace refreshes]]'
 - '[[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|Cursor
   introduces the Cursor SDK so you can build agents with the same runtime…]]'
 - '[[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s-76fb76|Run

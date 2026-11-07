@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 32f6963e9fa0ae5b3253ea09e485c192147323eb4313eb3be6e5e22390ab681f
+machine_hash: c3c080673b05d0536f98f4202e7e19e5028742134f9a0ad945bdac791ee1e865
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Model Support changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-28-add-support-for-free-cline-models-shown-as-free-in-the-model-picker-with-a-dedic|Add
-  support for free Cline models, shown as "(free)" in the model picker…]]'
-- '[[Changes/Dify/2026-07-28-6-model-support-changes-in-1-16-1|6 Model Support changes
-  in 1.16.1]]'
 - '[[Changes/Gemini CLI/2026-07-28-2-model-support-changes-in-v0-53-0|2 Model Support
   changes in v0.53.0]]'
+- '[[Changes/OpenCode/2026-07-28-core-stops-sending-deprecated-sampling-defaults-to-newer-gemini-models|Core
+  Stops sending deprecated sampling defaults to newer Gemini models]]'
+- '[[Changes/OpenCode/2026-07-28-desktop-added-collapsible-model-provider-sections-in-v2-settings|Desktop
+  Added collapsible model provider sections in V2 settings]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: model-support
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-28 · Gemini CLI · [[Changes/Gemini CLI/2026-07-28-2-model-support-changes-in-v0-53-0|2 Model Support changes in v0.53.0]]
+- Earlier: 2026-07-28 · OpenCode · [[Changes/OpenCode/2026-07-28-desktop-added-collapsible-model-provider-sections-in-v2-settings|Desktop Added collapsible model provider sections in V2 settings]]
 - Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-allow-reasoning-effort-to-be-omitted-so-the-server-can-select-the-default|Allow reasoning effort to be omitted so the server can select the default]]
 <!-- chronolog:end -->
 

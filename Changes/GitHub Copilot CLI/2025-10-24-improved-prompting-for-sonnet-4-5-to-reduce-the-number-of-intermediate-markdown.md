@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b24be41fa0e14772f4db0b2478e36959771d2706cb4b7253fd67d1758b2f154
+machine_hash: 6b669d4e52e45487273bf47510b9934100a684859c17968e8568ba26be2e555b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-3-model-support-changes-in-rust-v0-48-0|3 Model Support changes in rust-v0.48.0]]
-- Later: 2025-10-27 · Cline · [[Changes/Cline/2025-10-27-3-model-support-changes-in-v3-34-1|3 Model Support changes in v3.34.1]]
+- Later: 2025-10-24 · Runway · [[Changes/Runway/2025-10-24-create-your-own-custom-node-based-workflows-chaining-together-multiple-models-mo|Workflows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

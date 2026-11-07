@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d247ca351bba5b0bd31d0f55517adb891faca41b986ab508526655dd4398685c
+machine_hash: 3284aa94ba6844d196c0f0160231a33219db11a30e20f7a376d7bc59ee43c645
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,10 @@ record:
   title: 3 Interface Experience changes in v2.1.261
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface
-  Experience changes in v2.1.260]]'
-- '[[Changes/Codex CLI/2026-09-03-3-interface-experience-changes-in-rust-v0-153-0|3
-  Interface Experience changes in rust-v0.153.0]]'
-- '[[Changes/Lovable/2026-09-03-open-the-dashboard-sidebar-from-inside-the-editor|Open
-  the dashboard sidebar from inside the editor]]'
+- '[[Changes/Midjourney/2026-09-03-polish-bugs|POLISH & BUGS]]'
+- '[[Changes/Midjourney/2026-09-03-prompt-bar-pills|PROMPT BAR & PILLS]]'
+- '[[Changes/OpenClaw/2026-09-03-14-interface-experience-changes-in-v2026-9-1|14 Interface
+  Experience changes in v2026.9.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: interface-experience
@@ -97,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.261
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-03 · Lovable · [[Changes/Lovable/2026-09-03-open-the-dashboard-sidebar-from-inside-the-editor|Open the dashboard sidebar from inside the editor]]
+- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-14-interface-experience-changes-in-v2026-9-1|14 Interface Experience changes in v2026.9.1]]
 - Later: 2026-09-04 · Codex CLI · [[Changes/Codex CLI/2026-09-04-42874-0-153-hotfix-show-astra-in-bundled-model-picker-rhan-oai|♯42874 0.153 hotfix Show Astra in bundled model picker @rhan-oai]]
 <!-- chronolog:end -->
 

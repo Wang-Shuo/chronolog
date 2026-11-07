@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e53659db2a6edba20406e8f9811429b0a7e3d2dd1d8fe6ae68bdf35d231ce356
+machine_hash: e88f59861822da84013aea93844aaffd366c9da21497c8c682d72cd0b33d9f85
 product: ollama
 product_name: Ollama
 record:
@@ -43,10 +43,10 @@ record:
   title: Ollama's app will now no longer incorrectly show "model is out of date"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-3-model-support-changes-in-rust-v0-117-0|3 Model
-  Support changes in rust-v0.117.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-26-model-display-header-shows-the-active-reasoning-effort-level-e-g-high-next-to-th|Model
-  display header shows the active reasoning effort level (e.g. "(high)") next…]]'
+- '[[Changes/Suno/2026-03-26-custom-models-upload-at-least-6-tracks-from-your-catalog-to-train-a-personalized|Custom
+  Models Upload at least 6 tracks from your catalog to train a personalized…]]'
+- '[[Changes/Suno/2026-03-26-today-we-launched-v5-5-our-best-and-most-personal-model-yet-it-powers-three-new|Today
+  we launched v5.5, our best and most personal model yet]]'
 - '[[Changes/Dify/2026-03-27-7-model-support-changes-in-1-13-3|7 Model Support changes
   in 1.13.3]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-27-v0-19-0-github-302442479-29abac08|ollama-2026-03-27-v0-19-0-github-302442479-29abac08]]'

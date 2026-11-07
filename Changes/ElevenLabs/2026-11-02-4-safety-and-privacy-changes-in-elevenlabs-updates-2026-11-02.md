@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 443bfdc6273042722573333f4412405e0b8ed8f0c3507228ab3a56d14dfcc17c
+machine_hash: 16899760933724f6ae3208963f36aa38121df1808156238143dd60681975c8b6
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -59,10 +59,10 @@ record:
   title: 4 Safety and Privacy changes in ElevenLabs updates — 2026-11-02
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-29-security-advisory-this-release-contains-security-fixes-we-strongly-recommend-upd|\U0001F6E1️
-  Security Advisory: This release contains security fixes]]"
 - '[[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety
   and Privacy changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-core-preserved-permission-reasons-and-feedback-in-mcp-failures-and-made-code-mod|Core
+  Preserved permission reasons and feedback in MCP failures, and made Code Mode…]]'
 - '[[Changes/Lovable/2026-11-01-download-an-sbom-for-your-project|Download an SBOM
   for your project]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'

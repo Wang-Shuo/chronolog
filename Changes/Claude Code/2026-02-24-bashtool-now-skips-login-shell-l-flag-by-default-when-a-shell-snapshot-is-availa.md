@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 878bbb0119f84482aa1f422f721acdd8326ae3d6a5df9c45f801ca5b0e6ae787
+machine_hash: 135b77aa2de820afe5aac677893fa68766b3d3f885f18003e015bfe85e6405af
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
   title: BashTool now skips login shell (`-l` flag) by default when a shell snapshot…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer
-  Workflow changes in v2.1.50]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-increase-lsp-request-timeout-from-30s-to-90s-to-reduce-timeout-failures|Increase
   LSP request timeout from 30s to 90s to reduce timeout failures]]'
+- '[[Changes/OpenCode/2026-02-20-terminal-use-structuredclone-instead-of-remeda-s-clone-for-better-performance-an|Terminal
+  Use structuredClone instead of remeda''s clone for better performance…]]'
 - '[[Changes/Open WebUI/2026-02-23-12-developer-workflow-changes-in-v0-8-4|12 Developer
   Workflow changes in v0.8.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'

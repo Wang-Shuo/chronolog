@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4bca50971b558fb957cb228e92ce0a729e586abc9e810097c09393328ebe1c39
+machine_hash: 6a81d73f502fe96fb28554d76c6f1874c546d755bf15454b1d6615e1f72d6808
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 6 Mobile and Desktop changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-42068-https-github-com-openai-codex-pull-42068-detect-standalone-installs-from-t|♯42068((source
-  link) Detect standalone installs…]]'
 - '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn
   a sketch into an image]]'
+- '[[Changes/OpenClaw/2026-09-08-10-mobile-and-desktop-changes-in-v2026-9-3|10 Mobile
+  and Desktop changes in v2026.9.3]]'
 - '[[Changes/Windsurf/2026-09-08-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
 source_type: github_releases
@@ -112,7 +112,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-08 · Windsurf · [[Changes/Windsurf/2026-09-08-devin-desktop|Devin Desktop]]
-- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-skill-packages-built-on-windows-failed-with-a-misleading-error-a-skill-md-using|Skill packages built on Windows failed with a misleading error. A SKILL.md…]]
+- Later: 2026-09-09 · Google Antigravity · [[Changes/Google Antigravity/2026-09-09-quote-or-add-selected-text-to-chat-using-cmd-l-or-cmd-i-on-macos-or-ctrl-l-and-c|Quote or add selected text to chat using Cmd+L or Cmd+I on macOS, or Ctrl+L…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

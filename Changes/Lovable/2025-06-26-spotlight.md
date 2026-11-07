@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e893a397c7a09ded091568b0e95574ed6dcd8f54d0635deb3d7416af5eac7cf2
+machine_hash: f8098b664e6557c64d05a889b928ce48e2fa4e03b18e3b44fbdc93d47e542355
 product: lovable
 product_name: Lovable
 record:
@@ -66,12 +66,12 @@ record:
   title: Spotlight**
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-13-teams-members-page-improvements|Teams members page
-  improvements]]'
 - '[[Changes/Replit/2025-06-13-organization-app-sharing-improvement|Organization app
   sharing improvement]]'
 - "[[Changes/Open WebUI/2025-06-16-global-image-compression-option-effortlessly-set-image-compression-globally-so-a|\U0001F5BC️
   Global Image Compression Option]]"
+- '[[Changes/Midjourney/2025-06-19-heya-everybody-glad-you-re-enjoying-creating-and-sharing-videos-we-re-noticing-t|Heya
+  everybody! Glad you''re enjoying creating and sharing videos]]'
 source_release: '[[Releases/Lovable/lovable-2025-06-26-2025-06-26-16aa6e6c|lovable-2025-06-26-2025-06-26-16aa6e6c]]'
 source_type: lovable_changelog
 theme: collaboration
@@ -120,7 +120,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-global-image-compression-option-effortlessly-set-image-compression-globally-so-a|🖼️ Global Image Compression Option]]
+- Earlier: 2025-06-19 · Midjourney · [[Changes/Midjourney/2025-06-19-heya-everybody-glad-you-re-enjoying-creating-and-sharing-videos-we-re-noticing-t|Heya everybody! Glad you're enjoying creating and sharing videos]]
 - Later: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-teams-app-store-experience|Teams App Store experience]]
 <!-- chronolog:end -->
 

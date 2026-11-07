@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b9d5cf95ec2a57c63f237eaf1210ea5aa76b31c1b66ec2879b0ae597975c4ed1
+machine_hash: 63594f28d4bb83eb172d4ed9572e74f81d274e7bde9992ba790dee7f1425e957
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ record:
   title: Confirmation dialog for logging out (iOS, web)
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-01-22-desktop-app-preparations-ongoing-work-to-support-the-upcoming-open-webui-desktop|\U0001F5A5️
-  Desktop App Preparations]]"
-- '[[Changes/Ollama/2025-02-05-new-ollama-darwin-tgz-package-for-macos-that-replaces-the-previous-ollama-darwin|New
-  ollama-darwin.tgz package for macOS that replaces the previous ollama-darwin…]]'
+- "[[Changes/Suno/2025-02-06-expand-your-favorite-track-moments-and-make-your-sound-hit-even-harder-covers-pe|\U0001F6A8
+  Extend is live on iOS!]]"
+- '[[Changes/Suno/2025-02-06-hype-up-your-friends-give-props-where-they-re-due-or-start-a-lyrical-debate-the|Hype
+  up your friends, give props where they’re due, or start a lyrical debate—the…]]'
 - '[[Changes/Replit/2025-02-07-replit-mobile|Replit Mobile]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog

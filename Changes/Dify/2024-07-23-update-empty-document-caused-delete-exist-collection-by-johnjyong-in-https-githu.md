@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05e98145554cbbe0d0ddaae33f8307e309d585f42a72c14da35675ec620c5230
+machine_hash: 88eee392bc077b1cfe751c48a6fac66787ed2228554f758bfc63f5f3ce97acc5
 product: dify
 product_name: Dify
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-07-17 · Open WebUI · [[Changes/Open WebUI/2024-07-17-2-files-and-data-changes-in-v0-3-10|2 Files and Data changes in v0.3.10]]
-- Later: 2024-07-25 · Ollama · [[Changes/Ollama/2024-07-25-code-interpreter|Code interpreter]]
+- Later: 2024-07-23 · Gamma · [[Changes/Gamma/2024-07-23-import-pdf-to-convert-existing-documents|Import PDF to convert existing documents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f67368d36e9f13ac4c62238ba77b4d8fb74354e3dd94363220cabc6141a47399
+machine_hash: 0522c74108c6482e5141954956c7d871a62e696473b29854da0cffaeeb521319
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -56,8 +56,8 @@ record:
   title: 7 Developer Workflow changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-20-2-developer-workflow-changes-in-v0-0-388|2
-  Developer Workflow changes in v0.0.388]]'
+- '[[Changes/OpenCode/2026-01-20-terminal-add-space-toggle-hint-to-tool-selection-prompt|Terminal
+  Add space toggle hint to tool selection prompt]]'
 - '[[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|Added
   deprecation notification for npm installations - run claude install or see…]]'
 - '[[Changes/Codex CLI/2026-01-21-9-developer-workflow-changes-in-rust-v0-88-0|9 Developer

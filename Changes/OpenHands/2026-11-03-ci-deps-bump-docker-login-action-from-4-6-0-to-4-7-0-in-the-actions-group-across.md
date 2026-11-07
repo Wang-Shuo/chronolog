@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c03c3c1969e0471afac4780007e0d01a89032c9df419e866c45525f703610c4
+machine_hash: 3e9c6eecd3323e697665397e418c8d2fb01eac9401072ba29327ccb58a87ea55
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
     across 1…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode
-  Added sign-in to a Claude apps gateway from the chat panel, with no…]]'
 - '[[Changes/ElevenLabs/2026-11-02-fixes-oauth-discovery-names-the-host-the-client-connected-to-so-mcp-clients-such|Fixes:
   OAuth discovery names the host the client connected to, so MCP clients…]]'
 - "[[Changes/Open WebUI/2026-11-03-saved-oauth-provider-settings-oauth-providers-now-load-their-saved-connection-se|\U0001F511
   Saved OAuth provider settings. OAuth providers now load their saved connection…]]"
+- '[[Changes/OpenClaw/2026-11-03-6-account-and-access-changes-in-v2026-10-10|6 Account
+  and Access changes in v2026.10.10]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: account-access
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-saved-oauth-provider-settings-oauth-providers-now-load-their-saved-connection-se|🔑 Saved OAuth provider settings. OAuth providers now load their saved connection…]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-6-account-and-access-changes-in-v2026-10-10|6 Account and Access changes in v2026.10.10]]
 - Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-account-and-access-changes-in-1-19-0|2 Account and Access changes in 1.19.0]]
 <!-- chronolog:end -->
 

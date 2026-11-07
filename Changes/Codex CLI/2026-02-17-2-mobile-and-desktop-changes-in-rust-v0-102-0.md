@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 175cdf7537d4b3572c8b782874c04c6497b864e8acaf0cee9ec8194cb048b996
+machine_hash: e646216483f1fcf85640d476964c3c623b7734ca6bf42588888dc6e8486acea7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.102.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-02-12-installing-ollama-via-the-curl-install-script-on-macos-will-now-only-prompt-for|Installing
-  Ollama via the curl install script on macOS will now only prompt…]]'
-- "[[Changes/Open WebUI/2026-02-12-gboard-multi-line-paste-fix-multi-line-text-pasted-from-gboard-on-android-now-in|\U0001F4F1
-  Gboard multi-line paste fix. Multi-line text pasted from Gboard on Android now…]]"
-- '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added
-  Windows ARM64 (win32-arm64) native binary support]]'
+- '[[Changes/OpenCode/2026-02-15-2-mobile-and-desktop-changes-in-v1-2-4|2 Mobile and
+  Desktop changes in v1.2.4]]'
+- '[[Changes/OpenCode/2026-02-15-5-mobile-and-desktop-changes-in-v1-2-5-1|5 Mobile
+  and Desktop changes in v1.2.5 + 1]]'
+- '[[Changes/OpenCode/2026-02-16-2-mobile-and-desktop-changes-in-v1-2-6|2 Mobile and
+  Desktop changes in v1.2.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.102.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added Windows ARM64 (win32-arm64) native binary support]]
+- Earlier: 2026-02-16 · OpenCode · [[Changes/OpenCode/2026-02-16-2-mobile-and-desktop-changes-in-v1-2-6|2 Mobile and Desktop changes in v1.2.6]]
 - Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2 Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]
 <!-- chronolog:end -->
 

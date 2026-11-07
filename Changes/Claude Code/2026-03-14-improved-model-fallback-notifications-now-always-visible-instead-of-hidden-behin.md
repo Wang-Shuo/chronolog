@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c77006ecdf36ce45479d613c53b23dc68082c2bcf12e639d968e180c7c491860
+machine_hash: cabebfaec8d08005b9baf19385721aeaf8e6151334b68dff61a37581ecc413f8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Improved model fallback notifications
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-12-2-model-support-changes-in-v3-72-0|2 Model Support changes
-  in v3.72.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting
   claude-sonnet-4.6 as the default model is now preserved correctly]]'
+- '[[Changes/OpenCode/2026-03-13-desktop-model-selection-now-persists-by-session|Desktop
+  Model selection now persists by session]]'
 - '[[Changes/Claude Code/2026-03-14-added-effort-slash-command-to-set-model-effort-level|Added
   /effort slash command to set model effort level]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting claude-sonnet-4.6 as the default model is now preserved correctly]]
+- Earlier: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-desktop-model-selection-now-persists-by-session|Desktop Model selection now persists by session]]
 - Later: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-3-model-support-changes-in-v0-18-0|3 Model Support changes in v0.18.0]]
 <!-- chronolog:end -->
 

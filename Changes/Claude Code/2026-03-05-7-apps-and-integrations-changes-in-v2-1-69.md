@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8af45a22141aac010c64e3dbccba363ecace0e83fe9723d9765cfbaefc1c7ad3
+machine_hash: f685730f94b911ee956aacc9cc8f2fde49bbad81049ca8d6fc0666bceeb4574d
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,9 +60,9 @@ record:
   title: 7 Apps and Integrations changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-03-7-apps-and-integrations-changes-in-v0-0-421|7
-  Apps and Integrations changes in v0.0.421]]'
 - '[[Changes/Cline/2026-03-04-updated-hooks-docs|Updated hooks docs]]'
+- '[[Changes/OpenCode/2026-03-04-rework-workspace-integration-and-adaptor-interface|Rework
+  workspace integration and adaptor interface]]'
 - '[[Changes/Claude Code/2026-03-05-added-reload-plugins-command-to-activate-pending-plugin-changes-without-restarti|Added
   /reload-plugins command to activate pending plugin changes without restarting]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
@@ -119,7 +119,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-updated-hooks-docs|Updated hooks docs]]
+- Earlier: 2026-03-04 · OpenCode · [[Changes/OpenCode/2026-03-04-rework-workspace-integration-and-adaptor-interface|Rework workspace integration and adaptor interface]]
 - Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-7-apps-and-integrations-changes-in-rust-v0-110-0|7 Apps and Integrations changes in rust-v0.110.0]]
 <!-- chronolog:end -->
 

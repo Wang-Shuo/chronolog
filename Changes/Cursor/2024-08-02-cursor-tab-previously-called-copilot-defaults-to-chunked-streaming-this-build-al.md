@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 819d788156682c7f5a5f9aba68082b3428b52243f16fa2db34f8561fe02035b9
+machine_hash: 5ea7dec1eb3b3f4bfa05fb3b4533f4b4b99c0f056bb851bbcbf0c262ffabbf29
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-08-01 · Cline · [[Changes/Cline/2024-08-01-shows-diff-view-of-new-or-edited-files-right-in-the-editor|Shows diff view of new or edited files right in the editor]]
-- Later: 2024-08-10 · Aider · [[Changes/Aider/2024-08-10-diff-now-shows-diffs-of-all-changes-resulting-from-your-request-including-lint-a|/diff now shows diffs of all changes resulting from your request, including lint…]]
+- Later: 2024-08-02 · Gamma · [[Changes/Gamma/2024-08-02-we-just-launched-a-new-step-by-step-theme-builder-it-s-easier-and-more-fun-to-us|We just launched a new step-by-step theme builder!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ed690e153059221b2f774a3c2098b8138df83630812c7fd56a41579bccbd94c
+machine_hash: 47c7a9856c32e2f5240bcf4ffe81e68abf0008a11bdd6792860583eae2261b0a
 product: ollama
 product_name: Ollama
 record:
@@ -46,11 +46,11 @@ record:
   title: 2 Model Support changes in v0.40.15
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated
-  fast mode for Opus 4.8 as of October 30, 2026]]'
 - '[[Changes/ElevenLabs/2026-11-02-sfx-v3|SFX v3]]'
 - '[[Changes/ElevenLabs/2026-11-02-7-model-support-changes-in-elevenlabs-updates-2026-11-02|7
   Model Support changes in ElevenLabs updates — 2026-11-02]]'
+- '[[Changes/Google Antigravity/2026-11-03-voice-mode-enabled-by-gemini-live-lets-you-talk-to-antigravity-and-hand-requests|Voice
+  mode, enabled by Gemini Live, lets you talk to Antigravity and hand requests…]]'
 source_release: '[[Releases/Ollama/ollama-2026-11-03-v0-40-15-github-433274277-e84f26a0|ollama-2026-11-03-v0-40-15-github-433274277-e84f26a0]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +86,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.40.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-7-model-support-changes-in-elevenlabs-updates-2026-11-02|7 Model Support changes in ElevenLabs updates — 2026-11-02]]
+- Earlier: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-voice-mode-enabled-by-gemini-live-lets-you-talk-to-antigravity-and-hand-requests|Voice mode, enabled by Gemini Live, lets you talk to Antigravity and hand requests…]]
 - Later: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-2-model-support-changes-in-v0-40-14|2 Model Support changes in v0.40.14]]
 <!-- chronolog:end -->
 

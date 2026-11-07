@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca28211df2a579962c25c53f16d81b9db2183f717a46b1116b2b748e38484586
+machine_hash: eb4bc3b25dca75f9c7fb9969cf7484b9161a62e1bab43bfe9f9fb2c749fc6f28
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-improved-the-bash-edit-diff-note-to-say-the-listed-files-changed-while-the-comma|Improved the Bash edit diff note to say the listed files changed while the command…]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-tab-stops-to-count-from-where-a-text-starts-instead-of-from-the-screen-s|Changed tab stops to count from where a text starts instead of from the screen's left edge]]
+- Later: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-file-edits-terminal-commands-and-file-reads-between-agent-replies-now-group-into|File edits, terminal commands, and file reads between agent replies now group…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

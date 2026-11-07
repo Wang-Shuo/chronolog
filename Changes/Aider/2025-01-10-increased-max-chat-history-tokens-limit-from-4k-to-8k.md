@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac2fd68a0a638dc0368966be1efd7db7b5ae3d9f49e96a846fd0e0cfe7c68691
+machine_hash: eb0a8e4a5dd5f9d9a1ad7a0bc68708e98a3c9eb5e9e7f69bd9fc3d09ba4222e7
 product: aider
 product_name: Aider
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-01-08 · Ollama · [[Changes/Ollama/2025-01-08-granite-3-1-moe-https-ollama-com-library-granite3-1-moe-1b-and-3b-long-context-m|Granite 3.1 MoE((source link)]]
-- Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-fusion-model-we-ve-trained-a-new-tab-model-that-is-substantially-better-at-jumps|Fusion Model: We've trained a new Tab Model that is substantially better at jumps…]]
+- Later: 2025-01-22 · Gamma · [[Changes/Gamma/2025-01-22-we-ve-raised-the-limits-for-card-generation-on-our-plus-and-pro-plans-to-give-yo|Generate up to 50 cards!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

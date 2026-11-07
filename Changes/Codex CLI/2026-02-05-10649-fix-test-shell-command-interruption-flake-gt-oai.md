@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f021e879c391147a7c99ec8c852723452b0eaca19738e8bbc9049ba3da585cb7
+machine_hash: 2730c2763fffe554ded7494c265723605dfd10ae9c6059cc5a68ab7dec830323
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#10649 Fix test_shell_command_interruption flake @gt-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-4-agent-mode-changes-in-rust-v0-95-0|4 Agent Mode
-  changes in rust-v0.95.0]]'
-- '[[Changes/Gemini CLI/2026-02-04-15-agent-mode-changes-in-v0-27-0|15 Agent Mode
-  changes in v0.27.0]]'
+- '[[Changes/OpenCode/2026-02-04-document-the-built-in-agents|Document the built-in
+  agents]]'
+- '[[Changes/OpenCode/2026-02-04-2-agent-mode-changes-in-v1-1-50|2 Agent Mode changes
+  in v1.1.50]]'
 - '[[Changes/Claude Code/2026-02-05-updated-resume-to-re-use-agent-value-specified-in-previous-conversation-by-defau|Updated
   --resume to re-use --agent value specified in previous conversation by default]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-05-rust-v0-97-0-github-283219180-522ab2d0|codex-cli-2026-02-05-rust-v0-97-0-github-283219180-522ab2d0]]'

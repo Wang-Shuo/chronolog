@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eafc0f0e30e1555d3bee34ec1ce4375a65e784ae7604cb274bce43f7ca27a872
+machine_hash: 5f8146544ddd824b9f9f726723d50ecbb6021e3b2d162bbcd942794fa884bc20
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,10 +52,10 @@ record:
     a share link…"
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-20-group-your-workspaces-into-an-organization|Group your
-  workspaces into an organization]]'
 - '[[Changes/Lovable/2026-10-21-see-adoption-by-department-without-scim|See adoption
   by department without SCIM]]'
+- '[[Changes/OpenClaw/2026-10-22-2-enterprise-and-administration-changes-in-v2026-10-6|2
+  Enterprise and Administration changes in v2026.10.6]]'
 - '[[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud
   sessions Added Claude Code cloud sessions and Remote Control permissions…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'

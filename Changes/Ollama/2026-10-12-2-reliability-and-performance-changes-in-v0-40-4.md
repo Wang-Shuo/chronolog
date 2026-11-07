@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d8d81e1eeb0d484b378e5865fa4e84985973dcae9ab4bb6c88cde2cc14c0ce1
+machine_hash: 51cf86a3526628eb1cbd802c53167daa13206dcb50af8f79ce775696d0daddd4
 product: ollama
 product_name: Ollama
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Reliability and Performance changes in v0.40.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved
-  transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]'
 - '[[Changes/Open WebUI/2026-10-10-5-reliability-and-performance-changes-in-v0-12-0|5
   Reliability and Performance changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-2-reliability-and-performance-changes-in-v2026-10-1|2
+  Reliability and Performance changes in v2026.10.1]]'
 - '[[Changes/Ollama/2026-10-11-paused-background-model-upgrade-for-embedding-and-other-request-performance-by-j|Paused
   background model upgrade for embedding and other request performance,]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-12-v0-40-4-github-410905890-5db61c07|ollama-2026-10-12-v0-40-4-github-410905890-5db61c07]]'

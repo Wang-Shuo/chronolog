@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1b7691e0581d511e543fba41567c691ff7e5af9610d49ec6f4dd405cf59f339c
+machine_hash: 37b5e2360c6fea04fda08ae1215f54d1d8ea3dbe96889aa743b91108e726b23c
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,12 +50,12 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode
-  changes in v2.1.261]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-stopping-a-timed-out-shell-command-now-lets-queued-messages-run-and-sessions-ret|Stopping
-  a timed-out shell command now lets queued messages run and sessions return…]]'
-- '[[Changes/Replit/2026-09-04-understand-app-usage-with-project-analytics|Understand
-  app usage with Project Analytics]]'
+- '[[Changes/Runway/2026-09-04-team-is-a-new-self-serve-plan-for-small-teams-that-create-together-in-runway-eve|Introducing
+  Team Plan]]'
+- '[[Changes/OpenClaw/2026-09-05-swarm-is-now-available-to-eligible-agents-without-a-separate-enablement-step-so|Swarm
+  is now available to eligible agents without a separate enablement step…]]'
+- '[[Changes/OpenClaw/2026-09-05-34-agent-mode-changes-in-v2026-9-2|34 Agent Mode
+  changes in v2026.9.2]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-07-2026-09-07-cf030a1d|elevenlabs-2026-09-07-2026-09-07-cf030a1d]]'
 source_type: elevenlabs_changelog
 theme: agent-mode
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-04 · Replit · [[Changes/Replit/2026-09-04-understand-app-usage-with-project-analytics|Understand app usage with Project Analytics]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-34-agent-mode-changes-in-v2026-9-2|34 Agent Mode changes in v2026.9.2]]
 - Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved /workflows agent detail]]
 <!-- chronolog:end -->
 

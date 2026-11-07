@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 13f27ecf8c102477a7235f369bab09f6a70ff2be6cfeaccc5de80ddedafba557
+machine_hash: e2636090ab135d85ef280447c614189175978a85237ca47948b38eee3fff6ae2
 product: lovable
 product_name: Lovable
 record:
@@ -56,8 +56,8 @@ record:
   title: Publish every app in your workspace under your own domain
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-08-publish-to-invited-people-only-on-free-and-pro-plans|Publish
-  to invited people only on Free and Pro plans]]'
+- '[[Changes/OpenClaw/2026-10-08-2-enterprise-and-administration-changes-in-v2026-9-9|2
+  Enterprise and Administration changes in v2026.9.9]]'
 - '[[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding):
   show the Super Admin setup guide on enterprise backends]]'
 - '[[Changes/Lovable/2026-10-09-enterprise-credit-balances-now-appear-as-numbers|Enterprise
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding): show the Super Admin setup guide on enterprise backends]]
-- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-5-enterprise-and-administration-changes-in-v0-12-0|5 Enterprise and Administration changes in v0.12.0]]
+- Later: 2026-10-09 · Runway · [[Changes/Runway/2026-10-09-workspace-admins-can-now-set-a-credit-cap-on-any-project-giving-each-team-or-cli|Project Credit Caps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

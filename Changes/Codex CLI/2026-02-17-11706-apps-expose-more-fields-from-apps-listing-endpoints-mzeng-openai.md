@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 73b4aef9fec75e76e82d88b510e6f71ad78f24178a35b2d1bf6f53e11c9580c1
+machine_hash: 15f08af3f367dc4ccfce589720ce8177e722ba6ca7d40a63cc07630fa28a8b95
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,7 +41,8 @@ record:
   title: '#11706 [apps] Expose more fields from apps listing endpoints'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-16-sdk-releases|SDK Releases]]'
+- '[[Changes/OpenCode/2026-02-16-core-bump-gitlab-provider-and-auth-plugin-for-mid-session-token-refresh|Core
+  Bump GitLab provider and auth plugin for mid-session token refresh]]'
 - '[[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps
   and Integrations changes in v2.1.45]]'
 - '[[Changes/Codex CLI/2026-02-17-15-apps-and-integrations-changes-in-rust-v0-102-0|15

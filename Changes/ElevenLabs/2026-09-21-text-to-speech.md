@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5615e4650108ff430bdcb033d6e03a6d3a43c3534fbeb9063aa22aa1f5949971
+machine_hash: 6f212ea9e57182054f04d3269b5e6af3bb128ce40bbaca7ecc1253a4fecf7970
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -53,10 +53,11 @@ record:
   title: Text to Speech
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-elevenagents-bdb11f|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-09-14-elevenagents-dab1d0|ElevenAgents]]'
 - '[[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice
   and Audio changes in rust-v0.155.0]]'
+- '[[Changes/OpenClaw/2026-09-19-15-voice-and-audio-changes-in-v2026-9-5|15 Voice
+  and Audio changes in v2026.9.5]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-09-21-2026-09-21-6d2d4d80|elevenlabs-2026-09-21-2026-09-21-6d2d4d80]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice and Audio changes in rust-v0.155.0]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-15-voice-and-audio-changes-in-v2026-9-5|15 Voice and Audio changes in v2026.9.5]]
 - Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-5-voice-and-audio-changes-in-v0-11-4|5 Voice and Audio changes in v0.11.4]]
 <!-- chronolog:end -->
 

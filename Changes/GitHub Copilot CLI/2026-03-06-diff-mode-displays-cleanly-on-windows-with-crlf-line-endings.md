@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7d49ddcb1f3f39911897b7ae96894eb45d9cefe07c7f34523598442ce82e1da5
+machine_hash: ade5dba54561e6c8b423a296dbc8cf0e7c7b61897a333646c4f0d9abbabc910d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Diff mode displays cleanly on Windows with CRLF line endings
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile
-  and Desktop changes in v2.1.69]]'
 - '[[Changes/Codex CLI/2026-03-05-13127-nit-disable-on-windows-jif-oai|♯13127 nit:
   disable on windows @jif-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-opening-links-on-windows-correctly-handles-urls-with-query-parameters|Opening
   links on Windows correctly handles URLs with & query parameters]]'
+- '[[Changes/OpenCode/2026-03-05-11-mobile-and-desktop-changes-in-v1-2-18|11 Mobile
+  and Desktop changes in v1.2.18]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e|github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-opening-links-on-windows-correctly-handles-urls-with-query-parameters|Opening links on Windows correctly handles URLs with & query parameters]]
-- Later: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-12702-improve-macos-seatbelt-network-and-unix-socket-handling-viyatb-oai|♯12702 Improve macOS Seatbelt network and unix socket handling @viyatb-oai]]
+- Earlier: 2026-03-05 · OpenCode · [[Changes/OpenCode/2026-03-05-11-mobile-and-desktop-changes-in-v1-2-18|11 Mobile and Desktop changes in v1.2.18]]
+- Later: 2026-03-06 · OpenCode · [[Changes/OpenCode/2026-03-06-desktop-fix-stale-show-in-app|Desktop Fix stale show in app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

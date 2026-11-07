@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3456711f35992ec681c757ac291792e2a898c17939c80d21342ce73a088f29f
+machine_hash: 0129a223c1b49dc1502f7f074f9bf96f6d54403fa73d3b7cc8d69e5c606a4b42
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Changed `/skills` menu to sort alphabetically for easier scanning
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-improved-mention-file-autocomplete-performance-on-large-repositories|Improved
-  @-mention file autocomplete performance on large repositories]]'
 - '[[Changes/Codex CLI/2026-03-26-3-interface-experience-changes-in-rust-v0-117-0|3
   Interface Experience changes in rust-v0.117.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3
   Interface Experience changes in v1.0.12]]'
+- '[[Changes/OpenCode/2026-03-26-2-interface-experience-changes-in-v1-3-3|2 Interface
+  Experience changes in v1.3.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3 Interface Experience changes in v1.0.12]]
+- Earlier: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-2-interface-experience-changes-in-v1-3-3|2 Interface Experience changes in v1.3.3]]
 - Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface Experience changes in 1.13.3]]
 <!-- chronolog:end -->
 

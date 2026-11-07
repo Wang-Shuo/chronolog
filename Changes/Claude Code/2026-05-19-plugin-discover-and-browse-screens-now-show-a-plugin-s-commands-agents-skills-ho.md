@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 374714b7536c2dd255fb9c150b23818901870727e344e83720bc0dbe140e869e
+machine_hash: 945d6c9769f399730eef3a992ae78851592197a31d778f6382952030e3a596f1
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,11 +61,11 @@ record:
     skills…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-18-tanstack-start-is-now-the-default-for-new-apps|TanStack
-  Start is now the default for new apps]]'
 - '[[Changes/Lovable/2026-05-18-improved-github-integration|Improved GitHub integration]]'
 - '[[Changes/Lovable/2026-05-18-chat-with-lovable-in-telegram|Chat with Lovable in
   Telegram]]'
+- '[[Changes/OpenCode/2026-05-18-core-fix-plugin-tools-using-ask-so-tool-calls-complete-correctly|Core
+  Fix plugin tools using ask so tool calls complete correctly]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-chat-with-lovable-in-telegram|Chat with Lovable in Telegram]]
+- Earlier: 2026-05-18 · OpenCode · [[Changes/OpenCode/2026-05-18-core-fix-plugin-tools-using-ask-so-tool-calls-complete-correctly|Core Fix plugin tools using ask so tool calls complete correctly]]
 - Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3 Apps and Integrations changes in v2.1.144]]
 <!-- chronolog:end -->
 

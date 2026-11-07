@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c560fa7ed84e31e11d378f353f06a28c0e61ffe9352a75ef752d69b323d0b68
+machine_hash: 035a51fbfd6d5dda591c4d40e165c1528f5a9fbb7f9740d956399a6b3d60a5ff
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode behavior]]
-- Later: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-20665-make-environment-providers-own-default-selection-starr-openai|♯20665 Make environment providers own default selection @starr-openai]]
+- Later: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-desktop-added-a-macos-settings-menu-entry|Desktop Added a macOS Settings menu entry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

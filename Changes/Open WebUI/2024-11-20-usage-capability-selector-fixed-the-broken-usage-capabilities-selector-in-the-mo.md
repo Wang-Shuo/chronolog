@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 89bad85d2999cd5738310e58dbb8c0b414da34a0712aa9d582d4f33af7e85f3a
+machine_hash: e0a1eb26e47286cb99f4b93a04871e74e1c8ef0f27b9e1f0b4d14f52143c73ed
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,8 +54,8 @@ record:
   title: "**\U0001F527 Usage Capability Selector**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-05-chore-update-type-definition-to-resolve-lint-error-in-base-usage-at-text-editor|chore:
-  update type definition to resolve lint error in Base usage at text-editor.tsx]]'
+- '[[Changes/Midjourney/2024-11-07-we-re-doing-a-community-contest-for-images-made-with-the-new-editor-please-share|Editor
+  Showcase]]'
 - '[[Changes/Gemini/2024-11-19-priority-access-with-gemini-advanced-ask-gemini-to-remember-the-things-you-care|Priority
   access with Gemini Advanced]]'
 - "[[Changes/Open WebUI/2024-11-19-auto-selected-tools-in-model-editor-tools-enabled-through-the-model-editor-are-n|\U0001F527

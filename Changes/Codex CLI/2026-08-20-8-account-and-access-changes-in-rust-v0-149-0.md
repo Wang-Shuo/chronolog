@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 118550b9f01749a6d3a850c53bfb57a6a48e8598539414cf6732b397c612a0d2
+machine_hash: ade43766d7286b05dfbba4b39a381579ee3cb57f7888be2b58a6dc602da47083
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -121,7 +121,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-16-account-and-access-changes-in-rust-v0-148-0|16 Account and Access changes in rust-v0.148.0]]
-- Later: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som-99be54|ChatGPT Work can now complete tasks on signed-in websites]]
+- Later: 2026-08-24 · OpenCode · [[Changes/OpenCode/2026-08-24-core-fixed-opencode-device-login-links-when-servers-return-relative-verification|Core Fixed OpenCode device login links when servers return relative verification…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

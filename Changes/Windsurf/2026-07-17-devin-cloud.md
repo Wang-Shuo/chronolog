@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7df92120ee9b6837f4c0de0e832df05bad6e2dfcac01aaa0e271b4ae4557b7c0
+machine_hash: 973162ed7cb9a6ec93a6c1b6a70b54207ed49a327cc13d4a250fe9bd5485c2dc
 product: windsurf
 product_name: Windsurf
 record:
@@ -47,9 +47,10 @@ record:
   title: Devin Cloud
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-13-packages|Packages]]'
 - '[[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3
   Reliability and Performance changes in v2.1.208]]'
+- '[[Changes/Google Antigravity/2026-07-16-startup-stability-fix|Startup stability
+  fix]]'
 - '[[Changes/Dify/2026-07-17-3-reliability-and-performance-changes-in-1-16-0|3 Reliability
   and Performance changes in 1.16.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-17-v3-5-17-c6033639|windsurf-2026-07-17-v3-5-17-c6033639]]'

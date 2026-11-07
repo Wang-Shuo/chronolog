@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a3b5f7ae5c50e3eacd18d3f6947a49f60745647be484d8af43a720325710a472
+machine_hash: 81fce46761c74121cfeb2bb0b80458f82427586c0069edd79f9da7711a92c95e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -71,10 +71,10 @@ record:
   title: 13 Safety and Privacy changes in rust-v0.162.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-9-safety-and-privacy-changes-in-rust-v0-161-0|9
-  Safety and Privacy changes in rust-v0.161.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-2-safety-and-privacy-changes-in-v1-0-93|2
   Safety and Privacy changes in v1.0.93]]'
+- '[[Changes/Google Antigravity/2026-10-07-on-macos-if-privacy-settings-block-antigravity-from-reading-a-file-or-folder-you|On
+  macOS, if privacy settings block Antigravity from reading a file or folder you…]]'
 - '[[Changes/Claude Code/2026-10-08-5-safety-and-privacy-changes-in-v2-1-295|5 Safety
   and Privacy changes in v2.1.295]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db|codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db]]'

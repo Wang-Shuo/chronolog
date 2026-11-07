@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ad9c6e1bffcfcd1839dcf3db4c2a89f1656185f6dab3df33a4065b846ed91965
+machine_hash: 2e7377d9de26157a5ebaf22da7828c632799b98ee0b5cb408c9f3ab65950f506
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-02 · Ollama · [[Changes/Ollama/2026-04-02-26b-mixture-of-experts-model-with-4b-active-parameters|26B (Mixture of Experts model with 4B active parameters)]]
-- Later: 2026-04-06 · Windsurf · [[Changes/Windsurf/2026-04-06-adaptive-model-router|Adaptive Model Router]]
+- Later: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-2-model-support-changes-in-v1-3-15-1|2 Model Support changes in v1.3.15 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

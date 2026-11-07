@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 250a030608930118d9ec112a7271fb751210d7c87ec35f877f7946c69f075d43
+machine_hash: 07c8fb5b77537bce18c287cd957fd51b5bb49cc04731608b32733fe905bc9fc4
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31587-stabilize-shared-rollout-budget-test-jif-oai|♯31587 Stabilize shared rollout budget test @jif-oai]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-2-collaboration-changes-in-v1-0-71|2 Collaboration changes in v1.0.71]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-20-collaboration-changes-in-v2026-7-1|20 Collaboration changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

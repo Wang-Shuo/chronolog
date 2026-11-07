@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ab674a2ab75063dee6042340aad9b6eeaac18c802e791d42c4a93d7e82b30db
+machine_hash: d28f073d99e8f00ce6fee73283eac16dfd55e98e1d3732a9875fbc80c86eb809
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,7 +45,8 @@ record:
   title: 4 Collaboration changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-13-workspaces|Workspaces]]'
+- '[[Changes/OpenClaw/2026-07-13-20-collaboration-changes-in-v2026-7-1|20 Collaboration
+  changes in v2026.7.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-2-collaboration-changes-in-v1-0-71|2 Collaboration
   changes in v1.0.71]]'
 - '[[Changes/Dify/2026-07-17-4-collaboration-changes-in-1-16-0|4 Collaboration changes

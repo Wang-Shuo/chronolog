@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09f212bd021b264d1963fecca7dc6af533d70d210cf5c2352b5932522dbe7262
+machine_hash: 5a9c034d02ec252e4029a1aa4b80aa18c6ac8cf2e5ed98162c54d3009bf5e23e
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
     during…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer
-  Workflow changes in v2.1.30]]'
-- '[[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|Added
-  /debug for Claude to help troubleshoot the current session]]'
 - '[[Changes/Dify/2026-02-03-2-developer-workflow-changes-in-1-12-0|2 Developer Workflow
   changes in 1.12.0]]'
+- '[[Changes/OpenCode/2026-02-03-revert-pull-request-that-was-mistakenly-merged|Revert
+  pull request that was mistakenly merged]]'
+- '[[Changes/OpenCode/2026-02-03-12-developer-workflow-changes-in-v1-1-49|12 Developer
+  Workflow changes in v1.1.49]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-2-developer-workflow-changes-in-1-12-0|2 Developer Workflow changes in 1.12.0]]
+- Earlier: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-12-developer-workflow-changes-in-v1-1-49|12 Developer Workflow changes in v1.1.49]]
 - Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-10-developer-workflow-changes-in-rust-v0-95-0|10 Developer Workflow changes in rust-v0.95.0]]
 <!-- chronolog:end -->
 

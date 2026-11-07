@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2bb95b78119f40e72dd2fb00eaf5b23231c5b4a3593e5a806606803829e440d
+machine_hash: 89311aa1d9d3e8f34e90ffe6823bb882c762865c5c9c37be86cc7198411d521c
 product: openhands
 product_name: OpenHands
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Developer Workflow changes in 0.44.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-06-11-improved-housekeeping-command-now-preserves-avatar-images-and-app-icons-correctl|Improved
-  Housekeeping Command]]'
 - '[[Changes/Dify/2025-06-16-keep-those-pull-requests-coming-as-we-aim-to-make-your-user-experience-as-seamle|Keep
   those pull requests coming as we aim to make your user experience as seamless…]]'
+- '[[Changes/Midjourney/2025-06-18-what-s-that-basically-imagine-an-ai-system-that-generates-imagery-in-real-time-y|What’s
+  that? Basically; imagine an AI system that generates imagery in real-time]]'
 - '[[Changes/OpenHands/2025-06-20-git-ownership-errors-in-containers-by-llamantino-in-https-github-com-all-hands-a|Git
   Ownership Errors in containers]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-44-0-github-226788383-62d9d16f|openhands-2025-06-20-0-44-0-github-226788383-62d9d16f]]'

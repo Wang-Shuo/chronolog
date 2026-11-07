@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c38cdb1f7a1e45e14013bcb676c04a45738b28dbe3919772bf176841ee3ee127
+machine_hash: 673bb798ea1d4bbda7101ba44b62e745229826899ee300c6e064ae32604ad8f8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-01 · Cline · [[Changes/Cline/2026-05-01-restore-vs-code-foreground-terminal-support-and-settings|Restore VS Code foreground terminal support and settings]]
-- Later: 2026-05-03 · Ollama · [[Changes/Ollama/2026-05-03-claude-code-on-the-terminal-can-still-be-accessed-through-the-cli-with|Claude Code on the terminal can still be accessed through the CLI with]]
+- Later: 2026-05-02 · OpenCode · [[Changes/OpenCode/2026-05-02-2-developer-workflow-changes-in-v1-14-33-1|2 Developer Workflow changes in v1.14.33 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

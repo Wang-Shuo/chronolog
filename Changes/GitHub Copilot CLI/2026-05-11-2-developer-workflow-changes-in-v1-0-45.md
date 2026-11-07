@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7e80669edbfdad3f11fd5fe25014e4cce49f1009ab9f41cbf54b2f50d8a477b
+machine_hash: e6b8e402176b07b29c7fef98f363018c55c8f4e50ed9d48a3b68a0b8f61e3f46
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Developer Workflow changes in v1.0.45
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-09-22-developer-workflow-changes-in-v0-9-3|22 Developer
-  Workflow changes in v0.9.3]]'
 - '[[Changes/Open WebUI/2026-05-10-2-developer-workflow-changes-in-v0-9-5|2 Developer
   Workflow changes in v0.9.5]]'
+- '[[Changes/OpenCode/2026-05-10-2-developer-workflow-changes-in-v1-14-45|2 Developer
+  Workflow changes in v1.14.45]]'
 - '[[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added
   hook args: string field (exec form) that spawns the command directly…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-11-v1-0-45-github-320681555-97d8cd0a|github-copilot-cli-2026-05-11-v1-0-45-github-320681555-97d8cd0a]]'
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.45
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added hook args: string field (exec form) that spawns the command directly…]]
-- Later: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-2-developer-workflow-changes-in-v0-42-0|2 Developer Workflow changes in v0.42.0]]
+- Later: 2026-05-11 · OpenCode · [[Changes/OpenCode/2026-05-11-terminal-file-and-directory-paths-now-render-relative-to-the-session-directory-w|Terminal File and directory paths now render relative to the session directory…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

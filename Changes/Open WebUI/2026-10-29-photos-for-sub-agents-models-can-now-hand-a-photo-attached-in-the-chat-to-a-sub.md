@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6827ad9675b6838af34fcb86f0a89cab00ce1b7b3312ff142687345cc6c26435
+machine_hash: 217bfa9c98e834932f4f311a573eb6a73d042dbd91263c8bb672e75d91d490be
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,8 +60,8 @@ record:
     in the chat…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-4-agent-mode-changes-in-rust-v0-165-0|4 Agent Mode
-  changes in rust-v0.165.0]]'
+- '[[Changes/OpenCode/2026-10-27-2-agent-mode-changes-in-v2-2-0|2 Agent Mode changes
+  in v2.2.0]]'
 - '[[Changes/OpenHands/2026-10-27-feat-verify-stand-in-for-digitalocean-so-managed-agents-can-be-verified-by-enyst|feat(verify):
   stand in for DigitalOcean so Managed Agents can be verified]]'
 - '[[Changes/Codex CLI/2026-10-29-7-agent-mode-changes-in-rust-v0-166-0|7 Agent Mode
@@ -112,7 +112,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-7-agent-mode-changes-in-rust-v0-166-0|7 Agent Mode changes in rust-v0.166.0]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode changes in v2.1.314]]
+- Later: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-2-agent-mode-changes-in-v2026-10-9|2 Agent Mode changes in v2026.10.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

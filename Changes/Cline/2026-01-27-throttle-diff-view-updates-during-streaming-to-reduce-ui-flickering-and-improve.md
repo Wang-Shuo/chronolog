@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78300de9298304ad8a4f55e10bca8fb7a4549bc918c4119ca346fb73b63d563a
+machine_hash: e589b0edd064de0a596057b4d6e4e3e2635a66d3c96096574b8317f535f86f0d
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: Throttle diff view updates during streaming to reduce UI flickering and improve…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability
-  and Performance changes in 2.4]]'
-- '[[Changes/Windsurf/2026-01-23-improved-overall-stability-and-reliability|Improved
-  overall stability and reliability]]'
 - '[[Changes/Ollama/2026-01-24-glm-4-7-flash-performance-and-correctness-improvements-fixing-repetitive-answers|GLM-4.7-Flash
   performance and correctness improvements, fixing repetitive answers…]]'
+- '[[Changes/OpenCode/2026-01-25-desktop-performance-improvements-in-the-app-package|Desktop
+  Performance improvements in the app package]]'
+- '[[Changes/OpenCode/2026-01-25-3-reliability-and-performance-changes-in-v1-1-35|3
+  Reliability and Performance changes in v1.1.35]]'
 source_release: '[[Releases/Cline/cline-2026-01-27-v3-54-0-github-280361451-f31b8c09|cline-2026-01-27-v3-54-0-github-280361451-f31b8c09]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-24 · Ollama · [[Changes/Ollama/2026-01-24-glm-4-7-flash-performance-and-correctness-improvements-fixing-repetitive-answers|GLM-4.7-Flash performance and correctness improvements, fixing repetitive answers…]]
-- Later: 2026-01-30 · Windsurf · [[Changes/Windsurf/2026-01-30-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
+- Earlier: 2026-01-25 · OpenCode · [[Changes/OpenCode/2026-01-25-3-reliability-and-performance-changes-in-v1-1-35|3 Reliability and Performance changes in v1.1.35]]
+- Later: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-3-reliability-and-performance-changes-in-v1-1-37|3 Reliability and Performance changes in v1.1.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

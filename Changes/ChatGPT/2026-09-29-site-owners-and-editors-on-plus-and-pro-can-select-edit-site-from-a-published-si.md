@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b0e779045bb1a35eb3715131191464891cf7f0514b6c98acb77af7f749ffc08
+machine_hash: 65abd6a7a6a9dda63c150c800fd03c79ce4132d1abc08af2bebf484cf5b7be10
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,11 +46,11 @@ record:
     Site…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-24-improved-the-error-shown-on-windows-when-a-session-can-t-be-resumed-because-its|Improved
-  the error shown on Windows when a session can''t be resumed because…]]'
 - '[[Changes/Windsurf/2026-09-24-devin-desktop|Devin Desktop]]'
 - '[[Changes/Codex CLI/2026-09-28-3-mobile-and-desktop-changes-in-rust-v0-158-0|3
   Mobile and Desktop changes in rust-v0.158.0]]'
+- '[[Changes/Google Antigravity/2026-09-28-press-option-command-p-on-macos-or-alt-shift-p-on-windows-and-linux-to-pin-or-un|Press
+  Option+Command+P on macOS or Alt+Shift+P on Windows and Linux to pin or unpin…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6|chatgpt-2026-09-29-creating-editing-and-scheduling-sites-bb025dd6]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-3-mobile-and-desktop-changes-in-rust-v0-158-0|3 Mobile and Desktop changes in rust-v0.158.0]]
+- Earlier: 2026-09-28 · Google Antigravity · [[Changes/Google Antigravity/2026-09-28-press-option-command-p-on-macos-or-alt-shift-p-on-windows-and-linux-to-pin-or-un|Press Option+Command+P on macOS or Alt+Shift+P on Windows and Linux to pin or unpin…]]
 - Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile and Desktop changes in v2.1.285]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4609c373ba82c9a14b10fb116eb5d2ded9c683a09317eb318466d7decce0bdac
+machine_hash: cab3cf494c8968317c66e24be9e95a35334cc6b99543660052f76817cc59209a
 product: dify
 product_name: Dify
 record:
@@ -42,10 +42,10 @@ record:
   title: Add grok-vision-beta to xAI + Update grok-beta Features
   type: change
 related_changes:
-- '[[Changes/Dify/2024-11-18-2-multimodal-input-changes-in-0-11-2|2 Multimodal Input
-  changes in 0.11.2]]'
 - "[[Changes/Open WebUI/2024-11-19-youtube-video-attachments-fixed-issues-preventing-proper-loading-and-attachment|\U0001F3A5
   YouTube Video Attachments]]"
+- '[[Changes/Runway/2024-11-22-this-new-feature-allows-you-to-transform-videos-into-new-aspect-ratios-by-genera|Expand
+  Video in Gen-3 Alpha Turbo]]'
 - '[[Changes/Dify/2024-11-25-support-video-proxy-and-ted-embedding-by-taowang1993-in-https-github-com-langgen|Support
   Video Proxy and TED Embedding]]'
 source_release: '[[Releases/Dify/dify-2024-11-26-0-12-1-github-187471517-1dd55641|dify-2024-11-26-0-12-1-github-187471517-1dd55641]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-support-video-proxy-and-ted-embedding-by-taowang1993-in-https-github-com-langgen|Support Video Proxy and TED Embedding]]
-- Later: 2024-12-12 · ChatGPT · [[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use the controls at the bottom of the screen, like the camera button below, to get started]]
+- Later: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-to-learn-more-about-how-to-use-patchwork-read-through-the-user-guide-and-watch-t|To learn more about how to use Patchwork, read through the user guide and watch…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f84e162a64d12e397c627608e30f23bfa52af7145332709796b2a2ada1d3576e
+machine_hash: d28bbe07b0f3aa302d6a6b1be1b8207080ea0412d76286a9d19790c97ba92781
 product: replit
 product_name: Replit
 record:
@@ -48,11 +48,12 @@ record:
   title: New animated icons for Agent modes
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-05-06-agent-command-center|Agent Command Center]]'
 - '[[Changes/Codex CLI/2026-05-07-5-agent-mode-changes-in-rust-v0-129-0|5 Agent Mode
   changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added
   the ability to control Explore subagent behavior from settings]]'
+- '[[Changes/OpenCode/2026-05-07-terminal-fix-agent-create-to-use-the-agents-path|Terminal
+  Fix /agent create to use the /agents path]]'
 source_release: '[[Releases/Replit/replit-2026-05-08-2026-05-08-5ea341bc|replit-2026-05-08-2026-05-08-5ea341bc]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -86,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added the ability to control Explore subagent behavior from settings]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode changes in v2.1.139]]
+- Earlier: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-terminal-fix-agent-create-to-use-the-agents-path|Terminal Fix /agent create to use the /agents path]]
+- Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-added-the-scout-agent-for-repo-research-docs-lookup-and-dependency-source-i|Core Added the Scout agent for repo research, docs lookup, and dependency-source…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

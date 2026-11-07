@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a3d27bdde6acb594469a66ea588e4f0d67a4bc6c913f1348e12c7140dda3e412
+machine_hash: b40ff393876af7ef2842fffdc8edcd804890072721a9549e7a9af156aa10d5b7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '#44354 Extract shared footer hint wrapping in the TUI @copyberry'
   type: change
 related_changes:
-- '[[Changes/v0/2026-09-10-new-chats-created-in-a-team-workspace-are-now-visible-to-the-team-by-default-mak|Team
-  chats are easier to discover and collaborate on]]'
 - '[[Changes/Lovable/2026-09-11-clearer-sharing-settings-for-connections|Clearer sharing
   settings for connections]]'
+- '[[Changes/OpenClaw/2026-09-11-3-collaboration-changes-in-v2026-9-4|3 Collaboration
+  changes in v2026.9.4]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md
   now writes the exported session to your home directory instead…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512|codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512]]'

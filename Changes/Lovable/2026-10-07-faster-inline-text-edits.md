@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b99889276732d25f0909cad0d7ddb050cbee1b1a3ee87229fe14f975d582379b
+machine_hash: aa8bd0f3cbf37023179addc756d0ead63f2e925ab2068fd011e50c8b67fca453
 product: lovable
 product_name: Lovable
 record:
@@ -46,8 +46,8 @@ record:
   title: Faster inline text edits
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-3-reliability-and-performance-changes-in-v2-1-287|3
-  Reliability and Performance changes in v2.1.287]]'
+- '[[Changes/Runway/2026-10-02-agent-can-now-generate-with-seedance-2-5-draft-mode-creating-fast-480p-drafts-wi|Seedance
+  2.5 Draft Mode in Agent]]'
 - '[[Changes/Claude Code/2026-10-05-2-reliability-and-performance-changes-in-v2-1-290|2
   Reliability and Performance changes in v2.1.290]]'
 - '[[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved

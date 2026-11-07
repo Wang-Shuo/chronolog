@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 594e6d5523735e45f362d44851ccfcfed54d052b29856fbf2b001b79ea106982
+machine_hash: 225af5948660678ff19047f5fa2f08d94a5f5b01be94904098bc1ba7b8b95c39
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Claude in Chrome is now generally available
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-06-29-7-apps-and-integrations-changes-in-v0-10-0|7 Apps
-  and Integrations changes in v0.10.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-9-apps-and-integrations-changes-in-v1-0-66|9
-  Apps and Integrations changes in v1.0.66]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-allow-tool-calls-to-continue-when-hooks-time-out|Allow
   tool calls to continue when hooks time out]]'
+- '[[Changes/OpenClaw/2026-06-30-34-apps-and-integrations-changes-in-v2026-6-11|34
+  Apps and Integrations changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-8-apps-and-integrations-changes-in-v1-17-12|8 Apps
+  and Integrations changes in v1.17.12]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-allow-tool-calls-to-continue-when-hooks-time-out|Allow tool calls to continue when hooks time out]]
+- Earlier: 2026-06-30 · OpenCode · [[Changes/OpenCode/2026-06-30-8-apps-and-integrations-changes-in-v1-17-12|8 Apps and Integrations changes in v1.17.12]]
 - Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2 Apps and Integrations changes in v1.0.68]]
 <!-- chronolog:end -->
 

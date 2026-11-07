@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e6bfe1de8876b7799e406f2304d49494ce4e02bbc4f21402981e33993b1375c0
+machine_hash: a3caed9638bad166b248bad14e6f88268a1f58c3e0ed5da9b0c4a98a36e4b65d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,10 @@ record:
   title: Performance improvements
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-improved-websocket-session-stability-by-continuing-ping-handling-when-idle-and-s|Improved
-  websocket session stability by continuing ping handling when idle…]]'
 - '[[Changes/Open WebUI/2026-02-12-16-reliability-and-performance-changes-in-v0-8-0|16
   Reliability and Performance changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-12-desktop-add-diff-virtualization-to-improve-performance-for-large-diffs|Desktop
+  Add diff virtualization to improve performance for large diffs]]'
 - '[[Changes/Windsurf/2026-02-12-addressed-multiple-memory-leaks|Addressed multiple
   memory leaks]]'
 scope: iOS

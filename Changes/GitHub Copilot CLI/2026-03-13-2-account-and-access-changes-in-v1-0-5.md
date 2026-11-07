@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a936ccc93b9168003d5056ee23c06cdb6dd1a85328a97a4d6bf2ac6e0c258b2
+machine_hash: a5cf2f9df88459ef347da661811705b54540568daea694d6b456a7e8a00cab20
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Account and Access changes in v1.0.5
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added
-  actionable guidance when OAuth login or connectivity checks fail due to SSL…]]'
 - '[[Changes/Gemini CLI/2026-03-11-feat-core-implement-http-authentication-support-for-a2a-remote-agents-by-sandyta|feat(core):
   implement HTTP authentication support for A2A remote agents]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-11-3-account-and-access-changes-in-v1-0-4|3
   Account and Access changes in v1.0.4]]'
+- '[[Changes/OpenCode/2026-03-12-2-account-and-access-changes-in-v1-2-25|2 Account
+  and Access changes in v1.2.25]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6|github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6]]'
 source_type: github_releases
 theme: account-access
@@ -91,8 +91,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-3-account-and-access-changes-in-v1-0-4|3 Account and Access changes in v1.0.4]]
-- Later: 2026-03-13 · v0 · [[Changes/v0/2026-03-13-added-saml-specific-re-authentication-link-in-repository-connection-dialog|Added SAML-specific re-authentication link in repository connection dialog]]
+- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-2-account-and-access-changes-in-v1-2-25|2 Account and Access changes in v1.2.25]]
+- Later: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-terminal-reorder-provider-list-in-providers-login|Terminal Reorder provider list in providers login]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

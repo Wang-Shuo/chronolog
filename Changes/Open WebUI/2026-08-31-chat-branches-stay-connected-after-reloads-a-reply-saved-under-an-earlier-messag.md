@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20bfea25f39479ccd83c8901ef57e94bd775119343bc6ee74d5992e5334a99dc
+machine_hash: 4c42cafd110b7d8225948a35c931ac81f83543bd26e6ad9fb8a62e86ac58ece4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,8 +51,8 @@ record:
     under an earlier…"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add
-  copilot app to open the GitHub Copilot app in the current directory]]'
+- '[[Changes/Gamma/2026-08-28-keep-charts-synced-with-google-sheets|Keep charts synced
+  with Google Sheets]]'
 - '[[Changes/Lovable/2026-08-28-fewer-preview-reloads-while-you-edit|Fewer preview
   reloads while you edit]]'
 - '[[Changes/v0/2026-08-28-2-editor-experience-changes-in-gpt-5-6-sol-sign-in-inside-previews|2

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8e9a6ce37cde44c87b0461f4000de4211d1867a89e456a71b4c6d800aabec783
+machine_hash: 993cf8c495211834818a3910b8643d2bdec39bed16c98836b5b5b7f090b20132
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,12 +55,12 @@ record:
     across…"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-perform-tokenizer-warmup-in-parallel-on-a-background-thread-for-better-startup-p|Perform
-  tokenizer warmup in parallel on a background thread for better startup performance]]'
 - '[[Changes/Lovable/2026-06-30-faster-ai-responses-in-your-app-with-openai-priority-processing|Faster
   AI responses in your app with OpenAI priority processing]]'
 - '[[Changes/Ollama/2026-06-30-2-reliability-and-performance-changes-in-v0-31-1|2
   Reliability and Performance changes in v0.31.1]]'
+- '[[Changes/OpenClaw/2026-06-30-4-reliability-and-performance-changes-in-v2026-6-11|4
+  Reliability and Performance changes in v2026.6.11]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-30 · Ollama · [[Changes/Ollama/2026-06-30-2-reliability-and-performance-changes-in-v0-31-1|2 Reliability and Performance changes in v0.31.1]]
-- Later: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2 Reliability and Performance changes in v2.1.199]]
+- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-4-reliability-and-performance-changes-in-v2026-6-11|4 Reliability and Performance changes in v2026.6.11]]
+- Later: 2026-07-01 · Runway · [[Changes/Runway/2026-07-01-nano-banana-2-lite-is-now-available-in-runway-create-images-at-warp-speed-withou|Nano Banana 2 Lite]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

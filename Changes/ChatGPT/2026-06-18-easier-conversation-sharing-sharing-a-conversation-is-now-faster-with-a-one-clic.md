@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0cff5578f4a2fa56e820a05ccd022aafae57117622522c91e7bdc7644ccfdd9d
+machine_hash: d2d79068bf673a1f244a333115036c60d0c0ef50d1fde6414718075b5661dbda
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,12 +54,12 @@ record:
   title: Easier conversation sharing
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-17-with-scheduled-tasks-users-can-ask-chatgpt-to-send-reminders-handle-recurring-wo|With
-  scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…]]'
 - '[[Changes/ChatGPT/2026-06-17-all-tasks-are-faster-and-more-reliable|All tasks are
   faster and more reliable]]'
 - '[[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved
   auto-retry: API connection drops mid-thinking now automatically retry…]]'
+- '[[Changes/OpenCode/2026-06-17-session-timelines-load-much-faster-and-avoid-flicker-or-scroll-jumps|Session
+  timelines load much faster and avoid flicker or scroll jumps]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-auto-retry-api-connection-drops-mid-thinking-now-automatically-retry-in|Improved auto-retry: API connection drops mid-thinking now automatically retry…]]
+- Earlier: 2026-06-17 · OpenCode · [[Changes/OpenCode/2026-06-17-session-timelines-load-much-faster-and-avoid-flicker-or-scroll-jumps|Session timelines load much faster and avoid flicker or scroll jumps]]
 - Later: 2026-06-20 · Claude Code · [[Changes/Claude Code/2026-06-20-the-stream-stall-hint-now-reads-waiting-for-api-response-will-retry-in-instead-o|The stream-stall hint now reads "Waiting for API response · will retry in …" instead…]]
 <!-- chronolog:end -->
 

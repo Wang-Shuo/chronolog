@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: acf9fbb315e3fe8decd9be43a4931f9569704e1c775c129720038f6c94ddc27f
+machine_hash: a85b6fde7990c892a9d12ab3f508fd9709c62716b3e64ff441c4e7473a3ef2f6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-2-mobile-and-desktop-changes-in-0-9-0|2 Mobile and Desktop changes in 0.9.0]]
-- Later: 2024-11-14 · Gemini · [[Changes/Gemini/2024-11-14-try-the-new-gemini-app-on-your-iphone|Try the new Gemini app on your iPhone]]
+- Later: 2024-10-16 · Suno · [[Changes/Suno/2024-10-16-download-suno-on-ios|Download Suno on iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

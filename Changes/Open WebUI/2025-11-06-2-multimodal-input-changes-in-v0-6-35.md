@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c1be15f54c7073435b80840ff4a5a8ced4ca66f9ddc26fc2127efd6861f2dd98
+machine_hash: aaf609a988f56d223958a102f6dae066941bc6a828b250933ae2a0b07e5a2259
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Multimodal Input changes in v0.6.35
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core):
-  Parse Multimodal MCP Tool responses]]'
-- '[[Changes/Gemini CLI/2025-08-14-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core):
-  Parse Multimodal MCP Tool responses]]'
+- '[[Changes/Midjourney/2025-09-04-we-re-launching-an-early-version-of-our-style-explorer-today-it-s-like-the-video|Midjourney
+  launches an early version of our style explorer today]]'
 - '[[Changes/Dify/2025-09-22-multimodal-embedding-support-richer-content-types-beyond-text|Multimodal
   Embedding: Support richer content types beyond text]]'
+- '[[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x
+  more styles]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-11-06-v0-6-35-github-260376122-7fa65234|open-webui-2025-11-06-v0-6-35-github-260376122-7fa65234]]'
 source_type: github_releases
 theme: multimodal
@@ -101,7 +101,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.35
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-multimodal-embedding-support-richer-content-types-beyond-text|Multimodal Embedding: Support richer content types beyond text]]
+- Earlier: 2025-10-06 · Midjourney · [[Changes/Midjourney/2025-10-06-we-bumped-up-the-number-of-styles-in-the-style-explorer-and-the-style-search-fea|10x more styles]]
 - Later: 2025-11-27 · Ollama · [[Changes/Ollama/2025-11-27-mistral-large-3-https-ollama-com-library-mistral-large-3-a-general-purpose-multi|Mistral-Large-3((source link) A general-purpose…]]
 <!-- chronolog:end -->
 

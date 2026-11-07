@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: adef48ace0afd6a11b14ddee2ed00c84036490c311b502fa7f8f02e3da10ce43
+machine_hash: ae7b03e0e5899b04e6ad6853a13be04b5787ead905a07b7aeada679f3b22760d
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,12 +43,12 @@ record:
   title: "**\U0001F517 Share Link Copy Button**"
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use
-  ChatGPT alongside your team]]'
-- "[[Changes/Open WebUI/2024-03-31-webhook-support-now-compatible-with-google-chat-and-microsoft-teams|\U0001F4AC
-  Webhook Support: Now compatible with Google Chat and Microsoft Teams]]"
 - "[[Changes/Open WebUI/2024-04-04-local-chat-sharing-share-chat-links-seamlessly-between-users|\U0001F5E8️
   Local Chat Sharing: Share chat links seamlessly between users]]"
+- '[[Changes/Gamma/2024-04-11-we-now-support-the-ability-to-set-default-permissions-on-all-gammas-you-create-s|Workspace
+  default permissions and default themes]]'
+- '[[Changes/Suno/2024-04-12-5-click-save-you-can-now-share-your-suno-creations-with-the-world-more-easily|5️⃣
+  Click Save]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-04-21-v0-1-120-github-152066358-632d00b7|open-webui-2024-04-21-v0-1-120-github-152066358-632d00b7]]'
 source_type: github_releases
 theme: collaboration
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-04-04 · Open WebUI · [[Changes/Open WebUI/2024-04-04-local-chat-sharing-share-chat-links-seamlessly-between-users|🗨️ Local Chat Sharing: Share chat links seamlessly between users]]
+- Earlier: 2024-04-12 · Suno · [[Changes/Suno/2024-04-12-5-click-save-you-can-now-share-your-suno-creations-with-the-world-more-easily|5️⃣ Click Save]]
 - Later: 2024-05-19 · Open WebUI · [[Changes/Open WebUI/2024-05-19-shared-chat-update-shared-chat-now-includes-creator-user-information|👤 Shared Chat Update: Shared chat now includes creator user information]]
 <!-- chronolog:end -->
 

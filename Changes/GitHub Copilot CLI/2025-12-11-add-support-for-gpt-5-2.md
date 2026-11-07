@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dec7892402fb1e773335a64cdb99e6bc10c9bfef3029a21344d87268569931a1
+machine_hash: 613a0dcc313be7c628b5807c68a61dc4a0bb7a694b5efcbf25d07c30384b4400
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-9-model-support-changes-in-1-11-0|9 Model Support changes in 1.11.0]]
-- Later: 2025-12-11 · Windsurf · [[Changes/Windsurf/2025-12-11-1-12-43-gpt-5-2-changelog-banner|1.12.43 GPT-5.2 changelog banner]]
+- Later: 2025-12-11 · Runway · [[Changes/Runway/2025-12-11-introducing-gen-4-5-the-world-s-best-video-model-now-available-for-all-paid-plan|Gen-4.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7a86d40d1396daf605fcd59dabdc6b6ad594977540ccd9a26c6acdcb46fbef91
+machine_hash: e8d8af04d9aea531769a493f613c99b98ce32430a1a14b4ccdf4b6fa7c5d2907
 product: lovable
 product_name: Lovable
 record:
@@ -51,10 +51,10 @@ record:
   title: Seamless Google and Apple authentication
   type: change
 related_changes:
-- '[[Changes/Dify/2026-02-03-3-account-and-access-changes-in-1-12-0|3 Account and
-  Access changes in 1.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-2-account-and-access-changes-in-v0-0-401|2
   Account and Access changes in v0.0.401]]'
+- '[[Changes/OpenCode/2026-02-03-terminal-enable-password-authentication-for-remote-session-attachment|Terminal
+  Enable password authentication for remote session attachment]]'
 - '[[Changes/Codex CLI/2026-02-05-2-account-and-access-changes-in-rust-v0-98-0|2 Account
   and Access changes in rust-v0.98.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-02-05-2026-02-05-46bfa67d|lovable-2026-02-05-2026-02-05-46bfa67d]]'

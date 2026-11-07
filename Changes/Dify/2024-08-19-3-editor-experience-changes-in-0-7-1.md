@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6b7b435f205fcad50128a47eb9ab1be3f2bfc76ee5bafa19a47da4827cfce29
+machine_hash: 86f0eb1ff2d00baab5022a3e0327aa28b21f138d7bcc7a3cf1403732e1f5988e
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Editor Experience changes in 0.7.1
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-10-diff-now-shows-diffs-of-all-changes-resulting-from-your-request-including-lint-a|/diff
-  now shows diffs of all changes resulting from your request, including lint…]]'
 - '[[Changes/Aider/2024-08-13-new-code-message-command-request-a-code-edit-while-in-ask-mode|New
   /code message command request a code edit while in ask mode]]'
 - "[[Changes/Open WebUI/2024-08-14-deprecated-frontend-functions-removed-frontend-functions-that-were-migrated-to-b|\U0001F5D1️
   Deprecated Frontend Functions]]"
+- '[[Changes/Midjourney/2024-08-16-we-re-releasing-a-new-web-editor-today|We''re releasing
+  a new web editor today!]]'
 source_release: '[[Releases/Dify/dify-2024-08-19-0-7-1-github-170870367-4677435e|dify-2024-08-19-0-7-1-github-170870367-4677435e]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,7 +92,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.7.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-deprecated-frontend-functions-removed-frontend-functions-that-were-migrated-to-b|🗑️ Deprecated Frontend Functions]]
+- Earlier: 2024-08-16 · Midjourney · [[Changes/Midjourney/2024-08-16-we-re-releasing-a-new-web-editor-today|We're releasing a new web editor today!]]
 - Later: 2024-08-31 · Cline · [[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You can now edit Claude's changes before accepting! When he edits or creates…]]
 <!-- chronolog:end -->
 

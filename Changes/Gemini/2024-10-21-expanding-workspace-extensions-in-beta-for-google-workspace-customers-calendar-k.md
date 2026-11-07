@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 5bd3768c51cbf86a603f13198b3361fe32bb45d3e138a8eb1feb7b8334ad124d
+machine_hash: 817e1b4ab144736f7b96692078ef5951d7b19a34342542fb72e88dc26899c052
 product: gemini
 product_name: Gemini
 record:
@@ -54,10 +54,10 @@ record:
   title: Expanding Workspace extensions in Beta for Google Workspace customers
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-10-2-pricing-model-changes-in-0-8-0|2 Pricing Model changes
-  in 0.8.0]]'
 - '[[Changes/Cline/2024-09-12-openrouter-now-supports-prompt-caching-they-re-still-working-on-reporting-cache|OpenRouter
   now supports prompt caching!]]'
+- '[[Changes/Runway/2024-09-20-workspace-analytics-now-contains-graphs-that-provide-an-overview-of-credit-usage|Credit
+  Analytics]]'
 - '[[Changes/Gemini/2024-10-21-access-to-imagen-3-now-available-for-google-workspace-customers|Access
   to Imagen 3 now available for Google Workspace customers]]'
 source_release: '[[Releases/Gemini/gemini-2024-10-21-2024-10-21-3e5cd197|gemini-2024-10-21-2024-10-21-3e5cd197]]'
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-09-12 · Cline · [[Changes/Cline/2024-09-12-openrouter-now-supports-prompt-caching-they-re-still-working-on-reporting-cache|OpenRouter now supports prompt caching!]]
-- Later: 2024-12-03 · ElevenLabs · [[Changes/ElevenLabs/2024-12-03-api|API]]
+- Earlier: 2024-09-20 · Runway · [[Changes/Runway/2024-09-20-workspace-analytics-now-contains-graphs-that-provide-an-overview-of-credit-usage|Credit Analytics]]
+- Later: 2024-11-14 · Runway · [[Changes/Runway/2024-11-14-we-have-released-a-number-of-updates-to-the-runway-api-that-gives-users-more-fea|Runway API updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

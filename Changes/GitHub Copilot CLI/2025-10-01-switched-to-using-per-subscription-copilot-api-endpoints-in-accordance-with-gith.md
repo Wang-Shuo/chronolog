@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 7eb3cecbe9990be980a1f930d141e4dc2bf975590c48d4480beb2ac5c56434e1
+machine_hash: 33f7d5ab1c5d254088252b1fd5fe759879b391f0e0917106de9c5ab8caaa6b98
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: Switched to using per-subscription Copilot API endpoints in accordance…
   type: change
 related_changes:
-- '[[Changes/Replit/2025-08-29-organization-subscription-cancellation|Organization
-  subscription cancellation]]'
+- '[[Changes/Suno/2025-08-29-help-shape-suno-s-future-by-using-listen-rank-a-new-feature-to-rate-clips-by-oth|Listen
+  and Rank, Earn Free Credits!]]'
 - '[[Changes/Lovable/2025-09-01-flexible-plan-management|Flexible plan management]]'
 - '[[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT
   launches ChatGPT Go, our low cost subscription plan, in Indonesia]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 907cf6dfba1584827be9c52d50b79b01671fe610e9a3e8dabd74a3780da2e3c9
+machine_hash: 872a0b61522cfe7c9b2b23153a61fc77dab7688821a2160db6bd1dd92867de35
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,8 +46,8 @@ record:
   title: "\U0001F3F7️ **Traceability with Log Trace and Span IDs**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-07-14-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
-  Looking for an Enterprise Plan((source link)]]'
+- '[[Changes/Midjourney/2025-07-16-we-re-starting-to-investigate-opening-up-an-enterprise-api-for-people-to-start-i|Enterprise
+  API Survey]]'
 - '[[Changes/Windsurf/2025-07-17-important-for-enterprise-customers-who-use-windsurf-across-lots-of-repos-now-you|Important
   for enterprise customers who use Windsurf across lots of repos]]'
 - "[[Changes/Open WebUI/2025-07-19-users-not-loading-in-groups-resolved-an-issue-where-user-list-was-not-displaying|\U0001F691

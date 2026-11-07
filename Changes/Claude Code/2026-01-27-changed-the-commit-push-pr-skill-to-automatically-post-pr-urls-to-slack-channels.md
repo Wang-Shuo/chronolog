@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71e888d1eeba6e9710297c15549a16257a6e9884b6d81762a01ac1b61d910358
+machine_hash: ce81d598ea586827f04343e135a15a4b677418dc259baf4a8c8cb59f44c1dfae
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
     channels…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-25-3-apps-and-integrations-changes-in-rust-v0-90-0|3
-  Apps and Integrations changes in rust-v0.90.0]]'
+- '[[Changes/OpenCode/2026-01-25-2-apps-and-integrations-changes-in-v1-1-35|2 Apps
+  and Integrations changes in v1.1.35]]'
 - '[[Changes/ElevenLabs/2026-01-26-sdk-releases|SDK Releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-26-3-apps-and-integrations-changes-in-v0-0-395|3
   Apps and Integrations changes in v0.0.395]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec9899ce08dbaf8ecc9e096db6fb44fb4f9aa987bf9cd8e1a677078ce1d29dc1
+machine_hash: d41ba0d3fcdde373a844bb6ac2618801b6375324ff9e72d9b8e1ac9f29ef8b50
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,11 +45,12 @@ record:
   title: 2 Context Window changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-3-context-window-changes-in-rust-v0-144-0|3 Context
-  Window changes in rust-v0.144.0]]'
-- '[[Changes/Cursor/2026-07-10-side-chats|Side chats]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-press-tab-to-switch-the-context-window-in-model|Press
   Tab to switch the context window in /model]]'
+- '[[Changes/OpenClaw/2026-07-13-69-context-window-changes-in-v2026-7-1|69 Context
+  Window changes in v2026.7.1]]'
+- '[[Changes/OpenCode/2026-07-13-desktop-aligned-context-token-counts-with-usage-totals|Desktop
+  Aligned context token counts with usage totals]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
 source_type: github_releases
 theme: context-window
@@ -96,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-press-tab-to-switch-the-context-window-in-model|Press Tab to switch the context window in /model]]
+- Earlier: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-desktop-aligned-context-token-counts-with-usage-totals|Desktop Aligned context token counts with usage totals]]
 - Later: 2026-07-17 · Cursor · [[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]
 <!-- chronolog:end -->
 

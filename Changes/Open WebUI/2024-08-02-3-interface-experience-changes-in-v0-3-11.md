@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af1ae907d40595aabc77bdce88a1a7636dbf869de6521e4e626c03b30537d7a6
+machine_hash: f531094d9f9bee6ed9d32d64c1f5d3a27ffb43abd6708abe80120543906a3520
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Interface Experience changes in v0.3.11
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor
-  adds a file picker, arrow key navigation, and a model toggle to Composer]]'
+- "[[Changes/Gamma/2024-07-23-we-ve-also-improved-our-gradient-picker|Gamma improves
+  our gradient picker \U0001F44D]]"
 - '[[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching
   to code and ask mode no longer summarizes the chat history]]'
 - '[[Changes/Gemini/2024-08-01-gemini-is-available-to-teens-in-more-countries-and-languages|Gemini

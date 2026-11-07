@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41ab6be43652c6d33cbd493a216cc35a1d5926755343c825ca12212e74a734b1
+machine_hash: ff7982dddce30130a52a4d00fa405161dd3ad9736d8fc0fa77bc131e06d218ef
 product: dify
 product_name: Dify
 record:
@@ -83,8 +83,8 @@ record:
   title: 11 Safety and Privacy changes in 1.18.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-22-clearer-privacy-security-settings|Clearer Privacy
-  & security settings]]'
+- '[[Changes/OpenCode/2026-10-22-upgraded-the-bundled-bun-runtime-to-1-4-4|Upgraded
+  the bundled Bun runtime to 1.4.4]]'
 - '[[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety
   and Privacy changes in v2.1.310]]'
 - '[[Changes/Codex CLI/2026-10-23-15-safety-and-privacy-changes-in-rust-v0-164-0|15

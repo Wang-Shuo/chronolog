@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec9a78bae606ce7fc562dbf2d63d5d423f6b99d19f90e7aef487485a57b3053e
+machine_hash: 4873dbd0b455b6e1d8dbce90c4eb26dcb2baacb4a955d398438836b1dcccf825
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
     forms…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-07-connect-your-app-to-gong|Connect your app to Gong]]'
 - '[[Changes/Lovable/2026-09-07-connector-forms-are-split-into-collapsible-sections|Connector
   forms are split into collapsible sections]]'
 - '[[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4
   Apps and Integrations changes in v2.1.265]]'
+- '[[Changes/OpenClaw/2026-09-08-23-apps-and-integrations-changes-in-v2026-9-3|23
+  Apps and Integrations changes in v2026.9.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4 Apps and Integrations changes in v2.1.265]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-23-apps-and-integrations-changes-in-v2026-9-3|23 Apps and Integrations changes in v2026.9.3]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19 Apps and Integrations changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

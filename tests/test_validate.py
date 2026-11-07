@@ -329,7 +329,7 @@ def test_holding_theme_is_a_card_theme_but_not_an_official_one(tmp_path: Path):
 
     assert holding_themes("_scripts/themes.yaml") == set(HOLDING_THEMES) == {"uncategorized"}
     assert "uncategorized" not in official_themes("_scripts/themes.yaml")
-    assert len(official_themes("_scripts/themes.yaml")) == 25
+    assert len(official_themes("_scripts/themes.yaml")) == 29
     source, valid_output, dlq_output = (tmp_path / name for name in ("in.json", "valid.json", "dlq.json"))
     write_json(source, {"change_cards": [valid_card(theme="uncategorized")]})
 

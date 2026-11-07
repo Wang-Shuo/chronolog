@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3324405c4adb1e8e02e64a40b8df691c64352391167c9f03528eae453523f10e
+machine_hash: cedf61a7f4c0c7b30ad5c53b08325c3521207d40d5ec3b2dd063937c411d49db
 product: open-webui
 product_name: Open WebUI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-04-15 · ChatGPT · [[Changes/ChatGPT/2025-04-15-all-images-you-create-with-chatgpt-are-now-automatically-saved-to-a-new-library|ChatGPT Image Library]]
-- Later: 2025-05-20 · Gemini · [[Changes/Gemini/2025-05-20-image-generation-just-got-an-upgrade|Image generation just got an upgrade]]
+- Later: 2025-05-16 · Manus · [[Changes/Manus/2025-05-16-manus-doesn-t-just-generate-images-it-understands-your-intent-plans-a-solution-a|Manus image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

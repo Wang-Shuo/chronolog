@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1f4ef8c29de11b09d9f93c4b671574ff2b83f58659b09730a9e237c46a907b1d
+machine_hash: 078449c012e8abce05613693c4349f6c7b5c9cec0c7f218021592866ba471665
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -53,8 +53,8 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use
-  plugins in Voice and get work done by speaking]]'
+- '[[Changes/OpenClaw/2026-09-23-18-voice-and-audio-changes-in-v2026-9-6|18 Voice
+  and Audio changes in v2026.9.6]]'
 - '[[Changes/Codex CLI/2026-09-25-5-voice-and-audio-changes-in-rust-v0-157-0|5 Voice
   and Audio changes in rust-v0.157.0]]'
 - '[[Changes/Codex CLI/2026-09-28-47975-prevent-stale-voice-answers-from-reappearing-during-speech-recovery-etraut|♯47975

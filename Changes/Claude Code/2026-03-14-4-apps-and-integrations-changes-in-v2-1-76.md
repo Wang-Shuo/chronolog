@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 03b1f71d53168fa88538a16beea7932a56e4340f4efb57317ecf69e8baf04164
+machine_hash: e7c096c913e3120eba9cc10032e0e1f89cc64848ead48107bdbd7ac187c0d541
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Apps and Integrations changes in v2.1.76
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed
-  --plugin-dir so local dev copies now override installed marketplace…]]'
 - '[[Changes/Cline/2026-03-12-hooks-reintroduced-feature-toggle|Hooks: reintroduced
   feature toggle]]'
+- '[[Changes/OpenCode/2026-03-12-2-apps-and-integrations-changes-in-v1-2-25|2 Apps
+  and Integrations changes in v1.2.25]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-4-apps-and-integrations-changes-in-v1-0-5|4
   Apps and Integrations changes in v1.0.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'

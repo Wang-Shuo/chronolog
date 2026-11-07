@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6f1712e7cca576a38bed782d53961fc003f96863e365fa67d0cfd20863c44db
+machine_hash: 60df07413e628638d6b443e54581534c1bcb2402ed452ddddfc9be18dc87c2dd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Session history is no longer lost when exiting via /quit, Ctrl+C, or restart
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-improved-rename-to-work-while-claude-is-processing-instead-of-being-silently-que|Improved
-  /rename to work while Claude is processing, instead of being silently queued]]'
+- '[[Changes/OpenCode/2026-03-13-2-projects-and-workspaces-changes-in-v1-2-26|2 Projects
+  and Workspaces changes in v1.2.26]]'
 - '[[Changes/Claude Code/2026-03-14-added-n-name-name-cli-flag-to-set-a-display-name-for-the-session-at-startup|Added
   -n / --name name CLI flag to set a display name for the session at startup]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-17-session-resume-no-longer-fails-with-session-file-is-corrupted-for-sessions-creat|Session

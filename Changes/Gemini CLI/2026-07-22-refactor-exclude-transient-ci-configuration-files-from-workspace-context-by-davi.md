@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a027c28cd5025e4b367dd09f85ad9d4577922ab1041ce49bcaf2a74455597545
+machine_hash: 47ffda32f120691a7b9e211b4f5795a2bb3afef8882025d05fde86a7aea3167b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'Refactor: exclude transient CI configuration files from workspace context'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-2-context-window-changes-in-v1-0-72|2 Context
-  Window changes in v1.0.72]]'
+- '[[Changes/OpenCode/2026-07-20-desktop-rewrite-the-v2-prompt-input-for-more-reliable-command-context-shell-atta|Desktop
+  Rewrite the v2 prompt input for more reliable command, context, shell…]]'
 - '[[Changes/Codex CLI/2026-07-21-12-context-window-changes-in-rust-v0-145-0|12 Context
   Window changes in rust-v0.145.0]]'
 - '[[Changes/Claude Code/2026-07-22-changed-skills-with-context-fork-to-run-in-the-background-by-default-opt-out-per|Changed

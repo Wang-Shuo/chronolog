@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 38a4df927d40d16af8f599eb6bb4cdc258cd4b56c08513a13c15ad69ccb7140c
+machine_hash: cdf3ed3ba7a01302bb6869f714d21f4e7005aa80bcf61307cb846dacdc860261
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -45,9 +45,10 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-15-text-to-speech|Text to Speech]]'
 - '[[Changes/Cline/2025-09-25-3-voice-and-audio-changes-in-v3-31-0|3 Voice and Audio
   changes in v3.31.0]]'
+- '[[Changes/Suno/2025-09-25-create-infinite-stem-variations-instantly-generate-vocals-drums-synths-and-more|Create
+  infinite stem variations → Instantly generate vocals, drums, synths, and more…]]'
 - '[[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn
   off voice mode, to remove the option to use voice mode in ChatGPT]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-09-29-2025-09-29-3f5c7c91|elevenlabs-2025-09-29-2025-09-29-3f5c7c91]]'

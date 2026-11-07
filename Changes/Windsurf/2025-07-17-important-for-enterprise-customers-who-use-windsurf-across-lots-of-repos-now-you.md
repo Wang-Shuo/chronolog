@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7fc0e00a58e2dc7d5c849733b99f8cd036404358ba371eafad3b58a6e25e8cd1
+machine_hash: 34489691d14840ee56bf698f0c1592daecefa9ff61c4aa4395404daeaaddbb12
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,10 +45,11 @@ record:
   title: Important for enterprise customers who use Windsurf across lots of repos
   type: change
 related_changes:
-- '[[Changes/Replit/2025-06-27-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Replit/2025-07-04-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Open WebUI/2025-07-14-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
   Looking for an Enterprise Plan((source link)]]'
+- '[[Changes/Midjourney/2025-07-16-we-re-starting-to-investigate-opening-up-an-enterprise-api-for-people-to-start-i|Enterprise
+  API Survey]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-07-17-v1-11-0-705f6ab2|windsurf-2025-07-17-v1-11-0-705f6ab2]]'
 source_type: windsurf_changelog
 theme: enterprise-admin
@@ -82,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
+- Earlier: 2025-07-16 · Midjourney · [[Changes/Midjourney/2025-07-16-we-re-starting-to-investigate-opening-up-an-enterprise-api-for-people-to-start-i|Enterprise API Survey]]
 - Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-users-not-loading-in-groups-resolved-an-issue-where-user-list-was-not-displaying|🚑 Users Not Loading in Groups]]
 <!-- chronolog:end -->
 

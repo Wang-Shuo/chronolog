@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 509437f314c423c77f370a86f55c2351cea6a42b1073f57ed112b43fa93378b6
+machine_hash: 94bba23a7d07f8ac125283c7bf7476b8d4a7b950d7d773ef5157c61a825dd0bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Improved artifact database writes
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-vscode-improved-documents-and-messages-written-for-someone-other-than-the-user-c|VSCode
-  Improved documents and messages written for someone other than the user]]'
+- '[[Changes/OpenClaw/2026-09-11-images-you-send-stay-visible-while-the-conversation-updates-and-scrolling-back-t|Images
+  you send stay visible while the conversation updates, and scrolling back…]]'
 - '[[Changes/OpenHands/2026-09-11-2-files-and-data-changes-in-v1-18-0|2 Files and
   Data changes in v1.18.0]]'
 - '[[Changes/Claude Code/2026-09-14-2-files-and-data-changes-in-v2-1-271|2 Files and

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b0513a0e3ae79989fbc638ee7b591f9380a34dfabc7c9a40c46e4bdf230291d7
+machine_hash: 63d6a60a3bfa6be8d6ebc13154aab477956e2cf8aca1c275f3a304329d5f5ef2
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,8 +60,8 @@ record:
     field…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added
-  support for full-width (zenkaku) space input from Japanese IME in checkbox selection]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-always-show-project-menu-button-on-mobile-for-accessibility|Desktop
+  Always show project menu button on mobile for accessibility]]'
 - '[[Changes/Dify/2026-02-11-added-dutch-nl-nl-language-support-across-backend-language-mapping-and-web-local|Added
   Dutch (nl-NL) language support across backend language mapping and web…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-theme-preview-appears-above-theme-list-in-screen-reader-mode|Theme

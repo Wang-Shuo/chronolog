@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d03d9be24491bb432f203a0a9d517e14eddc2129379db273a2d9f2f418ecb124
+machine_hash: 71e6c992101e355a05978201914e02f5b106aa49ea72ab051b1f306646756a46
 product: cline
 product_name: Cline
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Model Support changes in v4.1.21
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-claude-models-for-your-app-s-ai-features|Claude models
-  for your app''s AI features]]'
 - '[[Changes/Lovable/2026-09-23-enable-extended-retention-models-in-your-enterprise-workspace|Enable
   extended-retention models in your Enterprise workspace]]'
+- '[[Changes/OpenClaw/2026-09-23-22-model-support-changes-in-v2026-9-6|22 Model Support
+  changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support
   changes in v2.1.282]]'
 source_release: '[[Releases/Cline/cline-2026-09-24-v4-1-21-github-395862160-2e42664e|cline-2026-09-24-v4-1-21-github-395862160-2e42664e]]'

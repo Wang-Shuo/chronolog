@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ad03ba01b70440dc88378ecafbd7f95f7f6d40bafb5526a939d2927a106f1ea
+machine_hash: d776115487bf5288813ee71ef393fc3b6af73f77b361a12889fcc3a957afdd8e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Interface Experience changes in v1.0.81
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-6-interface-experience-changes-in-rust-v0-150-0|6
-  Interface Experience changes in rust-v0.150.0]]'
+- '[[Changes/Google Antigravity/2026-08-26-2-interface-experience-changes-in-hub-v2-11-0-generative-ui-and-ui|2
+  Interface Experience changes in HUB v2.11.0 — Generative UI and UI…]]'
 - '[[Changes/Lovable/2026-08-26-resources-removed-from-the-dashboard-sidebar|Resources
   removed from the dashboard sidebar]]'
 - '[[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface
@@ -103,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.81
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface Experience changes in v2.1.248]]
-- Later: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-feat-pin-a-favorite-sidebar-page-as-the-home-route-by-hieptl-in-https-github-com|feat: pin a favorite sidebar page as the home route]]
+- Later: 2026-08-27 · Midjourney · [[Changes/Midjourney/2026-08-27-drag-images-into-the-prompt-bar-under-attach-to-prompt|Drag images into the prompt bar under "attach to prompt”]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

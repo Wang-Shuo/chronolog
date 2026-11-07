@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b32865bbe2af0542ddf41066592aa4f673507d75f3241634373788d75b731ce8
+machine_hash: f348265fded087eec310a76311ce9ab9f5159d921bd3bb520d261316acfccfbe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Context Window changes in rust-v0.124.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-10-context-window-changes-in-rust-v0-122-0|10 Context
-  Window changes in rust-v0.122.0]]'
+- '[[Changes/OpenCode/2026-04-20-2-context-window-changes-in-v1-14-19|2 Context Window
+  changes in v1.14.19]]'
 - '[[Changes/Open WebUI/2026-04-21-8-context-window-changes-in-v0-9-0|8 Context Window
   changes in v0.9.0]]'
 - '[[Changes/Codex CLI/2026-04-23-18794-organize-context-fragments-pakrym-oai|♯18794

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f7616520e2b04adf0d8e716b4be8a16e4153dc7642d691bed2978a0644fa8eb
+machine_hash: f98e7aa0ede5262865b03b3f55074303e070b7b9594a922baa3c05a47b8a084c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,10 +54,10 @@ record:
   title: 8 Model Support changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-13-8-model-support-changes-in-1-11-3|8 Model Support changes
-  in 1.11.3]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-13-retrieving-models-handles-network-errors-from-firewalled-routes-gracefully-raise|Retrieving
-  models handles network errors from firewalled routes gracefully, raises…]]'
+- '[[Changes/Google Antigravity/2026-01-13-updated-tab-model-architecture|Updated
+  tab model architecture]]'
+- '[[Changes/OpenCode/2026-01-13-3-model-support-changes-in-v1-1-16|3 Model Support
+  changes in v1.1.16]]'
 - '[[Changes/Cline/2026-01-14-add-gpt-5-2-codex-openai-model-support|Add gpt-5.2-codex
   OpenAI model support]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40|codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40]]'

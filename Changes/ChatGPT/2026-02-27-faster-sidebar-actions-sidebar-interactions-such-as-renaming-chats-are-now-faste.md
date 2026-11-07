@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90e398566685270f87d1b50c6234e976c9e75b8b508898364d48401afdd7bb46
+machine_hash: 19c8af1093c49a8b6771ba846e58da7a000a3e791abc554046fafecb998ba8fa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,8 +54,8 @@ record:
   title: Faster sidebar actions
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-improved-tui-local-file-link-rendering-to-hide-absolute-paths-while-preserving-v|Improved
-  TUI local file-link rendering to hide absolute paths while preserving…]]'
+- '[[Changes/OpenCode/2026-02-26-desktop-fixed-keyboard-navigation-for-previous-next-message|Desktop
+  Fixed keyboard navigation for previous/next message]]'
 - '[[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic
   scroll to latest message]]'
 - '[[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-improved-tui-local-file-link-rendering-to-hide-absolute-paths-while-preserving-v|Improved TUI local file-link rendering to hide absolute paths while preserving…]]
+- Earlier: 2026-02-26 · OpenCode · [[Changes/OpenCode/2026-02-26-desktop-fixed-keyboard-navigation-for-previous-next-message|Desktop Fixed keyboard navigation for previous/next message]]
 - Later: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-2-interface-experience-changes-in-v0-31-0|2 Interface Experience changes in v0.31.0]]
 <!-- chronolog:end -->
 

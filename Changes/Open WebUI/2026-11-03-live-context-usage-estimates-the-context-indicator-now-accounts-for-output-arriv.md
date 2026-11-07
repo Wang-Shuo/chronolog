@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d93bcfd787ab4ec1ff30049c4f2589a2e0de9a71ab059a9b64d7d3fa80e61e56
+machine_hash: b4485c5fc63a61cbd5f31de9b68117fd2bfab460b1ea9ee903d8470b2170aa58
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,10 +61,10 @@ record:
     for output…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-13-context-window-changes-in-rust-v0-166-0|13 Context
-  Window changes in rust-v0.166.0]]'
-- "[[Changes/Open WebUI/2026-10-29-provider-details-for-models-administrators-editing-a-model-now-see-a-provider-de|\U0001F4C7
-  Provider details for models. Administrators editing a model now see a Provider…]]"
+- '[[Changes/OpenCode/2026-10-30-2-context-window-changes-in-v2-2-5|2 Context Window
+  changes in v2.2.5]]'
+- '[[Changes/OpenCode/2026-10-30-percentage-compaction-buffer|Percentage Compaction
+  Buffer]]'
 - '[[Changes/Ollama/2026-11-03-qwen3-and-qwen3-5-models-using-long-context-yarn-scaling|Qwen3
   and Qwen3.5 models using long-context (YaRN) scaling]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'
@@ -114,7 +114,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-qwen3-and-qwen3-5-models-using-long-context-yarn-scaling|Qwen3 and Qwen3.5 models using long-context (YaRN) scaling]]
-- Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-6-context-window-changes-in-1-19-0|6 Context Window changes in 1.19.0]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-5-context-window-changes-in-v2026-10-10|5 Context Window changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

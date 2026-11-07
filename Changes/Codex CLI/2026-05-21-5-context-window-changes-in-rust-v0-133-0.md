@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d15368b9370392d8ecd8622ae220262ba08317f1b05f6929a364506278c4e7df
+machine_hash: 7a36a2c6dc05fe12c0aaa2e50a4abe8440c6192b7828f37a87cf469e43124eb4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 5 Context Window changes in rust-v0.133.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The
-  post-survey follow-up hint now appears after every non-dismiss survey response…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-document-attachment-paths-are-included-in-context-so-the-agent-can-reference-pas|Document
   attachment paths are included in context so the agent can reference pasted…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-customizable-status-line-in-the-terminal-footer-displays-session-info-such-as-mo|Customizable
   status line in the terminal footer displays session info such as model…]]'
+- '[[Changes/OpenCode/2026-05-20-core-zed-editor-context-now-only-activates-inside-zed-terminals|Core
+  Zed editor context now only activates inside Zed terminals]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc|codex-cli-2026-05-21-rust-v0-133-0-github-327109656-130a26bc]]'
 source_type: github_releases
 theme: context-window
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.133.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-customizable-status-line-in-the-terminal-footer-displays-session-info-such-as-mo|Customizable status line in the terminal footer displays session info such as model…]]
+- Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-core-zed-editor-context-now-only-activates-inside-zed-terminals|Core Zed editor context now only activates inside Zed terminals]]
 - Later: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-improved-feedback-reports-to-include-the-conversation-that-happened-before-conte|Improved /feedback reports to include the conversation that happened before…]]
 <!-- chronolog:end -->
 

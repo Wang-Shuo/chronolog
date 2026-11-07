@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39255cac813272ae4740633d73db3688c0ac1bdec867dbd8614e2f40ffdd1469
+machine_hash: 9e2e3f5f924119db84dfbf0468810c7bc7b0f116f16b3f73a26d07df49d43bac
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
     access to a shared…"
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-13-2-collaboration-changes-in-v1-0-25|2 Collaboration
-  changes in v1.0.25]]'
 - '[[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717
   codex Refactor marketplace add into shared core flow @xli-oai]]'
+- '[[Changes/OpenCode/2026-04-18-core-stopped-share-sync-attempts-for-sessions-that-were-never-shared|Core
+  Stopped share sync attempts for sessions that were never shared]]'
 - '[[Changes/Codex CLI/2026-04-20-18398-refactor-use-cloneable-async-channels-for-shared-receivers-bolinfest|♯18398
   refactor: use cloneable async channels for shared receivers @bolinfest]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a|open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a]]'

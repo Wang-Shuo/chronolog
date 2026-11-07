@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6370728d9d6afa61c6f11f9a47edf670f522734431b188bfc3044b759cba7a18
+machine_hash: f2f989d915ac517e36d93a30a8c050a308ee4dedf155134a841dd9911e218c4b
 product: v0
 product_name: v0
 record:
@@ -43,12 +43,12 @@ record:
   title: Improved file diff view to show lines changed
   type: change
 related_changes:
-- '[[Changes/v0/2026-02-05-improved-console-icons-and-titles-in-the-editor|Improved
-  console icons and titles in the editor]]'
 - '[[Changes/v0/2026-02-09-synced-project-and-chat-names-to-editor-explorer-header|Synced
   project and chat names to editor explorer header]]'
 - '[[Changes/Gemini CLI/2026-02-10-3-editor-experience-changes-in-v0-28-0|3 Editor
   Experience changes in v0.28.0]]'
+- '[[Changes/OpenCode/2026-02-10-4-editor-experience-changes-in-v1-1-54|4 Editor Experience
+  changes in v1.1.54]]'
 source_release: '[[Releases/v0/v0-2026-02-10-2026-02-10-f68cbb6a|v0-2026-02-10-2026-02-10-f68cbb6a]]'
 source_type: v0_changelog
 theme: editor-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-3-editor-experience-changes-in-v0-28-0|3 Editor Experience changes in v0.28.0]]
+- Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-4-editor-experience-changes-in-v1-1-54|4 Editor Experience changes in v1.1.54]]
 - Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-2-editor-experience-changes-in-rust-v0-99-0|2 Editor Experience changes in rust-v0.99.0]]
 <!-- chronolog:end -->
 

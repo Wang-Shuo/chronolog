@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 89c9c5d479c9fc5b146cae300fb6126835a5cfda51cb3f078a547f87b995d18e
+machine_hash: d34ae9c5f9d73288eed6610263169568862d18ec8ee137f0ced7b10ff5ea5742
 product: replit
 product_name: Replit
 record:
@@ -51,10 +51,10 @@ record:
   title: Plaid connector is live
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-24-chat-connectors-sentry-mcp|Chat connectors: Sentry
-  MCP]]'
 - '[[Changes/Open WebUI/2026-04-24-2-apps-and-integrations-changes-in-v0-9-2|2 Apps
   and Integrations changes in v0.9.2]]'
+- '[[Changes/OpenCode/2026-04-24-added-an-experimental-http-api-endpoint-for-mcp-server-status|Added
+  an experimental HTTP API endpoint for MCP server status]]'
 - '[[Changes/Replit/2026-04-24-integrations|Integrations]]'
 source_release: '[[Releases/Replit/replit-2026-04-24-2026-04-24-4062672c|replit-2026-04-24-2026-04-24-4062672c]]'
 source_type: replit_changelog
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-24 · Open WebUI · [[Changes/Open WebUI/2026-04-24-2-apps-and-integrations-changes-in-v0-9-2|2 Apps and Integrations changes in v0.9.2]]
+- Earlier: 2026-04-24 · OpenCode · [[Changes/OpenCode/2026-04-24-added-an-experimental-http-api-endpoint-for-mcp-server-status|Added an experimental HTTP API endpoint for MCP server status]]
 - Later: 2026-04-27 · ElevenLabs · [[Changes/ElevenLabs/2026-04-27-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 

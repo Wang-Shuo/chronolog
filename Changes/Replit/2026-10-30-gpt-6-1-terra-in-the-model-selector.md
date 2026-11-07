@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 06af3b936bb4007cdf8e487d194c66cc157cea0d357a6f08500ee570398677dd
+machine_hash: bec423792eec34c4d5f296489e0b591dc67e6ebb1ef544da10a8c84a1472d603
 product: replit
 product_name: Replit
 record:
@@ -46,12 +46,12 @@ record:
   title: GPT-6.1 Terra in the model selector
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model
-  Support changes in rust-v0.166.0]]'
-- '[[Changes/Open WebUI/2026-10-29-7-model-support-changes-in-v0-12-5|7 Model Support
-  changes in v0.12.5]]'
 - '[[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support
   changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-2-model-support-changes-in-v2-2-3|2 Model Support
+  changes in v2.2.3]]'
+- '[[Changes/OpenCode/2026-10-30-core-reasoning-is-no-longer-turned-into-plain-text-when-you-switch-models-or-res|Core
+  Reasoning is no longer turned into plain text when you switch models or resume…]]'
 source_release: '[[Releases/Replit/replit-2026-10-30-2026-10-30-8c94fa6c|replit-2026-10-30-2026-10-30-8c94fa6c]]'
 source_type: replit_changelog
 theme: model-support
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support changes in v2.1.314]]
+- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-core-reasoning-is-no-longer-turned-into-plain-text-when-you-switch-models-or-res|Core Reasoning is no longer turned into plain text when you switch models or resume…]]
 - Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated fast mode for Opus 4.8 as of October 30, 2026]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b87ee0949dac57b75fc527de8112788a4f50e5beccef5085c59d1e6c9c87de97
+machine_hash: 65a19a268660091a9eb990422b3053b9e5577627eaf128bfb5799ed2cdee0ff3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,8 +60,8 @@ record:
   title: Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed
-  /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]]'
+- '[[Changes/OpenClaw/2026-09-08-3-search-and-browsing-changes-in-v2026-9-3|3 Search
+  and Browsing changes in v2026.9.3]]'
 - '[[Changes/Codex CLI/2026-09-09-experimental-worktree-support-lets-you-create-isolated-checkouts-for-new-or-fork|Experimental
   worktree support lets you create isolated checkouts for new or forked…]]'
 - '[[Changes/Lovable/2026-09-09-compare-and-restore-earlier-versions-of-a-plan|Compare
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-09-09 · Lovable · [[Changes/Lovable/2026-09-09-compare-and-restore-earlier-versions-of-a-plan|Compare and restore earlier versions of a plan]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-add-json-to-copilot-plugin-list-copilot-plugin-marketplace-list-and-copilot-plug|Add --json to copilot plugin list, copilot plugin marketplace list…]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-3-search-and-browsing-changes-in-v2026-9-4|3 Search and Browsing changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

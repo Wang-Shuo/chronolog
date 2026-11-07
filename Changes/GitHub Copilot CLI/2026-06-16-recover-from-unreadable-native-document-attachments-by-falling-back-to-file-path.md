@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 42977cb6700e4f04d9723d96963579b7e479e9a9acdd2fc9ff4c5531de39d06d
+machine_hash: b28806d97fb828876a69b879df3b7bcaf6d41f33d6a97819d0e88dec44500957
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
     uploads
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive
-  charts in answers]]'
 - '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen
   writing blocks for longer-form work]]'
+- '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-and-pdf-support|Quota
+  Screen Redesign and PDF Support]]'
 - '[[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add
   visual references when you generate media on Canvas]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49|github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49]]'

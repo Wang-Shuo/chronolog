@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7947a0a0861eab4643ace9b6c77bec802aa4781b0c12781465067db0e57c1f41
+machine_hash: bc8915358655b80440a5d00389dee3475d95fa244e9e24e2ce1e5ad5225be192
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed noisy in-app terminal notifications and improved shortcut behavior]]
-- Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal cursor positions correctly on the input field instead of on decorative…]]
+- Later: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-7-developer-workflow-changes-in-v1-14-49|7 Developer Workflow changes in v1.14.49]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

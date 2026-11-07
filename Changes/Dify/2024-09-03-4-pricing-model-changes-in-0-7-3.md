@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31e94a18f69ccd21fd93fffa12a906603395648880625b0528859cf91eada8cb
+machine_hash: 68335acc2bde33a7bde280e4ab500b7d67c530141215cbe5b6a57dcf110d4f1b
 product: dify
 product_name: Dify
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Pricing Model changes in 0.7.3
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced
-  token usage and cost reporting]]'
+- '[[Changes/Suno/2024-08-12-effective-immediately-all-pro-premier-creators-will-receive-50-free-credits-per|Pro
+  / Premier creators now get 50 credits per day]]'
 - '[[Changes/Aider/2024-08-13-improved-token-and-cost-reporting-for-infinite-output|Improved
   token and cost reporting for infinite output]]'
 - '[[Changes/Aider/2024-08-20-improved-cost-estimate-logic-for-caching|Improved cost

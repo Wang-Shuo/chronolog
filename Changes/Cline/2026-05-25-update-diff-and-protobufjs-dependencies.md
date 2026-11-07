@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc48adeb507f0791457e1813767c7af8fee0d1ce635dce4e9d857094c691ea0c
+machine_hash: 7c6d9e665963655e4ec3c76c43081d2577b0584c836e8cabe440fb0f20af96ef
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: Update `diff` and `protobufjs` dependencies
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci:
-  implement codebase-aware effort level triage]]'
+- '[[Changes/OpenCode/2026-05-22-2-editor-experience-changes-in-v1-15-9|2 Editor Experience
+  changes in v1.15.9]]'
 - '[[Changes/Replit/2026-05-22-layout-controls-in-the-visual-editor|Layout controls
   in the Visual Editor]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-automatically-prune-old-process-log-files-from-copilot-logs-at-startup-to-preven|Automatically

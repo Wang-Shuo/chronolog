@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f361919e1a062448d3094d0b529b557a067026ab1a7f91422c360e28b68b9f0
+machine_hash: e7e5d7effef31bc8d0f3e2e4a64b6f741dcea709fe20d6f20bdaa31904418e55
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Files and Data changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-09-10-bring-google-gemini-to-your-pc-with-the-new-windows-app|Bring
-  Google Gemini to your PC with the new Windows app]]'
 - '[[Changes/Claude Code/2026-09-11-vscode-improved-documents-and-messages-written-for-someone-other-than-the-user-c|VSCode
   Improved documents and messages written for someone other than the user]]'
+- '[[Changes/OpenClaw/2026-09-11-images-you-send-stay-visible-while-the-conversation-updates-and-scrolling-back-t|Images
+  you send stay visible while the conversation updates, and scrolling back…]]'
 - '[[Changes/OpenHands/2026-09-11-2-files-and-data-changes-in-v1-18-0|2 Files and
   Data changes in v1.18.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'

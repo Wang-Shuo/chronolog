@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a90a2756a905cad2c3b7887b9013c6fb3ba8a9d6d6225348c5701a83aa1e7aa9
+machine_hash: 6c3bb25f2b0c50fe2775d61ac0416fed0a5f5e4935fc4b8d6a59b690284e5454
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Collaboration changes in Share files and folders…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-6-collaboration-changes-in-rust-v0-153-0|6 Collaboration
-  changes in rust-v0.153.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-exporting-a-resumed-session-with-share-or-share-gist-writes-the-whole-transcript|Exporting
-  a resumed session with --share or --share-gist writes the whole transcript…]]'
+- '[[Changes/OpenClaw/2026-09-05-9-collaboration-changes-in-v2026-9-2|9 Collaboration
+  changes in v2026.9.2]]'
 - '[[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share
   a prompt]]'
+- '[[Changes/OpenClaw/2026-09-08-4-collaboration-changes-in-v2026-9-3|4 Collaboration
+  changes in v2026.9.3]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d|chatgpt-2026-09-09-share-files-and-folders-from-your-library-37c26e4d]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -93,7 +93,7 @@ Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#share-
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-08 · ChatGPT · [[Changes/ChatGPT/2026-09-08-share-a-prompt-share-the-prompt-for-a-generated-image-so-others-can-create-their|Share a prompt]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-4-collaboration-changes-in-v2026-9-3|4 Collaboration changes in v2026.9.3]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

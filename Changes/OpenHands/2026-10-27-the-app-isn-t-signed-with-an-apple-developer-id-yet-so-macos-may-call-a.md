@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 89501ac071bd3b2400332cec1b7f64dfbed64fcb3842cf1be44a43a78986290f
+machine_hash: 3e7da29c85a5ab33a15ad6a2f5fb184606ae30f734a05e9db7535c7fbcea2bfc
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: The app isn't signed with an Apple Developer ID yet, so macOS may call a
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-2-mobile-and-desktop-changes-in-elevenlabs-updates-2026-10-26|2
-  Mobile and Desktop changes in ElevenLabs updates — 2026-10-26]]'
-- '[[Changes/Windsurf/2026-10-26-on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co|On
-  macOS, banners at the top of the window no longer interfere with the window controls]]'
-- '[[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You
-  can learn more about how ChatGPT uses connected apps here]]'
+- '[[Changes/OpenCode/2026-10-27-73-mobile-and-desktop-changes-in-v2-2-0|73 Mobile
+  and Desktop changes in v2.2.0]]'
+- '[[Changes/OpenCode/2026-10-27-restored-the-todo-tool-in-desktop-via-opt-in|Restored
+  the Todo tool in desktop via opt-in]]'
+- '[[Changes/OpenCode/2026-10-27-refreshed-the-desktop-app-experience|Refreshed the
+  desktop app experience]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892|openhands-2026-10-27-v1-34-0-github-425575573-3f638892]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-27 · ChatGPT · [[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You can learn more about how ChatGPT uses connected apps here]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-refreshed-the-desktop-app-experience|Refreshed the desktop app experience]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57503-fix-macos-standalone-release-pruning-etraut-openai|♯57503 Fix macOS standalone release pruning @etraut-openai]]
 <!-- chronolog:end -->
 

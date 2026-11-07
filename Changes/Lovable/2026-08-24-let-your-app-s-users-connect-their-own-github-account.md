@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 636fec209ae5333878bd81e85280f26cfbcf99deceb182b0b8883748661e9940
+machine_hash: 9fd447f5d35a437a65e0bea43793a5093de032474658fd6ef8d60ff8b4bca9b9
 product: lovable
 product_name: Lovable
 record:
@@ -57,8 +57,9 @@ record:
   title: Let your app's users connect their own GitHub account
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-24-sdk-releases|SDK Releases]]'
 - '[[Changes/ElevenLabs/2026-08-24-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Google Antigravity/2026-08-24-model-context-protocol-mcp-and-custom-tool-execution-steps-now-display-structure|Model
+  Context Protocol (MCP) and custom tool execution steps now display structured…]]'
 - '[[Changes/Lovable/2026-08-24-add-an-mcp-registry-from-the-catalog-header|Add an
   MCP registry from the catalog header]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-24-2026-08-24-b7c01132|lovable-2026-08-24-2026-08-24-b7c01132]]'
@@ -93,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-javascript-sdk|JavaScript SDK]]
+- Earlier: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-model-context-protocol-mcp-and-custom-tool-execution-steps-now-display-structure|Model Context Protocol (MCP) and custom tool execution steps now display structured…]]
 - Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-3-apps-and-integrations-changes-in-v2-1-246|3 Apps and Integrations changes in v2.1.246]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 435d65aecaf64b8387a12e53197d5abc143675499f8fe7d54c8eefd9333ba2ad
+machine_hash: f68c033fb6f27858409f5015c4a8dcecd4ec949cff043c0fc5bee692126b1ebb
 product: open-webui
 product_name: Open WebUI
 record:
@@ -66,10 +66,10 @@ record:
   title: 6 Memory and Personalization changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-vscode-added-memory-and-instructions-entries-to-the-customize-menu-memory-shows|VSCode
-  Added Memory and Instructions entries to the Customize menu]]'
 - '[[Changes/Codex CLI/2026-09-17-7-memory-and-personalization-changes-in-rust-v0-155-0|7
   Memory and Personalization changes in rust-v0.155.0]]'
+- '[[Changes/OpenClaw/2026-09-19-31-memory-and-personalization-changes-in-v2026-9-5|31
+  Memory and Personalization changes in v2026.9.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-tear-down-the-processes-an-internal-git-command-started-when-it-times-out-so-a-s|Tear
   down the processes an internal git command started when it times out, so a slow…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff45706927a2c78c8a82517385ce1879650e8470fa6fd978ecd041c8b3fc85b2
+machine_hash: 52676c14328fc862470458dbb5c19e3b86c85faad0ec714b2c844ee62b57c9fd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved use of plugins and tools to carry out tasks
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-14-connect-your-app-to-bing-webmaster-tools|Connect your
-  app to Bing Webmaster Tools]]'
 - '[[Changes/Open WebUI/2026-10-14-2-apps-and-integrations-changes-in-v0-12-1|2 Apps
   and Integrations changes in v0.12.1]]'
 - '[[Changes/Codex CLI/2026-10-15-15-apps-and-integrations-changes-in-rust-v0-163-0|15
   Apps and Integrations changes in rust-v0.163.0]]'
+- '[[Changes/Runway/2026-10-15-remove-backgrounds-automatically-in-runway-mcp-with-birefnet-v2-it-detects-the-f|BiRefNet
+  v2 Background Removal]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a|chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-15-apps-and-integrations-changes-in-rust-v0-163-0|15 Apps and Integrations changes in rust-v0.163.0]]
+- Earlier: 2026-10-15 · Runway · [[Changes/Runway/2026-10-15-remove-backgrounds-automatically-in-runway-mcp-with-birefnet-v2-it-detects-the-f|BiRefNet v2 Background Removal]]
 - Later: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3 Apps and Integrations changes in v2.1.302]]
 <!-- chronolog:end -->
 

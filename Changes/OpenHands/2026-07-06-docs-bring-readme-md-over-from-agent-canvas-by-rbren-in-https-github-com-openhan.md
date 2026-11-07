@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: fd90278eb71f5a44897ccdceb5d6f3b8dae3952c077a03b993ed41a8d65a0287
+machine_hash: 984fd30b859a4345a9f24f8abb0923a7ab4fabd1117afec307c6445f6d2cc21d
 product: openhands
 product_name: OpenHands
 record:
@@ -53,12 +53,12 @@ record:
   title: 'docs: Bring README.md over from Agent Canvas'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added
-  clickable file attachments in chat]]'
 - '[[Changes/Open WebUI/2026-06-29-5-files-and-data-changes-in-v0-10-0|5 Files and
   Data changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-match-the-terminal-text-color-to-the-github-theme-canvas|Match
   the terminal text color to the GitHub theme canvas]]'
+- '[[Changes/OpenClaw/2026-06-30-canvas-a2ui-now-serves-only-the-current-app-assets-after-each-build-so-outdated|Canvas
+  A2UI now serves only the current app assets after each build, so outdated…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: file-data
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-match-the-terminal-text-color-to-the-github-theme-canvas|Match the terminal text color to the GitHub theme canvas]]
+- Earlier: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-canvas-a2ui-now-serves-only-the-current-app-assets-after-each-build-so-outdated|Canvas A2UI now serves only the current app assets after each build, so outdated…]]
 - Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-27714-app-server-document-thread-and-turn-ids-are-uuid7-owenlin0|♯27714 app-server: document thread and turn IDs are UUID7 @owenlin0]]
 <!-- chronolog:end -->
 

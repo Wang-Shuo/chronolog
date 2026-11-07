@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2c94be2c8a9537b1e01cad706a52324cef382a2ea6eb1dd42a523d4ef6e29be6
+machine_hash: 2b94748ed94e25b07bbe07eb9f2d6563d78b36a923f066854103fc3f99734f36
 product: lovable
 product_name: Lovable
 record:
@@ -63,8 +63,8 @@ record:
   title: Restrict external collaborators without enforcing SSO
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-12-safety-and-privacy-changes-in-rust-v0-142-0|12
-  Safety and Privacy changes in rust-v0.142.0]]'
+- '[[Changes/Google Antigravity/2026-06-22-model-quota-screen-and-agent-security-fixes|Model
+  quota screen and agent security fixes]]'
 - '[[Changes/Claude Code/2026-06-23-2-safety-and-privacy-changes-in-v2-1-187|2 Safety
   and Privacy changes in v2.1.187]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-6-safety-and-privacy-changes-in-v1-0-64|6

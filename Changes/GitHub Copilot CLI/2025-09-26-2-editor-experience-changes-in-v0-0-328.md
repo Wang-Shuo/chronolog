@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6247b09112598874fc03c4580fda6543514d46b153b86ec1eb8522da01439707
+machine_hash: b8977a5574f081b7c32717e1aaca7d87b1c1d6ef25e3a9aea5342f4932b7a226
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,12 @@ record:
   title: 2 Editor Experience changes in v0.0.328
   type: change
 related_changes:
-- '[[Changes/Replit/2025-09-19-soc-2-pentest-completion|SOC 2 pentest completion]]'
 - '[[Changes/Gemini CLI/2025-09-24-8-editor-experience-changes-in-v0-6-0|8 Editor
   Experience changes in v0.6.0]]'
 - '[[Changes/Open WebUI/2025-09-25-2-editor-experience-changes-in-v0-6-31|2 Editor
   Experience changes in v0.6.31]]'
+- '[[Changes/Suno/2025-09-25-edit-in-a-multitrack-timeline-arrange-layer-and-refine-with-precision-control-bp|Edit
+  in a multitrack timeline → Arrange, layer, and refine with precision]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-09-26-v0-0-328-github-250426078-8d17da88|github-copilot-cli-2025-09-26-v0-0-328-github-250426078-8d17da88]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,7 +83,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.328
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-2-editor-experience-changes-in-v0-6-31|2 Editor Experience changes in v0.6.31]]
+- Earlier: 2025-09-25 · Suno · [[Changes/Suno/2025-09-25-edit-in-a-multitrack-timeline-arrange-layer-and-refine-with-precision-control-bp|Edit in a multitrack timeline → Arrange, layer, and refine with precision]]
 - Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|Autocomplete for Agent]]
 <!-- chronolog:end -->
 

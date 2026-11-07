@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 221086a08b3d5302d3636ace32c367cd4db97b8af501ad6083ac800f4630cfa1
+machine_hash: 2d443bdd50c5bccff78ab064f71aad0c7cb620ebbdb3bd91c1d4f811b6ebd68a
 product: replit
 product_name: Replit
 record:
@@ -50,8 +50,8 @@ record:
   title: Agent accepts SVG uploads
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added
-  the ability to control Explore subagent behavior from settings]]'
+- '[[Changes/OpenCode/2026-05-07-terminal-fix-agent-create-to-use-the-agents-path|Terminal
+  Fix /agent create to use the /agents path]]'
 - '[[Changes/Replit/2026-05-08-new-animated-icons-for-agent-modes|New animated icons
   for Agent modes]]'
 - '[[Changes/Replit/2026-05-08-agent|Agent]]'
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added the ability to control Explore subagent behavior from settings]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode changes in v2.1.139]]
+- Earlier: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-terminal-fix-agent-create-to-use-the-agents-path|Terminal Fix /agent create to use the /agents path]]
+- Later: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-core-added-the-scout-agent-for-repo-research-docs-lookup-and-dependency-source-i|Core Added the Scout agent for repo research, docs lookup, and dependency-source…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

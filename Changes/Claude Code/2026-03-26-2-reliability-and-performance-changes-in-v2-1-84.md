@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44a8d5345f1c25492b20e5aa14e92994ef97ec2389a91ba0cba6a87f5e74faad
+machine_hash: 183e711c70f93a0712968fe90288216a3d144bcb53fe828cebacc1f65812a64d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Reliability and Performance changes in v2.1.84
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0
-  Release Candidate]]'
+- '[[Changes/OpenCode/2026-03-24-2-reliability-and-performance-changes-in-v1-3-2-1|2
+  Reliability and Performance changes in v1.3.2 + 1]]'
 - '[[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3
   Reliability and Performance changes in v2.1.83]]'
 - '[[Changes/Open WebUI/2026-03-25-5-reliability-and-performance-changes-in-v0-8-11|5

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d5ae6d41aed8d01404bd1170c24ce8dbb97086625e7f7593093680eb985878c
+machine_hash: 64fa9563b5af5d88000e577c983a8f278ddd54323907a073427068adbdfcca72
 product: dify
 product_name: Dify
 record:
@@ -57,10 +57,10 @@ record:
   title: 5 Safety and Privacy changes in 1.11.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-2-safety-and-privacy-changes-in-rust-v0-80-0|2 Safety
-  and Privacy changes in rust-v0.80.0]]'
-- '[[Changes/Open WebUI/2026-01-09-6-safety-and-privacy-changes-in-v0-7-0|6 Safety
-  and Privacy changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-12-core-add-password-authentication-and-improve-server-security|Core
+  Add password authentication and improve server security]]'
+- '[[Changes/OpenCode/2026-01-12-core-check-worktree-for-external-directory-permission-in-subdirectories|Core
+  Check worktree for external_directory permission in subdirectories]]'
 - '[[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed
   permission bypass via shell line continuation that could allow blocked…]]'
 source_release: '[[Releases/Dify/dify-2026-01-13-1-11-3-github-276298566-1fe35168|dify-2026-01-13-1-11-3-github-276298566-1fe35168]]'

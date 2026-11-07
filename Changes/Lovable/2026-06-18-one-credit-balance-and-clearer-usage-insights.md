@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: caaffca00e76a9da7d6afa585061b21354e27642bd6779c7dbf321ca48cc905d
+machine_hash: 18c64cd46a5c4a63503d810f6a7d4e6117fc6275febb066977f42127c0cbf8cc
 product: lovable
 product_name: Lovable
 record:
@@ -56,9 +56,10 @@ record:
   title: One credit balance and clearer usage insights
   type: change
 related_changes:
-- '[[Changes/Replit/2026-06-05-billing|Billing]]'
 - '[[Changes/Windsurf/2026-06-06-simplified-model-picker-pricing-view-for-select-enterprise-customers|Simplified
   model picker pricing view for select enterprise customers]]'
+- '[[Changes/Google Antigravity/2026-06-11-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
+  screen redesign]]'
 - '[[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143
   feat(app-server): expose rate-limit reset credits @jayp-oai]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-18-2026-06-18-3e62b64d|lovable-2026-06-18-2026-06-18-3e62b64d]]'

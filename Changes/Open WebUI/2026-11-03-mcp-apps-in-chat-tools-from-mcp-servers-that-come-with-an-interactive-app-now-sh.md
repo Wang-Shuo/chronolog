@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1b612c6992acf8fc27ed85345c92240f6bbc1b92e1de2b5fff7d986e1406195
+machine_hash: 602d975562f6eda6b9f1989a40315f878bf8526745c8ed04bc35e08ba8ddffa4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,11 +53,11 @@ record:
     interactive app now…"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7
-  Apps and Integrations changes in v2.1.316]]'
 - '[[Changes/ElevenLabs/2026-11-02-channel-integrations-asynchronous-channels-such-as-slack-telegram-intercom-gmail|Channel
   integrations: Asynchronous channels such as Slack, Telegram, Intercom…]]'
 - '[[Changes/Lovable/2026-11-02-connect-your-app-to-bamboohr|Connect your app to BambooHR]]'
+- '[[Changes/Google Antigravity/2026-11-03-2-apps-and-integrations-changes-in-hub-v2-29-0-voice-mode-remote|2
+  Apps and Integrations changes in HUB v2.29.0 — Voice mode, remote…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'
 source_type: github_releases
 theme: apps-integrations
@@ -104,8 +104,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-11-02 · Lovable · [[Changes/Lovable/2026-11-02-connect-your-app-to-bamboohr|Connect your app to BambooHR]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-3-apps-and-integrations-changes-in-v1-35-0|3 Apps and Integrations changes in v1.35.0]]
+- Earlier: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-2-apps-and-integrations-changes-in-hub-v2-29-0-voice-mode-remote|2 Apps and Integrations changes in HUB v2.29.0 — Voice mode, remote…]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-21-apps-and-integrations-changes-in-v2026-10-10|21 Apps and Integrations changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

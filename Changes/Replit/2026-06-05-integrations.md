@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 614c59b2b991944332c1f904611ecbf315be03bdc5871df91b2a02932d55df9e
+machine_hash: 81bbf9a40c6aab3f51203731cdfa1a2ad75795eff894527dce28c729e54837f0
 product: replit
 product_name: Replit
 record:
@@ -39,10 +39,10 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-10-apps-and-integrations-changes-in-v1-0-60|10
-  Apps and Integrations changes in v1.0.60]]'
 - '[[Changes/Ollama/2026-06-05-ollama-launch-omp-now-integrates-with-oh-my-pi-https-omp-sh-an-ai-coding-agent-w|ollama
   launch omp now integrates with Oh My Pi((source link) an AI coding…]]'
+- '[[Changes/OpenCode/2026-06-05-2-apps-and-integrations-changes-in-v1-16-0|2 Apps
+  and Integrations changes in v1.16.0]]'
 - '[[Changes/Replit/2026-06-05-build-data-apps-on-microsoft-fabric|Build data apps
   on Microsoft Fabric]]'
 source_release: '[[Releases/Replit/replit-2026-06-05-2026-06-05-95c49499|replit-2026-06-05-2026-06-05-95c49499]]'
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-05 · Ollama · [[Changes/Ollama/2026-06-05-ollama-launch-omp-now-integrates-with-oh-my-pi-https-omp-sh-an-ai-coding-agent-w|ollama launch omp now integrates with Oh My Pi((source link) an AI coding…]]
+- Earlier: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-2-apps-and-integrations-changes-in-v1-16-0|2 Apps and Integrations changes in v1.16.0]]
 - Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|Added glob pattern support in deny rule tool-name position ("" denies all tools)]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ad3f3c509473f4cef8745a6e3d89b709300920ff03f58c5a55347a8156060a7
+machine_hash: 65bd036039feb1edca8f9272e3398edf17a6fb45bd2eac8e5bb9656eb489ec1c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: Users are prompted for shell commands with potentially dangerous expansion…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-13504-preserve-persisted-thread-git-info-in-resume-joeytrasatti-openai|♯13504
-  Preserve persisted thread git info in resume @joeytrasatti-openai]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-3-developer-workflow-changes-in-v0-0-422|3
   Developer Workflow changes in v0.0.422]]'
+- '[[Changes/OpenCode/2026-03-05-3-developer-workflow-changes-in-v1-2-18|3 Developer
+  Workflow changes in v1.2.18]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-06-2-developer-workflow-changes-in-v1-0-2|2
   Developer Workflow changes in v1.0.2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e|github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-2-developer-workflow-changes-in-v1-0-2|2 Developer Workflow changes in v1.0.2]]
-- Later: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer Workflow changes in v2.1.71]]
+- Later: 2026-03-06 · OpenCode · [[Changes/OpenCode/2026-03-06-3-developer-workflow-changes-in-v1-2-20-1|3 Developer Workflow changes in v1.2.20 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

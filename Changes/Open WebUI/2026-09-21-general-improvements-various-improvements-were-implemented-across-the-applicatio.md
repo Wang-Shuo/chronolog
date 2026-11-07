@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b91a44c3d629c6b57cebd9c2a1095d88c270a0ea45223ee85216f346e3cd7f7e
+machine_hash: 93ef79f60fb16fb311e47cad16a59b951d4461881187301eafc5e8f71ab78b47
 product: open-webui
 product_name: Open WebUI
 record:
@@ -55,12 +55,12 @@ record:
     across…"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-improved-responsiveness-in-long-sessions-hook-progress-and-sub-agent-activity-no|Improved
-  responsiveness in long sessions]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-speed-up-startup-when-resuming-an-existing-local-session-by-its-exact-uuid-with|Speed
   up startup when resuming an existing local session by its exact UUID with --resume]]'
 - '[[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added
   a visible warning when memory usage is critical, with steps to free memory…]]'
+- '[[Changes/OpenClaw/2026-09-19-5-reliability-and-performance-changes-in-v2026-9-5|5
+  Reliability and Performance changes in v2026.9.5]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'
 source_type: github_releases
 theme: reliability-performance
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added a visible warning when memory usage is critical, with steps to free memory…]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-5-reliability-and-performance-changes-in-v2026-9-5|5 Reliability and Performance changes in v2026.9.5]]
 - Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960 Tag memory usage telemetry with the memory version @jif-oai]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d27b8b2a7d74f912cd293c59a00bea7d4e081d6bece58d845508527865a5d55a
+machine_hash: df2ba24cffe35e100274108e0edefe242d6ebc75aae5b7661894f37f26d2c594
 product: claude-code
 product_name: Claude Code
 record:
@@ -115,7 +115,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-17 · Lovable · [[Changes/Lovable/2026-09-17-connect-your-app-to-the-lovable-api|Connect your app to the Lovable API]]
-- Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-sdk-releases|SDK releases]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-you-can-now-ask-btw-side-questions-about-photos-attached-to-the-current-message|Ask /btw side questions about photos attached to the current message when using…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

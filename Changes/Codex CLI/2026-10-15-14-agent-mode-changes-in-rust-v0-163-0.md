@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3b86b584cf596b865b6e32078cd92fc576951472e09d10635db5eb21a075c495
+machine_hash: bde5aeeada8b165a3b6e41ae1fd5faa256699d332e968d7eec26d3cf5dd54bb8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -145,7 +145,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-14 · Ollama · [[Changes/Ollama/2026-10-14-a-compact-sibling-nemotron-3-5-bolt-https-ollama-com-library-nemotron-3-5-bolt-d|A compact sibling, Nemotron 3.5…]]
-- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-multiple-agents-that-can-work-on-different-parts-of-a-task-in-parallel-you-can-f|Multiple agents that can work on different parts of a task in parallel]]
+- Later: 2026-10-15 · Google Antigravity · [[Changes/Google Antigravity/2026-10-15-you-can-now-type-compact-to-summarize-a-long-conversation-so-far-and-free-up-roo|Type /compact to summarize a long conversation so far and free up room for the agent…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

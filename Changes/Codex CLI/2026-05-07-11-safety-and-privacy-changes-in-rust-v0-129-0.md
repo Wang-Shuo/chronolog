@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f49972d4e75ec07facd325e521d2575d9032c7262cdd09396359d962d23121f9
+machine_hash: c8ae26b9d70925c70b02d44750803053271d683e94b00eba260604eb6cfcaaec
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -138,7 +138,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.129.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-added-sandbox-bwrappath-and-sandbox-socatpath-managed-settings-linux-wsl-to-spec|Added sandbox.bwrapPath and sandbox.socatPath managed settings (Linux/WSL)…]]
-- Later: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-2-safety-and-privacy-changes-in-v2-1-136|2 Safety and Privacy changes in v2.1.136]]
+- Later: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-desktop-allow-trusted-app-windows-to-write-to-the-clipboard-without-permission-f|Desktop Allow trusted app windows to write to the clipboard without permission failures]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

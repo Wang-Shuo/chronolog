@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1468cd9e1ca36f201611139c887464751a447b094f6ca0678c55a3bdfd38c00d
+machine_hash: 7ef488a29b6bc079c5fb61f3f27c71106a694c388a14301d391e8897fdce9ae2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: '[#42128](https://github.com/openai/codex/pull/42128) Prepare MCP connections…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-2-account-and-access-changes-in-v2-1-257|2 Account
-  and Access changes in v2.1.257]]'
-- '[[Changes/Codex CLI/2026-09-01-2-account-and-access-changes-in-rust-v0-152-0|2
-  Account and Access changes in rust-v0.152.0]]'
+- '[[Changes/OpenClaw/2026-09-01-2-account-and-access-changes-in-v2026-8-2|2 Account
+  and Access changes in v2026.8.2]]'
+- '[[Changes/OpenCode/2026-09-01-azure-cli-sign-in-now-asks-for-the-resource-name-directly-instead-of-querying-az|Azure
+  CLI sign-in now asks for the resource name directly instead of querying Azure…]]'
 - '[[Changes/Cline/2026-09-02-2-account-and-access-changes-in-v4-1-17|2 Account and
   Access changes in v4.1.17]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f|codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f]]'
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-2-account-and-access-changes-in-v4-1-17|2 Account and Access changes in v4.1.17]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account and Access changes in v2.1.261]]
+- Later: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-12-account-and-access-changes-in-v2026-9-1|12 Account and Access changes in v2026.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

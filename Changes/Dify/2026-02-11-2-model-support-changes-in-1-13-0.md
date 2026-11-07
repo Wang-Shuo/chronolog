@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2149e0f38503ef41dc0b04959e9d2e6b8e71417c2b5a2f9d26e75bbd319203b4
+machine_hash: b3f86991d6e9af2167781924517b6b2ee0d089968b3d2354c9b4f447f12142f9
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Model Support changes in 1.13.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2
-  Instant Update]]'
 - '[[Changes/Gemini CLI/2026-02-10-docs-document-gemini-cli-home-environment-variable-by-adamfweidman-in-https-gith|docs:
   document GEMINI_CLI_HOME environment variable]]'
+- '[[Changes/OpenCode/2026-02-10-6-model-support-changes-in-v1-1-54|6 Model Support
+  changes in v1.1.54]]'
 - '[[Changes/Codex CLI/2026-02-11-15-model-support-changes-in-rust-v0-99-0|15 Model
   Support changes in rust-v0.99.0]]'
 source_release: '[[Releases/Dify/dify-2026-02-11-1-13-0-github-285073967-47691626|dify-2026-02-11-1-13-0-github-285073967-47691626]]'

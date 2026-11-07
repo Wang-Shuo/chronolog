@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a725b7604c83d186bc94df853e265462685acf556047dc984adeba3a072f7f6
+machine_hash: 890da7f45e919a85e91de9219fd78f3be0889c6992a6f590ef7b8e64b061324b
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,7 +56,8 @@ record:
   title: 5 Interface Experience changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-18-redesigned-project-cards|Redesigned project cards]]'
+- '[[Changes/OpenClaw/2026-09-19-32-interface-experience-changes-in-v2026-9-5|32 Interface
+  Experience changes in v2026.9.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-number-key-selection-in-the-question-dialog-works-for-choices-10-and-beyond|Number-key
   selection in the question dialog works for choices 10 and beyond]]'
 - '[[Changes/Open WebUI/2026-09-21-13-interface-experience-changes-in-v0-11-4|13 Interface

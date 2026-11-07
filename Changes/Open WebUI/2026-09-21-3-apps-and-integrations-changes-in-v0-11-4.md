@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee4aaf5d038e400dcfee16540d3ec0daaa7aea5e91022593d9aea1ef81e4cd8a
+machine_hash: a4f55fc31ea637533157b1b33276932b7e75348fd264c72bdaf26eedb1aba4d8
 product: open-webui
 product_name: Open WebUI
 record:
@@ -56,8 +56,8 @@ record:
   title: 3 Apps and Integrations changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6
-  Apps and Integrations changes in v2.1.277]]'
+- '[[Changes/OpenClaw/2026-09-19-52-apps-and-integrations-changes-in-v2026-9-5|52
+  Apps and Integrations changes in v2026.9.5]]'
 - '[[Changes/ElevenLabs/2026-09-21-sdk-releases|SDK releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-8-apps-and-integrations-changes-in-v1-0-87|8
   Apps and Integrations changes in v1.0.87]]'

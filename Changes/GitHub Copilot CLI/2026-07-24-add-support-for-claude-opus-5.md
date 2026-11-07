@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 00c50dbd4be31d9cced6a3f6f8da4eeffc81dd54c9fa730c26f2aa0fdc49b279
+machine_hash: cbc766f245344b8d9582405c2072670cd491ccae2ed8ba4af3ae863015361201
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-24 · Cline · [[Changes/Cline/2026-07-24-2-model-support-changes-in-v4-0-11|2 Model Support changes in v4.0.11]]
-- Later: 2026-07-25 · Ollama · [[Changes/Ollama/2026-07-25-quantize-draft-model-output-heads-at-the-requested-type-when-creating-speculativ|Quantize draft-model output heads at the requested type when creating…]]
+- Later: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-core-preserve-mistral-reasoning-history-across-turns|Core Preserve Mistral reasoning history across turns]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

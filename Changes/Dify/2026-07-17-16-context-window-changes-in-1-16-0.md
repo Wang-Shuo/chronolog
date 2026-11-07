@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a33368fe249262e375b0b0de0795b3aeb00af7aafad7e97696c59fdcc184a621
+machine_hash: 4469df07ef339f0041f52c8b686c4bccab0be60c02bb869ebeca81db12280c8b
 product: dify
 product_name: Dify
 record:
@@ -77,8 +77,8 @@ record:
   title: 16 Context Window changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-press-tab-to-switch-the-context-window-in-model|Press
-  Tab to switch the context window in /model]]'
+- '[[Changes/OpenCode/2026-07-13-desktop-aligned-context-token-counts-with-usage-totals|Desktop
+  Aligned context token counts with usage totals]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-2-context-window-changes-in-v1-0-71|2 Context
   Window changes in v1.0.71]]'
 - '[[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]'

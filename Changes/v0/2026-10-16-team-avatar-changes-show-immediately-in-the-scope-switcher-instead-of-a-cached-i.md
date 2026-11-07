@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7fbddf80aebfe59d88da19e8d21d30e228fc51380fe9746bd7eeb204614b46b3
+machine_hash: 425a7629cca2e9c75adf32301cc7c03eb90d07e02d34b85280cd08d05be1b594
 product: v0
 product_name: v0
 record:
@@ -43,8 +43,8 @@ record:
     image
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration
-  changes in rust-v0.163.0]]'
+- '[[Changes/OpenCode/2026-10-15-session-sharing-has-been-discontinued|Session sharing
+  has been discontinued]]'
 - '[[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT
   Slides lets you create presentations and keep working on them with your team…]]'
 - '[[Changes/Open WebUI/2026-10-16-2-collaboration-changes-in-v0-12-3|2 Collaboration
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-collaboration-changes-in-v0-12-3|2 Collaboration changes in v0.12.3]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added a warning on Pro and Max plans when resuming an inactive conversation would…]]
+- Later: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-review-the-conversation-before-publishing-the-link-exposes-existing-and-future-u|Review the conversation before publishing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

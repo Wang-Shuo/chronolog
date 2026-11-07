@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9fca995037df87926815f9fd37bd8a2a0b201a2bfabd45e504e8ad92f5e79f0
+machine_hash: d6ef0f100bc24a8f175fcd720b2fa098d44194c37414c3dbfbc4455f696ed324
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,9 @@ record:
   title: 2 Agent Mode changes in rust-v0.39.0
   type: change
 related_changes:
-- '[[Changes/Replit/2025-09-12-agent-3-launch|Agent 3 Launch]]'
 - '[[Changes/ElevenLabs/2025-09-15-agents-platform|Agents Platform]]'
+- '[[Changes/Gamma/2025-09-16-gamma-agent-your-ai-design-partner-that-does-it-all|Gamma
+  Agent: Your AI design partner that does it all]]'
 - '[[Changes/Gemini CLI/2025-09-17-feat-core-only-summarize-long-tool-output-for-shell-command-by-sandytao520-in-ht|feat(core):
   Only summarize long tool output for shell command]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-18-rust-v0-39-0-github-248440234-e03f419b|codex-cli-2025-09-18-rust-v0-39-0-github-248440234-e03f419b]]'

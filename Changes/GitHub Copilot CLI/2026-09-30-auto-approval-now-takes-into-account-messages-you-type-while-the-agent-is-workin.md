@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 53a5b3b5488ae90abc0399ab89c6dab825bbbbb43ea1120d4665195974266c5d
+machine_hash: 5fd68b49f9711e2a17bb791f52c7a410d55c6c10f7b93c57670ef6312803138b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-6-agent-mode-changes-in-v2-1-286|6 Agent Mode changes in v2.1.286]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-4-agent-mode-changes-in-v2-1-287|4 Agent Mode changes in v2.1.287]]
+- Later: 2026-09-30 · Google Antigravity · [[Changes/Google Antigravity/2026-09-30-message-subagents-directly-export-markdown-as-pdf-and-conversation-only-undo|Message subagents directly, export Markdown as PDF, and conversation-only undo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

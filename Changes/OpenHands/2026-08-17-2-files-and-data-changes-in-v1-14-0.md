@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a7d164ab685301914a138c9955586ca2b0ab960c144fc963e66834d1753a523
+machine_hash: 00a6251ff2732806269e76735ad020c6ef833b920059cc537e0f54fea619b2d2
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Files and Data changes in v1.14.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|ChatGPT
-  makes it easier to bring documents and saved files into your conversations…]]'
-- '[[Changes/Codex CLI/2026-08-07-36043-document-the-responses-api-proxy-reqwest-exception-copyberry|♯36043
-  Document the Responses API proxy reqwest exception @copyberry]]'
 - '[[Changes/OpenHands/2026-08-07-feat-settings-polish-agent-canvas-version-update-ui-by-fraterccclxiii-in-https-g|feat(settings):
   polish Agent Canvas version update UI]]'
+- '[[Changes/Google Antigravity/2026-08-12-added-support-for-attaching-and-rendering-plain-text-txt-pdf-pdf-and-markdown-md|Added
+  support for attaching and rendering plain text (.txt), pdf (.pdf) and markdown…]]'
+- '[[Changes/OpenCode/2026-08-12-core-enabled-pdf-attachments-for-github-copilot-models-that-advertise-pdf-vision|Core
+  Enabled PDF attachments for GitHub Copilot models that advertise PDF vision support]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-17-v1-14-0-github-371966965-402951e4|openhands-2026-08-17-v1-14-0-github-371966965-402951e4]]'
 source_type: github_releases
 theme: file-data
@@ -84,7 +84,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-08-07 · OpenHands · [[Changes/OpenHands/2026-08-07-feat-settings-polish-agent-canvas-version-update-ui-by-fraterccclxiii-in-https-g|feat(settings): polish Agent Canvas version update UI]]
+- Earlier: 2026-08-12 · OpenCode · [[Changes/OpenCode/2026-08-12-core-enabled-pdf-attachments-for-github-copilot-models-that-advertise-pdf-vision|Core Enabled PDF attachments for GitHub Copilot models that advertise PDF vision support]]
 - Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-39283-document-secure-devcontainer-dns-exfiltration-risk-copyberry|♯39283 Document secure devcontainer DNS exfiltration risk @copyberry]]
 <!-- chronolog:end -->
 

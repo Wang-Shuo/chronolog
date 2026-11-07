@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7972cf0b5642877489a865d903f271174541e9c2963999e316822fca027dda19
+machine_hash: 5b839b8c737b29b5954aaf6b92c29ad41cab512aabf928b3a65d41ec63d9985b
 product: codex-cli
 product_name: Codex CLI
 record:

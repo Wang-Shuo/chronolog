@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ce98233d172be0edd018840e3ff32f55547935f51e1c92784114fd098b83dec9
+machine_hash: 12ee622f6290b30ef33c90b912c189e8a3648910aad06552cb1422512724af9b
 product: lovable
 product_name: Lovable
 record:
@@ -59,10 +59,10 @@ record:
   title: Request a higher workspace role
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-16-formatted-markdown-previews-in-the-files-tab|Formatted
-  Markdown previews in the Files tab]]'
 - '[[Changes/Open WebUI/2026-10-16-2-editor-experience-changes-in-v0-12-3|2 Editor
   Experience changes in v0.12.3]]'
+- '[[Changes/OpenClaw/2026-10-16-chat-refresh-after-updates-chats-stuck-on-server-updated-can-refresh-back-to-the|Chat
+  refresh after updates]]'
 - '[[Changes/v0/2026-10-16-large-files-that-cannot-be-previewed-can-be-downloaded-from-the-code-tab-which-s|Large
   files that cannot be previewed can be downloaded from the Code tab…]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-17-2026-10-17-2905e67c|lovable-2026-10-17-2026-10-17-2905e67c]]'

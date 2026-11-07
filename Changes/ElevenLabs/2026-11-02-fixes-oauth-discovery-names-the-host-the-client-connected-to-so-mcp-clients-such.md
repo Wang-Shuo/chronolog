@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e11f379b2a019dd2a048038df7e32d6b7cce4634872605ffebe3c82b1293006
+machine_hash: 95d7190655b97976a8d9618c01be5191f7330a03fc0d7aeeba2ea57178e39838
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -55,10 +55,9 @@ record:
     clients…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-29-log-in-with-one-click-using-google|Log in with one
-  click using Google]]'
-- '[[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved
-  the cloud session error shown while a request refused for your claude.ai…]]'
+- '[[Changes/OpenCode/2026-10-30-use-claude-code-in-opencode|Use Claude Code in OpenCode]]'
+- '[[Changes/OpenCode/2026-10-30-core-replaced-claude-code-s-misleading-login-instruction-with-claude-auth-login|Core
+  Replaced Claude Code’s misleading /login instruction with claude auth login]]'
 - '[[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode
   Added sign-in to a Claude apps gateway from the chat panel, with no…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'

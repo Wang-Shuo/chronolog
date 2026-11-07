@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a93d8b276231226ed9f9c35ed86ba4dd0dd60f49af2cf2c8a311a68d5d1154e9
+machine_hash: 4031060bcc0263fcb0dd3dbe6ffef48379e4ae3b135308c80f57346f481c62d0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 'feat: add folder suggestions to `/dir add` command'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-add-new-as-an-alias-for-clear-command|Add
-  /new as an alias for /clear command]]'
+- '[[Changes/OpenCode/2026-01-13-terminal-prevent-question-tool-keybindings-when-dialog-is-open|Terminal
+  Prevent question tool keybindings when dialog is open]]'
 - '[[Changes/Cline/2026-01-14-add-create-pull-request-skill|Add create-pull-request
   skill]]'
 - '[[Changes/Codex CLI/2026-01-14-5-developer-workflow-changes-in-rust-v0-81-0|5 Developer
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-5-developer-workflow-changes-in-rust-v0-81-0|5 Developer Workflow changes in rust-v0.81.0]]
-- Later: 2026-01-15 · Dify · [[Changes/Dify/2026-01-15-please-use-the-following-command-instead-for-details-please-read-this-https-gith| Please use the following command instead]]
+- Later: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-terminal-ensure-external-directory-and-bash-tool-invocations-render-working-dire|Terminal Ensure external directory and Bash tool invocations render working…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

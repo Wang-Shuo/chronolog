@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 12f9e3178deef3b8d98b3c1b53ce950757b3a75cf9f7b5c3984ddd1f017a8f05
+machine_hash: 32642d1de3cd7af2e42e2b29b7eb52998cacafebe507ae68b3aa498d21c6aa56
 product: dify
 product_name: Dify
 record:
@@ -58,12 +58,12 @@ record:
   title: 7 Model Support changes in 1.13.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-added-anthropic-default-opus-sonnet-haiku-model-supports-env-vars-to-override-ef|Added
-  ANTHROPIC_DEFAULT{OPUS,SONNET,HAIKU}MODEL_SUPPORTS env vars to override…]]'
-- '[[Changes/Codex CLI/2026-03-26-3-model-support-changes-in-rust-v0-117-0|3 Model
-  Support changes in rust-v0.117.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-26-model-display-header-shows-the-active-reasoning-effort-level-e-g-high-next-to-th|Model
-  display header shows the active reasoning effort level (e.g. "(high)") next…]]'
+- '[[Changes/Suno/2026-03-26-v5-5-our-newest-model-richer-arrangements-sharper-vocals-and-more-dynamic-sound|v5.5
+  Our newest model]]'
+- '[[Changes/Suno/2026-03-26-custom-models-upload-at-least-6-tracks-from-your-catalog-to-train-a-personalized|Custom
+  Models Upload at least 6 tracks from your catalog to train a personalized…]]'
+- '[[Changes/Suno/2026-03-26-today-we-launched-v5-5-our-best-and-most-personal-model-yet-it-powers-three-new|Today
+  we launched v5.5, our best and most personal model yet]]'
 source_release: '[[Releases/Dify/dify-2026-03-27-1-13-3-github-302258183-3ff73e84|dify-2026-03-27-1-13-3-github-302258183-3ff73e84]]'
 source_type: github_releases
 theme: model-support
@@ -118,7 +118,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-model-display-header-shows-the-active-reasoning-effort-level-e-g-high-next-to-th|Model display header shows the active reasoning effort level (e.g. "(high)") next…]]
+- Earlier: 2026-03-26 · Suno · [[Changes/Suno/2026-03-26-today-we-launched-v5-5-our-best-and-most-personal-model-yet-it-powers-three-new|Today we launched v5.5, our best and most personal model yet]]
 - Later: 2026-03-27 · Ollama · [[Changes/Ollama/2026-03-27-ollama-s-app-will-now-no-longer-incorrectly-show-model-is-out-of-date|Ollama's app will now no longer incorrectly show "model is out of date"]]
 <!-- chronolog:end -->
 

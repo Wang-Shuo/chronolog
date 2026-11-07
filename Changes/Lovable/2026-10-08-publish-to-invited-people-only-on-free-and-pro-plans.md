@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 321fdd3e8db8aa9f24db580a94eb5a0731fafcdc295c4fe111316c4dd08cbd80
+machine_hash: 72ae2a11ef304f11b77278babbf38e927fad75e3c95b213ed0d3f13202611a5c
 product: lovable
 product_name: Lovable
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude Tag Changed Claude's notice that a channel shared across Enterprise Grid…]]
-- Later: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding): show the Super Admin setup guide on enterprise backends]]
+- Later: 2026-10-08 · OpenClaw · [[Changes/OpenClaw/2026-10-08-2-enterprise-and-administration-changes-in-v2026-9-9|2 Enterprise and Administration changes in v2026.9.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

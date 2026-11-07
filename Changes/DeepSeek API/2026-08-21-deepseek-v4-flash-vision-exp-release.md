@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2bd1d4bb3ee45e16b6f2d2f56cf20f7536d730893e975985aa8e0b3daae1af7c
+machine_hash: 4cf0b0c2122de0a48f9e5f2a56fa7bc7262055209bfee1ab66743f7177e40cd7
 product: deepseek-api
 product_name: DeepSeek API
 record:
@@ -80,9 +80,10 @@ record:
   title: DeepSeek-V4-Flash-Vision-Exp Release
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-17-python-sdk|Python SDK]]'
 - '[[Changes/ElevenLabs/2026-08-17-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2026-08-17-elevencreative-fd6a14|ElevenCreative]]'
+- '[[Changes/Runway/2026-08-18-compose-and-blend-images-and-video-together-with-new-compositing-workflow-nodes|Compositing
+  Nodes]]'
 source_release: '[[Releases/DeepSeek API/deepseek-api-2026-08-21-2026-08-21-07917b7e|deepseek-api-2026-08-21-2026-08-21-07917b7e]]'
 source_type: deepseek_changelog
 theme: multimodal
@@ -135,7 +136,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-elevencreative-fd6a14|ElevenCreative]]
+- Earlier: 2026-08-18 · Runway · [[Changes/Runway/2026-08-18-compose-and-blend-images-and-video-together-with-new-compositing-workflow-nodes|Compositing Nodes]]
 - Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-3-multimodal-input-changes-in-1-17-0|3 Multimodal Input changes in 1.17.0]]
 <!-- chronolog:end -->
 

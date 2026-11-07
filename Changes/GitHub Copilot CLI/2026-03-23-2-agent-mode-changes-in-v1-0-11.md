@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37d1300907665e19656daf3e2aa97833e726e018c497d72da5716de3d0ecc4f3
+machine_hash: 96011ead4b8479a0440adbd3da57ee4e8f9c5060c28c5790073778befbca3b27
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,7 +45,8 @@ record:
   title: 2 Agent Mode changes in v1.0.11
   type: change
 related_changes:
-- '[[Changes/Replit/2026-03-20-empty-project-creation|Empty project creation]]'
+- '[[Changes/OpenCode/2026-03-22-ui-ux-improvements-agent-skill-ordering-more-consistent-ai-responses-with-improv|UI/UX
+  Improvements Agent & Skill Ordering]]'
 - '[[Changes/ElevenLabs/2026-03-23-elevenagents|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-03-23-python-sdk|Python SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619|github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619]]'

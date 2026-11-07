@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ab15700fc1d29eef7c9a8a054621833b5dbc228c8f6d7462ffc9b981ca26700
+machine_hash: 662a758520a8eb715bbf4c6db0d7e15e489bd23eaf531f3acb37d88321d5444c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.29.0
 ## Nearby in Context Window
 
 - Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-cli-now-stores-conversation-transcripts-that-the-agent-can-use-as-context|CLI now stores conversation transcripts that the agent can use as context]]
-- Later: 2026-02-20 · ChatGPT · [[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|Expanded context window for Thinking]]
+- Later: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-core-emit-prompt-too-large-error-when-github-context-overflows|Core Emit PROMPT_TOO_LARGE error when GitHub context overflows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 74eef868cf91b43c66f51eade64df480ab5047bc518b15b25763a7c055d2ba32
+machine_hash: d2eb2b9fe3f570f2515f1c174af030376b0a1f1a1622f660f773088cd48e968f
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -132,7 +132,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-14-agent-mode-changes-in-rust-v0-142-0|14 Agent Mode changes in rust-v0.142.0]]
-- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-6-agent-mode-changes-in-v1-0-64|6 Agent Mode changes in v1.0.64]]
+- Later: 2026-06-22 · Google Antigravity · [[Changes/Google Antigravity/2026-06-22-new-entries-in-the-sensitive-paths-list-vscode-and-cache-are-now-recognized-as-s|New entries in the sensitive paths list]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

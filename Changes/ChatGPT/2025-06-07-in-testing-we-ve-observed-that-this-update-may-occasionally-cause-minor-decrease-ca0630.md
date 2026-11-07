@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 305cfa63dabe1fcbff518cf4192b24b35ad0b20995377623a49a595b9f4d59d0
+machine_hash: a131cf639097fe634cbd37983f39f0e5c3935ee105bf847d014dfcaa62b3e4b0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-06-01 · ElevenLabs · [[Changes/ElevenLabs/2025-06-01-speech-to-text|Speech to Text]]
-- Later: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-2-voice-and-audio-changes-in-v0-6-14|2 Voice and Audio changes in v0.6.14]]
+- Later: 2025-06-09 · Manus · [[Changes/Manus/2025-06-09-manus-isn-t-just-where-you-generate-videos-it-s-where-you-craft-cinematic-experi|Manus isn't just where you generate videos — it's where you craft cinematic experiences]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b04c9a8a8d3c449486bec21d3c2a98c001a88322783e32103ef7fff40a7c229
+machine_hash: 2c06afca4c6c45490814fe3434861931d655c54728566439627ddca736fe349d
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.273
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-code-review-added-a-note-under-the-still-open-findings-list-in-follow-up-reviews|Code
-  Review Added a note under the still-open findings list in follow-up reviews]]'
-- '[[Changes/Dify/2026-09-10-4-developer-workflow-changes-in-1-17-1|4 Developer Workflow
-  changes in 1.17.1]]'
 - '[[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added
   OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]'
+- '[[Changes/OpenClaw/2026-09-11-18-developer-workflow-changes-in-v2026-9-4|18 Developer
+  Workflow changes in v2026.9.4]]'
+- '[[Changes/OpenClaw/2026-09-11-you-can-now-answer-your-claw-s-questions-and-enter-secrets-from-the-terminal-wit|Answer
+  your Claw’s questions and enter secrets from the terminal, with clearer…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: developer-workflow
@@ -100,8 +100,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-6-developer-workflow-changes-in-v1-0-85|6 Developer Workflow changes in v1.0.85]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-you-can-now-answer-your-claw-s-questions-and-enter-secrets-from-the-terminal-wit|Answer your Claw’s questions and enter secrets from the terminal, with clearer…]]
+- Later: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-new-permissions-system-terminal-and-git-version-control-for-enterprise|New Permissions System & Terminal and Git version control for Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

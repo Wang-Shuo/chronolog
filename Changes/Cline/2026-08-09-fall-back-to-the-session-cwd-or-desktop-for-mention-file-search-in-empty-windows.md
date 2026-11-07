@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3811070956c59432f345b894e7b19d0891db5fc93a253a56ffebe5999ec56f31
+machine_hash: c53e3ba604d709f4ce81ae213f75f100b28f7fa781d74541045e5c7a3d7aa200
 product: cline
 product_name: Cline
 record:
@@ -43,11 +43,12 @@ record:
     windows
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]'
-- '[[Changes/Claude Code/2026-08-07-3-mobile-and-desktop-changes-in-v2-1-224|3 Mobile
-  and Desktop changes in v2.1.224]]'
-- '[[Changes/Codex CLI/2026-08-07-4-mobile-and-desktop-changes-in-rust-v0-147-0|4
-  Mobile and Desktop changes in rust-v0.147.0]]'
+- '[[Changes/OpenCode/2026-08-07-5-mobile-and-desktop-changes-in-v1-18-15|5 Mobile
+  and Desktop changes in v1.18.15]]'
+- '[[Changes/OpenCode/2026-08-07-added-much-broader-locale-coverage-across-the-desktop-app|Added
+  much broader locale coverage across the desktop app]]'
+- '[[Changes/Suno/2026-08-07-update-your-mobile-app-for-the-latest-updates|Update
+  your mobile app for the latest updates]]'
 source_release: '[[Releases/Cline/cline-2026-08-09-v4-1-7-github-367373350-886ff444|cline-2026-08-09-v4-1-7-github-367373350-886ff444]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-4-mobile-and-desktop-changes-in-rust-v0-147-0|4 Mobile and Desktop changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · Suno · [[Changes/Suno/2026-08-07-update-your-mobile-app-for-the-latest-updates|Update your mobile app for the latest updates]]
 - Later: 2026-08-10 · ChatGPT · [[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|Restaurant reservations in ChatGPT]]
 <!-- chronolog:end -->
 

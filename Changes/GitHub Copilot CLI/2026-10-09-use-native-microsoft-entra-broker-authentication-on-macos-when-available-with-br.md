@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8180c4e60e2b4cbbf29098429b819bae5267f5a111a05e0e46d81942303cc15c
+machine_hash: dba043463f733137100523bf5da698aedad8cebd1c060690de60df184b174714
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Use native Microsoft Entra broker authentication on macOS when available…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-added-support-for-forceloginmethod-gateway-and-forcelogingatewayurl-in-your-own|Added
-  support for forceLoginMethod: "gateway" and forceLoginGatewayUrl…]]'
 - '[[Changes/Codex CLI/2026-10-08-2-account-and-access-changes-in-rust-v0-162-0|2
   Account and Access changes in rust-v0.162.0]]'
+- '[[Changes/OpenClaw/2026-10-08-2-account-and-access-changes-in-v2026-9-9|2 Account
+  and Access changes in v2026.9.9]]'
 - '[[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved
   the errors for a refused cloud session]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-09-v1-0-95-github-408085682-4bdfce3d|github-copilot-cli-2026-10-09-v1-0-95-github-408085682-4bdfce3d]]'

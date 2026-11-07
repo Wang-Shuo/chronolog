@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d207d0d0bde881f39bca7828aa843e109a6e54c6752d5a69ac8f79a7234caa24
+machine_hash: 9a9509225899aba11b44aeb4b3f0b52595f1da5539034384a3317c165514760f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Developer Workflow changes in v2.1.72
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-09-5-developer-workflow-changes-in-v1-0-3|5
-  Developer Workflow changes in v1.0.3]]'
 - '[[Changes/Open WebUI/2026-03-09-2-developer-workflow-changes-in-v0-8-10|2 Developer
   Workflow changes in v0.8.10]]'
+- '[[Changes/OpenCode/2026-03-09-terminal-pass-missing-auth-headers-in-run-attach|Terminal
+  Pass missing auth headers in run --attach]]'
 - '[[Changes/Windsurf/2026-03-09-cascade|Cascade]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases

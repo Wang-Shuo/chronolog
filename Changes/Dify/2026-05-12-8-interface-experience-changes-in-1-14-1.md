@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6a4afbe859c312c44ab98ca73c558e5099dad14131b07497ca85d33e133e3b2
+machine_hash: b53303a8191e9ade80569f9bcf54d23749ac4aeaa745ed6b0ab610ba86791335
 product: dify
 product_name: Dify
 record:
@@ -70,8 +70,8 @@ record:
   title: 8 Interface Experience changes in 1.14.1
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-09-8-interface-experience-changes-in-v0-9-3|8 Interface
-  Experience changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-09-3-interface-experience-changes-in-v1-14-44-2|3 Interface
+  Experience changes in v1.14.44 + 2]]'
 - '[[Changes/Open WebUI/2026-05-10-2-interface-experience-changes-in-v0-9-5|2 Interface
   Experience changes in v0.9.5]]'
 - '[[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f0448c5074a3d1ee0f27b53b0a9c4a3bab0aa1104017965f618e2ac2c9d449d
+machine_hash: 13993dbd2b2898f964de981e7f1775185304eed16850715b507619b7c5311c78
 product: open-webui
 product_name: Open WebUI
 record:
@@ -120,7 +120,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-3-interface-experience-changes-in-rust-v0-80-0|3 Interface Experience changes in rust-v0.80.0]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added Updates section to /doctor showing auto-update channel and available npm…]]
+- Later: 2026-01-09 · OpenCode · [[Changes/OpenCode/2026-01-09-2-interface-experience-changes-in-v1-1-8|2 Interface Experience changes in v1.1.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

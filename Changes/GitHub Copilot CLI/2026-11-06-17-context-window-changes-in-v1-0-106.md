@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e9bdbdda799f5b9b1b05865f529caebbfc8a18ecdb1900ed350d19d9f512849
+machine_hash: e3cfd304fba25d4420953a1a840114d8fe95e18f1f1ac8b51158ed8254e8c34a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,10 +91,10 @@ record:
   title: 17 Context Window changes in v1.0.106
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-11-03-live-context-usage-estimates-the-context-indicator-now-accounts-for-output-arriv|\U0001F4CF
-  Live context usage estimates. The context indicator now accounts for output…]]"
 - '[[Changes/Dify/2026-11-04-6-context-window-changes-in-1-19-0|6 Context Window changes
   in 1.19.0]]'
+- '[[Changes/OpenClaw/2026-11-05-3-context-window-changes-in-v2026-11-1|3 Context
+  Window changes in v2026.11.1]]'
 - '[[Changes/Codex CLI/2026-11-06-8-context-window-changes-in-rust-v0-167-0|8 Context
   Window changes in rust-v0.167.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
@@ -179,6 +179,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 ## Nearby in Context Window
 
 - Earlier: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-8-context-window-changes-in-rust-v0-167-0|8 Context Window changes in rust-v0.167.0]]
+- Later: 2026-11-06 · OpenCode · [[Changes/OpenCode/2026-11-06-core-keep-legacy-custom-providers-whose-models-set-only-part-of-limit-such-as-on|Core Keep legacy custom providers whose models set only part of limit , such as only…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

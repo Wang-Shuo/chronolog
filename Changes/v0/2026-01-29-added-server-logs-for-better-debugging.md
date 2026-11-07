@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 373e96e98ccf82b466eb983ad350d1c1eef1d6499e1f7943d2ef598760349871
+machine_hash: 72dc2c5e979400748e23808c11910516c29e2ab5bd88690d711b08d684880dcb
 product: v0
 product_name: v0
 record:
@@ -39,12 +39,12 @@ record:
   title: Added server logs for better debugging
   type: change
 related_changes:
-- '[[Changes/v0/2026-01-28-added-toast-notification-when-pull-requests-are-merged|Added
-  toast notification when pull requests are merged]]'
 - '[[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed
   Bash commands to show timeout duration alongside elapsed time]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-29-add-lsp-language-server-protocol-tool-for-code-intelligence-requires-staff-flag|Add
   LSP (Language Server Protocol) tool for code intelligence (requires staff flag)]]'
+- '[[Changes/OpenCode/2026-01-29-3-developer-workflow-changes-in-v1-1-42|3 Developer
+  Workflow changes in v1.1.42]]'
 source_release: '[[Releases/v0/v0-2026-01-29-2026-01-29-acd9d0ce|v0-2026-01-29-2026-01-29-acd9d0ce]]'
 source_type: v0_changelog
 theme: developer-workflow
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-add-lsp-language-server-protocol-tool-for-code-intelligence-requires-staff-flag|Add LSP (Language Server Protocol) tool for code intelligence (requires staff flag)]]
+- Earlier: 2026-01-29 · OpenCode · [[Changes/OpenCode/2026-01-29-3-developer-workflow-changes-in-v1-1-42|3 Developer Workflow changes in v1.1.42]]
 - Later: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-2-developer-workflow-changes-in-v2-1-27|2 Developer Workflow changes in v2.1.27]]
 <!-- chronolog:end -->
 

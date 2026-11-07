@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a68f77b14d5fd3a9cabb3126c6226cf1c82fe9e62feb1d23ec03d438e14e0f7
+machine_hash: 316c6292367bfa4602ca8c1d5d204dd4dabfe348ed93adf5c89c43310714bb01
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.302
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-14-2-apps-and-integrations-changes-in-v0-12-1|2 Apps
-  and Integrations changes in v0.12.1]]'
 - '[[Changes/Codex CLI/2026-10-15-15-apps-and-integrations-changes-in-rust-v0-163-0|15
   Apps and Integrations changes in rust-v0.163.0]]'
+- '[[Changes/Runway/2026-10-15-remove-backgrounds-automatically-in-runway-mcp-with-birefnet-v2-it-detects-the-f|BiRefNet
+  v2 Background Removal]]'
 - '[[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved
   use of plugins and tools to carry out tasks]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-16-v2-1-302-github-415177347-763faf43|claude-code-2026-10-16-v2-1-302-github-415177347-763faf43]]'

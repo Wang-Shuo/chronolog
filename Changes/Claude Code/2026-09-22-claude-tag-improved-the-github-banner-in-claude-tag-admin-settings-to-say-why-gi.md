@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eef2d6964244f0460bfba113d288f38eb9b3ac08ab1ce4f5688bf7ee549f2fd4
+machine_hash: 20f5af2b51ada5b28dc816e231cb8f856a1463cfb8973c7368242961d7a72dd9
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     say why…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-6-account-and-access-changes-in-rust-v0-155-0|6
-  Account and Access changes in rust-v0.155.0]]'
+- '[[Changes/OpenClaw/2026-09-19-28-account-and-access-changes-in-v2026-9-5|28 Account
+  and Access changes in v2026.9.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-managed-plugin-commands-load-organization-marketplace-policy-with-environment-gi|Managed
   plugin commands load organization marketplace policy with environment…]]'
 - '[[Changes/Open WebUI/2026-09-21-6-account-and-access-changes-in-v0-11-4|6 Account

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2ae29342f3dc37d4340aa81d509328516df44dd8f77069e05f4ccec4d1a60f2
+machine_hash: a1cd9c1ed54ef174504c9bbd9a51a87854e1a856d6a176bf2bec6f5c2e57b2ae
 product: open-webui
 product_name: Open WebUI
 record:
@@ -54,8 +54,8 @@ record:
   title: 2 Safety and Privacy changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-11-02-redesigned-action-center-reviews|Redesigned Action
-  center reviews]]'
+- '[[Changes/Google Antigravity/2026-11-03-2-safety-and-privacy-changes-in-hub-v2-29-0-voice-mode-remote|2
+  Safety and Privacy changes in HUB v2.29.0 — Voice mode, remote…]]'
 - '[[Changes/Lovable/2026-11-03-redesigned-privacy-security-settings|Redesigned Privacy
   & security settings]]'
 - '[[Changes/Lovable/2026-11-03-protect-a-project-from-abandonment-cleanup|Protect
@@ -110,7 +110,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.13.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-11-03 · Lovable · [[Changes/Lovable/2026-11-03-protect-a-project-from-abandonment-cleanup|Protect a project from abandonment cleanup]]
-- Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-4-safety-and-privacy-changes-in-1-19-0|4 Safety and Privacy changes in 1.19.0]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-7-safety-and-privacy-changes-in-v2026-10-10|7 Safety and Privacy changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

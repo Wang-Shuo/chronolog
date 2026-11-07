@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c094ef2f51854df88c9eaba129e987d754bee2f4175cce955f7d1d74b61b48e2
+machine_hash: 8f5a15b5766e1eac84442549cb47d9ed93246a690f08acad5aa30283698479bc
 product: v0
 product_name: v0
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Editor Experience changes in GPT-5.6 Sol, sign-in inside previews…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn
-  it into a real repo, whenever you want]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add
-  copilot app to open the GitHub Copilot app in the current directory]]'
+- '[[Changes/Midjourney/2026-08-27-click-the-edit-tab-on-the-left-and-upload-an-image|Click
+  the ‘edit’ tab on the left and upload an image]]'
+- '[[Changes/Gamma/2026-08-28-keep-charts-synced-with-google-sheets|Keep charts synced
+  with Google Sheets]]'
 - '[[Changes/Lovable/2026-08-28-fewer-preview-reloads-while-you-edit|Fewer preview
   reloads while you edit]]'
 source_release: '[[Releases/v0/v0-2026-08-28-2026-08-28-1fac4f32|v0-2026-08-28-2026-08-28-1fac4f32]]'

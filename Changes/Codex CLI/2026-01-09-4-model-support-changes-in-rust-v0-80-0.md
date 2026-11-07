@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 738f981535b453a100cf89b50fb92577d23a209270c4f09ff97888921444a53c
+machine_hash: 215e8c7c1fdb56680db122739ce9921f0740005244e28ec9a92b1c8f7be0bae4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Model Support changes in rust-v0.80.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-08-large-tool-outputs-are-written-to-disk-and-models-are-encouraged-to-use-efficien|Large
-  tool outputs are written to disk and models are encouraged to use efficient…]]'
+- '[[Changes/OpenCode/2026-01-08-2-model-support-changes-in-v1-1-7|2 Model Support
+  changes in v1.1.7]]'
 - '[[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged
   slash commands and skills, simplifying the mental model with no change in behavior]]'
 - '[[Changes/Cline/2026-01-09-2-model-support-changes-in-v3-48-0|2 Model Support changes
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.80.0
 ## Nearby in Model Support
 
 - Earlier: 2026-01-09 · Cline · [[Changes/Cline/2026-01-09-2-model-support-changes-in-v3-48-0|2 Model Support changes in v3.48.0]]
-- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-11-model-support-changes-in-v0-7-0|11 Model Support changes in v0.7.0]]
+- Later: 2026-01-09 · Midjourney · [[Changes/Midjourney/2026-01-09-niji-v7-is-now-live-for-those-who-don-t-know-this-is-our-version-of-our-image-mo|Niji V7 is now live!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

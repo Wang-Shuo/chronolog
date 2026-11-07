@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b90f245c3e62b886c78a5c46c33ae4ff6796386dcf6c57f5eba4c538761fb9a0
+machine_hash: 0552119948a5dc9ea1168310018ade145bd40a6581967bb0117f0275bd1c708b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Developer Workflow changes in rust-v0.80.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3
-  Developer Workflow changes in New CLI Features and Improved CLI…]]'
+- '[[Changes/OpenCode/2026-01-08-9-developer-workflow-changes-in-v1-1-7|9 Developer
+  Workflow changes in v1.1.7]]'
 - '[[Changes/Claude Code/2026-01-09-improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to|Improved
   slash command suggestion readability by truncating long descriptions to 2 lines]]'
 - '[[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer

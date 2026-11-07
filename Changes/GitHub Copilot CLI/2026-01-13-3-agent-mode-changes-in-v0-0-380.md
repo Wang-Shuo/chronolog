@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0053ea3a3a19e46a64f438f157b6a18fda7baf0ad5da0bbf4aac163559a2a1ed
+machine_hash: 55e8fbc9ee44b0bc3667ecd7f0fc9b412f4085bc46010f0e720064964b12178c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.380
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-3-agent-mode-changes-in-1-11-3|3 Agent Mode changes in 1.11.3]]
-- Later: 2026-01-13 · Windsurf · [[Changes/Windsurf/2026-01-13-new-features-and-improvements|New Features and Improvements]]
+- Later: 2026-01-13 · Google Antigravity · [[Changes/Google Antigravity/2026-01-13-agent-skills|Agent Skills]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

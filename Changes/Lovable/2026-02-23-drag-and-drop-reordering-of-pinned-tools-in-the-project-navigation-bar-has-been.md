@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a493ffa7028ad084f35e45344c00cee5ad553deacb7e0e250dd664e4a3ff2afe
+machine_hash: bcc7f61b251bd1ea0a11c4287423b77172d1a8fae8b72d5ada13707116205443
 product: lovable
 product_name: Lovable
 record:
@@ -57,10 +57,10 @@ record:
     been…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-ui-update-subdue-footer-colors-and-animate-progress-indicator-by-keithguerin-in|ui:
-  update & subdue footer colors and animate progress indicator]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-19-6-interface-experience-changes-in-v0-0-412|6
-  Interface Experience changes in v0.0.412]]'
+- '[[Changes/Google Antigravity/2026-02-19-up-down-arrow-key-navigation-for-input-box-history|Up/down
+  arrow key navigation for input box history]]'
+- '[[Changes/OpenCode/2026-02-19-core-don-t-fetch-models-dev-on-completion|Core Don''t
+  fetch models.dev on completion]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-add-configurable-status-line-support-to-display-dynamic-session-information-via|Add
   configurable status line support to display dynamic session information…]]'
 source_release: '[[Releases/Lovable/lovable-2026-02-23-2026-02-23-19067983|lovable-2026-02-23-2026-02-23-19067983]]'

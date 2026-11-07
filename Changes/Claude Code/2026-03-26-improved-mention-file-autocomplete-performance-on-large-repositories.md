@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79d478c14a26e5f12e09ee7b766ab22a10fb403bbc5207b644d345c32e1b7df2
+machine_hash: d7ec42707a4218f0c3816a518413747d0353c0650ae95b744462ffd6df280eda
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: Improved @-mention file autocomplete performance on large repositories
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface
-  Experience changes in v2.1.83]]'
+- '[[Changes/Google Antigravity/2026-03-25-improved-sidebar-design|Improved sidebar
+  design]]'
 - '[[Changes/Open WebUI/2026-03-25-17-interface-experience-changes-in-v0-8-11|17 Interface
   Experience changes in v0.8.11]]'
 - '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A

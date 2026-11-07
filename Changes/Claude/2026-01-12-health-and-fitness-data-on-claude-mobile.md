@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 598d48c4913e283e838d9fee8152db4996a04e4080980e57ca041150471b9685
+machine_hash: b2274a86ea660e468dd7e55ae5e490329b0d359ec525211204be95d6188f13b5
 product: claude
 product_name: Claude
 record:
@@ -52,12 +52,12 @@ record:
   title: Health and fitness data on Claude Mobile
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added
-  support for Windows Package Manager (winget) installations with automatic…]]'
-- '[[Changes/Codex CLI/2026-01-09-2-mobile-and-desktop-changes-in-rust-v0-80-0|2 Mobile
-  and Desktop changes in rust-v0.80.0]]'
-- "[[Changes/Open WebUI/2026-01-09-users-on-windows-now-see-correctly-preserved-line-breaks-when-using-the-clipboar|\U0001F4CB
-  Users on Windows now see correctly preserved line breaks when using…]]"
+- '[[Changes/OpenCode/2026-01-09-4-mobile-and-desktop-changes-in-v1-1-10|4 Mobile
+  and Desktop changes in v1.1.10]]'
+- '[[Changes/OpenCode/2026-01-09-4-mobile-and-desktop-changes-in-v1-1-8|4 Mobile and
+  Desktop changes in v1.1.8]]'
+- '[[Changes/OpenCode/2026-01-11-5-mobile-and-desktop-changes-in-v1-1-13|5 Mobile
+  and Desktop changes in v1.1.13]]'
 source_release: '[[Releases/Claude/claude-2026-01-12-2026-01-12-102f5bca|claude-2026-01-12-2026-01-12-102f5bca]]'
 source_type: claude_changelog
 theme: mobile-desktop
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-users-on-windows-now-see-correctly-preserved-line-breaks-when-using-the-clipboar|📋 Users on Windows now see correctly preserved line breaks when using…]]
-- Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-mobile-and-desktop-changes-in-rust-v0-81-0|2 Mobile and Desktop changes in rust-v0.81.0]]
+- Earlier: 2026-01-11 · OpenCode · [[Changes/OpenCode/2026-01-11-5-mobile-and-desktop-changes-in-v1-1-13|5 Mobile and Desktop changes in v1.1.13]]
+- Later: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-3-mobile-and-desktop-changes-in-v1-1-15|3 Mobile and Desktop changes in v1.1.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

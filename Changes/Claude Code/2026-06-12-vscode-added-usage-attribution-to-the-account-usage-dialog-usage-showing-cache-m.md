@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f0d4ab6296611592fde38c4ee10fa181a863bf9f6c2a3ab008b8fe966c208eee
+machine_hash: 515e69fb519ba9ec834f6599d60e46bf43ba21c550c7d59194ac95540453b346
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,12 +64,12 @@ record:
     showing…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-4-context-window-changes-in-rust-v0-138-0|4 Context
-  Window changes in rust-v0.138.0]]'
-- '[[Changes/v0/2026-06-08-press-cmd-k-to-open-a-new-context-aware-command-palette-and-jump-to-chats-projec|Press
-  Cmd+K to open a new context-aware command palette and jump to chats, projects…]]'
 - '[[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context
   Window changes in rust-v0.139.0]]'
+- '[[Changes/OpenCode/2026-06-10-core-sessions-can-recover-once-from-provider-context-overflow-errors-instead-of|Core
+  Sessions can recover once from provider context-overflow errors instead…]]'
+- '[[Changes/Google Antigravity/2026-06-11-ask-side-questions-using-btw-while-in-a-conversation-type-btw-in-the-input-and-s|Ask
+  side questions using /btw]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d|claude-code-2026-06-12-v2-1-174-github-338280944-f2fd4f4d]]'
 source_type: github_releases
 theme: context-window
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context Window changes in rust-v0.139.0]]
+- Earlier: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-ask-side-questions-using-btw-while-in-a-conversation-type-btw-in-the-input-and-s|Ask side questions using /btw]]
 - Later: 2026-06-12 · Ollama · [[Changes/Ollama/2026-06-12-improved-prompt-caching-by-decoupling-it-from-context-shift-for-better-kv-cache|Improved prompt caching by decoupling it from context shift for better KV cache reuse]]
 <!-- chronolog:end -->
 

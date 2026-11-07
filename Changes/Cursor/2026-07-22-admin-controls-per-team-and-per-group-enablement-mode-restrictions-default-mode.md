@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cedb00e6356fb1186e72866e2b358e1811262aa47807ae11b8366fa4b457e6fc
+machine_hash: 80771d85c58db8a22f0b9fe459aff030b48078e8d15027d84f5fa26ce562f893
 product: cursor
 product_name: Cursor
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-4-collaboration-changes-in-slash-commands-the-shopify|4 Collaboration changes in Slash commands, the Shopify…]]
-- Later: 2026-07-27 · ElevenLabs · [[Changes/ElevenLabs/2026-07-27-studio|Studio]]
+- Later: 2026-07-23 · Midjourney · [[Changes/Midjourney/2026-07-23-as-a-kid-all-i-wanted-was-a-cool-place-to-work-on-cool-projects-with-cool-people|Midjourney’s First Acquisition]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

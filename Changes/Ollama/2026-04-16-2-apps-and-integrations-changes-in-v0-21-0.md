@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47a9fb935d3b76c6acc05aa8d68857f18c167ebaff5ade0ce73b64f7fbff0d41
+machine_hash: 2d4d9e2b66965a9dc095bda3fb39dfc927d0e671db6cb04919c8d283cdf8bcfd
 product: ollama
 product_name: Ollama
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.21.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-3-apps-and-integrations-changes-in-v1-0-29|3 Apps and Integrations changes in v1.0.29]]
-- Later: 2026-04-17 · Replit · [[Changes/Replit/2026-04-17-integrations|Integrations]]
+- Later: 2026-04-16 · OpenCode · [[Changes/OpenCode/2026-04-16-2-apps-and-integrations-changes-in-v1-4-7|2 Apps and Integrations changes in v1.4.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

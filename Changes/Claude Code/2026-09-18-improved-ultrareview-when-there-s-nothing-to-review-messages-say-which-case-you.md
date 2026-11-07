@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7249341b234ac48460e34567d34d443d01267592d4793b4c625a6a9e07538d05
+machine_hash: 25cbffb3694212c4da59d14ba3831c04e9dff1d133a71e7a11b943d96aaf3fc0
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-the-status-row-now-says-it-is-waiting-for-background-shells-instead-of-working-w|The status row now says it is waiting for background shells, instead…]]
-- Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5 Developer Workflow changes in v1.0.87]]
+- Later: 2026-09-18 · Google Antigravity · [[Changes/Google Antigravity/2026-09-18-a-command-that-is-killed-when-the-app-restarts-is-now-reported-as-canceled-inste|A command that is killed when the app restarts is now reported as canceled instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

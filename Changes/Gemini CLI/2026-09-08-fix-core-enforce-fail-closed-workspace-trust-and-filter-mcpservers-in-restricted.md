@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7118ed63d76f94acd6890287a573a9a430d9ed2ce9f9498bbb17d014a0c4a2f5
+machine_hash: 7fbf997debaadc64a19efb9e6375c4acc9f326b7e27a28138e1d55b2046c4c81
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
     restricted mode'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-4-safety-and-privacy-changes-in-v2-1-261|4 Safety
-  and Privacy changes in v2.1.261]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-5-safety-and-privacy-changes-in-v1-0-83|5
   Safety and Privacy changes in v1.0.83]]'
+- '[[Changes/OpenClaw/2026-09-05-24-safety-and-privacy-changes-in-v2026-9-2|24 Safety
+  and Privacy changes in v2026.9.2]]'
 - '[[Changes/Claude Code/2026-09-08-3-safety-and-privacy-changes-in-v2-1-265|3 Safety
   and Privacy changes in v2.1.265]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-09-08-v0-59-0-github-385066940-2061ca3c|gemini-cli-2026-09-08-v0-59-0-github-385066940-2061ca3c]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-3-safety-and-privacy-changes-in-v2-1-265|3 Safety and Privacy changes in v2.1.265]]
-- Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety and Privacy changes in v2.1.267]]
+- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-14-safety-and-privacy-changes-in-v2026-9-3|14 Safety and Privacy changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0733ca4e6410c8795db444aaaae9a192e7fc1ffb3dc7d5d1499c4dbf8b5d2ab0
+machine_hash: 3be120d10e7ea2dbb51b67a581b249fac92dbb5522ab2cbaf3857aca136e3de0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-27 · Cursor · [[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn it into a real repo, whenever you want]]
-- Later: 2026-08-28 · Lovable · [[Changes/Lovable/2026-08-28-fewer-preview-reloads-while-you-edit|Fewer preview reloads while you edit]]
+- Later: 2026-08-27 · Midjourney · [[Changes/Midjourney/2026-08-27-click-edit-in-the-lower-right-in-the-lightbox|Click ‘edit’ in the lower right in the lightbox]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

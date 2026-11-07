@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3cc6a5f240cbca5f4fda6134f060fb859d2e277546c4bd047df5aed1ff488856
+machine_hash: 309142329dc544a146792116c735eed7d6ef48727b30038de84e584669df7147
 product: v0
 product_name: v0
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Account and Access changes in Platform API v2, MCP chat tools…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-macos-authentication-clients-can-honor-system-proxy-pac-and-wpad-settings-when-r|macOS
-  authentication clients can honor system proxy, PAC, and WPAD settings…]]'
-- '[[Changes/Codex CLI/2026-06-25-added-opt-in-windows-system-proxy-support-for-authentication-including-pac-wpad|Added
-  opt-in Windows system proxy support for authentication, including PAC, WPAD…]]'
 - '[[Changes/Dify/2026-06-25-5-account-and-access-changes-in-1-15-0|5 Account and
   Access changes in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-enabled-automatic-saving-of-refreshed-oauth-tokens-to-the-os-keyring-to-reduce-a|Enabled
+  automatic saving of refreshed OAuth tokens to the OS keyring to reduce…]]'
+- '[[Changes/OpenCode/2026-06-25-core-always-print-the-mcp-oauth-url-so-manual-sign-in-still-works-when-opening-t|Core
+  Always print the MCP OAuth URL so manual sign-in still works when opening…]]'
 source_release: '[[Releases/v0/v0-2026-06-26-2026-06-26-0ee85750|v0-2026-06-26-2026-06-26-0ee85750]]'
 source_type: v0_changelog
 theme: account-access
@@ -96,7 +96,7 @@ Source: https://v0.app/changelog#2026-06-26
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-5-account-and-access-changes-in-1-15-0|5 Account and Access changes in 1.15.0]]
+- Earlier: 2026-06-25 · OpenCode · [[Changes/OpenCode/2026-06-25-core-always-print-the-mcp-oauth-url-so-manual-sign-in-still-works-when-opening-t|Core Always print the MCP OAuth URL so manual sign-in still works when opening…]]
 - Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-shared-folder-read-only-chats-no-longer-sign-users-out-opening-or-reading-chats|🤝 Shared folder read-only chats no longer sign users out. Opening or reading…]]
 <!-- chronolog:end -->
 

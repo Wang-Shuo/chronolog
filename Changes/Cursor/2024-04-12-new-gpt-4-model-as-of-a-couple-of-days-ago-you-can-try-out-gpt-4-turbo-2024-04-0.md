@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ba3b9f4b48b073bcba4386ce0107b82c1d077027caa1e0edb94fde520756e8f7
+machine_hash: 1f0c5b97676bd0bf694c2ea49055b72269a44495bc9bd5b482ccaf8e25a64d7a
 product: cursor
 product_name: Cursor
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-04-11 · Dify · [[Changes/Dify/2024-04-11-9-model-support-changes-in-0-6-2|9 Model Support changes in 0.6.2]]
-- Later: 2024-04-16 · Dify · [[Changes/Dify/2024-04-16-7-model-support-changes-in-0-6-3|7 Model Support changes in 0.6.3]]
+- Later: 2024-04-15 · Runway · [[Changes/Runway/2024-04-15-a-newly-designed-ai-training-page-lets-you-easily-find-all-custom-models-and-you|Redesigned AI Training]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04f9a9170204d91694f50cf5c39c2f4adf0fcc3587c4ddea9885e0a31c4066b8
+machine_hash: 9b451337cc830e182b86ac477b879b5dfa4f7e2c892bd5bd3bd7285c3a627180
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-3-files-and-data-changes-in-v0-12-4|3 Files and Data changes in v0.12.4]]
-- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-canvas-per-conversation-docker-runtime-and-settings-runtime-page-by-vascosc|feat(canvas): per-conversation Docker runtime and Settings → Runtime page]]
+- Later: 2026-10-26 · Gamma · [[Changes/Gamma/2026-10-26-previews-that-match-your-format|Previews that match your format]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

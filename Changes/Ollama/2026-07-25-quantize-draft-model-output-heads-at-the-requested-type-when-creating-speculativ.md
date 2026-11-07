@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0b4d4393e8d2a5fcfd6f48f246a744496029efea9b030529cbb8688f7817a500
+machine_hash: 9fde320868775518848cf864fba7a65e0be94c08db3701ea0209cecfa2a0c4c8
 product: ollama
 product_name: Ollama
 record:
@@ -44,12 +44,12 @@ record:
   title: Quantize draft-model output heads at the requested type when creating…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-3-model-support-changes-in-v2-1-219|3 Model Support
-  changes in v2.1.219]]'
 - '[[Changes/Cline/2026-07-24-2-model-support-changes-in-v4-0-11|2 Model Support changes
   in v4.0.11]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-24-add-support-for-claude-opus-5|Add support
   for Claude Opus 5]]'
+- '[[Changes/OpenCode/2026-07-24-core-preserve-mistral-reasoning-history-across-turns|Core
+  Preserve Mistral reasoning history across turns]]'
 source_release: '[[Releases/Ollama/ollama-2026-07-25-v0-32-4-github-359627724-357088d9|ollama-2026-07-25-v0-32-4-github-359627724-357088d9]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-24-add-support-for-claude-opus-5|Add support for Claude Opus 5]]
+- Earlier: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-core-preserve-mistral-reasoning-history-across-turns|Core Preserve Mistral reasoning history across turns]]
 - Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-39-model-support-changes-in-v0-11-0|39 Model Support changes in v0.11.0]]
 <!-- chronolog:end -->
 

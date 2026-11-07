@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 03ef1b48ee5ccb110f7bf2de24835fa35f2b761b4e0a8a54c04026a73972df32
+machine_hash: 473bebf5a14eadec39ce109c2865b798691ef3dec316e0c4c927c20a037a3be3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,11 +59,11 @@ record:
   title: Expanded image workflow support for clients, including client-side handling…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-12-2-image-generation-changes-in-v0-8-0|2 Image Generation
-  changes in v0.8.0]]'
 - '[[Changes/Open WebUI/2026-02-16-chat-toggles-now-control-built-in-tools-users-can-now-disable-web-search-image-g|⚙️
   Chat toggles now control built-in tools. Users can now disable web search…]]'
 - '[[Changes/Replit/2026-02-20-video-stack|Video Stack]]'
+- '[[Changes/Runway/2026-02-27-the-most-advanced-and-consistent-image-generation-and-editing-model-now-availabl|Nano
+  Banana 2]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-05-rust-v0-111-0-github-293639875-9259bb82|codex-cli-2026-03-05-rust-v0-111-0-github-293639875-9259bb82]]'
 source_type: github_releases
 theme: image-generation
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-02-20 · Replit · [[Changes/Replit/2026-02-20-video-stack|Video Stack]]
+- Earlier: 2026-02-27 · Runway · [[Changes/Runway/2026-02-27-the-most-advanced-and-consistent-image-generation-and-editing-model-now-availabl|Nano Banana 2]]
 - Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-image-generation-in-temporary-chats-generated-images-now-display-correctly-in-te|🖌️ Image generation in temporary chats. Generated images now display correctly…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c85b555aaa12320c7c499463698eb5ce7b6cc219b75c158bc1023f99a97c0609
+machine_hash: 530cb2e729ec5e249fcf95a430ef37d19d81aae59814dfc2e07c90a610324f6c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
     every…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-08-readme-add-oxi-to-community-integrations-by-maziluiosif-in-https-github-com-olla|README:
-  add oxi to community integrations]]'
+- '[[Changes/OpenClaw/2026-10-08-10-apps-and-integrations-changes-in-v2026-9-9|10
+  Apps and Integrations changes in v2026.9.9]]'
 - '[[Changes/OpenHands/2026-10-08-feat-apps-add-authenticated-backend-view-helper-by-neubig-in-https-github-com-op|feat(apps):
   add authenticated backend view helper]]'
 - '[[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3

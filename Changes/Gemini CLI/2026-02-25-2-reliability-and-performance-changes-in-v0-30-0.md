@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95eff424515dbc61583abe917fa7633df3218f9b6d14f013e65f47524fe8dc14
+machine_hash: 3c6d17eea97c266502c5c14172e7a7b6dfabfd33e5ed164cbc961e7f675455e4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Reliability and Performance changes in v0.30.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-24-preconnect-websocket-to-reduce-response-latency|Preconnect
-  websocket to reduce response latency]]'
 - '[[Changes/Ollama/2026-02-24-mlx-engine-now-has-improved-memory-usage|MLX engine
   now has improved memory usage]]'
+- '[[Changes/OpenCode/2026-02-24-2-reliability-and-performance-changes-in-v1-2-11|2
+  Reliability and Performance changes in v1.2.11]]'
 - '[[Changes/Codex CLI/2026-02-25-3-reliability-and-performance-changes-in-rust-v0-105-0|3
   Reliability and Performance changes in rust-v0.105.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'
@@ -96,7 +96,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.30.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-3-reliability-and-performance-changes-in-rust-v0-105-0|3 Reliability and Performance changes in rust-v0.105.0]]
-- Later: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved memory usage in multi-agent sessions by releasing completed subagent task state]]
+- Later: 2026-02-25 · Google Antigravity · [[Changes/Google Antigravity/2026-02-25-stability-and-ui-improvements|Stability and UI Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

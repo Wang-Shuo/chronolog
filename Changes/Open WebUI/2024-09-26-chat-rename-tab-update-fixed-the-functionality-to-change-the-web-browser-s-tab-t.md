@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd19c4499c1e834b96b96c3e9076c0880e816d8fdf3a3d2df32cbfe53e377277
+machine_hash: f5562151d4fcc6ace16691cca468dd9207209606fbb9278bd01846a928a99472
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,10 +45,10 @@ record:
   title: "**\U0001F3F7️ Chat Rename Tab Update**"
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-12-editor-can-also-create-api-key-by-cuckootan-in-https-github-com-langgenius-dify|editor
-  can also create api key]]'
 - '[[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE
   (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]'
+- '[[Changes/Gamma/2024-09-17-we-ve-introduced-a-powerful-new-ai-feature-for-pro-subscribers-that-lets-you-edi|We''ve
+  introduced a powerful new AI feature for Pro subscribers that lets you edit…]]'
 - "[[Changes/Open WebUI/2024-09-19-enhanced-error-messaging-system-now-displays-helpful-error-messages-directly-to|\U0001F9E0
   Enhanced Error Messaging]]"
 source_release: '[[Releases/Open WebUI/open-webui-2024-09-26-v0-3-30-github-176962132-1aac9ab1|open-webui-2024-09-26-v0-3-30-github-176962132-1aac9ab1]]'

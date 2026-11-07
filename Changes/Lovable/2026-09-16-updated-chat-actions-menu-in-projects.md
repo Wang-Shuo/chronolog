@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f20c0ac5c12d5d76def127b4d8e1f3fa0066999815d1cecda2f3e1e70b617bc5
+machine_hash: 9ac95eddca479be366ca7db7bfd42a26a0064060bb5df0926df9837ff0cacfb6
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,10 @@ record:
   title: Updated Chat actions menu in projects
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface
-  Experience changes in v2.1.271]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude
   Code on the web Improved the routine detail page]]'
+- '[[Changes/Google Antigravity/2026-09-15-reorganized-the-conversation-menu-so-archive-and-delete-sit-together-at-the-bott|Reorganized
+  the conversation menu so Archive and Delete sit together at the bottom…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-3-interface-experience-changes-in-v1-0-85|3
   Interface Experience changes in v1.0.85]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-16-2026-09-16-cc8072e1|lovable-2026-09-16-2026-09-16-cc8072e1]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-3-interface-experience-changes-in-v1-0-85|3 Interface Experience changes in v1.0.85]]
-- Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-2-interface-experience-changes-in-v1-19-0|2 Interface Experience changes in v1.19.0]]
+- Later: 2026-09-16 · Midjourney · [[Changes/Midjourney/2026-09-16-organize-dragging-images-to-a-folder-works-with-the-sidebar-collapsed-folder-lin|ORGANIZE Dragging images to a folder works with the sidebar collapsed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8fa3ae54559c3e278e935eef4e3b36536563dfb273126cafdc76350f74033152
+machine_hash: 09b135b81ccfdbd3c996b21bc36d040bc91ea4e600cc967ac7f44bcb63f7ef77
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -50,12 +50,12 @@ record:
   title: 2 Files and Data changes in ElevenLabs updates — 2026-11-02
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-improved-the-artifact-tool-s-choice-between-a-page-and-a-document-explainers-and|Improved
-  the Artifact tool''s choice between a page and a document]]'
 - '[[Changes/OpenHands/2026-10-27-feat-canvas-per-conversation-docker-runtime-and-settings-runtime-page-by-vascosc|feat(canvas):
   per-conversation Docker runtime and Settings → Runtime page]]'
 - '[[Changes/Open WebUI/2026-10-29-2-files-and-data-changes-in-v0-12-5|2 Files and
   Data changes in v0.12.5]]'
+- '[[Changes/OpenClaw/2026-10-29-canvas-a2ui-and-discord-activity-now-avoid-unnecessary-processing-by-rejecting-o|Canvas/A2UI
+  and Discord Activity now avoid unnecessary processing by rejecting…]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'
 source_type: elevenlabs_changelog
 theme: file-data
@@ -114,8 +114,8 @@ Source: https://elevenlabs.io/docs/changelog/2026/11/2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-files-and-data-changes-in-v0-12-5|2 Files and Data changes in v0.12.5]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-feat-canvas-attribute-local-cloud-signup-entries-all-5962-by-malhotra5-in-https|feat(canvas): attribute local Cloud signup entries (ALL-5962)]]
+- Earlier: 2026-10-29 · OpenClaw · [[Changes/OpenClaw/2026-10-29-canvas-a2ui-and-discord-activity-now-avoid-unnecessary-processing-by-rejecting-o|Canvas/A2UI and Discord Activity now avoid unnecessary processing by rejecting…]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-2-files-and-data-changes-in-v2026-10-10|2 Files and Data changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

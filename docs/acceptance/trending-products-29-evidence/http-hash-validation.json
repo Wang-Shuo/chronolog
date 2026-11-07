@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "responses": 181,
+  "all_http_200": true,
+  "errors": [],
+  "earliest_acquisition": "2026-11-07T02:10:01Z",
+  "latest_acquisition": "2026-11-07T02:13:51Z"
+}

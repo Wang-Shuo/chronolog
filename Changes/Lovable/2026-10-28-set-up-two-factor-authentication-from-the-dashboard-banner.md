@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 99bc6363a80f97794c7546361b1b644fe2ca28706e674821d6734925000759d8
+machine_hash: 6026e5b042da190457dabd8dcb183f21d3484c7ee79f92c33c8a9670c6fc9b0c
 product: lovable
 product_name: Lovable
 record:
@@ -47,12 +47,12 @@ record:
   title: Set up two-factor authentication from the dashboard banner
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-oauth-scope-oauth-clients-can-request-the-realtime-translation-scope|OAuth
-  scope: OAuth clients can request the realtime_translation scope]]'
-- '[[Changes/Windsurf/2026-10-26-a-dropped-connection-during-sign-in-no-longer-signs-you-out-devin-desktop-retrie|A
-  dropped connection during sign-in no longer signs you out]]'
 - '[[Changes/Codex CLI/2026-10-27-3-account-and-access-changes-in-rust-v0-165-0|3
   Account and Access changes in rust-v0.165.0]]'
+- '[[Changes/OpenClaw/2026-10-27-5-account-and-access-changes-in-v2026-10-8|5 Account
+  and Access changes in v2026.10.8]]'
+- '[[Changes/OpenCode/2026-10-27-core-coordinate-oauth-credential-refreshes-across-locations-and-processes|Core
+  Coordinate OAuth credential refreshes across locations and processes]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-28-2026-10-28-4c2babff|lovable-2026-10-28-2026-10-28-4c2babff]]'
 source_type: lovable_changelog
 theme: account-access
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-3-account-and-access-changes-in-rust-v0-165-0|3 Account and Access changes in rust-v0.165.0]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-core-coordinate-oauth-credential-refreshes-across-locations-and-processes|Core Coordinate OAuth credential refreshes across locations and processes]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-8-account-and-access-changes-in-rust-v0-166-0|8 Account and Access changes in rust-v0.166.0]]
 <!-- chronolog:end -->
 

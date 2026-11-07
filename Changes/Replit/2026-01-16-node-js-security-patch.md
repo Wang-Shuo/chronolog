@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 55219bb4ea1931dce22703d77e4a7c34abda359658708779c6cb943f76113ba4
+machine_hash: c364946396f0314362d6ac06b12665ac622b79e921f0cd89c0319e1211e3214b
 product: replit
 product_name: Replit
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-security-center-v0-1|Security center (v0.1)]]
-- Later: 2026-01-20 · Gemini · [[Changes/Gemini/2026-01-20-gemini-introduces-personal-intelligence|Gemini introduces Personal Intelligence]]
+- Later: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-terminal-add-mouse-support-for-permission-buttons-in-tui|Terminal Add mouse support for permission buttons in TUI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

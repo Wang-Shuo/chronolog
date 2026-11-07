@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ffc52c9b6febe67396ad1bdaebedb0308724ff327b67436dcff46cc0d3a4c0e6
+machine_hash: d9e5b98ce30c394ae86854d66e566a61ac435074a468a09b3b892715c67c24ee
 product: claude-code
 product_name: Claude Code
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-09 · Lovable · [[Changes/Lovable/2026-06-09-publish-from-chat|Publish from chat]]
-- Later: 2026-06-10 · OpenHands · [[Changes/OpenHands/2026-06-10-2-agent-mode-changes-in-1-8-0|2 Agent Mode changes in 1.8.0]]
+- Later: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-desktop-hidden-agents-no-longer-get-cycled-accidentally|Desktop Hidden agents no longer get cycled accidentally]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

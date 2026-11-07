@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 242512e51c0ff7a4a06421b7062b6b347c1777e33706071228501fa9968092a1
+machine_hash: c1f233808a24ecf98d687a1d3ef2401fb8b47951fe88bb1392f8ed1f736a624b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Agent Mode changes in v0.0.407
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0|4 Agent Mode changes
-  in v0.28.0]]'
+- '[[Changes/OpenCode/2026-02-10-4-agent-mode-changes-in-v1-1-54|4 Agent Mode changes
+  in v1.1.54]]'
 - '[[Changes/Codex CLI/2026-02-11-10-agent-mode-changes-in-rust-v0-99-0|10 Agent Mode
   changes in rust-v0.99.0]]'
 - '[[Changes/Dify/2026-02-11-flexible-delivery-methods-human-input-forms-can-be-delivered-via-webapp-or-email|Flexible

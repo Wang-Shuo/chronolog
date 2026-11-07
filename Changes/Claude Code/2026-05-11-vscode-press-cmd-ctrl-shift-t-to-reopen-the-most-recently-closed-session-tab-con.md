@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67aa1521ead30cedff1d3db03894a0b558aa9c0035e487d43edf54d7aeede17f
+machine_hash: a28e7482438cc659843d23b151317b475c97419dc9d1fd359ea78e938b754b1e
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     tab…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-08-2-editor-experience-changes-in-v1-0-44|2
-  Editor Experience changes in v1.0.44]]'
 - '[[Changes/Open WebUI/2026-05-09-5-editor-experience-changes-in-v0-9-3|5 Editor
   Experience changes in v0.9.3]]'
 - "[[Changes/Open WebUI/2026-05-10-url-parser-ssrf-bypass-url-validation-now-rejects-backslash-tab-cr-and-lf-charac|\U0001F6E1️
   URL parser SSRF bypass. URL validation now rejects backslash, tab, CR, and LF…]]"
+- '[[Changes/OpenCode/2026-05-10-core-added-a-built-in-customize-opencode-skill-so-opencode-config-edits-are-less|Core
+  Added a built-in customize-opencode skill so opencode config edits are less…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-url-parser-ssrf-bypass-url-validation-now-rejects-backslash-tab-cr-and-lf-charac|🛡️ URL parser SSRF bypass. URL validation now rejects backslash, tab, CR, and LF…]]
+- Earlier: 2026-05-10 · OpenCode · [[Changes/OpenCode/2026-05-10-core-added-a-built-in-customize-opencode-skill-so-opencode-config-edits-are-less|Core Added a built-in customize-opencode skill so opencode config edits are less…]]
 - Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-2-editor-experience-changes-in-1-14-1|2 Editor Experience changes in 1.14.1]]
 <!-- chronolog:end -->
 

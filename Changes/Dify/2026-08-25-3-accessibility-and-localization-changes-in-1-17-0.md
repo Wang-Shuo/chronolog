@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 856949b08c1a9dce0b8b492f11e23b85822f49ca6c4ac584b34ffd30beaee86a
+machine_hash: 0dd528aa02d4735e30f82b07ec0e0f068b8f927f399b02fdb51a87898f7a26c8
 product: dify
 product_name: Dify
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Accessibility and Localization changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-added-screen-reader-announcements-of-deleted-text-for-word-and-line-deletions-op|Added
-  screen-reader announcements of deleted text for word and line deletions…]]'
 - '[[Changes/Dify/2026-07-28-2-accessibility-and-localization-changes-in-1-16-1|2
   Accessibility and Localization changes in 1.16.1]]'
+- '[[Changes/Google Antigravity/2026-07-28-improved-accessibility-in-the-settings-modal-with-better-heading-hierarchy-and-k|Improved
+  accessibility in the Settings modal with better heading hierarchy…]]'
 - '[[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved
   screen reader mode]]'
 source_release: '[[Releases/Dify/dify-2026-08-25-1-17-0-github-376348099-66c16161|dify-2026-08-25-1-17-0-github-376348099-66c16161]]'

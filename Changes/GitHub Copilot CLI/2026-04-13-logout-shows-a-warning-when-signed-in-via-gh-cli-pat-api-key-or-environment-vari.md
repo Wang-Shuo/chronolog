@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3665021f17a87fd49fbe5a3b00b87dab118b24092fbedb7e2d214b25f1b58be
+machine_hash: d68dafbc465e7f1c45e983b06f553be42467470d36d39d8c9a186f6bf16b717f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: /logout shows a warning when signed in via gh CLI, PAT, API key, or environment…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added
-  interactive Google Vertex AI setup wizard accessible from the login screen…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-09-support-bearer-token-authentication-for-byok-anthropic-models|Support
   bearer token authentication for BYOK Anthropic models]]'
 - '[[Changes/Codex CLI/2026-04-10-2-account-and-access-changes-in-rust-v0-119-0|2
   Account and Access changes in rust-v0.119.0]]'
+- '[[Changes/OpenCode/2026-04-10-extensions-added-configurable-oauth-redirect-uris-for-remote-mcp-servers|Extensions
+  Added configurable OAuth redirect URIs for remote MCP servers]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-13-v1-0-25-github-308357690-3753e85b|github-copilot-cli-2026-04-13-v1-0-25-github-308357690-3753e85b]]'
 source_type: github_releases
 theme: account-access
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-2-account-and-access-changes-in-rust-v0-119-0|2 Account and Access changes in rust-v0.119.0]]
+- Earlier: 2026-04-10 · OpenCode · [[Changes/OpenCode/2026-04-10-extensions-added-configurable-oauth-redirect-uris-for-remote-mcp-servers|Extensions Added configurable OAuth redirect URIs for remote MCP servers]]
 - Later: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-docs-update-mcp-server-oauth-redirect-port-documentation-by-adamfweidman-in-http|docs: update MCP server OAuth redirect port documentation]]
 <!-- chronolog:end -->
 

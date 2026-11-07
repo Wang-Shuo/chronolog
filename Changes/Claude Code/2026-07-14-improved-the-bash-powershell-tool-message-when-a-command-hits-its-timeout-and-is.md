@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4d28d6e6f797a2d8f325aa8e7bfe04662d011835ca1226c3689111c686913f35
+machine_hash: 5b999bf1eadf03da83406d62af337adf535e205b0e3f1f1b920948c7bd2bc2f5
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Improved the Bash/PowerShell tool message when a command hits its timeout…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-4-model-support-changes-in-v1-0-70|4 Model
-  Support changes in v1.0.70]]'
-- '[[Changes/Claude Code/2026-07-11-changed-bedrock-vertex-and-claude-platform-on-aws-to-default-to-claude-opus-4-8|Changed
-  Bedrock, Vertex, and Claude Platform on AWS to default to Claude Opus 4.8]]'
 - '[[Changes/Cline/2026-07-11-add-more-models-to-the-gcp-vertex-provider-plus-a-free-form-entry-option-in-the|Add
   more models to the GCP Vertex provider, plus a free-form entry option…]]'
+- '[[Changes/OpenClaw/2026-07-13-130-model-support-changes-in-v2026-7-1|130 Model
+  Support changes in v2026.7.1]]'
+- '[[Changes/OpenCode/2026-07-13-4-model-support-changes-in-v1-17-20-1|4 Model Support
+  changes in v1.17.20 + 1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7|claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7]]'
 source_type: github_releases
 theme: model-support
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-11 · Cline · [[Changes/Cline/2026-07-11-add-more-models-to-the-gcp-vertex-provider-plus-a-free-form-entry-option-in-the|Add more models to the GCP Vertex provider, plus a free-form entry option…]]
-- Later: 2026-07-15 · Lovable · [[Changes/Lovable/2026-07-15-gpt-5-6-and-gemini-text-to-speech-models-for-your-app-s-ai-features|GPT-5.6 and Gemini text-to-speech models for your app's AI features]]
+- Earlier: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-4-model-support-changes-in-v1-17-20-1|4 Model Support changes in v1.17.20 + 1]]
+- Later: 2026-07-14 · OpenCode · [[Changes/OpenCode/2026-07-14-desktop-fixed-spacing-between-model-provider-sections-in-settings|Desktop Fixed spacing between model provider sections in Settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

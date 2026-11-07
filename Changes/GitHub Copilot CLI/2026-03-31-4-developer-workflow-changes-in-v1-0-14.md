@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39d0fbf31eca5b1617549803a72b8ca598c8a88bc32328ba0e216aa7df74c351
+machine_hash: d141bab300c3cd647a964d4b18f7556636b60ac3dd4b52be62a6ee22125b3063
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 4 Developer Workflow changes in v1.0.14
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-27-5-developer-workflow-changes-in-v0-8-12|5 Developer
-  Workflow changes in v0.8.12]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-developer-workflow-changes-in-v1-0-13|2
   Developer Workflow changes in v1.0.13]]'
+- '[[Changes/OpenCode/2026-03-30-2-developer-workflow-changes-in-v1-3-9-1|2 Developer
+  Workflow changes in v1.3.9 + 1]]'
 - '[[Changes/Codex CLI/2026-03-31-3-developer-workflow-changes-in-rust-v0-118-0|3
   Developer Workflow changes in rust-v0.118.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-31-v1-0-14-github-303495089-79909e3a|github-copilot-cli-2026-03-31-v1-0-14-github-303495089-79909e3a]]'
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.14
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-3-developer-workflow-changes-in-rust-v0-118-0|3 Developer Workflow changes in rust-v0.118.0]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-4-developer-workflow-changes-in-v2-1-89|4 Developer Workflow changes in v2.1.89]]
+- Later: 2026-03-31 · OpenCode · [[Changes/OpenCode/2026-03-31-2-developer-workflow-changes-in-v1-3-12-2|2 Developer Workflow changes in v1.3.12 + 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

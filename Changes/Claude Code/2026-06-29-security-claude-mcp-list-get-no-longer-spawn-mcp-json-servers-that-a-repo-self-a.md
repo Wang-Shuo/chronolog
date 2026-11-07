@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50e48d25f4889e97cb14e5031e8ab7fbbc1d6a240512a85958b9b11d0b16bd19
+machine_hash: 247c2b36673c876dd5931d157722981d75737c04f5d582c44717ec6ea0194196
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,10 +56,10 @@ record:
     a repo…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-2-safety-and-privacy-changes-in-rust-v0-142-2|2
-  Safety and Privacy changes in rust-v0.142.2]]'
 - '[[Changes/Dify/2026-06-25-14-safety-and-privacy-changes-in-1-15-0|14 Safety and
   Privacy changes in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-3-safety-and-privacy-changes-in-hub-v2-2-1-antigravity-guide-audio|3
+  Safety and Privacy changes in HUB v2.2.1 — Antigravity Guide, audio…]]'
 - '[[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed
   external plugins enabled only by project .claude/settings.json not requiring…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'

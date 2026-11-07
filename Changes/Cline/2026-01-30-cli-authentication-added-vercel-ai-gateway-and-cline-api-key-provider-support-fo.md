@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 591f202dcc902df4a9559b18e06ff1dd59bcdd898df511fb9e7b2231b509ad15
+machine_hash: b7b3466d027197049f66b044f28c288faea202cc8c627a9e966d6c9dc1cf7f78
 product: cline
 product_name: Cline
 record:
@@ -56,12 +56,12 @@ record:
     support…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-22-mcp-servers-can-now-authenticate-using-oauth-2-0-with-automatic-token-management|MCP
-  servers can now authenticate using OAuth 2.0 with automatic token management…]]'
 - '[[Changes/Codex CLI/2026-01-27-2-account-and-access-changes-in-rust-v0-92-0|2 Account
   and Access changes in rust-v0.92.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-27-error-messages-consistently-reference-login-and-logout-commands|Error
   messages consistently reference /login and /logout commands]]'
+- '[[Changes/OpenCode/2026-01-28-support-headless-authentication-for-chatgpt-codex|Support
+  headless authentication for ChatGPT/Codex]]'
 source_release: '[[Releases/Cline/cline-2026-01-30-v3-56-0-github-281356951-bdf900e3|cline-2026-01-30-v3-56-0-github-281356951-bdf900e3]]'
 source_type: github_releases
 theme: account-access
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-27-error-messages-consistently-reference-login-and-logout-commands|Error messages consistently reference /login and /logout commands]]
+- Earlier: 2026-01-28 · OpenCode · [[Changes/OpenCode/2026-01-28-support-headless-authentication-for-chatgpt-codex|Support headless authentication for ChatGPT/Codex]]
 - Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4bce9f|CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
 <!-- chronolog:end -->
 

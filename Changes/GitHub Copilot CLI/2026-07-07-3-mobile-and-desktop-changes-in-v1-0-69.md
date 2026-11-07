@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 36f6ccea6df84a2bf2e3b145a9d51b3183bffbbe8f03c7ecb4a6f7637ab0a1c9
+machine_hash: 350c58e4f568cec487fdb52dffe6effb79d0d0864c2c1cc913fb4dcdfcd79404
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,9 +45,10 @@ record:
   title: 3 Mobile and Desktop changes in v1.0.69
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]'
 - '[[Changes/Lovable/2026-07-06-lovable-desktop-app-is-now-on-windows|Lovable Desktop
   app is now on Windows]]'
+- '[[Changes/OpenCode/2026-07-06-14-mobile-and-desktop-changes-in-v1-17-14|14 Mobile
+  and Desktop changes in v1.17.14]]'
 - '[[Changes/Claude/2026-07-07-claude-cowork-on-web-and-mobile|Claude Cowork on web
   and mobile]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357|github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357]]'

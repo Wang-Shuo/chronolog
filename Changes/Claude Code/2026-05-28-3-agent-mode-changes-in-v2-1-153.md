@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7179525e01af5749c2d7481a46e529d957b58df0e5a03610718e44ffe5be2027
+machine_hash: d79c1d936f129c50f29b1d49f878d22eb00c3488804e92cee381b1428cda2709
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,7 +48,8 @@ record:
   title: 3 Agent Mode changes in v2.1.153
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-27-subagents|Subagents]]'
+- '[[Changes/OpenCode/2026-05-27-core-experimental-background-agents-now-push-updates-without-polling|Core
+  Experimental background agents now push updates without polling]]'
 - '[[Changes/Windsurf/2026-05-27-devin-local|Devin Local]]'
 - '[[Changes/Claude Code/2026-05-28-4-agent-mode-changes-in-v2-1-154|4 Agent Mode
   changes in v2.1.154]]'

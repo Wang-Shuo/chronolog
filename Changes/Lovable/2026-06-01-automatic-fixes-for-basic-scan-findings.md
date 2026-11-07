@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: deefa10fe97852a6539cc4436646f36be1a9062173d13a56cd4e3a30e0d575bd
+machine_hash: 012413c9a51f74831d6bfd8cc97abace6ace140e0fa3762d93ff0f4cee7de492
 product: lovable
 product_name: Lovable
 record:
@@ -64,8 +64,8 @@ record:
   title: Automatic fixes for Basic scan findings
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-28-7-safety-and-privacy-changes-in-rust-v0-135-0|7
-  Safety and Privacy changes in rust-v0.135.0]]'
+- '[[Changes/OpenCode/2026-05-28-core-handled-acp-next-permission-prompts-correctly|Core
+  Handled acp-next permission prompts correctly]]'
 - '[[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety
   and Privacy changes in v2.1.157]]'
 - '[[Changes/Codex CLI/2026-06-01-11-safety-and-privacy-changes-in-rust-v0-136-0|11

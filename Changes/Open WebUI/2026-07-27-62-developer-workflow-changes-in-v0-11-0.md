@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b08bf3307cc3e30daacca980a573c3a218a6cc457dbd8eb806340466c8b2c786
+machine_hash: 02b93e3f1e155eb6a30d38c1849167977a1dfd37807ce1818f950a61013a56a6
 product: open-webui
 product_name: Open WebUI
 record:
@@ -387,12 +387,12 @@ record:
   title: 62 Developer Workflow changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/v0/2026-07-21-2-developer-workflow-changes-in-slash-commands-the-shopify|2
-  Developer Workflow changes in Slash commands, the Shopify…]]'
 - '[[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed
   /code-review to run as a background subagent, so review work no longer…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-23-2-developer-workflow-changes-in-v1-0-74|2
   Developer Workflow changes in v1.0.74]]'
+- '[[Changes/OpenCode/2026-07-24-support-the-current-server-terminal-transport|Support
+  the current server terminal transport]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases
 theme: developer-workflow
@@ -565,8 +565,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-2-developer-workflow-changes-in-v1-0-74|2 Developer Workflow changes in v1.0.74]]
-- Later: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-4-developer-workflow-changes-in-1-16-1|4 Developer Workflow changes in 1.16.1]]
+- Earlier: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-support-the-current-server-terminal-transport|Support the current server terminal transport]]
+- Later: 2026-07-27 · OpenCode · [[Changes/OpenCode/2026-07-27-desktop-improved-compatibility-with-the-newer-client-api-across-directory-projec|Desktop Improved compatibility with the newer client API across directory, project…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

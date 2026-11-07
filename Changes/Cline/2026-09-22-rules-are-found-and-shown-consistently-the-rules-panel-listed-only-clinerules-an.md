@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9cb1383fc3d0827712584b8730733ba72d355448e70ef42ef0f97ad9a4a095d9
+machine_hash: f63e38c4992b3f896e259ab13865b670b3f8c300e8a53b776cd5c73a6bc3b239
 product: cline
 product_name: Cline
 record:
@@ -60,8 +60,8 @@ record:
   title: Rules are found and shown consistently
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-19-ollama-s-macos-app-will-now-no-longer-reopen-windows-you-ve-closed-when-activati|Ollama''s
-  macOS app will now no longer reopen windows you''ve closed when activating it]]'
+- '[[Changes/OpenClaw/2026-09-19-23-mobile-and-desktop-changes-in-v2026-9-5|23 Mobile
+  and Desktop changes in v2026.9.5]]'
 - '[[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit
   scores in Finances]]'
 - "[[Changes/Open WebUI/2026-09-21-apple-device-replies-an-assistant-reply-no-longer-comes-up-blank-in-a-home-scree|\U0001F4F1

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 98a09c7702066cab3874f1a5cd0a662a654c278f87042bf70cd46aaab0008423
+machine_hash: 459961cb9b400998a6594bb57f4f32e88b6c85c5b88cb1fa6027f4f392a32880
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,10 +57,10 @@ record:
   title: Removed the `remote_models` feature flag to prevent fallback model metadata…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-14-reduce-memory-usage-from-encoding-streaming-chunks|Reduce
-  memory usage from encoding streaming chunks]]'
-- '[[Changes/Open WebUI/2026-02-14-2-reliability-and-performance-changes-in-v0-8-1|2
-  Reliability and Performance changes in v0.8.1]]'
+- '[[Changes/OpenCode/2026-02-14-desktop-performance-optimization-for-showing-large-diffs-and-files-in-desktop|Desktop
+  Performance optimization for showing large diffs and files in desktop]]'
+- '[[Changes/Suno/2026-02-16-studio-1-2-is-an-update-that-brings-innovative-pro-level-features-to-suno-and-gi|Studio
+  just leveled up]]'
 - '[[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved
   memory usage for shell commands that produce large output]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-103-0-github-287457049-69ff7e22|codex-cli-2026-02-17-rust-v0-103-0-github-287457049-69ff7e22]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 285444895a86f0fb2042928057500efc75d122ca286b5f05924c0a4f9ec63771
+machine_hash: 2bcb2dbf778d81e9a8b937eaf8495f366f89fb92d9e8b842181f243e0b112e40
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Improved the Artifact tool's publish and read results
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-16-updated-chat-actions-menu-in-projects|Updated Chat
-  actions menu in projects]]'
+- '[[Changes/Midjourney/2026-09-16-mobile-tablet-a-starter-pass-here-pages-use-the-full-width-nothing-hides-behind|MOBILE/TABLET
+  A starter pass here]]'
 - '[[Changes/OpenHands/2026-09-16-2-interface-experience-changes-in-v1-19-0|2 Interface
   Experience changes in v1.19.0]]'
 - '[[Changes/ChatGPT/2026-09-17-chatgpt-is-now-available-in-microsoft-word-you-can-draft-from-notes-summarize-a-4c7506|ChatGPT

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0779ca1e03a63b13ee37a8dbbb9a5f4add99b649f2fa3550e17413db930b4793
+machine_hash: 16306d9871239aa74b0ffa74af74b65f6c1b3fce18c9bd7e23cf9fb95a02ccd3
 product: v0
 product_name: v0
 record:
@@ -48,8 +48,8 @@ record:
   title: GitHub-backed projects now have a unified branch-and-Publish flow in v0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-08-31-9-developer-workflow-changes-in-v0-11-2|9 Developer
-  Workflow changes in v0.11.2]]'
+- '[[Changes/OpenClaw/2026-08-31-each-area-below-has-its-own-page-keeping-the-user-facing-description-and-the-com|Each
+  area below has its own page, keeping the user-facing description…]]'
 - '[[Changes/Claude Code/2026-09-01-3-developer-workflow-changes-in-v2-1-257|3 Developer
   Workflow changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-6-developer-workflow-changes-in-rust-v0-152-0|6

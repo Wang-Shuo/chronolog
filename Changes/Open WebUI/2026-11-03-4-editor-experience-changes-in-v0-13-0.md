@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a27b82ec33a8867e613f30aa772f98234ae6d091680f95f55f085fa1e172aaf4
+machine_hash: f645e1b1585979807c11d0b01560590316eec4d7556b86c4611cbbc908bd1f56
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,12 +60,12 @@ record:
   title: 4 Editor Experience changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor
-  Experience changes in v2.1.316]]'
 - '[[Changes/ElevenLabs/2026-11-02-svg-assets-svg-uploads-to-assets-stay-svg-and-render-as-vectors-including-in-the|SVG
   assets: SVG uploads to Assets stay SVG and render as vectors, including…]]'
 - '[[Changes/Lovable/2026-11-02-project-monitoring-catches-errors-in-your-visitors-browsers|Project
   monitoring catches errors in your visitors'' browsers]]'
+- '[[Changes/Google Antigravity/2026-11-03-the-overview-panel-s-review-row-and-the-review-tab-header-now-show-total-added-a|The
+  Overview panel''s Review row and the Review tab header now show total added…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'
 source_type: github_releases
 theme: editor-experience
@@ -119,8 +119,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-11-02 · Lovable · [[Changes/Lovable/2026-11-02-project-monitoring-catches-errors-in-your-visitors-browsers|Project monitoring catches errors in your visitors' browsers]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-feat-files-add-a-download-button-to-the-files-tab-ohe-3834-by-hieptl-in-https-gi|feat(files): add a Download button to the Files tab (OHE-3834)]]
+- Earlier: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-the-overview-panel-s-review-row-and-the-review-tab-header-now-show-total-added-a|The Overview panel's Review row and the Review tab header now show total added…]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-3-editor-experience-changes-in-v2026-10-10|3 Editor Experience changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

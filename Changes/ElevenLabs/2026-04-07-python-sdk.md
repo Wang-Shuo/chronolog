@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3d29530f5dd659f61365858a71abde67e4f7fbdb45b22208aa73901515f54bc1
+machine_hash: ac48cfe967902254f78425f625d4891d4cccff3e8e48dcd50470671b234f3b45
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -48,10 +48,10 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote
-  Control session names now use your hostname as the default prefix…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-06-2-apps-and-integrations-changes-in-v1-0-19|2
   Apps and Integrations changes in v1.0.19]]'
+- '[[Changes/OpenCode/2026-04-06-extensions-fix-plugin-installs-from-npm-aliases-and-git-urls-including-windows-c|Extensions
+  Fix plugin installs from npm aliases and git URLs, including Windows…]]'
 - '[[Changes/Claude Code/2026-04-07-5-apps-and-integrations-changes-in-v2-1-94|5 Apps
   and Integrations changes in v2.1.94]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-07-2026-04-07-1ced55b5|elevenlabs-2026-04-07-2026-04-07-1ced55b5]]'

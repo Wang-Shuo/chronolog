@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e909c46bb9c3234a87caf8d8dad22acdc73b1db950e2ed7a245385c302dd809c
+machine_hash: 63d6b5a0a4b5f292583c50d07bd9ca6bb74810bcce1f7bff42ec06212c210a0f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,10 +47,9 @@ record:
   title: 2 Model Support changes in v0.6.6
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-28-chore-disabled-struct-output-not-show-model-not-support-warning-by-iamjoel-in-ht|chore:
-  disabled struct output not show model not support warning]]'
-- '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
-  to GPT-4o]]'
+- '[[Changes/Midjourney/2025-04-30-new-v7-image-model-update|New V7 image model update]]'
+- '[[Changes/Midjourney/2025-05-02-we-re-launching-v7-model-speedups-today-this-includes-the-release-of-the-default|Midjourney
+  launches V7 model speedups today]]'
 - '[[Changes/Cline/2025-05-03-5-model-support-changes-in-v3-14-0|5 Model Support changes
   in v3.14.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-05-05-v0-6-6-github-216502762-5c099040|open-webui-2025-05-05-v0-6-6-github-216502762-5c099040]]'

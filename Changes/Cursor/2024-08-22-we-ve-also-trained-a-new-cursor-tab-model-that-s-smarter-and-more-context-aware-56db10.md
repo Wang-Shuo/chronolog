@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7ada31b6cf0cce8b2dc720d5b086b57ca9fb7cc5f1582df16fc5c756754b3a91
+machine_hash: 7420a6af74a345a5a822161404dde59d68d445e9e328363f1b48d05df272c762
 product: cursor
 product_name: Cursor
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-bug-fix-for-chat-history-size-in-tokens|Bug fix for chat history size in /tokens]]
-- Later: 2024-08-26 · Cline · [[Changes/Cline/2024-08-26-implement-sliding-window-context-management-to-keep-tasks-going-past-200k-tokens|Implement sliding window context management to keep tasks going past 200k tokens]]
+- Later: 2024-08-24 · Gamma · [[Changes/Gamma/2024-08-24-plus-token-limit-increased-from-5-000-to-10-000-tokens-per-generation|Plus: Token limit increased from 5,000 to 10,000 tokens per generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

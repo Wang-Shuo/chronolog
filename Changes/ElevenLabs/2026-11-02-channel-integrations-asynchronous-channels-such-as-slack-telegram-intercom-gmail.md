@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5e1c55beaa509707cfcac940085d0df1d1f504d6162c1b80af0b42eff715746a
+machine_hash: 34c9fc44a877b3199530b21024524889d18a9123d23452691048e6eb917eaeea
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -66,10 +66,10 @@ record:
     Intercom…'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-29-2-apps-and-integrations-changes-in-v0-12-5|2 Apps
-  and Integrations changes in v0.12.5]]'
-- '[[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3
-  Apps and Integrations changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-managed-policy-integration-use-covers-integrations-only|Managed
+  policy: integration.use covers integrations only]]'
+- '[[Changes/OpenCode/2026-10-30-tui-plugins-require-opentui-0-8|TUI plugins require
+  OpenTUI 0.8]]'
 - '[[Changes/Claude Code/2026-10-31-7-apps-and-integrations-changes-in-v2-1-316|7
   Apps and Integrations changes in v2.1.316]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-11-02-2026-11-02-7efe9660|elevenlabs-2026-11-02-2026-11-02-7efe9660]]'

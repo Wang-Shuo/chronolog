@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fcf9fb0bc76aa862982e427a0086af9c1fc1cc909ffc4045e75ee0c2e43b4767
+machine_hash: 141dcc764007b9da66cdeea5022543942019e2ec1ab4a06bc1bf46da1d4e4312
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#10030 Clarify external editor env var message @joshka-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-29-2-editor-experience-changes-in-v0-0-399|2
-  Editor Experience changes in v0.0.399]]'
+- '[[Changes/OpenCode/2026-01-29-revert-to-anthropic-completions-endpoint-to-avoid-rate-limiting-issues-with-copi|Revert
+  to Anthropic completions endpoint to avoid rate limiting issues with copilot]]'
 - '[[Changes/v0/2026-01-29-improved-preview-tab-interaction-in-the-vm-panel|Improved
   preview tab interaction in the VM panel]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-add-autopilot-mode-for-autonomous-task-completion-experimental|Add

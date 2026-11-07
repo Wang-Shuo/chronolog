@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b8b1636242a93fb911ab3f6af74c7da294f41418fffa4ed797448433dfed8d69
+machine_hash: 6e6c5de61f24a8310cc1240408866c3a924e7f77067a55bb38008e30427f9268
 product: ollama
 product_name: Ollama
 record:
@@ -40,12 +40,12 @@ record:
   title: '**Better MLX thread safety** for array management'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-20-security-sandbox-auto-allow-no-longer-bypasses-the-dangerous-path-safety-check-f|Security:
-  sandbox auto-allow no longer bypasses the dangerous-path safety check…]]'
 - '[[Changes/Codex CLI/2026-04-20-9-safety-and-privacy-changes-in-rust-v0-122-0|9
   Safety and Privacy changes in rust-v0.122.0]]'
 - '[[Changes/Open WebUI/2026-04-21-11-safety-and-privacy-changes-in-v0-9-0|11 Safety
   and Privacy changes in v0.9.0]]'
+- '[[Changes/OpenCode/2026-04-21-terminal-fixed-permission-replies-using-remote-workspaces-so-they-are-sent-to-th|Terminal
+  Fixed permission replies using remote workspaces so they are sent…]]'
 source_release: '[[Releases/Ollama/ollama-2026-04-22-v0-21-1-github-311489814-9e26ae27|ollama-2026-04-22-v0-21-1-github-311489814-9e26ae27]]'
 source_type: github_releases
 theme: safety-privacy
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-11-safety-and-privacy-changes-in-v0-9-0|11 Safety and Privacy changes in v0.9.0]]
+- Earlier: 2026-04-21 · OpenCode · [[Changes/OpenCode/2026-04-21-terminal-fixed-permission-replies-using-remote-workspaces-so-they-are-sent-to-th|Terminal Fixed permission replies using remote workspaces so they are sent…]]
 - Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed MCP step-up authorization silently refreshing instead of prompting…]]
 <!-- chronolog:end -->
 

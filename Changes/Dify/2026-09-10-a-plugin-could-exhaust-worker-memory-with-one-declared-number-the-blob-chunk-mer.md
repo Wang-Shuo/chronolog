@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59bd847248075dc8c098a70d3f4b1d8665f01ae3f6fc2a7141c98c1a3f940587
+machine_hash: aa58b3c4ebe13017b8695e68a527d5bfba0ad32b3f44ba28dce33311ec285678
 product: dify
 product_name: Dify
 record:
@@ -61,8 +61,8 @@ record:
     chunk…'
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-07-redesigned-cloud-advanced-settings-show-when-your-database-is-under-pressure|Redesigned
-  Cloud Advanced settings show when your database is under pressure]]'
+- '[[Changes/OpenClaw/2026-09-08-4-reliability-and-performance-changes-in-v2026-9-3|4
+  Reliability and Performance changes in v2026.9.3]]'
 - '[[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved
   prompt input responsiveness]]'
 - '[[Changes/Claude Code/2026-09-10-2-reliability-and-performance-changes-in-v2-1-268|2

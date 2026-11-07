@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae20ede3fcb6c8e2f6af305ad1dbdb35b17ac7f2082dc3ddae32e261062c1f3d
+machine_hash: 9fb624f994bc747bc46c2b1ee949f7bd67f4f5bce8ab1a9655ea5ab00c46cb20
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.85.0
 ## Nearby in Model Support
 
 - Earlier: 2026-01-15 · Cline · [[Changes/Cline/2026-01-15-adding-openai-gpt-5-2-codex-model-to-the-model-picker|Adding OpenAI gpt-5.2-codex model to the model picker]]
-- Later: 2026-01-15 · v0 · [[Changes/v0/2026-01-15-improved-model-selection-to-persist-per-user-per-team|Improved model selection to persist per user per team]]
+- Later: 2026-01-15 · OpenCode · [[Changes/OpenCode/2026-01-15-core-load-models-dev-in-development-mode|Core Load models.dev in development mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

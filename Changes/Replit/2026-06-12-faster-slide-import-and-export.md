@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1be7a16e86c3ac1ffa9e2b81e7fb67d5b395a5a858c146b6bbe155f4cd990540
+machine_hash: 363909929bc44246f5d67a431be1e24415c996b3a3c07f205c0f69cb13c6f05e
 product: replit
 product_name: Replit
 record:
@@ -46,9 +46,10 @@ record:
   title: Faster slide import and export
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-10-preview-toolbar|Preview toolbar]]'
 - '[[Changes/Lovable/2026-06-10-find-and-fix-database-performance-problems|Find and
   fix database performance problems]]'
+- '[[Changes/OpenCode/2026-06-10-faster-file-search-across-large-projects-with-the-new-fff-backed-search-tools|Faster
+  file search across large projects with the new fff -backed search tools]]'
 - '[[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2
   Reliability and Performance changes in v2.1.176]]'
 source_release: '[[Releases/Replit/replit-2026-06-12-2026-06-12-d92f034f|replit-2026-06-12-2026-06-12-d92f034f]]'

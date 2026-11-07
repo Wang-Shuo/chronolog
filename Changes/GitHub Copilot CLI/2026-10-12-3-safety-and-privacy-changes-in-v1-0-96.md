@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: feccdd5835112a40b7a2b16051959da985e6a2f0e90811d7ac9335e5a7579895
+machine_hash: 855400eb23c18ffc67fa80f44cbddd1152f4db0c6fcc4e1ee57b9c443241189d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Safety and Privacy changes in v1.0.96
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety
-  and Privacy changes in v2.1.296]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-09-copilot-config-supports-sandbox-credential-injecthosts-keys-with-key-completion|copilot
   config supports sandbox credential injectHosts keys, with key completion…]]'
 - '[[Changes/Open WebUI/2026-10-10-6-safety-and-privacy-changes-in-v0-12-0|6 Safety
   and Privacy changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-20-safety-and-privacy-changes-in-v2026-10-1|20 Safety
+  and Privacy changes in v2026.10.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14|github-copilot-cli-2026-10-12-v1-0-96-github-410909545-b0f77f14]]'
 source_type: github_releases
 theme: safety-privacy
@@ -90,8 +90,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.96
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-6-safety-and-privacy-changes-in-v0-12-0|6 Safety and Privacy changes in v0.12.0]]
-- Later: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-updated-readme-and-documentation-with-clearer-privacy-and-cloud-services-wording|Updated README and documentation with clearer privacy and cloud-services wording]]
+- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-20-safety-and-privacy-changes-in-v2026-10-1|20 Safety and Privacy changes in v2026.10.1]]
+- Later: 2026-10-12 · Google Antigravity · [[Changes/Google Antigravity/2026-10-12-permission-prompts-for-commands-that-run-a-program-from-an-installed-plugin-now|Permission prompts for commands that run a program from an installed plugin now show…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

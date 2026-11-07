@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40faa9c0402fcde833575a090c861137a98e43c48fa7b58a463722fb2d806f88
+machine_hash: 1e6ea1f24a760f890023375bc3720f5d0320d03058637daa4ebb2a820252f074
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -71,10 +71,10 @@ record:
   title: 10 Memory and Personalization changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-30-lovable-remembers-what-you-tell-it|Lovable remembers
-  what you tell it]]'
 - '[[Changes/Lovable/2026-11-04-dreaming-lovable-keeps-its-memory-up-to-date|Dreaming:
   Lovable keeps its memory up to date]]'
+- '[[Changes/OpenClaw/2026-11-05-5-memory-and-personalization-changes-in-v2026-11-1|5
+  Memory and Personalization changes in v2026.11.1]]'
 - '[[Changes/Codex CLI/2026-11-06-2-memory-and-personalization-changes-in-rust-v0-167-0|2
   Memory and Personalization changes in rust-v0.167.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'

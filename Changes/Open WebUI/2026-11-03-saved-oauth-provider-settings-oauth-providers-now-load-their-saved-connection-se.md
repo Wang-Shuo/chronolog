@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6da5c720b2b0a16c89c267c2a4f81ba4ddc32595876c0dd53c79494f6226f50d
+machine_hash: 8f9688c81069ef5f9af52e3bc80ed5805f2dbe3ee0ea6c7a09c3882f01f2d661
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,8 +48,8 @@ record:
     saved connection…"
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved
-  the cloud session error shown while a request refused for your claude.ai…]]'
+- '[[Changes/OpenCode/2026-10-30-core-replaced-claude-code-s-misleading-login-instruction-with-claude-auth-login|Core
+  Replaced Claude Code’s misleading /login instruction with claude auth login]]'
 - '[[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode
   Added sign-in to a Claude apps gateway from the chat panel, with no…]]'
 - '[[Changes/ElevenLabs/2026-11-02-fixes-oauth-discovery-names-the-host-the-client-connected-to-so-mcp-clients-such|Fixes:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-fixes-oauth-discovery-names-the-host-the-client-connected-to-so-mcp-clients-such|Fixes: OAuth discovery names the host the client connected to, so MCP clients…]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-ci-deps-bump-docker-login-action-from-4-6-0-to-4-7-0-in-the-actions-group-across|ci(deps): bump docker/login-action from 4.6.0 to 4.7.0 in the actions group across 1…]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-6-account-and-access-changes-in-v2026-10-10|6 Account and Access changes in v2026.10.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

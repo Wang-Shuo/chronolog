@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2d09fa6b7ba99dafc0f7c2cae65771543f2a9d17c7cebf3672347c9201751acd
+machine_hash: fbe998e21050cf36468bf7576a397c3f6793e7fd25081aae8c6e648cbe8e4e0d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,7 +48,8 @@ record:
     support…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-09-29-devin-desktop|Devin Desktop]]'
+- '[[Changes/OpenCode/2026-09-30-2-mobile-and-desktop-changes-in-v1-18-34|2 Mobile
+  and Desktop changes in v1.18.34]]'
 - '[[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile
   and Desktop changes in v2.1.287]]'
 - '[[Changes/Codex CLI/2026-10-01-49093-simplify-startup-promotions-to-platform-specific-desktop-app-tips-etraut-o|♯49093

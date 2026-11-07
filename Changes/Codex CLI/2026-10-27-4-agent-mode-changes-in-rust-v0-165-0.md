@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f7024cede5c67dfb89cfca8e80c3a9db136d716608e83d68f76df5e35d2fed8
+machine_hash: 62a9f299aa9bf0f0256da94ce7cfeacd50466980b023fe843c80bb802c33cdb9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Agent Mode changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-9-agent-mode-changes-in-elevenlabs-updates-2026-10-26|9
-  Agent Mode changes in ElevenLabs updates — 2026-10-26]]'
+- '[[Changes/Google Antigravity/2026-10-26-added-drag-and-drop-support-for-files-or-screenshots-directly-onto-the-agent-pan|Added
+  drag-and-drop support for files or screenshots directly onto the Agent panel]]'
 - '[[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The
   status bar no longer disappears after you switch from Agent mode to IDE mode]]'
 - '[[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.165.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode changes in v2.1.312]]
-- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-verify-stand-in-for-digitalocean-so-managed-agents-can-be-verified-by-enyst|feat(verify): stand in for DigitalOcean so Managed Agents can be verified]]
+- Later: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-you-can-now-attach-files-of-any-type-such-as-videos-design-files-or-programs-up|Attach files of any type, such as videos, design files, or programs, up to 20 MB]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

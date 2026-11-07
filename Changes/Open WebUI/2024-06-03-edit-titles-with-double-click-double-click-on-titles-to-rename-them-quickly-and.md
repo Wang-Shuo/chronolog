@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c84ff017185c40013b1a805fc86595c56ac4071c4d07fc4d23776426b7d7240f
+machine_hash: f28af436d8d28433be389dc5de81412d84d08664b49c4424edaebf29305238ba
 product: open-webui
 product_name: Open WebUI
 record:
@@ -44,8 +44,7 @@ record:
   title: '**✏️ Edit Titles with Double Click**'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved
-  reflection feedback to LLMs using the diff edit format]]'
+- '[[Changes/Midjourney/2024-05-24-how-does-it-work|How does it work?]]'
 - '[[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code
   1.89 into Cursor]]'
 - '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept

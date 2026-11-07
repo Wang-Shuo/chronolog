@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: edbf7a8dd95973d794461d3cc12ace8219a7637ea56122228e6792fcbd4329e6
+machine_hash: adca10a9ed8c383583f55279644f524bdbc2bca4cb71fb30590679e0d283951a
 product: dify
 product_name: Dify
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Voice and Audio changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
-  GPT-Live-1 in ChatGPT Voice]]'
 - '[[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT
   returns to WhatsApp in the EEA]]'
+- '[[Changes/OpenClaw/2026-07-13-83-voice-and-audio-changes-in-v2026-7-1|83 Voice
+  and Audio changes in v2026.7.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-add-voice-devices-to-choose-and-persist-the-microphone-for-voice-mode|Add
   /voice devices to choose and persist the microphone for voice mode]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'

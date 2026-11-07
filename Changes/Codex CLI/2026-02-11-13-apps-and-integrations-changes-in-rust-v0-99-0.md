@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6ea64c6e608a83f47420a76cef7ab1b65e3fd2061156c4c12181fd0739ec4e4
+machine_hash: cb6e2e4a0edee8d954c9d037048ea9218ae87d18d6737e59c9d66984ce000127
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -69,11 +69,11 @@ record:
   title: 13 Apps and Integrations changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-07-4-apps-and-integrations-changes-in-v0-0-406|4
-  Apps and Integrations changes in v0.0.406]]'
 - '[[Changes/ElevenLabs/2026-02-09-sdk-releases|SDK Releases]]'
 - '[[Changes/Gemini CLI/2026-02-10-7-apps-and-integrations-changes-in-v0-28-0|7 Apps
   and Integrations changes in v0.28.0]]'
+- '[[Changes/OpenCode/2026-02-10-core-add-directory-parameter-to-plugin-client-for-multi-project-support|Core
+  Add directory parameter to plugin client for multi-project support]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
 source_type: github_releases
 theme: apps-integrations
@@ -142,7 +142,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-7-apps-and-integrations-changes-in-v0-28-0|7 Apps and Integrations changes in v0.28.0]]
+- Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-core-add-directory-parameter-to-plugin-client-for-multi-project-support|Core Add directory parameter to plugin client for multi-project support]]
 - Later: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-10-apps-and-integrations-changes-in-1-13-0|10 Apps and Integrations changes in 1.13.0]]
 <!-- chronolog:end -->
 

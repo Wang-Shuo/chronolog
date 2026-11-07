@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c0c4757e65551104c8318b82c146e0701e87aee321eb2148c626f81461cef8c
+machine_hash: 470cae2dec9982694ce04da6c9c4fc20c67d263b42b244a7e400b04064340863
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-elevenagents-d9e798|ElevenAgents]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-2-agent-mode-changes-in-v1-0-85|2 Agent Mode changes in v1.0.85]]
+- Later: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-the-agent-s-temporary-scratch-files-are-no-longer-watched-synced-or-shown-in-the|The agent's temporary scratch files are no longer watched, synced, or shown…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

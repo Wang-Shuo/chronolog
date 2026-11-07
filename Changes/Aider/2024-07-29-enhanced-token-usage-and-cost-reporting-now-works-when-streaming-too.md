@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: f2100d5bc73d530f25c2d2e7dab7e79a0a967ca93faddfc0ad0d50e0066e3509
+machine_hash: e932cb9445a357f0ddb75d6301a4dab48d29dd01742b3711cf8151f197c70e1d
 product: aider
 product_name: Aider
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2024-07-15 · Gemini · [[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace Extensions now available in Beta for Gemini for Google Workspace add-on…]]
-- Later: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-improved-token-and-cost-reporting-for-infinite-output|Improved token and cost reporting for infinite output]]
+- Later: 2024-08-12 · Suno · [[Changes/Suno/2024-08-12-effective-immediately-all-pro-premier-creators-will-receive-50-free-credits-per|Pro / Premier creators now get 50 credits per day]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

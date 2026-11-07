@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 47e7b46495abc328085777aedc54afb669aef21894c0d9f0eb18aa0aae74e5b3
+machine_hash: dd1cbb0fca573eacda9a552cfc96753efb350f7e0c18a0773c5e824aab665fca
 product: openhands
 product_name: OpenHands
 record:
@@ -55,12 +55,12 @@ record:
   title: Allow CodeAct agent to perform web browsing by itself…
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-07-refined-web-search-integration-deprecated-the-search-query-generation-prompt-thr|\U0001F310
-  Refined Web Search Integration]]"
 - "[[Changes/Open WebUI/2024-09-24-web-search-functionality-corrected-an-issue-where-the-web-search-option-was-not|\U0001F50D
   Web Search Functionality]]"
 - '[[Changes/Dify/2024-09-30-add-zhipuai-web-search-by-aaee86-in-https-github-com-langgenius-dify-pull-8668|add
   zhipuai web search]]'
+- '[[Changes/Gamma/2024-10-23-browse-your-entire-workspace-s-images-while-editing-any-gamma|Browse
+  your entire workspace’s images while editing any gamma]]'
 source_release: '[[Releases/OpenHands/openhands-2024-11-04-0-12-2-github-183467199-1f374fc8|openhands-2024-11-04-0-12-2-github-183467199-1f374fc8]]'
 source_type: github_releases
 theme: search-browsing
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-add-zhipuai-web-search-by-aaee86-in-https-github-com-langgenius-dify-pull-8668|add zhipuai web search]]
+- Earlier: 2024-10-23 · Gamma · [[Changes/Gamma/2024-10-23-browse-your-entire-workspace-s-images-while-editing-any-gamma|Browse your entire workspace’s images while editing any gamma]]
 - Later: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-2-search-and-browsing-changes-in-v0-4-0|2 Search and Browsing changes in v0.4.0]]
 <!-- chronolog:end -->
 

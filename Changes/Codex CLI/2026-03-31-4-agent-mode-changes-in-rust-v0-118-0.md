@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 33fd29d06bfd3822ea69f4cc0aec8bdb04741e91700e3222e57cdb02e5c5cb6e
+machine_hash: d150254e80811578a3920b9bf4cc8236847992e5ac942ecbb3e75a6e66ecec38
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 4 Agent Mode changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-resume-session-restores-the-previously-selected-custom-agent|Resume
-  session restores the previously selected custom agent]]'
+- '[[Changes/OpenCode/2026-03-26-desktop-fix-agent-normalization-in-desktop-app|Desktop
+  Fix agent normalization in desktop app]]'
 - '[[Changes/Claude Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions|Auto
   mode now shows "unavailable for your plan" when disabled by plan restrictions…]]'
 - '[[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.118.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in 1.13.3]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-3-agent-mode-changes-in-v2-1-89|3 Agent Mode changes in v2.1.89]]
+- Later: 2026-03-31 · OpenCode · [[Changes/OpenCode/2026-03-31-core-subagent-tool-calls-stay-clickable-while-they-are-pending|Core Subagent tool calls stay clickable while they are pending]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

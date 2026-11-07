@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: cddb84d812383f4531c514901c00c7b7799c32d964ab31d33d4a63360895dd80
+machine_hash: 23a921cb3ff83f55f76169a5d2edf2c90db9d011054235e5d4e39075d2aa80e3
 product: claude
 product_name: Claude
 record:
@@ -54,12 +54,12 @@ record:
   title: Claude Cowork generally available
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell
-  tool on Windows]]'
-- '[[Changes/Gemini CLI/2026-04-01-feat-core-implement-strict-macos-sandboxing-using-seatbelt-allowlist-by-ehedlund|feat(core):
-  implement strict macOS sandboxing using Seatbelt allowlist]]'
 - '[[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT
   in Apple CarPlay]]'
+- '[[Changes/OpenCode/2026-04-04-4-mobile-and-desktop-changes-in-v1-3-15-1|4 Mobile
+  and Desktop changes in v1.3.15 + 1]]'
+- '[[Changes/OpenCode/2026-04-08-3-mobile-and-desktop-changes-in-v1-4-0|3 Mobile and
+  Desktop changes in v1.4.0]]'
 source_release: '[[Releases/Claude/claude-2026-04-09-2026-04-09-bfee8a23|claude-2026-04-09-2026-04-09-bfee8a23]]'
 source_type: claude_changelog
 theme: mobile-desktop
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-02 · ChatGPT · [[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT in Apple CarPlay]]
+- Earlier: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-3-mobile-and-desktop-changes-in-v1-4-0|3 Mobile and Desktop changes in v1.4.0]]
 - Later: 2026-04-09 · Ollama · [[Changes/Ollama/2026-04-09-openclaw-channel-setup-connect-whatsapp-telegram-discord-and-other-messaging-cha|OpenClaw channel setup]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24af3d19cfd4742586e035d91cec851da04844eeb08c9fc71c16cdfab381cd30
+machine_hash: 9fceebfa54694af22a12baff586a702d5d9eb9fe675a32b7f3c17b7c926a7805
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-7-model-support-changes-in-1-13-3|7 Model Support changes
-  in 1.13.3]]'
 - '[[Changes/Ollama/2026-03-27-ollama-s-app-will-now-no-longer-incorrectly-show-model-is-out-of-date|Ollama''s
   app will now no longer incorrectly show "model is out of date"]]'
 - "[[Changes/Open WebUI/2026-03-27-admin-model-visibility-administrators-can-now-see-models-even-when-no-access-con|\U0001F451
   Admin model visibility. Administrators can now see models even when no access…]]"
+- '[[Changes/OpenCode/2026-03-29-2-model-support-changes-in-v1-3-6-2|2 Model Support
+  changes in v1.3.6 + 2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-27 · Open WebUI · [[Changes/Open WebUI/2026-03-27-admin-model-visibility-administrators-can-now-see-models-even-when-no-access-con|👑 Admin model visibility. Administrators can now see models even when no access…]]
+- Earlier: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-2-model-support-changes-in-v1-3-6-2|2 Model Support changes in v1.3.6 + 2]]
 - Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-5-model-support-changes-in-rust-v0-118-0|5 Model Support changes in rust-v0.118.0]]
 <!-- chronolog:end -->
 

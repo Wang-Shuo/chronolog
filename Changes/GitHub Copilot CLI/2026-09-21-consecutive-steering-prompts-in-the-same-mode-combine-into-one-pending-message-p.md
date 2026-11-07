@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 85c8fb5ebb0ab907302b6ff1fa4ef6bb1980aab7ef171a179fb9bf04d33722ab
+machine_hash: d18cffe542f1aa45b3fe02851a05ab8503563b69df0052108492ef342e015aff
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: Consecutive steering prompts in the same mode combine into one pending message
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-web-search-is-now-enabled-by-default-on-models-that-support-it-outside-yolo-mode|Web
-  search is now enabled by default on models that support it, outside YOLO mode]]'
 - '[[Changes/Lovable/2026-09-17-perplexity-web-search-without-your-own-api-key|Perplexity
   web search without your own API key]]'
 - '[[Changes/Lovable/2026-09-18-try-the-lovable-api-in-postman|Try the Lovable API
   in Postman]]'
+- '[[Changes/OpenClaw/2026-09-19-6-search-and-browsing-changes-in-v2026-9-5|6 Search
+  and Browsing changes in v2026.9.5]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
 source_type: github_releases
 theme: search-browsing
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-try-the-lovable-api-in-postman|Try the Lovable API in Postman]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-6-search-and-browsing-changes-in-v2026-9-5|6 Search and Browsing changes in v2026.9.5]]
 - Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-6-search-and-browsing-changes-in-v0-11-4|6 Search and Browsing changes in v0.11.4]]
 <!-- chronolog:end -->
 

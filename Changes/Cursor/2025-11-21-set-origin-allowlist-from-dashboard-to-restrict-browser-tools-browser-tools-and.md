@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14a5af55c66382962f1d676f1e319d8aca833a0f2b06aed9e34cce1fad0b8859
+machine_hash: 093002d752c7b1297e6a8bef39788e42a21e318610c7137050c0d2fe46616667
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Set origin allowlist from dashboard to restrict browser tools
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-14-switch-to-alternate-buffer-mode-before-rendering-ink-by-jacob314-in-https-github|Switch
-  to alternate buffer mode before rendering Ink]]'
 - '[[Changes/Codex CLI/2025-11-19-handle-don-t-trust-directory-selection-in-onboarding-4941-viniciusmotta8|Handle
   "Don''t Trust" directory selection in onboarding (♯4941) — @viniciusmotta8]]'
 - '[[Changes/Gemini CLI/2025-11-20-bug-ui-make-it-clear-when-users-need-to-enter-selection-mode-and-fix-clear-issue|bug(ui)
   make it clear when users need to enter selection mode and fix clear issue]]'
+- '[[Changes/Midjourney/2025-11-20-animate-manually-button-bumps-you-back-to-prompt-bar|Animate
+  manually button bumps you back to prompt bar]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-11-20 · Gemini CLI · [[Changes/Gemini CLI/2025-11-20-bug-ui-make-it-clear-when-users-need-to-enter-selection-mode-and-fix-clear-issue|bug(ui) make it clear when users need to enter selection mode and fix clear issue]]
+- Earlier: 2025-11-20 · Midjourney · [[Changes/Midjourney/2025-11-20-animate-manually-button-bumps-you-back-to-prompt-bar|Animate manually button bumps you back to prompt bar]]
 - Later: 2025-11-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved timeline rendering of shell tool names]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc586d86eb885b628e4ccf3afea8346ab9e3205b37a6e2c58472f384a8dace06
+machine_hash: 667a49ad0e55029e4a2e27cf4f5f714aab2a8d3a3a9e6970a7f61cc50024bd72
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,9 +42,10 @@ record:
   title: '#57226 Allow NFS database migration with shared file permissions @dkovalenko-oai'
   type: change
 related_changes:
-- '[[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]'
-- '[[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE
-  mode now offers Devin Cloud whenever your account has Cloud access, the same…]]'
+- '[[Changes/OpenClaw/2026-10-27-malformed-microsoft-teams-message-html-no-longer-causes-the-parsing-stalls-that|Malformed
+  Microsoft Teams message HTML no longer causes the parsing stalls…]]'
+- '[[Changes/OpenCode/2026-10-27-core-honor-shared-parallel-tool-call-and-service-tier-settings-for-groq|Core
+  Honor shared parallel tool-call and service-tier settings for Groq]]'
 - '[[Changes/OpenHands/2026-10-27-feat-conversation-label-the-share-toggle-share-with-org-users-in-team-orgs-ohe-3|feat(conversation):
   label the share toggle "Share with Org users" in team orgs (OHE-3765)]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'

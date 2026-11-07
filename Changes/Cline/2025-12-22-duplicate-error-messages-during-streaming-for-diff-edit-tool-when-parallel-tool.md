@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 467da290e226a382134f6f97f440489a03f1e2435e148ac0e548ff8bf33d808d
+machine_hash: 782f8719bf340d233369d5356f7de7579859391d6fed29261c681d2000ffc956
 product: cline
 product_name: Cline
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-3-editor-experience-changes-in-v0-6-42|3 Editor Experience changes in v0.6.42]]
-- Later: 2025-12-22 · Gemini CLI · [[Changes/Gemini CLI/2025-12-22-4-editor-experience-changes-in-v0-22-0|4 Editor Experience changes in v0.22.0]]
+- Later: 2025-12-22 · Gamma · [[Changes/Gamma/2025-12-22-ever-wish-your-logo-looked-just-as-good-on-cards-with-light-and-dark-backgrounds|Adaptive theme logos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

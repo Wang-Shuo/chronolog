@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca7f72f828ff6b5509842166a307913d1369e0acfbfe70b1a707b757c96d5589
+machine_hash: ff40a4b418c8e6ed8084acc0798542785f2e611c358da030fd16686fc3bbfedd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Account and Access changes in rust-v0.79.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-25-chore-remove-unused-login-call-from-activation-flow-by-hjlarry-in-https-github-c|chore:
-  remove unused login call from activation flow]]'
-- '[[Changes/OpenHands/2025-12-30-added-oauth-2-0-device-flow-for-cli-authentication-by-malhotra5-in-https-github|Added
-  OAuth 2.0 Device Flow for CLI authentication]]'
+- '[[Changes/OpenCode/2026-01-05-core-add-configuration-options-and-authentication-precedence-for-bedrock|Core
+  Add configuration options and authentication precedence for Bedrock]]'
 - '[[Changes/Cline/2026-01-06-added-support-for-azure-based-identity-authentication-in-openai-compatible-provi|Added
   support for Azure based identity authentication in OpenAI Compatible provider…]]'
+- '[[Changes/OpenCode/2026-01-06-terminal-add-keyboard-shortcut-c-to-copy-device-code-in-oauth-flow|Terminal
+  Add keyboard shortcut ''c'' to copy device code in OAuth flow]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364|codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364]]'
 source_type: github_releases
 theme: account-access
@@ -88,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.79.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-06 · Cline · [[Changes/Cline/2026-01-06-added-support-for-azure-based-identity-authentication-in-openai-compatible-provi|Added support for Azure based identity authentication in OpenAI Compatible provider…]]
+- Earlier: 2026-01-06 · OpenCode · [[Changes/OpenCode/2026-01-06-terminal-add-keyboard-shortcut-c-to-copy-device-code-in-oauth-flow|Terminal Add keyboard shortcut 'c' to copy device code in OAuth flow]]
 - Later: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-validate-oauth-resource-parameter-matches-mcp-server-url-by-galz10-in-https-gith|Validate OAuth resource parameter matches MCP server URL]]
 <!-- chronolog:end -->
 

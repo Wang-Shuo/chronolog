@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fc439a684d8c88bcdf5e6a47681cd265d327d7413346076b657da76f98879605
+machine_hash: 9e0a65a85f7cb6017247d0b37b6b88ce3ebbd4e726fe947964d481d13d88e163
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Pricing Model changes in v1.0.55
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-05-19-introducing-a-new-100-google-ai-ultra-plan|Introducing
-  a new $100 Google AI Ultra plan]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-20-2-pricing-model-changes-in-v1-0-51|2 Pricing
-  Model changes in v1.0.51]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-3-pricing-model-changes-in-v1-0-52|3 Pricing
   Model changes in v1.0.52]]'
+- '[[Changes/Midjourney/2026-05-27-corrections-for-inaccuracies-in-the-account-settings-subscription-status-panel|Corrections
+  for inaccuracies in the Account Settings subscription status panel]]'
+- '[[Changes/Midjourney/2026-05-27-search-on-the-create-and-organize-pages-now-works-for-signed-in-members-without|Search
+  on the Create and Organize pages now works for signed-in members without…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856|github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856]]'
 source_type: github_releases
 theme: pricing-model
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.55
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-3-pricing-model-changes-in-v1-0-52|3 Pricing Model changes in v1.0.52]]
+- Earlier: 2026-05-27 · Midjourney · [[Changes/Midjourney/2026-05-27-search-on-the-create-and-organize-pages-now-works-for-signed-in-members-without|Search on the Create and Organize pages now works for signed-in members without…]]
 - Later: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-billing|Billing]]
 <!-- chronolog:end -->
 

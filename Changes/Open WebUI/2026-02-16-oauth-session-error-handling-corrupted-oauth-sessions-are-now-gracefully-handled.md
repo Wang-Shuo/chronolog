@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78229c38ff737a3517ef4fe62c29dac46d735be945a781a83a5dab3d763c0d34
+machine_hash: 264b773284b6b87ca12cf9451a2a6601f0a309c9c383997369788f7c8e279730
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
     now gracefully…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-11521-test-app-server-stabilize-app-list-thread-feature-flag-test-by-using-file|♯11521
-  test(app-server): stabilize app/list thread feature-flag test by using…]]'
 - '[[Changes/Open WebUI/2026-02-12-6-account-and-access-changes-in-v0-8-0|6 Account
   and Access changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-12-desktop-normalize-oauth-error-messages|Desktop Normalize
+  OAuth error messages]]'
 - '[[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added
   claude auth login, claude auth status, and claude auth logout CLI subcommands]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-16-v0-8-2-github-286715828-a462c4be|open-webui-2026-02-16-v0-8-2-github-286715828-a462c4be]]'

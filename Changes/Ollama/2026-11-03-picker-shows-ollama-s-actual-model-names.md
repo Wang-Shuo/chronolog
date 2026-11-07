@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bd8970f440aa610dbbe160f712e54c3e1c04f7ff593e30ef11cec21fde6c87c5
+machine_hash: 70a9f9caac51c29ee23c28033cccf2f6b7b377560e5c2c8dcedfdd25b46fd7f3
 product: ollama
 product_name: Ollama
 record:
@@ -52,12 +52,12 @@ record:
   title: picker shows Ollama's actual model names
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-29-bring-your-app-or-website-to-lovable|Bring your app
-  or website to Lovable]]'
-- '[[Changes/Open WebUI/2026-10-29-2-interface-experience-changes-in-v0-12-5|2 Interface
-  Experience changes in v0.12.5]]'
+- '[[Changes/OpenCode/2026-10-30-desktop-added-the-missing-top-inset-to-the-search-field-in-the-recently-closed-m|Desktop
+  Added the missing top inset to the search field in the recently closed menu]]'
 - '[[Changes/ElevenLabs/2026-11-02-2-interface-experience-changes-in-elevenlabs-updates-2026-11-02|2
   Interface Experience changes in ElevenLabs updates — 2026-11-02]]'
+- '[[Changes/Google Antigravity/2026-11-03-5-interface-experience-changes-in-hub-v2-29-0-voice-mode-remote|5
+  Interface Experience changes in HUB v2.29.0 — Voice mode, remote…]]'
 source_release: '[[Releases/Ollama/ollama-2026-11-03-v0-40-15-github-433274277-e84f26a0|ollama-2026-11-03-v0-40-15-github-433274277-e84f26a0]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-2-interface-experience-changes-in-elevenlabs-updates-2026-11-02|2 Interface Experience changes in ElevenLabs updates — 2026-11-02]]
+- Earlier: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-5-interface-experience-changes-in-hub-v2-29-0-voice-mode-remote|5 Interface Experience changes in HUB v2.29.0 — Voice mode, remote…]]
 - Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-4-interface-experience-changes-in-v0-13-0|4 Interface Experience changes in v0.13.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b490aecffab177f31443453a1341e9c4b586108b76f773304d68e4c8a3c5a1c0
+machine_hash: c16358beaee4bda65790b1a2e0effe18a02f0ee9c44fc5adeeeeb903014751fa
 product: open-webui
 product_name: Open WebUI
 record:
@@ -94,7 +94,8 @@ record:
   title: 10 Reliability and Performance changes in v0.11.1
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-24-elevenagents-a7877c|ElevenAgents]]'
+- '[[Changes/Google Antigravity/2026-08-24-improved-git-responsiveness-and-reduced-background-cpu-usage-on-large-repositori|Improved
+  Git responsiveness and reduced background CPU usage on large repositories…]]'
 - '[[Changes/Claude Code/2026-08-25-improved-bash-tool-latency-on-bash-shells-by-replaying-snapshot-functions-withou|Improved
   Bash tool latency on bash shells by replaying snapshot functions without…]]'
 - '[[Changes/Dify/2026-08-25-workflow-runtime-stability|Workflow & Runtime Stability]]'

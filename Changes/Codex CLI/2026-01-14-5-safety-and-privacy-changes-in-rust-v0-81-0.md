@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b61fbb2f5ab33893641fb396c4f7b0708defcf0a36cee08bc7b6a0b3d0c5284
+machine_hash: 8cf5de5fbead6f30294544a687c9666ae1969405fa01838c453c98c6c3b7575b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 5 Safety and Privacy changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-13-5-safety-and-privacy-changes-in-1-11-3|5 Safety and Privacy
-  changes in 1.11.3]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-13-provide-inline-feedback-when-rejecting-tool-permission-requests-so-agents-don-t|Provide
-  inline feedback when rejecting tool permission requests so agents don''t have…]]'
+- '[[Changes/OpenCode/2026-01-13-terminal-add-fullscreen-view-to-permission-prompt|Terminal
+  Add fullscreen view to permission prompt]]'
+- '[[Changes/OpenCode/2026-01-13-2-safety-and-privacy-changes-in-v1-1-16|2 Safety
+  and Privacy changes in v1.1.16]]'
 - '[[Changes/Claude Code/2026-01-14-2-safety-and-privacy-changes-in-v2-1-7|2 Safety
   and Privacy changes in v2.1.7]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40|codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40]]'

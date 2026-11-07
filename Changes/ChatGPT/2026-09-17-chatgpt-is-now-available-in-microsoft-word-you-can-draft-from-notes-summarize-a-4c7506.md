@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fc00e81cae4d22fe707946b401abdd806ffab38a33ca42f761a3fa62fb2f2109
+machine_hash: d605fb42fa6f9ae48639d28cd244510015101e0b6f4042f73642ae463e8f6a2e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,10 +51,10 @@ record:
   title: ChatGPT for Word
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-16-3-interface-experience-changes-in-v1-0-85|3
-  Interface Experience changes in v1.0.85]]'
-- '[[Changes/Lovable/2026-09-16-updated-chat-actions-menu-in-projects|Updated Chat
-  actions menu in projects]]'
+- '[[Changes/Midjourney/2026-09-16-organize-dragging-images-to-a-folder-works-with-the-sidebar-collapsed-folder-lin|ORGANIZE
+  Dragging images to a folder works with the sidebar collapsed]]'
+- '[[Changes/Midjourney/2026-09-16-mobile-tablet-a-starter-pass-here-pages-use-the-full-width-nothing-hides-behind|MOBILE/TABLET
+  A starter pass here]]'
 - '[[Changes/OpenHands/2026-09-16-2-interface-experience-changes-in-v1-19-0|2 Interface
   Experience changes in v1.19.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-17-chatgpt-for-word-f072ecd9|chatgpt-2026-09-17-chatgpt-for-word-f072ecd9]]'

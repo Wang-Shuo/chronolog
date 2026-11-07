@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab02e49ba680491ba16b9ef2ebee9e0d70d6b752f7e10b6f35694812b5404ea7
+machine_hash: 941edf63f9d8b403875f8a76e40239dcb1aec12fdba7901f5b1e115180486941
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,11 +42,12 @@ record:
   title: 2 Account and Access changes in rust-v0.106.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-23-elevenagents-f6efef|ElevenAgents]]'
 - '[[Changes/Open WebUI/2026-02-23-3-account-and-access-changes-in-v0-8-4|3 Account
   and Access changes in v0.8.4]]'
 - '[[Changes/Codex CLI/2026-02-25-3-account-and-access-changes-in-rust-v0-105-0|3
   Account and Access changes in rust-v0.105.0]]'
+- '[[Changes/OpenCode/2026-02-25-terminal-consume-stdout-concurrently-with-process-exit-in-auth-login|Terminal
+  Consume stdout concurrently with process exit in auth login]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-26-rust-v0-106-0-github-291146451-379358db|codex-cli-2026-02-26-rust-v0-106-0-github-291146451-379358db]]'
 source_type: github_releases
 theme: account-access
@@ -89,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.106.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-3-account-and-access-changes-in-rust-v0-105-0|3 Account and Access changes in rust-v0.105.0]]
+- Earlier: 2026-02-25 · OpenCode · [[Changes/OpenCode/2026-02-25-terminal-consume-stdout-concurrently-with-process-exit-in-auth-login|Terminal Consume stdout concurrently with process exit in auth login]]
 - Later: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-3-account-and-access-changes-in-v0-31-0|3 Account and Access changes in v0.31.0]]
 <!-- chronolog:end -->
 

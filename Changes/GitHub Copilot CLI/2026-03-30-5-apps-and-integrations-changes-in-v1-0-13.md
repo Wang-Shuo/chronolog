@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f6f8ac198cdbd23cf940cf70bbe121e7be0447f85e94e5c3ac78fc17ff45b8a
+machine_hash: eb08100cd7a04f33180ef4b002f87fe9149e0def2c793e0a12ebd6b976dbfdcd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Apps and Integrations changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-27-we-re-rolling-out-updated-box-notion-linear-and-dropbox-apps-in-chatgpt-these-up-9f6ee9|Updated
-  Box, Notion, Linear, and Dropbox apps]]'
 - '[[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced
   startup event-loop stalls when many claude.ai MCP connectors are configured…]]'
 - '[[Changes/Dify/2026-03-27-6-apps-and-integrations-changes-in-1-13-3|6 Apps and
   Integrations changes in 1.13.3]]'
+- '[[Changes/OpenCode/2026-03-29-8-apps-and-integrations-changes-in-v1-3-6-2|8 Apps
+  and Integrations changes in v1.3.6 + 2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'
 source_type: github_releases
 theme: apps-integrations
@@ -103,8 +103,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-6-apps-and-integrations-changes-in-1-13-3|6 Apps and Integrations changes in 1.13.3]]
-- Later: 2026-03-30 · OpenHands · [[Changes/OpenHands/2026-03-30-added-support-for-hooks-by-xingyaoww-in-https-github-com-openhands-openhands-pul|Added support for hooks]]
+- Earlier: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-8-apps-and-integrations-changes-in-v1-3-6-2|8 Apps and Integrations changes in v1.3.6 + 2]]
+- Later: 2026-03-30 · OpenCode · [[Changes/OpenCode/2026-03-30-2-apps-and-integrations-changes-in-v1-3-9-1|2 Apps and Integrations changes in v1.3.9 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

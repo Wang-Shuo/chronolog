@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f690ef9d8edc8f03a620a7929cd1e083c2cd8df0a9170fe0659b730888ff3adc
+machine_hash: 9c916a9dc3633b916b5a57106dfcb65f8a127cac7700c9797eaece7f6b4ff2fa
 product: open-webui
 product_name: Open WebUI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-2-interface-experience-changes-in-v0-3-24|2 Interface Experience changes in v0.3.24]]
-- Later: 2024-09-25 · Open WebUI · [[Changes/Open WebUI/2024-09-25-katex-rendering-improvement-resolved-specific-corner-cases-in-katex-rendering-to|🔧 KaTeX Rendering Improvement]]
+- Later: 2024-09-24 · Suno · [[Changes/Suno/2024-09-24-2-right-click-or-go-into-the-more-actions-menu|2 - Right click or go into the More Actions menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

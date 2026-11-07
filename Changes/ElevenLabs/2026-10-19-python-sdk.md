@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2a1e436b435e610b4e40b8da363e984c51d6b32da5fba94bf000e25f4ffa89a7
+machine_hash: 3333a45bd7e66598959d7052ff2513e917efac4ac5e1ff176925c1c3503aacd9
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -65,8 +65,8 @@ record:
   title: Python SDK
   type: change
 related_changes:
-- '[[Changes/v0/2026-10-16-integration-icons-no-longer-fail-to-load-in-project-settings|Integration
-  icons no longer fail to load in project settings]]'
+- '[[Changes/OpenClaw/2026-10-18-3-apps-and-integrations-changes-in-v2026-10-5|3 Apps
+  and Integrations changes in v2026.10.5]]'
 - '[[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8
   Apps and Integrations changes in v2.1.304]]'
 - '[[Changes/ElevenLabs/2026-10-19-sdk-releases|SDK releases]]'

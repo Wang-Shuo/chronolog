@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a7117575bbf0c7567dc1645bf26b25c6bd927344d87ff21cbaf36d8c360e355d
+machine_hash: 8ae2c357724b9f5ffdbd5de661225ba5b805f24217384fafee5f37fc047be08d
 product: gemini
 product_name: Gemini
 record:
@@ -70,8 +70,8 @@ record:
   title: 2.5 Pro (experimental) got a major upgrade for coding
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
-  to GPT-4o]]'
+- '[[Changes/Midjourney/2025-05-02-we-re-launching-v7-model-speedups-today-this-includes-the-release-of-the-default|Midjourney
+  launches V7 model speedups today]]'
 - '[[Changes/Cline/2025-05-03-5-model-support-changes-in-v3-14-0|5 Model Support changes
   in v3.14.0]]'
 - '[[Changes/Open WebUI/2025-05-05-2-model-support-changes-in-v0-6-6|2 Model Support

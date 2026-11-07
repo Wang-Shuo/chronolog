@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4769c802a74991fcead97b6fec181aad8136d5619bbc3ac0d342e9c65c499ed2
+machine_hash: eebadb959369ecc1acd01d589de27e17620b05bb3526726c062dbae8f5a59535
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     display
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-added-max-mode-on-off-to-toggle-max-mode-on-models-that-support-it-in-cli|Added
-  /max-mode on / off to toggle max mode on models that support it in CLI]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-22-add-models-as-alias-for-model-command|Add
   /models as alias for /model command]]'
 - '[[Changes/Cline/2026-01-23-removed-grok-model-from-free-tier|Removed grok model
   from free tier]]'
+- '[[Changes/OpenCode/2026-01-23-core-added-support-for-openai-based-gitlab-duo-models|Core
+  Added support for OpenAI-based GitLab Duo models]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-24-v0-0-394-github-279572493-a58f0a39|github-copilot-cli-2026-01-24-v0-0-394-github-279572493-a58f0a39]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-23 · Cline · [[Changes/Cline/2026-01-23-removed-grok-model-from-free-tier|Removed grok model from free tier]]
+- Earlier: 2026-01-23 · OpenCode · [[Changes/OpenCode/2026-01-23-core-added-support-for-openai-based-gitlab-duo-models|Core Added support for OpenAI-based GitLab Duo models]]
 - Later: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-5-model-support-changes-in-rust-v0-90-0|5 Model Support changes in rust-v0.90.0]]
 <!-- chronolog:end -->
 

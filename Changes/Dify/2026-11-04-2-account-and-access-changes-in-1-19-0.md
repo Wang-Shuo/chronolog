@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb9549c4faf6b8205f3774482a6242e58561af0c68e13d9a3ad12d751d66c848
+machine_hash: a9da32db8de09e5531e39825b1e6bcd5818b3352a81670eb5cc99d672dec3ab8
 product: dify
 product_name: Dify
 record:
@@ -49,10 +49,10 @@ record:
   title: 2 Account and Access changes in 1.19.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-fixes-oauth-discovery-names-the-host-the-client-connected-to-so-mcp-clients-such|Fixes:
-  OAuth discovery names the host the client connected to, so MCP clients…]]'
 - "[[Changes/Open WebUI/2026-11-03-saved-oauth-provider-settings-oauth-providers-now-load-their-saved-connection-se|\U0001F511
   Saved OAuth provider settings. OAuth providers now load their saved connection…]]"
+- '[[Changes/OpenClaw/2026-11-03-6-account-and-access-changes-in-v2026-10-10|6 Account
+  and Access changes in v2026.10.10]]'
 - '[[Changes/OpenHands/2026-11-03-ci-deps-bump-docker-login-action-from-4-6-0-to-4-7-0-in-the-actions-group-across|ci(deps):
   bump docker/login-action from 4.6.0 to 4.7.0 in the actions group across 1…]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'
@@ -104,7 +104,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-ci-deps-bump-docker-login-action-from-4-6-0-to-4-7-0-in-the-actions-group-across|ci(deps): bump docker/login-action from 4.6.0 to 4.7.0 in the actions group across 1…]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-5-account-and-access-changes-in-rust-v0-167-0|5 Account and Access changes in rust-v0.167.0]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-4-account-and-access-changes-in-v2026-11-1|4 Account and Access changes in v2026.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

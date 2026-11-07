@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35865f79e5b6d2a11a0da2c52d8f55286d66a5263ea84ab597bb7032c80a988d
+machine_hash: eb1dc2391c516e238077bb0f5b100a708e94589495992d7f406b18cfc337e386
 product: dify
 product_name: Dify
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-multiple-fixes-to-the-model-context-protocol-implementation|Multiple fixes to the Model Context Protocol implementation]]
-- Later: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-add-auto-compaction-at-95-token-limit-and-compact-command|Add auto-compaction at 95% token limit and /compact command]]
+- Later: 2025-12-29 · OpenCode · [[Changes/OpenCode/2025-12-29-desktop-fix-context-usage-alignment-in-desktop-application|Desktop Fix context usage alignment in desktop application]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

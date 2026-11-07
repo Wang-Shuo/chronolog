@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f65ab0daf9000fc3da47c0069411f72f9598a420b31f920d8f9b17d383c5378
+machine_hash: d059fafaebd3c2312051ece3b89190bdf09f3eac0c33d4903e87aed60f9bbf4d
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,8 +58,8 @@ record:
   title: 6 Safety and Privacy changes in v2.1.246
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed
-  fullscreen mode answering a permission prompt or pressing a button when you…]]'
+- '[[Changes/OpenCode/2026-08-21-core-answer-permission-requests-triggered-by-subagents-during-opencode-run|Core
+  Answer permission requests triggered by subagents during opencode run]]'
 - '[[Changes/Replit/2026-08-21-run-black-box-pen-tests|Run black-box pen tests]]'
 - '[[Changes/ElevenLabs/2026-08-24-packages|Packages]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'

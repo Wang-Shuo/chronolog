@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eae36c06d9d5e0b5a7975574bfc057759896e60e964a11a476006e7a809dceb8
+machine_hash: 486ac849d9bfb58864c27a702a8b850618de02768fc20aa07be46390a312f268
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Editor Experience changes in 2.4
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-16-2-editor-experience-changes-in-v0-0-384|2
-  Editor Experience changes in v0.0.384]]'
-- '[[Changes/Claude Code/2026-01-20-added-history-based-autocomplete-in-bash-mode-type-a-partial-command-and-press-t|Added
-  history-based autocomplete in bash mode (!) - type a partial command…]]'
+- '[[Changes/Suno/2026-01-20-to-access-the-new-features-right-click-on-any-sound-in-suno-then-choose-mashup-o|To
+  access the new features, right-click on any sound in Suno, then choose Mashup…]]'
 - '[[Changes/Gemini CLI/2026-01-21-4-editor-experience-changes-in-v0-25-0|4 Editor
   Experience changes in v0.25.0]]'
+- '[[Changes/OpenCode/2026-01-21-desktop-tab-should-select-suggestion-in-the-app|Desktop
+  Tab should select suggestion in the app]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -100,7 +100,7 @@ Source: https://cursor.com/changelog/2-4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-4-editor-experience-changes-in-v0-25-0|4 Editor Experience changes in v0.25.0]]
+- Earlier: 2026-01-21 · OpenCode · [[Changes/OpenCode/2026-01-21-desktop-tab-should-select-suggestion-in-the-app|Desktop Tab should select suggestion in the app]]
 - Later: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-edit-tool-now-displays-diffs-when-expanded-in-timeline|Edit tool now displays diffs when expanded in timeline]]
 <!-- chronolog:end -->
 

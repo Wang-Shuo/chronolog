@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c8798353925687208f35d2343733bf0a3ec01f6764dfe7c805a96a7b1c943a6
+machine_hash: 405ece2570471f8547f56b22fe69c0a9d2c5682dfe0fc853d2c96cba0b351236
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Developer Workflow changes in rust-v0.115.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-vscode-improved-scroll-wheel-responsiveness-in-the-integrated-terminal-with-term|VSCode
-  Improved scroll wheel responsiveness in the integrated terminal…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-3-developer-workflow-changes-in-v1-0-5|3
   Developer Workflow changes in v1.0.5]]'
+- '[[Changes/OpenCode/2026-03-13-4-developer-workflow-changes-in-v1-2-26|4 Developer
+  Workflow changes in v1.2.26]]'
 - '[[Changes/Claude Code/2026-03-14-4-developer-workflow-changes-in-v2-1-76|4 Developer
   Workflow changes in v2.1.76]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db|codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db]]'

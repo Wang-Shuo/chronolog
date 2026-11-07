@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1ed0d9ed458830be143954d28b31bacff2471d3d5d4c5f97477c73d1903c173
+machine_hash: ce0c9e810c07683dc3cb95805d3f7dea6213ee643764073f6e223ca5db4ce1c2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,8 +50,8 @@ record:
   title: Improved Mobile Web Experience
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-10-07-apple-touch-icon-support-optimizes-the-display-of-icons-for-web-bookmarks-on-app|\U0001F34F
-  Apple Touch Icon Support]]"
+- '[[Changes/Suno/2024-11-07-the-wait-is-almost-over-we-re-thrilled-to-announce-that-suno-is-coming-to-androi|Suno
+  on Android is finally open to pre-registration!]]'
 - '[[Changes/Gemini/2024-11-14-try-the-new-gemini-app-on-your-iphone|Try the new Gemini
   app on your iPhone]]'
 - '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-11-19 · ChatGPT · [[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced Voice for ChatGPT Web]]
-- Later: 2024-12-12 · OpenHands · [[Changes/OpenHands/2024-12-12-make-layout-responsive-for-mobile-devices-by-tofarr-in-https-github-com-all-hand|Make layout responsive for mobile devices]]
+- Later: 2024-11-25 · Runway · [[Changes/Runway/2024-11-25-use-act-one-in-the-runway-ios-mobile-app-to-generate-expressive-character-perfor|Act-One in iOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

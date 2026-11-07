@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 429ca5789364d644a520803cc4e5e71b0fb9d3930b952211b0a70d2664ee409d
+machine_hash: d8934b532d6723af5ade0c43806b143e8b772e2c5c3d566f67441bef43c00e1d
 product: v0
 product_name: v0
 record:

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f8f6cdaedfb89f35ebad0cf3bfb9e24f8be4eb9cdcedd9e22d2b11043a5ee00c
+machine_hash: c61991d5460e7c3f3c2dd8a64605993dea78ee5d5942bcb651b9c1990db257b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Model Support changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-changed-how-failed-api-requests-are-retried-one-limit-now-covers-a-whole-model-c|Changed
-  how failed API requests are retried]]'
-- '[[Changes/Cline/2026-09-30-6-model-support-changes-in-v4-1-22|6 Model Support changes
-  in v4.1.22]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-2-model-support-changes-in-v1-0-90|2 Model
   Support changes in v1.0.90]]'
+- '[[Changes/OpenClaw/2026-09-30-22-model-support-changes-in-v2026-9-7|22 Model Support
+  changes in v2026.9.7]]'
+- '[[Changes/OpenCode/2026-09-30-send-namespaced-session-and-parent-session-identity-headers-with-model-requests|Send
+  namespaced session and parent-session identity headers with model requests]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: model-support
@@ -106,7 +106,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-2-model-support-changes-in-v1-0-90|2 Model Support changes in v1.0.90]]
+- Earlier: 2026-09-30 · OpenCode · [[Changes/OpenCode/2026-09-30-send-namespaced-session-and-parent-session-identity-headers-with-model-requests|Send namespaced session and parent-session identity headers with model requests]]
 - Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-5-model-support-changes-in-rust-v0-160-0|5 Model Support changes in rust-v0.160.0]]
 <!-- chronolog:end -->
 

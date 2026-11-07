@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: ed20767038353b717a97639b00c22355bf9b90d1aa96cd11a0f7e22983a0cd68
+machine_hash: f8b5c9badd4c2475721f0ea2c2f235860964b6a16f7fdbb6687fe341dffc1c3c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The subscription-switch suggestion now shows in the startup announcement slot…]]
-- Later: 2026-06-05 · Replit · [[Changes/Replit/2026-06-05-billing|Billing]]
+- Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-core-updated-github-copilot-usage-tracking-for-token-based-billing|Core Updated GitHub Copilot usage tracking for token-based billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

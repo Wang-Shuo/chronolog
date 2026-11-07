@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8aa53eb58e9d615fae95036dd2895c0cc299f50ffeb226d14334491e1f5cc691
+machine_hash: 6ced76704470b0b016fe9b63eb0ec736be48b10fd4e7febbf2aa2e3137b0b429
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     Enterprise plans'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-30-2-model-support-changes-in-v1-0-13|2 Model
-  Support changes in v1.0.13]]'
 - '[[Changes/Codex CLI/2026-03-31-5-model-support-changes-in-rust-v0-118-0|5 Model
   Support changes in rust-v0.118.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-3-model-support-changes-in-v1-0-14|3 Model
   Support changes in v1.0.14]]'
+- '[[Changes/OpenCode/2026-03-31-add-a-dedicated-system-prompt-for-kimi-models|Add
+  a dedicated system prompt for Kimi models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-3-model-support-changes-in-v1-0-14|3 Model Support changes in v1.0.14]]
+- Earlier: 2026-03-31 · OpenCode · [[Changes/OpenCode/2026-03-31-add-a-dedicated-system-prompt-for-kimi-models|Add a dedicated system prompt for Kimi models]]
 - Later: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-7-model-support-changes-in-v0-36-0|7 Model Support changes in v0.36.0]]
 <!-- chronolog:end -->
 

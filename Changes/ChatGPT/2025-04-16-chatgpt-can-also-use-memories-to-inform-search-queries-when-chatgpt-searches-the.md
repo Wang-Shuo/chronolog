@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 460cf53fbe4d0bf29a12170a904169c257f158fbad2c14470db399ab7dd7ea4d
+machine_hash: bbd5254e51367159c64aecb862ca40bb0da494ba30dd975284341697085a2178
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,9 +43,9 @@ record:
   title: Memory with Search
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable
-  memory condensation from settings page]]'
 - '[[Changes/Windsurf/2025-04-02-improvements-to-memories|Improvements to Memories]]'
+- '[[Changes/Midjourney/2025-04-04-v7-is-the-first-model-to-have-model-personalization-turned-on-by-default|V7
+  is the first model to have model personalization turned on by default]]'
 - '[[Changes/Dify/2025-04-09-feat-agent-node-add-memory-by-nov1c444-in-https-github-com-langgenius-dify-pull|feat:
   agent node add memory]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-16-memory-with-search-0b018fd4|chatgpt-2025-04-16-memory-with-search-0b018fd4]]'
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-feat-agent-node-add-memory-by-nov1c444-in-https-github-com-langgenius-dify-pull|feat: agent node add memory]]
-- Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|Saved memories and Chat history are offered only to Plus and Pro…]]
+- Later: 2025-05-01 · Midjourney · [[Changes/Midjourney/2025-05-01-more-about-omni-reference|More about Omni-Reference]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

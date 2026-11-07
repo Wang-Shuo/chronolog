@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a9b20a27310e7b5fc3fba230daebb20b6f45650e8fb2463711eb5c907a5f705
+machine_hash: 554efa144eacba273cba71f257af9b452db8dd721ad0f86b784cdfcd8f59df18
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Files and Data changes in v1.16.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-08-25-5-files-and-data-changes-in-1-17-0|5 Files and Data changes
-  in 1.17.0]]'
-- '[[Changes/Open WebUI/2026-08-25-9-files-and-data-changes-in-v0-11-1|9 Files and
-  Data changes in v0.11.1]]'
+- '[[Changes/Google Antigravity/2026-08-26-added-support-for-viewing-specific-page-ranges-startpage-and-endpage-in-multi-pa|Added
+  support for viewing specific page ranges (StartPage and EndPage) in multi-page…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-canvas-windows-open-and-refresh-in-the-background-instead-of-stealing-focus-from|Canvas
   windows open and refresh in the background instead of stealing focus…]]'
+- '[[Changes/Midjourney/2026-08-27-changing-specific-areas-of-your-images-inpainting-or-expand-your-canvas-outpaint|Changing
+  specific areas of your images (inpainting) or expand your canvas (outpainting)]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-27-v1-16-0-github-378032404-772fe69a|openhands-2026-08-27-v1-16-0-github-378032404-772fe69a]]'
 source_type: github_releases
 theme: file-data
@@ -86,7 +86,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-canvas-windows-open-and-refresh-in-the-background-instead-of-stealing-focus-from|Canvas windows open and refresh in the background instead of stealing focus…]]
+- Earlier: 2026-08-27 · Midjourney · [[Changes/Midjourney/2026-08-27-changing-specific-areas-of-your-images-inpainting-or-expand-your-canvas-outpaint|Changing specific areas of your images (inpainting) or expand your canvas (outpainting)]]
 - Later: 2026-08-31 · ElevenLabs · [[Changes/ElevenLabs/2026-08-31-dubbing|Dubbing]]
 <!-- chronolog:end -->
 

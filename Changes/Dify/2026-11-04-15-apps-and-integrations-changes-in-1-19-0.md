@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1652195e17d18bb60ec7cdaaccec96b5ebf6ea3d26cfc7e3ef3aa6ec2c2c99e2
+machine_hash: 6353651804aed1d9c6ba3b87f1609a70acf69894dcd38414e896a7de2b6d50b9
 product: dify
 product_name: Dify
 record:
@@ -102,9 +102,10 @@ record:
   title: 15 Apps and Integrations changes in 1.19.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-11-02-connect-your-app-to-bamboohr|Connect your app to BambooHR]]'
 - "[[Changes/Open WebUI/2026-11-03-mcp-apps-in-chat-tools-from-mcp-servers-that-come-with-an-interactive-app-now-sh|\U0001F9E9
   MCP Apps in chat. Tools from MCP servers that come with an interactive app now…]]"
+- '[[Changes/OpenClaw/2026-11-03-21-apps-and-integrations-changes-in-v2026-10-10|21
+  Apps and Integrations changes in v2026.10.10]]'
 - '[[Changes/OpenHands/2026-11-03-3-apps-and-integrations-changes-in-v1-35-0|3 Apps
   and Integrations changes in v1.35.0]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'
@@ -182,7 +183,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-3-apps-and-integrations-changes-in-v1-35-0|3 Apps and Integrations changes in v1.35.0]]
-- Later: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps and Integrations changes in v1.36.0]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-5-apps-and-integrations-changes-in-v2026-11-1|5 Apps and Integrations changes in v2026.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

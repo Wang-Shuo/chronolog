@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d8b1abd3f2334dacb303fbb4d288204dc805aa4245b9426c04dab24195d1bf2
+machine_hash: 154c2b837c65feefa7d80343e3b174d5e59129c62434b6a65c7b47bf7046d143
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-02-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-27-add-chronicle-command-with-standup-tips-and-improve-subcommands-powered-by-sessi|Add /chronicle command with standup, tips, and improve subcommands powered…]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-n-name-name-cli-flag-to-set-a-display-name-for-the-session-at-startup|Added -n / --name name CLI flag to set a display name for the session at startup]]
+- Later: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-2-projects-and-workspaces-changes-in-v1-2-26|2 Projects and Workspaces changes in v1.2.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

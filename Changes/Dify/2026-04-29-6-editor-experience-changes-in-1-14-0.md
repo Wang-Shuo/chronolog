@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cbdc42b02b478df0f5d6ee791549cb92e6eff3cd8e63d2c3aca9fbaeb16e3b0b
+machine_hash: 09f984fb5c0a41ef9564775921ae597700d7206b6745ecb670f391b727f9e189
 product: dify
 product_name: Dify
 record:
@@ -55,10 +55,10 @@ record:
   title: 6 Editor Experience changes in 1.14.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-24-labs-tab-the-labs-tab-has-been-removed-from-settings-github-branch-switching-is|Labs
-  tab. The Labs tab has been removed from settings]]'
 - '[[Changes/Open WebUI/2026-04-24-2-editor-experience-changes-in-v0-9-2|2 Editor
   Experience changes in v0.9.2]]'
+- '[[Changes/OpenCode/2026-04-26-terminal-fixed-editor-lock-detection-to-ignore-locks-from-unrelated-workspaces|Terminal
+  Fixed editor lock detection to ignore locks from unrelated workspaces]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add
   copilot completion bash / zsh / fish subcommand to generate static shell…]]'
 source_release: '[[Releases/Dify/dify-2026-04-29-1-14-0-github-314986233-63073e86|dify-2026-04-29-1-14-0-github-314986233-63073e86]]'

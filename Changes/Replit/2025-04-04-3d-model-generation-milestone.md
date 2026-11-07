@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d55f51297bace02df66d1fd73c920b612e27558a265fee14cc6ce731b1d9af8e
+machine_hash: a09ad4f117b2e1f9295dd4fbbc088ebd41f480e5fa60c72b49c945f42ef1d296
 product: replit
 product_name: Replit
 record:
@@ -44,12 +44,10 @@ record:
   title: 3D model generation milestone
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-02-2-model-support-changes-in-0-31-0|2 Model Support
-  changes in 0.31.0]]'
-- '[[Changes/Aider/2025-04-04-4-model-support-changes-in-v0-81-0|4 Model Support changes
-  in v0.81.0]]'
 - '[[Changes/Cline/2025-04-04-add-gemini-2-5-pro-preview-03-25-to-google-provider|Add
   Gemini 2.5 Pro Preview 03-25 to Google Provider]]'
+- '[[Changes/Midjourney/2025-04-04-v7-is-an-amazing-model|V7 is an amazing model]]'
+- '[[Changes/Midjourney/2025-04-04-please-note|Please Note]]'
 source_release: '[[Releases/Replit/replit-2025-04-04-2025-04-04-fa12a476|replit-2025-04-04-2025-04-04-fa12a476]]'
 source_type: replit_changelog
 theme: model-support
@@ -80,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-04 · Cline · [[Changes/Cline/2025-04-04-add-gemini-2-5-pro-preview-03-25-to-google-provider|Add Gemini 2.5 Pro Preview 03-25 to Google Provider]]
+- Earlier: 2025-04-04 · Midjourney · [[Changes/Midjourney/2025-04-04-please-note|Please Note]]
 - Later: 2025-04-05 · Open WebUI · [[Changes/Open WebUI/2025-04-05-conditional-export-button-visibility-ui-now-gracefully-hides-export-buttons-when|🚫 Conditional Export Button Visibility]]
 <!-- chronolog:end -->
 

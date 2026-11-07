@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30328dd1309333dbc2d89c15e7edbd17b7b2eb44b25f20b19ef34c310abd6785
+machine_hash: 758f2e0b7131781b8548c70cc39404bc0e9294fd70a28c6edce2ba0db8b02f94
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Expose session context in session.list SDK response
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context
-  Window changes in v2.1.32]]'
 - '[[Changes/Codex CLI/2026-02-05-10692-fix-remote-compaction-estimator-payload-instruction-small-mismatch-charley|♯10692
   Fix remote compaction estimator/payload instruction small mismatch @charley-oai]]'
+- '[[Changes/OpenCode/2026-02-10-desktop-fix-stale-context-in-prompt-input|Desktop
+  Fix stale context in prompt input]]'
 - '[[Changes/Codex CLI/2026-02-11-6-context-window-changes-in-rust-v0-99-0|6 Context
   Window changes in rust-v0.99.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-11-v0-0-407-github-285416009-ed3cb109|github-copilot-cli-2026-02-11-v0-0-407-github-285416009-ed3cb109]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-6-context-window-changes-in-rust-v0-99-0|6 Context Window changes in rust-v0.99.0]]
-- Later: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-3-context-window-changes-in-rust-v0-100-0|3 Context Window changes in rust-v0.100.0]]
+- Later: 2026-02-11 · OpenCode · [[Changes/OpenCode/2026-02-11-core-ensure-compaction-is-more-reliable-by-adding-reserve-token-buffer-to-provid|Core Ensure compaction is more reliable by adding reserve token buffer to provide…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

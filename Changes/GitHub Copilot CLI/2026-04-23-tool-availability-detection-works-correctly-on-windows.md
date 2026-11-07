@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6597a7cd17df70c6b21e24600377f154c0f42c5f18b359ef0ee7992812fce91
+machine_hash: 1b1db769125dcda61f972dbfcbc7ca3c3218243ff0e941917d3413d9b63cb248
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Tool availability detection works correctly on Windows
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-21-2-mobile-and-desktop-changes-in-v0-9-0|2 Mobile
-  and Desktop changes in v0.9.0]]'
+- '[[Changes/OpenCode/2026-04-21-3-mobile-and-desktop-changes-in-v1-14-20|3 Mobile
+  and Desktop changes in v1.14.20]]'
 - '[[Changes/Ollama/2026-04-22-fixed-model-picker-showing-stale-model-after-switching-chats-in-the-macos-app|Fixed
   model picker showing stale model after switching chats in the macOS app]]'
 - '[[Changes/Gemini CLI/2026-04-23-use-macos-latest-large-runner-where-applicable-by-scidomino-in-https-github-com|use
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-use-macos-latest-large-runner-where-applicable-by-scidomino-in-https-github-com|use macos-latest-large runner where applicable]]
-- Later: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-19167-ci-add-macos-keychain-entitlements-euroelessar|♯19167 ci: add macOS keychain entitlements @euroelessar]]
+- Later: 2026-04-23 · OpenCode · [[Changes/OpenCode/2026-04-23-3-mobile-and-desktop-changes-in-v1-14-22-1|3 Mobile and Desktop changes in v1.14.22 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

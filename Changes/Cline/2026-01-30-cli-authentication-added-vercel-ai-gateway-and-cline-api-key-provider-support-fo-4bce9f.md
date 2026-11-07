@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b9acd88293993450fb19fed99c6483a465586b2973a3f91465d1c35e1d4026ee
+machine_hash: 66315b3d204df8b4bc4c5962444a202d8161b5571603d84c7e291313a97c16f4
 product: cline
 product_name: Cline
 record:
@@ -56,10 +56,10 @@ record:
     support…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-27-2-account-and-access-changes-in-rust-v0-92-0|2 Account
-  and Access changes in rust-v0.92.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-27-error-messages-consistently-reference-login-and-logout-commands|Error
   messages consistently reference /login and /logout commands]]'
+- '[[Changes/OpenCode/2026-01-28-support-headless-authentication-for-chatgpt-codex|Support
+  headless authentication for ChatGPT/Codex]]'
 - '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|CLI
   authentication: Added Vercel AI Gateway and Cline API key provider support…]]'
 source_release: '[[Releases/Cline/cline-2026-01-30-v3-56-1-github-281368867-936d9b63|cline-2026-01-30-v3-56-1-github-281368867-936d9b63]]'

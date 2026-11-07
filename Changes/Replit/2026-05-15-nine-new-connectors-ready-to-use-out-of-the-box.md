@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: aea050302dc14cedf75f3d4dfe42f53f136d63bf71538005f64f6c276b429b8d
+machine_hash: 225295458ec83745d9927fe72830857a5663c49b729467145ceebe6ae036fa08
 product: replit
 product_name: Replit
 record:
@@ -68,10 +68,10 @@ record:
   title: Nine new connectors ready to use out of the box
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-14-auto-disable-the-built-in-github-mcp-server-in-azure-devops-only-workspaces-when|Auto-disable
-  the built-in github-mcp-server in Azure DevOps-only workspaces…]]'
 - '[[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3
   Apps and Integrations changes in v2.1.143]]'
+- '[[Changes/OpenCode/2026-05-15-2-apps-and-integrations-changes-in-v1-15-0|2 Apps
+  and Integrations changes in v1.15.0]]'
 - '[[Changes/Replit/2026-05-15-integrations|Integrations]]'
 source_release: '[[Releases/Replit/replit-2026-05-15-2026-05-15-d142aa2e|replit-2026-05-15-2026-05-15-d142aa2e]]'
 source_type: replit_changelog
@@ -125,7 +125,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3 Apps and Integrations changes in v2.1.143]]
+- Earlier: 2026-05-15 · OpenCode · [[Changes/OpenCode/2026-05-15-2-apps-and-integrations-changes-in-v1-15-0|2 Apps and Integrations changes in v1.15.0]]
 - Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-the-built-with-v0-badge-respects-branding-settings-on-deployed-apps-and-the-prev|The "built with v0" badge respects branding settings on deployed apps…]]
 <!-- chronolog:end -->
 

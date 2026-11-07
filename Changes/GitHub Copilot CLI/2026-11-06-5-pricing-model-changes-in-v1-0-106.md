@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 835ba4642a90411b979ab448672dbab33d930d110152f2ed6fcf07dc997933db
+machine_hash: 108aafb1801622c2b069b2be7be5f3a243d216cd7977d16752a4d7ae175e0fc5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: 5 Pricing Model changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-3-pricing-model-changes-in-elevenlabs-updates-2026-11-02|3
-  Pricing Model changes in ElevenLabs updates — 2026-11-02]]'
 - "[[Changes/Open WebUI/2026-11-03-context-compaction-and-prompt-caching-when-the-same-model-handles-the-conversati|\U0001F9E0
   Context compaction and prompt caching. When the same model handles…]]"
 - '[[Changes/Dify/2026-11-04-3-pricing-model-changes-in-1-19-0|3 Pricing Model changes
   in 1.19.0]]'
+- '[[Changes/OpenClaw/2026-11-05-avoids-restoring-cold-archived-conversations-just-to-refresh-usage-and-cost-repo|Avoids
+  restoring cold archived conversations just to refresh usage and cost reports…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: pricing-model
@@ -117,7 +117,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-3-pricing-model-changes-in-1-19-0|3 Pricing Model changes in 1.19.0]]
+- Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-avoids-restoring-cold-archived-conversations-just-to-refresh-usage-and-cost-repo|Avoids restoring cold archived conversations just to refresh usage and cost reports…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

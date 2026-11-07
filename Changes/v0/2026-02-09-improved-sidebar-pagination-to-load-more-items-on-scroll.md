@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f10fc4f99732cad0bea3d3336de2c8613da872995c47e099d5650eb356bd594c
+machine_hash: 9b2b8f562e5d3c092387f90a9156ac58317c779007706f764b7e1c3f81e36c0a
 product: v0
 product_name: v0
 record:
@@ -41,8 +41,8 @@ record:
   title: Improved sidebar pagination to load more items on scroll
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-02-05-reorder-folders-in-the-dashboard-sidebar-via-drag-and-drop-with-support-for-nest|Reorder
-  folders in the dashboard sidebar via drag and drop, with support for nesting…]]'
+- '[[Changes/OpenCode/2026-02-05-desktop-safety-triangle-for-sidebar-hover-to-prevent-menu-from-closing|Desktop
+  Safety triangle for sidebar hover to prevent menu from closing]]'
 - '[[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface
   Experience changes in v2.1.33]]'
 - '[[Changes/ElevenLabs/2026-02-09-user-interface|User Interface]]'

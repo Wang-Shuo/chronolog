@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07d3a2e39f323c9137a1f4996e7ef8e40e8faeefd03888d80590ad1fe3e6870a
+machine_hash: d9f963c7e997479b5b42a2b7fde8cec4d80dda6a54037e890f1309d9cd48b6b1
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.51
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-3-safety-and-privacy-changes-in-v0-8-4|3 Safety and Privacy changes in v0.8.4]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-9-safety-and-privacy-changes-in-rust-v0-105-0|9 Safety and Privacy changes in rust-v0.105.0]]
+- Later: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-core-normalize-paths-at-permission-boundaries-on-windows|Core Normalize paths at permission boundaries on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

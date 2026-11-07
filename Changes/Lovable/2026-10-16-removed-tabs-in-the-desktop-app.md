@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9c1df89681478bc33d1c861523feb734d284d751f3c70e20f1982459f7273db9
+machine_hash: c3225eef8d5981e5b2dbe9306ef8aeed226e6ddf3588a7b370970b12b0d37571
 product: lovable
 product_name: Lovable
 record:
@@ -51,10 +51,10 @@ record:
   title: 'Removed: tabs in the desktop app'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-15-improved-artifacts-pages-claude-writes-now-paint-the-band-above-a-sticky-header|Improved
-  artifacts: pages Claude writes now paint the band above a sticky header…]]'
 - '[[Changes/Codex CLI/2026-10-15-3-mobile-and-desktop-changes-in-rust-v0-163-0|3
   Mobile and Desktop changes in rust-v0.163.0]]'
+- '[[Changes/Google Antigravity/2026-10-15-2-mobile-and-desktop-changes-in-hub-v2-24-0-redesigned-side-panel|2
+  Mobile and Desktop changes in HUB v2.24.0 — Redesigned side panel…]]'
 - '[[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present
   or export. Present directly from ChatGPT]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-16-2026-10-16-3443a38d|lovable-2026-10-16-2026-10-16-3443a38d]]'
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present or export. Present directly from ChatGPT]]
-- Later: 2026-10-17 · Lovable · [[Changes/Lovable/2026-10-17-jump-to-your-last-chat-in-the-desktop-app|Jump to your last chat in the desktop app]]
+- Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-replies-on-macos-fixed-a-macos-reply-failure-that-restarted-the-channel-and-repe|Replies on macOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d3800181666c8a57ebb8c3ed088f4598bd24138a58cacbdb9193605a2b710a4
+machine_hash: 7fae401639b047454c60858953a85d7d16518d2db41ce00d020485de8bf0006b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-07-29 · ChatGPT · [[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize responses based on your past chats if memory is on, using examples…]]
-- Later: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-2-memory-and-personalization-changes-in-v0-1-16|2 Memory and Personalization changes in v0.1.16]]
+- Later: 2025-07-30 · Midjourney · [[Changes/Midjourney/2025-07-30-personalized-feeds-for-images-and-video|Personalized feeds for images and video]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

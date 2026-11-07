@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6779714af7a5fa03cf7dc895d3759e0dad9da33aff451569268193b40461775f
+machine_hash: 839e68d95071ebce82c384b6b7fe8fb3e73361862e27969c484405445a262948
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Agent Mode changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-2-agent-mode-changes-in-v1-0-67|2 Agent
-  Mode changes in v1.0.67]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-8-agent-mode-changes-in-v1-0-66|8 Agent
   Mode changes in v1.0.66]]'
+- '[[Changes/OpenClaw/2026-06-30-32-agent-mode-changes-in-v2026-6-11|32 Agent Mode
+  changes in v2026.6.11]]'
 - '[[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode
   changes in v2.1.198]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583|github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583]]'
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode changes in v2.1.198]]
-- Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-sell-in-your-app-with-whop|Sell in your app with Whop]]
+- Later: 2026-07-02 · Runway · [[Changes/Runway/2026-07-02-introducing-agent-skills-build-an-ad-campaign-create-a-commercial-localize-your|Runway Agent Skills]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

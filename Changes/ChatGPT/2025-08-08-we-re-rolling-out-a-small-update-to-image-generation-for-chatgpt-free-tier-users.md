@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 57119b918ee9096f048ade8f1eaea2ce54e2fc3409fd8b216fd6afbbb884fd0e
+machine_hash: f7695260dbfa3879bec120eb477d75afdb841a2932c9d21ac02a673b04abe074
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,12 +53,12 @@ record:
   title: Image generation update to ChatGPT Free
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-05-20-image-generation-just-got-an-upgrade|Image generation
-  just got an upgrade]]'
-- "[[Changes/Open WebUI/2025-05-26-image-generation-with-allowed-file-extensions-now-works-reliably-ensure-seamless|\U0001F5BC️
-  Image Generation with Allowed File Extensions Now Works Reliably]]"
+- '[[Changes/Midjourney/2025-05-29-midjourney-v7-image-generation-is-now-40-faster|Midjourney
+  V7 image generation is now ~40% faster!]]'
 - "[[Changes/Open WebUI/2025-06-10-better-handling-storage-of-interpreter-generated-images-code-interpreter-generat|\U0001F3DE️
   Better Handling & Storage of Interpreter-Generated Images]]"
+- '[[Changes/Gamma/2025-07-31-this-week-s-updates-are-all-about-giving-you-more-control-more-capabilities-and|This
+  week’s updates are all about giving you more control, more capabilities…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-08-image-generation-update-to-chatgpt-free-1b23f923|chatgpt-2025-08-08-image-generation-update-to-chatgpt-free-1b23f923]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-better-handling-storage-of-interpreter-generated-images-code-interpreter-generat|🏞️ Better Handling & Storage of Interpreter-Generated Images]]
+- Earlier: 2025-07-31 · Gamma · [[Changes/Gamma/2025-07-31-this-week-s-updates-are-all-about-giving-you-more-control-more-capabilities-and|This week’s updates are all about giving you more control, more capabilities…]]
 - Later: 2025-08-08 · Replit · [[Changes/Replit/2025-08-08-image-generation-full-rollout|Image generation full rollout]]
 <!-- chronolog:end -->
 

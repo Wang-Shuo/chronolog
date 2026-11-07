@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61057c2f3d5083b40cf7b0cefad75b75036e2a8d4cf51efcb1686c9f66de33ab
+machine_hash: 1d6cd1e8cdf4b90feb34abdc809b6014732b7041d4792a9b0e9c20b871f69b0c
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,8 +54,7 @@ record:
   title: Added `effortSlider:decreaseEffort`, `increaseEffort` and `toggleUltracode`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface
-  Experience changes in v2.1.282]]'
+- '[[Changes/Midjourney/2026-09-24-styles|STYLES]]'
 - '[[Changes/Claude Code/2026-09-25-2-interface-experience-changes-in-v2-1-283|2 Interface
   Experience changes in v2.1.283]]'
 - '[[Changes/Codex CLI/2026-09-25-9-interface-experience-changes-in-rust-v0-157-0|9

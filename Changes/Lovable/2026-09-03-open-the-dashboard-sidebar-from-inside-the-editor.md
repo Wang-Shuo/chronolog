@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f5bba786895ec2849fc8535837f864836db17ba9dd09f3e27b03dbd523f2b160
+machine_hash: 2d1e9ca17748e65024e5ef81bf89680b8c039030a101ed98e0c824a827ea58c9
 product: lovable
 product_name: Lovable
 record:
@@ -63,8 +63,8 @@ record:
   title: Open the dashboard sidebar from inside the editor
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode
-  Added an Active quick filter and a status filter menu…]]'
+- '[[Changes/Google Antigravity/2026-09-02-quoting-boost-and-improved-settings|Quoting,
+  /boost, and improved Settings]]'
 - '[[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface
   Experience changes in v2.1.260]]'
 - '[[Changes/Codex CLI/2026-09-03-3-interface-experience-changes-in-rust-v0-153-0|3
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-3-interface-experience-changes-in-rust-v0-153-0|3 Interface Experience changes in rust-v0.153.0]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface Experience changes in v2.1.261]]
+- Later: 2026-09-03 · Midjourney · [[Changes/Midjourney/2026-09-03-polish-bugs|POLISH & BUGS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

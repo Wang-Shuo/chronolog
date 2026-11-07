@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b66df0185669240e011b7e9116d054349a073df50049194390b7678d250b6623
+machine_hash: d390d992ebe1db098b457550944c57eeb3661330b491be3d29c0124fad913f06
 product: ollama
 product_name: Ollama
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|"Apply Diffs" from chat should be a bit faster]]
-- Later: 2024-02-13 · Dify · [[Changes/Dify/2024-02-13-pref-optimize-add-hit-count-query-performance-when-dataset-hit-by-takatost-in-ht|pref: optimize add hit count query performance when dataset hit]]
+- Later: 2024-02-09 · Runway · [[Changes/Runway/2024-02-09-you-with-a-large-number-of-assets-have-significantly-faster-loading-times|Assets page is ~1.5x faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

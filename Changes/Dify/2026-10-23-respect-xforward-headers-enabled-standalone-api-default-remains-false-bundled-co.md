@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90a9c4f34c1289b0a4426e606f96c5940437605292336a2f416ae45654929953
+machine_hash: d640b7f99042a61169862395a545a955eb3b09af784add8fef83df874735813c
 product: dify
 product_name: Dify
 record:
@@ -48,8 +48,8 @@ record:
   title: '| `RESPECT_XFORWARD_HEADERS_ENABLED` | Standalone API default remains `false`'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-22-clicking-a-completed-response-code-block-copies-its-original-code-when-enabled|Clicking
-  a completed response code block copies its original code when enabled]]'
+- '[[Changes/OpenClaw/2026-10-22-7-developer-workflow-changes-in-v2026-10-6|7 Developer
+  Workflow changes in v2026.10.6]]'
 - '[[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code
   Review Improved the Code Review admin section to retry the first load…]]'
 - '[[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5efe63b47eae8a5b5bc7973dcd80b50c6ef66e1fd643ad291b2870c480834225
+machine_hash: 59c33ebe4d9869cd1d1404b6cb6c463f4a2ed3bd26ddf771b6dd3c85afd69440
 product: lovable
 product_name: Lovable
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-31 · ElevenLabs · [[Changes/ElevenLabs/2026-08-31-javascript-sdk|JavaScript SDK]]
-- Later: 2026-09-01 · ChatGPT · [[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|Healthcare Public Data in ChatGPT for Clinicians]]
+- Later: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-2-apps-and-integrations-changes-in-v2026-8-1|2 Apps and Integrations changes in v2026.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

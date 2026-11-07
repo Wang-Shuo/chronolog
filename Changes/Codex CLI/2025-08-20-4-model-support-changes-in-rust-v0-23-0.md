@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c8f484e91e8abef2948b4dd99b57c4b91fd061a23e83e2e1ea5785d3c17bcd3
+machine_hash: 3166d60943d4188b1af04dbc776118cbcf5ec63540aa90f660d13f8efc4cc046
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Model Support changes in rust-v0.23.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2025-08-15-ollama-flash-attention-1-will-also-enable-flash-attention-for-pure-cpu-models|OLLAMA_FLASH_ATTENTION=1
-  will also enable flash attention for pure-CPU models]]'
 - '[[Changes/Gemini CLI/2025-08-18-4-model-support-changes-in-v0-1-22|4 Model Support
   changes in v0.1.22]]'
+- '[[Changes/Runway/2025-08-19-added-support-for-select-third-party-models-within-chat-mode-and-gen-4-image-tur|More
+  Ways to Create]]'
 - '[[Changes/Cline/2025-08-20-2-model-support-changes-in-v3-26-0|2 Model Support changes
   in v3.26.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece|codex-cli-2025-08-20-rust-v0-23-0-github-241091696-29f8dece]]'

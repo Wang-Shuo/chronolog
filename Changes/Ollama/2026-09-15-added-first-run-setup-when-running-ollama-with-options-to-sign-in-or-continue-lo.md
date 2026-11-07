@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 263efddcffaf93aa69593f86c6208307a6c73d5f0dbed7a9ad5e28be22057972
+machine_hash: 3cf25facb7b0a5232797be5a0d6b578b21109f1e35e3fd0361277e8b3a3059cf
 product: ollama
 product_name: Ollama
 record:
@@ -56,10 +56,10 @@ record:
     locally
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-11-require-two-factor-authentication-for-your-workspace|Require
-  two-factor authentication for your workspace]]'
 - '[[Changes/Claude Code/2026-09-14-changed-claude-apps-gateway-bedrock-vertex-ai-and-foundry-sessions-so-that-they|Changed
   Claude apps gateway, Bedrock, Vertex AI, and Foundry sessions so that they…]]'
+- '[[Changes/OpenCode/2026-09-14-terminal-show-remote-config-authentication-errors-during-startup-and-exit-with-a|Terminal
+  Show remote config authentication errors during startup and exit…]]'
 - '[[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account
   and Access changes in v2.1.273]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-15-v0-34-2-github-389486962-b5ccbcf4|ollama-2026-09-15-v0-34-2-github-389486962-b5ccbcf4]]'

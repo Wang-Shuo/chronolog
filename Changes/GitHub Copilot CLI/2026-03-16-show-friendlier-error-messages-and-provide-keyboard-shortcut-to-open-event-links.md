@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e8cd9dbf973c9bf671c94afe6883f60df70fc53ef2f299f55e0c98366648c3e
+machine_hash: fa49337502d446d0f7eff0aaeaf1be8e99a4fb92183291efffef8e8e08183757
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
     links…
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-11-added-tooltip-to-disabled-new-chat-button-for-view-only-access|Added
-  tooltip to disabled New Chat button for view-only access]]'
+- '[[Changes/OpenCode/2026-03-13-6-interface-experience-changes-in-v1-2-26|6 Interface
+  Experience changes in v1.2.26]]'
 - '[[Changes/Ollama/2026-03-14-or-using-openclaw-s-onboarding|Or using OpenClaw’s
   onboarding]]'
 - '[[Changes/Codex CLI/2026-03-16-14410-make-collab-model-metadata-accurate-on-completion-aibrahim-oai|♯14410

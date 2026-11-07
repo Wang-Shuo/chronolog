@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1068ff3bac03bd9ed078eddc86a3a78cbed0fc0c20fb6144bc01f0a60455c279
+machine_hash: cd8aa0785aeb3d408ca9f409e8fcde477d6e86fe56481b0802814445b38b739b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode: Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]
-- Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-syntax-highlighting-in-diff-with-support-for-17-programming-languages|Syntax highlighting in /diff with support for 17 programming languages]]
+- Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-desktop-skip-editor-reconcile-during-ime-composition|Desktop Skip editor reconcile during IME composition]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

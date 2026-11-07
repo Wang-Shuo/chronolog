@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e173f6b4b5b6419b373a53de8c16cdee014bf18b6f567a057023df6366423c25
+machine_hash: 7a5b0429f8aa94ea598ff663224b642c0a58733922e6ace6b52bc4edc85b3aa9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,9 +42,10 @@ record:
   title: Add MSI installer for Windows
   type: change
 related_changes:
-- '[[Changes/Replit/2026-01-16-mobile-apps-on-replit|Mobile Apps on Replit]]'
-- '[[Changes/Codex CLI/2026-01-21-8590-fix-core-require-approval-for-force-delete-on-windows-hdcodedev|♯8590
-  fix(core): require approval for force delete on Windows @hdcodedev]]'
+- '[[Changes/OpenCode/2026-01-21-3-mobile-and-desktop-changes-in-v1-1-30|3 Mobile
+  and Desktop changes in v1.1.30]]'
+- '[[Changes/OpenCode/2026-01-21-24-mobile-and-desktop-changes-in-v1-1-29|24 Mobile
+  and Desktop changes in v1.1.29]]'
 - '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows
   notifications now have accept/reject buttons like MacOS]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-22-v0-0-389-github-278840898-1a4f495f|github-copilot-cli-2026-01-22-v0-0-389-github-278840898-1a4f495f]]'
@@ -83,7 +84,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows notifications now have accept/reject buttons like MacOS]]
-- Later: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-homebrew-tools-work-correctly-on-macos-with-zsh-as-default-shell|Homebrew tools work correctly on macOS with zsh as default shell]]
+- Later: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-30-mobile-and-desktop-changes-in-v1-1-32|30 Mobile and Desktop changes in v1.1.32]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

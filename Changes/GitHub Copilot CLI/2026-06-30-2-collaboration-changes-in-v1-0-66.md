@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31fc3a085f8471d33272a32cc05e78f25966519f1285cb180ab8f5ebb55b75bf
+machine_hash: c7ed9b30dd6409c1c8cf35e189b0567a5f25ff6b2c937d247235cf06d5f14d2f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.66
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-30 · Cursor · [[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor expands team marketplaces to support Team MCPs and organization groups]]
-- Later: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-the-last-owner-cannot-leave-a-shared-folder|The last owner cannot leave a shared folder]]
+- Later: 2026-06-30 · OpenClaw · [[Changes/OpenClaw/2026-06-30-5-collaboration-changes-in-v2026-6-11|5 Collaboration changes in v2026.6.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

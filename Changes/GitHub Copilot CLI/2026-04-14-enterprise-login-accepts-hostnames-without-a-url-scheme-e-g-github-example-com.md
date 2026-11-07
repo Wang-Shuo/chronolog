@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e8b10db35ebea9f68c1289dba206d4c8337f4c6309e61ff08fc6ca7a3444063b
+machine_hash: 332ce64dbe058d9904f074c47ac1c1dc1fe701ee832df17ae46e2b532ab5565d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Enterprise login accepts hostnames without a URL scheme (e.g. 'github.example.com')
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-2-account-and-access-changes-in-rust-v0-119-0|2
-  Account and Access changes in rust-v0.119.0]]'
+- '[[Changes/OpenCode/2026-04-10-extensions-added-configurable-oauth-redirect-uris-for-remote-mcp-servers|Extensions
+  Added configurable OAuth redirect URIs for remote MCP servers]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-13-logout-shows-a-warning-when-signed-in-via-gh-cli-pat-api-key-or-environment-vari|/logout
   shows a warning when signed in via gh CLI, PAT, API key, or environment…]]'
 - '[[Changes/Gemini CLI/2026-04-14-docs-update-mcp-server-oauth-redirect-port-documentation-by-adamfweidman-in-http|docs:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-docs-update-mcp-server-oauth-redirect-port-documentation-by-adamfweidman-in-http|docs: update MCP server OAuth redirect port documentation]]
-- Later: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-copilot-login-host-now-correctly-authenticates-with-github-enterprise-cloud-ghe|copilot login --host now correctly authenticates with GitHub Enterprise Cloud (GHE)…]]
+- Later: 2026-04-15 · OpenCode · [[Changes/OpenCode/2026-04-15-2-account-and-access-changes-in-v1-4-4|2 Account and Access changes in v1.4.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 84d70e905b86f5095f6d6eabfe63b3fd236ec804165282800f7e99a1c131494d
+machine_hash: 64a10d3700e9dd8e8a1ae83ea4d8c3bc541b075934e3a94cb477f44c4caf7e90
 product: open-webui
 product_name: Open WebUI
 record:
@@ -110,7 +110,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-codex-can-run-independent-read-only-tools-in-parallel-including-skill-memory-and|Codex can run independent read-only tools in parallel, including skill, memory…]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-4-memory-and-personalization-changes-in-rust-v0-164-0|4 Memory and Personalization changes in rust-v0.164.0]]
+- Later: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-schedule-inspection-during-recovery-updates-and-doctor-can-continue-when-optiona|Schedule inspection during recovery]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

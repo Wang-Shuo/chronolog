@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d37ca61b5bcb6b88f0b62db0facea564475fdccae3fc35636cb8162147a09bc7
+machine_hash: aaaef36010aaf950226fbad9273736a189c5c98b250bf53d4a8e9f320ae08f08
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,11 +41,11 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/v0/2025-12-03-you-can-now-bring-your-own-mcps-to-v0|Bring your own MCPs]]'
-- '[[Changes/Cline/2025-12-04-added-subpages-and-content-to-hooks-by-jl-codes-in-https-github-com-cline-cline|added
-  subpages and content to hooks]]'
 - '[[Changes/Codex CLI/2025-12-04-2-apps-and-integrations-changes-in-rust-v0-65-0|2
   Apps and Integrations changes in rust-v0.65.0]]'
+- '[[Changes/Google Antigravity/2025-12-04-google-one-integration|Google One integration]]'
+- '[[Changes/Runway/2025-12-04-turn-your-workflows-into-apps-you-can-share-with-your-workspace|Publish
+  Workflows as Apps]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-12-08-2025-12-08-7be8ac95|elevenlabs-2025-12-08-2025-12-08-7be8ac95]]'
 source_type: elevenlabs_changelog
 theme: apps-integrations
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-2-apps-and-integrations-changes-in-rust-v0-65-0|2 Apps and Integrations changes in rust-v0.65.0]]
+- Earlier: 2025-12-04 · Runway · [[Changes/Runway/2025-12-04-turn-your-workflows-into-apps-you-can-share-with-your-workspace|Publish Workflows as Apps]]
 - Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-3-apps-and-integrations-changes-in-rust-v0-66-0|3 Apps and Integrations changes in rust-v0.66.0]]
 <!-- chronolog:end -->
 

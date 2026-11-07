@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c39da212c1d166ef0f5d228b86464d16cb75438c24a8904a09eb6b4eef48bad2
+machine_hash: a67197747066e85719de009d3ef88495adee96d47fd2adf58ada2c13b6bf22f3
 product: lovable
 product_name: Lovable
 record:
@@ -50,8 +50,8 @@ record:
   title: Security center (v0.1)
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-14-7-safety-and-privacy-changes-in-v0-24-0|7 Safety
-  and Privacy changes in v0.24.0]]'
+- '[[Changes/OpenCode/2026-01-14-terminal-tweak-external-directory-permission-rendering-in-tui|Terminal
+  Tweak external directory permission rendering in TUI]]'
 - '[[Changes/Codex CLI/2026-01-15-revert-linux-sandboxing-now-falls-back-to-landlock-only-restrictions-when-user-n|revert
   Linux sandboxing now falls back to Landlock-only restrictions when user…]]'
 - '[[Changes/Lovable/2026-01-16-dependency-vulnerability-scanning-is-now-available-with-issues-in-project-depend|Dependency

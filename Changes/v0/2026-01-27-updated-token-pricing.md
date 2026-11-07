@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: c24c01feadb881fea4ae6138c028e25e5db96d898487d356db7fe9e984c4d627
+machine_hash: 412e1b8b2d527fc7a3ffed68fec32f23c9fc29662989b11db791fc2afcb8cee2
 product: v0
 product_name: v0
 record:
@@ -41,9 +41,11 @@ record:
   title: Updated token pricing
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-01-16-build-credit-top-ups|Build credit top-ups]]'
-- '[[Changes/Lovable/2026-01-16-lovable-bonuses|Lovable bonuses]]'
+- '[[Changes/OpenCode/2026-01-19-core-use-single-global-event-subscription-and-route-by-session-id-in-acp|Core
+  Use single global event subscription and route by session ID in ACP]]'
 - '[[Changes/v0/2026-01-19-improved-pricing-structure|Improved pricing structure]]'
+- '[[Changes/Suno/2026-01-27-to-try-it-for-yourself-go-to-create-choose-sounds-from-the-custom-dropdown-and-m|To
+  try it for yourself, go to Create, choose Sounds from the Custom dropdown…]]'
 source_release: '[[Releases/v0/v0-2026-01-27-2026-01-27-d9e1a54f|v0-2026-01-27-2026-01-27-d9e1a54f]]'
 source_type: v0_changelog
 theme: pricing-model
@@ -70,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-01-19 · v0 · [[Changes/v0/2026-01-19-improved-pricing-structure|Improved pricing structure]]
+- Earlier: 2026-01-27 · Suno · [[Changes/Suno/2026-01-27-to-try-it-for-yourself-go-to-create-choose-sounds-from-the-custom-dropdown-and-m|To try it for yourself, go to Create, choose Sounds from the Custom dropdown…]]
 - Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-refactor-contract-restructure-console-contracts-with-nested-billing-module-by-ly|refactor(contract): restructure console contracts with nested billing module]]
 <!-- chronolog:end -->
 

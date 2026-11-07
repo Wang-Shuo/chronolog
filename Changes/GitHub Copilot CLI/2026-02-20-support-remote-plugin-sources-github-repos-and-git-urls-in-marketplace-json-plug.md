@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 51e2395686d92b45469a9653c7c0ad81339002df05f1856b75aefe13809e02d5
+machine_hash: cebf347e99912998c1f717b16726ca6f45750c132aaf9206801181dd473e616c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
     plugin…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-3-apps-and-integrations-changes-in-v0-0-412|3
-  Apps and Integrations changes in v0.0.412]]'
-- '[[Changes/Ollama/2026-02-19-ollama-launch-integration-will-now-always-show-the-model-picker|ollama
-  launch integration will now always show the model picker]]'
+- '[[Changes/OpenCode/2026-02-19-5-apps-and-integrations-changes-in-v1-2-7|5 Apps
+  and Integrations changes in v1.2.7]]'
+- '[[Changes/OpenCode/2026-02-19-terminal-add-custom-tool-and-mcp-call-responses-that-are-visible-and-collapsible|Terminal
+  Add custom tool and MCP call responses that are visible and collapsible]]'
 - '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE
   mode now also disables MCP tools, attachments, hooks…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1|github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE mode now also disables MCP tools, attachments, hooks…]]
-- Later: 2026-02-20 · Replit · [[Changes/Replit/2026-02-20-razorpay-mcp-integration|Razorpay MCP integration]]
+- Later: 2026-02-20 · OpenCode · [[Changes/OpenCode/2026-02-20-add-missing-id-sessionid-and-messageid-to-mcp-tool-attachments|Add missing id, sessionID, and messageID to MCP tool attachments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

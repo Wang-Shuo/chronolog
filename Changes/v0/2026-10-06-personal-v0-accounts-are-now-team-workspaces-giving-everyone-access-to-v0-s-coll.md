@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd840badac736771aba700f761e290b37e48b6cdca0fcba0a86feeb5053bbaf1
+machine_hash: faf1a2ac3f2462fb8f171939fe9d91fd4fe0907cb55c6809ea3aa33cbf510552
 product: v0
 product_name: v0
 record:
@@ -45,10 +45,10 @@ record:
   title: Personal accounts are now team workspaces
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize
-  your work in ChatGPT Space]]'
 - '[[Changes/Codex CLI/2026-09-29-2-collaboration-changes-in-rust-v0-159-0|2 Collaboration
   changes in rust-v0.159.0]]'
+- '[[Changes/OpenClaw/2026-09-30-10-collaboration-changes-in-v2026-9-7|10 Collaboration
+  changes in v2026.9.7]]'
 - '[[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130
   Move content-filter guidance into the shared Responses retry handler @won-openai]]'
 source_release: '[[Releases/v0/v0-2026-10-06-2026-10-06-personal-accounts-to-teams-a8d95d73|v0-2026-10-06-2026-10-06-personal-accounts-to-teams-a8d95d73]]'

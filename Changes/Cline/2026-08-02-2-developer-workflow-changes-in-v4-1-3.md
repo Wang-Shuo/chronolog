@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1309fb173344e9c3576d46507556ee4fb4ee502060f155e7c29e1dbb553b958d
+machine_hash: af3aca3cad335bd866cea76264ad6546e73459f36e80e7a84309b5f3f89f1722
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Developer Workflow changes in v4.1.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-12-developer-workflow-changes-in-rust-v0-146-0|12
-  Developer Workflow changes in rust-v0.146.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-developer-workflow-changes-in-v1-0-76|2
   Developer Workflow changes in v1.0.76]]'
+- '[[Changes/Google Antigravity/2026-07-31-2-developer-workflow-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
+  Developer Workflow changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 - '[[Changes/v0/2026-07-31-duplicating-a-git-backed-chat-produces-a-working-copy-instead-of-one-that-fails|Duplicating
   a Git-backed chat produces a working copy instead of one that fails to render]]'
 source_release: '[[Releases/Cline/cline-2026-08-02-v4-1-3-github-363709138-84b1555e|cline-2026-08-02-v4-1-3-github-363709138-84b1555e]]'

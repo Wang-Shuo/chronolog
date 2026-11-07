@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 98e94aa7688d95bf092876bd81082302552671f84b544fb444f0dfde37820f65
+machine_hash: dff47d381951f6ad6f19f4609fbfbd3196d70c8e28fac9d8b3d8d014a038691d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,11 +47,12 @@ record:
   title: Improved background session reliability
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]'
 - '[[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709
   PAC 4 - Add macOS system proxy resolver @canvrno-oai]]'
 - '[[Changes/Dify/2026-06-25-install-it-on-any-platform-macos-linux-windows-with-a-single-command-and-no-acce|Install
   it on any platform (macOS, Linux, Windows) with a single command and no…]]'
+- '[[Changes/OpenCode/2026-06-25-11-mobile-and-desktop-changes-in-v1-17-11|11 Mobile
+  and Desktop changes in v1.17.11]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -87,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-install-it-on-any-platform-macos-linux-windows-with-a-single-command-and-no-acce|Install it on any platform (macOS, Linux, Windows) with a single command and no…]]
+- Earlier: 2026-06-25 · OpenCode · [[Changes/OpenCode/2026-06-25-11-mobile-and-desktop-changes-in-v1-17-11|11 Mobile and Desktop changes in v1.17.11]]
 - Later: 2026-06-29 · ElevenLabs · [[Changes/ElevenLabs/2026-06-29-ios-sdk|iOS SDK]]
 <!-- chronolog:end -->
 

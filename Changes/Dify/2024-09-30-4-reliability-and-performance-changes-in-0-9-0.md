@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1bc175e05b49c1fecd9b8d00596dcc4a241653ea509f306ac54c949afface6d
+machine_hash: b88f67ccf8a7e0965e76ae1c9b01f0713b2f18a8374f7f2d81a541c971397a1d
 product: dify
 product_name: Dify
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Reliability and Performance changes in 0.9.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-09-24-2-reliability-and-performance-changes-in-v0-3-24|2
-  Reliability and Performance changes in v0.3.24]]'
 - "[[Changes/Open WebUI/2024-09-24-event-loop-error-resolution-addressed-a-critical-error-where-a-missing-running-e|\U0001F504
   Event Loop Error Resolution]]"
+- '[[Changes/Runway/2024-09-27-edit-generations-by-trimming-reversing-and-adjusting-video-speed|Generative
+  Video time editing]]'
 - '[[Changes/Dify/2024-09-30-2-reliability-and-performance-changes-in-0-9-1|2 Reliability
   and Performance changes in 0.9.1]]'
 source_release: '[[Releases/Dify/dify-2024-09-30-0-9-0-github-177564351-208577ea|dify-2024-09-30-0-9-0-github-177564351-208577ea]]'

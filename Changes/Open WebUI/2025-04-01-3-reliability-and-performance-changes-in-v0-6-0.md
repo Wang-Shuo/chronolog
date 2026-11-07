@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61b436f670cbbdf64d2f410043943c08c49cfb2fdfeaf6afafa89237d022c473
+machine_hash: ba7f1216a6f63dae304f853ac4ec6bea06c8d885b40320e8afca4aff056c0400
 product: open-webui
 product_name: Open WebUI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-2-reliability-and-performance-changes-in-1-1-3|2 Reliability and Performance changes in 1.1.3]]
-- Later: 2025-04-04 · Replit · [[Changes/Replit/2025-04-04-assistant-performance-improvements|Assistant performance improvements]]
+- Later: 2025-04-04 · Midjourney · [[Changes/Midjourney/2025-04-04-v7-launches-in-two-modes|V7 launches in two modes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

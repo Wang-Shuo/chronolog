@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 73df48b09dba14cf59b009cde82e20edf2d27aa939e704c328d18a55f0d1b93c
+machine_hash: 9c1765c869a49379fb127941e87e1afeb8dec3ac883fbd9a0bb407c45a40fe61
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-faster-shell-commands-on-windows-by-skipping-powershell-profile-loading|Faster shell commands on Windows by skipping PowerShell profile loading]]
-- Later: 2026-03-12 · v0 · [[Changes/v0/2026-03-12-improved-code-server-loading-speed-for-fresh-vms|Improved code-server loading speed for fresh VMs]]
+- Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-desktop-trim-session-render-work-in-app-for-improved-performance|Desktop Trim session render work in app for improved performance]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

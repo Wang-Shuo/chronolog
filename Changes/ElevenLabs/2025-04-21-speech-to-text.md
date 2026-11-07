@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 543cf8b0b565b67651327123b90e5e07d16fa2ddbd422b72551c93222ff7613a
+machine_hash: bba27c9afcdda1460b58e2443530e8e9343708feef5547dd6e67ba16de4bdcbf
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-04-14 · Open WebUI · [[Changes/Open WebUI/2025-04-14-granular-voice-feature-permissions-per-user-group-admins-can-now-separately-mana|🛂 Granular Voice Feature Permissions Per User Group]]
-- Later: 2025-04-28 · ElevenLabs · [[Changes/ElevenLabs/2025-04-28-audio-generation-tts-s2s-sfx-voice-design|Audio Generation (TTS, S2S, SFX, Voice Design)]]
+- Later: 2025-04-23 · Midjourney · [[Changes/Midjourney/2025-04-23-a-new-prompt-bar-for-v7|A new prompt bar for V7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

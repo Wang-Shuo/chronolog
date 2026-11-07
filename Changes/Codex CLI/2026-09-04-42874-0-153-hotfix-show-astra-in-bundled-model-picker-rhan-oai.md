@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c711dfff7bca58cfe46158f55b259f2c6077854a226d7baa39e553416daf05a0
+machine_hash: d3c54a2235541aa47c418909d817c1ec993d48b557e7f17c0397b6a9670d0d6d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,10 +53,9 @@ record:
   title: '#42874 [0.153 hotfix] Show Astra in bundled model picker @rhan-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-3-interface-experience-changes-in-rust-v0-153-0|3
-  Interface Experience changes in rust-v0.153.0]]'
-- '[[Changes/Lovable/2026-09-03-open-the-dashboard-sidebar-from-inside-the-editor|Open
-  the dashboard sidebar from inside the editor]]'
+- '[[Changes/Midjourney/2026-09-03-prompt-bar-pills|PROMPT BAR & PILLS]]'
+- '[[Changes/OpenClaw/2026-09-03-14-interface-experience-changes-in-v2026-9-1|14 Interface
+  Experience changes in v2026.9.1]]'
 - '[[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface
   Experience changes in v2.1.261]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-04-rust-v0-153-4-github-383061770-e8ba4232|codex-cli-2026-09-04-rust-v0-153-4-github-383061770-e8ba4232]]'

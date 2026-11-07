@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1c2ea36b46bf61138db96a485c414e0105e35c7ca4e8d04690ef1d29fd0529db
+machine_hash: 1bc6bbe78faa44e2475453693b988b2711e28e46b91f7232bb84db7ae60c5e55
 product: lovable
 product_name: Lovable
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-01-15 · v0 · [[Changes/v0/2026-01-15-updated-v0-max-pricing|Updated v0 Max pricing]]
-- Later: 2026-01-19 · v0 · [[Changes/v0/2026-01-19-improved-pricing-structure|Improved pricing structure]]
+- Later: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-core-use-single-global-event-subscription-and-route-by-session-id-in-acp|Core Use single global event subscription and route by session ID in ACP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

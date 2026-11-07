@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8195ae02c736a25c112318e50b1e4dba589bd8e1d9df433a534b9de400311596
+machine_hash: a4d84f32d8ffb4c80e4e9c46968d1d20a382b96b711a26017ddba51e7dcd32fe
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,10 +40,10 @@ record:
   title: Improve code search speed in large repos
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-2-reliability-and-performance-changes-in-v2-1-49|2
-  Reliability and Performance changes in v2.1.49]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-19-2-reliability-and-performance-changes-in-v0-0-412|2
-  Reliability and Performance changes in v0.0.412]]'
+- '[[Changes/Google Antigravity/2026-02-19-improved-ui-responsiveness-for-chat-interactions-including-creating-conversation|Improved
+  UI responsiveness for chat interactions, including creating conversations…]]'
+- '[[Changes/Google Antigravity/2026-02-19-settings-artifacts-and-stability|Settings,
+  Artifacts, and Stability]]'
 - '[[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3
   Reliability and Performance changes in v2.1.50]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1|github-copilot-cli-2026-02-20-v0-0-413-github-288918542-5fe1e9b1]]'

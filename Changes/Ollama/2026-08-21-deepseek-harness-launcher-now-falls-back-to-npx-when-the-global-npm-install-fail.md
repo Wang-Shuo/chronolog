@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9030f3f4e2f71984117c6934a748f987516a1d2cfb7928aabe6c15273ae23d34
+machine_hash: ac3b54a35097cd34545e36347624d11611f8bc25546f92226fa657638bb99e53
 product: ollama
 product_name: Ollama
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-developer-workflow-changes-in-v2-1-239|2 Developer Workflow changes in v2.1.239]]
-- Later: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create webhook-triggered tasks]]
+- Later: 2026-08-24 · Google Antigravity · [[Changes/Google Antigravity/2026-08-24-introduced-git-version-control-in-the-review-pane-to-inspect-working-tree-diffs|Introduced Git version control in the Review pane to inspect working tree diffs…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

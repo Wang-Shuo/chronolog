@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f77d658a873749889122f9734cc0fe87674a2724b7becdda831024177f1a04cf
+machine_hash: 2d6376f2a3d97a57f9cdb6ea8b118224f770aed4f9daf36d24194914250a5b5e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
     flag)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-header-layout-adapts-better-to-narrow-terminal-widths|Header
-  layout adapts better to narrow terminal widths]]'
+- '[[Changes/OpenCode/2026-01-28-9-developer-workflow-changes-in-v1-1-37|9 Developer
+  Workflow changes in v1.1.37]]'
 - '[[Changes/v0/2026-01-28-added-toast-notification-when-pull-requests-are-merged|Added
   toast notification when pull requests are merged]]'
 - '[[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed Bash commands to show timeout duration alongside elapsed time]]
-- Later: 2026-01-29 · v0 · [[Changes/v0/2026-01-29-added-server-logs-for-better-debugging|Added server logs for better debugging]]
+- Later: 2026-01-29 · OpenCode · [[Changes/OpenCode/2026-01-29-3-developer-workflow-changes-in-v1-1-42|3 Developer Workflow changes in v1.1.42]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

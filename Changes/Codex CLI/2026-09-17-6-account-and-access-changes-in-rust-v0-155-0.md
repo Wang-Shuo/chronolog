@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eaa3bb40b10545ff3aede27c37e5c9460fee276e8192e68ac2e74033e71b34b5
+machine_hash: cdb231aeac400fb404724e32d6c9d861148e7281cb09b6e434526b606b618c6d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.155.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-the-signed-in-account-to-claude-apps-gateway-sign-in-when-the-gateway-name|Added the signed-in account to Claude apps gateway sign-in]]
-- Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-managed-plugin-commands-load-organization-marketplace-policy-with-environment-gi|Managed plugin commands load organization marketplace policy with environment…]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-28-account-and-access-changes-in-v2026-9-5|28 Account and Access changes in v2026.9.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

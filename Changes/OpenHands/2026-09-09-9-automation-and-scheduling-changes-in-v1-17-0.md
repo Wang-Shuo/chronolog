@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb6ef4c2559b233d7901ce357f0a5b62ddcfebf26b59c4f1a51f757756523255
+machine_hash: 51e0dfa60204963017f3d4e4517a49d9f9e2d7dac050a0ef9be32a3ba3565a93
 product: openhands
 product_name: OpenHands
 record:
@@ -60,12 +60,12 @@ record:
   title: 9 Automation and Scheduling changes in v1.17.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-2-automation-and-scheduling-changes-in-v1-16-0|2
-  Automation and Scheduling changes in v1.16.0]]'
-- '[[Changes/Open WebUI/2026-08-31-3-automation-and-scheduling-changes-in-v0-11-2|3
-  Automation and Scheduling changes in v0.11.2]]'
-- '[[Changes/Codex CLI/2026-09-01-41457-source-proactive-multi-agent-instructions-from-the-model-catalog-copyberry|♯41457
-  Source proactive multi-agent instructions from the model catalog @copyberry]]'
+- '[[Changes/OpenClaw/2026-09-03-13-automation-and-scheduling-changes-in-v2026-9-1|13
+  Automation and Scheduling changes in v2026.9.1]]'
+- '[[Changes/OpenClaw/2026-09-05-8-automation-and-scheduling-changes-in-v2026-9-2|8
+  Automation and Scheduling changes in v2026.9.2]]'
+- '[[Changes/OpenClaw/2026-09-08-7-automation-and-scheduling-changes-in-v2026-9-3|7
+  Automation and Scheduling changes in v2026.9.3]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-09-v1-17-0-github-385787922-b4569793|openhands-2026-09-09-v1-17-0-github-385787922-b4569793]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -116,7 +116,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-41457-source-proactive-multi-agent-instructions-from-the-model-catalog-copyberry|♯41457 Source proactive multi-agent instructions from the model catalog @copyberry]]
+- Earlier: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-7-automation-and-scheduling-changes-in-v2026-9-3|7 Automation and Scheduling changes in v2026.9.3]]
 - Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation and Scheduling changes in 1.17.1]]
 <!-- chronolog:end -->
 

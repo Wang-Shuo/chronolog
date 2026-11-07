@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b4b35a80e9145df5122f792f5b533e701a68440f8ac1aa9bc76da72e5eae8408
+machine_hash: 158181b91e2b3c466ec8bea02f4ea707ad93f95e3573e3b164a1ee253e20db23
 product: lovable
 product_name: Lovable
 record:
@@ -48,12 +48,12 @@ record:
   title: Search for individual settings
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved
-  fullscreen mode]]'
-- '[[Changes/Open WebUI/2026-10-10-18-interface-experience-changes-in-v0-12-0|18 Interface
-  Experience changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-12-summaries-before-completion-replies-when-a-long-conversation-needs-a-summary-ope|Summaries
+  before completion replies]]'
 - '[[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat:
   add compact section navigation on tablets]]'
+- '[[Changes/Google Antigravity/2026-10-13-this-release-fixes-the-license-picker-shown-during-onboarding-which-could-grow-t|This
+  release fixes the license picker shown during onboarding, which could grow…]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-13-2026-10-13-315d8911|lovable-2026-10-13-2026-10-13-315d8911]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat: add compact section navigation on tablets]]
+- Earlier: 2026-10-13 · Google Antigravity · [[Changes/Google Antigravity/2026-10-13-this-release-fixes-the-license-picker-shown-during-onboarding-which-could-grow-t|This release fixes the license picker shown during onboarding, which could grow…]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed exit to force-kill background commands still running 1.5 seconds after being…]]
 <!-- chronolog:end -->
 

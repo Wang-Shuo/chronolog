@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6d31f02aec4d0cef16c6e676819c920d946b654d00fca2ed1f9ddf0d138467fd
+machine_hash: 3cdfff438a4d8d998440bcfd46ff626ada3817616f4218e8baec3941d990d729
 product: claude
 product_name: Claude
 record:
@@ -68,10 +68,10 @@ record:
   title: Work across Excel and PowerPoint
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-06-improve-explore-agent-precision-and-large-repository-support-with-better-context|Improve
-  explore agent precision and large repository support with better context sharing]]'
 - '[[Changes/Open WebUI/2026-03-08-2-context-window-changes-in-v0-8-9|2 Context Window
   changes in v0.8.9]]'
+- '[[Changes/OpenCode/2026-03-09-core-send-context-1m-2025-08-07-beta-header-to-gitlab-to-enable-1m-context-windo|Core
+  Send context-1m-2025-08-07 beta header to GitLab to enable 1M context window]]'
 - '[[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context
   Window changes in rust-v0.113.0]]'
 source_release: '[[Releases/Claude/claude-2026-03-11-2026-03-11-7da43764|claude-2026-03-11-2026-03-11-7da43764]]'

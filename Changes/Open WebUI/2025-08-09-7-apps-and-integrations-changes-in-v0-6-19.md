@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8659e58dc6167e6e61a556d5fc32f87dce50e820bbb83844a9c32afa40f61bb2
+machine_hash: 6fb638c49edd4168c44417a5ad51e030fab6fd6f76410a2e876fba476b2f1b93
 product: open-webui
 product_name: Open WebUI
 record:
@@ -76,11 +76,12 @@ record:
   title: 7 Apps and Integrations changes in v0.6.19
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-08-04-sdk-releases|SDK Releases]]'
 - '[[Changes/Gemini CLI/2025-08-05-24-apps-and-integrations-changes-in-v0-1-17|24
   Apps and Integrations changes in v0.1.17]]'
 - '[[Changes/Gemini CLI/2025-08-06-26-apps-and-integrations-changes-in-v0-1-18|26
   Apps and Integrations changes in v0.1.18]]'
+- '[[Changes/Gamma/2025-08-08-we-ve-just-launched-our-generate-api-in-beta-for-gamma-pro-users-now-you-can-cre|We’ve
+  just launched our Generate API in beta for Gamma Pro users! Now you can…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243|open-webui-2025-08-09-v0-6-19-github-238805134-e05b9243]]'
 source_type: github_releases
 theme: apps-integrations
@@ -140,7 +141,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.6.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-26-apps-and-integrations-changes-in-v0-1-18|26 Apps and Integrations changes in v0.1.18]]
+- Earlier: 2025-08-08 · Gamma · [[Changes/Gamma/2025-08-08-we-ve-just-launched-our-generate-api-in-beta-for-gamma-pro-users-now-you-can-cre|We’ve just launched our Generate API in beta for Gamma Pro users! Now you can…]]
 - Later: 2025-08-11 · Dify · [[Changes/Dify/2025-08-11-6-apps-and-integrations-changes-in-1-7-2|6 Apps and Integrations changes in 1.7.2]]
 <!-- chronolog:end -->
 

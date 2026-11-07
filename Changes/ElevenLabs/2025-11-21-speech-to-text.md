@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: f157debb4057a2424ca60d2613406152b15080fddd016a4c94663e71e7999a14
+machine_hash: 66f27c4d619f90b64903fb8d812d880fe3406322ed247a5b3c5d78fb27334694
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-feat-add-audio-content-support-for-mcp-tools-by-ithacadream-in-https-github-com|feat: Add Audio Content Support for MCP Tools]]
-- Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-2-voice-and-audio-changes-in-v0-6-37|2 Voice and Audio changes in v0.6.37]]
+- Later: 2025-11-21 · Runway · [[Changes/Runway/2025-11-21-audio-nodes-video-upscaling-nodes-and-three-new-featured-workflows-available-now|Workflows Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61dcc66d368905a69b015dd4c1fc845b7026f3580d2b8ae19c8414658d7ee5d1
+machine_hash: 08cde6313457578ebf260da00e844690a68c4d09fb6c9c03d80cdaeab66f4198
 product: cursor
 product_name: Cursor
 record:
@@ -72,10 +72,10 @@ record:
   title: Google Workspace Plugins
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and
-  Integrations changes in v4.1.0]]'
 - '[[Changes/Lovable/2026-07-31-lovable-mcp-updates|Lovable MCP updates]]'
 - '[[Changes/Replit/2026-07-31-connect-more-mcp-servers|Connect more MCP servers]]'
+- '[[Changes/OpenCode/2026-08-01-stopped-mcp-sse-connections-from-getting-stuck-in-reconnect-loops-after-server-e|Stopped
+  MCP SSE connections from getting stuck in reconnect loops after server error…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1|cursor-2026-08-03-google-workspace-plugins-https-cursor-com-changelog-google-works-e8cf52f1]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -114,7 +114,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-connect-more-mcp-servers|Connect more MCP servers]]
+- Earlier: 2026-08-01 · OpenCode · [[Changes/OpenCode/2026-08-01-stopped-mcp-sse-connections-from-getting-stuck-in-reconnect-loops-after-server-e|Stopped MCP SSE connections from getting stuck in reconnect loops after server error…]]
 - Later: 2026-08-03 · ElevenLabs · [[Changes/ElevenLabs/2026-08-03-mcp-server|MCP Server]]
 <!-- chronolog:end -->
 

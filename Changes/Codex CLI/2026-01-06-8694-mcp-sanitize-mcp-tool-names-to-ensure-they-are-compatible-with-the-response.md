@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09fabbc688dfcbee1562bafa73e4e33463e2b0307add3ee01acdeb02d632749f
+machine_hash: 684cf8682e6e780d978bf7912bf650526ee9d8be518b7004c7585c4a9398bab6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,9 +43,9 @@ record:
     Responses…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-02-mcp-server-type-help-text-displays-correct-options|MCP
-  server type help text displays correct options]]'
 - '[[Changes/ElevenLabs/2026-01-05-sdk-releases|SDK Releases]]'
+- '[[Changes/OpenCode/2026-01-05-terminal-add-description-for-mcp-command-in-documentation|Terminal
+  Add description for MCP command in documentation]]'
 - '[[Changes/Cline/2026-01-06-exclude-binary-files-without-extensions-from-diffs|Exclude
   binary files without extensions from diffs]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-06 · Cline · [[Changes/Cline/2026-01-06-exclude-binary-files-without-extensions-from-diffs|Exclude binary files without extensions from diffs]]
-- Later: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-5-apps-and-integrations-changes-in-v0-23-0|5 Apps and Integrations changes in v0.23.0]]
+- Later: 2026-01-06 · OpenCode · [[Changes/OpenCode/2026-01-06-desktop-add-single-instance-plugin-to-prevent-multiple-desktop-windows|Desktop Add single-instance plugin to prevent multiple desktop windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

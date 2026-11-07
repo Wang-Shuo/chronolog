@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 75f11dae9237d5e586a65d2b3eae8fe98181cb4a493f6a97afab0fe2cc81c32e
+machine_hash: 71e427f66e8dd8c87d199d2e517c6feab450c6be5c624e5c795267798c249566
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Account and Access changes in rust-v0.132.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-bedrock-awscredentialexport-now-always-runs-when-configured-instead-of-being-ski|Bedrock:
-  awsCredentialExport now always runs when configured instead of being…]]'
+- '[[Changes/OpenCode/2026-05-15-2-account-and-access-changes-in-v1-14-51|2 Account
+  and Access changes in v1.14.51]]'
 - '[[Changes/Codex CLI/2026-05-18-5-account-and-access-changes-in-rust-v0-131-0|5
   Account and Access changes in rust-v0.131.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-3-account-and-access-changes-in-v1-0-49|3

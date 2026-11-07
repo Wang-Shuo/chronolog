@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2be6f60f7b4ff25d9e77f2b449f18e932c0ca084dbebb1dec2e7d9b943b4a252
+machine_hash: ef549aa14ed7340df79623a2c0f5b47fa5e8ac76dcd91e8eeb4493b3286a17e9
 product: dify
 product_name: Dify
 record:
@@ -57,10 +57,10 @@ record:
   title: 6 Apps and Integrations changes in 1.7.2
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-24-apps-and-integrations-changes-in-v0-1-17|24
-  Apps and Integrations changes in v0.1.17]]'
 - '[[Changes/Gemini CLI/2025-08-06-26-apps-and-integrations-changes-in-v0-1-18|26
   Apps and Integrations changes in v0.1.18]]'
+- '[[Changes/Gamma/2025-08-08-we-ve-just-launched-our-generate-api-in-beta-for-gamma-pro-users-now-you-can-cre|We’ve
+  just launched our Generate API in beta for Gamma Pro users! Now you can…]]'
 - '[[Changes/Open WebUI/2025-08-09-7-apps-and-integrations-changes-in-v0-6-19|7 Apps
   and Integrations changes in v0.6.19]]'
 source_release: '[[Releases/Dify/dify-2025-08-11-1-7-2-github-238903756-6cc5a2a0|dify-2025-08-11-1-7-2-github-238903756-6cc5a2a0]]'

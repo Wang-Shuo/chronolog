@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1b0286a47fe004da7071ad9b9ce4aafd8e7831c88aedd93db38f6ddf3855879f
+machine_hash: 5e668f6b9feb670c6f124eee60438271699b3056e68d5353e9ac1e069bf231cd
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -53,8 +53,8 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-12-voice-and-audio-changes-in-v0-12-0|12 Voice
-  and Audio changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-8-voice-and-audio-changes-in-v2026-10-1|8 Voice and
+  Audio changes in v2026.10.1]]'
 - '[[Changes/ElevenLabs/2026-10-12-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ElevenLabs/2026-10-12-text-to-speech|Text to Speech]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-12-2026-10-12-16e5a6a0|elevenlabs-2026-10-12-2026-10-12-16e5a6a0]]'
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-12-voice-and-audio-changes-in-v0-12-0|12 Voice and Audio changes in v0.12.0]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude Tag Added support for Slack voice clips in Claude in Slack]]
+- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-8-voice-and-audio-changes-in-v2026-10-1|8 Voice and Audio changes in v2026.10.1]]
+- Later: 2026-10-12 · OpenClaw · [[Changes/OpenClaw/2026-10-12-dictation-holding-the-microphone-and-releasing-it-no-longer-stops-recording-prem|Dictation. Holding the microphone and releasing it no longer stops recording prematurely]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

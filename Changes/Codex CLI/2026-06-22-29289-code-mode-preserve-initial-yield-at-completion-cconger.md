@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84580354a449904a935735fba7043a9e0bc62fc4be3bd5bb31ad8254dc097cec
+machine_hash: 0c818a1cd39ecd59187e01be03310e79fc8919a7bf3c7b2519c085481156a62d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,7 +41,8 @@ record:
   title: '#29289 code-mode: preserve initial yield at completion @cconger'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-16-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/OpenCode/2026-06-17-desktop-added-a-home-tab-toggle-so-you-can-quickly-switch-between-home-and-your|Desktop
+  Added a Home tab toggle so you can quickly switch between Home and your last tab]]'
 - '[[Changes/Lovable/2026-06-18-require-the-workspace-editor-role-to-edit-projects|Require
   the workspace editor role to edit projects]]'
 - '[[Changes/v0/2026-06-19-inspect-on-vercel-and-analytics-stay-disabled-until-a-deployment-has-an-inspecto|Inspect

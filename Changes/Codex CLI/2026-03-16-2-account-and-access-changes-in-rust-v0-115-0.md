@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0e47e4fdefe62e9a3a269b70b87144f459a441899e54546c3c81af0686d968a2
+machine_hash: 5654f5a7eb59a159b78fde43f7d39b75792999b2169848e96c83936b42f959c1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Account and Access changes in rust-v0.115.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-13-2-account-and-access-changes-in-v1-0-5|2
-  Account and Access changes in v1.0.5]]'
+- '[[Changes/OpenCode/2026-03-13-terminal-reorder-provider-list-in-providers-login|Terminal
+  Reorder provider list in providers login]]'
 - '[[Changes/v0/2026-03-13-added-saml-specific-re-authentication-link-in-repository-connection-dialog|Added
   SAML-specific re-authentication link in repository connection dialog]]'
 - '[[Changes/Ollama/2026-03-14-ollama-can-now-be-selected-as-an-authentication-and-model-provider-during-opencl|Ollama

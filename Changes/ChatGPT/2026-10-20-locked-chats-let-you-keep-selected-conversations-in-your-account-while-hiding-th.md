@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b4cce346609b32fc839f32df46f7230f93d13273f161cf47c160faf16b8439db
+machine_hash: b13901fde4be9f6acf99f507bcdec93441aa910f8006ab4d02b72cab48812149
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,10 +71,10 @@ record:
   title: Introducing locked chats
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-16-add-oidc-sign-in-to-your-app|Add OIDC sign-in to your
-  app]]'
-- '[[Changes/Open WebUI/2026-10-16-2-account-and-access-changes-in-v0-12-3|2 Account
-  and Access changes in v0.12.3]]'
+- '[[Changes/OpenClaw/2026-10-16-5-account-and-access-changes-in-v2026-10-4|5 Account
+  and Access changes in v2026.10.4]]'
+- '[[Changes/OpenClaw/2026-10-18-the-dashboard-handles-reconnects-and-long-chat-histories-with-fewer-interruption|The
+  Dashboard handles reconnects and long chat histories with fewer interruptions…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-3-account-and-access-changes-in-v1-0-100|3
   Account and Access changes in v1.0.100]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-20-introducing-locked-chats-4e90035d|chatgpt-2026-10-20-introducing-locked-chats-4e90035d]]'

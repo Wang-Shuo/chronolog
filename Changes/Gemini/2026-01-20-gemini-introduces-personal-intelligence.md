@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1458f14053c2f61745668f0bab0cb4b57a27fc781a982578297644d86437ec3a
+machine_hash: f87b4dab541a309a3c2019a8b18ed2fc8173bcf0bbf95b88e8ad07afccb7f345
 product: gemini
 product_name: Gemini
 record:
@@ -64,10 +64,10 @@ record:
   title: Gemini introduces Personal Intelligence
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-01-16-dependency-vulnerability-scanning-is-now-available-with-issues-in-project-depend|Dependency
-  vulnerability scanning is now available, with issues in project…]]'
 - '[[Changes/Lovable/2026-01-16-security-center-v0-1|Security center (v0.1)]]'
 - '[[Changes/Replit/2026-01-16-node-js-security-patch|Node.js security patch]]'
+- '[[Changes/OpenCode/2026-01-19-terminal-add-mouse-support-for-permission-buttons-in-tui|Terminal
+  Add mouse support for permission buttons in TUI]]'
 source_release: '[[Releases/Gemini/gemini-2026-01-20-2026-01-20-2a086562|gemini-2026-01-20-2026-01-20-2a086562]]'
 source_type: gemini_changelog
 theme: safety-privacy
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-16 · Replit · [[Changes/Replit/2026-01-16-node-js-security-patch|Node.js security patch]]
+- Earlier: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-terminal-add-mouse-support-for-permission-buttons-in-tui|Terminal Add mouse support for permission buttons in TUI]]
 - Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-3-safety-and-privacy-changes-in-rust-v0-88-0|3 Safety and Privacy changes in rust-v0.88.0]]
 <!-- chronolog:end -->
 

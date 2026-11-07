@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f7a17a09898ce438661c4df1b38e8782b4971d9b9f13c63ede32f24a04f41172
+machine_hash: 0ddbcf2c20f55355da7d2caa44664c473f8da2574f7ada098b31044f3f7803a5
 product: open-webui
 product_name: Open WebUI
 record:
@@ -48,10 +48,10 @@ record:
   title: 2 Editor Experience changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-2-editor-experience-changes-in-v1-0-66|2
-  Editor Experience changes in v1.0.66]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-ctrl-q-now-enqueues-the-highlighted-slash-command-argument-completion|Ctrl+Q
-  now enqueues the highlighted slash-command argument completion]]'
+- '[[Changes/OpenClaw/2026-06-30-7-editor-experience-changes-in-v2026-6-11|7 Editor
+  Experience changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-desktop-autocomplete-configured-references-in-prompts|Desktop
+  Autocomplete configured references in prompts]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2
   Editor Experience changes in v1.0.68]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'
@@ -97,7 +97,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.10.2
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2 Editor Experience changes in v1.0.68]]
-- Later: 2026-07-04 · Windsurf · [[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]
+- Later: 2026-07-01 · OpenCode · [[Changes/OpenCode/2026-07-01-3-editor-experience-changes-in-v1-17-13|3 Editor Experience changes in v1.17.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

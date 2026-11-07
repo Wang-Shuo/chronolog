@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5d221677e4e328415e00727949be2457516b45b095ef5be77284be8ee7a7c11b
+machine_hash: 31916ad350550607b182456b576b788126ce186d36371a8052d1c2893427ed5e
 product: claude
 product_name: Claude
 record:
@@ -43,12 +43,12 @@ record:
   title: Claude Code access added to Team plan Standard seats
   type: change
 related_changes:
-- '[[Changes/Replit/2026-01-02-the-replit-team-is-spending-time-with-friends-and-family-to-celebrate-the-holida|Replit
-  updates — 2026-01-02]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-07-add-share-and-share-gist-flags-for-session-sharing-in-non-interactive-mode|Add
-  --share and --share-gist flags for session sharing in non-interactive mode]]'
+- '[[Changes/OpenCode/2026-01-11-core-extract-external-directory-validation-to-shared-utility-to-reduce-code-dupl|Core
+  Extract external directory validation to shared utility to reduce code…]]'
 - '[[Changes/Codex CLI/2026-01-15-2-collaboration-changes-in-rust-v0-85-0|2 Collaboration
   changes in rust-v0.85.0]]'
+- '[[Changes/Granola/2026-01-15-granola-now-works-seamlessly-for-the-tens-of-millions-of-people-who-work-on-team|Sign
+  in with Microsoft is here]]'
 source_release: '[[Releases/Claude/claude-2026-01-16-2026-01-16-d287c407|claude-2026-01-16-2026-01-16-d287c407]]'
 source_type: claude_changelog
 theme: collaboration
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-2-collaboration-changes-in-rust-v0-85-0|2 Collaboration changes in rust-v0.85.0]]
+- Earlier: 2026-01-15 · Granola · [[Changes/Granola/2026-01-15-granola-now-works-seamlessly-for-the-tens-of-millions-of-people-who-work-on-team|Sign in with Microsoft is here]]
 - Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-collaboration-wait-calls-can-block-on-multiple-ids-in-one-request-simplifying-mu|Collaboration wait calls can block on multiple IDs in one request, simplifying…]]
 <!-- chronolog:end -->
 

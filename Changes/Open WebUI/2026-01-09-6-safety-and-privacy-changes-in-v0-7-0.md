@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b356b2676c76598067ccf5dc230eafee6730a4c96b4cbe90132206504ac72cd3
+machine_hash: 380452b876436dbff84b6146c79fa1077c09cb59274e5041b2013e807d1337d0
 product: open-webui
 product_name: Open WebUI
 record:
@@ -128,7 +128,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.7.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-2-safety-and-privacy-changes-in-rust-v0-80-0|2 Safety and Privacy changes in rust-v0.80.0]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed permission bypass via shell line continuation that could allow blocked…]]
+- Later: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-core-add-password-authentication-and-improve-server-security|Core Add password authentication and improve server security]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

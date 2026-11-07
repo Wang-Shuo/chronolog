@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 721ddc2ce4a729eb31170e505e26fd94b4c9271d18f1c5bd762642d2ce89da4b
+machine_hash: a48258f5ca4873786e02f9b43f3102b4a753cbe300169ff21f6880667a8013a1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -62,10 +62,10 @@ record:
     now see a Provider…"
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-2-context-window-changes-in-rust-v0-165-0|2 Context
-  Window changes in rust-v0.165.0]]'
 - '[[Changes/Ollama/2026-10-27-lfm3-https-ollama-com-library-lfm3-a-1-7b-text-model-with-a-256k-token-context-w|lfm3((source
   link) a 1.7B text model with a 256K-token context…]]'
+- '[[Changes/OpenCode/2026-10-27-3-context-window-changes-in-v2-2-0|3 Context Window
+  changes in v2.2.0]]'
 - '[[Changes/Codex CLI/2026-10-29-13-context-window-changes-in-rust-v0-166-0|13 Context
   Window changes in rust-v0.166.0]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e|open-webui-2026-10-29-v0-12-5-github-427647877-d6957e2e]]'
@@ -114,7 +114,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-13-context-window-changes-in-rust-v0-166-0|13 Context Window changes in rust-v0.166.0]]
-- Later: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-qwen3-and-qwen3-5-models-using-long-context-yarn-scaling|Qwen3 and Qwen3.5 models using long-context (YaRN) scaling]]
+- Later: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-2-context-window-changes-in-v2-2-1|2 Context Window changes in v2.2.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c05e2e6ef284023ee73ea84faaa264459ccf2291721c710ea72b0e89e872f8d5
+machine_hash: ddaeb2b46f8e346405eff33ecda70e8e7fa68918dc7147737d2281569d0ad4f5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
     action publisher'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508
-  Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]]'
-- '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work
-  can also keep projects moving through Scheduled Tasks that run once, repeat…]]'
+- '[[Changes/OpenClaw/2026-07-13-79-automation-and-scheduling-changes-in-v2026-7-1|79
+  Automation and Scheduling changes in v2026.7.1]]'
+- '[[Changes/OpenClaw/2026-07-13-channel-setup-warnings-are-now-available-as-structured-doctor-lint-findings-with|Channel
+  setup warnings are now available as structured Doctor lint findings…]]'
 - '[[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation
   and Scheduling changes in 1.16.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-07-22-v0-52-0-github-358318142-b2659718|gemini-cli-2026-07-22-v0-52-0-github-358318142-b2659718]]'

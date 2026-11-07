@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4d35bc0ed31f0ddb009c7249afbe6655ac6c26fb3e8ac42ffc1bfed15f139840
+machine_hash: c3f337174545ab82a32573f1a43454d85c391577da60d94159a786b09799c67b
 product: windsurf
 product_name: Windsurf
 record:
@@ -48,8 +48,8 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile
-  and Desktop changes in v2.1.281]]'
+- '[[Changes/OpenClaw/2026-09-23-16-mobile-and-desktop-changes-in-v2026-9-6|16 Mobile
+  and Desktop changes in v2026.9.6]]'
 - '[[Changes/OpenHands/2026-09-23-feat-desktop-universal-macos-dmg-with-per-arch-bundled-runtimes-by-harsh-batheja|feat(desktop):
   universal macOS DMG with per-arch bundled runtimes]]'
 - '[[Changes/Claude Code/2026-09-24-improved-the-error-shown-on-windows-when-a-session-can-t-be-resumed-because-its|Improved

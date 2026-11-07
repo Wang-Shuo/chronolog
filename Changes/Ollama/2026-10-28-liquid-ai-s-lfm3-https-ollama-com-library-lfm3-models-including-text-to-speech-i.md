@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 143b1a69a14e7e3bd50d7668f315de94d25dbc502a3d240dcf29e9c26f89395c
+machine_hash: cbd5d30dda0560ea90d93ca224d43d07780525e1500b70fe53627d5d5fde3dbd
 product: ollama
 product_name: Ollama
 record:
@@ -55,11 +55,12 @@ record:
   title: Liquid AI's [LFM3](https://ollama.com/library/lfm3) models, including text-to-speech…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-14-voice-and-audio-changes-in-elevenlabs-updates-2026-10-26|14
-  Voice and Audio changes in ElevenLabs updates — 2026-10-26]]'
-- '[[Changes/ElevenLabs/2026-10-26-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/Ollama/2026-10-27-3-voice-and-audio-changes-in-v0-40-12|3 Voice and Audio
   changes in v0.40.12]]'
+- '[[Changes/OpenClaw/2026-10-27-6-voice-and-audio-changes-in-v2026-10-8|6 Voice and
+  Audio changes in v2026.10.8]]'
+- '[[Changes/OpenCode/2026-10-27-2-voice-and-audio-changes-in-v2-2-0|2 Voice and Audio
+  changes in v2.2.0]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-28-v0-40-13-github-427123529-993de358|ollama-2026-10-28-v0-40-13-github-427123529-993de358]]'
 source_type: github_releases
 theme: voice
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-3-voice-and-audio-changes-in-v0-40-12|3 Voice and Audio changes in v0.40.12]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-2-voice-and-audio-changes-in-v2-2-0|2 Voice and Audio changes in v2.2.0]]
 - Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-read-aloud-with-kokoro-js-read-aloud-now-speaks-with-the-chosen-kokoro-voice-whe|🔊 Read Aloud with Kokoro.js. Read Aloud now speaks with the chosen Kokoro voice…]]
 <!-- chronolog:end -->
 

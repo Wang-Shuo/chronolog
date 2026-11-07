@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2d1c85dc33c2add3bd9ee655cdbda82035a23aac29926c72e6f6f6d6cdc2cce8
+machine_hash: 6f5152b8e06e508535946c07b4838190c05fe0263cfc1bd5f49cca5b788fd12f
 product: ollama
 product_name: Ollama
 record:
@@ -57,10 +57,10 @@ record:
     OpenClaw…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-3-account-and-access-changes-in-v1-0-4|3
-  Account and Access changes in v1.0.4]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-2-account-and-access-changes-in-v1-0-5|2
   Account and Access changes in v1.0.5]]'
+- '[[Changes/OpenCode/2026-03-13-terminal-reorder-provider-list-in-providers-login|Terminal
+  Reorder provider list in providers login]]'
 - '[[Changes/v0/2026-03-13-added-saml-specific-re-authentication-link-in-repository-connection-dialog|Added
   SAML-specific re-authentication link in repository connection dialog]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-14-v0-18-0-github-296861801-d01e9dff|ollama-2026-03-14-v0-18-0-github-296861801-d01e9dff]]'

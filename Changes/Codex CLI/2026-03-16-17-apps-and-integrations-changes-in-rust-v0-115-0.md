@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c3e69c28a4bddf684ff6e44b5544d04419987f7be28c21334dd3c8385d41db8
+machine_hash: 1d1bcff42c4c65e96edaa2f84c7df457b8228075a9d31f65881d5373346ea6e8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -77,8 +77,8 @@ record:
   title: 17 Apps and Integrations changes in rust-v0.115.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-12-hooks-reintroduced-feature-toggle|Hooks: reintroduced
-  feature toggle]]'
+- '[[Changes/OpenCode/2026-03-12-2-apps-and-integrations-changes-in-v1-2-25|2 Apps
+  and Integrations changes in v1.2.25]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-4-apps-and-integrations-changes-in-v1-0-5|4
   Apps and Integrations changes in v1.0.5]]'
 - '[[Changes/Claude Code/2026-03-14-4-apps-and-integrations-changes-in-v2-1-76|4 Apps

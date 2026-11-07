@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 41b8b0e95257977907e66d3701b112983e3f611d0fe48237f5e99543be7a3788
+machine_hash: 68b87df6d68acdb2b460b5ded4a8dfa0ae57f1f5b7c9d3b0922d06e525562dc4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
     and thread…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-27-feat-core-expose-rag-snippets-to-local-log-file-for-debugging-by-spencer426-in-h|feat(core):
-  expose RAG snippets to local log file for debugging]]'
+- '[[Changes/OpenCode/2026-05-27-3-developer-workflow-changes-in-v1-15-11|3 Developer
+  Workflow changes in v1.15.11]]'
 - '[[Changes/Claude Code/2026-05-28-simplify-now-runs-a-cleanup-only-review-reuse-simplification-efficiency-altitude|/simplify
   now runs a cleanup-only review…]]'
 - '[[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|Status

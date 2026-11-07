@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ede34246d2bc89f2521aed0e3962437322f1ba86fbca83d5b5839bf6ebe4e442
+machine_hash: 8c411a9713366fa29fa9600f994209bde3d8d9c33b9507c7f9928669e5775957
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: Reasoning-only max-token responses no longer loop indefinitely and now end…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud|Supported
-  PostgreSQL extensions on Lovable Cloud]]'
-- '[[Changes/Open WebUI/2026-10-14-automation-run-results-an-automation-run-is-now-recorded-as-successful-only-afte|⏰
-  Automation run results. An automation run is now recorded as successful only…]]'
-- "[[Changes/Open WebUI/2026-10-14-recurring-automations-run-once-automations-set-with-the-daily-weekly-or-monthly|\U0001F4C5
-  Recurring automations run once. Automations set with the Daily, Weekly…]]"
+- '[[Changes/Google Antigravity/2026-10-15-you-can-now-pick-flash-lite-flash-or-pro-for-an-automation-when-you-create-or-ed|Pick
+  Flash Lite, Flash, or Pro for an automation when you create or edit it]]'
+- '[[Changes/Google Antigravity/2026-10-15-redesigned-side-panel-compact-and-model-choice-for-automations|Redesigned
+  side panel, /compact, and model choice for automations]]'
+- '[[Changes/OpenClaw/2026-10-16-standalone-plugin-hooks-configured-tool-rules-and-automations-from-enabled-stand|Standalone
+  plugin hooks]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-recurring-automations-run-once-automations-set-with-the-daily-weekly-or-monthly|📅 Recurring automations run once. Automations set with the Daily, Weekly…]]
+- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-standalone-plugin-hooks-configured-tool-rules-and-automations-from-enabled-stand|Standalone plugin hooks]]
 - Later: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-3-automation-and-scheduling-changes-in-v1-28-0|3 Automation and Scheduling changes in v1.28.0]]
 <!-- chronolog:end -->
 

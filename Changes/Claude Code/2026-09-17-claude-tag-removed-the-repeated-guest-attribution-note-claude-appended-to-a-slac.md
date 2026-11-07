@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a00b0be02d3ea811e1738cd31e2a9c07a8cac7faac54305348411006a0923c0
+machine_hash: b6182650702e89f38ef2c84d181cc862316281351acfa7893420bfdbafeccb5a
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat: track authenticated Canvas arrivals]]
-- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-10-files-and-data-changes-in-v0-11-4|10 Files and Data changes in v0.11.4]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-7-files-and-data-changes-in-v2026-9-5|7 Files and Data changes in v2026.9.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

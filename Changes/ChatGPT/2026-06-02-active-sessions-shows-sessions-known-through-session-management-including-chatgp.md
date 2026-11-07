@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ecd17567e59bd32ac15e92b9b0253a103aadb9c2b4ddf4c07090011cd8b8e5c1
+machine_hash: 8fe58a9cd9e99c9688411de37926abc6b9bcd3359decea2f6668d49474c8c9fa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,8 +49,9 @@ record:
     ChatGPT…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-26-2-account-and-access-changes-in-rust-v0-134-0|2
-  Account and Access changes in rust-v0.134.0]]'
+- '[[Changes/OpenCode/2026-05-27-core-digitalocean-inference-now-uses-your-oauth-token-directly-instead-of-creati|Core
+  DigitalOcean inference now uses your OAuth token directly instead of creating a
+  MAK]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-surface-the-underlying-reason-e-g-github-api-rate-limit-when-sdk-auth-token-vali|Surface
   the underlying reason (e.g. GitHub API rate limit) when SDK auth-token…]]'
 - '[[Changes/Open WebUI/2026-06-01-6-account-and-access-changes-in-v0-9-6|6 Account

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e88a3ca22263a99a3998edadf635a2ca233d0fd45700d5b7719f3f5a670cd9f0
+machine_hash: 63b3df9544095177e75aa9d21c83a368c5c71fb675e58deae337126c3885eb84
 product: gemini
 product_name: Gemini
 record:
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-3-mobile-and-desktop-changes-in-rust-v0-59-0|3 Mobile and Desktop changes in rust-v0.59.0]]
-- Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-pwa-installations-on-ios-now-properly-refresh-after-server-container-restarts-re|📱 PWA installations on iOS now properly refresh after server container restarts…]]
+- Later: 2025-11-20 · Midjourney · [[Changes/Midjourney/2025-11-20-along-with-the-profiles-launch-today-we-ve-updated-the-names-of-a-few-features-t|Along with the Profiles launch today, we’ve updated the names of a few features…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

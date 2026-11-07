@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6c2e2fae5eb619bcb557953e78fbb21aeb53bb7ddd2149163542bb51203f126
+machine_hash: 695c686fa166b975b1a1e98b4938c61cb1cc37c1ca882e177ac2a5ddac809c3b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Apps and Integrations changes in v0.17.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-18-feat-upgrade-sap-ai-sdk-js-packages-major-version-by-yuvalman-in-https-github-co|feat:
-  upgrade sap ai-sdk-js packages major version]]'
+- '[[Changes/Manus/2025-11-18-manus-can-now-perform-tasks-directly-in-your-browser-autonomously-it-securely-wo|Introducing
+  Manus Browser Operator]]'
 - '[[Changes/Codex CLI/2025-11-19-5-apps-and-integrations-changes-in-rust-v0-59-0|5
   Apps and Integrations changes in rust-v0.59.0]]'
 - '[[Changes/Codex CLI/2025-11-20-3-apps-and-integrations-changes-in-rust-v0-61-0|3

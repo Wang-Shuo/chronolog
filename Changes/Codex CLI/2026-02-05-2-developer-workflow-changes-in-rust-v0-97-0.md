@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 078dd2a805bdf3b2a51ee2dfef57562428bee20440bc5b639b79f621d36b8384
+machine_hash: 58bdc82af879dea6c3d5ed7edaa0e9529cc4a64c7b7505a2bd009472523b06e7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in rust-v0.97.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-10-developer-workflow-changes-in-rust-v0-95-0|10
-  Developer Workflow changes in rust-v0.95.0]]'
-- '[[Changes/Codex CLI/2026-02-04-constrained-requirement-values-now-include-source-provenance-enabling-source-awa|Constrained
-  requirement values now include source provenance, enabling source-aware…]]'
 - '[[Changes/Gemini CLI/2026-02-04-11-developer-workflow-changes-in-v0-27-0|11 Developer
   Workflow changes in v0.27.0]]'
+- '[[Changes/OpenCode/2026-02-04-6-developer-workflow-changes-in-v1-1-50|6 Developer
+  Workflow changes in v1.1.50]]'
+- '[[Changes/OpenCode/2026-02-04-terminal-restore-direct-osc52-support|Terminal Restore
+  direct OSC52 support]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-05-rust-v0-97-0-github-283219180-522ab2d0|codex-cli-2026-02-05-rust-v0-97-0-github-283219180-522ab2d0]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.97.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-11-developer-workflow-changes-in-v0-27-0|11 Developer Workflow changes in v0.27.0]]
+- Earlier: 2026-02-04 · OpenCode · [[Changes/OpenCode/2026-02-04-terminal-restore-direct-osc52-support|Terminal Restore direct OSC52 support]]
 - Later: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-2-developer-workflow-changes-in-v0-0-404|2 Developer Workflow changes in v0.0.404]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 85ea200cfbf00bc2ef385680a8635c9994598aa3e3feb6bb99c313a8715c177b
+machine_hash: 3bd8d0d35dbc809d78da972add07c5427ca519d8debb6f23917b06efea005e49
 product: cursor
 product_name: Cursor
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved /model to warn before switching models mid-conversation, since the next…]]
-- Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model Support changes in rust-v0.121.0]]
+- Later: 2026-04-14 · Midjourney · [[Changes/Midjourney/2026-04-14-what-s-next|What’s next?]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

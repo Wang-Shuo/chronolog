@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dbe5275acd0a864203ab4cbc6317f3cf385778e4757bc808ca19a8c39e7e86d2
+machine_hash: 54d3f181def0ae92b5625689d0cf29ed1dc0b5e99bbbfc50f59e5c392a51b151
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,10 +52,10 @@ record:
   title: Deep research and voice mode support
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-07-we-re-upgrading-advanced-voice-in-chatgpt-for-paid-users-with-significant-enhanc-ad0b3e|We''re
-  upgrading Advanced Voice in ChatGPT for paid users with significant…]]'
 - '[[Changes/ChatGPT/2025-06-07-in-testing-we-ve-observed-that-this-update-may-occasionally-cause-minor-decrease-ca0630|In
   testing, we''ve observed that this update may occasionally cause minor decreases…]]'
+- '[[Changes/Manus/2025-06-09-manus-isn-t-just-where-you-generate-videos-it-s-where-you-craft-cinematic-experi|Manus
+  isn''t just where you generate videos — it''s where you craft cinematic experiences]]'
 - '[[Changes/Open WebUI/2025-06-10-2-voice-and-audio-changes-in-v0-6-14|2 Voice and
   Audio changes in v0.6.14]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'

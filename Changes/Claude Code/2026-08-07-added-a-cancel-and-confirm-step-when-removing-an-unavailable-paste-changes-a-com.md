@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 514809629250d710f22ee2819abb2b50798c38ec098e31446afee3bdd2191323
+machine_hash: 05da1e27baadd1221ea1eeac128c7d10d3db92ade4f04bd0a2cb2f0afa72add8
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Added a cancel-and-confirm step when removing an unavailable paste changes…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-3-developer-workflow-changes-in-v2-1-221|3 Developer
-  Workflow changes in v2.1.221]]'
 - '[[Changes/Cline/2026-08-05-2-developer-workflow-changes-in-v4-1-4|2 Developer Workflow
   changes in v4.1.4]]'
+- '[[Changes/OpenCode/2026-08-05-core-logged-remote-workspace-5xx-response-bodies-in-the-host-logs-to-make-proxy|Core
+  Logged remote workspace 5xx response bodies in the host logs to make proxy…]]'
 - '[[Changes/Claude Code/2026-08-06-2-developer-workflow-changes-in-v2-1-223|2 Developer
   Workflow changes in v2.1.223]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'

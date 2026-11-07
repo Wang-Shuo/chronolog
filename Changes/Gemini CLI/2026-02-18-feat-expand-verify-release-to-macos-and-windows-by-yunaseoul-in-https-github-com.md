@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81d4d0c3318b94b10c6b300c73cefb5bb779204d8ab8260f7c38d44e27e5567f
+machine_hash: 69bc4943dfeabb6660f2026fd07858ad68b806f02dca77d31ebc710cbd4f66f3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: 'feat: expand verify-release to macOS and Windows'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added
-  Windows ARM64 (win32-arm64) native binary support]]'
+- '[[Changes/OpenCode/2026-02-16-2-mobile-and-desktop-changes-in-v1-2-6|2 Mobile and
+  Desktop changes in v1.2.6]]'
 - '[[Changes/Codex CLI/2026-02-17-2-mobile-and-desktop-changes-in-rust-v0-102-0|2
   Mobile and Desktop changes in rust-v0.102.0]]'
 - '[[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2

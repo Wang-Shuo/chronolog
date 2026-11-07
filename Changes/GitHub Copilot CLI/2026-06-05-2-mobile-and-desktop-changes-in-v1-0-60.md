@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4a9ea6cb6a8176866fe823e18fdb36ea20f14c2f532d1b1c157d4bf3fbea5fd
+machine_hash: 646b6d31ccd1e26c71b1e017ba888e1345b46273ed7437888366316f219ed569
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Mobile and Desktop changes in v1.0.60
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled
-  ripgrep: Local shell runs use the bundled platform rg binary without…]]'
 - '[[Changes/Ollama/2026-06-04-ollama-launch-hermes-desktop-now-launches-hermes-desktop-and-can-skip-rebuilding|ollama
   launch hermes-desktop now launches Hermes Desktop and can skip rebuilding…]]'
+- '[[Changes/Suno/2026-06-04-two-new-ios-updates-for-more-streamlined-creation|Two
+  new iOS updates for more streamlined creation]]'
 - '[[Changes/Windsurf/2026-06-04-added-a-new-command-for-devin-desktop-to-rerun-the-migration-from-windsurf-this|Added
   a new command for Devin Desktop to rerun the migration from Windsurf]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
@@ -95,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-04 · Windsurf · [[Changes/Windsurf/2026-06-04-added-a-new-command-for-devin-desktop-to-rerun-the-migration-from-windsurf-this|Added a new command for Devin Desktop to rerun the migration from Windsurf]]
-- Later: 2026-06-06 · Windsurf · [[Changes/Windsurf/2026-06-06-hardened-migration-from-windsurf-on-windows-to-preserve-shortcut-icon|Hardened migration from Windsurf on Windows to preserve shortcut icon]]
+- Later: 2026-06-05 · OpenCode · [[Changes/OpenCode/2026-06-05-3-mobile-and-desktop-changes-in-v1-16-2|3 Mobile and Desktop changes in v1.16.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fcf25b996cccc13e4b14feb721fd5f352a5f7fcfd142d78cc0bd86dc720397d1
+machine_hash: 135fbad54760d99d46678b61fe0624b6fee836e9eddccbe04aa1548357fc54f5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-2-developer-workflow-changes-in-v1-0-12|2
-  Developer Workflow changes in v1.0.12]]'
 - '[[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added
   X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]'
 - '[[Changes/Open WebUI/2026-03-27-5-developer-workflow-changes-in-v0-8-12|5 Developer
   Workflow changes in v0.8.12]]'
+- '[[Changes/OpenCode/2026-03-29-10-developer-workflow-changes-in-v1-3-6-2|10 Developer
+  Workflow changes in v1.3.6 + 2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,8 +87,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-27 · Open WebUI · [[Changes/Open WebUI/2026-03-27-5-developer-workflow-changes-in-v0-8-12|5 Developer Workflow changes in v0.8.12]]
-- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-3-developer-workflow-changes-in-rust-v0-118-0|3 Developer Workflow changes in rust-v0.118.0]]
+- Earlier: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-10-developer-workflow-changes-in-v1-3-6-2|10 Developer Workflow changes in v1.3.6 + 2]]
+- Later: 2026-03-30 · OpenCode · [[Changes/OpenCode/2026-03-30-2-developer-workflow-changes-in-v1-3-9-1|2 Developer Workflow changes in v1.3.9 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

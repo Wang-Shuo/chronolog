@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2f2fb0084e34d9008161e300b413a28f46b30e94ae95a9c949a614298962dbe
+machine_hash: 2e2e80a68505af6637680184626c6e283c2f2cfbd02c579a39f390f21397a88d
 product: ollama
 product_name: Ollama
 record:
@@ -45,11 +45,10 @@ record:
   title: 2 Model Support changes in v0.16.2
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring
-  GPT-4o and other legacy models]]'
-- '[[Changes/Cline/2026-02-13-ui-ux-fixes-with-minimax-model-family|UI/UX fixes with
-  minimax model family]]'
+- '[[Changes/OpenCode/2026-02-13-desktop-toggle-all-provider-models-in-settings|Desktop
+  Toggle all provider models in settings]]'
 - '[[Changes/Replit/2026-02-13-claude-opus-4-5-support|Claude Opus 4.5 support]]'
+- '[[Changes/Midjourney/2026-02-14-please-note|Please Note]]'
 source_release: '[[Releases/Ollama/ollama-2026-02-14-v0-16-2-github-286340733-0eaa2d36|ollama-2026-02-14-v0-16-2-github-286340733-0eaa2d36]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +79,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.16.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-13 · Replit · [[Changes/Replit/2026-02-13-claude-opus-4-5-support|Claude Opus 4.5 support]]
+- Earlier: 2026-02-14 · Midjourney · [[Changes/Midjourney/2026-02-14-please-note|Please Note]]
 - Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-6-model-support-changes-in-v0-8-1|6 Model Support changes in v0.8.1]]
 <!-- chronolog:end -->
 

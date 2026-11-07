@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3dde95d320dc0c7ed52e95fd1b526b468823d152f61f6705ee6047916c2539c3
+machine_hash: cdb6978a55f5f599ede9e953c1d53615597af97c79907becde295389a9072607
 product: dify
 product_name: Dify
 record:
@@ -45,12 +45,11 @@ record:
   title: '> If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-05-02-youtube-rag-pipeline-introduces-dedicated-rag-pipeline-for-youtube-videos-enabli|\U0001F4F9
-  Youtube RAG Pipeline]]"
-- '[[Changes/Dify/2024-09-20-feat-add-hunyuan-vision-by-muzea-in-https-github-com-langgenius-dify-pull-8529|feat:
-  add hunyuan-vision]]'
+- '[[Changes/Runway/2024-09-26-iterate-faster-than-ever-before-with-video-to-video-in-gen-3-alpha-turbo|Video
+  to Video in Gen-3 Alpha Turbo]]'
 - '[[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision
   and prompt caching fixes]]'
+- '[[Changes/Suno/2024-10-10-tips-for-effective-use|Tips for Effective Use]]'
 source_release: '[[Releases/Dify/dify-2024-10-21-0-10-0-github-180976661-70c09171|dify-2024-10-21-0-10-0-github-180976661-70c09171]]'
 source_type: github_releases
 theme: multimodal
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-09-30 · OpenHands · [[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision and prompt caching fixes]]
+- Earlier: 2024-10-10 · Suno · [[Changes/Suno/2024-10-10-tips-for-effective-use|Tips for Effective Use]]
 - Later: 2024-10-21 · Ollama · [[Changes/Ollama/2024-10-21-3-multimodal-input-changes-in-v0-4-0|3 Multimodal Input changes in v0.4.0]]
 <!-- chronolog:end -->
 

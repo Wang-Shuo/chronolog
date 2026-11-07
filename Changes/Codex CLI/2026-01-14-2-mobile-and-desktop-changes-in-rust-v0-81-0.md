@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c9751cc9e49d93682e5e9aefb788c2d117f9d3359ba012c28fce3d44c574a71
+machine_hash: 6e400465490bd5a5e192d4cea25d420466c8ab195b0038ade3f7422ab576feea
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.81.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-01-09-users-on-windows-now-see-correctly-preserved-line-breaks-when-using-the-clipboar|\U0001F4CB
-  Users on Windows now see correctly preserved line breaks when using…]]"
-- '[[Changes/Claude/2026-01-12-health-and-fitness-data-on-claude-mobile|Health and
-  fitness data on Claude Mobile]]'
-- '[[Changes/Claude/2026-01-12-cowork-research-preview-on-claude-desktop-macos-only-for-max-plans|Cowork
-  research preview on Claude Desktop (macOS only) for Max plans]]'
+- '[[Changes/OpenCode/2026-01-13-3-mobile-and-desktop-changes-in-v1-1-17|3 Mobile
+  and Desktop changes in v1.1.17]]'
+- '[[Changes/OpenCode/2026-01-13-3-mobile-and-desktop-changes-in-v1-1-16|3 Mobile
+  and Desktop changes in v1.1.16]]'
+- '[[Changes/OpenCode/2026-01-13-2-mobile-and-desktop-changes-in-v1-1-18|2 Mobile
+  and Desktop changes in v1.1.18]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40|codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -89,8 +89,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.81.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-12 · Claude · [[Changes/Claude/2026-01-12-cowork-research-preview-on-claude-desktop-macos-only-for-max-plans|Cowork research preview on Claude Desktop (macOS only) for Max plans]]
-- Later: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-reduce-flaky-rust-release-pipelines-notably-on-windows-by-increasing-the-release|Reduce flaky Rust release pipelines (notably on Windows) by increasing the release…]]
+- Earlier: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-2-mobile-and-desktop-changes-in-v1-1-18|2 Mobile and Desktop changes in v1.1.18]]
+- Later: 2026-01-14 · OpenCode · [[Changes/OpenCode/2026-01-14-2-mobile-and-desktop-changes-in-v1-1-19|2 Mobile and Desktop changes in v1.1.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

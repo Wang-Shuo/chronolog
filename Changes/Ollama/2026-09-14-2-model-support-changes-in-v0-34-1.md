@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28131e3653fb0ae182193c14e425c5bb3db012b4b5d25b8606ed61f5883f9acf
+machine_hash: 7e1ff319e52266f24301f6e8cefa2b9044e91908c3b149fb4a4346d968689711
 product: ollama
 product_name: Ollama
 record:
@@ -83,7 +83,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.34.1
 ## Nearby in Model Support
 
 - Earlier: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-python-sdk|Python SDK]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed /bug and /feedback reports to include only model-behavior params…]]
+- Later: 2026-09-14 · OpenCode · [[Changes/OpenCode/2026-09-14-request-summarized-adaptive-thinking-for-github-copilot-models|Request summarized adaptive thinking for GitHub Copilot models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

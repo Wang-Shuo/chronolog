@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: fc7ecf04e4faf326aad77c2431d56bd3df5507b0fb30a3212213f93432ad92e2
+machine_hash: 3d97e65873f27cda7cfee035062e6d8650fb91c76c7d1345ef63165ff3f4571e
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-47984-add-multi-agent-spawn-latency-and-failure-metrics-owenlin0|♯47984 Add multi-agent spawn latency and failure metrics @owenlin0]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-3-reliability-and-performance-changes-in-v2-1-287|3 Reliability and Performance changes in v2.1.287]]
+- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-administrators-can-opt-into-heap-snapshots-to-investigate-memory-growth-a-snapsh|Administrators can opt into heap snapshots to investigate memory growth]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

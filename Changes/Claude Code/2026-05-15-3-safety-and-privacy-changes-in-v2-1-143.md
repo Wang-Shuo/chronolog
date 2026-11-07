@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc388a8700c88435e49207b609da32aed8fe508568ecf225eb5bf70c1c0960c0
+machine_hash: 9bf9b7aa0f90a26f2a906af15fadc635a0e872a920b33ec1113d97761bb4fc03
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Safety and Privacy changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-5-safety-and-privacy-changes-in-v2-1-141|5 Safety
-  and Privacy changes in v2.1.141]]'
 - '[[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment
   governance and security controls]]'
+- '[[Changes/OpenCode/2026-05-13-core-preserve-layered-permission-rule-order-in-config-merges|Core
+  Preserve layered permission rule order in config merges]]'
 - '[[Changes/Claude Code/2026-05-14-added-new-claude-agents-flags-add-dir-settings-mcp-config-plugin-dir-permission|Added
   new claude agents flags]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'

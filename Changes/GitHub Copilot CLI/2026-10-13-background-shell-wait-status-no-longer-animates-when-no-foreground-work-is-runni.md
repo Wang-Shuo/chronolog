@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8dacd15e947625adf9274fc8458fbe23269af70d2e5c40660436674412b27186
+machine_hash: cef3d8ed62b9757a836e7f0cbb9c2babb2ca60e002c8e91506d2a46df827a6b6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
     running
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-12-interactive-sessions-in-git-repositories-reach-the-input-prompt-sooner|Interactive
-  sessions in git repositories reach the input prompt sooner]]'
 - '[[Changes/Ollama/2026-10-12-decision-models-can-now-be-used-directly-from-the-terminal-with-ollama-run-ask-y|Decision
   models can now be used directly from the terminal with ollama run]]'
+- '[[Changes/OpenClaw/2026-10-12-2-developer-workflow-changes-in-v2026-10-2|2 Developer
+  Workflow changes in v2026.10.2]]'
 - '[[Changes/Cline/2026-10-13-deleting-a-slash-command-from-the-input-keeps-the-spacing-of-the-text-around-it|Deleting
   a slash command from the input keeps the spacing of the text around it]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-deleting-a-slash-command-from-the-input-keeps-the-spacing-of-the-text-around-it|Deleting a slash command from the input keeps the spacing of the text around it]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added a dir prop on a mod's Text for right-to-left text]]
+- Later: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-5-developer-workflow-changes-in-v2026-10-3|5 Developer Workflow changes in v2026.10.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

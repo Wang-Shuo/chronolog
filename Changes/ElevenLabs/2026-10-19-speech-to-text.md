@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 704657231a6c710d5e1f0283c8ea8ececad3a67d27bcaec4240a9f0c30378cb2
+machine_hash: 13279c8535b98b24459bf6b096be8c8a2ff105469d486ee98606ef34038b92e4
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -46,12 +46,12 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-15-we-re-rolling-out-gpt-live-1-1-and-gpt-live-1-1-quip-a-mini-version-of-the-model|ChatGPT
-  rolls out GPT-Live-1.1 and GPT-Live-1.1 Quip, a mini version of the model…]]'
-- '[[Changes/Codex CLI/2026-10-15-4-voice-and-audio-changes-in-rust-v0-163-0|4 Voice
-  and Audio changes in rust-v0.163.0]]'
+- '[[Changes/Runway/2026-10-15-mirelo-sfx-2-0-is-now-available-in-runway-mcp-give-your-agent-a-clip-and-describ|Mirelo
+  SFX 2.0]]'
 - '[[Changes/Lovable/2026-10-16-gpt-transcribe-for-your-app-s-speech-to-text-features|GPT
   Transcribe for your app''s speech-to-text features]]'
+- '[[Changes/OpenClaw/2026-10-16-discord-voice-changes-you-can-change-voices-and-continue-asking-for-agent-checks|Discord
+  voice changes]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-10-19-2026-10-19-dd219c14|elevenlabs-2026-10-19-2026-10-19-dd219c14]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-gpt-transcribe-for-your-app-s-speech-to-text-features|GPT Transcribe for your app's speech-to-text features]]
+- Earlier: 2026-10-16 · OpenClaw · [[Changes/OpenClaw/2026-10-16-discord-voice-changes-you-can-change-voices-and-continue-asking-for-agent-checks|Discord voice changes]]
 - Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-voice-dictation-no-longer-inserts-language-markers-like-en-us-into-transcript-te|Voice dictation no longer inserts language markers like en-US into transcript text]]
 <!-- chronolog:end -->
 

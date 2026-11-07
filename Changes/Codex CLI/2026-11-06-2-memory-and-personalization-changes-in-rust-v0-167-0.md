@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2459dd9a051cbc11929a2b8f5ec81d141c778d202ffae78607a6c560b6b1f7c
+machine_hash: 638968575c194c535a922d2a66d86d17f86d41d7f5d2758e0a6fde64517a9d31
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Memory and Personalization changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-30-account-switching-is-rolling-out-to-the-chatgpt-ios-and-android-apps-you-can-sta|Account
-  switching on iOS and Android]]'
-- '[[Changes/Lovable/2026-10-30-lovable-remembers-what-you-tell-it|Lovable remembers
-  what you tell it]]'
+- '[[Changes/OpenClaw/2026-11-03-15-memory-and-personalization-changes-in-v2026-10-10|15
+  Memory and Personalization changes in v2026.10.10]]'
 - '[[Changes/Lovable/2026-11-04-dreaming-lovable-keeps-its-memory-up-to-date|Dreaming:
   Lovable keeps its memory up to date]]'
+- '[[Changes/OpenClaw/2026-11-05-5-memory-and-personalization-changes-in-v2026-11-1|5
+  Memory and Personalization changes in v2026.11.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: memory
@@ -93,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-11-04 · Lovable · [[Changes/Lovable/2026-11-04-dreaming-lovable-keeps-its-memory-up-to-date|Dreaming: Lovable keeps its memory up to date]]
+- Earlier: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-5-memory-and-personalization-changes-in-v2026-11-1|5 Memory and Personalization changes in v2026.11.1]]
 - Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-10-memory-and-personalization-changes-in-v1-0-106|10 Memory and Personalization changes in v1.0.106]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f4b586eec73d837228c06e118d73146c67c0ebb407feab516969ff163fd80b9c
+machine_hash: 5db1cd11ebdca311a8c1bde0b8c3cbb32a3b16c800bcf3f815410c63133f4f73
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Editor Experience changes in v2.1.6
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-3-editor-experience-changes-in-v0-7-0|3 Editor
-  Experience changes in v0.7.0]]'
 - '[[Changes/Open WebUI/2026-01-10-2-editor-experience-changes-in-v0-7-2|2 Editor
   Experience changes in v0.7.2]]'
+- '[[Changes/OpenCode/2026-01-11-desktop-make-mouse-hover-and-click-work-on-prompt-input-autocomplete|Desktop
+  Make mouse hover and click work on prompt input autocomplete]]'
 - '[[Changes/v0/2026-01-12-blocked-sending-new-messages-when-pending-edits-exist|Blocked
   sending new messages when pending edits exist]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'

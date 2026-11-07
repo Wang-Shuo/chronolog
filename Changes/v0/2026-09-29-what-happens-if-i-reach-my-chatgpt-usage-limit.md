@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 5d3ee529e05301f63df7e6d7f6b2344e6499de6b8322676be3fd61cf1b490b0b
+machine_hash: 0ddbfd7f79c2840e8b684a805b59224abc065860dfc9caee5b4e64c08128674b
 product: v0
 product_name: v0
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude Tag Added direct messages with Claude for members on an Enterprise plan…]]
-- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49079-update-and-centralize-tui-subscription-labels-etraut-openai|♯49079 Update and centralize TUI subscription labels @etraut-openai]]
+- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-3-pricing-model-changes-in-v2026-9-7|3 Pricing Model changes in v2026.9.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

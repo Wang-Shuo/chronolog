@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 72a0bf38ce8a3a82f8dadad6bf38587936bcbe7c909115f95e162e635d2121cc
+machine_hash: 290a3047dc52bc6f9e9c59e9ab93459f906f8aa0e2fc14a85983de556cf19a14
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     breaking…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-context-window-changes-in-v1-0-60|2 Context
-  Window changes in v1.0.60]]'
+- '[[Changes/OpenCode/2026-06-05-core-sessions-now-persist-system-context-updates-during-long-running-conversatio|Core
+  Sessions now persist system context updates during long-running conversations]]'
 - '[[Changes/Windsurf/2026-06-06-improved-handling-of-file-context-in-devin-local-agent|Improved
   handling of file context in Devin Local agent]]'
 - '[[Changes/Claude Code/2026-06-08-the-claude-md-is-too-long-warning-threshold-now-scales-with-the-model-s-context|The

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1445cfae6a4fcc28ea47fa437251471ea3a314cdca8f6a869b44c1964bce3972
+machine_hash: 7f1f3d1c84f44be89ca8f40a3ff80ee42ed17ec74734390c454c2ab383406943
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Reliability and Performance changes in rust-v0.65.0
   type: change
 related_changes:
-- '[[Changes/Dify/2025-11-26-4-reliability-and-performance-changes-in-1-10-1|4 Reliability
-  and Performance changes in 1.10.1]]'
+- '[[Changes/Google Antigravity/2025-11-26-stability-and-bug-fixes|Stability and Bug
+  Fixes]]'
 - '[[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat:
   update Cerebras models and speed]]'
 - '[[Changes/Open WebUI/2025-12-02-4-reliability-and-performance-changes-in-v0-6-41|4

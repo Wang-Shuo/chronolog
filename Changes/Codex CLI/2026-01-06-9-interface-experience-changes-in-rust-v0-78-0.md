@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef7247f2ed5288a937ad2aaa10ca46b92d16e3f936fef1d26f5069fc82f87cc3
+machine_hash: 245c00d4cf7dd387c3230710187f5106a4bcc2a0751ac35f775aee51ec05dd89
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,10 +57,10 @@ record:
   title: 9 Interface Experience changes in rust-v0.78.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-22-model-picker-favorites-ordering-star-toggle-and-keyboard-navigation-for-openrout|Model
-  picker favorites ordering, star toggle, and keyboard navigation for OpenRouter…]]'
-- '[[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience
-  changes in 2.3]]'
+- '[[Changes/OpenCode/2026-01-05-2-interface-experience-changes-in-v1-1-3|2 Interface
+  Experience changes in v1.1.3]]'
+- '[[Changes/OpenCode/2026-01-05-2-interface-experience-changes-in-v1-1-2|2 Interface
+  Experience changes in v1.1.2]]'
 - '[[Changes/Cline/2026-01-06-show-notification-instead-of-opening-sidebar-on-update|Show
   notification instead of opening sidebar on update]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'
@@ -119,7 +119,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.78.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-06 · Cline · [[Changes/Cline/2026-01-06-show-notification-instead-of-opening-sidebar-on-update|Show notification instead of opening sidebar on update]]
-- Later: 2026-01-07 · ChatGPT · [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]]
+- Later: 2026-01-06 · OpenCode · [[Changes/OpenCode/2026-01-06-5-interface-experience-changes-in-v1-1-4|5 Interface Experience changes in v1.1.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

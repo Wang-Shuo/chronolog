@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05398c2943ad7556b3a97275b226b6573914481ca299a35107e29ac919ea8be4
+machine_hash: 869fced1059d042ec746bc1bc6f65796925ae1368a41e82f4a9ef6a2d1b8818a
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: Updated view ID for tab panels for better internal caching
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer
-  (beta)]]'
 - '[[Changes/Cursor/2024-07-23-vs-code-1-91-1-cursor-is-now-based-on-vs-code-1-91-1|VS
   Code 1.91.1: Cursor is now based on VS Code 1.91.1]]'
+- '[[Changes/Gamma/2024-07-23-we-ve-added-16-new-themes-to-gamma-with-a-focus-on-professional-designs-that-kee|Gamma
+  adds 16 new themes to Gamma, with a focus on professional designs that keep…]]'
 - '[[Changes/OpenHands/2024-07-27-validate-to-replace-in-edit-file-by-replace-agentskill-by-li-boxuan-in-https-git|Validate
   to_replace in edit_file_by_replace AgentSkill]]'
 source_release: '[[Releases/Cline/cline-2024-07-28-v1-0-51-github-167526011-7c0dc736|cline-2024-07-28-v1-0-51-github-167526011-7c0dc736]]'

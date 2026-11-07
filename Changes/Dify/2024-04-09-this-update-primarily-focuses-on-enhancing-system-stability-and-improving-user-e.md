@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0afc75f2dac016ba06276595299167c85126dc6b4b659b09c5278aea940385d
+machine_hash: cb970d1858e8908afa533181f2f377d92f1b87513347f868276d3cf8ac121590
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
     user experience
   type: change
 related_changes:
-- '[[Changes/Dify/2024-02-13-pref-optimize-add-hit-count-query-performance-when-dataset-hit-by-takatost-in-ht|pref:
-  optimize add hit count query performance when dataset hit]]'
-- '[[Changes/Ollama/2024-02-22-performance-improvements-up-to-2x-when-running-gemma-https-ollama-com-library-ge|Performance
-  improvements (up to 2x) when running…]]'
 - '[[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster
   Copilot++: We''ve made Copilot++ ~2x faster!]]'
+- '[[Changes/Midjourney/2024-03-21-sv-3-a-new-version-of-sv1-with-better-performance-and-more-vibey-than-sv2|--sv
+  3 A new version of sv1 with better performance and more ''vibey'' than sv2]]'
+- '[[Changes/Midjourney/2024-03-21-sv-4-a-new-version-of-sv2-that-with-improved-performance-this-is-default|--sv
+  4 A new version of sv2 that with improved performance (this is default)]]'
 source_release: '[[Releases/Dify/dify-2024-04-09-0-6-1-github-150402892-7b8c560b|dify-2024-04-09-0-6-1-github-150402892-7b8c560b]]'
 source_type: github_releases
 theme: reliability-performance
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]]
+- Earlier: 2024-03-21 · Midjourney · [[Changes/Midjourney/2024-03-21-sv-4-a-new-version-of-sv2-that-with-improved-performance-this-is-default|--sv 4 A new version of sv2 that with improved performance (this is default)]]
 - Later: 2024-04-10 · Ollama · [[Changes/Ollama/2024-04-10-3-reliability-and-performance-changes-in-v0-1-32|3 Reliability and Performance changes in v0.1.32]]
 <!-- chronolog:end -->
 

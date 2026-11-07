@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: dc35bfbe5aed723cbb0e0c876ba689fbd3c6e43283d394e38242dcba42f73b05
+machine_hash: 809934a15c7cecb9e4ebf4e6a5cb9d245777e99319e55a2ba31c2c748d30569c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-usage-now-shows-the-usage-credits-spend-row-for-team-and-enterprise-members-and|/usage now shows the usage-credits spend row for Team and Enterprise members…]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-persistent-retry-mode-claude-code-retry-watchdog-now-fails-immediately-on-organi|Persistent retry mode (CLAUDE_CODE_RETRY_WATCHDOG) now fails immediately…]]
+- Later: 2026-08-20 · OpenCode · [[Changes/OpenCode/2026-08-20-2-pricing-model-changes-in-v1-18-19|2 Pricing Model changes in v1.18.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

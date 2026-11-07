@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 515e79ef398625d01d96877a02b7acb7f798edbf6f5302ab24872e76f51ec8ce
+machine_hash: 904ff69f66537543d51523d5c3829faa16b52dfd590f58d95b5b0d11205fbe73
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,10 +56,10 @@ record:
   title: 9 Developer Workflow changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode
-  Added /usage command to display current plan usage]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-20-2-developer-workflow-changes-in-v0-0-388|2
-  Developer Workflow changes in v0.0.388]]'
+- '[[Changes/OpenCode/2026-01-20-2-developer-workflow-changes-in-v1-1-28|2 Developer
+  Workflow changes in v1.1.28]]'
+- '[[Changes/OpenCode/2026-01-20-terminal-add-space-toggle-hint-to-tool-selection-prompt|Terminal
+  Add space toggle hint to tool selection prompt]]'
 - '[[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|Added
   deprecation notification for npm installations - run claude install or see…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'

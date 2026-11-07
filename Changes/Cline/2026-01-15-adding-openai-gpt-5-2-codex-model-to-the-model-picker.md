@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d0e8d63481d692ef80fc3701658364d06d82fc61ed77cb683d81aa1ce63358cc
+machine_hash: b9e42f825f455ea035d0c978cac1d5b48f9893d7ffa8e59d1b5674190b5cef78
 product: cline
 product_name: Cline
 record:
@@ -54,8 +54,8 @@ record:
   title: Adding OpenAI gpt-5.2-codex model to the model picker
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-14-2-model-support-changes-in-v0-14-1|2 Model Support
-  changes in v0.14.1]]'
+- '[[Changes/OpenCode/2026-01-14-2-model-support-changes-in-v1-1-19|2 Model Support
+  changes in v1.1.19]]'
 - '[[Changes/Windsurf/2026-01-14-1-13-8-gpt-5-2-codex-model-changelog-banner|1.13.8
   GPT-5.2 Codex model changelog banner]]'
 - '[[Changes/Windsurf/2026-01-14-gpt-5-2-codex|GPT-5.2-Codex]]'

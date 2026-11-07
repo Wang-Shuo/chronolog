@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eccf4f8ac3e2f30bcaf8adc24738cf4b71d833f641e4bd71c42f834df5122bc9
+machine_hash: 02300a33876d96eb1778989b758a843a7f31feabdb0c1f9d664bf9f2dbd272ee
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Git commands no longer flash a console window on Windows
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater
-  on Windows now stops retrying within a session once claude.exe…]]'
-- '[[Changes/Codex CLI/2026-06-08-4-mobile-and-desktop-changes-in-rust-v0-138-0|4
-  Mobile and Desktop changes in rust-v0.138.0]]'
-- '[[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable
-  mouse tracking on Windows consoles that don''t fully support it]]'
+- '[[Changes/OpenCode/2026-06-10-2-mobile-and-desktop-changes-in-v1-17-1|2 Mobile
+  and Desktop changes in v1.17.1]]'
+- '[[Changes/OpenCode/2026-06-10-desktop-restore-linux-launcher-and-icon-identity-so-pinned-apps-keep-opening-cor|Desktop
+  Restore Linux launcher and icon identity so pinned apps keep opening correctly]]'
+- '[[Changes/OpenCode/2026-06-10-8-mobile-and-desktop-changes-in-v1-17-0|8 Mobile
+  and Desktop changes in v1.17.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable mouse tracking on Windows consoles that don't fully support it]]
-- Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-clarified-contributor-guidance-around-keeping-crate-apis-narrow-and-supporting-l|Clarified contributor guidance around keeping crate APIs narrow and supporting…]]
+- Earlier: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-8-mobile-and-desktop-changes-in-v1-17-0|8 Mobile and Desktop changes in v1.17.0]]
+- Later: 2026-06-13 · OpenCode · [[Changes/OpenCode/2026-06-13-3-mobile-and-desktop-changes-in-v1-17-6-1|3 Mobile and Desktop changes in v1.17.6 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

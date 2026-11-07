@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ed90ec887bb1eca9ce124ea0f9edb2847590971c001b8465900053ac0eaef50
+machine_hash: ce5fead80b39c214978161c28c8d32b56380c5bf6d82af60002f2bc307988f59
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Developer Workflow changes in rust-v0.132.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-18-12-developer-workflow-changes-in-rust-v0-131-0|12
-  Developer Workflow changes in rust-v0.131.0]]'
+- '[[Changes/OpenCode/2026-05-18-5-developer-workflow-changes-in-v1-15-5|5 Developer
+  Workflow changes in v1.15.5]]'
 - '[[Changes/Claude Code/2026-05-19-3-developer-workflow-changes-in-v2-1-144|3 Developer
   Workflow changes in v2.1.144]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-2-developer-workflow-changes-in-v1-0-49|2

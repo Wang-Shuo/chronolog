@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe6d33e344cbd40d6274d4654950ae4289c04a6f3d16cb6eb6f3d59e8cab550a
+machine_hash: 69eab0f57e25bb456a0437addb66443c3c0e408206b8f6160a1a61c2ec023b6e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-12-27 · Windsurf · [[Changes/Windsurf/2025-12-27-tab-fixes-and-improvements|Tab fixes and improvements]]
-- Later: 2025-12-30 · OpenHands · [[Changes/OpenHands/2025-12-30-added-refresh-button-to-the-changes-tab-by-hieptl-in-https-github-com-openhands|Added refresh button to the Changes tab]]
+- Later: 2025-12-30 · OpenCode · [[Changes/OpenCode/2025-12-30-core-upgrade-opentui-to-v0-1-67-fixing-split-diff-alignment-and-markdown-jitter|Core Upgrade OpenTUI to v0.1.67, fixing split diff alignment and markdown jitter]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

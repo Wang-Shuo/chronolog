@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f183742fc87034a02dc9f78cfb20a32d6eb84101e24789dccc6e16973807127e
+machine_hash: 93e2dffc32712bb765fde0691f91f9d2366dfeb179b4971044f22b5eedc594bf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,12 +62,12 @@ record:
   title: 12 Context Window changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-17-16-context-window-changes-in-1-16-0|16 Context Window
-  changes in 1.16.0]]'
 - '[[Changes/Claude Code/2026-07-20-context-now-shows-an-explicit-warning-when-the-conversation-exceeds-the-context|/context
   now shows an explicit warning when the conversation exceeds the context…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-2-context-window-changes-in-v1-0-72|2 Context
   Window changes in v1.0.72]]'
+- '[[Changes/OpenCode/2026-07-20-desktop-rewrite-the-v2-prompt-input-for-more-reliable-command-context-shell-atta|Desktop
+  Rewrite the v2 prompt input for more reliable command, context, shell…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
 source_type: github_releases
 theme: context-window
@@ -137,7 +137,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-2-context-window-changes-in-v1-0-72|2 Context Window changes in v1.0.72]]
+- Earlier: 2026-07-20 · OpenCode · [[Changes/OpenCode/2026-07-20-desktop-rewrite-the-v2-prompt-input-for-more-reliable-command-context-shell-atta|Desktop Rewrite the v2 prompt input for more reliable command, context, shell…]]
 - Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-skills-with-context-fork-to-run-in-the-background-by-default-opt-out-per|Changed skills with context: fork to run in the background by default]]
 <!-- chronolog:end -->
 

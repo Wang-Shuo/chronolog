@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 85556f25d338354d40e66775fc1ee615acde1f812f5b7a068ea7bea223d1aef7
+machine_hash: 3917add14c592a1464f210f88bf0e993db5baff8e47347d341bea5e02fa10a10
 product: replit
 product_name: Replit
 record:
@@ -49,11 +49,10 @@ record:
   title: Assistant performance improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]]'
-- '[[Changes/Dify/2025-03-24-2-reliability-and-performance-changes-in-1-1-3|2 Reliability
-  and Performance changes in 1.1.3]]'
 - '[[Changes/Open WebUI/2025-04-01-3-reliability-and-performance-changes-in-v0-6-0|3
   Reliability and Performance changes in v0.6.0]]'
+- '[[Changes/Midjourney/2025-04-04-v7-launches-in-two-modes|V7 launches in two modes]]'
+- '[[Changes/Midjourney/2025-04-04-other-features|Other features]]'
 source_release: '[[Releases/Replit/replit-2025-04-04-2025-04-04-fa12a476|replit-2025-04-04-2025-04-04-fa12a476]]'
 source_type: replit_changelog
 theme: reliability-performance
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-3-reliability-and-performance-changes-in-v0-6-0|3 Reliability and Performance changes in v0.6.0]]
+- Earlier: 2025-04-04 · Midjourney · [[Changes/Midjourney/2025-04-04-other-features|Other features]]
 - Later: 2025-04-05 · Open WebUI · [[Changes/Open WebUI/2025-04-05-2-reliability-and-performance-changes-in-v0-6-1|2 Reliability and Performance changes in v0.6.1]]
 <!-- chronolog:end -->
 

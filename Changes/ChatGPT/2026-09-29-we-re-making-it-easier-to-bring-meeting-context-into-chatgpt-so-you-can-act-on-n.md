@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e76b6ea5e88c8a6d8b8a5962fbb98b33c16d6112b13bc9c76c249e520390c49e
+machine_hash: d512069d1e69d2bcac2a36a42218b13324cdcd8a220e75a6399765fd9f4f3af0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,8 +63,8 @@ record:
     on next…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-28-4-apps-and-integrations-changes-in-v1-0-89|4
-  Apps and Integrations changes in v1.0.89]]'
+- '[[Changes/OpenCode/2026-09-28-core-mcp-browser-launch-failures-are-now-reported-when-the-launcher-exits-immedi|Core
+  MCP browser launch failures are now reported when the launcher exits immediately]]'
 - '[[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This
   is a limited preview with participating integrations]]'
 - '[[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors-d0bd7e|Work

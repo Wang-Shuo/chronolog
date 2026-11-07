@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa7c715aa9d8d6d69ffae284785eaedf40ba1b1e1ae2b1c8722864349520e030
+machine_hash: dc1b0bc5a67953fb2963a5ce0bcc597a78c4b3b49df91a3603c6b81d4fbe7805
 product: ollama
 product_name: Ollama
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed the dangerous rm and rmdir prompt in bypass permissions mode…]]
-- Later: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
+- Later: 2026-10-22 · OpenClaw · [[Changes/OpenClaw/2026-10-22-2-mobile-and-desktop-changes-in-v2026-10-6|2 Mobile and Desktop changes in v2026.10.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

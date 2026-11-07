@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46cb47c6df00a07e42717d4087443fd8c1664a5eb3a4fb2be823ca7bd09b29b0
+machine_hash: f729ed271c9d6a9dad7a19810395088182225474c48bad9ab41aa4845ad1f038
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,10 @@ record:
     Chat…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-ensured-macos-package-installs-expose-the-code-mode-host-alongside-the-codex-exe|Ensured
-  macOS package installs expose the code-mode host alongside the codex executable]]'
-- '[[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search
-  across chats, projects, and files is now supercharged]]'
+- '[[Changes/OpenCode/2026-07-14-10-mobile-and-desktop-changes-in-v1-18-1-1|10 Mobile
+  and Desktop changes in v1.18.1 + 1]]'
+- '[[Changes/OpenCode/2026-07-15-3-mobile-and-desktop-changes-in-v1-18-2|3 Mobile
+  and Desktop changes in v1.18.2]]'
 - '[[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A
   clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad|chatgpt-2026-07-16-chatgpt-desktop-app-experience-updates-936a13ad]]'
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-14 · ChatGPT · [[Changes/ChatGPT/2026-07-14-we-ve-rolled-out-a-new-way-to-search-your-chats-projects-images-and-documents-in-4d2327|Search across chats, projects, and files is now supercharged]]
-- Later: 2026-07-17 · Windsurf · [[Changes/Windsurf/2026-07-17-devin-desktop|Devin Desktop]]
+- Earlier: 2026-07-15 · OpenCode · [[Changes/OpenCode/2026-07-15-3-mobile-and-desktop-changes-in-v1-18-2|3 Mobile and Desktop changes in v1.18.2]]
+- Later: 2026-07-16 · OpenCode · [[Changes/OpenCode/2026-07-16-3-mobile-and-desktop-changes-in-v1-18-3|3 Mobile and Desktop changes in v1.18.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

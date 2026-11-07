@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ee60753983eaac04b611bb741a51cdfcd3586af4a160a80b0f33a460691b3b6
+machine_hash: a1bff2482ad8f4173c4f7cb3210b0850796dd39a6fae63e7b73293cb6d51a2ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Added live file path autocomplete to bash mode (`!`)
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9
-  Editor Experience changes in v1.0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add
   a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]'
 - '[[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled
   jobs in Lovable Cloud]]'
+- '[[Changes/OpenCode/2026-06-24-desktop-kept-draft-prompt-state-per-tab|Desktop Kept
+  draft prompt state per tab]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-24 · Lovable · [[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled jobs in Lovable Cloud]]
+- Earlier: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-desktop-kept-draft-prompt-state-per-tab|Desktop Kept draft prompt state per tab]]
 - Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-3-editor-experience-changes-in-1-15-0|3 Editor Experience changes in 1.15.0]]
 <!-- chronolog:end -->
 

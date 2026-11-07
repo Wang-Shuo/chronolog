@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10d9fc1df8d6f3064a1ec25809dc9317f78147a41f71311be52e7c9e9e91c1bd
+machine_hash: a1646591dab69a125ee8f5e887fd0f86e80620e66aecf82e041b5f2f3bd547d2
 product: ollama
 product_name: Ollama
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-27-managed-model-fusion-now-starts-sessions-on-auto-and-applies-fusiontier-settings|Managed model "fusion" now starts sessions on Auto and applies fusionTier settings]]
-- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings): use existing model-profile theme aliases]]
+- Later: 2026-10-27 · OpenClaw · [[Changes/OpenClaw/2026-10-27-6-model-support-changes-in-v2026-10-8|6 Model Support changes in v2026.10.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

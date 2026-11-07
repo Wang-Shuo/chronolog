@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e02ec2ad68127d265052528ee03fdcce2bce82c3f485e27bfe5769922ae7346a
+machine_hash: 0f86dd74d49989fa1b9f8e2c95034db3fc4e5ebf54f2aba30292be40d714237a
 product: v0
 product_name: v0
 record:
@@ -45,12 +45,12 @@ record:
     fails to render
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-07-28-feat-evals-add-eval-coverage-report-command-by-ved015-in-https-github-com-google|feat(evals):
-  add eval coverage report command]]'
 - '[[Changes/Codex CLI/2026-07-29-12-developer-workflow-changes-in-rust-v0-146-0|12
   Developer Workflow changes in rust-v0.146.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-developer-workflow-changes-in-v1-0-76|2
   Developer Workflow changes in v1.0.76]]'
+- '[[Changes/Google Antigravity/2026-07-31-2-developer-workflow-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
+  Developer Workflow changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 source_release: '[[Releases/v0/v0-2026-07-31-2026-07-31-9665255c|v0-2026-07-31-2026-07-31-9665255c]]'
 source_type: v0_changelog
 theme: developer-workflow
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-developer-workflow-changes-in-v1-0-76|2 Developer Workflow changes in v1.0.76]]
+- Earlier: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-2-developer-workflow-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2 Developer Workflow changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]
 - Later: 2026-08-02 · Cline · [[Changes/Cline/2026-08-02-2-developer-workflow-changes-in-v4-1-3|2 Developer Workflow changes in v4.1.3]]
 <!-- chronolog:end -->
 

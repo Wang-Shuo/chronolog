@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cbf724be0e3af3f295c8cd5bf45d049f71a33f2df8e490ba962fea079644dfe0
+machine_hash: 109b87ce60cbd7e6761ebaee8055ec0625de506d8598ac9672eed9d2c4131c4c
 product: ollama
 product_name: Ollama
 record:
@@ -45,11 +45,11 @@ record:
   title: Clef (27B) and Clef Flash (9B) are multimodal
   type: change
 related_changes:
-- '[[Changes/DeepSeek API/2026-09-10-deepseek-v4-1-flash-release|DeepSeek-V4.1-Flash
-  Release]]'
-- '[[Changes/Dify/2026-09-10-3-multimodal-input-changes-in-1-17-1|3 Multimodal Input
-  changes in 1.17.1]]'
 - '[[Changes/ElevenLabs/2026-09-14-music|Music]]'
+- '[[Changes/Runway/2026-09-17-convert-any-video-runway-made-or-not-to-25-30-48-60-120-or-59-94-fps-up-to-4k-an|Enhance
+  Frame Rate]]'
+- '[[Changes/OpenClaw/2026-09-19-the-browser-sidebar-gains-a-download-file-button-for-the-image-video-or-document|The
+  Browser sidebar gains a Download file button for the image, video, or document…]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-29-v0-35-1-github-399431834-a0bca098|ollama-2026-09-29-v0-35-1-github-399431834-a0bca098]]'
 source_type: github_releases
 theme: multimodal
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-music|Music]]
-- Later: 2026-10-12 · ElevenLabs · [[Changes/ElevenLabs/2026-10-12-music|Music]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-the-browser-sidebar-gains-a-download-file-button-for-the-image-video-or-document|The Browser sidebar gains a Download file button for the image, video, or document…]]
+- Later: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-4-multimodal-input-changes-in-v2026-9-7|4 Multimodal Input changes in v2026.9.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

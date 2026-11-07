@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 80d35c62932968ac2d488ee720aa64c7e8db7e5930700363c903887e5174115d
+machine_hash: e13b99d4a255079502b925688f056b08f6e39dd6cf4e7bb30d586f6f3542a939
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2024-01-05 · Dify · [[Changes/Dify/2024-01-05-feat-optimize-memory-invoke-error-output-by-takatost-in-https-github-com-langgen|feat: optimize memory & invoke error output]]
-- Later: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-compared-to-the-regular-workflow-app-type-chatflow-adds-chat-specific-features-s|Compared to the regular Workflow app type, Chatflow adds chat-specific features such…]]
+- Later: 2024-03-13 · Midjourney · [[Changes/Midjourney/2024-03-13-our-team-is-also-working-on-new-special-features-like-model-personalization-that|Our team is also working on new special features like model personalization…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

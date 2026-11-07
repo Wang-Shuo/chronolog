@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8d73c13b0c2160bd107817a875738c0c9f915d96070f1170f72b111bc3a1526
+machine_hash: 944deac74b151f099457de8bed8578572faf5bf4ed49f9bdc24a1d9ca9dccd23
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-01-sandboxed-commands-run-on-windows-versions-without-filesystem-enumeration-suppor|Sandboxed commands run on Windows versions without filesystem enumeration support…]]
-- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-sandboxed-commands-on-windows-write-temporary-files-to-the-granted-temp-director|Sandboxed commands on Windows write temporary files to the granted temp directory…]]
+- Later: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-2-mobile-and-desktop-changes-in-v2026-9-8|2 Mobile and Desktop changes in v2026.9.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

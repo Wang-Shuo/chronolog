@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6d4d97f0203aacbabdd227f649bdcbd6f242d6597d3726b4cd06decdabdb9bf2
+machine_hash: 3bec9c0badcb9a46f5f6f40aa888e09e8be27adf75e6d9e4aa661b120d741d1d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: Setting claude-sonnet-4.6 as the default model is now preserved correctly
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-2-model-support-changes-in-v1-0-4|2 Model
-  Support changes in v1.0.4]]'
-- '[[Changes/OpenHands/2026-03-11-added-support-for-the-following-models-claude-opus-4-6-glm-4-7-claude-sonnet-4-6|Added
-  support for the following models]]'
 - '[[Changes/Cline/2026-03-12-2-model-support-changes-in-v3-72-0|2 Model Support changes
   in v3.72.0]]'
+- '[[Changes/OpenCode/2026-03-12-support-non-openai-azure-models-that-use-completions-endpoints|Support
+  non-OpenAI Azure models that use completions endpoints]]'
+- '[[Changes/OpenCode/2026-03-12-core-fixed-chunk-timeout-when-processing-llm-stream|Core
+  Fixed chunk timeout when processing LLM stream]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6|github-copilot-cli-2026-03-13-v1-0-5-github-296606026-e9b6baf6]]'
 source_type: github_releases
 theme: model-support
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-12 · Cline · [[Changes/Cline/2026-03-12-2-model-support-changes-in-v3-72-0|2 Model Support changes in v3.72.0]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-effort-slash-command-to-set-model-effort-level|Added /effort slash command to set model effort level]]
+- Earlier: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-core-fixed-chunk-timeout-when-processing-llm-stream|Core Fixed chunk timeout when processing LLM stream]]
+- Later: 2026-03-13 · OpenCode · [[Changes/OpenCode/2026-03-13-desktop-model-selection-now-persists-by-session|Desktop Model selection now persists by session]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

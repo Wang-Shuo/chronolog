@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e0cf32b03c22cd9b3e1fab8cd7c2911f599bd8b990e3201598b9dea37b44093
+machine_hash: 4051c33aec616cc6d977ec423a21c3d2019c378240f3ad53ec145d181ef29803
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat(core): implement strict macOS sandboxing using Seatbelt allowlist'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-2-mobile-and-desktop-changes-in-v1-0-12|2
-  Mobile and Desktop changes in v1.0.12]]'
+- '[[Changes/OpenCode/2026-03-30-added-first-class-powershell-support-on-windows|Added
+  first-class PowerShell support on Windows]]'
 - '[[Changes/Codex CLI/2026-03-31-7-mobile-and-desktop-changes-in-rust-v0-118-0|7
   Mobile and Desktop changes in rust-v0.118.0]]'
 - '[[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell

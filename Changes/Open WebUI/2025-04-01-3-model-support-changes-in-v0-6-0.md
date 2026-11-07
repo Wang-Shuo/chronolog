@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 609566aab5a7135fce8e9f8f9203a27645fcacd0e35262a366c8bb1b652cea5c
+machine_hash: 436e473ac05edcd2ddc1a278758ca0020cf4717b1b94b3c4414e683d1c0789ad
 product: open-webui
 product_name: Open WebUI
 record:
@@ -51,9 +51,8 @@ record:
   title: 3 Model Support changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-31-3-model-support-changes-in-v0-80-0|3 Model Support changes
-  in v0.80.0]]'
 - '[[Changes/ElevenLabs/2025-03-31-text-to-speech|Text to speech]]'
+- '[[Changes/Midjourney/2025-03-31-please-note|Please Note]]'
 - '[[Changes/Cline/2025-04-01-3-model-support-changes-in-v3-8-5|3 Model Support changes
   in v3.8.5]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0|open-webui-2025-04-01-v0-6-0-github-209478336-af8a2de0]]'

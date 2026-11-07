@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9be13ce1c1ad8c67bdd992564d06f32644c73de85cda830f5ce4e61c442b27b5
+machine_hash: 4c88bbbe0c5a3801770a781de5efc9992e534ff09287c50cda82ef1054835644
 product: ollama
 product_name: Ollama
 record:
@@ -43,12 +43,12 @@ record:
   title: 'manifest: avoid symlinks on Windows'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances
-  expands to Free and Go users]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-sandboxed-commands-on-windows-write-temporary-files-to-the-granted-temp-director|Sandboxed
   commands on Windows write temporary files to the granted temp directory…]]'
 - '[[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep
   your computer awake]]'
+- '[[Changes/Google Antigravity/2026-10-07-on-windows-and-linux-selecting-the-antigravity-icon-in-the-top-left-corner-of-th|On
+  Windows and Linux, selecting the Antigravity icon in the top-left corner…]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-07-v0-40-1-github-406237079-5c84232c|ollama-2026-10-07-v0-40-1-github-406237079-5c84232c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep your computer awake]]
+- Earlier: 2026-10-07 · Google Antigravity · [[Changes/Google Antigravity/2026-10-07-on-windows-and-linux-selecting-the-antigravity-icon-in-the-top-left-corner-of-th|On Windows and Linux, selecting the Antigravity icon in the top-left corner…]]
 - Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-the-claude-apps-gateway-to-start-with-a-warning-and-serve-a-desktop-poli|Changed the Claude apps gateway to start with a warning and serve a desktop policy…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cadad815d82ef890512d4fc6e91737c3bb6e0c478ebe0f5a6a9fe8eedc26c29b
+machine_hash: 637b8a062b3421c254cb85cf19a2d2167dedf80abb463e74201d8081954ff179
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,12 @@ record:
   title: Turn off voice mode, to remove the option to use voice mode in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-09-15-new-endpoints|New Endpoints]]'
-- '[[Changes/ElevenLabs/2025-09-15-text-to-speech|Text to Speech]]'
+- '[[Changes/Suno/2025-09-23-clearer-more-immersive-audio|Clearer, more immersive
+  audio]]'
 - '[[Changes/Cline/2025-09-25-3-voice-and-audio-changes-in-v3-31-0|3 Voice and Audio
   changes in v3.31.0]]'
+- '[[Changes/Suno/2025-09-25-create-infinite-stem-variations-instantly-generate-vocals-drums-synths-and-more|Create
+  infinite stem variations → Instantly generate vocals, drums, synths, and more…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -76,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-3-voice-and-audio-changes-in-v3-31-0|3 Voice and Audio changes in v3.31.0]]
+- Earlier: 2025-09-25 · Suno · [[Changes/Suno/2025-09-25-create-infinite-stem-variations-instantly-generate-vocals-drums-synths-and-more|Create infinite stem variations → Instantly generate vocals, drums, synths, and more…]]
 - Later: 2025-09-29 · ElevenLabs · [[Changes/ElevenLabs/2025-09-29-speech-to-text|Speech to Text]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5ba0a9d628b8973447bca65269ea48f4b4c9337ee839005bab25bc8c25690d3d
+machine_hash: df47a67656b2be54c4365c5a830ddf729f8f36013cc36992427484f89076075e
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,8 +41,8 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-04-24-2-apps-and-integrations-changes-in-v0-9-2|2 Apps
-  and Integrations changes in v0.9.2]]'
+- '[[Changes/OpenCode/2026-04-24-added-an-experimental-http-api-endpoint-for-mcp-server-status|Added
+  an experimental HTTP API endpoint for MCP server status]]'
 - '[[Changes/Replit/2026-04-24-integrations|Integrations]]'
 - '[[Changes/Replit/2026-04-24-plaid-connector-is-live|Plaid connector is live]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-04-27-2026-04-27-7b6333fc|elevenlabs-2026-04-27-2026-04-27-7b6333fc]]'

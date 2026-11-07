@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eec412b9980e8e236fe2970fc359e1fdd19849bb57a46906fc980f04036327f0
+machine_hash: b5dd8ff776a8568323e65a7c6994583dc32f154baa0b7d783a328f6abdc57942
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     on Windows
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-16-3-mobile-and-desktop-changes-in-v1-0-6|3
-  Mobile and Desktop changes in v1.0.6]]'
+- '[[Changes/OpenCode/2026-03-16-2-mobile-and-desktop-changes-in-v1-2-27|2 Mobile
+  and Desktop changes in v1.2.27]]'
 - '[[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode
   When option+click doesn''t trigger native selection on macOS, the footer now…]]'
 - '[[Changes/Gemini CLI/2026-03-17-docs-add-documentation-for-notifications-experimental-macos-by-jkcinouye-in-http|Docs:

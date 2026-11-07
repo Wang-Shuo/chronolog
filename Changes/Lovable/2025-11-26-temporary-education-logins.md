@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4feab36736db87317a2bd0780a4bf7dd0f0ad19d5e593f1cdf9b0c232ce074cb
+machine_hash: e737fc5acc50866ca27869998e694f0a3d0cb31a6468dfdb4a87447a9e712ce0
 product: lovable
 product_name: Lovable
 record:
@@ -42,12 +42,12 @@ record:
   title: Temporary education logins**
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-11-24-sso-oidc-code-fixed-to-improve-login-reliability-and-better-handle-edge-cases|\U0001F510
-  SSO/OIDC code fixed to improve login reliability and better handle edge cases]]"
 - "[[Changes/Open WebUI/2025-11-25-breaking-docling-configuration-has-been-consolidated-from-individual-environment|\U0001F527
   BREAKING: Docling configuration has been consolidated from individual environment…]]"
 - '[[Changes/Dify/2025-11-26-feat-implement-rfc-compliant-oauth-discovery-with-dynamic-scope-selection-for-mc|feat:
   implement RFC-compliant OAuth discovery with dynamic scope selection for MCP…]]'
+- '[[Changes/Google Antigravity/2025-11-26-added-better-error-states-for-onboarding-users-during-authentication-flow|Added
+  better error states for onboarding users during authentication flow]]'
 source_release: '[[Releases/Lovable/lovable-2025-11-26-2025-11-26-b469983e|lovable-2025-11-26-2025-11-26-b469983e]]'
 source_type: lovable_changelog
 theme: account-access
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-feat-implement-rfc-compliant-oauth-discovery-with-dynamic-scope-selection-for-mc|feat: implement RFC-compliant OAuth discovery with dynamic scope selection for MCP…]]
+- Earlier: 2025-11-26 · Google Antigravity · [[Changes/Google Antigravity/2025-11-26-added-better-error-states-for-onboarding-users-during-authentication-flow|Added better error states for onboarding users during authentication flow]]
 - Later: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-feat-support-login-as-an-option-on-shell-tool-mcp-by-bolinfest-in-7120|feat: support login as an option on shell-tool-mcp by @bolinfest in ♯7120]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da9277333500e46ab599366f7e2057a0bf9136f87ff59ccee975aae426237a91
+machine_hash: 4fb2a71e99085935abec0ac742ce60dcbe5896d91b85c6a57b0a32021a1b9e9d
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,10 +58,10 @@ record:
   title: 6 Safety and Privacy changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security-99509e|Origin
-  now integrates with over 20 apps for deployments, CI, code review, security…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-3-safety-and-privacy-changes-in-v1-0-97|3
   Safety and Privacy changes in v1.0.97]]'
+- '[[Changes/OpenClaw/2026-10-13-3-safety-and-privacy-changes-in-v2026-10-3|3 Safety
+  and Privacy changes in v2026.10.3]]'
 - '[[Changes/Claude Code/2026-10-14-2-safety-and-privacy-changes-in-v2-1-300|2 Safety
   and Privacy changes in v2.1.300]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'

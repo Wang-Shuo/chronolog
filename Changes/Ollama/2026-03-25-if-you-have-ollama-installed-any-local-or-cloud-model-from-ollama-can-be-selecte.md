@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 96102b197c1375360551d44a812e66eee1b750cdcc5ed96c0f4d37737635ed5a
+machine_hash: ab27538c1ee8ffdaa0beff1c43ef6e94c6128341b366f84d8d0cdc467fe83bd0
 product: ollama
 product_name: Ollama
 record:
@@ -45,11 +45,12 @@ record:
     selected…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-23-new-schemas|New Schemas]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-23-ensure-models-appear-in-picker-correctly-display-model-names-where-possible|Ensure
   models appear in picker correctly, display model names where possible]]'
 - '[[Changes/Gemini CLI/2026-03-24-7-model-support-changes-in-v0-35-0|7 Model Support
   changes in v0.35.0]]'
+- '[[Changes/Google Antigravity/2026-03-25-added-support-for-reading-rules-from-agents-md-in-addition-to-gemini-md|Added
+  support for reading rules from AGENTS.md in addition to GEMINI.md]]'
 source_release: '[[Releases/Ollama/ollama-2026-03-25-v0-18-3-github-300946692-78775bca|ollama-2026-03-25-v0-18-3-github-300946692-78775bca]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-7-model-support-changes-in-v0-35-0|7 Model Support changes in v0.35.0]]
+- Earlier: 2026-03-25 · Google Antigravity · [[Changes/Google Antigravity/2026-03-25-added-support-for-reading-rules-from-agents-md-in-addition-to-gemini-md|Added support for reading rules from AGENTS.md in addition to GEMINI.md]]
 - Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-23-model-support-changes-in-v0-8-11|23 Model Support changes in v0.8.11]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb3fba808f9fe0c0292dbf1e4cf36b9d0cf61e98f21c9204fe4b37a71d4c6009
+machine_hash: a67f82c07149e745e311cea74822b9e330cad63901d3a363eab3a8736bc8b889
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: When session history is truncated or compacted just as a turn finishes…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-10-a-failed-session-history-load-no-longer-leaves-the-timeline-permanently-empty-th|A
-  failed session-history load no longer leaves the timeline permanently empty]]'
 - '[[Changes/Codex CLI/2026-09-03-42140-https-github-com-openai-codex-pull-42140-add-redo-support-to-vim-composer|♯42140((source
   link) Add redo support to Vim…]]'
+- '[[Changes/OpenClaw/2026-09-03-an-update-or-doctor-repair-now-does-more-to-preserve-the-setup-you-already-autho|An
+  update or Doctor repair now does more to preserve the setup you already authored…]]'
 - '[[Changes/Codex CLI/2026-09-09-42306-stabilize-the-detached-exec-server-session-resume-test-copyberry|♯42306
   Stabilize the detached exec-server session resume test @copyberry]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'

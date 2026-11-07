@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3287906ab619c93276ed0c02d046e5a2071231b8e9c4e2ca019a1ac090a08b59
+machine_hash: 590997abaaef53f369756b38e28861037da2289a537b0f09ee115b443d4c62c2
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
     effort'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-10-3-model-support-changes-in-v0-9-5|3 Model Support
-  changes in v0.9.5]]'
+- '[[Changes/OpenCode/2026-05-10-core-provider-configs-and-api-responses-now-accept-models-marked-as-active|Core
+  Provider configs and API responses now accept models marked as active]]'
 - '[[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction
   prompt now asks the model to preserve sensitive user instructions]]'
 - '[[Changes/Cursor/2026-05-11-high-bugbot-spends-more-time-reasoning-reviews-are-more-expensive-and-take-longe|High:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction prompt now asks the model to preserve sensitive user instructions]]
-- Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-2-model-support-changes-in-1-14-1|2 Model Support changes in 1.14.1]]
+- Later: 2026-05-11 · OpenCode · [[Changes/OpenCode/2026-05-11-2-model-support-changes-in-v1-14-48-1|2 Model Support changes in v1.14.48 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

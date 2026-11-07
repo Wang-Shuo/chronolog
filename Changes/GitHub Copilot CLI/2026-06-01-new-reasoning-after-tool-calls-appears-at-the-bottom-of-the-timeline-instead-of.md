@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4ecf05f14836d36d13a2ab43b38f576625251402ca99d78a4892ffbbe89e9358
+machine_hash: 8489917e99277547fecd7ae01e1c96da6d12b26b098b2252d5606c6a4ef490d9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: New reasoning after tool calls appears at the bottom of the timeline instead…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto
-  mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]'
+- '[[Changes/OpenCode/2026-05-30-core-gateway-anthropic-opus-4-7-adaptive-reasoning-now-keeps-summarized-thinking|Core
+  Gateway Anthropic Opus 4.7+ adaptive reasoning now keeps summarized thinking…]]'
 - '[[Changes/Codex CLI/2026-06-01-5-model-support-changes-in-rust-v0-136-0|5 Model
   Support changes in rust-v0.136.0]]'
 - '[[Changes/ElevenLabs/2026-06-01-workspaces|Workspaces]]'

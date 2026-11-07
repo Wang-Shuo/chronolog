@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b2163fe718231ab5f869eb363927275d2e7efc98f9b794075f471c23fa1b9588
+machine_hash: ec5a5d6c5210b5d964d962b258a5b6efa8c9bcb8831c31278e2e42a1647ed588
 product: claude
 product_name: Claude
 record:
@@ -49,12 +49,11 @@ record:
   title: Memory in Claude Cowork, editable topics, and a sensitive topics setting
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use
-  Computer History in more regions]]'
 - '[[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated
   the bundled claude-api skill for the Managed Agents Aug 19 release]]'
 - '[[Changes/Codex CLI/2026-08-20-2-memory-and-personalization-changes-in-rust-v0-149-0|2
   Memory and Personalization changes in rust-v0.149.0]]'
+- '[[Changes/Midjourney/2026-08-21-settings|Settings]]'
 source_release: '[[Releases/Claude/claude-2026-08-25-2026-08-25-2f630735|claude-2026-08-25-2026-08-25-2f630735]]'
 source_type: claude_changelog
 theme: memory
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-2-memory-and-personalization-changes-in-rust-v0-149-0|2 Memory and Personalization changes in rust-v0.149.0]]
+- Earlier: 2026-08-21 · Midjourney · [[Changes/Midjourney/2026-08-21-settings|Settings]]
 - Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-8-memory-and-personalization-changes-in-v0-11-1|8 Memory and Personalization changes in v0.11.1]]
 <!-- chronolog:end -->
 

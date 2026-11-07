@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ebe30539cb4bc793480501a26634fa40b2a055263b7b5aeff9302aee0cd444c
+machine_hash: 2afba7a3dc829de1ac3949894e749299a838d8a52946bb078e9946fb8c94a643
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.6
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-4-developer-workflow-changes-in-rust-v0-80-0|4 Developer
-  Workflow changes in rust-v0.80.0]]'
-- '[[Changes/Open WebUI/2026-01-09-24-developer-workflow-changes-in-v0-7-0|24 Developer
-  Workflow changes in v0.7.0]]'
 - '[[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added
   CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]'
+- '[[Changes/OpenCode/2026-01-12-6-developer-workflow-changes-in-v1-1-15|6 Developer
+  Workflow changes in v1.1.15]]'
+- '[[Changes/OpenCode/2026-01-12-3-developer-workflow-changes-in-v1-1-14|3 Developer
+  Workflow changes in v1.1.14]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-12 · Claude Code · [[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]
+- Earlier: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-3-developer-workflow-changes-in-v1-1-14|3 Developer Workflow changes in v1.1.14]]
 - Later: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-5-developer-workflow-changes-in-1-11-3|5 Developer Workflow changes in 1.11.3]]
 <!-- chronolog:end -->
 

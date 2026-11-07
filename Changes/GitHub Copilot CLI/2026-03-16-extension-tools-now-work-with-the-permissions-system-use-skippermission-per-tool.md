@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e69532d28f7513613e067ac37d365775763a29fd272bd1bc2e84d99aad059c1
+machine_hash: fa16fc1c53a085160eb4ffd8373ac8de82c7ce7a27cf7f098ff98e18eb22081c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-9-safety-and-privacy-changes-in-rust-v0-115-0|9 Safety and Privacy changes in rust-v0.115.0]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-safety-and-privacy-changes-in-v2-1-78|2 Safety and Privacy changes in v2.1.78]]
+- Later: 2026-03-16 · OpenCode · [[Changes/OpenCode/2026-03-16-core-delete-legacy-permission-module|Core Delete legacy permission module]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

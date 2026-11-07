@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a25735916e6ec2bbdf6acd9b6e98d88bc052d824542758d00ce34f2e5bff16b
+machine_hash: 55171db256c0fe13d04ee914ccb3b0b3a9d17be3962609a3ef9bfa6d8eb5d434
 product: open-webui
 product_name: Open WebUI
 record:
@@ -62,12 +62,12 @@ record:
   title: 5 Editor Experience changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-04-16-hermes-and-github-copilot-cli-in-ollama-launch-added-both-integrations-which-can|Hermes
-  and GitHub Copilot CLI in ollama launch. Added both integrations…]]'
-- '[[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote
-  Control clients can now query @-file autocomplete suggestions]]'
+- '[[Changes/OpenCode/2026-04-19-core-fix-github-copilot-anthropic-haiku-requests-by-disabling-unsupported-tool-s|Core
+  Fix GitHub Copilot Anthropic Haiku requests by disabling unsupported tool streaming]]'
 - '[[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor
   Experience changes in v2.1.116]]'
+- '[[Changes/OpenCode/2026-04-20-core-preserved-concurrent-edits-to-the-same-file-instead-of-letting-parallel-edi|Core
+  Preserved concurrent edits to the same file instead of letting parallel edits…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a|open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a]]'
 source_type: github_releases
 theme: editor-experience
@@ -123,7 +123,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor Experience changes in v2.1.116]]
+- Earlier: 2026-04-20 · OpenCode · [[Changes/OpenCode/2026-04-20-core-preserved-concurrent-edits-to-the-same-file-instead-of-letting-parallel-edi|Core Preserved concurrent edits to the same file instead of letting parallel edits…]]
 - Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso|/config settings (theme, editor mode, verbose, etc.) now persist…]]
 <!-- chronolog:end -->
 

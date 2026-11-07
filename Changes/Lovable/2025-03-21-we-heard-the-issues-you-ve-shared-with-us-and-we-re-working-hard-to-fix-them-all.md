@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6eee12d35984e89673e90826c3599b0eaae5f8c7029c6638926ead3501d4461e
+machine_hash: ca511aaba4cce89b1d31594c3f0e248b8cd74f65a350591b5e53ed8035988e62
 product: lovable
 product_name: Lovable
 record:
@@ -64,10 +64,10 @@ record:
     all
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-02-18-download-button-for-svg-diagrams-svg-diagrams-generated-within-chat-can-now-be-d|\U0001F4E5
-  Download Button for SVG Diagrams]]"
 - '[[Changes/Dify/2025-02-28-we-are-glad-to-share-that-we-re-launching-dify-v1-0-0|We
   are glad to share that we''re launching Dify v1.0.0]]'
+- "[[Changes/Gamma/2025-03-05-add-a-comment-for-feedback-or-collaboration|\U0001F4AC
+  Add a Comment for feedback or collaboration]]"
 - '[[Changes/Gemini/2025-03-13-gems-your-custom-ai-experts-are-now-available-to-more-gemini-users-at-no-cost|Gems,
   your custom AI experts, are now available to more Gemini users at no cost]]'
 source_release: '[[Releases/Lovable/lovable-2025-03-21-2025-03-21-245c8626|lovable-2025-03-21-2025-03-21-245c8626]]'

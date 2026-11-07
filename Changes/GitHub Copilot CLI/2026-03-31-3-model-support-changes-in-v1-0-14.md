@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99f8b8ca6c45cac074a9cf3655a62a3ca5958fd26def488d437c3c7f9a5f0871
+machine_hash: 5b02e84bc1cb3cdd1e8f2e119e2c04c21504ff77fb45b8205c1c44ee19d43332
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Model Support changes in v1.0.14
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-03-27-admin-model-visibility-administrators-can-now-see-models-even-when-no-access-con|\U0001F451
-  Admin model visibility. Administrators can now see models even when no access…]]"
+- '[[Changes/OpenCode/2026-03-29-2-model-support-changes-in-v1-3-6-2|2 Model Support
+  changes in v1.3.6 + 2]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-model-support-changes-in-v1-0-13|2 Model
   Support changes in v1.0.13]]'
 - '[[Changes/Codex CLI/2026-03-31-5-model-support-changes-in-rust-v0-118-0|5 Model
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.14
 ## Nearby in Model Support
 
 - Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-5-model-support-changes-in-rust-v0-118-0|5 Model Support changes in rust-v0.118.0]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]]
+- Later: 2026-03-31 · OpenCode · [[Changes/OpenCode/2026-03-31-add-a-dedicated-system-prompt-for-kimi-models|Add a dedicated system prompt for Kimi models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

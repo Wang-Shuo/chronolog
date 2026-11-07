@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3d8c3d8f4f3187e4dbed48e9493dfde37abedd3eced49d54599b3226d790bf55
+machine_hash: c27774bfe4b7b1a37f19c875e3e9cb81e6581deae914f887fd72d4f2e76ce255
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,13 +62,12 @@ record:
   title: Added new `claude agents` flags
   type: change
 related_changes:
-- '[[Changes/v0/2026-05-12-v0-can-now-run-terminal-commands-in-your-chats-with-a-permission-prompt-before-e|v0
-  can now run terminal commands in your chats, with a permission prompt before each
-  one]]'
 - '[[Changes/Claude Code/2026-05-13-5-safety-and-privacy-changes-in-v2-1-141|5 Safety
   and Privacy changes in v2.1.141]]'
 - '[[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment
   governance and security controls]]'
+- '[[Changes/OpenCode/2026-05-13-core-preserve-layered-permission-rule-order-in-config-merges|Core
+  Preserve layered permission rule order in config merges]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: safety-privacy
@@ -100,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment governance and security controls]]
+- Earlier: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-preserve-layered-permission-rule-order-in-config-merges|Core Preserve layered permission rule order in config merges]]
 - Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-3-safety-and-privacy-changes-in-v2-1-143|3 Safety and Privacy changes in v2.1.143]]
 <!-- chronolog:end -->
 

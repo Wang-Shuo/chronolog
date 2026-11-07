@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 378388bf588955ed3ce613fdb022637dae865d3ba5abbf7aaa41149c5624270e
+machine_hash: 4020a801bad1a7231418edd257397a1a62c5bd0dc74e05cab15a18d387ad6fe7
 product: cursor
 product_name: Cursor
 record:
@@ -43,7 +43,8 @@ record:
   title: 2 Apps and Integrations changes in Origin App Marketplace
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-12-connect-your-app-to-loops|Connect your app to Loops]]'
+- '[[Changes/OpenClaw/2026-10-12-5-apps-and-integrations-changes-in-v2026-10-2|5 Apps
+  and Integrations changes in v2026.10.2]]'
 - '[[Changes/OpenHands/2026-10-12-3-apps-and-integrations-changes-in-v1-27-0|3 Apps
   and Integrations changes in v1.27.0]]'
 - '[[Changes/Cline/2026-10-13-an-mcp-server-or-hook-that-exits-before-reading-all-of-its-input-no-longer-crash|An

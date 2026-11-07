@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2cd6226eb9b80fa30c4699aabe2dc426069fc574837ee1cc02f49523cb677ce2
+machine_hash: 537b3d8f0da707fd0ebae79e72333d4e12cf8d3c0a8fde13d3702d1992b420eb
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-agents-platform-7f0c0d|Agents Platform]]
-- Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-10-agent-mode-changes-in-rust-v0-99-0|10 Agent Mode changes in rust-v0.99.0]]
+- Later: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-4-agent-mode-changes-in-v1-1-54|4 Agent Mode changes in v1.1.54]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

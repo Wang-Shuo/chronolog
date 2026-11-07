@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5754dcbed4ba71ddcaac3faa585eba7a4ecdf5c2eab734b18c429e291b013be5
+machine_hash: 95fdfb70c583a11bde563549fdeb2cde7a42ccfac4f769065536c3ab319e7a79
 product: lovable
 product_name: Lovable
 record:
@@ -45,12 +45,12 @@ record:
     uses…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We
-  improved Code Blocks in ChatGPT to make them more interactive]]'
 - '[[Changes/Claude Code/2026-02-19-simple-mode-claude-code-simple-now-includes-the-file-edit-tool-in-addition-to-th|Simple
   mode (CLAUDE_CODE_SIMPLE) now includes the file edit tool in addition…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-3-editor-experience-changes-in-v0-0-412|3
   Editor Experience changes in v0.0.412]]'
+- '[[Changes/OpenCode/2026-02-19-2-editor-experience-changes-in-v1-2-7|2 Editor Experience
+  changes in v1.2.7]]'
 source_release: '[[Releases/Lovable/lovable-2026-02-23-2026-02-23-19067983|lovable-2026-02-23-2026-02-23-19067983]]'
 source_type: lovable_changelog
 theme: editor-experience
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-3-editor-experience-changes-in-v0-0-412|3 Editor Experience changes in v0.0.412]]
+- Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-2-editor-experience-changes-in-v1-2-7|2 Editor Experience changes in v1.2.7]]
 - Later: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-2-editor-experience-changes-in-v0-8-4|2 Editor Experience changes in v0.8.4]]
 <!-- chronolog:end -->
 

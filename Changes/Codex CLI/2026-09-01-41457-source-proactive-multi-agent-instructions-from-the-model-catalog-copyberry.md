@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 7e9129dad66edde7a602b03ce253402375339c06d08c419094b22c3a3d5a342b
+machine_hash: 61d3021f56bfc6cd2b66b2e2ccbf844ebfe7593d4ff3ed6473e4e96fddac57eb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,12 +55,12 @@ record:
     @copyberry'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-use-x-to-remove-scheduled-every-and-after-prompts-in-schedule-manager|Use
-  x to remove scheduled /every and /after prompts in Schedule Manager]]'
 - '[[Changes/OpenHands/2026-08-27-2-automation-and-scheduling-changes-in-v1-16-0|2
   Automation and Scheduling changes in v1.16.0]]'
 - '[[Changes/Open WebUI/2026-08-31-3-automation-and-scheduling-changes-in-v0-11-2|3
   Automation and Scheduling changes in v0.11.2]]'
+- '[[Changes/OpenClaw/2026-08-31-automations-and-scheduling-scheduled-work-comes-together-under-one-name-across-t|Automations
+  and Scheduling - Scheduled work comes together under one name across…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544|codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-3-automation-and-scheduling-changes-in-v0-11-2|3 Automation and Scheduling changes in v0.11.2]]
-- Later: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9 Automation and Scheduling changes in v1.17.0]]
+- Earlier: 2026-08-31 · OpenClaw · [[Changes/OpenClaw/2026-08-31-automations-and-scheduling-scheduled-work-comes-together-under-one-name-across-t|Automations and Scheduling - Scheduled work comes together under one name across…]]
+- Later: 2026-09-01 · OpenClaw · [[Changes/OpenClaw/2026-09-01-2-automation-and-scheduling-changes-in-v2026-8-2|2 Automation and Scheduling changes in v2026.8.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

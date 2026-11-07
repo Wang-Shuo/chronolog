@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47bc84ac05e6dbb559c15cba923d83c18525a8a3f868ae3f91f7af9649379d4c
+machine_hash: 54c18fb7ea68e297b07e813b05ea23cd98d9f091322a54371c519025a6e98510
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,12 +55,12 @@ record:
   title: 6 Interface Experience changes in v1.0.52
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt
-  history no longer records consecutive duplicate entries]]'
 - '[[Changes/Claude Code/2026-05-22-markdown-output-now-renders-gfm-task-list-checkboxes-todo-x-done-instead-of-plai|Markdown
   output now renders GFM task list checkboxes (-   todo / - x done)…]]'
 - '[[Changes/Gemini CLI/2026-05-22-2-interface-experience-changes-in-v0-43-0|2 Interface
   Experience changes in v0.43.0]]'
+- '[[Changes/OpenCode/2026-05-22-terminal-keep-the-spinner-color-aligned-with-the-active-agent|Terminal
+  Keep the spinner color aligned with the active agent]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'
 source_type: github_releases
 theme: interface-experience
@@ -110,7 +110,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.52
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-2-interface-experience-changes-in-v0-43-0|2 Interface Experience changes in v0.43.0]]
+- Earlier: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-terminal-keep-the-spinner-color-aligned-with-the-active-agent|Terminal Keep the spinner color aligned with the active agent]]
 - Later: 2026-05-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-24-2-interface-experience-changes-in-v1-0-53|2 Interface Experience changes in v1.0.53]]
 <!-- chronolog:end -->
 

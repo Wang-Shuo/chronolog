@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0476c2fa69374bd837d6ca2f57959aed4e1715ecaaced8801aacfa6bd7ba6305
+machine_hash: 52522168bf436215cb2fc520cdb5330fdf22dc4ccc27de58594f30bbcbd5d6ec
 product: open-webui
 product_name: Open WebUI
 record:
@@ -213,7 +213,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-07-24 · Lovable · [[Changes/Lovable/2026-07-24-report-abuse-and-submit-appeals-with-guided-forms|Report abuse and submit appeals with guided forms]]
-- Later: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-6-account-and-access-changes-in-1-16-1|6 Account and Access changes in 1.16.1]]
+- Later: 2026-07-27 · OpenCode · [[Changes/OpenCode/2026-07-27-desktop-fixed-provider-lists-not-refreshing-after-connecting-a-provider-or-finis|Desktop Fixed provider lists not refreshing after connecting a provider or finishing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

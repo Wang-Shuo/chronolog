@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd9837b23a6544324d5468c1dc6fd2d56f72a58a16a8c6df4c7aa34be3884ead
+machine_hash: f89ee4f2cbc27f76aeacfd0d222548b582eda91382a6b77473fc0678fe7b6a17
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
   title: 2 Model Support changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings):
-  use existing model-profile theme aliases]]'
-- '[[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model
-  Support changes in rust-v0.166.0]]'
-- '[[Changes/Open WebUI/2026-10-29-7-model-support-changes-in-v0-12-5|7 Model Support
-  changes in v0.12.5]]'
+- '[[Changes/OpenCode/2026-10-29-new-default-model-picker|New Default Model Picker]]'
+- '[[Changes/OpenCode/2026-10-29-2-model-support-changes-in-v2-2-1|2 Model Support
+  changes in v2.2.1]]'
+- '[[Changes/OpenCode/2026-10-29-desktop-preserved-pending-model-labels-only-when-a-queued-prompt-actually-change|Desktop
+  Preserved pending model labels only when a queued prompt actually changes models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: model-support
@@ -93,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-7-model-support-changes-in-v0-12-5|7 Model Support changes in v0.12.5]]
-- Later: 2026-10-30 · Replit · [[Changes/Replit/2026-10-30-gpt-6-1-terra-in-the-model-selector|GPT-6.1 Terra in the model selector]]
+- Earlier: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-desktop-preserved-pending-model-labels-only-when-a-queued-prompt-actually-change|Desktop Preserved pending model labels only when a queued prompt actually changes models]]
+- Later: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-2-model-support-changes-in-v2-2-3|2 Model Support changes in v2.2.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

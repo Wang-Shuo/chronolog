@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 80cd9f744965537c7c296804d9b652530f8c49ec9e16c7e1c15d623e34e383a2
+machine_hash: a09b686b6b853e312ed851672a3e61bfe09198e78d09eaabb50e1946e74c4f21
 product: ollama
 product_name: Ollama
 record:
@@ -54,12 +54,12 @@ record:
   title: Paused background model upgrade for embedding and other request performance,
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-10-08-models-downloaded-with-earlier-versions-of-ollama-are-upgraded-in-the-background|Models
-  downloaded with earlier versions of Ollama are upgraded in the background…]]'
 - '[[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved
   transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]'
 - '[[Changes/Open WebUI/2026-10-10-5-reliability-and-performance-changes-in-v0-12-0|5
   Reliability and Performance changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-2-reliability-and-performance-changes-in-v2026-10-1|2
+  Reliability and Performance changes in v2026.10.1]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-11-v0-40-3-github-409273105-d625cd19|ollama-2026-10-11-v0-40-3-github-409273105-d625cd19]]'
 source_type: github_releases
 theme: reliability-performance
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-5-reliability-and-performance-changes-in-v0-12-0|5 Reliability and Performance changes in v0.12.0]]
+- Earlier: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-2-reliability-and-performance-changes-in-v2026-10-1|2 Reliability and Performance changes in v2026.10.1]]
 - Later: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-2-reliability-and-performance-changes-in-v0-40-4|2 Reliability and Performance changes in v0.40.4]]
 <!-- chronolog:end -->
 

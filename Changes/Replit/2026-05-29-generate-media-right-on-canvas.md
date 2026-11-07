@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 283251e592fbbd1f3770160aca3c9186474bb1031e8d03426bfd65c48d479806
+machine_hash: 9f10492430b16a0b78acb96e7bb2951880b123ab985a1d5ea6a94f84ea43a397
 product: replit
 product_name: Replit
 record:
@@ -46,10 +46,10 @@ record:
   title: Generate media right on Canvas
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal
-  finances in ChatGPT]]'
 - '[[Changes/Replit/2026-05-15-export-canvas-frames-as-pngs|Export Canvas frames as
   PNGs]]'
+- '[[Changes/OpenCode/2026-05-21-core-added-pdf-attachment-support-for-grok|Core Added
+  PDF attachment support for Grok]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-canvas-tools-with-optional-object-input-schemas-open-correctly-without-validatio|Canvas
   tools with optional object input schemas open correctly without validation errors]]'
 source_release: '[[Releases/Replit/replit-2026-05-29-2026-05-29-e3cfe151|replit-2026-05-29-2026-05-29-e3cfe151]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 16f45f32bd3945ed5a92a3d388eb8f1145fc184c62fa92944ba1164ca893a614
+machine_hash: 6fc9475b345759618919952317c65db16e4f5a0a33f8ef7a6b5afc518d099d78
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,7 +44,8 @@ record:
   title: 3 Developer Workflow changes in v0.37.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-removed-tag-command|Removed /tag command]]'
+- '[[Changes/OpenCode/2026-04-06-5-developer-workflow-changes-in-v1-3-17-1|5 Developer
+  Workflow changes in v1.3.17 + 1]]'
 - '[[Changes/Claude Code/2026-04-08-3-developer-workflow-changes-in-v2-1-97|3 Developer
   Workflow changes in v2.1.97]]'
 - '[[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]'
@@ -93,7 +94,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-08 · Cursor · [[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-6-developer-workflow-changes-in-v2-1-98|6 Developer Workflow changes in v2.1.98]]
+- Later: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-terminal-added-pdf-drag-and-drop-for-attachments|Terminal Added PDF drag and drop for attachments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

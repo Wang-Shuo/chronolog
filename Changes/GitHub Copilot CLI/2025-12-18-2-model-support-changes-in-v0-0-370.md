@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c3830520d3b2dfe253efd575aa8ac8f7046cdb4848e3fd03103ab10ac95e122
+machine_hash: 120da9f269571f140dcea30211f9efea1d76e3970bc51c4b294676bf17da1d0e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Model Support changes in v0.0.370
   type: change
 related_changes:
-- '[[Changes/Gemini/2025-12-17-introducing-gemini-3-flash-a-major-upgrade-to-your-everyday-ai|Introducing
-  Gemini 3 Flash, a major upgrade to your everyday AI]]'
+- '[[Changes/Google Antigravity/2025-12-17-gemini-3-flash|Gemini 3 Flash]]'
 - '[[Changes/Codex CLI/2025-12-18-6-model-support-changes-in-rust-v0-74-0|6 Model
   Support changes in rust-v0.74.0]]'
 - '[[Changes/Codex CLI/2025-12-18-introducing-gpt-5-2-codex-our-latest-frontier-model-with-improvements-across-kno|Introducing

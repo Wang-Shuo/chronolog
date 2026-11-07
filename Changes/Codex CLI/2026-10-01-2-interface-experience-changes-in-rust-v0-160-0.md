@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7dbad2bd2f75b08d5b33631fa5aa950b1730f772715106460cc1c48c4dffff12
+machine_hash: ec0a7bc3ead483a7e7fa053ac1c8c6c9128df9e80a3e7328a3fd6e52b41b5f3d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in rust-v0.160.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-4-interface-experience-changes-in-rust-v0-159-0|4
-  Interface Experience changes in rust-v0.159.0]]'
-- '[[Changes/Claude Code/2026-09-30-4-interface-experience-changes-in-v2-1-286|4 Interface
-  Experience changes in v2.1.286]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-2-interface-experience-changes-in-v1-0-90|2
   Interface Experience changes in v1.0.90]]'
+- '[[Changes/Google Antigravity/2026-09-30-rendered-markdown-in-artifacts-and-in-files-opened-in-the-side-pane-can-now-be-e|Rendered
+  Markdown in artifacts and in files opened in the side pane can now…]]'
+- '[[Changes/OpenClaw/2026-09-30-17-interface-experience-changes-in-v2026-9-7|17 Interface
+  Experience changes in v2026.9.7]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'
 source_type: github_releases
 theme: interface-experience
@@ -94,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.160.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-2-interface-experience-changes-in-v1-0-90|2 Interface Experience changes in v1.0.90]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-17-interface-experience-changes-in-v2026-9-7|17 Interface Experience changes in v2026.9.7]]
 - Later: 2026-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-01-footer-text-selection-stays-on-the-same-visible-line-when-the-footer-grows-or-sh|Footer text selection stays on the same visible line when the footer grows or shrinks]]
 <!-- chronolog:end -->
 

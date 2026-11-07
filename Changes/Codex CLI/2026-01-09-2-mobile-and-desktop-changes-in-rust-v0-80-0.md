@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0de13d413a7425df2b15978089b23bac033338bc7bade89b03839a1a39dc5989
+machine_hash: 2d21bad3e04c7a61f796b582df37edcb596ed55b115592c1adafe20959497819
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.80.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-19-4-mobile-and-desktop-changes-in-rust-v0-76-0|4 Mobile
-  and Desktop changes in rust-v0.76.0]]'
-- '[[Changes/Codex CLI/2026-01-06-8743-macos-load-config-requirements-from-mdm-gt-oai|♯8743
-  (MacOS) Load config requirements from MDM @gt-oai]]'
+- '[[Changes/OpenCode/2026-01-07-8-mobile-and-desktop-changes-in-v1-1-6|8 Mobile and
+  Desktop changes in v1.1.6]]'
+- '[[Changes/OpenCode/2026-01-08-2-mobile-and-desktop-changes-in-v1-1-7|2 Mobile and
+  Desktop changes in v1.1.7]]'
 - '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added
   support for Windows Package Manager (winget) installations with automatic…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf|codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf]]'

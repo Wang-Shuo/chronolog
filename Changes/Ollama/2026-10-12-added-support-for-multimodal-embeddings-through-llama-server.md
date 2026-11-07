@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c902f9d7b7353c1a2a67d6b5c3065d3d70031111fff6c0f12b1e47d2b42e6610
+machine_hash: 2839345c6f5b2d765391153e1af469b01cce5d3da126ceb920f9b202450b0d3e
 product: ollama
 product_name: Ollama
 record:
@@ -43,9 +43,10 @@ record:
   title: Added support for multimodal embeddings through llama-server
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-14-music|Music]]'
-- '[[Changes/Ollama/2026-09-29-clef-27b-and-clef-flash-9b-are-multimodal-requests-can-now-include-images-alongs|Clef
-  (27B) and Clef Flash (9B) are multimodal]]'
+- '[[Changes/OpenClaw/2026-10-08-feishu-attachments-files-sent-with-captions-or-together-in-feishu-lark-posts-rea|Feishu
+  attachments]]'
+- '[[Changes/OpenClaw/2026-10-10-video-previews-new-video-previews-can-download-media-before-play|Video
+  previews: New video previews can download media before Play]]'
 - '[[Changes/ElevenLabs/2026-10-12-music|Music]]'
 source_release: '[[Releases/Ollama/ollama-2026-10-12-v0-40-4-github-410905890-5db61c07|ollama-2026-10-12-v0-40-4-github-410905890-5db61c07]]'
 source_type: github_releases
@@ -81,7 +82,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-10-12 · ElevenLabs · [[Changes/ElevenLabs/2026-10-12-music|Music]]
-- Later: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-video-to-music|Video to Music]]
+- Later: 2026-10-13 · OpenClaw · [[Changes/OpenClaw/2026-10-13-muse-wonder-meta-users-can-select-muse-wonder-with-text-and-image-input-and-max|Muse Wonder. Meta users can select Muse Wonder with text and image input and max thinking]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

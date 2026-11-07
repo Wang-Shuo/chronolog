@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: adb6f52de27464abcffae4cd73880df8b51bc89aa0c8cd511a5823864d5c9979
+machine_hash: afef52893ca38b52de3c4ebea4c65c3aeddb39a568dcdc9a4fd016c7da21dacd
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     line…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface
-  Experience changes in v2.1.248]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-3-interface-experience-changes-in-v1-0-81|3
   Interface Experience changes in v1.0.81]]'
+- '[[Changes/Midjourney/2026-08-27-drag-images-into-the-prompt-bar-under-attach-to-prompt|Drag
+  images into the prompt bar under "attach to prompt”]]'
 - '[[Changes/OpenHands/2026-08-27-feat-pin-a-favorite-sidebar-page-as-the-home-route-by-hieptl-in-https-github-com|feat:
   pin a favorite sidebar page as the home route]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'

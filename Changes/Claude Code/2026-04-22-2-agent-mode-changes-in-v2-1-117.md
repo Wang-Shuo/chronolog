@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98594ecdf5dd6aa3987e90cfb3b34dc0aa233538eeb59b32d9cdc3fcf6f7178d
+machine_hash: e9de748c35975ac65cba6e212bd2e7baf358dcb8306f10d656ffbec8b90b96f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,11 @@ record:
   title: 2 Agent Mode changes in v2.1.117
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-10-agent-mode-changes-in-rust-v0-122-0|10 Agent
-  Mode changes in rust-v0.122.0]]'
 - '[[Changes/ElevenLabs/2026-04-20-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-20-2-agent-mode-changes-in-v1-0-33|2 Agent
   Mode changes in v1.0.33]]'
+- '[[Changes/OpenCode/2026-04-21-desktop-added-a-setting-to-hide-the-session-progress-bar-while-the-agent-is-work|Desktop
+  Added a setting to hide the session progress bar while the agent is working]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-20-2-agent-mode-changes-in-v1-0-33|2 Agent Mode changes in v1.0.33]]
+- Earlier: 2026-04-21 · OpenCode · [[Changes/OpenCode/2026-04-21-desktop-added-a-setting-to-hide-the-session-progress-bar-while-the-agent-is-work|Desktop Added a setting to hide the session progress bar while the agent is working]]
 - Later: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-kimi-cli-with-kimi-k2-6-excels-at-long-horizon-agentic-execution-tasks-through-a|Kimi CLI with Kimi K2.6 excels at long horizon agentic execution tasks through…]]
 <!-- chronolog:end -->
 

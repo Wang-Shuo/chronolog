@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f1fcfff7be1d647b3522afbcbcbc9a413991bfd4b4b1fea6802e9db3d7e41fe3
+machine_hash: a304a13d9659c5e3a91685b5d5676ea24ec4dbd83523b22b11171e3d793c625b
 product: lovable
 product_name: Lovable
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-2-editor-experience-changes-in-v1-0-70|2 Editor Experience changes in v1.0.70]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor Experience changes in v2.1.208]]
+- Later: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-21-editor-experience-changes-in-v2026-7-1|21 Editor Experience changes in v2026.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

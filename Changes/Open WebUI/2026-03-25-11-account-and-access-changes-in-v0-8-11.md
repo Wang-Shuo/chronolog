@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f97f6bddc4c36ed3cb072dbc811b58355ff393f483b9a2d30721c6981a34b32c
+machine_hash: 864b01f7cf273548deba66cbf52df301584bff82a8635a913b2032c5550b94d1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -96,12 +96,12 @@ record:
   title: 11 Account and Access changes in v0.8.11
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-login-device-flow-works-correctly-in-codespaces-and-remote-terminal-environments|/login
-  device flow works correctly in Codespaces and remote terminal environments]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-23-mcp-oauth-authentication-works-with-mcp-servers-like-the-atlassian-rovo-mcp-serv|MCP
-  OAuth authentication works with MCP servers like the Atlassian Rovo MCP Server…]]'
 - '[[Changes/Gemini CLI/2026-03-24-docs-core-add-authentication-guide-for-remote-subagents-by-adamfweidman-in-https|docs(core):
   add authentication guide for remote subagents]]'
+- '[[Changes/OpenCode/2026-03-24-added-poe-as-a-built-in-authentication-provider-with-oauth-and-api-key-support|Added
+  Poe as a built-in authentication provider with OAuth and API key support]]'
+- '[[Changes/Google Antigravity/2026-03-25-improved-mcp-authentication|Improved MCP
+  authentication]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69|open-webui-2026-03-25-v0-8-11-github-301478856-55ceba69]]'
 source_type: github_releases
 theme: account-access
@@ -167,7 +167,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-docs-core-add-authentication-guide-for-remote-subagents-by-adamfweidman-in-https|docs(core): add authentication guide for remote subagents]]
+- Earlier: 2026-03-25 · Google Antigravity · [[Changes/Google Antigravity/2026-03-25-improved-mcp-authentication|Improved MCP authentication]]
 - Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…]]
 <!-- chronolog:end -->
 

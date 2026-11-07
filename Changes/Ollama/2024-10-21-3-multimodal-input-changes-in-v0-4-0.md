@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f0e953b8ca74c060f35434c2d79f061a2c99ca339b551f64b692a65cb7f57038
+machine_hash: b5aac549b4e2427eefaf143fa27b6f0d2d231b4cb36a1398bcb9c9366b2d9bd6
 product: ollama
 product_name: Ollama
 record:
@@ -45,10 +45,9 @@ record:
   title: 3 Multimodal Input changes in v0.4.0
   type: change
 related_changes:
-- '[[Changes/Dify/2024-09-20-feat-add-hunyuan-vision-by-muzea-in-https-github-com-langgenius-dify-pull-8529|feat:
-  add hunyuan-vision]]'
 - '[[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision
   and prompt caching fixes]]'
+- '[[Changes/Suno/2024-10-10-tips-for-effective-use|Tips for Effective Use]]'
 - '[[Changes/Dify/2024-10-21-if-you-have-a-basic-chatbot-or-text-generator-app-with-the-vision-feature-enable|
   If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…]]'
 source_release: '[[Releases/Ollama/ollama-2024-10-21-v0-4-0-github-180776078-441b6d9b|ollama-2024-10-21-v0-4-0-github-180776078-441b6d9b]]'
@@ -87,7 +86,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.4.0
 ## Nearby in Multimodal Input
 
 - Earlier: 2024-10-21 · Dify · [[Changes/Dify/2024-10-21-if-you-have-a-basic-chatbot-or-text-generator-app-with-the-vision-feature-enable| If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…]]
-- Later: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-enhanced-prompt-handling-in-workflows-added-vision-support-in-prompts-for-more-d|Enhanced Prompt Handling in Workflows: Added vision support in prompts for more…]]
+- Later: 2024-10-25 · Runway · [[Changes/Runway/2024-10-25-introducing-act-one-a-new-way-to-generate-expressive-character-performances-insi|Act-One in Gen-3 Alpha]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 26256bfea4f9f4ffd21651b1c44b12a4586f6e2ca85f1315cac5b9869f8a7a55
+machine_hash: f2013f48195f05cfd457f39e7a410c9a34e55afd3332f4c32b3386adecab845b
 product: dify
 product_name: Dify
 record:
@@ -51,10 +51,10 @@ record:
   title: 5 Pricing Model changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-usage-limit-reset-credits-now-show-their-type-and-expiration-and-let-you-choose|Usage-limit
-  reset credits now show their type and expiration, and let you choose…]]'
 - '[[Changes/Lovable/2026-07-13-functions-usage-is-now-labeled-compute|Functions usage
   is now labeled Compute]]'
+- '[[Changes/OpenClaw/2026-07-13-18-pricing-model-changes-in-v2026-7-1|18 Pricing
+  Model changes in v2026.7.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing
   Model changes in v1.0.71]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
@@ -114,7 +114,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 ## Nearby in Pricing Model
 
 - Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing Model changes in v1.0.71]]
-- Later: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-canceled-plans-show-the-subscription-end-date-in-the-credit-balance-and-checkout|Canceled plans show the subscription end date in the credit balance, and checkout…]]
+- Later: 2026-07-20 · Runway · [[Changes/Runway/2026-07-20-nano-banana-2-is-now-available-in-runway-mcp-generate-images-at-1k-2k-or-4k-reso|Nano Banana 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

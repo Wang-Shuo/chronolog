@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 134661ffdf9d155e8108ba942c414dff205b377e838cdabccf2daf210a97f5ae
+machine_hash: 3e627f4fdf9032b7fabe328c8d361b1bd5c329ed8ebe747da27874fd479afa8e
 product: cline
 product_name: Cline
 record:
@@ -47,12 +47,12 @@ record:
     Reset Chat…
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled
-  jobs in Lovable Cloud]]'
-- '[[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added
-  live file path autocomplete to bash mode (!)]]'
 - '[[Changes/Dify/2026-06-25-3-editor-experience-changes-in-1-15-0|3 Editor Experience
   changes in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-2-editor-experience-changes-in-hub-v2-2-1-antigravity-guide-audio|2
+  Editor Experience changes in HUB v2.2.1 — Antigravity Guide, audio…]]'
+- '[[Changes/OpenCode/2026-06-25-2-editor-experience-changes-in-v1-17-11|2 Editor
+  Experience changes in v1.17.11]]'
 source_release: '[[Releases/Cline/cline-2026-06-26-v4-0-0-github-345514931-9953949f|cline-2026-06-26-v4-0-0-github-345514931-9953949f]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-3-editor-experience-changes-in-1-15-0|3 Editor Experience changes in 1.15.0]]
+- Earlier: 2026-06-25 · OpenCode · [[Changes/OpenCode/2026-06-25-2-editor-experience-changes-in-v1-17-11|2 Editor Experience changes in v1.17.11]]
 - Later: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-the-editor-no-longer-shows-a-false-start-error-when-a-preview-dev-server-or-inst|The editor no longer shows a false start error when a preview, dev server…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce7c7a48bea67455b4dbfe9978056ad2d861db62b3273514dbc1a4fab4329a2d
+machine_hash: 300f60aac56e5e5fa88448d8b04e0f2fb0fbef59f54fa34001327d269322b8f7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-2-apps-and-integrations-changes-in-v2-1-309|2 Apps and Integrations changes in v2.1.309]]
-- Later: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-chore-bump-openhands-extensions-to-0-33-0-by-neubig-in-https-github-com-openhand|chore: bump @openhands/extensions to 0.33.0]]
+- Later: 2026-10-22 · Google Antigravity · [[Changes/Google Antigravity/2026-10-22-3-apps-and-integrations-changes-in-hub-v2-26-0-notifications-settings|3 Apps and Integrations changes in HUB v2.26.0 — Notifications settings…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

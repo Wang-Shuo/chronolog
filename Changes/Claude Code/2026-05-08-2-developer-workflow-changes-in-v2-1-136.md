@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 938f406edf33f4a2c94b25a3479c2406a732c4526d9e68dd3afcc94de837ac00
+machine_hash: 5f992192d0399641b739f238af0c962344cc6a4707847d02ad3dc68cd45931f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.136
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-5-developer-workflow-changes-in-rust-v0-129-0|5
-  Developer Workflow changes in rust-v0.129.0]]'
-- '[[Changes/Cursor/2026-05-07-pr-review|PR review]]'
 - '[[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|Cursor
   introduces a new PR review experience, faster execution on plans through…]]'
+- '[[Changes/OpenCode/2026-05-07-terminal-restored-custom-provider-setup-in-connect|Terminal
+  Restored custom provider setup in /connect]]'
+- '[[Changes/OpenCode/2026-05-07-2-developer-workflow-changes-in-v1-14-40|2 Developer
+  Workflow changes in v1.14.40]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-08-v2-1-136-github-319609716-58f21368|claude-code-2026-05-08-v2-1-136-github-319609716-58f21368]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.136
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|Cursor introduces a new PR review experience, faster execution on plans through…]]
+- Earlier: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-2-developer-workflow-changes-in-v1-14-40|2 Developer Workflow changes in v1.14.40]]
 - Later: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-added-configurable-opentelemetry-trace-metadata-and-richer-review-feedback-analy|Added configurable OpenTelemetry trace metadata and richer review/feedback analytics…]]
 <!-- chronolog:end -->
 

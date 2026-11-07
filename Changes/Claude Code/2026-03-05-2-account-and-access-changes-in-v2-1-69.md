@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 318632f70c7226ec5bebb08559ce724c232709af2a9ad8d2f691186835c00131
+machine_hash: e7b4f76c85fa73f0748a70d0b7b335cd9fa89dce94be03f34de742740cfd63bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Account and Access changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-01-3-account-and-access-changes-in-v0-8-6|3 Account
-  and Access changes in v0.8.6]]'
 - '[[Changes/Codex CLI/2026-03-02-3-account-and-access-changes-in-rust-v0-107-0|3
   Account and Access changes in rust-v0.107.0]]'
+- '[[Changes/OpenCode/2026-03-03-normalize-trailing-slashes-in-auth-login-urls|Normalize
+  trailing slashes in auth login URLs]]'
 - '[[Changes/v0/2026-03-04-added-sign-in-dialog-on-public-chats-for-logged-out-users|Added
   sign-in dialog on public chats for logged-out users]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'

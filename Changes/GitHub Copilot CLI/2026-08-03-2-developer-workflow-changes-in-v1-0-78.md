@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd8e4871c50bf763c00dfae6595d2e638123241f8bedd129a27fb6588a8aa72a
+machine_hash: bc7c79b5417ebd9f308b17715bf33e450c377bf828f8d8addf61d4ddb2dafdcc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Developer Workflow changes in v1.0.78
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-developer-workflow-changes-in-v1-0-76|2
-  Developer Workflow changes in v1.0.76]]'
+- '[[Changes/Google Antigravity/2026-07-31-2-developer-workflow-changes-in-hub-v2-5-0-enterprise-sign-in-gemini|2
+  Developer Workflow changes in HUB v2.5.0 — Enterprise sign-in: Gemini…]]'
 - '[[Changes/v0/2026-07-31-duplicating-a-git-backed-chat-produces-a-working-copy-instead-of-one-that-fails|Duplicating
   a Git-backed chat produces a working copy instead of one that fails to render]]'
 - '[[Changes/Cline/2026-08-02-2-developer-workflow-changes-in-v4-1-3|2 Developer Workflow

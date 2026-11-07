@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4fde435292ac6d6ac5511e709571d576fd1172e96a6928a0deeab1b735c1fba5
+machine_hash: acae32797a20a3713d8977ca09d034f850ac7e65f36ed742ff54e10ae26dc73d
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: Add new slash command menu letting you type…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-09-add-cmd-keyboard-shortcut-to-add-selected-text-to-cline|Add
-  CMD+'' keyboard shortcut to add selected text to Cline]]'
 - "[[Changes/Open WebUI/2025-04-13-translation-updates-across-multiple-languages-refined-catalan-russian-chinese-si|\U0001F30D
   Translation Updates Across Multiple Languages]]"
 - '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
   accessible history]]'
+- '[[Changes/Gamma/2025-04-16-card-numbers-for-easier-navigation-in-pdfs-or-decks|Card
+  numbers for easier navigation in PDFs or decks]]'
 source_release: '[[Releases/Cline/cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21|cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More accessible history]]
-- Later: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience changes in 1.3.0]]
+- Earlier: 2025-04-16 · Gamma · [[Changes/Gamma/2025-04-16-card-numbers-for-easier-navigation-in-pdfs-or-decks|Card numbers for easier navigation in PDFs or decks]]
+- Later: 2025-04-22 · Gamma · [[Changes/Gamma/2025-04-22-just-right-click-from-the-filmstrip-or-tap-the-menu-on-a-card-and-choose-copy-to|Just right-click from the filmstrip or tap the ... menu on a card and choose…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

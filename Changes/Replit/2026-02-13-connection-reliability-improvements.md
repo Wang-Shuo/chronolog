@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d3bae9d2d3aa52cf70419fe4d624e66d21cb82af2afc700d220766ec94cd9a87
+machine_hash: c75a1c046edebe39851653837fb641a74193749f9fe8e0ca9541a0cd47f9e860
 product: replit
 product_name: Replit
 record:
@@ -48,8 +48,8 @@ record:
   title: Connection reliability improvements
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-12-6-apps-and-integrations-changes-in-v0-8-0|6 Apps
-  and Integrations changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-13-core-add-tool-definition-hook-for-plugins-to-modify-tool-description-and-paramet|Core
+  Add tool.definition hook for plugins to modify tool description and parameters]]'
 - '[[Changes/Replit/2026-02-13-bitbucket-integration-improvements|Bitbucket integration
   improvements]]'
 - '[[Changes/Replit/2026-02-13-open-in-replit-button-beta|Open in Replit button (Beta)]]'
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-6-apps-and-integrations-changes-in-v0-8-0|6 Apps and Integrations changes in v0.8.0]]
+- Earlier: 2026-02-13 · OpenCode · [[Changes/OpenCode/2026-02-13-core-add-tool-definition-hook-for-plugins-to-modify-tool-description-and-paramet|Core Add tool.definition hook for plugins to modify tool description and parameters]]
 - Later: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-3-apps-and-integrations-changes-in-v0-0-410|3 Apps and Integrations changes in v0.0.410]]
 <!-- chronolog:end -->
 

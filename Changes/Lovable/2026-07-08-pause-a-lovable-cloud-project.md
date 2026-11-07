@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 541f9a5a4dd45419bfc73c4fa22f1757b1e40ad3f80215cbd07ce1990a7dc3e8
+machine_hash: db40036fc723064025e35b435105fd25385b0c8a9e70b10d0bd5d2d8b3971e04
 product: lovable
 product_name: Lovable
 record:
@@ -51,10 +51,10 @@ record:
   title: Pause a Lovable Cloud project
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed
-  left arrow to no longer close the background tasks, diff, and workflow…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-2-editor-experience-changes-in-v1-0-69|2
   Editor Experience changes in v1.0.69]]'
+- '[[Changes/OpenCode/2026-07-07-desktop-keep-session-tab-titles-available-after-reloads-while-session-data-is-st|Desktop
+  Keep session tab titles available after reloads while session data is still…]]'
 - '[[Changes/Codex CLI/2026-07-08-3-editor-experience-changes-in-rust-v0-143-0|3 Editor
   Experience changes in rust-v0.143.0]]'
 source_release: '[[Releases/Lovable/lovable-2026-07-08-2026-07-08-6cd655f7|lovable-2026-07-08-2026-07-08-6cd655f7]]'

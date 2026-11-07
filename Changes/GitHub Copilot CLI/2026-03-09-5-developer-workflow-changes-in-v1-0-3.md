@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f237a51a50d391ad1f6d1cb7f7060a941d0048231038efd3bc34887665a39e8
+machine_hash: 0a1151505b9abda7fefb184ecd94ba31e8c56adf3c3703b8d759d8223ddeeaec
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 5 Developer Workflow changes in v1.0.3
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-06-users-are-prompted-for-shell-commands-with-potentially-dangerous-expansion-or-su|Users
-  are prompted for shell commands with potentially dangerous expansion…]]'
-- '[[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer
-  Workflow changes in v2.1.71]]'
+- '[[Changes/OpenCode/2026-03-07-2-developer-workflow-changes-in-v1-2-21|2 Developer
+  Workflow changes in v1.2.21]]'
 - '[[Changes/Open WebUI/2026-03-08-17-developer-workflow-changes-in-v0-8-9|17 Developer
   Workflow changes in v0.8.9]]'
+- '[[Changes/OpenCode/2026-03-08-3-developer-workflow-changes-in-v1-2-22|3 Developer
+  Workflow changes in v1.2.22]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137|github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137]]'
 source_type: github_releases
 theme: developer-workflow
@@ -98,8 +98,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-17-developer-workflow-changes-in-v0-8-9|17 Developer Workflow changes in v0.8.9]]
-- Later: 2026-03-09 · Open WebUI · [[Changes/Open WebUI/2026-03-09-2-developer-workflow-changes-in-v0-8-10|2 Developer Workflow changes in v0.8.10]]
+- Earlier: 2026-03-08 · OpenCode · [[Changes/OpenCode/2026-03-08-3-developer-workflow-changes-in-v1-2-22|3 Developer Workflow changes in v1.2.22]]
+- Later: 2026-03-09 · Google Antigravity · [[Changes/Google Antigravity/2026-03-09-removed-command-support|Removed Command support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

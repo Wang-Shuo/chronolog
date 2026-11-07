@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d641d5a22c8984e00a82abf4b6834738a0a15960abfb530148edfb80cf149d60
+machine_hash: 0f8d3892b3cb04a21f2cf2b243be6fcb74537374c21ad170f4da6ef03c89325e
 product: ollama
 product_name: Ollama
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in v0.32.1
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-15-gpt-5-6-and-gemini-text-to-speech-models-for-your-app-s-ai-features|GPT-5.6
-  and Gemini text-to-speech models for your app''s AI features]]'
+- '[[Changes/OpenCode/2026-07-15-core-improved-default-reasoning-depth-for-meta-models|Core
+  Improved default reasoning depth for Meta models]]'
 - '[[Changes/Cline/2026-07-16-add-gpt-5-6-chatgpt-subscription-models|Add GPT-5.6
   ChatGPT subscription models]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-3-model-support-changes-in-v1-0-71|3 Model

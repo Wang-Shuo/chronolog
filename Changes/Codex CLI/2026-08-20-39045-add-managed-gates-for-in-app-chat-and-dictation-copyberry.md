@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8d292fb962c89bbb141137f3d907d2ba2399407071edd40a8977fb40bdb4341
+machine_hash: 88a5ce87beb5d84355b1c68c9f322475d6ae078e8d36cbabd94b939578208eae
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,7 +41,8 @@ record:
   title: '#39045 Add managed gates for in-app chat and dictation @copyberry'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-10-voices|Voices]]'
+- '[[Changes/Suno/2026-08-13-audio-effects-dial-in-your-mix-with-high-quality-audio-effects-including-sidecha|Audio
+  effects: Dial in your mix with high-quality audio effects, including sidechain…]]'
 - '[[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch
   between typing and dictation]]'
 - '[[Changes/ElevenLabs/2026-08-17-packages|Packages]]'
@@ -90,7 +91,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-packages|Packages]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl builds: native image paste, clipboard, and audio-capture add-ons now…]]
+- Later: 2026-08-20 · Google Antigravity · [[Changes/Google Antigravity/2026-08-20-large-binary-attachments-returned-by-connected-mcp-tools-images-pdfs-and-audio-a|Large binary attachments returned by connected MCP tools]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

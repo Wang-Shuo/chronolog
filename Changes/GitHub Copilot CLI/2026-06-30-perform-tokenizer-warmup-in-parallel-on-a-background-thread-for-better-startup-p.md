@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 047c7e380d086cd8e9218ff9909952d2ca195f479b445e2df5ca7ba0b0bb7203
+machine_hash: a23a8063a16d18da6faa5cd81eb4dc8068ebf7260f5bed229425cc8cf9607bcb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
     performance
   type: change
 related_changes:
-- '[[Changes/Dify/2026-06-25-2-reliability-and-performance-changes-in-1-15-0|2 Reliability
-  and Performance changes in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-optimized-file-watching-notifications-to-prevent-visual-flickering-and-improve-p|Optimized
+  file watching notifications to prevent visual flickering and improve…]]'
 - '[[Changes/Ollama/2026-06-25-llm-size-mmproj-offload-by-projector-memory-by-dhiltgen-in-https-github-com-olla|llm:
   size mmproj offload by projector memory]]'
 - '[[Changes/Open WebUI/2026-06-29-6-reliability-and-performance-changes-in-v0-10-0|6

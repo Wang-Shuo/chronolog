@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6366406121c4b6ded2768ab077822fab8e776720204acb8572c3d88a5335a9ea
+machine_hash: 3476134ff08601dd49bb6c26e74e87558a9c33ca249b374ba50429b2d42682b4
 product: openhands
 product_name: OpenHands
 record:
@@ -43,11 +43,12 @@ record:
   title: 'refactor(extensions): name dialog viewport limits'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-10-apps-and-integrations-changes-in-rust-v0-165-0|10
-  Apps and Integrations changes in rust-v0.165.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-27-interactive-and-sdk-autopilot-sessions-keep-waiting-for-attached-background-task|Interactive
-  and SDK Autopilot sessions keep waiting for attached background tasks…]]'
-- '[[Changes/Lovable/2026-10-27-connect-your-app-to-scrive|Connect your app to Scrive]]'
+- '[[Changes/OpenCode/2026-10-27-14-apps-and-integrations-changes-in-v2-2-0|14 Apps
+  and Integrations changes in v2.2.0]]'
+- '[[Changes/OpenCode/2026-10-27-plugins-can-now-attach-and-update-keyed-session-instructions-with-ctx-session-in|Plugins
+  can now attach and update keyed session instructions…]]'
+- '[[Changes/OpenCode/2026-10-27-opencode-ai-root-is-now-the-promise-api|opencode/ai
+  root is now the Promise API]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892|openhands-2026-10-27-v1-34-0-github-425575573-3f638892]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-27 · Lovable · [[Changes/Lovable/2026-10-27-connect-your-app-to-scrive|Connect your app to Scrive]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-22-apps-and-integrations-changes-in-rust-v0-166-0|22 Apps and Integrations changes in rust-v0.166.0]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-opencode-ai-root-is-now-the-promise-api|opencode/ai root is now the Promise API]]
+- Later: 2026-10-28 · Google Antigravity · [[Changes/Google Antigravity/2026-10-28-a-plugin-s-page-now-shows-its-developer-and-version-with-links-to-its-website-an|A plugin's page now shows its developer and version, with links to its website…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

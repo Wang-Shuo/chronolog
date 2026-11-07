@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 52cdbb87253474652f4a4a5bd345b21afef36d246ba767750359c7841254f3c1
+machine_hash: 6d882817f2a99f85160e28e42fcb2086e0beb0aafea94ba9a908b14c09f5426d
 product: lovable
 product_name: Lovable
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-5-interface-experience-changes-in-v1-0-69|5 Interface Experience changes in v1.0.69]]
-- Later: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-3-interface-experience-changes-in-grouped-tool-approvals-richer-mcp|3 Interface Experience changes in Grouped tool approvals, richer MCP…]]
+- Later: 2026-07-07 · OpenCode · [[Changes/OpenCode/2026-07-07-restore-model-details-tooltips-in-the-model-picker|Restore model details tooltips in the model picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

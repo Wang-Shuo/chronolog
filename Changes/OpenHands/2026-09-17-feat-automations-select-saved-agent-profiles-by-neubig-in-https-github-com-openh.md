@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 74658e1504f0fd2e3e67bfd42f33d7c21480c3c4ab17aa8ad9b2b4edb79dc808
+machine_hash: 0ac2757eef145919102fe87944725d71c4511a549e6d8288e69494bbccfd807e
 product: openhands
 product_name: OpenHands
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-17 · Lovable · [[Changes/Lovable/2026-09-17-automate-your-workspace-with-the-lovable-api|Automate your workspace with the Lovable API]]
-- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-4-automation-and-scheduling-changes-in-v0-11-4|4 Automation and Scheduling changes in v0.11.4]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-14-automation-and-scheduling-changes-in-v2026-9-5|14 Automation and Scheduling changes in v2026.9.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

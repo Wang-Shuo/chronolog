@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 23670df00a75280df732a33ca532995cb76ae3de0ed660580b0a9aab6d8c4c54
+machine_hash: 3a3bf0a2d2c106e422a2f5fe2f6f50ed3997d9aafd7ade7722b230718943f8c9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: 5 Apps and Integrations changes in v1.0.14
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-30-5-apps-and-integrations-changes-in-v1-0-13|5
-  Apps and Integrations changes in v1.0.13]]'
+- '[[Changes/OpenCode/2026-03-30-2-apps-and-integrations-changes-in-v1-3-9-1|2 Apps
+  and Integrations changes in v1.3.9 + 1]]'
 - '[[Changes/OpenHands/2026-03-30-added-support-for-hooks-by-xingyaoww-in-https-github-com-openhands-openhands-pul|Added
   support for hooks]]'
 - '[[Changes/Codex CLI/2026-03-31-12-apps-and-integrations-changes-in-rust-v0-118-0|12
@@ -103,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.14
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-12-apps-and-integrations-changes-in-rust-v0-118-0|12 Apps and Integrations changes in rust-v0.118.0]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-3-apps-and-integrations-changes-in-v2-1-89|3 Apps and Integrations changes in v2.1.89]]
+- Later: 2026-03-31 · OpenCode · [[Changes/OpenCode/2026-03-31-4-apps-and-integrations-changes-in-v1-3-12-2|4 Apps and Integrations changes in v1.3.12 + 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

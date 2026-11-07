@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a1bddecc3f9ce85e0b4cf2b84fe93c4d998bd2e78b6917fffebb57b04113ba92
+machine_hash: 0e2af6534b4874584f987a6bb34fdf3b0c358bdebb8563beb9cf13fed3a4f610
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
     like…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-10-2-editor-experience-changes-in-v0-7-2|2 Editor
-  Experience changes in v0.7.2]]'
+- '[[Changes/OpenCode/2026-01-11-desktop-make-mouse-hover-and-click-work-on-prompt-input-autocomplete|Desktop
+  Make mouse hover and click work on prompt input autocomplete]]'
 - '[[Changes/v0/2026-01-12-blocked-sending-new-messages-when-pending-edits-exist|Blocked
   sending new messages when pending edits exist]]'
 - '[[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor

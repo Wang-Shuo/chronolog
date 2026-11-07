@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a4c494d9b9ddb4bbc9d5b77aa6f987409ad1361b5aec3832a87b9c7b168f3ce
+machine_hash: 2e1f5f985fd03679367c87788fd3b2d5ccd3b4b0fb6c0d8a1bcfcd3f4bd4c0ea
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Permissions now respect content-level `ask` over tool-level `allow`
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-27-2-safety-and-privacy-changes-in-rust-v0-92-0|2 Safety
-  and Privacy changes in rust-v0.92.0]]'
 - '[[Changes/Gemini CLI/2026-01-28-3-safety-and-privacy-changes-in-v0-26-0|3 Safety
   and Privacy changes in v0.26.0]]'
 - '[[Changes/Claude Code/2026-01-29-fixed-per-user-temp-directory-isolation-to-prevent-permission-conflicts-on-share|Fixed
   per-user temp directory isolation to prevent permission conflicts on shared systems]]'
+- '[[Changes/OpenCode/2026-01-29-core-allow-media-src-data-url-for-small-audio-files-in-content-security-policy|Core
+  Allow media-src data: URL for small audio files in Content Security Policy]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-fixed-per-user-temp-directory-isolation-to-prevent-permission-conflicts-on-share|Fixed per-user temp directory isolation to prevent permission conflicts on shared systems]]
+- Earlier: 2026-01-29 · OpenCode · [[Changes/OpenCode/2026-01-29-core-allow-media-src-data-url-for-small-audio-files-in-content-security-policy|Core Allow media-src data: URL for small audio files in Content Security Policy]]
 - Later: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-acp-server-support-permission-flags-yolo-allow-all-etc-and-permissions-config|ACP server support permission flags: --yolo, --allow-all, etc. and permissions config]]
 <!-- chronolog:end -->
 

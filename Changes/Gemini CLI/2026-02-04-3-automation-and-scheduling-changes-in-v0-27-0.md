@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 820474021e1cf957dccc8539cfb549e74f1e92123e3e3b681e1e27b0eb19295a
+machine_hash: c09a1f0e101d7ec45db353b808d3971d6a1686f1773f403c300a0c4d821f7552
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Automation and Scheduling changes in v0.27.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-2-automation-and-scheduling-changes-in-v0-25-0|2
-  Automation and Scheduling changes in v0.25.0]]'
 - '[[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent
   automations]]'
+- '[[Changes/Suno/2026-01-27-sounds-is-a-new-create-mode-that-lets-you-create-individual-one-shot-samples-and|Sounds
+  is a new Create mode that lets you create individual one-shot samples…]]'
 - '[[Changes/Gemini CLI/2026-01-28-12-automation-and-scheduling-changes-in-v0-26-0|12
   Automation and Scheduling changes in v0.26.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835|gemini-cli-2026-02-04-v0-27-0-github-282779403-9d866835]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 621accfabb3afe4241cc3700dfcdba43750909edd3b56ba3fa103cb5d577e942
+machine_hash: c4b996a0a633569fb7bdc8ed7275c2e8a4a9162ed5c40429283e1a57ce5f4e1e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Account and Access changes in v0.0.384
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-2-account-and-access-changes-in-rust-v0-81-0|2 Account
-  and Access changes in rust-v0.81.0]]'
+- '[[Changes/OpenCode/2026-01-14-core-skip-duplicate-system-prompt-for-codex-oauth-sessions|Core
+  Skip duplicate system prompt for Codex OAuth sessions]]'
 - '[[Changes/Dify/2026-01-15-redirect-after-login-we-ve-sorted-out-the-login-redirects-to-bring-you-back-to-y|Redirect
   After Login]]'
 - '[[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]'
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.384
 ## Nearby in Account and Access
 
 - Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]
-- Later: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-two-factor-authentication-2fa|Two-factor authentication (2FA)]]
+- Later: 2026-01-16 · Granola · [[Changes/Granola/2026-01-16-better-copy-paste-to-slack-friendlier-sign-in-errors-and-a-refreshed-calendar-pe|What's New: January 16, 2026]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

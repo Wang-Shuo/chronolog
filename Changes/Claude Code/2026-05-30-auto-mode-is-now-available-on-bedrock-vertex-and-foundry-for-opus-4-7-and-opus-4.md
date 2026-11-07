@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: c765cc251d9cc3f472f773e316a423e5ade01bcb46df3e7b5bdeec3b91b42ff9
+machine_hash: 2116e18868d40b58eabc525042b86715606bd8c9490eb83a8f9699e9b431af82
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
     Opus 4.8
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-28-2-model-support-changes-in-v3-86-0|2 Model Support changes
-  in v3.86.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-3-model-support-changes-in-v1-0-55|3 Model
   Support changes in v1.0.55]]'
+- '[[Changes/OpenCode/2026-05-28-2-model-support-changes-in-v1-15-12|2 Model Support
+  changes in v1.15.12]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-2-model-support-changes-in-v1-0-56|2 Model
   Support changes in v1.0.56]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-30-v2-1-158-github-331845855-ec9308fc|claude-code-2026-05-30-v2-1-158-github-331845855-ec9308fc]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-model-support-changes-in-v1-0-56|2 Model Support changes in v1.0.56]]
-- Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-5-model-support-changes-in-rust-v0-136-0|5 Model Support changes in rust-v0.136.0]]
+- Later: 2026-05-30 · OpenCode · [[Changes/OpenCode/2026-05-30-core-gateway-anthropic-opus-4-7-adaptive-reasoning-now-keeps-summarized-thinking|Core Gateway Anthropic Opus 4.7+ adaptive reasoning now keeps summarized thinking…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

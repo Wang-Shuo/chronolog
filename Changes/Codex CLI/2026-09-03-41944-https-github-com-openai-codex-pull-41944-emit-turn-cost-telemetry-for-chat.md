@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: f893f48cdcabd08b36e70a9f0d7b0d66614c12ba1289ed573fc2ff594a260b53
+machine_hash: 1b6cb22e40493bb9350e1d3953b139924f3d1d0e134d09c3a274e84a8a76a9ad
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: '[#41944](https://github.com/openai/codex/pull/41944) Emit turn cost telemetry…'
   type: change
 related_changes:
-- '[[Changes/v0/2026-08-28-4-pricing-model-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
-  Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…]]'
 - '[[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit
   banners offer actions for checking usage, managing credits, resetting…]]'
+- '[[Changes/OpenClaw/2026-09-01-usage-and-status-views-now-carry-cumulative-output-token-totals-through-tool-cal|Usage
+  and status views now carry cumulative output-token totals through tool calls…]]'
 - '[[Changes/Cline/2026-09-02-cost-estimates-no-longer-appear-in-task-history-for-subscription-billed-tasks-cl|Cost
   estimates no longer appear in task history for subscription-billed tasks…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f|codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-cost-estimates-no-longer-appear-in-task-history-for-subscription-billed-tasks-cl|Cost estimates no longer appear in task history for subscription-billed tasks…]]
-- Later: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-transfer-primary-ownership-of-your-workspace|Transfer primary ownership of your workspace]]
+- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-3-pricing-model-changes-in-v2026-9-2|3 Pricing Model changes in v2026.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 499914e6590fe436df6309316c9e22b46899c1e60f28af4d98bf9aea993971f4
+machine_hash: 2fc6a10ffdff171be1aed92719e49b5bf2a4a3e1410c3655ecfd3787777e8de0
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     memory…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2
-  Reliability and Performance changes in v0.34.1]]'
 - '[[Changes/Claude Code/2026-09-15-improved-responsiveness-in-long-sessions-hook-progress-and-sub-agent-activity-no|Improved
   responsiveness in long sessions]]'
+- '[[Changes/Google Antigravity/2026-09-15-removed-a-redundant-scan-of-your-skills-rules-and-other-customization-files-that|Removed
+  a redundant scan of your skills, rules, and other customization files…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-speed-up-startup-when-resuming-an-existing-local-session-by-its-exact-uuid-with|Speed
   up startup when resuming an existing local session by its exact UUID with --resume]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-speed-up-startup-when-resuming-an-existing-local-session-by-its-exact-uuid-with|Speed up startup when resuming an existing local session by its exact UUID with --resume]]
-- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-5-reliability-and-performance-changes-in-v2026-9-5|5 Reliability and Performance changes in v2026.9.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

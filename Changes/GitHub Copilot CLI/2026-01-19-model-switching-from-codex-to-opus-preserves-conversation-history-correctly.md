@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c5f2634098d5a8df4d166af9209d3978865cd72b329e44a0610300b6d79c4372
+machine_hash: e31f88f076c76fdc3c0878837498cf48c9664a2efa029dd9ca78cf0dd6b0b64f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: Model switching from Codex to Opus preserves conversation history correctly
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-01-16-2-model-support-changes-in-v0-14-3|2 Model Support
-  changes in v0.14.3]]'
 - '[[Changes/Ollama/2026-01-16-translategemma-https-ollama-com-library-translategemma-a-new-collection-of-open|TranslateGemma((source
   link) A new collection…]]'
+- '[[Changes/OpenCode/2026-01-16-2-model-support-changes-in-v1-1-24|2 Model Support
+  changes in v1.1.24]]'
 - '[[Changes/Windsurf/2026-01-16-improvements-to-gpt-5-2-codex-harness|Improvements
   to GPT-5.2-Codex harness]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-19-v0-0-385-github-278028953-d0ad2806|github-copilot-cli-2026-01-19-v0-0-385-github-278028953-d0ad2806]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-01-16 · Windsurf · [[Changes/Windsurf/2026-01-16-improvements-to-gpt-5-2-codex-harness|Improvements to GPT-5.2-Codex harness]]
-- Later: 2026-01-20 · ChatGPT · [[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling out age prediction]]
+- Later: 2026-01-19 · OpenCode · [[Changes/OpenCode/2026-01-19-4-model-support-changes-in-v1-1-26|4 Model Support changes in v1.1.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

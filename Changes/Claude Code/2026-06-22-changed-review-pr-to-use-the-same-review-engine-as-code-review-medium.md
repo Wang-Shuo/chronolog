@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3ca549537a4863ce855235889791d989bb86ba18a24233f9255ed4bb6f84c8ae
+machine_hash: afb10aa038892765b27820a99eb77315fa45956910274f6c9aae3edfe241d122
 product: claude-code
 product_name: Claude Code
 record:
@@ -40,11 +40,12 @@ record:
   title: Changed `/review <pr>` to use the same review engine as `/code-review medium`
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]]'
 - '[[Changes/Codex CLI/2026-06-18-7-developer-workflow-changes-in-rust-v0-141-0|7
   Developer Workflow changes in rust-v0.141.0]]'
 - '[[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed
   the startup "setup issues" line under the logo]]'
+- '[[Changes/OpenCode/2026-06-21-terminal-only-show-the-background-subagent-shortcut-when-the-server-supports-it|Terminal
+  Only show the background subagent shortcut when the server supports it]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b|claude-code-2026-06-22-v2-1-186-github-343079393-93ecc37b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-removed-the-startup-setup-issues-line-under-the-logo-run-doctor-to-see-configura|Removed the startup "setup issues" line under the logo]]
+- Earlier: 2026-06-21 · OpenCode · [[Changes/OpenCode/2026-06-21-terminal-only-show-the-background-subagent-shortcut-when-the-server-supports-it|Terminal Only show the background subagent shortcut when the server supports it]]
 - Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-4-developer-workflow-changes-in-rust-v0-142-0|4 Developer Workflow changes in rust-v0.142.0]]
 <!-- chronolog:end -->
 

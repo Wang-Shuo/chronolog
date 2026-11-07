@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 574521cf28c05843527a02134c32b6cfc98a04f1fff9028d909f76652c3b06b8
+machine_hash: 3c3fbd48b327301f3b7e1deb2671b18ee5a302140bf0cc350445b1c7b795746a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Context Window changes in rust-v0.144.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-warn-when-static-context-uses-most-of-the-prompt-budget-and-block-requests-when|Warn
-  when static context uses most of the prompt budget and block requests…]]'
+- '[[Changes/OpenCode/2026-07-07-core-better-classify-z-ai-context-window-overflow-errors-so-oversized-requests-s|Core
+  Better classify Z.ai context-window overflow errors so oversized requests…]]'
 - '[[Changes/Claude Code/2026-07-08-improved-auto-mode-to-ask-before-running-rm-rf-on-a-variable-it-can-t-resolve-fr|Improved
   auto mode to ask before running rm -rf on a variable it can''t resolve…]]'
 - '[[Changes/Codex CLI/2026-07-08-12-context-window-changes-in-rust-v0-143-0|12 Context

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f235c620aeca7d0cfbc9dec1a8da63f6fd33a84b41888f6a2522f2b9367074f
+machine_hash: 95b1934ccbc215f471b23bc46e8be128a6c512ca7a47ed46e067350abd585e27
 product: ollama
 product_name: Ollama
 record:
@@ -40,12 +40,12 @@ record:
   title: Claude Code on the terminal can still be accessed through the CLI with
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-3-developer-workflow-changes-in-v2-1-126|3 Developer
-  Workflow changes in v2.1.126]]'
 - '[[Changes/Cline/2026-05-01-restore-vs-code-foreground-terminal-support-and-settings|Restore
   VS Code foreground terminal support and settings]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-slash-command-suggestions-rank-prefix-matches-above-fuzzy-matches|Slash
   command suggestions rank prefix matches above fuzzy matches]]'
+- '[[Changes/OpenCode/2026-05-02-2-developer-workflow-changes-in-v1-14-33-1|2 Developer
+  Workflow changes in v1.14.33 + 1]]'
 source_release: '[[Releases/Ollama/ollama-2026-05-03-v0-23-0-github-316795929-a73ed73c|ollama-2026-05-03-v0-23-0-github-316795929-a73ed73c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-slash-command-suggestions-rank-prefix-matches-above-fuzzy-matches|Slash command suggestions rank prefix matches above fuzzy matches]]
-- Later: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-3-developer-workflow-changes-in-v0-41-0|3 Developer Workflow changes in v0.41.0]]
+- Earlier: 2026-05-02 · OpenCode · [[Changes/OpenCode/2026-05-02-2-developer-workflow-changes-in-v1-14-33-1|2 Developer Workflow changes in v1.14.33 + 1]]
+- Later: 2026-05-04 · OpenCode · [[Changes/OpenCode/2026-05-04-5-developer-workflow-changes-in-v1-14-34|5 Developer Workflow changes in v1.14.34]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

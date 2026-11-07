@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 67f92ae56b16971deb2ebab9a6d5e9dea6f1f7448bd27060430ef21a030fbf72
+machine_hash: 3eceadd3d4a2831bfc38093217e0a5a9101fa4efef7b75ea4b6af5c7cef97ba2
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -62,7 +62,8 @@ record:
   title: JavaScript SDK
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-09-11-scribe-v2-medical|Scribe v2 Medical]]'
+- '[[Changes/OpenClaw/2026-09-11-20-model-support-changes-in-v2026-9-4|20 Model Support
+  changes in v2026.9.4]]'
 - '[[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|Changes
   to automatic switching to thinking in ChatGPT (Plus and Pro)]]'
 - '[[Changes/Claude Code/2026-09-14-2-model-support-changes-in-v2-1-271|2 Model Support

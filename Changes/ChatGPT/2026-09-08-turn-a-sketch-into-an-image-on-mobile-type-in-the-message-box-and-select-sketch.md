@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe7c4717c8f940d1733177aedde115dc5e219e6ff515f6e992a5ce71dc2ea7cf
+machine_hash: adb831b7da249538fd1d5aced61ac1f1c1f17e6bf48d209725a67c9a269beb83
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: Turn a sketch into an image
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-02-download-the-mobile-app-from-your-settings|Download
-  the mobile app from your settings]]'
-- '[[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile
-  and Desktop changes in v2.1.260]]'
-- '[[Changes/Codex CLI/2026-09-03-42068-https-github-com-openai-codex-pull-42068-detect-standalone-installs-from-t|♯42068((source
-  link) Detect standalone installs…]]'
+- '[[Changes/OpenClaw/2026-09-03-10-mobile-and-desktop-changes-in-v2026-9-1|10 Mobile
+  and Desktop changes in v2026.9.1]]'
+- '[[Changes/OpenCode/2026-09-04-desktop-increase-the-open-in-app-icon-size-for-better-visibility|Desktop
+  Increase the open-in app icon size for better visibility]]'
+- '[[Changes/OpenClaw/2026-09-05-10-mobile-and-desktop-changes-in-v2026-9-2|10 Mobile
+  and Desktop changes in v2026.9.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d|chatgpt-2026-09-08-chatgpt-images-2-5-new-ways-to-create-and-edit-11ada24d]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-42068-https-github-com-openai-codex-pull-42068-detect-standalone-installs-from-t|♯42068((source link) Detect standalone installs…]]
-- Later: 2026-09-08 · Windsurf · [[Changes/Windsurf/2026-09-08-devin-desktop|Devin Desktop]]
+- Earlier: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-10-mobile-and-desktop-changes-in-v2026-9-2|10 Mobile and Desktop changes in v2026.9.2]]
+- Later: 2026-09-08 · OpenClaw · [[Changes/OpenClaw/2026-09-08-10-mobile-and-desktop-changes-in-v2026-9-3|10 Mobile and Desktop changes in v2026.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

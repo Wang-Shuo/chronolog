@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d9628cffec6a6841c242d3ce144ba73d0301acdd8f9176293ca86f305d88e20
+machine_hash: a0949aa6a9be14c0967137f5acd1329de0a3024d9b460dc536b3d32e06f85634
 product: dify
 product_name: Dify
 record:
@@ -62,11 +62,11 @@ record:
   title: 9 Developer Workflow changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-15-developer-workflow-changes-in-v1-0-64|15
-  Developer Workflow changes in v1.0.64]]'
 - '[[Changes/Windsurf/2026-06-23-cli-and-devin-local|CLI and Devin Local]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove
   syntax highlighting from shell commands in the timeline]]'
+- '[[Changes/OpenCode/2026-06-24-3-developer-workflow-changes-in-v1-17-10|3 Developer
+  Workflow changes in v1.17.10]]'
 source_release: '[[Releases/Dify/dify-2026-06-25-1-15-0-github-344699591-4dd01045|dify-2026-06-25-1-15-0-github-344699591-4dd01045]]'
 source_type: github_releases
 theme: developer-workflow
@@ -129,7 +129,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove syntax highlighting from shell commands in the timeline]]
+- Earlier: 2026-06-24 · OpenCode · [[Changes/OpenCode/2026-06-24-3-developer-workflow-changes-in-v1-17-10|3 Developer Workflow changes in v1.17.10]]
 - Later: 2026-06-25 · Gemini CLI · [[Changes/Gemini CLI/2026-06-25-feat-add-eval-inventory-cli-command-and-reporting-logic-by-ved015-in-https-githu|feat: add eval:inventory CLI command and reporting logic]]
 <!-- chronolog:end -->
 

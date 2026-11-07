@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41c3d5cbef794ee854335b187b31765709b22b0b9ff1ceebe08975369d40073d
+machine_hash: 3c5dd16148466fc6efc18fffb337bf2511ee0b5eec407d8a96d588d47d17976f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in v1.0.76
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-07-28-2-model-support-changes-in-v0-53-0|2 Model Support
-  changes in v0.53.0]]'
+- '[[Changes/OpenCode/2026-07-28-desktop-added-collapsible-model-provider-sections-in-v2-settings|Desktop
+  Added collapsible model provider sections in V2 settings]]'
 - '[[Changes/Codex CLI/2026-07-29-3-model-support-changes-in-rust-v0-146-0|3 Model
   Support changes in rust-v0.146.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-allow-reasoning-effort-to-be-omitted-so-the-server-can-select-the-default|Allow

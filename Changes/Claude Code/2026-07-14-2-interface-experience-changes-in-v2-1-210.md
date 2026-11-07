@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e75d820fe49545c427ebab8317d980ca11958a1b252a5854798dd93b883a888
+machine_hash: 152abc8e39bd4600ee58461a789b7194e6da99a4f69d2d1bdf01c130b63773d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Interface Experience changes in v2.1.210
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4
-  Interface Experience changes in v1.0.70]]'
-- '[[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved
-  agent view]]'
+- '[[Changes/Google Antigravity/2026-07-13-added-support-for-attaching-and-rendering-plain-text-txt-files-in-conversations|Added
+  support for attaching and rendering plain text (.txt) files in conversations…]]'
+- '[[Changes/OpenClaw/2026-07-13-64-interface-experience-changes-in-v2026-7-1|64 Interface
+  Experience changes in v2026.7.1]]'
 - '[[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added
   mouse-click support for multi-select menus and "Other" input rows in fullscreen
   mode]]'
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.210
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added mouse-click support for multi-select menus and "Other" input rows in fullscreen mode]]
-- Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|Improved terminal layout and rendering performance]]
+- Later: 2026-07-14 · OpenCode · [[Changes/OpenCode/2026-07-14-2-interface-experience-changes-in-v1-18-1-1|2 Interface Experience changes in v1.18.1 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2c6f786b93c19af1ede37a4e289de2d7aa2f876b1f62dceaca311a8e631b862
+machine_hash: db4535117cb148f6f723d9c624661c5c083e31d989cacd05a6af71705108f08b
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,11 +50,12 @@ record:
   title: 2 Mobile and Desktop changes in v0.11.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-20-android-sdk|Android SDK]]'
 - '[[Changes/Codex CLI/2026-07-21-3-mobile-and-desktop-changes-in-rust-v0-145-0|3
   Mobile and Desktop changes in rust-v0.145.0]]'
 - '[[Changes/Lovable/2026-07-24-open-projects-in-background-tabs-on-desktop|Open projects
   in background tabs on desktop]]'
+- '[[Changes/OpenCode/2026-07-24-15-mobile-and-desktop-changes-in-v1-18-5|15 Mobile
+  and Desktop changes in v1.18.5]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f|open-webui-2026-07-27-v0-11-0-github-360322252-5f18424f]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -107,8 +108,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-24 · Lovable · [[Changes/Lovable/2026-07-24-open-projects-in-background-tabs-on-desktop|Open projects in background tabs on desktop]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-2-mobile-and-desktop-changes-in-rust-v0-146-0|2 Mobile and Desktop changes in rust-v0.146.0]]
+- Earlier: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-15-mobile-and-desktop-changes-in-v1-18-5|15 Mobile and Desktop changes in v1.18.5]]
+- Later: 2026-07-27 · OpenCode · [[Changes/OpenCode/2026-07-27-2-mobile-and-desktop-changes-in-v1-18-7-1|2 Mobile and Desktop changes in v1.18.7 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

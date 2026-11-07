@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9382468454c030318e38841bc1da76c86295ab1eb20e2c3cef8596d094b6cf8
+machine_hash: b5710792e1995ef4543389027f61c5b425f580943b2a9d9ddfd178b1677ceb6b
 product: ollama
 product_name: Ollama
 record:
@@ -39,12 +39,12 @@ record:
   title: Report cached prompt tokens
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-improved-retry-when-the-model-s-tool-call-is-malformed-the-broken-output-is-now|Improved
-  retry when the model''s tool call is malformed]]'
-- '[[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring
-  your browser into Work and Codex]]'
 - '[[Changes/Codex CLI/2026-09-01-9-context-window-changes-in-rust-v0-152-0|9 Context
   Window changes in rust-v0.152.0]]'
+- '[[Changes/OpenClaw/2026-09-01-3-context-window-changes-in-v2026-8-2|3 Context Window
+  changes in v2026.8.2]]'
+- '[[Changes/Google Antigravity/2026-09-02-you-can-now-highlight-portions-of-antigravity-responses-to-quote-as-context-for|Highlight
+  portions of Antigravity responses to quote as context for follow-up prompts]]'
 source_release: '[[Releases/Ollama/ollama-2026-09-02-v0-33-3-github-380898665-cefaaea2|ollama-2026-09-02-v0-33-3-github-380898665-cefaaea2]]'
 source_type: github_releases
 theme: context-window
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-9-context-window-changes-in-rust-v0-152-0|9 Context Window changes in rust-v0.152.0]]
+- Earlier: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-you-can-now-highlight-portions-of-antigravity-responses-to-quote-as-context-for|Highlight portions of Antigravity responses to quote as context for follow-up prompts]]
 - Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context Window changes in v2.1.260]]
 <!-- chronolog:end -->
 

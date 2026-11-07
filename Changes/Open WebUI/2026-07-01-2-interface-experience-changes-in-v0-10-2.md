@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: deda3ecd8f25bd0a8c866b133cc5886500f662c0562b3598f5d3ca7dc4a788f5
+machine_hash: 93779c6e190292c60ff9d385a9f41cafc7fc3d0bf07ebf3bf0135eeb23475814
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,8 +49,8 @@ record:
   title: 2 Interface Experience changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-3-interface-experience-changes-in-v1-0-66|3
-  Interface Experience changes in v1.0.66]]'
+- '[[Changes/OpenClaw/2026-06-30-3-interface-experience-changes-in-v2026-6-11|3 Interface
+  Experience changes in v2026.6.11]]'
 - '[[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface
   Experience changes in v2.1.198]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2

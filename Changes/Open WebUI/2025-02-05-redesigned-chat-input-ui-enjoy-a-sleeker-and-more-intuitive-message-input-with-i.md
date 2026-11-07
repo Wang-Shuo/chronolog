@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bad2fd9de9e4be3ad7d0840f7f92e30100bf1d4b6dbc211337ec821e122b4cb6
+machine_hash: b87658b8b1030d64176f3d755cf234e54973c90e5a1b7da769fc74ee05c9dbbe
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,11 +47,11 @@ record:
   title: "**\U0001F4AC Redesigned Chat Input UI**"
   type: change
 related_changes:
-- '[[Changes/Dify/2025-01-13-knowledge-api-toc-added-a-table-of-contents-to-the-knowledge-api-documentation-t|Knowledge
-  API ToC]]'
 - '[[Changes/Open WebUI/2025-01-22-general-ui-ux-refinements-numerous-tweaks-across-the-webui-make-navigation-and-u|✨
   General UI/UX Refinements]]'
 - '[[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]'
+- '[[Changes/Gamma/2025-02-05-exciting-news-for-smart-layouts-gamma-just-got-even-smarter-we-ve-added-more-cir|Circle
+  Smart Layouts Have Arrived]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-05-v0-5-8-github-198528853-726db0ce|open-webui-2025-02-05-v0-5-8-github-198528853-726db0ce]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-01-31 · Aider · [[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]
+- Earlier: 2025-02-05 · Gamma · [[Changes/Gamma/2025-02-05-exciting-news-for-smart-layouts-gamma-just-got-even-smarter-we-ve-added-more-cir|Circle Smart Layouts Have Arrived]]
 - Later: 2025-02-06 · Aider · [[Changes/Aider/2025-02-06-https-aider-chat-history-html|(source link)]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7983a7bb2ddea1823cfa1abb17ab033f9be13f4accca82432bf079e64762d20b
+machine_hash: 05c0e051ba5f93e9b17724d4c3ab44cceeb33982034a9e1044d15fa185a1c34e
 product: cline
 product_name: Cline
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|Fixed voice mode silently failing on the macOS native binary for users whose…]]
-- Later: 2026-03-12 · v0 · [[Changes/v0/2026-03-12-improved-snowflake-deployment-error-messages-for-permission-issues|Improved Snowflake deployment error messages for permission issues]]
+- Later: 2026-03-12 · OpenCode · [[Changes/OpenCode/2026-03-12-2-safety-and-privacy-changes-in-v1-2-25|2 Safety and Privacy changes in v1.2.25]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b804e1cebb67d2791bccb44570b59c469bfceb7b2d2a7aece8cca2ced9be6916
+machine_hash: c3c3b1fec1eeef08e52e3cadd20138a33f74834abdb8f128ebb330b35b69bac5
 product: cline
 product_name: Cline
 record:
@@ -45,7 +45,8 @@ record:
     Cline provider'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-06-08-text-to-speech|Text to Speech]]'
+- '[[Changes/Manus/2025-06-09-veo3-allows-for-that-extra-visual-finesse-in-comparison-to-our-default-model-the|Veo3
+  allows for that extra visual finesse in comparison to our default model]]'
 - '[[Changes/Ollama/2025-06-09-6-model-support-changes-in-v0-9-1|6 Model Support changes
   in v0.9.1]]'
 - '[[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 190a754a4b7d1e236c9ac17f1ed5b85171977b39e91f2fc3d830b06a2420c246
+machine_hash: 02bbe7dc4c74bc61fab2f4712d413f3ea9455848b92fd3945c95b68417764440
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,11 @@ record:
   title: 2 Agent Mode changes in v2.1.269
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s|Powered
-  by Cloud Agents]]'
 - '[[Changes/Cursor/2026-09-10-subscriptions|Subscriptions]]'
 - '[[Changes/Dify/2026-09-10-42-agent-mode-changes-in-1-17-1|42 Agent Mode changes
   in 1.17.1]]'
+- '[[Changes/Runway/2026-09-10-agent-can-now-create-and-edit-brand-kits-for-you-right-in-the-conversation-group|Agent
+  Brand Kits]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: agent-mode
@@ -92,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-42-agent-mode-changes-in-1-17-1|42 Agent Mode changes in 1.17.1]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-7-agent-mode-changes-in-v2-1-271|7 Agent Mode changes in v2.1.271]]
+- Earlier: 2026-09-10 · Runway · [[Changes/Runway/2026-09-10-agent-can-now-create-and-edit-brand-kits-for-you-right-in-the-conversation-group|Agent Brand Kits]]
+- Later: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-25-agent-mode-changes-in-v2026-9-4|25 Agent Mode changes in v2026.9.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

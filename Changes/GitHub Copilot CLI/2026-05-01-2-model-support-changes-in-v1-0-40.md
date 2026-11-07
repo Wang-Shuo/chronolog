@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55291912d212974d352e0776b7bbd7eb8ed5cd09619adf1bb02557e72d31f988
+machine_hash: 5a3ac52c36bf4f6d350644b69fe9a7294f975f2448efd5c1b07589a19c7233ff
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.40
 ## Nearby in Model Support
 
 - Earlier: 2026-05-01 · Cline · [[Changes/Cline/2026-05-01-2-model-support-changes-in-v3-82-0|2 Model Support changes in v3.82.0]]
-- Later: 2026-05-01 · OpenHands · [[Changes/OpenHands/2026-05-01-added-llm-model-on-conversation-cards-and-header-by-sjathin-in-https-github-com|Added LLM model on conversation cards and header]]
+- Later: 2026-05-01 · OpenCode · [[Changes/OpenCode/2026-05-01-desktop-restoring-saved-messages-no-longer-crashes-the-app-when-a-model-is-missi|Desktop Restoring saved messages no longer crashes the app when a model is missing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

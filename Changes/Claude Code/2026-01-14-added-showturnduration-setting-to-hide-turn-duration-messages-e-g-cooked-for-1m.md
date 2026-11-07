@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b611cc0698058160bdeca5b9b7df62873b9fa8c631a135cfd55f48b568362b0
+machine_hash: 3a90abc114c71bc3d97a05ead71f4b64fcf018a32ddcf9e0a09667e997e24892
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     for 1m 6s")
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added
-  Updates section to /doctor showing auto-update channel and available npm…]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-13-shell-mode-history-navigation-now-filters-by-prefix-typing-git-and-pressing-up-a|Shell
-  mode history navigation now filters by prefix - typing !git and pressing up…]]'
+- '[[Changes/Google Antigravity/2026-01-13-new-settings-to-allow-disabling-conversation-history-and-knowledge|New
+  Settings to allow disabling conversation history and knowledge]]'
+- '[[Changes/OpenCode/2026-01-13-core-fix-max-completion-tokens-error-for-cloudflare-provider|Core
+  Fix max completion tokens error for Cloudflare provider]]'
 - '[[Changes/v0/2026-01-13-added-credits-display-in-the-user-menu|Added credits display
   in the user menu]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'

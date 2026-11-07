@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 54b7eb1e630ee9a7a86a010dc53e90db368ef936d7bd495c6c4bbaeed4a479b1
+machine_hash: 4c5b2c9b0c80418a161bb8ddb94415077f65fb92b5999e8b7f67a51afcf27161
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: use macos-latest-large runner where applicable
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-2-mobile-and-desktop-changes-in-rust-v0-122-0|2
-  Mobile and Desktop changes in rust-v0.122.0]]'
 - '[[Changes/Open WebUI/2026-04-21-2-mobile-and-desktop-changes-in-v0-9-0|2 Mobile
   and Desktop changes in v0.9.0]]'
+- '[[Changes/OpenCode/2026-04-21-3-mobile-and-desktop-changes-in-v1-14-20|3 Mobile
+  and Desktop changes in v1.14.20]]'
 - '[[Changes/Ollama/2026-04-22-fixed-model-picker-showing-stale-model-after-switching-chats-in-the-macos-app|Fixed
   model picker showing stale model after switching chats in the macOS app]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c|gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c]]'

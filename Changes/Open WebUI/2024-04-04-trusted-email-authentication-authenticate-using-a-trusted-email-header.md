@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1541b1f90fdc13a9f373aa21445e696aef91def0c53ebc3310e6edaa514fb30b
+machine_hash: b1b79011429dc13032e9fc29580600c2cff5f6a0b10f89b8d5e20c2eebdfdda4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2024-04-01 · ChatGPT · [[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start using ChatGPT instantly]]
-- Later: 2024-05-08 · Open WebUI · [[Changes/Open WebUI/2024-05-08-auth-disable-option-introducing-the-ability-to-disable-authentication-set-webui|🔒 Auth Disable Option: Introducing the ability to disable authentication]]
+- Later: 2024-04-05 · Runway · [[Changes/Runway/2024-04-05-sso-users-can-seamlessly-transition-from-their-idp-s-login-page-to-runway-withou|Support SSO login initiated from IdP]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

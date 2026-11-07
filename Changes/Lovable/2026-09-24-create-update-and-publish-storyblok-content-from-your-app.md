@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f17349b733633b49da5a598298da1a5b026fccf5228e65242f19027e23ef3358
+machine_hash: b3fef02e1463ffeca34587e2e9980a9cb20f4bca61db3a782b08a571eb93b332
 product: lovable
 product_name: Lovable
 record:
@@ -60,10 +60,10 @@ record:
   title: Create, update, and publish Storyblok content from your app
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-app-chat-connectors-aws-api-azure-cloud-api-azure-graph-entra-api-google-cloud-a|App
-  + chat connectors]]'
-- '[[Changes/Lovable/2026-09-23-typo-tolerant-connector-search|Typo-tolerant connector
-  search]]'
+- '[[Changes/OpenClaw/2026-09-23-58-apps-and-integrations-changes-in-v2026-9-6|58
+  Apps and Integrations changes in v2026.9.6]]'
+- '[[Changes/Runway/2026-09-23-runway-mcp-is-now-available-on-cursor-s-marketplace-making-it-easy-to-bring-runw|Runway
+  MCP on Cursor]]'
 - '[[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8
   Apps and Integrations changes in v2.1.282]]'
 source_release: '[[Releases/Lovable/lovable-2026-09-24-2026-09-24-0b7a99b5|lovable-2026-09-24-2026-09-24-0b7a99b5]]'

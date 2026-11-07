@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 977a387f79eec0b3dd8cc17d053ff66fed23e589917c8f465b9d9d73b78bdc44
+machine_hash: b8c33bc4a558f330b1a222196072c7292607cf80c6b82bc0ca1ca1c4af90db23
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: Shutdown MCP servers after subagent execution completes
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-06-exclude-binary-files-without-extensions-from-diffs|Exclude
-  binary files without extensions from diffs]]'
 - '[[Changes/Codex CLI/2026-01-06-8694-mcp-sanitize-mcp-tool-names-to-ensure-they-are-compatible-with-the-response|♯8694
   MCP Sanitize MCP tool names to ensure they are compatible with the Responses…]]'
+- '[[Changes/OpenCode/2026-01-06-desktop-add-single-instance-plugin-to-prevent-multiple-desktop-windows|Desktop
+  Add single-instance plugin to prevent multiple desktop windows]]'
 - '[[Changes/Gemini CLI/2026-01-07-5-apps-and-integrations-changes-in-v0-23-0|5 Apps
   and Integrations changes in v0.23.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-07-v0-0-375-github-274877631-649eff91|github-copilot-cli-2026-01-07-v0-0-375-github-274877631-649eff91]]'

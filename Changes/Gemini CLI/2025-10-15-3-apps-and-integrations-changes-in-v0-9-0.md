@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c8a6e0f46f5db6d49d23c14349dac48a7c30dcafc0babd95d32bd25a2d9c0b11
+machine_hash: 6095218eb35d4f1883debef0fe4f5f26a7fe8fe0b6bc26f058b763681d48ff81
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,11 +47,10 @@ record:
   title: 3 Apps and Integrations changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t-be2213|Slack
-  connector and app]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-13-3-apps-and-integrations-changes-in-v0-0-340|3
   Apps and Integrations changes in v0.0.340]]'
 - '[[Changes/ElevenLabs/2025-10-14-sdk-releases|SDK Releases]]'
+- '[[Changes/Runway/2025-10-14-apps-are-an-ever-growing-collection-of-use-case-specific-workflows-that-make-it|Apps]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-15-v0-9-0-github-254729703-41b9b488|gemini-cli-2025-10-15-v0-9-0-github-254729703-41b9b488]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,7 +90,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-14 · ElevenLabs · [[Changes/ElevenLabs/2025-10-14-sdk-releases|SDK Releases]]
+- Earlier: 2025-10-14 · Runway · [[Changes/Runway/2025-10-14-apps-are-an-ever-growing-collection-of-use-case-specific-workflows-that-make-it|Apps]]
 - Later: 2025-10-15 · Ollama · [[Changes/Ollama/2025-10-15-experimental-support-for-vulkan-is-now-available-when-you-build-locally-from-sou|Experimental support for Vulkan is now available when you build locally from source]]
 <!-- chronolog:end -->
 

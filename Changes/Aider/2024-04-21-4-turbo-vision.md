@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8899973d97c5187bc64657e9f525abf83351532a6e1ec934aecaac379f0a677b
+machine_hash: be51c9c5eb0050e73e24c024e8aaabda32f93f2f4c5f36f96acfeed263e67a48
 product: aider
 product_name: Aider
 record:
@@ -39,10 +39,10 @@ record:
   title: '`--4-turbo-vision`'
   type: change
 related_changes:
-- '[[Changes/Dify/2024-01-24-our-expansion-into-text-to-image-capabilities-marks-a-significant-step-in-our-mu|Our
-  expansion into text-to-image capabilities marks a significant step in our…]]'
 - '[[Changes/Ollama/2024-02-02-3-multimodal-input-changes-in-v0-1-23|3 Multimodal
   Input changes in v0.1.23]]'
+- '[[Changes/Runway/2024-04-05-create-presets-to-easily-reuse-gen-2-prompt-text-camera-movements-motion-brushes|Custom
+  Gen-2 presets]]'
 - '[[Changes/Dify/2024-04-11-3-multimodal-input-changes-in-0-6-2|3 Multimodal Input
   changes in 0.6.2]]'
 source_release: '[[Releases/Aider/aider-2024-04-21-v0-29-0-github-152105481-898d28d6|aider-2024-04-21-v0-29-0-github-152105481-898d28d6]]'

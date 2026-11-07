@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 348ac6ce5f3ed427d5ec0cb42dcce93f337edfb5ad6a53caf5f476a9b2d33f50
+machine_hash: 63d2b734eea051896c436d7cf93ab440f01a152a09e0cbcb84c1268d1a0450e6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Editor Experience changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-26-scroll-through-all-files-in-the-files-tab|Scroll through
-  all files in the Files tab]]'
-- '[[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud
-  sessions Added a Bash editor with colors, line numbers and a Copy button…]]'
+- '[[Changes/OpenClaw/2026-10-27-the-control-ui-now-reconnects-when-a-visible-tab-has-lost-contact-but-still-show|The
+  Control UI now reconnects when a visible tab has lost contact but still shows…]]'
+- '[[Changes/OpenCode/2026-10-27-5-editor-experience-changes-in-v2-2-0|5 Editor Experience
+  changes in v2.2.0]]'
 - '[[Changes/Windsurf/2026-10-28-in-devin-local-some-tool-requests-such-as-web-fetches-and-multi-file-edits-now-c|In
   Devin Local, some tool requests, such as web fetches and multi-file edits, now…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'

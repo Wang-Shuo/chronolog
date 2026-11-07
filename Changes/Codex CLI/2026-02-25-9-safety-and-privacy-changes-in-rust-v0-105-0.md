@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25faa3723d53b7589a95f4ab13768762643189dbc40d4ebb6106ad2a83808b87
+machine_hash: 9b79ba8b7539e1a14d07c03f52f71f08597f98c057c7f660ffa09d7e7aeb1741
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,12 +61,12 @@ record:
   title: 9 Safety and Privacy changes in rust-v0.105.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-02-23-backend-config-null-safety-language-detection-during-app-initialization-no-longe|\U0001F6E1️
-  Backend config null safety. Language detection during app initialization no…]]"
 - '[[Changes/Open WebUI/2026-02-23-3-safety-and-privacy-changes-in-v0-8-4|3 Safety
   and Privacy changes in v0.8.4]]'
 - '[[Changes/Claude Code/2026-02-24-3-safety-and-privacy-changes-in-v2-1-51|3 Safety
   and Privacy changes in v2.1.51]]'
+- '[[Changes/OpenCode/2026-02-24-core-normalize-paths-at-permission-boundaries-on-windows|Core
+  Normalize paths at permission boundaries on Windows]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: safety-privacy
@@ -127,7 +127,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-3-safety-and-privacy-changes-in-v2-1-51|3 Safety and Privacy changes in v2.1.51]]
+- Earlier: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-core-normalize-paths-at-permission-boundaries-on-windows|Core Normalize paths at permission boundaries on Windows]]
 - Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-refactor-core-adopt-coretoolcallstatus-enum-for-type-safety-by-jerop-in-https-gi|refactor(core): adopt CoreToolCallStatus enum for type safety]]
 <!-- chronolog:end -->
 

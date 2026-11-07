@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31129205c1200d869c6816ddd693e8e9f5903ed0b5909fb2df09ac742fcc2127
+machine_hash: 8ccfee99358b2ed76acba4000938a6596b7180d0eb3bff70c2ffb6cd7f9869b1
 product: open-webui
 product_name: Open WebUI
 record:
@@ -135,7 +135,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 ## Nearby in Context Window
 
 - Earlier: 2026-10-09 · Replit · [[Changes/Replit/2026-10-09-work-across-projects-from-a-chat|Work across projects from a chat]]
-- Later: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-2-context-window-changes-in-v4-1-24|2 Context Window changes in v4.1.24]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-12-context-window-changes-in-v2026-10-1|12 Context Window changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

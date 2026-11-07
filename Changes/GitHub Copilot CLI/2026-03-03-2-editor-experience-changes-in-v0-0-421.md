@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4c3357eccaa5f114a027e7aee2032d3d988f00da8671a473a35678c5592dd17
+machine_hash: a89f84cd3ca5fe9b01571ae785a1ab38bff9e035ef63732d25bdf94993727dec
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.421
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-feat-plan-support-opening-and-modifying-plan-in-external-editor-by-adib234-in-ht|feat(plan): support opening and modifying plan in external editor]]
-- Later: 2026-03-04 · Cursor · [[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]]
+- Later: 2026-03-03 · OpenCode · [[Changes/OpenCode/2026-03-03-2-editor-experience-changes-in-v1-2-16|2 Editor Experience changes in v1.2.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e61b0a241c60ad9fff34469d5cb86e2f8de6d5e5fc7b70cb1a2da34d446ee31f
+machine_hash: bb401e9d6c6a4971d6742405dab49af9a22ee07ed090540fe8d697f26ccac880
 product: lovable
 product_name: Lovable
 record:
@@ -49,7 +49,8 @@ record:
   title: Nano Banana 2 Lite image model for AI features in your app
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-07-06-hardened-gguf-model-creation|Hardened GGUF model creation]]'
+- '[[Changes/OpenCode/2026-07-06-3-model-support-changes-in-v1-17-14|3 Model Support
+  changes in v1.17.14]]'
 - '[[Changes/OpenHands/2026-07-06-4-model-support-changes-in-1-9-0|4 Model Support
   changes in 1.9.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-6-model-support-changes-in-v1-0-69|6 Model

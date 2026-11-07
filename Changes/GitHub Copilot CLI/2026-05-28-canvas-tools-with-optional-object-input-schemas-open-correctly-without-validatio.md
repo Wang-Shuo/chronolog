@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7549d8fe1719a61033a33c59ee327edc778fbe7ce9d3dcd29dc6b07228b51f3
+machine_hash: 6ba8bfc832b4fcd5b2577e277571598801454692caed7e019ea00d250e258047
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     errors
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File
-  library is expanding to Free and Go users, including to users in the European…]]'
 - '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal
   finances in ChatGPT]]'
 - '[[Changes/Replit/2026-05-15-export-canvas-frames-as-pngs|Export Canvas frames as
   PNGs]]'
+- '[[Changes/OpenCode/2026-05-21-core-added-pdf-attachment-support-for-grok|Core Added
+  PDF attachment support for Grok]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856|github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856]]'
 source_type: github_releases
 theme: file-data
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-05-15 · Replit · [[Changes/Replit/2026-05-15-export-canvas-frames-as-pngs|Export Canvas frames as PNGs]]
+- Earlier: 2026-05-21 · OpenCode · [[Changes/OpenCode/2026-05-21-core-added-pdf-attachment-support-for-grok|Core Added PDF attachment support for Grok]]
 - Later: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-generate-media-right-on-canvas|Generate media right on Canvas]]
 <!-- chronolog:end -->
 

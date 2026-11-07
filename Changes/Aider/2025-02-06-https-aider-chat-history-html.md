@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8b5e725e9db21010c06d02616639cf0c5c4f6188dbf422def799893fe8e4b2f
+machine_hash: ba445acb70bac1db31cbffee0642e0b376512f194c222f53c55a7b060519dfa9
 product: aider
 product_name: Aider
 record:
@@ -41,9 +41,9 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-01-22-general-ui-ux-refinements-numerous-tweaks-across-the-webui-make-navigation-and-u|✨
-  General UI/UX Refinements]]'
 - '[[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]'
+- '[[Changes/Gamma/2025-02-05-exciting-news-for-smart-layouts-gamma-just-got-even-smarter-we-ve-added-more-cir|Circle
+  Smart Layouts Have Arrived]]'
 - "[[Changes/Open WebUI/2025-02-05-redesigned-chat-input-ui-enjoy-a-sleeker-and-more-intuitive-message-input-with-i|\U0001F4AC
   Redesigned Chat Input UI]]"
 source_release: '[[Releases/Aider/aider-2025-02-06-v0-74-0-github-198937852-317852a7|aider-2025-02-06-v0-74-0-github-198937852-317852a7]]'

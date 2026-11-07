@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2d028e7495469b14af6ed634595236be4a50a166726db4e46c0664f1e93d1118
+machine_hash: c972f19c858840c1e9f87b6dfd2827e0169532b04d217e8c3570959001491a33
 product: replit
 product_name: Replit
 record:
@@ -56,11 +56,12 @@ record:
   title: Retrieve prompt text for compliance workflows
   type: change
 related_changes:
-- '[[Changes/Claude/2026-09-10-smart-reports-beta|Smart reports (beta)]]'
 - '[[Changes/Lovable/2026-09-11-lock-workspace-membership-to-your-identity-provider|Lock
   workspace membership to your identity provider]]'
 - '[[Changes/Lovable/2026-09-11-edit-an-sso-provider-s-connection-settings|Edit an
   SSO provider''s connection settings]]'
+- '[[Changes/OpenClaw/2026-09-11-messages-arriving-while-openclaw-is-paused-now-wait-until-it-is-ready-again-and|Messages
+  arriving while OpenClaw is paused now wait until it is ready again…]]'
 source_release: '[[Releases/Replit/replit-2026-09-11-2026-09-11-fe1ab3d8|replit-2026-09-11-2026-09-11-fe1ab3d8]]'
 source_type: replit_changelog
 theme: enterprise-admin
@@ -90,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-edit-an-sso-provider-s-connection-settings|Edit an SSO provider's connection settings]]
-- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude Tag Improved Claude's notices in Enterprise Grid channels shared across…]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-messages-arriving-while-openclaw-is-paused-now-wait-until-it-is-ready-again-and|Messages arriving while OpenClaw is paused now wait until it is ready again…]]
+- Later: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-enterprise-and-business-accounts-can-now-use-the-integrated-terminal-and-git-ver|Enterprise and Business accounts can now use the integrated terminal and Git version…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

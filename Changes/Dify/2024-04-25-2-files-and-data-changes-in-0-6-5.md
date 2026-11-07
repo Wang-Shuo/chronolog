@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 092782d1aadf70d5e88c69015c4fa708d37e453be4f63d0811c2c963ae563e1a
+machine_hash: e19fd6a581593c90543c9cd2d02fc90d77ae12081ffb782db5d1c8dd890977b4
 product: dify
 product_name: Dify
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.6.5
 ## Nearby in Files and Data
 
 - Earlier: 2024-04-22 · Dify · [[Changes/Dify/2024-04-22-feat-added-code-interpreter-tool-by-yeuoly-in-3557|feat: Added Code Interpreter Tool by @Yeuoly in ♯3557]]
-- Later: 2024-05-02 · Dify · [[Changes/Dify/2024-05-02-optimize-the-knowledge-failed-documents-query-by-charli117-in-https-github-com-l|optimize the knowledge failed documents query]]
+- Later: 2024-04-26 · Gamma · [[Changes/Gamma/2024-04-26-we-completely-revamped-our-diagrams-feature-come-play-in-a-new-freeform-canvas-a|Beautiful Diagrams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

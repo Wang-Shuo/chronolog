@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f673de24d238d4ccc8d40843c1f57eb3742c2d4e69a0cf0dbd679c3c5ec571d
+machine_hash: fdb8515846879a145b6c59c90f6e3eee5cf6aafb914b413688c929e2ee661273
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Developer Workflow changes in v2.1.20
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-24-2-developer-workflow-changes-in-v0-0-394|2
-  Developer Workflow changes in v0.0.394]]'
-- '[[Changes/Codex CLI/2026-01-25-2-developer-workflow-changes-in-rust-v0-90-0|2 Developer
-  Workflow changes in rust-v0.90.0]]'
+- '[[Changes/OpenCode/2026-01-25-terminal-prevent-crash-when-theme-search-returns-no-results|Terminal
+  Prevent crash when theme search returns no results]]'
+- '[[Changes/OpenCode/2026-01-25-6-developer-workflow-changes-in-v1-1-35|6 Developer
+  Workflow changes in v1.1.35]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-26-2-developer-workflow-changes-in-v0-0-395|2
   Developer Workflow changes in v0.0.395]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'

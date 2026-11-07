@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cabf02ebc1238547250c59c26b10dac07ec927b001e66085ebce7bc3200eecdd
+machine_hash: b27619e5ccd6dcd19e8cc201e455f782b57e5b0b4abe6bd8f7c7a1f6d008ffb3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#20665 Make environment providers own default selection @starr-openai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-06-2-interface-experience-changes-in-v1-0-43|2
-  Interface Experience changes in v1.0.43]]'
 - '[[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode
   behavior]]'
 - '[[Changes/Codex CLI/2026-05-07-20065-feat-tui-redesign-session-picker-fcoury-oai|♯20065
   feat(tui): redesign session picker @fcoury-oai]]'
+- '[[Changes/OpenCode/2026-05-07-desktop-added-a-macos-settings-menu-entry|Desktop
+  Added a macOS Settings menu entry]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-08-rust-v0-130-0-github-319777370-eab676f9|codex-cli-2026-05-08-rust-v0-130-0-github-319777370-eab676f9]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-20065-feat-tui-redesign-session-picker-fcoury-oai|♯20065 feat(tui): redesign session picker @fcoury-oai]]
+- Earlier: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-desktop-added-a-macos-settings-menu-entry|Desktop Added a macOS Settings menu entry]]
 - Later: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project info remains visible in slash command picker when no results match]]
 <!-- chronolog:end -->
 

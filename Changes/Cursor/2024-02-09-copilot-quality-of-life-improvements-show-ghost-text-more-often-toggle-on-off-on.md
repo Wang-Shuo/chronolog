@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f692830872ce452f7c73f16bb7e93b6b0e4bea341668b4d3ecfafeffb7a6e51a
+machine_hash: e80a88851eef17a2663988a4e488e2d91d6f4c0996889cf1ed248cb8e3030178
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I to Heal]]
-- Later: 2024-02-23 · Cursor · [[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS Code 1.86.2]]
+- Later: 2024-02-14 · Gamma · [[Changes/Gamma/2024-02-14-contributor-block-edit-the-contributors-displayed-by-simply-toggling-on-off-indi|Contributor Block]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

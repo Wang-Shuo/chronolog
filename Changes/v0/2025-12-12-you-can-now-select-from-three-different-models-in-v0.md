@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 34fc1a8bb3bc16a1c8bbaa61684b5b78fcbebe5a52b753a034a5c7d15e35e79f
+machine_hash: 83821736e78c052d0ecc59efcfac54ab8e1114552fbeb177c8c822b89494a442
 product: v0
 product_name: v0
 record:
@@ -43,8 +43,7 @@ record:
   title: Select from three different models in v0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-11-add-support-for-gpt-5-2|Add support for
-  GPT-5.2]]'
+- '[[Changes/Runway/2025-12-11-introducing-gen-4-5-the-world-s-best-video-model-now-available-for-all-paid-plan|Gen-4.5]]'
 - '[[Changes/Windsurf/2025-12-11-1-12-43-gpt-5-2-changelog-banner|1.12.43 GPT-5.2
   changelog banner]]'
 - '[[Changes/Windsurf/2025-12-11-gpt-5-2|GPT-5.2]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f400645a94ea9d6fcd87bbafedd33215e47187b5822bacddd5fb278ebf00e5fe
+machine_hash: a717f6696fef0404009d909c0b3356eee7b31e4092cea1bf57aed0113cfa9769
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,8 +46,8 @@ record:
     don't have…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-6-safety-and-privacy-changes-in-v0-7-0|6 Safety
-  and Privacy changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-12-core-check-worktree-for-external-directory-permission-in-subdirectories|Core
+  Check worktree for external_directory permission in subdirectories]]'
 - '[[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed
   permission bypass via shell line continuation that could allow blocked…]]'
 - '[[Changes/Dify/2026-01-13-5-safety-and-privacy-changes-in-1-11-3|5 Safety and Privacy
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-5-safety-and-privacy-changes-in-1-11-3|5 Safety and Privacy changes in 1.11.3]]
-- Later: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-2-safety-and-privacy-changes-in-v2-1-7|2 Safety and Privacy changes in v2.1.7]]
+- Later: 2026-01-13 · OpenCode · [[Changes/OpenCode/2026-01-13-terminal-add-fullscreen-view-to-permission-prompt|Terminal Add fullscreen view to permission prompt]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

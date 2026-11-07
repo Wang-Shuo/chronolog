@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69127ba2abafaa7b4bc58e18f30144356bfcb1d6083c881698a8a1f20e56dc70
+machine_hash: 637016582257bfb970dd25699cd5852aceac4d2b96e331a5aa81225df451f52b
 product: dify
 product_name: Dify
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.4.2
 ## Nearby in Agent Mode
 
 - Earlier: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured PRs opened by agent is properly tracked in conversation metadata]]
-- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch Background Agents directly from Slack by mentioning @Cursor]]
+- Later: 2025-06-11 · Manus · [[Changes/Manus/2025-06-11-start-free-by-asking-any-question-and-get-instant-answers-need-more-power-one-cl|Introducing Manus FREE Chat Mode!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

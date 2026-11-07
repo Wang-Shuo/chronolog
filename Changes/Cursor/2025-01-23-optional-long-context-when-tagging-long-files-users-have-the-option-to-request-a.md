@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a3580deac3ce0538bf50259fc0c194885a75c2cd626068180f7f260d27d2cc18
+machine_hash: 0c54913e509f2e45679d29c253efcc6a586c289f6d5e5d05c905175d0066f0aa
 product: cursor
 product_name: Cursor
 record:
@@ -56,8 +56,8 @@ record:
   title: Optional Long Context
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-10-increased-max-chat-history-tokens-limit-from-4k-to-8k|Increased
-  max chat history tokens limit from 4k to 8k]]'
+- '[[Changes/Gamma/2025-01-22-we-ve-raised-the-limits-for-card-generation-on-our-plus-and-pro-plans-to-give-yo|Generate
+  up to 50 cards!]]'
 - '[[Changes/Cursor/2025-01-23-fusion-model-we-ve-trained-a-new-tab-model-that-is-substantially-better-at-jumps|Fusion
   Model: We''ve trained a new Tab Model that is substantially better at jumps…]]'
 - '[[Changes/Cursor/2025-01-23-summarize-previous-composers-when-conversations-grow-too-long-you-can-start-a-ne|Summarize
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-increased-max-chat-history-tokens-limit-from-4k-to-8k|Increased max chat history tokens limit from 4k to 8k]]
+- Earlier: 2025-01-22 · Gamma · [[Changes/Gamma/2025-01-22-we-ve-raised-the-limits-for-card-generation-on-our-plus-and-pro-plans-to-give-yo|Generate up to 50 cards!]]
 - Later: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-new-context-window-progress-bar-in-the-task-header-to-understand-increased-cost|New Context Window progress bar in the task header to understand increased…]]
 <!-- chronolog:end -->
 

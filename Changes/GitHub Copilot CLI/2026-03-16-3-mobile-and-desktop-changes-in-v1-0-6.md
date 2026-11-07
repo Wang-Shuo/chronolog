@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f4bad5e13187a21f87923e7f04cb1bb503495a87d28faef1d829edc04171ea62
+machine_hash: 035e91a3f915cb7a26364b901f95ece0edd66461aa6b1e148a02f4bf70406780
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Mobile and Desktop changes in v1.0.6
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-13-2-mobile-and-desktop-changes-in-v1-0-5|2
-  Mobile and Desktop changes in v1.0.5]]'
+- '[[Changes/OpenCode/2026-03-13-9-mobile-and-desktop-changes-in-v1-2-26|9 Mobile
+  and Desktop changes in v1.2.26]]'
 - '[[Changes/Codex CLI/2026-03-16-2-mobile-and-desktop-changes-in-rust-v0-115-0|2
   Mobile and Desktop changes in rust-v0.115.0]]'
 - '[[Changes/ElevenLabs/2026-03-16-ios-sdk|iOS SDK]]'
@@ -95,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.6
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-ios-sdk|iOS SDK]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode When option+click doesn't trigger native selection on macOS, the footer now…]]
+- Later: 2026-03-16 · Manus · [[Changes/Manus/2026-03-16-download-manus-desktop-to-unlock-my-computer-giving-manus-direct-access-to-your|Bring Manus to Your Desktop]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

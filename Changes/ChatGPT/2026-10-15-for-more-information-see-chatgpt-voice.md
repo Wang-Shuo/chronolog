@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 928c868b63a64747d626630fe796d4fe4ccbab659924d24e1b1620af8a6b7a7f
+machine_hash: cdd77b170b1470aaa0aac1e0032b0fff382f9c7818cf5465c8d1928afaad56d1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,12 +41,12 @@ record:
   title: 'For more information, see: ChatGPT Voice'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude
-  Tag Added support for Slack voice clips in Claude in Slack]]'
 - "[[Changes/Open WebUI/2026-10-14-voice-on-android-chrome-voice-calls-and-dictation-on-android-chrome-no-longer-go|\U0001F4F1
   Voice on Android Chrome. Voice calls and dictation on Android Chrome no longer…]]"
 - '[[Changes/Open WebUI/2026-10-14-10-voice-and-audio-changes-in-v0-12-1|10 Voice
   and Audio changes in v0.12.1]]'
+- '[[Changes/Runway/2026-10-14-fish-audio-drama-3-is-now-available-in-runway-mcp-turn-scripts-into-expressive-v|Fish
+  Audio Drama 3]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-15-gpt-live-1-1-and-new-voices-in-chatgpt-3e3f7f0c|chatgpt-2026-10-15-gpt-live-1-1-and-new-voices-in-chatgpt-3e3f7f0c]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-10-voice-and-audio-changes-in-v0-12-1|10 Voice and Audio changes in v0.12.1]]
+- Earlier: 2026-10-14 · Runway · [[Changes/Runway/2026-10-14-fish-audio-drama-3-is-now-available-in-runway-mcp-turn-scripts-into-expressive-v|Fish Audio Drama 3]]
 - Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-voice-and-audio-changes-in-rust-v0-163-0|4 Voice and Audio changes in rust-v0.163.0]]
 <!-- chronolog:end -->
 

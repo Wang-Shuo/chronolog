@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 1a3ef3eed9847314ecb55870bf254c93d46ee9046903341ca938dd0274fd7e7b
+machine_hash: d1a420e5ab22f1b7d6888b511d445646b130fb5f80d18ea5e09caad8243c69f0
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -95,8 +95,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-3-agent-mode-changes-in-v3-11-212|3 Agent Mode changes
-  in v3.11.212]]'
+- '[[Changes/OpenClaw/2026-10-24-8-agent-mode-changes-in-v2026-10-7|8 Agent Mode changes
+  in v2026.10.7]]'
 - '[[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode
   changes in v2.1.311]]'
 - '[[Changes/ElevenLabs/2026-10-26-knowledge-base-crawl-exclusions|Knowledge base
@@ -183,7 +183,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode changes in v2.1.311]]
-- Later: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The status bar no longer disappears after you switch from Agent mode to IDE mode]]
+- Later: 2026-10-26 · Google Antigravity · [[Changes/Google Antigravity/2026-10-26-added-drag-and-drop-support-for-files-or-screenshots-directly-onto-the-agent-pan|Added drag-and-drop support for files or screenshots directly onto the Agent panel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

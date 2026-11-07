@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ab3aef444f44f841f9d5c655bfc0cd32c36514698d26178f7c663632e5a4959
+machine_hash: 5205490bbb2a04a91d84b5c57036fbe9d3c3c43106ee45f9d60bf47a942c53ea
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,9 +61,10 @@ record:
   title: 9 Model Support changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-10-26-fast-llm-service-tier|Fast LLM service tier]]'
-- '[[Changes/ElevenLabs/2026-10-26-3-model-support-changes-in-elevenlabs-updates-2026-10-26|3
-  Model Support changes in ElevenLabs updates — 2026-10-26]]'
+- '[[Changes/Google Antigravity/2026-10-26-enabled-gemini-4-argon-in-antigravity-ide-for-eligible-tiers-bringing-google-s-n|Enabled
+  Gemini 4 Argon in Antigravity IDE for eligible tiers, bringing Google''s…]]'
+- '[[Changes/Runway/2026-10-26-describe-the-creative-app-you-need-in-plain-language-and-app-studio-builds-it-wi|App
+  Studio]]'
 - '[[Changes/Claude Code/2026-10-27-3-model-support-changes-in-v2-1-312|3 Model Support
   changes in v2.1.312]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb|codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb]]'

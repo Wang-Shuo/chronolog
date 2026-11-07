@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 36de692a619cea0672dfa25ae6b434e5c9c1f12a4f19c4e96dffb1a59440866d
+machine_hash: ca96efb31e007bda5c087f86c37164d90f91a29833583e9fa51ada241f964c14
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,8 +51,9 @@ record:
   title: 4 Agent Mode changes in v1.0.65
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-22-elevenagents-c51c4d|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-06-22-elevenagents-ee09f3|ElevenAgents]]'
+- '[[Changes/Google Antigravity/2026-06-22-new-entries-in-the-sensitive-paths-list-vscode-and-cache-are-now-recognized-as-s|New
+  entries in the sensitive paths list]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-6-agent-mode-changes-in-v1-0-64|6 Agent
   Mode changes in v1.0.64]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-24-v1-0-65-github-344381970-307a94bd|github-copilot-cli-2026-06-24-v1-0-65-github-344381970-307a94bd]]'

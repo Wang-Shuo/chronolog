@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 26c44a9c5e86cea69f15683add3e6653b8b1aad67503256f2f9b7503f63e753b
+machine_hash: 3f7bd8022b03b7381244e2e2fe700897329ec882611b14fc5dec57c356f0dc8e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Safety and Privacy changes in v2.1.169
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-safety-and-privacy-changes-in-v1-0-60|2
-  Safety and Privacy changes in v1.0.60]]'
 - '[[Changes/Lovable/2026-06-05-toggle-whois-privacy-after-purchase|Toggle WHOIS privacy
   after purchase]]'
+- '[[Changes/OpenCode/2026-06-05-2-safety-and-privacy-changes-in-v1-16-2|2 Safety
+  and Privacy changes in v1.16.2]]'
 - '[[Changes/Claude Code/2026-06-06-hardened-cross-session-messaging-messages-relayed-via-sendmessage-from-other-cla|Hardened
   cross-session messaging]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'

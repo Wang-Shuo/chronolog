@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc6a7e8af05d84aaeef483250e87c8067fa56d3838fe310fc9545a27bb3d2502
+machine_hash: 7943b803ac0133a734098b4a5ec9f18bab86ee54c8a8a5a6499bc570e7c9f388
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: General-purpose subagents use GPT-5.4 or GPT-5.5 when available
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-21-18868-add-mitm-hook-config-model-evawong-oai|♯18868
-  Add MITM hook config model @evawong-oai]]'
-- '[[Changes/Lovable/2026-05-21-gemini-3-5-flash-for-ai-features-in-your-app|Gemini
-  3.5 Flash for AI features in your app]]'
+- '[[Changes/OpenCode/2026-05-21-core-restored-openai-reasoning-streams|Core Restored
+  OpenAI reasoning streams]]'
 - '[[Changes/Gemini CLI/2026-05-22-2-model-support-changes-in-v0-43-0|2 Model Support
   changes in v0.43.0]]'
+- '[[Changes/OpenCode/2026-05-22-2-model-support-changes-in-v1-15-9|2 Model Support
+  changes in v1.15.9]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-2-model-support-changes-in-v0-43-0|2 Model Support changes in v0.43.0]]
+- Earlier: 2026-05-22 · OpenCode · [[Changes/OpenCode/2026-05-22-2-model-support-changes-in-v1-15-9|2 Model Support changes in v1.15.9]]
 - Later: 2026-05-25 · Cline · [[Changes/Cline/2026-05-25-4-model-support-changes-in-v3-85-0|4 Model Support changes in v3.85.0]]
 <!-- chronolog:end -->
 

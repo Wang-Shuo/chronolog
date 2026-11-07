@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0303118a3cbdcc32efe5f4563cea0d29bc86bf51790fbf47445a8656920879a
+machine_hash: 786a98574548d93ac7823edaa7195b9b25f574782fb741064d832c7098f8fcdb
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Apps and Integrations changes in v2.1.116
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-3-apps-and-integrations-changes-in-v1-0-29|3
-  Apps and Integrations changes in v1.0.29]]'
-- '[[Changes/Ollama/2026-04-16-2-apps-and-integrations-changes-in-v0-21-0|2 Apps and
-  Integrations changes in v0.21.0]]'
+- '[[Changes/OpenCode/2026-04-17-core-let-plugin-tools-return-metadata-in-execute-results|Core
+  Let plugin tools return metadata in execute results]]'
 - '[[Changes/Replit/2026-04-17-integrations|Integrations]]'
+- '[[Changes/OpenCode/2026-04-19-2-apps-and-integrations-changes-in-v1-14-18-1|2 Apps
+  and Integrations changes in v1.14.18 + 1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-17 · Replit · [[Changes/Replit/2026-04-17-integrations|Integrations]]
+- Earlier: 2026-04-19 · OpenCode · [[Changes/OpenCode/2026-04-19-2-apps-and-integrations-changes-in-v1-14-18-1|2 Apps and Integrations changes in v1.14.18 + 1]]
 - Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-28-apps-and-integrations-changes-in-rust-v0-122-0|28 Apps and Integrations changes in rust-v0.122.0]]
 <!-- chronolog:end -->
 

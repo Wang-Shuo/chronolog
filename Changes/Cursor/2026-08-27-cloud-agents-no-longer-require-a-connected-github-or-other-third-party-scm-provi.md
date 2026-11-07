@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dbae51384d3c55d20aa680f60227ca0b9ed4a4715a7303bd1bf8d667e6abc7ca
+machine_hash: d1ad98bf64d4c7f6399a3b0faf8e688eac22789c6580bce44d5ad05953e7c25c
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
     provider…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent
-  Mode changes in rust-v0.150.0]]'
+- '[[Changes/Google Antigravity/2026-08-26-3-agent-mode-changes-in-hub-v2-11-0-generative-ui-and-ui|3
+  Agent Mode changes in HUB v2.11.0 — Generative UI and UI…]]'
 - '[[Changes/Lovable/2026-08-26-add-your-app-to-slack-as-an-agent|Add your app to
   Slack as an agent]]'
 - '[[Changes/Claude Code/2026-08-27-3-agent-mode-changes-in-v2-1-248|3 Agent Mode

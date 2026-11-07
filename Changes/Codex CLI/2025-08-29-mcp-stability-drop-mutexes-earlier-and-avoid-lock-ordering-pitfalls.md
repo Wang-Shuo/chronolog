@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ae17cb889673eda5feccc5263594dcf642481505a88c5296fb95487da598703
+machine_hash: ac53b38ff7071c1f409a0f2e693c7909b4ea8fb777659a5909a505a112d0cfee
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-3-apps-and-integrations-changes-in-rust-v0-26-0|3 Apps and Integrations changes in rust-v0.26.0]]
-- Later: 2025-08-29 · Replit · [[Changes/Replit/2025-08-29-shareable-app-creation-links|Shareable app creation links]]
+- Later: 2025-08-29 · Gamma · [[Changes/Gamma/2025-08-29-now-you-can-connect-gamma-to-8-000-apps-with-our-new-zapier-integration|Now you can connect Gamma to 8,000+ apps with our new Zapier integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

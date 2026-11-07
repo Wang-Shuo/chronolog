@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3038c40b1746c72ef096d6e9b0c36ac62fc3ea8c4233cb6b0bd6b0598f3f780c
+machine_hash: 49f5c694e583a3af3fc803aff7791e543377508378bd76e13642702e6d7a8111
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Apps and Integrations changes in v1.0.30
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-15-add-copilot-plugin-marketplace-update-command-to-refresh-plugin-catalogs|Add
-  copilot plugin marketplace update command to refresh plugin catalogs]]'
+- '[[Changes/OpenCode/2026-04-15-4-apps-and-integrations-changes-in-v1-4-4|4 Apps
+  and Integrations changes in v1.4.4]]'
 - '[[Changes/Windsurf/2026-04-15-additional-changes|Additional Changes]]'
 - '[[Changes/Claude Code/2026-04-16-2-apps-and-integrations-changes-in-v2-1-111|2
   Apps and Integrations changes in v2.1.111]]'

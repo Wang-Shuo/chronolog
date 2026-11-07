@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1b47cf26fde4b714f10769852ead78e0ac5404f32d102953020e520911febc3
+machine_hash: 91df51264b5d0fb7ccfc7d3456e29f9d65cef03cc8f05b2748ffc530fb51b31f
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.246
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-2-developer-workflow-changes-in-v2-1-239|2 Developer
-  Workflow changes in v2.1.239]]'
 - '[[Changes/Ollama/2026-08-21-deepseek-harness-launcher-now-falls-back-to-npx-when-the-global-npm-install-fail|DeepSeek
   Harness launcher now falls back to npx when the global npm install fails…]]'
+- '[[Changes/Google Antigravity/2026-08-24-introduced-git-version-control-in-the-review-pane-to-inspect-working-tree-diffs|Introduced
+  Git version control in the Review pane to inspect working tree diffs…]]'
 - '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create
   webhook-triggered tasks]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'

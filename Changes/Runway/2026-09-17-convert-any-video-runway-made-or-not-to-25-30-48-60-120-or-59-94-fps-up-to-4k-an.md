@@ -1,0 +1,103 @@
+---
+card_id: runway-2026-09-17-065a05
+date: '2026-09-17'
+description: 'Runway · 2026-09-17 · Multimodal Input: Convert any video, Runway-made
+  or not, to 25, 30, 48, 60, 120 or 59.94 fps, up to 4K and 5 minutes long. Available
+  in…'
+diffusion:
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1094
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: multimodal
+  tracked_products_count: 29
+evolves_from: []
+extractor_version: fallback-v5
+impact: paradigm-shift
+kind: change
+machine_hash: 5285989c8d1688391703996bbd89bb780ae054e78d9799ca9c8ae711741933f6
+product: runway
+product_name: Runway
+record:
+  ai_generated: true
+  card_id: runway-2026-09-17-065a05
+  comparison: ''
+  confidence: low
+  date: '2026-09-17'
+  description: 'Runway — Enhance Frame Rate: Convert any video, Runway-made or not,
+    to 25, 30, 48, 60, 120 or 59.94 fps, up to 4K and 5 minutes long. Available in
+    the Enhance menu, Tool Mode, Workflows and Agent.'
+  evidence:
+  - quote: Convert any video, Runway-made or not, to 25, 30, 48, 60, 120 or 59.94
+      fps, up to 4K and 5 minutes long. Available in the Enhance menu, Tool Mode,
+      Workflows and Agent.
+    source_release: https://runway.com/changelog
+  extractor_version: fallback-v5
+  impact: paradigm-shift
+  kind: change
+  product: runway
+  product_name: Runway
+  slug: convert-any-video-runway-made-or-not-to-25-30-48-60-120-or-59-94-fps-up-to-4k-an
+  source_release: runway-2026-09-17-2026-09-17-enhance-frame-rate-f35d40f2
+  source_type: runway_changelog
+  theme: multimodal
+  theme_matches:
+  - matched_terms:
+    - agent
+    score: 50
+    theme: agent-mode
+  - matched_terms:
+    - menu
+    score: 50
+    theme: interface-experience
+  theme_resolution: manual-semantic-rule-v1
+  title: Enhance Frame Rate
+  type: change
+related_changes:
+- '[[Changes/Dify/2026-09-10-3-multimodal-input-changes-in-1-17-1|3 Multimodal Input
+  changes in 1.17.1]]'
+- '[[Changes/OpenClaw/2026-09-11-the-bundled-video-frames-skill-and-its-helper-script-have-been-removed-if-you-us|The
+  bundled video-frames skill and its helper script have been removed]]'
+- '[[Changes/ElevenLabs/2026-09-14-music|Music]]'
+source_release: '[[Releases/Runway/runway-2026-09-17-2026-09-17-enhance-frame-rate-f35d40f2|runway-2026-09-17-2026-09-17-enhance-frame-rate-f35d40f2]]'
+source_type: runway_changelog
+theme: multimodal
+title: Enhance Frame Rate
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Enhance Frame Rate
+
+**Runway** · 2026-09-17 · [[Themes/multimodal|Multimodal Input]] · [Official source](https://runway.com/changelog) · from [[Releases/Runway/runway-2026-09-17-2026-09-17-enhance-frame-rate-f35d40f2|Enhance Frame Rate]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Convert any video, Runway-made or not, to 25, 30, 48, 60, 120 or 59.94 fps, up to 4K and 5 minutes long. Available in the Enhance menu, Tool Mode, Workflows and Agent.
+>
+> Source: https://runway.com/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Multimodal Input
+
+- Earlier: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-music|Music]]
+- Later: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-the-browser-sidebar-gains-a-download-file-button-for-the-image-video-or-document|The Browser sidebar gains a Download file button for the image, video, or document…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20runway-2026-09-17-065a05&body=Card%3A%20Changes%2FRunway%2F2026-09-17-convert-any-video-runway-made-or-not-to-25-30-48-60-120-or-59-94-fps-up-to-4k-an.md%0ACard%20ID%3A%20runway-2026-09-17-065a05%0ASource%3A%20https%3A%2F%2Frunway.com%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

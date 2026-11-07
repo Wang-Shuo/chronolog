@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07a1529ad7cd086f5ce0b7fb9d47559e54cc7f2963747f73eeb2d086d5fd95e1
+machine_hash: 9a256080fa1a7f1268ae2c53b60790ae480cb1a9569d83141c872f4c33bfb2b4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: 5 Mobile and Desktop changes in rust-v0.135.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-2-mobile-and-desktop-changes-in-v1-0-52|2
-  Mobile and Desktop changes in v1.0.52]]'
 - '[[Changes/Codex CLI/2026-05-26-2-mobile-and-desktop-changes-in-rust-v0-134-0|2
   Mobile and Desktop changes in rust-v0.134.0]]'
 - '[[Changes/Gemini CLI/2026-05-27-auto-detect-pnpm-global-installation-path-for-macos-and-windows-by-tisonkun-in-h|Auto
   detect pnpm global installation path for macOS and Windows]]'
+- '[[Changes/OpenCode/2026-05-27-6-mobile-and-desktop-changes-in-v1-15-11|6 Mobile
+  and Desktop changes in v1.15.11]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-28-rust-v0-135-0-github-331012967-2f52956b|codex-cli-2026-05-28-rust-v0-135-0-github-331012967-2f52956b]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.135.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-auto-detect-pnpm-global-installation-path-for-macos-and-windows-by-tisonkun-in-h|Auto detect pnpm global installation path for macOS and Windows]]
+- Earlier: 2026-05-27 · OpenCode · [[Changes/OpenCode/2026-05-27-6-mobile-and-desktop-changes-in-v1-15-11|6 Mobile and Desktop changes in v1.15.11]]
 - Later: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard correctly copies CJK and supplementary-plane Unicode characters on Windows]]
 <!-- chronolog:end -->
 

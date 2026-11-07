@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65d1994f609ed6a1ba9127ddc5beb971b5e3a5fc01b3737baa4aed4fe2a0cb0a
+machine_hash: c630c16a22137186682fae04dcde6d347e141b97964101e5b2337b70a37da38f
 product: v0
 product_name: v0
 record:
@@ -41,10 +41,10 @@ record:
   title: Added diff/code tab toggle with hover-expand functionality
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install
-  the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-6-editor-experience-changes-in-v0-0-422|6
   Editor Experience changes in v0.0.422]]'
+- '[[Changes/OpenCode/2026-03-05-desktop-open-search-with-mod-f-even-when-editor-is-not-focused|Desktop
+  Open search with Mod+F even when editor is not focused]]'
 - '[[Changes/v0/2026-03-05-added-summary-header-to-diff-tab-showing-file-changes|Added
   summary header to diff tab showing file changes]]'
 source_release: '[[Releases/v0/v0-2026-03-05-2026-03-05-b2f44e37|v0-2026-03-05-2026-03-05-b2f44e37]]'
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-6-editor-experience-changes-in-v0-0-422|6 Editor Experience changes in v0.0.422]]
+- Earlier: 2026-03-05 · OpenCode · [[Changes/OpenCode/2026-03-05-desktop-open-search-with-mod-f-even-when-editor-is-not-focused|Desktop Open search with Mod+F even when editor is not focused]]
 - Later: 2026-03-06 · Cline · [[Changes/Cline/2026-03-06-hooks-added-a-notification-hook-for-attention-and-completion-boundaries|Hooks: Added a Notification hook for attention and completion boundaries]]
 <!-- chronolog:end -->
 

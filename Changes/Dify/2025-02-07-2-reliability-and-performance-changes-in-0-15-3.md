@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe72e0a63834586dd4543f306a8bf2e2f1a64d0a2072bca9550c1ff280be5192
+machine_hash: f25ae412ea1f96a3cc54f0cbb9cedf748a161a63ac51fd19bb14ed0252885725
 product: dify
 product_name: Dify
 record:
@@ -44,7 +44,8 @@ record:
   title: 2 Reliability and Performance changes in 0.15.3
   type: change
 related_changes:
-- '[[Changes/Replit/2025-01-24-better-zips|Better Zips]]'
+- '[[Changes/Gamma/2025-02-04-now-you-can-multi-select-from-the-filmstrip-and-take-action-cut-copy-duplicate-a|Updated
+  Filmstrip Experience]]'
 - "[[Changes/Open WebUI/2025-02-05-code-interpreter-stability-with-custom-functions-addressed-failures-when-using-t|\U0001F4BB
   Code Interpreter Stability with Custom Functions]]"
 - '[[Changes/Open WebUI/2025-02-05-2-reliability-and-performance-changes-in-v0-5-8|2

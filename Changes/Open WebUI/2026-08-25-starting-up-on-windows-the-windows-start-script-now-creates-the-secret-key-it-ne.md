@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc9fe81da98da7d9dde6cced9167c2fe334f034b7ce875032aa71a1fb07dd897
+machine_hash: 505bb2421ba9b3fcaa58fdb1fb56d39f00ce66b910350bec9c78e9df59328af7
 product: open-webui
 product_name: Open WebUI
 record:
@@ -52,7 +52,8 @@ record:
     the secret key…"
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]'
+- '[[Changes/OpenCode/2026-08-24-desktop-keep-model-provider-headers-visible-while-scrolling-the-model-picker|Desktop
+  Keep model provider headers visible while scrolling the model picker]]'
 - '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:
   Fixed headless sessions not cleaning up stale entries…]]'
 - '[[Changes/Lovable/2026-08-25-filter-audit-logs-by-client|Filter audit logs by client]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 59f8cef7a5beb0a57bf40026645b65776848082007fc83ced3aea53c77263443
+machine_hash: be132decbe93ac0e97a10a05ef974eb674ddd1803ce54626a02dc95989e08502
 product: replit
 product_name: Replit
 record:
@@ -43,8 +43,8 @@ record:
   title: Workspace settings
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For
-  the next month, dots usage won’t count toward eligible Pro, Business…]]'
+- '[[Changes/OpenClaw/2026-09-30-2-enterprise-and-administration-changes-in-v2026-9-7|2
+  Enterprise and Administration changes in v2026.9.7]]'
 - '[[Changes/Lovable/2026-10-01-restrict-an-api-key-to-approved-ip-addresses|Restrict
   an API key to approved IP addresses]]'
 - '[[Changes/Lovable/2026-10-02-show-an-announcement-banner-to-everyone-in-your-workspace|Show

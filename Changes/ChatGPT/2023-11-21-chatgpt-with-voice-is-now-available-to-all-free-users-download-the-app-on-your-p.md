@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 5e912d17e73fad30d0a6f5111d83281e37accf32164af8062bf6b8af08c2b0ef
+machine_hash: a490f9a258b7337e7504e125b1d3883b5582406cf62c2414db0750ca66fb852c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We are beginning to roll out new voice and image capabilities in ChatGPT]]
-- Later: 2024-02-08 · Gemini · [[Changes/Gemini/2024-02-08-chat-to-supercharge-your-ideas-in-the-gemini-app|Chat to supercharge your ideas in the Gemini app]]
+- Later: 2024-01-08 · Runway · [[Changes/Runway/2024-01-08-create-a-custom-voice-for-text-to-speech-or-lip-sync-videos-using-a-short-audio|Custom Voices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

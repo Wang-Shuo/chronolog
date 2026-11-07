@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 937a709592130c5b86aa2e04aeea8b2409f781f8a87573ed7de58a9ebdb14d08
+machine_hash: 2277c8aef601bc63aef89d0205bab402c02285d82c9f8a7c96fd69d8906bba76
 product: gemini
 product_name: Gemini
 record:
@@ -68,10 +68,10 @@ record:
   title: The next chapter of Gemini Live
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-18-10-mobile-and-desktop-changes-in-rust-v0-131-0|10
-  Mobile and Desktop changes in rust-v0.131.0]]'
 - '[[Changes/ElevenLabs/2026-05-18-ios-sdk|iOS SDK]]'
 - '[[Changes/Lovable/2026-05-18-lovable-mobile-app|Lovable mobile app]]'
+- '[[Changes/OpenCode/2026-05-18-6-mobile-and-desktop-changes-in-v1-15-5|6 Mobile
+  and Desktop changes in v1.15.5]]'
 source_release: '[[Releases/Gemini/gemini-2026-05-19-2026-05-19-16a11edf|gemini-2026-05-19-2026-05-19-16a11edf]]'
 source_type: gemini_changelog
 theme: mobile-desktop
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-lovable-mobile-app|Lovable mobile app]]
+- Earlier: 2026-05-18 · OpenCode · [[Changes/OpenCode/2026-05-18-6-mobile-and-desktop-changes-in-v1-15-5|6 Mobile and Desktop changes in v1.15.5]]
 - Later: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-2-mobile-and-desktop-changes-in-v1-0-49|2 Mobile and Desktop changes in v1.0.49]]
 <!-- chronolog:end -->
 

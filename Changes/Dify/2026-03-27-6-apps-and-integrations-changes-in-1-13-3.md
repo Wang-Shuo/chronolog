@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6232e978ddd55f834a7936b7ac0ec0e433c139855b6046621c71a6096f9c98a1
+machine_hash: bb5196d8b34f72b49bb415a5a922d023e74b122a32135c8ea889d1c7edd5c266
 product: dify
 product_name: Dify
 record:
@@ -116,7 +116,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.13.3
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-reduced-startup-event-loop-stalls-when-many-claude-ai-mcp-connectors-are-configu|Reduced startup event-loop stalls when many claude.ai MCP connectors are configured…]]
-- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-5-apps-and-integrations-changes-in-v1-0-13|5 Apps and Integrations changes in v1.0.13]]
+- Later: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-8-apps-and-integrations-changes-in-v1-3-6-2|8 Apps and Integrations changes in v1.3.6 + 2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

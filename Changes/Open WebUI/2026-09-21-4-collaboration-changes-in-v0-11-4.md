@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 319d49aec05188de17e4ba1f2026ab04d0bbf72b1a8ec9c61c17dbba08cc3bb9
+machine_hash: 1cb06fb68ae4d6dda79bcd2542ced17f797dbe34d04be7c56c5a6f32ca416968
 product: open-webui
 product_name: Open WebUI
 record:
@@ -63,12 +63,12 @@ record:
   title: 4 Collaboration changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md
-  now writes the exported session to your home directory instead…]]'
 - '[[Changes/Codex CLI/2026-09-17-44354-extract-shared-footer-hint-wrapping-in-the-tui-copyberry|♯44354
   Extract shared footer hint wrapping in the TUI @copyberry]]'
 - '[[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed
   /ultrareview in non-interactive sessions to refuse when the repository has…]]'
+- '[[Changes/OpenClaw/2026-09-19-14-collaboration-changes-in-v2026-9-5|14 Collaboration
+  changes in v2026.9.5]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'
 source_type: github_releases
 theme: collaboration
@@ -122,7 +122,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.11.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed /ultrareview in non-interactive sessions to refuse when the repository has…]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-14-collaboration-changes-in-v2026-9-5|14 Collaboration changes in v2026.9.5]]
 - Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-9-collaboration-changes-in-rust-v0-156-0|9 Collaboration changes in rust-v0.156.0]]
 <!-- chronolog:end -->
 

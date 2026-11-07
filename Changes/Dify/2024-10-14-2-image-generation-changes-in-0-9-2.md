@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba80671d3435a03e88eeb23e675ab278e990c127226c75d158c64bf3b65510d8
+machine_hash: c4a52628497e58c9005720f3f5a3e40065277b52ab3925ae13172da10047734f
 product: dify
 product_name: Dify
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/langgenius/dify/releases/tag/0.9.2
 ## Nearby in Image Generation
 
 - Earlier: 2024-09-24 · Open WebUI · [[Changes/Open WebUI/2024-09-24-image-generation-functionality-resolved-an-issue-where-image-generation-was-not|🖼️ Image Generation Functionality]]
-- Later: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-vision-support-for-tool-image-gen-image-generation-with-vision-models-is-now-sup|Vision Support for Tool Image Gen: Image generation with vision models is now…]]
+- Later: 2024-10-23 · Gamma · [[Changes/Gamma/2024-10-23-we-ve-created-a-new-centralized-hub-for-all-your-ai-generated-images-in-gamma-no|We've created a new, centralized hub for all your AI-generated images in Gamma]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 46b038f844cf145bd496b3554843b760166234a6e524aa9b7818a82de58bf647
+machine_hash: 27c567facf9e93fb24f643672ff5c9a30af6b9ba09630cf15879fcb51d0c0717
 product: lovable
 product_name: Lovable
 record:
@@ -51,10 +51,10 @@ record:
   title: Priority processing now works with Gemini chat models
   type: change
 related_changes:
-- '[[Changes/v0/2026-08-28-gpt-5-6-sol-and-a-faster-sol-fast-tier-are-available-in-the-model-picker-routed|GPT-5.6
-  Sol and a faster Sol Fast tier are available in the model picker, routed…]]'
 - '[[Changes/Codex CLI/2026-08-29-3-model-support-changes-in-rust-v0-151-0|3 Model
   Support changes in rust-v0.151.0]]'
+- '[[Changes/Midjourney/2026-08-29-we-ve-updated-our-v8-2-edit-model-for-better-image-quality-if-you-ve-had-any-iss|Edit
+  Image Quality Update]]'
 - '[[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site
   tools use WebMCP and require a supported account, model, and webpage]]'
 source_release: '[[Releases/Lovable/lovable-2026-08-31-2026-08-31-cce0450b|lovable-2026-08-31-2026-08-31-cce0450b]]'

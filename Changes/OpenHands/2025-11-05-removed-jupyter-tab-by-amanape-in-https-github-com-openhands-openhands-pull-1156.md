@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d689e3fa75a1519bd01fc3f93ba4d65fcd513e2e45beb6785b37b9c6e8bd6288
+machine_hash: 5336f885baf201963a3a7cdf51f74d12ae0afe0fd2255f8c807382cdb0054f3c
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: Removed Jupyter tab
   type: change
 related_changes:
-- '[[Changes/v0/2025-10-30-you-can-now-edit-images-using-nano-banana-in-v0-turn-on-design-mode-select-an-im|Image
-  Editing with Nano Banana]]'
+- '[[Changes/Gamma/2025-11-03-ever-made-the-perfect-edit-to-an-ai-image-only-to-lose-track-of-it-we-heard-you|Ever
+  made the perfect edit to an AI image, only to lose track of it?]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-03-diff-hunk-lines-now-properly-fill-the-width-of-the-diff-box|Diff
   hunk lines now properly fill the width of the diff box]]'
 - '[[Changes/Windsurf/2025-11-04-editor-stability|Editor Stability]]'

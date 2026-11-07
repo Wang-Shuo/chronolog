@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3be78be9c36c5cb6deb189c05ef2576832d3420b0012f0d64f36485fc3f303ae
+machine_hash: bda30d7485f697d3451885a2b2a9020f03eb3de01a69badae901f106a3608450
 product: cursor
 product_name: Cursor
 record:
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-4-model-support-changes-in-rust-v0-129-0|4 Model Support changes in rust-v0.129.0]]
-- Later: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-3-model-support-changes-in-v1-0-44|3 Model Support changes in v1.0.44]]
+- Later: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-extensions-acp-clients-now-restore-the-last-model-mode-and-effort-when-loading-s|Extensions ACP clients now restore the last model, mode, and effort when loading…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

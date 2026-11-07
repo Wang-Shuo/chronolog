@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f4c3e012fa48535def8f8379af80cb47d6fd81e0bf7079d0823f43c59916b7b
+machine_hash: d4d46c4ae30f9b9cb8899bb48faa44bc6ef4e2204b0cb1706465658dd7f2ad21
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,12 +60,12 @@ record:
   title: 4 Developer Workflow changes in v0.8.2
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-change-run-command-shortcut-from-ctrl-p-to-ctrl-s|Change
-  run command shortcut from ctrl+p to ctrl+s]]'
-- '[[Changes/Open WebUI/2026-02-12-27-developer-workflow-changes-in-v0-8-0|27 Developer
-  Workflow changes in v0.8.0]]'
 - '[[Changes/Open WebUI/2026-02-14-2-developer-workflow-changes-in-v0-8-1|2 Developer
   Workflow changes in v0.8.1]]'
+- '[[Changes/OpenCode/2026-02-14-3-developer-workflow-changes-in-v1-2-0|3 Developer
+  Workflow changes in v1.2.0]]'
+- '[[Changes/OpenCode/2026-02-15-add-db-command-for-database-inspection-and-querying|Add
+  db command for database inspection and querying]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-16-v0-8-2-github-286715828-a462c4be|open-webui-2026-02-16-v0-8-2-github-286715828-a462c4be]]'
 source_type: github_releases
 theme: developer-workflow
@@ -109,8 +109,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-2-developer-workflow-changes-in-v0-8-1|2 Developer Workflow changes in v0.8.1]]
-- Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-3-developer-workflow-changes-in-rust-v0-102-0|3 Developer Workflow changes in rust-v0.102.0]]
+- Earlier: 2026-02-15 · OpenCode · [[Changes/OpenCode/2026-02-15-add-db-command-for-database-inspection-and-querying|Add db command for database inspection and querying]]
+- Later: 2026-02-16 · OpenCode · [[Changes/OpenCode/2026-02-16-4-developer-workflow-changes-in-v1-2-6|4 Developer Workflow changes in v1.2.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

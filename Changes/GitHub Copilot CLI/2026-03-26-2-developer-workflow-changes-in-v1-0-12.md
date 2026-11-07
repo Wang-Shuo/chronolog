@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51ffbf4d87f8c4d535c39b300b3ad179152e37a345a795d6141030d92929426d
+machine_hash: 48251d4786984f3578a17950a9bf4fe1062b584fd61adad6213ecd1eaeb60f20
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.12
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-19-developer-workflow-changes-in-rust-v0-117-0|19 Developer Workflow changes in rust-v0.117.0]]
-- Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]
+- Later: 2026-03-26 · OpenCode · [[Changes/OpenCode/2026-03-26-2-developer-workflow-changes-in-v1-3-3|2 Developer Workflow changes in v1.3.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

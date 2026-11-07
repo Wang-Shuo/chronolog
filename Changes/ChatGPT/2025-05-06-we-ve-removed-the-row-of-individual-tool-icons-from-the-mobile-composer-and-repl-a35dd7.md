@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7c5fd373a306b5110c4f5bc7e35fe13fcf06f1afe08a3b614b0dfc7cda178a23
+machine_hash: 6fe5d29161d68df3944046ddb0e8206077d8fea842122d34ba9d3fc7550b9de0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,10 +52,9 @@ record:
   title: Mobile UI (iOS/Android) changing on Free/Plus/Pro plans
   type: change
 related_changes:
-- '[[Changes/Dify/2025-04-23-2-interface-experience-changes-in-1-3-0|2 Interface Experience
-  changes in 1.3.0]]'
 - '[[Changes/Cline/2025-04-25-add-tooltips-to-bottom-row-menu|Add tooltips to bottom
   row menu]]'
+- '[[Changes/Midjourney/2025-05-01-how-to-use-omni-reference|How to Use Omni-Reference]]'
 - '[[Changes/Cline/2025-05-03-add-support-for-latex-rendering|Add support for LaTeX
   rendering]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb|chatgpt-2025-05-06-mobile-ui-ios-android-changing-on-free-plus-pro-plans-be1d56cb]]'

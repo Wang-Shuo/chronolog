@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 025671facd0f518865644f26112907c820464823a4087eac7f082e9b1d304b2f
+machine_hash: 66096c6d0c3d0f28c5f10c35f58549bb0b2786837b5e776b9ad895e9917a3ad9
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: Shareable Team Commands
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-07-significantly-reduced-token-consumption-round-trips-per-problem-and-time-to-resu|Significantly
-  reduced token consumption, round trips per problem, and time to result]]'
 - '[[Changes/Replit/2025-10-10-support-seat-access-for-teams|Support seat access for
   teams]]'
+- '[[Changes/Midjourney/2025-10-17-for-the-next-three-weekends-we-re-renting-a-big-catamaran-sailboat-to-take-midjo|Midjourney
+  sailboat trips]]'
 - '[[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content
   creation: Apply project-specific instructions to keep tone and style…]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'

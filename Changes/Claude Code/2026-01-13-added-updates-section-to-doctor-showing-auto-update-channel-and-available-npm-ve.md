@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bccdf576da01e2fd92027b2f37b5b30ec9849b89008318572fc3d04a77a71e23
+machine_hash: 510ce271e20d674dbd5c1eb0c1dd042352597a1a6b470b90909b019687edd9ba
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     npm…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added
-  Shift+Tab keyboard shortcut in plan mode to quickly select…]]'
-- '[[Changes/Codex CLI/2026-01-09-3-interface-experience-changes-in-rust-v0-80-0|3
-  Interface Experience changes in rust-v0.80.0]]'
-- '[[Changes/Open WebUI/2026-01-09-5-interface-experience-changes-in-v0-7-0|5 Interface
-  Experience changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-09-2-interface-experience-changes-in-v1-1-8|2 Interface
+  Experience changes in v1.1.8]]'
+- '[[Changes/OpenCode/2026-01-12-3-interface-experience-changes-in-v1-1-14|3 Interface
+  Experience changes in v1.1.14]]'
+- '[[Changes/OpenCode/2026-01-12-terminal-fix-autocomplete-reopening-after-backspace-deletes-space-in-terminal-ui|Terminal
+  Fix autocomplete reopening after backspace deletes space in terminal UI]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-5-interface-experience-changes-in-v0-7-0|5 Interface Experience changes in v0.7.0]]
+- Earlier: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-terminal-fix-autocomplete-reopening-after-backspace-deletes-space-in-terminal-ui|Terminal Fix autocomplete reopening after backspace deletes space in terminal UI]]
 - Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-shell-mode-history-navigation-now-filters-by-prefix-typing-git-and-pressing-up-a|Shell mode history navigation now filters by prefix - typing !git and pressing up…]]
 <!-- chronolog:end -->
 

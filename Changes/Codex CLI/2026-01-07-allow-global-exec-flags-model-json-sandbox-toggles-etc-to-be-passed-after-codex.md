@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2ef9a24719a8bd8d0974ae346e737a6bc713ad032f353696c6f88bea9fce292a
+machine_hash: d482594c105b385bf565747d7e0becea16debc453028cbfb6680505532e567cb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: Allow global exec flags (model/json/sandbox toggles, etc.) to be passed after…
   type: change
 related_changes:
-- '[[Changes/Dify/2025-12-25-3-safety-and-privacy-changes-in-1-11-2|3 Safety and Privacy
-  changes in 1.11.2]]'
-- '[[Changes/Replit/2025-12-26-security-center-for-enterprise|Security Center for
-  Enterprise]]'
+- '[[Changes/OpenCode/2026-01-05-core-fix-permission-evaluation-to-use-rule-based-matching-instead-of-wildcard-pa|Core
+  Fix permission evaluation to use rule-based matching instead of wildcard patterns]]'
+- '[[Changes/OpenCode/2026-01-05-core-preserve-permission-config-key-order-to-maintain-user-defined-permission-pr|Core
+  Preserve permission config key order to maintain user-defined permission precedence]]'
 - '[[Changes/Codex CLI/2026-01-06-3-safety-and-privacy-changes-in-rust-v0-78-0|3 Safety
   and Privacy changes in rust-v0.78.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364|codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-3-safety-and-privacy-changes-in-rust-v0-78-0|3 Safety and Privacy changes in rust-v0.78.0]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-2|2 Safety and Privacy changes in v2.1.2]]
+- Later: 2026-01-07 · OpenCode · [[Changes/OpenCode/2026-01-07-desktop-permission-auto-accept-should-hide-when-not-needed|Desktop Permission auto-accept should hide when not needed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

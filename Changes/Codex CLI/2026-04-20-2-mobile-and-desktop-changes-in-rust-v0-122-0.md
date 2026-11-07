@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0360a2a0f09886fb81523befe66dc9d61add5a9490ad33b87fcbb05949428ce2
+machine_hash: b63782bb9aa2e5961b053af1cba1a75780fdfa9d7ec0ad443d42128a6325f939
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.122.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-prompt-frame-no-longer-causes-rendering-issues-on-windows-and-ubuntu-terminals|Prompt
-  frame no longer causes rendering issues on Windows and Ubuntu terminals]]'
-- '[[Changes/Ollama/2026-04-16-fixed-macos-cross-compiles-so-they-no-longer-trigger-generate-which-was-breaking|Fixed
-  macOS cross-compiles so they no longer trigger generate…]]'
 - '[[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage
   now works from Remote Control (mobile/web) clients]]'
+- '[[Changes/OpenCode/2026-04-17-desktop-fixed-the-beta-desktop-app-so-the-file-tree-still-appears-when-enabled-i|Desktop
+  Fixed the beta desktop app so the file tree still appears when enabled in settings]]'
+- '[[Changes/OpenCode/2026-04-17-4-mobile-and-desktop-changes-in-v1-4-8|4 Mobile and
+  Desktop changes in v1.4.8]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -94,8 +94,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage now works from Remote Control (mobile/web) clients]]
-- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-2-mobile-and-desktop-changes-in-v0-9-0|2 Mobile and Desktop changes in v0.9.0]]
+- Earlier: 2026-04-17 · OpenCode · [[Changes/OpenCode/2026-04-17-4-mobile-and-desktop-changes-in-v1-4-8|4 Mobile and Desktop changes in v1.4.8]]
+- Later: 2026-04-20 · OpenCode · [[Changes/OpenCode/2026-04-20-2-mobile-and-desktop-changes-in-v1-14-19|2 Mobile and Desktop changes in v1.14.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

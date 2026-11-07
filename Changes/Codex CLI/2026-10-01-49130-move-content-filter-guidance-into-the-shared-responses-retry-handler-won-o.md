@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 392b63813107b5c05b54d72a4f3829c0d18c238c80b2407733f3b09070d06f25
+machine_hash: ee67a2f725fe86e23e89c80c7bc23cedb27683566305383d838224b585df3588
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
     @won-openai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-your-chatgpt-profile-now-brings-together-your-bio-activity-and-sites-you-choose-09d5dd|Share
-  your profile and showcase your Sites]]'
 - '[[Changes/ChatGPT/2026-09-29-space-brings-your-pages-files-and-related-work-together-in-chatgpt-create-a-spac|Organize
   your work in ChatGPT Space]]'
 - '[[Changes/Codex CLI/2026-09-29-2-collaboration-changes-in-rust-v0-159-0|2 Collaboration
   changes in rust-v0.159.0]]'
+- '[[Changes/OpenClaw/2026-09-30-10-collaboration-changes-in-v2026-9-7|10 Collaboration
+  changes in v2026.9.7]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'
 source_type: github_releases
 theme: collaboration
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-2-collaboration-changes-in-rust-v0-159-0|2 Collaboration changes in rust-v0.159.0]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-10-collaboration-changes-in-v2026-9-7|10 Collaboration changes in v2026.9.7]]
 - Later: 2026-10-06 · v0 · [[Changes/v0/2026-10-06-personal-v0-accounts-are-now-team-workspaces-giving-everyone-access-to-v0-s-coll|Personal accounts are now team workspaces]]
 <!-- chronolog:end -->
 

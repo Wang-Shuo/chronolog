@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a673fd2c647b0f2c4e3d4a8034d3fb775a0f48551a9fb87662b445d2809614f7
+machine_hash: 1830ba6cfe8e9d2344c1f15d34fe148c2fd41647ee2ba216bea999e44999debf
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,9 +43,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.211
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-13-mapbox-connector|Mapbox connector]]'
 - '[[Changes/Lovable/2026-07-13-let-your-app-s-users-connect-their-own-accounts|Let
   your app''s users connect their own accounts]]'
+- '[[Changes/OpenClaw/2026-07-13-213-apps-and-integrations-changes-in-v2026-7-1|213
+  Apps and Integrations changes in v2026.7.1]]'
 - '[[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3
   Apps and Integrations changes in v2.1.208]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
@@ -87,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.211
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3 Apps and Integrations changes in v2.1.208]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-16-apps-and-integrations-changes-in-v1-0-71|16 Apps and Integrations changes in v1.0.71]]
+- Later: 2026-07-15 · Suno · [[Changes/Suno/2026-07-15-tap-the-icon-and-find-suno-in-your-imessage-app-extensions|Tap the + icon and find Suno in your iMessage app extensions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

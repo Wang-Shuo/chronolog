@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6dceab420bdb6e04b83799209a698395bf3ec80eb0c5913bfc2b43ba8bd5ce23
+machine_hash: 3fcd3fa8c63d1f87c90a5726acfe1636079ddf440bacf2b84687fda980ce48cd
 product: open-webui
 product_name: Open WebUI
 record:
@@ -124,10 +124,10 @@ record:
   title: 17 Account and Access changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-14-docs-update-mcp-server-oauth-redirect-port-documentation-by-adamfweidman-in-http|docs:
-  update MCP server OAuth redirect port documentation]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-14-enterprise-login-accepts-hostnames-without-a-url-scheme-e-g-github-example-com|Enterprise
-  login accepts hostnames without a URL scheme (e.g. ''github.example.com'')]]'
+- '[[Changes/OpenCode/2026-04-15-2-account-and-access-changes-in-v1-4-4|2 Account
+  and Access changes in v1.4.4]]'
+- '[[Changes/OpenCode/2026-04-16-core-workspaces-now-receive-your-auth-context-so-provider-sign-in-carries-across|Core
+  Workspaces now receive your auth context, so provider sign-in carries across…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-17-copilot-login-host-now-correctly-authenticates-with-github-enterprise-cloud-ghe|copilot
   login --host now correctly authenticates with GitHub Enterprise Cloud (GHE)…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a|open-webui-2026-04-21-v0-9-0-github-311589683-2ff57b5a]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f844da35464f0c7a324fc0bf515568eef5c5d50d7163fc7cbe4fc1e8d652a38e
+machine_hash: ff5b778407d7dae0434e6dd8ba0a2adf4973f894d8f858c8575cb2653d46ac64
 product: lovable
 product_name: Lovable
 record:
@@ -52,11 +52,11 @@ record:
   title: Bring your app or website to Lovable
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-3-interface-experience-changes-in-v1-34-0|3 Interface
-  Experience changes in v1.34.0]]'
 - '[[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]'
 - '[[Changes/Codex CLI/2026-10-29-12-interface-experience-changes-in-rust-v0-166-0|12
   Interface Experience changes in rust-v0.166.0]]'
+- '[[Changes/Google Antigravity/2026-10-29-there-s-no-longer-a-separate-conversation-history-page-search-your-conversations|There''s
+  no longer a separate Conversation History page]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-29-2026-10-29-850979f2|lovable-2026-10-29-2026-10-29-850979f2]]'
 source_type: lovable_changelog
 theme: interface-experience
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-12-interface-experience-changes-in-rust-v0-166-0|12 Interface Experience changes in rust-v0.166.0]]
+- Earlier: 2026-10-29 · Google Antigravity · [[Changes/Google Antigravity/2026-10-29-there-s-no-longer-a-separate-conversation-history-page-search-your-conversations|There's no longer a separate Conversation History page]]
 - Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-interface-experience-changes-in-v0-12-5|2 Interface Experience changes in v0.12.5]]
 <!-- chronolog:end -->
 

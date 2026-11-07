@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c871429e60c4a63b224145da484cfa98004e0b79ea8a7f5c2b01ace6ca8a586f
+machine_hash: ac198e664122c992142ad70dab68f2e11ade6310bb728152adc6e40ba6ea8ee3
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -125,7 +125,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved PR tabs by adding clearer review states, better reviewer/thread visibility…]]
-- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg and ←-detach now preserve --allow-dangerously-skip-permissions…]]
+- Later: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-core-autocomplete-configured-mentions-in-prompts|Core Autocomplete configured @mentions in prompts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

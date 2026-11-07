@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e25cdba0ec70358f0b621991b2dc4d28f89cf5479625f183a3d51db28d033518
+machine_hash: 75e1a398555c45a17b3d2f2f004404998e9221aed3cfa40c1b7b4ae69a3683a1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Allow reasoning effort to be omitted so the server can select the default
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-6-model-support-changes-in-1-16-1|6 Model Support changes
-  in 1.16.1]]'
-- '[[Changes/Gemini CLI/2026-07-28-2-model-support-changes-in-v0-53-0|2 Model Support
-  changes in v0.53.0]]'
+- '[[Changes/OpenCode/2026-07-28-core-stops-sending-deprecated-sampling-defaults-to-newer-gemini-models|Core
+  Stops sending deprecated sampling defaults to newer Gemini models]]'
+- '[[Changes/OpenCode/2026-07-28-desktop-added-collapsible-model-provider-sections-in-v2-settings|Desktop
+  Added collapsible model provider sections in V2 settings]]'
 - '[[Changes/Codex CLI/2026-07-29-3-model-support-changes-in-rust-v0-146-0|3 Model
   Support changes in rust-v0.146.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-77-github-362775700-9504fbee|github-copilot-cli-2026-07-30-v1-0-77-github-362775700-9504fbee]]'

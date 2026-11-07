@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d518762e9693ba1164c18099c38d128975cd90d42b29967ab3e1a55803d06981
+machine_hash: e11a163e7be136e017038849a5a01e39024607310711d035c9000752e3995112
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Context Window changes in rust-v0.130.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-01-remote-session-statusline-shows-the-remote-working-directory-and-branch-instead|Remote
-  session statusline shows the remote working directory and branch instead…]]'
 - '[[Changes/Cursor/2026-05-06-you-can-now-see-a-breakdown-of-your-agent-s-context-usage-e005b2|Context
   Usage Breakdown]]'
 - '[[Changes/Codex CLI/2026-05-07-7-context-window-changes-in-rust-v0-129-0|7 Context
   Window changes in rust-v0.129.0]]'
+- '[[Changes/OpenCode/2026-05-07-2-context-window-changes-in-v1-14-40|2 Context Window
+  changes in v1.14.40]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-08-rust-v0-130-0-github-319777370-eab676f9|codex-cli-2026-05-08-rust-v0-130-0-github-319777370-eab676f9]]'
 source_type: github_releases
 theme: context-window
@@ -88,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.130.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-7-context-window-changes-in-rust-v0-129-0|7 Context Window changes in rust-v0.129.0]]
+- Earlier: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-2-context-window-changes-in-v1-14-40|2 Context Window changes in v1.14.40]]
 - Later: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-external-access-tokens-for-private-deployments|External access tokens for Private Deployments]]
 <!-- chronolog:end -->
 

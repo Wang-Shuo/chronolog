@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e36da6d2bfa916a9a7cf83e0633b10e0714159489db14135519576fa3b59aaa2
+machine_hash: 13407ed89c10a7a53c84a757121dc19849d08bfb1ce72406ae7c6518e05d30b5
 product: ollama
 product_name: Ollama
 record:
@@ -44,8 +44,8 @@ record:
     Ollama…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-7-mobile-and-desktop-changes-in-rust-v0-149-0|7
-  Mobile and Desktop changes in rust-v0.149.0]]'
+- '[[Changes/OpenCode/2026-08-20-desktop-kept-saved-server-details-editable-in-the-server-dialog|Desktop
+  Kept saved server details editable in the server dialog]]'
 - '[[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote
   sessions: images uploaded from mobile now include their saved file path…]]'
 - '[[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows: cross-session messaging is now available, so Claude Code sessions across…]]
-- Later: 2026-08-21 · Windsurf · [[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]
+- Later: 2026-08-21 · OpenCode · [[Changes/OpenCode/2026-08-21-desktop-register-the-archive-session-command-in-both-desktop-layouts|Desktop Register the archive session command in both desktop layouts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

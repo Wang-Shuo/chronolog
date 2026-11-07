@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e2f4108d9af656811419197c23178a869d931e144f096bc81facae2c68b486d
+machine_hash: 2c335daf8702e6e567a610a97db49c25968d92c7b3c50a1670d947c0fb557b33
 product: dify
 product_name: Dify
 record:
@@ -51,8 +51,8 @@ record:
   title: 4 Developer Workflow changes in 1.17.0
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-21-deepseek-harness-launcher-now-falls-back-to-npx-when-the-global-npm-install-fail|DeepSeek
-  Harness launcher now falls back to npx when the global npm install fails…]]'
+- '[[Changes/Google Antigravity/2026-08-24-introduced-git-version-control-in-the-review-pane-to-inspect-working-tree-diffs|Introduced
+  Git version control in the Review pane to inspect working tree diffs…]]'
 - '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create
   webhook-triggered tasks]]'
 - '[[Changes/Claude Code/2026-08-25-2-developer-workflow-changes-in-v2-1-246|2 Developer

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 964670e0caa9485a9b167b14d5c50dad0fc36b391569f23fdb9f4b642242f26f
+machine_hash: 63a6fa077ea5747e7d6f9bfd1508cee87dd4251e31a55ae12136804df0ac96b5
 product: ollama
 product_name: Ollama
 record:
@@ -42,8 +42,8 @@ record:
   title: '`laguna-xs.2` is not yet supported on Windows/Linux'
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-07-use-ollama-launch-claude-desktop-restore-to-restore-claude-desktop-to-its-normal|Use
-  ollama launch claude-desktop --restore to restore Claude Desktop to its normal state]]'
+- '[[Changes/OpenCode/2026-05-10-2-mobile-and-desktop-changes-in-v1-14-45|2 Mobile
+  and Desktop changes in v1.14.45]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall
   back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]'
 - '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-12 · ChatGPT · [[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More images in answers for Free users]]
-- Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated images will continue to appear in the Images tab]]
+- Later: 2026-05-13 · OpenCode · [[Changes/OpenCode/2026-05-13-6-mobile-and-desktop-changes-in-v1-14-49|6 Mobile and Desktop changes in v1.14.49]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3d0267509324c8a1a41e8835e7404fa169797a9313acbca99e9d8080988139cd
+machine_hash: 306f254857632322820403989c28aaca33a1057b2cc49ad5cdd422658827759d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,7 +53,8 @@ record:
   title: Edit a full model response in Canvas
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]'
+- '[[Changes/Midjourney/2024-12-11-hi-all-today-we-re-launching-a-research-preview-of-a-new-worldbuilding-tool-patc|Hi
+  all! Today we’re launching a research preview of a new worldbuilding tool: Patchwork]]'
 - '[[Changes/ChatGPT/2024-12-13-advanced-data-analysis-1956f5|Advanced data analysis]]'
 - '[[Changes/Dify/2025-01-07-3-files-and-data-changes-in-0-15-0|3 Files and Data changes
   in 0.15.0]]'

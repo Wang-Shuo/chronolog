@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 321374a4bd8616af06d2921ef27da3df586d8c103c333e11c73853f52b8908c8
+machine_hash: 8df27ed31e1ae48cb5af50b3aa247ee90a2c85f54ad139c5451fa7d170b13e22
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,12 +60,12 @@ record:
     of a model…"
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-09-publish-every-app-in-your-workspace-under-your-own-domain|Publish
-  every app in your workspace under your own domain]]'
-- '[[Changes/Open WebUI/2026-10-10-5-enterprise-and-administration-changes-in-v0-12-0|5
-  Enterprise and Administration changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-5-enterprise-and-administration-changes-in-v2026-10-1|5
+  Enterprise and Administration changes in v2026.10.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep
   /allow-all available during startup while enterprise policy is still resolving]]'
+- '[[Changes/Google Antigravity/2026-10-12-when-antigravity-gets-a-specific-reason-for-an-error-such-as-a-model-your-admini|When
+  Antigravity gets a specific reason for an error, such as a model…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-1-github-412917560-ae297772|open-webui-2026-10-14-v0-12-1-github-412917560-ae297772]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -109,7 +109,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep /allow-all available during startup while enterprise policy is still resolving]]
+- Earlier: 2026-10-12 · Google Antigravity · [[Changes/Google Antigravity/2026-10-12-when-antigravity-gets-a-specific-reason-for-an-error-such-as-a-model-your-admini|When Antigravity gets a specific reason for an error, such as a model…]]
 - Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-scim-cannot-delete-admins-an-identity-provider-can-no-longer-delete-administrato|👮 SCIM cannot delete admins. An identity provider can no longer delete…]]
 <!-- chronolog:end -->
 

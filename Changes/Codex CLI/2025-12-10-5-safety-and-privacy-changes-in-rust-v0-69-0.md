@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 51f21e36b955142f8a3f94604400c60ae1b2a77036c60a044d1363b29c43c355
+machine_hash: 45f72072b357f21657956fc3b8555b28c0f91a175c375e039d7caa2779d23970
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 5 Safety and Privacy changes in rust-v0.69.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-12-02-2-safety-and-privacy-changes-in-v0-6-41|2 Safety
-  and Privacy changes in v0.6.41]]'
+- '[[Changes/Google Antigravity/2025-12-08-secure-mode-and-security-fixes|Secure Mode
+  and Security Fixes]]'
 - '[[Changes/Codex CLI/2025-12-09-3-safety-and-privacy-changes-in-rust-v0-66-0|3 Safety
   and Privacy changes in rust-v0.66.0]]'
 - '[[Changes/Gemini CLI/2025-12-09-add-consent-flag-to-link-command-by-kevinjwang1-in-https-github-com-google-gemin|Add

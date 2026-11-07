@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dcccd4325fbb505ecde27644b0b0fd622286a3a22a97efa94667b0330bd3fe34
+machine_hash: 7d018a33f671e79932c28494055b11b6aaa65807a12942f72f018a449a35d18e
 product: dify
 product_name: Dify
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Developer Workflow changes in 1.16.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed
-  /code-review to run as a background subagent, so review work no longer…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-23-2-developer-workflow-changes-in-v1-0-74|2
-  Developer Workflow changes in v1.0.74]]'
+- '[[Changes/OpenCode/2026-07-24-support-the-current-server-terminal-transport|Support
+  the current server terminal transport]]'
 - '[[Changes/Open WebUI/2026-07-27-62-developer-workflow-changes-in-v0-11-0|62 Developer
   Workflow changes in v0.11.0]]'
+- '[[Changes/OpenCode/2026-07-27-desktop-improved-compatibility-with-the-newer-client-api-across-directory-projec|Desktop
+  Improved compatibility with the newer client API across directory, project…]]'
 source_release: '[[Releases/Dify/dify-2026-07-28-1-16-1-github-360820489-855a9365|dify-2026-07-28-1-16-1-github-360820489-855a9365]]'
 source_type: github_releases
 theme: developer-workflow
@@ -109,7 +109,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-62-developer-workflow-changes-in-v0-11-0|62 Developer Workflow changes in v0.11.0]]
+- Earlier: 2026-07-27 · OpenCode · [[Changes/OpenCode/2026-07-27-desktop-improved-compatibility-with-the-newer-client-api-across-directory-projec|Desktop Improved compatibility with the newer client API across directory, project…]]
 - Later: 2026-07-28 · Gemini CLI · [[Changes/Gemini CLI/2026-07-28-feat-evals-add-eval-coverage-report-command-by-ved015-in-https-github-com-google|feat(evals): add eval coverage report command]]
 <!-- chronolog:end -->
 

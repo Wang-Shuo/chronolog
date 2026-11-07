@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: dce0452ccc42907180cc109943548bca3d524bf00fa24855f3c6c31db14b649f
+machine_hash: a93b4b36ede25ac9298eadafa7f02964e6eda786ba7d914f1d218782981c6223
 product: replit
 product_name: Replit
 record:
@@ -65,8 +65,8 @@ record:
   title: Introducing Replit Agent 4
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-12-added-github-copilot-instructions-md-for-coding-agents|Added
-  .github/copilot-instructions.md for coding agents]]'
+- '[[Changes/OpenCode/2026-03-12-core-improve-skill-presentation-to-agent-to-increase-likelihood-of-skill-invocat|Core
+  Improve skill presentation to agent to increase likelihood of skill invocations]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-send-follow-up-messages-to-background-agents-with-the-write-agent-tool-for-multi|Send
   follow-up messages to background agents with the write_agent tool…]]'
 - '[[Changes/Replit/2026-03-13-agent|Agent]]'

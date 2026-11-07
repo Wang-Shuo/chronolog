@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8092f54e438a8fe2a520b99dee8ad5263728ce95325e614f4b0fa38c157f6a43
+machine_hash: 55293721a7558298e81dace32e75f4f483651f36755dc34fb5df7078a990c381
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 'feat(core): Parse Multimodal MCP Tool responses'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-11-feature-commands-refactor-slash-command-vision-for-the-future-by-abhipatel12-in|feature(commands)
-  - Refactor Slash Command + Vision For the Future]]'
-- '[[Changes/Cline/2025-07-16-add-vision-capability-to-moonshot-v1-by-saoudrizwan-in-https-github-com-cline-cl|Add
-  vision capability to moonshot v1]]'
-- '[[Changes/Gemini CLI/2025-08-06-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core):
-  Parse Multimodal MCP Tool responses]]'
+- '[[Changes/Midjourney/2025-08-07-how-to-enable-hd-video-mode|How to enable HD Video
+  mode]]'
+- '[[Changes/Midjourney/2025-08-13-we-ve-changed-the-thumbnails-on-video-jobs-so-they-show-the-last-frame|Midjourney
+  changes the thumbnails on video jobs so they show the last frame]]'
+- '[[Changes/Midjourney/2025-08-13-we-ve-improved-video-moderation-accuracy-and-you-should-now-see-fewer-blocked-jo|Midjourney
+  improves video moderation accuracy and you should now see fewer blocked jobs]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa|gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa]]'
 source_type: github_releases
 theme: multimodal
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core): Parse Multimodal MCP Tool responses]]
-- Later: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-multimodal-embedding-support-richer-content-types-beyond-text|Multimodal Embedding: Support richer content types beyond text]]
+- Earlier: 2025-08-13 · Midjourney · [[Changes/Midjourney/2025-08-13-we-ve-improved-video-moderation-accuracy-and-you-should-now-see-fewer-blocked-jo|Midjourney improves video moderation accuracy and you should now see fewer blocked jobs]]
+- Later: 2025-09-04 · Midjourney · [[Changes/Midjourney/2025-09-04-we-re-launching-an-early-version-of-our-style-explorer-today-it-s-like-the-video|Midjourney launches an early version of our style explorer today]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

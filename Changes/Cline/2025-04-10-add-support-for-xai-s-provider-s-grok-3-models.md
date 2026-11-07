@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: acfce9f5b9bdaea768fc7c70f26a286bb42057ceae1302663239f8ded5283319
+machine_hash: 2302b1159d373d4487776ce2acde0cb361ce5ff60a09a0058615ec1308bfa27f
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: Add support for xAI's provider's Grok 3 models
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2025-04-07-accurate-tool-descriptions-from-openapi-servers-external-tools-now-use-full-endp|\U0001F6E0️
-  Accurate Tool Descriptions from OpenAPI Servers]]"
+- '[[Changes/Runway/2025-04-07-our-fastest-and-most-efficient-video-model-now-available-to-all-users|Gen-4
+  Turbo]]'
 - '[[Changes/Dify/2025-04-09-6-model-support-changes-in-1-2-0|6 Model Support changes
   in 1.2.0]]'
 - '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting

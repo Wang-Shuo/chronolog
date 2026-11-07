@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 543304b41853ea1761311cf87ddf52d16a9127b3508c9cadd8a6120beaf735ef
+machine_hash: 04ca5653e75adfc5d608ed3e0a284d58dd30913134aca6f628c4bacff5ad50da
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     that they…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-account-and-access-changes-in-v2-1-268|2 Account
-  and Access changes in v2.1.268]]'
 - '[[Changes/Dify/2026-09-10-6-account-and-access-changes-in-1-17-1|6 Account and
   Access changes in 1.17.1]]'
 - '[[Changes/Lovable/2026-09-11-require-two-factor-authentication-for-your-workspace|Require
   two-factor authentication for your workspace]]'
+- '[[Changes/OpenClaw/2026-09-11-14-account-and-access-changes-in-v2026-9-4|14 Account
+  and Access changes in v2026.9.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: account-access
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-require-two-factor-authentication-for-your-workspace|Require two-factor authentication for your workspace]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account and Access changes in v2.1.273]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-14-account-and-access-changes-in-v2026-9-4|14 Account and Access changes in v2026.9.4]]
+- Later: 2026-09-14 · OpenCode · [[Changes/OpenCode/2026-09-14-terminal-show-remote-config-authentication-errors-during-startup-and-exit-with-a|Terminal Show remote config authentication errors during startup and exit…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

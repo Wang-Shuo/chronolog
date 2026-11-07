@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c0c98cf377ab0b40828a36ed07920b524c6c5529d5cbee73eec24738f12aaea
+machine_hash: 5819fb32e81f6fd3a8d721a41dbdefb0b4e79617de350a3432643295bcfec926
 product: open-webui
 product_name: Open WebUI
 record:
@@ -79,10 +79,10 @@ record:
   title: 7 Agent Mode changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-4-agent-mode-changes-in-v2-1-295|4 Agent Mode
-  changes in v2.1.295]]'
 - '[[Changes/Codex CLI/2026-10-08-14-agent-mode-changes-in-rust-v0-162-0|14 Agent
   Mode changes in rust-v0.162.0]]'
+- '[[Changes/OpenClaw/2026-10-08-4-agent-mode-changes-in-v2026-9-9|4 Agent Mode changes
+  in v2026.9.9]]'
 - '[[Changes/Claude Code/2026-10-09-3-agent-mode-changes-in-v2-1-296|3 Agent Mode
   changes in v2.1.296]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
@@ -146,7 +146,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-agent-mode-changes-in-v2-1-296|3 Agent Mode changes in v2.1.296]]
-- Later: 2026-10-12 · ElevenLabs · [[Changes/ElevenLabs/2026-10-12-elevenagents|ElevenAgents]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-27-agent-mode-changes-in-v2026-10-1|27 Agent Mode changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

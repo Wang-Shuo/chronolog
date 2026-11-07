@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: a29e5a1939df57aea40fb526d17f3eec42627f564b37295049111a201e86c85b
+machine_hash: 7fa9a68f29b4be9d2525dd07bce6a2448e93012d57e53a5c3ca8fbb3eff2f316
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
   title: Deprecated fast mode for Opus 4.8 as of October 30, 2026
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-29-7-model-support-changes-in-v0-12-5|7 Model Support
-  changes in v0.12.5]]'
-- '[[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support
-  changes in v2.1.314]]'
+- '[[Changes/OpenCode/2026-10-30-2-model-support-changes-in-v2-2-3|2 Model Support
+  changes in v2.2.3]]'
+- '[[Changes/OpenCode/2026-10-30-core-reasoning-is-no-longer-turned-into-plain-text-when-you-switch-models-or-res|Core
+  Reasoning is no longer turned into plain text when you switch models or resume…]]'
 - '[[Changes/Replit/2026-10-30-gpt-6-1-terra-in-the-model-selector|GPT-6.1 Terra in
   the model selector]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'

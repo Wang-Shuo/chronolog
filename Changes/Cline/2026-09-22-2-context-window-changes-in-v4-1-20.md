@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73bc6cd1954d6e5025fa8a455e901fd536d98ea46bf5a9b0d3e3f779ad6c80eb
+machine_hash: d9b100c55073e5c974fdb6d258edd0d253b91bfefbec6e05493da85153da2c19
 product: cline
 product_name: Cline
 record:
@@ -51,10 +51,10 @@ record:
   title: 2 Context Window changes in v4.1.20
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-20-context-window-changes-in-rust-v0-155-0|20 Context
-  Window changes in rust-v0.155.0]]'
 - '[[Changes/Lovable/2026-09-18-type-or-to-add-context-and-skills-where-you-type|Type
   @ or / to add context and skills where you type]]'
+- '[[Changes/OpenClaw/2026-09-19-20-context-window-changes-in-v2026-9-5|20 Context
+  Window changes in v2026.9.5]]'
 - '[[Changes/Open WebUI/2026-09-21-3-context-window-changes-in-v0-11-4|3 Context Window
   changes in v0.11.4]]'
 source_release: '[[Releases/Cline/cline-2026-09-22-v4-1-20-github-394105689-95df91cb|cline-2026-09-22-v4-1-20-github-394105689-95df91cb]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37ea42becfd14c831f84110b98817cca73951444d94b27a031fa029912eb219e
+machine_hash: 21e38890984ea69c64d93d644c59aa471ec2eb7f31185e78280372efb733cd75
 product: v0
 product_name: v0
 record:
@@ -50,10 +50,10 @@ record:
   title: 3 Collaboration changes in Grouped tool approvals, richer MCP…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor
-  expands team marketplaces to support Team MCPs and organization groups]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration
   changes in v1.0.66]]'
+- '[[Changes/OpenClaw/2026-06-30-5-collaboration-changes-in-v2026-6-11|5 Collaboration
+  changes in v2026.6.11]]'
 - '[[Changes/Lovable/2026-07-07-the-last-owner-cannot-leave-a-shared-folder|The last
   owner cannot leave a shared folder]]'
 source_release: '[[Releases/v0/v0-2026-07-07-2026-07-07-3495f67b|v0-2026-07-07-2026-07-07-3495f67b]]'

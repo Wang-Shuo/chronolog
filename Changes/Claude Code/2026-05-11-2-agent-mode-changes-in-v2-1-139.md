@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a076fd4cc81fd697462b9c6d13be88dd632b83d5fa35c8c42df2ed31fd164441
+machine_hash: b9fa798d908881320267819ee558894fd95c3c601c93f218e4e11cca6146755f
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,11 @@ record:
   title: 2 Agent Mode changes in v2.1.139
   type: change
 related_changes:
-- '[[Changes/Replit/2026-05-08-new-animated-icons-for-agent-modes|New animated icons
-  for Agent modes]]'
-- '[[Changes/Replit/2026-05-08-agent|Agent]]'
 - '[[Changes/Replit/2026-05-08-agent-accepts-svg-uploads|Agent accepts SVG uploads]]'
+- '[[Changes/OpenCode/2026-05-09-core-added-the-scout-agent-for-repo-research-docs-lookup-and-dependency-source-i|Core
+  Added the Scout agent for repo research, docs lookup, and dependency-source…]]'
+- '[[Changes/OpenCode/2026-05-10-core-fixed-a-plan-mode-security-bypass-where-subagents-could-ignore-parent-agent|Core
+  Fixed a Plan Mode security bypass where subagents could ignore parent-agent…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.139
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-agent-accepts-svg-uploads|Agent accepts SVG uploads]]
+- Earlier: 2026-05-10 · OpenCode · [[Changes/OpenCode/2026-05-10-core-fixed-a-plan-mode-security-bypass-where-subagents-could-ignore-parent-agent|Core Fixed a Plan Mode security bypass where subagents could ignore parent-agent…]]
 - Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull-d30c31|Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull…]]
 <!-- chronolog:end -->
 

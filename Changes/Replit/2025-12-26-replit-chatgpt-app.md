@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a1ce86b83cde12c655a84bc36c00436c85352efeeb80c16ead372d4f41542013
+machine_hash: 538fe0e53b731013b7866b2915d743272146accddc2f612a7fe5ca42a584271f
 product: replit
 product_name: Replit
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-12-apps-and-integrations-changes-in-1-11-2|12 Apps and Integrations changes in 1.11.2]]
-- Later: 2025-12-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-30-enable-copilot-spaces-tools-in-github-mcp-server|Enable Copilot Spaces tools in GitHub MCP Server]]
+- Later: 2025-12-29 · OpenCode · [[Changes/OpenCode/2025-12-29-core-install-local-plugin-dependencies-from-package-json|Core Install local plugin dependencies from package.json]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

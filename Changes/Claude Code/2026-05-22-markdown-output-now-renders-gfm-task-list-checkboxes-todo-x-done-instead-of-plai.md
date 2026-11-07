@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4dca1a6999554854d57759f120100da78a9dca70a124197db6dc99197e60206
+machine_hash: 944419edbfa155ceccdbdf89f01580e68aec803175fba5e32ccdfe0f24d96128
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     done`)…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-3-interface-experience-changes-in-v1-0-49|3
-  Interface Experience changes in v1.0.49]]'
 - '[[Changes/Codex CLI/2026-05-20-3-interface-experience-changes-in-rust-v0-132-0|3
   Interface Experience changes in rust-v0.132.0]]'
+- '[[Changes/OpenCode/2026-05-20-2-interface-experience-changes-in-v1-15-6|2 Interface
+  Experience changes in v1.15.6]]'
 - '[[Changes/Claude Code/2026-05-21-prompt-history-no-longer-records-consecutive-duplicate-entries-recalling-a-promp|Prompt
   history no longer records consecutive duplicate entries]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce97b0a7f7f698efb0947b0269d655bd89e0acffef6d37c398cd2d7aa89fc7d5
+machine_hash: 0ce9fd4462a93074dc72b55fabf98f019b8558c391eef2ec169457fde4710c81
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,10 +52,10 @@ record:
   title: Improved screen-reader output in `/mcp`
   type: change
 related_changes:
-- '[[Changes/Dify/2026-09-10-3-accessibility-and-localization-changes-in-1-17-1|3
-  Accessibility and Localization changes in 1.17.1]]'
 - '[[Changes/Claude Code/2026-09-17-vscode-improved-screen-reader-navigation-of-the-conversation-each-message-is-ann|VSCode
   Improved screen reader navigation of the conversation]]'
+- '[[Changes/OpenClaw/2026-09-19-browser-pages-appear-directly-in-the-chat-panel-header-leaving-more-room-for-the|Browser
+  pages appear directly in the Chat panel header, leaving more room for the page]]'
 - '[[Changes/Codex CLI/2026-09-22-46040-default-tui-animations-off-when-a-screen-reader-is-detected-etraut-openai|♯46040
   Default TUI animations off when a screen reader is detected @etraut-openai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-46040-default-tui-animations-off-when-a-screen-reader-is-detected-etraut-openai|♯46040 Default TUI animations off when a screen reader is detected @etraut-openai]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-changed-screen-reader-mode-to-write-new-or-changed-lines-without-first-pausing-w|Changed screen reader mode to write new or changed lines without first pausing…]]
+- Later: 2026-09-23 · OpenClaw · [[Changes/OpenClaw/2026-09-23-localization-maintenance-removes-entries-whose-interface-text-has-already-been-r|Localization maintenance removes entries whose interface text has already been…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

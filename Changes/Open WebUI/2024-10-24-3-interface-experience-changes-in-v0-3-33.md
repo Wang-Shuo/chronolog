@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9603f6369f78ccf67539f3b71b79eaf23ddcc5a1d4a06ec8049c8889a30db449
+machine_hash: 1b66d3f4cb1b9e5d0ee7e0d2645b24442cbed1f9afe1030da7a6f891c09834ad
 product: open-webui
 product_name: Open WebUI
 record:
@@ -50,8 +50,8 @@ record:
   title: 3 Interface Experience changes in v0.3.33
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-09-24-enhanced-latex-rendering-improved-rendering-for-latex-content-enhancing-clarity|\U0001F4CA
-  Enhanced LaTeX Rendering]]"
+- '[[Changes/Suno/2024-09-24-2-right-click-or-go-into-the-more-actions-menu|2 - Right
+  click or go into the More Actions menu]]'
 - "[[Changes/Open WebUI/2024-09-25-katex-rendering-improvement-resolved-specific-corner-cases-in-katex-rendering-to|\U0001F527
   KaTeX Rendering Improvement]]"
 - '[[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings

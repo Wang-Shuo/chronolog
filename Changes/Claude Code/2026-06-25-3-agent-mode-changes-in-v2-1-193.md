@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10e92a26cfb5a760f12b2fd454054637b83db26492db8a1a954441ee7b672d2a
+machine_hash: 9a1e8a9ed8d65bcdc189a545cc33f02d764fc2bdb672f2a36d9fddfd9c47cd98
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,7 +49,8 @@ record:
   title: 3 Agent Mode changes in v2.1.193
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-06-22-elevenagents-ee09f3|ElevenAgents]]'
+- '[[Changes/Google Antigravity/2026-06-22-new-entries-in-the-sensitive-paths-list-vscode-and-cache-are-now-recognized-as-s|New
+  entries in the sensitive paths list]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-6-agent-mode-changes-in-v1-0-64|6 Agent
   Mode changes in v1.0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-4-agent-mode-changes-in-v1-0-65|4 Agent

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cfedb240c1dc9b75fcf1d7e2df1e0a6fd1aad9e84ef2128f017e4e2a9a169d0a
+machine_hash: 87766328a50d7234cf60d95029fe229234c41a74b72712e971f7098911160d81
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     later
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi|Added
-  support for custom session IDs when forking sessions with --session-id…]]'
 - '[[Changes/Gemini CLI/2026-01-28-docs-update-project-context-and-pr-creator-workflow-by-ntaylormullen-in-https-gi|docs:
   update project context and pr-creator workflow]]'
 - '[[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added
   --from-pr flag to resume sessions linked to a specific GitHub PR number or URL]]'
+- '[[Changes/OpenCode/2026-02-03-desktop-add-project-context-menu-on-right-click|Desktop
+  Add project context menu on right-click]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added --from-pr flag to resume sessions linked to a specific GitHub PR number or URL]]
+- Earlier: 2026-02-03 · OpenCode · [[Changes/OpenCode/2026-02-03-desktop-add-project-context-menu-on-right-click|Desktop Add project context menu on right-click]]
 - Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-feat-acp-add-session-resume-support-by-bdmorgan-in-https-github-com-google-gemin|feat(acp): add session resume support]]
 <!-- chronolog:end -->
 

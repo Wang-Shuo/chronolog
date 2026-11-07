@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 16304662a0e7b64e17b577644c725840cfdd6f5411973de1e208116bbd2bb530
+machine_hash: 045bb003c236eca1ab7d53ae780afacfefaf0e090a89575583ba29e294bb6344
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Model Support changes in v1.0.44
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-2-model-support-changes-in-v2-1-129|2 Model Support
-  changes in v2.1.129]]'
-- '[[Changes/Codex CLI/2026-05-07-4-model-support-changes-in-rust-v0-129-0|4 Model
-  Support changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-07-added-support-for-general-model-names-for-subagent-configuration-i-e-set-model-o|Added
   support for general model names for subagent configuration (i.e., set model]]'
+- '[[Changes/OpenCode/2026-05-07-extensions-acp-clients-now-restore-the-last-model-mode-and-effort-when-loading-s|Extensions
+  ACP clients now restore the last model, mode, and effort when loading…]]'
+- '[[Changes/OpenCode/2026-05-07-3-model-support-changes-in-v1-14-40|3 Model Support
+  changes in v1.14.40]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8|github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8]]'
 source_type: github_releases
 theme: model-support
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.44
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-added-support-for-general-model-names-for-subagent-configuration-i-e-set-model-o|Added support for general model names for subagent configuration (i.e., set model]]
+- Earlier: 2026-05-07 · OpenCode · [[Changes/OpenCode/2026-05-07-3-model-support-changes-in-v1-14-40|3 Model Support changes in v1.14.40]]
 - Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-9-model-support-changes-in-v0-9-3|9 Model Support changes in v0.9.3]]
 <!-- chronolog:end -->
 

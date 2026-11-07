@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6cd1267b68577ab04c5617eb7f7ad3c755613f420b6926b47abff216cedb2bab
+machine_hash: d59b52af0120bb5074f06dd8d64004293fa9d556d676c1d9a478fc4cfee8e5b7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: Windows installs are more robust
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-05-13-2-reliability-and-performance-changes-in-v0-30-0|2
-  Reliability and Performance changes in v0.30.0]]'
 - '[[Changes/Lovable/2026-05-18-speed-tab-the-standalone-speed-tab-has-been-removed-speed-and-lighthouse-checks|Speed
   tab. The standalone Speed tab has been removed]]'
+- '[[Changes/OpenCode/2026-05-18-desktop-speed-up-large-session-timelines|Desktop
+  Speed up large session timelines]]'
 - '[[Changes/Dify/2026-05-19-knowledge-base-stability-fixed-knowledge-hit-testing-rendering-empty-knowledge-c|Knowledge-base
   stability — fixed knowledge hit-testing rendering, empty…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'

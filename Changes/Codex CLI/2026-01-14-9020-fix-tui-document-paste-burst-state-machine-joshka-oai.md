@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc951fa3a8ba2ef1feab48e9c405b80e433b1b9b1874ddf7934caccb836d2be6
+machine_hash: 7586a7d0720f46db264678ea626e1bf5af2b7ef0e691a6cb63d18f8b4d0fee7f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#9020 fix(tui): document paste-burst state machine @joshka-oai'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-01-09-5-files-and-data-changes-in-v0-7-0|5 Files and
-  Data changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-09-core-document-cargofmt-in-docs|Core Document cargofmt
+  in docs]]'
 - '[[Changes/ElevenLabs/2026-01-12-knowledge-base|Knowledge Base]]'
 - '[[Changes/Dify/2026-01-13-4-files-and-data-changes-in-1-11-3|4 Files and Data changes
   in 1.11.3]]'

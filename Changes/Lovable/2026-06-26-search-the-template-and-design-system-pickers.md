@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: cdd03acfd3ac8de31b0a3924bf286ece1e884068ecb4ecf06ceef3ee7a4008c3
+machine_hash: 23db30745d39be20df31b09e6d3a8661cac099521bf7fcaf62107722c685c95a
 product: lovable
 product_name: Lovable
 record:
@@ -46,10 +46,9 @@ record:
   title: Search the template and design system pickers
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-2-interface-experience-changes-in-v1-0-65|2
-  Interface Experience changes in v1.0.65]]'
-- '[[Changes/Dify/2026-06-25-6-interface-experience-changes-in-1-15-0|6 Interface
-  Experience changes in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-5-interface-experience-changes-in-hub-v2-2-1-antigravity-guide-audio|5
+  Interface Experience changes in HUB v2.2.1 — Antigravity Guide, audio…]]'
+- '[[Changes/Midjourney/2026-06-25-heya-everyone|Random styles in draft mode]]'
 - '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added
   CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]'
 source_release: '[[Releases/Lovable/lovable-2026-06-26-2026-06-26-0ee85750|lovable-2026-06-26-2026-06-26-0ee85750]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1146467fa6186e21f68e726b13a90a6f34ad8072e09563c5cd5be416a1c133a4
+machine_hash: 7d7346a521ffa7e65a86895e3383eac929bb24d1d73cceaa65d0a097b68f7b02
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-3-mobile-and-desktop-changes-in-rust-v0-145-0|3
-  Mobile and Desktop changes in rust-v0.145.0]]'
-- '[[Changes/Lovable/2026-07-24-open-projects-in-background-tabs-on-desktop|Open projects
-  in background tabs on desktop]]'
-- '[[Changes/Open WebUI/2026-07-27-2-mobile-and-desktop-changes-in-v0-11-0|2 Mobile
-  and Desktop changes in v0.11.0]]'
+- '[[Changes/Granola/2026-07-28-today-we-re-launching-a-new-version-of-granola-built-from-the-ground-up-for-appl|Granola
+  for Apple Watch]]'
+- '[[Changes/OpenCode/2026-07-28-8-mobile-and-desktop-changes-in-v1-18-8|8 Mobile
+  and Desktop changes in v1.18.8]]'
+- '[[Changes/OpenCode/2026-07-28-2-mobile-and-desktop-changes-in-v1-18-9|2 Mobile
+  and Desktop changes in v1.18.9]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-2-mobile-and-desktop-changes-in-v0-11-0|2 Mobile and Desktop changes in v0.11.0]]
+- Earlier: 2026-07-28 · OpenCode · [[Changes/OpenCode/2026-07-28-2-mobile-and-desktop-changes-in-v1-18-9|2 Mobile and Desktop changes in v1.18.9]]
 - Later: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger screen]]
 <!-- chronolog:end -->
 

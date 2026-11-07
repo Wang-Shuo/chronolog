@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 682703158cd112a8467ac7ef44470ec1f11b50dd54641efbe01f0dcd999710f6
+machine_hash: f766d031a3989428bdf9d5457f9a7d0cedbd3e96a46a5536fe1016a0322add7a
 product: windsurf
 product_name: Windsurf
 record:
@@ -64,11 +64,12 @@ record:
   title: Agent and Editor modes
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2
-  Interface Experience changes in v1.0.61]]'
-- '[[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]'
 - '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re
   updating the model picker to make it easier to choose the balance of speed…]]'
+- '[[Changes/OpenCode/2026-06-10-desktop-restore-the-device-attachment-picker|Desktop
+  Restore the device attachment picker]]'
+- '[[Changes/OpenCode/2026-06-10-core-references-can-include-usage-descriptions-for-agents-show-up-in-the-new-doc|Core
+  References can include usage descriptions for agents, show up in the new docs…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-10-v3-1-7-782b7243|windsurf-2026-06-10-v3-1-7-782b7243]]'
 source_type: windsurf_changelog
 theme: interface-experience
@@ -102,8 +103,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-10 · ChatGPT · [[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re updating the model picker to make it easier to choose the balance of speed…]]
-- Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added footerLinksRegexes setting for regex-matched link badges in the footer row…]]
+- Earlier: 2026-06-10 · OpenCode · [[Changes/OpenCode/2026-06-10-core-references-can-include-usage-descriptions-for-agents-show-up-in-the-new-doc|Core References can include usage descriptions for agents, show up in the new docs…]]
+- Later: 2026-06-11 · Google Antigravity · [[Changes/Google Antigravity/2026-06-11-2-interface-experience-changes-in-hub-v2-1-4-quota-screen-redesign|2 Interface Experience changes in HUB v2.1.4 — Quota Screen Redesign…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

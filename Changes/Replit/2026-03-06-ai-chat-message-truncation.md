@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5ffdde20ac2295c3ee0f9a931adaf904b49b51fd5a8f913b128c1f9e0ec694db
+machine_hash: 2473aa5c76823d066891fdf5486b97413ad5cf96f1dc38971bbbb402d3e1ee38
 product: replit
 product_name: Replit
 record:
@@ -44,12 +44,12 @@ record:
   title: AI Chat message truncation
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-13313-renaming-team-to-business-plan-during-tui-onboarding-bwanner-oai|♯13313
-  Renaming Team to Business plan during TUI onboarding @bwanner-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-05-text-selection-persists-after-copying-to-clipboard-in-alt-screen|Text
   selection persists after copying to clipboard in alt screen]]'
 - '[[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode
   Added spark icon in VS Code activity bar that lists all Claude Code…]]'
+- '[[Changes/OpenCode/2026-03-06-desktop-remove-keyboard-shortcut-tooltips-from-new-session-and-new-workspace-but|Desktop
+  Remove keyboard shortcut tooltips from new session and new workspace buttons…]]'
 source_release: '[[Releases/Replit/replit-2026-03-06-2026-03-06-63efb5ba|replit-2026-03-06-2026-03-06-63efb5ba]]'
 source_type: replit_changelog
 theme: interface-experience
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode Added spark icon in VS Code activity bar that lists all Claude Code…]]
-- Later: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-added-a-new-model-selection-surface-update-so-the-latest-model-catalog-changes-a|Added a new model-selection surface update so the latest model catalog changes…]]
+- Earlier: 2026-03-06 · OpenCode · [[Changes/OpenCode/2026-03-06-desktop-remove-keyboard-shortcut-tooltips-from-new-session-and-new-workspace-but|Desktop Remove keyboard shortcut tooltips from new session and new workspace buttons…]]
+- Later: 2026-03-07 · OpenCode · [[Changes/OpenCode/2026-03-07-2-interface-experience-changes-in-v1-2-21|2 Interface Experience changes in v1.2.21]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

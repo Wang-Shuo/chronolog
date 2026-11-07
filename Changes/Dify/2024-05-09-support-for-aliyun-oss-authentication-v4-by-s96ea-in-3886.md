@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 858da74dfe1bf58902f2d084d10fbb78ff4aac5e70c3ab17ba77c6fa872c1cc2
+machine_hash: 932cdee10d3184124a7a290664ed75950e715c098d26d47518c8d31a0b8209ac
 product: dify
 product_name: Dify
 record:
@@ -43,10 +43,10 @@ record:
   title: 'Support for Aliyun OSS authentication V4 by @S96EA in #3886'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start
-  using ChatGPT instantly]]'
-- "[[Changes/Open WebUI/2024-04-04-trusted-email-authentication-authenticate-using-a-trusted-email-header|\U0001F4E7
-  Trusted Email Authentication: Authenticate using a trusted email header]]"
+- '[[Changes/Runway/2024-04-05-sso-users-can-seamlessly-transition-from-their-idp-s-login-page-to-runway-withou|Support
+  SSO login initiated from IdP]]'
+- '[[Changes/Suno/2024-04-12-1-sign-in-and-click-your-avatar-in-the-bottom-left-on-desktop-or-the-menu-icon-i|1️⃣
+  Sign in, and click your avatar in the bottom left on desktop or the menu icon…]]'
 - "[[Changes/Open WebUI/2024-05-08-auth-disable-option-introducing-the-ability-to-disable-authentication-set-webui|\U0001F512
   Auth Disable Option: Introducing the ability to disable authentication]]"
 source_release: '[[Releases/Dify/dify-2024-05-09-0-6-7-github-154885497-ccce31f0|dify-2024-05-09-0-6-7-github-154885497-ccce31f0]]'

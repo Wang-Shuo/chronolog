@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8067d63f0ba2b41ad1407a420047331978db15850588a1fd705d485b90de0309
+machine_hash: 89a5ca8e4bd0a8b9df88a889108bbf72cf30dffe549db45f91b7df0291227694
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,10 +49,10 @@ record:
   title: 2 Account and Access changes in v0.10.2
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-mcp-oauth-against-microsoft-entra-servers-behind-a-tenant-vanity-domain-e-g-copi|MCP
-  OAuth against Microsoft Entra servers behind a tenant vanity domain…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-6-account-and-access-changes-in-v1-0-66|6
-  Account and Access changes in v1.0.66]]'
+- '[[Changes/OpenClaw/2026-06-30-2-account-and-access-changes-in-v2026-6-11|2 Account
+  and Access changes in v2026.6.11]]'
+- '[[Changes/OpenCode/2026-06-30-3-account-and-access-changes-in-v1-17-12|3 Account
+  and Access changes in v1.17.12]]'
 - '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
   now opens the sign-in dialog from the claude agents view instead…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f|open-webui-2026-07-01-v0-10-2-github-347327188-9065e44f]]'

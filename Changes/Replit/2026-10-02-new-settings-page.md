@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3e9c22b955555b332ef7bd21b542e5dcea3af3f279895d7525742f73e5aac65b
+machine_hash: 9c6eed36d3e0b0ab110965172ed4efff60f4e9c09be91a4831045dc348f7c5d0
 product: replit
 product_name: Replit
 record:
@@ -46,12 +46,9 @@ record:
   title: New Settings page
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-2-interface-experience-changes-in-rust-v0-160-0|2
-  Interface Experience changes in rust-v0.160.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-01-footer-text-selection-stays-on-the-same-visible-line-when-the-footer-grows-or-sh|Footer
-  text selection stays on the same visible line when the footer grows or shrinks]]'
-- '[[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added
-  $.ui.selection() for mods]]'
+- '[[Changes/Midjourney/2026-10-02-what-you-said|WHAT YOU SAID]]'
+- '[[Changes/Midjourney/2026-10-02-organize-drag-and-drop|ORGANIZE & DRAG AND DROP]]'
+- '[[Changes/Midjourney/2026-10-02-prompt-bar-pills|PROMPT BAR & PILLS]]'
 source_release: '[[Releases/Replit/replit-2026-10-02-2026-10-02-3eeb4015|replit-2026-10-02-2026-10-02-3eeb4015]]'
 source_type: replit_changelog
 theme: interface-experience
@@ -82,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added $.ui.selection() for mods]]
-- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-add-a-pre-conversation-ctrl-e-environment-picker-to-switch-between-local-and-clo|Add a pre-conversation Ctrl+E environment picker to switch between local and cloud runs]]
+- Earlier: 2026-10-02 · Midjourney · [[Changes/Midjourney/2026-10-02-prompt-bar-pills|PROMPT BAR & PILLS]]
+- Later: 2026-10-03 · OpenClaw · [[Changes/OpenClaw/2026-10-03-session-assignment-moving-the-pointer-over-assign-to-and-then-pressing-enter-now|Session assignment]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

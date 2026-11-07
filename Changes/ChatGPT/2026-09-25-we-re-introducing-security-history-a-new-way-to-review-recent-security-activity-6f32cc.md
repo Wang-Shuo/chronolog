@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: c8b6e8cdd6936afede4d47ac6ee8eec2a239bf0c3cd2c3a9c430df38cf9159f8
+machine_hash: 2c042e0d4d2c998701799fe89cf3ed2d13be2992358cb5bc6bcf632ed33c4e75
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,8 +65,8 @@ record:
   title: Security history in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-23-redesigned-project-security-view|Redesigned project
-  Security view]]'
+- '[[Changes/OpenClaw/2026-09-23-50-safety-and-privacy-changes-in-v2026-9-6|50 Safety
+  and Privacy changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-24-4-safety-and-privacy-changes-in-v2-1-282|4 Safety
   and Privacy changes in v2.1.282]]'
 - '[[Changes/Cline/2026-09-24-raised-the-minimum-js-yaml-version-to-4-3-2-to-pick-up-a-security-fix-in-the-par|Raised

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b755c645d5e8cc3447ffc504c97c27a4687f7645adee7b352d81b793348d69e5
+machine_hash: a233e669b97273a38eebc6c1c6f70296231059b1f354906447684aaea8d819e5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.151.0
 ## Nearby in Model Support
 
 - Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-gpt-5-6-sol-and-a-faster-sol-fast-tier-are-available-in-the-model-picker-routed|GPT-5.6 Sol and a faster Sol Fast tier are available in the model picker, routed…]]
-- Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site tools use WebMCP and require a supported account, model, and webpage]]
+- Later: 2026-08-29 · Midjourney · [[Changes/Midjourney/2026-08-29-we-ve-updated-our-v8-2-edit-model-for-better-image-quality-if-you-ve-had-any-iss|Edit Image Quality Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

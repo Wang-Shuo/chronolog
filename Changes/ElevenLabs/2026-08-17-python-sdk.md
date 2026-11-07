@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 65c0b709ffa1f5f7fe7f361214abcdfd71a16f93e124df9cf1dca017a12d4dd1
+machine_hash: a79179e0a1146e0328912f1179441281e2342c0dd075722a74f550f92c98998a
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-08-10 · Ollama · [[Changes/Ollama/2026-08-10-2-multimodal-input-changes-in-v0-32-7|2 Multimodal Input changes in v0.32.7]]
-- Later: 2026-08-21 · DeepSeek API · [[Changes/DeepSeek API/2026-08-21-deepseek-v4-flash-vision-exp-release|DeepSeek-V4-Flash-Vision-Exp Release]]
+- Later: 2026-08-18 · Runway · [[Changes/Runway/2026-08-18-compose-and-blend-images-and-video-together-with-new-compositing-workflow-nodes|Compositing Nodes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

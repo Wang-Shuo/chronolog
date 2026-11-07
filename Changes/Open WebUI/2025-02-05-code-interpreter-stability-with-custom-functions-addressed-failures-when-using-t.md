@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8de1bbfaf8b07dd1ee0193ec6c80617705fdd3abcf6b24ec40dae34bc30f50b0
+machine_hash: 241c51828a31cb2b243737fdbf7712f06c14dd373756301e50b75fe3367cdd13
 product: open-webui
 product_name: Open WebUI
 record:
@@ -45,11 +45,11 @@ record:
   title: "**\U0001F4BB Code Interpreter Stability with Custom Functions**"
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also
-  adds MCP support, team-configurable blocklists, fixes Composer stuck…]]'
 - '[[Changes/Replit/2025-01-24-autoscale-deployment-optimizations|Autoscale deployment
   optimizations]]'
 - '[[Changes/Replit/2025-01-24-better-zips|Better Zips]]'
+- '[[Changes/Gamma/2025-02-04-now-you-can-multi-select-from-the-filmstrip-and-take-action-cut-copy-duplicate-a|Updated
+  Filmstrip Experience]]'
 source_release: '[[Releases/Open WebUI/open-webui-2025-02-05-v0-5-10-github-198699440-6d5fd1f8|open-webui-2025-02-05-v0-5-10-github-198699440-6d5fd1f8]]'
 source_type: github_releases
 theme: reliability-performance
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-01-24 · Replit · [[Changes/Replit/2025-01-24-better-zips|Better Zips]]
+- Earlier: 2025-02-04 · Gamma · [[Changes/Gamma/2025-02-04-now-you-can-multi-select-from-the-filmstrip-and-take-action-cut-copy-duplicate-a|Updated Filmstrip Experience]]
 - Later: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-2-reliability-and-performance-changes-in-v0-5-8|2 Reliability and Performance changes in v0.5.8]]
 <!-- chronolog:end -->
 

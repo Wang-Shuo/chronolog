@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 688d6c1e0cd57c0bb3b0fed455c4f0be9d4c8d9d6fee50b4c430a74e89eac2c1
+machine_hash: ade9db5873d99361f47ef986f4a34981fab47e8e4e59819d368fe48b23a47ed3
 product: open-webui
 product_name: Open WebUI
 record:
@@ -46,10 +46,10 @@ record:
   title: "**\U0001F5E3 ElevenLabs Voice Adaptations**"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-06-17-3-voice-and-audio-changes-in-v0-3-5|3 Voice and
-  Audio changes in v0.3.5]]'
 - '[[Changes/Open WebUI/2024-06-27-2-voice-and-audio-changes-in-v0-3-6|2 Voice and
   Audio changes in v0.3.6]]'
+- '[[Changes/Suno/2024-06-28-audio-input-is-now-available-to-everyone-including-those-with-free-accounts|Audio
+  Input is now available to everyone, including those with free accounts!]]'
 - '[[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS
   Streaming Config]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87|open-webui-2024-08-02-v0-3-11-github-168514684-1f88ba87]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-tts-streaming-config-text-to-speech-support-automatic-voice-playback-and-streami|TTS Streaming Config]]
-- Later: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-chore-allow-download-audio-video-through-http-node-by-hjlarry-in-https-github-co|chore: allow download audio/video through HTTP node]]
+- Later: 2024-08-09 · Runway · [[Changes/Runway/2024-08-09-retain-the-content-pace-and-tone-of-your-input-audio-while-changing-the-voice|Speech to Speech]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

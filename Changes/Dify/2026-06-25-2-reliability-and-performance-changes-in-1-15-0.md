@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6232848273e6204a41b365ea5494d506baa76616aa0d953615c60ac8e9d9353c
+machine_hash: 1419766dd17f88869da5ad1dc5001948f68581e26a640af509bcba69654b4a3c
 product: dify
 product_name: Dify
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-apps-can-display-richer-safety-buffering-ui-using-server-provided-visibility-and|Apps can display richer safety-buffering UI using server-provided visibility…]]
-- Later: 2026-06-25 · Ollama · [[Changes/Ollama/2026-06-25-llm-size-mmproj-offload-by-projector-memory-by-dhiltgen-in-https-github-com-olla|llm: size mmproj offload by projector memory]]
+- Later: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-optimized-file-watching-notifications-to-prevent-visual-flickering-and-improve-p|Optimized file watching notifications to prevent visual flickering and improve…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b4ec4fedad1e1a812514cd97dfc08def23ebdeee76c7ed97ce98605040ad7cc
+machine_hash: 89f9b3912ee189dbc1661a7be4825f56b7d48e30056598e6036b697c011694c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-43846-include-completed-commentary-in-the-copy-picker-copyberry|♯43846 Include completed commentary in the /copy picker @copyberry]]
-- Later: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-redesigned-project-cards|Redesigned project cards]]
+- Later: 2026-09-18 · Google Antigravity · [[Changes/Google Antigravity/2026-09-18-custom-agent-controls-and-keyboard-navigation|Custom agent controls and keyboard navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

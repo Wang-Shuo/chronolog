@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 2496b10b964f77f592d3d3fd8baacba3e7f79401aeef9e25d383f6dfd8f6d48f
+machine_hash: 5261b43cfce00c3b2daf93ede2d767cb726f11310e5d15bdd3bff46656f4f43c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,8 +51,8 @@ record:
   title: Retiring GPT-5.1 models
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-03-09-3-model-support-changes-in-v0-8-10|3 Model Support
-  changes in v0.8.10]]'
+- '[[Changes/OpenCode/2026-03-09-core-add-copilot-gpt-5-4-xhigh-support|Core Add Copilot
+  GPT-5.4 xhigh support]]'
 - '[[Changes/Codex CLI/2026-03-10-14123-pass-on-save-info-to-model-ui-tweaks-won-openai|♯14123
   pass on save info to model + ui tweaks @won-openai]]'
 - '[[Changes/v0/2026-03-10-updated-auto-model-icon-to-new-radial-design|Updated auto

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: afe224f184da98821affe2e7da7ccefcdbfb86188b4b851d0cfe9d2924c46095
+machine_hash: 6121f44c9cbbc7d4fa7910abcd3ba32bb19e15dd8903b217bbc8367208e49cae
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Simplify compaction timeline entries
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-23-show-conversation-compaction-status-as-timeline-messages-instead-of-header-indic|Show
-  conversation compaction status as timeline messages instead of header indicator]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-24-3-context-window-changes-in-v0-0-394|3
   Context Window changes in v0.0.394]]'
+- '[[Changes/OpenCode/2026-01-25-3-context-window-changes-in-v1-1-35|3 Context Window
+  changes in v1.1.35]]'
 - '[[Changes/Cline/2026-01-27-strip-notebook-cell-outputs-when-extracting-text-content-from-jupyter-notebooks|Strip
   notebook cell outputs when extracting text content from Jupyter notebooks…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-27-v0-0-396-github-280451648-9f8ebbe0|github-copilot-cli-2026-01-27-v0-0-396-github-280451648-9f8ebbe0]]'

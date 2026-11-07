@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 1bdc657a234a6fcbe912496046d44b80230709a5c8e9f332b019470582e49e14
+machine_hash: d6956b1032e5eb16d9b0c16aacdc35fe567c02f5e280fb9d638df9cdfa59a85f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: Display cache-write pricing for models that omit it
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-06-18-one-credit-balance-and-clearer-usage-insights|One
-  credit balance and clearer usage insights]]'
 - '[[Changes/Lovable/2026-06-18-ask-lovable-about-your-workspace-s-credit-usage|Ask
   Lovable about your workspace’s credit usage]]'
 - '[[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage
   can now show and redeem earned usage-limit reset credits…]]'
+- '[[Changes/Google Antigravity/2026-06-22-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota
+  screen redesign]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: pricing-model
@@ -103,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage can now show and redeem earned usage-limit reset credits…]]
+- Earlier: 2026-06-22 · Google Antigravity · [[Changes/Google Antigravity/2026-06-22-quota-screen-redesign-clearer-unambiguous-view-into-used-versus-remaining-credit|Quota screen redesign]]
 - Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-6-pricing-model-changes-in-1-15-0|6 Pricing Model changes in 1.15.0]]
 <!-- chronolog:end -->
 

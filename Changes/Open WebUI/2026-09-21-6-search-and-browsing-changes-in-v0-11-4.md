@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: de3ce26eefcc3fc029e9099049eac70dc1700b5b28c0955b9f8c99dc48ed0351
+machine_hash: a403aed09517ffeb23a6ede0c3535e449cb09a427bbe576bba3826f601781e7a
 product: open-webui
 product_name: Open WebUI
 record:
@@ -74,10 +74,10 @@ record:
   title: 6 Search and Browsing changes in v0.11.4
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-09-17-perplexity-web-search-without-your-own-api-key|Perplexity
-  web search without your own API key]]'
 - '[[Changes/Lovable/2026-09-18-try-the-lovable-api-in-postman|Try the Lovable API
   in Postman]]'
+- '[[Changes/OpenClaw/2026-09-19-6-search-and-browsing-changes-in-v2026-9-5|6 Search
+  and Browsing changes in v2026.9.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-consecutive-steering-prompts-in-the-same-mode-combine-into-one-pending-message-p|Consecutive
   steering prompts in the same mode combine into one pending message]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-09-21-v0-11-4-github-393232555-90de9130|open-webui-2026-09-21-v0-11-4-github-393232555-90de9130]]'

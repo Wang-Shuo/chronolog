@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 685915c1b5ab1d02490c97eeaea4550bae8dcc6a643fe7df4439085beb16415c
+machine_hash: a4285c285a09d8d0f4730dab015b7bd2eacd0f24af3de3036d986b6665ee8172
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: 3 Agent Mode changes in v2.1.202
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-5-agent-mode-changes-in-v2-1-198|5 Agent Mode
-  changes in v2.1.198]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-3-agent-mode-changes-in-v1-0-68|3 Agent
   Mode changes in v1.0.68]]'
+- '[[Changes/Runway/2026-07-02-introducing-agent-skills-build-an-ad-campaign-create-a-commercial-localize-your|Runway
+  Agent Skills]]'
 - '[[Changes/Replit/2026-07-03-sell-in-your-app-with-whop|Sell in your app with Whop]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases

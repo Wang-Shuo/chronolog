@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f311e91df61174b1fb8d77ea864ee0e5eb3235e6d1c135952da3abd403a13fe
+machine_hash: ff23d0b48df14d9eab9c369e7530bacc2bb29eb326a95c7485a75d2273943a92
 product: open-webui
 product_name: Open WebUI
 record:
@@ -42,12 +42,12 @@ record:
   title: '**✋ Disable Signups Conditionally**'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2024-08-02-enhanced-oauth-introduced-custom-redirect-uri-support-for-oauth-behind-reverse-p|\U0001F512
-  Enhanced OAuth]]"
 - "[[Changes/Open WebUI/2024-08-14-oauth-email-claim-customization-introduced-an-oauth-email-claim-variable-to-allo|\U0001F300
   OAuth Email Claim Customization]]"
 - '[[Changes/Dify/2024-08-19-xinference-auth-system-enhanced-support-for-xinference-s-authentication-system-b|Xinference
   Auth System]]'
+- '[[Changes/Midjourney/2024-08-23-sign-in-with-your-discord-account-on-the-website-if-you-want-to-have-history-of|Sign
+  in with your discord account on the website if you want to have history…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-08-27-v0-3-16-github-172195711-cee1ca67|open-webui-2024-08-27-v0-3-16-github-172195711-cee1ca67]]'
 source_type: github_releases
 theme: account-access
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2024-08-19 · Dify · [[Changes/Dify/2024-08-19-xinference-auth-system-enhanced-support-for-xinference-s-authentication-system-b|Xinference Auth System]]
+- Earlier: 2024-08-23 · Midjourney · [[Changes/Midjourney/2024-08-23-sign-in-with-your-discord-account-on-the-website-if-you-want-to-have-history-of|Sign in with your discord account on the website if you want to have history…]]
 - Later: 2024-09-21 · Open WebUI · [[Changes/Open WebUI/2024-09-21-downgrade-authlib-reverted-authlib-to-version-1-3-1-to-address-and-resolve-issue|🔓 Downgrade Authlib]]
 <!-- chronolog:end -->
 

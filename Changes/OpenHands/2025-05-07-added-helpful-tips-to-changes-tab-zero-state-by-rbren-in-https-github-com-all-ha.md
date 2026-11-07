@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d47e323f33dd60e7ab53b6d4d4f6be5706d9dff67f02ee3baec3c64f4e2eb53c
+machine_hash: 8d5367dc0178a33c00f49baef8a9fbe76d96c691f864a85819cda1c1a3db8e90
 product: openhands
 product_name: OpenHands
 record:
@@ -41,10 +41,10 @@ record:
   title: Added helpful tips to Changes tab zero state
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-25-updates-ide-marketplace-link-by-mirroring-open-vsx|Updates
-  IDE marketplace link by mirroring Open VSX]]'
 - '[[Changes/OpenHands/2025-04-29-replaced-the-workspace-tab-with-a-vs-code-tab-by-rbren-in-https-github-com-all-h|Replaced
   the workspace tab with a VS Code tab]]'
+- '[[Changes/Midjourney/2025-04-30-improved-lightbox-editor-interface|Improved lightbox
+  editor interface]]'
 - '[[Changes/OpenHands/2025-05-05-improved-the-display-of-the-settings-tab-by-xingyaoww-in-https-github-com-all-ha|Improved
   the display of the settings tab]]'
 source_release: '[[Releases/OpenHands/openhands-2025-05-07-0-37-0-github-217110161-eb6d03c5|openhands-2025-05-07-0-37-0-github-217110161-eb6d03c5]]'

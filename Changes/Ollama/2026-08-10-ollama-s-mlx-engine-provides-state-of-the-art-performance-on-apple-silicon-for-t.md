@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dfe1b0e6e287d86dc65d145769ac5a19cac43fcb280f61312537be487d528b80
+machine_hash: 13f0537973655b7275f41cd6b0d4381920a1007c3a10d3db5fa57a0db331ae83
 product: ollama
 product_name: Ollama
 record:
@@ -60,10 +60,10 @@ record:
   title: Ollama's MLX engine provides state-of-the-art performance on Apple Silicon…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-clear-queued-tool-images-when-vision-is-disabled|Clear
-  queued tool images when vision is disabled]]'
 - "[[Changes/Open WebUI/2026-07-27-media-types-an-extraction-engine-may-handle-administrators-can-now-list-which-im|\U0001F5BC️
   Media types an extraction engine may handle. Administrators can now list…]]"
+- '[[Changes/Runway/2026-07-28-pass-in-any-video-with-a-text-prompt-describing-an-entity-to-cut-it-out-as-a-tra|SAM3
+  Video Segmentation]]'
 - '[[Changes/OpenHands/2026-08-05-ci-require-frontend-screenshot-video-and-checked-human-tested-box-by-all-hands-b|ci:
   require frontend screenshot/video and checked human-tested box]]'
 source_release: '[[Releases/Ollama/ollama-2026-08-10-v0-32-8-github-368253532-6ac96d92|ollama-2026-08-10-v0-32-8-github-368253532-6ac96d92]]'

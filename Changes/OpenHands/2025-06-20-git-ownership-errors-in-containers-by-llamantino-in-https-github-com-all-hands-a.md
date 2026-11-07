@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2266cd35ff435847ad7d95e75ec49399007e0dda069da141619272b2ce0747e9
+machine_hash: 78c4c6d79c93a00142e14a699f802a14f5cd43f10c6d1a1471bdf61dafc18820
 product: openhands
 product_name: OpenHands
 record:
@@ -42,11 +42,12 @@ record:
   title: '**Git Ownership Errors** in containers'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-06-10-terminal-improvements|Terminal Improvements]]'
 - '[[Changes/Dify/2025-06-11-improved-housekeeping-command-now-preserves-avatar-images-and-app-icons-correctl|Improved
   Housekeeping Command]]'
 - '[[Changes/Dify/2025-06-16-keep-those-pull-requests-coming-as-we-aim-to-make-your-user-experience-as-seamle|Keep
   those pull requests coming as we aim to make your user experience as seamless…]]'
+- '[[Changes/Midjourney/2025-06-18-what-s-that-basically-imagine-an-ai-system-that-generates-imagery-in-real-time-y|What’s
+  that? Basically; imagine an AI system that generates imagery in real-time]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-45-0-github-226789367-b83ab16d|openhands-2025-06-20-0-45-0-github-226789367-b83ab16d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-keep-those-pull-requests-coming-as-we-aim-to-make-your-user-experience-as-seamle|Keep those pull requests coming as we aim to make your user experience as seamless…]]
+- Earlier: 2025-06-18 · Midjourney · [[Changes/Midjourney/2025-06-18-what-s-that-basically-imagine-an-ai-system-that-generates-imagery-in-real-time-y|What’s that? Basically; imagine an AI system that generates imagery in real-time]]
 - Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-2-developer-workflow-changes-in-0-44-0|2 Developer Workflow changes in 0.44.0]]
 <!-- chronolog:end -->
 

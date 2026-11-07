@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a5a3ff1c711cac27b14c44c817b96a5468f0451b5a06f0f4ae5baa96b9396d78
+machine_hash: 45cff57da19b6c0c23a0225b62ab9b825c7a944f58571cfff37d25199806e77f
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-aborting-a-task-now-also-cancels-the-delegated-subagents-and-teammates-it-spawne|Aborting a task now also cancels the delegated subagents and teammates it spawned…]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-2-agent-mode-changes-in-v2-1-260|2 Agent Mode changes in v2.1.260]]
+- Later: 2026-09-02 · Google Antigravity · [[Changes/Google Antigravity/2026-09-02-introduced-the-boost-slash-command-to-enhance-thinking-effort-by-using-a-multi-a|Introduced the /boost slash command to enhance thinking effort by using…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

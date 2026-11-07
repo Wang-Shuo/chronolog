@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10ca387e55625277f7c228e69921968e57233ddb65b7437d1466941dcf2ef95d
+machine_hash: 3f00d73be4bcec5a272c27ad5f59c42be3cb98a176e3a8db41369abea18cd4d4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Memory and Personalization changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-2-memory-and-personalization-changes-in-rust-v0-154-0|2
-  Memory and Personalization changes in rust-v0.154.0]]'
-- '[[Changes/Claude Code/2026-09-10-2-memory-and-personalization-changes-in-v2-1-268|2
-  Memory and Personalization changes in v2.1.268]]'
 - '[[Changes/Dify/2026-09-10-2-memory-and-personalization-changes-in-1-17-1|2 Memory
   and Personalization changes in 1.17.1]]'
+- '[[Changes/OpenClaw/2026-09-11-14-memory-and-personalization-changes-in-v2026-9-4|14
+  Memory and Personalization changes in v2026.9.4]]'
+- '[[Changes/Google Antigravity/2026-09-15-conversations-with-very-long-histories-now-load-faster-and-use-less-memory|Conversations
+  with very long histories now load faster and use less memory]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: memory
@@ -103,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-2-memory-and-personalization-changes-in-1-17-1|2 Memory and Personalization changes in 1.17.1]]
+- Earlier: 2026-09-15 · Google Antigravity · [[Changes/Google Antigravity/2026-09-15-conversations-with-very-long-histories-now-load-faster-and-use-less-memory|Conversations with very long histories now load faster and use less memory]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-vscode-added-viewing-editing-and-deleting-a-saved-memory-inside-the-memory-dialo|VSCode Added viewing, editing and deleting a saved memory inside the Memory dialog]]
 <!-- chronolog:end -->
 

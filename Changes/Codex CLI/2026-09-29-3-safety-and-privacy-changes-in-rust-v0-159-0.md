@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 534ef162b02c7e8750a1101cda3be5ba8bcac2648aa1cda156936df90ebe2546
+machine_hash: d3ef794a14ed030e0733ebebc1ab113e9273cf51cf65ce11b83847412e235a0f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.159.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-9-safety-and-privacy-changes-in-rust-v0-158-0|9
-  Safety and Privacy changes in rust-v0.158.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-2-safety-and-privacy-changes-in-v1-0-89|2
   Safety and Privacy changes in v1.0.89]]'
+- '[[Changes/Google Antigravity/2026-09-28-2-safety-and-privacy-changes-in-hub-v2-18-1-manage-install-plugins|2
+  Safety and Privacy changes in HUB v2.18.1 — Manage & Install plugins…]]'
 - '[[Changes/Claude Code/2026-09-29-9-safety-and-privacy-changes-in-v2-1-285|9 Safety
   and Privacy changes in v2.1.285]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516|codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516]]'

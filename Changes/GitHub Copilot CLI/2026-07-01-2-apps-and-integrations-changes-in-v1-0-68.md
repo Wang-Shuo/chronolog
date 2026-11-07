@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f95cb5ee29561cc606be6e3baf0287b957ada55611965bac5ea1f6e9f9bbc9db
+machine_hash: cb246e8f770df15a927b0186143562514f78fed76b6c5a8d442044ce0682cbc1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Apps and Integrations changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-allow-tool-calls-to-continue-when-hooks-time-out|Allow
-  tool calls to continue when hooks time out]]'
+- '[[Changes/OpenCode/2026-06-30-8-apps-and-integrations-changes-in-v1-17-12|8 Apps
+  and Integrations changes in v1.17.12]]'
 - '[[Changes/Claude Code/2026-07-01-claude-in-chrome-is-now-generally-available|Claude
   in Chrome is now generally available]]'
 - '[[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fbfee95203e3a35116d30e9e533bba03b919c0e43dd40877cccecbaf0bd5a1ea
+machine_hash: e307849745e4692dce16962b759b1537496fb9246bd7f30e356aaf403d8ff602
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,9 +42,10 @@ record:
   title: 'Docs: Add documentation for notifications (experimental)(macOS)'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-03-16-ios-sdk|iOS SDK]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-16-3-mobile-and-desktop-changes-in-v1-0-6|3
-  Mobile and Desktop changes in v1.0.6]]'
+- '[[Changes/Manus/2026-03-16-download-manus-desktop-to-unlock-my-computer-giving-manus-direct-access-to-your|Bring
+  Manus to Your Desktop]]'
+- '[[Changes/OpenCode/2026-03-16-2-mobile-and-desktop-changes-in-v1-2-27|2 Mobile
+  and Desktop changes in v1.2.27]]'
 - '[[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode
   When option+click doesn''t trigger native selection on macOS, the footer now…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'

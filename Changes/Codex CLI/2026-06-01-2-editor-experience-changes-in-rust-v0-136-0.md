@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 229ccbf33968c836169597746b37e4774a1273db1d8554ac745ae3054c8e84e7
+machine_hash: 6313fd0e550a237c9ef4b78fd8cd755f2814578a8aae865ab1eb277bec913a89
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Editor Experience changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-2-editor-experience-changes-in-v1-0-55|2
-  Editor Experience changes in v1.0.55]]'
+- '[[Changes/OpenCode/2026-05-28-2-editor-experience-changes-in-v1-15-12|2 Editor
+  Experience changes in v1.15.12]]'
 - '[[Changes/Claude Code/2026-05-29-removed-the-ide-for-startup-hint-toast|Removed
   the "/ide for …" startup hint toast]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-2-editor-experience-changes-in-v1-0-56|2

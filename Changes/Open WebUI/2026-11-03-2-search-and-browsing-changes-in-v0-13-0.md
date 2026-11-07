@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb84060603a1bb407caacd1dfacb2c71ac32e283f8ba9453d792836b6b8b737d
+machine_hash: 2508f405db4fefc981d7de3339f350aeb9971c9bfcd537c9cc55c17a60898b95
 product: open-webui
 product_name: Open WebUI
 record:
@@ -53,10 +53,10 @@ record:
   title: 2 Search and Browsing changes in v0.13.0
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-10-25-web-search-settings-save-admins-can-now-save-web-search-settings-such-as-the-web|\U0001F30D
-  Web Search settings save. Admins can now save Web Search settings such…]]"
-- '[[Changes/Codex CLI/2026-10-29-57542-add-model-gated-literature-search-to-standalone-web-search-rhan-oai|♯57542
-  Add model-gated literature search to standalone web search @rhan-oai]]'
+- '[[Changes/OpenCode/2026-10-29-2-search-and-browsing-changes-in-v2-2-1|2 Search
+  and Browsing changes in v2.2.1]]'
+- '[[Changes/Google Antigravity/2026-11-03-typing-in-the-built-in-browser-s-address-bar-now-suggests-matching-pages-from-yo|Typing
+  in the built-in browser''s address bar now suggests matching pages…]]'
 - '[[Changes/Ollama/2026-11-03-cloud-web-search-responses-on-api-chat-are-now-decoded-correctly-including-compr|Cloud
   web search responses on /api/chat are now decoded correctly, including…]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-11-03-v0-13-0-github-432661497-44290c10|open-webui-2026-11-03-v0-13-0-github-432661497-44290c10]]'
@@ -109,7 +109,7 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.13.0
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-cloud-web-search-responses-on-api-chat-are-now-decoded-correctly-including-compr|Cloud web search responses on /api/chat are now decoded correctly, including…]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-3-search-and-browsing-changes-in-rust-v0-167-0|3 Search and Browsing changes in rust-v0.167.0]]
+- Later: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-web-search-now-honors-more-of-your-chosen-provider-settings-result-counts-and-ti|Web search now honors more of your chosen provider settings, result counts…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

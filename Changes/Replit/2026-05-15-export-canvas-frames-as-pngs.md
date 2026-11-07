@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1de5c3aa4e9ecce09b16775884f92a40e6eeb6e368eadb117d27d8bcc0740754
+machine_hash: 3635b3c5420544f5b2c14a3d12927eaaf2093b30e8a804318449b473806cd2f9
 product: replit
 product_name: Replit
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-05-15 · ChatGPT · [[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal finances in ChatGPT]]
-- Later: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-canvas-tools-with-optional-object-input-schemas-open-correctly-without-validatio|Canvas tools with optional object input schemas open correctly without validation errors]]
+- Later: 2026-05-21 · OpenCode · [[Changes/OpenCode/2026-05-21-core-added-pdf-attachment-support-for-grok|Core Added PDF attachment support for Grok]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

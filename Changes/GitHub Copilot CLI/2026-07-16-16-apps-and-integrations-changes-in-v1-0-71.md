@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f3a577b92adeb511f717f3276dcfe79b4f290157b974ab822b3e4e1e9562094
+machine_hash: 0ac2326237d9599f87ea47187ce4e97b7e250e32ef78e8854cbfc508823c4de7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -78,12 +78,12 @@ record:
   title: 16 Apps and Integrations changes in v1.0.71
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-07-13-let-your-app-s-users-connect-their-own-accounts|Let
-  your app''s users connect their own accounts]]'
 - '[[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3
   Apps and Integrations changes in v2.1.208]]'
 - '[[Changes/Claude Code/2026-07-15-2-apps-and-integrations-changes-in-v2-1-211|2
   Apps and Integrations changes in v2.1.211]]'
+- '[[Changes/Suno/2026-07-15-tap-the-icon-and-find-suno-in-your-imessage-app-extensions|Tap
+  the + icon and find Suno in your iMessage app extensions]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'
 source_type: github_releases
 theme: apps-integrations
@@ -158,7 +158,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.71
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-2-apps-and-integrations-changes-in-v2-1-211|2 Apps and Integrations changes in v2.1.211]]
+- Earlier: 2026-07-15 · Suno · [[Changes/Suno/2026-07-15-tap-the-icon-and-find-suno-in-your-imessage-app-extensions|Tap the + icon and find Suno in your iMessage app extensions]]
 - Later: 2026-07-16 · Lovable · [[Changes/Lovable/2026-07-16-reuse-your-workspace-identity-in-the-apps-you-build|Reuse your workspace identity in the apps you build]]
 <!-- chronolog:end -->
 

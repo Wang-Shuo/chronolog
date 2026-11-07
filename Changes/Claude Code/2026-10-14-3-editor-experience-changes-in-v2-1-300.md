@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3a34ffa959bb4111981baeaf748289979858207d3b5090b10ffe3c6f7f95a08
+machine_hash: 8b9acbbed3a8e5459c7d1ada3495feb118358523ff5de56f3e102a91df3bc07e
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,8 +50,8 @@ record:
   title: 3 Editor Experience changes in v2.1.300
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-10-12-edit-images-directly-in-the-files-tab|Edit images
-  directly in the Files tab]]'
+- '[[Changes/OpenClaw/2026-10-12-managed-browser-tabs-at-the-shared-tab-limit-locally-managed-browser-cleanup-fav|Managed
+  browser tabs]]'
 - '[[Changes/Cline/2026-10-13-the-editor-tool-no-longer-receives-null-in-place-of-the-text-to-replace-from-som|The
   editor tool no longer receives null in place of the text to replace from some models]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-synchronous-task-json-output-now-includes-failed-child-error-and-lifecycle-event|Synchronous

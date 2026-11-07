@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab8ecfac64cc461cd9fd4510a1fe46d820eadb7d34651588a275388685e056ad
+machine_hash: a421cf916a61056038030323e254206e652a4f0bae77246b1e14397f9950eb0b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#16286 auth: generalize external auth tokens for bearer-only sources @bolinfest'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-5-context-window-changes-in-rust-v0-117-0|5 Context
-  Window changes in rust-v0.117.0]]'
 - '[[Changes/Claude Code/2026-03-27-3-context-window-changes-in-v2-1-86|3 Context
   Window changes in v2.1.86]]'
 - '[[Changes/Dify/2026-03-27-feat-workflow-add-selection-context-menu-helpers-and-integrate-with-context-menu|feat(workflow):
   add selection context menu helpers and integrate with context menu…]]'
+- '[[Changes/OpenCode/2026-03-29-2-context-window-changes-in-v1-3-6-2|2 Context Window
+  changes in v1.3.6 + 2]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'
 source_type: github_releases
 theme: context-window
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-feat-workflow-add-selection-context-menu-helpers-and-integrate-with-context-menu|feat(workflow): add selection context menu helpers and integrate with context menu…]]
+- Earlier: 2026-03-29 · OpenCode · [[Changes/OpenCode/2026-03-29-2-context-window-changes-in-v1-3-6-2|2 Context Window changes in v1.3.6 + 2]]
 - Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-hook-output-over-50k-characters-to-be-saved-to-disk-with-a-file-path-pre|Changed hook output over 50K characters to be saved to disk with a file path…]]
 <!-- chronolog:end -->
 

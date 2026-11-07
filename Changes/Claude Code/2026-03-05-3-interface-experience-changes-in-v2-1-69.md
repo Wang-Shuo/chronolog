@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b95a852edc506792a80e55f520972502e7797075bb99c71786189e214b9cecd5
+machine_hash: e61bc8a934c9715024ab7f11a5f693b2da72ea1be9894a874ae792ce72f1aea5
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Interface Experience changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-03-2-interface-experience-changes-in-v0-0-421|2
-  Interface Experience changes in v0.0.421]]'
 - '[[Changes/v0/2026-03-03-improved-chat-sidebar-width-for-better-screen-space|Improved
   chat sidebar width for better screen space]]'
+- '[[Changes/OpenCode/2026-03-04-desktop-remove-diff-lines-from-sessions-in-sidebar|Desktop
+  Remove diff lines from sessions in sidebar]]'
 - '[[Changes/v0/2026-03-04-improved-diff-navigation-with-clickable-file-stats-and-auto-scrolling|Improved
   diff navigation with clickable file stats and auto-scrolling]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'

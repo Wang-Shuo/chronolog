@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8445cc4d918c353acd6b94f2d0434b9092e1c1bd9aadf18f91f3f3c63b25deb3
+machine_hash: 9af0e2869576cabd3278a9cf43f188413d26180593a5627c156973c62bc9a499
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Changed hook output over 50K characters to be saved to disk with a file path…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-3-context-window-changes-in-v2-1-86|3 Context
-  Window changes in v2.1.86]]'
 - '[[Changes/Dify/2026-03-27-feat-workflow-add-selection-context-menu-helpers-and-integrate-with-context-menu|feat(workflow):
   add selection context menu helpers and integrate with context menu…]]'
+- '[[Changes/OpenCode/2026-03-29-2-context-window-changes-in-v1-3-6-2|2 Context Window
+  changes in v1.3.6 + 2]]'
 - '[[Changes/Codex CLI/2026-03-31-16286-auth-generalize-external-auth-tokens-for-bearer-only-sources-bolinfest|♯16286
   auth: generalize external auth tokens for bearer-only sources @bolinfest]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-01-v2-1-89-github-303967782-358023f0|claude-code-2026-04-01-v2-1-89-github-303967782-358023f0]]'

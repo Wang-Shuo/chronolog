@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7706275aa6a5a9db281e3407a385f989a853e8676649518a6e390cbad132a712
+machine_hash: 1a77276a8497ff4380dbc4821e0e98036524ff8792a20f6e204302fb98506acd
 product: lovable
 product_name: Lovable
 record:
@@ -50,10 +50,10 @@ record:
   title: Add live voice conversations to your app with GPT Live
   type: change
 related_changes:
-- '[[Changes/Gemini/2026-09-30-let-skills-in-gemini-tackle-your-most-repetitive-tasks|Let
-  skills in Gemini tackle your most repetitive tasks]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding
   Space and Ctrl+X V explain when voice mode is off or still getting ready]]'
+- '[[Changes/OpenClaw/2026-09-30-12-voice-and-audio-changes-in-v2026-9-7|12 Voice
+  and Audio changes in v2026.9.7]]'
 - '[[Changes/Codex CLI/2026-10-01-49073-surface-realtime-voice-catalog-failures-in-the-tui-etraut-openai|♯49073
   Surface realtime voice catalog failures in the TUI @etraut-openai]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-01-2026-10-01-a783b57b|lovable-2026-10-01-2026-10-01-a783b57b]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59ccc732c72371d06b6830ca6cc760a6e76581deb17b548c49b84833779c39b3
+machine_hash: e8c25b50baf7558c246cd857dcf0aa17550ca97ef34dcf3b8e4da2144bec50c0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,11 @@ record:
     "Plan")…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-02-2-context-window-changes-in-v2-1-91|2 Context
-  Window changes in v2.1.91]]'
 - '[[Changes/Lovable/2026-04-02-image-tools|Image tools]]'
 - '[[Changes/Claude Code/2026-04-04-pro-users-now-see-a-footer-hint-when-returning-to-a-session-after-the-prompt-cac|Pro
   users now see a footer hint when returning to a session after the prompt cache…]]'
+- '[[Changes/OpenCode/2026-04-04-core-kept-compaction-summaries-in-the-conversation-s-language|Core
+  Kept compaction summaries in the conversation''s language]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-06-v1-0-19-github-305837484-a9d8ae9e|github-copilot-cli-2026-04-06-v1-0-19-github-305837484-a9d8ae9e]]'
 source_type: github_releases
 theme: context-window
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-pro-users-now-see-a-footer-hint-when-returning-to-a-session-after-the-prompt-cac|Pro users now see a footer hint when returning to a session after the prompt cache…]]
-- Later: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-improved-context-low-warning-to-show-as-a-transient-footer-notification-instead|Improved context-low warning to show as a transient footer notification instead…]]
+- Earlier: 2026-04-04 · OpenCode · [[Changes/OpenCode/2026-04-04-core-kept-compaction-summaries-in-the-conversation-s-language|Core Kept compaction summaries in the conversation's language]]
+- Later: 2026-04-06 · OpenCode · [[Changes/OpenCode/2026-04-06-core-fix-output-token-totals-when-reasoning-tokens-are-reported-separately|Core Fix output token totals when reasoning tokens are reported separately]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

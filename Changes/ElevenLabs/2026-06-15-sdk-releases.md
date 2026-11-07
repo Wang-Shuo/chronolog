@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 06c599a6965a230d88a1632624367c47c3fd034f964eaa1c16653135171be46f
+machine_hash: 8731cbfc829ac4bdfa3841f07973ad2562831d728b5140d54f2fd86fca9b3e30
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -41,8 +41,8 @@ record:
   title: SDK Releases
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8
-  Apps and Integrations changes in v1.0.62]]'
+- '[[Changes/OpenCode/2026-06-14-mcp-servers-can-now-receive-the-current-workspace-as-a-client-root|MCP
+  servers can now receive the current workspace as a client root]]'
 - '[[Changes/Claude Code/2026-06-15-2-apps-and-integrations-changes-in-v2-1-178|2
   Apps and Integrations changes in v2.1.178]]'
 - '[[Changes/Codex CLI/2026-06-15-35-apps-and-integrations-changes-in-rust-v0-140-0|35

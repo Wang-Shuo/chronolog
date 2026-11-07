@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c00ced0f12be6ec210e98340db1c6823422548ccb75ef4f9c6636505f349df40
+machine_hash: 2b4dc276b9248dda0584f4966e812a94d16afe898de16e10a8cd60869955ef63
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat(a2a): Introduce /init command for a2a server'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-19-6-developer-workflow-changes-in-rust-v0-76-0|6 Developer
-  Workflow changes in rust-v0.76.0]]'
+- '[[Changes/OpenCode/2025-12-19-2-developer-workflow-changes-in-v1-0-170|2 Developer
+  Workflow changes in v1.0.170]]'
 - '[[Changes/Open WebUI/2025-12-21-11-developer-workflow-changes-in-v0-6-42|11 Developer
   Workflow changes in v0.6.42]]'
 - '[[Changes/Cline/2025-12-22-enhanced-background-terminal-execution-with-command-tracking-log-file-output-zom|Enhanced

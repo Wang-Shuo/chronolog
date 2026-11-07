@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8106c41ef162ea5985591d672bee4236305715513a5dd8fcdca0751d3a4ffb06
+machine_hash: a40669e5ffbd01cb994cdbf91e0e9d36fd55d1bb0ef7c11aa4e8dfd5991b6149
 product: ollama
 product_name: Ollama
 record:
@@ -41,12 +41,12 @@ record:
   title: '**kimi-k2.6** (with vision support)'
   type: change
 related_changes:
-- "[[Changes/Open WebUI/2026-04-21-persistent-chat-payload-efficiency-persisted-chats-now-use-server-side-history-l|\U0001F680
-  Persistent chat payload efficiency. Persisted chats now use server-side…]]"
 - '[[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2:
   image paste from Windows clipboard now works via a PowerShell fallback…]]'
 - '[[Changes/Ollama/2026-05-13-llama3-2-vision-is-not-yet-supported|llama3.2-vision
   is not yet supported]]'
+- '[[Changes/Runway/2026-05-13-work-with-an-ai-creative-partner-to-develop-and-produce-a-finished-video-describ|Runway
+  Agent]]'
 source_release: '[[Releases/Ollama/ollama-2026-05-14-v0-24-0-github-322272827-9537ae42|ollama-2026-05-14-v0-24-0-github-322272827-9537ae42]]'
 source_type: github_releases
 theme: multimodal
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-llama3-2-vision-is-not-yet-supported|llama3.2-vision is not yet supported]]
+- Earlier: 2026-05-13 · Runway · [[Changes/Runway/2026-05-13-work-with-an-ai-creative-partner-to-develop-and-produce-a-finished-video-describ|Runway Agent]]
 - Later: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-gemini-omni-is-your-creative-partner-for-video-creation|Gemini Omni is your creative partner for video creation]]
 <!-- chronolog:end -->
 

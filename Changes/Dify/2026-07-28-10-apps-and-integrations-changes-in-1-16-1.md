@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a7199b649bb75ac48147a79e291369dea99461c500bef3e7145dd705f741f00a
+machine_hash: b4fe03ed238c36831198a8d0b1c4dfef786e5c33c104fc4ca0f17dcebad6af3e
 product: dify
 product_name: Dify
 record:
@@ -137,7 +137,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.1
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-plugins-mcp-servers-hooks-and-skills-to-extend-cursor-across-your-workflows|Plugins, MCP servers, hooks, and skills to extend Cursor across your workflows]]
-- Later: 2026-07-28 · Lovable · [[Changes/Lovable/2026-07-28-upgrade-an-older-project-to-tanstack-start|Upgrade an older project to TanStack Start]]
+- Later: 2026-07-28 · Google Antigravity · [[Changes/Google Antigravity/2026-07-28-added-a-timeout-for-mcp-server-connections-and-tool-calls-to-prevent-the-agent-f|Added a timeout for MCP server connections and tool calls to prevent the agent…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

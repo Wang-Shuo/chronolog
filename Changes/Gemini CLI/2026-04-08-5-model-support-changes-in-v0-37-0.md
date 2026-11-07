@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f09040b767f771f96b71377e45d56f074c598e7ec56869cc9973d3e02ef51401
+machine_hash: e39146b94a73dcce7ab88639a64493d738502bf09ac1ebe64f2f09a9ff9a2b60
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -106,7 +106,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.0
 ## Nearby in Model Support
 
 - Earlier: 2026-04-07 · Windsurf · [[Changes/Windsurf/2026-04-07-adaptive-model-visibility|Adaptive Model Visibility]]
-- Later: 2026-04-08 · Windsurf · [[Changes/Windsurf/2026-04-08-adaptive-fix|Adaptive Fix]]
+- Later: 2026-04-08 · OpenCode · [[Changes/OpenCode/2026-04-08-core-kept-model-variants-scoped-to-the-selected-model|Core Kept model variants scoped to the selected model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

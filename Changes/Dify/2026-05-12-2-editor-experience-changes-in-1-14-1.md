@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff0bb0e81a81a4718c3ade73b578aa1b316e993de94043ff48f80cc80248c3ff
+machine_hash: bad57d7303899527fc6f29d252cf40e81d9b39d06f99a36ae17cbd927530027b
 product: dify
 product_name: Dify
 record:
@@ -56,10 +56,10 @@ record:
   title: 2 Editor Experience changes in 1.14.1
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-05-09-5-editor-experience-changes-in-v0-9-3|5 Editor
-  Experience changes in v0.9.3]]'
 - "[[Changes/Open WebUI/2026-05-10-url-parser-ssrf-bypass-url-validation-now-rejects-backslash-tab-cr-and-lf-charac|\U0001F6E1️
   URL parser SSRF bypass. URL validation now rejects backslash, tab, CR, and LF…]]"
+- '[[Changes/OpenCode/2026-05-10-core-added-a-built-in-customize-opencode-skill-so-opencode-config-edits-are-less|Core
+  Added a built-in customize-opencode skill so opencode config edits are less…]]'
 - '[[Changes/Claude Code/2026-05-11-vscode-press-cmd-ctrl-shift-t-to-reopen-the-most-recently-closed-session-tab-con|VSCode
   Press Cmd/Ctrl+Shift+T to reopen the most recently closed session tab…]]'
 source_release: '[[Releases/Dify/dify-2026-05-12-1-14-1-github-321018473-9e9e1d9e|dify-2026-05-12-1-14-1-github-321018473-9e9e1d9e]]'

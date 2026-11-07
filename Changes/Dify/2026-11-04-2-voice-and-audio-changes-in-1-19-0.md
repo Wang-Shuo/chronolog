@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 660735904b9cc14e10b5b75f00111c0b019dc1ff3173650631620551380e6e0a
+machine_hash: d3045066382b25762e38f8d01b1a3907375705f0cd1a90a4bda46732b4d1539d
 product: dify
 product_name: Dify
 record:
@@ -46,11 +46,12 @@ record:
   title: 2 Voice and Audio changes in 1.19.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-11-02-professional-voice-clones-on-eleven-v4|Professional
-  Voice Clones on Eleven v4]]'
-- '[[Changes/ElevenLabs/2026-11-02-realtime-entity-redaction|Realtime entity redaction]]'
+- '[[Changes/Google Antigravity/2026-11-03-voice-mode-remote-agents-redesigned-automations-and-jupyter-notebook-viewer|Voice
+  mode, remote agents, redesigned Automations, and Jupyter notebook viewer]]'
 - '[[Changes/Open WebUI/2026-11-03-4-voice-and-audio-changes-in-v0-13-0|4 Voice and
   Audio changes in v0.13.0]]'
+- '[[Changes/OpenClaw/2026-11-03-6-voice-and-audio-changes-in-v2026-10-10|6 Voice
+  and Audio changes in v2026.10.10]]'
 source_release: '[[Releases/Dify/dify-2026-11-04-1-19-0-github-433629888-738006ec|dify-2026-11-04-1-19-0-github-433629888-738006ec]]'
 source_type: github_releases
 theme: voice
@@ -99,8 +100,8 @@ Source: https://github.com/langgenius/dify/releases/tag/1.19.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-4-voice-and-audio-changes-in-v0-13-0|4 Voice and Audio changes in v0.13.0]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-4-voice-and-audio-changes-in-rust-v0-167-0|4 Voice and Audio changes in rust-v0.167.0]]
+- Earlier: 2026-11-03 · OpenClaw · [[Changes/OpenClaw/2026-11-03-6-voice-and-audio-changes-in-v2026-10-10|6 Voice and Audio changes in v2026.10.10]]
+- Later: 2026-11-05 · OpenClaw · [[Changes/OpenClaw/2026-11-05-7-voice-and-audio-changes-in-v2026-11-1|7 Voice and Audio changes in v2026.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

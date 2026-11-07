@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 009d0d9cc57991d59029f8c16f43e57fe38e570a43c9fc388477f8c1a4b937b3
+machine_hash: 8af0e6515e1b5ef887f2d45209efd558558bf489c95771bdf18d99106cd2548e
 product: replit
 product_name: Replit
 record:
@@ -50,9 +50,9 @@ record:
   title: Upgrade to Enterprise without leaving Replit
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-21-branded-app-urls|Branded app URLs]]'
 - '[[Changes/Codex CLI/2026-05-26-23736-add-new-enterprise-requirement-gate-adams-oai|♯23736
   Add new enterprise requirement gate @adams-oai]]'
+- '[[Changes/Gamma/2026-05-29-api-delete-is-here|API delete is here]]'
 - '[[Changes/Replit/2026-05-29-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Replit/replit-2026-05-29-2026-05-29-e3cfe151|replit-2026-05-29-2026-05-29-e3cfe151]]'
 source_type: replit_changelog
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-23736-add-new-enterprise-requirement-gate-adams-oai|♯23736 Add new enterprise requirement gate @adams-oai]]
+- Earlier: 2026-05-29 · Gamma · [[Changes/Gamma/2026-05-29-api-delete-is-here|API delete is here]]
 - Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-2-enterprise-and-administration-changes-in-v0-9-6|2 Enterprise and Administration changes in v0.9.6]]
 <!-- chronolog:end -->
 

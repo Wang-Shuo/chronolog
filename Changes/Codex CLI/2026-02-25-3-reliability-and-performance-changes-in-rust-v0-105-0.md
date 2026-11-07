@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5cbc07a9e58740cad960587786c4609fdcb9c6b772536d7d5fa79c0f6085236d
+machine_hash: f44ea3ec63a171e8ed4f29f9d3685e8352f68f9fce1e31c17108b452086774dd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Reliability and Performance changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-23-10-reliability-and-performance-changes-in-v0-8-4|10
-  Reliability and Performance changes in v0.8.4]]'
 - '[[Changes/Cline/2026-02-24-preconnect-websocket-to-reduce-response-latency|Preconnect
   websocket to reduce response latency]]'
 - '[[Changes/Ollama/2026-02-24-mlx-engine-now-has-improved-memory-usage|MLX engine
   now has improved memory usage]]'
+- '[[Changes/OpenCode/2026-02-24-2-reliability-and-performance-changes-in-v1-2-11|2
+  Reliability and Performance changes in v1.2.11]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: reliability-performance
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-24 · Ollama · [[Changes/Ollama/2026-02-24-mlx-engine-now-has-improved-memory-usage|MLX engine now has improved memory usage]]
+- Earlier: 2026-02-24 · OpenCode · [[Changes/OpenCode/2026-02-24-2-reliability-and-performance-changes-in-v1-2-11|2 Reliability and Performance changes in v1.2.11]]
 - Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-2-reliability-and-performance-changes-in-v0-30-0|2 Reliability and Performance changes in v0.30.0]]
 <!-- chronolog:end -->
 

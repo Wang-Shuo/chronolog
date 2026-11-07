@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f84f6a536fb454fe5797134aeba46f9d5e2392da105d3cb14438ab3e45c0910
+machine_hash: 196fa1c02aa2012d65b4b62fafd6652bd514f2b320ee343c4d3bc47f90af8305
 product: dify
 product_name: Dify
 record:
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 20 tracked products.
+- Earliest same-theme entry among the 29 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

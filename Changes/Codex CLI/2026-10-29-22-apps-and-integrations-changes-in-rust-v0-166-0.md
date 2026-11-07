@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2754855e71b6ed75e7545dd7f486f2321d3c62a5d25ffe80d4e66364e750550
+machine_hash: 4e18758a995c1be88b76a067b10e1c5d0b7f2280c783b3d467736906077590b2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,11 +89,12 @@ record:
   title: 22 Apps and Integrations changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-27-interactive-and-sdk-autopilot-sessions-keep-waiting-for-attached-background-task|Interactive
-  and SDK Autopilot sessions keep waiting for attached background tasks…]]'
-- '[[Changes/Lovable/2026-10-27-connect-your-app-to-scrive|Connect your app to Scrive]]'
-- '[[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions):
-  name dialog viewport limits]]'
+- '[[Changes/Google Antigravity/2026-10-28-a-plugin-s-page-now-shows-its-developer-and-version-with-links-to-its-website-an|A
+  plugin''s page now shows its developer and version, with links to its website…]]'
+- '[[Changes/Google Antigravity/2026-10-28-conversation-navigator-and-third-party-tools-notice|Conversation
+  navigator and third party tools notice]]'
+- '[[Changes/Suno/2026-10-28-connect-suno-to-claude-chatgpt-claude-code-and-other-mcp-clients-then-create-mus|Connect
+  Suno to Claude, ChatGPT, Claude Code and other MCP clients, then create…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -181,8 +182,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions): name dialog viewport limits]]
-- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-apps-and-integrations-changes-in-v0-12-5|2 Apps and Integrations changes in v0.12.5]]
+- Earlier: 2026-10-28 · Suno · [[Changes/Suno/2026-10-28-connect-suno-to-claude-chatgpt-claude-code-and-other-mcp-clients-then-create-mus|Connect Suno to Claude, ChatGPT, Claude Code and other MCP clients, then create…]]
+- Later: 2026-10-29 · Google Antigravity · [[Changes/Google Antigravity/2026-10-29-2-apps-and-integrations-changes-in-hub-v2-28-2-partner-plugins|2 Apps and Integrations changes in HUB v2.28.2 — Partner plugins…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

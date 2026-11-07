@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5f9f7e98390953cec75a69148c127475ff2f5675974a5dfecd7ddc27d9b6ad8f
+machine_hash: 336d90e7b78a9cb964afaf0c7490746bac7b60a88d64e3aff2f31cd86d52b1df
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: '**TTS Streaming Config**'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2024-06-10-3-voice-and-audio-changes-in-v0-3-0|3 Voice and
-  Audio changes in v0.3.0]]'
 - '[[Changes/Open WebUI/2024-06-17-3-voice-and-audio-changes-in-v0-3-5|3 Voice and
   Audio changes in v0.3.5]]'
 - '[[Changes/Open WebUI/2024-06-27-2-voice-and-audio-changes-in-v0-3-6|2 Voice and
   Audio changes in v0.3.6]]'
+- '[[Changes/Suno/2024-06-28-audio-input-is-now-available-to-everyone-including-those-with-free-accounts|Audio
+  Input is now available to everyone, including those with free accounts!]]'
 source_release: '[[Releases/Dify/dify-2024-07-15-0-6-14-github-165452649-ca4802e7|dify-2024-07-15-0-6-14-github-165452649-ca4802e7]]'
 source_type: github_releases
 theme: voice
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-06-27 · Open WebUI · [[Changes/Open WebUI/2024-06-27-2-voice-and-audio-changes-in-v0-3-6|2 Voice and Audio changes in v0.3.6]]
+- Earlier: 2024-06-28 · Suno · [[Changes/Suno/2024-06-28-audio-input-is-now-available-to-everyone-including-those-with-free-accounts|Audio Input is now available to everyone, including those with free accounts!]]
 - Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|🗣 ElevenLabs Voice Adaptations]]
 <!-- chronolog:end -->
 

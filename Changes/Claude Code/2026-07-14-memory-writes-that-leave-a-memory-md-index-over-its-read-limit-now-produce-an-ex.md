@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8ac05d956ce59c23f423b5d2bb5f1910431a6405066b061df3b84fa621f9cd9
+machine_hash: 1dbdd28b88944ea2fa14acbf475c78e5253b0d0c9174256125e097ed1a7ec544
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,11 @@ record:
   title: Memory writes that leave a MEMORY.md index over its read limit now produce…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-2-memory-and-personalization-changes-in-rust-v0-143-0|2
-  Memory and Personalization changes in rust-v0.143.0]]'
 - '[[Changes/Claude/2026-07-09-a-new-way-to-reflect-with-claude|A new way to reflect
   with Claude]]'
 - '[[Changes/Claude/2026-07-10-updated-memory-for-claude|Updated memory for Claude]]'
+- '[[Changes/OpenClaw/2026-07-13-136-memory-and-personalization-changes-in-v2026-7-1|136
+  Memory and Personalization changes in v2026.7.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7|claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7]]'
 source_type: github_releases
 theme: memory
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-07-10 · Claude · [[Changes/Claude/2026-07-10-updated-memory-for-claude|Updated memory for Claude]]
+- Earlier: 2026-07-13 · OpenClaw · [[Changes/OpenClaw/2026-07-13-136-memory-and-personalization-changes-in-v2026-7-1|136 Memory and Personalization changes in v2026.7.1]]
 - Later: 2026-07-15 · ChatGPT · [[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased custom instructions limit]]
 <!-- chronolog:end -->
 

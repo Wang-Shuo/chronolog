@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e158d6553595822c14660f16fbcab82c16e83dff8629e76ea1d06909ab76bcc
+machine_hash: 202420c0bcc6d98f7bbff88dbac46da011faea580c04048c7d9e23fb397fe986
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,11 @@ record:
     explicitly…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-23147-make-multi-agent-v2-tool-namespace-configurable-jif-oai|♯23147
-  Make multi-agent v2 tool namespace configurable @jif-oai]]'
 - '[[Changes/Cursor/2026-05-20-loop-skill|/loop skill]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-remote-command-can-now-be-used-while-the-agent-is-working|/remote
   command can now be used while the agent is working]]'
+- '[[Changes/OpenCode/2026-05-20-core-agent-and-command-names-now-resolve-correctly-from-relative-config-paths|Core
+  Agent and command names now resolve correctly from relative config paths]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-146-github-326230049-ea612648|claude-code-2026-05-21-v2-1-146-github-326230049-ea612648]]'
 source_type: github_releases
 theme: agent-mode
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-remote-command-can-now-be-used-while-the-agent-is-working|/remote command can now be used while the agent is working]]
+- Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-core-agent-and-command-names-now-resolve-correctly-from-relative-config-paths|Core Agent and command names now resolve correctly from relative config paths]]
 - Later: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-7-agent-mode-changes-in-rust-v0-133-0|7 Agent Mode changes in rust-v0.133.0]]
 <!-- chronolog:end -->
 

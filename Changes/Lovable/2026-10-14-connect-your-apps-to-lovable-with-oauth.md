@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9599a29aad8b190bab486c9c9760aa5032c6724481cfe52920382392ac028794
+machine_hash: 068eeed744d82b36b6bfb46adeceeb1b26cdb60cc9a22317daf63a462b66ab27
 product: lovable
 product_name: Lovable
 record:
@@ -52,8 +52,8 @@ record:
   title: Connect your apps to Lovable with OAuth
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-13-power-bi-and-bluebird-mcp-servers-accept-their-published-resource-scopes-during|Power
-  BI and Bluebird MCP servers accept their published resource scopes during sign-in]]'
+- '[[Changes/OpenClaw/2026-10-13-2-account-and-access-changes-in-v2026-10-3|2 Account
+  and Access changes in v2026.10.3]]'
 - '[[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved
   the error shown when a cloud session is refused because your claude.ai…]]'
 - '[[Changes/Lovable/2026-10-14-let-your-app-s-users-sign-in-with-their-lovable-account|Let

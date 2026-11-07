@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6a7663744a14fdfab54ed29c99f5874ec3db950fca4a563c41a058a4951eb227
+machine_hash: 31c3ba78b0f87adc1bc6c0f9676907f52bef82e51be9d75b303707ad2c50a875
 product: cursor
 product_name: Cursor
 record:
@@ -50,12 +50,12 @@ record:
   title: Deploy tracking
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added
-  a visible warning when memory usage is critical, with steps to free memory…]]'
 - "[[Changes/Open WebUI/2026-09-21-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
   General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960
   Tag memory usage telemetry with the memory version @jif-oai]]'
+- '[[Changes/Google Antigravity/2026-09-22-discovering-skills-and-other-customizations-is-now-dramatically-faster-on-large|Discovering
+  skills and other customizations is now dramatically faster on large…]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960 Tag memory usage telemetry with the memory version @jif-oai]]
+- Earlier: 2026-09-22 · Google Antigravity · [[Changes/Google Antigravity/2026-09-22-discovering-skills-and-other-customizations-is-now-dramatically-faster-on-large|Discovering skills and other customizations is now dramatically faster on large…]]
 - Later: 2026-09-23 · Ollama · [[Changes/Ollama/2026-09-23-2-reliability-and-performance-changes-in-v0-34-4|2 Reliability and Performance changes in v0.34.4]]
 <!-- chronolog:end -->
 

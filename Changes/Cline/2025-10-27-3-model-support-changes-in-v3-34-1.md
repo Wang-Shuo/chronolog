@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a39aad8b96bcd5d6af8ea33e2ada57a57c0b33416af43109620f6b406c0deb4c
+machine_hash: 00cb1a0f21af61a45ae2a02fb509b7c411585d8c3221768a36ab0482b84645d5
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,11 @@ record:
   title: 3 Model Support changes in v3.34.1
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-23-6-model-support-changes-in-v3-34-0|6 Model Support changes
-  in v3.34.0]]'
 - '[[Changes/Codex CLI/2025-10-23-3-model-support-changes-in-rust-v0-48-0|3 Model
   Support changes in rust-v0.48.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-24-improved-prompting-for-sonnet-4-5-to-reduce-the-number-of-intermediate-markdown|Improved
   prompting for Sonnet 4.5 to reduce the number of intermediate markdown…]]'
+- '[[Changes/Runway/2025-10-24-create-your-own-custom-node-based-workflows-chaining-together-multiple-models-mo|Workflows]]'
 source_release: '[[Releases/Cline/cline-2025-10-27-v3-34-1-github-257652345-ef5f96f4|cline-2025-10-27-v3-34-1-github-257652345-ef5f96f4]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +85,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.34.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-improved-prompting-for-sonnet-4-5-to-reduce-the-number-of-intermediate-markdown|Improved prompting for Sonnet 4.5 to reduce the number of intermediate markdown…]]
+- Earlier: 2025-10-24 · Runway · [[Changes/Runway/2025-10-24-create-your-own-custom-node-based-workflows-chaining-together-multiple-models-mo|Workflows]]
 - Later: 2025-10-27 · ElevenLabs · [[Changes/ElevenLabs/2025-10-27-supported-llm-models|Supported LLM Models]]
 <!-- chronolog:end -->
 

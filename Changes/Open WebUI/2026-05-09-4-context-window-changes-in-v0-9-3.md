@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0443428bce81bc576b93584286331964539da82e9f390b082510d5c0a804f193
+machine_hash: d5e5798c293e25c9c024c25575572a9670cd31f1a8b1739bab4701684075977f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -60,8 +60,8 @@ record:
   title: 4 Context Window changes in v0.9.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-7-context-window-changes-in-rust-v0-129-0|7 Context
-  Window changes in rust-v0.129.0]]'
+- '[[Changes/OpenCode/2026-05-07-2-context-window-changes-in-v1-14-40|2 Context Window
+  changes in v1.14.40]]'
 - '[[Changes/Codex CLI/2026-05-08-2-context-window-changes-in-rust-v0-130-0|2 Context
   Window changes in rust-v0.130.0]]'
 - '[[Changes/Replit/2026-05-08-external-access-tokens-for-private-deployments|External

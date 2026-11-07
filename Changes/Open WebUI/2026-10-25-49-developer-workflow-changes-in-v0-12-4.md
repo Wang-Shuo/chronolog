@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bfb89dfd0ef09d3ee2fbb4585a7f8b2dd9353776065df4cc45a248af6a9c8d58
+machine_hash: f300865bd5401ae4df262684582db5bac9e8c93eb406a1ca482336ad78615647
 product: open-webui
 product_name: Open WebUI
 record:
@@ -325,10 +325,10 @@ record:
   title: 49 Developer Workflow changes in v0.12.4
   type: change
 related_changes:
-- '[[Changes/Dify/2026-10-23-respect-xforward-headers-enabled-standalone-api-default-remains-false-bundled-co|
-  /  RESPECT_XFORWARD_HEADERS_ENABLED  /  Standalone API default remains false]]'
 - '[[Changes/Windsurf/2026-10-23-4-developer-workflow-changes-in-v3-11-212|4 Developer
   Workflow changes in v3.11.212]]'
+- '[[Changes/OpenClaw/2026-10-24-3-developer-workflow-changes-in-v2026-10-7|3 Developer
+  Workflow changes in v2026.10.7]]'
 - '[[Changes/Windsurf/2026-10-24-2-developer-workflow-changes-in-v3-11-216|2 Developer
   Workflow changes in v3.11.216]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79|open-webui-2026-10-25-v0-12-4-github-423239437-ffa84a79]]'

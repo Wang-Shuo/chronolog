@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd6787ab0c18adf1ab57a7ab3ec1ca577bc94386dd207da2a93b65ba776119e4
+machine_hash: 36483a61304626edd1e07101bf3048f03c720b5939010184765bdc6ea0bf0c7d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: '`CLAUDE_CODE_SIMPLE` mode now also disables MCP tools, attachments, hooks…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps
-  and Integrations changes in v2.1.49]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-19-3-apps-and-integrations-changes-in-v0-0-412|3
-  Apps and Integrations changes in v0.0.412]]'
 - '[[Changes/Ollama/2026-02-19-ollama-launch-integration-will-now-always-show-the-model-picker|ollama
   launch integration will now always show the model picker]]'
+- '[[Changes/OpenCode/2026-02-19-5-apps-and-integrations-changes-in-v1-2-7|5 Apps
+  and Integrations changes in v1.2.7]]'
+- '[[Changes/OpenCode/2026-02-19-terminal-add-custom-tool-and-mcp-call-responses-that-are-visible-and-collapsible|Terminal
+  Add custom tool and MCP call responses that are visible and collapsible]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-19 · Ollama · [[Changes/Ollama/2026-02-19-ollama-launch-integration-will-now-always-show-the-model-picker|ollama launch integration will now always show the model picker]]
+- Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-terminal-add-custom-tool-and-mcp-call-responses-that-are-visible-and-collapsible|Terminal Add custom tool and MCP call responses that are visible and collapsible]]
 - Later: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-support-remote-plugin-sources-github-repos-and-git-urls-in-marketplace-json-plug|Support remote plugin sources (GitHub repos and git URLs) in marketplace.json plugin…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 716e71cefaeb1af585482d2d405a1a73237fa95bba6acb320e093d89647af7b0
+machine_hash: f51c91b8587d929a18fe051fbfbd58c0560731a52e326ca1e96e95c7e23ce529
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,12 +49,12 @@ record:
   title: 2 Developer Workflow changes in v0.9.5
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-added-configurable-opentelemetry-trace-metadata-and-richer-review-feedback-analy|Added
-  configurable OpenTelemetry trace metadata and richer review/feedback analytics…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-2-developer-workflow-changes-in-v1-0-44|2
   Developer Workflow changes in v1.0.44]]'
 - '[[Changes/Open WebUI/2026-05-09-22-developer-workflow-changes-in-v0-9-3|22 Developer
   Workflow changes in v0.9.3]]'
+- '[[Changes/OpenCode/2026-05-09-3-developer-workflow-changes-in-v1-14-44-2|3 Developer
+  Workflow changes in v1.14.44 + 2]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-05-10-v0-9-5-github-320167431-c515d0a2|open-webui-2026-05-10-v0-9-5-github-320167431-c515d0a2]]'
 source_type: github_releases
 theme: developer-workflow
@@ -95,8 +95,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.9.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-22-developer-workflow-changes-in-v0-9-3|22 Developer Workflow changes in v0.9.3]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added hook args: string field (exec form) that spawns the command directly…]]
+- Earlier: 2026-05-09 · OpenCode · [[Changes/OpenCode/2026-05-09-3-developer-workflow-changes-in-v1-14-44-2|3 Developer Workflow changes in v1.14.44 + 2]]
+- Later: 2026-05-10 · OpenCode · [[Changes/OpenCode/2026-05-10-2-developer-workflow-changes-in-v1-14-45|2 Developer Workflow changes in v1.14.45]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

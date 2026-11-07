@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e823c1c23b429c3070bcba89db28fc240f43c379095e88e9153ab9f56a3def3a
+machine_hash: caa2278aacd267458edc46428c22e0285230833a31296306efb2131a7764539a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: '#13313 Renaming Team to Business plan during TUI onboarding @bwanner-oai'
   type: change
 related_changes:
-- '[[Changes/v0/2026-03-03-improved-chat-sidebar-width-for-better-screen-space|Improved
-  chat sidebar width for better screen space]]'
+- '[[Changes/OpenCode/2026-03-04-desktop-remove-diff-lines-from-sessions-in-sidebar|Desktop
+  Remove diff lines from sessions in sidebar]]'
 - '[[Changes/v0/2026-03-04-improved-diff-navigation-with-clickable-file-stats-and-auto-scrolling|Improved
   diff navigation with clickable file stats and auto-scrolling]]'
 - '[[Changes/Claude Code/2026-03-05-3-interface-experience-changes-in-v2-1-69|3 Interface

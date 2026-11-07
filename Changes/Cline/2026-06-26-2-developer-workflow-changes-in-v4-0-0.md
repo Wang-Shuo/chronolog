@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d9eaaf86e2e9b4eb10498740e294e4a8e0485ed6c0c6776509ad93ca5cdd02c
+machine_hash: 3316652a2ae36b70adb0d5821d915276e5e00beaab3aa6c52b4b6e4e9ab4e2c2
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Developer Workflow changes in v4.0.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove
-  syntax highlighting from shell commands in the timeline]]'
 - '[[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow
   changes in 1.15.0]]'
 - '[[Changes/Gemini CLI/2026-06-25-feat-add-eval-inventory-cli-command-and-reporting-logic-by-ved015-in-https-githu|feat:
   add eval:inventory CLI command and reporting logic]]'
+- '[[Changes/Google Antigravity/2026-06-25-updated-the-permissions-request-dialog-to-display-a-clear-description-of-the-act|Updated
+  the permissions request dialog to display a clear description of the action…]]'
 source_release: '[[Releases/Cline/cline-2026-06-26-v4-0-0-github-345514931-9953949f|cline-2026-06-26-v4-0-0-github-345514931-9953949f]]'
 source_type: github_releases
 theme: developer-workflow
@@ -88,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.0.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-25 · Gemini CLI · [[Changes/Gemini CLI/2026-06-25-feat-add-eval-inventory-cli-command-and-reporting-logic-by-ved015-in-https-githu|feat: add eval:inventory CLI command and reporting logic]]
+- Earlier: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-updated-the-permissions-request-dialog-to-display-a-clear-description-of-the-act|Updated the permissions request dialog to display a clear description of the action…]]
 - Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer Workflow changes in v2.1.196]]
 <!-- chronolog:end -->
 

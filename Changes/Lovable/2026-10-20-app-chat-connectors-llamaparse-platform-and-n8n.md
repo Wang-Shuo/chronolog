@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4fcd08f97616f0e1f36cb04a6892fd6af483fb5a5190c59f2399aea2a86f6583
+machine_hash: bf8b85bda688ec830af62b109fafc1b55c35e09116e472a9d440ccdce4bccfaa
 product: lovable
 product_name: Lovable
 record:
@@ -55,10 +55,10 @@ record:
   title: 'App + chat connectors: LlamaParse Platform and n8n'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4
-  Apps and Integrations changes in v2.1.305]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-20-4-apps-and-integrations-changes-in-v1-0-101|4
-  Apps and Integrations changes in v1.0.101]]'
+- '[[Changes/Google Antigravity/2026-10-20-plugin-sidebar-badges-window-shortcuts-and-reliability-fixes|Plugin
+  sidebar badges, window shortcuts, and reliability fixes]]'
+- '[[Changes/Google Antigravity/2026-10-20-project-folders-managed-by-ui-plugins-now-display-a-dedicated-plugin-badge-in-th|Project
+  folders managed by UI plugins now display a dedicated plugin badge in the sidebar]]'
 - '[[Changes/Lovable/2026-10-20-let-lovable-create-your-supabase-project|Let Lovable
   create your Supabase project]]'
 source_release: '[[Releases/Lovable/lovable-2026-10-20-2026-10-20-0d2d0ef5|lovable-2026-10-20-2026-10-20-0d2d0ef5]]'
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-4-apps-and-integrations-changes-in-v1-0-101|4 Apps and Integrations changes in v1.0.101]]
+- Earlier: 2026-10-20 · Google Antigravity · [[Changes/Google Antigravity/2026-10-20-project-folders-managed-by-ui-plugins-now-display-a-dedicated-plugin-badge-in-th|Project folders managed by UI plugins now display a dedicated plugin badge in the sidebar]]
 - Later: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-2-apps-and-integrations-changes-in-v1-29-0|2 Apps and Integrations changes in v1.29.0]]
 <!-- chronolog:end -->
 

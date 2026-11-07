@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e510dd6f86b5538a27f0258399865c433046f58d5414a1165666b347fc49a407
+machine_hash: feb047b0c4c6da74798c293569f24a11a6bbb2e54823275ef5c920d53f7a389a
 product: windsurf
 product_name: Windsurf
 record:
@@ -66,11 +66,11 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|Restaurant
-  reservations in ChatGPT]]'
 - '[[Changes/ElevenLabs/2026-08-10-android-sdk|Android SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-2-mobile-and-desktop-changes-in-v1-0-79|2
   Mobile and Desktop changes in v1.0.79]]'
+- '[[Changes/OpenCode/2026-08-10-2-mobile-and-desktop-changes-in-v1-18-16|2 Mobile
+  and Desktop changes in v1.18.16]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-08-10-v3-7-16-bb404410|windsurf-2026-08-10-v3-7-16-bb404410]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -114,7 +114,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-2-mobile-and-desktop-changes-in-v1-0-79|2 Mobile and Desktop changes in v1.0.79]]
+- Earlier: 2026-08-10 · OpenCode · [[Changes/OpenCode/2026-08-10-2-mobile-and-desktop-changes-in-v1-18-16|2 Mobile and Desktop changes in v1.18.16]]
 - Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-changed-self-hosted-runner-windows-startup-to-require-an-explicit-base-dir-there|Changed self-hosted runner Windows startup to require an explicit --base-dir]]
 <!-- chronolog:end -->
 

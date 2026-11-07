@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dddefb7d4e79e730fd1393af930320f26ec3ad0c7f93eef7d8e501cba6008c59
+machine_hash: 6e54ab0b97b1c546a0eed64fc3fdaf955afdfa36f561a7ada2a0f4f4fee16fcb
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.50
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-7-developer-workflow-changes-in-v0-29-0|7 Developer
-  Workflow changes in v0.29.0]]'
 - '[[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|Review code in split-screen
   views]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-5-developer-workflow-changes-in-v0-0-412|5
   Developer Workflow changes in v0.0.412]]'
+- '[[Changes/OpenCode/2026-02-19-20-developer-workflow-changes-in-v1-2-7|20 Developer
+  Workflow changes in v1.2.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.50
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-5-developer-workflow-changes-in-v0-0-412|5 Developer Workflow changes in v0.0.412]]
+- Earlier: 2026-02-19 · OpenCode · [[Changes/OpenCode/2026-02-19-20-developer-workflow-changes-in-v1-2-7|20 Developer Workflow changes in v1.2.7]]
 - Later: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-increase-lsp-request-timeout-from-30s-to-90s-to-reduce-timeout-failures|Increase LSP request timeout from 30s to 90s to reduce timeout failures]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4f758a20f5578276d3c6a6da25895494e586a184a44239b698ae074f9e1d8567
+machine_hash: afc51f51c7e3c30981ccdc994c728450857ca88be46ed0a48b35e634ddb8224d
 product: dify
 product_name: Dify
 record:
@@ -45,11 +45,12 @@ record:
   title: 3 Reliability and Performance changes in 1.16.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-responses-websockets-continue-using-the-low-latency-transport-while-respecting-s|Responses
-  WebSockets continue using the low-latency transport while respecting…]]'
-- '[[Changes/ElevenLabs/2026-07-13-packages|Packages]]'
+- '[[Changes/OpenClaw/2026-07-13-38-reliability-and-performance-changes-in-v2026-7-1|38
+  Reliability and Performance changes in v2026.7.1]]'
 - '[[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3
   Reliability and Performance changes in v2.1.208]]'
+- '[[Changes/Google Antigravity/2026-07-16-startup-stability-fix|Startup stability
+  fix]]'
 source_release: '[[Releases/Dify/dify-2026-07-17-1-16-0-github-355594285-636849e9|dify-2026-07-17-1-16-0-github-355594285-636849e9]]'
 source_type: github_releases
 theme: reliability-performance
@@ -102,7 +103,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3 Reliability and Performance changes in v2.1.208]]
+- Earlier: 2026-07-16 · Google Antigravity · [[Changes/Google Antigravity/2026-07-16-startup-stability-fix|Startup stability fix]]
 - Later: 2026-07-17 · Windsurf · [[Changes/Windsurf/2026-07-17-devin-cloud|Devin Cloud]]
 <!-- chronolog:end -->
 

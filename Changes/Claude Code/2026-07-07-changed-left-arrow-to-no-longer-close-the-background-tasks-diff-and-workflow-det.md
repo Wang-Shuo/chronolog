@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7dcf92496d40141f6dde38c64259c52a9faaf5014e0327dad5afe863f3f101dc
+machine_hash: 1f0e19aa85d407cbd6840d3c559150b1180e7b116d5e772d67b277de1cd735d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,11 @@ record:
   title: Changed left arrow to no longer close the background tasks, diff, and workflow…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2
-  Editor Experience changes in v1.0.68]]'
-- '[[Changes/Open WebUI/2026-07-01-2-editor-experience-changes-in-v0-10-2|2 Editor
-  Experience changes in v0.10.2]]'
+- '[[Changes/OpenCode/2026-07-01-3-editor-experience-changes-in-v1-17-13|3 Editor
+  Experience changes in v1.17.13]]'
 - '[[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]'
+- '[[Changes/OpenCode/2026-07-06-3-editor-experience-changes-in-v1-17-14|3 Editor
+  Experience changes in v1.17.14]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-04 · Windsurf · [[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]
+- Earlier: 2026-07-06 · OpenCode · [[Changes/OpenCode/2026-07-06-3-editor-experience-changes-in-v1-17-14|3 Editor Experience changes in v1.17.14]]
 - Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-2-editor-experience-changes-in-v1-0-69|2 Editor Experience changes in v1.0.69]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 991be2476e4420015422aca664039f9f7e281faba4544521c23148742a1f817f
+machine_hash: 2379af02b4ed8ea170c9b36c29ae0f05675c33b32108194105af528727324d58
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,8 @@ record:
   title: DALL-E focused view has an updated layout
   type: change
 related_changes:
-- '[[Changes/Dify/2024-10-14-2-image-generation-changes-in-0-9-2|2 Image Generation
-  changes in 0.9.2]]'
+- '[[Changes/Gamma/2024-10-23-we-ve-created-a-new-centralized-hub-for-all-your-ai-generated-images-in-gamma-no|We''ve
+  created a new, centralized hub for all your AI-generated images in Gamma]]'
 - '[[Changes/Dify/2024-10-28-vision-support-for-tool-image-gen-image-generation-with-vision-models-is-now-sup|Vision
   Support for Tool Image Gen: Image generation with vision models is now…]]'
 - '[[Changes/Dify/2024-11-18-2-image-generation-changes-in-0-11-2|2 Image Generation

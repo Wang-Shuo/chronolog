@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 273fe3ca793c28c8b4effbebc9085fb20bf5be3182e05dca60c44c2cf7ae03b9
+machine_hash: 6891e7b652221f99c9dfba56bf796894fe7c85f688871883aa1987dc089f4177
 product: dify
 product_name: Dify
 record:
@@ -41,8 +41,8 @@ record:
   title: 'feat: show more usage info in billing page'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-02-10-updated-all-openai-model-names-pricing-info|Updated
-  all OpenAI model names, pricing info]]'
+- '[[Changes/Runway/2024-02-26-you-can-now-see-a-detailed-breakdown-of-credit-spend-across-all-generation-tools|Credit
+  spend history table in user settings]]'
 - '[[Changes/Dify/2024-04-08-add-segment-function-billing-check-for-saas-env-by-johnjyong-in-https-github-com|add
   segment function billing check for SAAS env]]'
 - '[[Changes/Dify/2024-05-27-2-pricing-model-changes-in-0-6-9|2 Pricing Model changes

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1858868b15570cf3a95eec1afa899936b9f30c2f2296dd28d81d0081e6f3de53
+machine_hash: d9524cf154e9829a5438fdfe8eb2efe4fe2649b799af747f6bfa6dc647ffc245
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Account and Access changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved
-  performance by caching authentication failures for HTTP and SSE MCP…]]'
+- '[[Changes/OpenCode/2026-02-19-3-account-and-access-changes-in-v1-2-7|3 Account
+  and Access changes in v1.2.7]]'
 - '[[Changes/ElevenLabs/2026-02-23-elevenagents-f6efef|ElevenAgents]]'
 - '[[Changes/Open WebUI/2026-02-23-3-account-and-access-changes-in-v0-8-4|3 Account
   and Access changes in v0.8.4]]'
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-3-account-and-access-changes-in-v0-8-4|3 Account and Access changes in v0.8.4]]
-- Later: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-2-account-and-access-changes-in-rust-v0-106-0|2 Account and Access changes in rust-v0.106.0]]
+- Later: 2026-02-25 · OpenCode · [[Changes/OpenCode/2026-02-25-terminal-consume-stdout-concurrently-with-process-exit-in-auth-login|Terminal Consume stdout concurrently with process exit in auth login]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

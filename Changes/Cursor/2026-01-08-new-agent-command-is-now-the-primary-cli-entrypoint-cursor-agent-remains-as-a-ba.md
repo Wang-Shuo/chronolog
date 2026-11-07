@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 54242887e8917dde6255ed96684f1127d2a1711f29b9ed6d6b7158b23ba1d302
+machine_hash: a7e8f620d1eddc7db70e0096d56dbc3e2703b7663de611572b65c5c7b55b4252
 product: cursor
 product_name: Cursor
 record:
@@ -45,11 +45,12 @@ record:
   title: New agent command is now the primary CLI entrypoint. cursor-agent remains…
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-01-05-agents-platform-bdcd71|Agents Platform]]'
 - '[[Changes/Codex CLI/2026-01-07-4-agent-mode-changes-in-rust-v0-79-0|4 Agent Mode
   changes in rust-v0.79.0]]'
 - '[[Changes/Gemini CLI/2026-01-07-3-agent-mode-changes-in-v0-23-0|3 Agent Mode changes
   in v0.23.0]]'
+- '[[Changes/OpenCode/2026-01-07-3-agent-mode-changes-in-v1-1-6|3 Agent Mode changes
+  in v1.1.6]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542|cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-3-agent-mode-changes-in-v0-23-0|3 Agent Mode changes in v0.23.0]]
+- Earlier: 2026-01-07 · OpenCode · [[Changes/OpenCode/2026-01-07-3-agent-mode-changes-in-v1-1-6|3 Agent Mode changes in v1.1.6]]
 - Later: 2026-01-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-08-task-tool-subagents-can-now-process-images|Task tool subagents can now process images]]
 <!-- chronolog:end -->
 

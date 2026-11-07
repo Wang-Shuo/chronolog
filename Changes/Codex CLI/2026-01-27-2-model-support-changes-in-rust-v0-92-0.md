@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db660d276dde2d01c34959d8d0101019ee04282a834d11f10f187e9219a0b030
+machine_hash: 7012d1bf8ba7b0b39036d4f05064daddfad9e4813aa5525429d16af878293212
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Model Support changes in rust-v0.92.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-25-5-model-support-changes-in-rust-v0-90-0|5 Model
-  Support changes in rust-v0.90.0]]'
+- '[[Changes/OpenCode/2026-01-25-desktop-fixed-crash-when-no-default-model-is-set|Desktop
+  Fixed crash when no default model is set]]'
 - '[[Changes/ElevenLabs/2026-01-26-elevencreative-studio|ElevenCreative Studio]]'
 - '[[Changes/Cline/2026-01-27-3-model-support-changes-in-v3-54-0|3 Model Support changes
   in v3.54.0]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3b90aa90f4d9813577e009e732c387dd5c2da5166ac157cf9cc315d2ada2e995
+machine_hash: e0a96c4a9f7a9d67be08becf5b4e16b177ba3d85c09f17ae0b1d7a4aa22dad76
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#16202 Fix paste-driven bottom pane completion teardown @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-4-editor-experience-changes-in-v2-1-97|4 Editor
-  Experience changes in v2.1.97]]'
 - '[[Changes/Gemini CLI/2026-04-08-feat-cli-support-tab-to-queue-for-messages-while-generating-by-gundermanc-in-htt|feat(cli):
   support ''tab to queue'' for messages while generating]]'
+- '[[Changes/OpenCode/2026-04-08-core-aligned-github-copilot-anthropic-reasoning-levels-and-removed-incorrect-qwe|Core
+  Aligned GitHub Copilot Anthropic reasoning levels and removed incorrect Qwen variants]]'
 - '[[Changes/Claude Code/2026-04-09-2-editor-experience-changes-in-v2-1-98|2 Editor
   Experience changes in v2.1.98]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1|codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1]]'

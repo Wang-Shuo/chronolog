@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d9fe1047e1b05f59b55bfc10338259906967b555c3f2c0cd7cfd1de02db901a
+machine_hash: 1d77e4f3dab635218309ef7ca43766e4da5295f77615c85a78d08921b0db0109
 product: open-webui
 product_name: Open WebUI
 record:
@@ -49,12 +49,12 @@ record:
   title: 2 Developer Workflow changes in v0.8.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-11412-tui-show-non-file-layer-content-in-debug-config-bolinfest|♯11412
-  tui: show non-file layer content in /debug-config @bolinfest]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-12-change-run-command-shortcut-from-ctrl-p-to-ctrl-s|Change
-  run command shortcut from ctrl+p to ctrl+s]]'
-- '[[Changes/Open WebUI/2026-02-12-27-developer-workflow-changes-in-v0-8-0|27 Developer
-  Workflow changes in v0.8.0]]'
+- '[[Changes/OpenCode/2026-02-12-2-developer-workflow-changes-in-v1-1-64-1|2 Developer
+  Workflow changes in v1.1.64 + 1]]'
+- '[[Changes/OpenCode/2026-02-12-2-developer-workflow-changes-in-v1-1-60|2 Developer
+  Workflow changes in v1.1.60]]'
+- '[[Changes/OpenCode/2026-02-13-core-remove-worktree-delete-functionality|Core Remove
+  worktree delete functionality]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77|open-webui-2026-02-14-v0-8-1-github-286288526-aa333d77]]'
 source_type: github_releases
 theme: developer-workflow
@@ -95,8 +95,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.8.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-27-developer-workflow-changes-in-v0-8-0|27 Developer Workflow changes in v0.8.0]]
-- Later: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-4-developer-workflow-changes-in-v0-8-2|4 Developer Workflow changes in v0.8.2]]
+- Earlier: 2026-02-13 · OpenCode · [[Changes/OpenCode/2026-02-13-core-remove-worktree-delete-functionality|Core Remove worktree delete functionality]]
+- Later: 2026-02-14 · OpenCode · [[Changes/OpenCode/2026-02-14-3-developer-workflow-changes-in-v1-2-0|3 Developer Workflow changes in v1.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

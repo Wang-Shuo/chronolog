@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 816427b11e844d96ef6672d4e8d532d1e1464ae6a4b5509869d721a2c126e0ce
+machine_hash: 64c03904c41ca56835f84b478f583da86deea4963806549fd2520236a047e8b2
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 'feat: add a typed agent action for launching local or Cloud child conversations'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-06-feat-pr-generator-agent-implement-antigravity-agent-runner-and-prompt-templates|feat(pr-generator-agent):
-  implement Antigravity agent runner and prompt templates …]]'
 - '[[Changes/Claude Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r|Removed
   the 200-subagent-per-session spawn cap]]'
 - '[[Changes/Codex CLI/2026-08-07-17-agent-mode-changes-in-rust-v0-147-0|17 Agent
   Mode changes in rust-v0.147.0]]'
+- '[[Changes/Google Antigravity/2026-08-07-2-agent-mode-changes-in-hub-v2-6-0-faster-long-conversations|2
+  Agent Mode changes in HUB v2.6.0 — Faster long conversations…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-07-v1-11-0-github-366925866-b56d8fd7|openhands-2026-08-07-v1-11-0-github-366925866-b56d8fd7]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-17-agent-mode-changes-in-rust-v0-147-0|17 Agent Mode changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-2-agent-mode-changes-in-hub-v2-6-0-faster-long-conversations|2 Agent Mode changes in HUB v2.6.0 — Faster long conversations…]]
 - Later: 2026-08-07 · Replit · [[Changes/Replit/2026-08-07-agent|Agent]]
 <!-- chronolog:end -->
 

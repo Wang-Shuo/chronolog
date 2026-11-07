@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1804664aa9e4eb750c7a004bdd752669e759c547f52c3f11324427bb0809f7bd
+machine_hash: 30016dec47066668cf5f25ba943ead4970966936f36d146010a1ab9e1abfed83
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: 'Content creation: Apply project-specific instructions to keep tone and style…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-01-support-rendering-function-calls-and-responses-when-sharing-chat-to-markdown-by|Support
-  rendering function calls and responses when sharing chat to markdown]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-07-significantly-reduced-token-consumption-round-trips-per-problem-and-time-to-resu|Significantly
   reduced token consumption, round trips per problem, and time to result]]'
 - '[[Changes/Replit/2025-10-10-support-seat-access-for-teams|Support seat access for
   teams]]'
+- '[[Changes/Midjourney/2025-10-17-for-the-next-three-weekends-we-re-renting-a-big-catamaran-sailboat-to-take-midjo|Midjourney
+  sailboat trips]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-23-shared-projects-217fa07d|chatgpt-2025-10-23-shared-projects-217fa07d]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-10-10 · Replit · [[Changes/Replit/2025-10-10-support-seat-access-for-teams|Support seat access for teams]]
+- Earlier: 2025-10-17 · Midjourney · [[Changes/Midjourney/2025-10-17-for-the-next-three-weekends-we-re-renting-a-big-catamaran-sailboat-to-take-midjo|Midjourney sailboat trips]]
 - Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-shareable-team-commands|Shareable Team Commands]]
 <!-- chronolog:end -->
 

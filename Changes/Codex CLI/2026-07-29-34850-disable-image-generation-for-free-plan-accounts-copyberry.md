@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95de76403bf2683d120e8bb744b22da5067f91c09e4dc1ad40a560ae4f609bc3
+machine_hash: e028aaabad6c29e84e717c46a80426ec3909a3770387dd9544e8692832a78395
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#34850 Disable image generation for Free-plan accounts @copyberry'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-31596-use-the-image-generation-extension-by-default-won-openai|♯31596
-  Use the image generation extension by default @won-openai]]'
+- '[[Changes/OpenClaw/2026-07-13-7-image-generation-changes-in-v2026-7-1|7 Image Generation
+  changes in v2026.7.1]]'
 - '[[Changes/Codex CLI/2026-07-21-3-image-generation-changes-in-rust-v0-145-0|3 Image
   Generation changes in rust-v0.145.0]]'
 - "[[Changes/Open WebUI/2026-07-27-shared-image-checkpoint-changes-only-administrators-can-now-change-the-instance|\U0001F58C️

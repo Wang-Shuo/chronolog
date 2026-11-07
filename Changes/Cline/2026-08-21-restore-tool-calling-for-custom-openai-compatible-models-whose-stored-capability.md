@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b12a2578a81d111d853ad826a30843b461a8a63799d402b0b58092d6de0989cc
+machine_hash: c635a22311c150e99c4462a80a27f6cd17eb691beb6c6a17ad711e1ef4623eaa
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: Restore tool calling for custom OpenAI-Compatible models whose stored capability…
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-08-19-caches-resolved-model-metadata-between-requests-cutting-time-to-first-token-by-r|Caches
-  resolved model metadata between requests, cutting time-to-first-token…]]'
-- '[[Changes/Codex CLI/2026-08-20-6-model-support-changes-in-rust-v0-149-0|6 Model
-  Support changes in rust-v0.149.0]]'
 - '[[Changes/Lovable/2026-08-20-gemini-embedding-2-is-the-default-for-search-and-recommendations|Gemini
   Embedding 2 is the default for search and recommendations]]'
+- '[[Changes/OpenCode/2026-08-20-added-native-openai-and-anthropic-passthroughs-for-cloudflare-ai-gateway-models|Added
+  native OpenAI and Anthropic passthroughs for Cloudflare AI Gateway models]]'
+- '[[Changes/Runway/2026-08-20-transform-any-sdr-video-into-true-hdr-with-runway-ruby-a-native-color-grading-mo|Runway
+  Ruby]]'
 source_release: '[[Releases/Cline/cline-2026-08-21-v4-1-12-github-374708481-1b15d60b|cline-2026-08-21-v4-1-12-github-374708481-1b15d60b]]'
 source_type: github_releases
 theme: model-support
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-20 · Lovable · [[Changes/Lovable/2026-08-20-gemini-embedding-2-is-the-default-for-search-and-recommendations|Gemini Embedding 2 is the default for search and recommendations]]
+- Earlier: 2026-08-20 · Runway · [[Changes/Runway/2026-08-20-transform-any-sdr-video-into-true-hdr-with-runway-ruby-a-native-color-grading-mo|Runway Ruby]]
 - Later: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-3-model-support-changes-in-v4-1-11|3 Model Support changes in v4.1.11]]
 <!-- chronolog:end -->
 

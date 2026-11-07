@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c8360b5f9500818ec2ec8974f35be05ba79d6f367b7466d7b83e4a091503d0bc
+machine_hash: e5a5125ba79c1556061a955a8e21b6c08f586869045c799199b6af772f3c9847
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: '#57542 Add model-gated literature search to standalone web search @rhan-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-2-search-and-browsing-changes-in-v1-0-100|2
-  Search and Browsing changes in v1.0.100]]'
-- '[[Changes/Ollama/2026-10-22-anthropic-compatible-web-search-now-uses-the-model-s-supported-thinking-setting|Anthropic-compatible
-  web search now uses the model''s supported thinking setting…]]'
+- '[[Changes/OpenClaw/2026-10-22-web-search-timeout-errors-now-tell-you-the-request-s-actual-time-limit-see-web-t|Web
+  search timeout errors now tell you the request’s actual time limit]]'
 - "[[Changes/Open WebUI/2026-10-25-web-search-settings-save-admins-can-now-save-web-search-settings-such-as-the-web|\U0001F30D
   Web Search settings save. Admins can now save Web Search settings such…]]"
+- '[[Changes/OpenCode/2026-10-27-2-search-and-browsing-changes-in-v2-2-0|2 Search
+  and Browsing changes in v2.2.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: search-browsing
@@ -102,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-web-search-settings-save-admins-can-now-save-web-search-settings-such-as-the-web|🌍 Web Search settings save. Admins can now save Web Search settings such…]]
-- Later: 2026-11-03 · Ollama · [[Changes/Ollama/2026-11-03-cloud-web-search-responses-on-api-chat-are-now-decoded-correctly-including-compr|Cloud web search responses on /api/chat are now decoded correctly, including…]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-2-search-and-browsing-changes-in-v2-2-0|2 Search and Browsing changes in v2.2.0]]
+- Later: 2026-10-29 · OpenCode · [[Changes/OpenCode/2026-10-29-2-search-and-browsing-changes-in-v2-2-1|2 Search and Browsing changes in v2.2.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

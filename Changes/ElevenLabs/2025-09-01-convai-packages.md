@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 00b68af1bec9f93208e62f824f636170f153dcf8b2c3932ef858c37683f69f73
+machine_hash: a5ef07f045752af66000bef19305c20624c301ea1639a0c5d32e91aa1ed850bf
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -55,8 +55,8 @@ record:
   title: ConvAI packages
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2025-08-20-voice-management|Voice Management]]'
 - '[[Changes/ElevenLabs/2025-08-20-speech-to-text|Speech to Text]]'
+- '[[Changes/Runway/2025-08-20-change-the-voice-of-your-performances-directly-from-within-the-act-two-interface|Voices]]'
 - '[[Changes/Open WebUI/2025-08-21-2-voice-and-audio-changes-in-v0-6-23|2 Voice and
   Audio changes in v0.6.23]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2025-09-01-2025-09-01-b1665f28|elevenlabs-2025-09-01-2025-09-01-b1665f28]]'

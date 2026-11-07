@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a592419a8da5bd9f1757aab78f54f9672eb638bd5b575040dc166f1a0282006
+machine_hash: 5265f8bf7a497f03cf31d0febc11b7d5d66db84bf1a9a2f51fe900f665bce5d9
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.225
   type: change
 related_changes:
-- '[[Changes/Claude/2026-08-06-skill-and-plugin-security-scanning-beta|Skill and plugin
-  security scanning (beta)]]'
-- '[[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3
-  Apps and Integrations changes in v2.1.224]]'
 - '[[Changes/Codex CLI/2026-08-07-65-apps-and-integrations-changes-in-rust-v0-147-0|65
   Apps and Integrations changes in rust-v0.147.0]]'
+- '[[Changes/Google Antigravity/2026-08-07-2-apps-and-integrations-changes-in-hub-v2-6-0-faster-long-conversations|2
+  Apps and Integrations changes in HUB v2.6.0 — Faster long conversations…]]'
+- '[[Changes/Google Antigravity/2026-08-07-faster-long-conversations-more-reliable-hooks-and-subagents|Faster
+  long conversations, more reliable hooks and subagents]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049|claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049]]'
 source_type: github_releases
 theme: apps-integrations
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.225
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-65-apps-and-integrations-changes-in-rust-v0-147-0|65 Apps and Integrations changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · Google Antigravity · [[Changes/Google Antigravity/2026-08-07-faster-long-conversations-more-reliable-hooks-and-subagents|Faster long conversations, more reliable hooks and subagents]]
 - Later: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-2-apps-and-integrations-changes-in-v4-1-7|2 Apps and Integrations changes in v4.1.7]]
 <!-- chronolog:end -->
 

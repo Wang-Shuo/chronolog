@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4fec378e1964b696bbdf615e27e68aa6e198a9d30185f8c16b19511a5ddb7569
+machine_hash: 9a3a009e97b2bfc674d98a3fe3e0967c727e37b2a5163956fa433d2d13bde0a4
 product: open-webui
 product_name: Open WebUI
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-11-26 · Replit · [[Changes/Replit/2025-11-26-better-search-rankings-for-custom-domains|Better search rankings for Custom Domains]]
-- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-3-search-and-browsing-changes-in-v0-6-42|3 Search and Browsing changes in v0.6.42]]
+- Later: 2025-12-17 · Gamma · [[Changes/Gamma/2025-12-17-want-your-site-to-show-up-in-search-results-now-you-can-enable-indexing-to-help|Want your site to show up in search results?]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

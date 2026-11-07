@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 570c899b1fccae822354fc57273a7d05bb0ba7f38038872ce580cc3eff866ef6
+machine_hash: c8ba15e49b384b73c7be2927a4fc572e606b5f62ce33057ae744a5f4befd82f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Automation and Scheduling changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-10-27-refactor-core-cli-emit-tool-call-groups-from-the-scheduler-and-drop-the-ui-looka|refactor(core,cli):
-  emit tool call groups from the scheduler and drop the UI lookahead]]'
-- '[[Changes/OpenHands/2026-10-27-6-automation-and-scheduling-changes-in-v1-34-0|6
-  Automation and Scheduling changes in v1.34.0]]'
-- '[[Changes/Open WebUI/2026-10-29-2-automation-and-scheduling-changes-in-v0-12-5|2
-  Automation and Scheduling changes in v0.12.5]]'
+- '[[Changes/OpenCode/2026-10-29-sdk-added-if-and-until-inputs-for-client-experimental-schedule-create-plus-sched|SDK
+  Added if and until inputs for client.experimental.schedule.create , plus…]]'
+- '[[Changes/OpenCode/2026-10-30-2-automation-and-scheduling-changes-in-v2-2-3|2 Automation
+  and Scheduling changes in v2.2.3]]'
+- '[[Changes/OpenCode/2026-10-30-core-made-enabled-schedules-run-under-opencode-serve-and-coordinated-multiple-se|Core
+  Made enabled schedules run under opencode serve and coordinated multiple server…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -89,8 +89,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-automation-and-scheduling-changes-in-v0-12-5|2 Automation and Scheduling changes in v0.12.5]]
-- Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-2-automation-and-scheduling-changes-in-v0-13-0|2 Automation and Scheduling changes in v0.13.0]]
+- Earlier: 2026-10-30 · OpenCode · [[Changes/OpenCode/2026-10-30-core-made-enabled-schedules-run-under-opencode-serve-and-coordinated-multiple-se|Core Made enabled schedules run under opencode serve and coordinated multiple server…]]
+- Later: 2026-11-03 · Google Antigravity · [[Changes/Google Antigravity/2026-11-03-2-automation-and-scheduling-changes-in-hub-v2-29-0-voice-mode-remote|2 Automation and Scheduling changes in HUB v2.29.0 — Voice mode, remote…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

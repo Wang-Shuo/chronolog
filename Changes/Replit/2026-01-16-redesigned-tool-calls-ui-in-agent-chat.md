@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 473132811862a86d8d19994aa932782e2a10ca420d7de1be44a26dcc71a1ba37
+machine_hash: db504fa61d61011e5e6f4290e28626b88ce4b55d1722f1dbe3c15d0c34865b2e
 product: replit
 product_name: Replit
 record:
@@ -51,11 +51,11 @@ record:
   title: Redesigned tool calls UI in Agent chat
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-16-2-agent-mode-changes-in-v0-0-384|2 Agent
-  Mode changes in v0.0.384]]'
 - '[[Changes/Lovable/2026-01-16-smarter-agent-capabilities|Smarter agent capabilities]]'
 - '[[Changes/Lovable/2026-01-16-vitest-is-now-included-in-the-react-template-enabling-the-agent-to-write-and-run|Vitest
   is now included in the React template, enabling the agent to write…]]'
+- '[[Changes/OpenCode/2026-01-16-3-agent-mode-changes-in-v1-1-24|3 Agent Mode changes
+  in v1.1.24]]'
 source_release: '[[Releases/Replit/replit-2026-01-16-2026-01-16-d287c407|replit-2026-01-16-2026-01-16-d287c407]]'
 source_type: replit_changelog
 theme: agent-mode
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-vitest-is-now-included-in-the-react-template-enabling-the-agent-to-write-and-run|Vitest is now included in the React template, enabling the agent to write…]]
+- Earlier: 2026-01-16 · OpenCode · [[Changes/OpenCode/2026-01-16-3-agent-mode-changes-in-v1-1-24|3 Agent Mode changes in v1.1.24]]
 - Later: 2026-01-19 · ElevenLabs · [[Changes/ElevenLabs/2026-01-19-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 

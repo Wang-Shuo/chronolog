@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2250669e061d8020c08db52a486971293fdce2d89c4c549adffb686939dbd024
+machine_hash: 24906c1fbd7d0369fabe327be501c25ac92cc36a54e4aef950a5c0eaf65e8dad
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Improved auto-memory loading
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-6-memory-and-personalization-changes-in-rust-v0-156-0|6
-  Memory and Personalization changes in rust-v0.156.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-22-resuming-large-local-sessions-keeps-transcript-memory-bounded-for-smoother-cli-p|Resuming
   large local sessions keeps transcript memory bounded for smoother CLI performance]]'
+- '[[Changes/OpenClaw/2026-09-23-23-memory-and-personalization-changes-in-v2026-9-6|23
+  Memory and Personalization changes in v2026.9.6]]'
 - '[[Changes/Claude Code/2026-09-25-improved-lists-in-help-hooks-copy-chrome-memory-ide-release-notes-rewind-diff-re|Improved
   lists in /help, /hooks, /copy, /chrome, /memory, /ide…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'

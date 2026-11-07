@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a37d8ed4f03b430e3bf03236b8a06c7c9f9f5a50db492901b48f3aa7e370e001
+machine_hash: 1a51c882607fc0c14b332d1fb7eb919faa0eaa6771f252967f796499246e8b26
 product: openhands
 product_name: OpenHands
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted and clipboard images are read without blocking the event loop]]
-- Later: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-stop-two-cline-installations-on-different-builds-from-shutting-each-other-s-hub|Stop two Cline installations on different builds from shutting each other's Hub…]]
+- Later: 2026-08-13 · Suno · [[Changes/Suno/2026-08-13-automation-change-your-effect-parameters-over-time-to-breathe-life-into-your-fin|Automation: Change your effect parameters over time to breathe life into your final mix]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

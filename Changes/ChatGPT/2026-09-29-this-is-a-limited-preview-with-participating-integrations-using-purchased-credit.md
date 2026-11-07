@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c1a683b6dd3c06137049d05a74c145a28da0db0faf6987deddf621811d825fd
+machine_hash: d28202c3ea6b0d294f43625a5ca649a86627e4a34295b09354ee0e4e3feed856
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,11 +45,12 @@ record:
   title: This is a limited preview with participating integrations
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-13-apps-and-integrations-changes-in-rust-v0-158-0|13
-  Apps and Integrations changes in rust-v0.158.0]]'
-- '[[Changes/ElevenLabs/2026-09-28-sdk-releases|SDK releases]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-28-4-apps-and-integrations-changes-in-v1-0-89|4
-  Apps and Integrations changes in v1.0.89]]'
+- '[[Changes/Google Antigravity/2026-09-28-you-can-now-discover-install-and-manage-plugins-within-the-customizations-tab-wi|Discover,
+  install and manage plugins within the Customizations tab, with curated…]]'
+- '[[Changes/Google Antigravity/2026-09-28-slash-commands-provided-by-plugins-now-show-their-plugin-name-in-the-menu-can-be|Slash
+  commands provided by plugins now show their plugin name in the / menu, can…]]'
+- '[[Changes/OpenCode/2026-09-28-core-mcp-browser-launch-failures-are-now-reported-when-the-launcher-exits-immedi|Core
+  MCP browser launch failures are now reported when the launcher exits immediately]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3|chatgpt-2026-09-29-use-your-chatgpt-allowance-in-participating-apps-aecfcdb3]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-4-apps-and-integrations-changes-in-v1-0-89|4 Apps and Integrations changes in v1.0.89]]
+- Earlier: 2026-09-28 · OpenCode · [[Changes/OpenCode/2026-09-28-core-mcp-browser-launch-failures-are-now-reported-when-the-launcher-exits-immedi|Core MCP browser launch failures are now reported when the launcher exits immediately]]
 - Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors-d0bd7e|Work with interactive plugin extensions]]
 <!-- chronolog:end -->
 

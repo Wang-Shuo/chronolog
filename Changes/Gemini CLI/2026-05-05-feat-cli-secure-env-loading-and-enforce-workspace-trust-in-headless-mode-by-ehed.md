@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44d6a689d459326f79f915e1a16db995640af87b862aac2ebf43dd57a6dcd3ce
+machine_hash: d8b19c24548a60f16c91086de1076244525235ef05040d184313913682c4b848
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 'feat(cli): secure .env loading and enforce workspace trust in headless mode'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-01-default-off-users-can-discover-and-opt-in|Default Off:
-  users can discover and opt in]]'
 - '[[Changes/OpenHands/2026-05-01-added-sandbox-kvm-enabled-environment-variable-to-enable-passing-dev-kvm-to-sand|Added
   SANDBOX_KVM_ENABLED environment variable to enable passing /dev/kvm to sandbox…]]'
+- '[[Changes/OpenCode/2026-05-02-core-agents-can-use-the-global-temp-directory-without-extra-permission-prompts|Core
+  Agents can use the global temp directory without extra permission prompts]]'
 - '[[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK
   hosts now receive a persistent localSettings suggestion for Bash permission…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6|gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6]]'

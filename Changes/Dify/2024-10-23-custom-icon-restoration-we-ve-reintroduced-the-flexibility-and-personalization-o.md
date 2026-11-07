@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8924adadfcb535a9948f5f96fad17053215bb2e6ab7883b173da3ebd413db6af
+machine_hash: 9584693b65a5c61bb4b205d69a771f5ab52ba2fd16d871582237beed5379791d
 product: dify
 product_name: Dify
 record:
@@ -44,12 +44,12 @@ record:
   title: '**Custom Icon Restoration**'
   type: change
 related_changes:
-- '[[Changes/Cline/2024-07-28-quality-of-life-improvements-like-markdown-rendering-memory-optimizations-better|Quality
-  of life improvements like markdown rendering, memory optimizations, better…]]'
 - '[[Changes/Cline/2024-08-11-adds-option-to-add-custom-instructions-to-the-end-of-the-system-prompt|Adds
   option to add custom instructions to the end of the system prompt]]'
 - '[[Changes/Dify/2024-08-14-enhancing-llm-memory-with-conversation-variables-and-variable-assigners-https-di|Enhancing
   LLM Memory with Conversation Variables and Variable…]]'
+- '[[Changes/Midjourney/2024-09-06-personalization-for-the-niji-anime-model-is-available-today|Personalization
+  for Niji]]'
 source_release: '[[Releases/Dify/dify-2024-10-23-0-10-1-github-181515566-42cf5148|dify-2024-10-23-0-10-1-github-181515566-42cf5148]]'
 source_type: github_releases
 theme: memory
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-enhancing-llm-memory-with-conversation-variables-and-variable-assigners-https-di|Enhancing LLM Memory with Conversation Variables and Variable…]]
+- Earlier: 2024-09-06 · Midjourney · [[Changes/Midjourney/2024-09-06-personalization-for-the-niji-anime-model-is-available-today|Personalization for Niji]]
 - Later: 2024-11-26 · Dify · [[Changes/Dify/2024-11-26-llm-memory-processing-corrected-errors-in-llm-memory-handling-11103-and-11106|LLM Memory Processing: Corrected errors in LLM memory handling]]
 <!-- chronolog:end -->
 

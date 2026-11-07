@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3b60c23cc999f9252d15e73711e75b7172e19882d0739697972d210d1e4f8032
+machine_hash: 05a84f35024f5dd5531ceaafdf7fdd7211960722f11b40ee449f67a7d3b11e28
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Changed background sessions whose scheduled task is gone
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore:
-  consume SDK 1.49.5 and Automation 1.15.0]]'
-- '[[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3
-  Automation and Scheduling changes in v1.24.0]]'
+- '[[Changes/Manus/2026-09-28-a-new-architecture-new-products-and-new-capabilities-manus-studio-with-video-edi|Introducing
+  Manus 2.0]]'
 - '[[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site
   owners can also create recurring cloud schedules from Automations]]'
+- '[[Changes/OpenClaw/2026-09-30-11-automation-and-scheduling-changes-in-v2026-9-7|11
+  Automation and Scheduling changes in v2026.9.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site owners can also create recurring cloud schedules from Automations]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-11-automation-and-scheduling-changes-in-v2026-9-7|11 Automation and Scheduling changes in v2026.9.7]]
 - Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5 Automation and Scheduling changes in v1.25.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b33cc3ec7597c6b64578f4b2b3d8070433756ec3204264c9222268cbd6ff6ce3
+machine_hash: 47b8558f76e8cc70dd8c2282de271d3a6cc15f928971a8b4b31b519fd6f149e7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -110,10 +110,10 @@ record:
   title: 35 Apps and Integrations changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts
-  in place]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8
-  Apps and Integrations changes in v1.0.62]]'
+- '[[Changes/OpenCode/2026-06-14-4-apps-and-integrations-changes-in-v1-17-7|4 Apps
+  and Integrations changes in v1.17.7]]'
+- '[[Changes/OpenCode/2026-06-14-mcp-servers-can-now-receive-the-current-workspace-as-a-client-root|MCP
+  servers can now receive the current workspace as a client root]]'
 - '[[Changes/Claude Code/2026-06-15-2-apps-and-integrations-changes-in-v2-1-178|2
   Apps and Integrations changes in v2.1.178]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14434d08cf820dcf17aded396560397521f0750c7728fcafcd52e1afc036616f
+machine_hash: 5940036cb20a6644c52be7328ba5b9a33e84713724d2001dc643098904e606d2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#6480 — Use codex-linux-sandbox in unified exec (`6c36318bd`)'
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-11-06-4-safety-and-privacy-changes-in-v0-6-35|4 Safety
-  and Privacy changes in v0.6.35]]'
 - '[[Changes/Codex CLI/2025-11-07-2-safety-and-privacy-changes-in-rust-v0-56-0|2 Safety
   and Privacy changes in rust-v0.56.0]]'
 - '[[Changes/Gemini CLI/2025-11-07-migrate-console-error-to-coreevents-debugger-for-sandbox-logger-chatrecordingser|migrate
   console.error to coreEvents/debugger for sandbox, logger, chatRecordingService]]'
+- '[[Changes/Manus/2025-11-12-the-moment-you-enable-payments-manus-spins-up-a-temporary-stripe-sandbox-so-you|Start
+  testing payments instantly with Stripe]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-13-rust-v0-58-0-github-262201496-2a895bfb|codex-cli-2025-11-13-rust-v0-58-0-github-262201496-2a895bfb]]'
 source_type: github_releases
 theme: safety-privacy
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-migrate-console-error-to-coreevents-debugger-for-sandbox-logger-chatrecordingser|migrate console.error to coreEvents/debugger for sandbox, logger, chatRecordingService]]
+- Earlier: 2025-11-12 · Manus · [[Changes/Manus/2025-11-12-the-moment-you-enable-payments-manus-spins-up-a-temporary-stripe-sandbox-so-you|Start testing payments instantly with Stripe]]
 - Later: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-2-safety-and-privacy-changes-in-1-10-0|2 Safety and Privacy changes in 1.10.0]]
 <!-- chronolog:end -->
 

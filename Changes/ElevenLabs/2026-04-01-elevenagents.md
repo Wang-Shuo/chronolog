@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d3b4e6a454dcd85ef9b1bf0060cddca898955e3336ba136f52011cec14a00e3e
+machine_hash: 6b905af1ca3a3c7b39d2aedcd65d2cb1035f187999789bfafca6158d8182a3ac
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -76,8 +76,8 @@ record:
   title: ElevenAgents
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-31-4-agent-mode-changes-in-rust-v0-118-0|4 Agent Mode
-  changes in rust-v0.118.0]]'
+- '[[Changes/OpenCode/2026-03-31-core-subagent-tool-calls-stay-clickable-while-they-are-pending|Core
+  Subagent tool calls stay clickable while they are pending]]'
 - '[[Changes/Claude Code/2026-04-01-3-agent-mode-changes-in-v2-1-89|3 Agent Mode changes
   in v2.1.89]]'
 - '[[Changes/Cline/2026-04-01-exclude-new-task-tool-from-system-prompt-in-yolo-headless-mode|Exclude

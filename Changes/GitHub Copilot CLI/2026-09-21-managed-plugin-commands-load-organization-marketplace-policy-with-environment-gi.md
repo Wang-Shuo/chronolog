@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3cdc865f2c35b47b00849f19f8ac1e814bf370b94b4055ca07d130d58f91bf5c
+machine_hash: 3b4a31aeb2d4ab26ebca645bcac51cab93c3d75a654dd5c1f3875373ce99ff5d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: Managed plugin commands load organization marketplace policy with environment…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-improved-claude-apps-gateway-sign-in-rate-limit-errors-login-now-explains-the-re|Improved
-  Claude apps gateway sign-in rate limit errors]]'
 - '[[Changes/Claude Code/2026-09-17-added-the-signed-in-account-to-claude-apps-gateway-sign-in-when-the-gateway-name|Added
   the signed-in account to Claude apps gateway sign-in]]'
 - '[[Changes/Codex CLI/2026-09-17-6-account-and-access-changes-in-rust-v0-155-0|6
   Account and Access changes in rust-v0.155.0]]'
+- '[[Changes/OpenClaw/2026-09-19-28-account-and-access-changes-in-v2026-9-5|28 Account
+  and Access changes in v2026.9.5]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
 source_type: github_releases
 theme: account-access
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-6-account-and-access-changes-in-rust-v0-155-0|6 Account and Access changes in rust-v0.155.0]]
+- Earlier: 2026-09-19 · OpenClaw · [[Changes/OpenClaw/2026-09-19-28-account-and-access-changes-in-v2026-9-5|28 Account and Access changes in v2026.9.5]]
 - Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-6-account-and-access-changes-in-v0-11-4|6 Account and Access changes in v0.11.4]]
 <!-- chronolog:end -->
 

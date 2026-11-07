@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8711f68fe28ce710716fd3a9adf94fdde82ce990a44b796f1b69aaf52ccc2098
+machine_hash: 3b74ef99094016a895f9172279a7271e4653e81c8a9e9bf7bf06c654bfe02e79
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.111
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-9-apps-and-integrations-changes-in-rust-v0-121-0|9
-  Apps and Integrations changes in rust-v0.121.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-15-add-copilot-plugin-marketplace-update-command-to-refresh-plugin-catalogs|Add
-  copilot plugin marketplace update command to refresh plugin catalogs]]'
+- '[[Changes/OpenCode/2026-04-15-export-ai-sdk-telemetry-spans-to-otlp-trace-backends|Export
+  AI SDK telemetry spans to OTLP trace backends]]'
+- '[[Changes/OpenCode/2026-04-15-4-apps-and-integrations-changes-in-v1-4-4|4 Apps
+  and Integrations changes in v1.4.4]]'
 - '[[Changes/Windsurf/2026-04-15-additional-changes|Additional Changes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec864f4c3b487e6d297d49b5a873473fa66e2cb1205f716eb4499b52c5ebe009
+machine_hash: e16f3e8a4f2a030cb627ede50080dbfaebe120d950da903bca8a5e8f02067c1e
 product: open-webui
 product_name: Open WebUI
 record:
@@ -61,8 +61,8 @@ record:
     while Image…"
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-10-10-5-image-generation-changes-in-v0-12-0|5 Image Generation
-  changes in v0.12.0]]'
+- '[[Changes/OpenClaw/2026-10-10-image-generation-with-oauth-can-retry-using-a-supported-openai-chat-model-in-age|Image
+  generation with OAuth can retry using a supported OpenAI chat model…]]'
 - "[[Changes/Open WebUI/2026-10-16-clear-input-selections-shortcut-clearing-the-model-override-selected-tools-and-f|\U0001F9F9
   Clear Input Selections shortcut. Clearing the model override, selected tools…]]"
 - '[[Changes/Codex CLI/2026-10-23-2-image-generation-changes-in-rust-v0-164-0|2 Image

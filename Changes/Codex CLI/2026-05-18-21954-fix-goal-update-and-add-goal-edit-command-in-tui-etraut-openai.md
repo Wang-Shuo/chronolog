@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77eae17a0743839b7bcd49236e23a21e09ae9422cee63aa5f93868e58dd24e42
+machine_hash: a11351a35a0e3ac5909c183c626e8f3aa0f63d4d9ddeaee7f5973fd92d769a39
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,9 +43,10 @@ record:
   title: '#21954 Fix goal update and add `/goal edit` command in TUI @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]'
 - '[[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg
   and ←-detach now preserve --allow-dangerously-skip-permissions…]]'
+- '[[Changes/Gamma/2026-05-15-dark-mode-now-extends-to-the-theme-panel|Dark mode now
+  extends to the theme panel]]'
 - '[[Changes/v0/2026-05-15-reloading-the-preview-iframe-in-safari-shows-the-open-preview-in-new-tab-message|Reloading
   the preview iframe in Safari shows the "Open preview in new tab" message…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'

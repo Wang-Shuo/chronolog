@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 8cf5e780371cd59ce427523ec7bde397a1e5abe4333453b51c4a322bd5a630b5
+machine_hash: 24546c66d73d6537c4264b2f63a06614613f1542df45a4e03279414fadf35392
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     requiring…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-commands-with-slash-prefixed-string-arguments-e-g-body-azp-run-no-longer-trigger|Commands
-  with slash-prefixed string arguments (e.g. --body "/azp run") no longer…]]'
 - '[[Changes/Codex CLI/2026-06-25-2-safety-and-privacy-changes-in-rust-v0-142-2|2
   Safety and Privacy changes in rust-v0.142.2]]'
 - '[[Changes/Dify/2026-06-25-14-safety-and-privacy-changes-in-1-15-0|14 Safety and
   Privacy changes in 1.15.0]]'
+- '[[Changes/Google Antigravity/2026-06-25-3-safety-and-privacy-changes-in-hub-v2-2-1-antigravity-guide-audio|3
+  Safety and Privacy changes in HUB v2.2.1 — Antigravity Guide, audio…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
 source_type: github_releases
 theme: safety-privacy
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-14-safety-and-privacy-changes-in-1-15-0|14 Safety and Privacy changes in 1.15.0]]
+- Earlier: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-3-safety-and-privacy-changes-in-hub-v2-2-1-antigravity-guide-audio|3 Safety and Privacy changes in HUB v2.2.1 — Antigravity Guide, audio…]]
 - Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-security-claude-mcp-list-get-no-longer-spawn-mcp-json-servers-that-a-repo-self-a|Security: claude mcp list/get no longer spawn .mcp.json servers that a repo…]]
 <!-- chronolog:end -->
 

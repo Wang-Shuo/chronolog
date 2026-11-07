@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d3eb01ce68512635c12ebf48cd1eff974d1146ce0556ce82ea32e86a49a6864f
+machine_hash: 1c8e7a8a9e89bffd8285ce91254a8f0e38ab66b727388cd3cf79e08a50c6f3f2
 product: windsurf
 product_name: Windsurf
 record:
@@ -44,10 +44,10 @@ record:
   title: Tab Completion
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-14-add-expected-replacements-to-smart-edit-tool-by-scidomino-in-https-github-com-go|Add
-  expected_replacements to smart-edit tool]]'
-- '[[Changes/Codex CLI/2025-11-19-use-shared-network-gating-helper-in-chat-completion-tests-6461-aibrahim|Use
-  shared network gating helper in chat completion tests (♯6461) — @aibrahim]]'
+- '[[Changes/Midjourney/2025-11-20-the-hide-filter-has-changed-to-trash-now-when-you-trash-a-creation-it-won-t-be-v|The
+  “Hide” filter has changed to “Trash”]]'
+- '[[Changes/Midjourney/2025-11-20-the-mobile-editor-doesn-t-glitch|The mobile editor
+  doesn’t glitch]]'
 - '[[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience
   changes in 2.1]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-21-v1-12-35-8e2bec15|windsurf-2025-11-21-v1-12-35-8e2bec15]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c01857593157833d524548c8e11d85628aa1c7487ca191f2bdba7deb903a1651
+machine_hash: 50991f0272bd901875f03d67018eca7e76dfc43c127d924e2c550082dcf50ff6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,12 @@ record:
   title: Add auto-compaction at 95% token limit and `/compact` command
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-24-context-window-indicator|Context Window Indicator]]'
-- '[[Changes/Windsurf/2025-12-24-multiple-fixes-to-the-model-context-protocol-implementation|Multiple
-  fixes to the Model Context Protocol implementation]]'
 - '[[Changes/Dify/2025-12-25-test-add-unit-tests-for-datasetconfig-component-with-comprehensive-coverage-of-r|test:
   add unit tests for DatasetConfig component with comprehensive coverage…]]'
+- '[[Changes/OpenCode/2025-12-29-desktop-fix-context-usage-alignment-in-desktop-application|Desktop
+  Fix context usage alignment in desktop application]]'
+- '[[Changes/OpenCode/2026-01-01-desktop-add-context-window-configuration-to-app|Desktop
+  Add context window configuration to app]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-02-v0-0-374-github-273878901-f6c465a2|github-copilot-cli-2026-01-02-v0-0-374-github-273878901-f6c465a2]]'
 source_type: github_releases
 theme: context-window
@@ -79,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-test-add-unit-tests-for-datasetconfig-component-with-comprehensive-coverage-of-r|test: add unit tests for DatasetConfig component with comprehensive coverage…]]
-- Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-2-context-window-changes-in-rust-v0-78-0|2 Context Window changes in rust-v0.78.0]]
+- Earlier: 2026-01-01 · OpenCode · [[Changes/OpenCode/2026-01-01-desktop-add-context-window-configuration-to-app|Desktop Add context window configuration to app]]
+- Later: 2026-01-04 · OpenCode · [[Changes/OpenCode/2026-01-04-2-context-window-changes-in-v1-1-1|2 Context Window changes in v1.1.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

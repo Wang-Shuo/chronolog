@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8209615a60de59ae872e2b1bd4b3bc476e4f622940c405299fcca384f976693
+machine_hash: b4cdbb77ef8d01ad4a6176044bbac83b8be465f754e4d5bcd86a3ad9399da1e3
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: Added OAuth 2.0 Device Flow for CLI authentication
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2025-12-21-4-account-and-access-changes-in-v0-6-42|4 Account
-  and Access changes in v0.6.42]]'
 - '[[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access
   changes in 2.3]]'
 - '[[Changes/Dify/2025-12-25-chore-remove-unused-login-call-from-activation-flow-by-hjlarry-in-https-github-c|chore:
   remove unused login call from activation flow]]'
+- '[[Changes/OpenCode/2025-12-29-terminal-make-authentication-urls-clickable-regardless-of-line-wrapping-in-termi|Terminal
+  Make authentication URLs clickable regardless of line wrapping in terminal…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-12-30-1-1-0-github-273438720-22c53f63|openhands-2025-12-30-1-1-0-github-273438720-22c53f63]]'
 source_type: github_releases
 theme: account-access
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-chore-remove-unused-login-call-from-activation-flow-by-hjlarry-in-https-github-c|chore: remove unused login call from activation flow]]
-- Later: 2026-01-06 · Cline · [[Changes/Cline/2026-01-06-added-support-for-azure-based-identity-authentication-in-openai-compatible-provi|Added support for Azure based identity authentication in OpenAI Compatible provider…]]
+- Earlier: 2025-12-29 · OpenCode · [[Changes/OpenCode/2025-12-29-terminal-make-authentication-urls-clickable-regardless-of-line-wrapping-in-termi|Terminal Make authentication URLs clickable regardless of line wrapping in terminal…]]
+- Later: 2026-01-05 · OpenCode · [[Changes/OpenCode/2026-01-05-core-add-configuration-options-and-authentication-precedence-for-bedrock|Core Add configuration options and authentication precedence for Bedrock]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

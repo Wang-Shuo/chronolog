@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 588b2f94f20e6b17d822ef4b0204f9f642ab18b1c7ab402ffe1a0993b024314d
+machine_hash: 261f30356fc05bd9578f348f18aae9176eb6bfe6f8538198d4b0d29f0b3016b3
 product: dify
 product_name: Dify
 record:
@@ -91,9 +91,10 @@ record:
   title: 13 Files and Data changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-08-31-dubbing|Dubbing]]'
-- '[[Changes/Open WebUI/2026-08-31-2-files-and-data-changes-in-v0-11-2|2 Files and
-  Data changes in v0.11.2]]'
+- '[[Changes/OpenClaw/2026-09-08-2-files-and-data-changes-in-v2026-9-3|2 Files and
+  Data changes in v2026.9.3]]'
+- '[[Changes/Google Antigravity/2026-09-09-introducing-new-documents-section-and-several-ux-enhancements-for-organization-a|Introducing
+  new Documents section and several UX enhancements for organization and control]]'
 - '[[Changes/OpenHands/2026-09-09-4-files-and-data-changes-in-v1-17-0|4 Files and
   Data changes in v1.17.0]]'
 source_release: '[[Releases/Dify/dify-2026-09-10-1-17-1-github-386157159-e472b6fe|dify-2026-09-10-1-17-1-github-386157159-e472b6fe]]'

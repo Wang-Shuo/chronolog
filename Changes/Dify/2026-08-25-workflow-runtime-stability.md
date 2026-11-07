@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b52e3bfaed78072fad4c41f17724c94d39e0337bf0713c03b16fa8c14377a10
+machine_hash: 057e4b11478ee7ba30ee260130a698ed2fa9ea10a99d662cb45a866e2fd0e4be
 product: dify
 product_name: Dify
 record:
@@ -40,9 +40,9 @@ record:
   title: '**Workflow & Runtime Stability**'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-21-attach-recent-photos-faster-press-and-hold-the-button-to-open-your-recent-photos|Attach
-  recent photos faster]]'
 - '[[Changes/ElevenLabs/2026-08-24-elevenagents-a7877c|ElevenAgents]]'
+- '[[Changes/Google Antigravity/2026-08-24-improved-git-responsiveness-and-reduced-background-cpu-usage-on-large-repositori|Improved
+  Git responsiveness and reduced background CPU usage on large repositories…]]'
 - '[[Changes/Claude Code/2026-08-25-improved-bash-tool-latency-on-bash-shells-by-replaying-snapshot-functions-withou|Improved
   Bash tool latency on bash shells by replaying snapshot functions without…]]'
 source_release: '[[Releases/Dify/dify-2026-08-25-1-17-0-github-376348099-66c16161|dify-2026-08-25-1-17-0-github-376348099-66c16161]]'

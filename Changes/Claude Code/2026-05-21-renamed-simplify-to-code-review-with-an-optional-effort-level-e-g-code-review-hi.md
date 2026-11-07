@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e5816868960a35277ae8e689c5bab6e06bc67b116d6cbe580b6546afd81d090
+machine_hash: c76693a720777f96ceee5666fab3d5bfe666773aab98573708600aceec5f28a9
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Renamed `/simplify` to `/code-review` with an optional effort level…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-2-developer-workflow-changes-in-v1-0-49|2
-  Developer Workflow changes in v1.0.49]]'
 - '[[Changes/Codex CLI/2026-05-20-3-developer-workflow-changes-in-rust-v0-132-0|3
   Developer Workflow changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-4-developer-workflow-changes-in-v1-0-51|4
   Developer Workflow changes in v1.0.51]]'
+- '[[Changes/OpenCode/2026-05-20-3-developer-workflow-changes-in-v1-15-6|3 Developer
+  Workflow changes in v1.15.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-146-github-326230049-ea612648|claude-code-2026-05-21-v2-1-146-github-326230049-ea612648]]'
 source_type: github_releases
 theme: developer-workflow
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-4-developer-workflow-changes-in-v1-0-51|4 Developer Workflow changes in v1.0.51]]
+- Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-3-developer-workflow-changes-in-v1-15-6|3 Developer Workflow changes in v1.15.6]]
 - Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo|Renamed /simplify to /code-review]]
 <!-- chronolog:end -->
 

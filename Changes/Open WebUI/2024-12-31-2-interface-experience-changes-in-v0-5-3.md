@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9690b082a78e983a1a3a8a44ee3c3c45e38f12082f3a77c40bac0deca2e11a40
+machine_hash: 526849a64cce4acbf7fe7659d8955ebce1fea737fca009bea987d2150ffd3986
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,7 @@ record:
   title: 2 Interface Experience changes in v0.5.3
   type: change
 related_changes:
-- '[[Changes/Dify/2024-12-09-4-interface-experience-changes-in-0-13-2|4 Interface
-  Experience changes in 0.13.2]]'
+- '[[Changes/Midjourney/2024-12-11-action-bar|Action Bar]]'
 - "[[Changes/Open WebUI/2024-12-25-quick-screen-capture-button-effortlessly-capture-your-screen-with-a-single-click|\U0001F4F8
   Quick Screen Capture Button]]"
 - '[[Changes/Aider/2024-12-26-https-aider-chat-history-html|(source link)]]'

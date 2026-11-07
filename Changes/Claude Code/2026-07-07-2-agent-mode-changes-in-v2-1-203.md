@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80ed1ac9dfa6e8aeb59530d2243cfd3ef6cdef22897638753aa14a2ff61d049b
+machine_hash: 34d732df5966614bb40f90ebb28de0fb9a6349742a15b8d722061b8572fcdfe6
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,11 @@ record:
   title: 2 Agent Mode changes in v2.1.203
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-07-06-elevenagents-c38b88|ElevenAgents]]'
 - '[[Changes/ElevenLabs/2026-07-06-elevenagents-f45a54|ElevenAgents]]'
 - '[[Changes/OpenHands/2026-07-06-9-agent-mode-changes-in-1-9-0|9 Agent Mode changes
   in 1.9.0]]'
+- '[[Changes/Runway/2026-07-06-agent-can-now-read-pdfs-you-upload-pulling-their-content-directly-into-generatio|PDF
+  Input for Agent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: agent-mode
@@ -86,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.203
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-9-agent-mode-changes-in-1-9-0|9 Agent Mode changes in 1.9.0]]
+- Earlier: 2026-07-06 · Runway · [[Changes/Runway/2026-07-06-agent-can-now-read-pdfs-you-upload-pulling-their-content-directly-into-generatio|PDF Input for Agent]]
 - Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-double-press-esc-now-interrupts-the-running-main-turn-flushing-queued-messages-o|Double-press Esc now interrupts the running main turn (flushing queued messages)…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a47c9da6b20a3cb8b58905756a2cde024980738fc09436c24f2985cccd75407
+machine_hash: 6372cc15a31f711cf88c812ed0dd40233f323055a8bf09abe64043fb19f7e43d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     cost…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context
-  Window changes in v2.1.260]]'
 - '[[Changes/Codex CLI/2026-09-03-6-context-window-changes-in-rust-v0-153-0|6 Context
   Window changes in rust-v0.153.0]]'
+- '[[Changes/OpenClaw/2026-09-03-11-context-window-changes-in-v2026-9-1|11 Context
+  Window changes in v2026.9.1]]'
 - '[[Changes/Claude Code/2026-09-04-changed-context-token-counting-to-use-a-local-estimate-when-the-token-counting-a|Changed
   /context token counting to use a local estimate when the token-counting…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-6-context-window-changes-in-rust-v0-153-0|6 Context Window changes in rust-v0.153.0]]
-- Later: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved prompt-cache stability]]
+- Earlier: 2026-09-03 · OpenClaw · [[Changes/OpenClaw/2026-09-03-11-context-window-changes-in-v2026-9-1|11 Context Window changes in v2026.9.1]]
+- Later: 2026-09-05 · OpenClaw · [[Changes/OpenClaw/2026-09-05-15-context-window-changes-in-v2026-9-2|15 Context Window changes in v2026.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

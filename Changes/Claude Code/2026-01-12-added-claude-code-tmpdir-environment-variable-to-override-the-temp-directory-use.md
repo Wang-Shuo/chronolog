@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c350308a5460a131210ac609df7c1419d98afaedb7ddb55665fa3384c6fac2ae
+machine_hash: fce586238c87a64e1604ab15b6ec5215fd71f05f422257de59d097cccdcad94d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     used…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer
-  Workflow changes in v2.1.2]]'
-- '[[Changes/Codex CLI/2026-01-09-4-developer-workflow-changes-in-rust-v0-80-0|4 Developer
-  Workflow changes in rust-v0.80.0]]'
-- '[[Changes/Open WebUI/2026-01-09-24-developer-workflow-changes-in-v0-7-0|24 Developer
-  Workflow changes in v0.7.0]]'
+- '[[Changes/OpenCode/2026-01-09-2-developer-workflow-changes-in-v1-1-10|2 Developer
+  Workflow changes in v1.1.10]]'
+- '[[Changes/OpenCode/2026-01-09-terminal-stop-escape-key-propagation-from-dialogs|Terminal
+  Stop escape key propagation from dialogs]]'
+- '[[Changes/OpenCode/2026-01-11-3-developer-workflow-changes-in-v1-1-13|3 Developer
+  Workflow changes in v1.1.13]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-12-v2-1-5-github-276118083-94c73a96|claude-code-2026-01-12-v2-1-5-github-276118083-94c73a96]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-24-developer-workflow-changes-in-v0-7-0|24 Developer Workflow changes in v0.7.0]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer Workflow changes in v2.1.6]]
+- Earlier: 2026-01-11 · OpenCode · [[Changes/OpenCode/2026-01-11-3-developer-workflow-changes-in-v1-1-13|3 Developer Workflow changes in v1.1.13]]
+- Later: 2026-01-12 · OpenCode · [[Changes/OpenCode/2026-01-12-6-developer-workflow-changes-in-v1-1-15|6 Developer Workflow changes in v1.1.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05ea8fca24ba38492dd7f9b91fddf0802af6116851562fd244c06c7c86084130
+machine_hash: 88d076596f914ae951f1689176dcbb1f89efc9ef7ec8f503fa7e420c22aeea58
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Collaboration wait calls can block on multiple IDs in one request, simplifying…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-07-add-share-and-share-gist-flags-for-session-sharing-in-non-interactive-mode|Add
-  --share and --share-gist flags for session sharing in non-interactive mode]]'
 - '[[Changes/Codex CLI/2026-01-15-2-collaboration-changes-in-rust-v0-85-0|2 Collaboration
   changes in rust-v0.85.0]]'
+- '[[Changes/Granola/2026-01-15-granola-now-works-seamlessly-for-the-tens-of-millions-of-people-who-work-on-team|Sign
+  in with Microsoft is here]]'
 - '[[Changes/Claude/2026-01-16-claude-code-access-added-to-team-plan-standard-seats|Claude
   Code access added to Team plan Standard seats]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-16-rust-v0-87-0-github-277440557-08f55bf8|codex-cli-2026-01-16-rust-v0-87-0-github-277440557-08f55bf8]]'

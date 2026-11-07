@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e94f6d5d4cfa26dfcd070042f027df4ed05a580d95f55c11e3d439c3adaa55be
+machine_hash: 6c02d78c6c0c635c777d4f61b3e432072ea9535a53698ca32c8b68d350738524
 product: ollama
 product_name: Ollama
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/ollama/ollama/releases/tag/v0.40.7
 ## Nearby in Model Support
 
 - Earlier: 2026-10-17 · DeepSeek API · [[Changes/DeepSeek API/2026-10-17-deepseek-v4-1-flash-1017-update|DeepSeek-V4.1-Flash-1017 Update]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support changes in v2.1.304]]
+- Later: 2026-10-18 · OpenClaw · [[Changes/OpenClaw/2026-10-18-4-model-support-changes-in-v2026-10-5|4 Model Support changes in v2026.10.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

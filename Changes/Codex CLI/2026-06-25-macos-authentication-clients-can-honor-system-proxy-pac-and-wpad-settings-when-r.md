@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99bf282fd76c13d705ff36b88acabe3d44fa6ae17ceeeaaa437bd073d4c61488
+machine_hash: 41c885498d0cd6fbe325cc3ba3d6f7d3fe0fa23264505a0071f61b50e021fc80
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: macOS authentication clients can honor system proxy, PAC, and WPAD settings…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved
-  MCP OAuth]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-silent-mcp-oauth-refresh-reuses-the-granted-scope-so-reconnects-stay-signed-in|Silent
   MCP OAuth refresh reuses the granted scope so reconnects stay signed in]]'
+- '[[Changes/OpenCode/2026-06-24-core-bound-mcp-oauth-callbacks-to-ipv4-loopback-for-better-local-auth-reliabilit|Core
+  Bound MCP OAuth callbacks to IPv4 loopback for better local auth reliability]]'
 - '[[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added
   a startup notice when MCP servers need authentication, pointing at /mcp]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c|codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c]]'

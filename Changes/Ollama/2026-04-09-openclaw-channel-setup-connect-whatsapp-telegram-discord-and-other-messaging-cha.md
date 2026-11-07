@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e444c3d4fc24b17d586c8b9809241aafd1ae3433517cca058e209c196877ef90
+machine_hash: 7d37c514aba4b4be0f1ad2788f676d32cccc1e70397b886a4ab199efa06ca25e
 product: ollama
 product_name: Ollama
 record:
@@ -42,10 +42,10 @@ record:
   title: OpenClaw channel setup
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-feat-core-implement-strict-macos-sandboxing-using-seatbelt-allowlist-by-ehedlund|feat(core):
-  implement strict macOS sandboxing using Seatbelt allowlist]]'
-- '[[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT
-  in Apple CarPlay]]'
+- '[[Changes/OpenCode/2026-04-04-4-mobile-and-desktop-changes-in-v1-3-15-1|4 Mobile
+  and Desktop changes in v1.3.15 + 1]]'
+- '[[Changes/OpenCode/2026-04-08-3-mobile-and-desktop-changes-in-v1-4-0|3 Mobile and
+  Desktop changes in v1.4.0]]'
 - '[[Changes/Claude/2026-04-09-claude-cowork-generally-available|Claude Cowork generally
   available]]'
 source_release: '[[Releases/Ollama/ollama-2026-04-09-v0-20-5-github-306863910-1b79f432|ollama-2026-04-09-v0-20-5-github-306863910-1b79f432]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-09 · Claude · [[Changes/Claude/2026-04-09-claude-cowork-generally-available|Claude Cowork generally available]]
-- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-6-mobile-and-desktop-changes-in-rust-v0-119-0|6 Mobile and Desktop changes in rust-v0.119.0]]
+- Later: 2026-04-09 · OpenCode · [[Changes/OpenCode/2026-04-09-2-mobile-and-desktop-changes-in-v1-4-2-1|2 Mobile and Desktop changes in v1.4.2 + 1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

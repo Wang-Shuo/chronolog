@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d42edbc38c0cba0ce97e003e97322de634e6ab0931eda6644c2492f10da8706
+machine_hash: 25749577ced2c6d34238b2395729fa296d2e78fe04a631160f87d6e94747de39
 product: aider
 product_name: Aider
 record:
@@ -50,8 +50,8 @@ record:
   title: 5 Model Support changes in v0.86.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-07-2-model-support-changes-in-rust-v0-15-0|2 Model
-  Support changes in rust-v0.15.0]]'
+- '[[Changes/Midjourney/2025-08-07-heya-everyone-we-re-releasing-a-hd-mode-for-our-video-model-today|Heya
+  everyone, we''re releasing a HD mode for our video model today!]]'
 - '[[Changes/Ollama/2025-08-07-openai-always-provide-reasoning-by-drifkin-in-https-github-com-ollama-ollama-pul|openai:
   always provide reasoning]]'
 - '[[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]'

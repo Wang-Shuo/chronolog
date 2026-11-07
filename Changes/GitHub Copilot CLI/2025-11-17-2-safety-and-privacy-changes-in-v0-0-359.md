@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b723c1111d5d792f33056730be0a6fa0f6a1a425ce664d3802dcfcd3aebc151b
+machine_hash: 3030b63f97689a1cbe569396ec9fd73cb63cb2af5e898512390946054a5ca5b1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Safety and Privacy changes in v0.0.359
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-07-migrate-console-error-to-coreevents-debugger-for-sandbox-logger-chatrecordingser|migrate
-  console.error to coreEvents/debugger for sandbox, logger, chatRecordingService]]'
+- '[[Changes/Manus/2025-11-12-the-moment-you-enable-payments-manus-spins-up-a-temporary-stripe-sandbox-so-you|Start
+  testing payments instantly with Stripe]]'
 - '[[Changes/Codex CLI/2025-11-13-6480-use-codex-linux-sandbox-in-unified-exec-6c36318bd|♯6480
   — Use codex-linux-sandbox in unified exec (6c36318bd)]]'
 - '[[Changes/Dify/2025-11-13-2-safety-and-privacy-changes-in-1-10-0|2 Safety and Privacy

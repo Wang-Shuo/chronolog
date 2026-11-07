@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 307dbf3a48066286f4a1bb7c5a5dcafb136a0104079c01fee906ca501ea68b1c
+machine_hash: 70f639330951f9c361348b1e7496c9021ab5064808355ffbc208cca1aaabfcd9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Interface Experience changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-7-interface-experience-changes-in-v1-0-55|7
-  Interface Experience changes in v1.0.55]]'
+- '[[Changes/OpenCode/2026-05-28-terminal-kept-session-navigation-working-while-prompt-modes-are-open|Terminal
+  Kept session navigation working while prompt modes are open]]'
 - '[[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude
   agents: slash-command autocomplete in the dispatch input now matches substrings]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-reasoning-effort-picker-respects-model-capabilities-options-not-supported-by-the|Reasoning

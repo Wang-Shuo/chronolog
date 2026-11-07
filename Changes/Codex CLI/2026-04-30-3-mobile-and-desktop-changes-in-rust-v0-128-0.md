@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0adc3bcc86dbb8c48fe12bff44cb344a4c322cae0db68d34d5d32705a1ccff1c
+machine_hash: 499b5baa455ff9f41960c7ae529b4741f07fa81d3a3466a40d6e6d34f767d764
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Mobile and Desktop changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/Replit/2026-04-24-add-a-mobile-app-to-older-projects|Add a mobile app
-  to older projects]]'
 - '[[Changes/Replit/2026-04-24-preview-on-an-ios-simulator-or-android-emulator|Preview
   on an iOS Simulator or Android Emulator]]'
+- '[[Changes/OpenCode/2026-04-28-desktop-per-workspace-icon-overrides-now-stay-applied-for-subdirectories-in-the|Desktop
+  Per-workspace icon overrides now stay applied for subdirectories in the same repo]]'
 - '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
   agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'

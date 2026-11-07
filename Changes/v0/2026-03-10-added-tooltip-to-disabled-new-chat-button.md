@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bab47b5c8bf68f72e32e3c7303152f37a671d95d5375c74c4295b0e6b50a1cfd
+machine_hash: 9083fa3d5991f73728f7913ec2da06fbff7703b5cddad459fc49cf0a7c94b6c2
 product: v0
 product_name: v0
 record:
@@ -45,8 +45,8 @@ record:
   title: Added tooltip to disabled New Chat button
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-09-show-loading-spinner-in-diff-mode-while-fetching-changes|Show
-  loading spinner in diff mode while fetching changes]]'
+- '[[Changes/OpenCode/2026-03-09-desktop-fix-sidebar-workspace-container-sizing-to-prevent-content-overflow|Desktop
+  Fix sidebar workspace container sizing to prevent content overflow]]'
 - '[[Changes/Claude Code/2026-03-10-added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing|Added
   w key in /copy to write the focused selection directly to a file…]]'
 - '[[Changes/Codex CLI/2026-03-10-4-interface-experience-changes-in-rust-v0-113-0|4

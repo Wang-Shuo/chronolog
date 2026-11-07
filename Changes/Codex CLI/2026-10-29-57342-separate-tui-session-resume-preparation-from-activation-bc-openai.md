@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35bfdd5b64cfa89d568950cdaafe978e332c23cfff8d9711524703ebfb9ec013
+machine_hash: d5652e5f7a56c56a0bfa4c9472d0238f172ff20243bc6ada7404e0c17325bf08
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#57342 Separate TUI session resume preparation from activation @bc-openai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-22-session-resume-preserves-pending-conversation-events-when-saving-fails-and-expla|Session
-  resume preserves pending conversation events when saving fails and explains…]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-30-withdrawn-running-prompts-stay-removed-after-session-resume|Withdrawn
-  running prompts stay removed after session resume]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-05-remote-session-resume-now-uses-your-configured-github-auth-for-resume-and-connec|Remote
-  session resume now uses your configured GitHub auth for --resume and --connect]]'
+- '[[Changes/OpenClaw/2026-10-12-older-session-history-doctor-can-continue-repairing-leftover-session-files-while|Older
+  session history]]'
+- '[[Changes/OpenClaw/2026-10-13-claude-cli-session-tools-later-turns-keep-their-authorized-session-history-and-a|Claude
+  CLI session tools]]'
+- '[[Changes/OpenCode/2026-10-27-3-projects-and-workspaces-changes-in-v2-2-0|3 Projects
+  and Workspaces changes in v2.2.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-remote-session-resume-now-uses-your-configured-github-auth-for-resume-and-connec|Remote session resume now uses your configured GitHub auth for --resume and --connect]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-3-projects-and-workspaces-changes-in-v2-2-0|3 Projects and Workspaces changes in v2.2.0]]
 - Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-4-projects-and-workspaces-changes-in-v1-0-106|4 Projects and Workspaces changes in v1.0.106]]
 <!-- chronolog:end -->
 

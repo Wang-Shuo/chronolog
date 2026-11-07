@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a5f3ce40964aba0cd331dade7c2faafbaf4a88d7b3eaca84bf162b415fb86ca2
+machine_hash: d02f33d363c0af2f34d7d91b2c22c74dcb9f4afe9a73b02ef33474e377a7575e
 product: dify
 product_name: Dify
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Developer Workflow changes in 1.17.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-7-developer-workflow-changes-in-rust-v0-154-0|7
-  Developer Workflow changes in rust-v0.154.0]]'
+- '[[Changes/Google Antigravity/2026-09-09-2-developer-workflow-changes-in-hub-v2-13-0-introducing-new-documents|2
+  Developer Workflow changes in HUB v2.13.0 — Introducing new Documents…]]'
 - '[[Changes/OpenHands/2026-09-09-2-developer-workflow-changes-in-v1-17-0|2 Developer
   Workflow changes in v1.17.0]]'
 - '[[Changes/Claude Code/2026-09-10-code-review-added-a-note-under-the-still-open-findings-list-in-follow-up-reviews|Code

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47f058d07aa18146860ae277ca2891acdb640a0865a163710501e6381fc72c88
+machine_hash: bfc97ecced6f9af4e54893d2aa553882a61b747af5c592659f6d3afb7913a305
 product: open-webui
 product_name: Open WebUI
 record:
@@ -47,8 +47,7 @@ record:
   title: 2 Memory and Personalization changes in v0.6.11
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|Memory
-  with Search]]'
+- '[[Changes/Midjourney/2025-05-01-more-about-omni-reference|More about Omni-Reference]]'
 - '[[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|Saved
   memories and Chat history are offered only to Plus and Pro…]]'
 - '[[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|Enhanced

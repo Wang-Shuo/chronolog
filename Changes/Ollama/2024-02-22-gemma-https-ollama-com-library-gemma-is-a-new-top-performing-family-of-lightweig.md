@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 83f7afb636c46109928e0ddee88226ed046f1377617e579a88b2e8661514b717
+machine_hash: 37048a3aab100913882484b5ba1d641a444a9e2e829ae0f4d74870d2de047393
 product: ollama
 product_name: Ollama
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-02-21 · Ollama · [[Changes/Ollama/2024-02-21-support-for-bert-and-nomic-bert-embedding-models|Support for bert and nomic-bert embedding models]]
-- Later: 2024-02-28 · Dify · [[Changes/Dify/2024-02-28-3-model-support-changes-in-0-5-7|3 Model Support changes in 0.5.7]]
+- Later: 2024-02-22 · Suno · [[Changes/Suno/2024-02-22-v3-is-coming-soon-and-we-believe-it-has-the-potential-to-redefine-the-state-of-t|V3 is coming soon, and we believe it has the potential to redefine…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

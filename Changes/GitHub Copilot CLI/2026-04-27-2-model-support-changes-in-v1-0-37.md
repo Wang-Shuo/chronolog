@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cdfa37da3d794f8dbfb14071a733eb5ad3461393637ad9dd5d77754b1f85adc3
+machine_hash: 6d18b0eb2fc8684b439f50494dd3601044007a85c04c6baf87c8dfeac65c1f05
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v1.0.37
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-04-24-knowledge-and-content-app-connectors-fireflies-gemini-enterprise-wordpress|Knowledge
-  and content app connectors: Fireflies, Gemini Enterprise, WordPress]]'
-- '[[Changes/Open WebUI/2026-04-24-4-model-support-changes-in-v0-9-2|4 Model Support
-  changes in v0.9.2]]'
 - '[[Changes/Replit/2026-04-24-security-agent-reviews-your-whole-codebase|Security
   Agent reviews your whole codebase]]'
+- '[[Changes/OpenCode/2026-04-25-core-gpt-5-5-with-openai-oauth-now-uses-the-correct-context-limits-to-avoid-comp|Core
+  GPT-5.5 with OpenAI OAuth now uses the correct context limits to avoid…]]'
+- '[[Changes/OpenCode/2026-04-26-core-fixed-openrouter-deepseek-reasoning-output-handling|Core
+  Fixed OpenRouter DeepSeek reasoning output handling]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c|github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c]]'
 source_type: github_releases
 theme: model-support
@@ -86,8 +86,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.37
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-24 · Replit · [[Changes/Replit/2026-04-24-security-agent-reviews-your-whole-codebase|Security Agent reviews your whole codebase]]
-- Later: 2026-04-28 · ChatGPT · [[Changes/ChatGPT/2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model|Easier model selection in ChatGPT]]
+- Earlier: 2026-04-26 · OpenCode · [[Changes/OpenCode/2026-04-26-core-fixed-openrouter-deepseek-reasoning-output-handling|Core Fixed OpenRouter DeepSeek reasoning output handling]]
+- Later: 2026-04-27 · Midjourney · [[Changes/Midjourney/2026-04-27-we-re-preparing-some-major-aesthetic-updates-for-v8-1-8-2-and-we-want-your-help|We're preparing some major aesthetic updates for v8.1/8.2 and we want your help…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc78784fb34eef1a707c42bb74261f5672aae8fcc67cdf8e0ad2140a8f3858a8
+machine_hash: 1321b0d2d114056bb9cff43745002905b840cf83b2a56c44b3014b4c17d60107
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-3-developer-workflow-changes-in-v2-1-285|3 Developer
-  Workflow changes in v2.1.285]]'
-- '[[Changes/Codex CLI/2026-09-29-5-developer-workflow-changes-in-rust-v0-159-0|5
-  Developer Workflow changes in rust-v0.159.0]]'
 - '[[Changes/Claude Code/2026-09-30-3-developer-workflow-changes-in-v2-1-286|3 Developer
   Workflow changes in v2.1.286]]'
+- '[[Changes/Google Antigravity/2026-09-30-pressing-cmd-a-or-ctrl-a-now-selects-only-the-content-pane-or-terminal-you-are-f|Pressing
+  Cmd+A or Ctrl+A now selects only the content pane or terminal you…]]'
+- '[[Changes/OpenClaw/2026-09-30-13-developer-workflow-changes-in-v2026-9-7|13 Developer
+  Workflow changes in v2026.9.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: developer-workflow
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-3-developer-workflow-changes-in-v2-1-286|3 Developer Workflow changes in v2.1.286]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-13-developer-workflow-changes-in-v2026-9-7|13 Developer Workflow changes in v2026.9.7]]
 - Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-2-developer-workflow-changes-in-rust-v0-160-0|2 Developer Workflow changes in rust-v0.160.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 635155261120fc437dce7718e185112ef5d89f7f956284a576928bda1eb4ee7d
+machine_hash: 8987296548442e8ffcf9188d4a4ed77b33f4f3d2696ac690c7bec4c3703fc005
 product: cursor
 product_name: Cursor
 record:
@@ -52,10 +52,10 @@ record:
   title: Run npm install @cursor/sdk to get started
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-2-apps-and-integrations-changes-in-v0-40-0|2 Apps
-  and Integrations changes in v0.40.0]]'
 - '[[Changes/Ollama/2026-04-28-aligned-the-desktop-app-s-launch-page-with-ollama-launch-integrations|Aligned
   the desktop app''s launch page with ollama launch integrations]]'
+- '[[Changes/OpenCode/2026-04-28-desktop-sync-state-loading-is-more-reliable-for-mcp-lsp-and-workspace-refreshes|Desktop
+  Sync state loading is more reliable for MCP, LSP, and workspace refreshes]]'
 - '[[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|Cursor
   introduces the Cursor SDK so you can build agents with the same runtime…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-28 · Ollama · [[Changes/Ollama/2026-04-28-aligned-the-desktop-app-s-launch-page-with-ollama-launch-integrations|Aligned the desktop app's launch page with ollama launch integrations]]
+- Earlier: 2026-04-28 · OpenCode · [[Changes/OpenCode/2026-04-28-desktop-sync-state-loading-is-more-reliable-for-mcp-lsp-and-workspace-refreshes|Desktop Sync state loading is more reliable for MCP, LSP, and workspace refreshes]]
 - Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and Integrations changes in 1.14.0]]
 <!-- chronolog:end -->
 

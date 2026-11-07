@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8bd00329849ad09b3d1d4d77bf4bd0bb44d25dd0db1965af5138d027c321f11f
+machine_hash: 4416ed01bf9e66f84d4b2d541b7868ad3eead4ad05d15363257b799b71b0e335
 product: replit
 product_name: Replit
 record:
@@ -46,12 +46,12 @@ record:
   title: Use managed PostgreSQL in Databricks Apps
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added
-  /output-style name to list and switch output styles, including over Remote…]]'
-- '[[Changes/Lovable/2026-09-11-get-a-warning-when-another-lovable-project-already-uses-your-supabase-project|Get
-  a warning when another Lovable project already uses your Supabase project]]'
 - '[[Changes/Lovable/2026-09-11-connect-other-mcp-clients-to-the-lovable-mcp-server|Connect
   other MCP clients to the Lovable MCP server]]'
+- '[[Changes/OpenClaw/2026-09-11-22-apps-and-integrations-changes-in-v2026-9-4|22
+  Apps and Integrations changes in v2026.9.4]]'
+- '[[Changes/OpenClaw/2026-09-11-you-can-now-search-installed-and-available-plugins-together-browse-by-purpose-an|Search
+  installed and available plugins together, browse by purpose, and keep…]]'
 source_release: '[[Releases/Replit/replit-2026-09-11-2026-09-11-fe1ab3d8|replit-2026-09-11-2026-09-11-fe1ab3d8]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-connect-other-mcp-clients-to-the-lovable-mcp-server|Connect other MCP clients to the Lovable MCP server]]
+- Earlier: 2026-09-11 · OpenClaw · [[Changes/OpenClaw/2026-09-11-you-can-now-search-installed-and-available-plugins-together-browse-by-purpose-an|Search installed and available plugins together, browse by purpose, and keep…]]
 - Later: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For new Health plugin connections, ChatGPT will now default to each user’s global…]]
 <!-- chronolog:end -->
 

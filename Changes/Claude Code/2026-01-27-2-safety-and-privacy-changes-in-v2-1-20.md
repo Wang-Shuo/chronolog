@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88dd03e9a6006212e3d680d34aa108d10f68cf622738a69eafe975cf893b79a3
+machine_hash: 6c477304042bf6127dc7f26c246fc6cd3d2ae1da1458b242d0950cacf9dbaa4f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Safety and Privacy changes in v2.1.20
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-unified-cli-permissions-with-the-editor-including-run-everything-auto-run-in-san|Unified
-  CLI permissions with the editor, including Run Everything, Auto-Run…]]'
 - '[[Changes/Codex CLI/2026-01-25-4-safety-and-privacy-changes-in-rust-v0-90-0|4 Safety
   and Privacy changes in rust-v0.90.0]]'
+- '[[Changes/OpenCode/2026-01-25-2-safety-and-privacy-changes-in-v1-1-35|2 Safety
+  and Privacy changes in v1.1.35]]'
 - '[[Changes/ElevenLabs/2026-01-26-workspaces|Workspaces]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 65d35a0941a5af81cf1208d8f5e1f18e59c0b6e8b2bcfee0c816f012161cccee
+machine_hash: b2e83cea3f49472fba01a69e5c760b754494459750789e5b563bd06508fa20e6
 product: replit
 product_name: Replit
 record:
@@ -39,12 +39,12 @@ record:
   title: Integrations
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-07-23-improved-integrations-restored-claude-code-channels-fixed-anthropic-thinking-str|Improved
-  integrations: restored Claude Code Channels, fixed Anthropic thinking…]]'
 - '[[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5
   Apps and Integrations changes in v2.1.219]]'
 - '[[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include
   the host plugin version in telemetry events]]'
+- '[[Changes/OpenCode/2026-07-24-core-use-the-correct-prompt-cache-keys-for-each-sdk|Core
+  Use the correct prompt cache keys for each SDK]]'
 source_release: '[[Releases/Replit/replit-2026-07-24-2026-07-24-b0f18b89|replit-2026-07-24-2026-07-24-b0f18b89]]'
 source_type: replit_changelog
 theme: apps-integrations
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-24 · Cline · [[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include the host plugin version in telemetry events]]
+- Earlier: 2026-07-24 · OpenCode · [[Changes/OpenCode/2026-07-24-core-use-the-correct-prompt-cache-keys-for-each-sdk|Core Use the correct prompt cache keys for each SDK]]
 - Later: 2026-07-27 · ElevenLabs · [[Changes/ElevenLabs/2026-07-27-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 

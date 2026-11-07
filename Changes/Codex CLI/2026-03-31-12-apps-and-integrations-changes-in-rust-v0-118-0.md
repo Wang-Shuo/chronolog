@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 616dc1dc588d235c80a7653e3df4bdff1c350dbc14c8fc21e0c37ee70ff7295f
+machine_hash: dbac6e78d9a6c51f39ee9a8ccd302615f851f24eb9c1fe0188269dd15e406540
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -65,10 +65,10 @@ record:
   title: 12 Apps and Integrations changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/Dify/2026-03-27-6-apps-and-integrations-changes-in-1-13-3|6 Apps and
-  Integrations changes in 1.13.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-5-apps-and-integrations-changes-in-v1-0-13|5
   Apps and Integrations changes in v1.0.13]]'
+- '[[Changes/OpenCode/2026-03-30-2-apps-and-integrations-changes-in-v1-3-9-1|2 Apps
+  and Integrations changes in v1.3.9 + 1]]'
 - '[[Changes/OpenHands/2026-03-30-added-support-for-hooks-by-xingyaoww-in-https-github-com-openhands-openhands-pul|Added
   support for hooks]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'

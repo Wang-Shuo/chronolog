@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5271ef149c9ceba2774f13ec3b6943ba9c1119633e0e9ae9660546b99ee5fa8e
+machine_hash: 7873433b5b7b53abf482388ec9ddcc5bc86caeb76ae3daf80c7214b106c6a316
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Developer Workflow changes in v2.1.251
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-15-developer-workflow-changes-in-rust-v0-150-0|15
-  Developer Workflow changes in rust-v0.150.0]]'
+- '[[Changes/Google Antigravity/2026-08-26-disabled-the-git-push-action-in-repositories-without-a-configured-remote-and-add|Disabled
+  the Git Push action in repositories without a configured remote, and added…]]'
 - '[[Changes/Claude Code/2026-08-27-changed-anthropic-telemetry-export-failures-to-log-at-debug-level-as-anthropic-t|Changed
   Anthropic telemetry export failures to log at debug level…]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-5-developer-workflow-changes-in-v1-0-81|5

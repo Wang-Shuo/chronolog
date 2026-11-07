@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 22e723215f99ec3d0d3277474254757007a1aae32878c17062d7259568f078e1
+machine_hash: ca8f0272a6bd6cf6c43b0788a5ce7b418fe3f48f0b6acc7e58486d3bb6f6bdca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,11 @@ record:
   title: API credits for eligible ChatGPT Pro and Business plans
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete
-  usage reporting no longer shows partial status or phantom unattributed…]]'
-- '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
-  payments in Vietnam]]'
 - '[[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2
   Pricing Model changes in ElevenLabs updates — 2026-10-26]]'
+- '[[Changes/Gamma/2026-10-26-clearer-credit-balances|Clearer credit balances]]'
+- '[[Changes/OpenCode/2026-10-27-core-preserve-literal-0-and-arguments-text-in-custom-command-input|Core
+  Preserve literal $0 and $ARGUMENTS text in custom command input]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64|chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2 Pricing Model changes in ElevenLabs updates — 2026-10-26]]
+- Earlier: 2026-10-27 · OpenCode · [[Changes/OpenCode/2026-10-27-core-preserve-literal-0-and-arguments-text-in-custom-command-input|Core Preserve literal $0 and $ARGUMENTS text in custom command input]]
 - Later: 2026-10-28 · Lovable · [[Changes/Lovable/2026-10-28-get-an-email-before-your-credits-run-out|Get an email before your credits run out]]
 <!-- chronolog:end -->
 

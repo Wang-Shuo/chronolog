@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: aaf6c1ed55940e1316e2c8f1604cbcc5e99f320ad96f24c06eeab7ebfa9827a9
+machine_hash: f2569da4df14adf5eba511b69773f7cd040f9ebe55fd4a7917db798fcb272d91
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-branded-app-urls|Branded app URLs]]
-- Later: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-teams-and-enterprise|Teams and Enterprise]]
+- Later: 2026-05-29 · Gamma · [[Changes/Gamma/2026-05-29-api-delete-is-here|API delete is here]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b24e38ba79d381629efb266a8f4a31d61808fb06ec71b84b522ef2f9b9c5ac2
+machine_hash: b417aeefb9b71176705284f29fe840b4e0a9feed3f3270544df28f91fae664ce
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Interface Experience changes in rust-v0.159.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-6-interface-experience-changes-in-rust-v0-158-0|6
-  Interface Experience changes in rust-v0.158.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-28-4-interface-experience-changes-in-v1-0-89|4
-  Interface Experience changes in v1.0.89]]'
+- '[[Changes/Google Antigravity/2026-09-28-you-can-now-delete-any-project-directly-from-the-overflow-menu-in-its-sidebar-he|Delete
+  any project directly from the overflow menu in its sidebar header]]'
+- '[[Changes/Google Antigravity/2026-09-28-3-interface-experience-changes-in-hub-v2-18-1-manage-install-plugins|3
+  Interface Experience changes in HUB v2.18.1 — Manage & Install plugins…]]'
 - '[[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved
   responsiveness when leaving the ctrl+o transcript view in long sessions…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516|codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516]]'

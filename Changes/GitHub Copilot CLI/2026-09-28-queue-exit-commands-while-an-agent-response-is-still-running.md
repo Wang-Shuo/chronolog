@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 93e1c9c2814a1ea1dd7d5dbff160a05f39c7757a933939d1e3ded6b189e7c636
+machine_hash: 66772f37c2ddac5264231601455c0b49bb436e7c9e941e1f0329ea1810557d41
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-elevenagents|ElevenAgents]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5|ChatGPT introduces dots]]
+- Later: 2026-09-28 · Google Antigravity · [[Changes/Google Antigravity/2026-09-28-2-agent-mode-changes-in-hub-v2-18-1-manage-install-plugins|2 Agent Mode changes in HUB v2.18.1 — Manage & Install plugins…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

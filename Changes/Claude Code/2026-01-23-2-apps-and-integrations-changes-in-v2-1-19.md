@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2788394b9ac9322d2aa971e7237794ab588255d84607194bcd3e10afb03d4a15
+machine_hash: e10fb0b69e40e342762eced18f7936d7a6bb7ae7296c30eecb0cd5dd50e89d31
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.19
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-22-2-apps-and-integrations-changes-in-v0-0-392|2
-  Apps and Integrations changes in v0.0.392]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-22-custom-agents-with-mcp-servers-avoid-unnecessary-restarts|Custom
-  agents with MCP servers avoid unnecessary restarts]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-22-2-apps-and-integrations-changes-in-v0-0-389|2
   Apps and Integrations changes in v0.0.389]]'
+- '[[Changes/OpenCode/2026-01-22-core-add-chat-headers-hook-and-update-codex-and-copilot-plugins-to-use-it-thanks|Core
+  Add chat.headers hook and update codex and copilot plugins to use…]]'
+- '[[Changes/OpenCode/2026-01-22-core-print-mcp-stderr-to-opencode-log-file|Core Print
+  MCP stderr to OpenCode log file]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,7 +84,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-2-apps-and-integrations-changes-in-v0-0-389|2 Apps and Integrations changes in v0.0.389]]
+- Earlier: 2026-01-22 · OpenCode · [[Changes/OpenCode/2026-01-22-core-print-mcp-stderr-to-opencode-log-file|Core Print MCP stderr to OpenCode log file]]
 - Later: 2026-01-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-23-2-apps-and-integrations-changes-in-v0-0-393|2 Apps and Integrations changes in v0.0.393]]
 <!-- chronolog:end -->
 

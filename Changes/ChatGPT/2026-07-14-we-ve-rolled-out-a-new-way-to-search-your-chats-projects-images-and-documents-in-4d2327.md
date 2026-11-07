@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9b40217291e0e7d77be9b558e66f4d2f8f3ec892f975a2afb9dd781c77a376bb
+machine_hash: 7085b6998ca660d6a86bf9571623a16a465dc6f2e38650fceac287bfa2d64fc2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,12 +67,12 @@ record:
   title: Search across chats, projects, and files is now supercharged
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-beginning-july-9-users-on-web-ios-and-android-will-no-longer-be-able-to-create-n|Beginning
-  July 9, users on web, iOS, and Android will no longer be able to create…]]'
-- '[[Changes/Codex CLI/2026-07-09-31356-ci-run-v8-source-builds-on-windows-2025-anp-oai|♯31356
-  ci: run V8 source builds on Windows 2025 @anp-oai]]'
-- '[[Changes/Codex CLI/2026-07-09-ensured-macos-package-installs-expose-the-code-mode-host-alongside-the-codex-exe|Ensured
-  macOS package installs expose the code-mode host alongside the codex executable]]'
+- '[[Changes/OpenClaw/2026-07-13-whatsapp-and-telegram-default-account-routing-warnings-are-now-available-through|WhatsApp
+  and Telegram default-account routing warnings are now available through…]]'
+- '[[Changes/OpenClaw/2026-07-13-224-mobile-and-desktop-changes-in-v2026-7-1|224 Mobile
+  and Desktop changes in v2026.7.1]]'
+- '[[Changes/OpenCode/2026-07-13-9-mobile-and-desktop-changes-in-v1-17-20-1|9 Mobile
+  and Desktop changes in v1.17.20 + 1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571|chatgpt-2026-07-14-search-across-chats-projects-and-files-is-now-supercharged-90a28571]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-ensured-macos-package-installs-expose-the-code-mode-host-alongside-the-codex-exe|Ensured macOS package installs expose the code-mode host alongside the codex executable]]
-- Later: 2026-07-16 · ChatGPT · [[Changes/ChatGPT/2026-07-16-a-clearer-desktop-layout-a-global-switcher-lets-you-choose-between-chatgpt-and-c|A clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex]]
+- Earlier: 2026-07-13 · OpenCode · [[Changes/OpenCode/2026-07-13-9-mobile-and-desktop-changes-in-v1-17-20-1|9 Mobile and Desktop changes in v1.17.20 + 1]]
+- Later: 2026-07-14 · OpenCode · [[Changes/OpenCode/2026-07-14-completed-the-desktop-v2-migration|Completed the Desktop v2 migration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

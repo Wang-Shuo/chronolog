@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fe4e7140599f0c33628a2321d73659742da47456e5158bdd774bde6ddb7024c1
+machine_hash: caad9b90cd5622cbf936b00ba95c2ba75b9884648f9fdd85a79c5d95de90cd3a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
     hook…
   type: change
 related_changes:
-- '[[Changes/Open WebUI/2026-02-14-2-developer-workflow-changes-in-v0-8-1|2 Developer
-  Workflow changes in v0.8.1]]'
 - '[[Changes/Open WebUI/2026-02-16-4-developer-workflow-changes-in-v0-8-2|4 Developer
   Workflow changes in v0.8.2]]'
+- '[[Changes/OpenCode/2026-02-16-4-developer-workflow-changes-in-v1-2-6|4 Developer
+  Workflow changes in v1.2.6]]'
 - '[[Changes/Codex CLI/2026-02-17-3-developer-workflow-changes-in-rust-v0-102-0|3
   Developer Workflow changes in rust-v0.102.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-103-0-github-287457049-69ff7e22|codex-cli-2026-02-17-rust-v0-103-0-github-287457049-69ff7e22]]'

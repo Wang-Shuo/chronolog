@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: aedc0fe7571d299416282cd06952dcecd7347f7f66ce783fcb41b2ad37008823
+machine_hash: 02c005c434f24537ab14b6eade7414660e6255d2e5b8de85b730a9619638aa86
 product: cursor
 product_name: Cursor
 record:
@@ -53,12 +53,12 @@ record:
   title: Faster starts
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-03-resuming-a-long-session-is-dramatically-faster-and-far-lighter-on-memory-because|Resuming
-  a long session is dramatically faster and far lighter on memory, because…]]'
-- '[[Changes/Ollama/2026-08-04-qwen3-5-is-faster-on-apple-gpus-the-mlx-engine-now-uses-the-model-s-mtp-head-for|Qwen3.5
-  is faster on Apple GPUs]]'
-- '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
-  performance: fewer event-loop stalls on file-not-found suggestions…]]'
+- '[[Changes/Google Antigravity/2026-08-11-reliability-performance-gains-and-user-experience-polish|Reliability,
+  Performance Gains, and User Experience Polish]]'
+- '[[Changes/Google Antigravity/2026-08-12-queued-messages-file-attachments-and-performance-improvements|Queued
+  Messages, File Attachments, and Performance Improvements]]'
+- '[[Changes/Google Antigravity/2026-08-12-opening-long-conversations-is-now-dramatically-faster|Opening
+  long conversations is now dramatically faster]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-10 · Claude Code · [[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved performance: fewer event-loop stalls on file-not-found suggestions…]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added opt-in memory cgroup support for Bash tool commands on Linux…]]
+- Earlier: 2026-08-12 · Google Antigravity · [[Changes/Google Antigravity/2026-08-12-opening-long-conversations-is-now-dramatically-faster|Opening long conversations is now dramatically faster]]
+- Later: 2026-08-13 · Google Antigravity · [[Changes/Google Antigravity/2026-08-13-chat-responsiveness-improvements|Chat Responsiveness Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

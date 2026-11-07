@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d66a1c5be2f5352e07a66fe6579027b4ad9f9f33e6e947de1b698bc0f933a173
+machine_hash: 147fa028dc898c79eabb6536e7d0be00e13ce5ec87d9a113cd07bfb98df4f306
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,10 +63,11 @@ record:
   title: 10 Agent Mode changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/ElevenLabs/2026-02-09-agents-platform|Agents Platform]]'
 - '[[Changes/ElevenLabs/2026-02-09-agents-platform-7f0c0d|Agents Platform]]'
 - '[[Changes/Gemini CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0|4 Agent Mode changes
   in v0.28.0]]'
+- '[[Changes/OpenCode/2026-02-10-4-agent-mode-changes-in-v1-1-54|4 Agent Mode changes
+  in v1.1.54]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
 source_type: github_releases
 theme: agent-mode
@@ -129,7 +130,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0|4 Agent Mode changes in v0.28.0]]
+- Earlier: 2026-02-10 · OpenCode · [[Changes/OpenCode/2026-02-10-4-agent-mode-changes-in-v1-1-54|4 Agent Mode changes in v1.1.54]]
 - Later: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-flexible-delivery-methods-human-input-forms-can-be-delivered-via-webapp-or-email|Flexible Delivery Methods: Human input forms can be delivered…]]
 <!-- chronolog:end -->
 

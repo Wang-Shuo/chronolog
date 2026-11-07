@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 250cb7bd6d276692c7dae9cfebd3a8b35e7d7a04732d90c81af7e7b7b7e524df
+machine_hash: 5e6e171c47d94636f5dd641e110ecca8b0ee0f126879b3898f8c6d42fac31cbc
 product: dify
 product_name: Dify
 record:
@@ -89,8 +89,8 @@ record:
   title: 17 Model Support changes in 1.15.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-2-model-support-changes-in-v1-0-65|2 Model
-  Support changes in v1.0.65]]'
+- '[[Changes/OpenCode/2026-06-24-core-hid-gpt-5-5-pro-when-using-codex-oauth|Core
+  Hid gpt-5.5-pro when using Codex OAuth]]'
 - '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added
   claude_code.assistant_response OpenTelemetry log event containing…]]'
 - '[[Changes/Codex CLI/2026-06-25-4-model-support-changes-in-rust-v0-142-2|4 Model
@@ -174,7 +174,7 @@ Source: https://github.com/langgenius/dify/releases/tag/1.15.0
 ## Nearby in Model Support
 
 - Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-4-model-support-changes-in-rust-v0-142-2|4 Model Support changes in rust-v0.142.2]]
-- Later: 2026-06-25 · Ollama · [[Changes/Ollama/2026-06-25-3-model-support-changes-in-v0-30-11|3 Model Support changes in v0.30.11]]
+- Later: 2026-06-25 · Google Antigravity · [[Changes/Google Antigravity/2026-06-25-improved-the-model-selector-dropdown-to-dynamically-resize-and-prevent-truncatio|Improved the model selector dropdown to dynamically resize and prevent truncation…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

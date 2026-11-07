@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 853f532fc15b0af45ef59519a3c1671b828bdb29692bf3b898e7a1a52e1dbfc1
+machine_hash: 0b24b701e8c342d6cadc6e0f7946423e5c8420fd4e7f566cc47af2da44478150
 product: lovable
 product_name: Lovable
 record:
@@ -84,11 +84,12 @@ record:
   title: Improvements and bug fixes
   type: change
 related_changes:
-- '[[Changes/Lovable/2026-05-18-lovable-mobile-app|Lovable mobile app]]'
 - '[[Changes/Gemini/2026-05-19-the-next-chapter-of-gemini-live|The next chapter of
   Gemini Live]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-2-mobile-and-desktop-changes-in-v1-0-49|2
   Mobile and Desktop changes in v1.0.49]]'
+- '[[Changes/OpenCode/2026-05-20-3-mobile-and-desktop-changes-in-v1-15-6|3 Mobile
+  and Desktop changes in v1.15.6]]'
 source_release: '[[Releases/Lovable/lovable-2026-05-21-2026-05-21-42edfd96|lovable-2026-05-21-2026-05-21-42edfd96]]'
 source_type: lovable_changelog
 theme: mobile-desktop
@@ -133,8 +134,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-2-mobile-and-desktop-changes-in-v1-0-49|2 Mobile and Desktop changes in v1.0.49]]
-- Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-ci-release-build-and-attach-unsigned-macos-binaries-to-releases-by-ruomengz-in-h|ci(release): build and attach unsigned macOS binaries to releases]]
+- Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-3-mobile-and-desktop-changes-in-v1-15-6|3 Mobile and Desktop changes in v1.15.6]]
+- Later: 2026-05-21 · OpenCode · [[Changes/OpenCode/2026-05-21-4-mobile-and-desktop-changes-in-v1-15-7|4 Mobile and Desktop changes in v1.15.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

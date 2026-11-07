@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62a565c1795c2a5a72fe7a52d0306e39d91e39173e68a9da0cbc36f1396005a9
+machine_hash: 2130713e7d3c9ee98bebc5c2d49b9fb21c562ed03fe7ca82dda0b468b0c7bc65
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,8 +57,8 @@ record:
   title: 5 Model Support changes in v2.1.251
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model
-  Support changes in v1.0.81]]'
+- '[[Changes/Midjourney/2026-08-27-today-we-re-gonna-start-letting-everyone-test-our-first-v8-2-image-edit-model|Today
+  we’re gonna start letting everyone test our first V8.2 image edit model!]]'
 - '[[Changes/Ollama/2026-08-27-the-claude-desktop-proxy-no-longer-interrupts-in-flight-requests-when-the-model|The
   Claude Desktop proxy no longer interrupts in-flight requests when the model…]]'
 - '[[Changes/OpenHands/2026-08-27-2-model-support-changes-in-v1-16-0|2 Model Support
@@ -110,7 +110,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 ## Nearby in Model Support
 
 - Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-2-model-support-changes-in-v1-16-0|2 Model Support changes in v1.16.0]]
-- Later: 2026-08-28 · Replit · [[Changes/Replit/2026-08-28-intelligent-model-routing|Intelligent model routing]]
+- Later: 2026-08-28 · OpenCode · [[Changes/OpenCode/2026-08-28-core-bedrock-reasoning-responses-no-longer-get-cached-into-unreplayable-empty-me|Core Bedrock reasoning responses no longer get cached into unreplayable empty messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39bf4f2da63786f6bf1e2b284a55b9ec6ed63a6b9e43c67cb6210c44c7bc6517
+machine_hash: efd0721eb5897aab543e71b2ad81a5c36b0966b625f4dddf8d1e188cb5d8fd38
 product: open-webui
 product_name: Open WebUI
 record:
@@ -115,12 +115,11 @@ record:
   title: 12 Voice and Audio changes in v0.12.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-feat-chat-add-optional-voice-dictation-to-the-chat-input-by-vascosch92-in-https|feat(chat):
-  add optional voice dictation to the chat input]]'
-- '[[Changes/Codex CLI/2026-10-07-4-voice-and-audio-changes-in-rust-v0-161-0|4 Voice
-  and Audio changes in rust-v0.161.0]]'
 - '[[Changes/Codex CLI/2026-10-08-2-voice-and-audio-changes-in-rust-v0-162-0|2 Voice
   and Audio changes in rust-v0.162.0]]'
+- '[[Changes/OpenClaw/2026-10-08-2-voice-and-audio-changes-in-v2026-9-9|2 Voice and
+  Audio changes in v2026.9.9]]'
+- '[[Changes/Suno/2026-10-08-clip-fade-curves|Clip fade curves]]'
 source_release: '[[Releases/Open WebUI/open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b|open-webui-2026-10-10-v0-12-0-github-409209575-f076e92b]]'
 source_type: github_releases
 theme: voice
@@ -191,8 +190,8 @@ Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-2-voice-and-audio-changes-in-rust-v0-162-0|2 Voice and Audio changes in rust-v0.162.0]]
-- Later: 2026-10-12 · ElevenLabs · [[Changes/ElevenLabs/2026-10-12-javascript-sdk|JavaScript SDK]]
+- Earlier: 2026-10-08 · Suno · [[Changes/Suno/2026-10-08-clip-fade-curves|Clip fade curves]]
+- Later: 2026-10-10 · OpenClaw · [[Changes/OpenClaw/2026-10-10-8-voice-and-audio-changes-in-v2026-10-1|8 Voice and Audio changes in v2026.10.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

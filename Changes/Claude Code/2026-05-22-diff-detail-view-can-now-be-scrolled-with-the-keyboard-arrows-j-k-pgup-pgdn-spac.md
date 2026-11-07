@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4da781bd072d2f42f83d4903281aa2f54330d4cdbad7bb958ba13a44115d571d
+machine_hash: 58890a01f7b351c95bf8fe119e7430359b7a16b400646a54c9e17c5641f1f392
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: '`/diff` detail view can now be scrolled with the keyboard…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-file-diffs-are-correctly-reported-to-acp-clients-for-all-edit-tool-types|File
-  diffs are correctly reported to ACP clients for all edit tool types]]'
-- '[[Changes/Codex CLI/2026-05-20-3-editor-experience-changes-in-rust-v0-132-0|3 Editor
-  Experience changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-2-editor-experience-changes-in-v1-0-51|2
   Editor Experience changes in v1.0.51]]'
+- '[[Changes/OpenCode/2026-05-20-core-collapsed-single-child-directories-in-the-diff-viewer-file-tree|Core
+  Collapsed single-child directories in the diff viewer file tree]]'
+- '[[Changes/OpenCode/2026-05-20-added-a-diff-viewer-in-the-tui-for-reviewing-changes|Added
+  a diff viewer in the TUI for reviewing changes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-2-editor-experience-changes-in-v1-0-51|2 Editor Experience changes in v1.0.51]]
+- Earlier: 2026-05-20 · OpenCode · [[Changes/OpenCode/2026-05-20-added-a-diff-viewer-in-the-tui-for-reviewing-changes|Added a diff viewer in the TUI for reviewing changes]]
 - Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci: implement codebase-aware effort level triage]]
 <!-- chronolog:end -->
 

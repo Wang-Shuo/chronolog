@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d80d97806d786fc10ee37f96163ead28e2744b5408a1591fc98645bcc2791708
+machine_hash: f8d5e727ee5bdad091cb73ebdd49437cdd4470f978b27223ce06319d10ab17f8
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Improved "always allow" prefix suggestions for compound bash commands…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-25-15-developer-workflow-changes-in-rust-v0-105-0|15
-  Developer Workflow changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-3-developer-workflow-changes-in-v0-30-0|3 Developer
   Workflow changes in v0.30.0]]'
+- '[[Changes/OpenCode/2026-02-25-3-developer-workflow-changes-in-v1-2-14-1|3 Developer
+  Workflow changes in v1.2.14 + 1]]'
 - '[[Changes/v0/2026-02-25-added-repository-information-to-first-message-in-git-connected-chats|Added
   repository information to first message in git-connected chats]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217]]'

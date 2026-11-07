@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7d87b5a6abe4af2f0c1498bae51a21a54aa43470b342c5faa53dde9892b2f0dc
+machine_hash: b58210686fc69e1e60dcd23bec4d820622a4139c572dd9b45bf8a9b34f94d2f8
 product: elevenlabs
 product_name: ElevenLabs
 record:
@@ -49,12 +49,12 @@ record:
   title: Speech to Text
   type: change
 related_changes:
-- '[[Changes/Dify/2026-07-28-returned-400-instead-of-500-when-file-field-is-missing-from-audio-to-text-endpoi|Returned
-  400 instead of 500 when file field is missing from audio-to-text…]]'
-- '[[Changes/Gemini/2026-07-29-create-and-edit-with-your-voice-anywhere-on-your-desktop-with-gemini-on-macos|Create
-  and edit with your voice, anywhere on your desktop with Gemini on macOS]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice
   mode pauses playing media before recording and resumes it afterward, where…]]'
+- '[[Changes/Runway/2026-07-30-elevenlabs-v3-is-now-available-on-runway-dev-generate-expressive-text-to-speech|Eleven
+  v3]]'
+- '[[Changes/Google Antigravity/2026-07-31-increased-voice-recording-limits|Increased
+  voice recording limits]]'
 source_release: '[[Releases/ElevenLabs/elevenlabs-2026-08-03-2026-08-03-8b25a66a|elevenlabs-2026-08-03-2026-08-03-8b25a66a]]'
 source_type: elevenlabs_changelog
 theme: voice
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-voice-mode-pauses-playing-media-before-recording-and-resumes-it-afterward-where|Voice mode pauses playing media before recording and resumes it afterward, where…]]
+- Earlier: 2026-07-31 · Google Antigravity · [[Changes/Google Antigravity/2026-07-31-increased-voice-recording-limits|Increased voice recording limits]]
 - Later: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-start-voice-conversations-faster-improved-connection-times-make-it-quicker-to-be|Start Voice conversations faster]]
 <!-- chronolog:end -->
 

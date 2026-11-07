@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b912de5a6e4d5d7cdd1feb8c93840fbbbfce38a57a221a574473152ca4dbaaa6
+machine_hash: 71a45aae4ab50e61e9ec8ed0bdd7da2765db4041e1c3c1edacf2c97c86b70492
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
     config…
   type: change
 related_changes:
-- '[[Changes/Dify/2026-01-15-please-use-the-following-command-instead-for-details-please-read-this-https-gith|
-  Please use the following command instead]]'
+- '[[Changes/OpenCode/2026-01-15-4-developer-workflow-changes-in-v1-1-23|4 Developer
+  Workflow changes in v1.1.23]]'
 - '[[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added
   session URL attribution to commits and PRs created from web sessions]]'
 - '[[Changes/Codex CLI/2026-01-16-input-prompt-placeholder-styling-is-back-to-non-italic-to-avoid-terminal-renderi|Input

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d81ece2717d1cc8c4a23a1e2ab91d10a90e6bcb775c8bc1ee34339341e1d9c7
+machine_hash: 0247d5b2319fbd1b320e19b28ca49f1e4afdbd532a250f2d0b28091e321b9c7e
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(canvas): per-conversation Docker runtime and Settings → Runtime page'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-feat-canvas-quiet-backend-logs-by-default-by-neubig-in-https-github-com-openhand|feat(canvas):
-  quiet backend logs by default]]'
-- '[[Changes/Open WebUI/2026-10-25-3-files-and-data-changes-in-v0-12-4|3 Files and
-  Data changes in v0.12.4]]'
-- '[[Changes/Claude Code/2026-10-26-improved-the-artifact-tool-s-choice-between-a-page-and-a-document-explainers-and|Improved
-  the Artifact tool''s choice between a page and a document]]'
+- '[[Changes/Gamma/2026-10-26-previews-that-match-your-format|Previews that match
+  your format]]'
+- '[[Changes/Google Antigravity/2026-10-27-built-in-browser-and-attachments-of-any-file-type|Built-in
+  browser and attachments of any file type]]'
+- '[[Changes/Google Antigravity/2026-10-27-pdf-files-now-open-in-a-built-in-pdf-viewer-both-in-the-file-viewer-and-when-an|PDF
+  files now open in a built-in PDF viewer, both in the file viewer and…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892|openhands-2026-10-27-v1-34-0-github-425575573-3f638892]]'
 source_type: github_releases
 theme: file-data
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-improved-the-artifact-tool-s-choice-between-a-page-and-a-document-explainers-and|Improved the Artifact tool's choice between a page and a document]]
+- Earlier: 2026-10-27 · Google Antigravity · [[Changes/Google Antigravity/2026-10-27-pdf-files-now-open-in-a-built-in-pdf-viewer-both-in-the-file-viewer-and-when-an|PDF files now open in a built-in PDF viewer, both in the file viewer and…]]
 - Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-files-and-data-changes-in-v0-12-5|2 Files and Data changes in v0.12.5]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cbcb39e451d5cd439d0c087efd8730a85d7a200663e6289db4654291ed38b87c
+machine_hash: ef7a3dbec1eb183a85c06f01ab793ab2c578b8154f36e65df79246c91ac3e009
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     calls/hour
   type: change
 related_changes:
-- '[[Changes/Ollama/2026-09-29-models-using-web-search-can-now-perform-up-to-ten-searches-per-response-up-from|Models
-  using web search can now perform up to ten searches per response, up from three]]'
+- '[[Changes/OpenClaw/2026-09-30-4-search-and-browsing-changes-in-v2026-9-7|4 Search
+  and Browsing changes in v2026.9.7]]'
 - '[[Changes/Claude Code/2026-10-01-improved-sdk-sessions-so-a-message-sent-with-priority-now-no-longer-cancels-a-ru|Improved
   SDK sessions so a message sent with priority "now" no longer cancels…]]'
 - '[[Changes/Codex CLI/2026-10-01-browse-older-tasks-in-the-agent-command-center-with-a-keyboard-accessible-show-m|Browse

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 240175735ffb77aa2efdb5dc8a6ac236a57962f3bc1c31c5cfa7785b92a9cec9
+machine_hash: 16cf329360402fc50e95cb346a51232cdd2ba10acb1c432129bcc2e33925b51a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     connect…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-2-editor-experience-changes-in-v2-1-285|2 Editor
-  Experience changes in v2.1.285]]'
 - '[[Changes/Codex CLI/2026-09-29-3-editor-experience-changes-in-rust-v0-159-0|3 Editor
   Experience changes in rust-v0.159.0]]'
 - '[[Changes/Claude Code/2026-09-30-improved-the-external-editor-ctrl-g-editors-that-take-a-line-number-now-open-on|Improved
   the external editor (Ctrl+G)]]'
+- '[[Changes/OpenClaw/2026-09-30-9-editor-experience-changes-in-v2026-9-7|9 Editor
+  Experience changes in v2026.9.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-improved-the-external-editor-ctrl-g-editors-that-take-a-line-number-now-open-on|Improved the external editor (Ctrl+G)]]
+- Earlier: 2026-09-30 · OpenClaw · [[Changes/OpenClaw/2026-09-30-9-editor-experience-changes-in-v2026-9-7|9 Editor Experience changes in v2026.9.7]]
 - Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49082-skip-remote-git-discovery-for-guardian-diff-paths-jif-oai|♯49082 Skip remote Git discovery for Guardian diff paths @jif-oai]]
 <!-- chronolog:end -->
 

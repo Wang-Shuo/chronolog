@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a456a5c2c3226133c245ae0c163be2fa41d38b6501135401a38567024218546e
+machine_hash: 609337c4d3cfec4f8ca69c8a7d3b9f9e838d2e3ad11cc2b2557fb311d0c54b99
 product: cline
 product_name: Cline
 record:
@@ -40,12 +40,12 @@ record:
   title: log discovered heap snapshots on abnormal exits for easier OOM debugging
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-23-11-developer-workflow-changes-in-rust-v0-123-0|11
-  Developer Workflow changes in rust-v0.123.0]]'
-- '[[Changes/Gemini CLI/2026-04-23-3-developer-workflow-changes-in-v0-39-0|3 Developer
-  Workflow changes in v0.39.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-4-developer-workflow-changes-in-v1-0-35|4
   Developer Workflow changes in v1.0.35]]'
+- '[[Changes/OpenCode/2026-04-23-support-pull-diagnostics-from-lsp-servers-that-use-them|Support
+  pull diagnostics from LSP servers that use them]]'
+- '[[Changes/OpenCode/2026-04-23-4-developer-workflow-changes-in-v1-14-22-1|4 Developer
+  Workflow changes in v1.14.22 + 1]]'
 source_release: '[[Releases/Cline/cline-2026-04-24-v3-81-0-github-313292081-20889ce3|cline-2026-04-24-v3-81-0-github-313292081-20889ce3]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-4-developer-workflow-changes-in-v1-0-35|4 Developer Workflow changes in v1.0.35]]
+- Earlier: 2026-04-23 · OpenCode · [[Changes/OpenCode/2026-04-23-4-developer-workflow-changes-in-v1-14-22-1|4 Developer Workflow changes in v1.14.22 + 1]]
 - Later: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-2-developer-workflow-changes-in-rust-v0-125-0|2 Developer Workflow changes in rust-v0.125.0]]
 <!-- chronolog:end -->
 

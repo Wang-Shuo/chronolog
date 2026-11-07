@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 20
+  tracked_products_count: 29
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07961c83474642040b7be2b496bc58f74380f4a926af394035f9e604fbaed4ce
+machine_hash: f8566d1d2a5b0ca737a79cbecbf14596ce30ab98a59d0cd5904aa45b9a5f3d2f
 product: open-webui
 product_name: Open WebUI
 record:
@@ -43,12 +43,11 @@ record:
   title: "**\U0001F4F8 Quick Screen Capture Button**"
   type: change
 related_changes:
-- '[[Changes/Lovable/2024-12-03-2-interface-experience-changes-in-lovable-updates-2024-12-03|2
-  Interface Experience changes in Lovable updates — 2024-12-03]]'
 - '[[Changes/Aider/2024-12-06-2-interface-experience-changes-in-v0-67-0|2 Interface
   Experience changes in v0.67.0]]'
 - '[[Changes/Dify/2024-12-09-4-interface-experience-changes-in-0-13-2|4 Interface
   Experience changes in 0.13.2]]'
+- '[[Changes/Midjourney/2024-12-11-action-bar|Action Bar]]'
 source_release: '[[Releases/Open WebUI/open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c|open-webui-2024-12-25-v0-5-0-github-192314599-7712f16c]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-12-09 · Dify · [[Changes/Dify/2024-12-09-4-interface-experience-changes-in-0-13-2|4 Interface Experience changes in 0.13.2]]
+- Earlier: 2024-12-11 · Midjourney · [[Changes/Midjourney/2024-12-11-action-bar|Action Bar]]
 - Later: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-https-aider-chat-history-html|(source link)]]
 <!-- chronolog:end -->
 

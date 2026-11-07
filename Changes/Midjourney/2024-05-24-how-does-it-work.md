@@ -1,0 +1,93 @@
+---
+card_id: midjourney-2024-05-24-30dc85
+date: '2024-05-24'
+description: 'Midjourney · 2024-05-24 · Editor Experience: From the rooms tab, click
+  "Create room" and give your room a name, description, and password.'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 437
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: editor-experience
+  tracked_products_count: 29
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: fdc4d02e341e69015d47d9ded084712b613e9014a8c0cba0a3e8fc710b0a3b1a
+product: midjourney
+product_name: Midjourney
+record:
+  card_id: midjourney-2024-05-24-30dc85
+  comparison: ''
+  date: '2024-05-24'
+  description: 'Midjourney — Create Rooms to Use Midjourney with Friends: From the
+    rooms tab, click "Create room" and give your room a name, description, and password.'
+  evidence:
+  - quote: From the rooms tab, click "Create room" and give your room a name, description,
+      and password.
+    source_release: https://updates.midjourney.com/create-with-friends-in-private-rooms/
+  - quote: Share the room link and password with friends so they can create with you.
+    source_release: https://updates.midjourney.com/create-with-friends-in-private-rooms/
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: midjourney
+  product_name: Midjourney
+  slug: how-does-it-work
+  source_release: midjourney-2024-05-24-https-updates-midjourney-com-create-with-friends-in-private-room-70831dda
+  source_type: midjourney_changelog
+  theme: editor-experience
+  title: How does it work?
+  type: change
+related_changes:
+- '[[Changes/Aider/2024-05-07-support-for-deepseek-v2-via-more-a-flexible-config-of-system-messages-in-the-dif|Support
+  for Deepseek-V2, via more a flexible config of system messages in the diff…]]'
+- '[[Changes/Aider/2024-05-10-refactored-prompting-to-unify-some-phrasing-across-edit-formats|Refactored
+  prompting to unify some phrasing across edit formats]]'
+- '[[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved
+  reflection feedback to LLMs using the diff edit format]]'
+source_release: '[[Releases/Midjourney/midjourney-2024-05-24-https-updates-midjourney-com-create-with-friends-in-private-room-70831dda|midjourney-2024-05-24-https-updates-midjourney-com-create-with-friends-in-private-room-70831dda]]'
+source_type: midjourney_changelog
+theme: editor-experience
+title: How does it work?
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# How does it work?
+
+**Midjourney** · 2024-05-24 · [[Themes/editor-experience|Editor Experience]] · Launch · [Official source](https://updates.midjourney.com/create-with-friends-in-private-rooms/) · from [[Releases/Midjourney/midjourney-2024-05-24-https-updates-midjourney-com-create-with-friends-in-private-room-70831dda|Create Rooms to Use Midjourney with Friends]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> From the rooms tab, click "Create room" and give your room a name, description, and password.
+>
+> Share the room link and password with friends so they can create with you.
+>
+> Source: https://updates.midjourney.com/create-with-friends-in-private-rooms/
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2024-05-13 · Aider · [[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved reflection feedback to LLMs using the diff edit format]]
+- Later: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code 1.89 into Cursor]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20midjourney-2024-05-24-30dc85&body=Card%3A%20Changes%2FMidjourney%2F2024-05-24-how-does-it-work.md%0ACard%20ID%3A%20midjourney-2024-05-24-30dc85%0ASource%3A%20https%3A%2F%2Fupdates.midjourney.com%2Fcreate-with-friends-in-private-rooms%2F%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->
